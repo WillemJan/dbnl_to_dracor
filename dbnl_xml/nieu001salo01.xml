@@ -1,0 +1,3298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Salomon</title>
+               <author>Guilliam van Nieuwelandt</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Salomon</hi> van Guilliam van Nieuwelandt uit 1628.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>fol. *1r: In het origineel komen verschillende drukletters voor die in deze digitale editie niet kunnen worden weergegeven. Om dit onderscheid niet verloren te laten gaan, is de tekst in de gotische drukletter op deze pagina vet weergegeven.</corr>
+                       <corr>fol. **4r: vlncht → vlucht: ‘vlucht in den Tabernackel’.</corr>
+                       <corr>fol. **4r: derde → eerste: ‘eerste Boeck der Koninghen) Deze aanpassing is in de marge met de hand geschreven</corr>
+                       <corr>p. 1: vvraecke, oproer, tvvist en ghevveldt. → VVraecke, Oproer, Tvvist en Ghevveldt.: ‘Geest van Absalon. VVraecke, Oproer, Tvvist en Ghevveldt.’.</corr>
+                       <corr>p. 2: tvvist. → Tvvist.: ‘Tvvist.’.</corr>
+                       <corr>p. 3: jmant → imant: ‘Wint imant eer door kracht’.</corr>
+                       <corr>p. 3: Twist Oproer → Twist, Oproer: ‘Twist, Oproer, en Gheweldt’.</corr>
+                       <corr>p. 4: tvvist. → Tvvist.: ‘Tvvist.’.</corr>
+                       <corr>p. 11: Abjsag. → Abisag.: ‘Benaja. Abisag.’.</corr>
+                       <corr>p. 52: Pedania → Pedania,: ‘Pedania, Tersira.’.</corr>
+                       <corr>p. 61: in het origineel is de tekst moeilijk leesbaar. De tekst is hier aangevuld tussen vierkante haken.</corr>
+                       <corr>p. 68: vvraecke → VVraecke : ‘Gheest van Absalon, Ioab, Benaia, VVraecke.’.</corr>
+                       <corr>p. 69: Gheast → Gheest: ‘Gheest van Absalon’.</corr>
+                       <corr>p. 70: Nn → Nu: ‘Nu triumpheert de vvraeck’.</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <publicationStmt>
+               <idno type="titelcode">nieu001salo01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2021 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note></note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Universiteitsbibliotheek Leiden, signatuur: 1089 B 35: 5, scans van Google Books</idno>
+               </bibl>
+               <p>Guilliam van Nieuwelandt, <hi rend="i">Salomon</hi>. Hendrick Aertssens, Antwerpen 1628</p>
+               <p>&#160;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Salomon</title>
+               <author>Guilliam van Nieuwelandt</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <idno type="nur"></idno>
+           <availability>
+               <p></p>
+           </availability>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Salomon</title>
+               <author>Guilliam van Nieuwelandt</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <idno type="nur"></idno>
+           <availability>
+               <p></p>
+           </availability>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2021-05-12</date>
+               <respStmt>
+                   <name type="person">RK</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+<text>
+    <interpGrp><interp type="primair" value="antwe001viol01"/></interpGrp>
+<body>
+<cf><div type="chapter">
+
+<pb ed="fol." n="*1r"/>
+<p>SALOMON</p>
+<p>TRAGOEDIE.</p>
+<p>Op den Reghel,</p>
+<lg type="poem">
+<l><hi rend="i">Godt smijt den hooghmoet neer, en cort den dvvaes sijn leven,</hi></l>
+<l><hi rend="i">Den mensch die ned'rich is, vvordt door den Heer verheven.</hi></l>
+</lg>
+<p>Door gVILIaM Van nIeVWeLanDt</p>
+<p><hi rend="i">Verthoont op de Redenrijcke Camer</hi></p>
+<p>van de</p>
+<p>VIOLIERE.</p>
+<p>AN. M. DCXXVIII.</p>
+<figure>
+<p><xptr to="nieu001salo01ill0001.gif"/></p>
+</figure>
+<p>T'HANTWERPEN,</p>
+<p><hi rend="b">By Hendrick Aertssens, inde Cammerstraet, inde witte Lelie</hi>. 1628.</p>
+<pb rend="blank" ed="fol." n="*1v"/>
+</div></cf>
+<div type="chapter">
+<interpGrp><interp type="primair" value="16280908"/></interpGrp>
+<pb ed="fol." n="*2r"/>
+<head rend="h3">Den wiisen voorsinnighen ende seer achtbaeren heer Gillis Fabri Griffier der vermaerde Coopstadt Antwerpen, ende prince Van de Constrijcke Gulde van S. Lvcas die men noemt de <hi rend="i">Violiere.</hi> Wenscht Gvuil. van Nievwe-landt Salicheydt.</head>
+<p>MIIN HEER</p>
+<p><hi rend="i">Cicero</hi> in fijne officies schrijvende van den loff van de Philosophie seydt, vvat mach-men doch vvenschelijcker, ende vermaeckelijcker vinde<hi rend="i">n</hi> als de wijsheyt? vvat isser edelder? vvat isser beter voor den mensche? wat betaemt den mensch <pb ed="fol." n="*2v"/>meer? men noemtse Philosophen die de vvijsheyt begeere<hi rend="i">n</hi>, vvat Philosophie en is anders niet als liefde tot vvijsheyt, sy is de ke<hi rend="i">n</hi>nisse van Goddelijcke ende menschelijcke dinghen, als mede van d'oorsaecke daer de dinghen in bestaen, ende en siet niet vvat sulck een met recht soude moghen prijsen, die de liefde van dese wijsheyt lastert: want soecktmen vermaeckelijckheyt van sinnen, ofte rust van sorghvuldicheyt, vvat isser op aerden dat-men soude moghen ghelijcken by dese liefde? die altijdt vvat vindt dat bequaem is om vvel ende salichlijck te leven.</p>
+<p>Dit lesende docht my dat desen Heydenschen Orateur eenich ghevoelen hadde, van de Goddelijcke drijvinghe, vvaer door den Konincklijcke Prophete <hi rend="i">David</hi>, sijn hooghe sangen heeft ghesongen ende <hi rend="i">Salomon</hi>, sijn Hemelsche Philosophie, ofte Goddelijcke vvijsheydt van Godt heeft ghebeden.</p>
+<p>Der-halven gheneghen zijnde om iet stichtelijckx te verthoonen soo heb ick mijn penne, die te vooren eenighe Heydensche Tragoedie hadde gheschreven vvillen veranderen, om Salomon den eersten van alle de Philosophen, die sijn vvijsheyt, van de vvijsheyt selver hadde ontfanghen, naer mijn cleyn vermoghen, op het vermaert Toneel van de <hi rend="i">Violiere</hi> te doen her-leven. Maer vreesende dat ick van eenighe nij-<pb ed="fol." n="*3r"/>dighe, oft quaedt-aertdighe menschen mochte begrepen vvorden dat ick desen voortreffelijcken man, met der handt hadde ghenomen, om hem door mijne ongheleerde veersen te doen spreken, soo hebbe ick in tvvijfel ghestaen om hem in het licht te laten comen, dan het versoeck van eenige treffelijcke persoonen crachtigher zijnde, als de vreese van de nijdighe, heeft my verstout dat ick hem aen den dach hebbe ghegheven.</p>
+<p>Dan ghelijck het cleyn Konincxken altijdt lust heeft, om hoogher als sijn macht is te vlieghen, om hem in de straelen van de Sonne te vermaecken, ende hem niet en derff betrouvven, op de svvackheydt van sijne vlucht, vvaer door hy hem stelt op de vleughelen van den Arent die hem sijn vvensingh doet ghenieten. Alsoo verhoop ick van ghelijck dat mijne schrijften, door de gulde vviecken van uvve gheleertheydt ghedraghen sullen vvorden, daer sy door haeren svvacken, ende ongheleerden stiel niet en souden connen toe gheraecken.</p>
+<p>Ick en tvvijfel niet off daer sullen eenighe zijn die mijnen arbeydt niet vvel en sullen bevallen, doch vvetende dat d'onvvetentheyt lasteringhe naer hem treckt, ofte soo d'oude segghen op den rugh is draghende, soo sal my lief vvesen dat sy met my in het<pb ed="fol." n="*3v"/> veldt van den arbeydt comen, van de vvelcke ick voor-namentlijck loff vervvachte, door dat ick my vvillich d'ooghen van den tijdt heb' ontrocken, om my tot de moeyte te begheven, alsoo dan comende dit vverck in 't openbaer gheen ander ghetuyghenis van V.E. en ben vvenschende, dan dat ick schrijvende mijnen tijdt niet en hebbe verloren: maer dat de vruchte<hi rend="i">n</hi> van mijne<hi rend="i">n </hi>arbeyt vveerdich zijn, om aen den autaer van uvve beleeftheydt op-geoffert te moghen worden. Den Ghever  van den Al, gheve V.E. ende alle Regeerders van de <hi rend="i">Violiere</hi> een lanck, salich ende gheluckich leven, Amen.</p>
+<p>&#160;</p>
+<p><hi rend="i">In Antvverpen desen 8. September.</hi></p>
+<p><hi rend="i">Anno 1628.</hi></p>
+</div>
+<div type="chapter">
+<interpGrp><interp type="primair" value="fabr052"/></interpGrp>
+<pb ed="fol." n="*4r"/>
+<head rend="h3">Ad virvm clariss. Gvilielm. de Nievwe-landt poetam Belgicvm Michaelis Fabri votvm et plavsvs.</head>
+<lg type="poem">
+<l>O<hi rend="i">lim</hi> <hi rend="i">vetustas dum studiosius</hi></l>
+<l><hi rend="i">Parrhasianae facta stupet manus,</hi></l>
+<l><hi rend="i">Leui solennes penicillo</hi></l>
+<l><hi rend="i">Attribuit cupiens honores. </hi></l>
+<l rend="; 1tab"><hi rend="i">Sic tu dilecte Attalico Duci</hi></l>
+<l><hi rend="i">Thebane pictor, dignaque praemia</hi></l>
+<l><hi rend="i">Centumque largè Euboicorum</hi></l>
+<l><hi rend="i">Pro tabulà recipis talenta.</hi></l>
+<l rend="; 1tab"><hi rend="i">Non hic supinus in tenui labor</hi></l>
+<l><hi rend="i">Facet, Bularchi gratia non leuis,</hi></l>
+<l><hi rend="i">Cimonque tantae cedet arti,</hi></l>
+<l><hi rend="i">Nicomacho procul exulante.</hi></l>
+<l rend="; 1tab"><hi rend="i">Maiora restant, nempe scientia</hi></l>
+<l><hi rend="i">Candens pijropis nobilioribus,</hi></l>
+<l><hi rend="i">Summisque florentem cothurnis</hi></l>
+<l rend="; 1tab"><hi rend="i">Palladium ducit ecce partum.</hi></l>
+<l><hi rend="i">Cernis Patronum Mercurialium</hi></l>
+<l><hi rend="i">Anuersa? Cerius grande decus tuum?</hi></l>
+<l><hi rend="i">Cui suada submittens habenas</hi></l>
+<l><hi rend="i">Cecropiam reserat palaestram.</hi></l>
+<l rend="; 1tab"><hi rend="i">En albicanti condita calculo</hi></l>
+<l><hi rend="i">Intaminate praemia dexterae</hi></l>
+<pb ed="fol." n="*4v"/>
+<l><hi rend="i">Et inuidendas vel Camillis</hi></l>
+<l><hi rend="i">Diuitias animi potentis.</hi></l>
+<l rend="; 1tab"><hi rend="i">Huc huc relicto non properat iugo</hi></l>
+<l><hi rend="i">Non indecoro syrmante nobilis</hi></l>
+<l><hi rend="i">Et ipse tibiam obligatam</hi></l>
+<l><hi rend="i">Delius ex humeris resoluit.</hi></l>
+<l rend="; 1tab"><hi rend="i">Terentianus cedat, &amp; Accius</hi></l>
+<l><hi rend="i">Nec non PacuI Musa facundior.</hi></l>
+<l><hi rend="i">Andaeus ipse, furiusque,</hi></l>
+<l><hi rend="i">Euripides, Sophoclesque cedant.</hi></l>
+<l rend="; 1tab"><hi rend="i">Praeclara Regis munera pensiles</hi></l>
+<l><hi rend="i">Testantur aures, ordine quam bono</hi></l>
+<l><hi rend="i">Certoque non certas procellas</hi></l>
+<l><hi rend="i">Musa tuo redhibere in actu.</hi></l>
+<l rend="; 1tab"><hi rend="i">Te dirigente nouerit: O decus!</hi></l>
+<l><hi rend="i">O ingenI spectatat potentia!</hi></l>
+<l><hi rend="i">Superque Romanas superque</hi></l>
+<l><hi rend="i">Argolicas volitans Camaenas.</hi></l>
+<l rend="; 1tab"><hi rend="i">Quid Fama pennas sumere pristinas</hi></l>
+<l><hi rend="i">Cessas? Licebit nubibus obsitas</hi></l>
+<l><hi rend="i">Nunc ire in oras iam licebit</hi></l>
+<l><hi rend="i">Mente nouâ per mane ferri.</hi></l>
+<l rend="; 1tab"><hi rend="i">O quam fugaci remigio nitet,</hi></l>
+<l><hi rend="i">Cum fonte rursus proluitur suo,</hi></l>
+<l><hi rend="i">Tantamque gloriam retractans</hi></l>
+<l><hi rend="i">Corda nouo mouet icta sensu.</hi></l>
+<l rend="; 1tab"><hi rend="i">Vt findit altum plumiger aethera</hi></l>
+<l><hi rend="i">Delator! Euge dum tibi suppetat</hi></l>
+<l><hi rend="i">Haec aura, contemnes Gelonos,</hi></l>
+<l><hi rend="i">Et Schyticas animosa niues</hi></l>
+<pb ed="fol." n="**1r"/>
+<l><hi rend="i">Transcende: votis candidioribus</hi></l>
+<l><hi rend="i">Famam vocaui; non capitolia,</hi></l>
+<l><hi rend="i">Non Andouerpâ te recludet</hi></l>
+<l><hi rend="i">Non Pharium Latiumque solum.</hi></l>
+<l rend="; 1tab"><hi rend="i">Te Dacus, &amp; qui sanguine concauus</hi></l>
+<l><hi rend="i">Gaudens equino, qui ferus hospiti,</hi></l>
+<l><hi rend="i">Noscet Britannus, te peritus</hi></l>
+<l><hi rend="i">Belga canet Rhodanique potor.</hi></l>
+<l rend="; 1tab"><hi rend="i">Nec his recludi gloria terminis</hi></l>
+<l>Nieulande<hi rend="i"> gestit: terra tuo Noua</hi></l>
+<l><hi rend="i">Erit decori, nomen ipsum</hi></l>
+<l><hi rend="i">Terra ah! Ades noua terra clamat.</hi></l>
+<l rend="; 1tab"><hi rend="i">Sic cresce virtute, ô decus artium!</hi></l>
+<l><hi rend="i">Virtute cresce! Sauromatas super</hi></l>
+<l><hi rend="i">Indosque fulgens; quaere, numquam</hi></l>
+<l><hi rend="i">Quae refluo patuere fluxu.</hi></l>
+<l rend="; 1tab"><hi rend="i">Verua renatis semper honoribus</hi></l>
+<l><hi rend="i">Linquens perennis nomina gloriae,</hi></l>
+<l><hi rend="i">Quae nec vetustas, nec furenti</hi></l>
+<l><hi rend="i">Dissipet Hyppotades procellâ. </hi></l>
+</lg>
+
+</div>
+<div type="chapter">
+    <interpGrp><interp type="primair" value="meul022"/></interpGrp>
+<pb ed="fol." n="**1v"/>
+<head rend="h3">Gvil. Nieuvwelandt poetae Belgico et filiae eivs constantiae poesis studiosae gratulatur.</head>
+
+<lg type="poem">
+<l>D<hi rend="i">Iuersis, diuers asuis tribuere Poëtae</hi></l>
+<l rend="; 1tab"><hi rend="i">Sacra dijs, volucrum, quadrupedumq</hi>ue, <hi rend="i">genus:</hi></l>
+<l><hi rend="i">Sic corui Phoebo, veneri placuere columbae,</hi></l>
+<l rend="; 1tab"><hi rend="i">Mars colliturq</hi>ue<hi rend="i"> Lupis, aquila sacra Ioui est;</hi></l>
+<l><hi rend="i">Nos tibi Phoenicis merito sacramus honorem,</hi></l>
+<l rend="; 1tab"><hi rend="i">Phoenicem cum te filia vestra probet,</hi></l>
+<l><hi rend="i">Diuino Phoebi nam dum consumeris igne,</hi></l>
+<l rend="; 1tab"><hi rend="i">Hanc non degenerem, carmina facta docent.</hi></l>
+</lg>
+    <p>P. Meulevvels &#160;&#160;&#160;&#160;&#160;&#160;&#160;<hi rend="i">Spes quoque calcar habet.</hi></p>
+
+<lg type="poem">
+<l>COmpt <hi rend="i">Dryaden</hi> groen belommert,</l>
+<l>V met dansen nu becommert,</l>
+<l>Gheeft de <hi rend="i">Saters</hi> vry de handt:</l>
+<l>Verft door schaemte nu gheen blooskens,</l>
+<l>Ciert u schenen vvit met brooskens,</l>
+<l> Comt en vvoont in't <hi rend="i">Nieuvve landt.</hi></l>
+<l rend="; 1tab">Vraeght ghy vvaer het is gheleghen?</l>
+<l>Niet in Arctos coude vveghen</l>
+<l>Oft by't heet <hi rend="i">Arabisch</hi> sandt,</l>
+<l>Maer by <hi rend="i">Schaldis</hi> seylbaer plassen</l>
+<l>Nut om u somvvijl te vvassen</l>
+<l>Vertoont hem het <hi rend="i">Nieuvve landt.</hi></l>
+<l rend="; 1tab">Vreest gheen onghesonde loechten,</l>
+<l>Vreest gheen coude vande voechten</l>
+<l><hi rend="i">Aquari, </hi>oft <hi rend="i">Siri</hi> brandt.</l>
+<l>'T is hier vol bequamicheden</l>
+<l>Want die langh zijn over-leden</l>
+<l>Her-leven in't <hi rend="i">Nieuvve landt.</hi></l>
+<l>De ghesusters alle neghen</l>
+<l>Laeten den <hi rend="i">Pernaes' </hi>verleghen</l>
+<l>Reden, deught, hier vvooningh plant</l>
+<l><hi rend="i">Amor</hi> svvert hier met verblijden,</l>
+<l><hi rend="i">Pictur</hi> en <hi rend="i">Poesie</hi> strijden</l>
+<l>Om 't Heerschap van't <hi rend="i">Nieuvve Lant.</hi></l>
+<l rend="; 1tab"><hi rend="i">Iacchus</hi> prijst het sapbaer druyfken</l>
+<l>Rooskens decken <hi rend="i">Venus</hi> huyfken</l>
+<l>D'eul schijnt <hi rend="i">Cereri </hi>playsant,</l>
+<l>Hyacinthen <hi rend="i">Phoebum</hi> cieren</l>
+<l>De drijvoude <hi rend="i">Violieren</hi></l>
+<l>Prijstmen door 't heel <hi rend="i">Nieuvve lant.</hi></l>
+<l rend="; 1tab"><hi rend="i">Cipros Venus</hi> heylich noemde,</l>
+<l><hi rend="i">Argos</hi> haer van <hi rend="i">Iuno</hi> roemde,</l>
+<l><hi rend="i">Crela Ioui </hi>offer sandt,</l>
+<l><hi rend="i">Delphos Priester Phoebi dinder</hi></l>
+<l>En al d'ander acht ick minder,</l>
+<l><hi rend="i">Vvven al diens Nieuvve lant.</hi></l>
+<l rend="; 1tab">Compt Const-minnaers met vermaecken</l>
+<l>Wilt de cracht der vruchten smaecken</l>
+<l>'T beste voetsel voor 't verstant,</l>
+<l>Want de <hi rend="i">Hesperische</hi> hoven</l>
+<l>Gaen de dese veer te boven</l>
+<l>Die men pluckt in't <hi rend="i">Nieuvve lant.</hi></l>
+</lg>
+<p>P. Meulewels</p>
+<p><hi rend="i">Hoop voedt den arbeydt.</hi></p>
+<p>VIOLIER</p>
+
+</div>
+<div type="chapter">
+<pb ed="fol." n="**2r"/>
+<head rend="h3">Ter eeren vanden Autheur.</head>
+
+<lg type="poem">
+<l><hi rend="i">COnst-beminders laet nu blijcken</hi></l>
+<l><hi rend="i">Dat gheen moeyt u can besvvijcken</hi></l>
+<l><hi rend="i">Gaet in't groen gheclavert velt</hi></l>
+<l><hi rend="i">V daer tot lof-sanghen stelt.</hi></l>
+<l rend="; 1tab"><hi rend="i">Tracht hem eere te bevvijsen</hi></l>
+<l rend="; 1tab"><hi rend="i">Die m'om sijn verstant moet prijsen,</hi></l>
+<l rend="; 1tab"><hi rend="i">Croont sijn dicht thoont dat ghy't mint:</hi></l>
+<l rend="; 1tab"><hi rend="i">VVant het vvel een croon verdient.</hi></l>
+<l><hi rend="i">Croont dan </hi>Nieu-landt<hi rend="i"> en sijn vvercken,</hi></l>
+<l><hi rend="i">VVaer in hy u doet bemercken,</hi></l>
+<l><hi rend="i">Dat voor Godt 't nedrich ghemoet</hi></l>
+<l><hi rend="i">Meer als't dvvaes vermeten doet.</hi></l>
+<l rend="; 1tab"><hi rend="i">Dat een op-gheblasen herte</hi></l>
+<l rend="; 1tab"><hi rend="i">Selff is oorsaeck van sijn smerte</hi></l>
+<l rend="; 1tab"><hi rend="i">Om dat op sijn schickinghe bout</hi></l>
+<l rend="; 1tab"><hi rend="i">En van Godts ghenad' mistrout.</hi></l>
+<l><hi rend="i">Gaet en pluckt van </hi>Nieulandts<hi rend="i"> dichten</hi></l>
+<l><hi rend="i">Om daer van een croon te vlichten,</hi></l>
+<l><hi rend="i">Die ghy dan sult setten gaen</hi></l>
+<l><hi rend="i">Daer die helder Sterren staen.</hi></l>
+<l rend="; 1tab"><hi rend="i">Om dat niet en sou versterven</hi></l>
+<l rend="; 1tab"><hi rend="i">'T gheen dit spel hem de be-erven:</hi></l>
+<l rend="; 1tab"><hi rend="i">Maer om naer sijn doodt door faem</hi></l>
+<l rend="; 1tab"><hi rend="i">Te doen leven sijnen naem.</hi></l>
+<l><hi rend="i">Maer oft ghy dan helder Sterren</hi></l>
+<l><hi rend="i">In jalousheydt ghinckt vervverren</hi></l>
+<l><hi rend="i">Om dat ghy ons diet voor licht</hi></l>
+<l><hi rend="i">Denckt daer voor sijn rijm ons sticht.</hi></l>
+</lg>
+<p>Zijt recht uyt.</p>
+
+</div>
+<div type="chapter">
+<interpGrp><interp type="primair" value="bruy147"/></interpGrp>
+<pb ed="fol." n="**2v"/>
+<head rend="h3">Sonnet ter eeren vanden Konstrijcken poeet Gvilliam van Nieuvwelandt.</head>
+
+<lg type="poem">
+<l><hi rend="i">KOnst-lievende geslacht, die redenrijck beminnen,</hi></l>
+<l><hi rend="i">Verlusticht uvve</hi>n<hi rend="i"> geest, vermaect u kloek versta</hi>n<hi rend="i">t,</hi></l>
+<l><hi rend="i">Gheniet de vruchten van het vruchtbaer </hi>Nieuvvelant<hi rend="i">,</hi></l>
+<l><hi rend="i">Sijn smaekelijck ghedicht, leest dat met rype sinnen.</hi></l>
+<l><hi rend="i">Sijn stichtbaer vvercke</hi>n<hi rend="i"> zijn om sielen te gevvinnen,</hi></l>
+<l><hi rend="i">Ghy leert hoe dat den me</hi>n<hi rend="i">sch door hoochmoet co</hi>m<hi rend="i">t tot scha</hi>n<hi rend="i">t,</hi></l>
+<l><hi rend="i">En die, die nedrich is gheseghent door Godts handt</hi></l>
+<l><hi rend="i">Mits dat hy al sijn doen met Godt eerst gaet beghinnen.</hi></l>
+<l rend="; 1tab"><hi rend="i">Poesis roem vermeert door dees sijn konst vermaert</hi></l>
+<l><hi rend="i">'T schijnt dat hy uyt het breyn van </hi>Iupijn<hi rend="i"> is ghebaert</hi></l>
+<l><hi rend="i">En </hi>Pallas<hi rend="i"> broeder vvijs den naem men hem mach geven.</hi></l>
+<l><hi rend="i">Singh susters dry-mal dry, singhst sijnen hooghen loff</hi></l>
+<l><hi rend="i">Singht al eenstemmich uyt ghy hebt tot singhen stoff</hi></l>
+<l><hi rend="i">VVa</hi>n<hi rend="i">t fama doet de</hi>n<hi rend="i"> naem van </hi>Nieula<hi rend="i">n</hi>t<hi rend="i"> eevvich leven.</hi></l>
+</lg>
+<p>Ick kan noch leeren.</p>
+<p><hi rend="i">F. Bruynincx.</hi></p>
+
+</div>
+<div type="chapter">
+<interpGrp><interp type="primair" value="neef005"/></interpGrp>
+<pb ed="fol." n="**3r"/>
+<head rend="h3">Ter eeren Van den Wijt-beroemden, en Const-rijcken S<hi rend="sup">r.</hi> Gvilliam van Nievwelandt prince van S. Lvcas Gulde ghenoemt de <hi rend="i">Violiere</hi>.</head>
+
+<lg type="poem">
+<l>AL is het Paradijs met 't gloyent svveert ghesloeten,</l>
+<l>En de loof-rijcken boom, in't midden daer gheplant</l>
+<l>Die 't eeuvvich leven geeft van niemandt vvordt ghenooten</l>
+<l>Daer aen leyt kleyn verlanck: vvant in u siel Nieulant</l>
+<l>Sien ick tvvee boomen staen! en even schuetich groyen</l>
+<l>Poësis schilderij pinceel, Neerlantsen dicht,</l>
+<l>Die beyde sullen u van onderganck behoyen;</l>
+<l>om datg hun soo bevverckt, iae heerelijck verlicht.</l>
+<l>Laet Atropos dan vry u grijse drayen snijden,</l>
+<l>Al kan u lichaem broos haer snipscheer niet voorby,</l>
+<l>V dicht en schilderkonst sal uvven gheest beurijden</l>
+<l>Doodt en tijdt slijtent al; nochtans u naem sal vrij</l>
+<l>Al vvaert ghy schoon in' d'aerd ghedolft, verrot, gegheten</l>
+<l>Soo lanck als Phoebus sal sijn ronden wech omgaen</l>
+<l>Vernaempt vermaert gheacht door u konst onvergeten</l>
+<l>Nijt, tijdt, en doodt ten trots-vvijtroemich blijven staen.</l>
+</lg>
+<div type="section">
+<head rend="h4">Epigrame</head>
+
+<lg type="poem">
+<l><hi rend="i">Die Salomon lanck doodt, door dicht doet heel herleven</hi></l>
+<l><hi rend="i">Godt heeft hemdaer toe selfs van sijn konst veel ghegheven.</hi></l>
+</lg>
+<p>Mont en gront eendrachtich.</p>
+<p><hi rend="i">H.N. Presbyt. Antwerp.</hi></p>
+
+</div>
+</div>
+<div type="chapter">
+<pb ed="fol." n="**3v"/>
+<head rend="h3">Inhovt der tragoedie.</head>
+<p>DEn Konincklijcken Prophete <hi rend="i">David</hi> out gevvorden zijnde, bevelt sijnen soone Salomon den Tempel te bouvven: maer hem selven door hooghen ouderdom niet meer konnende vervvermen, vvort geraden een Maget te laeten soecken, om by hem te slaepen, dat hy doet, ende vonden <hi rend="i">Abisagh </hi>van <hi rend="i">Sunen</hi> die sy den Koninck brochten.</p>
+<p><hi rend="i">Adonias </hi>den sone <hi rend="i">Hagith</hi> door eergiercheydt aenghedreven sijnde, doet hem selven (door hulp van <hi rend="i">Ioab</hi>, ende <hi rend="i">Abiathar</hi>) sonder vvete sijns Vaders Koninck verklaeren.</p>
+<p><hi rend="i">Nathan</hi> verstaen hebben van het voornemen van <hi rend="i">Adonias</hi>, gaet tot <hi rend="i">Bersabeé</hi> de moeder van <hi rend="i">Salomon,</hi> raedt haer tot den Koninck te gaen, om hem den ganschen handel t' openbaeren, dat sy doet. <hi rend="i">Nathan </hi>daer over inkomende bevesticht haere vvoorden, dies den Konink <hi rend="i">Zadoch</hi> den Priester, <hi rend="i">Nathan</hi> den Propheet, ende <hi rend="i">Benaja</hi> den soone <hi rend="i">Iojada</hi> beveelt, sijnen soone <hi rend="i">Salomon</hi> op den Konincklijcken muyl te setten, naer <hi rend="i">Gibon</hi> te voeren, ende hem aldaer Coninck te salven, d'vvelck sy met groote Triumphe ende geluckvvensinghe volbrenghen.</p>
+<p><hi rend="i">Adonias</hi> met alle sijn ghenoode dit hoorende, vluchten elck haers vveghs: maer <hi rend="i">Adonias </hi>in den Tempel vliedende vat de hoornen des Altaers, van vvaer hy niet en vvilt gaen, voor dat hem den Koninck <hi rend="i">Salomon</hi> svvoer, dat hy hem niet en soude laeten dooden, dat hem, indien hy hem voortaen redelijck bethoonde toegheseyt vvort.</p>
+<p><hi rend="i">David </hi>voleyndende den loop sijns levens, beveelt aen <hi rend="i">Salomon</hi>, de vvraeck over <hi rend="i">Ioab</hi> te volbrenghen, die <hi rend="i">Abner</hi> den soone <hi rend="i">Ner</hi>, ende <hi rend="i">Amasa </hi>den soone <hi rend="i">Iether</hi> verradich hadde vermoort. Behalven dat hy sijnen soone <hi rend="i">Absalon</hi> sonder sijn bevel, aen den boom hadde doorstecken. Oock mede de vvraeck over <hi rend="i">Semei</hi> te brenghen, die hem hadde ghevloeckt, als hy voor sijnen soone <hi rend="i">Absalon</hi> moest vlieden.</p>
+<p><hi rend="i">Adonias</hi> verstaen hebbende de doodt sijns Vaders, komt<pb ed="fol." n="**4r"/> tot <hi rend="i">Bersabeé </hi>de moeder <hi rend="i">Salomonis</hi>, bidt haer dat sy van sijnen t'vveghen den Koninck vvilt bidden, dat hy <hi rend="i">Abisagh</hi> van <hi rend="i">Sunen</hi> voor sijn huysvrou mach trouvven, dat zy doet: maer <hi rend="i">Salomon</hi> veerder insiende als zijn moeder, vvat <hi rend="i">Adonias</hi> daer mede voor hadde gebiet hem vergramt zijnde te dooden. Set <hi rend="i">Abiathar</hi> van het hooghe Pristerdom, beveelt hem naer <hi rend="i">Anatoth </hi>in ballinghschap op sijnen Acker te gaen vvoonen. <hi rend="i">Ioab</hi> vreesende sijn aenstaende doodt vlucht in den Tabernackel: maer <hi rend="i">Salomon</hi> het zy door 't bevel sijns vaders, ofte dat hy hem selven niet versekert en hiel in het rijck, soo langh <hi rend="i">Ioab</hi> leefde, ghebidt hem te dooden.</p>
+<p>Den Heere openbaert <hi rend="i">Salomon</hi> inden slaep, belooft hem te geven dat hy van hem sal bidden. <hi rend="i">Salomon</hi> door den Goddelijcken gheest ghedreven zijnde bidt om vvijsheyt, en verstant. dat hem den Heere belooft. ende om dat sijn gebedt den Heere vvel bevalt, soo gheeft hy hem dat hy niet en heeft ghebeden, te vveten eere, rijckdom, ende lanck leven.</p>
+<p>Ter selver tijdt quaemen tvvee vrouvven voor den Koninck, d'een d'ander beklaghende over het ombrenghen haers kindts, vvaer over het soo vvijt vermaerde vonnis geschiede. <hi rend="i">Semei</hi> vvort mede belast niet over de becke kidron te gaen.</p>
+<p><hi rend="i">Benaja</hi> komende in den Tempel, beveelt <hi rend="i">Ioab</hi> uyt te gaen: maer niet vvillende vvort aldaer ghedoodt. dese <hi rend="i">Tragoedie</hi> is ghenomen uyt het eerste, tvveede ende derde Capittel, van het eerste Boeck der Koninghen ende uyt het eerste, ende tvveede Capittel van het achtste Boeck <hi rend="i">Flaui-Iosephi</hi>.</p>
+
+</div>
+<div type="chapter">
+<pb ed="fol." n="**4v"/>
+<head rend="h3">Namen vande Personagien.</head>
+
+<table>
+<row><cell>Godt den Heere.</cell><cell>Oft stem van Godt.</cell></row>
+<row><cell>David.</cell><cell>Koninck van Israel.</cell></row>
+<row><cell>Salomon.</cell><cell>Soone van David.</cell></row>
+<row><cell>Adonias.</cell><cell>Soone van David.</cell></row>
+<row><cell>Ioab.</cell><cell>Velt-oversten</cell></row>
+<row><cell>Bersabeé.</cell><cell>moeder van Salomon.</cell></row>
+<row><cell>Gheest van Absalon,</cell><cell>soone van David.</cell></row>
+<row><cell>Benaja.</cell><cell>Velt oversten</cell></row>
+<row><cell>Abiathar.</cell><cell>hooghe Prister.</cell></row>
+<row><cell>Abisagh van Sunen,</cell><cell>Maghet.</cell></row>
+<row><cell>Nathan</cell><cell>Propheet.</cell></row>
+<row><cell>Zadoch.</cell><cell>hooghe Priester</cell></row>
+<row><cell>Eleasar.</cell><cell>Dienaer</cell></row>
+<row><cell>Ionathan.</cell><cell>Soone van Abjathar.</cell></row>
+<row><cell>Pedania.</cell><cell>een hoere</cell></row>
+<row><cell>Tersira.</cell><cell>een hoere</cell></row>
+<row><cell>Semai.</cell><cell>die David vloeckte.</cell></row>
+<row><cell>VVraecke,</cell><cell/></row>
+    <row><cell>Oproer,</cell><cell/></row>
+    <row><cell>Twist.</cell><cell/></row>
+    <row><cell>Gevveldt.</cell><cell/></row>
+</table>
+
+</div>
+<div type="chapter">
+<pb n="1"/>
+    <head rend="h2">Tragedie <lb/>Eerste deel. </head>
+<head rend="h3">Eerste uytkomen.</head>
+<stage><hi rend="i">Geest van Absalon. vvraecke, oproer, tvvist en ghevveldt</hi>.</stage>
+
+<lg type="poem">
+<l>D'Onrustelijcke wraeck, doet mijnen geest hier dwaelen.</l>
+<l>Die om zijn rust, de wraeck, wraeck-girich noch moet haelen,</l>
+<l>Ick koom uyt't doncker velt, vvaer dat noyt son en scheen;</l>
+<l>Maer vvaer door duystereniss' al 'svverels licht verdween</l>
+<l>Waer dat de grouwsaem vrees', in eensaemheydt gheseten,</l>
+<l>Knaeght aen haer vreesich hert, en geeft haer zielen t' eten.</l>
+<l>Waer dat door stanck, en roock, de locht soo gansch verderft,</l>
+<l>Dat 't schijnt dat jider ziel, daer dusent dooden sterft.</l>
+<l>Wee roep ick, <hi rend="i">Ioab</hi> wee! de wraeck die doet my komen</l>
+<l>Tot u, door wien mijn ziel het lichaem vvert ghenomen,</l>
+<l>Niet om dat mijnen geest, sou keeren in 't lichaem:</l>
+<l>Maer om mijn vvraeck te doen, die my schijnt aenghenaem.</l>
+<l>Den hemel hem verschrickt van dat ick heb gheleden</l>
+<l>Waer toeft ghy wreede wraeck? komt op, komt van beneden,</l>
+<l>Doet <hi rend="i">Ioab</hi>, en sijn saet, ghevoelen het verdriet,</l>
+<l>Dat my door sijn verraedt, ontrouwich is gheschiet.</l>
+<l>Doet sijn hooghmoedich hert, ghevoelen uvve plaeghen,</l>
+<l>Doet hem mijn droeve doodt, door sijne doodt beklaghen,</l>
+</lg>
+
+<pb n="2"/>
+
+<lg type="poem">
+<l>Drijft door sijn moordich hert, door kracht van dijne vlam,</l>
+<l>Soo veel verdriet en leedt, als oyt op aerdt-rijck quam.</l>
+<l>Met grouwel voedt mijn ziel, doet hem mijn droefheydt lijden</l>
+<l>Geeft dat hy noyt en mach, in mijne doodt verblijden,</l>
+<l>Versaet my door sijn bloedt, mijn droeve ziel verlust,</l>
+<l>Die wraecke, vvraecke roept om eens te zijn gherust</l>
+<l>Niet als sijn droeve doodt, kan mijnen gheest versaden,</l>
+<l>Straft hem die my wel eer, ten onrecht heeft verraden,</l>
+<l>Doet van het aerdt-rijck wegh, het huys van <hi rend="i">Zeruja</hi>,</l>
+<l>Vermorselt sijn ghevveldt, thoont hem u ongena.</l>
+<l>Waer toeft ghy? voort rijst op, vvreeckt mijn verkorte leven,</l>
+<l>Doet door u grousaem kracht, den gront van 't aerdtrijck beven!</l>
+<l>Laeft mijnen helschen dorst, maeckt hem mijn ziel ghelijck,</l>
+<l>Verruuldt met bloedt, en moort, mijns Vaders Koninckrijck.</l>
+<l rend="speaker"><hi rend="i">VVraecke.</hi></l>
+<l>Wie roept hier om de vvraeck, wie weckt my uyt mijn slaepen,</l>
+<l>Mijn slanghen vol van vier, noch meest van vaeck schier gaepen.</l>
+<l>My dunckt 't is <hi rend="i">Absalon</hi>, 't is sijnen gheest ghewis,</l>
+<l>Die noch onrustich dvvaelt,en niet vernoeght en is.</l>
+<l>Mijn dienaers ras staet op, ghy moet de wereldt plaeghen,</l>
+<l>Den mensch en kan sijn rust met vreught niet langher draeghen,</l>
+<l>Verschijnt hier uyt der aerd', versaedt u van het bloedt,</l>
+<l>Dat my hier uyt mijn rust in 't licht verschijnen doet.</l>
+<l rend="speaker"><hi rend="i">Oproer.</hi></l>
+<l>Wiens schaduw sien ick daer, wie thoont hem daer in't vvesen?</l>
+<l rend="speaker"><hi rend="i">VVraecke.</hi></l>
+<l>'T is Absalonis ziel, door onrust vveer verresen?</l>
+<l rend="speaker"><hi rend="i">Tvvist.</hi></l>
+<l>Wie treckt my uyt der aerd' vvie roept my uyt der hel?</l>
+<l rend="speaker"><hi rend="i">VVraecke.</hi></l>
+<l>'T is <hi rend="i">Absalonis</hi> ziel, doet haestich sijn bevel.</l>
+<l rend="speaker"><hi rend="i">Ghewvveldt.</hi></l>
+<l>Wie vvilt dat ick 't ghevveldt sou in de vvereldt komen?</l>
+<l rend="speaker"><hi rend="i">VVraecke.</hi></l>
+<l>'T is <hi rend="i">Absalonis</hi> ziel, die 't lichaem is ghenomen,</l>
+<l>Hy wilt dat ghy met moort sijns Vaders rijck veruult,</l>
+</lg>
+
+<pb n="3"/>
+
+<lg type="poem">
+<l>Tot vvraecke van sijn doodt, al vvast sijn eyghen schuldt.</l>
+<l rend="speaker"><hi rend="i">Oproer.</hi></l>
+<l>Ghy doet mijn eer te kort soo dvvaselijck spreken,</l>
+<l>Mijn kracht die oproer baert, had sijn ghemoet ontsteken.</l>
+<l rend="speaker"><hi rend="i">Tvvist.</hi></l>
+<l>Wat roemt ghy van u kracht? mijn kracht heeft dat ghedaen,</l>
+<l>Door my nam hy den tvvist met sijnen vader aen.</l>
+<l rend="speaker"><hi rend="i">Ghevveldt.</hi></l>
+<l>Wint imant eer door kracht, soo heb ick d'eer verkreghen,</l>
+<l>Door my die ben 't ghevveldt, trock hy sijn Vader teghen,</l>
+<l>Door my, en mijn ghevveldt, had hy hem 't rijck gherooft.</l>
+<l>Had hy <hi rend="i">Architophel</hi>, oft sijnen raedt ghelooft.</l>
+<l rend="speaker"><hi rend="i">Absalon.</hi></l>
+<l>Den na-raedt komt te laet, den raedt heeft my verdorven,</l>
+<l>Mijn vvraeck soeckt het verderf, door vvien ick ben ghestorven,</l>
+<l>Mijn vvraecke soeckt de doodt van die my 't leven nam,</l>
+<l>Den dagh moet sijn vervloeckt dat ick ter vvereldt quam.</l>
+<l rend="speaker"><hi rend="i">Oproer.</hi></l>
+<l>Den nacht die sweet van anghxt, de daghen haer vervaeren,</l>
+<l>De zee die keert terugh met haer vervvoede baeren,</l>
+<l>Het aerdt-rijck beeft van schrik, 't schijnt dat het open gaet,</l>
+<l>Als ick mijn helsche kracht maer eens den thoom en laet.</l>
+<l>Dees slanghen die ghekrolt, ront om mijn voorhooft krielen,</l>
+<l>Die send ick in de ziel die komen 't hert vernielen,</l>
+<l>Die knaghen om, end'om, des menschen inghevvant,</l>
+<l>Als oft het laegh in 't vier, oft in den helschen brandt,</l>
+<l>Dees vlam die ick vvel eer van <hi rend="i">AEthna</hi> heb ghenomen,</l>
+<l>Dringh ick tot in de ziel, doen ick in't herte komen.</l>
+<l><hi rend="i">Tvvist,</hi> <hi rend="i">Oproer</hi>, en <hi rend="i">Gheweldt</hi>, drijf ick daar door in 't hert,</l>
+<l>En maeck, dat vvie het voeldt my onderdanich wert.</l>
+<l>Eergiericheydt, en haet is in dese vlam verborghen.</l>
+<l>Haer kracht baert vrees', en schrick, benautheydt leedt en sorghen</l>
+<l>Het hert al vvaer het maer als van een vreedich dier,</l>
+<l>Maeck ick als Tijghers vvreet door dit verslindich vier.</l>
+<l>Ick keer de landen om, Ick vel de stercke mueren,</l>
+<l>Niet kan voor mijn ghevveldt in eenen standt ghedueren,</l>
+</lg>
+
+<pb n="4"/>
+
+<lg type="poem">
+<l>In 't midden van het volck dat vredich vvoont met lust,</l>
+<l>Daer vvorp ick dese vlam en maeck het ongherust.</l>
+<l>Den dullen oorloghs Godt om gord'ick selfde vvapen,</l>
+<l>Niet is daer, oft 't is al tot mijnen dienst gheschapen.</l>
+<l>Ick heb d'eergiericheydt ghegheven mijne trouvv,</l>
+<l>Ick dien haer dwaes opset, en ken haer voor mijn vrouvv,</l>
+<l>Wilt iemant dat sijn hert met oproer is beseten.</l>
+<l>Ick drijf daer eersucht in, en goddeloos vermeten</l>
+<l>Staet iemant naer het rijck van eenich vorst oft heer,</l>
+<l>Ick voed hem in sijn quaet, en gheeff hem schijn van eer.</l>
+<l>In hemel, zee, en aerd, thoon ick mijn groot vermoghen,</l>
+<l>Wie vast op my betrout, en heeft hem noyt bedroghen.</l>
+<l>Is iemand maer soo dvvaes, dat hy my meester maeckt,</l>
+<l>Ick maeck dat hy naer vvensch aen sijnen vvensh gheraeckt.</l>
+<l rend="speaker"><hi rend="i">Tvvist.</hi></l>
+<l>Ben ick scheursiecke tvvist, dan minder in mijn daden?</l>
+<l>Heb ick door mijne kracht, niet menich mensch verraden?</l>
+<l>Bracht <hi rend="i">Cain</hi>, <hi rend="i">Abel</hi> niet, door mijn ghevveldt ter doodt?</l>
+<l>Quam niet den goeden <hi rend="i">Loth</hi>, door my schier in den noodt?</l>
+<l>Heb ik aen <hi rend="i">Hagher</hi> niet bewesen mijnen listen,</l>
+<l>Dien ick met <hi rend="i">Sara</hi> de', tot haer uytleydingh tvvisten?</l>
+<l>Heb ick in <hi rend="i">Esaus</hi> hert, niet kracht ghenoch ghevrocht,</l>
+<l>Naer dat hy sijn gheboort aen <hi rend="i">Iacob</hi> had verkocht?</l>
+<l>Heeft <hi rend="i">Ioseph</hi> niet gheproeft mijn grouvvelijcke krachten?</l>
+<l>Eer dat hy quam tot staet, en Konincklijcke machten?</l>
+<l>Was ick in <hi rend="i">Corach</hi> niet <hi rend="i">Dathan</hi>, en <hi rend="i">Abiram</hi>,</l>
+<l>Tot dat d'aerd verslond', en haer het leven nam?</l>
+<l>Was <hi rend="i">Saul</hi> niet door my, in dullicheydt ontsteken</l>
+<l>Op <hi rend="i">Dauid</hi>, tot dat hy hem selven heeft doorstecken?</l>
+<l>En dusent ander meer, die ick niet eens en noem,</l>
+<l>Ia soo dat ick my self, met recht onvvinbaer roem.</l>
+<l>Den oproer komt uyt my, waer oproer is gheresen,</l>
+<l>Daer voer ick eerst de vlagh, daer moet den tvvist eerst vvesen.</l>
+<l>Wilt iemandt met opset, bedrijven eenich quaedt,</l>
+<l>Ick ben daer vlijtich by, ick gheeft hem hulp en raedt.</l>
+<l>Wat Koninck dat daer is, hy komt my offer branden,</l>
+</lg>
+
+<pb n="5"/>
+
+<lg type="poem">
+<l>Een ieder soeckt door my, het recht van sijne landen.</l>
+<l>Recht als den alsem sterck, verbittert goeden vvijn,</l>
+<l>Verderff ick oock den mensch, als ick mach by hem zijn.</l>
+<l>Mijn boden die ick send, zijn dvvasheydt en vermeten,</l>
+<l>Eergiericheydt, en pracht, zijn aen mijn sy' gheseten,</l>
+<l>Ick baer in s'menschen hert twist en verraderij,</l>
+<l>De sonden zijn als slaeff, gansch onderdanich my.</l>
+<l rend="speaker"><hi rend="i">Ghevveldt.</hi></l>
+<l>Daer tvvist en oproer is, daer koom ick my versellen,</l>
+<l>Mijn grousaem vvreede kracht, brengh ick me' uyt der hellen.</l>
+<l>Mijn vier verslindt het al ick kners in't schijndich stael.</l>
+<l>Al dat ghy roemt, en seght dat doen ick altemael.</l>
+<l>Wat vvaer den oproer doch, vvat vvaer het tvvistich raesen,</l>
+<l>Soo ick mijn krachtich vier, niet eerst in 't hert ginck blaesen.</l>
+<l>'T ghevveldt vernieldt het al, gheen rijck hoe groot van macht,</l>
+<l>Oft het vvort door mijn hulp, in slavernij ghebracht.</l>
+<l>Waer dat mijn kracht ghebiedt, daer moet de reden slaepen,</l>
+<l>De reden vvort verdooft, door 't klincken van mijn vvaepen.</l>
+<l>Gherechticheydt is doodt, verloren is de vvet,</l>
+<l>Waer datmen niet en hoort, als trommel, en trompet.</l>
+<l>Den tooren en de vvraeck, die voeren mijnen vvaghen,</l>
+<l>Den oproer, en den twist, doen ick mijn standaerts draghen,</l>
+<l>Ick vventel in het bloedt, het moorden is mijn vreught,</l>
+<l>Ken acht op Godt, noch mensch gherechticheydt noch deught.</l>
+<l>Al dat Tyran, oyt dé, heeft mijn ghevveldt bedreven,</l>
+<l>Ick keer de rijcken om, en rooff des menschen leven.</l>
+<l>Wilt iemandt met onrecht, eens anders Koninckrijck.</l>
+<l>Ick gheeff hem sijn begheert, en voed' sijn onghelijck.</l>
+<l>Ick maeck den onderdaen, vveerspannich aen sijn Heeren,</l>
+<l>Het goet doen ick in't quaedt, en 't recht in onrecht keeren.</l>
+<l>'Ken acht het bidden niet, ken vrees' noch Godt noch mensch,</l>
+<l>Ick doen al dat ick vvil, en kan al dat ick vvensch.</l>
+<l>Ick lach met het versoeck, siet dan oft mijne krachten.</l>
+<l>En schrickelijck ghevveldt, zijn weerdich te verachten.</l>
+<l>Daer ick den ghenen ben, die triumpher van all,</l>
+<l>Van dat daer vvas, oft is, oft dat daer komen sall.</l>
+</lg>
+
+<pb n="6"/>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">VVraecke</hi>.</l>
+<l>Naer misdaet komt de straf, mijn vvraeck komt naer de sonden,</l>
+<l>Waer dat gheen sond' en is, en vvord' ick niet ghesonden</l>
+<l>Ick ben de gheesel Godts, en gramschap van den heer,</l>
+<l>Den quaden tot een straf, den goeden voor een leer.</l>
+<l>Al zijn vvy sichtbaerlijck, ghekomen van beneden,</l>
+<l>Wy moeten naer het hoft, onsichtbaer henen treden.</l>
+<l>Wy moeten met dese vlam ontsteken <hi rend="i">Davids</hi> hert,</l>
+<l>Dat hy naer all sijn deught in 't left vvraeckgierich wert.</l>
+<l rend="speaker"><hi rend="i">Absalon</hi>.</l>
+<l>Maeckt dat de vvraecke doch, aen Ioab mach gheschieden.</l>
+<l rend="speaker"><hi rend="i">VVraecke</hi>.</l>
+<l>Noch hy, noch <hi rend="i">Semei</hi>, en sal mijn vvraeck ontvlieden,</l>
+<l>Om u en <hi rend="i">Abners</hi> doodt, als oock om <hi rend="i">Amasa</hi>,</l>
+<l>Sal zijn vervloeckte ziel, eer langh u volghen na.</l>
+<l rend="speaker"><hi rend="i">Oproer</hi>.</l>
+<l><hi rend="i">Adonias</hi> den vorst, sal eerst mijn kracht beproeven.</l>
+<l rend="speaker"><hi rend="i">Tvvist.</hi></l>
+<l>Door my, sal hy hem eerst ontsetten, en bedroeven.</l>
+<l rend="speaker"><hi rend="i">Gheweldt</hi>.</l>
+<l>Door my sal <hi rend="i">Salomon</hi>, besitten met ghevvelt,</l>
+<l>Den Konincklijcken stoel, daer hy vvordt op ghesteldt.</l>
+<l rend="speaker"><hi rend="i">VVraecke</hi>.</l>
+<l>Door my die ben de vvraeck, sal Godt sijn straft uyt voeren,</l>
+<l>Mijn kracht gaet over haer die 't Koninckrijck beroeren.</l>
+<l>Komt gaen vvy naer het hof, Godt laet de boosheydt toe,</l>
+<l>Als hy den boosen mensch, vvordt om sijn sonden moe.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Eerste deel. <lb/>Tvveede uytkomen.</head>
+<stage><hi rend="i">David, Salomon, Zadoch.</hi></stage>
+
+<lg type="poem">
+<l>GHy mannen <hi rend="i">Israels</hi>, hoort doch naer mijne reden,</l>
+<l>Wilt niet naer mijne doodt, van uvven Godt af treden:</l>
+</lg>
+
+<pb n="7"/>
+
+<lg type="poem">
+<l>Maer leeft naer sijne vvet, houdt sijn ghebodt, en leer,</l>
+<l>Die <hi rend="i">Moyses</hi> selver heeft, verkreghen van den heer.</l>
+<l>Den heer die door my heeft door sijnen gheest ghesproken,</l>
+<l>Den Godt door vvien mijn tongh noyt vvijsheyt heeft gebrocken,</l>
+<l>Den Heylandt <hi rend="i">Israels</hi>, die door sijn groote macht,</l>
+<l>Ons vaders heeft verlost, en in dit landt ghebracht.</l>
+<l>Den Godt die <hi rend="i">Abraham</hi> belooft heeft door ghenade,</l>
+<l>Dat als het zant der zee, sou vvorden sijnen sade.</l>
+<l>Die <hi rend="i">Isack</hi> zijn verbont in als bevesticht heeft,</l>
+<l>En <hi rend="i">Iacob</hi> heeft bethoont dat hy 't beloofde gheeft.</l>
+<l>Die tot my heeft gheseydt, soo ghy houdt mijn gheboden,</l>
+<l>Oft in mijn vreese leeft, en niet eert ander goden,</l>
+<l>So sult ghy lichten klaer, recht als den dagheraet,</l>
+<l>Die sonder vvolcken schijnt, als 's hemels oogh opgaet:</l>
+<l>Want soo 't groenhaerich loof, dat droogh is en verleghen,</l>
+<l>Hem vreuchdich vver verheft, door dauvv, oft soeten reghen,</l>
+<l>Sal mijn huys sijn by Godt, vvant hy heeft sijn verbondt,</l>
+<l>Met sijnen knecht ghemaeckt, en spreckt door mijnen mondt,</l>
+<l>Hy is mijn salicheydt, door hem vvy seeker leven,</l>
+<l>Heyl' voorspoet, en gheluck, sal ons sijn goetheydt gheven.</l>
+<l>Bemindt daerom voor al, deught, en gherechticheydt,</l>
+<l>Soeckt Godt in uvve ziel, in all' eenvoudicheydt,</l>
+<l>Wilt in het goede maer van uvven Godt ghevoelen.</l>
+<l>Laet uvve liefde noyt, tot hem in u verkoelen.</l>
+<l>Siet niet op <hi rend="i">Astaroth</hi>, zijt niet als <hi rend="i">Belial</hi>,</l>
+<l>Die Godt als distels vvilt, van d'aerd uytroyen sal.</l>
+<l>Doet <hi rend="i">Camos</hi> uyt u hert, doet <hi rend="i">Milcon</hi> gansch verderven:</l>
+<l>Want die haer voor sal staen, sal in sijn sonden sterven.</l>
+<l>Ghy vveet oock altesaem, hoe dat ick vvas bedacht,</l>
+<l>Te bouvven op Godt een huys, die vvonder is van macht.</l>
+<l>Daer d'arcke des verbondts in rusten mocht en vvoonen,</l>
+<l>Om mijn Godt vruchtich hert tot mijnen Godt te thoonen:</l>
+<l>Maer hy heeft dat belet, en liet mij segghen aen,</l>
+<l>Dat dit van <hi rend="i">Salomon</hi>, naer my souvv sijn ghedaen.</l>
+<l>Door dat ick had ghevoert het oorlogh in mijn leven,</l>
+<l>Oock dickvvils bloedt ghestort, en volcken had verdreven.</l>
+</lg>
+
+<pb n="8"/>
+
+<lg type="poem">
+<l>Nu heeft <hi rend="i">Israels</hi> Godt my selff ghesteldt in 't rijck,</l>
+<l>Dat ick sou Koninck sijn van <hi rend="i">Iacob</hi> eeuvvichlijck.</l>
+<l>Die tot het vorstendom heeft <hi rend="i">Iuda</hi> uytverkoren,</l>
+<l>Waer uyt dat <hi rend="i">Isai</hi> mijn vader is gheboren.</l>
+<l>En uyt mijns Vaders huys, vvas sijnen lust tot my.</l>
+<l>Op dat ick, en mijn zaet een eeuvvich Koninck zy.</l>
+<l>Godt siet gheen ouder aen hy kiest naer sijn behaegen,</l>
+<l>Wie sijnen naeme vreest, die maeckt hy oudt van daghen,</l>
+<l>My die de joncksten vvas, riep hy seer jonck van 't veldt,</l>
+<l>En heeft my tot het rijck mijn broeders voor ghesteldt.</l>
+<l>Soo vvilt y van ghelijck dat naer my sal gheschieden,</l>
+<l>En dat u <hi rend="i">Salomon</hi> sal naer mijn doodt ghebieden:</l>
+<l>Want hy heeft door den mondt van <hi rend="i">Nathan</hi> my voorseyt,</l>
+<l>Ick heb u Koninckrijck voor <hi rend="i">Salomon</hi> berydt.</l>
+<l>Ick vvil sijn vader zijn, hy sal mijn soone vvesen,</l>
+<l>Soo langh als hy volhert, in mijnen dienst ghepresen.</l>
+<l>Hy sal naer uvve doodt volbrenghen dit ghebouvv',</l>
+<l>Op dat ick die my bidt daer in verhooren souvv',</l>
+<l>Daerom vermaen ick u o! <hi rend="i">Israel</hi> voor Godts ooren,</l>
+<l>Dat ghy aendachtelijck vvilt naer mijn reden hooren.</l>
+<l>Soeckt, vreest, en onderhout des heeren trouvv ghebodt,</l>
+<l>Dient niemandt als alleen uvvs vaders <hi rend="i">Iacobs</hi> Godt.</l>
+<l>Op dat ghy, en u zaet moeght eeuvvelijck bevvoonen,</l>
+<l>Dit overvloedich landt, belooft om u te loonen:</l>
+<l>Maer ghy mijn liefste kindt, mijn sone <hi rend="i">Salomon</hi>,</l>
+<l>Bekent uvvs vaders Godt, daer <hi rend="i">Iacob</hi> door begon.</l>
+<l>Dient hem goet vvillichlijck, van ganscher hert in zielen:</l>
+<l>Want vie sijn macht veracht, sal hy met macht vernielen.</l>
+<l>Godt is die ondersoeckt, ons hert en ons ghedacht,</l>
+<l>Hy vindt hem, die hem soeckt: maer vvie dat hem veracht.</l>
+<l>Vervvoerpt hy eeuvvelijck, van hem met sijnen saeden,</l>
+<l>En straft sijn misdaet straff, door straff van d'onghenade.</l>
+<l>Zijt daerom vvel ghetroost, en bouvvt voor sijnen naem,</l>
+<l>Den tempel, met het huys tot sijnen dienst bequeam.</l>
+<l>Hy is die tot dit vverck u alleen heeft verkoren,</l>
+<l>Sijn handt sal met u sijn, soo hy my heeft ghesvvoren.</l>
+</lg>
+
+<pb n="9"/>
+
+<lg type="poem">
+<l>Vreest, noch versaecht u niet, al zijt ghy ionck en teer:</l>
+<l>Maer bouvvt, en maeckt dit huys tot heylighdom den Heer,</l>
+<l>Ghy sult naer dit bevvorp den Tempel laeten bouvven,</l>
+<l>Dit is soo 't Godt begheert dat vvy hem maecken souvven.</l>
+<l>Ick heb daer toe versocht, silver, metael, en gout,</l>
+<l>Iser, yvoor, en steen, ceder, en ebben hout.</l>
+<l>Veel goudt in overvloet, tot kandelaers en vaeten,</l>
+<l>Van al dat ick beveel, en sult ghy niet naer laeten.</l>
+<l>Den heer sal met u zijn, tot dat het zy volendt,</l>
+<l>Soo ghy hem maer alleen, voor uvven Godt bekendt.</l>
+<l rend="speaker"><hi rend="i">Salomon.</hi></l>
+<l>Godts kennis maeckt ons vvijs, sijn leven leert ons leven,</l>
+<l>VVie honghert naer de deught, sal hy sijn voedtsel gheven.</l>
+<l>‘Sijn segheningh maeckt rijck, al doet den mensch gheen moyt,</l>
+<l>Uyt sijnen schoot alleen, al' ons vvelvaeren vloyt.</l>
+<l>De vreese van de Heer, die leertmen door het lijden,</l>
+<l>Hy maeckt ons leden sterck, en leert ons vvillich strijden.</l>
+<l>Sijn vvijsheydt maeckt ons rijck, hy is als een fonteyn,</l>
+<l>Die van de berghen vloeyt, en maeckt ons zielen reyn.</l>
+<l>Sijn oogh' aenschouvvt het al, niet is voor hem verborghen,</l>
+<l>VVie op sijn paden gaet, en heeft gans niet te sorghen.</l>
+<l>Sijn vveghen zijn ghebaent, hy leydt ons tot de deught,</l>
+<l>Hy treckt en leydt ons ziel, sijn vvooningh is vol vreught.</l>
+<l>Den goeden heeft alleen, in Godt sijn vvel behaeghen,</l>
+<l>Den quaden, als den dvvaes, verkorten sijne daghen.</l>
+<l>Veel beter als het gout, is vvijsheydt off verstandt:’</l>
+<l>Want sy sit, neffens Godt, en aen Godts rechter-handt,</l>
+<l>Sy vvas eer d'aerde vvas, sy is met Godt ghevaeren,</l>
+<l>Eer dat den hemel vvas, eer dat daer diepten vvaeren.</l>
+<l>Eer dat de berghen hoogh, off schoon fonteynen klaer,</l>
+<l>Beuloyden 't grafich veldt, vvas haer kracht openbaer.</l>
+<l>Eer dat de vvoeste zee, vvas in haer perck ghesloten,</l>
+<l>Eer dat <hi rend="i">Aquari</hi> oyt den reghen had' ghegoten.</l>
+<l>Off eer het fondament van den aerd'bodem lagh,</l>
+<l>Was sy in Godes raedt, langh voor den eersten dagh.</l>
+<l>Door haer vvillick tot Godt, en tot sijn goetheydt vlieghen,</l>
+</lg>
+
+<pb n="10"/>
+
+<lg type="poem">
+<l>Haer vleughels zijn ghewis die niemant kan bedrieghen.</l>
+<l>Door haer wil ick den Heer, ontfanghen in mijn hert,</l>
+<l>Op dat mijn Koninckrijck, door hem gheseghent vvert.</l>
+<l>Door haer vvil ick den heer, volbrenghen u bevelen,</l>
+<l>En voor sijn aenghesicht, al u ghesanghen spelen.</l>
+<l>Door haer, en door den heer, den heer die eeuvvich leeft,</l>
+<l>Leeft <hi rend="i">David</hi>, en sijn saet, dat Godt verkoren heeft.</l>
+<l rend="speaker"><hi rend="i">David</hi>.</l>
+<l>Ghy siet o! <hi rend="i">Israel</hi>, vvat soon my is gheboren,</l>
+<l>Ghy siet vvie Godt in 't rijck, naer my, u heeft verkoren,</l>
+<l>Ghy siet vvie naer mijn doodt, volbrenghen sal 't ghebouvv.</l>
+<l>Sijt hem soo ghy my vvaert ghedienstich, en ghetrouvv.</l>
+<l>Al is hy ionck, en teer, 't is groot dat hy sal maecken,</l>
+<l>Geen vvooningh van den mensch: maer vvaer in Godt sal waecke<hi rend="i">n</hi>.</l>
+<l>Wie nu vrijvvillich is, die geeff hem van sijn goet,</l>
+<l>Naer dat hy 't van den heer besit in overvloedt.</l>
+<l>Ick heb hem in gheschrift, ghegheven all' de naemen,</l>
+<l>Die nut sijn tot den dienst sijt dienstich altesaemen.</l>
+<l>Den Godt die <hi rend="i">Iacob</hi> heeft naer vvensch ghebenedijdt,</l>
+<l>Die seghen u alt'saem, soo ghy ghedienstich zijt.</l>
+<l rend="speaker"><hi rend="i">Zadoch</hi>.</l>
+<l>Wy heffen tot u heer, ons herten met ons handen!</l>
+<l>Want ghy ghenadich zijt, en sorght voor uvve landen.</l>
+<l>Wy dancken u ô Godt! Dat ghy ons <hi rend="i">David</hi> gaeft.</l>
+<l>Die ghy met uvven gheeft, en vvijsheydt hadt beghaeft.</l>
+<l>Wilt Heere van ghelijck, aen <hi rend="i">Salomon</hi> nu gheven.</l>
+<l>Een vvijs verstandich hert, om naer u vvoort te leven.</l>
+</lg>
+
+</div>
+<div type="chapter">
+<pb n="11"/>
+<head rend="h3">Eerste deel. <lb/>Derde uytkomen.</head>
+<stage><hi rend="i">Benaja. Abisag.</hi></stage>
+
+<lg type="poem">
+<l>‘'T Is dwaesheyt dat men vreest, vvaer aen sijn vvelvaert hanght.’</l>
+<l rend="speaker"><hi rend="i">Abisag</hi>.</l>
+<l>‘'T is dvvaesheydt dat men doet, vvaer door men leedt ontfanght.’</l>
+<l rend="speaker"><hi rend="i">Benaja</hi>.</l>
+<l>‘Fortuyn en heeft gheen vvet, sy gheeft verscheyden vveghen.’</l>
+<l rend="speaker"><hi rend="i">Abisag</hi>.</l>
+<l>‘Nochtans vvort sy door deught het sekerste verkreghen.’</l>
+<l rend="speaker"><hi rend="i">Benaja</hi>.</l>
+<l>‘Wie lust naer hoogheydt heeft, en acht op eer, noch faem,’</l>
+<l rend="speaker"><hi rend="i">Abisag</hi>.</l>
+<l>‘Dat is om dat den mensch, den lust is aenghenaem.’</l>
+<l rend="speaker"><hi rend="i">Benaja</hi>.</l>
+<l>‘Den lust van hooghen staet, doet d'eerbaerheydt vergheten.’</l>
+<l rend="speaker"><hi rend="i">Abisag</hi>.</l>
+<l>‘Den smaeck van hooghen staet, baert hooghmoet, en vermeten.’</l>
+<l rend="speaker"><hi rend="i">Benaja</hi>.</l>
+<l>‘Al dat de <hi rend="i">Princen</hi> doen, acht yder vvel ghedaen.’</l>
+<l rend="speaker"><hi rend="i">Abisag</hi>.</l>
+<l>‘Nochtans moet haere ziel oock voor het oordeel staen,’</l>
+<l rend="speaker"><hi rend="i">Benaja</hi>.</l>
+<l>‘De misdaet van den voorst moet sijn ghemeynt' betaelen.’</l>
+<l rend="speaker"><hi rend="i">Abisag</hi>.</l>
+<l>‘Den herder die verdvvaelt doet oock sijn schapen dvvalen.’</l>
+<l rend="speaker"><hi rend="i">Benaja</hi>.</l>
+<l>‘Het vvillen van den vorst is meerder als sijn' vvet.’</l>
+<l rend="speaker"><hi rend="i">Abisag</hi>.</l>
+<l>‘Den vvil is yder mensch volkomen vry gheseyt:’</l>
+<l rend="speaker"><hi rend="i">Benaja</hi>.</l>
+<l>‘Doch meerder in de gheen, die door haer macht ghebieden.’</l>
+</lg>
+
+<pb n="12"/>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Abisag</hi>.</l>
+<l>‘Men siet door macht van vvil, meer quaet als goet gheschieden.’</l>
+<l rend="speaker"><hi rend="i">Benaja</hi>.</l>
+<l>‘De vorsten vvillen meest dat haer gheraden vvort.’</l>
+<l rend="speaker"><hi rend="i">Abisag</hi>.</l>
+<l>‘'T is goet als haeren vvil aen niemandt doet te kort.’</l>
+<l rend="speaker"><hi rend="i">Benaja</hi>.</l>
+<l>‘Men moet den heer alleen het oordeel dan bevelen.’</l>
+<l rend="speaker"><hi rend="i">Abisag</hi>.</l>
+<l>‘'T is vvaer, maer niemandt mach met sijne goetheydt spelen.’</l>
+<l rend="speaker"><hi rend="i">Benaja</hi>.</l>
+<l>Ick vvet en ben ghevvis, dat het den Heer behaegt,</l>
+<l>Dat <hi rend="i">David</hi> onsen vorst, verkrijght soo schoonen maeght.</l>
+<l rend="speaker"><hi rend="i">Abisag</hi>.</l>
+<l>Soo het den Heer behaegt soo moet het my ghenoegen,</l>
+<l rend="speaker"><hi rend="i">Benaja</hi>.</l>
+<l>‘'T is vvijsheydt die hem selff kan naer den tijdt ghevoeghen.’</l>
+<l rend="speaker"><hi rend="i">Abisag</hi>.</l>
+<l>Door onderdanicheydt, ben ick als sijn slavin.</l>
+<l rend="speaker"><hi rend="i">Benaja</hi>.</l>
+<l>‘U schoonheyt sal sijn hert ontsteken in de min.’</l>
+<l rend="speaker"><hi rend="i">Abisag</hi>.</l>
+<l>‘De maeghdelijcke schaemt baert sorghe voor oneere;’</l>
+<l>Niet schendt een maghet meer, als haer verloren eere.</l>
+<l rend="speaker"><hi rend="i">Benaja</hi>.</l>
+<l>Den Koninck is gansch oudt, sijn krachten sijn vergaen,</l>
+<l>Vreest u niet, knielt maer voor hem, en roert sijn voeten aen.</l>
+<l>Acht het voor gheene schand, al dat hy sal bevelen,</l>
+<l>Ghy sult door u ghelaet, van hem sijn herte stelen.</l>
+<l rend="speaker"><hi rend="i">Abisag</hi>.</l>
+<l>‘De vreese van mijn eer, maeckt mijn ghemoet beschaemt.’</l>
+<l rend="speaker"><hi rend="i">Benaja</hi>.</l>
+<l>Wie sonder reden vreest, vvort dvvaeselijck befaemt.</l>
+<l>Ghy moet sijn leden kouvvt, door u ionck vier vervvermen,</l>
+<l>En slaepen als sijn vrouvv, met vreughden in sijn ermen.</l>
+</lg>
+
+<pb n="13"/>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Abisagh</hi>.</l>
+<l>Wie ben ick sijn slavin? Wat is doch mijnen staet?</l>
+<l>Dat een soo grooten vorst, sijn ooghen op my slaet?</l>
+<l rend="speaker"><hi rend="i">Benaja</hi>.</l>
+<l>‘Wie kleyn in d'ooghen schijnt, en ned'rich soeckt te leven,</l>
+<l>Heeft Godt als 't hem belieft, seer haest tot staet verheven.</l>
+<l>Godt maeckt de groote kleyn, de kleyne maeckt hy groot,</l>
+<l>Wie vveet vvat hem ghebeurt, voor d'ure van zijn doodt?</l>
+<l>Gheen mensch hoe groot van staet, off hy kan vvel vervallen,</l>
+<l>Soo het aen <hi rend="i">Saul</hi> bleeck den grootsten van ons allen.</l>
+<l>Gheen mensch hoe kleyn van staet off hy komt vvel tot eer,</l>
+<l>Als hy, die herder vvas, nu Koninck, vorst, en heer.</l>
+<l>Godt stiert des menschen vvegh', alleen naer sijn behaegen,</l>
+<l>Hy kent, en vveet alleen, het eynde van ons daghen.</l>
+<l>De liefde van ons selff verjaeght hy uyt ons hert,</l>
+<l>En vvilt, dat sijnen vvil, daer in ghevesticht vvert.’</l>
+<l>Doet daerom dat hy vvilt, en voeght u naer sijn vvillen,</l>
+<l>Om niet met uvven vvil, van sijnen vvil te schillen.</l>
+<l rend="speaker"><hi rend="i">Abisagh</hi>.</l>
+<l>Ick tvvijfel, vvien ick sal vervvijten en mijn on-eer,</l>
+<l>Den Hemel, off my self, off David mijnen Heer.</l>
+<l rend="speaker"><hi rend="i">Benaja</hi></l>
+<l>Vraeght het u schoonhheydt, die sal daer van ghetuyghen,</l>
+<l rend="speaker"><hi rend="i">Abisagh</hi>.</l>
+<l>Wel aen, ick moet my selff, naer sijnen vvil dan buyghen.</l>
+<l>‘Veel grooter is 't ghemoet dat draghen kan 't verdriet,</l>
+<l>Dan dat door onverduldt, het ongheluck ontvliedt.’</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Eerste deel. <lb/>Vierde uytkomen,</head>
+<stage><hi rend="i">Adonias, Ioab, Abiather.</hi></stage>
+
+<lg type="poem">
+<l>WIe tvvijfelt aen mijn recht, vvie tvvijfelt aen mijn saecken?</l>
+<l>Spijt <hi rend="i">David</hi> mijn gheboort, sal my noch Koninck maecken.</l>
+</lg>
+
+<pb n="14"/>
+
+<lg type="poem">
+<l>Wie komt dees eer als my, vvie leeft nu mijns ghelijck,</l>
+<l>Die naerder is met recht als ick aen't Koninckrijck?</l>
+<l>Ben ick van <hi rend="i">Hagith</hi> niet naest <hi rend="i">Absalon</hi> geboren?</l>
+<l>Ben ick niet door geboort, in't Koninckrijck verkoren?</l>
+<l>Ben ick den oudtsten niet, die leeft van Davids stam,</l>
+<l>Gheboren langh te voor, eer hy van Hebron quam?</l>
+<l>Voorvvaer mijn vader raest, dat hy my vvilt onterven,</l>
+<l>Neen ick vvil Koninck zijn, off in mijn opset sterven,</l>
+<l>Meynt hy om dat hy is, sijn broeders voorghegaen,</l>
+<l>Dat my dit onghelijck, als haer moet zijn ghedaen?</l>
+<l>'T verschil van my, en haer, moet hy eerst overvveghen,</l>
+<l>Mijn saeck is niet in keur, maer in gheboort gheleghen.</l>
+<l>Ick ben eens Koninckx soon, mijn vader kreegh dees eer,</l>
+<l>Doen <hi rend="i">Saul</hi> door misdaet verthoorent had den heer.</l>
+<l>Meynt hy om dat hy is ghenomen van de schaepen,</l>
+<l>En iongher als de gheen die leeffden in de vvaepen.</l>
+<l>Dat dit een vvet moet zijn, off recht in Israel,</l>
+<l>Neen <hi rend="i">Ioab</hi> denckt dat niet hy vveet het selver vvel?</l>
+<l>Wat deught heeft <hi rend="i">Salomon</hi> doch meer als ick bevvesen?</l>
+<l>Waer door is sijnen naem vermaerder, en ghepresen?</l>
+<l>Is 't om dat <hi rend="i">Nathan</hi> hem geleert heeft, en ghevoedt?</l>
+<l>Off is 't om dat ick niet soo edel ben van bloedt</l>
+<l>'T macht zijn, om dat hy is van <hi rend="i">Bersabee</hi> ghecomen.</l>
+<l>Die schandich haeren man, en 't leven vvert genomen,</l>
+<l>Ha! dvvaesheydt van een Prins, ha! dvvaesheyt van een Vorst,</l>
+<l>Dat ghy soo vvreeden daedt, in 't hert begraven dorst,</l>
+<l>Waer vvas u groot verstandt, dat Godt u had gegeven.</l>
+<l>Dat ghy soo schandelijck Vriam bracht om't leven?</l>
+<l>‘'T is secker en ghevvis, als ons den vvellust drijft,</l>
+<l>So sietmen dat in ons, gheen deught, noch eer en blijft.’</l>
+<l>Waer heeft oyt eenigh vorst bedreven booser daden?</l>
+<l>Wie heeft ghetrouvver vrindt, ontrouvver oyt verraden?</l>
+<l>Was't niet voor u ghenoch, d'onteeringh van sijn vrouvv,</l>
+<l>Moest ghy hem dood en oock, daer hy vvas soo ghetrouvv?</l>
+<l>'t schijnt dat Godts toornicheydt, met <hi rend="i">Saul</hi> is gestorven,</l>
+<l>Die hem om minder quaedt, off misdaedt heeft verdorven.</l>
+</lg>
+
+<pb n="15"/>
+
+<lg type="poem">
+<l>Ick segh om minder quaet, vvant hy quam in't verdriet,</l>
+<l>Om dat hy offer de, en <hi rend="i">Agagh </hi>'t leven liet.</l>
+<l>Het een vvas maer uyt vrees' van <hi rend="i">Samuels</hi> vertoeven,</l>
+<l>En't ander om daer door zijn eyghen kracht te proeven.</l>
+<l>Kracht die den vvinder thoont, als hy bermerticheydt,</l>
+<l>Den overvvonnen doet in't oorlogh neer gheleydt.</l>
+<l rend="speaker"><hi rend="i">Ioab</hi>.</l>
+<l>Begeerlijckheydt van eer maeckt <hi rend="i">Salomon</hi> vermeten,</l>
+<l>Des' doet hem zijn gheboort, en sijnen plicht vergheten.</l>
+<l>Des' maeckt hem ongerust, des' maeckt hem dvvaes en sot,</l>
+<l>En seyt dat hem het rijck, bevestight is van Godt.</l>
+<l rend="speaker"><hi rend="i">Adonias</hi>.</l>
+<l>'K vervloeck mijn groot geduldt 'ken kan 't niet langher hooren,</l>
+<l>Gaet tast hem aen het lijf, off ick sal hem vermooren:</l>
+<l>‘De vrees' maeckt ongherust, noyt leeft men sonder haet,</l>
+<l>Dan als men sonder vrees' vast in het rijcke staet.</l>
+<l>Den Prins mach noyt in 't rijck een med'ghesel gelijden,</l>
+<l>Men moet veel meer d'eer, als om het leven strijden.</l>
+<l>Ons edel vroom natuer bethoont het groot ghemoet,</l>
+<l>Begeerlijckheydt van eer, komt uyt het edel bloedt.’</l>
+<l rend="speaker"><hi rend="i">Abjather</hi>.</l>
+<l>In <hi rend="i">Cain</hi> heeft dit vvel, maer tot verderff gheblecken,</l>
+<l>Die <hi rend="i">Abel</hi> selff versloegh om hem van 't leedt te vvrecken.</l>
+<l rend="speaker"><hi rend="i">Adonias</hi>.</l>
+<l>'T is vvaer, vvel tot verderff, dan nochtans nam hy vvraeck,</l>
+<l>Van sijn vervvorpeniss en vvel gegronde saeck.</l>
+<l>Wie kan d'eergiericheydt uyt zijn ghemoet verdrijven?</l>
+<l>Al ruckt men die daer uyt, den vvortel vvilter blijven,</l>
+<l>Sy is van sulcke kracht, zy vreest noch pijn, noch doodt,</l>
+<l>'T is haer al kinderspel, kan sy maer vvorden groot.</l>
+<l>Mijn vader vveet ick vvel, sal met veel leedt versuchten:</l>
+<l>En mischien oock voor mij als voor mijn broeder vluchten.</l>
+<l>Maer ick heb die hem sloegh met vvensingh aen mijn zy.</l>
+<l>Ick Triumpheer van hem, vvant <hi rend="i">Ioab</hi> is by my.</l>
+<l>Ick vvil en sal de kroon van mijnen vader erven,</l>
+<l>Off hem die daer naer staet vernielen, off verderven.</l>
+</lg>
+
+<pb n="16"/>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Ioab</hi>.</l>
+<l>'T en voeght een Koninck niet, dat hy met vreese leeft,</l>
+<l>Besit dat u natuer, en recht gegheven het heeft,</l>
+<l>Natuer gheeft u het rijck, het recht geeft u de vvapen,</l>
+<l>'T ghebruijck van haer gheweldt, is om het recht geschapen.</l>
+<l rend="speaker"><hi rend="i">Adonias</hi>.</l>
+<l>Mijn recht leydt in mijn svveert, mijn hooop in mijn ghevvelt,</l>
+<l>Nu my natuer, en recht, heeft in het rijck ghestelt.</l>
+<l>'K, en vrees' mijn <hi rend="i">Asters</hi> niet, ick ken mijn eyghen krachten,</l>
+<l>'K en acht fortuna niet, ick heersch' van mijn ghedachten,</l>
+<l>'K en schroom niet voor de doodt, ick voegh my naer den tijdt.</l>
+<l>Ick trotsch' en ick ontsegh, die mijne saeck benijdt.</l>
+<l rend="speaker"><hi rend="i">Abjathar</hi>.</l>
+<l>‘Het recht vvort door de vvet niet door natuer verkreghen.’</l>
+<l rend="speaker"><hi rend="i">Adonias</hi>.</l>
+<l>‘'T is vvaer, vvanneer het recht, is in de vvet geleghen.</l>
+<l>den Prins en heeft gheen vvet, hy is die vvetten geeft,</l>
+<l>En vvilt dat yder een, naer sijne vvetten leeft.’</l>
+<l rend="speaker"><hi rend="i">Abjather</hi>.</l>
+<l>‘Die selff zijn vvet volbrenght, verhindert veel gebreken,’</l>
+<l rend="speaker"><hi rend="i">Adonias</hi>.</l>
+<l>'T is beter dat vvy ons, van onsen vyandt vvreken.</l>
+<l rend="speaker"><hi rend="i">Abjather</hi>.</l>
+<l>‘Den vyandt is nochtans veel nutter als den vrindt,’</l>
+<l rend="speaker"><hi rend="i">Adonias</hi>.</l>
+<l>Dat is om dat den mensch ontsiet dat hy bemint.</l>
+<l>‘Veel lichter vvachtmen hem, voor die, die vvy mistrouvven,</l>
+<l>Dan voor de vrinden zijn' off vvy voor vrinden houvven,’</l>
+<l rend="speaker"><hi rend="i">Abjather</hi>.</l>
+<l>‘Wie sijnen vrindt mistrouvvt die doet hem onghelijck:’</l>
+<l rend="speaker"><hi rend="i">Adonias</hi>.</l>
+<l>'K en staen op gheen van beij' ick staen naar 't Koninckrijck.</l>
+<l>Ick vvil, en sal het rijck, besitten in mijn leven,</l>
+<l>Off vvilligh om het rijck den lesten adem gheven.</l>
+</lg>
+
+<pb n="17"/>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Ioab</hi>.</l>
+<l>‘Den Prins bethoont hem selff grootmoedich, en ghevvis,</l>
+<l>Als hy aen sijn fortuyn geen slaeff noch dienaer is.’</l>
+<l rend="speaker"><hi rend="i">Adonias</hi>.</l>
+<l>Fortuna geeft my selff den schepter om gebieden,</l>
+<l>Sy vvilt dat my des' eer naer vvensingh sou gheschieden,</l>
+<l>Sy set my neffens haer, sy kroont my met veel eer,</l>
+<l>En vvilt dat ick alleen van <hi rend="i">Iuda</hi> ben een Heer.</l>
+<l>Komt gaen vvy onsen Godt doen danckbaer offerhanden,</l>
+<l>By <hi rend="i">Soholet</hi> den steen, sal ick doen offer branden.</l>
+<l>Die neffens <hi rend="i">Rogel</hi> leydt den Cristalijnen vloedt,</l>
+<l>Op dat Godt wert versoent, en ons sijn bystant doet.</l>
+<l>Dan sullen wy met vreught een vreughdich noenmael eeten.</l>
+<l>Want by, en in de vvijn, vvort al' het leedt vergeten.</l>
+</lg>
+<div type="section">
+<head rend="h4">Verthoningh.</head>
+<stage><hi rend="i">Daer Adonias, Ioab, ende Abjathar offerhande doen</hi>.</stage>
+</div>
+</div>
+<div type="chapter">
+<head rend="h3">Eerste deel. <lb/>Vijfde uytkomen.</head>
+<stage><hi rend="i">Bersabeé. Nathan</hi>.</stage>
+
+<lg type="poem">
+<l>‘'T Beminnen van hem selff, doet dolen het verstandt,</l>
+<l>Begheerlijckheydt van eer baert onrust in het landt.</l>
+<l>De landen sijn voorvaer, gheluckich als haer Heeren,</l>
+<l>Meer trachten naer de deught als naer den schijn der eeren.</l>
+<l>De deught leyt in het doen niet in den schijn off naem,</l>
+<l>Wie zijn gemoet bedvvinght maeckt hem tot deught bequaem.</l>
+<l>De deught en vreest haer niet, sy gaet in open vveghen,</l>
+<l>Sy Wandelt in de Son, sy gaet haer straelen teghen.</l>
+<l>Sy slacht d'ondeughden niet die vreesen voor de maen,</l>
+<l>En vloecken het ghestert' die aen den Hemel staen.</l>
+<l>Die 't ruysschen van een bladt, off schijnsel soo vervaeren,’</l>
+</lg>
+
+<pb n="18"/>
+
+<lg type="poem">
+<l>‘Als off sy van de doodt met kracht bestreden vvaeren.</l>
+<l>De menschen van ghelijck die staen naer hooghen staet,</l>
+<l>Die vreesen voor den val, en licht verkreghen haet</l>
+<l>Den staet is schijn van rust, sy thoont de dvvaese menschen,</l>
+<l>Dat in haer ydel vreught begraven leyt het vvenschen.</l>
+<l>Het ned'rich vroom gemoet leeft altijdt vol van vreught,</l>
+<l>By die, die vredich zijn, verselschapt haer de deught.’</l>
+<l rend="speaker"><hi rend="i">Nathan</hi>.</l>
+<l>'T bedrogh leydt in het hert, den hoogmoet maeckt vermeten,</l>
+<l>'T schijnt dat ons Koningin noch nievers moet van vveten.</l>
+<l>Grootmoedighe Vorstin, hoe vveet u hoogheyt niet,</l>
+<l>Wat van <hi rend="i">Adonias</hi>, en <hi rend="i">Ioab</hi> is geschiet?</l>
+<l>Weet ghy niet heo dat hy tot Koninck is verkoren,</l>
+<l>Om dat hy ouder is als <hi rend="i">Salomon</hi> gheboren?</l>
+<l>Weet ghy niet dat hy hem met macht doet volgen na,</l>
+<l>Door dat hem Ioab dient den soon van Zeruja.</l>
+<l>Sijn misdaet thoont sijn vrees', hy vreest sijn eygen saecken,</l>
+<l>Ia vreest hem voor de geen die hem selff Koninck maecken.</l>
+<l>Den hooghmoedt maeckt sijn hert, eergierich, boos, en straff,</l>
+<l>En <hi rend="i">David</hi> onsen Heer en veet daer gansch niet aff.</l>
+<l>Hy hout hem in sijn huys en noodt daer all' sijn vrinden,</l>
+<l>Recht off het Koninckrijck vvaer in den vvijn te vinden.</l>
+<l rend="speaker"><hi rend="i">Bersabeé</hi>.</l>
+<l>Mischen heeft hem den Heer verkoren tot het Rijck,</l>
+<l rend="speaker"><hi rend="i">Nathan</hi>.</l>
+<l>Niet, maer aen uvven soon geschiet dit onghelijck:</l>
+<l rend="speaker"><hi rend="i">Bersabeé</hi>.</l>
+<l>Maer vvie sal sijn gevvelt met macht beletten konnen?</l>
+<l rend="speaker"><hi rend="i">Nathan.</hi></l>
+<l>Sijn macht is sonder Godt, en niet met Godt begonnen,</l>
+<l>‘Wie sonder Godt begint, verliest sijn macht met schandt.</l>
+<l>Want alle macht bestaet, alleen in Godes handt.’</l>
+<l rend="speaker"><hi rend="i">Bersabeé.</hi></l>
+<l>De vreese geeft my in dat hy ons sal verderven.</l>
+<l rend="speaker"><hi rend="i">Nathan.</hi></l>
+<l>Vreest niet, hy sal veel eer om sijn misdaden sterven.</l>
+</lg>
+
+<pb n="19"/>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Bersabeé.</hi></l>
+<l>Het voordeel is by hem, hy vvint het door den tijdt.</l>
+<l rend="speaker"><hi rend="i">Nathan.</hi></l>
+<l>‘'T versuymen dat is vvaer maeckt ons d'occasi quijdt,</l>
+<l>In saecken van belang, en mach men niet vertoeven:</l>
+<l>Maer om te vvederstaen moet elck sijn macht beproeven.’</l>
+<l rend="speaker"><hi rend="i">Bersabeé.</hi></l>
+<l>Wat macht heeft toch een vrou, om 't quaet te vvederstaen?</l>
+<l rend="speaker"><hi rend="i">Nathan.</hi></l>
+<l>‘Wie raedt voeght by sijn macht, kan licht sijn quaet ontgaen.’</l>
+<l rend="speaker"><hi rend="i">Bersabeé.</hi></l>
+<l>De Wanhoop doet mijn ziel voor ongheluck vervaeren.</l>
+<l rend="speaker">Nathan.</l>
+<l>Ghy moet u bey der ziel voor ongheluck bevvaeren.</l>
+<l rend="speaker"><hi rend="i">Bersabeé.</hi></l>
+<l>Wat kan ick doch gedoen, die macht en heb, noch raedt?</l>
+<l rend="speaker"><hi rend="i">Nathan.</hi></l>
+<l>Niet anders, dan dat ghy strackx tot den Koninck gaet,</l>
+<l>En seght, hoe heeft mijn Heer den Koninck niet ghesvvoren.</l>
+<l>Dat <hi rend="i">Salomon</hi> naer u, sal Koninck sijn gekoren?</l>
+<l>Dat hy naer uvve doodt sal sitten op den throon,</l>
+<l>En voeren als ghy doet de Konincklijcke kroon.</l>
+<l>Hoe heeft dan <hi rend="i">Hagits</hi> soon hem selff soo seer vergeten,</l>
+<l>Dat hy hem 't Koninckrijck hooghmoedich derff vermeeten?</l>
+<l>Tervvijl' ghy daer noch zijt, en u den Koninck hoort,</l>
+<l>Sal ick oock koomen in en doen u reden voort.</l>
+<l>Indien des Koninckx hert staet in de handt des heeren,</l>
+<l>Dat hy vvaer dat hy vvil als beken kan doen keeren.</l>
+<l>Soo meyn ick dat den Heer soo neyghen sal sijn hert,</l>
+<l>Dat <hi rend="i">Salomon</hi> naer hem voorseker Koninck vvert.</l>
+<l rend="speaker"><hi rend="i">Bersabeé.</hi></l>
+<l>‘Voorsichticheydt doet veel als't niet en is te spaede.’</l>
+<l rend="speaker"><hi rend="i">Nathan.</hi></l>
+<l>‘De vvijsheydt van den vorst breckt der Godloosen raede,</l>
+<l>Sijn deught is als den dauvv, die neer van <hi rend="i">Hermon</hi> vloyt,</l>
+<l>Waer door het vreuchdich gras op <hi rend="i">Zions</hi> berghen groyt.’</l>
+</lg>
+
+<pb n="20"/>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Bersabeé.</hi></l>
+<l>Den tijdt meer als sijn deught sal vrees' ick ons begheven,</l>
+<l rend="speaker"><hi rend="i">Nathan.</hi></l>
+<l>‘Den raedt komt nyot telaet, heeft iemandt tijdt te leven,’</l>
+<l>Noyt heeft hy tijdt te kort, die hem gebruyckt in 't goet:</l>
+<l>Maer vvel die oproer vveckt, en ander onrust doet.</l>
+<l>Den tijdt die sal ghevvis <hi rend="i">Adonias</hi> ghebreken,</l>
+<l>Godt sal hem voor den tijdt aen sijn ontrouvvheydt vvreken,</l>
+<l>Verslijt maer geenen tijdt doet haestich mijnen raedt,</l>
+<l>Eer dat door u versuym, van selffs den tijdt ontgaet.</l>
+<l>‘Den tijdt is als fortuyn, vvanneer hy is voorleden,</l>
+<l>En keert noyt vveer te rugh, hoe seer hy vvort gebeden.</l>
+<l>Fortuyn is achter kael, den tijdt vlieght als den vvindt.</l>
+<l>Naer dat zy zijn voorby, men niet dan locht en vindt.</l>
+<l>Kan iemandt d'ydel locht, ghevatten met sijn handen,</l>
+<l>Soo kan hy dese bey, oock binden met sijn banden:</l>
+<l>Maer neen, men moet van voor, haer vatten met het haeyr,</l>
+<l>Soo moet men oock in tijdts sijn saecken nemen vvaer.’</l>
+<l>Doet daerom mijnen raedt, eer dat ghy vvort bedroghen,</l>
+<l>Off eer fortuyn en tijdt, door snelheydt zijn vervloghen.</l>
+</lg>
+<p>PAVSA.</p>
+</div>
+<div type="chapter">
+<head rend="h2">Tvveede deel.</head>
+<head rend="h3">Eerste uytkomen.</head>
+<stage><hi rend="i">David. Abisagh. Bersabeé. Eleasar. Nathan. Benaja.</hi></stage>
+
+<lg type="poem">
+<l>‘'T Is droevich voor den mensch, te dencken op de doodt,</l>
+<l>Die vreught op 't aerd'rijck heeft, en troost in rijckdo<hi rend="i">m</hi> groot.</l>
+<l>Den mensch die niet en heeft, waer in hy heeft vermaecken,</l>
+<l>Heeft vvensingh naer de doodt, om uyt 't verdriet te raecken.’</l>
+</lg>
+
+<pb n="21"/>
+
+<lg type="poem">
+<l>‘Het oordeel van de doodt, maeckt vreughdich het ghedacht,</l>
+<l>Van die door ouderdom, vermindert wort van kracht,</l>
+<l>Van die vertvvijfelt zijn door wereldtlijcke sorghen,</l>
+<l>En vreesen als de doodt d'opgaende Son van morghen.’</l>
+<l>Ick heb door mijnen Godt verwonnen d'ydel vrees',</l>
+<l>Ick vvorstel om t' ontgaen de stricken van het vleesch.</l>
+<l>Hy is die heeft bevvaert mijn lichaem van 't verderven,</l>
+<l>In hem sal mijne ziel, oock leven naer het sterven.</l>
+<l>Sijn glori rijcke kleedt, sal hy my hanghen om,</l>
+<l>Mijn haeters dwaese tongh, sal hy noch maecken stom.</l>
+<l>Hy sal my uyt't verdriet, als uyt den afgrondt trecken,</l>
+<l>En met sijn heerlijckheyt, mijn ned'richeydt bedecken.</l>
+<l>Ick vliegh tot sijnen throon, ick vliegh tot in zijn borst,</l>
+<l>Ick laef mijn ziele daer, ick lesch daer mijnen dorst.</l>
+<l>Ick laet den mensch, de<hi rend="i">n</hi> me<hi rend="i">n</hi>sch, ick wensch de<hi rend="i">n</hi> mensch't ontme<hi rend="i">n</hi>sche<hi rend="i">n</hi>,</l>
+<l>Om't gene dat ick vvensch, om 't wenschen van mijn wenschen,</l>
+<l>Om 't vvenschen van mijn rust, om 't vvenschen van het goet,</l>
+<l>Dat tot in eeuvvicheydt, den mensch hier vvenschen moet.</l>
+<l rend="speaker"><hi rend="i">Abisagh.</hi></l>
+<l>Het wenschen van de doodt, belet het vreuchdich leven.</l>
+<l rend="speaker"><hi rend="i">David.</hi></l>
+<l>Door't vvenschen van de doodt, vvort ons meer vreught gegeven,</l>
+<l>Den toeval maeckt den mensch, swaermoedich in't ghedacht,</l>
+<l>Den svvacken ouderdom, al 's vverelts vreught veracht.</l>
+<l rend="speaker"><hi rend="i">Abisagh.</hi></l>
+<l>'T is dwaesheyt dat men hem door droefheyt laet vervvinnen;</l>
+<l rend="speaker"><hi rend="i">David.</hi></l>
+<l>'T is vvaer, men kan daer door, gheen rechte rust gevvinnen;</l>
+<l>Nochtans ons svvack gemoet; dat klaeght door onverdult,</l>
+<l>Wanneer ons Godt besoeckt, al is 't ons eyghen schult.</l>
+<l rend="speaker"><hi rend="i">Abisagh.</hi></l>
+<l>‘Gheen mensch hoe groot van staet, den toeval kan ontvlieden,’</l>
+<l rend="speaker"><hi rend="i">David.</hi></l>
+<l>‘Den toeval, en den tijdt naer haeren vvensch ghebieden.’</l>
+<l rend="speaker"><hi rend="i">Abisagh.</hi></l>
+<l>Vervvint den toeval toch thoont dat ghy Koninck zijt.</l>
+</lg>
+
+<pb n="22"/>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">David.</hi></l>
+<l>‘Den toeval overvvint den Koninck, door den tijdt.</l>
+<l>Den tijdt die 't al vervvint, vervvint den Koninck mede,</l>
+<l>Niet blijft in eenen standt. den tijdt heeft selff geen stede.’</l>
+</lg>
+<div type="section">
+<head rend="h4">Verschooninghe.</head>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Bersabeé.</hi></l>
+<l>Hoevvel my 't ongeluck, veel teghenspoet beryt,</l>
+<l>Nochtans bouvv' ick mijn hoop, op u bermerticheydt.</l>
+<l>Den reghenspoet leert my, mijn groot verdriet te svvijghen:</l>
+<l>Maer hoop belooft my hulp, door mijne spraeck te krijghen.</l>
+<l>'T betrouvven van mijn recht, verstout my, dat ick niet,</l>
+<l>Soo ick vvel had ghedacht, versvvijghe mijn verdriet.</l>
+<l>Den Koninck vvil hem doch, niet op sijn maert'verstooren:</l>
+<l>Maer haer, door sijn gena', genadichlijck aenhooren.</l>
+<l rend="speaker"><hi rend="i">David.</hi></l>
+<l>Wat is u <hi rend="i">Bersabe'</hi>? Staet op, rijst van der aerd.</l>
+<l rend="speaker"><hi rend="i">Abisagh.</hi></l>
+<l>'T schijnt dat haer 't ongheluck als ander oock besvvaert.</l>
+<l rend="speaker"><hi rend="i">Bersabeé.</hi></l>
+<l>Hebt ghy aen uvve maert niet by den Heer ghesvvoren,</l>
+<l>Dat <hi rend="i">Salomon</hi> naer u sal Koninck sijn ghekoren?</l>
+<l>Dat hy naer uvve doodt sal sitten op den throon,</l>
+<l>En voeren als ghy doet de Konincklijcke kroon?</l>
+<l>Dat hy van <hi rend="i">Israel</hi>, en van des Heeren landen,</l>
+<l>Als Koninck voeren sal, den rijck staff in sijn handen?</l>
+<l>Dit segh ick grootsten Vorst om dat <hi rend="i">Adonias</hi>,</l>
+<l>Het rijck heeft aengheveert, voor die verkoren vvas,.</l>
+<l>Hy noemt hem selff alree, een Koninck in u leven,</l>
+<l>Recht off ghy hem de kroon vrijvvillich hadt gegeven.</l>
+<l>Den Heer heeft hy tot soen, en danckbaer offerhandt,</l>
+<l>Veel ossen, en veel vee, by <hi rend="i">Sohelet</hi> ghebrandt.</l>
+<l rend="speaker"><hi rend="i">David.</hi></l>
+<l>Van al' dat ghy seght, en heb ick niet ghevveten.</l>
+</lg>
+
+<pb n="23"/>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Bersabeé.</hi></l>
+<l>Nu is <hi rend="i">Abjathar</hi>, en <hi rend="i">Ioab</hi> by hem t'eeten,</l>
+<l>Daer toe heeft hy by hem, al' 's Koninckx Soonen groot;</l>
+<l>Maer <hi rend="i">Salomon</hi> dijn Soon en heeft hy niet genoot.</l>
+<l>Ghy zijt mijn Heer alleen, een Koninck naer Godts vvenschen,</l>
+<l>Den naem van uvve deught maeckt vreughdich alle menschen.</l>
+<l>Alleen op u ghebodt siet d'oogh van <hi rend="i">Israel</hi>,</l>
+<l>Sy vvachten op u vvoort, en Konincklijck bevel,</l>
+<l>Den Vorst die ghy haer gheeft sal haer in als ghenoeghen,</l>
+<l>Sy sullen haer tot hem, als tot u, dienstich voeghen.</l>
+<l>Noemt daerom, vvie naer u, besitten sal het rijck,</l>
+<l>Off vvy zijn naer uvv' doodt, als sondaers al ghelijck.</l>
+<l rend="speaker"><hi rend="i">Eleasar.</hi></l>
+<l><hi rend="i">Nathan</hi> den siender Godts vvenscht met mijn Heer te spreken.</l>
+<l rend="speaker"><hi rend="i">David.</hi></l>
+<l>‘De grootste vvinden meest op hooghe berhen breken,</l>
+<l>Door toeval van ghelijck proeft Godt meest ons gedult.</l>
+<l>Doch niemandt lijdt  sijn straff off't is sijn eyghen schult.’</l>
+<l>Vertreckt vvat <hi rend="i">Bersabe'</hi>, laet <hi rend="i">Nathan</hi> vry in komen.</l>
+<l>Verachtingh heeft den Prins in haer ghevvelt ghenomen.</l>
+<l>Mijn ziele vvalcht in my, mijn tongh kleeft aen den mondt,</l>
+<l>Benauvvtheydt doodt mijn ziel, vrees heeft mijn hert doorvvondt.</l>
+<l>Recht als een schaduvv vaert, soo vaer ick oock daer henen,</l>
+<l>Mijn aensien, macht, en staet, is als den roock verdvvenen:</l>
+<l>Maer Godt vertroost my vveer, hy leydt my met der handt,</l>
+<l>Ick steun op sijnen arm, en troostich onderstandt.</l>
+<l>Al struyckelt mijnen voet, als slibb'ren mijne treden.</l>
+<l>In onschult vvasch ick my, als ick stort mijn ghebeden.</l>
+<l>Mijn haters spreken quaet, doch ick en acht haer niet,</l>
+<l>Den Hemel strijdt voor my, die mijn getrouvvheyt siet.</l>
+<l>Hy voert mijn saecken uyt, en gheeft my sijnen seghen.</l>
+<l>Hy voert mijn stem tot Godt, door sijn deughtrijcke vveghen.</l>
+<l rend="speaker"><hi rend="i">Nathan.</hi></l>
+<l><hi rend="i">Abrahamijtschen</hi> Vorst, heeft u voorsichticheydt,</l>
+<l>Den Vorst <hi rend="i">Adonias</hi> het rijcke toegheseyt?</l>
+<l>Want hy is afghegaen, om t'offren met sijn knaepen,</l>
+</lg>
+
+<pb n="24"/>
+
+<lg type="poem">
+<l>By <hi rend="i">Soholet</hi> den steen, veel ossen, en veel schaepen.</l>
+<l>V soonen altesaem, en <hi rend="i">Ioab</hi> sijn by hem,</l>
+<l>Daer toe <hi rend="i">Abjather</hi>, en roepen met een stem.</l>
+<l>Gheluck <hi rend="i">Adonias</hi>, den Koninck moet ghelucken,</l>
+<l>Dat hy sijns vyandts macht, met machten mach verdrucken.</l>
+<l>Sy eeten al voor hem, en drincken in sijn hoff,</l>
+<l>Men hoort daer niet dan vreught, een yder singht hem loff,</l>
+<l>Sy roepen altesaem, den Koninck moet langh leven,</l>
+<l>Godt vvil hem vre' op d'aerd', en naermaels ruste gheven:</l>
+<l>Maer <hi rend="i">Zadoch</hi>, <hi rend="i">Benaja</hi>, noch <hi rend="i">Salomon</hi>, noch my,</l>
+<l>En heeft hy niet ghenoodt, noch daer geroepen by.</l>
+<l>Is dit van mijnen Heer den Koninck dan bevolen?</l>
+<l>En houdt soo grooten saeck, voor sijnen knecht verholen?</l>
+<l>Dat hy hem niet en seyt, vvie naer mijns Heeren doodt,</l>
+<l>Sal sitten op den stoel, van sijn besittingh groot.</l>
+<l rend="speaker"><hi rend="i">David.</hi></l>
+<l>Vertreckt, roept <hi rend="i">Bersabeé</hi>, den Heer laet dit gheschieden,</l>
+<l>Om dat vvy <hi rend="i">Vrias</hi> soo schandichlijck verrieden.</l>
+<l>Hy vveckt noch over my, mijn vvelverdiende straff,</l>
+<l>En vvilt dat ick met leedt, sal daelen in het graff.</l>
+<l>Mijn sonden Heer sijn groot, seer groot sijn mijn misdaden;</l>
+<l>Maer ghy o! Heer bethoont veel meerder u genaden.</l>
+<l>Soo vvaer den Heere leeft, den God van <hi rend="i">Israel</hi>,</l>
+<l>Die mijn ziel heeft verlost, van droefheyt en ghequel.</l>
+<l>Dat ick ghesvvoren heb', sa lick volbrenghen heden,</l>
+<l>V soon sal Koninck zijn, soo ghy my hebt ghebeden.</l>
+<l>Godt heeft het Koninckrijck, voor <hi rend="i">Salomon</hi> bereyt,</l>
+<l>Soo <hi rend="i">Nathan</hi> den <hi rend="i">Propheet</hi>, my selff heeft aengheseyt.</l>
+<l>Hy heeft hem naer mijn doodt, verkoren uyt mijn kind'ren,</l>
+<l>Het vvillen van den Heer, en kan gheen mensch verhind'ren.</l>
+<l>Gaet roept my den <hi rend="i">Propheet</hi>, Godt draeght hem op zijn handt,</l>
+<l>Wanneer hy een verkiest, tot Vorst van eenich landt.</l>
+<l rend="speaker">Bersabeé.</l>
+<l>Den Godt die 't <hi rend="i">Manna</hi> liet, in Sins vvoostijne regh'nen,</l>
+<l>Wil des beloftenis, in eeuvvicheden segh'nen.</l>
+</lg>
+
+<pb n="25"/>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Nathan.</hi></l>
+<l>Al dat des Hemels gunst kan geven aen den mensch,</l>
+<l>Wensch ick aen mijnen Heer met Goddelijcken vvensch,</l>
+<l>Sijn saet moet eeuvvichlijck naer vvensch voorspoedich bloeyen,</l>
+<l>Recht als op <hi rend="i">Libanun</hi> de Cederboomen groeyen.</l>
+<l rend="speaker"><hi rend="i">David.</hi></l>
+<l>Hy thoont meer edeldom die goet, en deuchdich is,</l>
+<l>Dan die dat thoont alleen, door sijn geboorteniss.</l>
+<l>Noyt heeft den Heer gesien, naer die eerstvvas gheboren:</l>
+<l>Maer heeft die 't hem belieft, tot sijnen dienst verkoren.</l>
+<l>Aen <hi rend="i">Abel</hi> bleeck het vvel, vviens offer Godt aennam,</l>
+<l>Hoe vvel hy ionger vvas, als die hem 't leven nam.</l>
+<l><hi rend="i">Iacob</hi> heeft van gelijck dees hooghe gunst verkreghen,</l>
+<l>Die naer den vville Godts, voor <hi rend="i">Esau</hi> kreegh den seghen,.</l>
+<l><hi rend="i">Iudas</hi> die iongher vvas, vvert <hi rend="i">Ruben</hi> voor gestelt,</l>
+<l>En kregh het vorstendom met Konincklijck gevvelt.</l>
+<l>Van my vveet yder een, hoe Godt my heeft genomen,</l>
+<l>Van daer ick vvas by't vee, en ben tot staet ghekomen.</l>
+<l>Daerom ghy <hi rend="i">Benaja</hi>, ghy sult met <hi rend="i">Nathan</hi> gaen,</l>
+<l>En neemt de knechten me' die voor den Koninck staen.</l>
+<l>Om <hi rend="i">Salomon</hi> mijn <hi rend="i">Soon</hi> naer <hi rend="i">Gihon</hi> te gheleyden,</l>
+<l>Den Konincklijcken muyl, sult ghy daer toe bereyden.</l>
+<l><hi rend="i">Sadoch</hi> den Priester Godts, en <hi rend="i">Nathan</hi> naer 't bevel,</l>
+<l>Die salven hem aldaer tot Vorst van <hi rend="i">Israel</hi>.</l>
+<l>Blaest met basuynen dan , en seght den Heer vvil geven,</l>
+<l>Den Koninck <hi rend="i">Salomon</hi>, een langh, en vredich leven.</l>
+<l>Wenscht hem met vreught geluck, en brenght hem dan by my,</l>
+<l>Ick vvil gebieden hem dat hy u Koninck zy,</l>
+<l>Ick vvil hem voor mijn doodt op mijnen stoel doen setten,</l>
+<l>Laet sien vvie dat den vvil des Heeren sal beletten.</l>
+<l rend="speaker"><hi rend="i">Benaja.</hi></l>
+<l>'T gheschiede naer u vvoort, den Heer mijns Heeren Godt,</l>
+<l>Die segghe van gelijck, en vestigh dit gebodt.</l>
+<l>Recht soo den Heere vvas met mijnen Heer voor desen,</l>
+<l>Moet hy oock van gelijck met <hi rend="i">Salomon</hi> nu vvesen.</l>
+</lg>
+
+<pb n="26"/>
+
+<lg type="poem">
+<l>Op dat sijn Koninckrijck macht zijn in meerder eer,</l>
+<l>Dan dat te vooren vvas, van <hi rend="i">David</hi> mijnen Heer.</l>
+</lg>
+</div>
+</div>
+<div type="chapter">
+<head rend="h3">Tweede deel. <lb/>Tvveede uytkomen,</head>
+<stage><hi rend="i">Ioab. Adonias. Abjather. Ionathan</hi>.</stage>
+
+<lg type="poem">
+<l>ONs hoop is meer in't recht, als in 't gevvelt gheleghen.</l>
+<l rend="speaker"><hi rend="i">Adonias.</hi></l>
+<l>Nochtans door u gevvelt, heb ick mijn hoop verkreghen,</l>
+<l>Dat ick onvvinbaer ben, ben ick door uwen raedt.</l>
+<l>Ghy kroont my met gheluck, en vestight mijnen staet.</l>
+<l>Heff ick my naer de locht, mijn vleughels zijn u vvaepen,</l>
+<l>'T schijnt dat ghy met het svvert onvvinbaer zijt geschaepen.</l>
+<l>U selven zijt ghy selff, in al u doen ghelijck,</l>
+<l>Ghy set my op den throon en geeft my 't Koninckrijck.</l>
+<l>'T schijnt dat den Hemel selff, sijn aensien heeft verloren,</l>
+<l>Dat ick in spijt van hem tot Koninck ben verkoren,</l>
+<l>Dat ick geboren ben tervvijlen dat ghy leeft,</l>
+<l>Die selff een vverelt zijt, vvaer voor het aerd'rijck beeft.</l>
+<l>Noyt sal in <hi rend="i">Israel</hi> den naem van Ioab sterven,</l>
+<l>Noyt sal den grooten naem van <hi rend="i">Zeruja</hi> verderven.</l>
+<l>U daden vlieghen selff met vleughels van 't ghedacht,</l>
+<l>Daer <hi rend="i">Ossa</hi> met haer volck ghedurich houdt de vvacht.</l>
+<l rend="speaker"><hi rend="i">Ioab.</hi></l>
+<l>Den loff die ghy my gheeft, sou qualijck sijn ghenomen,</l>
+<l>Waert dat ick 't niet en saeght uyt een goet herte komen.</l>
+<l>Als iemant sijnen loff in 't aensicht vvordt gheseyt,</l>
+<l>Soo schijnt het datmen spot met sijn hoveerdicheyt.</l>
+<l>Dan ick acht dat ghy my dees eere vvilt bvvijsen,</l>
+<l>Om dat ick van ghelijck u daden oock sou prijsen.</l>
+<l>Maer mijn ervarentheyt heeft my soo vvel gheleert,</l>
+<l>Dat ick vveet dat dees eer vveer tot den ghever keert.</l>
+<l>Dies acht ick onbequaem u vveder loff te gheven,</l>
+<l>Dan vvensch dat ghy met vreught, gheluckich langh moecht leven.</l>
+</lg>
+
+<pb n="27"/>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Adonias.</hi></l>
+<l>Mijn Konincklijcke feest vereert ghy met verstandt,</l>
+<l>‘Wie meer doet als betaemt die baert sijn eyghen schandt.</l>
+<l>Prijst iemant sijnen vrindt 't is om hem meer te trecken,</l>
+<l>Noyt sachmen rechten loff den mensch tot haet vervvecken.</l>
+<l>Als iemant voelt in't hert dat men met vvaerheyt prijst,’</l>
+<l>Soo voelt hy dat men hem, daer door sijn eer bevvijst.</l>
+<l rend="speaker"><hi rend="i">Abiathar.</hi></l>
+<l>‘Den Koninck die verheft den vroomen om zijn vvercken.’</l>
+<l rend="speaker"><hi rend="i">Adonias.</hi></l>
+<l>‘Den vroomen om den loff, laet sijne vroomheyt mercken,</l>
+<l>Het voeght den vroomen vvel, dat hy van vroomheyt roemt:</l>
+<l>Doch beter aen den Vorst dat hy hem strijtbaer noemt.’</l>
+<l rend="speaker"><hi rend="i">Ioab.</hi></l>
+<l>Waert dat ick roemen vvou, van mijn vermaerde daden,</l>
+<l>Ick sou met mijnen loff den <hi rend="i">Athlas</hi> selff verladen.</l>
+<l>Was ick den genen niet, die voerde <hi rend="i">Davids</hi> macht,</l>
+<l>Als hy <hi rend="i">Adrazar</hi> sloegh en <hi rend="i">Hadad</hi> t'onderbracht?</l>
+<l>Heb ick vervvonnen niet de macht van <hi rend="i">d'Amoniten</hi>,</l>
+<l>Als ick bloedt vervvich roodt <hi rend="i">Euphrates</hi> dede vlieren?</l>
+<l>Is <hi rend="i">Idumea</hi> niet in ons gevvelt ghebrocht,</l>
+<l>Daer mijnen broeder selff als om de kroone vocht?</l>
+<l>Is niet door mijnen list <hi rend="i">Ramatha</hi> overvvonnen,</l>
+<l>En 't oorlogh neergeleyt dat Hanon had begonnen?</l>
+<l>Wat vvaer u vader toch, 't en vvaer hy 't vvaer door my? </l>
+<l>Dat hy my vry bedanckt dat hy noch Koninck zy,</l>
+<l>Mijn macht is sijnen schilt, ick mach my vvel vermeten,</l>
+<l>Dat hy sijn rijck door my, soo vredich heeft beseten,</l>
+<l>'T is vvaer hy vvas door Godt vvel eerst in 't rijck gestelt:</l>
+<l>Maer hy heeft dat door my, beseten met ghevvelt,</l>
+<l>My dunckt dat sijne gunst van my vvat is ghevvecken,</l>
+<l>Om dat ick <hi rend="i">Amasa</hi>, en <hi rend="i">Abner</hi> heb doorstecken,</l>
+<l>Dan ick en acht dat niet, eergiericheyt baert nijdt</l>
+<l>Hy gaf daer oorsaeck toe, dat hy 't hem selven vvijt</l>
+<l>Dat hy daer teghen denckt, vvat dienst ick heb bevvesen,</l>
+<l>Als <hi rend="i">Absalon</hi> met hem, in tvvist vvas opgeresen.</l>
+</lg>
+
+<pb n="28"/>
+
+<lg type="poem">
+<l>Die hem van 't Koninckrijck voorsecker had ontbloot,</l>
+<l>Soo ick hem aen den boom niet haestich had ghedoodt.</l>
+<l>'T vvas vvonder hoe men hem, om sijn gheluck sach suchten,</l>
+<l>'T scheen dat hy liever had voor sijnen soon te vluchten.</l>
+<l>'T scheen dat hy liever had te draghen 't onghelijck,</l>
+<l>Maer ick svvoer, dat ick hem, ontrecken sou het rijck.</l>
+<l rend="speaker"><hi rend="i">Adonias.</hi></l>
+<l>'T verdroot hem dat hy vvas om sijnen tvvil ghestorven.</l>
+<l rend="speaker"><hi rend="i">Ioab.</hi></l>
+<l>'T verdroot my, dat hy my, mijn koren had verdorven.</l>
+<l>Noyt mach een edel hert verdraghen overlast,</l>
+<l>Soo langh het door sijn macht op niemandts dreyghingh past.</l>
+<l rend="speaker"><hi rend="i">Abiathar.</hi></l>
+<l>Men mach in tijdt van vreught, op geenen tvvist ghedencken.</l>
+<l>Godt vvil een vredich rijck, aen onsen Koninck schencken,</l>
+<l>Op dat hy met gheluck, als sijnen vader leeft,</l>
+<l>Van vvien hy 't Koninckrijck met recht tot erffdeel heeft.</l>
+<l rend="speaker"><hi rend="i">Ioab.</hi></l>
+<l>Wat hoor ick voor gerucht? Ick hoor basuynen blaesen,</l>
+<l>'T schijnt dat daer oproer is, het volck begint te raesen.</l>
+<l>'T en staet my gansch niet aen, 't geroep is veel te groot.</l>
+<l rend="speaker"><hi rend="i">Abiathar.</hi></l>
+<l>Ick vrees voor ongheluck, vvij sijn voorseker doodt.</l>
+<l rend="speaker"><hi rend="i">Adonias.</hi></l>
+<l>Wat kan daer doch ghezijn? Dan dat sy vreughdich leven,</l>
+<l>Dat ick tot haeren Vorst, en Koninck ben verheven.</l>
+<l>Een yder roept met vreught, <hi rend="i">Adonias</hi> geluck,</l>
+<l>Den hemel lacht my aen 'ken vrees gheen ongeluck.</l>
+<l>Ick slacht d'opgaende Son, mijn macht vvort aengebeden,</l>
+<l>Recht als den dageraet, ben ick op 't aerdrijck heden.</l>
+<l>Ick heb fortuyn van voor, gegrepen met het haeyr,</l>
+<l>Ick gaen mijn vyandt voor, ick neem mijn saecken vvaer,</l>
+<l>Mijns vaders eer vergaet, sijn macht begint te daelen,</l>
+<l>Het aerdrijck vvort verlicht van mijn opgaende straelen.</l>
+<l>Ick steun op mijn gevvelt, ick iaegh de vrees' van my,</l>
+<l>Den Hemel gunt my selff, dat ick vervvinder zy.</l>
+</lg>
+
+<pb n="29"/>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Ioab.</hi></l>
+<l>Nochtans de koude vrees', is door mijn hert gevloghen.</l>
+<l rend="speaker"><hi rend="i">Abiather.</hi></l>
+<l>'T betrouvven op hem selff, heeft menich mensch bedroghen,</l>
+<l>Daer sien ick <hi rend="i">Ionathan</hi>, die seyt ons voor ghevvis,</l>
+<l>Wat dit gherucht bediedt, off daer te roepen is.</l>
+<l rend="speaker"><hi rend="i">Adonias.</hi></l>
+<l>Hy vvordt van yder een, voor redelijck gepresen,</l>
+<l>Hy bootschapt ons vvat goets, ick sien het aen zijn vvesen.</l>
+<l rend="speaker"><hi rend="i">Ionathan.</hi></l>
+<l>Voorseker is 't vvat goets, maer niet voor onsen staet,</l>
+<l>'T schijnt dat den Hemel scheurt, off  't aerd'rijck opengaet.</l>
+<l>Van al 't geroep des volckx, en 't klincken der trompetten,</l>
+<l>Die door haer groot geluyt, den vverschal selff beletten.</l>
+<l rend="speaker"><hi rend="i">Adonias.</hi></l>
+<l>Wat oorsaeck heeft het volck, dat het dees vreught bethoont?</l>
+<l rend="speaker"><hi rend="i">Ionathan.</hi></l>
+<l>'T is om dat <hi rend="i">Salomon</hi>, tot Koninck vvort ghekroont,</l>
+<l>Sadoch, en <hi rend="i">Benaja</hi>, met <hi rend="i">Nathan</hi> hem vast leyden,</l>
+<l>Naer <hi rend="i">Gihon</hi> om aldaer sijn <hi rend="i">Salvingh</hi> te bereyden.</l>
+<l>Een yder volght hem na (<hi rend="i">Crethi</hi>, en <hi rend="i">Plethi</hi> me',</l>
+<l>Vereeren sijn Triumph) soo het sijn' vader de',</l>
+<l>Hy sit vast op den muyl in Konincklijcke kleeren,</l>
+<l>En meyn dat hy terstont van <hi rend="i">Gihon</hi> hier sal keeren.</l>
+<l>Om op sijns vaders stoel, off Konincklijcken throon,</l>
+<l>'T ontfanghen met veel eer, den Rijckstaff, met de kroon.</l>
+<l rend="speaker"><hi rend="i">Adonias.</hi></l>
+<l>Hoe, heeft den Hemel hem, dan teghen hen my versvvoren?</l>
+<l>Dat hy voor my verkiest die iongher is geboren,</l>
+<l>Dat hy voor my een kindt, een lecker stelt in 't rijck,</l>
+<l>Ick berst van onghedult, 'k verloeck dit onghelijck.</l>
+<l rend="speaker"><hi rend="i">Ioab.</hi></l>
+<l>De vreese gaf my in, dat dit soo sou gheschieden.</l>
+<l rend="speaker"><hi rend="i">Adonias.</hi></l>
+<l>'T is voor ons alderbest, dat vvy met haesten vlieden;</l>
+<l>Maer seght my <hi rend="i">Ionathan</hi>, vveet het mijn vader vvel?</l>
+</lg>
+
+<pb n="30"/>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Ionathan.</hi></l>
+<l>Al dat daer wordt ghedaen, geschiet door sijn bevel.</l>
+<l rend="speaker"><hi rend="i">Adonias.</hi></l>
+<l>Weet hy oock dat ick 't rijck met macht had ingenomen?</l>
+<l rend="speaker"><hi rend="i">Ionathan.</hi></l>
+<l>Seer wel, en wilt daer door u moghenheyt voorkomen.</l>
+<l rend="speaker"><hi rend="i">Adonias.</hi></l>
+<l>Weet hy oock van ghelijck, dat Ioab is by my,</l>
+<l>En dat <hi rend="i">Abiather</hi> verkoren heeft mijn zy?</l>
+<l rend="speaker"><hi rend="i">Ionathan.</hi></l>
+<l>Hy weet het altemael, niet is voor hem verborghen,</l>
+<l rend="speaker"><hi rend="i">Adonias.</hi></l>
+<l>Wy zijn te saemen doodt eer dat vvy sien den morghen.</l>
+<l rend="speaker"><hi rend="i">Ioab.</hi></l>
+<l>Wel tot ons ongheluk, sijn vvy voorseker hier,</l>
+<l rend="speaker"><hi rend="i">Adonias.</hi></l>
+<l>Sy komen naer het hoff, my dunckt ick hoor ghetier,</l>
+<l>Het vluchten is ons best, 't is best met schand gheloopen,</l>
+<l>Dan dat vvy met de doodt, ons misdaet hier bekoopen.</l>
+</lg>
+<div type="section">
+<head rend="h4">Verthoningh.</head>
+<stage><hi rend="i">Daer Salomon van den Propheet Nathan tot Koninck vvordt ghesalft</hi>.</stage>
+</div>
+</div>
+<div type="chapter">
+<head rend="h3">Tweede deel. <lb/>Derde uytkomen.</head>
+<stage><hi rend="i">Benaja, Sadoch, Nathan, Salomon, Eleasar, Adonias</hi>.</stage>
+
+<lg type="poem">
+<l>LOff den grooten name van ons voor-vaders Godt,</l>
+<l>Ghepresen sy den Heer, den Heere Sebaoth,</l>
+<l>Dat hy in Dauids huys, heeft doen oprechten heden,</l>
+<l>Den horen vol gheluck, van sijn rechtveerdicheden.</l>
+</lg>
+
+<pb n="31"/>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Sadoch.</hi></l>
+<l>'T Huys Iacobs hem verheught, de kinders Sion saem,</l>
+<l>Vereeren met ghesang, den Konincklijcken naem,</l>
+<l>Een yder looft met vreught, sy roepen, en sy singhen,</l>
+<l>Rechtveerdicheyt, en eer, moet 's Koninckx stoel om-ringhen.</l>
+<l rend="speaker"><hi rend="i">Nathan.</hi></l>
+<l>Godt is in Sion groot, hy maeckt dat Abra'ms zaet,</l>
+<l>Al vvat op aerd'rijck leeft, in eer te boven gaet,</l>
+<l>Hy heeft gherechtigcheyt, in Iacob neer ghesonden,</l>
+<l>Hy denckt aen sijn ghenaed', vvaer door vvy zijn verbonden.</l>
+<l>Hy doet naer sijn beloft aen David sijnen knecht,</l>
+<l>En geeft des Koninckx Soon, rechtveerdicheyt oprecht,</l>
+<l>Hy vvilt, en hy beveelt, dat hy soo vvel den armen.</l>
+<l>Als die hooveerdich zijn, sal in haer recht beschermen,</l>
+<l>Hy leert dat hy sijn volck, met oordeel voor sal staen,</l>
+<l>En vvie daer teghen is, met macht in stucken slaen.</l>
+<l>Hy stort sijn vrees in ons, soo langh de Son sal schijnen,</l>
+<l>Oft daer kindts kinderen zijn en sal sy niet verdvvijnen.</l>
+<l>Hy daelt ghelijck den dauvv, oft als den reghen doet,</l>
+<l>Die druppelt op het veldt, en maeckt het aerd'rijck goet.</l>
+<l>Rechtveerdicheyt en vré, sal in sijn leven bloeyen,</l>
+<l>Tot dat de maen niet meer, in volheyt en sal groeyen,</l>
+<l>Van d'een tot d'ander zee, sal strecken sijn ghebiedt,</l>
+<l>Iae tot aen 's vverelts eynd, daer niemant son'en sier.</l>
+<l>Sijn haeters sullen selff, 't stoff, van der aerden lecken,</l>
+<l>Sijn macht en heerlijckheyt sal tot Euprates strecken.</l>
+<l>De Koninghen der zee, en van d'Arabisch rijck,</l>
+<l>Oock Seba, sullen hem begroeten al' ghelijck;</l>
+<l>Sy sullen hem al t'saem, toevoeren haere gaeven,</l>
+<l>En die noch Heydens zijn, die dienen hem voor slaeven.</l>
+<l>Hy sal behulpich zijn die vol behoeften leeft,</l>
+<l>En die ellendich is noch gheenen hulper heeft.</l>
+<l>Hy sal der armer ziel voor het verachten spaeren,</l>
+<l>En haer voor het bedrogh verlossen en bevvaeren.</l>
+<l>Veel gout in ouervloedt sal hem den Arabier,</l>
+<l>Wt sijn goudt-rijck ghevvest' naer vvensingh senden hier.</l>
+</lg>
+
+<pb n="32"/>
+
+<lg type="poem">
+<l>Hy sal hier leven langh, en sal op 't aerdtrijck vvesen,</l>
+<l>Als menichte van graen, op <hi rend="i">Sions</hi> bergh ghepresen.</l>
+<l>En soo men <hi rend="i">Libanun</hi>, siet beven met ghenucht,</l>
+<l>Soos al men van ghelijck, sien beven sijne vrucht.</l>
+<l>Hy sal ghelijck de lent', hier groenen in de steden,</l>
+<l>En als het gras der aerd', dat vveeldich groyt met vreden.</l>
+<l>Tot in der eeuwicheyt, sal blijven sijnen naem,</l>
+<l>En vvaer de sonne reyckt sal vlieghen sijne faem.</l>
+<l>Ghelooft moet zijn den Heer, dat hy ons heeft gegheven.</l>
+<l>Een vreed'saem Koninckrijck, en een vreedsaemich leven.</l>
+<l>Dat hy heeft <hi rend="i">Salomon</hi> tot eenen Vorst gheset,</l>
+<l>Door wien, off door wiens zaet, vervullen sal de vvet.</l>
+<l rend="speaker"><hi rend="i">Salomon.</hi></l>
+<l>Godt is mijn Salicheyt, op hem vvil ick vertrouwen,</l>
+<l>Mijn licht, mijns levens kracht, voor vvien sou ick vergrouwen?</l>
+<l>Al vvaert dat teghens my een heyr geleghert vvert,</l>
+<l>Soo sal nochtans de vrees niet vvoonen in mijn hert.</l>
+<l>Al vvaert dat zy met strijdt, my quelden, die my haeten,</l>
+<l>Soo vvil ick my nochtans, op mijnen Godt verlaeten.</l>
+<l>Ick steun op sijnen stock, ick vvandel in sijn licht,</l>
+<l>'K en vrees mijn haeters niet: maer soeck sijn aenghesicht.</l>
+<l>Hy laet my vveyden gaen, in sijn gras-rijcke vveyden,</l>
+<l>Aen 't vvaeter van sijn vvoert sal hy mijn ziele leyden.</l>
+<l>Mijn vyandt soeckt naer my, en doet my volghen naer:</l>
+<l>Maer hy valt in den strick, eer dat hy 't vvort ghevvaer.</l>
+<l>Sy loopen al naer my, om van mijn vleesch te eeten:</l>
+<l>Maer vallen, en vergaen, eer dat zy 't selver weten.</l>
+<l>Den Heer heeft my bedeckt, seer wel, ter booser tijdt.</l>
+<l>Hy berght my in sijn tent, sijn vvooningh my bevrijt,</l>
+<l>Hy stelt my op een rotz' voor al' mijns vyants ooghen,</l>
+<l>En vvilt in meerder eer, mijn heerlijckheydt verhooghe.</l>
+<l>Ick vvil hem in sijn hutt', gaen offer doen met danck,</l>
+<l>Ick vvil des Heeren naem, loff singhen met ghesanck.</l>
+<l>V hoort mijn stem o! Heer, Heer vvilt mijn stem verhooren,</l>
+<l>Zijt my genadich Godt en vvilt u niet verstooren.</l>
+<l>Mijn hert seyt my van u, soeckt ghy mijn aenschijn maer,</l>
+</lg>
+
+<pb n="33"/>
+
+<lg type="poem">
+<l>Ick soeck u aenschijn Heer, en neem u vveghen vvaer.</l>
+<l>Verberght u aenschijn niet, leydt my in uvve vveghen,</l>
+<l>Vertroost my door u macht, gaet mijn vyanden teghen.</l>
+<l>Ghy zijt mijn hulp alleen, treckt u handt niet van my.</l>
+<l>Maer door u goetheyt Heer, staet uvven Koninck by.</l>
+<l rend="speaker"><hi rend="i">Eleasar.</hi></l>
+<l><hi rend="i">Adonias</hi> den Vorst door vreese van sijn leven,</l>
+<l>Heeft hem naer sijne vlucht, in 't heylichdom begheven,</l>
+<l>En vvilt van daer niet gaen, voor dat den Koninck svveyrt,</l>
+<l>Dat hy hem sijnen knecht, niet dooden sal door 't svveert.</l>
+<l rend="speaker"><hi rend="i">Salomon.</hi></l>
+<l>Wie dat rechtveerdich is, blijft staen als stercke mueren:</l>
+<l>Maer den Godloosen mensch, en kan niet langhe dueren.</l>
+<l>Gerechticheydt verlost den mensch uyt allen noodt,</l>
+<l>Wie 't saet van boosheyt saeyt, die maeyt sijn eyghen doodt.</l>
+<l>Soo hy dan red'lijck is, soo svveyr ick voor u allen,</l>
+<l>Dat van hem niet een haeyr sal op der aerden vallen:</l>
+<l>Dan dat hy voor hem siet, dat hy niet vveer en maeckt,</l>
+<l>Dat hy om sijn misdaet, aen sijn verderf geraeckt:</l>
+<l>Want ick svveyr by den Heer, soo hy my vvilt verderven,</l>
+<l>Dat ick hem sal met leedt doen in sijn sonden sterven.</l>
+<l>Gaet henen, brenght hem hier, seght dat ick hem verwacht,</l>
+<l>Ick geeff hem vry geley' door Konincklijcke macht.</l>
+<l>'K en vrees mijn haeters niet die my met haet omringhen,</l>
+<l>Ick vvil met mijnen Godt, de mueren overspringhen,</l>
+<l>Godt heeft mijn ziel verlost van die door haren mondt,</l>
+<l>Ontheylichden zijn vvoort, en schenden sijn verbondt.</l>
+<l>Sy hadden mijne ziel, als in den strick gevanghen,</l>
+<l>Met netten hadden sy, besloten mijn ganghen.</l>
+<l>Sy groeven y den put, het scheen haer aenghenaem:</l>
+<l>Maer sy sijn selff daer in, gevallen altesaem.</l>
+<l>Godt sach van sijnen throon, haer goddeloos vermeten,</l>
+<l>En heeft haer, door sijn straff, in haer verderff gesmeten.</l>
+<l>Hy heeft voor my gevvaeckt, en heeft my voor de nijdt,</l>
+<l>Als off ick vvaer sijn kindt, genadichlijck bevrijt.</l>
+<l>V goetheyt Heer is groot, die ghy thoont uvve volcken,</l>
+</lg>
+
+<pb n="34"/>
+
+<lg type="poem">
+<l>V deught ten Hemel reyckt, en trouvv' tot aen de vvolcken.</l>
+<l>Ghy thoont, dat ghy my hebt, verheven op den 'throon,</l>
+<l>En dat ick voor u voer, den Rijckstaf, met de kroon,</l>
+<l>0Ghy hebt mijn ieuchdich hooft, met olie overgoten,</l>
+<l>Mijn eer, en heerlijckheyt, is ut u deught gesproten.</l>
+<l>Ghy maeckt mijn leden sterck, en geeft my kracht en moet,</l>
+<l>Dat ick verwin, en straf, die my aenvechtingh doet.</l>
+<l rend="speaker"><hi rend="i">Adonias.</hi></l>
+<l>Waert dat ick decken vvou, met onschult mijn misdaden,</l>
+<l>'K en quaem hier selver niet, te bidden om genaden:</l>
+<l>Maer om dat ick beken, dat ick u heb misdaen,</l>
+<l>Soo val ick u te voet, en bid u grootheyt aen.</l>
+<l rend="speaker"><hi rend="i">Salomon.</hi></l>
+<l>‘Wie voor de straffe vreest, om 't geen hy heeft bedreven,</l>
+<l>Betuyght sijn eyghen quaet, en thoont sijn god'loos leven.</l>
+<l>Wie onrechtveerdicheydt in sijnen Gordel gordt,</l>
+<l>Al klimt hy op den throon nochtans vernedert vvort.’</l>
+<l>'K en sal voor d'eerste mael u misdaet niet ghedencken:</l>
+<l>Maer vvil u mijn gena' genadelijcken schencken.</l>
+<l>‘'T staet beter voor den Vorst, dat hy genade thoont,</l>
+<l>Dan dat verbolghentheyt, in sijne ziele vvoont.’</l>
+<l>Gaet vredich in u huys, leeft naer uvvs herten vvenschen;</l>
+<l>Ick vveet dat eyghen eer, begeert vvort van de menschen:</l>
+<l>Maer siet dat ghy het rijck, niet vveer in roer en stelt,</l>
+<l>Op dat ick niet door noodt, moet thoonen mijn ghevvelt.</l>
+</lg>
+
+<pb n="35"/>
+<p>PAVSA.</p>
+</div>
+<div type="chapter">
+<head rend="h2">Derde deel.</head>
+<head rend="h3">Eerste uytkomen.</head>
+<stage><hi rend="i">David. Salomon.</hi></stage>
+
+<lg type="poem">
+<l>DOen ick noch machtich vvas, heb ick tot Godt gebeden,</l>
+<l>Ghedenckt aen <hi rend="i">David</hi> Heer, in sijn ellendicheden.</l>
+<l>Die aen den Heere svvoer, die machtich is, en goet,</l>
+<l>Die groot in <hi rend="i">Iacob</hi> is, en groote dinghen doet;</l>
+<l>Siet ick en vvil niet gaen, om in mijn huys te rusten,</l>
+<l>Mijn ooghen sullen haer, door geenen slaep verlusten,</l>
+<l>Tot dat ick vind een plaets, een vvoningh voor den Heer,</l>
+<l>Tot dat ick <hi rend="i">Iacobs</hi> Godt bevvesen heb sijn eer.</l>
+<l>Wy hoorden van haer kracht in <hi rend="i">Ephrata</hi> vermonden,</l>
+<l>Wy hebben haer op 't veldt, van 't vvoeste vvout gevonden.</l>
+<l>Wy vvillen altesaem, in sijne vvoningh gaen,</l>
+<l>En bidden daer den Heer, voor sijne voetbanck aen.</l>
+<l>Staet op Heer tot u rust, staet op tot mijn vermaecken,</l>
+<l>Met d'Arcke van u macht, vvaer voor vvy vierichvvaecken.</l>
+<l>Laet met gherechticheydt, u Priesters zijn bekleedt,</l>
+<l>Verblijdt die heylich zijn, verlost haer van haer leedt.</l>
+<l>Keert niet u aengesicht, van die ghy hebt verkoren,</l>
+<l>Van die ghy hebt gesalft, en <hi rend="i">David</hi> hebt ghesvvoren.</l>
+<l>Wanneer ghy hebt geseyt, de vrucht van u lichaem,</l>
+<l>Sal sitten op den stoel, en my zijn aengenaem.</l>
+<l>Is't dat u kindt naer u, houdt mijn verbondt in eeren,</l>
+<l>En mijn ghetuygheniss dat ick hem sal doen leeren.</l>
+<l>Soo sal zijn saet naer hem, besitten eeuvvichlijck,</l>
+<l>Den Konincklijcken stoel van dit mijn Koninckrijck.</l>
+</lg>
+
+<pb n="36"/>
+
+<lg type="poem">
+<l>Godt heeft in <hi rend="i">Sion</hi> lust, hem lust aldaer te vvoonen,</l>
+<l>Hy rust daer eeuvvichlijck, en vvilt sijn kracht daer thoonen.</l>
+<l>Hy reghent haere spijs, en geeft den armen broodt,</l>
+<l>Wie dat daer onrecht lijdt, verlost hy uyt den noodt.</l>
+<l>Hy kleedt met salicheyt, sijn Priesters die hem loven,</l>
+<l>Hy loont met vrolijckeyt, sijn Heylighen daer boven.</l>
+<l>Den hooren <hi rend="i">Davids</hi> sal, daer opgaen t'alder tijdt.</l>
+<l>En maeckt hem als een licht, door all' de vvereldt vvijt.</l>
+<l>Die sijn vyanden sijn sal hy met schand' uytroeyen:</l>
+<l>Want over haer ghevvelt, sal noch sijn kroone bloeyen.</l>
+<l>Daerom nu ick den vvegh, van all' de vverelt gae',</l>
+<l>Zijt als een man getroost, en volght den Heere nae',</l>
+<l>Neemt sijn bevvaeringh vvaer, en vvandelt in sijn vveghen,</l>
+<l>Houdt sijn geboden toch zijt tot de deught geneghen.</l>
+<l>Sijn leden, en sijn recht, ghetuygheniss', en vvet,</l>
+<l>Soo <hi rend="i">Moyses</hi> die beschrijft, toch in u ziele set,</l>
+<l>Op dat ghy moecht met macht, u vyandt teghen trecken,</l>
+<l>En dat den Heer sijn vvoort mach over u vervvecken.</l>
+<l>Ick vet dat ghy vvel vveet, van 't gheen my <hi rend="i">Ioab</hi> de',</l>
+<l>Die 't oorloghs bloedt vergoot, en heeft gestort in vre',</l>
+<l>Wanneer hy met verraedt, den <hi rend="i">Abner</hi> heeft doorsteken,</l>
+<l>Tot <hi rend="i">Hebron</hi> in de poort, daer hy hem vvilde spreken</l>
+<l>Ghy vveet oock hoe dat hy, heeft <hi rend="i">Amasa</hi> gedoodt,</l>
+<l>Om dat hy aensien creegh, en by my vvert te groot.</l>
+<l>Doet naer u groot verstandt laet sijn grijs haeyr niet daelen,</l>
+<l>Met vreden naer der hel' , maer doet sijn schult betaelen.</l>
+<l>Oock vveet ghy vvat my heeft <hi rend="i">Barsillai</hi>sghedaen,</l>
+<l>Laet van ghelijcke deught sijn kinders oock ontsaen,</l>
+<l>Wilt ontsermerticheyt aen haer altesaem bevvijsen,</l>
+<l>En haer, soo hy my de aen uvve tafel spijsen:</l>
+<l>Want alsoo deden sy, my troostich onderstant,</l>
+<l>Als ick voor <hi rend="i">Absalon</hi>, vvas vluchten in haer landt.</l>
+<l>Ghy hebt oock <hi rend="i">Semei</hi>, die <hi rend="i">Saul</hi> vvas versvvoren,</l>
+<l>Wiens Vader <hi rend="i">Gera</hi> vvas, van <hi rend="i">Bahurim</hi> gheboren.</l>
+<l>Die my een bloedthondt hier, een vloeckte met veel smaet,</l>
+<l>Als ick na <hi rend="i">Castra</hi> vloodt, voor <hi rend="i">Absalons</hi> verraedt:</l>
+</lg>
+
+<pb n="37"/>
+
+<lg type="poem">
+<l>Maer hy vvas die my eerst by 't vvater quam ontmoeten,</l>
+<l>En badt my om genad', en vverp hem voor mijn voeten.</l>
+<l>Dies svvoer ick by den Heer, dat hy niet sterven sou,</l>
+<l>Hoe vvel <hi rend="i">Abisai</hi>, met recht hem dooden vvou.</l>
+<l>Dan ghy naer u verstandt, sult door u vvijsheyt vveten,</l>
+<l>Wat straf hy heeft verdient, om sijn god'loos vermeten.</l>
+<l>Op dat hy met onschult, zijn leven niet volendt:</l>
+<l>Maer dat ghy sijn grijs haeyr, met bloedt ter hellen sendt.</l>
+<l rend="speaker"><hi rend="i">Salomon.</hi></l>
+<l>Godt heeft gerechticheyt, op 't aerdrijck neergesonden,</l>
+<l>Tot loon van onse deught, tot straff van onse sonden.</l>
+<l>Noyt vverdt d'oprechte deught, vergeten van den Heer,</l>
+<l>Den sondaer die volhert, vergeeft hy nimmermeer.</l>
+<l>Den Vorst die vvijsheyt heeft, verstroyt de boose raeden:</l>
+<l>Maer die bermertich is, beloont hy met ghenaden.</l>
+<l>Ick sal naer mijne macht, volbrenghen u ghebodt,</l>
+<l>Ick vveet dat uvven vvil, het vvillen is van Godt.</l>
+<l rend="speaker"><hi rend="i">David.</hi></l>
+<l>Mijn ziel sal dan gerust, het steruelijck begheven,</l>
+<l>Om eeuvvich met den Heer, ontstervelijck te leven.</l>
+<l>Denckt op mijn vvoorden doch, ach! <hi rend="i">Salomon</hi> mijn kindt,</l>
+<l>Siet dat ghy Godt den Heer, (soo hy u doet) bemindt.</l>
+<l>Verlaet zijn vveghen niet, leeft naer sijn leer, en vvetten,</l>
+<l>Sijn vvoort, en sijn verbondt vvilt in u ziele setten.</l>
+<l>Al sterff ick naer den vleesch, mijn ziel en mijnen geest,</l>
+<l>Sal leven in u ziel, en zijn toch niet bevreest.</l>
+<l>Dat <hi rend="i">Sion</hi> niet en treurt dat <hi rend="i">David</hi> is gestorven,</l>
+<l>Sy houdt den vvortel doch, al is den boom verdorven.</l>
+<l>Dat hy niet meer en klaeght, van haer vervoorpeniss:</l>
+<l>Maer dat zy secker houdt, dat zy verheven is.</l>
+<l>Mijn krachten die vergaen, ick sien den Heere komen,</l>
+<l>My dunckt ick voel mijn ziel, ten Hemel opgenomen.</l>
+<l>My dunckt ick sien den schoot van <hi rend="i">Abraham</hi> bereyt,</l>
+<l>Om my te loonen daer naer mijn gerechticheyt,</l>
+<l>Doet Heere naer u vvoort, leydt uvven knecht in vrede,</l>
+<l>Mijn ziele snackt naer u, o! Heer verhoort mijn bede.</l>
+</lg>
+
+<pb n="38"/>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Salomon.</hi></l>
+<l>Ghebrocken is den schilt, vermorselt is het sweert,</l>
+<l>Dat Israel soo langh, voor spoedich heeft verweert.</l>
+<l>Die als een rotse stont, is als den roock verdwenen,</l>
+<l>Die als een Sonne scheen, is doodt, en uytgeschenen.</l>
+<l>Die Godt verheven had, en selff gemaeckt soo groot,</l>
+<l>Heeft hy vernedert vveer, door d'al verdoende doodt.</l>
+<l>Die tot den Hemel vlogh, en met Godt heeft gesprocken.</l>
+<l>Is machteloos vergaen, en als een riet ghebrocken.</l>
+<l>Treurt nu <hi rend="i">Ierusalem</hi>, o! Dochter <hi rend="i">Sion</hi> klaeght,</l>
+<l>Stroyt asschen op u hooft, vveent nu bedroeffde maeght.</l>
+<l>Want hy gestorven is, die beter waer gheboren,</l>
+<l>Een man naer Godes hert, hebt ghy helaes verloren.</l>
+<l>Laet nu o! Heer een plant, van <hi rend="i">Davids</hi> zaet opgaen,</l>
+<l>Vol van gherechticheyt nu <hi rend="i">David</hi> is vergaen,</l>
+<l>Maeckt <hi rend="i">Iuda</hi> vveer verblijdt, doet <hi rend="i">Israel</hi> bevvijsen,</l>
+<l>Dat sy om u verbondt, u macht, en goetheyt prijsen.</l>
+<l>Maeckt dat op <hi rend="i">Davids</hi> stoel, een sit van zijn geslacht,</l>
+<l>Soo langh de vverelt staet, off daer sy dach, en nacht.</l>
+<l>Om schaduvvt sijn en throon, maeckt hem o! Heer gepresen,</l>
+<l>Die door u, en in u, en met u vvenscht te vvesen.</l>
+</lg>
+<div type="section">
+<head rend="h4">Verthoningh.</head>
+<stage><hi rend="i">Daer Salomon sijnen vader David doet begraven, by hem legghende groote schatten, die daer naer, naer het segghen Iosephi, 7.12. van Hyrkanus ende Herodes sijn ghelicht.</hi></stage>
+</div>
+</div>
+<div type="chapter">
+<head rend="h3">Derde deel. <lb/>Tvveede uytkomen,</head>
+<stage><hi rend="i">Adonias. Bersabeé.</hi></stage>
+
+<lg type="poem">
+<l>ICk voel soo vvel als ghy o! Konincklijcke vrouw',</l>
+<l>'T verdriet dat u besvvaert, en al gemeyn rouvv:</l>
+</lg>
+
+<pb n="39"/>
+
+<lg type="poem">
+<l>Maer soo den svvacken mensch, den Heer niet kan beletten,</l>
+<l>Soo moet men sijnen vvil in Godes vville setten.</l>
+<l>Al dat den Heere doet dat doet hy met voordacht,</l>
+<l>Den Heer en siet niet aen, ons droefheyt noch ons klacht.</l>
+<l>'T schijnt dat den me<hi rend="i">n</hi>sch op d'aerd, noyt hebbe<hi rend="i">n</hi> mach zijn vve<hi rend="i">n</hi>sche<hi rend="i">n</hi>,</l>
+<l>Maer dat den teghenspoedt, is eyghen aen de menschen.</l>
+<l>Ick vveet hoe svvaer het valt, als iemant teghenspoedt,</l>
+<l>Tot sijn verachtingh lijdt, off onrecht lijden moet,</l>
+<l>Nochtans den teghenspoedt schijnt lichter om te draghen,</l>
+<l>Wanneer men vvraeck mach doen, off sijn verdriet mach klaghen.</l>
+<l>'K en segh dees woorden niet, genadighe vorstin,</l>
+<l>Om dat ick, om mijn leedt, iet quaets heb inden sin:</l>
+<l>Maer om u moghentheyt, te thoonen mijn vertrouvven,</l>
+<l>Dat niet dan vrede wenscht, en tweedracht soeckt te schouvven.</l>
+<l rend="speaker"><hi rend="i">Bersabeé.</hi></l>
+<l>Soo ghy mijn vrindtschap soeckt, en tot my komt met vre',</l>
+<l>Soo seght vvat u belieft, ick soeck de vrindtschap me',</l>
+<l rend="speaker"><hi rend="i">Adonias.</hi></l>
+<l>Om dat ick vrede soeck, vvensch ick met u te spreken.</l>
+<l rend="speaker"><hi rend="i">Bersabeé.</hi></l>
+<l>Aenmijn goet vvillicheyt en sal het niet ghebreken.</l>
+<l rend="speaker"><hi rend="i">Adonias.</hi></l>
+<l>Ghy vveet dat my het rijck, als aen den oudtsten quam,</l>
+<l>Dat ick om mijn geboort, nochtans niet aen en nam.</l>
+<l>Voor dat ick van all't volck, eendrachtich vvas verkoren,</l>
+<l>Dat my van <hi rend="i">Israel</hi>, tot Koninck had besvvoren:</l>
+<l>Maer nu den Heer selff, het rijcke vvendt van my,</l>
+<l>En vvilt dat <hi rend="i">Salomon</hi>, u soone Koninck zy.</l>
+<l>Soo vvil ick my in als, naer sijnen vville voeghen,</l>
+<l>En my, met mijnen staet, oock laeten vvel ghenoeghen.</l>
+<l>Ick vvil hem selff doen sien, dat ick te vreden ben,</l>
+<l>En thoonen dat ick hem, voor mijnen Heer beken.</l>
+<l>Ick vveet dat hem het rijck, van boen is ghegheven,</l>
+<l>En dat vvy schuldich sijn, naer sijn ghebodt te leven.</l>
+<l>Doch bid ick om een beed' soo 't u is aenghenaem,</l>
+<l>Dat ghy aen <hi rend="i">Salomon</hi> versoeckt uyt mijnen naem.</l>
+</lg>
+
+<pb n="40"/>
+
+<lg type="poem">
+<l>Dat hy <hi rend="i">Abisagh</hi> my, laet voor mijn huysvrou trouvven,</l>
+<l>Die <hi rend="i">David</hi> vvert ghevoeght, by all' sijn ander vrouwen.</l>
+<l>Ick meyn dat hy aen u, dees bede sal toestaen,</l>
+<l>Door dat aen hem gheen leedt, daer door kan zijn ghedaen.</l>
+<l>Te meer, ick seker hou, dat sy noch heeft haer eere,</l>
+<l>En noyt beslapen is, van <hi rend="i">David</hi> mijnen Heere.</l>
+<l rend="speaker"><hi rend="i">Bersabeé.</hi></l>
+<l>‘Wy sien als eenich hout, de vlam des viers genaeckt,</l>
+<l>Dat het door sijn natuer, terstont in brandt geraeckt.</l>
+<l>Al dat het vier ghelijckt, vvort door het vier verdorven,’</l>
+<l>Doch 't mach zijn dat het vier, in David vvas gestorven.</l>
+<l>Den ouderdom mischien, had sijn gevvenste vlam,</l>
+<l>Door kranckheyt uyt gedaen, eer dat zy by hem quam.</l>
+<l>Den tvvijfel staet ons vry, dan ick verhoop te maecken,</l>
+<l>Dat ghy door mijnen dienst, aen uvven vvensch sult raecken.</l>
+<l>Den Koninck vveet ick vvel, sal doen dat my behaeght,</l>
+<l>'K verseker u eer langh de <hi rend="i">Sunaemitsche</hi> maecht.</l>
+<l rend="speaker"><hi rend="i">Adonias.</hi></l>
+<l>‘Men kan met geenen bandt meer binden sijn vyanden,</l>
+<l>Dan dat men haer verbindt, met houwelijcksche banden.</l>
+<l>Den <hi rend="i">Prins</hi> versekert hem, als hy sijn 'vyandt vvint,</l>
+<l>Doch meer als hy hem geeft, dat hy van herten mint.</l>
+<l>Wert <hi rend="i">Sichem</hi>, <hi rend="i">Iacob</hi> niet, door houvvelijck verbonden,</l>
+<l>Eer dat hy vvert gestraft, om sijn bedreven sonden?</l>
+<l>Wert <hi rend="i">Moyses</hi>, <hi rend="i">Iethro</hi> niet, verbonden door de trouvv',</l>
+<l>Soo haest als hy hem gaff, Ziphora voor sijn vrouvv?</l>
+<l>Heeft <hi rend="i">Sampson</hi> niet sijn macht, door <hi rend="i">Delila</hi> verloren,</l>
+<l>Soo haest als sy hem bandt, en heeft sijn hooft geschoren?</l>
+<l>Nochtans en bandt sy niet, soos eer sijn moedich hert,</l>
+<l>Dat hy de <hi rend="i">Philisteen</hi>, een vrindt off dienaer vvert.</l>
+<l>Den houvvelijckschen bandt, kan maer het herte binden,</l>
+<l>Door eendracht, groyt de macht, door trou verkrijghtme<hi rend="i">n</hi> vrinden.</l>
+<l>My dunckt dat dan den Vorst, eerst machtich vvordt in 't rijck,</l>
+<l>Als hy door trou versoent, 't verleden onghelijck.’</l>
+<l rend="speaker"><hi rend="i">Bersabeé.</hi></l>
+<l>‘Dat Godt te saemen voeght, en kan den mensch niet scheyden.’</l>
+</lg>
+
+<pb n="41"/>
+
+<lg type="poem">
+<l>Een yder moet sijn lot met lijdtsaemheyt verbeyden.</l>
+<l rend="speaker"><hi rend="i">Adonias.</hi></l>
+<l>'K en wensch gheen ander lot, nu mijnen broeder my,</l>
+<l>Ontnomen heeft met recht, mijn rijck, mijn Heerschappy.</l>
+<l>Wat kan ick min als haer, voor mijnen staet ontfanghen?</l>
+<l>Daer ghy weet dat in haer, mijn hoop leydt, en verlanghen.</l>
+<l rend="speaker"><hi rend="i">Bersabeé.</hi></l>
+<l>En twijfelt niet aen my, acht mijn goet willicheydt.</l>
+<l>Soo veel, als off u vvaer <hi rend="i">Abisagh</hi> toegeseyt,</l>
+<l>Vervvacht my in het hoff, ick sal van uvven tvveghen,</l>
+<l>Gaen sien, hoe mijnen soon, den Koninck is geneghen.</l>
+<l rend="speaker"><hi rend="i">Adonias.</hi></l>
+<l>Dit is den rechten vvegh, dit is den rechten voet,</l>
+<l>Die my verheffen sal, off my oprechten moet.</l>
+<l>Door list vvordt dichvvils meer, als door den krijgh gevvonnen,</l>
+<l>Dees vrou en merckt niet eens vvaer toe dit vvort begonnen.</l>
+<l>Soo <hi rend="i">Salomon</hi> soo licht, als sy, dees saeck ghelooft,</l>
+<l>Soo sien ick hem van 't rijck, off van een deel berooft.</l>
+<l>Kan ick door desen list, 't ghemeynte maer ghetrecken,</l>
+<l>Soo meyn ick, dat ick hem, haest oproer sal verwecken.</l>
+<l>'T ghemeynte slacht de zee, die licht door vvindt beroert:</l>
+<l>Want altijdt vvordt den mensch door nieuvvicheyt vervoert.</l>
+<l>Al dat den schijn maer heeft, van nieuvv' gewenste saecken,</l>
+<l>Kanlichter als den vvindt, den mensch oproerich maecken.</l>
+<l>Een recht grootmoedich man bethoont eerst sijnen aert,</l>
+<l>Als hem den noodt bedvvinght, off als hy vvordt besvvaert.</l>
+<l>Door lijdtsaemheyt, en moyt, voorkomt men sijn misvallen,</l>
+<l>Den blooden laet door schrick, sijn hert ter aerden vallen.</l>
+<l>Benauvvtheyt is het vier, vvaer in men proeft het gout,</l>
+<l>Van ons stantvasticheyt, dat selver hem mistrouvvt.</l>
+<l>Men noemt een tvveede doodt, vva<hi rend="i">n</hi>neer men schand' moet lijden,</l>
+<l>Men moet om haer t' ontgaen naer sijn vermoghen strijden.</l>
+<l>Al is 't dat ons fortuyn, niet gunstich is naer vvensch,</l>
+<l>Sy thoont haer niet te min, goet-gunstich aen den mensch.</l>
+<l>Sy sendt ons teghenspoedt, om ons gemoet te proeven,</l>
+<l>Eer dat sy vreughden sendt, soo doet sy ons bedroeven.</l>
+</lg>
+
+<pb n="42"/>
+
+<lg type="poem">
+<l>Ick hoop noch op haer gunst, al sendt sy my verdriet,</l>
+<l>Den Hemel vveet alleen, vvaerom my leet geschiet.</l>
+<l>Mijn saecken gaen naer vvensch, mach ick mijn vvensingh krijgen:</l>
+<l>Dan ick moet dese saeck voor <hi rend="i">Ioab</hi> noch versvvijghen.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Derde deel. <lb/>Derde uytkomen.</head>
+<stage><hi rend="i">Abisagh. Salomon, Benaja, Bersabeé.</hi></stage>
+
+<lg type="poem">
+<l>Benijdt den Hemel dan, dat men met vreughden leeft,</l>
+<l>Off dat men hier den schijn, van eer, en hoogheyt heeft?</l>
+<l>Heeft mijn gedvvonghen vreught, en hoogheyt hem verdroten,</l>
+<l>Om dat ick niet en ben, van Koninghen gesproten?</l>
+<l>Moet ick om desen schijn, den maeghdelijcken naem,</l>
+<l>Verliesen sonder schult, die my vvas aengenaem?</l>
+<l>Moest ick de gene zijn, die <hi rend="i">David</hi> moest vervvermen,</l>
+<l>Als hy schier vvas vergaen, en slaepen in sijn ermen?</l>
+<l>Ach! Hemels alte vvreedt, en zij t soo vvreedt niet meer,</l>
+<l>Draeght sorghe voor de geen', die leven door haer eer.</l>
+<l>Draeght sorghe voor de geen', die 't sterven sou verkiesen,</l>
+<l>Eer sy met haeren vvil' , haer eere sou verliesen.</l>
+<l>Ick ben als in een zee, van tvvijfel vvegh gevoert,</l>
+<l>Fortuyn bestormt mijn ziel, en maeckt mijn hert beroert.</l>
+<l>Hier voel ick het verdriet, van <hi rend="i">Davids</hi> overlijden,</l>
+<l>Daer komt my vveer met min, <hi rend="i">Adonias</hi> bestrijden.</l>
+<l>'T schijnt dat hy door mijn schoont verloren heeft sijn hert,</l>
+<l>Doch ick acht dat ick maer, door list geproeft en vvert.</l>
+<l>'T is <hi rend="i">Iacobs</hi> list, en readt die hem dit heeft gheraeden,</l>
+<l>Om hem van mijne schoont, naer vvensingh te versaeden,</l>
+<l>Om my, vvanneer ick hem, ghegheven had mijn trouvv,</l>
+<l>Te schelden met vervvijt, als een oncuysche vrouvv.</l>
+<l>Om segh ick, ouer my, aen <hi rend="i">Salomon</hi> te claghen.</l>
+<l>Als off ick hem mijn trou, eerst had te coop ghedraghen.</l>
+<l>Noyt moet in mijne ziel eens comen het ghedacht</l>
+<l>Om iet, hoe cleyn het zy, te doen dat my veracht,</l>
+</lg>
+
+<pb n="43"/>
+
+<lg type="poem">
+<l>Noyt moet <hi rend="i">Abisagh</hi> haer, soo daselijck vergheten,</l>
+<l>Oft <hi rend="i">Salomon</hi> mijn Heer, die moet haer saecken vveten.</l>
+<l>De Princen sijn op d'aerd'als sonen vanden Heer,</l>
+<l>Een yder moet haer hier, als Godt bevvijsen eer,</l>
+<l>Wy moeten haer ontsien, en doen naer haer bevelen,</l>
+<l>En niet met haer ghebodt, naer ons believen spelen.</l>
+<l>De minste van u rijck, o! Koninck vvijs vermaert,</l>
+<l>Buyght haer als u slavin, en valt voor u ter aerd'. </l>
+<l rend="speaker"><hi rend="i">Salomon.</hi></l>
+<l><hi rend="i">Abisagh</hi> zijt getrost, staet op, en vvilt niet vveenen,</l>
+<l>Den gever van den al, vvil u sijn vreught verleenen.</l>
+<l>Bedroeft u niet te seer, dat <hi rend="i">David</hi> is vergaen,</l>
+<l>Wij moeten doch alt'saem den selven vvegh ingaen.</l>
+<l>Wij leven om de doodt, en sterven om te leven,</l>
+<l>Het leven is den vvegh, die ons de doodt moet geven.</l>
+<l>Het sterven is den vvegh, die tot het leven leydt,</l>
+<l>Van vvaer men niet en keert, tot in der eeuvvicheydt.</l>
+<l>Tervvijlen dat men leeft, soo moet men sterven leeren:</l>
+<l>Want niemandt kan de doodt, noch haere schichten keeren,</l>
+<l>Wy moeten met een hert, en met een vroom gemoet,</l>
+<l>Verdraghen haer gevvelt, tervvijl men lijden moet.</l>
+<l>Wy leeren dat te recht, aen arm bedroefde menschen,</l>
+<l>Die altijdt om de doodt, off om het sterven vvenschen.</l>
+<l>Wien het een ruste schijnt, als haer de doodt genaeckt.</l>
+<l>Door dat sy haer een eyndt, van haer ellenden maeckt.</l>
+<l>Al vvat men doet, off laet, men kan de doodt niet vlieden,</l>
+<l>Waer dat men vlucht, off gaet, het sterven moet geschieden.</l>
+<l>Naer 't leven komt de doodt, al leeft men hondert iaer,</l>
+<l>Recht als men naer den dagh, den nacht siet volghen naer.</l>
+<l>Wat goet mach doch den mensch door 't leven hier gevvinnen,</l>
+<l>Als hy gheduerichlijck het sterven voelt van binnen?</l>
+<l>Wat is het off den mensch veel menschen eeuvven leeft,</l>
+<l>Als hy doch in het lest, een eyndt door 't sterven heeft?</l>
+<l>Den tijdt die selver is een oorsaeck van 't verderven,</l>
+<l>En kan hem selven niet, bevrijden van het sterven.</l>
+<l>Hy eyndight alle daegh, hy sterft van dach, tot dach,</l>
+</lg>
+
+<pb n="44"/>
+
+<lg type="poem">
+<l>Sijn paelen sijn gestelt, daer hy toe komen mach,</l>
+<l>Wy sien dat alles is, gestelt in maet, en tijden,</l>
+<l>Ja selff den aerdtschen al, en kan de doodt niet mijden.</l>
+<l>Alleen de vvaere deught, beurijdt haer van de doodt,</l>
+<l>Sy leeft naer dat sy sterft, sy vvort door 't sterven groot.</l>
+<l>Al is mijn vader doodt, hy leeft door sijne deughden,</l>
+<l>Door vleughels van de deught vlieght hy tot sijne vreughden,</l>
+<l>Hy vlieght tot in ons zile en vest hem in ons hert,</l>
+<l>En vvilt dat sijnen geest, in ons herboren vvert.</l>
+<l>Vertroost u dan in hem, die 't sterven kan beletten,</l>
+<l>Als vvy ons vvilleloos, in sijnen vville setten.</l>
+<l>En treurt niet meer om hem, die met sijn vaders rust;</l>
+<l>En in den Heere leeft, naer dat sijn ziele lust.</l>
+<l rend="speaker"><hi rend="i">Abisagh.</hi></l>
+<l>De menscheyt door natuer, verdriet het droevich scheyden,</l>
+<l rend="speaker"><hi rend="i">Salomon.</hi></l>
+<l>Den mensch die moet hem selff, door lijdtsaemheyt bereyden.</l>
+<l>Een yder moet hem selff, vernoeghen naer 't geval,</l>
+<l>'T vvaer quaet dat iemant vvist, vvat hem gebeuren sal.</l>
+<l>Denckt niet al is hy doodt, dat ghy hem hebt verloren,</l>
+<l>U vrintschap, en sijn deught, is in mijn ziel herboren.</l>
+<l>Het staet in uvven vvil, dat ick als mijnen Heer,</l>
+<l>Begunstich uvve deught, en u, als Moeder eer.</l>
+<l>Ick sal met danckbaerheyt, u trouvve deught gedencken,</l>
+<l>En u, vvat u belieft, als vrindt, en Koninck schencken.</l>
+<l rend="speaker"><hi rend="i">Benaja.</hi></l>
+<l>De Konincklijcke vrou, mijn vvaerde Koninghin,</l>
+<l>Versoeckt oodtmoedichlijck, dat sy mach komen in.</l>
+<l rend="speaker"><hi rend="i">Salomon.</hi></l>
+<l>Mijn moeder heeft de macht om selver te gebieden,</l>
+<l>Sy doet vvat haer belieft, haer vvenschen sal geschieden.</l>
+<l>Abisagh blijft in 't hoff, en leeft daer vredichlijck,</l>
+<l>Denckt dat ghy oock besit, een deel van 't Koninckrijck.</l>
+<l rend="speaker"><hi rend="i">Abisagh.</hi></l>
+<l>Ick kus tot danckbaerheyt oodtmoedick uvve voeten.</l>
+</lg>
+
+<div type="section">
+<pb n="45"/>
+<head rend="h4">Verschoningh</head>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Bersabeé.</hi></l>
+<l>Onnoodich is 't mijn soon dat ghy my komt ontmoeten,</l>
+<l rend="speaker"><hi rend="i">Salomon.</hi></l>
+<l>Het staet den soone toe, dat hy sijn moeder eert:</l>
+<l>Want hy doet als de geen', die sijnen schat vermeert.</l>
+<l>Het is den soon een kroon, en Goddelijcken seghen,</l>
+<l>Als hy sijn ouders hert, door vvel doen heeft verkreghen.</l>
+<l>Den goddeloosen soon, die baert sijn eyghen schandt.</l>
+<l>Ick doen dat my betaemt, sit aen mijn rechter handt.</l>
+<l rend="speaker"><hi rend="i">Bersabeé.</hi></l>
+<l>Ick heb een kleyne bé, die aen my is gebeden,</l>
+<l>Soo ghy mijn aengesicht, niet vvilt beschaemen heden.</l>
+<l rend="speaker"><hi rend="i">Salomon.</hi></l>
+<l>Ghebiet door uvve macht, ghy vveet vvat ghy vermeught,</l>
+<l>Acht mijn goet vvillicheyt, een oorsaeck van mijn deught.</l>
+<l>En tvvijfelt niet dat ick, u bede sal ontsegghen.</l>
+<l>Indien het vvesen mach dat ghy my voor sult leggen.</l>
+<l>'T en voeght niet aen een kindt, dat hy zijn moeder iet,</l>
+<l>Door vveygeringh ontseyt, als het door deught geschiet.</l>
+<l rend="speaker"><hi rend="i">Bersabeé.</hi></l>
+<l>Soo bid' ick dat ghy toch, <hi rend="i">Adonias</hi> vvilt geven,</l>
+<l>De <hi rend="i">Sunemitsche</hi> maeght, om voortaen stil te leven.</l>
+<l rend="speaker"><hi rend="i">Salomon.</hi></l>
+<l>Wel hoe versoeckt hy dan <hi rend="i">Abisagh</hi> voor een vrouvv',</l>
+<l>Daer ick, die Koninck ben haer voor mijn moeder hou?</l>
+<l>Mijn broeder heeft gevvis, vvat grooters in sijnen sinnen,</l>
+<l>Hy meynt door desen list, mijn Koninckrijck te vvinnen.</l>
+<l>Waerom en bidt ghy niet het Koninckrijck met een,</l>
+<l>Op dat hy my verniel, en Koninck sy alleen.</l>
+<l>Ick heb voor mijnen staet, my selff te veel vergeten,</l>
+<l>Dat ick niet eer met straff, ghestraft heb sijn vermeten.</l>
+</lg>
+
+<pb n="46"/>
+
+<lg type="poem">
+<l>Daer ick nochtans vvel weet, dat lust van Heerschappij,</l>
+<l>Den mensch tot quaet vervoert, en oorsaeckt Tyrannij.</l>
+<l>Dan soo den Hemel my begunsticht met gelucken,</l>
+<l>Soo meyn ick dat ick hem, met machten sal verdrucken.</l>
+<l>Niet als een Koninckx soon, die naer mijn kroone staet:</l>
+<l>Maer als een God'loos mensch, en trouwloos ondersaet.</l>
+<l>'K en acht sijn iaeren niet, als is hy eerst geboren,</l>
+<l>Het willen van den Heer, heeft my voor hem verkoren.</l>
+<l>Mijn vader heeft my selff, de Konincklijcke kroo,</l>
+<l>Doen setten op het hooft, en stellen op den throon.</l>
+<l>Ghy siet hoe dat hy my, met listen meynt te vanghen,</l>
+<l>Door dat <hi rend="i">Abiathar</hi>, en <hi rend="i">Ioab</hi> hem aenhanghen;</l>
+<l>Doch ick verhoop soo vvel, te letten op mijn stuck,</l>
+<l>Dat ick op haeren kop, sal brengen 't ongeluck.</l>
+<l>Godt doe my dit, en dat, soo ick niet vvord' gevvrocken,</l>
+<l>Soo niet <hi rend="i">Adonias</hi> heeft tegen hem ghesprocken,</l>
+<l>Ick svveyr by <hi rend="i">Zebaoth</hi>, den Godt van <hi rend="i">Israel</hi>,</l>
+<l>Die my bevesticht heeft door Goddelijck bevel.</l>
+<l>Die my mijns vaders rijck, en kroon heeft laeten erven,</l>
+<l>Dat hy noch heden sal om sijn misdaden sterven.</l>
+<l>Gaet henen <hi rend="i">Benaja</hi>, en slaet hem dat hy sterft,</l>
+<l>Eer dat hy mijnen staet, door sijnen list verderft.</l>
+<l>Mijn moeder stelt u selff, in dese saeck te vreden,</l>
+<l>En denckt niet dat ghy my, voor hem iet hebt gebeden.</l>
+<l rend="speaker"><hi rend="i">Bersabeé.</hi></l>
+<l>Ick vrees', dat hy ons sal, beschelden met vervvijt,</l>
+<l>Dat ick meyneedich ben, off ghy vvraeckgierich zijt.</l>
+<l rend="speaker"><hi rend="i">Salomon.</hi></l>
+<l>Wie dat verachtingh lijdt, die doet hem selff verachten,</l>
+<l>Men moet op sijn vervvijt, off schelden gansch niet achten.</l>
+<l rend="speaker"><hi rend="i">Bersabeé.</hi></l>
+<l>Bermerticheyt nochtans, de lasteringh bedeckt.</l>
+<l rend="speaker"><hi rend="i">Salomon.</hi></l>
+<l>'T is vvaer vvanneer het niet, tot 's rijckx verderff en streckt.</l>
+<l>Bermerticheyt is goet, maer niet, voor die naer 't leven.</l>
+<l>Van sijnen Koninck staet, door eersucht aengedreven.</l>
+</lg>
+
+<pb n="47"/>
+
+<lg type="poem">
+<l>'T mistrouvven van den Vorst, maeckt dat hy voor hem siet,</l>
+<l>Dat hem geen ongheluck, door onvoorsicht geschiet.</l>
+</lg>
+<p>PAVSA.</p>
+</div>
+</div>
+<div type="chapter">
+<head rend="h2">Vierde deel.</head>
+<head rend="h3">Eerste uytkomen.</head>
+<stage><hi rend="i">Adonias. Benaia.</hi></stage>
+
+<lg type="poem">
+<l>ICk drijff op het gevaer, als op de vvoeste baeren,</l>
+<l>Den schrick die my omringht, doet mijn gemoet vervaeren.</l>
+<l>Dan hoop ick, dat ick my, door list sal maecken groot,</l>
+<l>Dan vrees' ick, dat ick selff, verhaesten sal mijn doodt.</l>
+<l>'T schijnt dat den Hemel my, door affgunst heeft versvvoren,</l>
+<l>Dat ick mijn Koninckrijck, en aensien heb verloren.</l>
+<l>Dat ick den moet verlies, dat ick verlies het hert,</l>
+<l>Waer door een moedich Vorst, met recht gepresen vverdt.</l>
+<l>'T schijnt dat mijn hert getuyght dat my vvat quaets sal naecken,</l>
+<l>Eer ick tot mijn vermeet' off vvensingh sal geraecken.</l>
+<l>Dan ick en vrees' my niet, te sterven voor mijn eer,</l>
+<l>Als ick my, door mijn doodt, off sterven niet onteer.</l>
+<l>'T schijnt dat my mijn verstandt, en vvijsheyt vvas benomen,</l>
+<l>Dat ick mijn ongeluck niet selff ben voorgekomen.</l>
+<l>Dat ick (als <hi rend="i">Absalon</hi> die <hi rend="i">Amnon</hi> 't leven nam)</l>
+<l>Hem niet en heb gedoodt; eer hy tot hoogheyt quam.</l>
+<l>'K vervloeck mijn lijdtsaemheyt, 't ghedult heeft my verdorven.</l>
+<l>'K had beter in het eerst, als nu met schand' gestorven.</l>
+<l>'K had beter in het eerst, my in 't gevaer geset,</l>
+<l>Dan dat ick nu my selff, moet buyghen naer sijn vvet.</l>
+<l>Wat heeft <hi rend="i">Adonias</hi>, doch meer van all'sijn machten,</l>
+<l>Dan kleynheyt, en vervvijt, en schandelijck verachten?</l>
+<l>Dat hy sijn saecken nu, betrouvven moet een vrou,</l>
+</lg>
+<pb n="48"/>
+
+<lg type="poem">
+<l>Die meer sijn vyandt is, als hem sal sijn getrou?</l>
+<l>Dat hy nu bidden moet, die hem met alle reden,</l>
+<l>Om 't geene dat hy bidt, sou hebben eerst gebeden?</l>
+<l>Dat hy sijn vvensingh nu, moet bidden aen een kindt,</l>
+<l>‘Dat hem den staet van 't rijck hooghmoedich ondervvindt?</l>
+<l>'T is dvvaesheyt voor den man, dat hy stelt sijn vertrouvven,’</l>
+<l>Off sijnen raedt beveelt, de svvackheyt van de vrouvven.</l>
+<l>Veel beter had ick selff, mijn broeder aengesocht,</l>
+<l>En had hy my ontseyt, met mijn handt ongebrocht.</l>
+<l>‘De dooden soo men seyt, en konnen niet meer krijghen,</l>
+<l>De Rijcken sien vvy meest, door bloedt off moort verkrijghen.’</l>
+<l>'T bleeck aen <hi rend="i">Abimelech</hi>, die niet een man alleen:</l>
+<l>Maer 't seventich versloegh tot <hi rend="i">Ephra</hi> op den steen.</l>
+<l>Was hem dees saeck gheluckt, vvaerom sout my mislucken,</l>
+<l>Daer Godt den Heere selff, den hooghmoedt vvil verdrucken?</l>
+<l>Daer hy in <hi rend="i">Moyses</hi> vvet uytdruckelijck beveelt,</l>
+<l>Dat men hem straffen sal, die sijnen vrindt besteelt.</l>
+<l>'T schijnt dat de <hi rend="i">Princen</hi>, zijn verbrekers van de vvetten,</l>
+<l>Off dat sy haer de vvet, niet onderdanich setten.</l>
+<l>'T schijnt dat zy zijn als Godt om dat sy voeren 't svveyrt,</l>
+<l>En dat sy noch oor Godt noch mensch en sijn verveyrt.</l>
+<l>Wat hoor ick? ach ick vrees, mijn hoff is t' alle kanten,</l>
+<l>Omcinghelt en beset, met <hi rend="i">Cretische</hi> trawanten,</l>
+<l>Daer sien ick <hi rend="i">Benaja</hi>, my valt voorseker in,</l>
+<l>Dat ick verraden ben van d'ontrou Koninghin.</l>
+<l rend="speaker"><hi rend="i">Benaja.</hi></l>
+<l>My deyrt dat ick mijn handt, aen mijnen Heer moet leggen!</l>
+<l>Maer 't Konincklijck gebodt, en mach ick niet ontsegghen.</l>
+<l>Ghy vveet grootmoedich Vorst, dat ghy door valschen raedt,</l>
+<l>‘Een oorsaeck zijt ghevveest, van u aenstaende quaet.</l>
+<l>Wie sijnen mondt bevvaert, kan oock sijn ziel bevvaeren,’</l>
+<l>Den mensch door sijn misdaedt, verkort sijn eyghen iaeren.</l>
+<l rend="speaker"><hi rend="i">Adonias.</hi></l>
+<l>Is Godt dan een Tyran, dat hy den eenen heeft,</l>
+<l>Geschapen tot verderff, en d'ander vvensing geeft?</l>
+<l>Wat oorsaeck heeft den Heer, dat hy hem heeft verkoren,</l>
+</lg>
+
+<pb n="49"/>
+
+<lg type="poem">
+<l>Ben ick soo vvel als hy, niet Conincklijck gheboren?</l>
+<l>Ben ick niet die met recht behoorde voor te gaen,</l>
+<l>En straffen met de doodt, die naer mijn croone staen?</l>
+<l>Had ick my naer den raedt, van <hi rend="i">Ioab</hi> vvel ghedraghen,</l>
+<l>Hy had langh doodt ghevveest, ick had hem langh verslaghen.</l>
+<l>Ick had my selff al langh, door Konincklijck ghevvelt,</l>
+<l>Veer buyten alle vrees' en vvt ghevaer ghestelt.</l>
+<l>Dan soo ick mijn versuym, seer qualijck can voorkomen,</l>
+<l>Door dat hy 't Koninckrijck met macht heeft inghenomen,</l>
+<l>Soo vloeck ick met vervvijt, mijn traegheyt en ghedult,</l>
+<l>En gheeff my selff alleen, van mijn verderff de schult.</l>
+<l>Waer dat ick keer, off sien, 'ken sien niet dan soldaten,</l>
+<l>Die my in mijnen noodt, ontrouvvelijck verlaeten,</l>
+<l>Die niet om eer, maer gheldt, en dienen haeren Heer,</l>
+<l>En haeren rechten vorst verraden met oneer.</l>
+<l>Verrader zijt ghy dan, die my soo komt verraden?</l>
+<l>Moet ghy met bloedt, en moort sijn moordich hert versaeden?</l>
+<l>Moet ghy den dienaer zijn, van sijn vervloeckt bevel,</l>
+<l>Recht oft het moorden vvaer, een vreughdigh kinderspel?</l>
+<l>‘Als Godt verthorent is, dan straft hy sijne landen,</l>
+<l>Wanneer hy aen een kindt, den Rijckstaf gheeft in handen,’</l>
+<l>Die all' sijn saecken doet lichtveerdich onbedocht,</l>
+<l>En lichtelijck ghelooft dat hem vvordt aenghebrocht.</l>
+<l>Die 't vleyen deughdigh acht, en vvaerheyt houdt voor loghen,</l>
+<l>Die vvt sijns moeders borst, d'ontrouheyt heeft ghesoghen.</l>
+<l>Die als een Tygher brult, off als een Leeuvv vervvoedt,</l>
+<l>Door onversadicheyt, is dorstich naer het bloedt,</l>
+<l>Die vvt sijn rijck, en landt, den vroomen doet verdrijven,</l>
+<l>Die meerder is als hy, moordadich doet ontlijven.</l>
+<l>Ha! Bloedthondt al te vvreedt, die niet en zijt ghebaert.</l>
+<l>Van eenich edel huys, maer van het het slijck der aerdt,</l>
+<l>Meynt ghy eens Koninckx soon, die 't Koninckrijck moet erven,</l>
+<l>Die ghy niet vveerdich sijt, soo schandich te doen sterven.</l>
+<l>Neen neen, en denckt dat niet, soo langh ick heb mijn svveert</l>
+<l>En ben ick noch voor u, noch voor u macht verveert.</l>
+<l>Denckt vry, dat in my is, eens Konincks hert ghebleven,</l>
+</lg>
+
+<pb n="50"/>
+
+<lg type="poem">
+<l>En dat ghy met mijn doodt, oock eynden sult u leven.</l>
+<l rend="speaker"><hi rend="i">Benaja.</hi></l>
+<l>Ras vat hem aen het lijff, en neemt hem sijn ghevveyr.</l>
+<l rend="speaker"><hi rend="i">Adonias.</hi></l>
+<l>Noch soo niet als ghy meynt,</l>
+<l rend="speaker"><hi rend="i">Benaja.</hi></l>
+<l>Den noodt leert teghenvveyr.</l>
+<l rend="speaker"><hi rend="i">Adonias.</hi></l>
+<l>Neen moorders niet alsoo, ghy sult mijn doodt betaelen,</l>
+<l>En met mijn groote ziel, oock neer ter hellen daelen.</l>
+<l>t' sa mannen zijt ghemoet, staet uvven Koninck by,</l>
+<l>Het geldt nu om sijn lijff, sijn riick, zijn heerschappy.</l>
+<l rend="speaker"><hi rend="i">Benaja.</hi></l>
+<l>'T is dvvaesheyt datmen hem, vvil op ziin macht verlaeten,</l>
+<l>Als hem noch moet, noch hert, noch stoutheyt kan ghebaeten.</l>
+<l rend="speaker"><hi rend="i">Adonias.</hi></l>
+<l>Ick berst van onghedult, ach Hemels al te vvreet,</l>
+<l>Wordt ghy dan niet bevveeght, van miin ondraeghsaem leedt?</l>
+<l>Waerom en heeft my niet, het aerdriick langh verslonden,</l>
+<l>Soo het <hi rend="i">Abiram</hi> de' tot straff van miine sonden?</l>
+<l>Eer ick door desen beul, eer ick van desen hondt,</l>
+<l>Berooft vverd' van miin eer, off eer ick verd doorvvondt.</l>
+<l>Voor Tyger suyght miin bloedt, dat ghy doch vvenscht te storten,</l>
+<l>Ghy sult met miine doodt, mijn liiden oock verkorten.</l>
+<l>Driift u moordadich svveert, naer vvensingh in dees borst,</l>
+<l>Ontkerkert vry de ziel van uvven grootsten Vorst.</l>
+<l>Denckt niet dat hy door schrik, oft vreese, sal besvvijcken,</l>
+<l>Sijn Konincklijck ghemoet, sal oock in 't sterven blijcken.</l>
+<l>Vervloeckten moordenaer, vvat staet ghy nu en siet,</l>
+<l>Voleyndicht u bevel, soo eyndicht mijn verdriet?</l>
+<l>Doorsteeckt mijn herte vry, dat my schier dunckt te breken,</l>
+<l>Off gheeft my mijn ghevveyr, ick sal het selff doorsteken.</l>
+<l rend="speaker"><hi rend="i">Benaja.</hi></l>
+<l>U bloedt sy op u hooft, om dat ghy met verraet,</l>
+<l>Oproerich hebt ghemaeckt, den Konincklijcken staet.</l>
+</lg>
+
+<pb n="51"/>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Adonias.</hi></l>
+<l>Bloedtgierighen Tyran, moet u mijn bloedt versaeden,</l>
+<l>Moet ghy den ghenen zijn, die my soo moet verraeden.</l>
+<l>Gheen moederlijcke boerst, en heeft u op ghebrocht:</l>
+<l>Maer ghy zijt opghevoedt, van eenich helsch ghedrocht.</l>
+<l>Gheen vrou heeft u ghebaert, u vader vvas bedroghen,</l>
+<l>V vvreetheyt thoont ghenoech, vvat borst ghy hebt ghesoghen.</l>
+<l>'Kontsin, van onghedult, ach! Dat ick den Tyran,</l>
+<l>Die my vermoorden doet, oock niet vermoorden can.</l>
+<l>Valt hemels valt op ons, vvilt ons alt'samen verpletten,</l>
+<l>Vernielt dees moorders vvreet, die haer met bloedt besmetten,</l>
+<l>Slaet haer met blickxems vier, verslindt haer door u cracht</l>
+<l>Lijdt niet dat haeren Vorst, van haer vvordt omghebracht.</l>
+<l>Lijdt niet dat sy met rust, neerdaelen in der hellen;</l>
+<l>Maer vvilt met knagigh leedt, haer vvreede zielen quellen,</l>
+<l>Gaet seght aen Salomon, dat ick tot sijn verderff,</l>
+<l>Niet als sijn onderdaen, maer als sijn Prince sterff,</l>
+<l>Niet als een verraedt, off ontrou heeft bedreven:</l>
+<l>Maer als een Koninckx Soon, en Koninck in sijn leven.</l>
+<l>Ay my! mijn craght vergaet, verlost my toch o! Heer,</l>
+<l>Van die mijne ziele iaeght, en dooden met oneer.</l>
+<l rend="speaker"><hi rend="i">Benaja.</hi></l>
+<l>Soo moeten sy vergaen, die 't Koninckrijck beroeren,</l>
+<l>Off die des Koninckx naem, onvveerdich vvillen voeren.</l>
+<l>Voorseker desen Vorst thoont vvel een vroom ghemoet,</l>
+<l>Dat hy standtvastich draeght, den groosten teghenspoet,</l>
+<l>‘'T is Konincklijcke deught, den teghenspoet te draghen,</l>
+<l>Te meer als hem de doodt, verschrickt maeckt noch verslaghen,</l>
+<l>Die sonder vreese sterft, als hy in voorspoet leeft,</l>
+<l>Thoont dat hy Konincklijck, de doot vervvonnen heeft.’</l>
+<l>Komt neemt sijn lichaem op, vvy sullen hem begraven,</l>
+<l>Soo sijnen staet betaemt, in sijn voor-vaders graven.</l>
+</lg>
+
+</div>
+<div type="chapter">
+<pb n="52"/>
+<head rend="h3">Vierde deel. <lb/>Tvveede uytkomen,</head>
+<stage><hi rend="i">Pedania, Tersira</hi>.</stage>
+
+<lg type="poem">
+<l>MEynt ghy vervloeckte vrou, 't ontstelen soo mijn kindt,</l>
+<l>Dat ick selff heb ghebaert, en dat mijn ziel bemint?</l>
+<l>Ha neen! en denckt dat niet, ghy sult het weder gheven,</l>
+<l>Off ick sal voor mijn vrucht, verliesen oock mijn leven.</l>
+<l>Ghy hebt u eyghen kindt, in uvven slaep ghedoodt,</l>
+<l>En 't mijn hebt ghy gherooft, te nacht wt mijnen schoot.</l>
+<l>Ick ken u valscheyt vvel, gheen saeck en blijft verholen,</l>
+<l>Ghy hebt u kindt ghedoodt, en 't mijn hebt ghy ghestolen.</l>
+<l>Ghy hebt door onvoorsicht, u eyghen kindt verdaen,</l>
+<l>En meynt door desen list, u rechte straff t' ontgaen.</l>
+<l rend="speaker"><hi rend="i">Tersira.</hi></l>
+<l>Wel hoe <hi rend="i">Pedania</hi>, meynt ghy my te vervaeren.</l>
+<l>Om dat wy met ons tvvee, maer in het huys waeren?</l>
+<l>Om dat ick niemant heb, die recht ghetuyghen mach,</l>
+<l>Dat ick van dit mijn kindt, voor weynich tijdt ghelach.</l>
+<l>Neen, ghy hebt selff u kindt, al slapende verleghen,</l>
+<l>Noyt heeft dit levend kindt, in uvven arm gheleghen.</l>
+<l>'Ken pas op u vervvijt, noch schelden niet een haeyr,</l>
+<l>Ghy liecht al dat ghy seght, en dat ick segh is vvaer.</l>
+<l>Ick sou veel liever selff, mijn kindt den hals omvringhen,</l>
+<l>Eer dat ick 't gheven sal, off eer ghy my sult dvvinghen.</l>
+<l>Eer dat ick toe sal staen, dat ghy 't my rooven sult,</l>
+<l>Hebt ghy u kindt ghedoodt, het is u eyghen schult.</l>
+<l rend="speaker"><hi rend="i">Pedania.</hi></l>
+<l>Ach my onsalich vvijff, ellendichste der vrouvven,</l>
+<l>Wie sa lick nu voortaen, ter vverelt meer betrouvven?</l>
+<l>Sal my dees snoode vrouvv vervvijten, dat ick ben</l>
+<l>Moordadich aen mijn kindt, en niet mijn kindt en ken.</l>
+<l>Ick segh u <hi rend="i">Tersira</hi>, ghy hebt daer selff gheloghen,</l>
+<l>Ghy hebt my valschelijck, in mijnen slaep bedroghen.</l>
+<l>Ghy hebt mijn kindt gherooft, in 't midden van den nacht,</l>
+</lg>
+
+<pb n="53"/>
+
+<lg type="poem">
+<l>Dat soo natuer hem leert, sijn moeder selff toe lacht.</l>
+<l>'T schijnt dat sijn kindtsheyt vvilt, mijn recht en saeck ghetuyghen.</l>
+<l>Door dat het meer mijn borst, als d'uvve vvenscht te suyghen,</l>
+<l>Ach arm onnoosel dier, mijn eyghen vleesch, en bloedt,</l>
+<l>Sult Ghy dan met mijn melck, niet vvorden opghevoedt.</l>
+<l>Sal dees oncuysche vrou, u moeder u ontsteelen,</l>
+<l>Om met u teere ieucht, naer haeren vvensch te speelen.</l>
+<l>Om dat sy noch met my sou drijven haeren spot,</l>
+<l>En segghen dat ick vvas voor haeren list te bot.</l>
+<l>Neen neen, en denckt dat niet, ick sal my gaen beclaghen,</l>
+<l>En aen den Koninck selff, dees diuverij voordraghen,</l>
+<l>Soo Godt hem heeft begaeft, met vvijsheyt en verstandt.</l>
+<l>Soo meyn ick dat hy my, sal vvreecken van dees schandt,</l>
+<l rend="speaker"><hi rend="i">Tersira.</hi></l>
+<l>Meynt ghy dat ick my vrees' om my ghelijck te rechten</l>
+<l>Het recht, oft het ghevvelt, moet onsen tvvist beslechten.</l>
+<l>Komt gaen vvy naer het Hoff, ick sal soo vvel als ghy,</l>
+<l>Mijn claght den Koninck doen, van moort en diuery.</l>
+<l>Soo hy can sonder thoon, rechtveerdich oordeel vvijsen,</l>
+<l>Soos al een yder een, sijn groote vvijsheyt prijsen.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Vierde deel. <lb/>Derde uytkomen.</head>
+<stage><hi rend="i">Salomon, Abiathar, Benaja.</hi></stage>
+
+<lg type="poem">
+<l>'T Is vvaer, Godt had belooft, soo Ely bleeff ghetrou,</l>
+<l>Dat hy voor hem altijdt, en eeuvvich vvesen sou:</l>
+<l>Maer doen sijn soonen haer, soo schandelijck vergaeten,</l>
+<l>Dat sy het beste deel, van sijnen offer aeten.</l>
+<l>Soo heeft den Heer gheseyt, door de Propheten mondt,</l>
+<l>Dien hy tot Silo selff, aen haeren Vader sondt,</l>
+<l>Ick had uvvs vaders huys, in eeuvvicheyt ghesvvoren:</l>
+<l>Dat het tot mijnen dienst, alleen sou zijn vercoren,</l>
+<l>Maer het moet verre zijn, ick eere, die my eert,</l>
+<l>En van die my veracht hem oock, mijn aenschijn keert.</l>
+<l>Want siet den tijdt die comt, dat ick om my te vvreecken,</l>
+</lg>
+
+<pb n="54"/>
+
+<lg type="poem">
+<l>Den arrem van u huys, haest sal in stucken breken,</l>
+<l>Tot dat daer niemant sy, die oudt vvordt van u saet:</l>
+<l>Maer sult u vyandt sien, berooven uvven staet.</l>
+<l>Nochtans en vvil ick niet, van mijnen Autaer roeyen,</l>
+<l>Al die van Aarons saet, het Priesterdom bemoeyen:</l>
+<l>Ick vvil vervvecken een, die doen sal mijn ghebodt,</l>
+<l>Wiens huys sal eeuvvich zijn, den Heere Sabaoth.</l>
+<l>Dit sal het teecken zijn, vvaer door ghy sult verderven,</l>
+<l>Dat bey op eenen dach, u soonen sullen sterven.</l>
+<l>Al dat van u ghesalcht, voliaerich vvorden sal,</l>
+<l>Sal sterven sonder vrucht, met droevich ongheval.</l>
+<l>Wie van u over blijft, sal ick met leedt bedroeven,</l>
+<l>Tot dat sy tot haer quaedt, mijn gramschap sullen proeven.</l>
+<l>Noyt valt des Heeren vvoordt, onvruchtbaer op der aerd',</l>
+<l>Den mensch vvordt tot sijn straff, nootsaeckelijck bevvaert,</l>
+<l>Godt gheeft den Koninck macht, om sijn straff vvt te voeren,</l>
+<l>Als ymant door verraedt, het rijcke vvilt beroeren.</l>
+<l>Ghy vveet <hi rend="i">Abiather</hi>, hoe veel ghy hebt misdaen,</l>
+<l>Door dat ghy hebt met raedt, mijn broeder by ghestaen,</l>
+<l>‘Wie raedt gheeft tot verraedt, is schuldich van't verraden,</l>
+<l>Door dat hy d'oorsaeck is, van dat hy heeft gheraden.’</l>
+<l rend="speaker"><hi rend="i">Abiathar.</hi></l>
+<l>‘Als Godt den mensch verlaet, beneemt sy sijn verstandt,</l>
+<l>En keert al sijnen raedt, tot sijn verderff, en schandt.’</l>
+<l>Ick ken Grootmoedich Vorst, dat ick my heb vergeten,</l>
+<l>Door dat ick niet met raedt, ghestraft heb sijn vermeten,</l>
+<l>Dat ick heb toeghestaen, den raedt die <hi rend="i">Ioab</hi> gaf,</l>
+<l>Waer door ick schuldich ben, sijn wel verdiende straff:</l>
+<l>Maer soo den Vorst meer deught, can thoonen door 't vergeven,</l>
+<l>Als door sijn straffe vvet, vvaer door hy straft aen 't leven,</l>
+<l>Soo meyn ick voor ghewis, nu Godt u ziel bevvoont,</l>
+<l>Dat ick meer door u deucht, als recht sal sijn verschoont,</l>
+<l>Ghy hebt de deught soo wel, als 't Koninckrijck vercreghen,</l>
+<l>Van die met hert en ziel, tot deughden vvas ghenegen.</l>
+<l>Denckt daerom bid ick doch o! Vorstelijcken Heer,</l>
+<l>Wat deught <hi rend="i">Ahimelech</hi>, u vader de' wel eer,</l>
+</lg>
+
+<pb n="55"/>
+
+<lg type="poem">
+<l>Als hy voor <hi rend="i">Sauls</hi> haet tot <hi rend="i">Nobe</hi> vvas ghevloden,</l>
+<l>Daer hy hem heeft het svveert, en toon-broodt aen-gheboden.</l>
+<l>Waerom hy sonder schult, van <hi rend="i">Saul</hi> vvert ghedoodt,</l>
+<l>Met all' die voor den Heer, bevvaerden 't heylich Broodt,</l>
+<l>Mijn haeyren rijsen op, 'k en kan 't schier niet vvtspreken,</l>
+<l>Hoe <hi rend="i">Doeg</hi> den <hi rend="i">Edomijt</hi>, de Priesters heeft door steken.</l>
+<l>Hoe hy op eenen dach, kon storten soo veel bloet,</l>
+<l>Van menschen en van vee, dat doch gheen quaedt en doet.</l>
+<l>'T is vvaer, dat ons den Heer ghedreyght had met verderven;</l>
+<l>Maer 't schijnt dat sijnen haet, vercoelt is door haer sterven.</l>
+<l>Want om dat ons gheslacht, niet gansch en sou vergaen;</l>
+<l>Heeft hy my in den noodt, ghenadich by ghestaen.</l>
+<l>Hy heeft uvvs vaders hert, bevveeght tot medelijden,</l>
+<l>Door dat hy schuldich vvas, aen haer verdrietich lijden.</l>
+<l>En svvoer my by den Heer, vvie naer u leven staet,</l>
+<l>Sal naer mijn leven staen, en vvecken my tot haet.</l>
+<l>Heeft hy my door sijn deught, ghenadich aen-ghenomen,</l>
+<l>Soo bid ick laet sijn deucht, oock in u ziele comen</l>
+<l>Vervremt u herte niet, thoont u me vveerdicheyt,</l>
+<l>'K en bid maer om het gheen, dat my is toe gheseyt.</l>
+<l rend="speaker"><hi rend="i">Salomon.</hi></l>
+<l>Om dat ghy d'Arcke Godts, voor Dauid hebt ghedraghen,</l>
+<l>Als <hi rend="i">Vza</hi> van den Heer, met gramschap vvert gheslaghen,</l>
+<l>Wil ick op desen dach, al is u misdaet groot,</l>
+<l>Vergheven door mijn deught, u welver-diende doodt.</l>
+<l>Ick weet dat ghy seer veel, met David hebt gheleden</l>
+<l>Tervvijl hy om het rijck, met <hi rend="i">Saul</hi> heeft ghestreden.</l>
+<l>Daerom laet u toe, dat ghy tot <hi rend="i">Anatath</hi>,</l>
+<l>Op uvven acker vvoont, om dienen uvven Godt.</l>
+<l>'T is beter dat ghy daer, in rust zijt, als verdreven,</l>
+<l>Dan dat vvy hier door u, in ongherustheyt leven.</l>
+<l rend="speaker"><hi rend="i">Abiathar.</hi></l>
+<l>Jck vvensch dat mijn onrust, het rijck gherustheyt gheeft.</l>
+<l rend="speaker"><hi rend="i">Salomon.</hi></l>
+<l>Het vvoort moet zijn vervult, dat Godt ghesproken heeft.</l>
+</lg>
+
+<pb n="56"/>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Abiathar.</hi></l>
+<l>Danckbaerich met ootmoet, buygh ick my voor u voeten,</l>
+<l>En bid', dat Godt den Heer, u grampschap vvil versoeten.</l>
+<l rend="speaker"><hi rend="i">Salomon.</hi></l>
+<l>‘Godt maeckt den raedt te niet, van die door hoovaerdy,</l>
+<l>Hem selff verheffen vvilt, tot staet off heerschappy,</l>
+<l>Den hoochmoet sal den Heer, vvt sijnen acker roeyen:</l>
+<l>Maer het ootmoedich zaet, sal in veel eeren groeyen.</l>
+<l>Godt eert den aerdtschen mensch, die sijnen naeme vreest:</l>
+<l>Maer die sijn voort veracht, ontreckt hy sijnen gheest.</l>
+<l>Hy kiest die 't hem belieft, als hy een vvil verhooghen,</l>
+<l>De vreese van den Heer, maeckt groot in 's Heeren ooghen.</l>
+<l>Den Koninck groot van macht, en is soo machtich niet,</l>
+<l>Als die den Heere vreest, off sijnen naem ontsiet.</l>
+<l>Die Godt van herten soeckt, door deuchdelijcke vveghen,</l>
+<l>Maeckt dat sijn vyandt selff, tot hem vvaert is gheneghen.</l>
+<l>Den Goddeloosen mensch, verschrickt hem in den noodt:</l>
+<l>Maer die rechtveerdich is, blijft staende tot der doodt.</l>
+<l>Gherechticheyt, en vvet, zijn mueren van de landen,</l>
+<l>Den Heer heeft liever recht, als dienstbaer offerhanden.’</l>
+<l rend="speaker"><hi rend="i">Benaja.</hi></l>
+<l>Het moet o! Grooten Vorst, al u vyanden gaen,</l>
+<l>Soo het <hi rend="i">Adonias</hi>, nu heden ins vergaen.</l>
+<l rend="speaker">Salomon.</l>
+<l>Hoe heeft <hi rend="i">Adonias</hi>, sijn ongheluck ghedraghen?</l>
+<l rend="speaker"><hi rend="i">Benaja.</hi></l>
+<l>Sy vvaeren al verschrickt, die sijne dulheyt saeghen,</l>
+<l>'T scheen dat vvt sijnen mont, een helsche fury quam,</l>
+<l>Sijn ooghen scheenen hem te branden als een vlam,</l>
+<l>Den laster dien ick sprack, en can ick niet vvt spreken,</l>
+<l>Doch heb' hem met dees handt, naer u bevel doorsteken</l>
+<l rend="speaker"><hi rend="i">Salomon.</hi></l>
+<l>‘Den mensch verveckt sijn straff, als hy hooghmoedich vvert,</l>
+<l>Niet straft den Heere meer, als een hooghmoedich hert.</l>
+<l>Wie voor een ander graeft, moet selve daer in vallen,</l>
+<l>Den boosen moet sijn straff, als stricken overvallen.’</l>
+</lg>
+
+<pb n="57"/>
+
+<lg type="poem">
+<l>Wie listich sijnen vrindt, een schandich net bereyt,</l>
+<l>Wordt selff, door vverder-list, in sijn verderff geleyt.</l>
+<l>Wie boven sijne macht, tot aen de Son vvilt vliegen,</l>
+<l>Sal hem, eer dat hy't vveet, in sijne vlucht bedriegen.</l>
+<l rend="speaker">Benaja.</l>
+<l>Den Prins die moet selff, bereyden van 't gevaer.</l>
+<l rend="speaker">Salomon.</l>
+<l>‘De vreese slacht de doodt, sy volght den mensche naer:</l>
+<l>Doch ick moet soo ick can, my van haer quaet bevrijden,</l>
+<l>En met een vroom gemoet, om d'overvvinningh strijden.</l>
+<l>Begeerlijckheyt van eer, maeckt het gemoet verveert,</l>
+<l>Die vreest voor geen verlies, die geenen staet begeert.</l>
+<l>De vrees' vvordt met den Prins, als tot sijn straff geboren,</l>
+<l>Den mensch die vreesich leeft, geeft selff den moet verloren.</l>
+<l>Die overvvint hem selff, die door geen vrees en schrickt:</l>
+<l>Maer met gedult verdraecht, dat hem vvort toegeschickt.’</l>
+<l>Jck sien dat ick de vrees, moet vvt mijn rijck verdrijven,</l>
+<l>In-dien ick sonder vrees, vvil in het rijcke blijven.</l>
+<l>Soo langh als <hi rend="i">Ioab</hi> leeft, vrees ick voor mijnen staet,</l>
+<l>Sijn aensien, en sijn macht vervveckt my al dit quaet.</l>
+<l>Gaet henen seght hem aen, dat ick hem sal verschoonen,</l>
+<l>In-dien hy voor het recht, sijn onschult can bethoonen:</l>
+<l>Maer soo hy om sijn quaet, vervvesen vvordt ter doodt,</l>
+<l>Dat ick hem niet en can, verlossen vvt den noodt.</l>
+<l rend="speaker"><hi rend="i">Benaja.</hi></l>
+<l>Soo haest <hi rend="i">Adonias</hi>, verloren had het leven,</l>
+<l>Heeft hy hem selff 'door vrees' in 't Heylichdom begeven.</l>
+<l rend="speaker"><hi rend="i">Salomon.</hi></l>
+<l>Soo hy niet strackx en comt, en hem voor 't recht en stelt,</l>
+<l>Soo svveyr ick dat hy daer, sal proeven mijn gevvelt.</l>
+<l>‘Het brullen van den Leeuvv, is als des Konincks thoren,</l>
+<l>Wie tegen hem misdoet, gaet om sijn quaet verloren.’</l>
+</lg>
+
+</div>
+<div type="chapter">
+<pb n="58"/>
+<head rend="h3">Vierde deel. <lb/>Vierde uytkomen.</head>
+<stage><hi rend="i">Ioab, Gheest van Absalon. Benaia.</hi></stage>
+
+<lg type="poem">
+<l>'AY my! vvat schrick is dit, vvat lijd ick al ghevaer?</l>
+<l>Waer dat ick keer, off vlucht dees schaduvv' volght my naer,</l>
+<l>Vliegh ick met mijn ghedacht, in 't diepste van der hellen,</l>
+<l>Ick sien dees ziel daer oock, die mijn gemoet komt quellen.</l>
+<l>Waer dat ick my verbergh, de vrees' die vvat my aen,</l>
+<l>En raedt my dat ick sou , de dulle vvraeck ontgaen:</l>
+<l>Maer vvat, den Hemel is, tot mijn verderff geneghen;</l>
+<l>Want vvaer ick loop, oft vlucht, de vvraeck die komt my teghen.</l>
+<l>'T schijnt dat den Hemel haet, den stervelijcken mensch,</l>
+<l>Soo haest als hy verkrijght, den schijn van sijnen vvensch.</l>
+<l>'T schijnt dat hy my benijdt, en niet meer vvil ghedooghen,</l>
+<l>Dat ick naer desen dach, sijn licht sie met mijn ooghen.</l>
+<l>Ach Hemels te vvreet, hoe lijdt ghy dat een hert,</l>
+<l>Dat noyt vervvonnen is, van vrees vervvonnen vvert?</l>
+<l>Dat <hi rend="i">Ioab</hi> die schier heeft, een vverelt overvvonnen,</l>
+<l>De vreese van de doodt, niet sal vervvinnen konnen.</l>
+<l>Neen neen ick overvvin, de vrees van mijn gemoet,</l>
+<l>Gaet henen soeckt de plaets, daer mijn ziel rusten moet.</l>
+<l>Verlicht haer met u vlam, tot dat ick daer sal komen.</l>
+<l>Want ick vveet dat my haest, den dach sal zijn benomen.</l>
+<l>Ick heb <hi rend="i">Adonias</hi>, geraeden in sijn quaet.</l>
+<l>'T is reden dat mijn ziel, oock by sijn ziele gaet.</l>
+<l>Dat nu de Son alleen, gaet loopen door haer Poolen,</l>
+<l>Dat zy nu vry alleen, den Hemel door gaet doolen.</l>
+<l>Want ick, die als een Son, het aerdtrijck heb verlicht,</l>
+<l>Verduyster door de doodt, en heb haest uytgelicht.</l>
+<l>Mijn Son' gaet onder d'aerd, en wort ter hell' gesonden,</l>
+<l>Daer noyt geen Son' noch licht, noch klaerheyt vvas gevonden,</l>
+<l>Dat sy dan van mijn licht, hooverdich haer beroemt.</l>
+</lg>
+
+<pb n="59"/>
+
+<lg type="poem">
+<l>En mijn licht haeren dach, oft haeren <hi rend="i">Phoebus</hi> noemt.</l>
+<l>'T scheen dat ick van 't gheluck, vol voorspoet was gheboren,</l>
+<l>En nu op eenen dach, gaet all' mijn eer verloren.</l>
+<l>Waerom en ben ick niet, gheslaghen van de pest,</l>
+<l>Als Godt verthoorent vvas, en storff met al de rest.</l>
+<l>Eer dat ick door een kindt, verliesen moet mijn leven,</l>
+<l>Dat hem van in sijn ieught tot moorden gaet begheven.</l>
+<l>Ha! <hi rend="i">Tygher</hi> moet het bloedt, het bloedt van <hi rend="i">Zeruja</hi>,</l>
+<l>Versaeden uvven dorst, dat u bestaet soo na?</l>
+<l>Wat siet men al verderff, en ongheluck geschieden,</l>
+<l>Daer kinders sonder raedt, het Koninckrijck ghebieden?</l>
+<l>Daer niemant vvort beloont, dan die als kinders leeft,</l>
+<l>Het aertrijck ick verlvloeck, dat my ghedragen heeft.</l>
+<l>'T schijnt dat dees schauduvv haer, aen <hi rend="i">Ioab</hi> soeckt te vvreeken,</l>
+<l>'T schijnt dat sy in mijn borst, haer helsche vlam vvilt steeken.</l>
+<l>Wech komt my niet te nae, vertreckt verdoemde ziel,</l>
+<l>Eer dat ick u noch eens, met dit mijn svveert verniel.</l>
+<l rend="speaker"><hi rend="i">Absalon.</hi></l>
+<l>Wee roep ick, Ioab vvee, de vvraeck moet u verderven,</l>
+<l>Mijn ziel doolt ongherust, tot dat ghy oock sult steruen.</l>
+<l rend="speaker"><hi rend="i">Ioab.</hi></l>
+<l>Ach! schrickelijck gesicht, versoeckt ghy dan mijn doodt?</l>
+<l>Berst aerde, scheurt van een, en opent uvven schoot,</l>
+<l>Verslindt haer altesaem, die my door vrees' vervaeren,</l>
+<l>Doet haer, naer haer verdienst, met schrick ter hellen vaeren.</l>
+<l>Sal dan de grousaem vrees', als een vervvoedt tijran,</l>
+<l>Vervvinnnen door haer kracht, een strijdtbaer oorloghs man?</l>
+<l>Sal hy die selff de vrees', op ander plach te iaeghen</l>
+<l>Nu moeten in sijn ziel, haer dulle vvreetheyt draghen?</l>
+<l>Ha! grouvvelijcke vrees' hoe maeckt ghy my verschrickt?</l>
+<l>Hoe <hi rend="i">Ioab</hi> vreest ghy dan, dat u vvort toe geschickt?</l>
+<l>Vreest ghy, vvaer door ghy sult, tot u gelorij raecken?</l>
+<l>Mijn doodt, sal desen dagh, hoop ick, doorluchtich maecken.</l>
+<l>'K en vrees' voortaen niet meer, dat vry den leeuvv vervvoedt,</l>
+<l>Komt suyghen uyt mijn borst, mijn dul ontsteeken bloedt.</l>
+<l>Dat hy mijn ziele vry, doet senden naer der hellen,</l>
+</lg>
+
+<pb n="60"/>
+
+<lg type="poem">
+<l>Op dat dees <hi rend="i">Manes</hi> my, op d'aerd niet meer en quellen.</l>
+<l>De menschelijcke vvet, ben ick oock onderdaen,</l>
+<l>Ick vveet dat alle vleesch, moet door de doodt vergaen,</l>
+<l>Al dat geschapen is, moet vroech oft laet verderven.</l>
+<l>‘'T is dvvaesheyt dat den mensch ontvlieden vvilt het sterven.’</l>
+<l rend="speaker"><hi rend="i">Absalon.</hi></l>
+<l>Waer-om o! moorder vvreet, zijt ghy dan hier gevlucht?</l>
+<l>Weet ghy niet dat-men noyt, des Heeren handt onvlucht?</l>
+<l rend="speaker"><hi rend="i">Ioab.</hi></l>
+<l>'K en vlie den Heere niet, maer vvel des Koninckx thoren.</l>
+<l rend="speaker"><hi rend="i">Absalon.</hi></l>
+<l>Den Koninck doet mijn vvraeck, u vlucht is moeyt verloren.</l>
+<l rend="speaker"><hi rend="i">Ioab.</hi></l>
+<l>Mijn haeyren staen te bergh, mijn mannelijck gemoet,</l>
+<l>Ontset hem door de vrees' die my den strijt aen-doet.</l>
+<l>'T schijnt dat dees grouvvsaem ziel, my toe-sendt al' dees plagen,</l>
+<l>'T schijnt dat sy my vervveckt, die miin gemoet door-knagen.</l>
+<l>'T schijnt dat ick in mijn ziel, met recht vvord' over-tuyght,</l>
+<l>Off dat mijn moedich hert, sich voor de vreese buyght.</l>
+<l rend="speaker"><hi rend="i">Benaja.</hi></l>
+<l>‘Wie dat oneenicheyt, door moet-vvil soeckt te vvecken,</l>
+<l>Soeckt listich het geluck, naer sijnen vvil te trecken.</l>
+<l>'T is dvvaesheyt dat-men meynt, des Heeren straff t'ontgaen,</l>
+<l>Wanneer men sijn gebodt, te buyten heeft gegaen.’</l>
+<l>Ghy vveet groot-moedich Vorst, dat vvy ons moeten setten,</l>
+<l>Naer 't Konincklijck bevel, en vaderlijcke vvetten.</l>
+<l>Der halven, op dat ghy, u aen-clacht vveder leght,</l>
+<l>Soo komt vvt dese plaets, en stelt u selff te recht.</l>
+<l rend="speaker"><hi rend="i">Ioab.</hi></l>
+<l>Seght <hi rend="i">Salomon</hi> dat my den Tempel sal bevrijden,</l>
+<l>Off ick sal hier de straff, van mijne misdaet lijden.</l>
+<l>Ick acht mijn leven meer, als 't Konincklijck gebodt.</l>
+<l>Nu my den Koninck haet, soo staet mijn hoop in Godt.</l>
+<l rend="speaker"><hi rend="i">Absalon.</hi></l>
+<l>‘Als Godt met sijne gunst, den mensch is af gevveken,</l>
+<l>Dan lijdt hy dat de vvraeck, vvraeckgierich haer mach vvreken.’</l>
+</lg>
+
+<pb n="61"/>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Benaja.</hi></l>
+<l>Het Konincklijck bevel heb ick u aengeseyt.</l>
+<l rend="speaker"><hi rend="i">Ioab.</hi></l>
+<l>Gaet seght hem, dat ick hier, te sterven ben bereyt.</l>
+</lg>
+<p>PAVSA.</p>
+</div>
+<div type="chapter">
+<head rend="h2">Viifde deel.</head>
+<head rend="h3">Eerste uytkomen.</head>
+<stage><hi rend="i">Godt den Heere, Salomon, Benaja, Pedania</hi>, <hi rend="i">Tersiria, Semei.</hi></stage>
+
+<lg type="poem">
+<l>ICk vvas, ick ben, ick blijff, eer dat de tijden vvaeren,</l>
+<l>Off eer den afgrondt vvas, soo dreef ick op de baeren,</l>
+<l>Ick ben die met een vvoort, geschapen heb het licht,</l>
+<l>Den Al vvt niet gemaeckt, en met een vvoort gesticht.</l>
+<l>Ick ben het Al, in Al, ick geeff den Al sijn leven,</l>
+<l>Bidt daer om vvat ghy vvilt, dat ick u oock sal geven.</l>
+<l rend="speaker"><hi rend="i">Salomon.</hi></l>
+<l>Ghy hebt o! Heer mijn Godt, mijn vader by-gestaen,</l>
+<l>En <hi rend="i">David</hi> uvven knecht, bermherticheyt gedaen,</l>
+<l>Om dat hy voor u heeft, gevvandelt uvve vvegen,</l>
+<l>En tot gerechticheyt, en vvaerheyt vvas genegen.</l>
+<l>Ghy hebt my sijnen soon naer u beloftenis,</l>
+<l>Doen setten op den stoel, soo het dan heden is,</l>
+<l>Laet Heere naer u vvoort, u vvoort vvaerachtich vvesen,</l>
+<l>Dat ghy aen <hi rend="i">David</hi> hebt gesvvoren langh voor desen:</l>
+<l>Maer ick ben noch seer ionck, en in mijn teerder ieucht,</l>
+<l>Dat tvvijfeligh verkiest, de vvegen van de deught.</l>
+<l>Ghy hebt my van u volck, tot Koninck vvillen setten,</l>
+<l>Eer dat ick had verstandt, t'oordelen van u vvetten.</l>
+<l>Geeft my daer-om o! Godt, een vvijs ootmoedich hert,</l>
+<l>Op dat u volck door my naer recht gevonnist vvert:</l>
+<l>Want vvie vermach u volck, (dat niemant can getellen,)</l>
+<l>T'oorde[el]en sonder u, off haer sijn vvetten stellen.</l>
+</lg>
+
+<pb n="62"/>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Godt den Heere.</hi></l>
+<l>Om dat ghy niet en bidt, om rijckdom, eer, noch staet,</l>
+<l>Noch om dat ick op d'aerd, u een lanck leven laet.</l>
+<l>Noch om de zielen oock, van uvve doodt vyanden,</l>
+<l>Die als mijn gheessel zijn, tot straffingh vande landen:</l>
+<l>Maer om de grootste deucht, de vvijsheyt, die maer vloyt</l>
+<l>Wt my, en door vviens cracht, mijn Godtheyt eeuwich groyt.</l>
+<l>Soo heb ick dan gedaen, naer dat ghy hebt gebeden,</l>
+<l>En heb met vvijst verstant, u hert begonsticht heden.</l>
+<l>Alsoo dat noyt voor u, gevveest heeft uws gelijck,</l>
+<l>Noch niemant comen sal, in dit mijn Koninckrijck.</l>
+<l>Daer toe vvil ick u noch, meer eer, en rijckdom geven,</l>
+<l>Als al de Vorsten groot, die nu op aerdtrijck leven.</l>
+<l>En soo ghy mijnen vvegh, als David gaet altijdt,</l>
+<l>Soo sult ghy met geluck, hier leven langen tijdt.</l>
+<l rend="speaker"><hi rend="i">Salomon.</hi></l>
+<l>Ghy zijt o! Heer alleen, ghy hebt het al geschapen,</l>
+<l>Den hemel looft u cracht, de winden sijn u knapen.</l>
+<l>Al vvat daer boven is, off op het aerd'rijck leeft,</l>
+<l>Js u, ghy zijt die 't rijck, en 's vverelts hoogheyt geeft.</l>
+<l>Ghy heerschapt over al, ghy stort als eenen regen,</l>
+<l>Daer ghy door hooge gunst, vvilt senden uvven segen,</l>
+<l>Geen Godt is vvs gelijck, in u handt staet de cracht,</l>
+<l>Als ghy maer imant vvilt, groot maecken door u macht.</l>
+<l>Wat ben ick doch o! Heer, dat ghy my hebt vercoren?</l>
+<l>Dan ghy volbrenght het geen, dat ghy ons hebt gesvvoren.</l>
+<l>Het Manna van u woort, maeckt mijn ziel onbevreest,</l>
+<l>En maeckt my zijnde ionck, seer oudt, en grijs van geest.</l>
+<l>Ick vveet dat ghy o! Heer, mijn herte vvilt beproeven.</l>
+<l>Ick vvensch te zijn geproeft, Heer vvilt my niet bedroeven.</l>
+<l>Omgort my met u vrees, geeft my oprechticheyt.</l>
+<l>Schept in mijn ziel o! Heer, bid ick gerechticheyt.</l>
+<l>Ick stel my in u macht, ick geef my over vvonnen:</l>
+<l>Want vvie sou tegens u, o! Heer hem stellen connen.</l>
+<l>Godt is <hi rend="i">Iuda</hi> groot, sijn cracht is daer vermaert,</l>
+<l>In <hi rend="i">Israel</hi> heeft hy zijn heerlijckheyt gebaert.</l>
+</lg>
+
+<pb n="63"/>
+
+<lg type="poem">
+<l>Tot <hi rend="i">Salemi</hi> is zijn tent, in Sion vvilt hy vvoonen,</l>
+<l>Aen <hi rend="i">Ephraim</hi> sal hy sijn mogentheyt bethoonen.</l>
+<l>Hy breeckt door sijnen arm, haer bogen, schilt en svveert,</l>
+<l>En maeckt haer in de strijdt, als <hi rend="i">Sissera</hi> verveert.</l>
+<l>Sijn heerlijckheyt, en macht, is meerder als de bergen,</l>
+<l>Die haeren grooten rooff in haeren buyck verberghen.</l>
+<l>Die stout zijn van gemoet berooft hy van haer eer,</l>
+<l>Sy slaepen haeren slaep geen cracht en gelt daer meer.</l>
+<l>Voor u ô <hi rend="i">Iacobs</hi> Godt? vvort slapend' en verslagen,</l>
+<l>U haeters niet alleen, maer beyde eert en vvagen.</l>
+<l>Ghy zijt vervaerlijck Heer, vvie can voor u gestaen,</l>
+<l>Als ghy van uvven throon, u toornicheyt laet gaen.</l>
+<l>Als ghy het oordeel laet van uvven Hemel hooren,</l>
+<l>Soo vvordt het aerdtrijck stil, en stopt verschrickt sijn ooren.</l>
+<l>Ghy slaet de <hi rend="i">Behemots</hi>, en breckt haer hoofden vvreet,</l>
+<l>Als ghy verdrietich vvort, van ons verdrietich leet.</l>
+<l>Ghy deylt door uvve cracht, de zee met haere baeren,</l>
+<l>En doet in haer en buyck, <hi rend="i">Leuiathan</hi> vervaeren.</l>
+<l>In u is dach, en nacht, ghy geeft de Son haer licht,</l>
+<l>Ghy zijt die in de zee, het aerdtrijck hebt gesticht.</l>
+<l>Gedenckt daer-om ô Godt!, aen die ghy hebt vercoren,</l>
+<l>Aen die, die sonder u, ô Heer! sou zijn verloren.</l>
+<l>Vergeet de ziele niet, van u ellendich dier,</l>
+<l>En geeft u tortelduyff, doch niet den vvreeden gier:</l>
+<l>Maer vvilt sijn vierich hert, bevvaeren in u handen,</l>
+<l>Op dat hy eeuvvichlijck mach in u liefde branden.</l>
+<l rend="speaker"><hi rend="i">Benaja.</hi></l>
+<l>‘Recht soomen in een huys, een yder siet bedruckt,</l>
+<l>Wanneer de droeve doodt, een uyt het leven ruckt.</l>
+<l>Off soomen in een schip, den schipper siet vervaeren,</l>
+<l>Wanneer hy 't roer verliest, door 't vvoeden van de baeren.’</l>
+<l>Stont <hi rend="i">Ioab</hi> oock verbaest, vol droefheyt en gevaer,</l>
+<l>'T scheen dat hem imants ziel, vvraeckgierich volghde naer:</l>
+<l>Maer soo het Panther dier, vvanneer het vvordt gevangen,</l>
+<l>Verdobbelt sijn gevvelt, en gaet sijn oude gangen,</l>
+<l>Scheen oock dat <hi rend="i">Ioabs</hi> cracht door vrees vermeerdert vvert,</l>
+</lg>
+
+<pb n="64"/>
+
+<lg type="poem">
+<l>Recht off den noodt, en vrees', gaf vvasdom aen zijn hert.</l>
+<l>Want als ick hem beval, dat ghy my hadt gheboden,</l>
+<l>En dat hy komen sou, van daer hy vvas ghevloden.</l>
+<l>Sprack hy, niet als een man, die vrees' heeft voor de doodt:</l>
+<l>Maer als een die hem selff ghetroost heeft in den noodt.</l>
+<l>Seght <hi rend="i">Salomon</hi> dat my, den Tempel sal bevrijden,</l>
+<l>Off ick sal hier de straff, van mijne misdaet lijden,</l>
+<l>Mijn leven acht ick meer, als 't Konincklijcke ghebodt</l>
+<l>Nu my den Koninck haet, soo staet mijn hoop in Godt.</l>
+<l rend="speaker"><hi rend="i">Salomon.</hi></l>
+<l>Wie dat een mensche slaet, dat hy verliest het leven,</l>
+<l>Moet sterven naer de vvet, die <hi rend="i">Moyses</hi> heeft beschreven.</l>
+<l>Geen plaets en geeft den Heer, die moorders vrijheyt geeft,</l>
+<l>Maer vvel die onverhoets, iet quaets bedreven heeft.</l>
+<l>Wie sijnen naesten doodt, off doet ter hellen daelen,</l>
+<l>Dien suldy (seyt den Heer) van mijn autaer haelen.</l>
+<l>Op dat hy naer verdienst, oock doodt geslaghen vvort,</l>
+<l>En dat sijn bloedt versoen, dat hy heeft uyt gestort.</l>
+<l>Godt vvilt dat alle quaet rechtveerdich wordt ghewrocken.</l>
+<l>Gaet henen slaet hem doodt, doet soo hy heeft gesprocken,</l>
+<l>Begraeft hem in zijn huys, op dat ghy 't edel bloedt,</l>
+<l>Dat <hi rend="i">Ioab</hi> heeft gestort, van mijnen huyse doet.</l>
+<l>En dat den Heer het bloedt, op sijnen kop laet komen,</l>
+<l>Dat hy twee mannen heeft onschuldich 't lijff benomen.</l>
+<l>Die beter sijn gevveest als hy, vol boosen list,</l>
+<l>En heeft haer bey' gedoodt, dat <hi rend="i">David</hi> niet en wist.</l>
+<l>Op dat een yder vveet, van ons naerkomelinghen,</l>
+<l>Dat vvy onschuldich zijn, aen sijn vervloeckte dinghen.</l>
+<l>Dat hy selff <hi rend="i">Amasa</hi> en <hi rend="i">Abner</hi> heeft vermoort,</l>
+<l>Waer door hy Godt, en ons, ten hooghsen heeft verstoort.</l>
+<l rend="speaker"><hi rend="i">Benaja.</hi></l>
+<l>Het Konincklijcke bevel, sal haestelijck geschieden.</l>
+<l rend="speaker"><hi rend="i">Salomon.</hi></l>
+<l>Ghy sult in sijne plaets, als veltheer dan gebieden.</l>
+<l>En op dat Godes vvoort, aen <hi rend="i">Elij</hi> vvert volbracht,</l>
+<l>Ontreck ick 't Pristerdom, het <hi rend="i">Ithamars</hi> geslacht.</l>
+</lg>
+
+<pb n="65"/>
+
+<lg type="poem">
+<l><hi rend="i">Phinees</hi> vveerdich huys, sal tot dees eer geraecken:</l>
+<l>Want <hi rend="i">Sadoch</hi> vvil ick doen, tot Hooghen-priester maecken.</l>
+<l>Gaet henen dat hy strackx, tot Priester wort gevvijt,</l>
+<l>Op dat Ierusalem, en Sion haer verblijt.</l>
+<l>Maer sendt my <hi rend="i">Semei</hi>, van <hi rend="i">Bahurim</hi> geboren,</l>
+<l>Die <hi rend="i">David</hi> als hy vloodt, gevloeckt heeft, en versvvoren,</l>
+<l>Op dat ick naer verdienst, sijn dvvase boosheyt straff,</l>
+<l>En hem met ongeluck, mach brengen in het graff.</l>
+<l>‘Den lasterlijcken mondt, doet selff sijn ziele sterven,</l>
+<l>Den dwaesen brenght hem selff, door dvvaesheyt in 't verderuen.</l>
+<l>Wie sijnen mondt bevvaert, bevvaert hem voor het recht,</l>
+<l>En thoont hoe sijn gemoet, door deucht is onder-recht.’</l>
+<l rend="speaker"><hi rend="i">Benaja.</hi></l>
+<l>Wie teghen Godt misdoet, al tracht hy vvech te vlieden,</l>
+<l>En can, vvaer dat hy vlucht, sijn straffe niet ontvlieden.</l>
+<l>Godts handt reyckt over al, ia reyckt tot in der hel;</l>
+<l>Ick sal grootmoedich Vorst, volbrengen u bevel.</l>
+<l rend="speaker"><hi rend="i">Tersira.</hi></l>
+<l>Comt gaen vvy onse clacht, den Koninck dan voordraghen.</l>
+<l rend="speaker"><hi rend="i">Pedania.</hi></l>
+<l>Gerechten <hi rend="i">Davids</hi> soon, ick coom rechtveerdich claghen,</l>
+<l>Het alder grootste leedt, dat my oyt is geschiet,</l>
+<l>Mijn traenen en gevveen, getuyghen mijn verdriet.</l>
+<l>Ick en dees ander vrouvv, die vvonden bey' te saemen,</l>
+<l>In een ontuchtich huys, daer vvy ons vvellust naemen.</l>
+<l>'T geviel op eenen tijdt, dat ick van kind gelach,</l>
+<l>En sy heeft van gelijck gebaert den selfden dach:</l>
+<l>Maer aen den derden dach heeft sy haer kindt verlegen,</l>
+<l>En in den slapen gedoodt, soo snoode moeders plegen.</l>
+<l>Sy siende dat haer kindt, vvas in den slaep gedoodt,</l>
+<l>Heeft haeren dooden soon, geleydt in mijnen schoot.</l>
+<l>En heeft mijn levend' kindt, vvt mijnen arm genomen,</l>
+<l>Met meyningh dat haer daet, door niemant sou uyt-comen:</l>
+<l>Maer als den dach aen brack, en dat ick grootsten Vorst!</l>
+<l>Mijn kindt gaen suyghen vvou, en leggen aen mijn borst,</l>
+<l>Soo heb ick niet mijn kindt, maer dit haer kindt gevonden.</l>
+</lg>
+
+<pb n="66"/>
+
+<lg type="poem">
+<l>Dat sy in dit mijn cleet, en doeckxkens had' gewonden,</l>
+<l>En nu versaeckt sy 't feyt, om dat ick niet en can</l>
+<l>Betuyghen mijne saeck, door thoon van eenich man.</l>
+<l>Dies bid' ick dat ghy my ô Koninck vvilt beschermen!</l>
+<l>Die als een vader zijt, en trooster van den ermen.</l>
+<l rend="speaker"><hi rend="i">Salomon.</hi></l>
+<l>Wat seght ghy van dees clacht, bekent ghy dat sy seyt.</l>
+<l rend="speaker"><hi rend="i">Tersira.</hi></l>
+<l>'T en is Heer niet alsoo, neen, ick versaeck het seyt.</l>
+<l>Sy meynt my haeren soon, voor dit mijn kindt te geven,</l>
+<l>Ick svveyr by al dat leeft, dat mijn kindt is in't leven.</l>
+<l rend="speaker"><hi rend="i">Pedania.</hi></l>
+<l>En ick svveyr by den Heer, dat mijnen sone leeft,</l>
+<l>En dat sy met bedrogh, voor u geloghen heeft.</l>
+<l rend="speaker"><hi rend="i">Tersira.</hi></l>
+<l>Dat sy haer saeck bethoon, ick segh, sy heeft geloghen,</l>
+<l>Ick svveyr soo vvel als sy, dat sy u heeft bedroghen.</l>
+<l rend="speaker"><hi rend="i">Salomon.</hi></l>
+<l>Wel aen, ick sien dat elck, op 't heftichst hem vervveert,</l>
+<l>Ick sal haer bey' voldoen, gaet haelt my hier een svveert.</l>
+<l>Hout my dit levend' kindt in 't midden door sijn leden,</l>
+<l>En geeft haer elck een helft, soo sijn sy bey te vreden.</l>
+<l rend="speaker"><hi rend="i">Pedania.</hi></l>
+<l>Ach Heere niet alsoo, thoont toch bermerticheyt,</l>
+<l>Aen dit onnoosel dier dat om genade schreyt.</l>
+<l>Geeft haer het levend' kindt, en doet het toch niet sterven,</l>
+<l>'K heb liever dat het leeft al sou ick't eeuvvich derven.</l>
+<l rend="speaker"><hi rend="i">Tersira.</hi></l>
+<l>'T en is noch mijn, noch dijn, laet het in stucken slaen,</l>
+<l>Jck vvil des Koninckx vvil, ick sien 't met vreuchden aen.</l>
+<l>'T is dvvaesheyt dat men vvil, des Koninckx vvil vveerhouwen</l>
+<l>Wy moeten sijnen vvil, als Godt in eeren houvven.</l>
+<l rend="speaker"><hi rend="i">Salomon.</hi></l>
+<l>Geeft dees het levend kindt, ick vveet, en sien gevvis,</l>
+<l>Dat sy van dit haer kindt, de rechte moeder is.</l>
+<l>Haer moederlijck gemoet, en can my niet bedrieghen:</l>
+</lg>
+
+<pb n="67"/>
+
+<lg type="poem">
+<l>Maer ghy hebt straff verdient om dat ghy my comt lieghen.</l>
+<l>Gaet henen ick vergeeff, voor dees reys u misdaet:</l>
+<l>Maer dat ghy my dees vrouvv, voortaen met vreden laet.</l>
+<l>&#160;</l>
+<l>‘Wie dat rechtveerdich vvil oordeelen naer Godts vvetten,</l>
+<l>Mach niet, als op het recht off op de rechten letten.</l>
+<l>Den mensch die licht vervvijst, men niet rechtveerdich acht:</l>
+<l>Maer vvel die 't recht met maet, can houden in sijn macht,</l>
+<l>Godt die rechtveerdich is, haet all' onrechticheden,’</l>
+<l>Die zijn Godt meest gelijck, die haer pont vvel besteden.</l>
+<l rend="speaker"><hi rend="i">Semei.</hi></l>
+<l>Vergeeft de misdaet doch ô! Koninck, Vorst, Heer.</l>
+<l>Aen een, die dvvaeselijck gesproken heeft vvel eer,</l>
+<l>Aen een, die sijn misdaet, genadich is vergeven,</l>
+<l>Van die, die hem met recht, mocht straffen aen het leven.</l>
+<l rend="speaker"><hi rend="i">Salomon.</hi></l>
+<l>Om dat ghy d'eerste vvaert die <hi rend="i">David</hi> zijt ontmoet,</l>
+<l>Als hy van <hi rend="i">Castra</hi> quam, langhs den <hi rend="i">Iordanschen</hi> vloet,</l>
+<l>En hebt hem om gena' genadich aengebeden,</l>
+<l>Soo vvil ick mijn gena, u oock bethoonen heden.</l>
+<l>Gaet tot Ierusalem, en timmert u aldaer,</l>
+<l>Een huys, en vvoont, daer in, maer gaet my niet van daer:</l>
+<l>Want tot vvat daghen ghy, met mijn gebodt sult gecken,</l>
+<l>Off <hi rend="i">Kidrons</hi> schoone beeck, maer eens sult over-trecken</l>
+<l>Soo vveet dat ghy de doodt voor-seker sterven moet,</l>
+<l>U bloedt sy op u hooft, en niet mijns vaders bloedt.</l>
+<l rend="speaker"><hi rend="i">Semei.</hi></l>
+<l>De meyninghe is seer goet, soo mijn Heer heeft gesproken,</l>
+<l>Sal sijnen dienaer doen, mijn misdaet vvordt gevvroken.</l>
+<l rend="speaker"><hi rend="i">Salomon.</hi></l>
+<l>Gaet henen doet het geen, dat ick u heb belast.</l>
+<l>&#160;</l>
+<l>Door godt vervvint den mensch, uyt hem, ons hoocheyt vvast,</l>
+<l>Wie sijn vyanden vvil, tot sijnder eer vervvinnen,</l>
+<l>Moet niet dan door den Heer, en met den Heer beginnnen.</l>
+<l>Nu vvil ick voor den Heer, en voor des Heeren naem,</l>
+<l>Den Tempel bouvven gaen, tot sijnen dienst bequaem,</l>
+</lg>
+
+<pb n="68"/>
+
+<lg type="poem">
+<l>Door hem, vvil ick voor hem sijn vvooningh laeten maecken,</l>
+<l>Dear vvy, en hy met ons, in rusten sal, en vvaecken.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Viifde deel. <lb/>Tvveede uytkomen,</head>
+<stage><hi rend="i">Gheest van Absalon, Ioab, Benaia, vvraecke</hi>.</stage>
+
+<lg type="poem">
+<l>DEn Hemel crijght verdriet, dat ghy soo langh verbeydt,</l>
+<l>'T vvort tijdt, maeckt dat ghy haest, te sterven zijt bereydt,</l>
+<l>Het oordeel is gegaen, hy comt die my sal vvreken,</l>
+<l>Vlucht vry, 'k en acht het niet, hy sal u doch doorsteken.</l>
+<l rend="speaker"><hi rend="i">Ioab.</hi></l>
+<l>Wat grouvvel voelt mijn ziel? ach Hemels zijt ghy dan,</l>
+<l>Soo schrickelijck verstoort op een verlaeten man?</l>
+<l>Waerom en ben ick niet, in 't grouvvsaem stael geschapen</l>
+<l>Dat ick my nu moet sien, berooft van schilt en vvapen.</l>
+<l>Wat let my dat ick niet, dees ziel nich eens vermoor,</l>
+<l>Van vvien ick mijn bederff, als een voorseggingh hoor?</l>
+<l>Wat let my, dat ick niet, op een en hoop de rotsen,</l>
+<l>Om Godt, die my verlaet, naer mijnen vvil te trotsen?</l>
+<l>Wat let my, dat ick niet, den Hemel op en loop,</l>
+<l>En vvorp de Son' en Maen, en Sterren over hoop?</l>
+<l>Wat let my, dat ick niet, de dolende Planeten,</l>
+<l>En treck van haere plaets, als off ick vvaer beseten?</l>
+<l>'T schijnt dat mijn groote cracht, vvaer door ick ben vermaert,</l>
+<l>De svvanger berghen slacht, dei maer een muys en baert,</l>
+<l>De dampen van 't geluck, sijn my in 't hooft getogen,</l>
+<l>Die hebben my verraen, die hebben my bedrogen.</l>
+<l>Mijn vvonderbaer geluck, veroorsaeckt mijnen val,</l>
+<l>'K en vveet vvat noch met my, ach! Hemels vvorden sal?</l>
+<l>Den dach die vvort verschrikt, de vvolcken hem bedecken,</l>
+<l>'T schijnt dat hy my sijn licht, off schijnsel vvilt ontrecken,</l>
+<l>'T schijnt dat hy van sijn cracht, off claerheyt vvort berooft,</l>
+<l>Hy ruymt den svverten nacht, den nacht verthoont sijn hooft.</l>
+<l>In 't midden van den nacht, sien ick de Sterren schijnen,</l>
+</lg>
+
+<pb n="69"/>
+
+<lg type="poem">
+<l>Den nacht die doet den dach, als 't vvas voor 't vier verdvvijnen.</l>
+<l>Daer nu de Son sou staen, sien ick den Beyr vervvoedt,</l>
+<l>Daer staet den vvreeden Leeuvv, die dorst naer menschen bloedt.</l>
+<l>'T schijnt dat hy hem verheught, dat hy my siet verdrucken,</l>
+<l>Hy vreest, dat ick hem noch, sal van den Hemel rucken.</l>
+<l>Daer is den vvreeden Stier, die met sijn horens stoot,</l>
+<l>'T schijnt dat hy my voorseyt, van mijn aenstaende doodt.</l>
+<l>'T schijnt dat hy moedich vvort, dat hy my siet vervaeren:</l>
+<l>Maer neen, 'k en vrees niet meer, ick ben den crijgh ervaeren.</l>
+<l>Ick trots den Hemel selff, ick trots al 's Hemels heyr,</l>
+<l>Den Stier en sijn, gevveldt den Tyger, Leeuvv, en Beyr.</l>
+<l>Dat my den Koninck vry berooven doet het leven,</l>
+<l>Ick sal mijn groote ziel, een grooter Koninckrijck geven:</l>
+<l>Maer vvat, 't schijnt dat ick selff, mijn eygen doodt voorsegh,</l>
+<l>De vrees' maeckt my verschrickt, vvegh vreese van my vvegh.</l>
+<l>Vertreckt verdoemde ziel, laet my met vreden blijven,</l>
+<l>V cracht is doch gedaen, ghy cont my niet ontlijven.</l>
+<l rend="speaker"><hi rend="i">Benaja.</hi></l>
+<l>Het oordeel van den Heer, en can men niet ontgaen,</l>
+<l>Wie met den svveerde slaet, moet door het svveert vergaen.</l>
+<l rend="speaker"><hi rend="i">Ioab.</hi></l>
+<l>Den angel van de vvraeck, voel ick tot mijn verderven.</l>
+<l rend="speaker"><hi rend="i">VVraecke.</hi></l>
+<l>'T is Ioab meer als tijdt, bereyt u, ghy moet sterven.</l>
+<l rend="speaker"><hi rend="i">Gheest van Absalon.</hi></l>
+<l>Den Goddeloosen naem, sal stincken voor den Heer.</l>
+<l>Maer die gerechtich is, sal leven 't sijn der eer.</l>
+<l rend="speaker"><hi rend="i">Benaja.</hi></l>
+<l>Niet mijn, maer u misdaet, die brenght u in het lijden.</l>
+<l rend="speaker"><hi rend="i">Ioab.</hi></l>
+<l>Ach Godt, sal haer de vvraeck, dan in mijn doodt verblijden?</l>
+<l rend="speaker"><hi rend="i">Benaja.</hi></l>
+<l>U bloedt sy op u hooft, u leven vvordt vercort,</l>
+<l>Om dat ghy oorloghs bloedt, in vreden hebt gestort.</l>
+<l rend="speaker"><hi rend="i">Ioab.</hi></l>
+<l>Steeckt vry verwoeden beul, ruckt my in duysent stucken.</l>
+</lg>
+
+<pb n="70"/>
+
+<lg type="poem">
+<l>Mijn doodt sal u tot schandt, en my tot eer gelucken.</l>
+<l>'K en vrees' de dulheyt niet, van uvven kindtschen Vorst,</l>
+<l>Dat naer het moedich bloedt, van <hi rend="i">Zeruja</hi> soo dorst.</l>
+<l>Op aerde scheurt van een, ras opent uvv' afgronden,</l>
+<l>Lijdt niet dat ick alleen, ter hellen vverd'gesonden.</l>
+<l>Lijdt niet dat <hi rend="i">Benaja</hi>, een uer naer <hi rend="i">Ioab</hi> leeft,</l>
+<l>Die meerder grousaemheyt, als hy, bedreven heeft.</l>
+<l>Die niet en heeft ontsien, sijn svveert hier vvt te trecken,</l>
+<l>Om met mijn edel bloedt, den Tempel te bevlecken.</l>
+<l>Sendt plaghen, en verderff, sendt grouvvel, anghxt, en vrees',</l>
+<l>Sendt knagingh in sijn ziel en veed om in sijn vlees',</l>
+<l>Sendt al het grouvvsaem quaet, dat ghy oyt hebt gesonden,</l>
+<l>Op dat hy vvordt van d'aerd off door het aerd' verslonden.</l>
+<l>Maeckt dat des Koninckx hert, verkeert in Tyranny,</l>
+<l>Oock keer van sijnen Godt, en doe Afgodery.</l>
+<l>Op dat hy, off sijn zaet, het rijcke mach verliesen,</l>
+<l>En dat Godt in sijn plaets, een ander doe verkiesen.</l>
+<l>Spaert niet dat mach voldoen, de vvraeck van mijn verderff,</l>
+<l>Ay my mijn hert besvvijckt, de doodt comt, ach ick sterff.</l>
+<l>Mijn machtelooze ziel, ô hemels moet ick geven,</l>
+<l>Daer sy sal sonder vrees' en buyten vreese leven.</l>
+<l rend="speaker"><hi rend="i">Gheest van Absalon.</hi></l>
+<l>Nu is mijn ziel gerust, nu is mijn vvraeck volbracht.</l>
+<l rend="speaker"><hi rend="i">VVraecke.</hi></l>
+<l>Vertreckt naer uvve rust, en rust by u geslacht.</l>
+<l rend="speaker"><hi rend="i">Gheest van Absalon.</hi></l>
+<l>Nu triumpheert de vvraeck, nu voel ick mijn ghenoeghen</l>
+<l>Mijn ziel sal nu gherust, haer tot het rusten voeghen.</l>
+<l rend="speaker"><hi rend="i">Benaja.</hi></l>
+<l>‘Wie dat door bloedt oft moort vercrijghen vvilt sijn eer,</l>
+<l>Wordt schandich in het lest, verstooten van den Heer,</l>
+<l>Al schijnt den Heer som vvijl, met sijne straff te toeven,</l>
+<l>Hy straft ons 't sijnder tijdt, hy soeckt ons meer te proeven.</l>
+<l>Den mensch die nijdich is, vervveckt sijn eyghen straff,</l>
+<l>Den quaeden moet vergaen, het quaet vergaet als caff.</l>
+<l>Godt royt den boosen uyt, en doet hem schandich sterven,’</l>
+</lg>
+
+<pb n="71"/>
+
+<lg type="poem">
+<l>‘Den goeden laet hy 't landt, in goeden voorspoet erven.</l>
+<l>Wie Godt den Heere soeckt, en neemt sijn weghen waer,</l>
+<l>Licht als den dageraet, off als den middach claer.</l>
+<l>Hy gheeft de scheppers vvel, maer gheeft daer by de sorghen,</l>
+<l>In 't purper dat hy gheeft, leydt moyt, en vrees' verborghen.	</l>
+<l>Hy vvilt dat yder een, sal vreesen sijn ghebodt,</l>
+<l>En kennen dat alleen, sijn eere comt van Godt.</l>
+<l>Sijn oogh die 't al doorsiet, en can men niet ontvlieden,</l>
+<l>Hy seghent als den mensch sijn vvillen laet gheschieden.</l>
+<l>Al treckt den boosen 't svveert, al heeft hy bogh en schilt,</l>
+<l>Sy breecken als een riet, als Godt haer straffen vvilt.</l>
+<l><hi rend="i">Godt smijt den hooghmoet neer, en cort den dvvaes sijn leven,</hi></l>
+<l><hi rend="i">Den mensch die ned'rich is, vvordt door den Heer verheven.’</hi></l>
+<l>&#160;</l>
+<l>Hier hebben vvy ghesien, hoe Godt den hooghmoet plaeght,</l>
+<l>En hoe hy 't nedrich hert, als op sijn vleughels draeght.</l>
+<l>Wy moeten uyt den sin van dees <hi rend="i">Tragoedi</hi> mercken,</l>
+<l>De goetheyt onses Godts, en grootheyt van sijn wercken.</l>
+<l>Wy moeten Christi rijck, door <hi rend="i">Salomon</hi> verstaen,</l>
+<l>Dat eeuvvich blijven sal, en noyt en sal vergaen.</l>
+<l>Hy is die op den stoel, sijns vaders is gheseten.</l>
+<l>Die <hi rend="i">Nathan</hi> heeft voorseyt, met alle de <hi rend="i">Propheten</hi>.</l>
+<l>Hy is het eeuvvich zaedt, aen <hi rend="i">David</hi> toegheseyt,</l>
+<l>Wiens heerlijckheyt en macht, duert tot in eeuvvicheyt.</l>
+<l>Hy is de claer Fonteyn, ons heyl, en ons vermaecken.</l>
+<l>Soo <hi rend="i">Isaias</hi> seydt, diesal ons salich maecken.</l>
+<l>Laet ons dan al te saem, sijn ned'rich van ghemoet,</l>
+<l>En bidden om verstant, als onsen Koninck doet. </l>
+<l>Soo sullen vvy, als hy, vercrijghen Godes seghen,</l>
+<l>En maecken dat sijn hert, tot ons-vvaert is gheneghen.</l>
+<l>Bidt hem met my altesaem, mijn sonden scheyt van my,</l>
+<l>Eer dat mijn sonden Heer, my scheyden doen van dy.</l>
+<l>Straft ons als Ioab niet, maer seghent ons al 't saemen,</l>
+<l>Tot dat vvy vveer by u, als hier, <hi rend="i">VVt jonst versaemen</hi>.</l>
+</lg>
+<p><hi rend="i">Anag.</hi> <hi rend="sc">Dient vwen Al</hi>.</p>
+<p><hi rend="i">Exhibeatur. Z. van Hontssum. </hi></p>
+<pb rend="blank" n="72"/>
+</div>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,3560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Admetus en Alcestis</title>
+               <author>Pieter Nuyts</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Admetus en Alcestis</hi> van Pieter Nuyts uit 1694.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>p. XIV: accolades verspreid over meerdere regels kunnen in deze digitale versie niet weergegeven worden. Daarom wordt de accolade hier, met bijbehorende tekst, op iedere regel herhaald.</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent>86</extent>
+           <scandetails>
+               <scan type="I">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>2, 4</empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">nuyt001adme01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note></note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Theater Instituut Nederland, signatuur: 13 A 12: 2</idno>
+               </bibl>
+               <p>Pieter Nuyts, <hi rend="i">Admetus en Alcestis</hi>. J. Lescailje (erven), Amsterdam 1694</p>
+               <p>&#160;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Admetus en Alcestis</title>
+               <author>Pieter Nuyts</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Admetus en Alcestis</title>
+               <author>Pieter Nuyts</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-08-23</date>
+               <respStmt>
+                   <name type="person">SG</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+<interpGrp>
+<interp type="primair" value="griek01"/>
+<interp type="primair" value="maced01"/>
+</interpGrp>
+<body><cf>
+<div type="chapter">
+
+<pb n="I"/>
+<p><figure>
+<p><xptr to="nuyt001adme01ill0002.gif"/></p>
+</figure></p>
+
+<pb n="III"/>
+<p>ADMETUS, EN ALCESTIS.</p>
+<p><hi rend="i">TREURSPEL.</hi></p>
+<p>door</p>
+<p>P. Nuyts.</p>
+<p><figure>
+<p><xptr to="nuyt001adme01ill0001.gif"/></p>
+</figure></p>
+<p>t'AMSTERDAM,</p>
+<p>By de Erfgen: van <hi rend="i">J: Lescailje</hi>, op de Middeldam, op de hoek van de Vischmarkt, 1694.</p>
+<p>Met Privilegie.</p>
+
+</div></cf>
+<div type="chapter">
+<interpGrp>
+<interp type="secundair" value="hudd002"/>
+</interpGrp>
+<pb n="V"/>
+<head rend="h3"><hi rend="i">Aan de</hi> Weledele en hooggeëerde Mevrouwe Mevrouwe Debora Blaeu, <hi rend="i">Vrouwe van Waveren, Botshol, Ruygewilnisse, &amp;c. &amp;c. &amp;c.</hi>
+<lb/>
+Gemaalinne van den Weledelen en Grootachtbaaren Heere, Johannes Hudde, <hi rend="i">Tegenwoordig Borgermeester en Raad der Stad Amsterdam.</hi>
+<lb/>
+Oudste Regentinne van het Borger Weeshuis aldaar.</head>
+<p><hi rend="b">W</hi><hi rend="i">Eledele en Hooggeëerde Mevrouwe,</hi></p>
+<p>&#160;</p>
+<p>Onder de redenen die my porden, omme dit Tooneelspél van den Atheenschen tot den Amstelschen
+<pb n="VI"/>Schouwburg over te voeren, en voor Uwe weledl<hi rend="sup">t</hi>. te laaten verschynen, woegen waarlyk het minste niet de prysbaare drift, die uwe Weledl<hi rend="sup">t</hi>. zelve gestaadig, met zo onvermoeiden Yver, besteed, en in anderen ontsteekt, omme alles toe te brengen wat aan de behoeftige Weezen voordeelig zoude konnen zyn; was Uwe Weledh<hi rend="sup">s</hi> aangeboorne bescheidenheid minder beroemt, meerder zoude my myne vermeetenheid doen duchten; doch door Uwe Weled<hi rend="sup">s</hi> nooit volpreezen grootmoedigheid gehertigt, verstoute ik my de Oemonische Alcestis, met een byzondere ootmoet van uit haare Tessalische Tempe te begeleiden tot aan den Konstkweekenden Ystroom, en voorts tot onder Uwe Weledl<hi rend="sup">s</hi> alom wakker, doorzigtig en naauwopmerkend oog; maar verschoon gonstig, bid ik, Weledele en Hooggeëerde Vrouw, indien zy te voorschyn komt ontdaan van haare alom zo wyt-<pb n="VII"/>beroemde Grieksche grootsheid, wel met een Hollandsch hulsel gesierd, doch in Braband, en mitsdien ondeftig, duchte ik, toegesteld; doch gelyk de mindere flonkervieren aan het blaauw gewelf van het Groote Hemellicht haar schynsel ontleenen; zo stelle ik ook onfeilbaar, dat deze Alcestis op haar voorhoofd praalende met de glans van Uwe Weledl<hi rend="sup">s</hi> Hoogeëerde Naam, van der zelver straalen insgelyks een helderder luister ontfangen, en haar gebrek beeteren zal.</p>
+<p>Met een breede uitbreidinge der stoffe zal ik Uwe Weled<hi rend="sup">t</hi> niet van wigtiger bezigheden afwenden, maar alleenlyk, na uwe Weled<hi rend="sup">t</hi> ootmoedig te binnen gebragt te hebben de getuigenisse dien aangaande van wylen den Hoofddichter aan het Y, als hy van den alouden Amstel Heer en deszelfs hooggeëerde Gemaalinne, na zyne gewoonte, zo zoet als zinryk zingt,</p>
+<pb n="VIII"/>
+<lg type="poem">
+<l><hi rend="i">Waar werd oprechter Trouw</hi></l>
+<l><hi rend="i">Als tusschen Man en Vrouw</hi></l>
+<l><hi rend="i">Ter waereld ooit gevonden?</hi></l>
+</lg>
+<p>Moet ik hier noch by voegen, dat ik het hoogste genoegen zal scheppen, zo Uwe Weled<hi rend="sup">t</hi> dit volmaakte voorbeeld van Oprechte Trouw eenigermaaten welgevalt, en voorts myn grootste glory stellen, in te moogen weezen,</p>
+<p>&#160;</p>
+<p><hi rend="i">Weledele en hooggeëer de Vrouw,</hi></p>
+<p>&#160;</p>
+<p>Uwer Weled<hi rend="sup">t</hi> onderdaanigen en verplichten Dienaar,</p>
+<p>&#160;</p>
+<p><hi rend="sc">Pieter Nuyts</hi>.</p>
+</div>
+<div type="chapter">
+<interpGrp>
+<interp type="secundair" value="nuyt001"/>
+<interp type="primair" value="lesc002"/>
+</interpGrp>
+<pb n="IX"/>
+<head rend="h3">Aan den Heere Pieter Nuyts, <hi rend="i">Officier der Vryheid Etten, in den Lande van Breda;</hi>
+<lb/>
+Zyn Treurspel van Admetus en Alcestis Ten Tooneel voerende.
+<lb/>
+<hi rend="i">Klinkdicht.</hi></head>
+<lg type="poem">
+<l><hi rend="b">W</hi>Aar blonk de huuw'lykstrouw doorluchtiger in 't licht;</l>
+<l rend="; 2tab">Waar heeft zy ooit verdiend zo hoog te zyn verheven</l>
+<l rend="; 1tab">Als in Alcestis, die, van eed'le deugd gedreeven,</l>
+<l rend="; 1tab">Nu gantsch Thessalien bezwykt in moed en pligt,</l>
+<l>Dus onbezweeken vliegt de dood in 't aangezigt,</l>
+<l rend="; 1tab">Daar zy Admetus, haar Gemaal, behoud in 't leeven,</l>
+<l rend="; 1tab">Om de Aard een voorbeeld van oprechte min te geeven,</l>
+<l rend="; 1tab">Op nieuw herbooren in uw Treurtooneelgedicht?</l>
+<l>De Grieksche Aloudheid laat vry wreed die Trouwe sterven,</l>
+<l rend="; 1tab">En stort ze in 's afgronds nacht. Zy mag, door u, verwerven</l>
+<l rend="; 1tab">Een zachter lot in ons medoogend Nederland.</l>
+<l>Geleerde <hi rend="sc">Nuyts</hi>, gy laat schoon een leeven spaaren,</l>
+<l rend="; 1tab">En Vorst Admetus weêr met zyn Alcestis paaren,</l>
+<l rend="; 1tab">Die dier verpligt zyn aan uw Dichtkonst en verstand.</l>
+<l>&#160;</l>
+<l rend="; 3tab"><hi rend="sc">kataryne lescailje</hi>.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp>
+<interp type="secundair" value="nuyt001"/>
+</interpGrp>
+<pb n="X"/>
+<head rend="h3"><hi rend="i">Op het Treurspel</hi> van Admetus en Alcestis.</head>
+<lg type="poem">
+<l><hi rend="i">ZO hoord men eindeling in onvervalschte toonen,</hi></l>
+<l><hi rend="i">Op 't leezaam Schouwtooneel de oprechte trouw beloonen;</hi></l>
+<l><hi rend="i">Zo werd de Duitsche Luit op hooger toon gesnaard,</hi></l>
+<l><hi rend="i">'t Vermaakelyk en 't nut met zo veel konst gepaard,</hi></l>
+<l><hi rend="i">Dat de alderstrengste deugd genoegen werd gegeeven.</hi></l>
+<l><hi rend="i">Men volg niet meer de wet van Vrankryk voorgeschreeven,</hi></l>
+<l><hi rend="i">Na dat men hier de konst zo ziet in top gezet;</hi></l>
+<l><hi rend="i">Neen, Neêr landsch voorbeeld strek het Fransch Tooneel een wet.</hi></l>
+<l><hi rend="i">Geen laffe Koningen in minnenyt ontsteeken,</hi></l>
+<l><hi rend="i">Zien wy verwoed zich hier van medeminnaars wreeken;</hi></l>
+<l><hi rend="i">Een pryzelyker drift gevest op reên en recht,</hi></l>
+<l><hi rend="i">De zuiv're vruchten van een ongeschondene Echt;</hi></l>
+<l><hi rend="i">De pligt van Bedgenoot, van Oppervorst, van Vader,</hi></l>
+<l><hi rend="i">Van Kind, van Onderdaan; wat treft de menschen nader?</hi></l>
+<l><hi rend="i">Dit alles vind gy hier na 't leeven afgemaald,</hi></l>
+<l><hi rend="i">De snoode vleyery het masker afgehaald,</hi></l>
+<l><hi rend="i">De waare deugden van schyndeugden onderscheiden,</hi></l>
+<l><hi rend="i">Om door dat voorbeeld tot de deugden ons te leiden,</hi></l>
+<l><hi rend="i">Vaar, vaar zo voort, Heer</hi> <hi rend="sc">Nuyts</hi>, <hi rend="i">streef langs dit loff'lyk spoor</hi></l>
+<l><hi rend="i">Vw Landsgenooten, en den vreemdelingen voor.</hi></l>
+<l>&#160;</l>
+<l rend="; 1tab"><hi rend="sc">latet quoque utilitas</hi>.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp>
+<interp type="secundair" value="nuyt001"/>
+<interp type="primair" value="plui001"/>
+</interpGrp>
+<pb n="XI"/>
+<head rend="h3">Op het treurspel van Admetus en Alcestis.</head>
+<l><hi rend="b">T</hi>Essaalsche Alcestis, die het hart van een doet scheuren,</l>
+<l>Door deerelyke druk, en door rechtmaatig treuren,</l>
+<l>Treet op ons Duitsch Toonneel; die weêrgalooze vrouw</l>
+<l>Verstrekt een voorbeeld van de dapperheid en trouw.</l>
+<l>Admetus, die in elk verwekt een mededogen,</l>
+<l>Word van zyn hofgezin te jammerlyk bedroogen.</l>
+<l>Geveinsde vrindschap, schyn van onbesprooken' deugd,</l>
+<l>Schuilt by de Ridderen, by vrouwen, man en jeugd;</l>
+<l>Elk zwetst van zyne liefde, en wil het dierbaar leeven</l>
+<l>Vrywillig voor zyn Vorst, vol moed, ten besten geeven:</l>
+<l>'t Lot eischt zulks eind'lyk, of voor 't zyne eens anders bloed;</l>
+<l>Maar dan verdwynen straks die braaven met hun moed.</l>
+<l>Dit Treurspel leert een Prins van vleijers zich te onthouwen,</l>
+<l>En hoe men in de noot op vrinden mag vertrouwen.</l>
+<l>U, Dichter, komt die eer, u komt ze toe, Heer <hi rend="sc">Nuyts</hi>,</l>
+<l>Die ons der Grieken konst toont in hoogdraavend Duitsch.</l>
+<l>&#160;</l>
+<l rend="; 1tab">J. <hi rend="sc">Pluimer</hi>.</l>
+</div>
+<div type="chapter">
+<pb n="XII"/>
+<head rend="h3">Copye Van de privilegie.</head>
+<p>DE Staten van Holland ende Westvriesland doen te veten. Alzo Ons vertoond is by de tegenwoordige Regenten van de Schouwburg tot Amsterdam, Dat zy Supplianten zedert enige Jaaren herwaarts met hunne goede vrinden hadden gemaakt en ten Tooneele gevoert verscheiden Werken, zo van Treurspeelen, Blyspeelen als Klugten, welke zy lieden nu geerne met den druk gemeen wilden maken: doch gemerkt dat deze Werken door het nadrukken van anderen, veel van hun luister, zo in Taal als Spelkonst zouden komen te verliezen, en alzo zy Supplianten hen berooft zouden zien van hun byzondere oogwit om de Nederduitschen Taal en de Digtkonst voort te zetten, zo vonden zy hen genoodzaakt, om daar inne te voorzien, ende hen te keeren tot Ons, onderdanig verzoekende, dat Wy omme redenen voorsz. de Supplianten geliefden te verleenen Oktroy ofte Privilegie, omme alle hunne Werken reeds gemaakt, en de noch in 't ligt te brengen, den tyd van vyftien Jaaren alleen te mogen drukken en verkoopen of doen drukken en verkoopen, met verbod van alle anderen op zeekeren hooge peene daar toe by Ons te stellen, ende voorts in communi forma. Zo is 't dat Wy de Zake en 't Verzoek voorsz. overgemerkt hebbende, ende genegen wezende ter bede van de Supplianten, uit Onze regte wetenschap, Souveraine magt ende authoriteit dezelve Supplianten gekonzenteert, geaccordeert ende geoctroijeert hebben, conzenteeren, accordeeren ende octroijeeren mitsdezen, dat zy geduurende den tyd van vyftien eerst achter een volgende Jaaren de voorsz. Werken die reeds gedrukt zyn, ende die van tyd tot tyd door haar gemaakt ende in 't ligt gebragt zullen werden, binnen den voorsz. Onzen Lande alleen zullen mogen drukken, doen drukken, uitgeven en verkoopen. Verbiedende daarom allen ende eenen ygelyken dezelve Werken naar te drukken, ofte elders naargedrukt binnen den zelve Onzen Lande te brengen, uit te geven ofte te verkoopen, op de verbeurte van alle de naargedrukte, ingebragte ofte verkogte Exemplaaren, ende een boete van
+drie honderd guldens daar en boven te verbeuren, te appliceren een darde part voorden Officier die de calange doen zal, een darde part voor den Armen ter Plaatze daar het cazus voorvallen zal, ende het resteerende dar de part voor den Supplianten. Alles in dien verstande, dat wy de Supplianten met dezen Onzen Octroije alleen willende gratificeren, tot verhoedinge van haare schaade door het nadrukken van de voorsz. Werken, daar door in geenige deelen verstaan, den inhoude van dien te authorizeren ofte te advoueeren, ende veel min de zelve onder Onze protektie ende bescherminge, eenig meerder kiedit, aanzien
+<pb n="XIII"/>oft reputatie te geven, nemaar de Supplianten in kas daar in yets onbehoorlyk zoude mogen influeeren, alle het zelve tot haren laste zullen gehouden wezen te verantwoorden; tot dien einde wel expresselyk begeerende, dat by aldien zy dezen Onzen Oktroije voor de zelve Werken zullen willen stellen daar van geene geabbrevieerde ofte gecontraheerde mentie zullen mogen maaken, nemaar gehouden zullen weezen het zelve Octroy in 't geheel ende sonder eenige Omissie daar voor te drucken ofte te doen drucken, ende dat sy gehouden sullen zyn een exemplaar van alle de voorsz. Wereken, gebonden ende wel geconditioneert te brengen in de Bibliotheecq van Onse Universiteit tot Leiden, ende daar van behoorlyk te doen blyken. Alles op poene van het effect van dien te verliesen. Ende ten einde de Supplianten dezen Onzen Consent en Octroije mogen genieten als naar behooren: Lasten wy alle ende eenen ygelyken die 't aangaan mag, dat zy de Supplianten van den inhoude van dezen doen, laaten en gedogen, rustelyk en volkomentlyk genieten, en cesserende alle beletten ter contrarie. Gedaan in den Haage onder Onzen grooten Zegele hier aan doen hangen den <hi rend="sc">xix</hi> September in 't Jaar onzes Heeren en Zaligmakers duizent zes honderd, vier en tachtig.</p>
+<p>&#160;</p>
+<p>G. <hi rend="spat">Fagel</hi>.</p>
+<p>&#160;</p>
+<p>Ter Ordonnantie van de Staaten</p>
+<p>&#160;</p>
+<p><hi rend="spat">SIMON</hi> van <hi rend="spat">BEAUMONT</hi>.</p>
+<p>&#160;</p>
+<p>De tegenwoordige <hi rend="i">Regenten</hi> van de <hi rend="i">Schouwburg</hi>, hebben het recht der bovenstaande Privilegie, voor <hi rend="i">Admetus</hi> en <hi rend="i">Alcestis, Treurspel</hi>, vergund aan de Erfgenaamen van <hi rend="i">J. Lercailje</hi>.</p>
+<p>&#160;</p>
+<p>De misslagen hier en daar, by 't afzyn van den Dichter, ingesloopen, gelieve den Lezer, na zyne bescheidenheid, voorby te gaan, of te verbeteren.</p>
+</div>
+<div type="chapter">
+<pb n="XIV"/>
+<head rend="h3">Korten Inhoud aan den Leezer.</head>
+<l rend="; 2tab"><hi rend="i">Vera fides, &amp; verus Amor.</hi></l>
+<l>&#160;</l>
+<l>HEt leerzaam Schouwtooneel, komt hier de Waereld toonen</l>
+<l rend="; 1tab">Gewaande en waare Deugd, Schyn en oprechte Trouw,</l>
+<l>Men ziet die doemen, deeze op 't loffelykst bekroonen.</l>
+<l rend="; 1tab">Geen knoop knelt starker t'zaam dan tusschen Man en Vrouw.</l>
+<l rend="; 1tab">De Waarheid Goddelyk, de Gryns een Helse Pest is:</l>
+<l rend="; 1tab">Lokt lust u langer, leest <hi rend="i">Admetus</hi>, en <hi rend="i">Alcestis</hi>.</l>
+</div>
+<div type="chapter">
+<head rend="h3">Vertooners.</head>
+<list>
+<item><hi rend="sc">Admetus</hi>, <hi rend="i">Koning</hi> } <hi rend="i">van Thessalien</hi>.</item>
+<item><hi rend="sc">Alcestis</hi>, <hi rend="i">Koningin</hi> } <hi rend="i">van Thessalien</hi>.</item>
+<item><hi rend="sc">Krater</hi>, <hi rend="i">Hopman van de Lyfwacht van Philipput</hi>.</item>
+<item><hi rend="sc">Arbates</hi>, <hi rend="i">eerste van de Thessaalsche Ridderen</hi>.</item>
+<item><hi rend="sc">Gevolg</hi> <hi rend="i">van Thessaalsche Ridderen</hi>.</item>
+<item><hi rend="sc">Antithanata</hi>, <hi rend="i">Moeder van Admetus Weduwe van Feres</hi>.</item>
+<item><hi rend="sc">Philippus</hi>, <hi rend="i">Koning van Macedonien</hi>.</item>
+<item><hi rend="sc">Eumelus</hi>, } <hi rend="i">Kinderen van Admetus en Alcestis</hi>.</item>
+<item><hi rend="sc">Roxane</hi>, } <hi rend="i">Kinderen van Admetus en Alcestis</hi>.</item>
+<item><hi rend="sc">Hofknaap</hi> <hi rend="i">van Admetus</hi>.</item>
+<item><hi rend="sc">Boode</hi>.</item>
+</list>
+<p>Het Tooneel is in Thessalien.</p>
+</div>
+<div type="act">
+<pb n="1"/>
+<head rend="h2">Admetus en Alcestis.</head>
+<head rend="h3">Eerste bedryf.</head>
+<head rend="h4"><hi rend="i">Eerste tooneel.</hi></head>
+<stage><hi rend="sc">Admetus, Krater</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l><hi rend="b">D</hi>E diensten, die gy my kwaamt in myn ramp te toonen,</l>
+<l>Zal ik, Heer Krater, staâg met dankbaarheid beloonen;</l>
+<l>Volhard in zulk een deugd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Krater</hi>.</speaker>
+<l rend="; 1tab">De diensten, die 'k u doe,</l>
+<l>Doorluchte Admetus, komt nooit die vergelding toe</l>
+<l>'k Had, om uw ongeval, een innerlyk meêdoogen,</l>
+<l>En was, met uwen staat, tot in myn ziel bewoogen;</l>
+<l>Maar sedert dat de drift myns Konings wierd bedaard,</l>
+<l>En gy van 't offerstaal des Priesters vry verklaard,</l>
+<l>Scheen zich myn ziel te ontdoen van veele zorg'lykheden;</l>
+<l>Dies ik met vreugde u nu vrymoedig kom ontleeden,</l>
+<l>Dat vorst Philippus my met ernst bevoolen heeft,</l>
+<l>Uw Staat en Steeden, met al 't geene daar aan kleefd,</l>
+<l>Van zyne benden, en zeegpraalende soldaaten</l>
+<l>Te ontledigen, en die geheelyk u te laaten;</l>
+<l>Ja, u grootmoedig weêr te stellen op den troon,</l>
+<l>Te schenken 't leeven, met de reeds verloore kroon,</l>
+<l>Zo ras gy iemand van uw bestvertrouwde vrinden,</l>
+<l>Verwant, of onderdaan zult komen uit te vinden,</l>
+<l>En my te leveren, die zich niet zal ontzien,</l>
+<pb n="2"/>
+<l>Uit liefde tot zyn Vorst, vry willig aan te biên,</l>
+<l>Om, in uw plaatze, door de Aards priesters hand, te sterven:</l>
+<l>Dit is het alles, dat ik kon voor u verwerven;</l>
+<l>Dit is, ô Vorst! myn last; dit is myn Konings wet,</l>
+<l>En on weêr spreekb're wil.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 1tab">Ik sta geheel verzet,</l>
+<l>En, van verwondering, verrukten opgetoogen.</l>
+<l>Wat reed'nen hebben doch uw Vorst hier toe bewoogen?</l>
+<l>O welk een vreemd besluit!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Krater</hi>.</speaker>
+<l rend="; 1tab">'t Is u niet onbekend,</l>
+<l>Wat reden gy onlangs voerde in myns Konings tent,</l>
+<l>Na dat het ongeval, staâg los en onbestendig,</l>
+<l>U, tot der uwen smert, gemaakt had dus elendig,</l>
+<l>Gy de onbevlekte trouw uws volks tot haaren Vorst</l>
+<l>En Heer, als gaadeloos, op 't hoogst verheffen dorst;</l>
+<l>Dat noch uw Onderdaan, noch Ridderen, noch Maagen,</l>
+<l>Ooit zouden weigeren vrywilliglyk te waagen,</l>
+<l>Tot uw verlossing en herstelling, goed en bloed,</l>
+<l>Ja zelfs het leeven met een ongekreukte moed.</l>
+<l>Waar tegen dat myn Vorst niet ongegrond beweerde,</l>
+<l>En, met een ryp vernuft omstandig redeneerde;</l>
+<l>Hoe vaak een Prins wierd van zyn onderdaan misleid,</l>
+<l>En, onder schyn van trouw, geveinsdelyk gevleid.</l>
+<l>Dat de argeloosheid wel kan 't wrokkend hart bewimp'len:</l>
+<l>Dat 't schoone momgelaat bedekt veel ruuwe rimp'len:</l>
+<l>Dat waare vrindschap lang, verlaatend 't aards gewoel,</l>
+<l>By 't zaalig godendom gevestigd had haar stoel.</l>
+<l>Dos had de Vorst, om hier een proefstuk van te geeven,</l>
+<l>En aan zyn Broeders schim, die door u kwam om 't leeven,</l>
+<l>Te gunnen wraak en rust, gelyk men is gewoon,</l>
+<l>Bestemd op 't zoenaltaar, u plegtig te doen doôn;</l>
+<l>Maar hy, eer 't wierd volbragt, heeft zyn besluit veranderd,</l>
+<l>En voorgenomen, schoon of zyn zeegbaren standerd</l>
+<l>Ten torentrans afwaaid van uw doorluchtig Slot,</l>
+<pb n="3"/>
+<l>Te leeningen de smert van uw rampzalig lot,</l>
+<l>En u, geheel en al, in Staat en Troon t' herstellen,</l>
+<l>Indien slechts iemand van uw volk wil laaten vellen,</l>
+<l>Tot uw verlossinge, vrywilliglyk zyn hoofd;</l>
+<l>De Aardswichlaar stemd dit toe, schoon gy hem zyt beloofd.</l>
+<l>Nu moet gy, Vorst, het een of 't andere verkiezen,</l>
+<l>Een vriend my leveren, of 't leeven zelfs verliezen.</l>
+<l>Neem uw bedenken, en hier op een kort beraad,</l>
+<l>Waar toe men u zo lang wat by u zelven laat.</l>
+<l>Ik heb myn last volvoerd, de toegang vry gelaaten</l>
+<l>Aan uwe Ridderschap, die zuilen van uw Staaten.</l>
+<l>Geen mensch weet echter noch van 't koninglyk verdrag.</l>
+<l>'k Wensch dat myn toeleg u na wensch gelukken mag.</l>
+</sp>
+<div type="scene">
+<head rend="h4"><hi rend="i">Tweede tooneel.</hi></head>
+<sp>
+<speaker><hi rend="sc">Admetus</hi> <hi rend="i">alleen</hi>.</speaker>
+<l>WAt ongemeen geval! onsterffelyke Goden!</l>
+<l>In dezen staat heb ik op 't hoogst uw gunst van nooden.</l>
+<l>Red, red my uit de nood, en dit ramspoedig lot,</l>
+<l>Bevryd my, door uw hulp, van mynes vyands spot.</l>
+<l>Maar 'k zie dat my daar komt myn Ridderschap ontmoeten.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Derde tooneel.</hi></head>
+<stage><hi rend="sc">Admetus, Arbates</hi>, <hi rend="i">Gevolg van</hi> <hi rend="sc">Ridderen</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l>DAt wy zyn Majesteit nu wederom begroeten,</l>
+<l>Dat wy de Vorst met deze onze oogen kunnen zien,</l>
+<l>En hem, gelyk voorheen, ons dienst en trouw aanbiên;</l>
+<l>Dat zyn genadig oog ons weder mag bestraalen,</l>
+<l>En zyn hoogachtb're gunst op ons noch nederdaalen;</l>
+<l>Dat zyne heusheid en gerechtigheid voortaan,</l>
+<l>In 't wettige bestier, veel jaaren mag bestaan,</l>
+<l>Vernoegd zo wel 't gemeen, als Ridderschap, en Adel,</l>
+<l>Die vast beslooten had zich nimmer uit den zadel</l>
+<pb n="4"/>
+<l>Te laaten rukken, noch te keeren uit het veld,</l>
+<l>Voor dat uw Majesteit zeeghaftig was hersteld,</l>
+<l>In 't aangeërft bezit der vaderlyken zeetel,</l>
+<l>Waar uit Philippus u verdreef al te vermeetel,</l>
+<l>En onrechtveerdiglyk; al zou het Staat en goed,</l>
+<l>En wat voorts waardig is, ja 't leeven en het bloed</l>
+<l>Der gantsche Ridderschap ons hebben moeten kosten;</l>
+<l>Niets ons te duurbaar is, als wy u slechts verlosten,</l>
+<l>Of waagden 't willig, zo 't kon strekken tot uw nut.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Gy, Heeren, die het Ryk staâg strekten tot een stut,</l>
+<l>En met uw schouders den Thessaalsen Troon hielpt schraagen,</l>
+<l>Gewoon de last van 't Ryk als eigen last te draagen;</l>
+<l>'k Ben niet alleen vernoegd, en van uw trouw voldaan,</l>
+<l>Maar 't brengt ons buiten dat een groote blydschap aan,</l>
+<l>Dat we u aanschouwen in gezondheid en welvaaren.</l>
+<l>Den hemel wil u lang in goeden stand bewaaren!</l>
+<l>'k Had in myn ongeluk nooit anders iets verwacht,</l>
+<l>Als uw grootmoedigheid, en nimmermeer gedacht,</l>
+<l>Dat inzicht van gevaar zou 't zaagen doen, of sidd'ren,</l>
+<l>De dapperheid en drift van zulke braave Ridd'ren;</l>
+<l>Noch dat een van uw schaar, in zyn verstaalde trouw</l>
+<l>En liefde, tot de Vorst gebrekkig weezen zouw,</l>
+<l>Of wank'len in zyn pligt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l rend="; 1tab">Voor zulk een Vorst byzonder,</l>
+<l>Die strekt een voorbeeld aan de waereld, en een wonder,</l>
+<l>Die altoos heeft geleefd ten besten van 't gemeen,</l>
+<l>Die zo veel voor het Ryk gestrêen heeft, en gelêen;</l>
+<l>Die nimmermeer 's volks hals met al te zwaare jukken,</l>
+<l>Van schattingen bestond te perssen, of verdrukken;</l>
+<l>Die, schoon dat hy voorheen heirlegers overwon,</l>
+<l>Eerst eigen tocht en drift oprecht beheerschen kon;</l>
+<l>Die 's daags verstrekte een zorg, en 's nachts een trouwe wachter,</l>
+<l>Die wyze Raadslui loonde, en strafte 's rechtsverkrachter;</l>
+<l>Die nooit door gouddorst, of gehaate gierigheid,</l>
+<pb n="5"/>
+<l>Tot 's nabuurs grens, of kust, lafhertig wierd verleid;</l>
+<l>Wiens goedertierendheid de landgenooten smaakten:</l>
+<l>Door wiens lieftalligheid der volk'ren herten blaakten;</l>
+<l>Een Vorst, wiens ziel nooit wierd tot euveldaân bekoord,</l>
+<l>En eigen voordeel min waardeerde, als wel zyn woord.</l>
+<l>Die nooit vermaak schepte in het zuchten, noch in traanen,</l>
+<l>Noch in 't vergieten van het bloed zyns onderdaanen;</l>
+<l>Voor wien elk Ridder in zyn hert een tempel sticht;</l>
+<l>Die zelfs het godendom door weldaân heeft verpligt;</l>
+<l>Die 't heilig priesterschap, kerkdiensten, en altaaren</l>
+<l>Bewaakt, en voor geweld zorgvuldig liet be waaren;</l>
+<l>Wie dat voor zulk een Vorst niet alles dat hy heeft</l>
+<l>Wil waagen, is niet waard, Heer Koning, dat hy leefd.</l>
+<l>Geen van ons allen, schoon dat elk had duizend leevens,</l>
+<l>Zou weigeren voor u die aan te bieden teevens.</l>
+<l>Indien...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 1tab">Uw redenen, en de op'ning, die gy doet,</l>
+<l>Zyn, Heer! betuigingen van uwe trouwen moed.</l>
+<l>Den hemel laat nooit toe, dat ik zou zien 't bederven,</l>
+<l>Van zulk een heldenschaar! 'k wou liever zelver sterven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l>Die in beraad nam om voor u ter dood te gaan,</l>
+<l>Zou onzer aller wrok en haat geenzins onstaan!</l>
+<l>Wy zyn de dood getroost.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ridderen</hi>.</speaker>
+<l rend="; 2tab">Dat stemmen we alle t' zaamen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Gewis! roemwaardig is uw adelyk beraamen,</l>
+<l>En uw grootmoedigheid verdiend een eerekroon.</l>
+<l>Zo dapp're Helden zyn pylaaren voor den Troon.</l>
+<l>Op 't wel geaard gemoed des onderdaans rechtschaapen.</l>
+<l>Vermogen koningen in veiligheid te slaapen.</l>
+<l>'k Zal u, myn Heeren, staâg vergelden uwe deugd,</l>
+<l>En toonen, dat my die veel jaaren lang geheugd.</l>
+<l>Maar 't is niet onbewust, aan iemant van u allen,</l>
+<l>Dat, als ons rustig Ryk met oorlog overvallen,</l>
+<pb n="6"/>
+<l>En aangetast wierd van den Macedoonsen Vorst,</l>
+<l>(Een Grensplaag, die zich vaak had met ons bloed bemorst,</l>
+<l>En zyn stroopbenden, met Thessaalsen buit omhangen)</l>
+<l>Zyn Broeder door ons, in een veldflag, wierd gevangen,</l>
+<l>En uit een ouden wrok, en ingeroesten haat</l>
+<l>Eens Ridders, door vergif, verfoeijelyke daad!</l>
+<l>In zyn gevangenis, is deerlyk omgekomen;</l>
+<l>En die de misdaad deed heeft straks de vlugt genomen,</l>
+<l>En zich alzo gered van zyn verdiende straf,</l>
+<l>Die 't krygsrecht en 's lands wet aan zulken gruuwel gaf:</l>
+<l>'t Geen in den Buurvorst had gevestigd een vermoeden,</l>
+<l>Als of door ons bedryf deeze euveldaad, dat woeden</l>
+<l>Gepleegt was, en besteld; doch 't is by ons gewraakt,</l>
+<l>En, als verdoemelyk, zo snoodeu stuk gelaakt.</l>
+<l>Waar op met euv'le moede, in onze wal en daaken,</l>
+<l>Het vuur des oorlogs meêr en meêr begon te blaaken.</l>
+<l>Mars speelde op 't krygstrompet een deerelyke rol.</l>
+<l>Bellona, woede op gantsch Thessalien, als dol,</l>
+<l>En hitsten heir op heir, sleep zwaarden tegen zwaarden,</l>
+<l>Dreef drom op drommen aan, joeg paarden tegens paarden,</l>
+<l>Brak lans op standaarden, en standaarden op lans,</l>
+<l>Tot dat ons ongeval noodlottig deed de kans</l>
+<l>Veranderen op 't laast, en sterkten, stêen, en wallen,</l>
+<l>Ja 't heele Ryk, o ramp! in 's vyands handen vallen.</l>
+<l>Ik zelfs, al strydende, zag eind'lyk my gebragt,</l>
+<l>Niet zonder wonden, in de Macedoonse magt.</l>
+<l rend="; 1tab">Tot hier toe was aan u bekend 't beloop der zaaken,</l>
+<l>Doch op wat wyze, dat men goed vond my te slaaken,</l>
+<l>Daar van heeft niemand oit u noch verslaawedaan,</l>
+<l>Of kondschap toegebragt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>, <hi rend="i">met gevolg der Ridderen</hi>.</speaker>
+<l rend="; 2tab">Wy wenschen 't te verstaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Naar dat de vyand had gewoed in bloed en traanen,</l>
+<l>Haaf, huis en hof, van de Thessalisse onderdaanen,</l>
+<l>Dat Macedonien ons had in zyn geweld</l>
+<l>Gekreegen, en zo lang in hechtenis gesteld,</l>
+<pb n="7"/>
+<l>Had haaren Vorst, om aan zyn wraak den toom te geeven,</l>
+<l>Beslooten my verwoed te brengen om het leeven.</l>
+<l>Zo verre ging zyn wrok, op datten laasten niet</l>
+<l>Ontbreeken zoude aan 't leed en duldeloos verdriet</l>
+<l>Van het Emoonse ryk: ik ben alleen ontslagen</l>
+<l>Op zeker voorbeding.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l rend="; 1tab">Wy zullen alles waagen,</l>
+<l>Om zyne Majesteit weêr vry te zien gesteld,</l>
+<l>Wy bidden dat gy ons den gantschen handel meld.</l>
+<l>Het lyd geen last, is slechts 't verdrag maar wel en eerlyk.</l>
+<l>Geen zaak, hoe zwaar ook, zal ons van uw dienst afkeerlyk</l>
+<l>Ooit maaken, of verschrikt, daar is geen stuk zo stout,</l>
+<l>Of aanslag vol ge vaars, of 't werd ons toevertrouwd.</l>
+<l>Deez' Ridder ordening, van Vorsten liefde ontsteeken,</l>
+<l>Van yver brandende, om noch eens te mogen wreeken</l>
+<l>Den hoon aan u gedaan, staat vaardig en bereid,</l>
+<l>Om op den minnen wenk van uwe Majesteit,</l>
+<l>Zyn bitt're haateren, vervollegers en vloekers,</l>
+<l>Hun euveldaaden te vergelden met veel woekers,</l>
+<l>Om hem te tasten aan in 't midden van zyn hof,</l>
+<l>En zyne vastigheên te morselen tot stof.</l>
+<l>Elk zal tot uwen dienst een Hercules verstrekken,</l>
+<l>De drift der Overste den moed der mannen wekken;</l>
+<l>Geen die zich zal ontzien het nypen van de nood,</l>
+<l>Het woên des oorlogsdraaks, of zeissen van de dood.</l>
+<l>Men wacht maar uw gebod.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 2tab">Dewyl wy uit uw woorden,</l>
+<l>Zo daad'lyk niet alleen, maar zelfs ook doorgaans hoorden</l>
+<l>Het loffelyk besluit van deeze Ridderschap,</l>
+<l>Myn Heer, dat yder een reeds vaardig stond, en schrap,</l>
+<l>Om my te redden, en geen nood of dood te myden,</l>
+<l>Zo ben ik wel verheugd dat 'k u daar van bevryden</l>
+<l>Zal kunnen, en verhoên dat zo veel edel bloed</l>
+<l>Voor my niet werd gestort; het waar te veel gewoed.</l>
+<l>Ik zal, om kort te zyn, alleen u hier by voegen,</l>
+<pb n="8"/>
+<l>Dat onzen vyand zich slechts zal met één vernoegen;</l>
+<l>Een die vrywillig zich ter dood aanbieden zal</l>
+<l>In onze plaats, wat 's dit? wat zet uw brein dus pal?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l>O Vorst!... indien... wie kan...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 2tab">Zyn u myn reên een wonder?</l>
+<l>'t Schynt gy verzet u meêr daar voor, als voor den donder.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l>Het is een eigenschap, o Vorst! aan de natuur,</l>
+<l>Des menschdoms ingehecht, door 't wyze hemels stuur,</l>
+<l>Zich te verwond'ren meêr om nieuwe, als groote zaaken:</l>
+<l>'t Verhinderde in het eerst aan my het woorden slaaken:</l>
+<l>Maar na dat ik de zaak met ernst heb overdacht,</l>
+<l>En alles rypelyk wat noodig is betracht,</l>
+<l>Dunkt my, dat zulk een daad tot schandvlek u zou strekken,</l>
+<l>En met een arre faam uwe achtbaarheid bevlekken.</l>
+<l>Met meerder glory trok men rustig 't harnas aan,</l>
+<l>De manschap op de been, en opende de baan</l>
+<l>Tot uw behoudenis, door klem van dapp're handen,</l>
+<l>En joeg de vyanden uit de Thessaalse landen,</l>
+<l>Met beukelaar, en zwaard; zo redde men het Ryk,</l>
+<l>En u te saamen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 1tab">Ach! dat is onmoogelyk.</l>
+<l>De Macedonïers bezitten onze steden;</l>
+<l>Bezetten havenen, kasteelen, vastigheden;</l>
+<l>En hebben 't heele land genoegzaam in haar magt,</l>
+<l>Zelfs zonder hoope van herstellinge, gebragt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l>Door moed en strydbaarheid komt ge alles weêr te boven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>En wat kan ik my doch van zulk een moed beloven?</l>
+<l>Wat hoop oit scheppen uit het roemen op uw zwaard?</l>
+<l>Op legerbenden, zo van voetvolk, als te paard?</l>
+<l>Daar yder staat verbaasd; daar alle deze Ridd'ren</l>
+<l>My schynen voor de dood, lafhertig nu te sidd'ren.</l>
+<pb n="9"/>
+<l>Daar niemant van hen al, zo edel is, of koen,</l>
+<l>Die door zyn dood voor my wil strekken tot rantzoen.</l>
+<l>Hoe zoude ik durven my ten stryd in 't veld begeeven,</l>
+<l>Met krygsliên, die zo zeer beschroomd zyn voor haar leeven?</l>
+<l>Die meer hun eigen lyf, en 't nut van eigen nest</l>
+<l>Waardeeren, als wel 't heil van 't algemeene best.</l>
+<l>Ik zou aan 't maagschap, van die voor my kwam te sheeven,</l>
+<l>Een onwaardeerb're schat tot een belooning geeven</l>
+<l>Voor zulk een heldenstuk; daar anders in den stryd</l>
+<l>Ik licht geraak en kan, t' zaam kroon en leeven kwyt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l>Gemeene last werd licht door veele vaak gedraagen,</l>
+<l>In 't veld zal niemand ook zich weigeren te waagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Wat één niet doen durft, wacht men vruchteloos van veel.</l>
+<l>Doch deze zaak is nu niet meer in zyn geheel.</l>
+<l>Het is niet vorstelyk zyn eeden licht te schenden;</l>
+<l>'k Heb wederkomst beloofd, of iemant daar te zenden,</l>
+<l>Die zich vrywilliglyk ter slachting lyden laat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l>Wy vinden ons verpligt, aan 't lichchaam van den Staat</l>
+<l>Des Adeldoms, verslag te doen van deze zaaken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Is 't edelmoedig vier, dat ik dus deftig blaaken</l>
+<l>Zag in uw boezem, dan zo haastig uitgedoofd,</l>
+<l>Arbates? zulks en had ik nimmermeêr geloofd,</l>
+<l>Maar eerder vastgesteld, elk graag die lof zou, zoeken,</l>
+<l>Om zich, en zyn geslacht, in griekse en vreemde boeken</l>
+<l>Te doen vereeuwigen, en voeren zyne naam</l>
+<l>De waereld door en door op wieken van de faam.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l>Om ons van alle waan, en achterdocht te ontrekken,</l>
+<l>Is't noodig alles aan de Ridderschap te ontdekken,</l>
+<l>Daar uit te hooren, hoe het in haar boezem leid,</l>
+<l>En u van haar besluit te geeven trouw bescheid.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="10"/>
+<head rend="h4"><hi rend="i">Vierde tooneel</hi>.</head>
+<sp>
+<speaker><hi rend="sc">Admetus</hi> <hi rend="i">alleen</hi>.</speaker>
+<l>VErleegen, en heel koel zyn de Edelen vertrokken.</l>
+<l>Helaas! hoe laat een vorst, door vleijers zich verlokken!</l>
+<l>Nu leer ik eerst te recht, dat lichtgeloovigheid</l>
+<l>Een koning vaak verblind, en duizend strikken breid.</l>
+<l>Zo ziet men dat bedrog meest schuild in prinsen hooven,</l>
+<l>Men eerd 't blanketzel, en de waarheid werd verschooven.</l>
+<l>Dus ondervind men best wat dat de menschen zyn,</l>
+<l>Van binnen vals in 't hart, van buiten schoon in schyn.</l>
+<l>My dunkt ik hoor alreeds den Adel alles weig'ren.</l>
+<l>Zo haar laf hertigheid tot zulk een top mogt steig'ren,</l>
+<l>Stel ik onfeilbaar vast weêrom te keeren tot</l>
+<l>De Macedoonsche Vorst, en wachten daar myn lot.</l>
+<l>Ik zal myn prins'lyk woord, om geene reden, breeken,</l>
+<l>Noch 't Ryk in 't uitterste gevaar, of onheil steken.</l>
+<l>Doch waarom zo gezorgt voor een ondankbaar volk,</l>
+<l>Dat reeds 't ontsangen goed, dus affpoeld met een kolk</l>
+<l>Van ras vergeetenheid, en veel genoote deugden,</l>
+<l>Niet langer als een rook in 't stormen duurd, en heugden?</l>
+<l>Laat, laat haar dryven op genaade en ongenaâ,</l>
+<l>En haare dwaasheid vry beweenen tot haar schaâ.</l>
+<l>Maar ingevallen ik niet blyf, noch haar behoeder,</l>
+<l>En weêr de ramp van 't Ryk, waar blyft myn oude Moeder,</l>
+<l>Myn lieve Alcestis, en haar lievenswaarde Kroost?</l>
+<l>Waar vinden die dan plaats, waar scherm, waar heil, waar troost?</l>
+<l>Dus zal het noodig zyn, dat ik, tot haaren besten,</l>
+<l>Na Macedonien my weêr begeef ten lesten,</l>
+<l>En daar erlangen 't geen my des verwinnaars wil</l>
+<l>Beschooren hebben mag, hoe zwaar 't ook zy. Maar stil!</l>
+<l>Is onze hoop dan al verstikt, en weg gevloogen?</l>
+<l>Zal yder onderdaan dan 's Konings dood gedoogen?</l>
+<l>En met goede oogen, als vernoegd, beschouwen? neen!</l>
+<l>Neen! want by dat getal zo vind me 'er noch wel één,</l>
+<pb n="11"/>
+<l>Een die het Ryk en Staat zal voor die ramp beschermen,</l>
+<l>En over 's Vorsten val medoogend zich erbermen</l>
+<l>Die, schoon hy niet en is geteeld van edel bloed,</l>
+<l>Nochtans, uit eigen drift, bezit een eed'le moed.</l>
+<l>Myn Moeder, oud en vroet, wel licht zal kunnen vinden</l>
+<l>Een raad, om ons uit dit verward geval te ontwinden:</l>
+<l>Ook is van kunne of staat gemaakt geen onderscheid;</l>
+<l>Men vorderd groot noch klein, alleen vrywilligheid.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Vyfde tooneel.</hi></head>
+<stage><hi rend="sc">Admetus, Krater</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Krater</hi>.</speaker>
+<l>DAt by de Ridderschap beslooten zonde weezen,</l>
+<l>En door uw toegestemd, dat yder ons in deezen</l>
+<l>Geleegentheid van staat, gelyk 't nochtans behoord,</l>
+<l>Het opgerecht verdrag, en dier gegeeven woord,</l>
+<l>Met zyn omstandigheên, zo plegtiglyk geslooten,</l>
+<l>Zou weig'ren te voldoen, of trachten om te stooten,</l>
+<l>En zich te ont worst'len uit de Macedoonsche magt,</l>
+<l>Of't heil te zoeken door geweld, en wapenkracht,</l>
+<l>Hoorde ik hier aanstonds met verwond'ring, en niet minder</l>
+<l>Ontsteltenis; gemerkt my kundig is wat hinder,</l>
+<l>Wat onheil, wat elend, wat leed gy brouwen gaat</l>
+<l>Voor u, voor uw gedacht, en uwen heeleu Staat.</l>
+<l>Zulks ik bewoogen wierd my herwaards te begeeven,</l>
+<l>Op 't spoedigst, om door u van 't geen hier in bedreeven</l>
+<l>En vastgestelt is, tot voldoening van myn pligt,</l>
+<l>In alle zekerheid te werden onderricht.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Zoud gy, Heer Krater! zulks u wel verbeelden kunnen,</l>
+<l>Of wacht gy 't wel van my?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Krater</hi>.</speaker>
+<l rend="; 2tab">Den hemel wil u gunnen,</l>
+<l>Dat zulk een euveldaad, ô Vorst! nooit werd volbragt,</l>
+<l>Of in het werk gesteld.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 1tab">Ik heb het nooit gedacht.</l>
+</sp>
+<pb n="12"/>
+<sp>
+<speaker><hi rend="sc">Krater</hi>.</speaker>
+<l>Ik kan, met zekerheid, oprecht'lyk u verklaaren,</l>
+<l>Dat, zo men haap'ren mogt, op 't stipste te bewaaren,</l>
+<l>En na te koomen 't geen waar toe dat u 't verbond</l>
+<l>Verpligte, uw gantsch gebied gewilss'lyk tot de grond</l>
+<l>Zou worden uitgeroeid, verwoest, verstrooid, bedorven</l>
+<l>Uw lichchaam, ach! ik schrik, van lid tot lid gekurven.</l>
+<l>Uw Steden omgekeerd, uw Ridderschap ontzield,</l>
+<l>Uw Borgeren vermoord, het platte land vernield;</l>
+<l>Altaaren zoud gy zien, en tempelen verbranden;</l>
+<l>De eerbaare Vrouweschaar, de Maagdelyke banden,</l>
+<l>Gewyde en ongewyd, geschonden en gehoond;</l>
+<l>Geen teed're zuig'ling, zelfs in zwachtelen, verschoond.</l>
+<l>Al wat bedacht of onbedacht zou moogen weezen,</l>
+<l>Stonde u, den Staat en 't Volk te wachten, en te vreezen</l>
+<l>Zo gy uw woord niet hield.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 2tab">Als een gebooren Prins,</l>
+<l>O Krater! zweer ik u, myn meening is geenfins,</l>
+<l>Aan myn gegeeven woord, te laaten iets ontbreeken,</l>
+<l>Niet dat gelegentheid, om onze hoon te wreeken,</l>
+<l>Of vrees of dreigement, ons ooit weêrhouden zou,</l>
+<l>O neen! maar waare deugd, oprechtigheid en trouw,</l>
+<l>Daaraan myn ziel zich vind geheel en staâg verbonden,</l>
+<l>Die zal ik zonder vlek bewaaren ongeschonden.</l>
+<l>'K weet wat een Vorst verpligt; wacht van my anders niet</l>
+<l>Als 't geen dat vorst'lyk is; zo niemand zich aanbied,</l>
+<l>Om, in myn plaats, uw Prins vernoeginge te geeven,</l>
+<l>Keer ik volstandig weêr ten leste van myn leeven.</l>
+<l>'K verwacht myn Moeder maar, myn Kinderen, en Vrouw,</l>
+<l>En neem daar afscheid van.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Krater</hi>.</speaker>
+<l rend="; 1tab">'k Prys uw stantvaste trouw.</l>
+</sp>
+<stage><hi rend="i">Einde van het eerste Bedryf</hi>.</stage>
+</div>
+</div>
+<div type="act">
+<pb n="13"/>
+<head rend="h3">Tweede bedryf.</head>
+<head rend="h4"><hi rend="i">Eerste tooneel.</hi></head>
+<stage><hi rend="sc">Admetus, Arbates</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>ZO werd 'er niemand dan gevonden van uw allen,</l>
+<l>In wiens gemoed noch die hertvogtigheid kan vallen,</l>
+<l>Om, door het ondergaan van zulk een loslyk stuk,</l>
+<l>'t Geen me eeuwig pryzen zal, te vorderen 't geluk,</l>
+<l>En staat van zyn geslacht, van vrinden en van maagen?</l>
+<l>Zie hier die Ridderen, die 't alles wilde waagen,</l>
+<l>Die braave krygsliên, die de vyand in zyn land</l>
+<l>Met moed bestryden, die haar steên en slooten van 't</l>
+<l>Uitheems geweld ontslaan, die de akkerlui den vreeden</l>
+<l>Beschaffen zouden, en vergeeten doen 't geleeden</l>
+<l>Verdriet en ongeval, die zuilen van den staat,</l>
+<l>Waar op een koning zich zo zorgeloos verlaat;</l>
+<l>Die helden, die hun Vorst beloofden te verlossen,</l>
+<l>Deez' bloem der Hopmanschap, bewaaid met vederbossen,</l>
+<l>Deeze oorlogsblixems, die, verleegen voor hun lyf,</l>
+<l>Slechts beezigen het zwaard en schild, voor tydverdryf,</l>
+<l>En 't harnas voor sieraad; die pit en puik van Adel,</l>
+<l>Het geen de waereld, als gebooren uit den zaadel,</l>
+<l>En opgewassen, om te hand'len het geweer,</l>
+<l>Noch onlangs dwingen zoude, en buigen doen ter neêr,</l>
+<l>Dat saagt en sidderd, als 't komt van de dood te hooren;</l>
+<l>Die naam slechts nu verstrekt een geesel voor haar ooren:</l>
+<l>Dat staat beteutelt en bedremmeld, vol van schrik,</l>
+<l>En acht hun leeven meêr als gloryprikkels.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l rend="; 1tab">Ik,</l>
+<l>En heel de Ridderschap zyn alle wel geneegen,</l>
+<l>En hebben moeds genoeg, om met den blanken deegen,</l>
+<l>Of saabel in de vuist, met ridders speer, of lans,</l>
+<l>In 't open veld te staan, en stryden om de krans</l>
+<pb n="14"/>
+<l>Van uw verlossing, Vorst! het zal ons niet bedroeven,</l>
+<l>Of angstig maaken, lust den vyand ons te proeven</l>
+<l>In 't renperk, dat hy koom te voet, of wel te paard.</l>
+<l>Thessaalsche Ridd'ren zyn alom genoeg vermaard,</l>
+<l>En zullen nimmermeêr voor Macedooners zwichten</l>
+<l>In wapenhandeling; behaagd hen boog of schichten,</l>
+<l>Wy zyn daar vaardig toe; mits dat men u verlos.</l>
+<l>Maar dat men ons, als een onnoozele offerós.</l>
+<l>Gelyk misdaadigers, met Priesters, schaar en reijen,</l>
+<l>Zou naar het zoenaltaar ter slachting zien geleijen;</l>
+<l>En daar, voor 't wreede mes des Wiglaars, bukken doen,</l>
+<l>En geeven dus de geest, dat 's buiten ons vermoên.</l>
+<l>Dat wraakt elk een, en staat hen alle op 't hoogste tegen,</l>
+<l>Min voor de dood, als voor dien hoon en smaad verlegen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Een moedig hert lyd 't al ten dienst van 't Vaderland.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l>Zo lang zyn glory niet gebrandmerkt word met schand.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Hy brandmerkt zich te veel, die zulk een stuk durft weig'ren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l>De Vorst moet boven het bereik der reên nooit steig'ren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Der Vorsten val ontzet de steilen van den Staat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l>Den hemel nimmermeêr een Vorst in nood verlaat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Het past een onderdaan zyn trouw in nood te toonen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l>Heirleegers stutten best de waggelende Troonen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Heirleegers zyn onnut, daar 't aan de trouw ontbreekt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l>Wie dat uit nooddwang scheid, men vry van ontrouw spreekt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Geen onderzaat en laat zyn trouw door noodschrik krenken.</l>
+</sp>
+<pb n="15"/>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l>Wie kan zyn leeven zo gaan zonder wraak weg schenken?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Hy leefd in eeuwigheid, die voor zyn Koning sterft.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l>Wie voor zyn Koning leefd, een eeuwige eer verwerft.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Zyn Vorst te redden is een pligt, elk aangebooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l>Waar zag men één alleen gaan voor 't gemeen verlooren?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Gy zyt van de oude deugd en dapperheid ontaard,</l>
+<l>Verbasterd in den grond, en myn gezigt niet waard.</l>
+<l>Voort, maak u fluks van hier, en wacht u meêr te koomen,</l>
+<l>Daar immermeêr 't gerucht myns byzyns werd vernoomen.</l>
+<l>Ach! aardsche Vorsten, en gy groote Mogentheên!</l>
+<l>Wien 't lot verheeven heeft tot boven 't algemeen,</l>
+<l>Leert uit myn voorbeeld doch, de valsche vleijers schuuwen,</l>
+<l>En voor dat staatvenyn met afkeer wys'lyk grauwen.</l>
+<l>'t Zyn pesten van het hof, en motten van 't paleis,</l>
+<l>Die zich gaan aazen met uw leevend spier en vleis.</l>
+</sp>
+<div type="scene">
+<head rend="h4"><hi rend="i">Tweede tooneel.</hi></head>
+<sp>
+<speaker><hi rend="sc">Admetus</hi> <hi rend="i">alleen</hi>.</speaker>
+<l>DUs komt men tot zyn schande en schaâ, helaas! te leeren</l>
+<l>Hoe schielyk 't hoovenzoet in bitter roet kan keeren.</l>
+<l>Hoe dat van duizende naauw een gevonden werd,</l>
+<l>Die voor oprechte trouw een plaats heeft in zyn hert:</l>
+<l>Hoe dat die prysb're deugd zeer zelden is geduurig,</l>
+<l>En veeltyds met 't geluks gelaat, zeer wispeltuurig.</l>
+<l>De wacht van 't vorstelyk hof wel poort en grendels sluit,</l>
+<l>Maar meest 't bedrog daar in, en deugd en trouw daar uit.</l>
+<l>Te spaâ bevind ik, dat 't gelaat der hovelingen</l>
+<l>Maar enkel schynschoon is, en vol veranderingen,</l>
+<l>Na 't maalen van' t gety, van staat en van geluk,</l>
+<pb n="16"/>
+<l>Zy kleeven als een klits, in voorspoên, vliên, in druk;</l>
+<l>Haar gunst is om genot, haar trouw weegt na het voordeel.</l>
+<l>Ik zie nu klaarder dat Philippus in zyn oordeel</l>
+<l>Voorwaar gantsch niet en heeft gefaalt, wanneer hem docht,</l>
+<l>Dat zich op vrinden gunst, geen Vorst verlaaten mogt.</l>
+<l>Eerst scheen het hert myns volks gelyk een vlam ontsteeken,</l>
+<l>En dat het nergens haar zou kunnen aan gebreeken,</l>
+<l>Elk toonden zich te zyn, gelyk een leeuw verwoed,</l>
+<l>De minsten was een held van gadelooze moed;</l>
+<l>Geen van hen alle die niet scheen de dood te tarten.</l>
+<l>Maar al te schielyk, ach! verflaauwden hunne harten!</l>
+<l>Hoe spoedig wierd hun vlam verkoeld en uitgedoofd,</l>
+<l>En zy van dapperheid, die ridd'ren past, beroofd!</l>
+<l>Zo ras als ik aan hen ging het verdrag ondekken,</l>
+<l>Dat ik, of één van haar vrywillig moest vertrekken,</l>
+<l>En sterven, om zich op te draagen aan den haat,</l>
+<l>En wraak der vyanden, en, door die daad den Staat,</l>
+<l>Het Ryk, en hunne Vorst te houden en bewaaren,</l>
+<l>Elk aarzelde, bedeest, de schrik deed hen de haaren</l>
+<l>Straks steig'ren op den kruin, de vrees nam de overhand,</l>
+<l>En niemand was zo koen, dat hy dorst houden stant.</l>
+<l>De een voor, en de ander na, ging zich uit 't hof begeeven,</l>
+<l>Den Adel alzo wel, en Ridderschap, hun leeven</l>
+<l>Waardeerden, moedeloos en laf, als het gemeen:</l>
+<l>Hofstoet en dienaars, zich verschuilden, een voor een</l>
+<l>Bekommerd dat men hen iets groots zou willen vergen.</l>
+<l>Zo kan kleinhertigheid een yders koenheid tergen.</l>
+<l>Dus heb ik vastgesteld, met Krater, my op reisch</l>
+<l>Te geeven, 't noodlot wil 't; 'k voldoe myn vyands eisch.</l>
+<l>Weg, weg lafhartige...</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Derde tooneel.</hi></head>
+<stage><hi rend="sc">Admetus, Krater, Hofknaap</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Hofknaap</hi>.</speaker>
+<l rend="; 1tab">O Vorst! ik kom u melden,</l>
+<pb n="17"/>
+<l>Hoe we uw vrouw Moeder op haar reis tot hier verzelden,</l>
+<l>En bragten in uw hof, zo dat ik zeker gis,</l>
+<l>Vrouw Anthitanata, in dit paleis reeds is;</l>
+<l>Gy zult ze in deeze zaal zo daadelyk aanschouwen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Die boodschap is my lief. Maar hebt gy wel onthouwen</l>
+<l>'t Geen u bevoolen was, is alles zo verricht?</l>
+<l>Hebt ge u gekweeten van 't stil zwygen, en uw pligt?</l>
+<l>Op dat de vrouwen hier geen kennis af en krygen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hofknaap</hi>.</speaker>
+<l>'k Sprak uit een groote drift, maar grooter deed my zwygen.</l>
+<l>Haar is alleen bewust u we aankomst aan dit Hof,</l>
+<l>En anders niet, myn Heer.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Krater</hi>.</speaker>
+<l>Ik zal, met uw verlof,</l>
+<l>U met myn byzyn, niet meer lastig zyn, of hind'ren</l>
+<l>Eens moeders tederheid in de afscheid van haar kind'ren.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Vierde tooneel.</hi></head>
+<stage><hi rend="sc">Admetus, Antithanata</hi>, <hi rend="i">Gevolg</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Antithanata</hi>.</speaker>
+<l>O Vorst! van Faeres ryk! Eer van 't Thessaals Geslacht!</l>
+<l>Dank zy de hemel, die u in myn arm weêr bragt.</l>
+<l>Zo grooten angst als my was om het hert geslaagen,</l>
+<l>Wanneer het schel gerucht ons kwam de tyding draagen,</l>
+<l>Van uw gevangenis, zo groot is nu de vreugd,</l>
+<l>Die niet alleen het Ryk, maar my voor al verheugd,</l>
+<l>Wyl 't my gebeuren mag u wederom te aanschouwen;</l>
+<l>Nu 'k heb die tyd beleefd, zo zou het my niet rouwen,</l>
+<l>Indien de bleeke dood my van de waereld nam,</l>
+<l>En velden met haar seis deeze afgeleefde stam:</l>
+<l>De Noodscheer kom nu vry afknippen al de draaden</l>
+<l>Van deeze weeke web, met rimpels overlaaden,</l>
+<l>Gewrocht van losse stof, gesleeten en gescheurd,</l>
+<l>Eer dat het wederom myn winterdag gebeurd</l>
+<l>U noch ten doel te zien aan krygs of krankheids rampen,</l>
+<pb n="18"/>
+<l>Of dat u ander leed mogt koomen aan te klampen,</l>
+<l>Gewisselyk 't gevoel van zulk een kwelling zou</l>
+<l>Myn hoogbejaarde ziel versmelten doen in rouw,</l>
+<l>En deeze stramme leên wel duizend dooden sterven;</l>
+<l>Veel aangenaamer was 't mogt ik het leeven derven</l>
+<l>Vrywillig u ten dienst, eer eenig ongeval</l>
+<l>U weêr bestormen kwam. Een klokhen zet zich pal</l>
+<l>Ter weêr, en schreeuwd, en schrabt, en schermd met haare wieken,</l>
+<l>Wanneer den Havik dreigd haar jong gekipte kieken;</l>
+<l>Ja, steld zich aan 't gevaar van zynen klaauwslag bloot,</l>
+<l>Als zy slechts redden kan haar broedzel van de dood;</l>
+<l>Zou dan een moeders hert, ten einde van haar daagen,</l>
+<l>Gesolt, en afgeslooft, zich zelfs niet willig waagen,</l>
+<l>En stellen in de bres voor haar geliefde Zoon,</l>
+<l>Die de eenigste pylaar is van zyn vaders Troon,</l>
+<l>En haar altyd zo waard; best was zy nooit gebooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>'k Verdiende in eeuwigheid 't verwyt te moeten hooren</l>
+<l>Van vuile ondankbaarheid; by mensch en goôn gedoemd,</l>
+<l>Onwaardig immermeer uw zoon te zyn genoemd,</l>
+<l>Mevrouw, zo ik vergat de zorgen en weldaaden,</l>
+<l>Waar meê gy my gestaâg hebt gunstig overlaaden.</l>
+<l>Dus blyf ik u verpligt, en moet bekennen, dat</l>
+<l>De deugd der oud'ren is de beste huw'lyks schat.</l>
+<l>Niets goeds bezit een kind, of kreeg het van zyn ouders,</l>
+<l>En zulks verbind het ook gestaâg met hals en schouders,</l>
+<l>Met vlyt, en met ontzach, te schraagen de ouderdoom,</l>
+<l>In zwakheid, en 't gebrek, dat haar maakt traag en loom.</l>
+<l>Zulks hebbe ik niet alleen, zelfs van myn kindsche jaaren</l>
+<l>Betracht, maar 't kwam myn ramp op 't hoogste noch bezwaaren,</l>
+<l>Dat ik my doorgaans vond verleegen en belast,</l>
+<l>Wie zich de ted're zorg voor u had toegepast</l>
+<l>In myn afweezendheid, wat heul, wat troost, wat vrinden</l>
+<l>Gy, na myn sterfuur, hier noch overig moogt vinden;</l>
+<l>Dewyl ervarendheid my had genoeg geleerd,</l>
+<l>Hoe slecht men hedendaags den ouderdom waardeerd;</l>
+<pb n="19"/>
+<l>Wiens wintertyd, niet bloeid, met kinderen of zoonen,</l>
+<l>Die 't steeds gepleegde goed na waarde kunnen loonen,</l>
+<l>Of straffen met ontzag den hoon, en het verdriet,</l>
+<l>Dat aan de eerwaardigheid des ouderdoms geschied.</l>
+<l>En daarom is het, dat de alwyze Hemellieden,</l>
+<l>Den kind'ren staâg de zorg voor de ouderen gebieden;</l>
+<l>Ja, 't Goodendom erkend de weldaad, heul en troost,</l>
+<l>Aan de ouderen besteed, mildaadig aan het kroost.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Antithanata</hi>.</speaker>
+<l>O Zoon van Thessaals zoon! wiens eerste lentejaaren,</l>
+<l>Voorspelden ons den oegst, die wy te wachten waaren</l>
+<l>Van uwer deugden groei, wiens wasdom ons zo mild,</l>
+<l>Met haare vrucht beloond de zorg aan u gespild.</l>
+<l>Wat schoot de Vroomheid niet in uw een diepe wortel!</l>
+<l>Want na dat ik, helaes! als een bedroefde tortel,</l>
+<l>Myn Faeres missen moest, en eenzaam nacht en dag,</l>
+<l>Verslyten in getreur, in traanen en geklag,</l>
+<l>Verstrekte gy gestaâg myn lust, myn troost, myn hoeder,</l>
+<l>En eeniglyk de hoop van een bedrukte moeder.</l>
+<l>Gy waard de Hoofdzuil, die het overhellend Huis</l>
+<l>Moest schraagen tegen storm, en onweêrs fel gedruis;</l>
+<l>Gy waard het, die gestaâg my moedig kwam bevryden</l>
+<l>Van die gedachten, die rampzaalige bestryden,</l>
+<l>En toonden, dat ik niet gehoond wierd, of veracht,</l>
+<l>In dien vervallen staat, waar in ik was gebragt.</l>
+<l>Uw weldaân zullen u de onsterffelyke Gooden</l>
+<l>Beloonen in uw zaad.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 1tab">Mevrouw, 't is niet van nooden</l>
+<l>Te roemen, 't geen ons doch gebied de kinderpligt.</l>
+<l>'k Heb niet de helft, van 't geen ik schuldig was, verricht.</l>
+<l>Ai! denk geenzins, dat wy 't genot van uw weldaaden</l>
+<l>Oit schreeven in het zand, of licht verdorde blaaden</l>
+<l>Daar meê, tot eigen schand, bemaalen deeden, neen!</l>
+<l>Maar hieuwen die in 't hert van duurb're marmersteen.</l>
+<l>Het is ons niet zo ras, of lichtelyk vergeeten,</l>
+<l>Wat tyd gy doorgaans in bekomm'ring hebt versleeten,</l>
+<pb n="20"/>
+<l>Hoe gy met teed're zorg ons staâg hebt opgevoed,</l>
+<l>Gekoesterd, en gekweekt, en voor gevaar behoed.</l>
+<l>Gy gaaft ons 't leeven niet alleen, maar ook 't welleeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Antithanata</hi>.</speaker>
+<l>Wat wy door onze zorg ooit tot uw nut bedreeven,</l>
+<l>Bevinden wy gantsch wel, en vruchtbaarlyk besteed.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Mishaagden ons bedryf aan u ooit, 't was ons leed.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Antithanata</hi>.</speaker>
+<l>Gantsch niet, myn Zoon! gy gingt u steeds gehoorzaam voegen,</l>
+<l>En gaaft in al uw doen, ons doorgaans groot genoegen.</l>
+<l>Wy zyn op 't hoogst voldaan van uw godvruchtigheid,</l>
+<l>Die van eens Vorsten troon den grondslag zeker leid;</l>
+<l>Ja, wy bevinden ons dus aan uw deugd verbonden,</l>
+<l>Dat wy wel wenschten, wy nochmaals u geeven konden</l>
+<l>Het leeven, als 't geviel, dat uwen sterftyd kwam.</l>
+<l>Ach! dat de Gooden doch de haast verteerde vlam,</l>
+<l>En 't stervend lemmet van deze oude lamp uitdoofden,</l>
+<l>En een gerekte reeks leefjaaren u beloofden,</l>
+<l>Verlangende uwen en verkortende myn tyd,</l>
+<l>Die 'k staâg vol kommer, reeds aan 't hoofd gedoodverfd, slyt.</l>
+<l>Wat lust, wat rust, zou zulks aan ons, te leefbaar, strekken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Mevrouw, 't schynt ons de Goôn weêr weedom willen wekken,</l>
+<l>En niet gehengen dat ons vreugde duurzaam zy.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Antithanata</hi>.</speaker>
+<l>O Goôn!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 1tab">Myn tyd genaakt, en 't Noodlot eischt van my,</l>
+<l>Dat ik (het is myn leed u weder te bedroeven)</l>
+<l>Van u moet scheiden, en my, zonder lang te toeven,</l>
+<l>Weêr na den vyand toe begeeven voor altyd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Antithanata</hi>.</speaker>
+<l>Hoe! voor altyd?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 2tab">O ja!</l>
+</sp>
+<pb n="21"/>
+<sp>
+<speaker><hi rend="sc">Antithanata</hi>.</speaker>
+<l rend="; 1tab">Ach! raakt menu dus kwyt?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Mevrouw, my wierde alleen tyd en verlof gegeeven,</l>
+<l>Om, eer ik met de dood verwisselde dit leeven,</l>
+<l>U, met myn Bedgenood, te groeten voor het lest.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Antithanata</hi>.</speaker>
+<l>Bedroefde Moeder, ach! ach! troostelooze Alcest!</l>
+<l>Ach! vaderlooze Kroost! rampzaalige Roxane!</l>
+<l>Beklaag'lyke Eumelus wat berst een vloed van traanen</l>
+<l>Ons allen, op die maar, ten hollen oogen uit.</l>
+<l>O wreede Gooden! die, te wreed in uw besluit,</l>
+<l>Gedoogden, dat het lot kwam onze daagen rekken,</l>
+<l>Alleen slechts, op dat wy voor speeltuig zoude strekken</l>
+<l>Aan 't nydige geval, dat nimmer stand en houd,</l>
+<l>En, voor een klein vermaak, ons ramp op rampen broud.</l>
+<l>Helaas! is onze hoop zo haastig dan vervloogen?</l>
+<l>De vreugd in rouw verkeerd? of is 'er voor onze oogen</l>
+<l>Nooit iets meêr overig, als traanen en geween?</l>
+<l>Hoe werd deze oude ziel van wanhoopsbui bestreên!</l>
+<l>Moest dan deez' dorre stam, in 't einde, voor de nukken</l>
+<l>Van 't twyffelende lot, door storm op stormen, bukken?</l>
+<l>Ach! al te lastig juk van zo veel teegenspoeds!</l>
+<l>Wat weegt gy ponden roets, voor weinig aazen zoets!</l>
+<l>Kan dan noch hulp, noch raad, deeze ongevallen hind ren?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Mevrouw, men zag de kwaal van uw Geslacht haast mind'ren,</l>
+<l>Indien zich iemand maar tot 's vyands zoening bood,</l>
+<l>Die zich vrywillig wou begeeven in de dood,</l>
+<l>Voor my, zyn wettig Vorst.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Antithanata</hi>.</speaker>
+<l rend="; 2tab">Dank zy den goeden Hemel!</l>
+<l>Die dus geeft middel, om de fynste bloem, uit zeemel</l>
+<l>Te ziften, en doen zien, hoe veel het Edel bloed</l>
+<l>Verscheeld, van 't geen in hut en kluis werd opgevoed.</l>
+<l>My dunkt ik voel alreeds de traanen, die myn oogen</l>
+<pb n="22"/>
+<l>En wang bevochtigde, afwissen en verdroogen.</l>
+<l>Met wat een yver drift zal onze Ridderschap</l>
+<l>Rekhalzen na die eer? elk zal zich even schrap</l>
+<l>En moedig stellen, om die glory te genieten.</l>
+<l>Geen van hen alle, die niet willig zal vergieten</l>
+<l>Zyn laasten druppel bloeds, tot uw behoudenis,</l>
+<l>Myn Zoon, ik vrees alleen, en stel het, als gewis</l>
+<l>Dat, om aan zulk een roem en lauwerkrans te deele,</l>
+<l>Al te overvloedig bloed gestort zal werden, veele</l>
+<l>Thessaalse Ridderen, die zullen zich, om stryd</l>
+<l>Aanbiên, op dat hun naam der eeuwigheid gewyd</l>
+<l>Mag werden, en in 't boek der heugenis geschreeven.</l>
+<l>Philippus kreeg, voor u, wel duizende haat leeven.</l>
+<l>En schoon de Ridderschap was van de deugd gespeend,</l>
+<l>Zo stel ik echter vast, dat Borger en Gemeent,</l>
+<l>Elk om het meeste, zou na zulk een proefstuk haaken,</l>
+<l>Waar door men staat, en stam, beroemd en eêl kan maak en.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Helaas!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Antithanata</hi>.</speaker>
+<l rend="; 1tab">Het schynt gy zucht, myn Zoon!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 3tab">En dat met reêu.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Antithanata</hi>.</speaker>
+<l>Vreest gy, dat niemand zou zulks waagen derven?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 4tab">Geen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Antithanata</hi>.</speaker>
+<l>Voorwaar, myn Zoon, gy faald, gewisselyk gy lasterd</l>
+<l>De roem uws onderdaans. zou de Adeldom verbasterd</l>
+<l>Dan zyn van de oude deugd? en zou 't Thessaalse Ryk</l>
+<l>Dus laaten lof en naam vertreeden in het slyk?</l>
+<l>Dat duchte ik nimmermeêr.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 2tab">Mevrouw, 't is te waerachtig.</l>
+<l>De Ridderschap, met reên beweegelyk en krachtig,</l>
+<l>Tot moed en pligt vermaand, lafhertiglyk bezwykt,</l>
+<pb n="23"/>
+<l>En heeft niets meêr dat na Thessaalse deugd gelykt.</l>
+<l>Men heeft, ô schandvlek! voor het oude bloed der Vroomen,</l>
+<l>Aan alle kant gezocht, en neerstiglyk vernoomen</l>
+<l>By luiden, die geplaagd zyn van onheelb're kwaal;</l>
+<l>Die zich in hechtenis, en boeijen van metaal,</l>
+<l>Bevonden voor altyd; die noch hoe langs hoe droever,</l>
+<l>Genaaderd waaren, tot op 't uiterst' van Styx oever,</l>
+<l>En als met eene voet bereids in Karons boot,</l>
+<l>Ja, die wel duizendmaal met woorden om de dood</l>
+<l>Gebeeden hebben, en gesmeekt, terwyl haar klagten</l>
+<l>Zo zeer aangroeiden, als verminderde haar krachten,</l>
+<l>Maar alles te vergeefs, en niemant waagen dorst,</l>
+<l>Zich zelven aan te biên, tot redding van zyn Vorst.</l>
+<l>Elk liefd zyn leeven meêr, als roem van groote daaden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Antithanata</hi>.</speaker>
+<l>Ik sta versteld, en met bevreemding overlaaden.</l>
+<l>Fy, laffe Ridderen! fy, Mannen zonder moed!</l>
+<l>Gy zyt gewis niet waard uit het Thessaalse bloed</l>
+<l>Te reek'nen uw geslacht, g' hebt eer, en trouw verlooren.</l>
+<l>Ach! dat ik was een man, in plaats van vrouw, gebooren,</l>
+<l>Ik zou myn waarde zoon zelf redden uit de nood,</l>
+<l>En hem bevryden gaan van een rampzaal'ge dood.</l>
+<l>Indien dit wreed verdrag zo wel de vrouwen raakten</l>
+<l>Als mannelyken schaar, 'k weet zeekerlyk zy maakten</l>
+<l>Die moedelooze bloeds en lafaards gantsch beschaamd,</l>
+<l>En zich, door zulk een daad, de waereld door befaamd.</l>
+<l>Men vond 'er duizende, van eerzucht aangedreeven,</l>
+<l>Die zich vrywillig en groothertig zouden geeven</l>
+<l>Ten offer voor haar Prins, tot schande van hun al.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>'t Verdrag geen vrouwen zulks, Mevrouw, ooit weig'ren zal.</l>
+<l>Daar is geen onderscheid gemaakt, of niet bedongen,</l>
+<l>Van man, of vrouw, van ryk, of arm, van oude, of jongen,</l>
+<l>Van adel, of gemeen, van hoog of laag geërd,</l>
+<l>Alken vrywilligheid is 't die hier werd begeerd.</l>
+</sp>
+<pb n="24"/>
+<sp>
+<speaker><hi rend="sc">Antithanata</hi>.</speaker>
+<l>Vaar wel, myn Zoon, ik ga met yver alle hoeken,</l>
+<l>Van Steên, en Dorpen, in Thessalie doorzoeken;</l>
+<l>Niet twyff'lende, of ik zal wel haast een vrouw van moed</l>
+<l>Opspeuren, die 't gebrek der mannen sex voldoet.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Vyfde tooneel.</hi></head>
+<sp>
+<speaker><hi rend="sc">Admetus</hi> <hi rend="i">alleen</hi>.</speaker>
+<l>O Tyden! zonder trouw! o zorgelyke zeeden!</l>
+<l>Hoe flaauw en liefdeloos gaat zy daar heenen treeden,</l>
+<l>Die korteling noch scheen zo heevig en vol vuur!</l>
+<l>Kan dan een moeders hert de driften der natuur</l>
+<l>Dus spoedig waarelyk verzaaken en vergeeten?</l>
+<l>Ga, ga vry zonder keer, gy hebt u wel gekweeten.</l>
+<l>Ontrek u zonder schroom myn byzyn en gezigt.</l>
+<l>'k Blyf myn begraavenis geenzins aan u verpligt.</l>
+<l>Gy scheent myn hechtenis uitwendig te betreuren,</l>
+<l>Maar innerlyk myn dood en sterfstond goed te keuren.</l>
+<l>Gy, die zyt afgeleefd, bezaaid met winter wit,</l>
+<l>Hebt zenuuw zonder zap, en mergpyp zonder pit,</l>
+<l>Beschouwd van verre, en als van strand, hoe door de golven</l>
+<l>Werd in den holle balg der woeste zeê bedolven</l>
+<l>Een Vorst van moed en kracht, voor Staat een Stam noch nut,</l>
+<l>Dien 't u te redden past, te strekken voor een schut.</l>
+<l>Is dit den ouderdom, die u scheen te verveelen?</l>
+<l>Waant gy, dat gy zo ligt noch meerder kroost zult teelen,</l>
+<l>Dat u met zucht en zorg, in zwakheid en verdriet,</l>
+<l>Zal ondersteunen, als u 't wortelzap ontschiet?</l>
+<l>Of dat u, reeds half lyk, de lykpligt zal bereijen?</l>
+<l>Verbeel u zulks geenzins; ga nooit u daar meê vleijen.</l>
+<l>Zo ziet men, dat vergeefs het grys besneeuwde haar,</l>
+<l>Vast klaagende dat 't pak des leevens haar valt zwaar,</l>
+<l>En lastig de ouderdom, gaat wenschen om het einde;</l>
+<l>Want slechts de schyn des doods haar stervens lust ver kleinde;</l>
+<pb n="25"/>
+<l>En haar vergeeten deed 't geleeden ongemak,</l>
+<l>Verdraagende, als vernoegd, al de overwigt van 't pak.</l>
+<l>Vergeefs is zy bevreesd een weinig eer te sterven,</l>
+<l>Daar zy doch onlangs moet, hoe noode ook, 't leeven derven.</l>
+<l>Zie daar de waereld, en haar onbestendigheid!</l>
+<l>Zie hoe de glinster van haar vlam bedooven leid!</l>
+<l>Zie daar war trouw en staat op menschen is te maaken,</l>
+<l>Zy die zo kort geleek een helder blaak end baaken,</l>
+<l>Van trouw, standvastigheid, en liefde tot haar zoon,</l>
+<l>Is schielyk, en alleen op 's doods gerucht gevloôn.</l>
+<l>O lieff'lyk Leeven! hoe kont gy de stervelingen</l>
+<l>Bekooren, met de waan van ingebeelde dingen!</l>
+<l>Daar gy niet anders als een webbe van verdriet,</l>
+<l>Een waterbel, een niet, ja, zyt noch min als niet.</l>
+<l>Schoon dat gy schynt iets goeds aan ons hier te belooven,</l>
+<l>Den minsten overval kan 't ons weêr ras berooven.</l>
+<l>De een golf van onheil volgt op de andere, zo kort,</l>
+<l>Als de een door de and're prop uit hout gedreeven word.</l>
+<l>Nochtans (den Gooden is 't bewust) dat my de liefde</l>
+<l>Tot 't leeven, of de vrees voor sterven nimmer griefde,</l>
+<l>Maar eeniglyk de zucht voor Bedgenood en Kroost.</l>
+<l>Ontaarde Moeder! en ondankbaar Volk! doch 'k troost</l>
+<l>My nu de dood, en wil niet waerelds meêr aantrekken.</l>
+<l>Ik zal den nazaat een doorluchtig voorbeeld strekken;</l>
+<l>'k Zal toonen hoe de Vorst, van volk en onderdaan,</l>
+<l>En zelfs van eigen bloed, verlaaten, ja verraân</l>
+<l>Kan werden, daar zy hem behoorden te beloonen,</l>
+<l>Voor al 't ontfangen goed, in plaats van dus te hoonen.</l>
+<l>Ik zal doen zien, dat trouw alleenig is de band,</l>
+<l>Die 't menschelyk bewind in waarden houd en stand;</l>
+<l>En dat men nimmer moet zyn woord of eeden rnind'ren.</l>
+<l>'k Wacht myn Alcestis maar, met myn geliefde Kind'ren,</l>
+<l>Om aan dien waarde schat te doen den laasten groet,</l>
+<l>En stap als dan gerust en kloek myn dood te moed.</l>
+</sp>
+<stage><hi rend="i">Einde van het tweede Bedryf.</hi></stage>
+</div>
+</div>
+<div type="act">
+<pb n="26"/>
+<head rend="h3">Derde bedryf.</head>
+<head rend="h4"><hi rend="i">Eerste tooneel</hi>.</head>
+<stage><hi rend="sc">Alcestis, Roxane</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Roxane</hi>.</speaker>
+<l>MEvrouw, zult gy dan nooit uw droefheid eens verzetten?</l>
+<l>Kan Vaders wederkomst uw treuren niet beletten?</l>
+<l>Zal nimmer meêr eens vreugd de traanen droogen af?</l>
+<l>Moet weegeklag uw ziel noch sleepen in het graf?</l>
+<l>Ai! staak doch eens uw rouw.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l rend="; 1tab">Dat ik uw waarde Vader,</l>
+<l>Myn Dochter, onlangs weêr tot ons gebragt zag nader,</l>
+<l>En hem van boei, van band, van 's vyands magt bevryd,</l>
+<l>Heeft, ik beken het wel, ons ongemeen verblyd,</l>
+<l>En gaf ons stof tot vreugd; maar 't hert van druk bevangen,</l>
+<l>Voeld zich in boeijenen van zwaare droefheid prangen,</l>
+<l>'t Kan zich bezwaarelyk begeeven tot de rust,</l>
+<l>Voor dat de waan van ramp volkomen zy geblust:</l>
+<l>Ja, 't schynt aan ons gemoed iets zelzaams voor te spellen,</l>
+<l>Schoon ik in 't minst daar van geen oorzaak vast kan stellen,</l>
+<l>Of melden door wat reên. 't zy dat het Goodendom,</l>
+<l>'t Geen voor zyn schepselen met zorge waakt alom,</l>
+<l>Ons 't naakende ongeval wil heimelyk betuigen;</l>
+<l>Of ons, dien 't doorgaans past voor zyn bevel te buigen,</l>
+<l>Doen houden maat in vreugd, en leeren, dat het zoet</l>
+<l>Van 't bitter werd gevolgt, gelyk van de ebb' de vloed.</l>
+<l>'t Zy dat het kwynend hart aan 't treuren zo gewend is,</l>
+<l>Dat blydschaps duurzaamheid aan 't zelve niet bekend is.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Roxane</hi>.</speaker>
+<l>Mevrouw, uw vreugde werd door zuchten uitgedoofd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>'t Gezucht verlicht het hert, gelyk de traanen 't hoofd.</l>
+</sp>
+<pb n="27"/>
+<sp>
+<speaker><hi rend="sc">Roxane</hi>.</speaker>
+<l>'t Gestaadig treuren kan de elendige niet helpen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>Het uitten van de smert hoed 't hert van overstelpen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Roxane</hi>.</speaker>
+<l>De klagt moet nimmermeêr zyn grooter, dan de pyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>Die 's Noodlots plaagen ducht met recht mag treurig zyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Roxane</hi>.</speaker>
+<l>'t Is treurige eigen licht te vreezen en gelooven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>Ach! 't Lot vlied droeve vaak, en treft verheugde hooven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Roxane</hi>.</speaker>
+<l>'t Word tyd, dat gy eens vreugd na zo veel rouw geniet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>'t Gemoed voorzegt my niet, als weedom en verdriet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Roxane</hi>.</speaker>
+<l>Ach! zal dan nimmermeêr uw druk eens zyn ten enden?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>Gelyk de schaaduw 't lyf, zo volgen my de elenden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Roxane</hi>.</speaker>
+<l>Laat ons, Mevrouw, niet zyn elendig voor den tyd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>Gedenk, in tyd van vreugd zo is de ramp niet wyd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Roxane</hi>.</speaker>
+<l>Een recht bedrukt gemoed vertrouwd geen vrolykheeden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>De droefheid wil geen tol verpligt zyn aan de reeden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Roxane</hi>.</speaker>
+<l>De rouw duurd veel te lang, als zy 't geduld verwind.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>Dat is ontwyfelbaar, ik stel het vast, myn Kind,</l>
+<l>Dat eenig ongeval eerlang ons zal genaaken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Roxane</hi>.</speaker>
+<l>Ik bid u, om de Goôn! wil doch dit zuchten staaken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>Wilt gy dan dat myn zorg zo kommerloos verdwynd,</l>
+<pb n="28"/>
+<l>Daar 't al wat voor my komt, my niet als droefheid schynt?</l>
+<l>Van 't heim'lyk onheil strekt het ons een zeeker teeken,</l>
+<l>Dat, op des Konings komst, geen Vuur en zyn ontsteeken,</l>
+<l>Dat men geen boogen boud, waar door men vreugd bereid;</l>
+<l>Men ziet geen offerveê ter slachtinge geleid.</l>
+<l>Altaaren ziet men leeg, en van geen vuuren rooken,</l>
+<l>Van tempelplegtigheên, noch wigg'len werd gesproken,</l>
+<l>Al tegen 't oud gebruik.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Roxane</hi>.</speaker>
+<l rend="; 1tab">Hier eerst ten Hoof geraakt,</l>
+<l>Zo weet men niet, Mevrouw, wat toestel werd gemaakt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>'t Doet zich al treurig op, wat ons te moed komt treeden.</l>
+<l>Een yder hangt het hoofd, en niemand geeft my reeden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Roxane</hi>.</speaker>
+<l>Mevrouw, zy zyn, als gy, van een bezwaarde geest,</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>Is wel den Adeldom eens aan ons hof geweest?</l>
+<l>Zaagt gy de Ridderschap wel op de zaal verkeeren?</l>
+<l>Kwam iemand met gejuig, of handgeklap ons eeren?</l>
+<l>Wie dat ik zie, my dunkt elk heeft een droef gelaat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Roxane</hi>.</speaker>
+<l>Elk voegt misschien zich na Mevrouw haar weezen staat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>Zelfs die de Koning eerst tot ons had afgezonden,</l>
+<l>Scheen ons niet anders als slechts droefheid te verkonden,</l>
+<l>Gantsch effen Van gezigt, en zuinig van beleid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Roxane</hi>.</speaker>
+<l>Dit acht ik dat geschied is uit eerbiedigheid,</l>
+<l>En diep ontzach, Mevrouw, dat elk u moet bewyzen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>Voor al 't baarde achterdocht, ja, 't deed myn haaren ryzen,</l>
+<l>Van vrees en schrik bekneld, dat zelfs myn Heer en Vorst,</l>
+<l>Als van beteutertheid, niet rustig spreeken dorst,</l>
+<l>Toen hy my de eerstemaal hier kwam in 't hof te ontmoeten,</l>
+<pb n="29"/>
+<l>Ontschoot hem, tegen wil, een zucht, zelfs onder 't groeten;</l>
+<l>Die my, te wisse een boô, de zeek're tyding bragt,</l>
+<l>Dat iets onaangenaams hem speelden in gedacht,</l>
+<l>En zulk een voorspook speld ons misselyke rampen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Roxane</hi>.</speaker>
+<l>'t Zyn zorgen van den Staat, Mevrouw, die hem aanklampen,</l>
+<l>En zulks niet ongegrond, maar daar uitte vermoên,</l>
+<l>Dat eenig ongeval zou tot uw nadeel broên,</l>
+<l>Is al te hachgelyk.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l rend="; 2tab">'t Is jonger lieden pleegen,</l>
+<l>Niet ver vooruit te zien, en nergens om verleegen</l>
+<l>Te weezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Roxane</hi>.</speaker>
+<l rend="; 1tab">Maar, Mevrouw, en faalde ik niet te grof.</l>
+<l>Zo ik Grootmoeder niet ging zien?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l rend="; 3tab">Ga.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Roxane</hi>.</speaker>
+<l rend="; 4tab">Met verlof.</l>
+</sp>
+<div type="scene">
+<head rend="h4"><hi rend="i">Tweede tooneel</hi>.</head>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi> <hi rend="i">alleen</hi>.</speaker>
+<l>IK bid vergeefenis, Beheerscher van de Gooden!</l>
+<l>Zo 'k te voorbaarig ben na dit gewest gevlooden,</l>
+<l>Zo 'k heb al te achteloos vergeeten en verzuimd</l>
+<l>Uw Bergaltaar te doen begieten, dat het schuimd,</l>
+<l>Met offerbloed van witte en vetgemeste stieren;</l>
+<l>Uw koorlamp te voorzien met geurige olyvieren,</l>
+<l>Ter eeren, dat myn Heer en Bedgenood weêrom</l>
+<l>Gèlukkiglyk gekeerd is in zyn Vorstendom.</l>
+<l>Vergeef, vergeef het my, Jupyn! het was den yver,</l>
+<l>(Een vrouwelyke togt) my noopende staâg styver</l>
+<l>En styver, om myn Lief te groeten hier ter steê,</l>
+<l>Die my de Tempelpligt, 'k beken 't, verzuimen deê.</l>
+<l>Doch geenzins om daar door uw Godheid te verachten,</l>
+<pb n="30"/>
+<l>O neen! 'k zal tot uw eer doen honderd Rund'ren slagten,</l>
+<l>En tien paar Stieren, in de Tempen vet geweid,</l>
+<l>Tot een betuiging van verpligte dankbaarheid.</l>
+<l>Ik zal ... maar 'k zie de Vorst, die komt zich herwaards voegen.</l>
+</sp>
+</div>
+
+<div type="stage">
+<head rend="h4"><hi rend="i">Derde tooneel</hi>.</head>
+<stage><hi rend="sc">Admetus, Alcestis</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>MYn Heer! myn waarde Helft! wat zonderling genoegen</l>
+<l>En blydschap dat uw komst aan ons verschaffen kon;</l>
+<l>Wat laavenis myn ziel in uw verlossing von;</l>
+<l>Wat ongemeene vreugd my daar door wierd gebooren,</l>
+<l>Liet ik u teder in onze eerste byzyn hooren.</l>
+<l>Maar, wyl dat my 't geluk geleegentheid vergond,</l>
+<l>Om hier in eenzaamheid met u by monde aan mond,</l>
+<l>En buiten ooggetuig te spreeken, zonder schroomen,</l>
+<l>Zal ik gulhertig nu myn drift niet langer toomen.</l>
+<l>Maar u....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 1tab">Helaas!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l rend="; 2tab">My dunkt gy zucht, en zyt bedroefd.</l>
+<l>Wat is 't, myn Lief! dat u het hert gelyk beschroefd?</l>
+<l>Wat wranger weedom moet myn tweede ziel verkroppen?</l>
+<l>Wie zal, wie zal de well van onze rampen stoppen?</l>
+<l>Die staadig (even als een bulderende zeê,</l>
+<l>Door storm op storm ontsteld, sleept dyk en dammen meê)</l>
+<l>Vermenigvuldigd, en zo krachtig opgezwollen,</l>
+<l>Dreigd schier ons taay geduld, spoor byster, te doen hollen.</l>
+<l>Ik bid, myn waarde schat, ondek uw trouwe Vrouw,</l>
+<l>Wat onheil u weêrvoer, eer dat zy smelt, van rouw,</l>
+<l>Tot traanen, als het ys of sneeuw tot vloeijend waater.</l>
+<l>Waarom dus lang getoeft? ai! draal daar meê niet laater.</l>
+<pb n="31"/>
+<l>Heeft een aangrenzend Vorst uwe achtbaarheid gehoond?</l>
+<l>Heeft 't Volk in haare pligt weêrspannig zich getoond?</l>
+<l>Of heeft een valsche tong, gewoon of dubbelzinnig</l>
+<l>Te spreeken, of dien zy wangunstig is, te vinnig</l>
+<l>En vals te lasteren met snoode loogentaal,</l>
+<l>Aan u, van deeze of geen gedaan een boos verhaal?</l>
+<l>Ik kan het niet bevroên, wat u nu port tot zuchten,</l>
+<l>Daar gy, dank zy de Goôn, vry zyt en buiten duchten,</l>
+<l>Daar gy vind Moeder in bejaard heid van de dood</l>
+<l>Verschoond, en my, die ben en blyve uw Bedgenood,</l>
+<l>Vol liefde en trouwe zucht, tot ons de dood zal scheiden:</l>
+<l>Daar wy nu hoopten zaam, in vreedzaamheid, te leiden</l>
+<l>Een leeven vol van vreugd, gerust en vergenoegd,</l>
+<l>Met hert aan hert gepaard, met ziel aan ziel gevoegd.</l>
+<l>Daar gy Roxane ziet, beginnende op te daagen,</l>
+<l>Gelyk een morgenstar, tot yder eens behaagen,</l>
+<l>In schoonte en eerbaarheid, haast huuwbaar, schuw van min,</l>
+<l>Aanbiddelyk, als een verhemelde Goodin.</l>
+<l>Daar gy ziet Eumelus, de hoop van Huis en Staaten,</l>
+<l>Waar op Thessalien zich mag gerust verlaaten,</l>
+<l>Die met den daageraad, van zyne lente en jeugd,</l>
+<l>Vast op wast ridderlyk, vol vuur, vol moed, vol deugd,</l>
+<l>Tot eer der Stam, ten zuil des Ryks, en vreugd voor ouders,</l>
+<l>Daar gy, die 't Staatsgebouw met uw manhafte schouders,</l>
+<l>In wysheid en beleid, gestaadig onderschraagd,</l>
+<l>Zo dat AEmonien daar moedig roem op draagt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Gy weet niet waar 't my scheeld, dies zal ik 't u verklaaren;</l>
+<l>Weet, waarde Alcestis, dat, schoon al de zaaken waaren</l>
+<l>Geschikt, gelyk gy die zo aardig my verteld,</l>
+<l>En, met uw gladde tong, zo zielverkwikkend meld;</l>
+<l>'k Waardeer het anders, ach! al mogt ik die gelukken,</l>
+<l>Of noch veel meerder heil na myn genoegen plukken,</l>
+<l>Ja schoon my vloeide toe den schat van 't Oost en 't West,</l>
+<l>Ik achten meêr 't bezit van u, myn lieve Alcest!</l>
+<l>Ik zweer het, dierbaar Pand! (de Goôn zy myn getuigen)</l>
+<pb n="32"/>
+<l>Dat al den ramp en last, waar onder ik moest buigen,</l>
+<l>In myn gevangenis, my nooit zo lastig viel,</l>
+<l>Als afgerukt te zyn van u, myn tweede Ziel!</l>
+<l>'t Is uw genoeg bewust, dat ik in al die daagen</l>
+<l>(Een ongewoone zaak voor Vorsten) nooit behaagen</l>
+<l>Aan vreemde schoonheên schiep; dat my geen and're vlam,</l>
+<l>Als die, welk uit uw oog alleen zyn oorsprong nam,</l>
+<l>Vermeesterde myn hart, of kon met liefde ontsteeken,</l>
+<l>Of dat ik immermeer ben in myn trouw bezweeken.</l>
+<l>Neen! gy, gy waard 't alleen, die heel myn ziel bezat,</l>
+<l>Aan wien dat ik my meê geheel geofferd had.</l>
+<l>'t Herdenken van die vreugd, helaas!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l rend="; 2tab">Ik bid, myn Waarde!</l>
+<l>Ik bid, myn Wederhelft! zeg my wat u bezwaarde,</l>
+<l>Op dat, is 't doenelyk, ik u gerust weêr stel.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Mevrouw, ik kan niet meêr, vaar, vaar voor eeuwig wel!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>Voor eeuwig wel! o Goôn! zult gy gestaâg ons haaten?</l>
+<l>Myn Heer, ik bid hou stand. hoe! wilt gy dan verlaaten</l>
+<l>En myden gaan, die geen, die gy noch onlangs had</l>
+<l>Zo waard, en eenig maar beminde? hoe! wat 's dat?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Ik bid....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l rend="; 1tab">Ik bid, myn Lief! wil my de reeden melden,</l>
+<l>Die zo gevoelig uw gemoed en brein ontstelden.</l>
+<l>Ik bid, en laat niet af voor dat gy my voldoet.</l>
+<l>Verkryg ik geen gehoor, zo zult gy haast myn bloed</l>
+<l>Zien stroomen door de zaal, en verwen wand en muuren.</l>
+<l>Ik smeek en hou niet op, zal 't zonder eind dan duuren,</l>
+<l>Dat gy de grond van 't leed, dat u kweld, my verbergd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Het is een harde zaak, myn Lief! die gy my vergd.</l>
+<l>Weet dan, helaas! Mevrouw, dat ik niet ben ontslaagen,</l>
+<l>Maar slechs verlof heb, en dat noch voor weinig daagen,</l>
+<pb n="33"/>
+<l>Om eindelyk van u, myn waarde Bedgenoot,</l>
+<l>Het treurig afscheid eens te neemen voor myn dood.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>Wat smertelyke maar!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admeius</hi>.</speaker>
+<l rend="; 1tab">De vyandlyke woede,</l>
+<l>Stonde ons wel 't koomen toe, doch onder sterke hoede,</l>
+<l>En vaste zeekerheid van t'hem waarts weêr te spoên;</l>
+<l>Hy heeft het alles wel en naauw bezetten doen.</l>
+<l>Zo dat ons alle hoop van uitkomst is benoomen.</l>
+<l>Men hoeft van middelen tot vlugten niet te droomen,</l>
+<l>Daar is geen redden aan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l rend="; 2tab">Waar zyn de wapens dan?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Door wapenen men niets uitrechten mag, of kan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>Men magaltyd geweld weêr met geweld beteug'len.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Zulks deed my niet alleen, maar ook ons alle sneuv'len,</l>
+<l>En my tien dubb'le pyn gevoelen in myn leed.</l>
+<l>'k Zeg nochmaal dan, vaar wel! en bid u doch, vergeet</l>
+<l>De smert, die gy gevoeld, en troost u zelven nader.</l>
+<l>Verstrek ons waarde Kroost, voor Moeder, en voor Vader,</l>
+<l>Nu 't anders niet kan zyn; dat het zyn schut en scherm,</l>
+<l>En toevlugt, in gevaar, mag vinden in uw erm.</l>
+<l>Wil nooit op schyn gelaat der stervelingen bouwen,</l>
+<l>En leer geen menschen ooit op aarden meêr vertrouwen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>O wreedheid ongehoord! o duldelooze smert!</l>
+<l>O woorden al te wrang! die my de ziel en 't hert</l>
+<l>Te diep en wreed, als een tweesnydig zwaard, doorbooren,</l>
+<l>Vergeefs, ach! scheen ik niet gestaâg in rouw te smooren,</l>
+<l>En eindeloos verdriet te voeden in 't gemoed.</l>
+<l>Zie daar de uitbersting van het geen zo lang gebroed</l>
+<l>Heeft heimelyk, en my versinelten deed in traanen.</l>
+<l>Zie daar de waarheid nu verwisselen myn waanen,</l>
+<pb n="34"/>
+<l>En doet my met 'er daad, waar voor ik was beducht,</l>
+<l>Gevoelen, 't geen my heeft gekost zo veel gezucht.</l>
+<l>Zie daar het geen myn ziel vaak tot de dood beklemde;</l>
+<l>Waar door dat my byna het bloed in de aad'ren stremde.</l>
+<l>Dat yder een nu klaar begryp, dien het noch heugd,</l>
+<l>De rechte reên waarom ik nooit kon scheppen vreugd;</l>
+<l>Waar om myn hert doorgaans, als tusschen eenen hamer</l>
+<l>En am heeld lag gekueust, voor rouw, dan rust bek waamer.</l>
+<l>Ach! al te wree de Goôn! waarom tot deezen dag</l>
+<l>Deez' romp vol ramp gespaard? waarom met eenen slag</l>
+<l>Niet kort gestuit don loop van 't leeven, en het lyden?</l>
+<l>Of kon myn ongeval het hemelsch hof verblyden,</l>
+<l>En wasmyn last haar lust? wel aan dan voortgetreurd</l>
+<l>Tot dat, door 't naar gekerm, den hemel schrikt en scheurd.</l>
+<l>Droog, broeder van Diaan, vry door uw brand de vlieten,</l>
+<l>Myn oogen zullen fluks weêr nieuwe stroomen gieten,</l>
+<l>Veel grooter als die van den Apidanus zyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Mevrouw, myn tyd genaakt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l rend="; 2tab">En zo doet ook de myn.</l>
+<l>Myn Heer, beel u niet in alleen van hier te keeren.</l>
+<l>Uw tegen woordigheid zal my gestaâg vereeren.</l>
+<l>Eischt Macedonien een lyf, het krygt 'er twee.</l>
+<l>Waar dat gy gaat, ik volg, en zo gy sterft, ik meê.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Ik bid, myn Lief, bedaar.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l rend="; 1tab">Ik weet van geen bedaaren.</l>
+<l>Als men zo scheiden zouw, was 't nodeloos te paaren.</l>
+<l>Wy zyn op Hymens koor van twee geworden één.</l>
+<l>'t Is billyk dat wy dan in als zyn lotgemeen.</l>
+<l>Onscheibaar is die band, door liefde t'zaam gevlochten,</l>
+<l>De alteelende natuur schiep nimmer sterker tochten.</l>
+<l>Die liefde lymd aan een, de herten; als sement</l>
+<l>Doet kleeven steen aan steen veel eeuwen ongeschend.</l>
+<l>Ze is sterker als de dood.</l>
+</sp>
+<pb n="35"/>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 2tab">Denk om ons waarde kind'ren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>Geen inzigt machtig is dit opzet te verhind'ren.</l>
+<l>Wat is ons nader toch, de takken, of de stam?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Wie 't vuur te dicht genaakt, verzengd zich aan de vlam,</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>Ik zal het vuur zyns toorns gaan met myn traanen blussen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Een trots en toornig Vorst en bind men op geen kussen</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>Zo hy beweeg'loos blyft, wy sterven te gelyk.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Gy werd weêr na myn dood hersteld in Staat, en Ryk,</l>
+<l>En dit is ons verdrag.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l rend="; 1tab">My past noch Kroon, noch leeven</l>
+<l>Te draagen na uw dood, Heer, wil my dat vergeeven.</l>
+<l>Geen Griek zal ooit alleen my voeren zien de Staf;</l>
+<l>Maar wel ons beide t'zaam gedompeld in één graf.</l>
+<l>Gy moogt wel heerscher zyn, myn Lief! van volk en landen,</l>
+<l>Doch om uw eigen lyf en leeven te verpanden;</l>
+<l>Waar van dat ik de helft met wettigheid bezit,</l>
+<l>Was nimmer in uw magt, en doorgaans tegen 't wit,</l>
+<l>En voorschrift van de wet, waar aan wy zyn verbonden.</l>
+<l>Voorzichtige oudheid heeft daar teegen raad gevonden.</l>
+<l>Gy hebt verhandeld 't geen aan u niet toebehoord,</l>
+<l>Dies zyt gy niet verknocht aan het gegeeven woord.</l>
+<l>'k Herroep dat snood verdrag, en scheur 't in duizend stukken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Wy zyn in 's vyands magt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l rend="; 3tab">Ik zal u daar uit rukken,</l>
+<l>Of dulden nimmermeer, dat men my van u schei.</l>
+<pb n="36"/>
+<l>En, zo men sterven moet, wy sterven alle bei.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Mevrouw, stel u gerust, het is de wil der Gooden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>De wil van een Tieran, een Dwingeland, een Snoode,</l>
+<l>Die, 't geen hy immer in zyn heilloos brein verdicht,</l>
+<l>Ondanks de billykheid, wel graag zag uitgericht.</l>
+<l>Zo gy vertrekt alleen, en poogt my te begeeven,</l>
+<l>Zult gy gewis haast zien, door deeze hand gedreeven,</l>
+<l>Een dolk in deeze borst, die voor het naar gezucht,</l>
+<l>En de beneepe ziel zal opening, en lucht</l>
+<l>Verschaffen, tot een schrik van onderdaan en buuren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Zal deeze hevigheid dan onophoud'lyk duuren?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>Zo lang tot dat gy my toestaat dat 'k u verzel.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Het is onmoogelyk. ik bid! bedenk u wel.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>Wat u niet moog'lyk schynt, zal my wel moog'lyk weezen.</l>
+<l>'k Heb my genoeg bedacht. Ik zal zo daad'lyk deezen</l>
+<l>U w wreede handel, en heilloos besluit doen aan</l>
+<l>Uw Moeder, Kinderen, en Ridderen verstaan.</l>
+</sp></div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Vierde tooneel.</hi></head>
+<sp>
+<speaker><hi rend="sc">Admetus</hi> <hi rend="i">alleen</hi>.</speaker>
+<l>WAt leefd een Koning niet altyd bedraaid in zorgen!</l>
+<l>Wat al be kommering komt hem niet schier verworgen!</l>
+<l>Wat al bedenkingen door waaren 't hert en 't hoofd!</l>
+<l>Word niet zyn breingewelf, door onlust, als doorkloosd?</l>
+<l>Gelyk een bulderbui en storm, Eoôl ontschooten,</l>
+<l>Uit 't vreeslyk tuchthol met metaale grendel slooten,</l>
+<l>Gaat loeijen over 't vlak, en 't geen in 't laage woond</l>
+<l>Al brullende overtrefd, of ongeacht, verschoond;</l>
+<pb n="37"/>
+<l>Maar 't geen uitsteekend zich op 't hooge komt verheffen,</l>
+<l>Met donderslag op slag, en blixemflits gaat treffen,</l>
+<l>En onophoudelyk, met stoot op stoot, rammeit,</l>
+<l>Tot dat het in den grond geveld ter needer leid:</l>
+<l>Zo werd ook een, die, door geboorte of deugd, gedrongen</l>
+<l>Ten Troon, de Kroon draagd, vaak van ramp op ramp. besprongen;</l>
+<l>De een vlaag is niet zo ras hem over 't hoofd gesnord,</l>
+<l>Of de and're, vaak verzwaard, die volgt daar op in 't kort.</l>
+<l>Was 't dan niet ramps genoeg, helaas! dat eerst myn hoofd</l>
+<l>Van Kroon, en ik van Ryk en Septer wierd beroofd?</l>
+<l>Dat ik, in band en boei, my, na de wys der slaaven,</l>
+<l>Ter kerkertucht gedoemd, als leevend hiel begraaven?</l>
+<l>Dat door bloeddorstigheid myn dood was vast bestemd,</l>
+<l>Of moest my wyders 't hert noch werden toegeklemd,</l>
+<l>Met myne Alcestis rouw? zo zy voorts komt te hooren</l>
+<l>Het geen ik haar verborg, hoe fellen haat en tooren,</l>
+<l>Lafherte Moeder, en ontrouwe Ridderschaar,</l>
+<l>Dunkt u dat gy met reên te wachten hebt van haar?</l>
+<l>Hoe zal zy van myn doen en veinzen zich beklaagen?</l>
+<l>Hoe dulde-en trooste loos zal zy zjch niet gedraagen?</l>
+<l>Dies zal het beste zyn, dat ik die droeve Vrouw,</l>
+<l>Zorgvuldiglyk bewaare, en troost geeve in haar rouw;</l>
+<l>Dat ik ga spoedig, en ter sluik van hier vertrekken,</l>
+<l>In hoope dat de Goôn haar daagen zullen rekken</l>
+<l>In voorspoed en geluk, dat de alverslinb'ré tyd,</l>
+<l>Die marm'ren rotzen en 't verharde slaal verslyt,</l>
+<l>Zal leeningen haar leed, en haare elende mind'ren.</l>
+<l>Maar, Hemel! wat is dit? hier naderen myn kind'ren.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Vyfde tooneel.</hi></head>
+<stage><hi rend="sc">Admetus, Roxane, Eumelus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Roxane</hi>.</speaker>
+<l>HEt zy met oorelof van zyne Majesteit,</l>
+<l>Dat wy hem naderen.</l>
+</sp>
+<pb n="38"/>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 2tab">Zulks werd u niet ontzeid.</l>
+<l>Maar wat voor reeden zyn 't, die doch u herwaards dreeven?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eumelus</hi>.</speaker>
+<l>'t Zyn de beveelen door vrouw Moeder ons gegeeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>En wat behelzen die?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eumelus</hi>.</speaker>
+<l rend="; 1tab">Een veel te zwaaren last,</l>
+<l>Die voor de teederheid van kinderen niet past.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Wat wilde Moeder doch, dat u dus kon bezwaaren?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Roxane</hi>.</speaker>
+<l>Een doodsschrik scheen het bloed te stremmen in onze aâren,</l>
+<l>'t Zap in de zenuwen, wanneer geheel ontsteld,</l>
+<l>Verbaast en onverwacht, vrouw Moeder met geweld,</l>
+<l>En een ontzinde drift toedrong in onze kamer;</l>
+<l>Haar oogen schooten vier; haar hart sloeg als een hamer.</l>
+<l>'k Hebbe u, myn waarde Kroost, vergeefs, zegt zy, geteeld,</l>
+<l>Met onvermoeide zorg gekoesterd en gestreeld;</l>
+<l>Dat ik u tot den Troon en Kroondragt ging gewennen;</l>
+<l>Dat ik u Vaders deugd en daaden leerden kennen,</l>
+<l>En u staâg maalden af zyn glory, roem en eer;</l>
+<l>Want Vader kend, helaas! noch u, noch my, niet meêr.</l>
+<l>Zo sprak zy, en ging voort; hy heeft zyn trouw geschonden,</l>
+<l>En aan een ander zich, ondanks myn recht, verbonden;</l>
+<l>Hy heeft, met eed en hand, aan vremde zich verloofd,</l>
+<l>Zyn liefde te u waarts, en tot my gantsch uitgedoofd;</l>
+<l>Hy zal gewis u gaan, zo wel als my, verlaaten;</l>
+<l>Van Goôn te zyn geteeld, zal u geheel niet baaten.</l>
+<l>Ons is niets overig, wy zyn te zaam verraân;</l>
+<l>Ten zy gy hem beweegd is 't al met ons gedaan.</l>
+<l>Gaat hem in alleryl gezaamentlyk ontmoeten;</l>
+<l>Werp u, met nedrigheid en treurig, voor zyn voeten;</l>
+<l>Smeek hem ootmoedig, en gelyk een kind behoord,</l>
+<pb n="39"/>
+<l>Dat hy zich niet en binde aan het gegeeven woord.</l>
+<l>Stel hem voor oogen, dat het geen hy ging verpanden</l>
+<l>Niet eigen was aan hem alleen, dat sterker banden</l>
+<l>Van voorrecht en natuur zulks hadden eerst verknocht</l>
+<l>Aan ons, als scheideloos en wettiglyk, verkocht</l>
+<l>En zo gy geenzins kond, door traanen, beeden, smeeken.</l>
+<l>Of kinderlyk geween, des Vorsten opzet breeken,</l>
+<l>En hem beletten, dat hy meerder trouw bewys</l>
+<l>Den vyanden als ons, die 't waarste zyn, zo rys</l>
+<l>Weêr met eerbiedigheid, en neem met naare zuchten</l>
+<l>Den laasten afscheid, eer dat hy bestaat te vlugten.</l>
+<l>Keer, keer dan t'my waards weêr, om even eens te doen,</l>
+<l>De wyl ik ben gezind, manmoediglyk en koen,</l>
+<l>Den Vorst te volgen, waar hy zal zyn treeden wenden,</l>
+<l>Tot dat het noodlot koome ons beider leeven enden.</l>
+<l rend="; 1tab">Laat u ter herte gaan het moederlyk getreur,</l>
+<l>Eer dat haar bange borst door stadig zuchten scheur.</l>
+<l>Wy bidden u, wil doch dat heilloos opzet staaken,</l>
+<l>En ons, uw Kinders, niet zo ras tot weezen maaken.</l>
+<l>Ach! onsgenaakt gewis een dubb'le smert en pyn,</l>
+<l>Wy zullen Vaderloos en Moederloos haast zyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Reis op, myn Kinderen en uitverkooren Lamm'ren!</l>
+<l>Het vaderlyke hert heeft deernis met uw jamm'ren,</l>
+<l>'t Is tot de ziel geraakt, hou toch uw voortaan stil,</l>
+<l>En troost u telkens met al wat het Noodlot wil.</l>
+<l>Uw beede is vruchteloos en buiten ons vermoogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eumelus</hi>.</speaker>
+<l>Wy bidden andermaal hebt met ons mededoogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>O hoop van Thessaals stam! o zoon van Feres zoon!</l>
+<l>Stel u gerust, gy zult den vaderlyken Troon</l>
+<l>Betreên, en met de Kroon versieren hoofd en haaren,</l>
+<l>Zo ras gy hebt bereikt een weinig meerder jaaren.</l>
+<l>En gy, bezielde zon! volmaakt van leên en leest,</l>
+<l>Bevloeid van voeg'lykheên, en ryk begaafden geest,</l>
+<l>Staak 't naare rouwgeklag en 't al te onmaatig treuren,</l>
+<pb n="40"/>
+<l>'t Kan doch niet anders gaan. Veel heils zal u gebeuren.</l>
+<l>Gy zult noch de eerste zyn der maagdelyke rei.</l>
+<l>Ga troost uw Moeders leed en droevig klaaggeschrei.</l>
+<l>Wees haar gehoorzaam en gedienstig al uw leeven,</l>
+<l>Zo slyt ge uw tyd vernoegd, en zonder tegenstreeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Roxane</hi>.</speaker>
+<l>Ai! laat ons met u gaan! wy zullen 't wreed gemoed</l>
+<l>Van uwen Vyand, schoon het haakt na menschebloed,</l>
+<l>En als een steen zo hart, wel door de traanen weeken,</l>
+<l>Die door ons treurig oog als plassen zullen leeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eumelus</hi>.</speaker>
+<l>En zo die Ryksplaag doof bleef voor ontferreming,</l>
+<l>Zo zal ik onversaagd hem deze blanke kling</l>
+<l>Gaan drukken in zyn hert, en doen hem 't leeven braaken,</l>
+<l>En hem dus dwingen zyn verwoede drift te staaken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Uw traanen zyn te teêr, uw Sabel is te zwak.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eumelus</hi>.</speaker>
+<l>Ik vrees zyn woede niet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Roxane</hi>.</speaker>
+<l>En ik geen ongemak.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>O loff'lyk Licht der deugd! wat hebt gy diepe looten,</l>
+<l>Van eer en dapperheid, in deeze Spruit geschooten.</l>
+<l>Geeft dit uw morgenstond, wat baard uw middag niet?</l>
+<l>Ga, waardig Kroost! verzacht het moederlyk verdriet:</l>
+<l>Zeg haar, dat ik terstond by haar, en u zal koomen.</l>
+<l>Ha! wreede Goôn! wat hebt gy met my voorgenoomen?</l>
+<l>Hoe handeld 't Noodlot my gestaadiglyk zo stuurs!</l>
+<l>Ha! waarde Alcest! moet gy my, die de borst vol vuurs</l>
+<l>Van wraak, van haat, van druk, reeds heb, noch het bestryden,</l>
+<l>En door dat teêr gezigt vermeerderen myn Iyden!</l>
+<l>Myn ziel kan niet weêrstaan, de stormen, die zy stuit;</l>
+<l>'t Hart barst van 't leed, en wil ten bange boezem uit.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="41"/>
+<head rend="h4"><hi rend="i">Zesde tooneel</hi>.</head>
+<stage><hi rend="sc">Krater, Admetus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Krater</hi>.</speaker>
+<l>OVorst! myn pligt vereischt, dat ik u kom begroeten,</l>
+<l>Om maar te weeten of wy langer wachten moeten?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Neen! Krater, onze reis staat vast. Ik ben gereed</l>
+<l>In alle stilligheid, om aan het vrouw'lyk leed</l>
+<l>En 't kinderlyk geween, my heimelyk te ontrekken,</l>
+<l>Met u te gaan in 't kort.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Krater</hi>.</speaker>
+<l rend="; 1tab">Ik moet u voorts ontdekken,</l>
+<l>Hoe dat, niet lang geleên, men my de tyding bragt,</l>
+<l>Dat myn zeegpraalend Prins, noch meerder tal en magt</l>
+<l>Van Ruiterbenden heeft tot hier my na gezonden,</l>
+<l>Mistrouwende, of gy 't woord, waar aan gy zyt verbonden,</l>
+<l>Ook wel gestand zoud doen; ja dar hy zelfs genaakt;</l>
+<l>En volgt met meerder volk, dewylzyn yver blaakt,</l>
+<l>Om zyn Grenspaalen meêr en meerder uit te zetten,</l>
+<l>En wie hem wederstreefd, te dempen, en verpletten;</l>
+<l>In opzet om zyn reis te neemen door dit Land.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Hoe! Krater! vreest uw Vorst, dat ik den knoop en band,</l>
+<l>Waar meê myn woord my booid, zou zo lafhertig slaaken?</l>
+<l>Geensins! ik zal myn trouw de waereld kenn'lyk maaken.</l>
+<l>'k Zal toonen, dat ik ben standvastig, onbedeest,</l>
+<l>Dat een goed Ambeeld nooit de hamerslaagen vreesd.</l>
+<l>Eer 'k myn beloften brak, zou 'k liever zelver breeken,</l>
+<l>En in het uiterste gevaar myn leeven steeken.</l>
+<l>'k Befluit dan daadelyk (het dunke niemand vreemd)</l>
+<l>Met u te reizen, eer Alcestis het verneemt.</l>
+</sp>
+<stage><hi rend="i">Einde van het derde Bedryf</hi>.</stage>
+</div>
+</div>
+<div type="act">
+<pb n="42"/>
+<head rend="h3">Vierde bedryf.</head>
+<head rend="h4"><hi rend="i">Eerste tooneel</hi>.</head>
+<stage><hi rend="sc">Antithanata, Alcestis</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Antithanata</hi>.</speaker>
+<l>NU weet gy het begin, en 't eind der zaaken zaamen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>Zo komt een klaarder licht geveinsdheids mist beschaamen.</l>
+<l>En ons ontwimpelen de plooijen, daar den dag</l>
+<l>Der held'ren waarheidszon diep in gedooken lag.</l>
+<l>Ach! waarde Admetus! moest, tot ondienst van u zelven,</l>
+<l>Gy deez' geheimenis, voor my zo lang bedelven?</l>
+<l>Moest gy de schande der ontaarde Ridderstoet</l>
+<l>Aan ons verbergen, en zo zelfs uw dood te moet</l>
+<l>Gaan slappen, ronder schroom, of zich te zien gewrooken?</l>
+<l>Of heeft het u aan magt, of aan de wil ontbrooken?</l>
+<l>Dat eerst eens onderzocht, en dan noch tyd en raad.</l>
+<l>Zou wel flaauwmoedigheid, Mevrouw, haar schandig zaad</l>
+<l>Zo diep wel hebben in het hert der Onderzaaten</l>
+<l>Geworteld, dat elk zou zyn Prins en Vorst verlaaten</l>
+<l>In deeze noodstaat, en zich weig'ren aan te biên</l>
+<l>Tot zyn behoudenis?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Antithanata</hi>.</speaker>
+<l rend="; 1tab">Mevrouw, ik heb doen zien,</l>
+<l>Gezocht, gevraagd, gewoeld, en overal vernoomen,</l>
+<l>Doch niemand konnen in het heele Ryk bekoomen,</l>
+<l>Elk deist en aarzeld vast, en niemand wil daar aan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>Is in Thessalien de deugd dan zo vergaan,</l>
+<l>Verwilderd, uitgeroeid, verbasterd, en bedorven?</l>
+<l>Is 't Argonautis zaad geheelyk uitgestorven?</l>
+<l>Tracht niemant om te zyn, door dapp're daân, befaamd?</l>
+<l>O tyd! te trouweloos! o snoodheid! te onbeschaamd.</l>
+</sp>
+<pb n="43"/>
+<sp>
+<speaker><hi rend="sc">Antithanata</hi>.</speaker>
+<l>Ik zal aanstonds my tot Admetus gaan begeeven,</l>
+<l>En bidden hem, dat hy doch spaaren wil dat leeven,</l>
+<l>Dat voor ons alle bei, zo dierbaar is, en waard,</l>
+<l>Ter liefde van die hem geteeld heeft, en gebaard,</l>
+<l>Zal ik hem smeeken dat hy wil dit voorneem staaken,</l>
+<l>En ons, en 't heele Ryk niet ongelukkig maaken.</l>
+<l>Ik twyffel niet, of 'k zal hem wel beweegen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l rend="; 3tab">Ach!</l>
+<l>Hy past op smeeken en gebeeden, noch geklag,</l>
+<l>En is volstandig in zyn voorneem en bedryven:</l>
+<l>Hy zal by woord en trouw staâg onverzetbaar blyven.</l>
+<l>Ik ken 't stantvast gemoed.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Antithakata</hi>.</speaker>
+<l rend="; 1tab">De tyd veranderd 't al.</l>
+<l>De een uur geeft zomtyds 't geen een and're weig'ren zal.</l>
+<l>Ik yl en neem een proef.</l>
+</sp>
+<div type="scene">
+<head rend="h4"><hi rend="i">Tweede tooneel</hi>.</head>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi> <hi rend="i">alleen</hi>.</speaker>
+<l rend="; 2tab">A Lwyze Hemellieden!</l>
+<l>Wie van u zal my nu zyn raad en bystand bieden</l>
+<l>In deeze zwarigheid, en distilige zaak?</l>
+<l>'k Zie langer naauwelyks hoe ik daar door geraak.</l>
+<l>Ik vinde my doorgaans ten uitterste verleegen.</l>
+<l>En voel veel strydigheên myn zwakke ziel beweegen.</l>
+<l>Gelyk een dwarrelwind, geborsten uit den band</l>
+<l>Van AEolus bedwang, gaat gieren, over 't land,</l>
+<l>En 't kruinloof van de breede en hooggesteegene Eiken</l>
+<l>En Ceed'ren, welkers top de wolleken bereiken,</l>
+<l>Doet dryven heen en weêr, en warren onder een;</l>
+<l>Zo word myn teêr gemoed gesart en afgestreên,</l>
+<l>Door duizend denkingen van eindeloos bezwaaren.</l>
+<l>Hoe komt gy my door 't breinen byst'ren zinnen waaren,</l>
+<l>Gy, eens geknoopte band van 't huuwelyk en de Echt,</l>
+<pb n="44"/>
+<l>Die my de pligten van een vrouw te vooren legt,</l>
+<l>En Ieerd, dat onze wil moet voor der mannen buigen,</l>
+<l>Met onderdaanigheid? wilt gy my overtuigen,</l>
+<l>Gy groote liefde, welke Admetus altyd heeft</l>
+<l>Aan ons getoond, als hy zo zorg'lyk en beleefd</l>
+<l>Verheden deed voor ons, dat Adeldom en Ridd'ren</l>
+<l>Bestonden zwarigheid te maaken en te sidd'ren,</l>
+<l>Ja van het Hof ter sluik te vlieden, één voor één;</l>
+<l>Dat niemand van hen al zo wel als van 't gemeen</l>
+<l>Dorst sneuv'len voor den Vorst, en 't hiel alleen verborgen,</l>
+<l>Om ons door droefheid niet te slikken doen of worgen!</l>
+<l>O waare en trouwe Min! gy zegt dat ik behoor</l>
+<l>De waereld te doen zien dat wel een Vrouw kon door</l>
+<l>Hartvochtigheid en moed (een eerlyk betaamen!)</l>
+<l>De ontrouwe laffigheid der Ridderen beschaamen,</l>
+<l>En bieden my zelfs aan, om, in deez 't eegenspoed,</l>
+<l>Te storten voor den Vorst myn laasten druppel bloed,</l>
+<l>Indien hy olyven mag behouden, en in 't leeven.</l>
+<l>Maar welk een zwakken togt werd door de ziel gedreeven,</l>
+<l>En steld voor oogen my de zoetheên en 't vermaak,</l>
+<l>De heerlykheid en pracht, waar meê de Gooden vaak</l>
+<l>Het menschdom hier op Aard zo mildelyk bekroonen,</l>
+<l>En dat het beeter was noch leevendig te woonen</l>
+<l>Zelfs by Barbaaren, op onburgerlyke paân,</l>
+<l>Als in zyn eigen land elendig te vergaan?</l>
+<l>Komt gy my eindeling ook in gedachten maalen,</l>
+<l>Gy Zonnen, welkers glans noch naauw begint te straalen,</l>
+<l>Roxane, en Eumelus, in wien hoog eed'le deugd</l>
+<l>Zo milde looten schiet; in wiens ontlooken jeugd</l>
+<l>Ons reeds volwasse Stam op nieuws begint te bloeijen,</l>
+<l>En zich met vreugden zien hergroenen in haar groeijen;</l>
+<l>Twee Panden ons zo waard, als de app'len van 't gezigt,</l>
+<l>Voor welkers welstand wy zyn alle zorg verpligt?</l>
+<l>Komt gy nu wederom, ô trouw! die ik ben schuldig</l>
+<l>Aan myn Gemaal, moet gy, moet gy zo ongeduldig</l>
+<l>My weder zetten om, my geeven graauw op graauw,</l>
+<l>En vraagen, hoe! Wat 's dit? Alcestis! zyt gy flaauw?</l>
+<pb n="45"/>
+<l>Of reuteld u het brein in 't Raadhuis van de zinnen?</l>
+<l>Zult gy de takken dan, meer, als den stam, beminnen?</l>
+<l>Gaan u ter herten meer de spruiten, als den boom?</l>
+<l>Hoe kan dat moog'lyk zyn! Is 't waarheid, of is 't droom?</l>
+<l>Kond gy gedoogen dat de Vorst dan zo zal sterven?</l>
+<l>Zal niemand zulks voor hem vrywillig waagen derven?</l>
+<l>Sa! waag het zelve. Of is uw schrik al meê te groot,</l>
+<l>Of uwe liefde, ô schande! onsterker als de dood?</l>
+<l>U kan het leeven doch niets na zyn sterven baaten,</l>
+<l>Gy zult van ieder een veracht zyn en verlaaten.</l>
+<l>Zo gy zyn leeven bergd, gybergd, wis! te gelyk</l>
+<l>U voor meêr rampen, Hem, uw Kinderen, en 't Ryk.</l>
+<l>O driften! gy houd staâg, door eevenwigt van reeden,</l>
+<l>Zodaanig ons in 't kyf en twyffelachtigheeden,</l>
+<l>Dat de evenaar, verbaasd, blyft in het midden staan,</l>
+<l>Niet weetende aan wat kant, of werwaards uit te slaan.</l>
+<l>Ha! Teugen, eeven tay! ha! Togten, eeven teeder!</l>
+<l>Zo werd de vlotte kiel myns ziels nu heên en weeder</l>
+<l>Gerekt, gerukt, gerold door de ongestuime zeê,</l>
+<l>Door klip, door barrening, onzeker aan wat reê,</l>
+<l>Wat rustkust, dat ze in 't end zal koomen te belanden,</l>
+<l>Of wat voor stormen haar noch eerst staan aan te randen,</l>
+<l>Wat ramp haar treffen zal, geduurig eeven fel.</l>
+<l>Doch deez' schort myn besluit.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Derde tooneel</hi>.</head>
+<stage><hi rend="sc">Alcestis, Krater</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Krater</hi>.</speaker>
+<l rend="; 1tab">VOrstin, op uw bevel,</l>
+<l>En om u dienst te doen, kom ik my hier vertoonen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>Ik ben u welverpligt, Heer Krater, 'k zal 't u loonen,</l>
+<l>En steeds myn dankbaarheid u mildelyk doen zien.</l>
+<l>Voor al de diensten, die gy my komt aan te biên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Krater</hi>.</speaker>
+<l>Aan uw geboorte en slaat, Mevrouw, ben ik 't al schuldig.</l>
+</sp>
+<pb n="46"/>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>Uw vlyt is groot, en uw beleefdheid meenigvuldig.</l>
+<l>Maar hoor de reedenen, waarom ik u van daag</l>
+<l>By my te koomen hier verzoeken deed.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Krater</hi>.</speaker>
+<l rend="; 1tab">Heel graag.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>Het is, myn Heer! genoeg tot ons gehoor gekoomen,</l>
+<l>Waarom dat gy de reis hebt herwaards aangenoomen;</l>
+<l>En wat dat ook voor u hier te verrichten viel,</l>
+<l>Schoon dat men 't zelve lang voor my verborgen hiel.</l>
+<l>Het was myns Bedgenoods zorgvuldigheid en liefde,</l>
+<l>Die dit, op dat het leed myn ziel niet heel doorgriefde,</l><l>Voorzigtig had besteld, maar 't moest daar eind'lyk uit.</l>
+<l>'k Wil 't niet betwisten, of 't genoomene befluit</l>
+<l>Uws Vorst mag koninglyk en edelmoedig heeten;</l>
+<l>Of zelfs wel 't wild Gediert ooit zyns gelyk zal eeten;</l>
+<l>Of ook de Nazaat, voor wiens ooren dit verbreid</l>
+<l>Zal werden, niet met recht en reedelyk bescheid,</l>
+<l>Het zal een wreedheid en lafhertigheid doen noemen,</l>
+<l>Het lasteren, en als onmenschelyk verdoemen.</l>
+<l>Myn voorneem is ook niet, kleinmoedig en verwyft,</l>
+<l>Te smeeken aan uw Vorst, wyl hy hartnekkig blyft,</l>
+<l>Dat hy zyn opzet wil verand'ren, of verzachten;</l>
+<l>Zyn trotsheid loeg misschien met vrouwelyke klagten.</l>
+<l>Zyn zeegepraal, waar door dat hy zich zelven baand</l>
+<l>Het pad tot wreede daân, dat maakt hem te verwaand.</l><l>Geenzins en heb ik ook in myn gemoed beslooten,</l>
+<l>Om met de Ridderschap, en de aadelyke Looten</l>
+<l>Van heel Thessalien, herbooren uit de zaal,</l>
+<l>Gereezen uit het Ros, beklonken in het Staal,</l>
+<l>En sabel in de vuist in 't open veld te sluiten</l>
+<l>Zyn razerny, en woede, en boosheid, of hem buiten</l>
+<l>De paalen van het Ryk. kasteelen, sterkten, steên,</l>
+<l>Met magt van wapenen weêrom te dryven heen.</l>
+<l>Gantsch niet, maar 'k heb alleen getracht uit u te hooren,</l>
+<l>Of gy geen heimelyk bevel hebt, om al vooren</l>
+<pb n="47"/>
+<l>Op 't uiterste te gaan, in 't een of 't ander deel,</l>
+<l>Iets van uws Vorsten eisch te leeningen, maar heel</l>
+<l>En stip zyn wil, gelyk die legt, te doen volbrengen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Krater</hi>.</speaker>
+<l>Mevrouw, 'kzweer by Jupyn, wiens blixem my moet zengen,</l>
+<l>Indien ik andere last ooit had, als 'k heb gemeld,</l>
+<l>En aan uw Bedgenood onlangs te voorgesteld,</l>
+<l>Onnoodig, om alhier noch eenmaal te herhaalen.</l>
+<l>'k Kan u verzeekeren, Mevrouw, of snooder kwaalen</l>
+<l>Verpletten my het hoofd, dat wie zich openbaard</l>
+<l>Vrywillig meê te gaan, hoe lief hy was, of waard,</l>
+<l>Dat ik hem voor myn Vorst gehouden ben te brengen,</l>
+<l>Alwaar men zekerlyk zyn bloed dan zal zien plengen.</l>
+<l>Gewis! geenzins is hy zo lichtelyk gepaaid.</l>
+<l>'k Heb nooit gezien, dat hem is zyn besluit ontdraaid.</l>
+<l>Een vreesselyke storm op de Oceaan aan 't hollen,</l>
+<l>Mag golf op golven slaan, en baar op baâren rollen,</l>
+<l>En dus het worst'lend schip, in 't midden van de zeê,</l><l>Afhouden met geweld van haaven en van reê;</l>
+<l>Maar niets zal myne Vorst (men mag daar wel op letten)</l><l>Ooit van zyn voorneem af doen wyken, of verzetten.</l>
+<l>'t Is nimmermeêr gezien; dus twyffel niet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l rend="; 2tab">Wel aan!</l>
+<l>Ik zal dan niet alleen doen aan uw Vorst verstaan,</l>
+<l>Maar aan gantsch Griekenland, en zelfs 't Heel Al verrkonden,</l>
+<l>Dat noch in Faeres Ryk werd trouw en moed gevonden.</l>
+<l>Hy denk geenzins, dat men zyn woord niet zal voldoen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Krater</hi>.</speaker>
+<l>Mevrouw, myn tyd word kort.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l rend="; 1tab">Men zal te meêr zich spoên.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="48"/>
+<head rend="h4"><hi rend="i">Vierde tooneel</hi>.</head>
+<stage><hi rend="sc">Admetus, Alcestis, Krater</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>HEer Krater, nademaal ik aanstonds heb vernoomen,</l>
+<l>Dat aan Alcestis ook ter ooren is gekoomen,</l>
+<l>En te eenemaal ontdekt, door een verspreid gerucht,</l>
+<l>Myn voorgenoomen reis en heimelyke vlugt,</l>
+<l>Zo bad ik dat gy my hier wat alleen zoud laaten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Krater</hi>.</speaker>
+<l>Ik was, o Vorst! gestaâg geneigd u meêr te baaten,</l>
+<l>Als hinderlyk te zyn, dies zal ik gaerne gaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>Heer Krater, 'k bid u, blyf hier nu een weinig staan.</l>
+<l>En wees eerst ooggetuig van zo oprechte liefde,</l>
+<l>Als Bedgenooten ooit, de ziel en 't hart doorgriefde,</l>
+<l>Van een getrouwigheid, zo teder, als misschien</l>
+<l>Gy nimmermeêr gehoord zult hebben of gezien.</l>
+<l>'k Verzeker u, myn Heer, gy zult in 't kort beschouwen,</l>
+<l>Een afscheid,waar van u geen voorbeeld heeft ontvouwen,</l>
+<l>'t Geschied of heugnisboek van den voorleeden tyd;</l>
+<l>Waar van geen wedergâ de volgende ooit en lyd;</l>
+<l>Het afscheid van een Paar, waarvan de laatere eeuwen,</l>
+<l>De waereld door en door, verwonderd, zullen schreeuwen</l>
+<l>In 't oor des Nazaats, die, van zeldzaamheid vervoerd,</l>
+<l>Zal staan gelyk ontsteld, en in 't verstand beroerd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Mevrouw, ik bid, bedaar, en wil deez' drift betoomen.</l>
+<l>Laat u geen holle zeê van wanhoop overstroomen.</l>
+<l>Stel u gemaatigd aan. Buig na de wil der Goôn!</l>
+<l>Om hen, om mynent wil, u doch kloekmoedig toon.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>'t Zal aan kloekmoedigheid my nimmermeêr ontbreeken,</l>
+<l>Ik voel myn ziel daar van staâg meêr en meêr ontsteeken.</l>
+<l>'k Zal blyken baaren van een koenheid en een trouw,</l>
+<l>Die geen Achaijer ooit van my verwachten zou.</l>
+<pb n="49"/>
+<l>Ja die gyzelfs, myn Lief, verbaasd en opgetoogen,</l>
+<l>Eerlang beschouwen zult. Geen Goddelyk vermoogen</l>
+<l>Of menschelyke magt, hoe sterk ook, is voortaan</l>
+<l>Bekwaam om my, van 't geen ik voor heb, af te raân.</l>
+<l>Die pyl is van de pees; die klok is al gegooten.</l>
+<l>My was te wel bewust 't verdrag door u beslooten,</l>
+<l>Myn Heer, en het gevolg, dat men daar van verwacht,</l>
+<l>Als dat ik u zou raân te laaten onvolbragt</l>
+<l>'t Geen gy bessooten hebt, met dier gez woorene eeden;</l>
+<l>Het was uw eer te kort beloften te overtreeden.</l>
+<l>De woorden van een Vorst die moeten Vorst'lyk zyn,</l>
+<l>Niet buigzaam, als het was in heete zonneschyn,</l>
+<l>Maar onveranderlyk, standvastig, vol betrouwen,</l>
+<l>Want van belooven kan een Prins zich wel onthouwen,</l>
+<l>Doch niet van te voldoen. Onze eeuw prees staâg een Held,</l>
+<l>By wien de uitvoering meêr, als wel toezeggen, geld.</l>
+<l>Een groote ziel en kan geen smet van ontrouw lyden,</l>
+<l>Of zal nooit doodsgevaar, om zich te kwyten, myden.</l>
+<l>Al wat verheven is munt uit in ieders oog:</l>
+<l>Hoe dat dan iemand meêr gesteegen is om hoog,</l>
+<l>En, door de Lukvrouw, wierd met groot gezag gezegend,</l>
+<l>Hoe dat hem meerder stof, om trouw te zyn, bejegend.</l>
+<l>Neen! waarde Admetus, neen! u raade ik, als vriendin,</l>
+<l>Geef 't einde ook aan 't verdrag, zo wel als het begin.</l>
+<l>Wil nooit die laster van eedbreeker op u haalen;</l>
+<l>Belooven met de mond, en met de voet betaalen.</l>
+<l>Schuuw die lafhertigheid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 1tab">Wel aan dan, waarde Ziel!</l>
+<l>Wiens nooit volpreezen deugd 'k slaâg voor myn afgod hiel,</l>
+<l>Ik neem myn afscheid dan, en ga terstond vertrekken,</l>
+<l>Om te voldoen, en my, met ontrouw, niet te vlekken.</l>
+<l>Nooit kreeg die klem op ons, of dit verheven hert,</l>
+<l>Dat al de rampen nu van 't wreede Noodlot tert.</l>
+<l>Ik dank u, dierbaar Pand, voor de genegentheden,</l>
+<pb n="50"/>
+<l>De liefde, die ge aan my zo trouwlyk woud besteeden.</l>
+<l>Ik dank u voor al 't goed, dat ik van u genoot.</l>
+<l>Ik dank u voor den dienst, die gy my doorgaans bood.</l>
+<l>Ik dank u voor de zorg en 't teedere meêdoogen,</l>
+<l>Dat in myn ramp u heeft tot in de ziel bewoogen.</l>
+<l>Vaar wel, al waarde Alcest, draag zorg voor't lieve Kroost.</l>
+<l>Voor Moeder en u zelf: zy strekken u tot troost</l>
+<l>In deez' gehoopte ramp, en staapel van elenden,</l>
+<l>Die niet, als met myn dood, geraaken zal ten enden.</l>
+<l>Vaar wel! noch andermaal.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l rend="; 2tab">Ik bid! myn Lief! hou stant!</l>
+<l>Gy zyt, gewisselyk, aan my te dier verpand,</l>
+<l>Om u van my zo ras, voor eeuwig, te gaan scheiden.</l>
+<l>Vergun my, dat ik ook my mag daar toe bereiden:</l>
+<l>Dat ik ook afscheid neem van zulk een waarde Man,</l>
+<l>Als ooit de waereld droeg, of immer draagen kan.</l>
+<l>Hoe dus voorbaarig, Heer!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Krater</hi>.</speaker>
+<l rend="; 2tab">De tyd kan 't niet verdraagen,</l>
+<l>Mevrouw, dat gy die dus verslyt, met eind'loos klaagen.</l>
+<l>Ik bid u, maak het kort.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l rend="; 1tab">Men zal uw wil voldoen,</l>
+<l>Heer Krater, wees gerust; en na vermoogen spoên.</l>
+<l>'k Heb, uitverkooren Ziel, geleerd nu, dat de liefde</l>
+<l>Van al de driften, die der menschen hert ooit griefde,</l>
+<l>Is de allersterkste tocht, en van zo groot een kracht,</l>
+<l>Dat die de scherpe sneê des moordscheers weinig acht:</l>
+<l>Dat die zelf Atropos, hoe wreed ook, onder de oogen</l>
+<l>En in 't gezigt derft zien, vol moeds en onbewoogen:</l>
+<l>Dat die geen Stiksstroom vreest, noch de Acheronsche plas:</l>
+<l>Dat die met Karon lacht, en Cerberus gebas.</l>
+<l>Op deeze grondslag dan, bevinde ik, dat zy allen,</l>
+<l>Die hoorden u getrouw te weezen, zyn gevallen;</l>
+<l>Dat de Adel al zo wel, als borger, en 't gemeen,</l>
+<l>Zyn onverbuigelyk, en, als een beeld van steen;</l>
+<pb n="51"/>
+<l>Ja, nu 'er niemand is, in 't heele Ryk, te vinden,</l>
+<l>Die zich het sterven voor zyn Vorst derft onderwinden.</l>
+<l>En ieder een bezwykt, lafhertig, in zyn pligt,</l>
+<l>En niemand zo ter deugd, of weldoen afgericht</l>
+<l>En is, dat hy na lof en glory schynt te trachten,</l>
+<l>Of wel de onsterff'lykheid van zyne naam meêr te achten,</l>
+<l>Zo zal ik aan 't Heel Al doen zien noch deezen dag,</l>
+<l>Wat een geheiligde echt op my niet al vermag,</l>
+<l>En wat de fierheid van een vrouw niet al derft poogen;</l>
+<l>Hoe hoog ik u waardeer, van wat een groot vermoogen</l>
+<l>De liefde van een Vrouw is tot haar Bedgenood;</l>
+<l>Dat die zelfs overtreft de vreeze voor de dood.</l>
+<l>Heer Krater, om u dan niet langer te verwarren,</l>
+<l>In deeze onzekerheid, en eindelyk al 't marren</l>
+<l>Te korten op een stip, zo kund gy nu verstaan</l>
+<l>Dat ik beslooten heb, vrywillig, wel beraân,</l>
+<l>En met een koenheid, die men veel licht niet zal derven</l>
+<l>Van my verwachten, voor Admetus zelf te sterven,</l>
+<l>En dat ik vaardig ben aanstonds te gaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 3tab">O Goôn!</l>
+<l>Aanstonds te gaan! u zelfs voor my te laaten doôn!</l>
+<l>Wie hoorden immermeêr van zulk een wanhoop melden?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Krater</hi>.</speaker>
+<l>Mevrouw, weeg eerst ter deeg, wat gy bestaat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l rend="; 4tab">Heel zelden</l>
+<l>Was 't myn gewoonte, dat ik me iets ontvallen liet,</l>
+<l>'t Geen niet myn meening was.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Krater</hi>.</speaker>
+<l rend="; 2tab">Gewiss'lyk vaak ontschiet</l>
+<l>Wel iemand iets door haast, of zonder te overweegen,</l>
+<l>Wat dat al aan het doen, of niet doen is gelegen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>Niet los, of onbedacht....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 1tab">O Hemel! keer die vlaag.</l>
+</sp>
+<pb n="52"/>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>Daar is geen keeren aan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 1tab">Heeft Pluto dan zyn plaag</l>
+<l>En schrikpoel opgespert, om my, met duizend rampen</l>
+<l>En weedom, zonder eind, geduurig aan te klampen?</l>
+<l>Is 't onheil nimmermeêr van my te tergen zat?</l>
+<l>Heb ik der Goden haat zo zeer verdiend gehad?</l>
+<l>Voerde ik ooit Pheliön op Ossaas hooge heuv'len?</l>
+<l>Deede ik myn eigen Kroost wel ooit moordaadig sneuv'len,</l>
+<l>En schaften 't voor de Goôn? Heb ik het Hemels vuur</l>
+<l>Den Goden ooit ontroofd? Heb ik ter kwaader uur</l>
+<l>Jupyn zyn blixemflits en vreezelyken donder</l>
+<l>Vermeetel nagebootst? Bestonde ik immer, onder</l>
+<l>Een wolkschyn, Junoos eer te schaaken, onbeschaamd?</l>
+<l>Liet ik tot Delfos, uit een wraakzucht te befaamd,</l>
+<l>Den Tempel van Apoll', met zyn vergoode daaken,</l>
+<l>Verteeren door het vuur, en tot een puinhoop maaken?</l>
+<l>Viel ik den reiziger en vremdeling ooit wreed?</l>
+<l>Heb ik myn list aan Hel, of Hemel ooit besteed?</l>
+<l>Aan al deeze euveldaân ik my nooit schuldig kenden:</l>
+<l>Wel waarom werde ik dan met bergen van elenden</l>
+<l>Gedrukt en overstulpt? waarom versmagt myn borst,</l>
+<l>In 't midden van de vloed, door lydelooze dorst?</l>
+<l>Of wat belet het ooft myn honger te verzaaden?</l>
+<l>Waarom wil de Arend nooit myn leeverspys versmaaden?</l>
+<l>Waarom doch werde ik van Jupyn zyn vier gezengd?</l>
+<l>Waarompynd 't Helsche rad, met slanggekriel gemengd,</l>
+<l>Myn lichchaam eindeloos? Waarom doet my het duchten</l>
+<l>Voor 't vallen van den steen myns onheils staadig zuchten?</l>
+<l>Waarom moet ik een vat, dat geenzints dicht en is,</l>
+<l>Staâg vullen vruchteloos, en zonder lafenis?</l>
+<l>Wat reeden kwam ik ooit doch aan de Goôn te geeven,</l>
+<l>Door misdaân, welke ik heb onweetende bedreeven?</l>
+<l>Wat mag dan de oorzaak zyn, dat ik altyd den steen,</l>
+<l>Die naauw'lyks was om hoog, of rolden na beneên,</l>
+<pb n="53"/>
+<l>Met arbeid zonder eind, tot 't toppunt van de bergen,</l>
+<l>Moet weeder wentelen? Wie zou 't geduld zulks vergen?</l>
+<l>Ik, ik alleenig ly de straffen altemaal,</l>
+<l>Die deez' rampzaalige, tot de onderaardsche Zaal</l>
+<l>Gedoemd, verdeelen t'zaam, ja, noch veel ruwer rampen.</l>
+<l>Hoe vat myn brein dat stuk?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Krater</hi>.</speaker>
+<l rend="; 3tab">Het zyn bezwaarde dampen,</l>
+<l>Die 't brein benevelen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l rend="; 1tab">Myn Lief, stel u gerust!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Gerust! Mevrouw, eer zy deez' leevens lamp geblust.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Krater</hi>.</speaker>
+<l>O Vorst! myn tyd genaakt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 2tab">Zou dan Alcestis sterven?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>Zy sterven nimmermeêr die glory gaan verwerven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Neen! leef, Alcestis, leef!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l rend="; 4tab">Men leefd in eeuwigheid,</l>
+<l>Als een doorluchte dood ons na het graf geleid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Dat zal myn beurd eerft zyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l rend="; 2tab">Aan my de voortocht weezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Hier in hebt gy, Mevrouw, myn tegenstand te vreezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Krater</hi>.</speaker>
+<l>'k Wensch dit eens eindigde.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l rend="; 3tab">Zo 't u gevalt, wy gaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>'k Heb eerst 't verdrag gemaakt.</l>
+</sp>
+<pb n="54"/>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l rend="; 1tab">Ik de eerste keur gedaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Krater</hi>.</speaker>
+<l>Terwyl Mevrouw zich heeft vrywillig aangebooden,</l>
+<l>En moedig eerst besloot, heb ik niet meêr van nooden.</l>
+<l>Vervolgens zal zy met my gaan, op haar verzoek.</l>
+<l>Dus breek ik 't marren af, eer my myns Konings vloek,</l>
+<l>En ongenaade tref, verstoord door langer draalen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Moet dit dan zyn, myn Lief? moet gy de schuld betaalen,</l>
+<l>Helaas! by my gemaakt? en is 'er nu geen tyd</l>
+<l>Meêr overig, die voorts ons dierbaar byzyn lyd?</l>
+<l>Zo moet ik my, door nood geperst, tot 't heilloos scheiden,</l>
+<l>(Doch 't zal haast anders zyn) geduldig gaan bereiden.</l>
+<l>Als ons de een Godheid straft, vaak de and're bystand geeft.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>Vaar wel dan, waarde Ziel! voor wien ik heb geleefd.</l>
+<l>Vroom, eerbaar, onbevlekt, en van het vreemd beminnen</l>
+<l>Afkeerig, altyd trouw, zo lang de Schikgodinnen</l>
+<l>Het wilde dulden, niet afgunstig van ons luk:</l>
+<l>Voor wien ik willig my thans onderwerp een juk,</l>
+<l>Van ieder een gewraakt, en graeg begeer te sterven,</l>
+<l>Veel liever, als dat ik zou leevend moeten derven</l>
+<l>Uw leeven, dat my staâg zo dierbaar was en waard;</l>
+<l>Als dat ik my zou zien noch ov'rig en gespaard,</l>
+<l>Omarmd van teeder Kroost en vaderlooze weezen,</l>
+<l>Wien niet als staâge ramp en onheil stond te vreezen,</l>
+<l>Zo zy dus, in de lent haar jeugds, van Vaders hoofd</l>
+<l>En schut eens wierden, ach! te ontydiglyk beroofd.</l>
+<l>Doch, eer wy voor altyd malkanderen begeeven,</l>
+<l>Moet gy myn leste beê, myn Lief, niet wederstreeven!</l>
+<l>Laat u ter herten gaan ons t'zaamgeteelde Kroost;</l>
+<l>Zy strekken u ten steun, gy haar tot heul en troost.</l>
+<l>Hier voeg ik kort'lyk by noch eene, die de leste is,</l>
+<l>Denk, dat uw Ega was altyd de trouwe Alcestis.</l>
+<l>En zorg dat gy haar graf, van lykcypres beschaauwd,</l>
+<l>Wilt sieren met een krans door uw getraan bedaauwd.</l>
+<pb n="55"/>
+<l>Voorts wensch ik, dat de Goôn uw daagen willen rekken</l>
+<l>In voorspoed, en uw magt staâg meêr en meêr uitstrekken,</l>
+<l>Zo werde uw Ryk vermeerd. Dat Hymen u beschik</l>
+<l>Een Gemaalin, zo trouw, gelukkiger als ik.</l>
+<l>Hier meê, vaar eeuwig wel.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 1tab">'t Was nooit myn rechte meenen,</l>
+<l>Alwaarde Bedgenood, geweest dat ik u heenen</l>
+<l>Met hem zou laaten gaan, o neen! gewiss'lyk niet;</l>
+<l>Dat ik 't scheen toe te staan, is maar alleen geschied,</l>
+<l>Om uw, doorluchte Ziel, zo zacht in slaap te wiegen,</l>
+<l>En, door myn heimelyk vertrek, u te bedriegen.</l>
+<l>Dit kond gy meê verstaan, Heer Krater, en mitsdien</l>
+<l>In deez' gelegentheid u wysselyk voorzien</l>
+<l>En wachten, dat gy niet bestaat haar te vervoeren,</l>
+<l>Was 't dat gy 't anders deed, 'k liet straks de trommel roeren,</l>
+<l>Opsteeken de trompet, en bragt een heir ter been,</l>
+<l>Van Ridderordening, van Burgers, van 't Gemeen,</l>
+<l>Om my van uw bestaan rechtvaardiglyk te wreeken.</l>
+<l>Maar wat doch mag ik van die laffe Ridd'ren spreeken?</l>
+<l>Zy zyn van eer en trouw, en dapperheid beroofd,</l>
+<l>Slechts mannen zonder moed, haar vuur is uitgedoofd.</l>
+<l>Best waag ik zelfs het stuk; en, zonder lang te draalen,</l>
+<l>Laat ik myn wap'nen in der yl te voorschyn haalen,</l>
+<l>En redde Alcest alleen, zo niemand volgen wil,</l>
+<l>Of sneuvel hier met roem, en eindig zo 't geschil.</l>
+<l>Kan ik geen Goôn, zo zal ik Ongoôn gaan beweegen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Vyfde tooneel</hi>.</head>
+<stage><hi rend="sc">Alcestis, Krater</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Krater</hi>.</speaker>
+<l>De Vorst die schynt ontsteld.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l rend="; 2tab">Ik ben, en blyf genegen,</l>
+<pb n="56"/>
+<l>Vrywillig meê te gaan, Heer Krater, om 't verdrag</l>
+<l>Wel stip te volgen, en voldoen noch deezen dag.</l>
+<l>Maar 't zal alvoorens wel ten hoogden noodig weezen,</l>
+<l>Te zorgen voor den Vorst; zyn wantaal doet my vreezen</l>
+<l>Voor eenig onheil, dat ons eeuwig smerten zou:</l>
+<l>Ai! help ons doch hier in!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Krater</hi>.</speaker>
+<l rend="; 1tab">O gadelooze trouw!</l>
+</sp>
+<stage><hi rend="i">Einde van het vierde Bedryf</hi>.</stage>
+</div>
+</div>
+<div type="act">
+<pb n="57"/>
+<head rend="h3">Vyfde bedryf.</head>
+<head rend="h4"><hi rend="i">Eerste tooneel.</hi></head>
+<stage><hi rend="sc">Admetus</hi>, <hi rend="i">met den Degen in de hand al worstelende</hi>, <hi rend="sc">Arbates</hi>, <hi rend="i">Gevolg van</hi> <hi rend="sc">Ridderen</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>LAat los! laat los!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arbate</hi>, <hi rend="i">en gevolg van</hi> <hi rend="sc">Ridderen</hi>.</speaker>
+<l rend="; 1tab">O Vorst! bedaar.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 6tab">Bedaaren, Snooden!</l>
+<l>Eerst moet ik u te zaam en dan myn zelven dooden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gevolg van</hi> <hi rend="sc">Ridderen</hi>.</speaker>
+<l>Wy bidden u, bedaar!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 2tab">Laat los!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l rend="; 5tab">O Vorst! 't geschied,</l>
+<l>Alleen om beters wil.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 2tab">Gy liegt het; het doet niet.</l>
+<l>'t Geschied uit blooheid, want gy toond u zaam verlegen,</l>
+<l>Wanneer ge in iemands hand slechts ziet een blanken degen,</l>
+<l>Schoon dat die tegens u niet eens getrokken werd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l>Ik bid u! Prins, bedaar!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 4tab">Ha! Schelmen, zonder hert!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arbate</hi>.</speaker>
+<l>Stel u doch eens gerust.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 3tab">Ik moet u eerst verschaffen,</l>
+<l>Voor uw lafhertigheid, de welverdiende straffen.</l>
+<l>'k Moet Minos, Eacus, en Radamant eerst zyn.</l>
+</sp>
+<pb n="58"/>
+<sp>
+<speaker><hi rend="sc">Arbate</hi>.</speaker>
+<stage><hi rend="i">Zy neemen hem de degen af.</hi></stage>
+<l>'t Geschied met uw verlof,</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 3tab">O wee! o smert! o pyn!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arbate</hi>.</speaker>
+<l>Uw pyn treft ons aan 't hert.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 3tab">Dat hebt gy niet, o schelmen!</l>
+<l>Die niet meêr waardig zyt om wapenen, of helmen</l>
+<l>Te draagen, als 't voor een rechtschaapen Held betaamd.</l>
+<l>De Ridder waardigheid zich uwer onmoed schaamd.</l>
+<l>'t Verwonderd my, dat gy noch durft by my vertoeven,</l>
+<l>En myn gezigt niet schuuwd; o trouwvergeeten Boeven!</l>
+<l>Durft gy nu wederom verschynen, en u bloot</l>
+<l>Begeeven het waards aan, na 't wyken van de nood?</l>
+<l>Durft gy noch zonder vrees en zekerlyk, Arbate,</l>
+<l>Met uw Heldhaften stoet, den schuilhoek eens verlaaten?</l>
+<l>Vertoon u vry ten Hoof; de baan is weeder klaar;</l>
+<l>Gy zyt in veiligheid, verdweenen is 't gevaar.</l>
+<l>Kom vry weêr voor den dag, met zessen, ja met tienen,</l>
+<l>Kom nu te zaamen om een plasdank te verdienen.</l>
+<l>Belet my van de dood, en weederstreef me in als.</l>
+<l>'k Ken uw geneegenheid, maar ik ken haar voor vals.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arbate</hi>.</speaker>
+<l>O Vorst! gy dwaald gewis.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 2tab">Zwyg, Snooden!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arbate</hi>.</speaker>
+<l rend="; 4tab">Wil ons hooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Voort, Rekels, fluks van hier! ontwyk vry mynen tooren.</l>
+<l>Hebt gy myn dienst gevlugt, vlugt ook uit myn gezigt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hofknaap</hi> <hi rend="i">uit</hi>.</speaker>
+<l>Een Boode....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 1tab">Dat hy koom.</l>
+</sp>
+<div type="scene">
+<pb n="59"/>
+<head rend="h4"><hi rend="i">Tweede tooneel.</hi></head>
+<stage><hi rend="sc">Admetus, Boode</hi> <hi rend="i">in de rouw</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Boode</hi>.</speaker>
+<l rend="; 2tab">ZO vaardig, als een schicht,</l>
+<l>Om u ten dienst te zyn....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 1tab">Wel aan, beleefde Boode!</l>
+<l>Zeg wat gy voor ons bragt?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Boode</hi>.</speaker>
+<l rend="; 3tab">O Vorst! het is van noode</l>
+<l>En wel betaamelyk, dat men om Vorst'lyk leed</l>
+<l>Of ongeval, zich ook in treurgewaaden kleed.</l>
+<l>Hierom is 't, dat ik my dus kom voor u vertoonen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Zeg maar de boodschap, en bekreun u geen verschoonen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Boode</hi>.</speaker>
+<l>Zo ras Heer Krater, na een lang verblyf, op 't lest</l>
+<l>In onze Legerplaats verscheen met vrouw Alcest,</l>
+<l>Die zich vrywillig had ten buit en prooi gegeeven,</l>
+<l>Alleen uit liefde, om u te houden in het leeven,</l>
+<l>Stond elk verwonderd, 't Hof niet minder als 't Gemeen,</l>
+<l>Daar komt de Koningin Alcestis zelfs, roept de een,</l>
+<l>Om aan de Grieken, en de volgende eeuw te toonen</l>
+<l>De reeks der deugden, die haar groote ziel bewoonen.</l>
+<l>Het is ont wyffelbaar, of de onbevlekte trouw</l>
+<l>Heeft haar altaar gesticht in 't hert van deeze vrouw;</l>
+<l>Haar onverflaauwde moed, waard aan 't Gesternt geheven,</l>
+<l>Doet om haars Heers behoud, versmaân haar eigen leeven.</l>
+<l>Een liefde zonder gaâ, zo krachtig en zo groot,</l>
+<l>Kan haar vrywillig doen verachten zelfs de dood.</l>
+<l>Nooit bragt Vulkanus kunst volmaaktere Pandoore,</l>
+<l>Door's Donderaars bevel, als deeze was, te voore;</l>
+<l>Hier in gelukkiger, als eer dat schepzel was,</l>
+<l>Wyl zy geen pestdoos droeg, of smettelyke kas.</l>
+<pb n="60"/>
+<l>Een ander roept; zie hier het los beloop van zaaken,</l>
+<l>En wat voor zekerheid men mag op menschen maaken;</l>
+<l>Was niet Admetus staâg een Vorst van elk bemind,</l>
+<l>Beleefd, grootmoedig, wys, tot woede nooit gezind,</l>
+<l>Godvruchtig, strydbaar, en voor ieder een rechtvaardig,</l>
+<l>Kort om, een Prins na wensch, en aller achting waardig?</l>
+<l>Dacht niet de waereld en hy zelfs ook, dat voor hem</l>
+<l>Elk onderdaan zou zyn, met een de zelve stem,</l>
+<l>Volvaardig alle nood, ja zelfs de dood te lyden?</l>
+<l>Nu ziet me elk aarzelen, en het gevaar vermyden:</l>
+<l>Nu werd geen eenig mensch gevonden in zyn Ryk,</l>
+<l>Die van al de oude deugd heeft ov'rig eenig blyk;</l>
+<l>By wien een prikkeling tot glory werd gevonden;</l>
+<l>Die haakende, om vermaard in aller eeuwen monden</l>
+<l>Te zyn, zich zelfs ten dienst van Vaderland en Vorst,</l>
+<l>Als men wel voormaals heeft gezien, opoff'ren dorst.</l>
+<l>Waar is die goude tyd en deugd, helaas! vervloogen?</l>
+<l>Nu komt een zwakke vrouw, wel teeder van vermoogen,</l>
+<l>Maar waarlyk groot van moed, ja, die 't haar minst betaamd,</l>
+<l>En maakt der manne sexe, en Ridd'ren rei beschaamd:</l>
+<l>Wie had zulks immermeer gedacht, of derven wachten?</l>
+<l>Terwyl dat dus het Volk de lucht vervuld met klagten,</l>
+<l>En redeneerde naar elks oordeel, drift en zin,</l>
+<l>Genaakte tot de Vorst, de onlukkige Vorstin.</l>
+<l>Zy blaakte, als een Godin in 't oog van al de waereld;</l>
+<l>En was op 't sierelykst gedost, en ryk bepaereld;</l>
+<l>Een majesteit scheen haar ten heldere oogen uit;</l>
+<l>Haar fierheid was, als van een vers verloofde Bruid;</l>
+<l>Haar tred vol deftigheid, en haar gelaat heel zedig,</l>
+<l>Vol dapperheid, vol moed, van alle zorgen leedig.</l>
+<l>Zo ras, als zy den Vorst Philippus kreeg in 't oog,</l>
+<l>Verdubbelde zy haar ontzachgelykheid, en boog</l>
+<l>Wel zedig, maar ook fier, en sprak dus, zonder schroomen;</l>
+<l>O Macedoonsche Vorst! wy zyn al hier gekoomen,</l>
+<l>Nief om lafhertig u te smeeken om genaâ,</l>
+<l>Geenzins, zulks deede ik nooit, al was 't tot eigen schaä;</l>
+<pb n="61"/>
+<l>Maar, om 't verdrag, 't geen gy hebt met myn Vorst bedongen,</l>
+<l>In alles te voldoen, blymoedig, onbedwongen.</l>
+<l>Alleen met dit besprek, indien wy zulks zyn waard,</l>
+<l>Dat gy uw woord houde, en Admetus zy gespaard;</l>
+<l>Om uitstel wensch ik niet, of tracht na langer draalen:</l>
+<l>Maar ben aanstonds gereed ten vollen te betaalen.</l>
+<l>Ter liefde van myn Lief ben ik het leeven moê.</l>
+<l>Zie daar de nek is bloot, uw Sabel sla vry toe</l>
+<l>Na dat haar koenheid had een ieder opgetoogen,</l>
+<l>En zy deez' woorden met een goddelyk vermoogen,</l>
+<l>Gesprooken overluid, trad Phlips wat nader by,</l>
+<l>En sprak haar aldus aan; Mevrouw Alcest, dat gy</l>
+<l>Dus ongelukkig zyt, van deeze zwaare slaagen</l>
+<l>Des strengen Nootlots op uw hals te moeten draagen,</l>
+<l>Treft ons gewisselyk aan 't hert, en is ons leed;</l>
+<l>'k Wensch dat het werden mogt aan andere besteed.</l>
+<l>Maar nademaal dat gy 't hebt willig opgenoomen,</l>
+<l>Kan ik onmoogelyk den loop van 't recht betoomen;</l>
+<l>De Priester eischt uw hoofd aan myn rechtvaardigheid:</l>
+<l>Dus zal het noodig zyn, dat ge u ter dood bereid.</l>
+<l>Den weg tot al deez' ramp kwam uw Gemaal te baanen,</l>
+<l>Die zulk een groote trouw ontrent zyn onderdaanen</l>
+<l>Te zullen vinden, zich voor vast vermeeten dorst,</l>
+<l>Dat niemand weigeren zou te sterven voor den Vorst.</l>
+<l>Hier meê vertrok den Prins, gewyde Maagdeschaaren,</l>
+<l>In 't offerstaatcykleed, verzelden tot de Altaaren,</l>
+<l>Ter slagting toebereid, deez' hoog verheeven ziel,</l>
+<l>Waar voor dat zy terstond op bei de kniën viel,</l>
+<l>En haar tot het gebed, kerkpligtig, ging begeeven.</l>
+<l>Daar na sprakze overluid: dit 's 't einde van het leeven</l>
+<l>Van Pelios zyn kroost, en Vorst Admetus Vrouw,</l>
+<l>Die, 't zy zy leefde of stierf, hem altyd bleef getrouw.</l>
+<l>Dus is zy, plegtiglyk begraaven te Larisse.</l>
+<l rend="; 1tab">Hier hebt gy nu, myn Heer, geheelyk de gewisse</l>
+<l>Verkonding, die door last myns Vorst te melden staat.</l>
+<l>Men neeme, om dit verhaal, op my geen wrok noch haaf.</l>
+</sp>
+<pb n="62"/>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Alcestis is dan dood! Alcestis! al myn vreugden!</l>
+<l>Alcestis! Pronkjuweel en Schatkist aller deugden!</l>
+<l>Alcestis! in wiens beeld de schoonheid heeft gewoond!</l>
+<l>Alcestis! die voor my een liefde heeft getoond,</l>
+<l>Waar van geen weêrgâ staat in boek of schrift te vinden.</l>
+<l>Is dan Alcestis dood? ô neen! het zyn de winden</l>
+<l>Van 't wisselziek gerucht, gevloogen over 't veld,</l>
+<l>Die hebben voor wat nieuws een loog en maar verteld.</l>
+<l>Ach! of het onwaar was, dat gaf myn ziel verblyding;</l>
+<l>Maar 't kan geen loogen zyn, de boode brengt de tyding,</l>
+<l>En met geen losse faam. wel aan, myn ziel, getreurd,</l>
+<l>Dryft zucht op zuchten uit, tot dat den Hemel scheurd.</l>
+<l>Werpt Jupiter op my zyn vreeselyke donder?</l>
+<l>Indien men my verlaat, ik moet ik blyf daar onder.</l>
+<l>O wee! wat zwaarder pak! sa! Ridd'ren! lustig, voort,</l>
+<l>Volg maar myn voorbeeld na, sa! mannen, hou uw woord.</l>
+<l>'t Was dwaasheid Peliön op Ossa te hervormen.</l>
+<l>Zo kan men best de Goôn in haar Paleis bestormen,</l>
+<l>Die dus verstoord op ons al te onrechtvaardig zyn.</l>
+<l>De Bres is klaar. val aan! ai my! daar schiet Jupyn.</l>
+<l>Wel hoe! ben ik alleen? en zyn zy weêr geweeken?</l>
+<l>Ha! Schelmen! laat gy dus uw Vorst in nood weêr steeken?</l>
+<l>Neen! zy verpoozen wat; hun deugd is reeds befaamd.</l>
+<l>Sa! Helden, voet aan voet, als 't Ridderen betaamd.</l>
+<l>Hoe naderd men zo traag, of is de volglust over?</l>
+<l>Gy, Blooden, wykt gestaâg, en dwaald hoe langs hoe groover.</l>
+<l>Uw loon is al bereid. neen! neen! 'k heb ongelyk;</l>
+<l>Gy gaaft my van uw moed steeds al te grooten blyk.</l>
+<l>Geen recht Thessaler liet ooit zyn Vorstin vermoorden.</l>
+<l>Neen! 't was een Rykstieran; een Geeselroê van 't Noorden,</l>
+<l>Een Pestplaag van den Staat; een Griek sche Aardskrokodil,</l>
+<l>Die 't moordstuk heeft gepleegd. Het zy dan wie het wil,</l>
+<l>Al was het zelfs Jupyn, hy zal zyn straf gevoelen,</l>
+<l>En met zyn hertebloed het vuur myns wraaks verkoelen.</l>
+<l>Zacht, zo voorbaarig niet, men oordeel niet verkeerd.</l>
+<pb n="63"/>
+<l>Was 't niet regtvaardigheid, die dit dus had begeerd?</l>
+<l>O ja! zo sprak de Boô. de Schelm die heeft geloogen.</l>
+<l>'t Geweld is grooter, als het recht, meest van vermoogen.</l>
+<l>Ik faal, en te vergeefs betoon ik ongeduld.</l>
+<l>Noch Goôn, noch Ridderen, noch Koning hebben schuld.</l>
+<l>Al wat'er is begaan heb ik alleen misdreeven,</l>
+<l>Ik, ik heb zelfs gebragt Alcestis om het leeven.</l>
+<l>Ik stak haar hartâer af, en ging my te verwoed,</l>
+<l>Moordzuchtige, als ik ben, beverwen met haar bloed.</l>
+<l>Daarom komt zy, te recht op my geheel verbolgen,</l>
+<l>Met toortslicht in de vuist, my staâg alom vervolgen.</l>
+<l>Haar schim waard voor myn oog, doch niet in die gedaant</l>
+<l>Als eertyds, maar bebloed, al zuchtende, betraand,</l>
+<l>Gemarteld, afgetreurd, bleekverwig, hol van oogen,</l>
+<l>Niet met haar pronkgewaad, maar doodskleed overtoogen,</l>
+<l>Het haar in een geklist; waar dat zy komt gegaan</l>
+<l>Al zwymelende, blyft op de aarde een bloedvlek staan.</l>
+<l>Daar trapt zy my op 't hert, en slaat my met haar handen.</l>
+<l>O wee! wat heeter gloed! haar fakkel doed my branden.</l>
+<l>Breng water, water! blus! sa! rep u, maak wat haast!</l>
+<l>Hoe helpt my niemand dan? maar zacht, Admeet, gy raasd;</l>
+<l>Uw zinnen zyn verstrooid, en gy 't spoor byster, waarlyk,</l>
+<l>Alcestis en vertoond zich geenzins zo vervaarlyk,</l>
+<l>Als gy haar afmaald, maar gelyk een blyde bruid,</l>
+<l>In sierelyk gewaad, heel geestig opgetuit,</l>
+<l>Met paerlen en gesteent, besproeid met geur van roozen,</l>
+<l>Op haar albaste wang, die steeds van nektar bloozen,</l>
+<l>Haar oogstraal lonkt, als die van Venus op Adoon;</l>
+<l>Kort om, zy schynt begaafd met het aanminnigst schoon.</l>
+<l>Zo komt ze, als een Godin, zich werpen in myn armen.</l>
+<l>Wees welkom, waarde Alcest! daar hoor ik weeder karmen.</l>
+<l>Wat naar geluit is dit?</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="64"/>
+<head rend="h4"><hi rend="i">Derde tooneel.</hi></head>
+<stage><hi rend="sc">Antithanatha, Admetus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Antithanata</hi>.</speaker>
+<l rend="; 3tab">MYn Zoon, die zy gegroet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Zyt gy 't Thizifone! by Draaken opgevoed,</l>
+<l>Die weêr myn rust verstoord? die my belet 't omhelzen</l>
+<l>Van myn geliefde Alcest, in 't lommer deezer elzen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Anthithanata</hi>.</speaker>
+<l>Wat zegt, myn waarde Kind?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 4tab">Hoe! noemd gy my uw kind?</l>
+<l>En zedert wanneer doch hebt gy my zo bemind?</l>
+<l>Hoe! zoude ik zyn uw zoon? zo waand gy dan myn moeder</l>
+<l>Te weezen? Ik ontken 't; gy zyt Megeer, verwoeder</l>
+<l>Als eenig schrikdier, of ooit helsche Hydra was.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Antithanata</hi>.</speaker>
+<l>Hoe woeld gy dus, myn Zoon!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 5tab">Ik moet de AEgeese plas</l>
+<l>Uitputten, droogen, en die met de Olymp weêr dempen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Antithanata</hi>.</speaker>
+<l>Gy zyt ontsteld.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 1tab">Ik moet in de Thessaalsche Tempen</l>
+<l>Gaan wand'len met myn lief, ik heb het haar beloofd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Antithanata</hi>.</speaker>
+<l>Gy raaskald waarelyk, en zyt ontroerd in 't hoofd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Wel aan, beroemde Alcest! behaagen u deez' beemden?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Antithanata</hi>.</speaker>
+<l>Ik bid bedaar toch wat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 2tab">Deez' laan is voor geen vreemden.</l>
+<l>Vertrek terstond van hier.</l>
+</sp>
+<pb n="65"/>
+<sp>
+<speaker><hi rend="sc">Antithanata</hi>.</speaker>
+<l rend="; 2tab">Gy vergt u zelfs te veel.</l>
+<l>Rust zoude u dienstig zyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 1tab">Gins, in dat lustprieel,</l>
+<l>Omschaaduuwd van 't geboomt, doorvlochten met veel roozen,</l>
+<l>Zal ik me een weinig met myn Bedgenood verpoozen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Antithanata</hi>.</speaker>
+<l>Uw herssens zyn besmet met doodelyk fenyn.</l>
+<l>Ik bid, myn waarde Zoon!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 2tab">Ik wil u Zoon niet zyn.</l>
+<l>'k Verbiede aanstonds u ooit myn Moeder u te noemen,</l>
+<l>Of myn rechtvaardigheid zal u ter dood verdoemen.</l>
+<l>Heillooze Toveres! verbeel u niet, dat gy</l>
+<l>Myn moeder zyt. Gy zyt een smettende Harpy,</l>
+<l>Die my van myn Alcest te trouw'loos komt berooven.</l>
+<l>Fy! dat gy, daar de Goôn in 't kort staan uit te dooven</l>
+<l>Het kleine flikkerlicht der uitgeteerde lamp</l>
+<l>Uws leevens, haar en my komt brouwen ramp op ramp.</l>
+<l>Het hadde u best gepast in haare plaats te sterven,</l>
+<l>En te eindigen, 't geen gy doch haast zult moeten derven,</l>
+<l>Tot glory van uw naam, en redding van uw Kroost.</l>
+<l>Fy! Bloode! zacht myn Lief! Ai! ween niet, wees getroost.</l>
+<l>Ik zal u, waar gy gaat, getrouwelyk verzellen.</l>
+<l>Schoon 't Noodlot wilde dat gy daalen mogt ter hellen,</l>
+<l>'k Zal, ondanks Cerberus, de Helpoort open slaan,</l>
+<l>Als eertyds Orpheus deede, u weeder daar van daan</l>
+<l>Gaan haalen, en u, van uw ongeval verlossen.</l>
+<l>Kom, myn Euridice! kom! volg my langs deez' bossen</l>
+<l>Van mirth en geurig tym, en roosmaryn beplant.</l>
+<l>Helaas! zy zucht. Ai my! zy weigerd my haar hand:</l>
+<l>Doch heeft daar reeden toe. Was ik 't niet die haar 't leeven</l>
+<l>Benam? o neen! maar gy liet haar de doodwond geeven:</l>
+<l>Gy liet van struik en stam afrukken deeze bloem.</l>
+<l>Had gy niet lang genoeg geleefd, om vol van roem</l>
+<pb n="66"/>
+<l>En glory, moedig eens in Karons boot te stappen?</l>
+<l>Een min bedaagde ziel, vol jeugd en leevenssappen,</l>
+<l>Moest sneuvelen, en gy, vervloekte Tygerin,</l>
+<l>Behouden blyven.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Vierde tooneel.</hi></head>
+<stage><hi rend="sc">Admetus, Antithanata, Hofknaap</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Hofknaap</hi>.</speaker>
+<l rend="; 1tab">VOrst! een Boode....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l rend="; 3tab">Hy koome in</l>
+<l>Hy brenge wat hy wil, ik hoor hem met bedaaren.</l>
+<l>Geen tyding ook, hoe kwaad, kan meerder my vervaaren,</l>
+<l>'k Ben in myn ongeluk verhard, gelyk het staal,</l>
+<l>Daar 't al op weeder stuit.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Boode</hi>.</speaker>
+<l rend="; 2tab">O Vorst! 'k koome andermaal,</l>
+<l>Door uitgedrukte last myns Konings (wil 't gehengen)</l>
+<l>Om aan uw Majesteit een tydinge te brengen,</l>
+<l>Die 'k gis (indien dat slechts myn oordeel is bekwaam</l>
+<l>Van vorstelyk bedryf) u meerder aangenaam</l>
+<l>Zal zyn, als de andere, die 'k laast aan u kwam melden.</l>
+<l>De Macedoonsche Vorst Philippus, die heel zelden</l>
+<l>Aan een nabuurig Prins zo groot een eer toebragt,</l>
+<l>Met Hofgevolg bestuuwd, en Koninglyke pracht,</l>
+<l>Komt, om uw Majesteit in vriendschap te begroeten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Zeg, dat ik hem niet wil aanschouwen, of ontmoeten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Boode</hi>.</speaker>
+<l>Hy staat, met al den stoet, niet ver van dit Paleis.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Hy geeve Alcestis weêr, die ik met recht hem eisch.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Boode</hi>.</speaker>
+<l>Alcest is dood. Hy komt een and're aan u vertoonen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Gy liegt het, Schelm! zy leefd. Hoe derft gy my dus hoonen?</l>
+<pb n="67"/>
+<l>En ging ik niet met haar, een ogenblik geleên,</l>
+<l>Door deeze lommering en groene paaden treên?</l>
+<l>En zaaten wy niet zaam op deez' bebloemde heuv'len?</l>
+<l>Haar deugd leefd eeuwig, en haar naam zal nimmer sneuv'len.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Boode</hi>.</speaker>
+<l>Ik weet gewis, de Vorst haast in dit Hof zal zyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Zyn tegenwoordigheid baard my maar smert en pyn,</l>
+<l>Daarom vertrek van hier, met uwen Vorst, gy Snoode!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Antithanata</hi>.</speaker>
+<l>Bedaar, myn Zoon! wie deed ooit hinder aan een Boode?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>En gy, zo wel als hy, schuuw myn verbolgentheid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Antithanata</hi>.</speaker>
+<l>Ai! matig u, myn Zoon! daar komt zyn Majesteit.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Vyfde tooneel.</hi></head>
+<stage><hi rend="sc">Philippus, Admetus, Krater, Arbate, Antithanata, Alcestis</hi> <hi rend="i">vermomd</hi>, <hi rend="i">Ge-volg van</hi> <hi rend="sc">Ridderen, Roxane, Eume-lus Hofknaap</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Philippus</hi>.</speaker>
+<l>NA dat de dolle Mars de Landen, Lieden, Steden,</l>
+<l>Had lang genoeg geplaagd, met veel afgryslykheden:</l>
+<l>Zyn brandende Oorlogstoorts, eenmaal was uitgeblust,</l>
+<l>In zyne plaats ten Troon gevoerd de Vreede en Rust,</l>
+<l>Door't trouw volbrengen van 't verdrag in alle deelen,</l>
+<l>En gy vermoogens dies uw Sterkten en Kasteelen,</l>
+<l>Ja heel 't Thessaalsche Ryk gesteld weêr in uw magt</l>
+<l>Zult zien, en onder uw gehoorzaamheid gebragt;</l>
+<l>Dat wy vervolgens ook nu Vrinden zyn geworden,</l>
+<l>Vonde ik, Admetus; nu veel reeden, die my porden,</l>
+<l>Om u te koomen zien, en niet alleen uw rouw</l>
+<l>Meê te beweenen, maar ook zelfs myn gunst en trouw</l>
+<l>U mild'lyk aan te biên, en daar toe te verklaaren,</l>
+<l>Dat, zo 'k geweeten had, dit onheil wedervaaren</l>
+<pb n="68"/>
+<l>Zou hebben aan Alcest, uw waarde Gemaalin,</l>
+<l>Ik het verdrag gestaakt zou hebben in 't begin.</l>
+<l>Dan, wyl het was geschied, en plegtiglyk verdraagen,</l>
+<l>Heb ik 't ontbinden van die knoop niet derven waagen,</l>
+<l>Uit vreeze van de haat der Goôn, en 's Heemels straf,</l>
+<l>Hoewel 't my trof aan 't hert; doch deeze voorval gaf</l>
+<l>My tastb're tekenen van de goedwilligheden,</l>
+<l>De liefde en achting, die gy voor Alcest besteeden,</l>
+<l>Geduurende den tyd gy met haar hebt geleefd.</l>
+<l>Wyl zy zo koen de dood heeft in 't gemoed gestreefd,</l>
+<l>Zovry, zo zonder dwang, in 't aanzien van ons allen:</l>
+<l>'t Geen nooit geschied zou zyn, zo gy haar wreed gevallen</l>
+<l>Of lastig had geweest in uw voorleedene Echt,</l>
+<l>Dus heb ik in myn hert een voorneem vast gehecht,</l>
+<l>Om al 't geleede leed grootmoedig te verzachten,</l>
+<l>Met Macedonische, en Thessalische Geslachten,</l>
+<l>Te binden scheid'loos, door een wettig huuwelyk</l>
+<l>Van myn geliefde Kind, en Erfgenaam van 't Ryk,</l>
+<l>Met u, die zyt bewust wat voor bevallykheden,</l>
+<l>Wat schoonheid, deugd, en wat volmaakter leest van leeden</l>
+<l>Zy waarelyk bezit. Ik acht haar (zonder roem</l>
+<l>Of yd'le waan gezegt) gewis te zyn de bloem,</l>
+<l>En 't uitgeleezen puik van al de Grieksche Maagden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Weet, Moorder van Alcest! nooit Vrouwen myn behaagden,</l>
+<l>Als een, aan wien ik ben, door de eerste Trouw verloofd,</l>
+<l>En die gy, Wreede! my bloeddorstig hebt geroofd.</l>
+<l>Zy heeft myn eerste min, en mag die voort bewaaren,</l>
+<l>Tot onze zielen met malkanderen vergaaren</l>
+<l>In 't Zalig Zielendal: zy werde alleen genoemd</l>
+<l>Myn Vrouw, myn Gaâ, myn Lief, al de andere gedoemd,</l>
+<l>Verschooven en veracht: zy moet alleen genieten</l>
+<l>De eer dat ik was haar man. Het zal my niet verdrieten,</l>
+<l>Te slyten, zonder Vrouw, myn overige tyd.</l>
+<l>Ik bon genoeg door haar gedachtenis verblyd.</l>
+<l>Die zal ik nacht en dag gaan streelen en omarmen,</l>
+<l>En, door myn lief de brand, staâg stooven en verwarmen.</l>
+<pb n="69"/>
+<l>Maar neen! haar beeldenis staat eeu wiglyk gedrukt</l>
+<l>In myn gedachten hert, daar 't nooit werd uitgerukt,</l>
+<l>Ik acht geen Schoonte of Staat, om voortaan meê te leeven,</l>
+<l>My heeft het Godendom al Kroost genoeg gegeeven.</l>
+<l>Ik zal geen Jaar alleen, maar al myn leeven lang</l>
+<l>Betreuren myn Alcest, en uw te wreeden dwang.</l>
+<l>Alcest, die niet alleen deeze eeuw verstrekt een wonder;</l>
+<l>Maar die de volgende verbaazen zal by zonder.</l>
+<l>Een vrouw, voor wien de roem zwicht van Penelope,</l>
+<l>Der Fylaceesche Weeuw, en van Andromaché,</l>
+<l>De moed van Hippias, en der Heldinnen t'zaamen;</l>
+<l>Voor wien dat ik ook my niet laaten zal beschaamen,</l>
+<l>Door Thebens Hemon; maar ook sneuvelen op 't graf</l>
+<l>Van myn Antigone, die my het leeven gaf.</l>
+<l>Nooit zal men my meêr zien daar openbaare vreugde</l>
+<l>Gepleegd werd, of daar wyn der Gasten hert verheugde;</l>
+<l>Nooit zal men my meêr zien hanteeren Lier of Luit,</l>
+<l>Of hooren deunen op een Lybiaansche Fluit,</l>
+<l>Weleer myn tydverdryf; nooit werde in al myn leeven,</l>
+<l>Door het Thessaalsche Ryk, meêr vrolykheid bedreeven.</l>
+<l>En gy, moordzuchtige Tieran! kond met uw Kind</l>
+<l>Gaan elders heenen, daar gy het uw gading vind.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Philippus</hi>.</speaker>
+<l>Al wat ik deed geschiede alleen om u te troosten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Dit is, geloof my, staâg 't voorgeeven van de boosten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Philippus</hi>.</speaker>
+<l>Ons deerd uw rouwklagt, en uw ramp raakt ons aan 't hert.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>'t Beklaagen lichter valt, als zelfs te proeven smert.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Philippus</hi>.</speaker>
+<l>'t Is lang genoeg beweend een afgestorven liefde.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Zo die slechts maar myn hart, gelyk het uwe, griefde.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Philippus</hi>.</speaker>
+<l>Een andere ende Tyd, zal alles slyten doen.</l>
+</sp>
+<pb n="70"/>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Al slytende verkryg ik 't einde van uw woên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Philippus</hi>.</speaker>
+<l>'t Is dwaasheid aan een vrouw, die dood is, min te draagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Ach! moet gy, Goden, dan myn ziel gestaadig plaagen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Philippus</hi>.</speaker>
+<l>Laak nooit de Goôn, zy zyn, met my, voor u bezorgd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Maar 't is uw zorg, die my geduurig beuld en worgd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Philippus</hi>.</speaker>
+<l>Laat u gezeggen, of gy ziet u ramp vermeêren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Niets kan my, na 't verlies van myn Alcestis, deeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Philippus</hi>.</speaker>
+<l>Denkt, dat gy krygt Alcest in deezen wederom.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Men paaid de kinderen doorgaans met gryns en mom.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Philippus</hi>.</speaker>
+<l>Verbeel u, dat Alcest is, als op nieuw, herbooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Ach! wat legt men my niet ondoenelyks te vooren?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Philippus</hi>.</speaker>
+<l>Myn Dochter, nader slechts, en reik uw rechterhand.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Bloedgierige Barbaar! ontaarde Dwingeland!</l>
+<l>O Snooden! waand gy me aan uw Dochter dus te knoopen,</l>
+<l>Myn vryheid niet alleen, maar trouw meê te verkoopen?</l>
+<l>Verwoede! kom in plaats, vermoor my met uw zwaard,</l>
+<l>Gelyk ge Alcestis deed, zo werd myn ziel gepaard,</l>
+<l>Noch eenmaal met haar ziel, en dit 's al myn verlangen.</l>
+<l>Ai! waarde Gemaalin! gewaardig u te ontfangen</l>
+<l>Deez' droevige offerpligt, en wyl ik aanstonds sterf,</l>
+<l>Verwacht my daar gy zyt. 'k bid, dat myn asch verwerf</l>
+<l>Een rustplaats in haar graf, dat men geen van ons beiden,</l>
+<l>Na 't overlyden, doch wil van den and'ren scheiden.</l>
+<l>Dat onze trouw bet groei, zelfs na de dood; dat wy</l>
+<pb n="71"/>
+<l>In 't Elizeesche veld verzeld gaan zyde aan zy.</l>
+<l>'k Verzeeker u, myn Heer, dat deeze beê de leste is.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Philippus</hi>.</speaker>
+<l>Wel aan dan, voeg u weêr by uw getrouwe Alcestis.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<stage><hi rend="i">Zy werd ontmond</hi>.</stage>
+<l>O Hemel! wat is dit?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Antithanata</hi>.</speaker>
+<l rend="; 1tab">Goon! wat een vreemd geval!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arbates</hi>.</speaker>
+<l>Wy staan geheel verzet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Krater</hi>.</speaker>
+<l rend="; 2tab">Wat of dit baaren zal?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Alcestis</hi>.</speaker>
+<l>Wel waarde Bedgenood! de proef, die gy gegeeven</l>
+<l>Hebt van oprechte trouw, verdiend te zyn verheeven</l>
+<l>Tot aan het blaauw gewelf, ja boven zon en maan,</l>
+<l>En heeft wel ieder een, maar my voor al, voldaan.</l>
+<l>Ons leeven staat alleen aan deeze Vorst te danken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Ik sta verbaasder, als voor schetterende klanken,</l>
+<l>En blixemschichten van den grooten Donderaar!</l>
+<l>Ik twyffel 't geene ik zie, of 't loogen is, of waar.</l>
+<l>Hoe! myne Alcestis hier in 't leeven, en behouwen!</l>
+<l>Wat voor Thebaner zal deez' twyffelzaak ontvouwen!</l>
+<l>Maar mag men twyffelen aan 't geen men hoord en ziet?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gevolg van</hi> <hi rend="sc">Ridderen</hi>.</speaker>
+<l>Hy twyffele die wil, wy twyff'len langer niet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Admetus</hi>.</speaker>
+<l>Dewyl dat niemand aan deez' wonderlyke zaaken</l>
+<l>Nu meerder twyff'len wil, of zwaarigheid kan maaken,</l>
+<l>Is 't reeden, dat ik ook hier in my vergenoeg,</l>
+<l>En u, grootmoedig Vorst! myn dank baarheid toevoeg,</l>
+<l>Voor uw doorluchte daad, en de edelmoedigheden,</l>
+<l>Die gy, door deugd genoopt, kwam aan ons huis besteeden.</l>
+<l>Doordeugdelyke Ziel! verheemelde Engelin!</l>
+<l>Wiens Trouw genoemd zal zyn voortaan eeuw uit eeuw in.</l>
+<pb n="72"/>
+<l>Uw dood, schoon 't anders scheen, beroofden my van 't leeven;</l>
+<l>Het geen uw leeven my nu weeder heeft gegeeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Roxane</hi>.</speaker>
+<l>Gy hebt, o groote Vorst! ons, die, door rouw geperst,</l>
+<l>Verslensten, met den daauw uws gonsts, weêr heel ververst.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eumelus</hi>.</speaker>
+<l>Wy roemen u met recht voor onzen waaren Hoeder,</l>
+<l>Die te gelyk ons schenkt een Vader en een Moeder.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hofknaap</hi>.</speaker>
+<l>Gy hebt hier door uw naam onsterffelyk gemaakt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Philippus</hi>.</speaker>
+<l>Zo lang men spreeken zal, van 't geen het huuwelyk raakt.</l>
+<l>Zo lang 'er menschen op de waereld hier gevonden</l>
+<l>Ooit zullen worden, zal de faam, met volle monden,</l>
+<l>Door 't klinken des trompets, bazuinen tot op 't lest</l>
+<l>De Trouwe en Liefde van Admetus en Alcest.</l>
+</sp>
+<stage><hi rend="i">Einde van het vyfde en laatste Bedryf.</hi></stage>
+</div>
+</div>
+</body>
+</text>
+
+</TEI.2>

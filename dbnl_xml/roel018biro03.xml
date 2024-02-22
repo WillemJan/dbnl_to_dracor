@@ -1,0 +1,3775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Biron</title>
+               <author>Hendrik Roeland</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van een onbekende herdruk van <hi rend="i">Biron</hi> van Hendrik Roeland uit 1661. De eerste druk dateert uit 1629.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>p. 2: de accolade die in het origineel naast de tekst 'vier kale Franschen' staat, is in deze digitale editie weggelaten.</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <publicationStmt>
+               <idno type="titelcode">roel018biro03_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2017 dbnl / Hendrik Roeland</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note></note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">Exemplaar Universiteitsbibliotheek Amsterdam, signatuur: OTM: OK 63-8444, scans van Google Books</idno>
+               </bibl>
+               <p>Hendrik Roeland, <hi rend="i">Biron</hi>. Jacob Vinckel, Amsterdam 1661 (onbekende herdruk)</p>
+               <p>&#160;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Biron</title>
+               <author>Hendrik Roeland</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <idno type="nur"></idno>
+           <availability>
+               <p></p>
+           </availability>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Biron</title>
+               <author>Hendrik Roeland</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <idno type="nur"></idno>
+           <availability>
+               <p></p>
+           </availability>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2017-08-24</date>
+               <respStmt>
+                   <name type="person">VD</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+       <interpGrp>
+           <interp type="primair" value="frank01"/>
+           <interp type="primair" value="spanj01"/>
+       </interpGrp>   
+<body>
+<cf>
+<div type="chapter">
+<pb n="1"/>
+<p>H. Roelands</p>
+<p>Biron,</p>
+<p>treurspel.</p>
+<p>Op de Regel:</p>
+<p><hi rend="i">Hoe Machtigh, Edel, Rijck of Groot, Niemant geluckigh voor sijn doodt.</hi></p>
+<p><figure>
+<p><xptr to="roel018biro03ill0001.gif"/></p>
+</figure></p>
+<p>t'Amsterdam,</p>
+<p>Door Jacob Vinckel, Boeckverkooper / in de Oude Lely-Straet / inde History-schrijver / Anno 1661.</p>
+</div>
+</cf>
+<div type="chapter">
+<pb n="2"/>
+<head rend="h3">Personagien.</head>
+<list>
+<item>Coning <hi rend="i">van</hi> Vranckrijck.</item>
+<item>Coningin <hi rend="i">van</hi> Vranckrijck.</item>
+<item>Mareschal <hi rend="i">de</hi> Biron.</item>
+<item>Jeannin, <hi rend="i">President van den Hoogen-Raet.</hi></item>
+<item>Nemoers, <hi rend="i">'s Conincks Secretarius.</hi></item>
+<item>Lafin, <hi rend="i">Edelman.</hi></item>
+<item>Ambassadeur <hi rend="i">van Spangien.</hi></item>
+<item>Renaze, <hi rend="i">Edelman.</hi></item>
+<item>Graef Avergnes.</item>
+<item>Edelman <hi rend="i">van 't Hof.</hi></item>
+<item><hi rend="i">Vier kale Franschen:</hi></item>
+<item>Nicolaes, </item>    
+<item>Philiph,</item>
+<item>Pieter,</item>
+<item>Jeremias.</item>  
+<item>Ciria, <hi rend="i">Boel van Biron.</hi></item>
+<item>Fuentes, <hi rend="i">Edelman in Bourgoignǐen.</hi></item>
+<item>Laforce, <hi rend="i">Birons Bloet-vriend.</hi></item>
+<item>Vitry, <hi rend="i">Capiteyn van de Guarde.</hi></item>
+<item>Vier Raeds-Heeren.</item>
+<item>Soldaet.</item>
+<item>Beul.</item>
+</list>
+</div>
+<div type="act">
+<pb n="3"/>
+<head rend="h2">Birons treur-spel.</head>
+<head rend="h3">Eerste uytkomste.</head>
+<head rend="h4">Coning van Vranckrijck, Jeannin, Nemours, en eenige Stomme.</head>
+<sp>
+<l rend="speaker"><hi rend="i">Coning.</hi></l>
+<l><hi rend="b">H</hi>Oe soud' ik meerder eer op Aerdẽ konnẽ wenschẽ,</l>
+<l>Dan wel geacht te zijn, in vreê van alle menschen,</l>
+<l>Ick heb in swaren strijdt den Scepter soo gesweyt,</l>
+<l>Dat mijn rumoerigh Rijck in stille ruste leyt,</l>
+<l>Gelooft moet zijn de Heer die 't alles heeft gegeven,</l>
+<l>En sijnen Dienaer laet in wensch en vrede leven.</l>
+<l>Mijn trouwe Edellien, mijn steunsels en mijn borgh,</l>
+<l>Die m' hebben by-gestaen, draegt voorder voor my sorg:</l>
+<l>En siet in weelde toe; in Oorlogh moet men waecken,</l>
+<l>In vrede niet te min, en maeckt voor alle saecken</l>
+<l>Ons buyte-plaetsen vast, want die te veel vertrout</l>
+<l>Komt dickwils in 't verdriet, hoewel 't hem namaels rouwt;</l>
+<l>'t Is waer den Peys gaet vast, de Eden zijn geswooren,</l>
+<l>Maer die 't op 't loose leght, laet licht den Eed' verlooren:</l>
+<l>In Princelijck vergaer, by tijdts gelegentheên,</l>
+<l>Moet men voorsichtigh zijn, door-gronden yeders reên.</l>
+<l>Want soud' men luyst ren na de honincx-soete becken,</l>
+<l>Sy souden onvoorsiens ons in het garen trecken;</l>
+<l>Soo lange als den mensch hier op der Aerden leeft,</l>
+<l>Hoewel hy luckigh schijnt, hy geen geluck en heeft.</l>
+<l>Ick danck de goede Godt die ons soo heeft gesegent,</l>
+<l>Dat yeder my met eer beleefdelijck bejegent,</l>
+<l>Die my soo heeft gesterckt, daer ick ben swack geweest,</l>
+<l>Dat yeder nu ter tijt voor Vranckrijcks machten vreest,</l>
+<pb n="4"/>
+<l>Die mijne Kroon verciert met soo veel kloecke Helden,</l>
+<l>Waer van de Vyant schrickt in de bebloede Velden,</l>
+<l>Die mijnen Scepter oock met Peerlen heeft omringt,</l>
+<l>Die puyck zijn in waerdy, soo dat ons Vranckrijck blinckt</l>
+<l>Gelijck de schoone Son doet boven al de Sterren,</l>
+<l>Want siet sijn hel getint en glans spreyt wijt en verre,</l>
+<l>So bromt ons Vranckrijcx kroon in 't werelts groote rond,</l>
+<l>Daer men noyt onheyl valsch, noch geen onvredevond'.</l>
+<l>Wanneer ick in my selfs den tijt gae overpeysen,</l>
+<l>Het bloet verandert my, de schrickingh doet my deysen</l>
+<l>Van al mijn ongeluck, ja ramp, en mijn ellent,</l>
+<l>Mijn sorgh en moeyten swaer, die u wel zijn bekent,</l>
+<l>Maer als ick wederom mijn heylen set daer tegen,</l>
+<l>Soo duncktme dat sy verr' d'ellende overwegen.</l>
+<l>Den storm-wint is voor-by, de klare Sonne tint,</l>
+<l>De Zee die leyt in kalmt, ick zeyl nu al voor wint,</l>
+<l>Ick heb nae 't sware jock een goede rust gevonden;</l>
+<l>En mijn trou Borgery van veel verdriets ontbonden,</l>
+<l>Nu slijt ick mijne tijdt stil in gerustigheyt.</l>
+<l>Wat gaet 'er om ten Hooff?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Iean.</hi></l>
+<l>Godt spaer u Majesteyt</l>
+<l>Langhdurigh na sijn wensch. Iek heb Heer niet vernomen,</l>
+<l>Alleen daer is een Bood' uyt Bourgoingien gekomen,</l>
+<l>'t Gaet met de steden wel, en alles is bewaert.</l>
+<l>Uyt Neerlandt isser niet dat waerdigh dient verklaert,</l>
+<l>Wanneer daer yets komt voor ghy sult'et Heere weten.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Nem.</hi></l>
+<l>Graef Lodewijck die heeft sijn Leger neer-gesmeten</l>
+<l>In 't Lant van Lutsenburgh, en brantschat 't heele Landt.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Het is een kloeck Soldaet, spitsvinnigh van verstandt,</l>
+<l>De Heere wil hem eer Victory groot vergonnen;</l>
+<l>Morgen gaen wy ter lacht, met 't op-gaen van der Sonnen,</l>
+<l>Dat alles zy bereyt, sendt eenen na Parijs,</l>
+<l>Na Ducque de Biron, dat hy het oock word'wijs,</l>
+<l>Want hy alleene is daer ick my op betrouwe,</l>
+<stage><hi rend="i">Con. bin.</hi></stage>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Nem.</hi></l>
+<l>Is hy in 's Conincks gonst, dat hy hem daer in houwe.</l>
+<stage><hi rend="i">Allebinnen.</hi></stage>
+</sp>
+<div type="scene">
+<pb n="5"/>
+<head rend="h4">Ducque de Biron uyt.</head>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Soo komtmen voort en voort, de Coningh my ontsiet,</l>
+<l>Daer is noch Prins noch Heer die my geen eer en biet,</l>
+<l>Ick heb soo veel door kracht van mijne hand' verkregen,</l>
+<l>Dat alles wat ick wil, daer en mach niemandt tegen;</l>
+<l>Ten tijden van de Krijgh, die al te vroegh op-houdt,</l>
+<l>Was my als Capiteyn het gantsche Heyr vertrout,</l>
+<l>Geen slachten ick begost of ick heb wegh-gedragen</l>
+<l>Victory tot een buyt, die my maer aen en sagen,</l>
+<l>Of hoorden mijnen naem, die schrickten voor mijn daed',</l>
+<l>En die 't niet geven wou die quam in ongenaed'.</l>
+<l>Wie was'er mijns gelijck, wie heeft, wie heef sijn lijf gegeven</l>
+<l>Ter doot, om trots den doot in heerlijckheyt te leven.</l>
+<l>Wie was'er mijns gelijck, doen ick gemoet en bars</l>
+<l>In 't houwen was en 't slaen, in 't krijsschen en geknars</l>
+<l>Van wapenen, 't trotste Volck wist ick soo te betemmen,</l>
+<l>Dat wy in 't breyn en bloet des vyants kosten swemmen.</l>
+<l>Ick blixemde daer door, gelijck den Mayer maeyt</l>
+<l>Als hy vergaren wil het geen hy heeft gesaeyt.</l>
+<l>Doen! doen wert ick ontsien, doe quamen my ontmoeten</l>
+<l>Den Coninck en sijn Hof, om my verblijdt te groeten.</l>
+<l>Doen! doen werd' ick onthaeld' als eenigh God opaerd',</l>
+<l>'t Schijnt nu dat dese vree mijn ramspoed' heeft gebaerd',</l>
+<l>'t Schijnt dat het boos geluck benijdt mijn trotsigheden,</l>
+<l>Nu werd' ick wel genood', te voor werd' ick gebeden,</l>
+<l>Te vooren raeckt ick voort, en quam van Staet tot Staet,</l>
+<l>My dunckt dat mijne Staet nu als de Kreeften gaet,</l>
+<l>Nu duncktme die men plagh als smeeckende te eeren,</l>
+<l>Dat sy my nors en stuurs den rugge schier toe keeren.</l>
+<l>Ick Grave van Biron, Maerschalck en Admirael,</l>
+<l>Borgoingies Gouverneur, daer op ick poch en prael,</l>
+<l>Ick ben in 's Conincks gonst, en kan het niet verkerven;</l>
+<l>Wat is 't? soo langh als wy hier in dit leven swerven</l>
+<l>Soo tracht men voort en voort, en ick blijf die ick ben,</l>
+<l>Ick woel, ick jaegh, ick loop, ick wroetel en ick ren,</l>
+<pb n="6"/>
+<l>'t Is Biron voor soo naer. Waerom zijn dese haren</l>
+<l>Met geenen Croon bekranst, het schijnt geluckens baren</l>
+<l>My dry ven tegen 't hooft; in Oologh was ick yet,</l>
+<l>In Oorlogh was ick veel, en nu en ben ick niet.</l>
+<l>Hoe kan het woeste hert in mijne boesem rusten?</l>
+<l>Ick wordt bekoort, bestreên, van duysent duysent lusten;</l>
+<l>Dan duncktme dat mijn Ziel ten Hemel werdt gevoert,</l>
+<l>Als d'ydele gedacht een Coninckrijck beloert;</l>
+<l>Dan duncktme dat mijn Ziel in duysent vreughde woelet,</l>
+<l>Als d'ydele gedacht na eenen Scepter doelet,</l>
+<l>Wie weet waer het geluck my noch toe brengen sal,</l>
+<l>Wie weet of mijn verhoogh niet brengen salten val.</l>
+<l>De machtighste van 't Landt, wie weet of de Planeten</l>
+<l>Birons geluckigh eynd' en hoogh geval niet weten;</l>
+<l>Wie heeft my voort-gebragt, wie heeft my doch gebaerd,</l>
+<l>Dat ick soo wel als veel niet ben een Croone waert;</l>
+<l>Gebreket my aen moedt, gebreket my aen stoutheyt,</l>
+<l>Gebreket my aen raedt, gebreket my aen outheyt,</l>
+<l>Wat Droes is dat my let, wat of Biron toch schort,</l>
+<l>Dat hy blijft die hy is, en niet verhooght en wordt.</l>
+<l>Waer heenen mijne tongh, bedwinght u straffe moorden,</l>
+<l>Of yemandt uwe waen, en stoute stoffen hoorden,</l>
+<l>Ghy quaemt in swaren noodt, men mompelt en men praet</l>
+<l>Van veele swarigheydt, men houdt verhoolen raedt,</l>
+<l>Het gaet 'er wonder toe, veel dart'le Edellieden</l>
+<l>Die kael zijn en beroyt, om dat wy niet en bieden</l>
+<l>De Vyanden het hooft, die loopen langhs het Landt,</l>
+<l>Beroyt van geld' en goet, en ydel van verstant.</l>
+<l>Sy roepen al den Krijgh, och ofsy Krijgh verkregen,</l>
+<l>Soo soud' ick zijn ontsien, hier en in alle wegen.</l>
+<l>Den Oorlogh wenscht mijn hert, ick trachte na het stael,</l>
+<l>Daer meenigh Edelman soo dick af doet verhael;</l>
+<l>Ick kan niet leedigh gaen, ick sal na hooger trachten,</l>
+<l>Al soud' ick op dees uur in 't heete bloet versmachten:</l>
+<l>Daer leyt wat in mijn sin, daer woeld' wat in mijn hart;</l>
+<l>Bedwinght u stoute tongh, de wanden worden swart,</l>
+<l>Verberght het, berght het weg, en wilter niet om dencken,</l>
+<l>Tot dat de grijse tijt gelegentheyt sal schencken,</l>
+<pb n="7"/>
+<l>Ick gae ten Hove-waert, aldaerick word' verwacht,</l>
+<l>Om met sijn Majesteyt te rijden op de Jacht.</l>
+<stage><hi rend="i">Bir. bin.</hi></stage>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Vier beroyde Edelliens.</hi>
+<lb/>
+Nicolaes, Philips, Pieter, Jeremias.</head>
+<sp>
+<l rend="speaker"><hi rend="i">Nic.</hi></l>
+<l>Hoe langh sal het noch zijn dat dese Peys sal duyren,</l>
+<l>Men heeft nu geen profijt van Huysman of Gebuyren,</l>
+<l>Wy Worden arm en kael, ons Renten die zijn op,</l>
+<l>Soo het noch langer duurt, wy raecken aen den strop:</l>
+<l>Want als den swaren noot ons nu daer toe sal dringen,</l>
+<l>En sullens' altemael de Galge niet ontspringen.</l>
+<l>Ick ben de weeld' gewent, het wercken my verveelt,</l>
+<l>Och hoe het wanckel lot in dese sinnen speelt.</l>
+<l>'t Is wonder hoe ick my van quaet-doen kan onthouwen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Phil.</hi></l>
+<l>Wy arme Edellien mogen ons hooft wel klouwen.</l>
+<l>Wy waren in ons tijdt gantsch weelderigh in 't lest,</l>
+<l>'t Was nimmermeer te veel, nu nichil op 't Request</l>
+<l>Al dat ons komt te voor. 't Is waer ick ben gesproten</l>
+<l>Van treffelijck geslacht, ja van de beste loten</l>
+<l>Daer Vranckrijck nu op bromt; de vrede ons verteert,</l>
+<l>En maeckt dat wy niet meer als slaven zijn ge-eert.</l>
+<l>Mijn Macker wat voor raedt, om aen den slemp te raecken,</l>
+<l>Wy moeten nu (eylaes! (ons soppen mager maecken.</l>
+<l>Wat houdt ons dat wy niet gaen loopen op den buyt,</l>
+<l>En rooven op den Boer, en schudden Reysers uyt,</l>
+<l>De Coninck ons wel payt met lieffelijcke woorden,</l>
+<l>Wat hout ons dat wy niet d'een Prins of d'ander moorden.</l>
+<l>Wat komt ons nu te baet, 'k wou dat hy waer versmacht</l>
+<l>Die ons een Helsche Peys in Vranckrijck heeft gebracht.</l>
+<l>Nu mogen wy wel gaen daer niet is om te koopen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Piet.</hi></l>
+<l>Laet ons gelijckelijck gaen op de Boeren loopen,</l>
+<l>En nemen alles meê is 't niet een groote schand',</l>
+<l>Dat ick een Edelman, de beste van het Landt,</l>
+<l>Moet komen tot dees staet, het mijn is al verpepen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Ier.</hi></l>
+<l>Monsieur daer voor hebt ghyder meenigh uyt-genepen,</l>
+<l>Non fors, al evenwel speelen wy de Signoor,</l>
+<l>Al is ons goetjen op, wy hebbender wat voor,</l>
+<pb n="8"/>
+<l>En hebben wy geen geldt, sy moeten ons wel borgen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Piet.</hi></l>
+<l>Maer die geen gelt en heeft, die wijst men weg tot morgen,</l>
+<l>Kregen wy nu aen 't snoer een Fockert hier of daar,</l>
+<l>Het wenschen is om niet. Wat hoort men nu voor Maer,</l>
+<l>En isser niet voor handts, d'een oproer ofte d'ander.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Nic.</hi></l>
+<l>Nu Mars gebannen is, laet ons nu met malkander</l>
+<l>Reysen na Nederland, daer hoort men noch 't geraes</l>
+<l>Van Trommel en Trompet, daer deylt men om de kaes</l>
+<l>Die wy den Spangiaerden soo dickmael deden eten,</l>
+<l>Doese met duysenden van ons zijn doodt gesmeten.</l>
+<l>'t Was al Gout datter blonck, het schijntten mocht niet op,</l>
+<l>Nu loopen wy beroyt met eenen lichten kop,</l>
+<l>Wat Duyvel of ons hout, laet ons rooven en branden.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Phil.</hi></l>
+<l>Hoe Kittelt my dat hert, hoe jeucken my de handen,</l>
+<l>De Oorlogh is ontsint, laet ons den Oorlogh doen,</l>
+<l>Die in de vrede zijn, sy moeten ons wel voen;</l>
+<l>Den Konink is te bars, hy sou ons licht wel stroppen,</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Nic.</hi></l>
+<l>En kost den Oorlogh niet soo meenigh duysent koppen,</l>
+<l>Als men aen 't scheeren komt, hoe lichtelijk is men doodt,</l>
+<l>Waer ik langh doodt geweest, ick waar in geenen noot,</l>
+<l>Maer sterven aen een Galgh dat staet doch al te schandigh.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Piet.</hi></l>
+<l>'t Is beter dat wy ons gaen maecken buyten-landigh,</l>
+<l>En rooven om en t'om.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Ier.</hi></l>
+<l>Ick bender voor vervaert,</l>
+<l>Noyt heb ick in mijn jeught geweest van sulcken aerd,</l>
+<l>Doch als ick het bedenck, 't is beter toe te tasten</l>
+<l>Dan loopen moeder-naekt, en jammerlijck te vasten:</l>
+<l>d' Eerst die my tegen komt die breng ick om den hals,</l>
+<l>Alwaer 't den Coningh selfs.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Piet.</hi></l>
+<l>Of uwe Kaert is valsch.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Ier.</hi></l>
+<l>Valsch, neen bygord' niet valsch, wilt gy-lien by my blijven,</l>
+<l>Wy sullen Borger, Boer, ja al den droes uyt-drijven,</l>
+<l>En plagense soo lang tot datter Kroonen zijn,</l>
+<l>En wel-geschaften disch, en oock de koele Wijn,</l>
+<l>En die het niet en geeft, die sal het leven gelden.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Phil.</hi></l>
+<l>By duysent slapperment, dat ick nu niet kan schelden,</l>
+<l>De Nicker speelt er mee, ick sweer by lijf en ziel,</l>
+<l>En by dees stercke handt, die ick noch over hiel,</l>
+<pb n="9"/>
+<l>Ick sal u blijven by, wy sullen 't yewers halen,</l>
+<l>Al soud' ick 't met den strop aen mijnen hals betalen,</l>
+<l>Ia snoffelend' al (soo 't valt) op 't Landt of in de Stadt,</l>
+<l>Eh dwingen die 't oock zy, om spijse, gelt en schat.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Ier.</hi></l>
+<l>O Godt mijn Cameraet, wat zijt ghy een quaet Kuycken.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Piet.</hi></l>
+<l>'t Is der Soldaten wijs de Swaarden te gebruycken,</l>
+<l>Rinckincken voor de vuyst, en aensien slagh noch stoot,</l>
+<l>Wy moeten noyt ontsien Hel, Duyvel, Beul, of Doodt.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Phil.</hi></l>
+<l>Nochtans wordt menig arm, als wy, wy trouwe borsten,</l>
+<l>Hoe soud' men in het werck best leggen, O! die dorste.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Piet.</hi></l>
+<l>Hoe anders? dan alleen door kracht en groot geweldt,</l>
+<l>Als noodt ons overvalt, men Wet ter zijden stelt:</l>
+<l>En wy zijn Rijck geweest, wy sullen wederkeeren,</l>
+<l>En op ons oud' manier als jonge Graven teeren.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Nic.</hi></l>
+<l>O Vranckrijck! ghylijt last, u Adel die vergaet,</l>
+<l>U Krijghs-volck is verarmt, en in een quaden staet.</l>
+<l>Nu sal men eerste sien wat leege borssen konnen,</l>
+<l>Het speelt noch tot een endt, wanneer het is begonnen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Phil.</hi></l>
+<l>Tsa vyva, gaen wy voort, soo dit ons niet gedijt,</l>
+<l>Soo sal een ander saeck van ons zijn aen-geleyt.</l>
+<stage><hi rend="i">Alle bin.</hi></stage>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Ducque de Biron. Lafin.</head>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Wat komt my hier te voor, hoe sal 't doch met my enden?</l>
+<l>Sal 't rampsaligh geluck sijn wanckel Radt omwenden;</l>
+<l>Den Savoyaert my vlijt, en stelt my veel te voor,</l>
+<l>Ia soo veel, dat ick hem schier geven sou gehoor,</l>
+<l>Wel hoe? Biron ghy suft, hoe? waerom soud' ick suffen,</l>
+<l>Die eertijdts Aerd' en Hel, ja Hemel dorst verbluffen;</l>
+<l>Daer is geen vrees in my, mijn Lichaam is Metael,</l>
+<l>Mijn sinnen Yser zijn, en mijne Ziel is Stael:</l>
+<l>En waarom soud ick hem geen antwoordt willen geven?</l>
+<l>Waerom? dat het uyt quam, het kosten my mijn leven;</l>
+<l>Mijn leven? heb ick niet mijn leven dick gewaeght.</l>
+<l>Daer het in 's Conincks dienst drie twaelf wonden draeght.</l>
+<l>Wat is mijn leven doch? soud'ick wel konnen sterven?</l>
+<l>Carel hoe laet ghy soo u wanck'le sinne swerven?</l>
+<pb n="10"/>
+<l>Door-leest Savoyens Brief, wat sien ick hier al staen,</l>
+<l>Den Hertogh dingt my selfs sijn eygen Dochter aen:</l>
+<l>Waerom? om dat ick soud' den Coninck doen om-brengen,</l>
+<l>Op dat hy door sijn doot den Scepter mocht gehengen;</l>
+<l>Waer 't mooghlijck, neen, ô neen; waer 't mooglijck, ja o ja;</l>
+<l>Maer soo het my misluckt kom ick in ongena:</l>
+<l>Mislucken kan 't my niet, want ick sal 't wel beleggen,</l>
+<l>Mijn hert en mijne ziel daer beyde neen toe seggen;</l>
+<l>Nochtans kan ick daer door verkrijgen staet en goet,</l>
+<l>Maer soo het my misluckt, soo kost het eer en bloet;</l>
+<l>Mijn bloet? (wat segh ick doch)hy die geen bloet dorst wagen,</l>
+<l>Heeft noyt prys, buyt oft proy, en eere wegh-gedragen;</l>
+<l>Dies sal ick het aengaen, en hier door steyg ren op,</l>
+<l>Of laten daer te pant mijnen verharden kop;</l>
+<l>Wie weet hoe het met my op 't lest noch sal gelucken,</l>
+<l>Dat ick haer dese Croon door listen mocht ontrucken,</l>
+<l>Het gaet dan soo het wil, ten kan niet qualijck gaen,</l>
+<l>Dies ben ick in dit stuck in 't minst niet meer belaên:</l>
+<l>O <hi rend="i">Henrick</hi>, uwe Croon die is op 't hooghst geklavert,</l>
+<l>Sy trilt, sy naeckt ten val, en uwen Scepter davert;</l>
+<l>Biron is sterck genoegh, Biron die sal 't u doen,</l>
+<l>Biron waer van dat ghy (het minste) sult vermoên,</l>
+<l>Biron treckt tegen u, Biron die scherpt sijn Wapen,</l>
+<l>Om 't geen hy voor u won, u weder te ontschrapen,</l>
+<l>Ick sal noch Koninck zijn, ten minsten sijnen Soon,</l>
+<l>En soo ick desen help, kan ick oock d'ander doon;</l>
+<l>Nimmer heb ick gemist in alle mijn aenslagen,</l>
+<l>Trilt vry, ô Henrick trilt, laet uwe Scepter wagen,</l>
+<l>U val die is na by, mijn rijsen dat genaeckt,</l>
+<l>Dus doende men in 't lest wel aen een Croon geraeckt.</l>
+<l>Nu moet ick by mijn selfs wel rijp'lijck overwegen,</l>
+<l>Hoe dat ick dese daedt op 't alderbest mach plegen,</l>
+<l>Een schelmstuck moet soo loos en listigh zijn beleyd,</l>
+<l>Dat men van goet en quaet bemerckt geen onderscheyd.</l>
+<l>Veel Adel is seer kael, en sou om 't geldt wel helpen</l>
+<l>De Nicker aen sijn Moer, maer dat sijn lichte welpen</l>
+<l>Dus dientet niet geseyt; ick gae eerst na Lafin,</l>
+<l>Te sien of hy is t'huys: hou, holla, zijdy in?</l>
+</sp>
+<pb n="11"/>
+<sp>
+<l rend="speaker"><hi rend="i">Laf uyt.</hi></l>
+<l>Ick quam by u alhier, alleenlijck om te weten</l>
+<l>Yets sonderlings, mijn Heer, van eenige secreten;</l>
+<l>Seght hoe het u al gaet, en dan noch om een saeck</l>
+<l>Waer van (om reden wil) ick noch geen mentie maeck,</l>
+<l>Maer seght my kont ghy u in dese Peys wel temmen?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Laf.</hi></l>
+<l>Mijn Ziele altemet in mistrou schijnt te swemmen,</l>
+<l>'t Is waer ick Edel ben, den Peys teert vleys en bloedt,</l>
+<l>En eet ons Armen op gelijck den Kancker doet,</l>
+<l>Den woecker ons verderft, en sal 't noch soo veerbrengen,</l>
+<l>Dat wy (door ongedult) de Aerd' sullen besprengen</l>
+<l>Met het onnoselbloedt, en loopen voorts voor guyt,</l>
+<l>Suypen het reysend' Volck en oock de Boeren uyt;</l>
+<l>Mijn Heer vertelt my doch de oorsaeck van u komen?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Ick quam hier om u dienst, want ick heb voor-genomen,</l>
+<l>Daer in ick u behoef, voor al het dient secreet,</l>
+<l>Maer het is noch geen tijt dat ghy die stucken weet,</l>
+<l>Alleenlijck ick begeer, wanneer ick u doe halen</l>
+<l>Dat ghy dan daed'lijck komt, ick sal u wel betalen,</l>
+<l>Ia rijckelijck versien van groote Staet en Pracht,</l>
+<l>Als ghy waerom ick koom in alles 't hebt gewracht.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Laf.</hi></l>
+<l>Mijn Heer voor deser eer heb ick u te bedancken.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>De sake lijdt geen last, ten salder soo niet wancken.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Laf.</hi></l>
+<l>En waer daer voorder mocht een Dienaer zijn van doen,</l>
+<l>Gebiedt u knecht, die sal hem na u wille spoên,</l>
+<l>Ick weet dat alles goets my van u kan geschieden.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Wat gaeter om ten Hoof, wat seggen d'Edellieden?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Laf.</hi></l>
+<l>Sy klagen van gebreck, een yder vloeckt en tiert</l>
+<l>Den genen die den Peys in Vranckrijck heeft gestiert;</l>
+<l>'t Is al Krijgh dat men roept, het sal noch yewerskraken,</l>
+<l>Want yd'le borsen, wis oock yd'le Hoofden maken;</l>
+<l>En als de Beurs is plat, en het geloof al uyt,</l>
+<l>Dan sitmen wel te pal, recht als de vuyle Bruyt.</l>
+<l>Doch hoe soud 't anders gaen, het goetjen is verdroncken,</l>
+<l>Sy zijn geen Peys gewendt, daer smoken sulcke voncken</l>
+<l>Datter wel mocht eer langh wat wonders dond'ren op,</l>
+<l>Want d oude krijgelheyt steeckt haer noch in de krop.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>'t Is wonder wat men hoort, Lafin wilt daer opwachten,</l>
+<l>Op 't geen ick heb geseydt, houdt altijt in gedachten</l>
+<pb n="12"/>
+<l>Te wesen heus van mondt, en mijdt u van het Hof.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Laf.</hi></l>
+<l>Mijn Heer het sal geschten, ick ga met u verlof,</l>
+<l>En twijffelt aen mijn niet, ten kan soo swaer niet wesen,</l>
+<l>'t Sal zijn door mijn gedaen, want ick geen doodt en vrese.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Dit is dan het begin, geen Duy vel het belet</l>
+<stage><hi rend="i">Lafin bin.</hi></stage>
+<l>Dat ick den Coningh nu niet van sijn Stoel en set,</l>
+<l>Dat ick den Coningh niet op 't onversienst sal dooden,</l>
+<l>Mijn medestanders, 'k weet, stracx volgen mijn geboden;</l>
+<l>Vaert voort Biron, vaert voort, mijn herte dat ontspringht,</l>
+<l>En is met soete vreught en goets genoegh omringht;</l>
+<l>Mijn dunckt dat ick weerom opnieus begin te leven,</l>
+<l>Nu 't herte doende is, nu 't Wit my raedt komt geven</l>
+<l>Te steyg'ren hooger aen; ick sal noch maken dat</l>
+<l>Biron sal zijn geroemt, elck Koninckrijck en Stadt</l>
+<l>Sal vol zijn van mijn doen, verwondert salmen roepen,</l>
+<l>Biron nu heerscher is van al de Fransche Troepen;</l>
+<l>Nu wordt mijn Ziele vol, mijn hert is niet meer bangh,</l>
+<l>Eer ick tot voorneem koom dunckt my de tijdt te langh:</l>
+<l>Wat staet my voort te doen, voor eerst moet ik gaen sprekt</l>
+<l>Avergne, en met hem het stuck te deegh besteken,</l>
+<l>Spaengiens Ambassadeur, de Fuentes sal ick meê</l>
+<l>Ontdecken mijne saeck, waer toe ick nu ben reê;</l>
+<l>Voor al moet ick my steets ten Hove laten vinden,</l>
+<l>Om soo door blijde schijn de oogen te verblinden</l>
+<l>Van die my dragen haet, op dat niemant en merckt</l>
+<l>Dat ick onder die schijn verraderye werck.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Renaze. Lafin.</head>
+<sp>
+<l rend="speaker"><hi rend="i">Ren</hi>.</l>
+<l>Is 't niet een droeve saeck dat wy worden verstoten,</l>
+<l>Versmaedt en zijn veracht, door't stoken van de Grooten,</l>
+<l>Het gaet al tegen wint, het wil met ons niet voort,</l>
+<l>De <hi rend="i">Dedeignerez</hi> pronckt, waer op ick ben gestoort,</l>
+<l>En sal noch mijn gemoedt (op hem) ten laetsten wreken,</l>
+<stage><hi rend="i">Lafin uyt.</hi></stage>
+<l>Och dat ick niet en mach hem met dees hant doorsteken,</l>
+<l>Het wenschen is van met. Lafin wat gater om?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Laf.</hi></l>
+<l>Daer wort veel uyt-gherecht en dat met stille trom.</l>
+<pb n="13"/>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Ren.</hi></l>
+<l>Ick wou datter weerom een nieuwe moort uyt sprote,</l>
+<l>Dat ick <hi rend="i">Deignerez</hi> mocht met dese hant door-stooten,</l>
+<l>Noch moet men swijgen stil en spreken niet een woort.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Laf.</hi></l>
+<l>Het schijnt den Coning is op 't gantsche Hof verstoort.</l>
+<l>Mijn Vrient 't is tijt om gaen, ick kus u waerde handen.</l>
+<stage><hi rend="i">Bin.</hi></stage>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Ren.</hi></l>
+<l>Tot wedersiens, mijn Heer. By hondert duysent schanden,</l>
+<l>Wat moet men lijden al, wat moet den mensch al sien</l>
+<l>Den eenen komt ten val, den and'ren krijght't gebien</l>
+<l>Over dien,die hy haet, ick souwer schier af grouwen.</l>
+<l>Ach 'kost ick mijne wraeck op <hi rend="i">Dedeignerez</hi> spouwen,</l>
+<l>Dat ick eens waer vernoeght, soo waer mijn hert gestilt,</l>
+<l>Dat nu door dwangh en macht, sijn wrake hebben wilt,</l>
+<l>Den tijt brenght alles mee, ick hoop het soo te maken,</l>
+<l>Dat ick in 't laetste noch sal aen mijn wraeck geraken.</l>
+<stage><hi rend="i">Ambassadeur, Biron, en Avergne.</hi></stage>
+<l>Wel hoe? d'Ambassadeur verselschapt met Goelthout,</l>
+<l>Avergne oock daer by, wat of hy met haer brout;</l>
+<l>Sy hebben eenen Brief, wat mach den inhout wesen?</l>
+<l>Het moet wat wonders zijn, seer yverigh sy lesen.</l>
+<l>Ick ga; want mijnen tijt niet langer hier en is.</l>
+<stage><hi rend="i">Ren. bin.</hi></stage>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Ambassadeur. Biron. Avergne.</head>
+<sp>
+<l rend="speaker"><hi rend="i">Amb.</hi></l>
+<l>'t Moet wel zijn overleyt, want ick sweer u gewis</l>
+<l>Het is geen kkyne saeck, laet ons te saem besluyten</l>
+<l>Hoe dat men dit voorneem op 't alderbest sal uyten,</l>
+<l>En wie dat men hier toe bequaemst gebruycken sal.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.</hi></l>
+<l>Voor eerst het veynsen best, daer na moet men voor-al</l>
+<l>Wel toesien op sulk volck, die heel zijn uyt gemerget.</l>
+<stage><hi rend="i">Renaze uyt.</hi></stage>
+<l>En hoog en trots van moed, die de begeerte terget</l>
+<l>Te komen voort en voort; 't beginnen dat valt swaer.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Gist'ren sprack ick Lafin, dat is een trou Dienaer,</l>
+<l>Doch heb hem van de saeck in 't minste niet ontbonden.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.</hi></l>
+<l>Lafin die ken ick wel, daer dient stracks om gefonden.</l>
+<l>Wie is 't die ginder gaet?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Renaze wel te recht.</l>
+<l>Mijn vrient komt treedt wat hier, en doet my onder-recht.</l>
+<pb n="14"/>
+<l>Hoe staen u saken al, zijt ghy al in vereening?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Ren.</hi></l>
+<l>Vereeningh Heer, met wie? 'k versta niet uwe meening.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Met die u onrecht doen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Ren</hi></l>
+<l>Ach! 't isser veer van daen.</l>
+<l>Hoe sou een kleyne Mus een Sparwer vallen aen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Treet by ons, want wy t'saem een trouwe Dienaer soeken,</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Ren.</hi></l>
+<l>Heer om u dienst te doen, wil ick my self vervloecken,</l>
+<l>Ghy die my helpen kont, O! lidt, en Vranckrijcksroom,</l>
+<l>Mijn ziele blijft u by.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Ghy zijt ons wellekoom.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Laf uyt</hi></l>
+<l>Siet ginder komt Lafin, te recht is hy gekomen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Laf.</hi></l>
+<l>Mijn Heer, ick had mijn gangh rechts na u toe genomen,</l>
+<l>Door dien u Dienaer seyd'dat ghy mijn hebt gesocht.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir</hi></l>
+<l>Wat hebt ghy op het geen ick seyde, u bedocht.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Laf.</hi></l>
+<l>Heer om u dienst te doen, is dat waert te bedencken,</l>
+<l>Ick wil mijn goet en bloet, ja leven voor u schencken,</l>
+<l>Niet isser, ô mijn Heer, of vrylijck my vertrout,</l>
+<l>Want ghy als ick wel weet) my voor u Dienaer hout.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Mijn ziel dunckt mijn in vreucht en meloy te baden,</l>
+<l>Nu sult ghy Edellien't wraeckgierich hert versaden,</l>
+<l>Na uwen eygen wensch, in u vyandens bloet,</l>
+<l>Nu segh ick, sult ghy sien, gantsch leggen onder voet,</l>
+<l>Die! die te bats en trots ons heerschen als Tyrannen.</l>
+<l>Nu salmen 't Fransche Rijck van al de machten wannen.</l>
+<l>Siet Mannen dese Brief, siet hoe den Savoyaert</l>
+<l>U! sijn verholentheydt en schatten open baert,</l>
+<l>Hy wijft u aen den wegh te vrijden u van nooden,</l>
+<l>Door dees middel alleen, ons Opperhooft te dooden!</l>
+<l>Maer en zijt niet vcrschrickt, toont Edellieden toont,</l>
+<l>Datter een stale hert in uwe boesem woont,</l>
+<l>Betoont! dat ghy niet zijt van kleyne Stam gesproten,</l>
+<l>Maer met den Edeldom en vryheyt overgoten,</l>
+<l>Waer soo souden wy, niet heerschen g'lijck als hy?</l>
+<l>Wy die de oorsaeck zijn van sijne heerschappy,</l>
+<l>Wat of ons schort of deert, ghyliê zijt uytgesogen,</l>
+<l>En in sijn Camer heeft hy al uw' schat getogen,</l>
+<l>Ghylieden zijt verarmt, <hi rend="i">Henricus</hi> is verrijckt,</l>
+<l>Terwijl hy sit en bralt hy niet eens om en kijckt,</l>
+<pb n="15"/>
+<l>Wat dunckt u van den Brief, kan het soo niet geschieden?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Laf.</hi></l>
+<l>Het is den rechten vond', wy volgen u gebieden.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.</hi></l>
+<l>O moedigh Edelman, ick weet dat 't edel bloet</l>
+<l>In u niet is vergaen, de eer die ghy ons ons doet,</l>
+<l>Salmen u hondert fout, ja duysent fout vergelden,</l>
+<l>Wel of men nu de sacck ten vollen eens voor stelden,</l>
+<l>Mijn Heer Biron vanght aen, en openbaert het stuck.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Ren.</hi></l>
+<l>Ick sweer, den Hemel geeft mijn Heer u groot geluck.</l>
+<l>'t Voornemen is seer goet, laet ons ter haest beginnen,</l>
+<l>Dat ghy u Vyandt meucht door dit beleyd' verwinnen,</l>
+<l>Ick sweer u trou te zijn.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Amb.</hi></l>
+<l>Soo sweert by uwen Godt,</l>
+<l>Die ghy ontsiet en eert, en by het waertste lot.</l>
+<l>By lichaem en by Ziel, by Duyvel, doot en leven,</l>
+<l>Dat ghy in alle noot ons niet en sult begeven.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Ren.</hi></l>
+<l>Mijn Heer, ick sweer by Godt en oock by dese hals.</l>
+<l>Dat ick u trou sal zijn, niet ontrouw noch te vals.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Amb.</hi></l>
+<l>De wraek die is voor d'hant, waer sy slechs maer geboren</l>
+<l>Die niet volstandigh blijft, diens ziele ga verloren:</l>
+<l>Eerst knielt al t'samen neer, en sweert op dit Rappier</l>
+<l>Eenen gelijcken Eed, en vreest voor doodt noch vyer,</l>
+<l>Want gene swarigheyt (in't minst)) hier in kan steecken,</l>
+<l>'t Moet ons aen geen beleyd' en goede raed' ontbreken.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Datmen ons voorneem nu ter haest, en vlijtigh doe,</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Amb.</hi></l>
+<l>Soo moeter een terstont gaen na Savoyen toe,</l>
+<l>Waerschouwen mijne Prins, wilt hier een Man toe kiesen</l>
+<l>Daer men geen trouwigheyt in 't minste kan verliesen,</l>
+<l>En geeft hem vol bescheyt, dees middel en dees vond',</l>
+<l>Hoe ghy de Croone haer op 't aerdighst lev'ren kond',</l>
+<l>Wie is hier toe bequaem?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Renaze ghy sult reysen,</l>
+<l>Begeeft u op den wegh, dit moet ghy nu bepeyfen:</l>
+<l>Eerst dient den Hertogh aen, dat hy sijn Volck vergaer</l>
+<l>En brengh by Sint Cathrijn al sijn geheele Schaer,</l>
+<l>Maer dit moet haest geschiên en met een stille tromme</l>
+<l>Dat de geruchten hier in Vranckrijck niet en kommen,</l>
+<l>Dan sal ick door mijn last hem geven in de hant,</l>
+<l>En voorder, Dorp en Stadt, ja't gantsch veteenight Lant,</l>
+<pb n="16"/>
+<l>Siet op den selven tijdt sal ick den Coningh vleyen,</l>
+<l>En hem door soete praet in' Bosch ter jacht gaen leyen,</l>
+<l>Ontrent den hoogen Bergh, daer ick verbergen sal</l>
+<l>Een Soldaet twee of drie, in een verholen dal,</l>
+<l>Soo haest als ick dan sal ons beyde eenigh spooren,</l>
+<l>De leus sal zijn 't geblaes van mijne lagers hooren,</l>
+<l>Ick sal nemen de vlucht, en roepen heel verstoort,</l>
+<l>Sta by Mannen, sta by, hier men den Coninck moort;</l>
+<l>En als den Adel sal om hem te helpen spoeden,</l>
+<l>Meer Volcks ick hebben sal, daer sy niet op en hoeden,</l>
+<l>En brengen om den hals de Princen van den bloedt</l>
+<l>Sijn Soon, en al het geen dat uytten wege moet,</l>
+<l>Soo haest sal zijn t begin van alle des rumoeren,</l>
+<l>Sal 't hem gewaerschout zijn, hem, die sal leggen loeren,</l>
+<l>Gelijckerwijs een Wolf, op eenen proye wacht,</l>
+<l>Als hy door hongers noot schier van de honger smacht;</l>
+<l>Wanneer dit is geschiedt salmen't hem mede deelen</l>
+<l>Door Posten, dat hy dan komt sijn Tragedie speelen;</l>
+<l>Vallen den Franschen in met kracht en met gewelt,</l>
+<l>Soo sal hem Vranckrijcks Kroon in handen zijn gestelt.</l>
+<l>Renaze dit sult ghy den Hertogh overdragen:</l>
+<l>En of hy voorder wou na andere dingen vragen,</l>
+<l>Soo geeft hem dese Brief, die onderteeckent is</l>
+<l>Van onser aller handt, en seght hem voor gewis,</l>
+<l>Dat hy niet meer en vreest, de Kroone sal hy dragen,</l>
+<l>Tot spijt van die 't benijt, of sullen d'halsen wagen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Ren.</hi></l>
+<l>Mijn Heer het sal geschien, en hier op ick vertreck,</l>
+<l>Den Hemel geeft dat dit tot ons welvaren streck.</l>
+<stage><hi rend="i">Ren. bin.</hi></stage>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Amb.</hi></l>
+<l>Soo gaen de saken wel, mijn Heer Biron, tot morgen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Voor 't quade hoeven wy in 't minste niet te sorgen.</l>
+<l>Lafin, 't is noodigh dat ghy na Bourgoighen gaet,</l>
+<l>Om met de Fuentes oock te houden goeden raet,</l>
+<l>Hy weet oock van de saeck, en 't is hem aengeschreven,</l>
+<l>Hy heeft sich oock by ons in een verbondt gegeven:</l>
+<l>Dan alles wat ghy doet, dat ghy voorsichtigh zijt,</l>
+<l>Terwijle sullen wy bestemmen uur en tijdt</l>
+<l>Wanneer het sal geschien, men sal 't u laten weten.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Laf.</hi></l>
+<l>Ick treck dan henen Heer, daer ghy my hebt geheeten,</l>
+<pb n="17"/>
+<l>Geen Knecht soo trou als my, ick sweere by mijn swaert</l>
+<l>Dat ick niet rusten sal.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Amb.</hi></l>
+<l>Men sal u gelt en Paert</l>
+<l>Bestellen, en van al het geen u mochte ontbreken;</l>
+<l>Laet luyden in het Hof, dat ghy voor een'ge weken</l>
+<l>In 't Italiaensche Rijck u Vrienden gaet besien.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Laf.</hi></l>
+<l>Ik neem mijn afscheyt Heer, in alles sal 't geschien.</l>
+<stage><hi rend="i">Laf. b.</hi></stage>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Amb.</hi></l>
+<l>Hier na heb ick getracht al over lange tijden,</l>
+<l>Hoe komt, ô Francq, hoe komt, dat ghy soo wilt bestrijden</l>
+<l>Het diere Conings bloedt, 'k en hadt dit noyt gedocht,</l>
+<l>Dat hier den Mareschal Biron is toe gebrocht;</l>
+<l>Het spreeck-woort machmen nu dan wel te rechte seggen:</l>
+<l>Eergierigh van gemoedt kan nimmer van hem leggen</l>
+<l>Het geen hy voor hem neemt. Ghy Heeren, voor het lest</l>
+<l>Versoeck ick, wy dit werck beleggen op het best.</l>
+<stage><hi rend="i">Bin.</hi></stage>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Coning, Jeannin, Nemours, en eenige stommen.</head>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Hoe leeftmen steets in hoop, ten duysent nare sorgen,</l>
+<l>Wat leyter ramp en strijdt onder de Croon verborgen;</l>
+<l>Hoe wortmensteets geplaegt, hoe wortmen steets gestoort,</l>
+<l>Alsmen dan hier, dan daer, van tegenspoeden hoort;</l>
+<l>Nimmer en heeftmen rust, den Oorlogh doet ons waken,</l>
+<l>Een oproer en een Peys kan ons onrustigh maken.</l>
+<l>Ick heb door Godes hulp mijn Volck tot vreê gebracht,</l>
+<l>Nu ick in vrede ben men na mijn Croone tracht,</l>
+<l>'t Is waer ick leef in weeld' en duysent prachtigheden,</l>
+<l>Maer ick treê niet een treê, of moet hem schreumig treden,</l>
+<l>'t Schijnt dat mijn leden selfs tegens my strijdigh zijn;</l>
+<l>Want nu ick my bevrijdt van alle rampen vijn,</l>
+<l>Soo komt den swaersten slagh mijn trotse ziel omvaten,</l>
+<l>En seght ick wordt vervolght, nu van mijn eygen staten,</l>
+<l>En seght ick wordt gevolght van die ick heb gevoedt,</l>
+<l>Van die, die voor mijn Croon gewaeght heeft lijf en bloet;</l>
+<l>Hoe kan het moogh'lijck zijn, dat hy my soud' vervolgen,</l>
+<l>Die, soo het schijnt, mijn ziel in sijne heeft geswolgen,</l>
+<l>Die my gesworen heeft, te sterven voor het Rijck,</l>
+<l>En heeft my met den Eedt gegeven daedt en blijck,</l>
+<pb n="18"/>
+<l>Die door sijn daden selfs en overbrave kanssen</l>
+<l>Verkregen heeft den naem, een blixem van de Franssen;</l>
+<l>Die ick soo menighmael met vreugde heb om-armt,</l>
+<l>Waerom ick heb gesucht, gekreten en gekarmt</l>
+<l>Doen hy ten Oorlogh trock, en die ick heb gehouwe</l>
+<l>In waerden als een Kindt, ja als mijn echte Vrouwe.</l>
+<l>Biron waer is het hert dat ghy te voren droeght,</l>
+<l>Hoe komt dat het gewis uw's herten niet en wroeght,</l>
+<l>Dat ghy derft tegen my, my die ghy hebt gehouwen</l>
+<l>Als waerdigh dese Kroon, dorft u vergift opspouwen,</l>
+<l>En trachten na mijn ziel, en trachten na mijn end,</l>
+<l>En trachten na mijn Kroon, daer ghy half Coninck bent.</l>
+<l>Heb ick u niet verhooght, en heb ick niet beloonet</l>
+<l>U daden na den cysch, en heb ick niet gekroonet</l>
+<l>U wel waerdige hooft met glorie, schat en lof;</l>
+<l>Heb ick u niet geacht de waerdighst van mijn Hof.</l>
+<l>'t Is waer gy zijtet waert, want men u recht mach kroonen,</l>
+<l>En noemen u den Man die my in vree doet Woonen.</l>
+<l>Hoe kan in sucken Man, als ghy voor desen waert,</l>
+<l>Schuylen soo quaden hert, en sulcken boosen aert,</l>
+<l>Ten kan niet moogh'lijck zijn, sy moeten u beliegen,</l>
+<l>Om soo mijn gonst (tot u) geheel in 't slaep te wiegen;</l>
+<l>Maer ick sal veynsen my, en toonen bly gelaet</l>
+<l>Tot dat ick seker ben van mijne quaden staet.</l>
+<l>Hoe kan het moogh'lijck zijn, soud' Biron my verraden,</l>
+<l>Neen, het is Nijders klap, die haer vvillen versaden</l>
+<l>In sijn geluckigh bloet, daerom wort hy bericht,</l>
+<l>Maer eenen wysen Prins moet niet gelooven licht.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Iean.</hi></l>
+<l>'t Is Heer gelijck ick segh, en vele willen 't sweeren,</l>
+<l>Dan watter volgen sal, sullen de tijden leeren:</l>
+<l>'t Kan qualijck moog'hlijck zijn, maer Biron is een mench</l>
+<l>Die steets na hooger tracht, en siet den hooger wensch</l>
+<l>Kan licht den gullen mensch tot boosheyt wel bewegen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Nem.</hi></l>
+<l>Maer wederom Biron die heefter vele tegen,</l>
+<l>Die staen ha sijnen staet, en spouwen vyer en vlam,</l>
+<l>Om dat hy door geluck in 's Conincks gunste quam,</l>
+<l>En een die het geluck veel eeren heeft gegeven,</l>
+<l>Die wordt door haet vervolght, die staetmen na het leven,</l>
+<pb n="19"/>
+<l>Die wordt steets uyt-gepickt en leelijck afgemaelt,</l>
+<l>'t Is wonder waer den nijdt niet sijn beschuldingh haelt;</l>
+<l>Dies waer het mijne raedt dit heel secreet te houwen,</l>
+<l>Tot dat de vlugge tijdt ons meerder sal ontvouwen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Iean.</hi></l>
+<l>Terwijl men stille staet mocht hy volvoeren 't stuck,</l>
+<l>En brengen ons en 't Rijck in droevighe ongeluck,</l>
+<l>Mijn raedt waer datmen stracx Biron sou ondertasten,</l>
+<l>Om soo u Majesteyt van sorge te ontlasten.</l>
+<stage><hi rend="i">Alle bin.</hi></stage>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Lafin. Fuentes.</head>
+<sp>
+<l rend="speaker"><hi rend="i">Laf.</hi></l>
+<l>Mijn Heer, g'lijck 'k u sey men dient nu niet te slapen,</l>
+<l>Want vele zijn die ons steets aensien en begapen,</l>
+<l>En uyt den laetsten Brief die ons van Vranckrijck quam,</l>
+<l>Schrijft ons Biron, dat hy noch wat sijn uytstel nam,</l>
+<l>Want daer veel morrens was van dees en ander saecken,</l>
+<l>Die my wel duchtende, ja hoop'loos souden maecken;</l>
+<l>Den Coning die is streng, en dat hy 't werdt gewaer,</l>
+<l>Biron soud' zijn bevrijdt, wy bleven in 't gevaer;</l>
+<l>En als wy ons verraedt al hebben voort-gedreven,</l>
+<l>Sal sich den Fransman niet onder 't Spaensch jock begevẽ,</l>
+<l>Want sy uyt de Natuur zijn strijdigh, en noch meer,</l>
+<l>Sy hebben Wonder lief <hi rend="i">Henricus</hi> haren Heer.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Fuent.</hi></l>
+<l>Lafin dit gafmen oock in 't eerste wat beduchten,</l>
+<l>Den Spangiaert sal den Francq niet temmen ofte tuchten,</l>
+<l>Want haer den ouden haet noch in het herte leydt,</l>
+<l>En <hi rend="i">Natuur gaet voor Leer</hi>, gelijck het spreeck woort seyt:</l>
+<l>'t Is waer, men sal door dwank haer doen de Wetten leeren,</l>
+<l>Dan 't is onwilligh Volck, niet lichtlijck te bekeeren;</l>
+<l>Het is een quade Beest, en die sy tegen heeft,</l>
+<l>Altijdt in groot gevaer en duysent sorgen leeft,</l>
+<l>Dant t'wijl het is begoft, moetmen de saeck, volvoeren.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Lafin.</hi></l>
+<l>En of sy vielen af, die voor dees met ons swoeren,</l>
+<l>En waren wy niet doot, terwijl 't gemompel gaet,</l>
+<l>Is ons Verradery in eenen quaden staet;</l>
+<l>Wat my belanght, ick ben daer g'heelijck in beladen,</l>
+<l>En na dat mijn hert tuyght soo zijn wy selfs verraden.</l>
+<pb n="20"/>
+<l>Biron die schrijft soo flaeu.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Fue.</hi></l>
+<l>Het is u bloode hert,</l>
+<l>Dat door vertwijfelingh (soo't schijnt) verwonnen wert;</l>
+<l>De Pijl is nu aen 't gaen, de Kloot is nu aen 't rollen,</l>
+<l>Den aenslagh is begost, het Paerdt is al aen 't hollen,</l>
+<l>Daer is geen houden aen, men moeter nu meê deur:</l>
+<l>Wel hoe Lafin, hoe dus, wat weckt u tot getreur?</l>
+<l>Is nu u Edel hert door yd'le waen verovert?</l>
+<l>Is u on winbaer Ziel door mommery betovert?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Laf.</hi></l>
+<l>Hoe ick het overlegh, inbeelden kan ick niet,</l>
+<l>Geen Fransman immer lijd het Arragons gebiedt,</l>
+<l>Ten kan niet moogh'lijck zijn, want hy iste grootmoedigh.</l>
+<l>Den Spangiaert al te trots, te wreedt, en oock te bloedigh;</l>
+<l>Ick treek nu na Parijs te spreecken met haer al,</l>
+<l>Want mijn gemoedt getuyght van eenigh ongeval:</l>
+<l>Ten is geen kleyne saeck een Coninckrijck te temmen,</l>
+<l>En oock in 't waerde bloet eens Conincks soo te swemmen,</l>
+<l>Hy is al op sijn hoed', hy weet al wat wy doen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Fue.</hi></l>
+<l>Lafin wel hoe! hebt ghy nu sulcken quaet vermoen?</l>
+<l>Ghy waert wel eer een Man die niet en was om winnen,</l>
+<l>U eed' onbreeck'lijck was, nu swerven uwe sinnen,</l>
+<l>Gelijck het lichte Riedt dat met de winden weyd';</l>
+<l>Ick dacht Natura had tot u Lichaem bereyd'</l>
+<l>Onwinbaer ingewand', seght waer door wildy schricken,</l>
+<l>En laten toornigheyt door wantrou gantsch versticken;</l>
+<l>'t Is tegen 't Edel hert, hebt ghy niet dick gewaegt</l>
+<l>U leven in de Krijgh, doe ghy voor oogen saeght</l>
+<l>De schrickelijcke doodt, en dat om kleyne Solding,</l>
+<l>Doen dreunde door den slag, en scheen den Hemel vol hing</l>
+<l>Van Hagel ende Snee, gevlogen uyt het loot,</l>
+<l>Doe men niet eenen schoot, maer duysent schoten schoot;</l>
+<l>Nu sult ghy in een Maend' ontelbaer schat vergaren,</l>
+<l>Soo uwe sinnen zijn als sy te vooren waren.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Laf.</hi></l>
+<l>Dees reden, waerde Prins, hebben my weer bekoort,</l>
+<l>Ick sweer u by dees handt te honden 't eerste woordt,</l>
+<l>Gy hebt my weer gesterckt, gewapent met veel kloek heyt,</l>
+<l>En door u wijs beleyd' mijn vreese in den hoeck leydt,</l>
+<pb n="21"/>
+<l>Ghy hebt 't versaeght gemoedt gegeven soo veel voets,</l>
+<l>Dat het beproeving voelt door u veel-voude toets;</l>
+<l>Mijn Heer met u verlof, ick hebber een bescheyden,</l>
+<l>Die staet na my en wacht.</l>
+<stage><hi rend="i">Bin.</hi></stage>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Fue.</hi></l>
+<l>De Heer wil u geleyden.</l>
+<l>Verrader soudt ghy soo herhalen uwen Eedt,</l>
+<l>Het is mijn aengenaem dat ick u sinnen weet,</l>
+<l>Ick sweer dat ick u sal bereyden sulcke laghen,</l>
+<l>Dat ghy 't hier namaels noch met weenen sult beklagen.</l>
+<l>Zijt ghy een Edelman, hoe Lafin, zijdy dol,</l>
+<l>Zijn uwe sinnen t'soeck, of is u 't hooft op rol?</l>
+<l>Neen, neen, gy moet van kant, want gy zijt onstantvastigh,</l>
+<l>Dit sal dan voor Biron (eylaes!) zijn al te lastigh,</l>
+<l>En schrijf ick het soo 't staet, Lafin is 't leven quijt,</l>
+<l>Soo hy by 't leven blijft, ons doen in d'asschen glijt:</l>
+<l>Nu heb ick recht geleert op niemant te vertrouwen,</l>
+<l>Want 't geen sy eten op, sy wederom uyt-spouwen,</l>
+<l>Ia keeren wederom, waer over ick schier walgh,</l>
+<l>Het geen sy spogen eerst uyt haer vervloeckte balgh,</l>
+<l>Ick ga in alder-yl om Brieven af te maecken,</l>
+<l>Te rusten men niet dient in sulcke sware saecken.</l>
+<stage><hi rend="i">Bin.</hi></stage>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Jeannin. Edelman van 't Hof. Nemours.</head>
+<sp>
+<l rend="speaker"><hi rend="i">Iean.</hi></l>
+<l>Wat hoortmen voor geruys, hoe loopt het kleyne volck,</l>
+<l>Hoe raest den Arbeytsman, sou oock uyt dese Wolck</l>
+<l>Wel barsten eenen buy van Blixem ende Donder,</l>
+<l>Sy momp'len onder een, ja elck eenin 't bysonder;</l>
+<l>Daer is verraedt voor d'handt, daer dreyght een sware last,</l>
+<l>En niemandt van haer al en weet waer 't end is vast;</l>
+<l>Wat dit voorspoock bediedt sal ons den tijdt uytwijsen,</l>
+<l>Ick schrick wanneer ick 't denck, ja heb een groot afgrijsen</l>
+<l>Van veelderley geklaps; laestmael quam my te voor,</l>
+<l>Doch ick en gaf de reen in 't minste geen gehoor,</l>
+<l>Dat Ducque de Biron gestadelijck ging wandelen</l>
+<l>Met des Spangiens Legaet, en datse t' lamen handelen</l>
+<l>Wat vreemts, wat dat het is en kan ick niet vermoen,</l>
+<l>Soo 't waer is ('t ga soo 't wil) daer sal niet goets uyt broen:</l>
+<pb n="22"/>
+<l>Nu van de Praseling daer ick u laetst af seyde</l>
+<l>Komt hier meê over een; God wil ons soo geleyden,</l>
+<l>Dat wy het Coninckrijck bevrijden van sulck quaet.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Ed.</hi></l>
+<l>Men moet gelooven niet dus al der Lieden praet,</l>
+<l>Men roept dick van een saeck die noyt en is begonnen,</l>
+<l>'t Is wonder dat Biron (eylaes!) soud' zijn verwonnen,</l>
+<l>In dees onheylen quaet, den tijdt het al brengt uyt,</l>
+<l>Ten gaet niet vast altijt na eenige geluyt.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Iean.</hi></l>
+<l>'t Is hoe het is, mijn Heer, daer moet yets zijn verholen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Ed.</hi></l>
+<l>'t Mach zijn dat het geklap der Volckeren kan dolen;</l>
+<l>Dan ick vermoê wat quaets, den Coninck die gebiedt</l>
+<l>Datmen hem veynsen sal, nu sooder yets geschiedt,</l>
+<l>Laet ons zijn op de hoed', en ons niet verder quellen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Nem.</hi></l>
+<l>En laet ons voor een tijdt dit uyt ons hoofden stellen,</l>
+<l>Dus raeckte de Gemeent heel licht'lijck op de been,</l>
+<l>Wy bidden steets den Heer dat hy ons al verleen</l>
+<l>Een langhdurige Vreê, en dat de Ialousyen</l>
+<l>Van d'Hoofsche Edellien haer eenmael mach ontglyen,</l>
+<l>Want d'een den ander soeckt met list en met bedroch.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Ed.</hi></l>
+<l>Daer uyt spruyt veele twist, ja brenger vele noch</l>
+<l>Tot arm beroyde staet en kommerlijcke Slaven,</l>
+<l>Daer meenigh loos beleyt met schijn is ondergraven:</l>
+<l>'t Hof is een slavery, het is een Cierlijck graf,</l>
+<l>Een opgepronckte Vrou, die werckt haer eygen straf,</l>
+<l>'t Is vol van schijn-bedroch en loose listigheden,</l>
+<l>Vol adderen-vergift en duysent dertelbeden;</l>
+<l>'t Is altijdt ongerust, wanneer den een verarmt,</l>
+<l>Den andren, soo men siet, hem by de Koolen warmt.</l>
+<l>Den Broer benijdt den Broer, den Soon benijdt den Vader,</l>
+<l>Den eenen Vriendt die is den ander een Verrader;</l>
+<l>Als d'een in pracht en Staet, en groote weelde bralt,</l>
+<l>Door 't jagen van een aêr hy licht van Staet vervalt:</l>
+<l>Soo isser niemant vry, wie sou het Hof niet vreesen?</l>
+<l>Nochtans wil yeder een (soo 't schijnt) een Hov ling wesen.</l>
+<l>Komt gaen wy t'saem ten Hoof, den Coninck ons verbeyt,</l>
+<l>Vermaken hem met lust wat in sijn treurigheyt.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Iean.</hi></l>
+<l>Ick sal gaen by Biron, en seggen de geruchten</l>
+<l>het gemeene Volck, haer kermen ende suchten:</l>
+<pb n="23"/>
+<l>En hoe een droeve maer van hem werdt uytgebreydt,</l>
+<l>Dit sal den Mareschal in 't eersten zijn geseydt.</l>
+<stage><hi rend="i">Bin.</hi></stage>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Biron. Avergne.</head>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>'t Is wonder wat ick sie, mijn hert is schier verflout,</l>
+<l>Om dat den loosen Rogh sijn woorden niet en hout,</l>
+<l>En spout sijn den uyt, wat Duyvel mach hem porren,</l>
+<l>Dus over ons beleyd te preut'len en te knorren;</l>
+<l>Waer het noch niet begost ick soud 't niet vangen aen,</l>
+<l>Want ick bevind men mach op geen'ge menschen staen.</l>
+<l>Natuur hoe komt dat ghy den mensche hebt geschapen</l>
+<l>In sulcken valschen schijn, en sulcken boosen Wapen,</l>
+<l>'t Hert smelt my in het Lijf, van gramschap rijst mijn haer:</l>
+<l>Lafin, schelmsen Lafin, ha! dat ick by u waer,</l>
+<l>Ick sou u door dees handt selver ter Hellen senden,</l>
+<l>Soo sou u valsch gemoet niet met de winden wenden,</l>
+<l>Is dit Soldaten aert, zijt ghy van Edel bloedt,</l>
+<l>'k Gelooft dat u veel eer de Nicker heeft gebroedt.</l>
+<l>O wanckelbaer geluck, most ghy my tot hem voeren?</l>
+<l>Tot hem! die so het blijckt sijn Backhuys niet kan snoeren,</l>
+<l>Tot hem! die niet en houdt het geen hy heeft belooft,</l>
+<stage><hi rend="i">Avergne uyt.</hi></stage>
+<l>En mijn hier door mijn eer en al 't ontsach berooft.</l>
+<l>De Fuentes deed' seer wel dat hy my heeft geschreven,</l>
+<l>Want ick sal dese schelm doen brengen om het leven.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.</hi></l>
+<l>Mijn Heer hoe dus verstoort?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Is dat wel vragens weert?</l>
+<l>Mijn dunckt dat Hemel, Aerd, en alles ommekeert,</l>
+<l>Parijs is my te kleyn, en al de harde steenen</l>
+<l>Om d'oorsaeck mijnes klacht, verschricken ende weenen,</l>
+<l>De Son draeyt av'rechts om, en d'Aerde haer ontset.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.</hi></l>
+<l>Bedaert, Grave bedaert, en seght ons wat u let.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Het is met ons gedaen, wy zijn al aen gedragen,</l>
+<l>Verraden zijn wy selfs.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.</hi></l>
+<l>Van wien?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Wat mooght gy vragen,</l>
+<l>Door-leest eens desen Brief, Lafin is omgekocht,</l>
+<l>En heeft tot ons verderf alt'samen aengebrocht.</l>
+</sp>
+<pb n="24"/>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.</hi></l>
+<l>Lafin, is hy dan hier?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>'k En kan dat niet vernemen;</l>
+<l>Maer's Conincx Camerling die quam stracx by mijn flemen,</l>
+<l>Dat 'k hem uyt 's Conincks naem sou openbaren 't stuck.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.</hi></l>
+<l>Hebt ghy het hem geseyt?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Ick liever stucken ruck</l>
+<l>Mijn selven, oock veel eer sullen de vaste Polen</l>
+<l>Verdrayen, en de Son sal van haer plaetse dolen.</l>
+<l>Ick gaf hem kort bescheyd, doen ick mijn afscheyt nam,</l>
+<l>Hier op my dese Brief terstont ter handen quam,</l>
+<l>Die meldt hoe men Lafin ter Hellen moeste stueren,</l>
+<l>Of wy souden 't hier na beklagen en besueren.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.</hi></l>
+<l>Ten dient niet op gewacht, daer moet zijn volck bestelt,</l>
+<l>Die Lafin nemen waer op wegen en in 't Veldt,</l>
+<l>Of 't zy dan waer hy is, men moetet soo aenleggen,</l>
+<l>Dat niemant op ons kan eenigh vermoeden seggen,</l>
+<l>En voorts hem geven loon van dit verraders stuck,</l>
+<l>Soo vryen wy ons staet van alle ongeluck.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Een yder veynst hem dan, ick sal het wel bestellen,</l>
+<l>Wilt u doch met dees saeck in geen'ger wijs meer quellen.</l>
+<stage><hi rend="i">Binnen.</hi></stage>
+</sp>
+<div type="scene">
+<head>Lafin in eenigheydt.</head>
+<sp>
+<l rend="speaker"><hi rend="i">Laf.</hi></l>
+<l>Na dat ick by mijn selfs het stuck heb overleyd',</l>
+<l>Dunckt my 't onreed'lijck is, ja buyten het bescheyd',</l>
+<l>De Faem blaest wonder uyt, den tijt kan wonder wercken,</l>
+<l>En wy zijn al verklickt na dat ick kan bemercken,</l>
+<l>Fuentes die heeft my met listen uyt-gelockt,</l>
+<l>Ick gis dat hy veel quaets in mijne saecken rockt,</l>
+<l>Het gaet dan soo het gaet, mijn hert is overwonnen,</l>
+<l>En mijn gewisse seyd': Lafin hoe soudy konnen</l>
+<l>Vermoorden uwen Prins, en Coninck van het Landt:</l>
+<l>De wanden werden root, het is te grooten schandt,</l>
+<l>En als 't feyt waer volbrocht wie sou my doch betalen,</l>
+<l>'t Sou zijn is dat Lafin, de Duyvel mach hem halen,</l>
+<l>Die selver heeft gestoockt te brengen om den hals</l>
+<l>Den Coninck, brengt hem om, den schellem die is vals,</l>
+<l>Want heeft hy tot den doot des Conings derven stoken.</l>
+<l>Hy soud'ons oock een Vijgh, of Spaensch Bancketje koken.</l>
+<pb n="25"/>
+<l>Daerom soo duncktme best dat ick treck na Parijs,</l>
+<l>En maeck den Coning al haer doen en lagen wijs,</l>
+<l>Mijn lichaem sal ick dan van schand' en doodt bevryen,</l>
+<l>En mijn Conscientie oock na Godes wetten lyen.</l>
+<l>Daer mee soo treck ick heen. Lafin denckt hoe ghy swoert,</l>
+<l>Hier in en sal mijn ziel niet weynigh zijn beroert.</l>
+<l>Sal ick den swaren Eed die ick eer heb geswooren</l>
+<l>Herhalen! treck ick op mijn hals des Heeren tooren,</l>
+<l>En soo 'k het stuck volbreng waer ick een Moordenaer.</l>
+<l>Dit is een dobb'le sond', dees sond' dunckt my soo swaer,</l>
+<l>Dat 's onvergeeff'lijck is, ick moeter een verliesen,</l>
+<l>Want van twee quaden hier men moet het beste kiesen,</l>
+<l>En breken mijnen eed', waerom ben ick bedroeft?</l>
+<l>In sulcken stuck den eed' men niet te houden hoeft.</l>
+<l>Ick reys dan na Parijs, en sal niet eer stil wesen</l>
+<l>Voor ick den Coning heb dees Schriften laten lesen,</l>
+<l>My selfs ontslaen, en vry doen maken van den last,</l>
+<l>Eer ick meed' op verraet door yemand wierd verrast.</l>
+<stage><hi rend="i">Bin. Een weynigh gepauseert.</hi></stage>
+</sp>
+</div>
+</div>
+<div type="scene">
+<head rend="h4">Coning, Jeannin, Nemours.</head>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>De momp'ling houdt niet op, noch kan ick niet gelooven</l>
+<l>Dat Ducque de Biron hem soo soud'laten rooven</l>
+<l>Van het verduyvelt geldt, dat hy wil sijnen hand</l>
+<l>Aenleggen (laes!) op my, fy! overwreede schand,</l>
+<l>Hoe kond' ghy woedend' mensch soo qualijck stille wesen,</l>
+<l>Bemint ghy niet de deught, soo wilt de wetten vreesen,</l>
+<l>En vreest ghy geene Wet, soo schreumt het ongeval,</l>
+<l>En denckt dat men hier na ten Oordeel komen sal.</l>
+<l>Raedtsheeren, mijnen Borgh, daer ick my op vertrouwe,</l>
+<l>Dat 's: wilt gestage wacht voor uwe Coninck houwen.</l>
+<l>Ieannin, wat seydt Biron, doen ghy hem hebt geseyt</l>
+<l>Wat datter gaende was?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Iean.</hi></l>
+<l>God' spaer u Majesteyt,</l>
+<l>Hy swoer by Aerd' en Hel, en alle de Planeten,</l>
+<l>Dat hy u Dienaer was, en daer niet af te weten,</l>
+<l>Hy worde soo gestoort, ja soo geweldigh gram,</l>
+<l>Dat hy met suer gesicht terstont sijn afscheyt nam.</l>
+</sp>
+<pb n="26"/>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Kond' ghy aen sijn gelaet niet eenighsins bemercken?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Iean.</hi></l>
+<l>Genadigst Heer en Vorst, het veynsen kan veel wercken,</l>
+<l>Ick heb gehoort een maer, daer ick wel op betrouw,</l>
+<l>Daer door dat ick Biron heel vuyl en schuldigh houw.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Hoe! schuldigh? waerom dat?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Iean.</hi></l>
+<l>Sijn Brief, ja eygen teken.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>In stucken sal my 't hert door droevigheden breken,</l>
+<l>Sijn Brieven, en van wien, van waer, van wat inhout?</l>
+<l>Sijn Brieven, ick had'hem mijn Croone wel vertrout.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Iean.</hi></l>
+<l>Sire, daer isser een, die sal 't u al betalen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Wie is het doch?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Iean.</hi></l>
+<l>Lafin.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Wel, laet hem daetlijck halen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Iean.</hi></l>
+<l>Wel Heer.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>En ofmen hem dan onwaerachtigh vond'.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Iean.</hi></l>
+<l>Hy sal 't u weten doen, door Eden en door mond',</l>
+<l>Hy sweert by grooten eed' dat hy 't u sal bewijsen.</l>
+<stage><hi rend="i">Iean. bin.</hi></stage>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Bewijsen, dat wat waer veel; dees grijse haren rijsen,</l>
+<l>'k Verlange wat Lafin al wonders seggen sal.</l>
+<stage><hi rend="i">Laf. uyt.</hi></stage>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Laf.</hi></l>
+<l>Godt spaer sijn Majesteyt van alle ongeval.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Wat hebt ghy voor bewijs, waer door gy dorft betichten</l>
+<l>Biron den kloecken Heldt, ja selfs een licht der lichten,</l>
+<l>Of meent ghy mijne handt te vullen, met een blom,</l>
+<l>Betoont ons goet bewijs, of keert niet wederom.</l>
+<l>Bedenckt wat dat ghy segt, of men sal u verleeren</l>
+<l>Te spotten met den Raet, en met de groote Heeren.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Laf.</hi></l>
+<l>Van my en sal in 't minst niet worden voortgebracht</l>
+<l>Dat onwaerachtigh is, Biron heeft my versocht</l>
+<l>In dienst, waer in ick my ten vollen heb gegeven,</l>
+<l>En dacht daer in te zijn de dagen van mijn leven,</l>
+<l>Op een bestemde tijdt de Grave my ontboot</l>
+<l>By hem en sijnen Raed', alwaer dat hy besloot</l>
+<l>De Croon van Vranckerijck te brengen aen Savoyen,</l>
+<l>En u, ja al u Huys en 't gantsche Hof te royen.</l>
+<l>Avergne wasser by, en Spaengiens Ambassaet,</l>
+<l>Renaze, die al t'saem beslooten uwen staet</l>
+<l>Te brengen tot den val, daerom mosten wy sweeren</l>
+<l>Gelijckelijck een eed' op 't punt van haer geweeren;</l>
+<pb n="27"/>
+<stage><hi rend="i">Lafin geeft den Brief.</hi></stage>
+<l>Na dat dit is geschiedt, en alles is vervult,</l>
+<l>Wy 't schrift'lijck tekenden, gelijck gy 't leesen sult,</l>
+<l>Ick na Bourgonjen trock, om Fuentes daer te spreken,</l>
+<l>Zedert dien tijdt heeft my steets in de krop gesteken</l>
+<l>Hoe ick u Majesteyt gedient heb soo getrouw,</l>
+<l>Bedacht dat ick mijn eed'en doen herroepen wouw,</l>
+<l>Het welck ick heb gedaen, en om u te bewaren</l>
+<l>Kom ick u dit verraet, na plichting, openbaren,</l>
+<l>Besiet, doorleest het schrift sonder veel tijds verleng,</l>
+<l>Ghy vast bevinden sult dat ick geen logens breng.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>O Hemel! wat is dit, dit heeft Biron geschreven,</l>
+<l>Van vaer mijn herte trilt, van vrees mijn leden beven,</l>
+<l>De gramschap steygert op door het verhitte bloet,</l>
+<l>En wraeck die heeft vermant mijn sachtsinnigh gemoet.</l>
+<l>Raedsheeren nu is 't waer hoe kan dat doch geschieden?</l>
+<l>Neen, het geschrift is valsch, laet Biron selfs ontbieden;</l>
+<l>Vertoeft, 't is noch geen tijdt, beter met soetigheyt</l>
+<l>Hem aen te gaen, en sien wat sijn gewisse seyt:</l>
+<l>Biron, wel hoe Biron, hoe zijt ghy soo beseten!</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Nem.</hi></l>
+<l>O hooge Majesteyt, dees droevige Planeten</l>
+<l>Hebben ons lang gedreygt, 't schijnt dat het boos gedroch</l>
+<l>Vervallen van de Deugnt door u ons droefheyt socht;</l>
+<l>Dan Godt die hout se in toom, sy sullen niet beklijven,</l>
+<l>En uwe Majesteyt sal (trots haer) Coningh blijven.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Datmen de Grave soeck, en hem gevangen stel.</l>
+<l>Met recht mach men dees Aerd' gelijcken by een Hel,</l>
+<l>Met veel onrusten moet den Coningh hem geneeren,</l>
+<l>'t Is altijt dit of dat, rampsaligh zyn wy Heeren;</l>
+<l>Seght Biron alleen aen, dat hy by mijn verschijn</l>
+<l>Op morgen, kander oock (in sulcken schoonen schijn)</l>
+<l>Vergift verborgen zijn? hy was ons Vranckrijcks Vader,</l>
+<l>Hy gaf haer 't leven op, nu is hy een Verrader.</l>
+<l>Datter op den Biron terwyle wert gelet,</l>
+<l>Dat hy door listen niet werdt uyt ons hand'ontset:</l>
+<l>O al te losen droch: de noodt breeckt alle Wetten,</l>
+<l>Doet 't geen u wert belast.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Iean.</hi></l>
+<l>Men salder Heer op letten</l>
+<pb n="28"/>
+<l>Nu bortelt uyt op 't lest dat soo langh heeft gesmuyckt,</l>
+<l>De snel-vliegende Tijt 't verholen wel ontluyckt.</l>
+<stage><hi rend="i">Bin.</hi></stage>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Biron. Cieria sijn Boel.</head>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Lief Cieria hoe dus, ghy schijnt geheel belaen?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Cier.</hi></l>
+<l>Met reden, Heer Biron, en heftigh oock begaen,</l>
+<l>In saecken die ick ducht tot uwe val te strecken.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Mijn val Princes, waerom?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Cier.</hi></l>
+<l>Mijn Heer 'k moet u vertrecken</l>
+<l>Een wonderlijcke droom, die my verscheenen is</l>
+<l>In 't midden van de Nacht, of daer ontrent ick gis,</l>
+<l>Met veelderley gespoock en droeve fantasyen,</l>
+<l>Quam my vergetelheyt en nare sorgh bestryen,</l>
+<l>Soo dat mijn wetenschap, door dromens droef bestier,</l>
+<l>Beswalckte, of ick lagh lijck in een terend Vyer,</l>
+<l>Soo van de Vreught veraert, van eygenschap ontoogen,</l>
+<l>Quam leven beeldigh my verschijnen voor de oogen</l>
+<l>Een wonderlijcke Leeu, in 't aensien sterck en groot,</l>
+<l>Ick sagh met vrees hem aen, doch hy mijn weder boot</l>
+<l>Een minnelijcken muyl, al scheen hy trots en moedigh,</l>
+<l>Soo was hy doch niet wreedt, maer minnelijck en goedigh,</l>
+<l>Soo dat hy werdt seer hoogh verheven van een Helt,</l>
+<l>Die hadde in sijn handt een Schilt, waer op gestelt</l>
+<l>Drie Lelyen van Gout, dat hy sijn lijf en leven</l>
+<l>Soo menighmael voor hem ten prijse had gegeven;</l>
+<l>Mits sagh ick komen daer veel Tygers, die seer wreet</l>
+<l>Den Leeu aensagen, en raetslaeghden in 't secreet</l>
+<l>Veel listen, om den Leeu, die soo hoogh was geklomme,</l>
+<l>Te brengen om den hals, ja riepen luyt al-omme,</l>
+<l>Dat hy gepooght hadt om sijn Heere te verraen,</l>
+<l>Soo dat hy werdt in 't endt met groot ontsagh gevaen,</l>
+<l>En daer beschuldight met veel vuyl en vreemde saken;</l>
+<l>Doen wiert ick soo verschrickt, dat het bedroeft ontwaken</l>
+<l>My bitter weene deed, en doe 'k mijn wacker von,</l>
+<l>Soo beelden ick my in den Leeu die was Biron:</l>
+<l>Dit heeft my soo verschrickt, de Leden my noch trillen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Princes verslaet u niet door dromens sotte grillen.</l>
+</sp>
+<pb n="29"/>
+<sp>
+<l rend="speaker"><hi rend="i">Cier.</hi></l>
+<l>Ach Heer, mijn swaer gemoet soo seer beladen is</l>
+<l>Door desen droom, dat ick niet twijffel, of gewis</l>
+<l>Veel droefheydt en ellent uyt dit gespoock sal rijsen;</l>
+<l>Dus bid ick u mijn Heer, wilt ghy my nu bewijsen</l>
+<l>Eenige liefd of gunst, soo doet doch mijn begeer,</l>
+<l>En doet ghy 't niet om my, soo doet het doch veel eer</l>
+<l>Om 't gene dat ick draegh, en dat ghy siet voor oogen,</l>
+<l>Laet dat doch wercken in u hert eenigh meedoogen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Lief Cieria wat is 't dat ghy versoeckt op mijn?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Cier.</hi></l>
+<l>Ick wensch dat mijn versoeck van u gevolgt mocht zijn;</l>
+<l>Ick bid ootmoedighlijck wilt doch mijn reden hooren,</l>
+<l>En wilt u (om mijn wil) in 't minste niet verstooren,</l>
+<l>Want ick op u versoeck dat uwe reys naer 't Hof</l>
+<l>Voor dit mael zy gestaeckt.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Ach! neen, my niemant of</l>
+<l>Sal raden sulcx te doen, hier baet geen tegen-seggen;</l>
+<l>En ben ick niet Biron, wie sou doch derren leggen</l>
+<l>Op my wat achterdocht; Princes ick ben de geen,</l>
+<l>Die voor den Coninck vaeck soo dapper heb gestreen,</l>
+<l>'k En vrees voor geen gevaer, dus wil ick henen trecken.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Cier.</hi></l>
+<l>Ach Heer, de wijl mijn reen u niet en konnen wecken</l>
+<l>Tot 't laten van u reys, soo wilt u jonge Kindt</l>
+<l>Voor't lest eens kussen, en de Moeder die ghy mint,</l>
+<l>Want 't hert my tuygt dat ick u niet weer sal aenschouwen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Vreest voor geen ongeluk, hier meed' wensch ick Mevrouwe,</l>
+<l>En dees mijn Soon adieu, u hert doch gerust</l>
+<l>Wilt stellen, nu adieu, voor 't lest noch eens gekust.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Cier.</hi></l>
+<l>Adieu mijn Heer Biron, ick wensch ghy wel moet varen.</l>
+<l>Hoe weynig slaet hy acht 't geen ick hem ginck verklaren.</l>
+<l>Hy neemt dees reys wel licht en onsorghvuldigh aen,</l>
+<l>Maer Godt weet hoese hem in 't leste sal vergaen,</l>
+<l>Ick vreese voor veel quaet, ô Godt wilt hem behoeden,</l>
+<l>Dat niet waerachtigh is 't geen ick op hem vermoede,</l>
+<l>Nochtans ick vrees sijn doodt, want desen droom my seyt,</l>
+<l>Dat in 't bedreven quaedt sijn lijfs verliesing leyt:</l>
+<l>Ach wat een swaer verdriet! waer sal ick met mijn kinderen</l>
+<l>Heen vluchten, om de schant en groote rou te bind'ren,</l>
+<pb n="30"/>
+<l>Doch 'k hoope dattet noch ten besten sal vergaen,</l>
+<l>'t Is misschien niet soo quaedt als ick my voor laet staen:</l>
+<l>Nu wacht ick met gedult den tijdt die 't ons sal leeren,</l>
+<l>En tijding sal mijn leet verlichten of vermeeren.</l>
+<stage><hi rend="i">bin.</hi></stage>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Biron. Avergne.</head>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Heb ick den Hemel dan op mijnen hals getogen,</l>
+<l>Dat hy vvil (soo het schijnt) tegens Biron oorlogen,</l>
+<l>Heb ick het wreedt geluck bejegent onbeleeft,</l>
+<l>Dattet my dagh en uur in alles tegenstreeft:</l>
+<l>Vervloeckte Tooveraers, bekoorster van de sinnen,</l>
+<l>Die door den schoonen schijn ons Zielen komt verwinnen,</l>
+<l>En blaest ons herten op door de begeert en waen,</l>
+<l>Datmen selfs met gewelt in sijn bederf wil gaen.</l>
+<l>Niemant en kend u best als die u heeft gereden,</l>
+<l>En door u valsigheên ellendigheyt geleden:</l>
+<l>Niemant en kent u best, als ick, die moet ontsien</l>
+<l>U, om dat ick ontsagh, als ick u dwaes gingh bien</l>
+<l>Mijn lichaem en de ziel, ick die u na gingh swerven,</l>
+<l>En docht op geen verdriet, en docht niet eens op sterven,</l>
+<l>Nu geeft ghy my den loon die ick niet had verwacht,</l>
+<l>Wat mach ick rijmelen dees mijn onnutte klacht?</l>
+<l>Of dien ick door getier de lucken te verwerren,</l>
+<l>En doen door vyer en vlam verschricken selfs de Sterren,</l>
+<l>Mijn stem die is te flaeu, mijn machten ben ick quijt,</l>
+<l>Biron, die ghy eerst waert ghy nu niet meer en zijt:</l>
+<l>Den Coninck weet u daet: hoe soud' hy 't konnen weten?</l>
+<l>Daer ick verseeckert ben Lafin is doodt gesmeten,</l>
+<l>En boudt hy op 't gerucht, sal ick door eeden fel</l>
+<l>En schrickelijck gebaer hem overbuld'ren wel.</l>
+<l>Morgen gaen wy ten Hoof, aldaer ick ben ontboden,</l>
+<l>Ick sal 't ontvlieden, ay! ick ben 't so dick ontvloden,</l>
+<l>Ick sal 't verloochenen al datter wordt geseyt,</l>
+<l>Wie salder tegen zijn, die geen getuygen heyt?</l>
+<l>Dat ick nu mijne saeck te deegh ga overwegen,</l>
+<l>Want hier in is mijn eer, ja leven selfs gelegen;</l>
+<l>Voor al moet ick den Graef Avergne doen de weet,</l>
+<l>Op dat wy stemmen eens, waer op hy deed' den eet:</l>
+</sp>
+<pb n="31"/>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.uyt.</hi></l>
+<l>Mijn Heer seer wel te pas, ick ging om u te soeken,</l>
+<l>Wy mogen ons dien tijdt en'uyre wel vervloecken</l>
+<l>Dat wy met Savoyaert raetslaeghden in dit stuck.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.</hi></l>
+<l>Hoe so mijn Heer?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Den Coning 't alles weet, tot ons ongeluck.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.</hi></l>
+<l>Uyt wien?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>'k En weet.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.</hi></l>
+<l>Wat wilt ghy dat geloove?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Mijn Heer ick ga.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.</hi></l>
+<l>Waer heen?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Maer blijdelijck ten Hove:</l>
+<l>Volght my so 't u gevalt.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.</hi></l>
+<l>Ick volgh u metter spoet.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Dat 't noyt begonnen waer, dat waer ons wel soo goet.</l>
+<stage><hi rend="i">Een weynigh pause.</hi></stage>
+<stage><hi rend="i">Binnen.</hi></stage>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Coning. Biron. Jeannin.</head>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Biron, soo het soo is, soo wilt het vry bekennen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Bekennen Heer! is 't soo, den Hemel moet my schennen,</l>
+<l>'k En hebbet noyt gedacht, noch noyt daer af gerept,</l>
+<l>Alleen het geen ghy my hier voor vergeven hebt.</l>
+<l>Sire hoe sou Biron, die 't leven heeft geschoncken</l>
+<l>Soo dick voor uwen staet, Biron die ghy doet proncken</l>
+<l>Door u mildadigheyt, gelijck de klare Maen</l>
+<l>Munt uyt, wanneer men haer siet by de Sterren staen;</l>
+<l>Heb ick dit oyt gedocht soo moeten wy de buyen</l>
+<l>Opnemen, en dit Rif voor duysent Rampen kruyen,</l>
+<l>Heb ick dit oyt gedocht, dat mijn den Blixem sla,</l>
+<l>En 't Nickerlijck geschaer steets by blijft waer ick ga;</l>
+<l>Nimmer heb ick gesuft, hoe sou Biron hu suffen,</l>
+<l>Of doet ghy 't Sire maer om Biron t' overbluffen,</l>
+<l>En te beproeven my? soo ghy een proef begeert,</l>
+<l>Taft aen dit scherpe Stael, tast aen dit trouwe Sweert</l>
+<l>En ruckt my 't leven wech, of sendt my voor de Spechten,</l>
+<l>Ick sal gelijck ick dee voor uwe Kroone vechten,</l>
+<l>Of isser yets te doen, gebied' so 't u beliefd',</l>
+<l>Biron die is gereed, die u van herten liefd'.</l>
+</sp>
+<pb n="32"/>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Biron denckt wat ghy segt, ick kan 't waerachtig maken,</l>
+<l>En soo ghy het bekent 'k vergeef u al de saken.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Dat ick yets schuldigh waer 't wert van my wel bekent.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Iean.</hi></l>
+<l>Belijd' het Mareschal indien ghy schuldigh bent,</l>
+<l>Den Koningh (soo hy seyt) sal het niet meer gedencken,</l>
+<l>Wilt niet door koppigheyt u eygen selven krencken.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Waerachtig dat waer veel; met oorlof Vranckrijcx roem,</l>
+<l>Soo het waerachtigh is my selven ick verdoem,</l>
+<l>Dat dit waerachtigh is my niemandt sal doen blijcken.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Siet toe Biron, siet toe, ghy sult verbaest staen kijcken</l>
+<l>Als men 't betuygen sal, wilt ghy 't bekennen niet?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Dat onwaerachtigh is Sire, dat ghy gebiedt</l>
+<l>Ick wel bekennen wil, dit sal ick my wel wachten.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Beraedt u, ick sal voort wet na het eynde trachten.</l>
+<stage><hi rend="i">Coning en Ieannin binnen.</hi></stage>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Hoe soud' ick my beraen, den Koninck is gestoort,</l>
+<l>En wil na mijn (eylaes!) niet luysteren een woort,</l>
+<l>Den Koningh is vergramt en komt my valsch bestryen,</l>
+<l>Daer hy door mijn gelaet (weleer) plach te verblyen,</l>
+<l>Eylaes! mijn droeve ziel barst uyt door ongedult.</l>
+<l>Wat, wil ick vluchten? neen, dat sou vermelden schult;</l>
+<l>Sal ick de Koning dan mijn saecke openbaren,</l>
+<l>Neen, waer sou dan mogentheyt en Birons eere varen,</l>
+<l>Sal ick volharden dan in 't looch'nen tot het lest?</l>
+<l>Volharden, ja, ô ja! dat is mijn alderbest;</l>
+<l>Ick sal een stalen hert in mijnen boesem planten,</l>
+<l>En temmen soo geveynst de klappige Gesanten,</l>
+<l>Dat hy noch niemant niet sal weten mijn bedrijf,</l>
+<l>Al sneed' hy schoon het hert uyt't onbeweegh'lijck lijf,</l>
+<l>Soo hy my overtuygt, ick sal 't by tijdts ontloopen,</l>
+<l>Die in veel nooden is die moet het beste hoopen.</l>
+<stage><hi rend="i">Terwijl Biron wandelt, komt uyt,</hi></stage>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Coning. Coningin. Jeannin. Nemous.</head>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Biron hoe lang sal noch u herte zijn verstaeld,</l>
+<l>Hoe langh sal u gemoed' met boosheyt zijn bepaeld,</l>
+<pb n="33"/>
+<l>Hoe lang sal uwe ziel in wuftig heden rennen,</l>
+<l>Dat het geen ick wel weet ghy niet en wilt bekennen,</l>
+<l>Of acht ghy het voor goet dat ghy u selfs bedrieght,</l>
+<l>En voor my die u heersch soo groote logens lieght,</l>
+<l>Ick weet meer als ghy meent, en soo ghy 't wilt belijden</l>
+<l>Ick 't u vergeven sal, ja sal tot geene tijden</l>
+<l>Gedencken aen de saeck, ghy kend wel mijn gemoed',</l>
+<l>Ghy weet wel dat ick ben genadelijck en goed',</l>
+<l>Ghy weet hoe ick u min, hoe ick u trouwe dienste</l>
+<l>Beloont heb voor en naer, dick op het onvoorsienfte,</l>
+<l>En soo ghy niet en wilt bekennen dese saeck,</l>
+<l>Sal ick hier over doen gerechtigheyt en wraeck,</l>
+<l>Ick bid u Heer Biron, soo ghy zijt te versachten,</l>
+<l>Ick bid u, segh ick noch, bedenckt in u gedachten,</l>
+<l>Of's Konincks trouw gemoet in gramschap licht verkeert.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Hoe Sire kan dat zijn? by mijn gemoed' ick sweert,</l>
+<l>Ick sweert ten andermael; Ach Vorst, u trou vertrouwen</l>
+<l>Hoop ick dat niet en is my sulcks daer voor te houwen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Coningin.</hi></l>
+<l>Ick bid u Heer Biron, soo bidden yets vermach</l>
+<l>Van uwe Koningin, soo brenghtet aen den dagh,</l>
+<l>Vermorwt u straf gemoedt; u leedt my 't hert sou raecken,</l>
+<l>En wilt u toch geen spot van alle menschen maecken,</l>
+<l>Ghy kent u herte best, ghy weet wat datter schuylt,</l>
+<l>Siet toe, dat ghy geen haet voor 's Konincks gonst en ruylt.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Alwaerde Koningin, die als een eygen Moeder</l>
+<l>My steets hebt lief gehadt, u beed' maeckt my verwoeder,</l>
+<l>Want mijne Ziel getuyghtte recht onnoselheyt</l>
+<l>En dat ick schuldigh waer het waer al lang geseyt,</l>
+<l>Geen mensche die 'er leeft sal dat waer konnen maecken,</l>
+<l>En die 'er maer af rept, die sal ick stracx doen smaecken</l>
+<l>Dat Biron niet en is van het Verraders zaet,</l>
+<l>Maer dat hy na de eer van sijnen Koninghstaet;</l>
+<l>Wie is 't die my beticht?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Iean.</hi></l>
+<l>Die, die ghy niet sult dencken.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Och hoe mach achterdocht mijn Ziele dus bekrencken,</l>
+<l>'k Wild' hy mijn waer bekend', 't beschuld'gen is te vals,</l>
+<l>Alwaer 't een Konings Soon het kosten hem sijn hals.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Nem.</hi></l>
+<l>Denckt Biron wat ghy seght, besadight het vermeten,</l>
+<pb n="34"/>
+<l>Want u beschuldenaers zijn in den Raedt geseten.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Al waer 't den ganschen Raedt, sy hebben geen belegh,</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Nem.</hi></l>
+<l>Daer is bewijs genoegh, ick wel wat ick segh.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Coningin.</hi></l>
+<l>Mijn Heer hoe is u hert soo hart en onbeweeg'lijck,</l>
+<l>Ick bid om mijnent wil, soo antwoordt my eens deegh'lijck,</l>
+<l>En hebt ghy geene schult, komt tot bekentenis,</l>
+<l>Soo waerlick als Godt leeft het u vergeven is.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Soo laet my Sire dan alleen dees' eer gedyen,</l>
+<l>Dat ick door Rechters recht mijn Tichters mach bestryen,</l>
+<l>Ick sal door daedt en reen weerleggen haer beleid.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Iean.</hi></l>
+<l>'t Waer beter Heer Biron dat gy spraeckt met bescheid'.</l>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Bescheid' my niet ont breeckt, terwijl ick word' verwonnen</l>
+<l>Gelijck een blooden Haes van lagers afgéronnen;</l>
+<l>Soo kniel ick voor u neer, u die den Scepter hout,</l>
+<l>U, waer op dat Biron beroept en sich betrouwt,</l>
+<l>Niet anders ick begeer als billijckheit te erven,</l>
+<l>Daer voor ick heb geleeft, daer voor wil ick oock sterven.</l>
+<l>Verleent my, O Monarch! dees kleene beed' alleen,</l>
+<l>Dat ick de geene ken die my door trots vertreen,</l>
+<l>Ick sweere dat ick sal de saecken soo uyt-voeren,</l>
+<l>Men over hohdert jaer den mondt daer af sal roeren.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Biron ick heb u lief voor 't strijden van het Landt,</l>
+<l>Ick acht u alsoo veel als mijnen Rechterhandt,</l>
+<l>Ick raed' u als een Soon wilt u ter deegh bedaren,</l>
+<l>En laet eens uyt u hert al dees verwaentheit varen,</l>
+<l>U selven ghy bedrieght, 't is alleen my bekent,</l>
+<l>Daerom geen logentael en dient voor my gewent:</l>
+<l>Zijt ghy niet in 't bespreck met de Savoysche Vorsten?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Met haer, in 't minste niet, en dat ick seggen dorste,</l>
+<l>Sy spuwen hare gal op een onnoosel mensch,</l>
+<l>BetichterS, fy te valsch! dit is alleen mijn wensch,</l>
+<l>Haer wensch ick voor den droes, en isser eenigh teecken</l>
+<l>Soo moet ick mijnen hals in duysent stucken breecken,</l>
+<l>Alleen, O groote Vorft! 't geen ghy voor dees vergaeft.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>My dunkt dat gy in 't quaet hoe langs hoe meerder draeft,</l>
+<l>Hebt gy niet met den Graef van Spangien yets te hand'len?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>In 't minste niet mijn Heer.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Ick sie u dickmael wand'len</l>
+<pb n="35"/>
+<l>Met hem en and'ren meer, en schuylt daer onder niet?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>De jalousy altijdt een saeck ten quaetsten diet.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Wilt ghy 't bekennen nu, ick sal noch zijn gaduldigh.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Ghy nimmer en bevind' Biron hier aen is schuldigh.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Denckt wat ick heb geseit, tot t'avondt Heer Biron.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Sire ick wou dat ick u vergenoegen kon.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Jeannin doet't geen ick segh.</l>
+<stage><hi rend="i">Con. bin.</hi></stage>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Iean.</hi></l>
+<l>Mijn Heer ick sal u eeren.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Coningin.</hi></l>
+<l>Kost ick u door gebeen of ergens door bekeeren,</l>
+<l>Ick spaerde geene moeyt, t'avondt ick u verwacht.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Alsoo ghy my beveelt (Mevrouw) 't sal zijn volbracht,</l>
+<l>'t Is, segh ick, anders niet dan de voorgaende schulden,</l>
+<l>En wonder geeft het my hoe dat mijn hert 't kan dulden,</l>
+<l>Ick sweer, waer 't mijns gelijck, hy leefden niet een uyr,</l>
+<l>Het blijcken sou waerom het hert nu brant als vuyr.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Iean.</hi></l>
+<l>Hoe Biron, zydy dol, wat heeft u ingenomen?</l>
+<l>Dat u verstaelt gemoedttot geen beken kan komen;</l>
+<l>Daer is to veel in 't licht, u Mackers zijn niet trouw,</l>
+<l>Sy hebben 't al geklapt, om u went wil ick wou</l>
+<l>Dat ghy gedweger waert, het is u toch vergeven,</l>
+<l>Mijn Heere soo mijn dunckt ghy kort u eygen leven.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Het hert klopt my in 't lijf, dat hy niet mercken kan.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Iean.</hi></l>
+<l>'t Is middagh, laet ons gaen, en spreken voorts hier van.</l>
+<stage><hi rend="i">Bin.</hi></stage>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Biron. Avergne.</head>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Eylaes! wy zijn in 't net, Lafin heeft onsj verraden,</l>
+<l>Och dat ick mocht het hert in sijne wraeck versaden,</l>
+<l>Och waer Lafin van kant. Avergne, mijn gemoet</l>
+<l>Getuyght, dat het ons noch sal kosten 't dierbaer bloet,</l>
+<l>Het bloet! ô neen, Biron ghy zijt te hoogh verheven,</l>
+<l>En of't den Coning wist, wat waer daer aen bedreven,</l>
+<l>Mijn leven hanghter aen, mijn diensten zijn te groot,</l>
+<l>Die sullen my seer wel bevrijden van de doodt.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.</hi></l>
+<l>Ick heb soo veel gehoort van deftige Verstanden,</l>
+<l>Mijn afgewonnen hert dat dunckt my uyt te branden,</l>
+<l>'t Gemoedt my overtuyght, hoe wel het ooge veinst,</l>
+<l>Hoewel de tonge spreeckt, het hert wel anders peinst,</l>
+<pb n="36"/>
+<l>Daer is noch goeden raed', laet ons te samen vluchten.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Vluchten? waer vlucht ick heen?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.</hi></l>
+<l>Ten baet niet al u suchten,</l>
+<l>Den Coninck let op ons, de wegen zijn bewaert.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>'t Is beter dat Biron in logenen voort-vaert,</l>
+<l>En wie sal (seght my doch) ons konnen overtuygen,</l>
+<l>Neen, neen, ick blijf verhart, nimmer en sal ick buygen,</l>
+<l>'k Sal toonen wie ick was, en wie ick ben geweest,</l>
+<l>En dat het lichaem noch begrijpt den selven geest,</l>
+<l>'k Sal toonen wie ick ben, en dat niet is gestorven</l>
+<l>Mijn onvertsaeght gemoet, het welck ick heb verworven,</l>
+<l>En ben ick niet een Man, een donder, jae een wint,</l>
+<l>Sou ick bekennen, dat, het welck ick heb geprint</l>
+<l>In eenen Diamant, nochtans is het waerachtigh.</l>
+<l>Hoe nu! mijn Ziel, wel hoe, hoe zijt gy soo tsaeghachtigh.</l>
+<l>Avergne het is tijt dat wyten Hove treen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.</hi></l>
+<l>Biron geeft eens gehoor, en luystert na mijn reen,</l>
+<l>Mijn raedt is dat wy al, 't geen noodigst is, bereyden</l>
+<l>Om metten morgenstont uyt Vranckerijck te scheyden,</l>
+<l>Het is ons al te nauw, en ick heb quaet vermoen,</l>
+<l>Als wy zijn vry en vranck, wy sullen wel pardoen</l>
+<l>Verkrijgen van het stuck, nemen sy ons gevangen,</l>
+<l>'t Bekennen sullen sy wel uyt ons lijven prangen,</l>
+<l>'t Is beter dan gevlucht, hier doch te deegh op let.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Vlucht ick, ick ben van al mijn staten afgeset,</l>
+<l>Waer sal ick vluchten heen, vluchten wy na Savoyen,</l>
+<l>Salmen ons voor den loon van onse daet uytroyen:</l>
+<l>Ick blijf.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.</hi></l>
+<l>En soo ghy blijft, ghy blijft in u verderf.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Eh soo ick vluchten wil, soo loop ick uyt mijn Erf.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.</hi></l>
+<l>Het goet gaet soo het komt, net leven sal niet keeren.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Ick waer veel liever doodt, dan andere te eeren.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.</hi></l>
+<l>De dood' is aengenaem, als men met eeren sterft.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Het leven weder walght, datm' in oneer verwerft.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.</hi></l>
+<l>Hy blijft die blijven wil, 'k laet u alleen in 't suchten.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>En soo ghy vluchten wilt, soo wil ick met u vluchten.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.</hi></l>
+<l>Als wy uyt handen zijn den Coninck het vergeet.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Als ick 't bedenck, ick sucht, om mijn geswooren eet.</l> 
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.</hi></l>
+<l>Morgen so haest de Son sal uyt haer bedde reysen.</l>
+</sp>
+<pb n="37"/>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Ick weet niet wat my let, ick vol swaer gepeysen,</l>
+<l>'k Weet niet wat dat my deert, herhaelt u mijnen geest,</l>
+<l>Mijn leven ben ick niet in sulcken vrees geweest,</l>
+<l>De hayren stijgen op, de druppels sweet begeven</l>
+<l>Haer langs mijn wangen neer, om dat dit is bedreven.</l>
+<l>Of ick yet vreemts bedocht, heel selsaems sonderling,</l>
+<l>Dat ick onder eed schijn verradery aenving?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.</hi></l>
+<l>Wat soud gy doen, ey segt, dat men niet soude merken.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>'t Is waer, ick 't wel bedenck, men moet behendig wercken.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.</hi></l>
+<l>Tespijtigh is't Monsieur, dat 't is geopenbaert,</l>
+<l>Doch wat 's u voornemen?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Te spelen met de Kaert</l>
+<l>Met onse Coningin; doch als ick ga bedencken,</l>
+<l>'k En kan haer genighsins in sulcken voorslach krencken,</l>
+<l>'t Is beter dat ick ga verheugen my door list,</l>
+<l>En speel soo met de Kaert, datmen geen argh en gist.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.</hi></l>
+<l>En of u leden dan opd'uyr en stond' besweecken?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Wellaet mijn sorgen doch, onnodig al dit spreken. (baest,</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.</hi></l>
+<l>Waerlijk mijn waerde Heer, gy maeckt my 't hert ver-</l>
+<l>Oftmen u vangen quam?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Neen 't vluchten is het naest.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.</hi></l>
+<l>Siet toe, Biron siet toe, ghy wilt geen reden achten,</l>
+<l>Ick wilde ick het noyt begaen had' in gedachten.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Avergne Heer, wel hoe, deyst ghy nu ruggewaert?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.</hi></l>
+<l>De uytkomft deses saecks my droevelijck beswaert.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Ick gae ten Hovewaert, 't is best dat wy bestellen</l>
+<l>De Paerden tot de vlucht.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.</hi></l>
+<l>Heer ick sal u versellen,</l>
+<l>En blijven u steets by in last en tegenstoot,</l>
+<l>Tot dat ons scheyd' van een de bar en droeve doodt.</l>
+<stage><hi rend="i">Bin.</hi></stage>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Coning, Coninginne, Vitry.</head>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>De tock'ling van het quaet, door hope van bedecken,</l>
+<l>Kan in des menschen hert een loochening verwecken,</l>
+<l>Dat hy volhart in 't quaet, en voor geen dreygen dreunt,</l>
+<l>Gelijck een harde Rotz zoor 't water niet en kreunt;</l>
+<l>Dat men des menschen hert kon opentlijck doorgronden,</l>
+<l>Men souder vinden in veel onblijck bare sonden.</l>
+<l>Dit is des Duy vels list, die 't quaet by 't quade stoockt,</l>
+<l>En blaestet soo lang aen, dattet niet meer en roockt,</l>
+<l>De mensche in sijn quaet, volhardent vol hartnecken,</l>
+<pb n="38"/>
+<l>En stapelt sond' by sond', datmen hem niet kan trecken</l>
+<l>Van 't ingeswolgen quaet, het welck hy steets vermeert</l>
+<l>Door logens, dat hy schier door logenen verkeert.</l>
+<l>De Grave die is vuyl, ick weet al sijn gebreecken,</l>
+<l>Noch blijft hy als verdoolt hartneckigh daer in steecken,</l>
+<l>Ia sweert noch eed' by eed', en meerdert sijne sond',</l>
+<l>Daer ick hem sijn vergif ten vollen heb verjond',</l>
+<l>Laet sien of hy noch sal in sijne valscheit blijven,</l>
+<l>Soo hy 't niet seggen wil ick sal 't hem wel uytdrijven.</l>
+<l>Vitry, na mijn bevel wel op de Poorte wacht,</l>
+<l>En soo 'k hem niet en spreeck, neemt hem in uwe macht;</l>
+<l>En ghy mijn Coningin, wilt hem toch soo lang quellen</l>
+<l>Tot dat hy het bekend'.</l>
+<stage><hi rend="i">Con. bin.</hi></stage>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Coningin.</hi></l>
+<l>Mijn Heer ick sal't bestellen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Vitry.</hi></l>
+<l>Te groot is ach (eylaes!) dit bitter ongeval.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Coningin.</hi></l>
+<l>Te vangen, wis hy sterft! schant ist, o Franschen al,</l>
+<l>Dien Helt, dien waerdigh is met Lauwer 't Hooft te cieren,</l>
+<l>Wiens roem van 't Ooft tot 't West, van't Zuyd' tot 't Noord gaet swieren,</l>
+<l>Die voor ons heeft gestreen, ja bracht victory meed',</l>
+<l>Soo dick den Koning hoogh tot strijden vond gereed'.</l>
+<stage><hi rend="i">Den Koning weder uyt met Biron.</hi></stage>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Ick wensch den Koning heil, en dat hy het vermoeden</l>
+<l>Gestelt heeft uyt den sin, Heer houtet my ten goeden</l>
+<l>Dat ick soo lange wacht, ick hebme wat vergist,</l>
+<l>En wat de klocke had' ick waerlijck niet en wist.</l>
+<l>Me-Vrou! hoe so bedroeft?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Coningin.</hi></l>
+<l>Biron om uwent willen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Om mijnent wil, Me-Vrou, ay wilt u droefheit stillen,</l>
+<l>Want ick en ben niet waerd' dat een soo grooten Vrou</l>
+<l>Om mijnent wil bedroeft of treurigh wesen sou,</l>
+<l>Waert om een anders wil, waert om verlies van-landen,</l>
+<l>Soo waer ick uwe hulp, Godt lof al ons Vyanden</l>
+<l>Die houden nu haer rust, het is een stille vreê,</l>
+<l>Me-Vrou 'k ben oock bedroeft om d'opgeleide wee.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Het is hem wel geloont, die harten moeten woelen,</l>
+<l>Die door geen gift en gaef, ja staten zijn te koelen,</l>
+<l>Wat heb ick den Biron mijn leven wel vertrout,</l>
+<l>Niet Lant, niet Volck, niet Croon, of't wanckelbare Gout.</l>
+<pb n="39"/>
+<l>Maer selfs mijn eygen Lijf en al mijn Bondt-genooten,</l>
+<l>Nu soeckt mijn dese schalck uyt mijne stoel te stooten,</l>
+<l>Iae 'k heb hem soo besind, dat hy 't bekennen wou,</l>
+<l>Hoevvel de saeck is svvaer, ick 's hem vergeven sou.</l>
+<l>Wat tijt is 't van den dagh?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Vitry.</hi></l>
+<l>Mijn het is by vijven.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Wat mag den mensch verdwaest, verwaendelijk bedrijven.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>De mensch in sonden leeft.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>En uwe ziele vvoed',</l>
+<l>Gy waert ons Vrankrijx winst,'t schijnt gy ook wesen moet</l>
+<l>Ons Vranckerijcks bederf, door listige manieren.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Ick bid u Sire wilt dees woorden doch bestieren,</l>
+<l>Sy snijden my in 't hert, my dunckt als ghy dit seght,</l>
+<l>Dat mijn onwinn'lijck hert tegen den Donder vecht:</l>
+<l>Wat sou mijn porren doch öm mijnen Heer te hind'ren?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>De boosheit uws gemoeds.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir</hi></l>
+<l>Sire dat 's voor de kind'ren,</l>
+<l>Die konnen haer gemoet niet houden in den band,</l>
+<l>Maer ick heb mijn gemoedt al overlangh vermand.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Biron ick heb een beed', wilt ghy mijn die volvoeren?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Ia Heer, gebiedt my maer de Helle om te roeren,</l>
+<l>Soo langh ick adem schep staen ick in u gebiet:</l>
+<l>Wat is 't dat u geliefd'?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>s' En is soo wichtigh niet,</l>
+<l>Alleen dat ghy u doen my willet openbaren.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Wat tockelt ghy mijn hert, hoe doet ghy dese haren</l>
+<l>Rijsen, 't schijnt dat mijn ziel alleen sijn leven kort;</l>
+<l>'k En weet niet wat mijn Heer tot dese vrage port,</l>
+<l>Sal ick bekennen 't geen ick noyt had in gedachten.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Wat mooght gy Heer Biron u eygen selfs verkrachten,</l>
+<l>Ghy weet 'et immers wel, Lafin heeft 'et geseet.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Lafin, Lafin! 't is goet dat ick den schellem weet,</l>
+<l>Ick sweer hy sterven sal, en in sijn bloedt verdrincken.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Biron denckt wat ghy seght, wilt u te deegh bedincken.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Ick heb mijn al bedocht.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>O mensch te boos van aert.</l>
+<stage><hi rend="i">Con. bin.</hi></stage>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Mevrouwe laet ons doch wat speelen met de Kaett.</l>
+<l>Mijn bloet schuymt my in 't lijf, so my dees woorden hitten.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Coningin.</hi></l>
+<l>Biron als 't u belieft, laet ons wat neder sitten.</l>
+<stage><hi rend="i">spelen.</hi></stage>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Het speelen brengt steets voort (Mevrouw) luttel gewin!</l>
+</sp>
+<pb n="40"/>
+<sp>
+<l rend="speaker"><hi rend="i">Coningin.</hi></l>
+<l>Biron die haelt nu al sijn schade weder in.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Princes ghy speelt te haest, meent gy my te verdrucken.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Coningin.</hi></l>
+<l>Ick ben bedroeft (mijn Heer) om uwe ongelucken.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Ick 't alles met de Kaert om uwent wille waegh.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Coningin.</hi></l>
+<l>Maer in u stale hert verberght ghy het geknaegh.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Mevrouw de gladde Kaert is soet om meed 'te speelen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Coningin.</hi></l>
+<l>Biron dees aenslag swaer moogt gy nu wel bequelen.</l>
+<stage><hi rend="i">In dit Spelen, spelensy voort.</hi></stage>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Coning, Avergne, aen d'een zijde van 't Tooneel.</head>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Avergne, 'k heb Biron soo dickwilsaen-geweest,</l>
+<l>Hy heeft een stalen hert, ja een volherden geest,</l>
+<l>'t Schijnt dat hy het bederf sich selven heeft geswooren,</l>
+<l>En laet hem door 't gebedt eens Conincks niet bekooren.</l>
+<l>Ghy weet oock van de saeck, nu vraegh ick u hier naer,</l>
+<l>En hebt ghy geen verraedt gestommelt met malkaer?</l>
+<l>Soo ghy het niet bekent, so sal ick my bereyden</l>
+<l>Tot straf, en ghy sult oock niet van dees plaetse scheyden</l>
+<l>Voor ghy 't beleden hebt, en blijft ghy even stijf,</l>
+<l>Sal ick bekentenis doen recken uyt u lijf:</l>
+<l>Wel waerom spreeckt gy niet, en antwoort op mijn reden?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.</hi></l>
+<l>Het herte mijn begeeft, het moet toch zijn beleden.</l>
+<stage><hi rend="i">op sijn knyen vallende.</hi></stage>
+<l>Sire vergeeft het my, 'k ben dadigh aen het Feyt,</l>
+<l>'k Betrouwe nu alleen op u genadigheyt.</l>
+<l>Sire vergeeft het mijn, Biron heeft my bedroogen,</l>
+<l>En door sijn listigheydt my in het net getoogen.</l>
+<l>Sire vergeeft het my, het is noch niet volbrocht</l>
+<l>Want ick al over lang van haer te scheyden docht.</l>
+<l>Sire vergeeft het my, en laet u toch bewegen,</l>
+<l>'k Stel mijn betrouw alleen op uwe milde, zeegen:</l>
+<l>Mijn leven staet aen u, zijt mijn genadigh Vorst,</l>
+<l>Noyt heb ick als dees tijdt nauwe Croon gedorst,</l>
+<l>Mijn rouwt mijn stout bestaen te deerelijck en smertigh.</l>
+<l>Mijn Heer vergeeft het my, en weest doch barremhertigh.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Verrader, boosen Schalck, gy uyt-geschudden Guyt,</l>
+<l>Docht ghy niet van te voor dat dit sou komen uyt,</l>
+<pb n="41"/>
+<l>Ghy Duyvelsche gedrocht, ghy Hel-hont, stouten Bengel,</l>
+<l>Die eenen Duyvel zijt, en toont u eenen Engel;</l>
+<l>Wie storten u dit in, segt Moord'naer, ontrou, vals,</l>
+<l>Dat ghy mijn, uwen Heer, soud' brengen om den hals.</l>
+<l>Veynst u, tot dat ick oock de Grave maeck verslagen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.</hi></l>
+<l>Eylaes! gedenckt het niet, de daedt ick nu beklage,</l>
+<l>'k Vervloecke uur en stondt die ick oyt heb bedocht,</l>
+<l>Biron, ô Coning, wast, die'r my heeft toe versogt.</l>
+<stage><hi rend="i">Averg. bin.</hi></stage>
+<stage><hi rend="i">Coning tegen sijn selfs, daer na tegen Biron.</hi></stage>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Terecht (so 't spreekwoort luyt)waerlijk het kan verkerẽ.</l>
+<l>Biron en kont ghy niet u selven daer door leeren,</l>
+<l>Dat het wanckel-geluck sijn wanckel Radt omdraeyt,</l>
+<l>En dat die boosheyt saeyt, nimmer weldaden maeyt.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Sire 'k hebt noyt bestaen, wilt sulcks niet toe-vertrouwen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Dat weet ghy selver best, bekent of 't sal u rouwen,</l>
+<l>Het is u selver best, u heel beradigh went.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Sire het schijnt dat ghy op my gebeten bent,</l>
+<l>Ick weet niet wie u hert soo seere heeft beseten,</l>
+<l>Dat ghy wilt vveten 't geen ick noyt en heb geweten,</l>
+<l>Ick weet niet wie u hert soo prangt tot dese daet,</l>
+<l>Daer ick noyt heb begaen verradery in raet.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Nu 't spel gerockent is, dient het voort afgesponnen:</l>
+<l>Wie wint mijn Coningin?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Coningin.</hi></l>
+<l>Ick heb maer eens gewonnen</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Carel, hebt ghy u noch niet op dit stuck beraen?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Sire mijn Ziele moet vervloeckt in naerheyt baen.</l>
+<l>Sire in dese borst en sult ghy niet bevinden</l>
+<l>Verradery, o neen, 't vermaen zijn lichte winden.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Hy blijft al even hart, mijn goetheyt keert in straf,</l>
+<l>'k Ontruck hem uyt dees staet die ick hem eerstmael gaf,</l>
+<l>'k En kan mijn langer niet in dit gedult onthouwen,</l>
+<l>Nochtans soo moet ick doen het geen my sal berouwen;</l>
+<l>Ick geef hem noch wat tijt, noch heb ick wat gedult,</l>
+<l>Men siet aen sijn gelaet dat hy heeft wis de schult,</l>
+<l>Sijn wesen toont het uyt, van dees verraderye</l>
+<l>Hy eenigh d'oorsaeck is, noch wil hy het bestrye.</l>
+<l>Wie wint? ay! doch ick swijgh, waer toe al dit geraes?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Coningin.</hi></l>
+<l>Het leste bladt is mijn, siet daer het Harten Aes,</l>
+<pb n="42"/>
+<l>En daer noch het vervolg, dit maekt seer vast mijn speelen,</l>
+<l>Ick sal u meerder gaen van mijne Kaerte deelen;</l>
+<l>Dit 's 't eerste van mijn winst, mijn Heere siet, bedaert.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Sie daer, dat is voor uyt.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Coningin.</hi></l>
+<l>Maer ghy vergeeft de Kaert.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>'k En doe voorwaer Princes, ick settet in uyt oordeel,</l>
+<l>Tẽ schaed' u niet in 't minst, 't kan weynig zijn tot voordeel,</l>
+<l>'t Vergeven van de Kaert waer noyt in mijnen sin,</l>
+<l>Betrou my sulcks niet toe, roem waerde Koningin.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Coningin.</hi></l>
+<l>Biron, Heer hebt gy schult, siet so gy u kent schuldig,</l>
+<l>Waerom blijft ghy volhert in loogenen geduldigh,</l>
+<l>Waerom volhart ghy dan, en zijt soo boos van aert.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Mevrouw geeft my revens in 't speelen met de Kaert;</l>
+<l>Een saeck Mevrouw my moeyt, 't geen ick u wel sal seggen,</l>
+<l>Door ontschuld sy (eylaes!) dit my te laste leggen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Coningin.</hi></l>
+<l>Dat is om dat ghy zijt hertneckigh ende prat,</l>
+<l>'t Is tijdt om slapen gaen, ick ben al speelens sat.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Wie wint?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Coningin.</hi></l>
+<l>Mijn Heer Biron die wint het gang op gange.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Ick segh noch eens Biron, verklaert 'et mijn eer lange.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Ick sweer by Hel en Aerd', en 't wijde Element,</l>
+<l>Dat ick tot sulcken stuck mijn noyt en heb gewent,</l>
+<l>Ick sweer by Duyvel, Doodt, en alle de Gespuysen,</l>
+<l>Dat ick belogen ben, mijn Heer het zijn abuysen,</l>
+<l>Die ick voor desen was die ben ick noch tertijdt,</l>
+<l>En d'oude vromigheydt niet uyt het herte glijdt;</l>
+<l>En soo ghy meeder wilt, ick sal soo lange sweeren,</l>
+<l>Tot dat de swarte Aerd' haer backhuys sal op-speeren,</l>
+<l>En nemen voorts dien wegh dat mijn beschuld'ners zijn,</l>
+<l>Op dat sy lijden straf na haer verdiende pijn:</l>
+<l>Komt stelt my met haer eens, en laet ons t'samen vechten,</l>
+<l>Ick sal door dese hand' mijn eere weer op-rechten,</l>
+<l>En toonen dat ick ben den geen niet die ghy raemt,</l>
+<l>Maer dat ick ben de geen daer voor ick ben befaemt,</l>
+<l>Dit zy u dan gehoegh, hier mee stelt u te vreden.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>En kan 't niet helpen dan, daer ick u heb gebeden,</l>
+<l>En kan 't niet helpen dan, daer ick vergeef u schult.</l>
+<l>Ick ga dan, Heer Biron, en neme mijn gedult.</l>
+<pb n="43"/>
+<l>Avergne sal my voort de saeck wel openbaren.</l>
+<stage><hi rend="i">Con.</hi></stage>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Mevrouwe laet ons doch met speelen voorder varen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Coningin.</hi></l>
+<l>Voor dese tijt genoeg; Biron u wel bedenckt,</l>
+<l>Stelt den Coningh te vreen, ghy weet gh' u selven krenckt,</l>
+<l>Waerlijck mijn lieve Ziel is hier in seer verslegen,</l>
+<l>En u verharde hert en komt tot geen bewegen,</l>
+<l>U saeck is openbaer, ick wensch u goeden nacht.</l>
+<stage><hi rend="i">Coning.</hi></stage>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Wat swiert en woelt my nu al ernstigh door 't gedach</l>
+<l>Ick na Avergne toe, om soo dit Hof t'ontvluchten,</l>
+<l>Want daeglix meerdert noch dees droevige gerugten.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con. uyt.</hi></l>
+<l>Neemt ghy en u gesind' Biron te degen waer,</l>
+<l>Dat hy u niet ontsluipt.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Vit.</hi></l>
+<l>Mijn Heer sy komen daer.</l>
+<l>Ick salse wel slaen acht, wilt dit my toe vertrouwen,</l>
+<l>Beweeren soo dit quaet dat Biron heeft doen brouwen.</l>
+<stage><hi rend="i">Avergne en Biron uyt.</hi></stage>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.</hi></l>
+<l>De paerden zijn bestelt, en alles is gereet,</l>
+<l>Morgen soo vluchten wy al eer het yemandt weet,</l>
+<l>'k En wete niet Biron, soo gaet mijn 't hert beswaren.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Ick wist wel van te voor dat wy verraden waren,</l>
+<l>Morgen soo vluchten wy, 't is over dubbel tijdt.</l>
+<stage><hi rend="i">Vitry uyt, en neemt Biron gevangen.</hi></stage>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Vit.</hi></l>
+<l>Neen, uyt des Conincks naem ghy hier gevangen zijt.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Gevangen, hoe Vitry, ghy raest, zijn wy gevangen!</l>
+<l>Gevangen, hoe Vitry, meent ghy ons soo te prangen</l>
+<l>Daer ghy geen last en hebt, wat isser dat u deert?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Vit.</hi></l>
+<l>Den Coninck reeckening van u persoon begeert.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Den Coninck, laet my dan noch eens den Coninck spreken.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Vit.</hi></l>
+<l>Dat en kan niet geschien, de Coninck is geweecken,</l>
+<l>Zijt mijn gevangen, den Coninck heeft het belast,</l>
+<l>Men op u raserny in 't minste niet en past.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.</hi></l>
+<l>Laet ons den Coninck sien, ô droeve ongelocken!</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Vit.</hi></l>
+<l>Den Coninck spreeckt ghy niet, want hy is al vertrocken.</l>
+<l>Besadight u Biron, en geeft mijn u Geweer,</l>
+<l>En stelt d'onsinnigheyt een weynighjen ter neer.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>En maeckt u niet soo stout aen mijn Geweer te kome</l>
+<l>Dat soo veel duysenden het leven heeft genomen,</l>
+<pb n="44"/>
+<l>Dat Vrankrijck heeft beschermt, dat Vranckrijck heeft vergroot,</l>
+<l>En noch van 's Vyands bloet bespat is en geroot,</l>
+<l>Hoe soud' ghy mijn Rapier door uwe hand' aentasten!</l>
+<l>Ick acht u niet soo koen, want het op niemant pasten,</l>
+<l>Soudt ghy mijn nemen af dit overtrouwe Swaert,</l>
+<l>Waer voor dat alles trilt, 'k segh ghy en zijt 't niet waert,</l>
+<l>Laet my den Coninck sien, laet my noch sonder banden,</l>
+<l>Ick segge dat ghy niet aen mijn leght uwe handen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Vit.</hi></l>
+<l>Wel Grave, wel hoe nu, hoe zijt ghy dus wantrouw?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Van onverduldigheyt ick vyer en vlammen spouw.</l>
+<l>Hoe sal mijn nu een Mensch, een Mensch het swaert ontwicken,</l>
+<l>Daer honderden hier voor niet naer en dorsten kickẽ.</l>
+<l>Mijn swaerd'! het welcke is den pylaer van het Land',</l>
+<l>Swaerd', dat ick heb gevoerd' in dese rechterhand'.</l>
+<l>Swaerd', waer voor dẽ Maraen hem dikmael most verschricken,</l>
+<l>Doen ick daer duysenden deed' in haer bloed' versticken.</l>
+<l>Neen, ick en geeft u niet, 'k en word' het soo niet quijt,</l>
+<l>Hier by ick sterven wil, soo langh 't den Hemel lijt</l>
+<l>Dat ick maer adem schep en sal ick niet verflouwen,</l>
+<l>Maer dit getrouwe swaerd' in mijne handen houwen.</l>
+<l>Ick acht u niet soo koen dat ghy mijn swaerd' aentast.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Vit.</hi></l>
+<l>Ick sal het nochtans doen, want het is Conincks last.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Is het des Conincks last? den Coninck sal ick eeren,</l>
+<l>En sien wat my den tijt door dese last sal leeren.</l>
+<l>Siet daer Vitry, siet daer, dat ghy het wel bewaert,</l>
+<l>Want die het maer aensiet, die isser voor vervaert.</l>
+<l>Siet daer het blancke stael, siet daer het u toekome,</l>
+<l>Het welck my door gewelt en kracht noyt was benomen;</l>
+<l>Ghy krijght het door gebied', het doode stael dat weent,</l>
+<l>Ten is het mijne niet, ick hebbet maer geleent.</l>
+<l>Ten is het mijne niet, ick heb het soo gedragen</l>
+<l>Ten dienste van mijn Heer, dat hy doet sijn behagen,</l>
+<l>Dat hy het yemant geeft van onse Franschen al,</l>
+<l>Laet sien of hy 't soo wel als ick gebruycken sal.</l>
+<l>Mijn al te trouwe swaerd', nu sult ghy mijn niet erven,</l>
+<l>Hoewel ick dickmael docht met u in 't Veldt te sterven,</l>
+<l>U blanckheyt die verkeert, van dorst sult ghy vergaen,</l>
+<l>Want gy geen menschen-bloet sult drincken nu voortaen,</l>
+<pb n="45"/>
+<l>Gaet, gaet met dese kus, ey! gaet met dese slorven,</l>
+<l>Ghy zijt niet meer het mijn, u krachten zijn gestorven.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Vit.</hi></l>
+<l>Tsa, brengt hem in de Zael, besetse ront en tom.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Ha nick'ren! mijne tong die wordt al spraeck'loos stom.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Vit.</hi></l>
+<l>Avergne wilt u swaerd' den Koninck overgeven.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Averg.</hi></l>
+<l>Mijn swaerd' dat yemant oyt genomen heeft het leven,</l>
+<l>Daerom scheyd' ick 'er af, gelijck het my aenquam,</l>
+<l>Vervloeckt moet zijn de uur dat ick by Biron quam.</l>
+<stage><hi rend="i">Bin.</hi></stage>
+<stage><hi rend="i">Biron in de Gevangenis.</hi></stage>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Coning, Jeannin, Nemours.</head>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>O rechtvaerdige Godt, beheerscher van de Landen,</l>
+<l>De Nieren ghy door-grond', de menschen haer verstanden,</l>
+<l>Die ghy, o Heer, bewaert, en lijt hier geenen noot,</l>
+<l>Alwaer 't dat hy selfs ging de paden van de doot;</l>
+<l>Hoe sal ick u, o Heer, ten vollen konnen dancken,</l>
+<l>Die stadigh voor mijn waeckt, voor de Verraders rancken,</l>
+<l>Ghy hebt u knecht gesalft, ghy hebt mijn hooft gekroont,</l>
+<l>Ghy hebt mijn Heer beschermt, en noch gy by my woont,</l>
+<l>Wat is, o Heer, Wat is den Coningh op der Aerden</l>
+<l>Die u niet vreest en dient, dat ghy my niet bewaerden</l>
+<l>Den Vyandt had' mijn selfs gestooten uyten staet,</l>
+<l>Maer Heer ghy houdt in toom haer voor-genomen quaet,</l>
+<l>Ons wachten zijn al niet, al waren wy omcingelt</l>
+<l>Met volle Ruytery, al waren wy omringelt</l>
+<l>Met eenen vasten Muur, ons sterckte is al niet,</l>
+<l>Soo ghy, door u genaed', ons geene hulpe biedt,</l>
+<l>Wie had' dit oyt gedacht, dat die ick heb gevoestert,</l>
+<l>Die ick verhooget heb, heb tot een Slangh gekoestert;</l>
+<l>Die segh ick, die den naem van Vranckrijcks Vader draegt,</l>
+<l>Die is een wreeden worm die in mijn boesem knaeght.</l>
+<l>Met recht magh ick hem wel by d'Adderen gelijcken,</l>
+<l>Die ick gehouden heb het waerst van mijne Rijcken.</l>
+<l><stage><hi rend="i">Hooghmoet komt voor den val</hi>:</stage> geen wonder het en is</l>
+<l>Dat een eergierigh mensch soeckt sijn verderffenis,</l>
+<l>Die om den yd'len naem sijn Landen gaet verkoopen,</l>
+<l>En offert op sijn Riff de wanckelbare hoope,</l>
+<pb n="46"/>
+<l>Mijn Hoff kleet u in rou, mijn Hovelingen treurt,</l>
+<l>O Aerde zijt bedroeft, om 't geen daer is gebeurt;</l>
+<l>Medogentheit die komt mijn herte overwinnen,</l>
+<l>Nochtans gerechtigheyt moet nu u herte winnen.</l>
+<l>O goedertieren Heer! ghy hebt voor my gewaeckt,</l>
+<l>Birons aenslagh bekent en openbaer gemaeckt.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Iean.</hi></l>
+<l>Sire hebt doch gedult, hy wou hem selfs niet vryen,</l>
+<l>Laet hem nu voor sijn daed' verdiende straffe lyen,</l>
+<l>Laet hem beproeven eens hoe een Verraders hart</l>
+<l>Men pijnen moet met pijn, en beulen dan met smart,</l>
+<l>Die geene die men heeft in weeldens staet sien brommen,</l>
+<l>Die moet nu voor het Recht als een Verrader kommen,</l>
+<l>Die moet nu komen (laes!) als een getemde Lam,</l>
+<l>Die eertijds als een droes by ons ten Hove quam,</l>
+<l>'t Ontsag, den schrick, de eer, een Croon van ons domijnen,</l>
+<l>Die moet nu als een schelm voor 't hoge Recht verschijnen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>O Biron, kost ghy niet bekennen doen ick badt,</l>
+<l>Daer ick u door 't gebedt soo gaern behouwen had',</l>
+<l>Daer ick u 't leven schonck met veel' omstandigheden,</l>
+<l>Daer ick niet als een Vorst, maer Vader heb gebeden.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Nem.</hi></l>
+<l>Uwe barmhertigheyt hebt ghy genoegh getoont,</l>
+<l>Het feyt te leelijck is, ten kan niet zijn verschoont:</l>
+<l>Denckt Sire op den trou der trouwe Ondersaten,</l>
+<l>En wilt nu het berouw van Biron varen laten,</l>
+<l>Het waer een groote schand' voor 'sLandts gerechtigheyt,</l>
+<l>Dat Biron van dit stuck soud' werden vry geseydt.</l>
+<l>'t Is waer, hy heeft het Rijck veel Steden doen verwerven,</l>
+<l>Maer hy heeft dat gedaen om 't selve te verderven,</l>
+<l>Hier in is hy gelijck den Arent vol van trots,</l>
+<l>Die den Sleck voert om hoogh en pletse op den Rotz,</l>
+<l>Die moedigheyt sijns herts waer meenigh in verwondert,</l>
+<l>Nu komt, ô schant! 't verraed door hem(laes!)opgedondert,</l>
+<l>'t Goet dat hy heeft gedaen, men geen goet noemen mach;</l>
+<l>Want hy heeft het gedaen om ons door eenen slagh</l>
+<l>Te werpen in den gront, en wreed'lijck te verdoemen,</l>
+<l>Dat hy door sijne schijn geveynsd'lijck gingh bebloemen.</l>
+<l>'t Geen wy dick merckten wel, maer bleven noch in staet,</l>
+<l>En 't geen wel wicken kan meer andere in den Raedt.</l>
+</sp>
+<pb n="47"/>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Dat dan op 't aldereerst de Recht'ren hem verhooren.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Iean.</hi></l>
+<l>Laet ons dan geenen tijdt nu laten gaen verlooren.</l>
+<l>Waerlijck de goede Godt die weet al het besluyt,</l>
+<l>En heeft door sijne hand' gebracht d'onheylen uyt.</l>
+<stage><hi rend="i">Binnen.</hi></stage>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Laforce, en eenige van Birons Vrienden. Soldaet.</head>
+<sp>
+<l rend="speaker"><hi rend="i">Lafo.</hi></l>
+<l>Wat droefheyt sal ons nu (eylacy!) overkomen,</l>
+<l>Op gist'ren is Biron in hechtenis genomen,</l>
+<l>Uyt onse Coninghs naem, nu bortelt uyt het geen</l>
+<l>Dat ons langh heeft gedreygt, veel ongeluckigheen</l>
+<l>Hangen ons boven 't hooft, door sijne boose lagen,</l>
+<l>'t Zijn stercke beenen die de weelde konnen dragen;</l>
+<l>Het is hem dick geseyt, de Coninck selfs hem badt,</l>
+<l>'k En weet wat Duyvel hem soo seer beseten hadt.</l>
+<l>Hy had'al wat hy wou, hy kreegh al wat hy wilde,</l>
+<l>Niet eenen in het Hof of voor Biron hy trilde,</l>
+<l>Nochtans hy schuldigh is; sal nu ons vroom geslacht</l>
+<l>Door sijn vervloeckte daed' ter schande zijn gebracht?</l>
+<l>Eylaes wat brengt de tijdt veranderlijcke dingen,</l>
+<l>Sal Biron ons al t'saem tot niet en schande bringen,</l>
+<l>Sal Biron ons al t'saem opwerpen sulcken lack,</l>
+<l>Door dien hy hem (eylaes!) in dees boosdaden stack.</l>
+<l>'t Schijnt een manhaftigh hert en kan hem niet betemmen,</l>
+<l>'t Verstant hem woelen moet, sijn sinnen moeten swemmen</l>
+<l>In een verwoeste Meyr, want is hy stil aen 't Landt,</l>
+<l>De stricken die hy set, hy voor hem selver spant;</l>
+<l>Komt gaen wy na hem toe, op dat hy sijne saken,</l>
+<l>Indiense schoon'lijck zijn, schoon voor den Coninck make,</l>
+<l>Het recht heeft met ons uyt, genade ons ontbreeckt,</l>
+<l>En sonder de genae hy in doodts vare steeckt:</l>
+<l>Komt gaen wy na hem toe, te sien hoe hy hem houwet,</l>
+<l>Te veel hy hem op leyd', die hem sich selfs vertrouwet.</l>
+<l>Mijn Heer de Kapiteyn, is hy niet voor de hand'?</l>
+<stage><hi rend="i">Soldaet by de Gevangenis staende.</hi></stage>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Sol.</hi></l>
+<l>Mijn Vrienden gaet van hier, want hier men horens brand'.</l>
+<pb n="48"/>
+<l>Ons last is dat niemant sich hier ontrent magh geven,</l>
+<l>Tsa wijck, segh ick, sta wijt, of 't salkosten u leven.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Lafo.</hi></l>
+<l>Is uwe Kapiteyn, seght Macker, niet in huys?</l>
+<l>Besiet wie dat wy zijn, of zy dy hallef buys?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Sold.</hi></l>
+<l>Hou, holla Kapiteyn, siet hier zijn vreemde Lieden.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Vit.</hi></l>
+<l>Mijn vrienden, ghy-lie hier, wat hebt ghy te gebieden?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Lafo.</hi></l>
+<l>Mijn Heer, soo 't moogh'lijck is, laet Biron komen voor.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Vit.</hi></l>
+<l>Mijn Heeren 't sal geschien.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Sints ick mijn swaert verloor</l>
+<l>En was ick niet Biron, eylaes! mijn waerde vrienden,</l>
+<l>Die tot my meenighmael veel diensten steets verdienden,</l>
+<l>Siet Biron nu eens aen, die niet meer is Biron,</l>
+<l>Die niet meer is de schrick, niet meer en is de Son.</l>
+<l>Van Vranckrijck, maer die moet als eenen arm gevangen</l>
+<l>Mijn woorden na 't gevley en soete smeecken hangen.</l>
+<l>Nu val ick voor u neer, begeerende dit goet,</l>
+<l>Dat ghy uyt mijnen naem doch eenen Voetval doet</l>
+<l>Voor sijne Majesteyt, en bidt hem om 't ontfermen,</l>
+<l>Dat hy sijn Vriendt Biron in deestijt wil beschermen,</l>
+<l>Ick ken ick heb gedwaelt, ick ken ick heb misdaen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Lafo.</hi></l>
+<l>En kost g'u van te vooren hier in niet beraen?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Beraden komt te laet, als den Pijl is gaen dralen</l>
+<l>En kanmen hem toch niet door leedt-zijn wederhalend.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Lafo.</hi></l>
+<l>Ghy hoort u Heer Biron doen anders zijn bedacht,</l>
+<l>Soo had' ghy ons en u niet in 't verdriet gebracht.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Bedencken, 't is te laet, daerom laet my met vreden,</l>
+<l>En port mijn Ziele niet te melden and're reden;</l>
+<l>Den moetis my soo vol, het herte my schier barst,</l>
+<l>Het schijnt dat mijne Ziel uyt 't Lichaem werdt geparst.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Lafo.</hi></l>
+<l>Nochtans soo moet ghy u nu onderdanigh maecken,</l>
+<l>En door veel smeeckingh soet versoeten uwe saecken,</l>
+<l>Op dat des Conincks hert hier door worde versoet,</l>
+<l>'t Geen ongetwijffelt leyt in gramschap sijns gemoet,</l>
+<l>Die door u krijgelheyt den Conincklijck en tooren</l>
+<l>Getrocken hebt op ons, ach! waert ghy noyt gebooren,</l>
+<l>Soo soud' u vroom geslacht hier meed' niet zijn bevleckt.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Door dese klap ghy 't Hert uyt dese boesem treckt,</l>
+<l>Wat heb ick u gedaen, wat heb ick u gehindert,</l>
+<pb n="49"/>
+<l>Wat plaeght ghy mijn aen 't oor, heb ick u yet vermindert?</l>
+<l>Dit quaed' ick selver draegh, ick docht en had gelooft</l>
+<l>Ghy quamt om troosten my, de ziel ghy hier door rooft,</l>
+<l>Al komt ghy daerom niet, daer is niet aen bedreven,</l>
+<l>Want soo ick sterven moet, het kost mijn eygen leven,</l>
+<l>En dat ick sterven sal, en komt my niet te voor,</l>
+<l>Soo sijne Majesteyt mijn geven wil gehoor.</l>
+<l>Spreeckt van een ander saeck, wilt my ten besten raden.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Laforce.</hi></l>
+<l>Den Coninck sullen wy gaen bidden om genaden.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Den Coninck geeft 't Request, en bid' hem dat hy 't leest,</l>
+<l>Segh niet hoe ick nu ben, maer hoe ick ben geweest.</l>
+<l>Eylaes wat gaet my aen! en zijn der geene tucken,</l>
+<l>Of spoken van de Hel, die my wegh komen rucken.</l>
+<l>Moet ick, moet ik uyt dwang, 't hooft leggen in den schoot,</l>
+<l>Ia! want ick ben van al mijn hoope nu ontbloot.</l>
+<l>Nu sal ick dese aerd' met mijn tranen besprengen,</l>
+<l>Aerde die ick te voor met sweet en bloet ging mengen.</l>
+<l>Nu ben ick overmandt, nu is 't met my gedaen,</l>
+<l>'k Heb anders geen geweer als suchten en getraen,</l>
+<l>Ha! waer het mijn gegunt den Coninck eens te spreecken,</l>
+<l>Ick sou sijn stale hart door mijne tranen wecken,</l>
+<l>En maecken het soo laf door mannelijck geschrey,</l>
+<l>Dat hy, siend' sijn Biron, soud' geven vry geley.</l>
+<l>Mijn Vrienden lief en waerd', die u eer hebt gebogen</l>
+<l>Voor 't onbevreesde vleesch, doen het was in vermogen,</l>
+<l>Nu val ick voor u neer, en ick met reden bid,</l>
+<l>Dat ghy uyt mijnen naem den Coninck gevet dit,</l>
+<l>En bid' hem voor Biron dat hy 't hem wil vergeven,</l>
+<l>En houden my in dwang, dat ick van al mijn leven</l>
+<l>Geen strate en betreê, of send' my uyttet landt</l>
+<l>De Turcken te gemoet, soo sal door dese handt</l>
+<l>De aerde worden nat, van het bloedt der Barbaren,</l>
+<l>Bestry en sal ick haer, verschricken en beswaren,</l>
+<l>Dat als yemendt maer hoort dat Biron wordt gemeldt,</l>
+<l>Sal grouwen voor den naem, en vlieden uyt het Velt.</l>
+<l>Ick dan betoonen sal dat 't edel bloedt der Fransen</l>
+<l>Maraen, Turck, Sarazijn doet naer zijn pijpen dansen,</l>
+<l>En bulderen soo uyt gelijck de Noorde-windt,</l>
+<pb n="50"/>
+<l>Als hy het water roert, dat Huys en Hoff verslindt.</l>
+<l>Mijn oogh sal ick in 't vyer, mijn hand' in 't stael verwillen,</l>
+<l>En waer ick yemandt moet, sal ick door list bedislen,</l>
+<l>En toonen dat de les, die hy my heeft geleert,</l>
+<l>Noch niet vergeten is, 't is Biron die het sweert,</l>
+<l>'t Is Biron die belooft de Franschen te vermaren,</l>
+<l>Een onneemlijcken loff door sijn hand' te vergaren,</l>
+<l>Ia keeren om en om, de aerde en de vliet,</l>
+<l>En sayense met vleesch, dat Godt noch droes ontsiet.</l>
+<l>Ick sal doen dreunen self de Rotsen, Bergh en Duynen,</l>
+<l>Eylanden, Dorp en Stadt op hoopen t' samen puynen,</l>
+<l>En soo hy niet en wil, mijn leste bede is</l>
+<l>Dat hy my eeuwigh set in swaer gevangenis,</l>
+<l>En laet my nimmermeer den Dorpel overtreden,</l>
+<l>De tonge my verflout, 't is lang genoegh gebeden;</l>
+<l>Soo den Coning hier door niet morwet sijn gemoet,</l>
+<l>Seght hem dat hy Biron gewelt en onrecht doet,</l>
+<l>Om dat hy hem onthoudt dit leven te versmooren</l>
+<l>In der Vyanden bloedt, daer toe ick was gebooren,</l>
+<l>En vleid' de Coningin, dat sy houd' in gedacht</l>
+<l>My, diese van te voor al-waerdigh heeft geacht;</l>
+<l>So den Coninck hier door sijn wreedtheit niet wil wenden,</l>
+<l>Dat hy my doet een vloeck dan voor den Icker senden.</l>
+<l>Doet dit om mijnent wil, en dient den Koninck aen</l>
+<l>Dat dit begonnen stuck niet is ten eynd' gegaen;</l>
+<l>Doet dit om mijnent wil, ick ga weer na de plaetsen</l>
+<l>Daer duyfent Satyrs swart met mijn gedachten kaetsen,</l>
+<l>Daer ick my selfs verfoey, daer ick my selfs veracht,</l>
+<l>En door 'k en weet wat spijt al levende versmacht;</l>
+<l>Ghy-lieden gaet in vreed', ick blijf in droefheit steken,</l>
+<l>Den moet word' my soo vol, 'k en kan niet langer spreken.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Lafor.</hi></l>
+<l>Wy volgen u gebied', belovend' soo te doen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Ick bid u Vrienden wilt u daet'lijck heenen spoen.</l>
+<stage><hi rend="i">Een weynigh gerust.</hi></stage>
+<stage><hi rend="i">Bin.</hi></stage>
+</sp>
+</div>
+<div type="scene">
+<pb n="51"/>
+<head rend="h4">Coning sittende Laforce en d'ander Vrienden, Nemours.</head>
+<sp>
+<l rend="speaker"><hi rend="i">Nem.</hi></l>
+<l>De Vrinden al te saem hier van Biron nu komen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Grave wel aen vertreckt.</l>
+<stage><hi rend="i">Laforce doet een voet-val.</hi></stage>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Lafor.</hi></l>
+<l>Wy treen na u met schromen,</l>
+<l>Sire wy weten wel ghy toont genadigheyt,</l>
+<l>Wy setten ons betrou op uwe Majesteyt,</l>
+<l>Wy weten dat ghy hebt alleen in danck genomen</l>
+<l>U Ondersaets gebedt, en 't bidden van de Vromen,</l>
+<l>Wy weten dat 't gemoed' en 't Conincklijcke hert</l>
+<l>Door bidden en gesmeeck wel eens vermorwet wert,</l>
+<l>Wy vallen voor u neer met herten al na wenschen,</l>
+<l>Niet, niet alleen van ons, maer van veel duysent menschen,</l>
+<l>Dat uwe Dienders zijn, wy komen om geen recht,</l>
+<l>Maer bidden dat ghy 't recht uyt uwe handen leght,</l>
+<l>En toont ons u gena aen onse lieve Neve;</l>
+<l>Want Godt de Heer begeert dat wy die geen vergeve,</l>
+<l>Gelijck hy ons vergeeft, die ons hebben misdaen,</l>
+<l>Laet, Sire, ons gebedt u dan ter herten gaen;</l>
+<l>De menschen hebben u dees Croone niet vereeret,</l>
+<l>Maer hy daer 't al voor dreunt, en die het al regeeret,</l>
+<l>En eenen Coninck toont niet beter sijne; macht,</l>
+<l>Dan dat hy door gena sijn straffinge versacht;</l>
+<l>Sire wy willen u in geen perijckel setten,</l>
+<l>Gunt hem het leven maer, en later wel op letten,</l>
+<l>Stelt hem waer 't u beliest, vervloeckt moet zijn 't gedrogt</l>
+<l>Dat hem tot dese val ellendigh heeft gebrocht;</l>
+<l>Vervloeckt moet zijn de geest die hem soo heeft beseten,</l>
+<l>En de eergierigheyt die hem heeft opgegeten:</l>
+<l>Genadighste Monarch, die u voor desen bad</l>
+<l>Vergaest ghy 't al, hoewel hy meer gesondight had:</l>
+<l>Sire, wy bidden u, en wilt doch niet besmetten</l>
+<l>Ons dienstbarig geflacht, wilt nu toch van u setten</l>
+<l>'t Swaerd der gerechtigheyt, en brengt ons niet ter schand,</l>
+<l>Maer schenckt ons u genaed', en bied ons uwe hand;</l>
+<l>Noch eenmael wyfe Vorst, verleent ons u genaden,</l>
+<pb n="52"/>
+<l>En denckt niet aen de daedt, maer aen de kloecke daden</l>
+<l>Sijns Vaders en de sijn, gedenckt aen uwe Son,</l>
+<l>Soo ghy daer aen gedenckt, soo denckt ghy aen Biron,</l>
+<l>Genade en geen recht, hy had alleen de wille,</l>
+<l>'t Feyt is noch niet volvoert, wilt uwe gramschap stille,</l>
+<l>Terwijl ghy waerdigft waert de geen te laten vry</l>
+<l>Die 't stuck hadden volbracht, toont nu u Heerschappy,</l>
+<l>En schenckt hem 't leven doch, die om u te vergroten</l>
+<l>Kloecktmoedig in het Veldt sijn bloedt heeft uyt-gegoten,</l>
+<l>Wy hoopen dat u hert steets vergeselschapt is</l>
+<l>Met veel barmhertig heydt, die in u leeft gewis.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Staet op mijn Vrienden al, en trouwe Ondersaten,</l>
+<l>Ick neemt van u in't goê, om dat ghy t' uwer baten</l>
+<l>Om Birons leven bid, 'k ben niet soo wreedt van aert</l>
+<l>Als ons Voor-Ouders, die voor wreeder zijn vermaert;</l>
+<l>Want den Coninck Francoys wou nimmermeer gedogen</l>
+<l>Dat de Vrouw van mijn Oom hem trede onder d'oogen,</l>
+<l>Dat om vergiffenis, die soo niet was bemorst,</l>
+<l>Nochtans niemandt van al genade eyschen dorst,</l>
+<l>En 't geene ghy begeert sou geen genade wesen,</l>
+<l>Maer, wreedtheydt, 't is een wond' die niet is om genesen,</l>
+<l>Had' hy hem maer misgaen alleenlijck tegens my,</l>
+<l>Ick 't hem vergeven sou, ja set hem gaerne vry,</l>
+<l>Maer het raeckt mijne staet, dewelck ick veel ben schuldig,</l>
+<l>En mijne Kinders oock, waer voor ick ben sorghvuldigh,</l>
+<l>Sy souden my hier na verwijten dat ick gaf</l>
+<l>Biron een ander recht als sijn verdiende straf:</l>
+<l>Nu nademael het raeckt my en mijn Kindersleven,</l>
+<l>En dese mijne Croon, daer veel is aen bedreven,</l>
+<l>Stel ick hem in de hand' van de gerechtigheyt,</l>
+<l>En wat ick seggen kan tot sijn onschuldigheydt</l>
+<l>Dat sal zijn voort-gebracht, u lieden ick toe geve</l>
+<l>Te doen al wat ghy kont, voor u Neefs waerde leven.</l>
+<l>En voorder sal ick dan wel weten doen den Raed',</l>
+<l>Dat men in 't Vonnis niet te haestigh voort en gaet,</l>
+<l>Maer soo hy Vonnis heeft te wesen gantsch vervallen</l>
+<l>In 't hooghfte quaet van 't Recht, dat niemandt van u allen</l>
+<l>Dan voorder voor hem spreeckt, die soo gevangen sit,</l>
+<pb n="53"/>
+<l>Men geensins toe en laet dat yemandt voor hem bidt.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Laforce.</hi></l>
+<l>Hoe Sire, is hy dan besmet met sulcke sonden,</l>
+<l>Dat hoop ick nimmermeer dat waer sal zijn bevonden,</l>
+<l>Want hy had' u soo lief gelijck sijn eygen Ziel,</l>
+<l>'k En weet niet hoe Biron in dese sonde viel.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Geen Vader voor den Soon, geen Man voor sijne Vrouwe,</l>
+<l>Wilt dan mijn liefde meer als sijne liefde houwen.</l>
+<l>My stond' hy in mijn hert, steets lagh hy in mijn sin,</l>
+<l>'t Is schricklijck als ick denck, hy soo verviel hier in.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Lafo.</hi></l>
+<l>Sire bedenckt de schant.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Niemant wort schant gegeven,</l>
+<l>Als die, die geen de daedt en boosheit heeft bedreven,</l>
+<l>Constapel van S. Pol my niet besmetten ken,</l>
+<l>Noch Ducque de Nemours daer 'k af gekomen ben,</l>
+<l>Noch oock Conde mijn Oom, die 't hooft waer afgekorven,</l>
+<l>En waer Coninck Francoys soo haestigh niet gestorven.</l>
+<l>Daerom en kan u niet besmetten Birons schand',</l>
+<l>Soo ghy maer trouw en blijft my en het Vaderland',</l>
+<l>Het welck ick u betrou, ghy hoeft niet te gelooven</l>
+<l>Dat ick yemand' van al de Ampten sal berooven,</l>
+<l>Door Conincklijck geschenck u staten meer versien.</l>
+<l>Ick heb meê groot verdriet in sijne schellems-stucken,</l>
+<l>Ja sijn ellendigheit komt aen 't herte drucken,</l>
+<l>Maer dat hy tegens my sijn weldader opstaet,</l>
+<l>Dat is een groote sond', ja onvergeeff'lijck quaet.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Laforce.</hi></l>
+<l>Den Almogenden Godt wil u koninck behoeden</l>
+<l>Voor alle ongeval, en werckende gemoeden</l>
+<l>Uws Volcks, dat hy al t' saem u geve eer en loff,</l>
+<l>Langh vrede, luck en heil in u beroemde Hoff.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Doet al t' samen u best, ick sal hem oock verschoonen</l>
+<l>Soo verr' het moogh'lijck is, en wis daer door betoonen</l>
+<l>Dat ick hem heb geacht in sijn voorspoedigheidt,</l>
+<l>Gelijck ghy selfs wel weet het merckelijck bescheidt.</l>
+<l>Mijn Vrienden gaet na huys, en wilt u niet meer quellen,</l>
+<l>Houdt u al t' samen stil, want hoor ick yemandt rellen</l>
+<l>Van dit of dat pardoen, het sal hem wesen leydt,</l>
+<l>Een lang-berouwigh woort is haestighuyt-geseyt.</l>
+<stage><hi rend="i">Alle bin.</hi></stage>
+</sp>
+</div>
+<div type="scene">
+<pb n="54"/>
+<head rend="h4">Coning uyt-komende, nemende sijn afscheyt van den Raet en 't gantsche Hof, door een Vertooning of niet, daer na spreeckende.</head>
+<sp>
+<l rend="speaker"><hi rend="i">Con.</hi></l>
+<l>Raets-Heeren, laet geen tijt hier tusschen gaen verlooren,</l>
+<l>Soo haest het moogh'lijck is so wilt den Graef verhooren,</l>
+<l>En soo het Recht vermach laet hem zijn vry gestelt,</l>
+<l>Want zijn ellendigheyt mijn aen het herte quelt,</l>
+<l>Ick reys na Fonteinbleu, om niet meer te geheugen</l>
+<l>Sijn ellendige val, en ondertusschen meugen</l>
+<l>De saecken zijn ten end, 'k wil datter recht geschiet,</l>
+<l>Sijn doodt ick niet begeer, sijn bloedt en wil ick niet,</l>
+<l>Soo hy onschuldigh is: datmen onse Soldaten</l>
+<l>Doet waken over al, op d'hoecken van de straten.</l>
+<l>De sorgh beveel ick u, wat ghy lie daer in doet</l>
+<l>Stemme het alles toe, terwijl het wesen moet.</l>
+<l>En d'eerst die my voortaen van Biron yet sal seggen,</l>
+<l>Die sal ick doen den kop voor sijne voeten leggen.</l>
+<stage><hi rend="i">Alle bin.</hi></stage>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">De Raets-Heeren gaen te Recht sitten. 4. Raets-Heeren, Jeannin, Vitry.</head>
+<sp>
+<l rend="speaker">1. <hi rend="i">Raets.</hi></l>
+<l>Siet hoe 't wanckel geluck sijn rampen mede brengt,</l>
+<l>Altijdt een blijde geest met ongelucken menght,</l>
+<l>Steets soo is het geluck vermomt met vleyerijen,</l>
+<l>En wordt soo meest bestraft met ramp en bitter lijen,</l>
+<l>Gelijck dat die sijn Swaert in de boosdaden scherpt,</l>
+<l>Dat hy van't waerst geluck sijn selven neder werpt.</l>
+<l>Ay Biron waerdy dol, koft ghy wel hooger stijgen</l>
+<l>Als ghy geklommen waert, wat deed u geest dan nijgen</l>
+<l>Te dorsten na het bloet van uwe Prins en Heer,</l>
+<l>En door verraders daedt besmetten uwe eer?</l>
+<l>Maer 't is nu al te laet, wy moeten vonnis wijsen.</l>
+</sp>
+<sp>
+<l rend="speaker">2.<hi rend="i">Raets.</hi></l>
+<l>En met geduldigheit ons droeve herten spijsen;</l>
+<l>'t Is hem soo dick geseyt, soo dick gepropheteert,</l>
+<l>En die niet; hooren wil, door het gevoelen leert.</l>
+</sp>
+<sp>
+<l rend="speaker">3. <hi rend="i">Raets.</hi></l>
+<l>Laet ons ontbieden hem en sijn beschulding maken,</l>
+<l>In ernstigh met verdragh wel letten op de saecken,</l>
+<pb n="55"/>
+<l>Terwijl 't doch wesen moet, want het soo klaerlijek blijckt</l>
+<l>Dat hy, na dat mijn dunckt, sijn eygen vonnis strijckt,</l>
+<l>Dan na het Landts gebruyck soo salmen hem verhooren.</l>
+</sp>
+<sp>
+<l rend="speaker">4. <hi rend="i">Raets.</hi></l>
+<l>Wat komt ons hedensdaegs al tegenspoets ter ooren,</l>
+<l>Biron is van mijn bloedt, wel! sullen wy dien Heldt</l>
+<l>Veroordeelen, die voor ons heeft behouden't Veldt:</l>
+<l>De Heldt die wy te voor met blyschap gingen groeten,</l>
+<l>Gelijck hy waerdigh was, sal hy voor onse voeten</l>
+<l>Neervallen dan als Slaef, en bidden om gena,</l>
+<l>Daer hem met vrolijckheyt de Dochters gingen na,</l>
+<l>En songen sijnen lof, geluckigh hy hem kende,</l>
+<l>Waer toe Biron alleen sijn aensicht maer en wende.</l>
+<l>Sal hy, segh ick, sal hy ootmoedigh voor ons staen,</l>
+<l>Om van ons 't wreede woordt van sterven te ontsaen?</l>
+<l>Sijn rampspoed' is my leed, ick klaegh sijn ongevalle,</l>
+<l>Ach 't is te droevigh, siet, dit uytterlick geschalle,</l>
+<l>Het is te leide maer voor sijne Majesteyt,</l>
+<l>Het deert my dat Biron soo verre is verleyt.</l>
+</sp>
+<sp>
+<l rend="speaker">3. <hi rend="i">Raets.</hi></l>
+<l>Wat mach den wijsen Raet met een gelaet so brallen,</l>
+<l>'t Is te vegeefs geklaeght, Biron is al gevallen</l>
+<l>In handen van het Recht: dat hem gebootschapt zy</l>
+<l>Te komen hier voor ons, daer helpt geen vleyeren;</l>
+<l>Een yder neem sijn plaets, en laet de droefheidt varen.</l>
+</sp>
+<sp>
+<l rend="speaker">2. <hi rend="i">Raets.</hi></l>
+<l>Mijn Heeren wie sal hem met dese saeck beswaren?</l>
+</sp>
+<sp>
+<l rend="speaker">1. <hi rend="i">Raets.</hi></l>
+<l>Mijn Heer de President dat door sijn eygen handt,</l>
+<l>En soo hy 't loochenen wil hy heeft groot misverstandt.</l>
+</sp>
+<sp>
+<l rend="speaker">4. <hi rend="i">Raets.</hi></l>
+<l>Daer komt den Vrankrijks roem, ick kan mijn niet bedwingen Van tranen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Iean.</hi></l>
+<l>Droeflijck sietse oock uyt mijn oogen springen.</l>
+</sp>
+<sp>
+<l rend="speaker">1. <hi rend="i">Raets.</hi></l>
+<l>Mijn hert van droefheit stickt.</l>
+</sp>
+<sp>
+<l rend="speaker">2.<hi rend="i">Raets.</hi></l>
+<l>En ick in tranen swem.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Iean.</hi></l>
+<l>Dat yeder sijn verdriet en droevigheydt betem.</l>
+<stage><hi rend="i">Biron voor de Rechters komende, half verbaest.</hi></stage>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Wat salmen met Biron beginnen, seght mijn Heeren?</l>
+<l>Wat salmen nu Biron voor andere dingen leeren?</l>
+<l>Wat salmen met Biron beginnen nu tertijdt?</l>
+<l>Wat 's d'oorsaeck Heeren dat ghy hier vergadert zijt?</l>
+</sp>
+<pb n="56"/>
+<sp>
+<l rend="speaker"><hi rend="i">Iean.</hi></l>
+<l>Om uwent wil Biron.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>O my! mijn leden beven.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Iean.</hi></l>
+<l>Ghy moet nu reeckening van uwe daden geven.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Mijn ontschuld' is bereid', waer meê word' ick beticht?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Iean.</hi></l>
+<l>Dat gh' een Verrader zijt.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Verdreit u Hemels licht,</l>
+<l>Toont nu bewijs en daedt, wat wilt ghy op my seggen?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Iean.</hi></l>
+<l>Bewijs, en siet ghy niet daer uwe Brieven leggen?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Dees Brieven die zijn valsch, sy zijn geconterfeit,</l>
+<l>De Nicker hael Lafin, heeft hy sijn Majesteit</l>
+<l>Bedroogen door dit schrift, laet my dan recht gehengen,</l>
+<l>Soo sal ick dese schelm wel aen een galge brengen,</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Iean.</hi></l>
+<l>Biron al met gedult, bedenckt u leide druck,</l>
+<l>Ghy staet hier voor den Raedt.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Terwijl het ongeluck</l>
+<l>Van Vranckrijck heeft belieft my in u hant' te stellen,</l>
+<l>Soo geeft my eens gehoor, en wilt u ooren hellen</l>
+<l>Tot my die klaeght en kermt, neemt eens in u gemoet</l>
+<l>Wie hier staet voor het recht, ten is geen slechten bloet,</l>
+<l>Ten is geen bloodehond', 't is niet die is geweecken</l>
+<l>Met schanden uyt het Veld', en liet sijn Leger steecken,</l>
+<l>Maer 't is die eertijdts de Vyanden heeft vervaert,</l>
+<l>Doen sy namen de vlucht door 't flick ren van mijn Swaerd,</l>
+<l>'t Is hy die goet en bloet, jae leven heeft gegeven</l>
+<l>Ter doot,en heeft door't bloet de Fransche Kroon verheve.</l>
+<l>'t Is die, die blixemden gelijck een snellen gloet,</l>
+<l>En donderden in 't brein gelijck de donder doet.</l>
+<l>'t Is die, die noyt en quam of brocht de Standaerts mede,</l>
+<l>Vandie waertegen hy gekrijght had' en gestreden.</l>
+<l>'t Is die, die sich verheught in 't blasen van 't Trompet,</l>
+<l>En die de Aerd' met vleesch en harssens maeckte vet.</l>
+<l>'t Is die, waer op de Kroon eerst stelde haer betrouwen,</l>
+<l>Die meer heeft geraseert als andere kosten bouwen.</l>
+<l>Dit 's die, die den Maraen soo moey'lijck heeft geplaeght,</l>
+<l>Waer van hy in sijn lijf al dese wonden draeght:</l>
+<l>Niet een, niet vijf, niet thien, maer meer dan in de dertigh,</l>
+<l>Die noyt en was verbaest of eenighsins kleynhertigh.</l>
+<l>'t Is die ghy hebt gegroet, wanneer hy quam verblijdt,</l>
+<l>Belommert met een Krans van eeren uyt de strijdt.</l>
+<l>'t Is uwe Mareschal die hier staet voor u oogen,</l>
+<pb n="57"/>
+<l>Die al 't geen dat hy heeft met bloed' heeft opgewogen.</l>
+<l>'t Is Ducque de Biron,verwonnen sonder Swaert,</l>
+<l>Die niet voor al 't gespuys der Hellen was vervaert,</l>
+<l>Die knielt nu voor u neer, die moet nu voor u buygen</l>
+<l>Om een genadigh Recht, nochtans sal ick betuygen</l>
+<l>Dat ick die niet en ben, die daermen my voor houdt,</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Iean.</hi></l>
+<l>Biron ghy al te veel op u boosheyt vertrout,</l>
+<l>U Brieven wijsent uyt, dat ghy met sware eeden,</l>
+<l>En door schoon schijnigheyt ons noch wilt overreden,</l>
+<l>Daer in ghy hebt begaen tot in den hooghsten graed,</l>
+<stage><hi rend="i">Crimen laesae Majestatis.</hi></stage>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Isser genaed,</l>
+<l>Iffer dan geen genaed? en konnen al de daden,</l>
+<l>Die ick bedreven heb, u, o geftrenge Raden,</l>
+<l>Niet brengen tot beweegh, is mijne daed' soo vals,</l>
+<l>Datse my onversiens foo plotsich valt op d'hals?</l>
+<l>Ick die een wonder was, ick die het al verschrickte,</l>
+<l>Waer voor het alles vloogh, als ick maer eens en kickte.</l>
+<l>Soo zy mijn dan vergunt dat ick gevangen blijf,</l>
+<l>Tot dat de bleecke dood' de ziel haelt uyt het lijf.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Iean.</hi></l>
+<l>Biron ten kan niet zijn, daerom soo maeckt u vaerdigh,</l>
+<l>Berey t u tot den doodt, den doodt die zijt ghy waerdigh.</l>
+<l>'t Verraet blijckt al te klaer, te veel hebt ghy misdaen,</l>
+<l>Vertreckt, op dat wy ons op dit stuck wel beraen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Genade en geen recht, denckt wat ick was voor desen.</l>
+<stage><hi rend="i">Bin.</hi></stage>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Iean.</hi></l>
+<l>In dese saeck my dunckt gansch geen gevaer te wesen;</l>
+<l>Want hy ontkent het niet dat hem is opgeleyt,</l>
+<l>Hoewel 't is hart om doen, dan moet doch zijn geseyt,</l>
+<l>U stemmen al te mael salmen hier op verwachten,</l>
+<l>Men moet meer op 't welvaert van onse Coningh achten,</l>
+<l>De saeck te wichtigh is, waer toe sou zijn verschoont</l>
+<l>Birons verradery, 't moet zijn (na recht) beloont.</l>
+</sp>
+<sp>
+<l rend="speaker">4 <hi rend="i">Raets.</hi></l>
+<l>De klachten van Biron hebben mijn hert bewogen,</l>
+<l>En alle straffen quaet uyt mijn gemoedt getogen.</l>
+<l>Maer als ick overdenck mijn rechtschuldige plicht,</l>
+<l>Sijn daden en het blijck daer door hy is beticht,</l>
+<l>Ick hem gantsch schuldig ken, het recht moet overwinnen,</l>
+<l>En niet de goedigheyt van onse laffe sinnen.</l>
+<l>Daerom bevind'ick dat hy den doodt waerdigh is</l>
+</sp>
+<pb n="58"/>
+<sp>
+<l rend="speaker">2 <hi rend="i">Raets.</hi></l>
+<l>En mijn beweeght gemoed tot gratie vaerdigh is,</l>
+<l>'k Bemerk wel dat het regt niet kromme moet noch buyge,</l>
+<l>De Brieven wijsent uyt, sy van sijn daedt getuygen,</l>
+<l>Doch hy heeft Vranckerijck van Vyanden bevrijdt,</l>
+<l>Maer als ick 't recht bedenck, de Wet hier teghen strijt.</l>
+<l>Want die den Coninck heeft na 't leven soo ghegangen,</l>
+<l>En ons al t'samen wou in 's Vyands handen langhen,</l>
+<l>Niet waerdigh is dat hy behouw sijn moedig hoot,</l>
+<l>Daerom, na rechte recht, verwijst hem tot der doodt.</l>
+</sp>
+<sp>
+<l rend="speaker">3 <hi rend="i">Raets.</hi></l>
+<l>De moedt is mijn soo vol, altijdt sijn droevig klagen</l>
+<l>Hebben u mijn gemoedt, medogentheyt gedragen.</l>
+<l>Den Helt, den vroomen Helt, die ons dick heeft verlost,</l>
+<l>Daer niemant raed'toe wist, hy middel vinden kost.</l>
+<l>O Werelt wat 's u doen! O Satan wat 's u woelen!</l>
+<l>De vlammen blaest ghy aen, die niet zijn om te koelen,</l>
+<l>Die door verwaentheyt groot de kloeckste herten steelt,</l>
+<l>En daer na als Tyran uwe tragedy speelt.</l>
+<l>Mijn Heeren dese saeck die heeft soo wel gebleecken,</l>
+<l>Dat ick verwonnen ben (helaes!) ick kan niet spreecken,</l>
+<l>De tranen vloeyen uyt, terwijl het wesen moet</l>
+<l>Soo geeft ick oock mijn stem, hoewel het is mijn bloet.</l>
+<l>De reden hebben recht, met recht sal hy dan sterven,</l>
+<l>En voor sijn quade daed oock quaden loon be-erven,</l>
+</sp>
+<sp>
+<l rend="speaker">1 <hi rend="i">Raet.</hi></l>
+<l>Daer een saek klaerlijck blijckt medogen niet en gelt.</l>
+</sp>
+<sp>
+<l rend="speaker">2 <hi rend="i">Raet.</hi></l>
+<l>Godt geve sijn genaed'.</l>
+</sp>
+<sp>
+<l rend="speaker">3 <hi rend="i">Raet.</hi></l>
+<l>U toch te vreden stelt,</l>
+<l>'t Gherechte het vereyscht, sijn daedt het gaet uytwijsen,</l>
+<l>Ach! als ick het bedenck de hayren my oprijsen.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Iean.</hi></l>
+<l>Haelt Biron weder hier, op dat hy mach ontfaen</l>
+<l>Het vonnis, daer wy ons nu hebben op beraen,</l>
+<l>Sijn Schriften dooden hem, en sijne quade daden</l>
+<l>Brengen hem by het Recht geheel in ongenaden,</l>
+<l>Sijn handen die zijn vuyl, besmet met boos beleyt,</l>
+<l>De straffe is soo groot, of hy begaen had 't Feyt:</l>
+<l>Haelt hem van stonden aen, wilt hem wel vaste houwen,</l>
+<l>Als een niet waerdig om den hemel te beschouwen.</l>
+<stage><hi rend="i">Bir. uit.</hi></stage>
+<l>Bereyd' u tot den doodt, ghy zijt niet die ghy waert,</l>
+<l>Maer voor Verrader en een Schelm wordt ghy verklaert.</l>
+</sp>
+<pb n="59"/>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Droom ick, slaep ick, of schijn ick heel te waecken?</l>
+<l>'t Is wonder dat Biron sijn Ziel niet wil uytbraecken,</l>
+<l>'t Is wonder dat Biron sijn hert en sijn gemoet</l>
+<l>Niet half rasend' wordt in dees versaemde stoet.</l>
+<l>Mijn Heeren noch een woordt, en konnen mijne Feyten</l>
+<l>Gantsch niet tot mijn vergif, en tot mijn voordeel pleyten</l>
+<l>Gelooft ghy aen Lafin, den Toovenaer en Droch,</l>
+<l>Den Sodomijt, den Schelm, en daer en boven noch</l>
+<l>Een Duyvelsche gebroedt, hoe! sullen sijne woorden</l>
+<l>My door geveynsdigheyt en logentael vermoorden?</l>
+<l>Hoe! salmen den Biron doen boeken voor het Swaert,</l>
+<l>Die meerder als Lafin ja als de sijn is waert?</l>
+<l>Sal Biron moeten sien, als hy bedroeft sal sterven,</l>
+<l>Dat Lafin levend' is, neen, hy sal met my swerven,</l>
+<l>Mijn Ziele sal hem soo vervolgen alsoo fel,</l>
+<l>En eerder rusten niet, voor hy is in de Hel:</l>
+<l>Mijn Heeren siet Biron hier voor u nederknielen,</l>
+<l>Die in sijn ziele heeft ontallijcke veel Zielen,</l>
+<l>Want als dit Lichaem sterft, soo sterven oock met mijn</l>
+<l>De Zielen die van my eertijdts verslagen zijn;</l>
+<l>En isser geen genaed'? dit zy mijn leste bede,</l>
+<l>Dat ick noch eenmael mach voor mijnen Coningh treden,</l>
+<l>En mach dat niet geschien, blijft ghy-lien even straf,</l>
+<l>Seght hem dat ick dit goet in sijn dienst overgaf,</l>
+<l>Vitry staet van my af, ick sal mijn selfs berooven,</l>
+<l>Van 't geen 'k wel eer verkreeg door krachten van hier boven</l>
+<l>Daer is mijn Pluym en Kraeg, die u hebben vertoont</l>
+<l>Dat ick van Hendrick was als Gouverneur gekroont</l>
+<l>Van al sijn Oorlogsvolck, ick hebse soo gedragen,</l>
+<l>Dat mijn Coninck hier van geensints en heeft te klagen.</l>
+<l>Siet daer is u Rappier, geen Rappier, maer de Schee,</l>
+<l>Alwaer dit henen gaet daer gaen mijn daden mee,</l>
+<l>Ick ben niet meer den Man die duysenden deed'trillen,</l>
+<l>Want al dat ghy begeert dat moet ick willigh willen.</l>
+<l>Daer leydt den Mareschal, nu is den Keten af,</l>
+<l>Daer leyt de hooghste eer die my den Coninck gaf,</l>
+<l>Ick ben geen Vader meer van Vranckrijck, mijn ellenden</l>
+<l>De eerst verkregen eer in duysent schanden wenden,</l>
+<pb n="60"/>
+<l>Doet my de sporen af, waer door ick Ridder was.</l>
+<l>Daer leyt mijn heerlijckheit, daer leyt het al in d'as.</l>
+<l>Raedtsheeren, seght my nu waer voor word'ick gehouden?</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Iean.</hi></l>
+<l>Voor een Verrader valsch, men 't u niet toevertrouden,</l>
+<l>Ghy hebt begaen een werck, 't geen u nakomers al,</l>
+<l>Mochten om uwe feyt wel raecken all'ten val,</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Hoe is dit mijnen loon, en mach ick niet meer spreecken!</l>
+<l>En ben ick niet Biron, neen Biron is geweecken,</l>
+<l>Daer leyt Biron gevelt, hier staet alleen het lijf,</l>
+<l>Vervloeckte gierigheyt, dit is een boos bedrijf,</l>
+<l>Mijn Wapens ben ick quijt, mijn Ziel moet ick uytspouwen,</l>
+<l>Weent nu Biron, weent nu en slacht de lichte Vrouwen,</l>
+<l>Tranen u Wapens zijn, 't is ydel wat ghy seght.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Iean.</hi></l>
+<l>Biron stelt u gerust, en wend' u na het Recht,</l>
+<l>Wy bidden dat ghy ons het Vonnis wilt vergeven,</l>
+<l>Want de gerechtigheit die heeft u doodt geschreven.</l>
+<l>Adieu mijn Heer Biron, Vitry volght hem terstont.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Raeds.</hi></l>
+<l>De Heere geeft berou, leedwesen van u sond'.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Biron sittende in de Gevangenisse, Vitry komt by hem, als hy sijn reden uyt heeft.</head>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Mijn herte zijt getroost, hoe soud'ick my vertroosten,</l>
+<l>Mijn sinnen vliegen heen van 't Westen tot het Oosten.</l>
+<l>Laes! wat heb ick gedaen, het Swaert is mijne erf,</l>
+<l>En als een snoo verraer ick na mijn einde swerf.</l>
+<l>O Werelt dit 's u doen, O schoonlijckende sonden,</l>
+<l>Ghy ruckt ons Zielen wegh, tot in de diepste gronden</l>
+<l>Van d'ysselijcke Hel, terwijl het wesen moet,</l>
+<l>Soo maeckt mijn lijden kort, en spijst u met mijn bloedt.</l>
+<stage><hi rend="i">Vitry by hem komende, met eenige Stommen en de Beul.</hi></stage>
+<l>Wilt u dan met mijn bloet, O Rechters, u versaden,</l>
+<l>'k Sie ick verwerven kan noch heyl noch geen genaden.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Vit.</hi></l>
+<l>Mijn Heer de laetste uur van sterven is gestemt</l>
+<l>Ten dryen na de Noen. <stage><hi rend="i">Bir.</hi></stage> Mijn warme bloet dat stremt,</l>
+<l>Komt, komt leydt my van hier, ick sal my gaen bereyden,</l>
+<l>En met een bly gemoedt in 's Conings diensten scheyden.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Vit.</hi></l>
+<l>Tsa set u in 't gelit, beset de plaetsen vast,</l>
+<l>Datmen de deuren sluit, gelijck het is belast,</l>
+<pb n="61"/>
+<l>Past wel op u geweer, dat niemandt hem bewege</l>
+<l>Als Biron kermt en bidt, daer is niet aen gelege,</l>
+<l>Houdt u al t'samen stil, en leert aen sijnen rouw</l>
+<l>Te wesen heus van mondt, en weest u Coninck trouw.</l>
+<l>Mijn Heer ick moet het recht nu sijn behoorte geven.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Vitry aen mijne doodt is niet veel aen bedreven,</l>
+<l>Want ick gewilligh sterf, terwijl 't den Raedt gebiet,</l>
+<l>En waer 't geen Conincks last, voorwaer ick storve niet;</l>
+<l>Alleen ick van u eysch vrymoedelijck te spreecken,</l>
+<l>Dan sal ick voor het Swaerd willigh den hals uytsteecken.</l>
+<l>Ick ken ick heb gedwaelt, mijn Vrienden hadden recht,</l>
+<l>Die my soo menighmael dit quaet hebben voorseght.</l>
+<l>O Solon, van waer hebt ghy dese Spreuck genomen,</l>
+<l>Dat voor den sterfdag men mach niemant luckig noemen.</l>
+<l>Mijn Vrienden ghy seyd' waer, dat ick niet heb geacht,</l>
+<l>Dat hy sijn selven moordt die te hooghmoedigh tracht</l>
+<l>Na ander mans verdriet, te laet is mijn bedencken,</l>
+<l>En duysent schatten my geen leven konnen schencken,</l>
+<l>Mijn Siele zijt gerust, mijn herte zijt te vreen,</l>
+<l>En wilt gewillighlijck doch na u eynde treen.</l>
+<l>Hoe staet ghy soo en dut, mijn moedige Soldaten?</l>
+<l>Siet uwen Veldt-heer aen, die geheel is verlaten,</l>
+<l>Siet uwen Velt-heer aen, die nimmer was verflout,</l>
+<l>Als nu, nu hem de doodt door een Beuls hant benout,</l>
+<l>Getuygt mijn trouwe Volck, en kreegh ick dese wonden</l>
+<l>Niet in des Conincks dienst, heb ick u oyt gesonden</l>
+<l>Te vechten, daer ick altijt selfs de eerste gingh,</l>
+<l>Als ick mijn lijf in stael van ons Vyanden hingh,</l>
+<l>Heb ick u niet geweest getrou in alle slachten,</l>
+<l>Ick die ghy nu sult sien door eenen Beul versmachten,</l>
+<l>Getuyght, getuygt van my wie dat ick ben geweest,</l>
+<l>Getuyght of ick oyt was voor doot of Hel bevreest;</l>
+<l>Zijt uwen Coninck trou, want de verraderyen</l>
+<l>De menschen na haer doodt een droevigh eynde lyen,</l>
+<l>Zijt uwen Coninck trou, ick segh u t'saem adieu,</l>
+<l>Hier na in 't Hemelrijck sien ick u op een nieu;</l>
+<l>Maer wel onthout mijn les, blyft in den dreck niet steken,</l>
+<l>En wilt om mijnent wil u aen den schellem wreken</l>
+<pb n="62"/>
+<l>Die my verraden heeft, en soo ghy 't niet en doet,</l>
+<l>Ick u oock schuldigh hou aen mijn onnoosel bloedt;</l>
+<l>Wat staet my voort te doen? <stage><hi rend="i">Vit.</hi></stage> Wilt u ter dood bereyden.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Hoe sal de ziele noch uyt dese Camer scheiden,</l>
+<l>Sy isser om verdwaelt, fy hand' waer is u kracht,</l>
+<l>Dat ghy dit halve Volck niet in haer bloet versmacht,</l>
+<l>En roept de Nicker aen, waer is u kracht, o armen,</l>
+<l>Scheurt haer het Rif van een, en slendert met de Darmen,</l>
+<l>Verplettert haer het hooft, wel hoe zijt ghy dus slap,</l>
+<l>'t Is wonder dat ick u niet al tot Hutspot kap,</l>
+<l>De Droes en hout mijn niet, noch Godt, alleen de Coning,</l>
+<l>Soo laet ons sterven dan, verlaten dese woningh,</l>
+<l>En vliegen na om hoogh, gantsch lijde oft u roert,</l>
+<l>Laet Biron in sijn vree, en uwe monden snoert.</l>
+<l>Terwijl het wesen moet, laet ons gewilligh scheiden,</l>
+<l>O Godt wilt mijne Ziel na uwe Hemel leiden.</l>
+<l>Wat zijt gy voor een man? <stage><hi rend="i">Beul.</hi></stage> Mijn Heer een Bourgonjon.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Bir.</hi></l>
+<l>Vervloeckte gierigheit, wat was 't dat ick begon,</l>
+<l>Dat ick aen 't aertsche goet soo duyvels hingh mijn sinnen;</l>
+<l>Daer mijn den Coninck als sijn selven gingh beminnen;</l>
+<l>Dit is de Prophecy die mijn is voorgeseyt,</l>
+<l>Dat mijn een sware slagh sou worden opgeleyt</l>
+<l>Van eenen Bourgonjon, en kon ick die ontwijcken,</l>
+<l>Soo sou mijn niet ontstaen geen Croon of Coninrijcken:</l>
+<l>Hoe meent ghy Belsebub Biron te raecken aen,</l>
+<l>Wijckt van my ghy Hel-Hondt, wilt verder van mijn staen,</l>
+<l>Want soo ghy my aenraeckt, nu ofte na mijn sterven,</l>
+<l>Als met den slagh des doodts, ick sal u Lichaem kerven</l>
+<l>En scheuren van malkaer, mijn Ziele sal het doen,</l>
+<l>Mijn bloet sal geesten wis om u tetergen broen.</l>
+<l>Eylaes! en salder dan voor my geen gratie komen,</l>
+<l>Sal door een Beudels Mes mijn bloedt op d'aerde stroomen.</l>
+<l>Eylaes! moet het soo zijn, hout daer mijn Cammeraet,</l>
+<l>Dees Ringh ick u al t'saem tot een gedachten laet.</l>
+<l>En u ick tot geheugh mijn laetste Wambes schencke.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Beul.</hi></l>
+<l>Mijn Heer ten magh niet zijn. <stage><hi rend="i">Bir.</hi></stage> Dat ick u niet en krencke</l>
+<l>My dubbel wonder geeft, ghy overvalsche tuck,</l>
+<l>'t Is wonder dat ick u de Ziele niet ontruck.</l>
+<pb n="63"/>
+<l>Bedaerd' Biron bedaerd'. <stage><hi rend="i">Bir.</hi></stage> Hoe soud ick my bedaren,</l>
+<l>Ick wou dat wy al t'saem mosten ter Hellen varen,</l>
+<l>Daer soud ick smijten uit met bulderend' getier,</l>
+<l>Verbranden Nickers veel dat in haer eygen vier.</l>
+<l>Ooverwonne g'moedt wilt u te vreden stellen,</l>
+<l>En wilt u arme Ziel met geene vloecken quellen,</l>
+<l>Komt t'sa volbrengt u werck, Biron die is gereet,</l>
+<l>En meynt ghy dat Biron u daden niet en weet,</l>
+<l>Verrader, seyd'ick niet my nimmer aen te tasten.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Beul.</hi></l>
+<l>Mijn Heer het moet geschien. <stage><hi rend="i">Bir.</hi></stage> Getrouwste van mijn gasten</l>
+<l>Komt doet my dese dienst, ontrooft my van het haer,</l>
+<l>Hoe schroomt gy Vrouwen-man, gy blooden vol van vaer,</l>
+<l>En wilt ghy my voor 't lest dees dienste niet betoonen?</l>
+<l>'t Is waer 'k en kan u nu door geen geschencken loonen.</l>
+<l>Komt ghy en dient my eens, bint dese hayren op,</l>
+<l>En maeckt een wijden baen voor 't houwen van de kop;</l>
+<l>Ick danck u mijne Vriend', en voor de leste gaven</l>
+<l>Wilt dese droeve kus in uwe ziele graven.</l>
+<l>Biron die is gereedt, noch niet, mijn ziel en wilt</l>
+<l>Door geen geduldigheyt en klagen zijn gestilt,</l>
+<l>Laes! moet ick sterven dan, soo laet'et ons volbrengen,</l>
+<l>En 't onbeschaemt Schavot met schaemroot bloet besprengen.</l>
+<l>Ha! dat ick mijn gemoet daer toe niet brengen kan,</l>
+<l>Om met een bly gelaet de doot te vangen an.</l>
+<l>En isser geen genaed', kan ick geen hulpe vinden?</l>
+<l>En ben ick niet Biron, Biron is voor de winden,</l>
+<l>En ben ick niet Biron, ben ick mijn selven doot,</l>
+<l>En ben ick niet de geen waer voor de vyandt vloot,</l>
+<l>En ben ick niet den gruw, en ben ick niet de donder,</l>
+<l>Een schrick en blixem, ja een wonder boven wonder.</l>
+<l>En draegh ick niet in 't lijf veel wonden om de Croon,</l>
+<l>En sal my nu een Beul als een verrader doon,</l>
+<l>Waer is mijn oude kracht, wie houdet mijne handen?</l>
+<l>Dat ick niet u, en u, ja alle brengh ter schanden.</l>
+<l>Maer 'k ben in 's Conincks dienst die het geboden heeft,</l>
+<l>Hy wil niet dat Biron op aerden langer leeft,</l>
+<l>Hy denckt niet meer aen my, niet in den alderminsten,</l>
+<l>Hy acht niet mijne daedt of de getrouwe diensten.</l>
+<pb n="64"/>
+<l>Wat droefheyt gaet my aen, wat duycker of mijn schort</l>
+<l>Al mijn kloeck moedig heyt mijn nu ontrocken wort;</l>
+<l>Ick gruw, ick tril, ick beef, nu wilt u Aerde scheuren,</l>
+<l>En dees rampsael'ge Man in uwe darmen sleuren,</l>
+<l>Dat haer de Hel ontsluyt, dat Belzebub komt treen,</l>
+<l>En voer mijn eer ick sterf, voor duysent krancken heen,</l>
+<l>Laet toe Heer dat ick berst, ten sou my niet berouwen,</l>
+<l>Mocht ick dees trotse Ziel in 's Vyands bloet uyt spouw</l>
+<l>Mocht ick in het gevecht sterven in mijn gewaet,</l>
+<l>En sterven hondert mael, en sterven als Soldaet.</l>
+<l>Het sterven waer mijn lief, maer dus mijn tijt te enden</l>
+<l>Als een niet-waerde mensch, 'k wou ik my selfs mogt schede</l>
+<l>Biron die is gereet, vergeest my mijn misdaet,</l>
+<l>O Heer, ick weet dat ghy de sondaers niet verlaet.</l>
+<l>O Heer, wilt uwe Knecht door God'lijckheyt bestralen,</l>
+<l>En hem na desen tijdt in 't eeuwigh leven halen.</l>
+<l>Terwijl ick sterven moet, dat het zy metter haest,</l>
+<l>Ellendige cattijf en zijt niet meer verbaest;</l>
+<l>Volbrengt u Mandament, en ruckt my van het leven,</l>
+<l>Slaet nu Scherprechter slaet, den slagh is u vergeven.</l>
+<l>Holla, staet van my af, en kom mijn doch niet nader,</l>
+<l>Ick wil noch spreken eerst mijn geestelijcken Vader.</l>
+</sp>
+<sp>
+<l rend="speaker"><hi rend="i">Vit.</hi></l>
+<l>Godt spaer u Majesteyt in langhdurige vree,</l>
+<l>En geeft hem al het geen dat hy mach wenschen mee,</l>
+<l>Godt spaer sijn Majesteyt, soo moeten se alle varen,</l>
+<l>Die door groothertigheyt de Kroon willen beswaren,</l>
+<l>Langh Coninck Hendrick leeft, vervloeckt zijn al de geen</l>
+<l>Die na sijn Erven staen, door hare liftig heen,</l>
+<l>Datmen den romp begraeft, wilt daer al t'saem aen leeren,</l>
+<l>Godt en u Ov'righeyt na plichtinge te eeren,</l>
+<l>Want die van dage praelt in heerlijck heyt en pracht,</l>
+<l>Wordt morgen neergevelt, neemt op dit sterven acht,</l>
+<l>Soo sult ghy u lichaem van schandigh sterven vryen,</l>
+<l>Want een eer gierigh mensch sal nimmer meer bedyen,</l>
+<l>Denckt aen den gulden spreuck die Solon ons naliet,</l>
+<l>Welcken ghy hier al t'saem voor uwe oogen siet:</l>
+</sp>
+<lg type="poem">
+<l><hi rend="i">Hoe Machtigh, Edel, Rijck of Groot,</hi></l>
+<l><hi rend="i">Niemant geluckigh voor sijn doodt.</hi></l>
+</lg>
+</div>
+</div>
+</body>
+</text>
+
+</TEI.2>

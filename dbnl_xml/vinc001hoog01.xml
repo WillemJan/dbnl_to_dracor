@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">De Hoogduitsche kwakzalver</title>
+               <author>Ysbrand Vincent</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">De Hoogduitsche kwakzalver</hi> van Ysbrand Vincent uit 1691.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>p. 3v: accolades verspreid over meerdere regels kunnen in deze digitale versie niet weergegeven worden. Daarom wordt de accolade hier, met bijbehorende tekst, op iedere regel herhaald.</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent>17</extent>
+           <scandetails>
+               <scan type="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>1v</empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">vinc001hoog01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note></note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Theater Instituut Nederland, signatuur: 8 C 49: 2</idno>
+               </bibl>
+               <p>Ysbrand Vincent, <hi rend="i">De Hoogduitsche kwakzalver</hi>. Jacob Lescailje (erven), Amsterdam 1691</p>
+               <p>&#160;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">De Hoogduitsche kwakzalver</title>
+               <author>Ysbrand Vincent</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">De Hoogduitsche kwakzalver</title>
+               <author>Ysbrand Vincent</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-08-19</date>
+               <respStmt>
+                   <name type="person">SG</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+<body><cf>
+<div type="chapter">
+
+<pb n="1r"/>
+<p>DE</p>
+<p>HOOGDUITSCHE</p>
+<p>KWAKZALVER,</p>
+<p><hi rend="i">KLUCHTSPÉL,</hi></p>
+<p>In</p>
+<p>MUZYK.</p>
+<p><figure>
+<p><xptr to="vinc001hoog01ill0002.gif"/></p>
+</figure></p>
+<p>TE AMSTERDAM,</p>
+<p>By d'Erfg: van Jacob Lescailje, op de Middeldam, naast de Vischmarkt. 1691.</p>
+<p><hi rend="i">Met Privilegie.</hi></p>
+
+</div></cf>
+<div type="chapter">
+<pb n="2r"/>
+<head rend="h3">Aan den Leezer.</head>
+<p>D<hi rend="i">It</hi> <hi rend="sc">Kluchtspél</hi> <hi rend="i">in</hi> <hi rend="sc">Muzyk</hi>, <hi rend="i">zou lichtelyk niet gedrukt zyn, indien de ervaarenheid niet had doen zien, dat de Toehoorderen van</hi> <hi rend="sc">Operaas</hi>, <hi rend="i">geen genoegen neemen, zo ze in het vertoonen, de woorden, óf ten minsten de zin, niet weeten van 't geen in het Zingen, somtyds niet duidelyk genoeg, verstaan kan worden.</hi></p>
+<p><hi rend="i">De buitenspoorige</hi> <hi rend="sc">Minnedriften, Heersch</hi>, <hi rend="i">en</hi> <hi rend="sc">Geldzugt</hi>, <hi rend="i">worden hier, zonder iemand in 't byzonder op zyn Zeer te treeden, natuurlyk verbeeld, en de Hulpmiddelen beknóptelyk, en Zedekundig aangeweezen, om zich van die Hartstóchten te zuiveren.</hi></p>
+<p><hi rend="i">Het is eene Nieuwigheid, van welkers natuur men nóch niets op het Tooneel heeft gezien. In de Redeneering van de Kwakzalver, heeft men dezelve woorden en órde gevólgt, die de Hoogduitschen in hunne Opsnyeryen, gewoon zyn te gebruiken.</hi></p>
+<p><hi rend="i">Het Muzyk is met de eigenschap der Redeneeringen, na het oordeel der naauwkeurige Kenneren, kunstig gemaakt, en over een komende.</hi></p>
+<p><hi rend="i">Dit Muzykstukje komt in eene slechte en nadeelige tyd te voorschyn, dóch zo het evenwel eenigzints behaagen, en de Godshuizen, voordeel aanbrengen kan, zal zulks ons moog'lyk aanleidinge geeven, om van tyd, tot tyd eenige andere aangenaame Stóffe, Operaas gewyze, als auders, ten Fooneele te voeren.</hi></p>
+</div>
+<div type="chapter">
+<pb n="2v"/>
+<head rend="h3">Copye van de Privilegie.</head>
+<p>DE Staten van Holland ende Westvriesland, doen te weten. Also Ons vertoont is by de tegenwoordige Regenten van de Schouwburgh tot Amsterdam. Dat sy Supplianten sedert eenige Jaren herwaerts met hunne goede vrinden hadden gemackt en ten Toonele gevoert verscheiden Wercken, soo van Treurspelen, Blyspelen als Kluchten, welcke sy lieden nu geerne met den druck gemeen wilden maecken, doch gemerkt dat dese wercken door het nadrucken van anderen, veel van haer luyster, soo in Tael als Spelkonst souden komen te verliesen, ende alsoo sy Supplianten hen berooft souden sien van hun bysonder oogwit om de Nederduytsche Tael en de Dichtkonst voort te setten soo vonden sy hen genootsaekt, om daer inne te voorsien, ende hen te keeren tot Ons, onderdanigh versoeckende, dat wy omme redenen voorsz. de Supplianten geliefden te verlenen Octroy ofte Privilegie, ommealle hunne wercken reets gemaeckt ende noch in 't licht te brengen, den tyt van vyftien Jaren alleen te mogen drucken en verkopen of doen drucken en verkopen, met verbot van alle anderen op seeckere hooge peene daer toe by Ons te stellen ende voorts in communi forma. Soo IS 't, dat Wy, de Zake en 't Versoek voorsz. overgemerkt hebbende, ende genegen wesende ter bede van de Supplianten, uyt Onse rechte wetenschap, Souveraine Magt ende authoriteyt deselve Supplianten geconsenteert, geaccordeert ende geoctroyeert hebben, consenteren, accorderen ende octroyeren mitsdesen, dat sy geduurende den tyt van vyftien eerst achtereenvolgende Jaren de voorsz. werken die reeds gedrukt zyn, ende die van tyt tot tyt door haer gemaekt ende in 't ligt gebragt sullen werden, Binnen den voorsz. Onsen Lande alleen sullen mogen drukken, doen drukken, uytgeven en verkopen. Verbiedende daerom allen ende eenen yegelyken de selve werken naer te drukken ofte elders naer gedruckt binnen den selve Onsen Lande te brengen, uyt te geven ofte te verkopen, op de verbeurte van alle de naargedrukte, ingebrachte ofte verkogte Exemplaren, ende een boete van
+drie hondert guldens daer en boven te verbeuren, te appliceren een derde part voor den Officier die de calange doen sal, een derde-part voor den Armen der plaetse daer het casus voorvallen sal, ende het resterende derde part voor de Supplianten. Alles in dien verstande, dat Wy de Supplianten met desen Onsen Octroye alleen willende gratificeren tot verhoedinge van hare schade door het nadrucken van de voorsz. werken, daer door in geenige deele verstaan, den Inhoude van dien te Authoriseren, ofte te avouëren, ende veel min de selve onder Onse protectie ende bescherminge eenig meerder credit, aansien ofte reputatie te geven, nemaer de Suppliante, in cas daar in yets onbehoorlijkx soude mogen influëren, alle het selve tot haren laste sullen gehouden wesen te verantwoorden, tot dien eynde wel expresselijk begerende, dat by aldien sy desen Onsen Octroye voor de selve Werken sullen willen stellen,
+<pb n="3r"/>daer van gene geabbrevieerde ofte gecontraheerde mentie sullen mogen maken: nemaer gehouden sullen wesen, het selve Octroy in't geheel ende sonder eenige Omissie daar voor te drukken ofte te doen drucken; ende dat sy gehouden sullen zyn een Exempelaer van alle de voorsz werken, gebonden ende wel geconditioneert te brengen in de Bibliotheecq van Onse Universiteyt tot Leyden, ende daer van behoorlyk te doen blyken. Alles op poene van het effect van dien te verliesen. Ende ten eynde de Suppliante desen Onsen consente Octroye mogen genieten als naar behooren: Lasten wy allen ende eenen yegelyken die 't aengaen mach, dat sy de Suppliante van den inhoude van desen doen, laten en gedogen, rustelyk, en volkomentlyk genieten en cesserende alle beletten ter contrarie. Gedaan in den Hage onder Onsen Grooten Zegele hier aan doen hangen, den <hi rend="sc">xix</hi> September. in 't Jaer onses Heeren en Zaligmakers duysent ses hondert vier en tachtig.</p>
+<p>&#160;</p>
+<p>G. FAGEL:</p>
+<p>&#160;</p>
+<p>Ter Ordonnantie van de Staten</p>
+<p>&#160;</p>
+<p>SIMON van BEAUMONT.</p>
+<p>&#160;</p>
+<p>De tegenwoordige <hi rend="sc">regenten</hi> van de <hi rend="sc">Schouwburg</hi>, hebben het recht der bovenstaande <hi rend="sc">Privilegie</hi>, voor deeze druk, van <hi rend="sc">de Hoogduitsche Kwakzalver</hi>, <hi rend="i">Kluchtspél</hi> in Muzyk, vergund aan de Erfgenaamen <hi rend="i">J. Lescalje.</hi></p>
+<p>&#160;</p>
+<p><hi rend="i">Amsterdam de</hi> 26. <hi rend="i">Marti.</hi> 1691.</p>
+</div>
+<div type="chapter">
+<pb n="3v"/>
+<head rend="h3">Vertooners. In de proozklucht.</head>
+<p><hi rend="sc">Pekelhaaring</hi>, de <hi rend="sc">Oude Man</hi>, en <hi rend="sc">Twe</hi> óf <hi rend="sc">Drie</hi> andere, na het vereisch van de byzond're Proozklucht, die ieder reis, voor het begin van de <hi rend="sc">Opera</hi>, op de Stellaadje van de Kwakzalver, gespeeld zal worden.</p>
+<div type="section">
+<head rend="h4">In de opera.</head>
+<list>
+<item><hi rend="sc">De Kwakzalver</hi>.</item>
+<item><hi rend="sc">Het Koor van Toekykers</hi>.</item>
+<item><hi rend="sc">De Minzieke Juffer</hi>.</item>
+<item><hi rend="sc">Eerste</hi> } <hi rend="sc">Draager</hi>.</item>
+<item><hi rend="sc">Twede</hi> } <hi rend="sc">Draager</hi>.</item>
+<item><hi rend="sc">De Heerschzugtige</hi>.</item>
+<item><hi rend="sc">De Geldzugtige</hi>.</item>
+</list>
+<div type="section">
+<head><hi rend="i">By persoonaadjen.</hi></head>
+<list>
+<item><hi rend="sc">De Kwakzalvers Vrouw</hi>.</item>
+<item><hi rend="sc">Eerste</hi> } <hi rend="sc">Knechts</hi> van de <hi rend="sc">Kwakzalver</hi>.</item>
+<item><hi rend="sc">Twede</hi> } <hi rend="sc">Knechts</hi> van de <hi rend="sc">Kwakzalver</hi>.</item>
+<item><hi rend="sc">Twe Speellui</hi>.</item>
+</list>
+<p>&#160;</p>
+<p>Het Tooneel verbeeld eene groote Markt, waar op aan de eene zyde, de Stellaadje van de Kwakzalver, met alle de gewoonlyke toestel gezien word.</p>
+</div>
+</div>
+</div>
+<div type="act">
+<pb n="1"/>
+<head rend="h3">De Hoogduitsche kwakzalver,
+<lb/>
+<hi rend="i">Kluchtspél in Muzyk.</hi></head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Twe Speellui</hi>.
+<lb/>
+Met het openen van de Gordyn, zietmen de Twe Speellui, op de Stellaadje zitten te speelen voor eenige Toehoorders; kort daar aan beginnen de Potsemaakers, ziende dat 'er wat meer vólk is gekomen, een kleene Proozklucht te speelen, om de menschen by een te lókken.</stage>
+<div type="scene">
+<head rend="h4">Twede tooneel.</head>
+<stage>Zo haast als de Proozklucht, ten naasten by uit is, komt de Kwakzalver op de Stellaadje, groet de Aanschouweren, en zeid tegens zyne Knechts dat ze de Muzikanten zullen waarschouwen te speelen, dewyl hy ditmaal de Liefhebberen zyne Kunst en weetenschappen, in het Muzyk, wil voordraagen. He geeft de Sleutel van zyn Koffertje, waar uit ze de Zalven, Wortels, Olyen, enz. voor den dag haalen, en begind zyne aanspraak aldus in Muzyk.</stage>
+<sp>
+<speaker><hi rend="sc">De Kwakzalver</hi>.</speaker>
+<lg type="poem">
+<l><hi rend="b">Herbey</hi>/ <hi rend="b">ihr liebe Herrn</hi>/</l>
+<l><hi rend="b">Ihr hoch geneigte Seelen</hi>/</l>
+<l><hi rend="b">Herbey</hi>/ <hi rend="b">ich helf euch gern.</hi></l>
+<l><hi rend="b">Wass wolt ihr euch viehl quelen?</hi></l>
+<pb n="2"/>
+<l><hi rend="b">Herbey</hi>/<hi rend="b">hier steht der Mann</hi>/</l>
+<l><hi rend="b">Der euren schaden heilen kan.</hi></l>
+</lg>
+</sp>
+<stage><hi rend="i">Rittornello.</hi></stage>
+<sp>
+<speaker><hi rend="sc">De Kwakzalver</hi>.</speaker>
+<lg type="poem">
+<l><hi rend="b">Schaut</hi>/ <hi rend="b">schaut ihr</hi>/ <hi rend="b">meine Herrn</hi>/</l>
+<l><hi rend="b">Ich bin der wohl bekante</hi></l>
+<l><hi rend="b">Und ungenante</hi>/</l>
+<l><hi rend="b">Der wohl approbirte</hi></l>
+<l><hi rend="b">Und examinirte</hi></l>
+<l><hi rend="b">Stein</hi>/ <hi rend="b">Bein</hi>/ <hi rend="b">Schwein</hi></l>
+<l><hi rend="b">Und Bruchschneider!</hi></l>
+<l><hi rend="b">Meine Kunst</hi>/</l>
+<l><hi rend="b">Hab ich von meinen Seeligen Vatter</hi></l>
+<l><hi rend="b">Den vohrtreflichen Biber</hi></l>
+<l><hi rend="b">Und Otterfanger gelernt.</hi></l>
+<l><hi rend="b">Schaut ihr meine Herrn</hi>/</l>
+<l><hi rend="b">Ich bin kein Possenreisser</hi> /</l>
+<l><hi rend="b">Noch leute bescheisser;</hi></l>
+<l><hi rend="b">Meine herliche Testimonia</hi></l>
+<l><hi rend="b">Weisens aus</hi> /</l>
+<l><hi rend="b">Wie</hi>/ <hi rend="b">wo</hi>/ <hi rend="b">und wem</hi>/</l>
+<l><hi rend="b">Ich den wurm geschnitten habe.</hi></l>
+</lg>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Het Koor</hi> van <hi rend="sc">Toekykers, De Kwakzalver</hi>, zyne <hi rend="sc">Vrouw, Knechts</hi>, en <hi rend="sc">Speellui</hi>.</stage>
+<sp>
+<speaker>Het <hi rend="sc">Koor</hi> van <hi rend="sc">Toekykers</hi>.</speaker>
+<lg type="poem">
+<l>Je mogt ik weet niet wat, wel zyn,</l>
+<l rend="; 1tab">Met al die zwetzeryen!</l>
+<l>Neen, neen, je schynt ons niet te fyn,</l>
+<l rend="; 1tab">Om onze Beurs te snyen.</l>
+</lg>
+</sp>
+<stage><hi rend="i">Rittornello.</hi></stage>
+<pb n="3"/>
+<sp>
+<speaker><hi rend="sc">De Kwakzalver</hi>.</speaker>
+<lg type="poem">
+<l><hi rend="b">Habt ihr Leut</hi>/ <hi rend="b">und Personen/</hi></l>
+<l><hi rend="b">Ihr Leute</hi>/</l>
+<l><hi rend="b">Leut die da haben</hi></l>
+<l><hi rend="b">Beschwerung an der Miltz.</hi></l>
+<l><hi rend="b">Leut die da haben</hi></l>
+<l><hi rend="b">Beschwerung an der Leeber.</hi></l>
+<l><hi rend="b">Leut die da haben</hi></l>
+<l><hi rend="b">Mangel am Gehirne.</hi></l>
+<l><hi rend="b">Leut die da haben</hi></l>
+<l><hi rend="b">Das reissen im leibe</hi>/</l>
+<l><hi rend="b">Und grimmen im Beutel.</hi></l>
+<l><hi rend="b">Leut die da haben</hi></l>
+<l><hi rend="b">Die hand vertreten</hi>/</l>
+<l><hi rend="b">Den fuss verstaucht</hi>/</l>
+<l><hi rend="b">Die brauchen mein fett</hi>/</l>
+<l><hi rend="b">Mein Schmaltz</hi>/</l>
+<l><hi rend="b">Es wird sie in vier und zwantzig stunden</hi></l>
+<l><hi rend="b">Glucklich wieder curiren</hi>/</l>
+</lg>
+</sp>
+<sp>
+<speaker>Het <hi rend="sc">Koor</hi> van <hi rend="sc">Toekykers</hi>.</speaker>
+<lg type="poem">
+<l><hi rend="i">Voyez ce Facquin d' Alleman,</hi></l>
+<l><hi rend="i">Ce Fanfaron, ce Charletan!</hi></l>
+<l><hi rend="i">Il guerit tous les maux qu'il peut,</hi></l>
+<l><hi rend="i">Et plusieurs autres, si l'on veut.</hi></l>
+</lg>
+</sp>
+<stage><hi rend="i">Rittornello.</hi></stage>
+<sp>
+<speaker><hi rend="sc">De Kwakzalver</hi>.</speaker>
+<lg type="poem">
+<l><hi rend="b">Ja meine HochgeEhrte Herrn</hi>/</l>
+<l><hi rend="b">Kauffts in der zeit</hi>/</l>
+<l><hi rend="b">So habt ihrs in der noht.</hi></l>
+<l><hi rend="b">Das jahr is lang</hi>/</l>
+<l><hi rend="b">Der tage sind viehl</hi>/</l>
+<l><hi rend="b">Der ungluckseeligen stunden</hi></l>
+<l><hi rend="b">Noch viehl mehr.</hi></l>
+<l><hi rend="b">Ihr Herren</hi></l>
+<pb n="4"/>
+<l><hi rend="b">Wass heute nicht geschicht</hi>/</l>
+<l><hi rend="b">Kan morgen gescheen.</hi></l>
+<l><hi rend="b">Ich bin kein Quacksalver</hi>/</l>
+<l><hi rend="b">Der rohte Butter</hi></l>
+<l><hi rend="b">Vohr glied salbe</hi>/</l>
+<l><hi rend="b">Geriebene</hi><note n="*" place="margin">Moppen.</note> <hi rend="b">Ziegel stein</hi>/</l>
+<l><hi rend="b">Vohr zahn pulver verkaufft;</hi></l>
+<l><hi rend="b">Nein ihr meine Herrn</hi>/</l>
+<l><hi rend="b">Der bin ich nicht.</hi></l>
+<l><hi rend="b">Ich habe in der Keiserlichen</hi></l>
+<l><hi rend="b">Freien Reichs Stadt Nurenberg</hi>/</l>
+<l><hi rend="b">Vohr mehr als vohr tausend Reichstahler</hi></l>
+<l><hi rend="b">Wahre verkaufft.</hi></l>
+</lg>
+</sp>
+<sp>
+<speaker>Het <hi rend="sc">Koor</hi> van <hi rend="sc">Toekykers</hi>.</speaker>
+<lg type="poem">
+<l>De Duitscher Kaerels zyn geen Zótten;</l>
+<l>Men moet met deez' Dóktoor niet spótten:</l>
+<l>Want was 'er zyn Zalf Probatum est,</l>
+<l>Hy kwam 'er niet meê in dit Gewest.</l>
+</lg>
+</sp>
+<stage><hi rend="i">Rittornello.</hi></stage>
+<sp>
+<speaker><hi rend="sc">De Kwakzalver</hi>.</speaker>
+<lg type="poem">
+<l><hi rend="b">Mocht aber mancher fragen und sagen:</hi></l>
+<l><hi rend="b">Mein lieber Steinschneider</hi>/</l>
+<l><hi rend="b">Mein lieber Otterfanger</hi>/</l>
+<l><hi rend="b">Du sagst uns viehl von deiner Artzeney</hi>/</l>
+<l><hi rend="b">Du rumst mir viehl</hi></l>
+<l><hi rend="b">Von deiner wahre</hi>/</l>
+<l><hi rend="b">Allein wie giebst du sie den?</hi></l>
+<l><hi rend="b">Wie hoch haltst du sie den?</hi></l>
+<l><hi rend="b">Schaut ihr meine Hochgeneigte Seelen</hi>/</l>
+<l><hi rend="b">Denen selben geb ich zur antwort:</hi></l>
+<l><hi rend="b">Anfanglich und vohrs erste</hi></l>
+<l><hi rend="b">Soll der Liebhaber uber kommen</hi>/</l>
+<l><hi rend="b">Ein Glaslein von meinen</hi></l>
+<l><hi rend="b">Kostlichen Sanct Cathrinen Oehl</hi>/</l>
+<l><hi rend="b">Sant Cathrinen Oehl ihr meine Herren</hi></l>
+<pb n="5"/>
+<l><hi rend="b">Das ist ein Oehl</hi></l>
+<l><hi rend="b">Welches in diesen Landern</hi></l>
+<l><hi rend="b">Fremb und rahr</hi>/</l>
+<l><hi rend="b">Wird nicht allein von den Christlichen menschen</hi></l>
+<l><hi rend="b">In See und Meerlandern</hi></l>
+<l><hi rend="b">Gahr wehrt geachtet</hi>/</l>
+<l><hi rend="b">Sonder auch die frembde Nationen</hi>/</l>
+<l><hi rend="b">Als Griechen und Barbarischen menschen</hi></l>
+<l><hi rend="b">Pflegen zu ihrer liebes Gesundheit</hi>/</l>
+<l><hi rend="b">Auch die todten Corper mitt zu balsamiren.</hi></l>
+</lg>
+</sp>
+<sp>
+<speaker>Het <hi rend="sc">Koor</hi> van <hi rend="sc">Toekykers</hi>.</speaker>
+<lg type="poem">
+<l>Hoort, Heeren hoort, wyl deeze Man</l>
+<l>Zo veelerleye kuuren kan,</l>
+<l>En raad weet voor elk eens gebrek,</l>
+<l>Is 't zeker geen gemeene Gek.</l>
+</lg>
+</sp>
+<stage><hi rend="i">Rittornello.</hi></stage>
+<sp>
+<speaker><hi rend="sc">De Kwakzalver</hi>.</speaker>
+<lg type="poem">
+<l><hi rend="b">Zum andern ein Buchslein</hi>/</l>
+<l><hi rend="b">Von meiner kostlichen</hi></l>
+<l><hi rend="b">Wund/ und Heilsalbe.</hi></l>
+<l><hi rend="b">Zum dritten eine quantitet</hi></l>
+<l><hi rend="b">Von den approbirten Wurm saamen.</hi></l>
+<l><hi rend="b">Zum vierdten eine vohrtreffliche Wurtzel</hi></l>
+<l><hi rend="b">Vohr die alte Teuffels Heksen.</hi></l>
+<l><hi rend="b">Vohr die alte wetter wetter wetter Macherin.</hi></l>
+<l><hi rend="b">Alle diese oberwehnte stuck</hi>/</l>
+<l><hi rend="b">Ihr meine Herrn</hi>/</l>
+<l><hi rend="b">Geb ich euch zu sammen</hi>/</l>
+<l><hi rend="b">Und habe sie denen liebhabern</hi>/</l>
+<l><hi rend="b">Hohes</hi>/ <hi rend="b">und niedriges standes</hi></l>
+<l><hi rend="b">Verkanfft und verehret</hi></l>
+<l><hi rend="b">Umb zwene schilling.</hi></l>
+<l><hi rend="b">Zwey schilling ihr meine Herrn</hi>/</l>
+<l><hi rend="b">Es ist ein lumpen geld.</hi></l>
+<l><hi rend="b">Es ist ein Brandewein geld</hi>/</l>
+<pb n="6"/>
+<l><hi rend="b">Mancher verspielt in einer stunde</hi></l>
+<l><hi rend="b">Zehn Reichsthaler</hi>/</l>
+<l><hi rend="b">Und hatt nichts da von</hi></l>
+<l><hi rend="b">Als krauen im nacken</hi></l>
+<l><hi rend="b">Und reissen im Beutel.</hi></l>
+<l><hi rend="b">Versaumet dar uber</hi></l>
+<l><hi rend="b">Meine herliche Medicamenta</hi></l>
+<l><hi rend="b">Schaut ihr meine Herrn</hi></l>
+<l><hi rend="b">Ihr bezahlet nur das Papier.</hi></l>
+<l><hi rend="b">Was sag ich vonder kostlichen Artzeney</hi>/</l>
+<l><hi rend="b">Die ich euch nur des wegen berehre</hi>/</l>
+<l><hi rend="b">Da mitt ich des to besser unter euch</hi></l>
+<l><hi rend="b">Bekant werde.</hi></l>
+<l><hi rend="b">Nun ihr meine Herrn</hi></l>
+<l><hi rend="b">Wer lust und belieben hatt</hi></l>
+<l><hi rend="b">Der werfe sein Naastuch</hi>/ <hi rend="b">herauff.</hi></l>
+<l><hi rend="b">Alle diese stucke</hi></l>
+<l><hi rend="b">Sind ihm</hi>/ <hi rend="b">von mir</hi>/ <hi rend="b">als approbirten</hi></l>
+<l><hi rend="b">Und examinirte</hi></l>
+<l><hi rend="b">Stein</hi>/ <hi rend="b">Bein</hi>/ <hi rend="b">Schwein</hi></l>
+<l><hi rend="b">Und Bruch Schneider</hi></l>
+<l><hi rend="b">Zum neuen jahre</hi></l>
+<l><hi rend="b">Geschencket und berehret</hi>/</l>
+</lg>
+</sp>
+<stage>Hier worden eenige Neusdoeken op de Stellaadje gesmeeten, en geduurende het Speelen der Muzikanten, word Pekelhaaring, door de Kwakzalver, van de Worm gesneeden.</stage>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">De Minzieke Juffer, De Kwakzalver, Het Koor</hi> van <hi rend="sc">Toekykers</hi>, <hi rend="i">en alle de voorgaande.</hi></stage>
+<sp>
+<speaker><hi rend="sc">De Minzieke Juffer</hi>.</speaker>
+<lg type="poem">
+<l>Och liefste Dókter, reik me uw hand!</l>
+<l>Och help my uit deez' groote brand!</l>
+<l>Help, help my uit deez' Minnepyn,</l>
+<l>Of ik zal niet lang leevend zyn.</l>
+<pb n="7"/>
+<l><hi rend="b">Ach liebes Kind</hi>/ <hi rend="b">nim einen Mann</hi>/</l>
+<l><hi rend="b">Der dich des nachts sein viehl mahl kann</hi>/</l>
+<l><hi rend="b">In seine arme schliessen ein</hi>/</l>
+<l><hi rend="b">So wirstu bald gesunder sein.</hi></l>
+</lg>
+</sp>
+<stage><hi rend="i">Rittornello.</hi></stage>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Twe Draagers, De Heerschzugtige</hi>, <hi rend="i">in eene Draagstoel</hi>, <hi rend="sc">De Kwakzalver, De Minzieke Juffer, het Koor</hi> van <hi rend="sc">Toekykers</hi>, <hi rend="i">en alle de voorgaande.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Eerste Draager</hi>.</speaker>
+<lg type="poem">
+<l><hi rend="i">Place, place, place, place</hi></l>
+<l><hi rend="i">Pour le Baron de la Crasse.</hi></l>
+</lg>
+</sp>
+<sp>
+<speaker><hi rend="sc">Twede Draager</hi>.</speaker>
+<lg type="poem">
+<l><hi rend="i">Ut, re, mi, fa, sol, la, fa,</hi></l>
+<l><hi rend="i">Gare, gare, gare la.</hi></l>
+</lg>
+</sp>
+<sp>
+<speaker><hi rend="sc">De Heerschzugtige</hi>, <hi rend="i">uit de Draagstoel zynde.</hi></speaker>
+<lg type="poem">
+<l><hi rend="i">Monsieur, regardez ma douleur!</hi></l>
+<l><hi rend="i">L'Ambition ronge mon Coeur:</hi></l>
+<l><hi rend="i">Mon Ame en est si fort remplie,</hi></l>
+<l><hi rend="i">Que je n'ai, n'i repos, n'i vie.</hi></l>
+</lg>
+<p>óf</p>
+<lg type="poem">
+<l>Myn Heer, ai zie wat my gebreekt!</l>
+<l>Het is een Jigt die 't bloed ontsteekt.</l>
+<l>Myn ziel van Heerschzugt ingenomen,</l>
+<l>Kan tot geen rust nóch vreede komen.</l>
+</lg>
+</sp>
+<sp>
+<speaker><hi rend="sc">De Kwakzalver</hi>.</speaker>
+<lg type="poem">
+<l><hi rend="b">Mein Herr ich kenn den truben stand</hi>/</l>
+<l><hi rend="b">Es giebt ihr mehr in euwrem Land</hi>/</l>
+<pb n="8"/>
+<l><hi rend="b">Doch wen man Demuts wurtzel braucht</hi></l>
+<l><hi rend="b">So ist di kranckheit bald verraucht</hi>/</l>
+</lg>
+</sp>
+<stage><hi rend="i">Rittornello.</hi></stage>
+</div>
+<div type="scene">
+<head rend="h4">Zesde, en Laatste tooneel.</head>
+<stage><hi rend="sc">De Geldzugtige, De Kwakzalver, De Minzieke Juffer, De Heerschzugtige, Het Koor</hi> van <hi rend="sc">Toekykers</hi>, <hi rend="i">en alle de voorgaande.</hi></stage>
+<sp>
+<speaker><hi rend="sc">De Geldzugtige</hi>.</speaker>
+<lg type="poem">
+<l>Och Dókter, wil my niet versmaaden!</l>
+<l>Ik kan myn' Geldzugt niet verzaaden;</l>
+<l>Deez' Kanker knaagd myn Lever af,</l>
+<l>En sleept my hong'rig na het graf.</l>
+</lg>
+</sp>
+<sp>
+<speaker><hi rend="sc">De Kwakzalver</hi>.</speaker>
+<lg type="poem">
+<l><hi rend="b">Ambesten stund ihm wohl zu rahten</hi>/</l>
+<l><hi rend="b">Mitt einen schoeffel sack Ducaten</hi></l>
+<l><hi rend="b">Den weem vohr dieser kranckheyt graut</hi>/</l>
+<l><hi rend="b">Der brauche tausend gulden kraut.</hi></l>
+</lg>
+</sp>
+<stage><hi rend="i">Rittornello.</hi></stage>
+<sp>
+<speaker><hi rend="sc">De Minzieke Juffer</hi>.</speaker>
+<lg type="poem">
+<l>Och, blusch deez Minnegloed,</l>
+<l>Zy doet myn ziel verteeren!</l>
+</lg>
+</sp>
+<sp>
+<speaker><hi rend="sc">De Heerschzugtige</hi>.</speaker>
+<lg type="poem">
+<l>D<hi rend="i">e l'un, a l'autre Sphere</hi>,</l>
+<l><hi rend="i">Je veux regner par tout.</hi></l>
+</lg>
+<p>óf</p>
+<lg type="poem">
+<l>Alleen niet te regeeren,</l>
+<l>Verdroogd my 't Merg, en 't Bloed!</l>
+<pb n="9"/>
+<l>My helpt geen Pleister, Drank nóch Smout;</l>
+<l>De beste Balsem, is het Goud.</l>
+</lg>
+</sp>
+<sp>
+<speaker><hi rend="sc">De Minzieke Juffer, De Heerschzugtige</hi>, <hi rend="i">en de</hi> <hi rend="sc">Geldzugtige</hi>, <hi rend="i">te gelyk.</hi></speaker>
+<lg type="poem">
+<l>Wat raad, Dóktoor? wat raad?</l>
+<l>Kunt gy onze onlust weeren?</l>
+</lg>
+</sp>
+<sp>
+<speaker><hi rend="sc">De Kwakzalver</hi>.</speaker>
+<lg type="poem">
+<l><hi rend="b">Ja</hi>/ <hi rend="b">sa</hi>/ <hi rend="b">ich will es</hi>/ <hi rend="b">schweeren:</hi></l>
+<l><hi rend="b">Gebt mir nur ein Ducat</hi>/</l>
+<l><hi rend="b">Ihr solt durch meinen raht</hi>/</l>
+<l><hi rend="b">Euch selber bald kuriren.</hi></l>
+</lg>
+</sp>
+<stage><hi rend="i">Rittornello.</hi></stage>
+<sp>
+<speaker><hi rend="sc">De Minzieke Juffer, De Heerschzugtige</hi>, <hi rend="i">en de</hi> <hi rend="sc">Geldzugtige</hi>, <hi rend="i">te gelyk.</hi></speaker>
+<lg type="poem">
+<l>Wel haast u Dókter, en wy zullen</l>
+<l>Jouw Beurs met drinkgeld, ryk'lyk vullen.</l>
+</lg>
+</sp>
+<sp>
+<speaker><hi rend="sc">De Kwakzalver</hi>.</speaker>
+<lg type="poem">
+<l><hi rend="b">Verliebte haben sparren.</hi></l>
+<l><hi rend="b">Ehrsuchtge bleiben Narren.</hi></l>
+<l><hi rend="b">Die Geitzgen sind voll unvernumft.</hi></l>
+<l><hi rend="b">Ist das nicht eine schone</hi><note n="*" place="margin">Gild.</note> <hi rend="b">Zunft?</hi></l>
+</lg>
+</sp>
+<stage><hi rend="i">Rittornello.</hi></stage>
+<sp>
+<speaker><hi rend="sc">De Minzieke Juffer, De Heerschzugtige</hi>, <hi rend="i">en de</hi> <hi rend="sc">Geldzugtige</hi>, <hi rend="i">tegelyk.</hi></speaker>
+<lg type="poem">
+<l>Ai haast u Dókter, help jouw Kranken,</l>
+<l>Je zult voor 't drinkgeld ons bedanken.</l>
+</lg>
+</sp>
+<sp>
+<speaker><hi rend="sc">De Kwakzalver</hi>.</speaker>
+<lg type="poem">
+<l><hi rend="b">Ich weiss furhwahr kein Pflaster</hi>/</l>
+<l><hi rend="b">Vohr alle diese laster:</hi></l>
+<pb n="10"/>
+<l><hi rend="b">Drumb nembt eerstlich Wurm saamen ein</hi>/</l>
+<l><hi rend="b">Unt lernet mit mir Kluger sein.</hi></l>
+</lg>
+</sp>
+<stage><hi rend="i">Rittornello.</hi></stage>
+<sp>
+<speaker><hi rend="sc">De Kwakzalver</hi>, <hi rend="i">met de</hi> <hi rend="sc">Drie</hi> <hi rend="i">andere, en het</hi> <hi rend="sc">Koor</hi> van <hi rend="sc">Toekykers</hi>, <hi rend="i">te gelyk.</hi></speaker>
+<lg type="poem">
+<l>Staatzugt, Geld, en 't Minnen,</l>
+<l>Kwetsen ziel, en zinnen.</l>
+<l>Liefde, Geld, en Staaten,</l>
+<l>Kunnen niemand baaten.</l>
+<l><stage><hi rend="i">Rittornello.</hi></stage></l>
+<l>Minzugt maakt ons moei'lyk.</l>
+<l>Heerschzugt, is verfoei'lyk.</l>
+<l>Geldzugt, is verdrietig.</l>
+<l>En al t'zaamen niettig.</l>
+</lg>
+</sp>
+<sp>
+<speaker><hi rend="sc">De Kwakzalver</hi>, <hi rend="i">met de</hi> <hi rend="sc">Drie</hi> <hi rend="i">andere, en het geheele</hi> <hi rend="sc">Koor</hi>, <hi rend="i">te gelyk, met alle de Instrumenten.</hi></speaker>
+<lg type="poem">
+<l>Daarom laat ons haastig loopen,</l>
+<l>Om een Tegengift te koopen.</l>
+<l>Als die zwakheên ons beknellen,</l>
+<l>Moet de Deugd haar nedervellen.</l>
+</lg>
+</sp>
+<stage><hi rend="spat">EINDE</hi>.</stage>
+
+</div>
+</div>
+</body>
+</text>
+
+</TEI.2>

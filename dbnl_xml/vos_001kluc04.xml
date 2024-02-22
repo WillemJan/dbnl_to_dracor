@@ -1,0 +1,1725 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Klucht van de Mof</title>
+               <author>Isaak Vos</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van de herdruk van <hi rend="i">Klucht van de Mof</hi> van Isaak Vos uit 1669. De eerste druk dateert uit 1660.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>p. 4: accolades verspreid over meerdere regels kunnen in deze digitale versie niet weergegeven worden. Daarom wordt de accolade hier, met bijbehorende tekst, op iedere regel herhaald.</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent>32</extent>
+           <scandetails>
+               <scan type="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>2</empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">vos_001kluc04_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note></note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Theater Instituut Nederland, signatuur: 13 B 18: 4</idno>
+               </bibl>
+               <p>Isaak Vos, <hi rend="i">Klucht van de Mof</hi>. Jacob Lescailje, Amsterdam 1669 (herdruk)</p>
+               <p>&#160;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Klucht van de Mof</title>
+               <author>Isaak Vos</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Klucht van de Mof</title>
+               <author>Isaak Vos</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-08-16</date>
+               <respStmt>
+                   <name type="person">SG</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+<interpGrp>
+<interp type="primair" value="duits01"/>
+</interpGrp>
+<body><cf>
+<div type="chapter">
+
+<pb n="1"/>
+<p>KLUCHT</p>
+<p>VAN DE</p>
+<p>MOF,</p>
+<p>door ISAAC DE VOS.</p>
+<p><hi rend="i">Gespeelt op d'Amsterdamsche Schouwburg.</hi></p>
+<p><figure>
+<p><xptr to="vos_001kluc04ill0001.gif"/></p>
+</figure></p>
+<p>t' AMSTERDAM,</p>
+<p>By J<hi rend="i">acob Lescailje</hi>, Boekverkooper op de Middeldam, naast de Vismarkt, in 't jaar 1669.</p>
+
+</div></cf>
+<div type="chapter">
+<pb n="3"/>
+<head rend="h3">Aen den berisper.</head>
+<lg type="poem">
+<l>I<hi rend="i">Ndient u niet behaeght, segt alles wat ghy wilt</hi></l>
+<l><hi rend="i">Met u spits-slangige tong, het zy dan boe of baa;</hi></l>
+<l><hi rend="i">Doorsiet het vry te deegh, want of ghy 't schoon bedilt,</hi></l>
+<l><hi rend="i">Sie</hi> ich wils soo haben / was vraegstu daer na.</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="4"/>
+<head rend="h3">Personagien.</head>
+<list>
+<item><hi rend="i">Jochim Bueleke</hi>, } drie Moffen.</item>
+<item><hi rend="i">Michel</hi>, } drie Moffen.</item>
+<item><hi rend="i">Hans</hi>, } drie Moffen.</item>
+<item><hi rend="i">Lubbert</hi>, een Schoen-maker.</item>
+<item><hi rend="i">Neel</hi>, sijn Wijf.</item>
+<item><hi rend="i">Brechje</hi>, de Dochter.</item>
+<item><hi rend="i">Floor</hi>, de Jongen.</item>
+<item><hi rend="i">Ian</hi>, de Knecht.</item>
+</list>
+</div>
+<div type="act">
+<pb n="5"/>
+<head rend="h2">Klucht van de Mof.</head>
+<head rend="h3">Eerste uytkomst,</head>
+<stage><hi rend="i">Iochim Bueleke uyt het Veerschip van Zwol komende, spreeckt.</hi></stage>
+<l><hi rend="b">D</hi>At wolde onser Furst, ont nimmer keen olt wijf,</l>
+<l>Tom suke noch toe, woo seer deyt mick et lijf,</l>
+<l>Als wen ik gerodert weer, mijn doogen kaam ick nicht wedder too scheepe,</l>
+<l>Y tommelde sick, eft et dlo weer, ont hat soo ein seltzeme greepe</l>
+<l>In maarse, dat ihm de hoore te barge stonden, ick reep tom suke,</l>
+<l>Schipman, holt stille, wat let dick too vluke,</l>
+<l>Doe blinde humling seed he, kanstu et moel nicht holden,</l>
+<l>Ick sweeg ydel stil, man ick dacht wy scholden</l>
+<l>Al ons doogen nicht wedder too lande kamen,</l>
+<l>Den vorwoor de scheepknechten hadden al de seegels ingenamen,</l>
+<l>Soo greslijck saag het door oet, on dat mich op 't meyst brude,</l>
+<l>Ick hed soo eyn hechtken gevreten, ont al de lude</l>
+<l>Dit lachede oft se roosende dol weeren, ick vroogde en woorom,</l>
+<l>Dat weerste wol wijs worden sedense, kom</l>
+<l>Man eyn luttick wijder in zee dat speck moeter wedder oet,</l>
+<l>On eyn stunde 'er twey dar noo kreeg ik soo eyn gril aver de hoet</l>
+<l>Dat ick swart om gen kop wert, ick speugh al wat ick in 't lijf hat,</l>
+<l>Man 't is mick wol hondert mool leet dat ick nicht wedder op vrat,</l>
+<l>Aber 't was nicht mochlijck est ick schoon doen wolt,</l>
+<l>It was to mele hubsch swijne vleesch, soo geel as eyn dukoten golt,</l>
+<l>'t Was verwoor to euvel, soo as die besuckede wint weyde</l>
+<l>Soo ongestuym ont soo heslijck, dat ihm de oogen im kop verdreyde.</l>
+<pb n="6"/>
+<l>Noe dat's tot door toe, herneughtst queemen wy by de dusse Stat,</l>
+<l>Ick wust by mijnder arme keel nicht beter, den dat</l>
+<l>Ick een wolt, oder eyn woestijn voor my hat, ont et were ydel schepen,</l>
+<l>Ick dacht de hose koppen hebt oock seltzeme greepen</l>
+<l>Im moorse, se meugense wol oet schijten</l>
+<l>Mit beguntse alle toogels on segels los too rijten,</l>
+<l>Dat help meiner seel seed ick, noe bin ick oet al mijn noot,</l>
+<l>On wy steegen doe in eyn melck nap, die weer koem sesteynde part soo groot</l>
+<l>Wiet ander, on et weer stickende voll,</l>
+<l>Ick meen dat ick in angst weer, sudoor ick woll</l>
+<l>Derwol eyn stijgh doolder om geven hebben, hat ick er oet gewest,</l>
+<l>Ick dacht ick slacht de vette swijnen, ick bin noe al oet gemest,</l>
+<l>Toch meinen gluk halp mik der noch oet, wo door bet mik een loes.</l>
+<stage><hi rend="i">Hier siet hy een Aep op 't venster sitten.</hi></stage>
+<l>Oomken mit verlof, woor geyt men hier na em roothoes?</l>
+<l>Wo sy blar dynen duvel an, wil tu het nidt seggen loot et blijven,</l>
+<l>Wat mangelt dy schayven hont wiltu mit my kijven?</l>
+<l>Wen ick olt on wijs genoch weer, doe lutke hoosekop,</l>
+<l>Ick mocht dijne voor wol weesen, versteystu dat doede dop?</l>
+<l>Su wat scheerstu mick, dot dy de soepschijt in lijve voor:</l>
+<l>Dat weer eyn heslick creatoer, 'k loef 't is de lijf-haftige bodde boor,</l>
+<l>'t Gift my nicht wonder dat de rijcke lu wanschoopen kinder krijgen,</l>
+<l>Soo asse een minsch toe spreecken.</l>
+<stage><hi rend="i">Iongens binnen.
+<lb/>
+Floor met een twee drie jongens die em uyt jouwen.</hi></stage>
+<sp>
+<speaker><hi rend="i">Floor.</hi></speaker>
+<l>Hee, hee, heruyt, mof, mof.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Weer stu swijgen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Floor.</hi></speaker>
+<l>Hee, hee hanneke de meyer, honichlicker, mof, mof.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l rend="; 1tab">Woe noe weerste dol?</l>
+<pb n="7"/>
+<l>Ick heb dyne mueme de moors geleeckt, versteytstu dat wol?</l>
+<l>Loot mick de hoet op em kop blijven, y goddeloosen wichters,</l>
+<l>Woo kan eyn minsch keyne vreede hebben? gans lichters</l>
+<l>Ick werd mijne meus hulle het vuer soecken,</l>
+<l>Lagh i door om, ick plegen voor eyn sloop mutse im schepe toe gebroeken:</l>
+<l>Su soo noe steyt he vast, kaamen noe eyn mool wedder om</l>
+<l>Iong segh ick loot bereemen, edder doe kright eyn oorvijch woo ick kom.</l>
+</sp>
+<stage><hi rend="i">Twee Moffen, Hans en Michel al singende uyt.</hi></stage>
+<lg type="poem">
+<l><hi rend="i">Oet diesem hoese scheyd ick nicht</hi></l>
+<l rend="; 1tab"><hi rend="i">Het schijnt de morgen steern.</hi></l>
+<l><hi rend="i">Helder noch penning heb ick nicht,</hi></l>
+<l rend="; 1tab"><hi rend="i">Onlijck wol soep ick geern, dat geyter mie, dat, &amp;c.</hi></l>
+</lg>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>Wat ducht dy Hans was dat nicht eyn hubse potse?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hans.</hi></speaker>
+<l>Ioo voorwoor y deeden recht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l rend="; 2tab">Woe die schijt fortze</l>
+<l>Meende datse narren veur sich hedde, averst 't was 'er wat gescheeten,</l>
+<l>Ick dacht doe bruetste boeren nicht, ick werd dat wol weeten</l>
+<l>Te passen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hans.</hi></speaker>
+<l>Woo seegstu dat nicht, de kennekens weeren koem half voll?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>Woo scholl ick dat nicht seen, edder meenstu dat ick doll</l>
+<l>Ben, et quammer al euvel wedder toes,</l>
+<l>Doe weetst wol dat ick eyn sincke mooker bin.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hans.</hi></speaker>
+<l>Dat 's woor, doe hestze in de greep wie de pracher de loes,</l>
+<l>Woo hest tot et den gemoockt?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l rend="; 1tab">Hen joo, gans bloet</l>
+<l>Hans, wee hebben woll seven eder acht kennekens gehadt, on ick hebber drie of veer oet</l>
+<l>Gewist, door wust die domme duvel nich van.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hans.</hi></speaker>
+<l>I wat hestoe eyn kloecken kop voorwoor doe bist eyn verstendig man.</l>
+</sp>
+<pb n="8"/>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>Su is dat Iochim Buleke nicht met der mutse?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hans.</hi></speaker>
+<l rend="; 4tab">Woor?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>Dort ginder veer</l>
+<l>Tom hondert doesent storten suke, woor komst toe heer?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Dat dee twintich duvel hool, woo lang heb ick dy nicht seen,</l>
+<l>Woo voorstoe mit Grayte, mach men dy geluck been?</l>
+<l>Doe reedelijcke Michel, ick meen doe weerst al lang gehangen.</l>
+<l>Woo geyter met Peeter van Meppel?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l rend="; 3tab">Och liefve Vrundt die is gevangen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>I segh et nicht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mic.</hi></speaker>
+<l rend="; 2tab">Verwoor, hee ont Geer Vollen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Wat tijt?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l rend="; 1tab">Voor eyn mone edder twee.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l rend="; 5tab">Woor doch?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l rend="; 7tab">In 't stift Collen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Woo steyt et hier too lande toe, heb y luy y balt gedoon;</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>Ioo, we gedencken mit lief tavont wedder noe hoes too goon.</l>
+</sp>
+<stage><hi rend="i">Michel begint weder te singen.</hi></stage>
+<lg type="poem">
+<l><hi rend="i">Pyp op loot bromen</hi></l>
+<l><hi rend="i">'t VVeit wel woor omme</hi></l>
+<l><hi rend="i">De olden wyver die sunt ons gram.</hi></l>
+</lg>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>I sunt lyden lustich ducht my.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l rend="; 6tab">Dat loof ick wol,</l>
+<l>Iochim 't kan noe keen quoot, wee hebt de budel vol,</l>
+<l>Ont om keyne hunden to weesen, hebben wy eyn wacker roes gesopen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Woor krijgh y dat lustig beer? 'k wol ook wol voor eyn Seslinck edder twey koopen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>'t Heet geyn bier doe nar, 'et heet Branjewijn,</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Ioo woor kricht men den dat?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l rend="; 6tab">Wil toe der sijn?</l>
+<l>Kom heer mijn keerl, ick wert dy wol wijsen,</l>
+<pb n="9"/>
+<l>Su stoe dat breet wol oet hangen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l rend="; 3tab">Woor, door den grijsen</l>
+<l>Olden man in steyt?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l rend="; 1tab">'t Is keyn man doe oell,</l>
+<l>'t Is eyn wit roech hondeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>'t Maegh dijne meums tassche, he heft joe eyn boort om smoel.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>Noe lootet den soo wesen, den wegh schastu insloon,</l>
+<l>Woor doe den eyn kenneke op 't venster sicht, door schastu in goon.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Wat gelt soo eyn kroesken: 'k wil nicht geern too veel geeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>Drie Hollentsche stuber, noe by leeven</l>
+<l>Edder starve Iochim, ick hoffe dein wolfaren, on go.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hans.</hi></speaker>
+<l>Ick jou oock Lantman.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Ick wunsche jou veelle goedes, noe Hans on Michel to</l>
+<l>Wedder seens, greut mick alle goe vrunden thoes,</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hans.</hi></speaker>
+<l>Dat schollen wy wol doen.</l>
+</sp>
+<stage><hi rend="i">Hans en Michel binnen.</hi></stage>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l rend="; 1tab">Noe ick mach my eyn wackere roes</l>
+<l>Goon soepen, dat ick de Kolloene dick krijg, on morgen goon om wark vroogen,</l>
+<l>Su door dat geyter noo toe, al schollenser my met eyn buer door wedder van doon droogen.</l>
+</sp>
+<stage><hi rend="i">binnen.
+<lb/>
+Lubbert een Schoenmaker, soeckt na sen gereetschap, en roept sijn wijf Neel, die met een Spinne-wiel voor den dagh komt, terwijl dat de knechts te werck komen.</hi></stage>
+<sp>
+<speaker><hi rend="i">Lub.</hi></speaker>
+<l>NEel, Neel, weer is men sny-mes; hebje dat niet esien?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Neel.</hi></speaker>
+<l>Ia: deer is 't Vaer.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Floor.</hi></speaker>
+<l rend="; 1tab">Gen-dagh Miestre.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lub.</hi></speaker>
+<l rend="; 2tab">Moy, 't is al kartier over ien</l>
+<l>Wel Ian, je weet wel datwe sulck drock werck hebben weer meughje dus lang blijven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Neel.</hi></speaker>
+<l>Nou Vaer de klock is noch niet kout, hoe meughje dus kijven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lub.</hi></speaker>
+<l>Wie kijft, maer ick segter so by, je weet wel dat et klaer moet wesen,</l>
+<l>Soo niet soo raeck ick licht het heerschap quijt sou ick vreesen,</l>
+<pb n="10"/>
+<l>T'sa lustigh Gasten, kloeck gearbeyt van deuse weeck,</l>
+<l>Hou weer jonge, heestje wat, deer sinne drie paer kinder schoenen van ses steeck,</l>
+<l>Ie moetse voort af maecken, dat segh ickje, verstaeje wel,</l>
+<l>Ie kent wel asje wilt, nou leet sien, lustigh en fraey, as een gesel,</l>
+<l>Op dat asje jou eygen voogt bint, je kost mit eeren kunt winnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Neel.</hi></speaker>
+<l>Ia ja, men Kijnt, men moet kloeck wesen, alsmen beginnen</l>
+<l>Groot te worden, wilme al mee as ien aer veur den dagh komen, o deer is soo veul van doen,</l>
+<l>En dat moet gelt kosten, kijk de jonge luy willen altijt het nieu fatsoen</l>
+<l>Met kracht volgen, dat den ien het dat willese allegaer hebben.</l>
+<l>Vaer veur wie sinne die schoene mit die lange snebben,</l>
+<l>Ick seg dat de luy wat weten, 't machme wel heuge dat mer niet of wist,</l>
+<l>Seecker hy moet al wel estelt wesen dieder over pist.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lub.</hi></speaker>
+<l>Wat leyt jou daer an, as sy 'et soo versteen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Neel.</hi></speaker>
+<l rend="; 1tab">Wel</l>
+<l>Ian de Graeyer hoe is 't, machme niet ien woort spreeken?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lub.</hi></speaker>
+<l>Wat brume dat ouwe vel,</l>
+<l>'t Geer jou ummer niet an; meugh jy 'et dan niet lyen</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Neel.</hi></speaker>
+<l>Ia ick, maer je konter te veuren wel ien paer, of twie meer uyt een vel snyen,</l>
+<l>As je nou doet, en je kreegh schier even veul gelt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lub.</hi></speaker>
+<l>Dat is seeker niet weer, want men wort nou wel ien schelling mier etelt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Neel.</hi></speaker>
+<l>En asset naut ick kentje bewijsen mit men boeck.</l>
+<l>Wel 't is mijn om 't eeven, weer sie jy nee, lustich as ien man kloeck.</l>
+<pb n="11"/>
+<stage><hi rend="i">Iochim door misverstant, in een onrecht Huys gheweest hebbende, en Oly voor brandewijn gedroncken, komt half sieck zijnde uyt, en seyd:</hi></stage>
+<l>GAnt kreesem noch toe, woo euvel wert mick, o my</l>
+<l>Wat weert hier oet weerden, doe leve barmhertigheyt ick spy</l>
+<l>Al de Kolloene oet, joo oock al wat ick im lijve heb, o bloet:</l>
+<l>Tom hondert goe Ioor noch toe, ick glue om de hoet:</l>
+<l>Wie eyn lijf haftighe Koole vuer, woo schal dit aflopen,</l>
+<l>'t Sweyt breckt my hinder ont vueren oet, al weer ick bed roopen</l>
+<l>Mit vet Suegen Speck, ick konder nicht ovelder oet seen,</l>
+<l>Och meyn herts, et walgt my im balge: och door is noe geen</l>
+<l>Hoop van lenger to leven, on schal ick hier den so ellendighe starven</l>
+<l>Och mijn arme olde Meum, soo werd eyn ander komen, ont arven</l>
+<l>Mijne Wootsack, one dat wol ick niet recht geerne, nee by mijnder trou</l>
+<l>Op dusse bedroefde wijewelt gun ickse kemant leever den jou,</l>
+<l>Iou kaamtse oock mit recht toe, went y geven my al den bruy teffens</l>
+<l>Doe 'k wech reysde, als twey Hespen, vier Worste, ses Stoeten, neffen</l>
+<l>Twey nieuwe Hemden, mit eyn halve Rijcxdaller an baer gelt,</l>
+<l>Den heb ick oock soo trouw bewoort, jo nich eyn heller door van oet getelt,</l>
+<l>Och lever got von Soest, moch ick nou oock verandren wie y deden,</l>
+<l>In harde Specy doolder, och soo weer ick wol too vreeden,</l>
+<pb n="12"/>
+<l>Den al de jennyge die mick hantieren noo mijn doot, schollen my noch danck weeten,</l>
+<l>'t Weer oock veel beter dat ick jemant toe nut worde, den dat mick dee wormen vreeten.</l>
+<l>O wee door komt wedder eyn vloogh, die wil mick de panse in twey byten,</l>
+<l>'t Wert mick so nat vor den hindersten, potslapperment ik moet schyten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lubbert.</hi></speaker>
+<l>Hou weer jonge breng dat paer schoenen een reys tuys selje.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Neel.</hi></speaker>
+<l>Dat's t'avont tijts genoech hy versuymt te veul.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lubbert.</hi></speaker>
+<l>Hoe quelje</l>
+<l>En mens dus, wat en besukt werck, ist nimmermeer ne je sin gedaen,</l>
+<l>Nou weer na staeje, gae voort segh ick, as ick spreeck soo selje gaen,</l>
+<l>Komme ras weer ick segghetje, sie toe en wilter wel op letten,</l>
+<l>Hem hey, maer vraag et heerschop of hy se voort betalen wil, dan of ickse te boeck sel setten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ian.</hi></speaker>
+<l>Baes langme wat spynael.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lubbert.</hi></speaker>
+<l rend="; 7tab">Hou weer hebje gien mier,</l>
+<l>Ay Neel roep Bregje een reys.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Neel.</hi></speaker>
+<l rend="; 4tab">Wat selse doen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lubbert.</hi></speaker>
+<l rend="; 6tab">Maer sel me een mingele bier</l>
+<l>Geen halen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Neel.</hi></speaker>
+<l rend="; 1tab">E Brechje, e Brechje.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l rend="; 3tab">Wat sel ick doen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Neel.</hi></speaker>
+<l rend="; 5tab">Loop by je vaertje.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l>Wat beliefje te hebben?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lubbert.</hi></speaker>
+<l rend="; 2tab">Hou weer deer is de kan en haelme ien paertje</l>
+<l>Bier hier by, en segh datse je geven dat moy vars is,</l>
+<l>Van de ouwe juch krijgh ick sulcken snyingh in men buyck, en om dat et so bars is.</l>
+<l>Soo vraagh icker niet veul na, neen ick hou veul van een varsse teugh.</l>
+</sp>
+<pb n="13"/>
+<sp>
+<speaker><hi rend="i">Lubbert.</hi></speaker>
+<l>En princepael als je ien vaen vijf ses voor je neus hebt.</l>
+<l>Weetje 't ouwe spreeckwoort van Piet hol niet? elck sen meugh.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Iochim.</hi></speaker>
+<l>Noe is mick wol veur eyn doolder beter im pansse, jo verworen sot,</l>
+<l>Dat sagh er bysterlijcken mit my oet, wat eyn honsvot,</l>
+<l>Ick daght by mijnder arme padentassche nicht dat icker dorch kamen schol,</l>
+<l>Ne noe geytet on steytet, su door om keyne so Daller, wol</l>
+<l>Ick die pijne weder oetstoon, nee by mijnder seel,</l>
+<l>Ick leep wie eyn schijtende hont, on ick heel</l>
+<l>De buckse in beyde hende, middelerwijl sagh ick eyn gangsken open, door wol</l>
+<l>Ick mit verloeff mijne nootdruft doen, wo noe weerstu dol,</l>
+<l>Reep door eyn besuckt olt wijf, se hed soo eyn lange snebbe,</l>
+<l>Woo nae groot-meumeke seed ick al mit gemack: ick wilt nicht hebbe</l>
+<l>Dat doe door schidts seedse, ick dacht dat scholdender wol doesent seggen jo verwoor,</l>
+<l>Tom lesten vont ick noch yen steynen brugge, door</l>
+<l>Ick my den ontsletygen drek toe hubschen quyt mookte,</l>
+<l>Tom goe Ioor noch toe, wat effet veur tuygh weer door ick soo of broockte?</l>
+<l>'t Moet selseme krachten aver sich hebben, 'k loof 't heft vloogen,</l>
+<l>Dat scholme joo seggen, den 't weer mine lantsluy in 't hooft on my in gen moors gesloogen.</l>
+<l>Noe dat helpt my nicht, 'k hebt al lange genoch jegen my self verhoolt,</l>
+<l>'k Moet seen woor ick eyn hoosekop opstommel, die mick dit wedder betoolt,</l>
+<l>Den ick werd myne partremony om nicht verkleynen, al scholter nóch soo dol ofloopen:</l>
+<pb n="14"/>
+<l>Dort sie ick eyn schoester sitten, den wil ick seen dat ick em mijn hoedtken verkoopen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Iochim.</hi></speaker>
+<l>Leever Frent geeft doch wat voor eyn arm verdreeven man dat bid ick jou.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Neel.</hi></speaker>
+<l>Gaet voorby.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Iochim.</hi></speaker>
+<l rend="; 1tab">Geevet doch eyn stuckke droogh broot,</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lubbert.</hi></speaker>
+<l rend="; 4tab">Nou,</l>
+<l>Och bewaert ons, schaemje jou niet, jou groote knecht datje beedelen geet?</l>
+<l>Ie bent ommers jonck en starck, sienje de luyse-vangers by de street</l>
+<l>Te schoyen, men live knecht, se souwen je voort na et Rasphuys bringe.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Iochim.</hi></speaker>
+<l>Dat is door men 't bromsilgen sooget, dat wol kein mensch immer gehengen,</l>
+<l>Geeft doch wat voor eyn vreemt arm kneght, die ter welt gans nicht heeft door hy van leeft.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Neel.</hi></speaker>
+<l>Ay lieve loop heen, je kant jou broot wel winnen, hy doet sonde die jou wat geeft,</l>
+<l>In Amsterdam kanme wel te recht komen, deer isser soo menigh duysenr die der aen de kost raken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Men lieve vrouw, ick heb keen hantwerck geleert, wat schol ick den maken?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lub.</hi></speaker>
+<l>Datje deugen wout men sou je wel helpen by 't ien of 't are ambocht,</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Och mijn hart leevester trouster vrunt, dat weer de rechte katze die ick socht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lub.</hi></speaker>
+<l>Wat duncktje van 't schoen-maken, sou je deer wel sin in hebben, spreeck lustigh,</l>
+<l>Nou wat seghje?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l rend="; 1tab">Woo lang schol ick wol leeren?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lub.</hi></speaker>
+<l rend="; 2tab">Wat om datje ien rustigh</l>
+<l>Keerl bint, ick segh van vier jaar.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Neel.</hi></speaker>
+<l rend="; 3tab">Dat schut ick;</l>
+<l>Weerom gien vijf? vier dat's ommer te luttick.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lub.</hi></speaker>
+<l>Siet dat wijf komt mee altijt steuren, as ick met ymant in de praet ben:</l>
+<pb n="15"/>
+<l>Kenje jou besuckte murf niet houwen? deer vaar et vier in.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Neel.</hi></speaker>
+<l>Hoe is 't nou, machmen niet spreecken Ian dreumel, elck wat wils.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lub.</hi></speaker>
+<l>Wie seyt vanje spreecken woudt-aep: maer om datje altijt soo veel bedils</l>
+<l>Hebt, siet dat en begeer ick niet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Neel.</hi></speaker>
+<l rend="; 4tab">Wel latet dan staen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lub.</hi></speaker>
+<l>Maer vrient hoe hietje?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Iochim.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lub.</hi></speaker>
+<l rend="; 2tab">Heu, heu Iochim, maer weer van daen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Woo ick van danne bin dat werd ick jou wol verhalen.</l>
+<l>Ick hoor nicht wijt van Hooselunnen te hoes, en stadt in Westphalen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lub.</hi></speaker>
+<l>Maer hebje dan hielendal niet e liert?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l rend="; 1tab">Nicht anjers den meyen, on 't lant to bouwen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lub.</hi></speaker>
+<l>Hoe gaet 'et daer met den oorlogh kanje ter noch geende houwen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Och liefve deucht wat scholle wy, de krijgers verdarvent soo schoon, dat 'er nichts averblift,</l>
+<l>See seen nicht an geystligh noch weltligh, wat plegender in stist</l>
+<l>Munster on Oosenbrug, voorneme Hernhusei too wesen, on christelicke Kaspelen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lub.</hi></speaker>
+<l>Sinne die dan nou miest wech?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l rend="; 3tab">Dat leuf ick wol, soo asse haspele</l>
+<l>Iegen eyn ander, wen de Keysersche eyn plecke in-nemen, alto hant</l>
+<l>Kamen de Sweeden ont Hessen, ont joegense veur twentig duyvel, ont steecken de bru in brant.</l>
+<l>Dat moeten wy met goe oogen anseen, ont duren der nicht eyn woort wedder seggen,</l>
+<l>Man krijgen wyse dan eyn mool to vatten, in stroecken edder heggen,</l>
+<l>Soo moetense wedder anholden, door geyt et dan taf taf,</l>
+<l>Door schol y seen wat veur balbiers wy sunt, wy scheren hoor on boort mit eyn streeck af.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lub.</hi></speaker>
+<l>Maer men gelt en men goet was ick as jey, dat sou ick begraven.</l>
+</sp>
+<pb n="16"/>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Hen jou de deeven sunt to arch, se hebt veur eyn gewenst,</l>
+<l>Datse dy in eyn backoven steecken, en smueken dy soo lang dat doe et bekenst,</l>
+<l>Edder neemen eyn dobbeltseel, datse dorch twee stocken steecken, ont wringen</l>
+<l>Dy door den kop twisschen, dat dy ducht hee schal an doesent stucken springen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lub.</hi></speaker>
+<l>Soo hoor ick wel weet 'er ien een ditje, d'aar weeter een datje teugen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Neel.</hi></speaker>
+<l>Ia 't magh wesen hoe 't wil, 't sijn altoos stucken die niet deugen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Men leeve vrou wat schalme doen, 't gooter nicht anjers heer in onsen lanje?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Neel.</hi></speaker>
+<l>Maer weer leyt je lant, in Vranckrijck of in Spanje.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lub.</hi></speaker>
+<l>Sie die besuckte ouwe best een reys, hy seyt ommers in Westphalen,</l>
+<l>Bin je dan doof?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Neel.</hi></speaker>
+<l rend="; 1tab">Wat schortje te schempen en smaalen?</l>
+<l>Segh hanggat, ick wil spreeken, en ick sel spreeken, wat roert et jou</l>
+<l>Verbruyde luyshont?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lub.</hi></speaker>
+<l rend="; 1tab">Hoor vaer steurje jou niet an me vrou,</l>
+<l>Se het soo een mutsje brandewijn drie of vier op, en deer kense niet hiel wel teugen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Neel.</hi></speaker>
+<l>Dats weer krimpkloot, ick denck dat ick en jy het alle bey wel meugen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lub.</hi></speaker>
+<l>Wel wie drommel sou deyncken datse dat hoorde.</l>
+<l>Dat overgeslagen sijn man, om weer tot onse veurigen woorden</l>
+<l>Te komen, nou wat seghje van de vier jaer?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Doet soo wol on lootet drie wesen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Neel.</hi></speaker>
+<l rend="; 3tab">Och neen men lieve vaer,</l>
+<l>Dat sal ick niet toestaen, al sou we jou ons leven niet krijgen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lub.</hi></speaker>
+<l>Wel ick segh dat et veul is, gans lichters je selt swijgen,</l>
+<l>Of 't selme liet wesen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l rend="; 2tab">Nou vertooren jou nicht meyster,</l>
+<l>Hoort veerdenhalven joor werd ick jou dienen.</l>
+</sp>
+<pb n="17"/>
+<sp>
+<speaker><hi rend="i">Neel.</hi></speaker>
+<l rend="; 3tab">Dat wil ick niet doen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lub.</hi></speaker>
+<l rend="; 8tab">De pleyster</l>
+<l>Vaer inje kinnebacken, jou beseete ouwe vel;</l>
+<l>Nou wat segje wiljet doen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l rend="; 4tab">Noe lootet den soo weesen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l rend="; 9tab">Wel,</l>
+<l>Ey bewaerme, wat 's dat veur een groene veugel, ay lieve segh</l>
+<l>Ian.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ian.</hi></speaker>
+<l rend="; 1tab">Die selt ambacht by je vaer lieren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l rend="; 7tab">Wegh, wegh</l>
+<l>Met sulcken hansje hange-broeck; ist al van de geck!</l>
+<l>Vaertje deer is je bier, nou dat 's ierst ien hoddebeck.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ian.</hi></speaker>
+<l>Wat dunckje van die vrijer Breghje, is die seecker soo beus?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l>Wat neen, hy lijckt wel ien brackje had hy maer een dubbelde neus,</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lubbert.</hi></speaker>
+<l>Avoes lochim, ick brengt jou een reys.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Iochim.</hi></speaker>
+<l rend="; 6tab">Ick danck jou seer.</l>
+<l>Dochterken 't wert jou eyn mool gelden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l rend="; 7tab">Ia wel, 't sel weer</l>
+<l>Waeyen, hoe komt Paessen dus vroech in 't lant?</l>
+<l>Hou weer drinck je voor mijn Ian.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Iochim.</hi></speaker>
+<l>Met verlof, woor geyt men hier on de hemmelickheyt door men sijn behoef doen kan?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lubbert.</hi></speaker>
+<l>Deer onder die brugh verstaeje wel?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Iochim.</hi></speaker>
+<l>Io, jo, 'k werd noe wol vinden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l rend="; 5tab">Maer sel die fijne gesel</l>
+<l>By jou leeren?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lubbert.</hi></speaker>
+<l>Weerom sou hy niet?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l rend="; 2tab">Heer vaertje wat selje met sulcken knoet doen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lubbert.</hi></speaker>
+<l>Ia wel ick segh moer en dochter selme noch geck broen,</l>
+<l>Wat roert et jou, ick weet wel wat ick doen sel sou ick immer hopen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Neel.</hi></speaker>
+<l>Nou kijnt zwijgh jy stil, laet de bul al sen best heen loopen.</l>
+</sp>
+<pb n="18"/>
+<sp>
+<speaker><hi rend="i">Lubbert.</hi></speaker>
+<l>Ist niet gelijck ick segh? se passen op mekaer als de klock op elff.</l>
+<l>Weer of die besuckte moff blijft? kedeer is de man selff,</l>
+<l>Wel hey hoe was dat soo, dat quaem je schielick over?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Iochim.</hi></speaker>
+<l>I dat weer nicht een bru, 't ging to hans wol teyn mool groover,</l>
+<l>Ick meende dat ick worme im lieve had, on etweer mit reverenti klincklaer dreck.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ian.</hi></speaker>
+<l>Wat duncktje van die egalen gast.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l rend="; 2tab">Dat vaer em selfs in sen beck.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lubbert.</hi></speaker>
+<l>Hoe hadje een purgasi ingenomen datje soo los brande?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Iochim.</hi></speaker>
+<l>Des dinghs verstoo ick nicht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ian.</hi></speaker>
+<l rend="; 1tab">Of je een stoelganck ingenomen had?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Iochim.</hi></speaker>
+<l rend="; 3tab">Gans duysent schande,</l>
+<l>Woo ben ik soo dom, met verleuff y meenen eyn schijtery:</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ian.</hi></speaker>
+<l>Inje eygen backes.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Iochim.</hi></speaker>
+<l>Ne docht nicht, door was van mijn lants volck door ick by</l>
+<l>Quam, ont die hedden eyn wackeren roes gesoopen,</l>
+<l>Yder voor drie stuver, ick docht 'k werd oock wat koopen,</l>
+<l>Al schol ick in twey doogen nich eeten, eft ick nu in 't rechte hoes ghewest bin dat weet ick nicht,</l>
+<l>Don osse my schelms bedroogen hebben, altoos mijn goe meyster, sicht</l>
+<l>Toch, 't weer in dat strootken, ont in dem hoese, door i dat kenneken op dem venster seen,</l>
+<l>An eyn syt dat oethanghbret.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ian.</hi></speaker>
+<l>Wat of die geck uyt sen kruyn sloot, deer verkooptmen geen</l>
+<l>Brankewijn, maer Oly.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Iochim.</hi></speaker>
+<l>Dat ducht my oock, ruyck eyn mool woo mick de vinger stincken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lubbert.</hi></speaker>
+<l>Wat brutsme de besuckte dickkopte Moff, geeje man</l>
+<l>Oly veur Brandewijn drincken?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l>Maer hy doetet om beste wil vaertje, ick prijs de</l>
+<l>Dat hy de pis bekijckers geen gelt gunt, seecker hy hetter gien duert an.</l>
+</sp>
+<pb n="19"/>
+<sp>
+<speaker><hi rend="i">Iochim.</hi></speaker>
+<l>Tom hondert goe joor noch toe, moet y oock noch kamen,</l>
+<l>Doe looser meken, om my arme stumper to beschamen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ian.</hi></speaker>
+<l>Leet sien wie sal ik het brengen, avoes 't gelt jou een reys vrouw.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Neel.</hi></speaker>
+<l>Blijf sitten ick selt wel krijgen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lubbert.</hi></speaker>
+<l rend="; 1tab">Nou.</l>
+<l>Leet sien op dat we vast geen, en ons weten te regeleeren in deuse saecken,</l>
+<l>Soo selt dunkktme noodigh wesen om een schriffje van ons ackoort te maecken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Iochim.</hi></speaker>
+<l>Woo et jou beleever, man ik heb noch wat vergeten,</l>
+<l>Dat wy ein den anderen verstoon, woo schallewe et mit eten</l>
+<l>Holden, edder geef y dat toe wie de pelser et krijt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Neel.</hi></speaker>
+<l>Sie deer schep op met de groote pollepel, dat de kat schijt</l>
+<l>Selje hebben, doet ghelijck as andere doen, ick weet dat hier soo veul binnen</l>
+<l>Van jou lants luy, dat nou al groote Miesters sinnen,</l>
+<l>Die er kost van de goe luy by de huysen plegen te halen,</l>
+<l>En nou datse wat mier as mient sinne, wetense niet genoeg te smalen</l>
+<l>Op een andereen elck sen liet te segghen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lubbert.</hi></speaker>
+<l>Dats weer se benne elck ien te wijs, 't is altijdt van er rijckdom, po ho gien dingh kan 't hindere,</l>
+<l>Maer isser hier of deer een vettjen open, dan ist ick ben een arm man met een huys vol kinderen,</l>
+<l>Aensiet men nootdruft Heerschop, ick bidde guntet my doch,</l>
+<l>Ia se troggele soo lang tot datset wech hebben, noch,</l>
+<l>Ick geloof datmen geen onbeschaemder ondankberder volck inde hiele werelt sou weten te vinden as sy,</l>
+<l>Soo weynigh gedenckense an weldaet, genome jy ginckter by</l>
+<l>En bat'er om ien aelmoes, ick weet soo waer as wy leeve,</l>
+<l>Al benje duysentmael er lantsman, datse jou niet en beet geeven.</l>
+</sp>
+<pb n="20"/>
+<sp>
+<speaker><hi rend="i">Neel.</hi></speaker>
+<l>Dats weer sucke Indassen loopender ongder.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lubbert.</hi></speaker>
+<l rend="; 3tab">Hou jy jou mont.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l>Maer seker vaertje, je echt men moer slimmer as een hont,</l>
+<l>Ie hoort onse liest wel blaffen, en meughje heur dan niet hooren spreecken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lubbert.</hi></speaker>
+<l>Was ick in jou plaets schijtkousje, ick souwer men neus mee in steeken.</l>
+<l>Ian schey uyt 't wort laet, jonge brengt 't rietschop inde winckel,</l>
+<l>Kom, we sellen op 't goet succes een reys drincken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Floor.</hi></speaker>
+<l rend="; 2tab">Hou weer Ian, is dat je klopschinckel</l>
+<l>Niet?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ian.</hi></speaker>
+<l rend="; 1tab">Ia, kom langmese eer ickse vergeet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l>Maer lieve mortje wat of men vaer mit die besuckte mof doen sel? 't is teugen men sin.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Neel.</hi></speaker>
+<l>Ie weet toch wel dat hy alles na sen kop wil hebben, wat brust 'et my, kom gae me in.</l>
+</sp>
+<stage><hi rend="i">binnen.</hi></stage>
+</div>
+<div type="act">
+<head rend="h3">Tweede Uytkomst.</head>
+<stage><hi rend="i">Hans en Michel, verstoten sijnde, komen weerom, en Hans seydt.</hi></stage>
+<sp>
+<speaker><hi rend="i">Hans.</hi></speaker>
+<l>NOe Michel, wil toe mit soo scheer voort?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>I jo, doe hestet noe wol gebruyt, noe de poort</l>
+<l>Toe is.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hans.</hi></speaker>
+<l rend="; 1tab">Is 'et mijn schult wat hestoe soo lang too teuven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>Dat's woor doe schef-hacke, wat hestoe mijn too euven.</l>
+<l>Om my her om too leyden, wie man de narren deyt, mit eyn stroo halmke,</l>
+<l>Daer en baven geystoe mick wijs maecken, dat de Kloecken hier Psalmke</l>
+<l>Speelden, on 't is altoo hoop geloogen,</l>
+<l>Den et waer de poort-klocke, su soo schelms hesto mick bedroogen:</l>
+<pb n="21"/>
+<l>Wie y op den middagh oock deden, dat kam mee soo teemlijck fraey,</l>
+<l>Wet stoe wol van den bonten vogel.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hans.</hi></speaker>
+<l rend="; 1tab">By mijnder seel het weer eynen Papegay.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>Et weer dijne older meume, wilstoe my den leuge oock ontkladden:</l>
+<l>Edder meenstoe, dat ick nich sach doe nar, datse den oele gevarft hadden:</l>
+<l>Man soo eyn keerel bistoe, woor schollewe noe too nacht blijven?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hans.</hi></speaker>
+<l>Y Michel, ick bid dy wes doch too vreeden, wat let dick too kijven:</l>
+<l>Woo laet ons in eyn sloop-stede gaen, am twee stuyver kan men 't joo hebben.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>Dat's woor, drey mick daer eyn loch dorgh die snebben:</l>
+<l>Wol wijser, eer ick soo veel gelt onnut oet geef,</l>
+<l>Dat heft mick mijne vader nicht geleert, soo woor as ick leef,</l>
+<l>Wy West-Fransen sint van die aert nicht, als de rest.</l>
+<l>Wilt toe et doen, doe macht al dijn best,</l>
+<l>Loop hen, ick geef voor eyn nacht keyn geldt, ick sloop liever in dusse stoep:</l>
+<l>Wen doe nicht wilt soo wil ick oock nicht, soo blijven wy toe hoep.</l>
+</sp>
+</div>
+<div type="act">
+<head rend="h3">Derde Uytkomst.</head>
+<stage><hi rend="i">Brechje en Iochim, uyt.</hi></stage>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l>WEl hoe oft hier lucken sal kapstock, weer mach hy toch nae grijpen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Noe meecken holt my de flabbe toe, ick werd dier eyn mool op pijpen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l>Siet deuse neskebol, heruyt geck, wegh, wegh, hier van daen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Verwoor Ionfferke, ick heb juck soo leef, 'k wol wol 't lijf by jou looten opgoon,</l>
+<l>Eft su door leever on long oet eyn blanck hart dynen wegen spendeeren.</l>
+</sp>
+<pb n="22"/>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l>Neen vaer, steecktet liever inje of komst, soo selje jou niet beseeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Mijn leeveke, men deveke, mijn wobbeke, mijn slobbeke, ick doet oock nicht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l>Wel vaer was ick in jou plaets, ick wou byde Rederijckers of nieuwe Hollandse Commedianten gaan, licht</l>
+<l>Datse jou wel ien rol geven, as de winter weer over is.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Woo agierense dan noe nicht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brec.</hi></speaker>
+<l>Neen de kompangy is gescheurt, en om dat 'et nou hiel pover is,</l>
+<l>Sel 't wesen, lustigh pas op, (foxswans seyt mof) om weer an de Schouburg te raken,</l>
+<l>Of stuer een nichjen of een neefjen uyt, en als 't weer tegen de soomer gaet en datmen rekening sel maken</l>
+<l>Om te speulen, soo is 'er niemant te vinden; ja wel ik seg,</l>
+<l>Men maghse wel verkeerde ouwe-vaers hieten, want die vliegen tegen de winter, en sy tegen de somer weg.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Hoort doch dat ik jou nicht in jou reden arger, 'k looflijck wol datse nicht so goet speelen, als tot oesent,</l>
+<l>Door hebt wy ein mool von der Susannen geagierit, 'k loof dat 'er wol doesent</l>
+<l>Minschen weern, die al woors dachten, ont weynden dat 'er de oogen averleepen,</l>
+<l>Om dat ick 'er soo barmhertigh oet sagh, aber ick hed hendige greepen</l>
+<l>Aver my den eer sy er afwusten, moockt ick my met spy beede oogen nat,</l>
+<l>On door schol sich de duvel nicht voor heuden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechj.</hi></speaker>
+<l>Soo hoor ick wel jy hebt voor Susanne gespeult; wat</l>
+<l>Iy ons vertelt! ay kom hier toch wat by 't licht, deer moet ick jou een reys op an sien,</l>
+<l>Nou je bint een Susanna eweest, maer ay lieve kenje gien</l>
+<l>Mier van je rol?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Woo schol ick nich kennen; ick kan de gantsche Commedy altomael.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l>Nou ay lieve seght'er een beetje van.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Noe y moeten vlijtig toe hooren wen ick jou wat verhael.</l>
+<pb n="23"/>
+<l rend="; 1tab">Noe spreeckt der Susanne.</l>
+<l><hi rend="i">Goen dagh Iojokom men lieve man, ick werd hen na dem goorden gan</hi></l>
+<l><hi rend="i">Om my to wasschen hubsch on schoon, gelijck stedes ben gewoon.</hi></l>
+<l><hi rend="i">Noe meeghden komt unt volget my, ont goot sin lise si an si,</hi></l>
+<l><hi rend="i">Hebt ghiet noe besorg 'et al, dat ick gebroecken werd soo bal?</hi></l>
+<l rend="; 1tab">Noe spreekt eyne Maeght.</l>
+<l><hi rend="i">Ioock leefvrou, hier is de desem.</hi></l>
+<l rend="; 1tab">Noe spreeck de ander Maeght.</l>
+<l><hi rend="i">Hier is 't de mirrhe ont kresem.</hi></l>
+<l rend="; 1tab">Noe roep eyn Iungsken.</l>
+<l><hi rend="i">Lie Moederken woor wil y hen.</hi></l>
+<l rend="; 1tab">Noe roept eyn ander Iungsken.</l>
+<l><hi rend="i">Lie moederken, ay seght toch, wen</hi></l>
+<l><hi rend="i">Seen wy jou wedder?</hi></l>
+<l rend="; 1tab">Noe spreeckt Susanne.</l>
+<l><hi rend="i">Alsoo bald, men euygen troost ont op en halt,</hi></l>
+<l><hi rend="i">Seet dat ghy doch nicht werden stolt, man jou sijn ingetogen holt,</hi></l>
+<l><hi rend="i">Ont holt jou stedes by de sramen, of dat 'et keynt klachten kamen,</hi></l>
+<l><hi rend="i">Soo werd y leeve kinderen sijn, ond kamen in den hemmel sijn,</hi></l>
+<l><hi rend="i">Hier mit adiu noe goo ick hin, goo y to jouwen vader in.</hi></l>
+<l rend="; 1tab">Wat dunckt jou daer vom?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l rend="; 2tab">'t Is seecker hiel deftigh</l>
+<l>Is 't deer mee nu uyt?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Nee man ick werd noe van der Soesanne boeven spreken, dat verwoor oock heel treftigh</l>
+<l>Komt, noe hoort toch toe, noe spreeckt eyne Soesane boef.</l>
+<l><hi rend="i">Och mie is 't toch bestelt met mie, in grooter hartseer bin ick nie</hi></l>
+<l><hi rend="i">Gewesen, dat segh ick verwoor, wat toch tom hondert goeder Ioor,</hi></l>
+<l><hi rend="i">Hier oet wert weerden weyt ick nicht, ay truwer Kumpoon doet my bericht,</hi></l>
+<l><hi rend="i">VVoo dat ick werd verlost hier van den su ick werd nich eer aflan</hi></l>
+<l><hi rend="i">Voor dat ick eins mijns herten lust, met der Soesanne heb geblust.</hi></l>
+<l rend="; 1tab">Noe spreeckt de ander deef.</l>
+<l><hi rend="i">Soesanne leef dyn borsten ront, dijn witter vleesch, dijn roode mont,</hi></l>
+<pb n="24"/>
+<l><hi rend="i">En hubschen hals, auch schone oogen, die haben mich och arm bedrogen.</hi></l>
+<l>Dat mach mich Kommedy moken heyssen, dat heft eyn aart,</l>
+<l>On 't heft eyn jonck keerl gemoockt, die noch nicht eyn hoor im baert</l>
+<l>Heft, wo joo 't is de Kosters seun van onse Karke.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l>'t Mag wesen hoe 't wil, ick hoor 't is al een verstandigh varcken:</l>
+<l>Ie bint giesten mit ooren, 't is jammer datje op gien vier bienen gaet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>'t Is eyn kloeck-kopten keerl.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l rend="; 2tab">'t Blijckt dat hy vry wat verstaet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Noe Ionfferken loot ick jou eyn mool eyn poesken geven, 't smeeckt soo soet?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l>Ay kinderen hout 'et schot toe, op dat 'et varcken gien schade inde tuyn doet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Mijn leve wummelke woo sun y soo toornigh, hoor doch na eyn minschen reden,</l>
+<l>Ick heb wat goets met jou veur.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l rend="; 3tab">Wel nou ick ben te vreden,</l>
+<l>Wat of hier uyt komen sel, 'k loof hy het wint in 't hooft:</l>
+<l>Nou laet en reys hooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Toch.</hi></speaker>
+<l rend="; 1tab">Hoort mijn smoket meecken, gelooft</l>
+<l>Wis on waerhastigh, ick werd nich mit jou schartsen,</l>
+<l>Men dat ick jou seggen weerd, komt oet gront mijnes hartsen,</l>
+<l>'k Leuf y konnen hexen, edder op em bessemstock ryen, edder ander kunsten,</l>
+<l>Dat scholme joo seggen, verwoor joo sunsten</l>
+<l>Schalme soo balt nicht in die verlieven, den van eersten an dat ick jou sagh,</l>
+<l>Begon mich 't hert im panse toe sieden, as went in onse meums worstkerel lagh,</l>
+<l>De kolloeneswol mick tem halsen her op, ick dacht noe wert he der haroet springen.</l>
+<l>Help leeve got van Souft seed ick, ick kost my nicht bedwingen,</l>
+<pb n="25"/>
+<l>Ick broeckede allerley wijsheydt, ick dacht ick werd 'et mit dem drincken vergeten,</l>
+<l>Henjoo 't worde wol teyn mool arger, 't was even en allens as of ick ander speten</l>
+<l>Gebraden werde, 'k loof y konden 't oock wol seen</l>
+<l>Dat ick dick om de kop werde, on nou weet ick anders geen</l>
+<l>Hulpe, dat gy met my arme stumper och harm!</l>
+<l>Mitlijden hebben wilt, doorom looter doch barm</l>
+<l>Aver jou harte goon, den al de geleederen worden my stock stijf.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l>Ick hoor watter of is, jou diende wel een gouwe pleyster over jou hiele lijf.</l>
+<l>Maer mienjet in ernst?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l rend="; 1tab">Woo schol ick nicht?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l>'t Son wel gaen, binje slechts wat rijck van have?</l>
+<l>Woo schol ick nicht rijck wesen? men oem heft wol twe edder drie swyne kaven,</l>
+<l>Met eyn gantsche heerd schoopen, ont wol neegen stuck soo kuejen as runder,</l>
+<l>On mijn tette muy eer man, heeft oock wol ettelijcke bunder</l>
+<l>Lants, en aver al den bru heft mijne meume bevel.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l>Daer sou ick al wat na beginnen te luysteren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l rend="; 2tab">Wel</l>
+<l>Ick moet me Hollentsk leeren, mit ons schaft man oock better wie hier,</l>
+<l>Door vretmen kein kalde botter-melck im moorse, man eyn hubschen pot warm bier.</l>
+<l>Edder eyn wackeren groopen vol brye, die stijf is datter eyn boer mit holtenschoen op kan dansen, dat kleeft om de ribben,</l>
+<l>Onde dat alle morgen wedder, door steyt men oock nicht to libben</l>
+<l>Labben an eyn stuckxke swijne vlees, dat wie eyn holt soo mooger is,</l>
+<l>Ne grot eer my eyn hubschen schincken door eyn hant dick drie edder vier golt-geel speck an is,</l>
+<pb n="26"/>
+<l>On eyn joor twey er drie im roock hengen heft, door voort men wol van:</l>
+<l>Ioo al socht y dee gantse welt deur, y konnen keen beter man</l>
+<l>Too jouwen lijve vinden, wie ick.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l>Verdoeye deer niet, ay lieve breng deer een burry of ien kruywagen,</l>
+<l>Om deuse schoone vryer met reverentie en eerbiedigheydt op de misthoop te dragen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Dat segh y man oet scharts, y seen my lijckel geern.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l rend="; 1tab">Puys, puys.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Woo joo, ick kan de meeckens gesont snacken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l>Soo dienje wel in 't gasthuys.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Iochim.</hi></speaker>
+<l>Noe loot toch hooren mijn ooch appelken, schalt so voort gaen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l>Mijn sin ist wel, maer wat weet ick 't oft men ouwers 't soo verstaen,</l>
+<l>En 't is hier oock de manier dat me ten minsten soo een half jaer moet vryen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Iochim.</hi></speaker>
+<l>I leet ick man toe nacht by jou sloopen, se moetent den wol lyen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l>Wat ducktje van die schelm, wie sou deyncken dat de Hannekes sulcke guyte binnen:</l>
+<l>Ick loof jou dickkop, ick seltje betalen, kan ick maer wat versinnen.</l>
+<l>Laet sien daer valt me wat in, ik dien niet langer te beyen,</l>
+<l>Ick sal al men best loopen, en spreyen</l>
+<l>Men vaers bedt op, en daer sal ick hem moytjes in leggen,</l>
+<l>En als 't tijdt om te slapen is sal ick al de gelegentheyt seggen,</l>
+<l>En zijn heftighe min, soo het aers gaet na mijn mienen,</l>
+<l>Sel hem dan verkoelt worden met stock-slagen en spanriemen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Iochim.</hi></speaker>
+<l>Noe mijn harts alderleefste nachtegool, schalt bad omgaen:</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l>Ia, ick selt opspreyen, blijfje hier soo lang staen,</l>
+<l>Of gaet na binnen toe, en als ick hoest of hem, kom dan, hoorje wel.</l>
+</sp>
+<pb n="27"/>
+<sp>
+<speaker><hi rend="i">Iochim.</hi></speaker>
+<l>Dat schol ick doen mijn soecker-moelken, bin ick nicht ien hups gesel,</l>
+<l>Ick kan lijde wol mit de deerens om goon, on dat kan yder man nicht,</l>
+<l>Wo wien ick sin in onse Ionckers dochter hedden, snack y daer van, ick wolse soo licht</l>
+<l>Wie ick dusse handt om wende, tom wyve krijge,</l>
+<l>Man et dinck is to heeger im omfanck, men scholse wol en twey miege,</l>
+<l>On wat scholmen mit so een wicht doen, man leget jo am eersten doot,</l>
+<l>Man dusse vogel schalt wol oet holden, mit eer heeft het keen noot,</l>
+<l>Noe ick ga binnen toe, op dat 'et de meyster nicht marcken kan.</l>
+</sp>
+<stage><hi rend="i">Bin.</hi></stage>
+</div>
+<div type="act">
+<head rend="h3">Vierde Uyt-komst.</head>
+<stage><hi rend="i">Brechje, het bet opspreydende, seyt.</hi></stage>
+<l>NOu daer heb ick een vryer, seecker ick hebber geen duert an,</l>
+<l>Ia wel het is om dol te worden, wat of de Moffen haer voor staen laten:</l>
+<l>Die rechte smeer-stegels willen oock van vryen praten,</l>
+<l>Gelijck deuse dras-broeck al me, die noch soo groen</l>
+<l>Als gras is, en by doet hem op als een dreck in een pompoen,</l>
+<l>Ia wel 't is een postuertje een mensch mach 'er voor vreesen;</l>
+<l>'k Loof seecker hy beelt hem in, dat hy een Hanne of een Geese,</l>
+<l>Of een andere Deense Iotte, daerse me after de ploegh gaen,</l>
+<l>Voor het, daer hadje 't niet, 't isser veer van daen,</l>
+<l>Seecker hy most wel belust wesen die om sulcken man</l>
+<l>Verlegen was, neen doch, soo hou ick het noch mit onse Ian,</l>
+<l>Dat 's een knecht als een werelt; en ick heb hem lief, sou ick niet, trouwen,</l>
+<pb n="28"/>
+<l>Hy wort schier van elck een bemint, 'k weet datter wel echte vrouwen</l>
+<l>Sinnen, die hem wel sien mogen, maer hy hetter den dray van,</l>
+<l>Hy bemint sijn Brechje, en Brechje bemint haer Ian;</l>
+<l>Nou dat 's even soo veel, dat roert een ander in alle geval niet.</l>
+<l>Hem, hou, waer blijft deuse stijve Piet</l>
+<l>Denck ick. Seecker ik miende datje me al vergeten hadt.</l>
+<sp>
+<speaker><hi rend="i">Iochim.</hi></speaker>
+<l>O neen, mijn lutke deern.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l>Kom volgme, ick selje in de kamer brengen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Van harte geern.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l>Sie daer is de bedt-stee daerwe in leggen, z'is moy vlack,</l>
+<l>Maer we sellen ons wel behelpen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>I welcken snack,</l>
+<l>Dat y heroet slaet, loot mick man betyen:</l>
+<l>Ont went noch eyn mool so eng weer, ick weet wol mick te vlyen.</l>
+<l>Mijn leveken ick sweer by mijnder tassen, on door komt keen ander geloof in mijn,</l>
+<l>Den dat klumpken door doe van gemoockt bist, moet soker gewest zijn,</l>
+<l>Kom dan mijn hoeneken, mijn tijpken, loot ich dijn eyn mool vatten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l>Och hoe soet is de liefde, als een arm vol jonge katten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Iochim.</hi></speaker>
+<l>Io jonferken, de leefde brent wie koestront inde lamp.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l>He he, komt het soo datter sulcken damp</l>
+<l>Uyt je mont vlieght, is 't dat, datje gebreeckt,</l>
+<l>Kom vaer, gaje in 't bed, en smoort die vlam eer datje 't hiele huys in brant steeckt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Iochim.</hi></speaker>
+<l>Dat sunt to molen sachte vedderen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l rend="; 1tab">Hoe gaet hem de wasel.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Iochim.</hi></speaker>
+<l>Kaam y mijn popke?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l>Heruyt geck, ick eet op een tobbe, je steeckt jou voeten niet onder mijn tafel.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Iochim.</hi></speaker>
+<l>Hoor nich Greteke.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l>Mijn naem is Brechje.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Iochim.</hi></speaker>
+<l>I soo, Brechken wil ick seggen.</l>
+<l>Weert ghy jou nicht oet theen.</l>
+</sp>
+<pb n="29"/>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l>Strackjes, 'k moet men ouwers eerst goenacht wenschen, blijfje maer stil leggen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Iochim.</hi></speaker>
+<l>Ay geeft mick dan eerste een potske.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l rend="; 1tab">Wat deuse sot:</l>
+<l>Hou op, dat 's waer, after mijn oor deer bin ik niet besnot.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Iochim.</hi></speaker>
+<l>Y my is soo wonderlijck, al de geleeder sunt my stock-stijf,</l>
+<l>Door geytse hen, on scheyt van mick als koedreck van moeder lijf.</l>
+<l>Y wat heft sie hendige gebeerden, 't is voor woor eyn hubse deeren,</l>
+<l>Woor mach dat lutteke tevekint blijven: 'k wol van harten geeren</l>
+<l>Datse wedder hier wee; wat schol mijn olde Meume al wonjer snacken,</l>
+<l>Dat icker mit so eyn schelmken an mijn sijde quam te hoes sacken:</l>
+<l>'t Gantse dorp van Kolbeeck spracker wonjer van, jo voorwaer,</l>
+<l>Door leuf ick isse wedder. By mijnder sielen 't is de vaer:</l>
+<l>Dat de hoer de suke hool: se heeft ghelogen,</l>
+<l>Och ik arme knecht! wo ben ik soo schendigh bedrogen:</l>
+<l>Dat dy dat Osenburger wapen besloo, doe looser meeke,</l>
+<l>Och ick weet jo gants keen root, ick mach de kop onder de decken steeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lub.</hi></speaker>
+<l>Ay Neel laet ick noch een reys drincken, seker ick bin noch niet buys.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Neel.</hi></speaker>
+<l>Ick wil geen gedrinck mier hebben, je hebt 't hoy al tuys.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lub.</hi></speaker>
+<l>Ick kan deuse kraegh niet los krijgen, hoe wort een mensch oock gebruyt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Neel.</hi></speaker>
+<l>Brechje doe jy 't een reys los, en helpt hem 't wambas uyt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lub.</hi></speaker>
+<l>O bloet is dat valle.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Neel.</hi></speaker>
+<l>Wat isser Vaer?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lub.</hi></speaker>
+<l>Iou loose fleers,</l>
+<l>Wat hebje in 't bedt geleyt, licht een reys met de keers.</l>
+<l>Wel wat is dit voor een juweeltje? Neel, Neel, ackerment 't is een giest.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Neel.</hi></speaker>
+<l>Dat moet ick bekijcken; jou droncke biest,</l>
+<l>Sel jy in ons bed gaen leggen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ian.</hi></speaker>
+<l>Wel vrouw wat is hier te verhackstucken?</l>
+</sp>
+<pb n="30"/>
+<sp>
+<speaker><hi rend="i">Neel.</hi></speaker>
+<l>Ay lieve kijckt dense schelm ien reys.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lub.</hi></speaker>
+<l rend="; 5tab">Hoe selt hier lucken</l>
+<l>Deynck ick?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Iou dochter och arm mijn goe meyster! die heeft mick bedrogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l>Vaertje dat is niet waer, de schelm het gelogen,</l>
+<l>Maer ick seltje van stuckje tot beetje doen verstaen.</l>
+<l>Flus soo ick om wat te halen, inde keucken sou gaen,</l>
+<l>En dit liefje volgde mijn, en hielme deer dingen voor die niet betaemde</l>
+<l>Te seggen, ja wel deer, ick schaemde</l>
+<l>Me schier doot, gelijckje dencken kunt, wel hoe</l>
+<l>Een eerlijcke dochter sulcks te vergen, deynckt toch hoe ick te moe</l>
+<l>Was; nou ick liet hem al betien,</l>
+<l>En ick bedocht dese list, op datje allegaer sout sien</l>
+<l>Dat het een guyt is die niet en deught.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lub.</hi></speaker>
+<l rend="; 4tab">Ia, ja, bin jy sulcken quant?</l>
+<l>Dat selle we jou wel uytkomen; sa mannen, elck een stock inde hant,</l>
+<l>Of wat ghy krijgen kont.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Iochim.</hi></speaker>
+<l rend="; 2tab">Och meiner lieben goe meyster,</l>
+<l>Ick bid jou holt doch op.</l>
+</sp>
+<stage><hi rend="i">Na datse Iochem uyt gejaeght en dapper ofgesmeert hebben, komense wederom, en Ian seyt:</hi></stage>
+<sp>
+<speaker><hi rend="i">Ian.</hi></speaker>
+<l>Ick geloof vastelijck dat hy daer een teyster</l>
+<l>Tien twaelf, die goet is gekregen heeft, trouwen het quam hem toe.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Neel.</hi></speaker>
+<l>Hoe is 'et Lubbert vaer?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lub.</hi></speaker>
+<l rend="; 3tab">O mijn, ick bin soo moe.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Neel.</hi></speaker>
+<l>Kom vaer, gaeje jou wat rusten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ian.</hi></speaker>
+<l rend="; 1tab">Wel Brechje daer heb ickje noch te liever om,</l>
+<l>Nou datje jou soo wel gequeten hebt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l rend="; 5tab">Iou schelmpje, kom</l>
+<l>Hier een reys, selje men noch scheeren?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ian.</hi></speaker>
+<l>Neen ick seeckers.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Brechje.</hi></speaker>
+<l>Nou dat 's alliens, soo moetment de Moffen verleeren,</l>
+<l>Die 'er al te veel laten voorstaen, en ruycken niet in wat lant sy sijn.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ian.</hi></speaker>
+<l>Ie hebt jou wel geweert met de nemmer in de brant, kom moer gaje met mijn</l>
+<l>Na binnen toe.</l>
+</sp>
+<stage><hi rend="i">binnen.</hi></stage>
+</div>
+<div type="act">
+<pb n="31"/>
+<head rend="h3">Vijfde Uytkomst.</head>
+<stage><hi rend="i">Iochim komt al klagende naeckt in sijn hemt, en treet onversiens op sijn Lants-luy, waer af sy verschricken en wech loopen.</hi></stage>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>O wee! o wee! o wee! wat bin ick in groote noot.</l>
+<l>Hans, Hans, her op Hans, loop, loop, hier komt de bittere doot.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hans.</hi></speaker>
+<l>Holt, holt Michel, hey woor bistu door ghebleven?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Ghy vrame Kaspel-kinderen, verschrickt nicht, su ick bin noch in 't leven</l>
+<l>Ont hebbe vleesch on knoocken, wie andere mensche.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>Dat loof ick nich den bistu eyn mensch soo verweer dick,</l>
+<l>Edder bistoe eyn geyst ick besweer dick,</l>
+<l>Bistoe van goeden soo kaam an mick,</l>
+<l>Bistoe van bosem soo goo van mick.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Och neen ick bin nicht booses, man ik ben bedroghen soo schenlijck.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>'k Loof dat her Iochem is, 't let sijnder sproocke enlijck.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Io die sullevege bin ick, heb kennis an mijn y vroome lude,</l>
+<l>Wat suntje voor welcke?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hans.</hi></speaker>
+<l rend="; 1tab">Dijne kompoens, Hans ont Michel.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l rend="; 2tab">Och su eyn mool woose mick brude.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>Wat hebtse dy gedaen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Hoort, doe y van my scneeden, kam ick verby eyn schoester gaen,</l>
+<l>Door ik mit eens worden, om 't hantwerck by toe leeren,</l>
+<l>On dee hat eyn hubse dochter, dee gink mit soo firceeren,</l>
+<l>Ick meende datse mijn soo leef hedde, wie ik eer deeden,</l>
+<l>Wat heft dat tevekint too doen, se geyt, ont leede</l>
+<l>My in 'er vaers bedde, on sede se wol by my komen:</l>
+<l>Noe ick verwachten eer met smarten, man wel duvel scholt dromen</l>
+<l>Datse sulcke kneepen im maerse hat, den eer ick omsach weerense my alte hoop op 't lijf,</l>
+<l>Nu hestoe door sloon sien, ja, dat my al de geleder stijf</l>
+<pb n="32"/>
+<l>Ont lam sunt, on wat ick bad 'et mocht nicht baten,</l>
+<l>On tot mijn groot ongeluck, heb ick 'er al mijn kleyder, mijn waetsack, ont mijn seysen moeten laten:</l>
+<l>Wat dunckt jou heb ick keyne rede dat ick mick bedreuve?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>Woo du pleeght te verstendighste im Kaspel too wesen, on lestoe die soo euven,</l>
+<l>Averst doe kenst de hose-koppen noch nicht, se sunt to slim.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Och mijne kleyder, mijne kleyder!</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l rend="; 1tab">Noe mijn lieve Ghim,</l>
+<l>Goo doe mit ons, en west wel too vreeden,</l>
+<l>We hebt noch gelt in buydel, ont werden dy wol wedder kleeden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Och! woo kaam ick 'er toe? och! och! och!</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>Hen ja soo hestoe dat olde spreeck-woort nicht hooren soogen:</l>
+<stage><hi rend="i">VVer lichtelijck geloovet, wert lichtelijck bedroogen.</hi></stage>
+<l>Noe dat heftet al wech, nae weenen helpt doch nicht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ioch.</hi></speaker>
+<l>Oy vraame Lants-luy al to hoop, sie toch wol toe dat y soo licht</l>
+<l>Dusse hose-koppen nicht geloovet, man neemt eyn exempel an mijn,</l>
+<l>Steckt eerst doe vinger in d'eerde, ont ruckt in wat lant y sijn,</l>
+<l>Ick mach altoos seggen dat ick too Amsterdam wese bin,</l>
+<l>'t Wert eerst ont lest wol blijven, keen duvel krijght 'er my wedder bin.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>Y Iochim 't is genoch, loot doch dat karmen blijven,</l>
+<l>Noe loot sen Hans, loot ons em binnen brengen, de Keerel mocht verstijven.</l>
+</sp>
+<stage><hi rend="spat">EYNDE</hi>.</stage>
+</div>
+</body>
+</text>
+
+</TEI.2>

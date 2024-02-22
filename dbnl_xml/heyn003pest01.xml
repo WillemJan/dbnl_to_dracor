@@ -1,0 +1,1753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Pest-spieghel</title>
+               <author>Zacharias Heyns</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Pest-spieghel</hi> van Zacharias Heyns uit 1602.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>Een deel van de tekst is moeilijk leesbaar. Dat is hier steeds tussen vierkante haken aangegeven.</corr>
+                       <corr>fol. Aiiijr, Aviv, Biiijv: dedrijf → bedrijf: ‘Sondich bedrijf’.</corr>
+                       <corr>fol. Biv: in het origineel lijkt een regel te ontbreken. Deze tekst is tussen vierkante haken toegevoegd.</corr>
+                       <corr>fol. Biiijv: doorstrhcken → doorstrijcken: ‘Com icker noch by ick sal hem soo doorstrijcken’.</corr>
+                       <corr>fol. Bvv: 1 → 2: ‘3. Ha<hi rend="i">n</hi>deling. 2. Verschoning’.</corr>
+                       <corr>fol. Bvijr: vlyven → blyven: ‘So willen wy ons dan blyven vet mesten’.</corr>
+                       <corr>fol. Cvijv: gbeblust → gheblust: ‘Begeerens heete brandt, wort nimmermeer gheblust’.</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <publicationStmt>
+               <idno type="titelcode">heyn003pest01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2020 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note></note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Universiteitsbibliotheek Leiden, signatuur: 1096 H 94, scan van Google Books</idno>
+               </bibl>
+               <p>Zacharias Heyns, <hi rend="i">Pest-spieghel</hi>. Zacharias Heyns, Amsterdam 1602</p>
+               <p>&#160;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Pest-spieghel</title>
+               <author>Zacharias Heyns</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <idno type="nur"></idno>
+           <availability>
+               <p></p>
+           </availability>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Pest-spieghel</title>
+               <author>Zacharias Heyns</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <idno type="nur"></idno>
+           <availability>
+               <p></p>
+           </availability>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2019-11-27</date>
+               <respStmt>
+                   <name type="person">RK</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+<text>
+<body>
+<cf><div type="chapter">
+<pb ed="" rend="blank" n="voorplat"/>
+<pb ed="" n="binnenkant voorplat"/>
+<p>MAATSCH. DER NEDERL. LETTERK. TE LEIDEN.</p>
+<p><hi rend="i">Catal. </hi>bl.</p>
+<p><hi rend="i">Geschenk van Tooneelstukken, </hi>1841.</p>
+<pb ed="fol." rend="hidden"/>
+<pb ed="fol." rend="hidden"/>
+<pb ed="fol." n="Air"/>
+<p><hi rend="i">Pest-Spieghel.</hi></p>
+<p>VVaer in speelsche wyse, tot beteringhe des levens, claerlijck bewesen ende voor ooghen ghesteldt wordt dat de Peste niet by gheval, maer door Godes ghehengenisse den menschen tot een straffe overcomt.</p>
+<p><hi rend="i">Door. Z.H.</hi></p>
+<p>&#160;</p>
+<p><hi rend="i">Levit. 26. Deut. 28. Num. 12.</hi></p>
+
+<lg type="poem">
+<l><hi rend="i">Met Peste</hi>n <hi rend="i">menichmael de Heer te straffen dreycht</hi></l>
+<l><hi rend="i">Die tegens zijn ghebodt sich tot het quade neycht.</hi></l>
+</lg>
+    <figure>
+        <p><xptr to="heyn003pest01ill0001.gif"/></p>
+<figDesc><hi rend="i">SIC ITVR AD ASTRA</hi></figDesc>
+    </figure>
+<p>t'Amstelredam, by Sacharias Heyns, inde drie Hooftdeuchden. 1602.</p>
+
+</div></cf>
+<div type="chapter">
+    <interpGrp><interp type="primair" value="smyt002"/></interpGrp>
+<pb ed="fol." n="Aiv"/>
+<head rend="h3"><hi rend="i">Lier-dicht tot Z. Heyns.</hi></head>
+
+<lg type="poem">
+<l>VVanneerme<hi rend="i">n</hi> siet, ô vrient, uvve gedichte<hi rend="i">n</hi></l>
+<l>Hoe sy de mensch' al spelend' onderrichte<hi rend="i">n</hi>,</l>
+<l>Sijn prysens vveerd': devvyle dat sy stichte<hi rend="i">n</hi></l>
+<l rend="; 1tab">En 'thert' verlichten.</l>
+<l>Insonderheyt dit spel 'tvvelck in dees' tyde<hi rend="i">n</hi></l>
+<l>(Nu ons de Pest, bevecht aen alle syden)</l>
+<l>Ons leert met vreucht Gods straffe vvillich lyden</l>
+<l rend="; 1tab">Ia met verblyden.</l>
+<l>Daero<hi rend="i">m</hi>me vvilt voortaen u vorder spoeyen</l>
+<l>En varen voort, laet u voorneme<hi rend="i">n</hi> groeyen</l>
+<l>Op dat uvv' Pen haer meer en meer mach moeyen.</l>
+<l rend="; 1tab">In const' te vloeyen.</l>
+<l>So sult ghy lof in eeuvvicheyt vervverven</l>
+<l>En uvven naem d'onsterffelicheyt derven</l>
+<l>Vvant elck een van uvv' goedre<hi rend="i">n</hi> sal beerve<hi rend="i">n</hi></l>
+<l rend="; 1tab">Als ghy sult sterven.</l>
+</lg>
+<p><hi rend="i">A. Smyters.</hi></p>
+
+</div>
+<div type="chapter">
+<pb ed="fol." n="Aijr"/>
+    <head rend="h3">Eervvaerdige, Constlievende, mitsgaders Redenrijcke Mannen, soo Hoofden, Liefhebbers als Personagie<hi rend="i">n</hi> die't Lavender <hi rend="b">uyt Levender jonsten</hi> ter eeren Rethorices onderhouden.</head>
+<p><hi rend="b">A</hi><hi rend="i">Lsoo dit speelken te deser tyden nut om spelen, tot verquickinge der benauder herten, voorghenomen ende vol-eijnd was, ende dat ic de sake dieper insiende, bevant dat het selve ghespeelt, niet soo veel nuts doen en soude alst wel soo't ghedruct werde, mits het spelen alleenlick van sommige ghesonde gesien, ende in dese gevaerlicke tyden niet so aengenae</hi>m<hi rend="i"> bevonden soude worde</hi>n<hi rend="i">, daer't gedructe spel den benaude</hi>n<hi rend="i"> mede voorgelesen, d'ee</hi>n <hi rend="i">so wel als d'ander stichten ende verheuge</hi>n<hi rend="i"> mochte: So heeft my best ghedocht dat ick't letterlick int licht brochte, toe-eygenende en vereerende V.E. die men als Hoofden ende Lief-hebbers der Camer</hi> uyt levender jonsten, <hi rend="i">om 'tselve t'aenschouwen ende t'aenhooren, aldereerst ontbode</hi>n<hi rend="i"> soude hebben, mitsgaders V.L. ghy Personagien, die om te spelen u lichame</hi>n<hi rend="i"> ten thoon gestelt soudet hebbe</hi>n<hi rend="i">, niet twyfelende oft ten sal dancklick aenghenomen ende teghens den berispers ghenoechsaem beschermt worden, tot dat de ghelegentheyt yet </hi><pb ed="fol." n="Aijv"/><hi rend="i">beters t'uwer eeren aenden dach brenghe. De</hi> <hi rend="i">Heere der Heeren wil V.E.daer en tusschen van de fennighe stralen der vuyriger Pesten bewaren, ende een langh leven gunnen.</hi></p>
+<p>&#160;</p>
+<p><hi rend="i">V.E. Dienaer</hi></p>
+<p>&#160;</p>
+<p>Zacharias Heyns.</p>
+</div>
+<div type="chapter">
+<head rend="h3">Personagien vant spel.</head>
+<list>
+<item><hi rend="i">Menich slechtaert.</hi></item>
+<item><hi rend="i">Goet ondervvijs.</hi></item>
+<item><hi rend="i">Sondich bedrijf.</hi></item>
+<item><hi rend="i">Verkeerde meyningh.</hi></item>
+<item><hi rend="i">Goed aert.</hi></item>
+<item><hi rend="i">Ootmoet.</hi></item>
+<item><hi rend="i">Schrifturen troost.</hi></item>
+<item><hi rend="i">VVolfs aert.</hi></item>
+<item><hi rend="i">'Thert vol vreesen.</hi></item>
+<item><hi rend="i">Onverduldicheydt.</hi></item>
+<item><hi rend="i">Magdalena.</hi></item>
+</list>
+
+</div>
+<div type="chapter">
+<pb ed="fol." n="Aiijr"/>
+<head rend="h3">Voorreden.</head>
+<stage><hi rend="i">Menich slechtaert. Goet onderwijs.</hi></stage>
+
+<lg type="poem">
+<l rend="; 1tab">Wel wat is dit? ick sien men sal hier weder spelen,</l>
+<l>En sal den Heeren dit ten lesten niet vervelen:</l>
+<l>Daer nu soo menich mensch soo swaren smerte proeft?</l>
+<l>Jae meest de gantsche stadt so heftich is bedroeft</l>
+<l>D'een om dat hy zijn vriendt siet door de Pest bederve<hi rend="i">n</hi></l>
+<l>En d'ander om dat hy zijn eygen vrou siet sterven,</l>
+<l>Sijn vrou zijn kindren me, o veel te harden slach</l>
+<l>Om sulcke speelgeraes te brenghen voor den dach:</l>
+<l>Wat dit bedieden mach en can ick niet versinnen.</l>
+<l rend="speaker"><hi rend="i">Goet onderwijs.</hi></l>
+<l rend="; 1tab">Ick sie hier Menich slechtaert die sich ontstelt van binnen,</l>
+<l>En seer becommert is om dat de const noch leeft,</l>
+<l>Ja dat Rethorica sich op't Thoneel begheeft,</l>
+<l>Dewijl nu menich mensch door siect' is in groot lyde<hi rend="i">n</hi>,</l>
+<l>Daer sich doch niemandt in en hoorde te verblyden:</l>
+<l>Maer hem is noch den gront van't spelen onbekendt,</l>
+<l>Midts dat hy savonts laet te loopen is ghewendt</l>
+<l>Om't sotten spel te sien gelijckmen speelt ter feesten.</l>
+<l rend="speaker"><hi rend="i">Menich slechtaert.</hi></l>
+<l rend="; 1tab">Ick wilde weten wel waerom doch dese gheesten,</l>
+<l>Alsulcken stout bedrijf in desen tijt bestaen.</l>
+<l>Holla daer comt soo't schijnt een deg'lick man gegaen</l>
+<l>Dien sal ick't vragen af: Wat salmen hier bedryven?</l>
+<l rend="speaker"><hi rend="sc"><hi rend="i">g</hi></hi><hi rend="i">oet onderwijs.</hi></l>
+<l>Y slechtaert lieve man laet doch sulck vragen blyven,</l>
+<l>Ghy siet wel dat men hier om spelen is ghereedt,</l>
+<l rend="speaker"><hi rend="i">Menich slechtaert.</hi></l>
+<l rend="; 1tab">Spelen? ic speeld' wel me waer ic daer toe gecleedt</l>
+<l>Men hoort in dese tijdt doch 'selfd' niet toe te laten.</l>
+<l rend="speaker"><hi rend="sc"><hi rend="i">g</hi></hi><hi rend="i">oet onderwijs.</hi></l>
+
+<pb ed="fol." n="Aiijv"/>
+<l>Nu hoortmen aldermeest alsulcx dick aen te vaten,</l>
+<l>Door sware Pestendoch, ghelijckmen lesen mach,</l>
+<l>Wert 'tspelen eerst ghebracht te Romen aenden dach</l>
+<l>Op dat 'tbeswaerde volc hun herten mocht verluste<hi rend="i">n</hi>,</l>
+<l>Te voor bedroeft, gestelt om in het graf te rusten:</l>
+<l>Doch dat het Christlick zy te spelen 'tgheen ontsticht</l>
+<l>Al wiert oock menich hert daer dicwils door verlicht</l>
+<l>En staen ick wel niet toe, tis beter sulcx te staken,</l>
+<l>Maer spelen 'tgeen den mensch de sinne<hi rend="i">n</hi> can vermake<hi rend="i">n</hi></l>
+<l>Daer neven leeren hoe hy God behaghen moet</l>
+<l>Segghe ick te wesen nu en 'tallen tyden goet:</l>
+<l>Dus staet, hoort ende siet eer ghy begint te spreken.</l>
+<l rend="speaker"><hi rend="i">Menich slechtaert.</hi></l>
+<l rend="; 1tab">Aent hooren en salt my noch ooc aent sien ontbreke<hi rend="i">n</hi></l>
+<l>Maer staen, ick ben te moe, dies ick my neder stel.</l>
+<l rend="speaker"><hi rend="i">Goet onderwijs.</hi></l>
+<l>Hola, een weynich noch u hout als een ghesel,</l>
+<l>Het mutsken inde handt moet sedich zijn ghenomen,</l>
+<l>Soo lang men groet die hier om hooren zijn gecomen:</l>
+<l rend="; 2tab">Waerde Heeren wijs int ramen</l>
+<l rend="; 2tab">Schoutet, Burghemeesters me</l>
+<l rend="; 2tab">Schepens die recht naert betamen</l>
+<l rend="; 2tab">'Tkyven flist en sticht den vre,</l>
+<l rend="; 2tab">Sessendertich deser Ste</l>
+<l rend="; 2tab">En al die om hooren quamen,</l>
+<l rend="; 2tab">God de Heer die voor ons stre</l>
+<l rend="; 2tab">V 'tlang leven gun te samen.</l>
+<l rend="speaker"><hi rend="i">Menich slechtaert.</hi></l>
+<l rend="; 1tab">Amen.</l>
+<l rend="speaker"><hi rend="i">Goet onderwijs.</hi></l>
+<l rend="; 2tab">Datmen swyght bidden wy,</l>
+<l rend="; 2tab">Oft ten minsten het luy spreken</l>
+<l rend="; 2tab">En het tongheraes wat my,</l>
+<l rend="; 2tab">Tot dat 'tspel gansch is deurkeken:</l>
+
+<pb ed="fol." n="Aiiijr"/>
+<l rend="; 2tab">Soo dan 'tselfd' yet mach ontbreken</l>
+<l rend="; 2tab">bidden me dat elck ons vry</l>
+<l rend="; 2tab">Voor de strenghe Momi streken</l>
+<l rend="; 2tab">Die den Gheest brengt inde ly,</l>
+<l rend="speaker"><hi rend="i">Menich slechtaert.</hi></l>
+<l rend="; 1tab">Dit soo zy.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">1. Handeling. <lb/>1. Wtcomen.</head>
+<stage><hi rend="i">Sondich bedrijf. Verkeerde</hi>n<hi rend="i"> meyninghe.</hi></stage>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Tis tijt Nichtken tis tijt</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyninghe.</hi></l>
+<l rend="; 1tab">Hou sondich bedrijf,</l>
+<l>Waer ist dat ghy zijt?</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Tis tijt Nichtken tis tijt.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyninghe.</hi></l>
+<l rend="; 1tab">Comt dan int krijt,</l>
+<l>Eer ick achter blijf.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l>Tis tijt Nichtken tis tijt.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyninghe.</hi></l>
+<l rend="; 1tab">Hou sondich bedrijf</l>
+<l>Sal ick als u Wijf // te voorschijn treden?</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Alleen met u ben ick nu te vreden</l>
+<l>Ghebruyckt slechts reden //ghelijckt u toestaet,</l>
+<l>Ghy sult my bevinden als een trouwen maet</l>
+<l>Ick hoeve uwen raet // ghy en meucht my niet ontvlieden.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyninghe.</hi></l>
+<l rend="; 1tab">Moet ick dan mede onder de lieden,</l>
+<l>Wat hevet te bedieden // wat hebt ghy gherockt?</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+
+<pb ed="fol." n="Aiiijv"/>
+<l rend="; 1tab">Ick hebbe alhier sulcken pappe ghekockt,</l>
+<l>En 'tvuyr ghestockt // door myne sonden,</l>
+<l>Dat de menschen door dese mijn loose vonden</l>
+<l>Met der Pesten wonden worden ghestraft:</l>
+<l>En soo ghy nu mede den nut wel schaft,</l>
+<l>Dat u tonghe me blaft // sonder lang beyen</l>
+<l>Soo sullen wy den meestendeel verleyen,</l>
+<l>Doen weenen en schreyen // int helle // gat.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyninghe.</hi></l>
+<l rend="; 1tab">Dat sey den Necker sittend' in de celle // prat:</l>
+<l>Maer eer ick melle // bat // soo moet ick segghen</l>
+<l>Dat ghy mijn hulpe wel meucht weerlegghen,</l>
+<l>Ja cont ghenoech dregghen // alleen door u bedrijf,</l>
+<l>Ghy hebter soo menich ghebrocht om't lijf,</l>
+<l>G'en verschoont man noch wijf // 'tis u even naer.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Sonder u nochtans en doogh ick niet een haer,</l>
+<l>Dat seg ick voorwaer // dus wilt sulcx staken.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyninghe.</hi></l>
+<l rend="; 1tab">Deet ghy dan niet alleen om den hals gheraken</l>
+<l>Door des Pests ghenaken // in Davids Legher veldt</l>
+<l>By tseventich duyst mannen te voren gheteldt,</l>
+<l>Ist niet door u gheweldt, door de sond' alleen?</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Hier in waert ghy Nicht al veel te ghemeen:</l>
+<l>Want hy hem te been // door u heeft begheven,</l>
+<l>Meynende soo hem volcx ghenoech was overbleven,</l>
+<l>Werdt zijn vyandt verdreven, door zyne macht</l>
+<l>En heeft alsoo weynich op God gheacht,</l>
+<l>Dit heeft hem ghebracht // in swaer ellenden.</l>
+<l>En deet ghy oock niet den eersten man sich wenden</l>
+<l>Om't gebodt te schenden // d'welck hem de Heere gaf?</l>
+<l>Ghy waert voor al een stercken staf,</l>
+<l>Die hem nae't graf, des doodts gheleyde:</l>
+
+<pb ed="fol." n="Avr"/>
+<l>Want hy meynde, ghelijckt Serpent hem seyde</l>
+<l>Dat hy sich bereyde // als hy s'booms vrucht at,</l>
+<l>Op dat hy in den staet als God selve sat,</l>
+<l>Dit was soo ick schat // al u bedryven // quaet.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyninghe.</hi></l>
+<l rend="; 1tab">Nu her de handt, k'en wil niet kyven // maet,</l>
+<l>Can mynen styven // raet // u yet helpen // man</l>
+<l>Sal sien oft ick den kommer stelpen // can,</l>
+<l>Heft op u schelpen // dan // ontdeckt den gront.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Ick hebt alhier in stadt ghemaeckt soo bont</l>
+<l>Alst elck is cont // in alle saken,</l>
+<l>Datmen nu de verdiende straf mach smaken</l>
+<l>Door't fenynich blaken // vande vuyrighe Pest:</l>
+<l>Niet aen een oort alleen, maer in alle ghewest,</l>
+<l>Ja meyn al de rest // salder noch me deur // gaen.</l>
+<l>Nu sterfter wel een deel, maer ick hebber keur // aen,</l>
+<l>Want sommige en willen haer tot sterven niet begeve<hi rend="i">n</hi></l>
+<l>Wtsinnich sonder hoop om't quaet van hun bedreven,</l>
+<l>Schudden en beven // haer hoop alleenlick staet</l>
+<l>Op den Doctoren, oft des Pestmeesters raet</l>
+<l>Soo dat sy de baet // alleenlijck by hun soecken,</l>
+<l>Wenschende haer dickwils in andere hoecken</l>
+<l>De locht schier vervloecken // sonder yet meer,</l>
+<l>Niet merckende dat de straf comt vanden Heer</l>
+<l>Sy nemen den keer // om na den stock te byten</l>
+<l>Niet achtende op hem die daer mede comt smyten:</l>
+<l>K'en wilt hun niet verwyten // tis volck na mijne<hi rend="i">n</hi> sin.</l>
+<l>Doch andere reeckenent al voor ghewin,</l>
+<l>Soo sy meer oft min om haer sonden lyden,</l>
+<l>Het schijnt dat sy haer in de smert verblyden,</l>
+<l>Om haer ziel te vryden // ontfanghende met lust</l>
+<l>t'Gheen de Heer haer seynt, wat batet ghesust</l>
+<l>Sy zijn gherust // want sy vrolijck sterven.</l>
+
+<pb ed="fol." n="Avv"/>
+<l>Siet dese (kont ghy) moet ghy helpen bederven</l>
+<l>Ja moeten menich werven // dewijl de sinnen onvast // zijn</l>
+<l>Door u verkeerde meyning dapper aenghetast // zijn,</l>
+<l>Als met u Philosophie daer ghy zijt in ervaren,</l>
+<l>Op dat wyer meer by d'onse mogen garen</l>
+<l>Dies wilt u by my paren // en neemt den last // aen.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyninghe.</hi></l>
+<l>Sal ick nu niet met een frayen gast // gaen?</l>
+<l>Had hy den bast // aen //hy sou bet proncken.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Ba vrou vuyle, hoe? zijt ghy droncken?</l>
+<l>Ick gaen u beloncken // oft ghy mijn bruyt // waert</l>
+<l>Dus wil ick dat ghy u tonghe luyt // spaert,</l>
+<l>En volghen den aert // daert u mach vromen.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyninghe.</hi></l>
+<l rend="; 1tab">Swijcht doch: ick sien daer Goet aert comen,</l>
+<l>Comt treedt met my hier aen den kant.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">1. Ha<hi rend="i">n</hi>deling. <lb/>2. Verschoning.</head>
+<p rend="speaker"><hi rend="i">Goed aert.</hi></p>
+
+<lg type="poem">
+<l rend="; 1tab">Hoe heeft 'tbegeeren quaedt des menschen hert vermant,</l>
+<l>Daer ons de Heer met Pest so mercklick wil castyden</l>
+<l>De meestendeel en soeckt zijn siel noch niet te vryden</l>
+<l>Maer wel door eyghen baet tot schaed' zijns naesten tracht,</l>
+<l>Om voeren met gheweldt des lichaems ydel pracht.</l>
+<l>Het is al even eens als yder can bekinnen</l>
+<l>Dat zy 'tvergancklick goet vergaren, hoe zijt winnen</l>
+<l>'Tzy met onechte maet, oft woecker tot profijt</l>
+<l>Men merct niet dat sulc winst tot meer verlies gedijt,</l>
+<l>Doch wie zijn sinnen heeft, behoort wel t'overleggen,</l>
+<l>Dat ons de lieve God dees straffe comt oplegghen</l>
+
+<pb ed="fol." n="Avir"/>
+<l>Om onse sonden wil, mits dat het lichaem kiest</l>
+<l>De goed'ren waer door dat de siel het haer verliest.</l>
+<l>Men denckt niet dat de mensch heeft driederhande goeden</l>
+<l>Van welck men schuldich is het best altijt te hoeden,</l>
+<l>Der sielen goeden zijn onnoselheydt en deucht</l>
+<l>De goetheyt en al 'tgheen daer God he<hi rend="i">n</hi> in verheucht,</l>
+<l>Des lichaems goeden zijn de stercheydt vande leden,</l>
+<l>Ghesontheyt en al 'tgheen het lichaem stelt in vreden,</l>
+<l>Tot s'lijfs behoeve zijn den rijckdom, gunst en macht</l>
+<l>Waer onder int gemeen ons arme siel versmacht.</l>
+<l>Nu is de siel nochtans voor d'waerdichst' ons gegeve<hi rend="i">n</hi></l>
+<l>Die suyverlic bewaert met vreucht doet eeuwich leve<hi rend="i">n</hi></l>
+<l>Daer d'aertsche leven doch vol drucx is en soo cort</l>
+<l>Dat dick de mensche sterft eer hy gheboren wort.</l>
+<l>Waerom soo willen wy tot garen ons dan wennen,</l>
+<l>Ja der natueren Wet soo heftich me berennen</l>
+<l>Als wy een ander doen 'tselfd' doch sal als slijc vergae<hi rend="i">n</hi>.</l>
+<l>Dies is 'tvergancklick gansch voor 'tminste goedt te achten,</l>
+<l>Tbesmet seer lichtelic, me<hi rend="i">n</hi> moet sich daer van wachte<hi rend="i">n</hi>,</l>
+<l>Ghesontheyt beter is dan have, goedt of gheldt</l>
+<l>Wort by den Wysen oock in meerder staet ghesteldt.</l>
+<l>Der sielen spyse doch, de deucht niet om verschoonen,</l>
+<l>Is als ick heb gheseyt, daer boven noch te croonen.</l>
+<l>Dus steld' ick my gherust doen my de tydingh quam</l>
+<l>Van mijn gebleven schip, ick dacht God gaf God na<hi rend="i">m</hi>,</l>
+<l>Al ist dat ick als nu het tijtlick heb verloren,</l>
+<l>Wat heb ick hier gebrocht? naect ben ic doch geboren</l>
+<l>Ben noch de rijckste man die hier op aerden leeft,</l>
+<l>Zoo lang de Heer my vrijt en ons ghesontheyt gheeft.</l>
+<l>Int sweet zijns aenschijns moet de man doch alle morghen</l>
+
+<pb ed="fol." n="Aviv"/>
+<l>Naer Gods begeeren siet zijn huysghesin besorghen:</l>
+<l>Maer holla wat is dit, k'en ben hier niet alleen?</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">1. Ha<hi rend="i">n</hi>deling. <lb/>3. Verschoning.</head>
+<stage><hi rend="i">Verkeerde meyning. Sondich bedrijf. Goed aert.</hi></stage>
+
+<lg type="poem">
+<l rend="; 1tab">Ontset u niet mijn vrient, wy zijn den mensch ghemeen,</l>
+<l>Dus bid ick wel verstaen, soo dient u mijn gheselle,</l>
+<l>Op dat ghy raken meucht in uwen eersten staet.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">By my soo vintmen vrient oock al te dicwils baet,</l>
+<l>Ick wete goeden raet // om geldeken te cryghen,</l>
+<l>En dese conste siet wil ick voor u niet swyghen</l>
+<l>Want men gheen broodt voor de vrienden en spaert.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyninghe.</hi></l>
+<l rend="; 1tab">Volght ghy hem naer so zijt ghy wel bewaert,</l>
+<l>Hy is goedt van aert // als men seer wel can mercken,</l>
+<l>Hy can zijn broodt winnen sonder veel te wercken</l>
+<l>In alle percken // is hy wel bekendt.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Wilt ghy dat ick u blyve ontrent</l>
+<l>Ghy wort noch verwent // door mijn bedryven</l>
+<l>Ick sal u de borsse seer corts weer styven</l>
+<l>De ronde schyven // schoon van coleure,</l>
+<l>V weer sullen helpen uyt allen ghetreure</l>
+<l>Van als hebt ghy keure // neemt ghy my aen.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyninghe.</hi></l>
+<l rend="; 1tab">Maer siet doch hoe desen blutten blijft staen</l>
+<l>Men wilt hem de pap in den monde steken,</l>
+<l>En noch en derf hy niet eens spreken,</l>
+<l>Wat mach he<hi rend="i">m</hi> ghebrecken, hy moet wel wesen dwaes.</l>
+<l rend="speaker"><hi rend="i">Goed aert.</hi></l>
+<l rend="; 1tab">Met sinnen vrienden: och ghy maect te veel geraes</l>
+
+<pb ed="fol." n="Avijr"/>
+<l>Niemant en heb ick noch hier om hulpe gebeden,</l>
+<l>Dan God der Heeren Heer, den lieven God der vrede<hi rend="i">n</hi></l>
+<l>V meyning is verkeert: dus maeckt ons geen ghekijf.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l>Luy roepen Joncker is den aert van een quaet Wijf,</l>
+<l>En stelt u daerom niet als den vervolghen,</l>
+<l>Maer wilt my (daer's mijn handt) vryelijck volghen,</l>
+<l>Soo en wordt ghy de werelt tot gheenen spot</l>
+<l>Men seyt: helpt u selven so helpt u Godt</l>
+<l>Men moet sich om't goedt al wat onderwinden.</l>
+<l rend="speaker"><hi rend="i">Goed aert.</hi></l>
+<l rend="; 1tab">Ick wete wel het ghelt en is soo niet te vinden,</l>
+<l>Den arbeyt hope ick doch den cost my gheven sal.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyninghe.</hi></l>
+<l rend="; 1tab">Lieve vrient, voorwaer ghy zijt wel half mal,</l>
+<l>Wat batet doch al? Want wordt ghy cranck</l>
+<l>Soo moet ghy wel, jae al ist teghen danck</l>
+<l>Een ander bidden, oft deerlijck vasten.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Daerom by tijts soo moet ghy toe tasten</l>
+<l>Sulcx oyt wel pasten // voor een cloeck man</l>
+<l>Tis goedt datmen wat stofferen can</l>
+<l>Als nu en als dan, jae tot allen stonde.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyninghe.</hi></l>
+<l rend="; 1tab">Leughen om beters wil en is gheen sonde</l>
+<l>Want ghy daer med' u huysghesin behouwen conde.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Dats alhier in stadt den rechten vondt:</l>
+<l>Want men compt daer door tot grooter eeren.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyninghe.</hi></l>
+<l rend="; 1tab">Jae die voor eerst niet en can lieghen leeren,</l>
+<l>En van bedrieghen keeren // wil zijn ghemoet</l>
+<l>Die crijghter selden oft seer spade goet</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+
+<pb ed="fol." n="Avijv"/>
+<l rend="; 1tab">Dies wat ghy doch doet volcht my by lijf // na.</l>
+<l rend="speaker"><hi rend="i">Goed aert.</hi></l>
+<l rend="; 1tab">Ick segge u wijct van my ghy sondich bedrijf // dra</l>
+<l>d'Ongodlick quaet vermaen heb ick te wel ghehoort,</l>
+<l>Ick wil so veel ick mach my stellen alst behoort,</l>
+<l>Ghy sult my geensins nu met schatten doch becoren</l>
+<l>Tis beter arm van goedt als lijf en siel verloren,</l>
+<l>d'Almachtich God en laet den zynen niet in noodt</l>
+<l>Daer hy de monden schept bestiert hy oock het broot.</l>
+<l>Siet Christus selver spreect, de Raven ende Crayen</l>
+<l>Die onsorchvuldich zijn en saeyen noch en mayen,</l>
+<l>De Heere voedtse doch: het Leliken opt veldt</l>
+<l>Int groene bladt gewaet schoonverwich is ghesteldt</l>
+<l>Daer't nochtans niet en spint: hier me wil ic bewysen</l>
+<l>Dat u den Vader meer sal cleeden ende spysen,</l>
+<l>Zoect eerst het Rijcke Gods en uwen Heer genoecht,</l>
+<l>De rest sal t'zyner tijt u worden toeghevoecht,</l>
+<l>Hier op soo staen ick vast, tis mijn gheloof oock mede.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyninghe.</hi></l>
+<l rend="; 1tab">K'en hoorde mijn daegh' noyt vreemder sede</l>
+<l>Het ghene den Apostelen is voorgheleydt</l>
+<l>Meijndt hy het zy hem mede toegheseydt</l>
+<l>Gaet u slechts daer ledich neder stellen</l>
+<l>En siet dan hoe u de spyse sal quellen</l>
+<l>Al is u gheloove noch eens soo sterck.</l>
+<l rend="speaker"><hi rend="i">Goed aert.</hi></l>
+<l>God wil wel dat wy hem aenroepen voor ons wert,</l>
+<l>Maer niet dat wy daerom hier sullen ledich leven</l>
+<l>Neen, neen, hy heeft ons siet de middelen ghegheven,</l>
+<l>Doch wel soo seghent hy den arbeydt oft het landt,</l>
+<l>Der gener die zijn Rijck houdt voor den besten pandt,</l>
+<l>Dit is het gheen ick seg, dit is recht mijn ghevoelen.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Dien moet ducht ick die sal u wel verkoelen</l>
+
+<pb ed="fol." n="Aviijr"/>
+<l>Adieu heerschap, adieu.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyninghe.</hi></l>
+<l rend="; 1tab">Als wy weer comen ist op een nieu.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">1. Ha<hi rend="i">n</hi>deling. <lb/>4. Verschoning.</head>
+<stage><hi rend="i">Goed aert. Ootmoet.</hi></stage>
+
+<lg type="poem">
+<l rend="; 1tab">Daer gaen zy heenen nu die't hier in roeren setten,</l>
+<l>En menich man om goet te doen altijdt beletten</l>
+<l>Maer hier een ander siet die my veel bet behaecht:</l>
+<l>Wel Ootmoet waer nae toe, wien soect ghy hier doch Maecht?</l>
+<l>Wat wee<hi rend="i">n</hi>t ghy weder ae<hi rend="i">n</hi>, waer toe dees natte doecke<hi rend="i">n</hi>?</l>
+<l rend="speaker"><hi rend="i">Ootmoet.</hi></l>
+<l rend="; 1tab">Mijn Heere waerde Man u com ick leyder soecken</l>
+<l>D'een ong'luck t'uwen huys eylaes op d'ander coomt</l>
+<l rend="speaker"><hi rend="i">Goed aert.</hi></l>
+<l>De waerheyt segt recht uyt, wat ist? u niet en schroo<hi rend="i">m</hi>t:</l>
+<l>Mijn huys vrou is die cranck dat ghy dus zijt belade<hi rend="i">n</hi>?</l>
+<l rend="speaker"><hi rend="i">Ootmoet.</hi></l>
+<l rend="; 1tab">O lieve waerde Heer ghy hebbet rechts gheraden,</l>
+<l>En uwen sone med' alreede leyt en sterft.</l>
+<l rend="speaker"><hi rend="i">Goed aert.</hi></l>
+<l rend="; 1tab">Loopt ghy stracx weder thuys al eermen u bederft</l>
+<l>Wilt v gebedt met haer tot God den Heere dwingen,</l>
+<l>Ick sal de Medecijn en Meester mede bringhen.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">1. Ha<hi rend="i">n</hi>deling. <lb/>5. Verschoning.</head>
+<p rend="speaker"><hi rend="i">Goed aert.</hi></p>
+
+<lg type="poem">
+<l rend="; 1tab">Ten treft ons laes als nu alleene niet aent goet,</l>
+<l>Maer wel aen meerder pandt, het treft ons tot aen't bloet,</l>
+<l>Ach most mijn goede vrou int smertlick lyden vallen</l>
+<l>Dat jeuchdich bloemke<hi rend="i">n</hi> med', een kint so soet int kalle<hi rend="i">n</hi></l>
+<l>Wat hebt ghy voor met ons o Heer? ic ben te swack.</l>
+
+<pb ed="fol." n="Aviijv"/>
+<l>Neemt van my soo't can zijn, dit veel te swaren pack,</l>
+<l>Toont Heere dat het u licht valt het gee<hi rend="i">n</hi> wy wensche<hi rend="i">n</hi>,</l>
+<l>Daer't gans onmog'lijck schijnt voor d'oogen van de menschen.</l>
+<l>Verlost 'tbedruckte hert, O Heer uyt dit benouwen,</l>
+<l>Alwetent God op u alleen staet mijn betrouwen.</l>
+<l rend="; 1tab">Daer voel ick nu dat ghy den adem my verpoost,</l>
+<l>O Heer ghy mijn waerde vrou wech nemen t'deser stede,</l>
+<l>Wilt ghy mijn lieflick kindt: Wilt ghy my selve<hi rend="i">n</hi> mede</l>
+<l>De reste van mijn goedt, ick offret al te samen</l>
+<l>Heer uwen heyl'gen wil gheschied' in alles, Amen.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">2. Handeling. <lb/>1. Wtcomen.</head>
+<stage><hi rend="i">Sondich bedrijf. Verkeerde meyning.</hi></stage>
+
+<lg type="poem">
+<l rend="; 1tab">Ist nu niet wel ghemaeckt?</l>
+<l rend="speaker"><hi rend="i">verkeerde meyningh.</hi></l>
+<l rend="; 1tab">Ist nu niet wel versint?</l>
+<l>Hy is in de Pest gheraeckt.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Ist nu niet wel ghemaeckt?</l>
+<l>De vrouwe de smerte smaeckt.</l>
+<l rend="speaker"><hi rend="i">verkeerde meyningh.</hi></l>
+<l rend="; 1tab">Al deur isset lieve kint.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Ist nu niet wel ghemaeckt?</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyningh.</hi></l>
+<l rend="; 1tab">Ist nu niet wel versint?</l>
+<l>Siet wat sulck wint // die God alleen vertrouwen</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Oft het hem nu niet en sal berouwen</l>
+<l>Dat hy niet wilde schouwen // zijns vrienden Pest-huys?</l>
+<l rend="speaker"><hi rend="i">verkeerde meyningh.</hi></l>
+
+<pb ed="fol." n="Bir"/>
+<l rend="; 1tab">Ba, die vrouwe en achte niet een cruys,</l>
+<l>Des vuyrs ghedruys // en quade roken.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">En nu soo salmen selvers Genevren stoken</l>
+<l>Oft Reynvaert ghebroken // 'tbetrouwen is ghedaen.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyninghe.</hi></l>
+<l rend="; 1tab">Nu salmen den Pestmeesters loopen aen</l>
+<l>Op God te staen, dat Liedeken uyt // is.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Men roept nu om salve, om drancke<hi rend="i">n</hi>, en cruyt // wis</l>
+<l>Maec niet een duyt // is // daer voor handen // schier</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyninghe.</hi></l>
+<l rend="; 1tab">Ja ick moetet seggen tot des mans schanden // hier</l>
+<l>Sijn schoone panden // fier // moeten daer vlieghen.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Ja hy wilde God door zijn heylicheyt bedrieghen,</l>
+<l>Maer hy en mocht niet lieghen // in der noot</l>
+<l>En nu soo heeft hy ghebreck van broot</l>
+<l>Tot armoede groot hy nu sal gheraken.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyninghe.</hi></l>
+<l rend="; 1tab">Wacht dat zijn vrienden zijn huys nu naken</l>
+<l>Oft by hem waken // ghelijck hy ghedaen heeft.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Neen daer niet en is men selden wat gheeft,</l>
+<l>Maer die in rijckdom leeft // crijcht meer ghegheven</l>
+<l>Soo langhe de mensch in voorspoet mach sweven</l>
+<l>Vind' hy daer beneven // veel vrienden me,</l>
+<l>Maer hout by hem 'tgheluck gheen ste,</l>
+<l>Adieu den vre // men wilt hem niet kennen.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyninghe.</hi></l>
+<l rend="; 1tab">Dan mach hy sien zijn vraghen alleen te mennen,</l>
+<l>Wilt hy niet hennen // soo blijft hy inden dreck.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Daerom is mijn segghen de man is wel geck.</l>
+
+<pb ed="fol." n="Biv"/>
+<l>Die niet een weynich in voorraedt en greyselt</l>
+<l>En of hy dan somtijts een leugenken veyselt</l>
+<l>Daer toe wat bedriecht als hy ghelt cryghen can,</l>
+<l>O dats een cloeck en verstandich man</l>
+<l>Want hy haest wan // soo veel goets te samen.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyninghe.</hi></l>
+<l rend="; 1tab">Waer't dat ter veel dit ter herten namen</l>
+<l>Sy en hoefden hun niet te schame<hi rend="i">n</hi> als dees moete<hi rend="i">n</hi> doe<hi rend="i">n</hi>.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Nicht ic en wilde niet myne<hi rend="i">n</hi> voet staec in zyne<hi rend="i">n</hi> schoe<hi rend="i">n</hi></l>
+<l>K'en waer niet soo koen // om yemants aen te spreken.</l>
+    <l rend="speaker"><hi rend="i">Verkeerde meyningh.</hi></l>
+<l rend="; 1tab">Siet neve daer comt hy aen ghestreken</l>
+<l>Een weynich gheweken // op een zyde maet.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Der Schriftueren troost siet met hem gaet</l>
+<l>Het is al quaet // wat wy bedryven.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyningh.</hi></l>
+<l rend="; 1tab">Daerom laet ons hier niet blyven</l>
+<l>Ten sou niet beclyven // tis verloren gheblaft.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">2. Handeling. <lb/>2. Wtcomen.</head>
+<stage><hi rend="i">Goed aert. Schriftueren troost.</hi></stage>
+
+<lg type="poem">
+<l rend="; 1tab">De Heer der Heeren heeft my rechtelijke gestraft,</l>
+<l>Maer wee den genen die wil met den schepper kyven,</l>
+<l>Den leem can die sich selfs tot eenen pot wel styven?</l>
+<l>Den backer spreken aen wat wilt ghy van my make<hi rend="i">n</hi>,</l>
+<l>Sal ick tot elck eens spot uyt uwen handen raken?</l>
+<l>Wee hem die segghen sal, O Vader waerom doch,</l>
+<l>Ghy my gewonnen hebt? daer neven Moeder och,</l>
+<l>Hadt ghy my niet gebaert, dit is te deser stonde</l>
+<l>O my katyvich mensch, gegaen uyt mynen monde,</l>
+<l>Doen my mijn kint ontviel, hoe mach doch dit bestae<hi rend="i">n</hi></l>
+<l>Hier over ben ick laes al veel te seer belaen.</l>
+<l rend="speaker"><hi rend="i">Schriftueren troost.</hi></l>
+
+<pb ed="fol." n="Bijr"/>
+<l rend="; 1tab">De mensch can sevenmael tot quaedt doen sich begheven</l>
+<l>Op eenen dach, en 'tsal so dickwils zijn vergheven</l>
+<l>So hy zijn schult bekent: daerom weest wel ghemoet,</l>
+<l>Keert wederom tot God, maeckt dat ghy boete doet,</l>
+<l>Door Jesum Christum sal u Gods genaed' verquicke<hi rend="i">n</hi></l>
+<l>Die roepe<hi rend="i">n</hi>d' is, comt hier wilt u tot mywaerts schicke<hi rend="i">n</hi></l>
+<l>Ghy die beladen zijt, neemt op mijn jock, en leert</l>
+<l>Dat ick sachtmoedich ben, u herte daer toe keert,</l>
+<l>Soo sult ghy dan u ziel in goede ruste vinden.</l>
+<l rend="speaker"><hi rend="i">Goed aert.</hi></l>
+<l rend="; 1tab">Dit wil ick my, mijn troost, wel dickwils onderwinden,</l>
+<l>Maer 'tvlees is veel te swac, de me<hi rend="i">n</hi>scheyt is te cra<hi rend="i">n</hi>ck</l>
+<l>So dat het daer door dick roept tege<hi rend="i">n</hi>s gheestes danck</l>
+<l>Waerom en wilt gy Heer noch mijn ellend' niet stake<hi rend="i">ni?</hi></l>
+<l>Ghy druckt my veel te hart,</l>
+<l rend="speaker"><hi rend="i">Schriftueren troost.</hi></l>
+<l rend="; 1tab">Daerom wilt naerstich waken,</l>
+<l>Dat Ootmoet by u blijf, zijt vuyrich int ghebedt</l>
+<l>Op dat den Satan u tot gheender tijdt en let.</l>
+<l>Dit zy u noch tot troost, dit neemt noch t'uwer baten,</l>
+<l>Dat als de mensche schijnt gans vande<hi rend="i">n</hi> Heer verlate<hi rend="i">n</hi>.</l>
+<l>Soo dat schier yder man sich ghevet van zijn zy</l>
+<l>So is Gods goetheyt doch hem 'taldernaeste by.</l>
+<l>En heeft hy Isac niet verlost int meest benouwen,</l>
+<l>Tot s'Vaders troost, als 'tsweert gereedt was om te houwen?</l>
+<l>Heeft hy zijn goetheyt groot in d'alderswaerst ellendt</l>
+<l>Tot d'Israliten niet genadichlijck gewendt?</l>
+<l>Deed' hy na Moses Roe de stuere Zee niet hooren</l>
+<l>Pharonem met zijn volck daer inne me versmooren?</l>
+<l>Hy heeft in de Woestijn in haer benautheyt groot</l>
+<l>So menich hondert me<hi rend="i">n</hi>sch verlost uyt s'hongers noot</l>
+
+<pb ed="fol." n="Bijv"/>
+<l>Want als men gansch gheen spijs nu meer en wist te halen,</l>
+<l>Soo liet hy Manna soet van boven neder dalen.</l>
+<l>Als elck een om den dranck seer dorstich luyde riep,</l>
+<l>Het water uit de Rotzs seer overvloedich liep.</l>
+<l>Daerom gebreect u yet verwacht Gods milde gaven</l>
+<l>In dierte can hy u noch evenwel oock laven</l>
+<l>Ghelijck tot Zarpath hy Heliam heeft ghedaen</l>
+<l>Die hy aldaer beval by een Weeuw' in te gaen</l>
+<l>Die niet veel Meels en had en weynich Olijs mede</l>
+<l>D'welck Gods almoghentheyt also vermeeren dede,</l>
+<l>Dat al hoe wel sy staech om eten daer van nam,</l>
+<l>Ten wert niet minder, wa<hi rend="i">n</hi>t daer weer so veel toe qua<hi rend="i">m</hi>.</l>
+<l>Dees selue Weeuw' bedruckt om haren soon gestorve<hi rend="i">n</hi></l>
+<l>Heeft 'tkindt door Gods ghenaed' het leven weer verworven.</l>
+<l>Daerom so staet het al in Gods almachtich handt:</l>
+<l>By hem soeckt troost alleen, neycht t'hemwaerts u verstandt.</l>
+<l>En oft hy u noch meer wil straffen oft castyden</l>
+<l>Verdraeght geduldichlijck wilt ghy de ziel bevryden:</l>
+<l>Gy waert wel een arm mensch, waer u niet toegeseyt</l>
+<l>Een ander wooningh' schoon, den goeden toebereydt</l>
+<l>Als dees leenhuysen slecht int drucklick d'al der trane<hi rend="i">n</hi>:</l>
+<l>Want vol onruste<hi rend="i">n</hi> doch ee<hi rend="i">n</hi> mensch na Jobs vermane<hi rend="i">n</hi></l>
+<l>Leeft eenen corten tijt, alst bloemken van ghestalt</l>
+<l>d'welc haestichlijcke<hi rend="i">n</hi> groeyt en stracx ooc weder valt</l>
+<l>En oft de mensche schoon en werd' in zijn ghewesten</l>
+<l>Gansch niet besocht met Krijgh, met Dieren tijdt, of Pesten,</l>
+<l>Altijt so varen wy noch derwaerts als een storm,</l>
+<l>Wy zijn als eenen slaep, en als een gras van form:</l>
+<l>Jae als een schaduw' med': en 'tcost'lijckst' van ons leven</l>
+
+<pb ed="fol." n="Biijr"/>
+<l>En can ons niet als moeyt' en grooten arbeyt geven.</l>
+<l>Dies wel den genen die zijn wooningh onder't scherm</l>
+<l>Des alderhoochsten heeft, wijt buyten al't ghekerm,</l>
+<l>En sich alsoo by hem met een oprecht betrouwen</l>
+<l>Vast onder 'tlommer van zijn schaduwe blijft houwe<hi rend="i">n</hi></l>
+<l>Tot dat hy uyt dit dal int eeuwich word' gheset.</l>
+<l>In sulcke wooningh' doch gheen teghenspoedt en let:</l>
+<l>Maer daer is eenen troost en seghen die de herten</l>
+<l>Verquickende bevrijdt voor tydelijcke smerten</l>
+<l>Grijpt dan oock weder moet, bidt stadich en<hi rend="i">de </hi>waeckt</l>
+<l>Op dat ghy med' dien troost en sulcken segen smaeckt</l>
+<l>Daer comt u Maerte weer, met haer stelt u te beden.</l>
+<l rend="speaker"><hi rend="i">Goed aert.</hi></l>
+<l>Ick danck u van't vermaen, ick ben nu bet te vrede<hi rend="i">n</hi>.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">2. Handeling. <lb/>3. Wtcomen.</head>
+<stage><hi rend="i">Goed aert. Ootmoet.</hi></stage>
+
+<lg type="poem">
+<l rend="; 1tab">Segt my doch lieve Maecht hoe ist nu t'huys gesteldt?</l>
+<l rend="speaker"><hi rend="i">Ootmoet.</hi></l>
+<l rend="; 1tab">De koorts ons vrouwe noch geduerichlijcken quelt</l>
+<l>Beneven 'tgroot gheswil seer vuyrichlijck ontsteken.</l>
+<l rend="speaker"><hi rend="i">Goed aert.</hi></l>
+<l rend="; 1tab">Nu laet ons dan 'tgebedt tot God te samen spreke<hi rend="i">n</hi>.</l>
+<l rend="speaker"><hi rend="i">Ootmoet.</hi></l>
+<l rend="; 1tab">Ghy straft rechtvaerdichlijck O Heere als ghy slaet</l>
+<l>Want ghy rechtveerdich zijt, wy ongerechtich quaet</l>
+<l>Nu ghy ons dan castijdt soo hebben wy ghesondicht,</l>
+<l>Meer als wel 'tselve can oft wesen mach vercondicht:</l>
+<l>Gheeft nu almoghent God dewijl ghy ons beproeft</l>
+<l>Dat o<hi rend="i">n</hi>s de siel mach zijn (doch voor sich selfs bedroeft)</l>
+<l>En niet voor't lichaem cranck, dat sy med sy beladen</l>
+<l>Niet om te straffen swaer, maer wel om ons misdaden</l>
+
+<pb ed="fol." n="Biijv"/>
+<l>Dat zy bedroeft zy Heer om dat de sond' haer quelt</l>
+<l>Ick seg bedroeft, bedruct: maer geensins doch ontstelt</l>
+<l>Maer wel op u genaed', met een seer vast betrouwen</l>
+<l>En uwe goetheyt Heer soo laetse vastlijck bouwen,</l>
+<l>Ghy straft ons wel wat hart, ghy slaet, en ghy castijt</l>
+<l>Maer cont ons oock te hulp wel comen 'tzyner tijt.</l>
+<l>Ghy naemt de menscheyt aen door u groot medelyde<hi rend="i">n</hi>,</l>
+<l>Om alle menschen soo van Hel en Doodt te vryden.</l>
+<l>Derhalven stellen wy ons in u doen gherust?</l>
+<l>Maer laet den toren oock eens wesen uytgheblust</l>
+<l>Doch dit seyt 'tswacke vleesch d'welck sich wel hoort te schamen</l>
+<l>Heer 'tstaet in uwe macht, 'tgheschiede naer betamen.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">2. Ha<hi rend="i">n</hi>deling. <lb/>4. Verschoning.</head>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Verkeerde meyningh.</hi></l>
+<l rend="; 1tab">Tis al van 'tselve daer sit hy weer en bidt,</l>
+<l>Wel lieve Magger hoe verstaen ick dit</l>
+<l>Hoe meucht ghy doch soo verde verdwalen</l>
+<l>Ghy sout veel beter noch een Doctoor halen</l>
+<l>Die u Wijf hulp dewijl zy leyt en sterft,</l>
+<l>Want dien ghy bidt u preutlen niet bederft,</l>
+<l>Ghy'n hoeft u gansch op hem niet te verlaten</l>
+<l>Men can licht mercken dat hy u moet haten,</l>
+<l>Dewijl hy u soo onghenadich straft,</l>
+<l>En als een Richter selfs alsulcke roede schaft,</l>
+<l>Die onverdrachlick is vol weedoms ende smerten.</l>
+<l rend="speaker"><hi rend="i">Goed aert.</hi></l>
+<l rend="; 1tab">Wanneer een Vader doch zijn kindt lief heeft van herten,</l>
+<l>Castijt hy't menichmael, en hout het so in tucht.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyninghe.</hi></l>
+<l rend="; 1tab">Ick ben nochtans voor u al veel te seer beducht</l>
+<l>Mits ghy niet beter op't naturelijck en achtet</l>
+
+<pb ed="fol." n="Biiijr"/>
+<l>Meynt gy dat sulc groot Heer om u te hoore<hi rend="i">n</hi> wachtet?</l>
+<l>Hy geeft het cruyt van cracht, hy geeft den medicijn,</l>
+<l>Die ghy sult spreken aen tot lichting van u pijn</l>
+<l>Dat can u helpen Man: so veel aengaet de reste</l>
+<l>Dat God tot straffe sent 'tvergift van dese Peste</l>
+<l>Die meyning is niet goet: want sulcx hier over al,</l>
+<l>Alleenlijck maer ghebeurt by d'ongh'luck oft gheval,</l>
+<l>Naer een ghesonde locht gemeynlijck sietmen volghen</l>
+<l>Dat Son, Maen ende Ster zijn op den mensch verbolghen,</l>
+<l>Waer van d'invloeying 'tgoet oft wel het quade geeft</l>
+<l>Na datter een Planeet met d'een oft d'ander sweeft</l>
+<l>De loop des Hemels can also de Pest verwecken.</l>
+<l rend="speaker"><hi rend="i">Goed aert.</hi></l>
+<l rend="; 1tab">Verkeerde meyning wech, gy meucht vry wel vertrecken,</l>
+<l>Ick wete wel de Heer zijn middelen ghebruyckt</l>
+<l>Maer dat de minste saeck haer zynen wil ontduyckt</l>
+<l>So dat hy't alles niet en mennet met voorwete</l>
+<l>En staen ick u niet toe, hoe wel men tself afmete</l>
+<l>Schriftuere leert ons doch dat d'alderminste ding</l>
+<l>Hoe slecht oock van gestalt hoe cleyn oft hoe ghering</l>
+<l>Van Godes handen wordt gestuert tot allen daghen,</l>
+<l>Soo dat hy over tVee oock selfs wil sorge draghen</l>
+<l>Dwelck onvernuftich is als David ons verclaert</l>
+<l>Hoe veel te meer oock God den mensche dan bewaert</l>
+<l>Ja Christus selver spreeckt en sietmen niet met hoope<hi rend="i">n</hi></l>
+<l>Om eenen penning twee seer cleyne muskens coopen</l>
+<l>Van dees nochtans niet een van boven valt int velde</l>
+<l>Sonder gantsch s'Vaders wil, en oock so zijn geteldt</l>
+<l>De haren uwes hoofts daerom en wilt niet vreesen,</l>
+<l>Ghy zijt al meer als veel sulck muskens oft meesen</l>
+<l>Daerom ben ick gerust, k'en mach niet langer staen.</l>
+</lg>
+
+</div>
+<div type="chapter">
+<pb ed="fol." n="Biiijv"/>
+<head rend="h3">2. Ha<hi rend="i">n</hi>deling. <lb/>5. Verschoning.</head>
+<p rend="speaker"><hi rend="i">verkeerde meyning.</hi></p>
+
+<lg type="poem">
+<l rend="; 1tab">Als men niet meer en weet soo moetmen altijt gaen</l>
+<l>Dan maecktmen sich ter baen, en aen't wech wijcke<hi rend="i">n</hi>,</l>
+<l>Com icker noch by ick sal hem soo doorstrijcken</l>
+<l>Als een blutt en doen kijcken // hoe wel hy my niet acht.</l>
+<l>Nu mijn ghesel daer binnen oock naer my wacht,</l>
+<l>Dies loop ick al mijn macht // al tijdts ghenoech versleten,</l>
+<l>Ick waer veel liever ny by Wijn en Bier gheseten.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">3. Ha<hi rend="i">n</hi>deling. <lb/>1. Verschoning.</head>
+<stage><hi rend="i">Verkeerde meyning. Sondich bedrijf.</hi></stage>
+
+<lg type="poem">
+<l rend="; 1tab">Hoe streeck hy my weer deur,</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Hoe conde hy't segghen.</l>
+<l>Hy en acht ons niet een leur.</l>
+<l rend="speaker"><hi rend="i">verkeerde meyning.</hi></l>
+<l rend="; 1tab">Hoe streeck hy my weer deur</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Ghy en stondt my niet lang veur</l>
+<l>Hy condet al weerlegghen.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyninge.</hi></l>
+<l rend="; 1tab">Hoe streeck hy my weer deur.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Hoe conde hy't segghen,</l>
+<l>By hem te dregghen, daer is niet te vanghen</l>
+<l>Wat willen wy aen hem de sinnen hanghen</l>
+<l>Laet ons Wolfaerdt pranghen // daer hebben wy macht // aen.</l>
+<l rend="speaker"><hi rend="i">verkeerde meyning.</hi></l>
+<l rend="; 1tab">Ick sach hem te hans met sulcken pracht // gaen,</l>
+
+<pb ed="fol." n="Bvr"/>
+<l>En wel bedacht // staen // met de<hi rend="i">n</hi> ruycker voor de<hi rend="i">n</hi> neus</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Een reuckbol oft wat Asijns is nu de leus</l>
+<l>Ick wensch heur de dreus // die't anders maken // man</l>
+<l>De Pest sulcx bruyckend' u niet ghenaken // can</l>
+<l>Wie wil doch staken // dan // alsulcke Medecyne.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyning.</hi></l>
+<l rend="; 1tab">Daer sy verlost uyt sulcke pyne</l>
+<l>Van't fenynich vuyr ende haestich sterven.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">De locht en can alsulck een niet bederven</l>
+<l>Al gaet hy menich werven // achter de stadt</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyninge.</hi></l>
+<l rend="; 1tab">Ja al waer dat hy al diep in sonden sat,</l>
+<l>Wat acht ick dat // hy sal seer wel varen</l>
+<l>Soo lang als hy gheen cost en wil sparen</l>
+<l>Tot versterck des herten, diemen noemt preservatieve<hi rend="i">n</hi></l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Men sal daer van u seer wel gherieven,</l>
+<l>Naer u believen // by d'Aptekers gaet.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyninghe.</hi></l>
+<l rend="; 1tab">Dan meucht ghy sonder schroom wel gae<hi rend="i">n</hi> op straet</l>
+<l>Int hovaerdich gewaet // ook in u deur // staen</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l>Maer ghy en meucht by lijf in gheen ghetreur // gaen</l>
+<l>Daer is groote keur // aen // want siet de crancken</l>
+<l>Souden u remedien door hare stancken</l>
+<l>Wel haest doen wancken // daerom raed' ick voor best</l>
+<l>Wilt ghy u hoeden voor de felle Pest</l>
+<l>Int eerst of lest // besoeckt oock u vrint // niet.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyninge.</hi></l>
+<l rend="; 1tab">Besoecken? ick hem liever onbemint // liet</l>
+<l>Ja alwaer't u kindt // siet // wilter van vlieden.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+
+<pb ed="fol." n="Bvv"/>
+<l rend="; 1tab">Al roepen u somtijts eenighe lieden,</l>
+<l>Segt dat wy't u rieden // blijfter doch van,</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyning.</hi></l>
+<l rend="; 1tab">Wie soude u doch bewaren ghy waert een doot ma<hi rend="i">n</hi></l>
+<l>Wat baette u dan veel ghelts met hoopen</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Ick soude u liever raden te loopen,</l>
+<l>Daer de locht seer soet en niet fenynich // is,</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyning.</hi></l>
+<l rend="; 1tab">Dat waer wel best hoe wel het pynich // is,</l>
+<l>Het huys te laten om een ander te soecken.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Men can soo wel in andere hoecken</l>
+<l>Eten, drincken, en vrolijck wesen mede</l>
+<l>Als men wel doen mach alhier ter stede,</l>
+<l>Dies gaet slechts in vrede // sonder veel gheraes.</l>
+<l rend="speaker"><hi rend="i">verkeerde meyning.</hi></l>
+<l rend="; 1tab">Neefken hier comt hy den edelen baes,</l>
+<l>Siet hoe hoovaerdich can hy noch treden.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">3. Ha<hi rend="i">n</hi>deling. <lb/>2. Verschoning.</head>
+<stage><hi rend="i">Wolfs aert. 'Thert vol vreesen.</hi></stage>
+
+<lg type="poem">
+<l rend="; 1tab">Tis t'onsent noch al goedt, dus ben ick wel te vrede<hi rend="i">n</hi></l>
+<l>Ten sterft als noch ontrent mijn huysingen oock niet,</l>
+<l>Hoe wel men hier en daer veel sieck en sterven siet</l>
+<l>Doch ick gebruycke raet, de siecken oock ick schouwe</l>
+<l>Want ic van sulc besoec voorwaer niet veel en houwe</l>
+<l>Het suchten is de spijs die m'op de tafel set,</l>
+<l>De warme tranen me den dranck van sulck banquet</l>
+<l>De sieckte selfs is 'tgheen daer zy ons me betalen</l>
+<l>Ick wille mynen buyck vol Wijns veel liever halen</l>
+<l>Al waerme<hi rend="i">n</hi> niet en treurt, al waerme<hi rend="i">n</hi> danst en springt</l>
+<l>Al waermen vrolijck is en lustichlijcken singt</l>
+<l>Daer in voorwaer so is al veel te grooten keure</l>
+
+<pb ed="fol." n="Bvir"/>
+<l><hi rend="i">'Thert vol vreesen.</hi></l>
+<l rend="; 1tab">Holla mijn Heere, staet, ghy raect hier voor de deure</l>
+<l>Van Goed aert wiens vrou cranck van de Pest leyt.</l>
+<l rend="speaker"><hi rend="i">Wolfs aert.</hi></l>
+<l rend="; 1tab">Ist waer? hoe comt dat ghy so lange daer me beyt?</l>
+<l>Ghy doet my voorwaer met angst en schricke beven.</l>
+<l rend="speaker"><hi rend="i">'Thert vol vreesen.</hi></l>
+<l rend="; 1tab">Neemt uwen Reuckbol, stracx den neus daer med' ghewreven.</l>
+<l>Soo word' u herte weer en 'tlichaem me verquickt.</l>
+<l rend="speaker"><hi rend="i">Wolfs aert.</hi></l>
+<l rend="; 1tab">Ghy hadt my daer 'tghemoet te seer verschrickt,</l>
+<l>Laet ons liever sonder beyden by tyde,</l>
+<l>Van hier wijckende gaen op d'ander zyde,</l>
+<l>Tis best datmen myde // alsulcke plaghen.</l>
+<l rend="speaker"><hi rend="i">'Thert vol vreesen.</hi></l>
+<l rend="; 1tab">Al waerder yemants cranck van mijn beste mage<hi rend="i">n</hi>,</l>
+<l>K'en soud' hem selfs niet comen soo naer,</l>
+<l>Ick hebbe om sterven al veel te grooten vaer,</l>
+<l>Jae wensche dat ick waer al wijt van hier gheseten.</l>
+<l rend="speaker"><hi rend="i">Wolfs aert.</hi></l>
+<l>So langhe als wy noch wel moghen eten,</l>
+<l>Ende dat het ontrent onsent niet en is besmet</l>
+<l>Soo dunckt my dat ons gantschlijck niet en let,</l>
+<l>Na Doctoren Wet willen wy leven</l>
+<l>Wy sullen het buycxken zijn becomste gheven</l>
+<l>En houden de aderkens altijdt even vol.</l>
+<l>Soo datter gansch niet en sal wesen hol</l>
+<l>Daer haer de Pest sou connen versteken:</l>
+<l rend="speaker"><hi rend="i">'Thert vol vreesen.</hi></l>
+<l rend="; 1tab">Y daer hoor ick een man na mijn herte spreken</l>
+<l>Maer willen wy niet by tijts vande straet?</l>
+<l rend="speaker"><hi rend="i">Wolfs aert.</hi></l>
+<l rend="; 1tab">My dunckt het is wel den alderbesten raet,</l>
+
+<pb ed="fol." n="Bviv"/>
+<l>Gaet ghy voor en laet den cost bereyden.</l>
+<l rend="speaker"><hi rend="i">'Thert vol vreesen.</hi></l>
+<l rend="; 1tab">Wel Meester.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">3. Ha<hi rend="i">n</hi>deling. <lb/>3. Verschoning.</head>
+<stage><hi rend="i">Verkeerde meyning. Sondich bedrijf. Wolfs aert.</hi></stage>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Verkeerde meyning.</hi></l>
+<l rend="; 1tab">Wat dunckt u willen wy voor 'tscheyden</l>
+<l>Oft het hem greyden // eens spreken Cosijn.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Ja Nicht vat aen het dunckt my fijn</l>
+<l>Wy moeten hem doch te met wat styven</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyning.</hi></l>
+<l rend="; 1tab">Goeden morghen Wolfs aert, vreucht moet by u blyven</l>
+<l>Hoe ist omtrent uwent doch al ghesteldt?</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">En wortmen daer noch met de Pest niet ghequelt?</l>
+<l>Ons dat vertelt // want wy daer nae haken.</l>
+<l rend="speaker"><hi rend="i">Wolfs aert.</hi></l>
+<l rend="; 1tab">O vrienden willecom, hoe staen V. L. saken?</l>
+<l>Het is by ons noch al goelijck voor wint.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyning.</hi></l>
+<l rend="; 1tab">En wy noch wel te pas.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Ja wel ghesint // om niet te vasten</l>
+<l rend="speaker"><hi rend="i">Wolfs aert.</hi></l>
+<l rend="; 1tab">Wilt ghy my met de potie vergasten</l>
+<l>T'waer dat my pasten // ghelijck ghy mercken sult.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyning.</hi></l>
+<l rend="; 1tab">Gheen beter dinck dan datmen nu wel smult,</l>
+<l>Het buycxken vult voor de snoode Pesten,</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Soo en vinden sy int lichaem gheen nesten,</l>
+
+<pb ed="fol." n="Bvijr"/>
+<l>In ander ghewesten // sy dan vervlieghen.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyning.</hi></l>
+<l rend="; 1tab">Ja men sou de duyvel soo wel bedrieghen</l>
+<l>En in slaep wieghen // wy nement aen.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Voor mijn deel alleen, ick dronck wel een vaen</l>
+<l>Al waert oock van de beste rijnsche Wynen</l>
+<l rend="speaker"><hi rend="i">Wolfs aert.</hi></l>
+<l rend="; 1tab">Ghy'n zijt soo heylich niet als ghy wilt schynen,</l>
+<l>Men sal u schaffen, hebt doch wat ghedult,</l>
+<l>Maer wat dunckt u, isset onser sonden schult</l>
+<l>Dat dees siecten dus fellijcken meeren?</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyning.</hi></l>
+<l rend="; 1tab">Ke laet sulcx uyt u ghedachten keeren.</l>
+<l>Wie mach u dit leeren, dats een bot verstandt</l>
+<l>Ghy siet doch dat sy goede en quade vermant,</l>
+<l>Der Pesten brant // zijn fenynighe stralen</l>
+<l>Die uyt des Hemels vloeyingen dalen</l>
+<l>Bevattende 'tgheen zy crijcht in hare macht,</l>
+<l>Daerom zijn sy als voor wel bedacht</l>
+<l>Die gheen ledighe plaetse daer voor en laten.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Latet de neuswyse vry wat schryven en praten</l>
+<l>Sy'n mach niet vaten // daer wy gheen plaets en heeft.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyning.</hi></l>
+<l rend="; 1tab">Als ghy slechts u lichaem sterck 'tvoetsel gheeft</l>
+<l>Preservatijflijck leeft // sy sal u niet letten,</l>
+<l>Mynen hals wil ick daer voor te pande setten,</l>
+<l>Want de saeck gaet vast ick houdet voor ghewis.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Daerom sietmen dat sy meest inden huypot is</l>
+<l>Dats by d'arm volck niet hebbende ten besten.</l>
+<l rend="speaker"><hi rend="i">Wolfs aert.</hi></l>
+<l rend="; 1tab">So willen wy ons dan blyven vet mesten,</l>
+
+<pb ed="fol." n="Bvijv"/>
+<l>En vullen alle onse darmen ter deegh</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Jae datter niet een plaetsken en blyve leegh</l>
+<l>Al loopet inden bol ten can niet schaden.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyning.</hi></l>
+<l rend="; 1tab">Ghy en hoeft voor gheen Peste te zijn beladen</l>
+<l>Als ghy alsulcke raden // wilt nemen te baet.</l>
+<l rend="speaker"><hi rend="i">Wolfs aert.</hi></l>
+<l rend="; 1tab">hier is mijnen knecht, ick dencke het salaet</l>
+<l>Is reedt ghemaeckt, wy moghen vry beginnen.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">3. Ha<hi rend="i">n</hi>deling. <lb/>4. Verschoning.</head>
+<stage><hi rend="i">Thert vol vreesen. Wolfs aert.</hi></stage>
+
+<lg type="poem">
+<l rend="; 1tab">Mijn Heere alst u belieft, so comt nu binnen,</l>
+<l>Den cost is gereet, de maeltijdt is bereyt.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Dat hoor ick geiren</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyning.</hi></l>
+<l rend="; 1tab">Tis 'tgheene dat my greyt</l>
+<l>Gheen vreucht en mach ons deiren.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Dat hoor ick geiren.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyninge.</hi></l>
+<l rend="; 1tab">K'en sal my niet weiren</l>
+<l>Al ist dat ghy my binnen leyt</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Dat hoor ick geiren</l>
+<l>Tis 'tgheene dat my greyt.</l>
+<l rend="speaker"><hi rend="i">VVolfs aert.</hi></l>
+<l>Volcht vrienden, volcht, ghy weet hoe't is gheseyt,</l>
+<l>Dus meucht ghy stoutelijck wel binnen comen.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">3. Ha<hi rend="i">n</hi>deling. <lb/>5. Verschoning.</head>
+<p rend="speaker"><hi rend="i">Thert vol vreesen.</hi></p>
+
+<pb ed="fol." n="Bviijr"/>
+
+<lg type="poem">
+<l>Mijn hert is seer benaut, tgepeysen doet my schrome<hi rend="i">n</hi></l>
+<l>Als ick op Buerman denck die stracx gestorven // is,</l>
+<l>Mijn eten my vergaet, den appetijt bedorven // is</l>
+<l>Want alsment segghen sal altijdt was hy by't bier,</l>
+<l>Soo dat hy nau en was een ure nuchtren schier</l>
+<l>Maer staegh en deed hy niet als zynen pensack lade<hi rend="i">n</hi></l>
+<l>En even wel cost hem de felle Peste schaden</l>
+<l>Teghens het segghen van Verkeerde meyning stout</l>
+<l>Die mynen Meester nu in sulck ghedencken hout</l>
+<l>Jae gaet weer op ee<hi rend="i">n</hi> nieu met he<hi rend="i">m</hi> noch vrolijc brassen</l>
+<l>Maer wist hy't so worp hy zijn spillen al in d'assche<hi rend="i">n</hi>.</l>
+<l>Nu ick moet binnen gaen, doch angstich vrees ic seer</l>
+<l>Dat het noch worden sal om sterven onsen keer.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">4. handeling. <lb/>1. verschoning.</head>
+<stage><hi rend="i">Sondich bedrijf. Verkeerde meyninghe.</hi></stage>
+
+<lg type="poem">
+<l rend="; 1tab">Wat salder nu om // gaen?</l>
+<l>Hy sal ons bekyven.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyning.</hi></l>
+<l rend="; 1tab">Hy en sal niet stom // staen.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Wat salder nu om // gaen?</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyninghe.</hi></l>
+<l rend="; 1tab">Doe wy den mom // aen</l>
+<l>Op dat wy beclyven.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Wat salder nu om // gaen?</l>
+<l>Hy sal ons bekyven.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyning.</hi></l>
+<l rend="; 1tab">Ghy sult voor sondich vernuftich schryven</l>
+<l>Voor verkeerde gheleerde ick setten // sal</l>
+<l>Ghy sult sien hy daer niet op letten // sal</l>
+<l>Soo moghen wy vrylijck weer met hem woonen.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+
+<pb ed="fol." n="Bviijv"/>
+<l rend="; 1tab">Ja hy sal ons tot in den Hemel croonen</l>
+<l>Meer eers bethoonen // als hy te voren de.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyning.</hi></l>
+<l rend="; 1tab">Wy gaen voort aen nu altijdt me</l>
+<l>Ja buytens ste // hy can ons niet ontbeeren.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Na gheleerde meyningh staet al zijn begheeren,</l>
+<l>Hy salder om verteeren // wie weet wat goet.</l>
+<l rend="speaker"><hi rend="i">verkeerde meyning.</hi></l>
+<l rend="; 1tab">En vernuftich bedrijf hy voor al hebben moet</l>
+<l>Tis al voorspoet // wat wy ter handen trecken.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Nichtke<hi rend="i">n</hi> hy en sal met ons dan boerde<hi rend="i">n</hi> noch gecke<hi rend="i">n</hi></l>
+<l>Maer wel anders becken // het sal wel zijn.</l>
+<l rend="speaker"><hi rend="i">verkeerde meyning.</hi></l>
+<l rend="; 1tab">Tsa Maert comt hier schenckt de Meesters Wijn</l>
+<l>Is dat niet fijn // en lustich om hooren?</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Hy en sal hem voortaen op ons niet stooren</l>
+<l>Noch ons voor dooren // meer houwen // man.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Op ons meer dan op God sal hy ooc bouwen // dan</l>
+<l>Maer wat ick schouwen // can // zijn deur daer open gaet,</l>
+<l>Ons ras hercleedt, gaen wy na binnen maet.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">4. Ha<hi rend="i">n</hi>deling. <lb/>2. Verschoning.</head>
+<p rend="speaker"><hi rend="i">Onverduldicheyt.</hi></p>
+
+<lg type="poem">
+<l rend="; 1tab">Wee ons ellendich huys, wat sullen wy beginnen</l>
+<l>Dat en can ick als nu bedencken noch versinnen.</l>
+<l>O wee vermaledyde end onsalige nacht</l>
+<l>Die ons dees siecte nu hier heeft in huys ghebracht,</l>
+<l>O seer vuyrighe locht, o Fenynighe winden</l>
+<l>Wilt ghy ons soo te saem bederven en verslinden?</l>
+
+<pb ed="fol." n="Cir"/>
+<l>Wat grooter lyden och, wat droeve sware smert</l>
+<l>Benautheyt overgroot, van weedom berst mijn hert</l>
+<l>Waer is nu met een vlucht alle onse vreucht vervare<hi rend="i">n</hi>?</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">4. Ha<hi rend="i">n</hi>deling. <lb/>3 Verschoning.</head>
+<stage><hi rend="i">'Thert vol vreesen. Onverduldicheyt.</hi></stage>
+
+<lg type="poem">
+<l rend="; 1tab">Heb ick dat niet gedacht, de Heer wil my bewaren</l>
+<l>Ick moet verharen // 'tisser al bekaeyt</l>
+<l>My dunckt dat de Moeder haer kindren paeyt</l>
+<l>En de krenckte haer meer schaeyt // so ick can mercke<hi rend="i">n</hi></l>
+<l>Als den ghenen die zy soeckt te stercken</l>
+<l>Dies moet ick wech al ist toch teghens danck.</l>
+<l rend="speaker"><hi rend="i">Onverduldicheyt.</hi></l>
+<l>Hou Hert vol vreesen, waer leyt den ganck</l>
+<l>Nu dat u volck is cranck // wilt ghy't ontloopen?</l>
+<l rend="speaker"><hi rend="i">'Thert vol vreesen.</hi></l>
+<l rend="; 1tab">Ick vreese dat ickt mede soude becoopen,</l>
+<l>Men sal my niet knoopen // ick moeter van.</l>
+<l rend="speaker"><hi rend="i">Onverduldicheyt.</hi></l>
+<l rend="; 1tab">Ten minsten segt ons eens den Adieu dan,</l>
+<l>Spreeckt u Meester an // eer ghy u geeft te reysen</l>
+<l rend="speaker"><hi rend="i">'Thert vol vreesen.</hi></l>
+<l rend="; 1tab">Ick heb al wat anders in mijn ghepeysen,</l>
+<l>Hy'n sal niet deysen // nu de vrou de Pest // heeft</l>
+<l>Tot hy mede cranck in den nest // sweeft,</l>
+<l>Mijn hert in sulck ghewest // beest // k'en blijf hier niet Maecht,</l>
+<l rend="; 1tab">En ist dat de Meester u naer my vraecht,</l>
+<l>Segt ick was vertsaecht // Adieu ick moet verlanden:</l>
+<l rend="speaker"><hi rend="i">Onverduldicheyt.</hi></l>
+<l rend="; 1tab">Fy, fy u voor sulcke groote schanden</l>
+<l>Na de helsche Randen // met sulcken knecht.</l>
+<l>Nu ick en verlate mijn volck niet soo slecht,</l>
+<l>Ten is niet recht // ick wille by haer waken,</l>
+
+<pb ed="fol." n="Civ"/>
+<l>Maer laes wat sullen wy beginnen ofte maken</l>
+<l>Voor alle saken // moet ick een Doctoor halen</l>
+<l>Hier op en mach ick niet als verduldich dralen</l>
+<l>Ghelt om te betalen heeft mijn Meester inde kas.</l>
+<l>Siet hier comter nu wel twee recht te pas</l>
+<l>Immers so mijn dunckt aen haer manierlijck wesen.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">4. Handeling. <lb/>4. Wtcomen.</head>
+<stage><hi rend="i">Verkeerde meyning. Sondich bedrijf. Onverduldich.</hi></stage>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Wy hebben daer immer dien crancken ghenesen</l>
+<l>Sy hebben ons ghepresen,</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyning.</hi></l>
+<l rend="; 1tab">En oock wel gheloont.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Goy Meesters zijn oock wel waerdich ghecroont</l>
+<l>De schyven thoont // hoe veel hebt ghy ontfanghen?</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyning.</hi></l>
+<l rend="; 1tab">De helft hier van ontbeyt sal ick frater langhen,</l>
+<l>Speelt niet den bangen, want <hi rend="i">recht moet recht zijn.</hi></l>
+<l rend="speaker"><hi rend="i">Onverduldicheyt.</hi></l>
+<l rend="; 1tab">Ick moetse groeten, dit wachten doet mijn pijn.</l>
+<l>Goeden dach ghy Meesters ofte wyse Heeren</l>
+<l>Ick denck dat ick my recht t'uwaerts sal keeren</l>
+<l>Ghy zijt doch Medicijns als ick wel mercken mach.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Goeden dach lieve dochter, goeden dach,</l>
+<l>Laet hooren u gewach // ghy zijt te pas ghecomen,</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyninge.</hi></l>
+<l>Voor geenderley sieckte wy ons en schromen</l>
+<l>Wy worden aenghenomen // voor Meesters wel beke<hi rend="i">n</hi>t</l>
+<l>Ick ben de Medicijn die sich tot crancken went</l>
+<l>En desen die verbent // de swillingh ende wonden.</l>
+<l rend="speaker"><hi rend="i">Onverduldicheyt.</hi></l>
+
+<pb ed="fol." n="Cijr"/>
+<l rend="; 1tab">Ghy zijt dan bey seer wel te ty ghevonden</l>
+<l>Versuymt geen stonde // maer comt nu stracx met my</l>
+<l>Mijn Meester sal wesen van u comst soo bly</l>
+<l>Sijn vrou leyt in de ly // de kinders al te samen</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Maer Frater waert niet van noode eer wy daer quamen</l>
+<l>Met dese te ramen // wat s'ons gheven sullen?</l>
+<l rend="speaker"><hi rend="i">Onverduldicheyt.</hi></l>
+<l>En sorcht niet, mijn Meester sal u die beurs wel vulle<hi rend="i">n</hi></l>
+<l>En vry sult ghy smullen // jae drincken de Wijn:</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyning.</hi></l>
+<l rend="; 1tab">Wy volghen u stracx, het sal wel zijn</l>
+<l>V volck uyt de pijn // wy haest sullen helpen.</l>
+<l rend="speaker"><hi rend="i">Onverduldicheyt.</hi></l>
+<l rend="; 1tab">O comt dan stracx den commer ons stelpen</l>
+<l>Ick moete voort, k'en can niet langher staen.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Siet hier comt den Meester selvers aen</l>
+<l>Laet ons eens hooren wat hy sal segghen.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">4. Ha<hi rend="i">n</hi>deling. <lb/>5 Verschoning.</head>
+<stage><hi rend="i">Wolfs aert. Sondich bedrijf. Verkeerde meyningh.</hi></stage>
+
+<lg type="poem">
+<l rend="; 1tab">Mijn swaer verdriet en is niet t'overlegghen</l>
+<l>O wee my arm mensch wat sal ick maken // doch?</l>
+<l>Most al mijn volck van dees Pest smaken // och?</l>
+<l>Fy verkeerde meyninge en sondich bedrijf quaet,</l>
+<l>Nu ben ick begort met u vuyl snoode zaet</l>
+<l>In desen armen staet // wat sal ick nu beginnen?</l>
+<l>Wil ick voor God de Heer mijn sonden al bekinnen</l>
+<l>Sy doen my schier ontsinnen // te groot zijnd' int getal</l>
+<l>K'en wete niet voorwaer hoe dat ick't maken sal</l>
+<l>Doch moet ick wel voor al aen een goet Meester rake<hi rend="i">n</hi>.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+
+<pb ed="fol." n="Cijv"/>
+<l rend="; 1tab">Goede morghen eel Heer, u droefheyt wilt doch staken,</l>
+<l>Ghy wordt noch hope ick corts de beternis ghewaer</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyninghe.</hi></l>
+<l rend="; 1tab">Goeden dach goet Heer, en maket niet soo swaer</l>
+<l>En hebt gheen vaer // wilt u wat vercloecken.</l>
+<l rend="speaker"><hi rend="i">Wolfs aert.</hi></l>
+<l rend="; 1tab">Mannen wie zijt ghy, dat ghy my comt besoecken?</l>
+<l>K'en heb u noyt gekent, segt va<hi rend="i">n</hi> waer comt gy beyde?</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Ghy'n wist het niet al waert dat ick't u seyde</l>
+<l>Doch mynen naem verbreyde // by alle man,</l>
+<l>Ick ben een Meester die veel doen can,</l>
+<l>Menich crancke wan // door my zijn leven</l>
+<l>Die by veel ander waren doot gheschreven</l>
+<l>Groote kuren bedreven // heb ick wijt en sijt</l>
+<l>Dies is mynen name voor nu ter tijt,</l>
+<l>Sonder eenich verwijt t'vernuftich bedryven.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyninge.</hi></l>
+<l rend="; 1tab">En ick can der crancken swackheyt seer styven</l>
+<l>By Mannen en Wyven // oock in wat staet</l>
+<l>Ick gever altijdt eenen goeden raet</l>
+<l>Ja doe elck baet // het lijf ick reyninghe,</l>
+<l>Daerom heet ick Gheleerde meyninghe</l>
+<l>Oock heeft u Maget ons aenghenomen.</l>
+<l rend="speaker"><hi rend="i">Wolfs aert.</hi></l>
+<l rend="; 1tab">O lieve vrienden ghy zijt ons wel ghecomen</l>
+<l>Gaen wy doch binnen besoecken de banghe</l>
+<l>Com Domine Doctor wy makent te langhe.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">5. Handeling. <lb/>1. Wtcomen.</head>
+<stage><hi rend="i">Sondich bedrijf. Verkeerde meyning.</hi></stage>
+
+<lg type="poem">
+<l rend="; 1tab">Sy zijn al om lijf</l>
+<l>O Domine Dottoor.</l>
+
+<pb ed="fol." n="Ciijr"/>
+<l><hi rend="i">Verkeerde meyning.</hi></l>
+<l rend="; 1tab">Ghy vermoordent Wijf,</l>
+<l>O Domine Bottoor.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Vwen dranck was te rijf,</l>
+<l>Sy zijn al om lijf.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyninge.</hi></l>
+<l rend="; 1tab">Te sterck u corisijf</l>
+<l>Ghy vermoordent Wijf</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Wat batet ghekijf,</l>
+<l>Waer oock den sot // door</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyning.</hi></l>
+<l rend="; 1tab">Door u sondich bedrijf,</l>
+<l>Ghy rechten pot // door</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">De rest is om lijf,</l>
+<l>O Domine Dottoor</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyning.</hi></l>
+<l rend="; 1tab">Ghy vermoordent Wijf,</l>
+<l>O Domme Bottoor.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Daer is een schot // voor // ons meesteren heeft een gat,</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyninge.</hi></l>
+<l rend="; 1tab">Ick ben die Hoverdye oock al me sat</l>
+<l>En ghy soo ick schat // sulter wel uytscheyden.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Het meesteren oyt my soo seer niet en greyden,</l>
+<l>Maer doort verbeyden van ghelt so creghe ick lust.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyning.</hi></l>
+<l rend="; 1tab">Den Tabbert dan uyt en hier van gherust</l>
+<l>Ons bedrijf ghesust // al wech de cleeren.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+
+<pb ed="fol." n="Ciijv"/>
+<l rend="; 1tab">Tis best dat wy nu wat anders leeren</l>
+<l>Men soud' ons niet eeren // om ons moordery.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyninge.</hi></l>
+<l rend="; 1tab">Onsen Wolfaert is doch al even bly</l>
+<l>Hy is nu vry // van vrouw' en kinderen</l>
+<l>En noch een Jong man, wat soud' hem hinderen,</l>
+<l>Oft hy crijcht wel weder een schoone Jonge vrouw'</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Ick geloove dat hyse wel begheeren souw'</l>
+<l>En dat zynen rouw' // meest inden Mantel hangt.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyninghe.</hi></l>
+<l rend="; 1tab">Ick wete dat hy soo seere verlangt.</l>
+<l>Dat dese sterfte eens mocht ophouwen.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Hy is huyden morghen seer vroech in trouwen</l>
+<l>Om de Pest te schouwen // te schepe ghegaen,</l>
+<l>Ghelijck wy't selve doch hebben verstaen.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyning.</hi></l>
+<l rend="; 1tab">Ick hadt hem gheraen, als een van mijn vrinden</l>
+<l>Nu meynt hy God en sal hem niet vinden</l>
+<l>Al by den blinden is hy nu gheschickt.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Op u profijt ghy wonderlijck wel mickt:</l>
+<l>Want ghy soo veel slickt // als ghy cont verdouwen.</l>
+<l rend="speaker"><hi rend="i">Verkeerde meyning.</hi></l>
+<l rend="; 1tab">En ghy cont me so veel quaets brouwen,</l>
+<l>Datmen moet grouwen // oock wie daer aen dacht</l>
+<l>Ghy hebt den volcke dees roede ghebracht,</l>
+<l>Waer me sy gheslacht // worden in grooten ghetale.</l>
+<l rend="speaker"><hi rend="i">Sondich bedrijf.</hi></l>
+<l rend="; 1tab">Maer ghy bedervet doch al te male,</l>
+<l>En maeckt ick haer hale // meer straffen op den hals,</l>
+<l>Door u meyning die gans verkeert is en vals,</l>
+<l>Wat dient hier veel ghekals // wy doen ons beste.</l>
+
+<pb ed="fol." n="Ciiijr"/>
+<l><hi rend="i">Verkeerde meyning.</hi></l>
+<l rend="; 1tab">Nu Neef ghesweghen, laet varen de reste,</l>
+<l>Het is ghenoech, van hier gheweken,</l>
+<l>Want hier comt Ootmoet aenghestreken</l>
+<l>Hier meer te spreken dat is ghedaen,</l>
+<l>Wy moeten met de loopers uyt de stede gaen.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">5. handeling. <lb/>2. verschoning.</head>
+<p rend="speaker"><hi rend="i">Ootmoet.</hi></p>
+
+<lg type="poem">
+<l rend="; 1tab">De Heere zy gelooft voor zijn ontfermen groot</l>
+<l>Hy heeft ons schier verlost uyt onsen meesten noot</l>
+<l>Ons vrouwe weer verquickt tis op de beter zyde,</l>
+<l>O heer u goeth<hi rend="i">eyt </hi>groot verheucht en maect ons blyde</l>
+<l>Daer zy haer gansch en gaer in u hand' had ghesteldt</l>
+<l>Om lyden willichlijck der Pesten groot gheweldt</l>
+<l>Hebt ghy besloten dan Heer, riep zy menich werven</l>
+<l>Dat ick op deser tijdt door Pest sal moeten sterven?</l>
+<l>Soo wil ick my daer toe seer garen oock bereyen</l>
+<l>Met dies bestond' zy steeds haer sonden te beschreyen</l>
+<l>En nu zy mercken mach dat God haer sparen, wil</l>
+<l>Vind' ick haer meest alleen en is seer garen // stil,</l>
+<l>In haer slaepcamer zy den Heere looft en danckt.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">5. Ha<hi rend="i">n</hi>deling. <lb/>3. Verschoning.</head>
+<stage><hi rend="i">Onverduldicheyt. Ootmoet.</hi></stage>
+
+<lg type="poem">
+<l rend="; 1tab">O wapen moort wats dit? wat isset voor een cra<hi rend="i">n</hi>ct?</l>
+<l>Het loopt al over hoop, Son, Maen en d'Elementen,</l>
+<l>Die't dootlijck wonden steeds in s'menschen lichaem prenten.</l>
+<l>O vuyrghe stralen quaet, o locht, ontstelde locht</l>
+<l>O Hemels die daer stort alsulck fenynich vocht</l>
+
+<pb ed="fol." n="Ciiijv"/>
+<l>Ick mach u wel te recht versaken en vervloecken,</l>
+<l>Mits ghy dit weeldrich huys so heftich comt besoecke<hi rend="i">n</hi></l>
+<l>En hadden wy alhier noch niet ghenoech ghesucht</l>
+<l>Most ghy mijn Meester noch wechnemen inde lucht?</l>
+<l>O veel te grooten cruys, wie sou sulcx connen dragen?</l>
+<l rend="speaker"><hi rend="i">Ootmoet.</hi></l>
+<l rend="; 1tab">G'en hoorde waerde lief so deerlijck niet te claghen,</l>
+<l>En roepen teghens God en zynen wil soo seer.</l>
+<l rend="speaker"><hi rend="i">Onverduldicheyt.</hi></l>
+<l rend="; 1tab">God, ja wel lieve God, waer is doch onsen Heer?</l>
+<l>Die ons behouden sou, de stadt is schier bedorven,</l>
+<l>En is vant rijcke volck noch niet ghenoech gestorven?</l>
+<l>Heeft dese sterfte groot, niet lang ghenoech gheduert?</l>
+<l rend="speaker"><hi rend="i">Ootmoet.</hi></l>
+<l rend="; 1tab">Ick staen't u vry wel toe, dees Pest is wel besuert,</l>
+<l>En 'twaer ooc wel genoech waert d<hi rend="i">at</hi> de Heer beliefde</l>
+<l>Dat hy ons andersins met neeringh weer gheriefde:</l>
+<l>Maer wie sal onsen God doch stellen zyne maet,</l>
+<l>Hy weet hoe veel dat ons tot salicheyt bestaet</l>
+<l>Oock is hy gheensins geen uytnemer der persoonen,</l>
+<l>Dat hy den Rijcken meer sou als den arme<hi rend="i">n</hi> schoonen,</l>
+<l>Ghy siet dat buytens stadts hy selfs de gheene vindt</l>
+<l>Die hy, al vluchten sy, te straffen is ghesindt,</l>
+<l>En oft daer teghens wy seer onverduldich vechten</l>
+<l>Wat sullen wy daer me mijn waerde lief uytrechten?</l>
+<l>Da<hi rend="i">n</hi> dat daer door ons smert, ons weedom en ons pijn</l>
+<l>In als verdobbelt sal vermenichvuldicht zijn.</l>
+<l>Ghelijck de vogl'en die met stricken zijn ghevanghen,</l>
+<l>Hoe zy meer wicklen hoe zy vaster blyven hanghen.</l>
+<l>K'en wille niet dat ghy, heeft Paulus selfs gheseet</l>
+<l>Van die ontslapen zijn met allen niet en weet</l>
+<l>Op dat ghy u soo niet tot droefheydt en soudt gheven</l>
+<l>Ghelijck als d'ander die gans in gheen hoop en leven</l>
+<l>So wy ghelooven dat Christus is opghestaen</l>
+
+<pb ed="fol." n="Cvr"/>
+<l>Soo sal hy oock tot hem d'onslapene nemen aen</l>
+<l>Dus zijt wat bet ghemoet en stelt u doch gherust.</l>
+<l rend="speaker"><hi rend="i">Onverduldicheyt.</hi></l>
+<l rend="; 1tab">Wat meynt ghy dat my het 'tSermoen te hooren lust</l>
+<l>Neen, neen Lamere nee<hi rend="i">n</hi>, ghy'n cont my niet vermake<hi rend="i">n</hi>.</l>
+<l rend="speaker"><hi rend="i">Ootmoet.</hi></l>
+<l rend="; 1tab">Hoe is oock menich mensch so onnut in zijn kaken,</l>
+<l>Hoe weynich achten veel op tghene dat God doet</l>
+<l>Hoe menich mensche me dees woorden hout voor goet</l>
+<l>Ja voor den besten raedt om Pesten te ghenesen,</l>
+<l>Haest, lancksaem ende verd' bediedende midts desen,</l>
+<l>Dat also haest de lucht vergift is, dat sich dan</l>
+<l>Ter vlucht begheven sal opt spoedichste de Man,</l>
+<l>Ten andren datmen verd sal vande plaetse wijcken.</l>
+<l>Ten derden datmen niet soo haest en sal omkijcken.</l>
+<l>S'en achten niet opt geen dat ons schriftuer verteldt,</l>
+<l>En David inden Psalm soo clarelijcken meldt,</l>
+<l>Ghy'n sult niet vresen Pest die in het duyster swervet</l>
+<l>Noch voor gheen sterfte groot die smiddaechs ons bedervet.</l>
+<l>Al storven inder ijl thien duysent aen u zy,</l>
+<l>Soo zijt ghy evenwel van Pest of siecte vry.</l>
+<l>Waer med' dat de Propheet ghenoechsaem gheeft te kennen,</l>
+<l>Dat God alleen de Pest can gheven ende wennen</l>
+<l>Maer holla dats ons deur: wel doch, wat sie<hi rend="i">n</hi> ick nou?</l>
+<l>De Heere zy ghelooft, ter goeder uren vrou,</l>
+<l>God seghen uwen padt, God seghen uwen ganck.</l>
+<l rend="speaker"><hi rend="i">Magdalena.</hi></l>
+<l rend="; 1tab">Mijn lieve waerde Maecht, van herten u bedanck</l>
+<l>De Heere wil u med' voor ongheluck bewaren:</l>
+<l>Maer nu dewijl wy hier te samen soo vergaren</l>
+<l>Laet ons ghebedt oock zijn ghelijckelijck ghewent</l>
+<l>Tot hem die't alles gheeft, die't al can, die't al ment,</l>
+
+<pb ed="fol." n="Cvv"/>
+<l>En die my weder aen noch langher gont te leven.</l>
+<l rend="speaker"><hi rend="i">Goed aert.</hi></l>
+<l rend="; 1tab">'tGeschie wy moeten hem alleen dees eere geven.</l>
+<l rend="speaker"><hi rend="i">Magdalena.</hi></l>
+<l rend="; 1tab">O Heer der Heeren groot Jehova diet al kan</l>
+<l>Die door sijn dierbaer bloet ons 'tleven weder wan</l>
+<l>Die so genadichlijck kastijt als ghy wilt straffen</l>
+<l>Hoewel de mensche<hi rend="i">n </hi>boos daertege<hi rend="i">n</hi>s noch wel blassen</l>
+<l>Geeft dat ick alst betaemt, met ootmoet t'allen stont</l>
+<l>Tot uwen lof, end' eer u macht mach maecken kont</l>
+<l>Dat ick alwetent God om 'tself oock t'onderwinden</l>
+<l>My in de Kercke Gods en Christi late vinden,</l>
+<l>Ghelijck hy die soo lang ghequelt was met de gicht</l>
+<l>Na dat hy van sijn smert door Jesum was verplicht</l>
+<l>Ja gans gesont gemaect terstont ginc na de<hi rend="i">n</hi> Tempel</l>
+<l>Ons arme sonders al  O Heer tot een exempel,</l>
+<l>Dat ick u woorden me mach houden in ghedacht</l>
+<l>Siet ghy sijt nu ghesondt, voortane doch u wacht</l>
+<l>Van sonden, vliedt het quaet, doet 'tgeen ic u gebiede</l>
+<l>Op dat u mensche soo niet erghers en gheschiede</l>
+<l>Door u: doch Heer die my nu hebt ghesont gemaeckt</l>
+<l>Waer ick wel weder haest in meerder smert geraect</l>
+<l>Verlicht dan mijn verstant versterct mijn sinne<hi rend="i">n</hi> Heer</l>
+<l>Dat ick niet weder tot 'thooveerdich volck en keer,</l>
+<l>D'welck logenachtich is, maer dat ick nu voortaen</l>
+<l>Naer uwen heyl'gen wil den rechten padt mach gae<hi rend="i">n</hi>.</l>
+<l>Schept my dan ee<hi rend="i">n </hi>reyn hert en oprecht va<hi rend="i">n</hi> betrouwe<hi rend="i">n</hi> </l>
+<l>Dat niemants schaed'lijck zy, maer t'boos doe<hi rend="i">n</hi> soect te schouwen</l>
+<l>Oock eenen nieuwen gheest, op dat ick al den dach</l>
+<l>Als een nieuw' creatuer u Heere prysen mach.</l>
+<l>Mijn tong' dan ment o God, en opent myne lippen,</l>
+<l>Op datmen niet een woordt en hooe my ontslippen</l>
+<l>D'welck niet tot uwer eer en gae recht uyt den mont</l>
+
+<pb ed="fol." n="Cvir"/>
+<l>Men moet u loven doch, o Heere t'aller stont,</l>
+<l>Die drie persoonen zijt, doch eenen God te samen,</l>
+<l>Die t'alle weten, doen, bestueren ende ramen:</l>
+<l>Dies zy der Heeren Heer den eeren eer dan, Amen.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Slotreden.</head>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Goet onderwijs.</hi></l>
+<l rend="; 1tab">Hier hebt ghy nu gesien, gehoort en oock verstaen</l>
+<l>Het geene speelsghewijs van ons nu is ghedaen</l>
+<l>Wat dunckt u salmen sulcx toe laten oft verbieden.</l>
+<l rend="speaker"><hi rend="i">Menich slechtaert.</hi></l>
+<l rend="; 1tab">Als ick recht spreken sal sulc spelen sticht de lieden</l>
+<l>'tVerquict gemoet en sin met vreucht het onderwijst</l>
+<l>Dies is alsulc gedacht wel waerdich datment prijst</l>
+<l>Doch wort de medicijn soot scijnt hier ga<hi rend="i">n</hi>s versmete<hi rend="i">n</hi></l>
+<l>Ja gans bespot soo dat hy niet en schijnt te weten</l>
+<l>Datmen in de sieckt' het meest'ren sparen mach</l>
+<l rend="speaker"><hi rend="i">Goet onderwijs.</hi></l>
+<l rend="; 1tab">Soo vele dit aengaet ick make cleyn ghewach</l>
+<l>Va<hi rend="i">n</hi> Meesters om Gods cracht te meerder te verheffe<hi rend="i">n</hi></l>
+<l>En den verdoolden soo te herder aen te treffen</l>
+<l>Die op den Medicijn al sijne hope stelt</l>
+<l>En sich met Godes doen met allen niet en quel</l>
+<l>Doch is de Medicijn daerom niet min te achten</l>
+<l>De Crancke neve<hi rend="i">n</hi>s God moet na ee<hi rend="i">n</hi> Meester trachte<hi rend="i">n</hi></l>
+<l>Ervaren in de const: want Godt de cruyden gondt,</l>
+<l>Op dat de crancke mens daer door weer wert gesont</l>
+<l>Hy wilt dat wy in als gheen mid'len en versuymen</l>
+<l>En op des Meesters raet te geender tijt en sluymen,</l>
+<l>So hy bethoont als hy den genen die blint was</l>
+<l>Int vleck Bethsaida, met middelen genas</l>
+<l>Dies bruyckt den Medicijn en midlen om genesen</l>
+<l>Maer God moet boven al altijt gepresen wesen:</l>
+<l>Want een goet Medicijn is Godes Instrument</l>
+
+<pb ed="fol." n="Cviv"/>
+<l><hi rend="i">Menich slechtaert.</hi></l>
+<l rend="; 1tab">Nu wordt hier, soo my dunckt, u reden goet gekent</l>
+<l>De meestendeel soot schijnt hier inne hun verheughen.</l>
+<l rend="speaker"><hi rend="i">Goet onderwijs.</hi></l>
+<l><hi rend="i">Wt levendigher jonst </hi>neemt danck'lijck 'tcleyn vermeughen.</l>
+</lg>
+<p><hi rend="i">Recht moet Recht zijn.</hi></p>
+</div>
+<div type="chapter">
+<pb ed="fol." n="Cvijr"/>
+<head rend="h3"><hi rend="i">Reviereyn</hi>.</head>
+
+<lg type="poem">
+<l><hi rend="i">V</hi>Erganckelijcke mensch, wat is u yd'le leven?</l>
+<l>Het welcke haest vergaet, als lichte<hi rend="i">n</hi> rooc en wint</l>
+<l>Hoe lange wilt ghy noch de werelt boos ae<hi rend="i">n</hi>cleve<hi rend="i">n</hi></l>
+<l>Den Satan volgen na, van herten heel verblint,</l>
+<l>Een quade<hi rend="i">n</hi> Heer ghy dient, den Mammon gy bemint</l>
+<l>Des levens claer fonteyn, u ziele heeft verlaten</l>
+<l>Het alderbeste goedt, werdt alderminst versint</l>
+<l>T'gemoet is veer van daer, al gaetmen hier af praten</l>
+<l>Ter werelt sietmen meest, beminnen groote staten:</l>
+<l>Maer wie heeft lief de Heer, en dient he<hi rend="i">m</hi> na zijn woort?</l>
+<l>Wie God wil diene<hi rend="i">n</hi> recht, die moet de<hi rend="i">n </hi>Mammon hate<hi rend="i">n</hi></l>
+<l>Twee Heeren niemandt can, hier dienen naer behoort</l>
+<l>Dus wilt u wachten wel, als Satan u becoort</l>
+<l>Op dat ghy niet en valt, in zyne loose laghen,</l>
+<l>Wie s'werelts rijckdom dient, diens ziele is vermoort.</l>
+<l>Hieromme wilt doch niet, den Mammon dus najage<hi rend="i">n</hi></l>
+<l>Om vele sonden groot, sendt God ons sware plagen.</l>
+<l>&#160;</l>
+<l rend="; 1tab">Pest Oorloch, dieren tijdt, die worden nu gesonden</l>
+<l>Als plaghen van den Heer, daer mede hy castijdt</l>
+<l>Die Eng'len des verderfs, gheheelick zijn ontbonden,</l>
+<l>Om dat wy leven meest, in boosheyt haet en nijt</l>
+<l>D'een d'ander seer veracht, en vyandtlick bestrijdt.</l>
+<l>Elck meest hemselven soeckt, door satans loose cueren,</l>
+<l>Seer weynich soecken nu, het alghemeen profijt</l>
+<l>Veel coopent alles op, en snacken naer't verdueren,</l>
+<l>Den ronden God die wert, geeert tot allen uren,</l>
+<l>Den Mammon elc ee<hi rend="i">n </hi>die<hi rend="i">n</hi>t, de winning schijnt seer soet</l>
+<l>Maer luttel denct de mensch, om't eeuwighe besueren</l>
+<l>Sijn herte weynich lust, t'onsterffelicke goet,</l>
+<l>Onachtsaem hy verdrenckt, in zijnder sonden vloet</l>
+<l>Des werelts Rijckdom staet, alleen in zijn behaghen,</l>
+
+<pb ed="fol." n="Cvijv"/>
+<l>O arme mensche dom, denckt dat ghy sterven moet:</l>
+<l>Wat rijckdom sult ghy dan, in't eynde met u dragen?</l>
+<l>Om vele sonden groot, sendt God ons sware plagen.</l>
+<l>&#160;</l>
+<l rend="; 1tab">Veel met de<hi rend="i">n</hi> Rijcke<hi rend="i">n</hi> ma<hi rend="i">n</hi>, om't rijcke Gods niet de<hi rend="i">n</hi>cke<hi rend="i">n</hi></l>
+<l>Haer schueren die zijn vol, zy leven in wellust</l>
+<l>Door gulsicheyt te groot, zy d'eel natuere crencken:</l>
+<l>Begeerens heete brandt, wort nimmermeer gheblust,</l>
+<l>Het onverdaed'lijck goedt, des werelts rijckdom lust:</l>
+<l>In alle dertelheydt, soo werdt den tijt versleten</l>
+<l>Hovaerdich, gierich leeft, de mensche ongherust</l>
+<l>Te comen soeckt men heel, tot eyghen hooch vermete<hi rend="i">n</hi></l>
+<l>Wanneer de mensche dan, int hooghste is gheseten,</l>
+<l>Sent God de snelle doodt, die niemants niet en spaert</l>
+<l>Hier door de mensche stout, ter neder is ghesmeten</l>
+<l>Wat mach hem bate<hi rend="i">n</hi> dan, de<hi rend="i">n </hi>Mammon veel vergaert</l>
+<l>De ziele schade lijdt, en meerder wort beswaert,</l>
+<l>De Conscienci sal hem eeuwichlijcken knaghen,</l>
+<l>Des silvers roest en gout, des werelts schat vermaert</l>
+<l>Sal tot ghetuyghe staen: O wee hem in dien dagen,</l>
+<l>Om vele sonden groot, sendt God ons sware plagen.</l>
+</lg>
+<div type="section">
+<head rend="h4"><hi rend="i">Prince.</hi></head>
+    <lg type="poem">
+<l rend="; 1tab">Ghy rijcke Princen weent, bedenckt eens u ellende</l>
+<l>Gods dach u comen sal, als eenen valstrick snel</l>
+<l>Een yeg'lijck mensche ooc, tot God de<hi rend="i">n</hi> Heer he<hi rend="i">m </hi>wende</l>
+<l>Hy late af van't quaedt, en make goedt opstel</l>
+<l>Voor alle dingen doet, den vromen gheen ghequel,</l>
+<l>En wacht u om't geloof, hier yemants om te bringen:</l>
+<l>Dees sond' te boven gaet, al d'ander sonden fel</l>
+<l>Wanneermen yemants wil, in zijn consenci dwingen.</l>
+<l>Men siet dat God de Heer, met plagen gaet omringe<hi rend="i">n</hi>,</l>
+<l>De Landen die met bloedt, haer hebben oyt besmet,</l>
+<l>Den droeven dooden sang, zy treurich moeten singhen</l>
+<pb ed="fol." n="Cviijr"/>
+<l>Die onbarmhertich hier, den vromen doen belet,</l>
+<l>So datme<hi rend="i">n</hi> door Gods straf, swaer Oorloch siet te met</l>
+<l>En Diere tyden oock, de welcke veel beclaghen:</l>
+<l>Ja God de Heer heeft noch, zijn scherpe sweert gewet</l>
+<l>Dan 'tschijnt wy na geen Pest, noch na geen straffen vraghen,</l>
+<l>Om vele sonden groot, sendt God ons sware plagen.</l>
+</lg>
+<p><hi rend="i">'tGae soo God wil.</hi></p>
+<pb rend="blank" ed="fol." n="Cviijv"/>
+<pb rend="hidden"/>
+<pb ed="" n="binnenkant achterplat"/>
+<pb ed="" n="achterplat"/>
+</div>
+</div>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,4099 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">De ingebeelde zieke</title>
+               <author>Molière</author>
+               <editor role="translator">Pieter de la Croix</editor>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">De ingebeelde zieke</hi> van Molière, in een vertaling van Pieter de la Croix uit 1686.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr></corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan type="I">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>2, 4</empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+               <scan type="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>86</empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">moli015inge01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note>DSOLmetadata:yes</note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Theater Instituut Nederland, signatuur: 13 A 22: 4</idno>
+               </bibl>
+               <p>Molière, <hi rend="i">De ingebeelde zieke</hi> (vert. Pieter de la Croix). Albert Magnus, Amsterdam 1686</p>
+               <p>&#160;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">De ingebeelde zieke</title>
+               <author>Molière</author>
+               <editor role="translator">Pieter de la Croix</editor>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">De ingebeelde zieke</title>
+               <author>Molière</author>
+               <editor role="translator">Pieter de la Croix</editor>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-09-16</date>
+               <respStmt>
+                   <name type="person">SG</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+      <text>
+<body><cf>
+<div type="chapter">
+
+<pb n="I"/>
+<p>DE INGEBEELDE ZIEKE.</p>
+<p>BLYSPÉL.</p>
+<p><figure>
+<p><xptr to="moli015inge01ill0001.gif"/></p></figure></p>
+<p><hi rend="i">t' AMTERDAM</hi>,</p>
+<p>By <hi rend="sc">Albert Magnus</hi>, op den Nieuwendyk, in den Atlas, by den Dam. 1686.</p>
+<p><hi rend="i">Met Privilegie</hi>.</p></div></cf>
+<div type="chapter">
+<interpGrp>
+<interp type="primair" value="16860422"/>
+<interp type="primair" value="croi003"/>
+</interpGrp>
+<pb n="III"/>
+<head rend="h3">Aan den Heere Pieter Ranst Valkenier, <hi rend="i">Secretaris der Stad Amsterdam</hi>; 
+<lb/>En Mevrouw Eva Suzanna Pellikorne.</head>
+<lg type="poem">
+<l>D<hi rend="i">urf ik dit spel in duitsche kleeren,</hi></l>
+<l><hi rend="i">Eerbiedig met uw naam vereeren,</hi></l>
+<l><hi rend="i">O</hi> Pellikorne, Valkenier,</l>
+<l><hi rend="i">Volmaakte twee, die van één vier</hi></l>
+<l><hi rend="i">Uw beider boezemen voeld blaken;</hi></l>
+<l><hi rend="i">Kan deeze</hi> Zieke <hi rend="i">u vrolyk maaken,</hi></l>
+<l><hi rend="i">Zo is myn arbeid ruim betaald;</hi></l>
+<l><hi rend="i">Myn tyd met woeker ingehaald</hi>.</l>
+<l rend="; 1tab"><hi rend="sc">Pieter</hi> de la <hi rend="sc">Croix</hi>.</l>
+<l>Den 22 van Grasmaand 1686.</l></lg></div>
+<div type="chapter">
+<pb n="V"/>
+<head rend="h3">Copye van de Privilegie.</head>
+<p>DE Staten van Hollandt ende Westvrieslandt doen te weten. Also Ons vertoont is by de tegenwoordige Regenten van de Schouwburg tot Amsterdam. Dat sy Supplianten sedert eenige Jaren herwaerts met hunne goede vrinden hadden gemaeckt en ren Toonele gevoert verscheide Wereken, soo van Treurspelen, Blyspelen als Kluchten, welcke sy lieden nu geerne met den druck gemeen wilden maecken, doch gemerckt dat dese wercken door het nadrucken van anderen, veel van haer luyster, soo in Tael als Spelkonst souden komen te verliesen, ende alsoo sy Supplianten hen berooft souden sien van hun bysonder ooghwit om de Nederduytsche Tael en de Dichtkonst voort te setten soo vonden sy hen genootsaeckt, om daer inne te voorsien, ende hen te keeren tot Ons, onderdanigh versoeckende, dat Wy omme redenen voorsz. de Supplianten geliefden te verleenen Octroy ofte Privilegie, omme alle hunne wercken reets gemaeckt ende noch in 't licht te brengen, den tyt van vyftien Jaren alleen te mogen drucken en verkopen of doen drucken en verkopen, met verbot van alle anderen op seeckere hooge peene daer toe by Ons te stellen ende voorts in communi forma. Soo is 't dat Wy de Zake en 't versoeck voorsz. overgemerckt hebbende, ende genegen wesende ter bede van de Supplianten, uyt Onse rechte wetenschap, Souveraine magt ende authoriteyt deselve supplianten geconsenteert, geaccordeert ende geoctroyeert hebben, consenteren, accorderen ende octroyeren mitsdesen, dat sy geduurende den tyt van vyftien eerst achter een volgende Jaren de voorsz. wercken die reeds gedruckt zyn, ende die van tyt tot tyt door haer gemaeckt ende in 't ligt gebragt sullen werden, binnen den voorsz. Onsen Lande alleen sullen mogen drukken, doen drukken, uytgeven en verkopen. Verbiedende daerom allen ende eenen ygelyken de selve wercken naer te drucken ofte elders naer gedruckt binnen den selve Onse Lande te brengen, uyt te geven ofte te verkopen, op de verbeurre van alle de naergedruckte, ingebragte ofte verkogte exemplaren, ende een boete
+van drie hondert guldens daer en boven te verbeuren, te ap-<pb n="VI"/>pliceren een derde part voor den Officier die de Calange doen sal, een derde part voor den Armen der Plaetse daer het casus voorvallen sal, ende het resterende derde part voor den Supplianten. Alles in dien verstaende, dat wy de Supplianten met desen Onsen Octroye alleen willende gratifieeren tot verhoedinge van hare schade door het nadrucken van de voorsz. wercken, daer door in geenige deelen verstaen, den inhoude van dien te Authoriseren ofte te advoueren, ende veel min de selve onder Onse protectie ende bescherminge, eenig meerder credit aensien ofte reputatie te geven, nemaer de Supplianten in cas daer in yets onbehoorlykx soude mogen influeren, alle het selve tot haren laste sullen gehouden wesen te verantwoorden; tot dien eynde wel expresselyk begerende, dat by al lien sy desen Onsen Octroye voor de selve Wercken sullen willen stellen, daer van geene geabbrevieerde ofte gecontraheerde mentie sullen mogen maken, nemaer gehouden sullen wesen het selve Octroy in 't geheel ende sonder eenige Omissie daer voor te drucken ofte te doen drucken, ende dat sy gehouden sullen zyn een exemplaer van alle de voorsz. Wercken, gebonden ende wel geconditioneert te brengen in de Bibliotheecq van Onse Universiteyt tot Leyden, ende daer van behoorlyck te doen blyken. Alles op peene van het effect van dien te verliesen. Ende ten eynde de Supplianten desen Onsen consente Octroye mogen genieten als naer behooren: Lasten wy allen ende eenen ygelycken die 't aengaen mach, dat sy de Supplianten van den inhoude van desen doen, laten en gedogen, rustelyk en volkomentlyck genieten en cesserende alle beletten ter contrarie. Gedaen in den Hage onder Onsen groten Zegele hier aen doen hangen den <hi rend="sc">xix</hi> Septembr. in 't Jaer onses Heeren en Zaligmakers duysent ses hondert vier en tachtig.</p>
+<p>&#160;</p>
+<p>G. FAGEL.</p>
+<p>&#160;</p>
+<p>Ter Ordonnantie van de Staten</p>
+<p>SIMON van BEAUMONT.</p>
+<p>&#160;</p>
+<p>De regenwoordige <hi rend="sc">Regenten</hi> van de <hi rend="sc">Schouwburgh</hi>, hebben het Recht van de bovenstaende Privilegie, aengaende dit Blyspel, vergunt aen <hi rend="sc">Albert Magnus</hi>, Boeckverkoper tot Amsterdam.</p>
+<p>&#160;</p>
+<p><hi rend="i">In Amsterdam den</hi> 24 <hi rend="i">July</hi>, 1685.</p></div>
+<div type="chapter">
+<pb n="VII"/>
+<head rend="h3">Aan den leezer.</head>
+<p><hi rend="i">IK heb met voordacht uyt dit Spel dat</hi> Mons<hi rend="sup">r</hi>. Mollieré <hi rend="i">in 't Frans gemaakt heeft</hi>, <hi rend="i">genaamt de</hi> Malade Imaginaire, <hi rend="i">het tusschen Spel uyt gelaaten</hi>; <hi rend="i">als meede de promotie van</hi> Manshart, <hi rend="i">om dat het eene tot de Historie in het Spel niet doet</hi>, <hi rend="i">en 't ander meer moeyten als vermaak geeft. Ik heb in 't eyndigen van dit</hi> Bly - Spel <hi rend="i">iets by gevoegd</hi>; <hi rend="i">in gevalle het U zoo veel kan genoegen als ik my daar van inbeelde</hi>, <hi rend="i">zal die stoutheid my haast vergeeven zijn. Zoo dit Spel te zien of te leezen U zoo voldoe als my het berijmen</hi>, <hi rend="i">zal mijn arbeid ruym betaalt zijn</hi>.</p>
+<p>&#160;</p>
+<p>P.d. la <hi rend="sc">Croix</hi>.</p></div>
+<div type="chapter">
+<pb n="VIII"/>
+<head rend="h3">Vertooners.</head>
+<list>
+<item><hi rend="sc">Manshart</hi>, de Ingebeelde Zieke.</item>
+<item/>
+<item><hi rend="sc">Tryn</hi>, de Meyd.</item>
+<item/>
+<item><hi rend="sc">Anna</hi>, de Vrouw van Manshart.</item>
+<item/>
+<item><hi rend="sc">Helena</hi>, Voor-Dochter van Manshart.</item>
+<item/>
+<item><hi rend="sc">Pronk</hi>, Notaris.</item>
+<item/>
+<item><hi rend="sc">Narticoforus</hi>, een Doctor.</item>
+<item/>
+<item><hi rend="sc">Bartrand</hi>, Zoon van Narticoforus, verloofde Vrijer van Helena.</item>
+<item/>
+<item><hi rend="sc">Ferdinand</hi>, Minnaar van Helena.</item>
+<item/>
+<item><hi rend="sc">Bagotyn</hi>, Apteeker.</item>
+<item/>
+<item><hi rend="sc">Florentyn</hi>, Doctor.</item>
+<item/>
+<item><hi rend="sc">Alet</hi>, Voor Kind van Manshart.</item>
+<item/>
+<item>Mons<hi rend="sup">r</hi>. <hi rend="sc">Petit</hi>, Kleyn Mannetje.</item>
+<item/>
+<item><hi rend="sc">Bagolyn</hi>, een Juffer met een Bult.</item>
+<item/>
+<item><hi rend="sc">Boudewyn</hi>, Broeder van Manshart.</item></list></div>
+<div type="act">
+<pb n="1"/>
+<p><figure>
+<p><xptr to="moli015inge01ill0002.gif"/></p></figure></p>
+<div type="scene">
+<head rend="h2">De ingebeelde zieke.</head>
+<head rend="h3">Eerste bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Manshert</hi>.</speaker>
+<l><hi rend="b">K</hi>Om, kom, die zoo als ik noch hoopt lang Ziek te weezen,</l>
+<l rend="; 1tab">Moet voor geen reekening van de Apoteeker vreezen.</l>
+<l>Maar vijf en vijf maakt tien, en tien is twintig net.</l>
+<l>Voor een klistery die door dringent was, gezet</l>
+<l>De vierentwintigste November ten half achten,</l>
+<l>Om de ingewanden te verkoelen te verzachten.</l>
+<l>Apteeker Bagotijn gy stelt dat heel beleefd,</l>
+<l>Al die zoo reed'lijk is toond dat hy wijsheyt heeft;</l>
+<l>O gy verdiend dat elk van u wat goeds mag hoopen,</l>
+<l>Men moet een zieke niet ten eerste 't vel afstroopen.</l>
+<l>Den zelve dito noch voormiddags een klisteer,</l>
+<l>Dats dartig stuyvers; maar ik ben uw dienaar Heer,</l>
+<l>Hoor Bagotijn gy schreeft daar niet meer voor, voor deezen,</l>
+<l>Als twintig, dat zal op zijn Apoteekers weezen</l>
+<l>Tien stuyvers, Bagotijn daar zijnze en ok niet meer.</l>
+<l>Den zelve dito een afdrijvende klisteer,</l>
+<pb n="2"/>
+<l>Na Doctoraal resept gemaakt van veele zaaken,</l>
+<l>Om 't onder deel van Heer Manshert me schoon te maaken,</l>
+<l>Hoe dartig stuyvers? Hoor Apteeker, met verlof,</l>
+<l>Dats wel de helft te veel, o dit gaat al te grof.</l>
+<l>Den zelve dito een Mixtuur om rust te geeven,</l>
+<l>Twee gulden, 't is niet veel, rust dranken doen my leeven.</l>
+<l>Maar tweemaal tien en tweemaal twintig 't kan niet mis</l>
+<l>Dat is net sestig, ha, ik heb het kunsje wis.</l>
+<l>Den vijfentwintigsten een drank om te purgeeren</l>
+<l>Van verze Kassia en Seene die lakzeeren,</l>
+<l>Om daar door t' ingewand te ontlasten van veel gal;</l>
+<l>Vier Gulden, Bagotijn, dit Paard en vind geen stal,</l>
+<l>Leef en laat leeven, foey, dit gaat te grof Apteeker,</l>
+<l>Dat heeft u Florentijn niet geordoneert voorzeeker.</l>
+<l>Schrijf daar dry guldens voor zoo 't u belieft, dats goet;</l>
+<l>Nu toond gy dat gy hebt een oprecht teer gemoed.</l>
+<l>Noch op dien zelve dag een drank om te astringeeren,</l>
+<l>En te doen rusten, goed, twee guldens, 't is ter eeren.</l>
+<l>Den zesentwintigste een Carminatief klisteer,</l>
+<l>Om al de winden van u af te drijven Heer,</l>
+<l>Hoe dartig stuyvers? hoor daar zal ik tien voor stellen.</l>
+<l>Des avonts nochmaals u een dito doen bestellen,</l>
+<l>Tien stuyvers 't is genoeg ik heb'er van gebraakt.</l>
+<l>Den zeev'nentwintigsten een drank gereed gemaakt,</l>
+<l>Om kwa humeuren ras en vaardig te doen zakken,</l>
+<l>Om heel gemakkelijk en met vermaak te kakken.</l>
+<l>Hoe dartig stuyvers voor die drank? ik denk wel neen,</l>
+<l>Daar zijnder twintig, 'k zie gy zijt ook wel te vrêen.</l>
+<l>Den achtentwintigsten gemaakt om te verkoelen,</l>
+<l>een huy-drank, hoe een kroon? Hola na mijn gevoelen</l>
+<l>Is dat te veel, daar zijn tien stuyvers. Noch voort lest</l>
+<l>Een kostelijke drank van Bezoar, de rest</l>
+<l>Syroop Alkermes en Limoen, maar hoe vijf gulden?</l>
+<l>Al zoetjens Bagotijn, dit hoef ik niet te dulden.</l>
+<l>Zoo jy zoo voort gaat Apoteker, halte, sta,</l>
+<l>Zal 't my verveelen langer ziek te zijn? O ja.</l>
+<l>Hoor Bagotijn, gy moet wat zagter zijn in 't schrijven,</l>
+<pb n="3"/>
+<l>Wild gy Apteeker en zal ik uw zieke blijven.</l>
+<l>Daar zijn twee guldens voor, maar vijf en vijf is tien,</l>
+<l>En tien is twintig en noch dartig, laat eens zien,</l>
+<l>Dat maaken vyftig, en noch dartig dat is eeven,</l>
+<l>Net tachentig, zie daar, zie daar ik zalze u geeven.</l>
+<l>O Bagotijn gy hebt my dapper geabuzeerd,</l>
+<l>'K ben zesmaal minder in vier dagen geklisteerd,</l>
+<l>Als in vier dagen die te vooren zijn verstreeken,</l>
+<l>Nou weet ik de oorzaak van mijn ziektens en gebreeken.</l>
+<l>Ik was van deeze week wel eens zoo ziek, maar hoor,</l>
+<l>'K zegt u Apteeker en u Florentijn, Doctoor,</l>
+<l>Verbeeter dat en wilt wat meerder op my letten.</l>
+<l>Kom Trijntje, Trijntje kom om alles wech te zetten,</l>
+<stage><hi rend="i">ting</hi>.</stage>
+<l>Hoe kom je niet, ja wel, elk laat my hier in nood,</l>
+<l>Ik zie die ziek is, o die is al levend dood;</l>
+<l>Elk vlugt my, o dit komt mijn ziekte noch vergrooten</l>
+<stage><hi rend="i">ting</hi>.</stage>
+<l>Trijn, kom je niet, Trijn, Trijn, Karonje rept je pooten,</l>
+<l>En haal jou hielen zoo wat rasjes na je toe.</l>
+<stage><hi rend="i">ting</hi>.</stage>
+<l>Wel hoord dan niemand niet, dit roepen word ik moe</l>
+<stage><hi rend="i">ting</hi>.</stage>
+<l>Jou Hoere kind, jou pry, jou vuilste der Schurkinnen,</l>
+<l>Vergeetje een zieke zoo, dit raakt my aan de zinnen.</l>
+<stage><hi rend="i">ting</hi>.</stage>
+<l>Dit maakt me al bijster, o het Hoofd dat draayd my om</l>
+<l>Trijn zeg ik andermaal, Trijn zeg ik.</l>
+<stage><hi rend="i">ting</hi>.</stage></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 2tab">Heer ik kom.</l></sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Manshart</hi> en <hi rend="sc">Tryntje</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>KAronje, Varreke, kreng.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 1tab">Maar Heer is dat ook gillen,</l>
+<l>Jou onverduldigheid doet al mijn leeden trillen,</l>
+<l>Ik liep door haastigheid mijn hooft daar schier uyt lit.</l></sp>
+<pb n="4"/>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Jou Aapebakkes, zie jy niet dat ik hier zit.</l>
+<l>Ik ben schier dood jou zwijn, daar is een uur verstreeken,</l>
+<l>Dat ik dus zit alleen verzeld met mijn gebreeken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Och, och!</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 1tab">Zwijg Varken zwijg op dat ik jou bekijf.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Doet dat toch niet mijn Heer, ik heb mijn heele lijf,</l>
+<l>Door ras te loopen, schier aan spaanderen gestooten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Ik riep en niemant kwam.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 3tab">Ik liep met Haaze pooten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Mijn keel is schor en hees van 't roepen. O jou pry.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Mijn kop is heel gescheurd. Hoor Heer kom schelden wy</l>
+<l>Malk aar dat kwyt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 2tab">Jou Zwijn, jou lijf uyt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 4tab">Laat dat blijven,</l>
+<l>Want ik zal huylen Heer wilt gy noch langer kijven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Verraaderes, my hier alleen te laaten, noch</l>
+<l>De vreugd vant kijven te beletten. O jou Zog.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Hoe vind jy jou vermaak in 't kijven 'k magt wel lijen,</l>
+<l>Begin maar, want ik schep noch meer vermaak in schrijen,</l>
+<stage><hi rend="i">Zy huyld</hi>.</stage></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Hoor laat dat blijven Tryn, ik kijf niet, doe mijn wil.</l>
+<l>Zijt my gehoorzaam, zet dat alles weg, zwijg stil.</l>
+<l>Heeft mijn klisteer gewerckt?</l></sp>
+<pb n="5"/>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 2tab">Maar wat klisteer? van heeden?</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Ja, is my daar door ook van daag veel Gal ontgleeden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Hoor dat is Bagotijn de Apteeker maar bewust,</l>
+<l>Die laat ik met zijn Neus dat roeren zoo 't hem lust.</l>
+<l>Hy heeft daar voordeel van.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 3tab">Ga Kalfsop prepareeren,</l>
+<l>Men zal van daag my voor de tweede maal klisteeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>De Apteeker en Doctoor die speelen met u.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 4tab">Hoe?</l>
+<l>Wat zegje Tryn?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 1tab">Ik zeg gy zijt haar melk Koe.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Hoor Tryn het voegd u niet hier van te raizoneeren.</l>
+<l>Roep jy mijn Dochter, laat de Doctors ordoneeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Daar komt uw Dochter zy verstaat uw meening ras.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Helena, Dochter hoor gy komt hier recht van pas.</l></sp></div>
+<div type="scene">
+<head rend="h4">Darde tooneel.</head>
+<stage><hi rend="sc">Manshart, Helena, Tryn</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>LEen aan uw Vader, uw Papa, aandachtige ooren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Papa Lief spreek zoo 't u belieft, ik zal het hooren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Maar zacht mijn stok, mijn stok, wat is die klisteer sterk.</l></sp>
+<pb n="6"/>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Wat geeft ons Florentijn en Bagotijn al werk.</l>
+<l>Loop loop, mijn Heer loop ras, het mogt u aars ontglijen,</l>
+<l>Naa 't Kakhuys al je best.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 1tab">O Tryn wat moet ik lijen.</l></sp></div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Helena</hi> en <hi rend="sc">Tryn</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>TRyntje.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 1tab">Juffrouw.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l rend="; 3tab">Tryntje.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 4tab">Juffrouw.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l rend="; 5tab">Zie my eens aan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Ik doe 't al.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l rend="; 2tab">Kunt gy wat ik zeggen wil niet raan?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>'t Zal van die Jongman zijn die u voor weynig daagen,</l>
+<l>Met weynig woorden kon bekooren en behaagen.</l>
+<l>Daar gy zes daagen lang van maalde, die gy mind.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>'t Is wonder daar gy 't weet dat gy niet eerst begint,</l>
+<l>Van hem te spreeken zo kost ik die moeyte spaaren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Gy geeft geen tijd dat ik my voor u kan verklaaren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Die tijd, die tijd alleen word van my maar betreurd,</l>
+<l>Dat niemant van hem spreekt.</l></sp>
+<pb n="7"/>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 3tab">Wel Juffrouw wacht uw beurd.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Kunt gy de Liefde die 'k hem toedraag ook verachten,</l>
+<l>Benijd gy onze Min?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 3tab">Dat zal ik my wel wachten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Dat ik zoo diep deel in al zijn bekoorlijkheen,</l>
+<l>Mishaagd u dat ook, spreek?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 4tab">Dat zeg ik niet, o neen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Zoud gy my raan dat ik gansch roereloos van binnen</l>
+<l>Bleef als gevoeloos van zijn bekoorelijk minnen.</l>
+<l>Ziet gy het nootlot niet in deeze Vrijery?</l>
+<l>Hoe dat hy door 't geval eerst kennis kreeg aan my?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>O ja.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l rend="; 1tab">Is dat geen proef recht van een man met eeren.</l>
+<l>Daar hy my niet en kon, mijn zaak te diffendeeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Verzeeker.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l rend="; 2tab">Is dat niet recht eedelmoedig, goed:</l>
+<l>Met welk een gratie doet hy alles 't geen hy doet.</l>
+<l>Is hy niet wel gemaakt, en is hem niet gegeeven,</l>
+<l>'t Aier van wel spreeken ende gaaf van wel te leeven?</l>
+<l>De tochten van zijn hert, zijn woorden, zijn gebaar</l>
+<l>Die komen over een, zoo wonder net.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 5tab">Dats waar.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Maar zouder aan zijn trouw of liefde ook iets ontbreeken?</l>
+<l>Ey Tryntje zeg eens hoe het by u leyd, wil spreeken.</l>
+<l>Zou hy my niet oprecht beminnen?</l></sp>
+<pb n="8"/>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 1tab">Het kon zijn,</l>
+<l>Een Minnaar speeld een rol in waarheit en in schijn.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Hoe zou een Minnaar, die zoo spreekt als hy bedriegen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>De beste Minnaar is die maar het best kan liegen.</l>
+<l>Zy hebben dikmaals my met eeden dier en zwaar,</l>
+<l>Hun trouw gezwooren, maar ze liegen allegaar,</l>
+<l>Zoo meenigmaal als ik geloof sloeg aan hun loogen,</l>
+<l>Bevonde ik, maar te laat, my jammerlijk bedroogen,</l>
+<l>Met zy verkrijgen daar zy brandende na staan,</l>
+<l>Vervliegd hun liefde en al het vrijen is gedaan.</l>
+<l>Mijn lieve Juffer laat u door de hoop niet vlijen.</l>
+<l>Maar laat uw Minnaar tot op 't echte bed u vrijen.</l>
+<l>Op morgen zult gy zien 't begin van zijne trouw,</l>
+<l>Wanneer zijn vrinden u verzoeken tot zijn Vrouw,</l>
+<l>Gelijk hy in de brief belooft aan u geschreeven.</l>
+<l>Tot op de Trouw-dag moet gy in bedenken leeven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Zoo deeze my bedriegt in zijne vrijery,</l>
+<l>Geloof ik niemant meer hy zy ook wie hy zy.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Daar komt uw Vader aan.</l></sp></div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Manshart, Helena, Tryn</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 1tab">Nu zult gy, Dochter, hooren,</l>
+<l>Iets dat u aangenaam zal klinken in uw ooren:</l>
+<l>Gy word ten echt verzocht, komt dat niet onverwacht?</l>
+<l>Wel Dochter, wel, my dunkt dat gy van blijdschap lacht,</l>
+<l>O dat ten echt verzocht kan recht uw hert verfraaijen.</l>
+<l>Die jonge Meysjes kan men maar met trouwen paaijen:</l>
+<l>Natuur! Natuura! Ha hoe is zy in haar schik.</l>
+<pb n="9"/>
+<l>Helena 'k zie het zal niet noodig zijn dat ik,</l>
+<l>Of gy geneegen zijt te trouwen u zal vraagen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Het is mijn plicht Papa in alles te behaagen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Kind uw gehoorzaam zijn geeft my een groot vermaak.</l>
+<l>Gy zijt de Bruyd, dat is nu een gedaane zaak.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Papa 'k wil blindelings my aan u overgeeven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Uw Stiefmoer wilde dat gy zoud in 't Klooster leeven,</l>
+<l>Met uw kleyn Zustertje Alet: maar dat is mis.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Dat stuk oud Koe-vlees weet wel wat haar intrest is.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Zy meende u huwelijk met kracht om ver te stooten;</l>
+<l>Maar ik gaf hem mijn woord, uw Huw'lijk is geslooten.</l>
+<l>Gy zijt de Bruyd en zult ook trouwen, en al dra.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Ik zal zoo lang ik leef u dankbaar zijn Papa.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Ik ook mijn Heer, gy hebt een wijze daad bedreeven,</l>
+<l>Aan een braaf eerlijk Man uw Kind ten echt te geeven.</l>
+<l>Gy hebt uw leeven noch geen beter zaak gedaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Ik heb hem nooit gezien, maar echter 't zal wel gaan,</l>
+<l>Ik twijfel niet of hy zal my en u behagen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Nu gy my door uw woord aan hem hebt opgedraagen,</l>
+<l>Zal ik niet veynzen maar u zeggen, hoe dat hy</l>
+<l>Voor weijnig daagen hier eerst kennis kreeg aan my</l>
+<l>Door zeeker voor val, dat ons heeft aaneen verbonden,</l>
+<l>Zoo vast, dat hy daar om zijn Vrinden heeft gezonden,</l>
+<l>By u, die my voor hem verzoeken ook ten echt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Goet, dat gevalt my, maar dat was my niet gezegt.</l>
+<l>'t Is echter best dat hy ons beyde kan behaagen:</l>
+<pb n="10"/>
+<l>Ze zeggen hy is groot en wel gemaakt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l rend="; 7tab">Volslagen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Bevallig.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l rend="; 1tab">Zeekerlijk.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 5tab">Die een vroom aanzigt heeft.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Zeer vroom.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 3tab">Ook wijsselijk, wel opgebragt, beleeft.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Volkomelijk, ô ja.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 4tab">Hy heeft een deugdzaam weezen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Papa elk kan de deugd klaar in zijn aanzigt leezen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Hy spreekt Latijn en Grieks.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l rend="; 6tab">Dat weet ik niet Papa.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Hy zal ook in het kort al Doctor zijn, o ja!</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Hy Vader lief?</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 2tab">Wel hoe? Dit komt my vreemt te vooren,</l>
+<l>Dat gy dat niet en weet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l rend="; 5tab">Wie heeft u dat doen hooren</l>
+<l>Heer Vader?</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 3tab">Welk een vraag. Wel Doctor Florentijn.</l>
+<l>Dat is zijn Oom.</l></sp>
+<pb n="11"/>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l rend="; 1tab">Zijn Oom, zijn Oom! hoe kan dat zijn?</l>
+<l>Hoe is Heer Ferdinant zijn Neef? wie het zijn leeven</l>
+<l>Daar van gehoord Papa? dat moet gy my vergeeven.</l>
+<l>Heer Ferdinant die heeft een Oom die hiet de Groot,</l>
+<l>'t is een besturve Soon zijn Ouders die zijn dood.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Wat Ferdinant wat leyd u in het hooft te zweeven?</l>
+<l>Ik spreek van die ik u ten huw'lijk heb gegeeven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Daar spreek ik ook van.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 2tab">Wel, zoo weet gy ook dat hy</l>
+<l>De Broeders zoon is van Heer Florentijn die gy</l>
+<l>Verkooren hebt. En dat hy word Bertrand geheeten.</l>
+<l>Maar hoe gy staat verzet 'k moet daar van de oorzaak weeten.</l>
+<l>Ik heb op gistren met de Doctor Florentijn</l>
+<l>Zijn Oom en met zijn Vriend de Apteeker Bagotijn</l>
+<l>Uw huwelijk mijn Kind geslooten, en zijn Vader,</l>
+<l>Verwacht ik hier van daag. Helena kan het nader?</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Gy spreekt Papa lief van een ander als ik dacht.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Daar gy zoo rijk zijt Heer, zoud gy nu uw geslacht,</l>
+<l>Besmetten dat het met een Doctor werd geteekend,</l>
+<l>De Doctors worden maar by Ambachts-luy gereekend;</l>
+<l>Die door haar veelheit nu verdienen pas droog brood.</l>
+<l>Een die een Doctor trouwd, die is al levend dood;</l>
+<l>Het zijn meest beulen of moordadige tirannen.</l>
+<l>Een Docter Heer? wel foey, wil die gedachten bannen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Wel waar moey jy jou me? jou konkel houd je bek.</l>
+<l>Slorel, Karonje, zwijg of ik breek jou de nek.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Onstel u niet mijn Heer want gy zijt ziek.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 3tab">Warachtig,</l>
+<pb n="12"/>
+<l>'t Was my vergeeten gy maakt my dat weer indachtig.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Zoo 't u beliefd ey spreek met een bedaard gemoed.</l>
+<l>Om welk een reede keurd gy doch een Doctor goed</l>
+<l>Te trouwen met uw Kind?</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 2tab">Wel Tryntje hoor de reeden,</l>
+<l>Mijn lichaam ziek en zwak doet my haar uyt besteeden,</l>
+<l>Aan zulk een die my kan verlichten al mijn pijn,</l>
+<l>Die de remedien weet die my noodig zijn.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Is dat de reede, hoor ga eens in uw geweeten.</l>
+<l>Zijt gy wel ziek mijn Heer?</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 3tab">Hoe is u dat vergeeten?</l>
+<l>Karonje, wel ik zweer.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 2tab">Mijn Heer bedaar, bedaar,</l>
+<l>Onstel u niet want gy zijt ziek.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 4tab">Dat is wel waar.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Ja gy zijt ziek mijn Heer, noch zieker laat dat weezen.</l>
+<l>Maar denk uw Dochter kunt gy zonder kunst geneezen:</l>
+<l>Zy is niet ziek, zy hoeft geen Doctor.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 5tab">Jy spreekt stout,</l>
+<l>Het is om mijnent wil dat zy een Doctor trouwd.</l>
+<l>O een goedaardig kind behoord met vreugd te trouwen,</l>
+<l>Een die haar Vader lang kan in gezondheit houwen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Mag ik u raaden?</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 1tab">Wel wat zoud gy raan?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 6tab">Maar hoor.</l>
+<l>Geef aan Helena, aan uw Dochter geen Doctoor.</l></sp>
+<pb n="13"/>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Waarom?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 1tab">Geen Doctor kan Helena toch behaagen.</l>
+<l>Zy hoord u alle daag niet als van Doctors klaagen.</l>
+<l>Zy lacht met Florentijn en met zijn neef Bartrand,</l>
+<l>En alle Doctors die 'er zijn in 't gantsche Land.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Lacht zy 'er me, ik niet, hy zal alleenig erven</l>
+<l>Van zijn Heer Vader, en komt Florentijn te sterven,</l>
+<l>Dan erft hy ook alleen, en die heeft dat is waar</l>
+<l>Twee duizend guldens aan inkomste jaar op jaar.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Dan heeft hy meenig onder 't Paard zijn buik doen leggen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Twee duizend gulden 's jaars, ha dat is wat te zeggen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Twee duizend gulden 's jaars is dat ook zoo veel geld?</l>
+<l>Zouw daar uw Kind om met een Doctor zijn gekweld</l>
+<l>Zoo lang zy leefd, weg weg, de Doctors zijn meest vrekken</l>
+<l>En daar der dry zijn, zijn de meeste part wel gekken.</l>
+<l>Al wie een Doctor uit zijn huis houd heest geen nood,</l>
+<l>Die leefd gelukkig en die sterft zijn eijgen dood.</l>
+<l>De Doctors trouwen maar alleenig om te leeren,</l>
+<l>Om haar vergiften en haar pillen te probeeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Wanneer mijn Dochter trouwd de Neef van Florentijn.</l>
+<l>Dan zal ik door zijn hulp wel haast genezen zijn.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Dats waar, maar door de dood zal hy u haast genezen,</l>
+<l>Door een klein poeijertje zal uw goed ziin goed weezen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Ik heb hem haar belooft, ik wil ook datze 't doet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Hoe tegens haaren dank? mijn Heer gy zijt te goed.</l></sp>
+<pb n="14"/>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Goed ben ik, maar ook kwaad, wanneer ik kwaad wil worden.</l>
+<l>Jouw Apebakkus 'k wou dat jy my niet meer porden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Al zacht mijn Heer al zacht gedenk u ziekte.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l rend="; 2tab">Ja.</l>
+<l>Bedaar, onstel u niet. Vergram u niet Papa.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mamshart</hi>.</speaker>
+<l>Helena hoor ik wil, ik ly geen wederleggen,</l>
+<l>Dat yder wie u noemt Juffrouw Bartrand zal zeggen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Dat zal heel anders gaan, mijn Heer gy hebt abuys.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Dan zal het Klooster haar verstrekken tot een Kluys.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Gy hebt het hert niet om int Klooster haar te steeken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Het zal my niet aan kracht veel min aan hert ontbreeken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Dats in uw macht niet Heer, al wierd gy schoon getard.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Wie zou 't beletten?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 1tab">Gy, uw Vaderlijke hart.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Mijn hert is staal en steen ik laat my niet beweegen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Daar stel ik niet meer als van haar een traantje teegen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Haar traanen, haar beklag, die acht ik niet een beet.</l>
+<l>Helena van nu af zoo maak u vry gereet</l>
+<l>Om met de Heer Bartrand uw Bruydegom te trouwen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>En ik begeer dat gy uw woord hem niet zult houwen,</l>
+<l>Ja ik verbie haar hem te trouwen.</l></sp>
+<pb n="15"/>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 4tab">Stoute pry,</l>
+<l>Wat komt my over, jy verbied haar trouwen, jy.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Ja ik verbie het haar, de meyden, daar de Heeren</l>
+<l>Niet wijzer zijn als gy, die mogen wel regeeren,</l>
+<l>Als ik nu doe.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 1tab">Wel Tryn, wel Tryn hoe zal 't hier gaan?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Het is mijn plicht om de eer van 't huys wel voor te staan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Helena geef mijn stok, karonje 'k zal jou leeren,</l>
+<l>Zoo stout en onbeschaamt mijn achtbaarheit trotseeren.</l>
+<l>Helena houw haar vast.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 2tab">Ja ik verbie het haar.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Onstel u zoo niet gy zijt ziek.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 3tab">Och dat is waar.</l>
+<l>Die moeylijkheeden zijn genoeg om my te dooden.</l></sp></div>
+<div type="scene">
+<head rend="h4">Sesde tooneel.</head>
+<stage><hi rend="sc">Manshart, Helena, Anna, Tryn</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>ACh lieve Huysvrous ach uw komst was hier van nooden!</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Monceur wat schortu? och!</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 1tab">Kom help, kom help me voort.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Wat let u Kindie lief?</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 1tab">Zy hebben my verstoord.</l></sp>
+<pb n="16"/>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Mijn zoete lieve Man, wie derft u dus ontroeren?</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Die ongebonde pry, die wil haar tong niet snoeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Zijt doch zoo haastig niet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 3tab">S' heeft my schier dol gemaakt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Uw herzentjens zijn teer, gy zijt wat licht geraakt.</l>
+<l>Spreek doch zoo hard niet Kind, al zachjens zoete Vader.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Zy spreekt my teegen, en dat maakt my noch veel kwaader.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Nu nu zijt wel te vreen, zijt wel te vreen Papa.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Die onbeschaamde, zeyd dat ik niet ziek ben. Ha</l>
+<l>Karonje.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l rend="; 2tab">O die pry is altijd stout in 't spreeken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Gy weet mijn ziekte Kind, ja gy kend mijn gebreeken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Gy hebt gelijk mijn Lief, o Trijn wat valje ons af.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Zoo zy haar tong niet snoerd zoo helpt ze my in 't graf.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Och! och!</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 1tab">Zy maakt dat ik kom zoo veel gal te loozen.</l>
+<l>Onsla u van die Meyd, de booste aller boozen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Mijn uitverkooren Man, de Meyden allegaar,</l>
+<l>Scheeld vry wat aan, wy zijn gelukkig lieve Vaar.</l>
+<l>Men moet, gedwongen om haar deugden, wat verdraagen.</l>
+<l>Daar zijnder weijnig die veel deugen deezer daagen.</l>
+<l>En onze Tryntje is trouw, zorgvuldig, naarstig, net,</l>
+<pb n="17"/>
+<l>De poort klok trekt haar alle dagen van het bed.</l>
+<l>Wat zijnder Vrouwen van haar Meyden al bedroogen,</l>
+<l>Schoon zy haar doen bespiên gelijk met hondert oogen.</l>
+<l>De Meyden zijn meest loos, arglistig, trouwloos, licht,</l>
+<l>Klapachtig, zorgeloos, vals, schoon voort aangezigt.</l>
+<l>En van dat alles valt van Tryntje niet te zeggen.</l>
+<l>Zy is stijfzinnig, zy wil altijd weederleggen.</l>
+<l>Zy zalt wat mye Vaar, kom Trijntje, kom hier voort.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Hier ben ik.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l rend="; 1tab">Maar waarom heb jy mijn Man verstoord?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Hoe ik Mevrouw, hoe ik? dat zal ik my wel wachten,</l>
+<l>Al wat mijn Heer en u behaagt, zal ik betrachten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Ontkenje dat jou pry, dit raakt my aan 't verstand.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Hy zey Levyntje was de Bruyd met Heer Bartrand,</l>
+<l>Ik zy hem dat hy haar geen ryker Heer kon geeven,</l>
+<l>Maar dat haar nutter was voor de echt het kloost er leeven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Wel daar steekt zoo veel kwaad niet in mijn lieve Man.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>'k Weet niet hoe mijn geduld dat langer lijen kan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Gy hebt gelijk Monceur, jy Trijntje, jy zult zwijgen,</l>
+<l>Of jy zult in het kort van my jou paspoort krijgen.</l>
+<l>Geef my de mantel die gevoert is met rood Baay.</l>
+<l>Nou beddekussens zoo, zie daar, nouw zitje fraay.</l>
+<l>Trek nu de muts ter deeg in de oogen over de ooren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Dats goet mijn Engel. Maar nouw kan ik zien noch hooren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Daars niet dat meer verkoud als wind ontrent het hooft.</l></sp>
+<pb n="18"/>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Wat ben ik u verplicht, ik was al lang berooft</l>
+<l>Vant leeven had gy zoo op my niet willen letten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Licht u Papa, ik zal u op dit kussen zetten.</l>
+<l>Laat my dit leggen om u te ondersteunen, want</l>
+<l>Gy zijt zoo zwak. En dat mijn Kind aan de ander kant.</l>
+<l>En dat Papa lief om uw hoofd wat op te houwen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>En dat mijn Heer op dat uw herzens niet verkouwen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>O jy versmoord my, ô Karonje.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l rend="; 3tab">Doetze u zeer?</l>
+<l>Zy dagt u wel te doen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 1tab">Och, och! ik kan niet meer.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Waarom verstoort gy u zoo ras mijn uytverkooren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Daar is geen boozer noch geen vuylder Meyd gebooren</l>
+<l>Als dat kwaad aardig Kreng, och, och, zy hullip my</l>
+<l>Daar van mijn zelve, zy vermoord my noch die Pry.</l>
+<l>Wel tien Purgatien en ook wel tien Klisteeren</l>
+<l>Heb ik van doen om weer te reconvalezeeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Zagt, zagt, mijn Boutje lief, ey hou u wat gerust.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Mijn zoete Tortelduyf, gy zijt mijn troost mijn lust.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Mijn Maatje lief, och, och!</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 2tab">Ik zal uw Liefde loonen.</l>
+<l>Dat u mijn Testement op deze dag zal toonen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Och spreekt daar toch niet van, want dat ontstelt my weer.</l>
+<pb n="19"/>
+<l>Het woord van Testement benaut my 't hert noch meer.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Notaris Pronk zal hier en met ten eersten koomen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>'k Heb hem eer ik hier kwam in 't voorhuys al vernoomen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Kind laat hem binnen staan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l rend="; 1tab">Notaris Pronk kom in.</l></sp></div>
+<div type="scene">
+<head rend="h4">Zeevende tooneel.</head>
+<stage><hi rend="sc">Manshart, Anna</hi>, en <hi rend="sc">Pronk</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Pronk</hi>.</speaker>
+<l>HEer Manshart zijt gegroet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mamshart</hi>.</speaker>
+<l rend="; 4tab">Het gaat niet na mijn zin.</l>
+<l>Ik ben zoo ziek.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l rend="; 1tab">Och, och.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 2tab">Dies woude ik voor mijn Sterven,</l>
+<l>Mijn Vrouw by Testement doen al mijn goedren erven.</l>
+<l>Ik wil mijn Kinderen uyt sluyten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Pronk</hi>.</speaker>
+<l rend="; 5tab">Maar dat kan,</l>
+<l>Onmooglijk niet geschien.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 3tab">Geef my daar reeden van.</l></sp>
+<sp>
+<speaker><hi rend="sc">Pronk</hi>.</speaker>
+<l>By Testement mag hier een Man zijn Vrouw maar maaken,</l>
+<l>Een Kindsdeel en niet meer, voor al, ten waare zaaken</l>
+<l>Dat daar geen Kinders zijn, zie daar moet op gelet.</l>
+<l>Want dat is hier 't gebruyk, dats vollegens de Wet.</l></sp>
+<pb n="20"/>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Dat kan niet mooglijk zijn, de Wetten en de Reeden</l>
+<l>Die koomen over een. Hoe word dat dan geleeden,</l>
+<l>Dat my verboden word, mijn Vrouw die ik zoo eer</l>
+<l>Die ik zoo Lief heb als my zelve, ja noch meer,</l>
+<l>Die al mijn wellust is, die om my te behaagen</l>
+<l>Alle ongemakken en veel last met lust wil draagen.</l>
+<l>Dat ik die goeje Vrouw die my bemind zoo teer,</l>
+<l>Een Kinds gedeelte maar zou maaken en niet meer?</l>
+<l>'k Moet met mijn Advocaat daar over Conzuleeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Pronk</hi>.</speaker>
+<l>Geen Advocaat kan u van die Wet abzolveeren.</l>
+<l>Al hun advyzen zijn gegrondvest op de Wet,</l>
+<l>Op de Conscientie daar word niet eens opgelet.</l>
+<l>Dat is ons Werk, want wy Notarizen wy letten,</l>
+<l>Op de betaam'lijk heit veel meer als op de Wetten.</l>
+<l>Geef uw gereed Geld by uw leevendige Lijf,</l>
+<l>Met Obligatien, Transpoorten aan uw Wijf.</l>
+<l>Maak Obligatien op u aan uw Vrouws Vrinden,</l>
+<l>Met Rissepissen dat zy 't na uw dood zal vinden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Gy zijt een eerlijk Man, mijn Heer gy spreekt oprecht,</l>
+<l>Mijn Huysvrouw had my dat van u ook al gezegt.</l>
+<l>Daars in de Alkoove en in de Koffer aan Kruzaaten</l>
+<l>Tien duuzend guldens en zoo veel noch aan Ducaaten.</l>
+<l>'k Zal u de Sleutel daar van stellen voort ter hand.</l>
+<l>Twee Obligatien ten lasten van het Land</l>
+<l>Waar van de een zes is, ende de aar vierduuzend Ponden,</l>
+<l>Met haar Transpoorten zijn zy aan malkaar gebonden.</l>
+<l>'k Zal ze u ook geeven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l rend="; 1tab">Och spreek daar toch nimmer van.</l>
+<l>Gy doet my sterven och, van vrees mijn lieve Man.</l>
+<l>Hoe veel Ducaaten en Kruyzaaten zey Papaatje?</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Tien duuzend guldens elk, daar is niet meer Mamaatje.</l></sp>
+<pb n="21"/>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Al s'Waerels goed acht ik by u als niet mijn Lief.</l>
+<l>Wat Obligatien zijn 't?</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 3tab">Monceur hoor d'eene Brief</l>
+<l>Is zes en de aar is vier.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l rend="; 2tab">Maar Paatje Lief zijnt Ponden,</l>
+<l>Als Zeeuwze Ponden Vlàams, of Steerlings als te Londen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>'t Zijn Ponden Kindje Lief van veer, van veertig groot.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Van u te scheyden ach mijn Lief, ik schrey me dood.</l>
+<l>Wanneer gv dood zijt ach, dan wensch ik niet te leeven,</l>
+<l>Mijn uytverkoore Man wil my doch niet begeeven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Pronk</hi>.</speaker>
+<l>Ey spaar uw traanen tot het tijt is, want de zaak</l>
+<l>Is noch niet disperaad.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l rend="; 1tab">Mijn Man, al mijn vermaak.</l>
+<l>Mijn hoop, mijn troost, mijn heil, van u te moeten scheyen,</l>
+<l>Dat kan onmogelijk zijn, ik wil my dood gaan schreyen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Pronk</hi>.</speaker>
+<l>Bedaar Mevrouw bedaar, ey stel u wat te vreen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Notaris Pronk, och, och, gy weet het niet, o neen,</l>
+<l>Hoe bitter dat het valt van zulk een Man der Mannen</l>
+<l>Die ik zoo Lief heb, door de dood, te zijn gebannen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Dat my zoo zeer bedroeft en ook het meest verveeld,</l>
+<l>Is dat ik by u niet een Kintje heb geteeld.</l>
+<l>De Doctor Florentijn had dat wel moogen zwijgen</l>
+<l>Dat ik door hem, by u mijn Kind, zou Kinders krijgen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Pronk</hi>.</speaker>
+<l>Gelieft u dat wy nu beginnen?</l></sp>
+<pb n="22"/>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 1tab">Ja, maar hoor,</l>
+<l>'t Is beeter dat wy gaan hier naast in mijn Kantoor,</l>
+<l>Daar zijn wy Vryer Kind, ey wil my onder steunen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Kom, kom mijn zoete Man, wil op mijn Schouder leunen.</l></sp></div>
+<div type="scene">
+<head rend="h4">Agste tooneel.</head>
+<stage><hi rend="sc">Helena</hi> en <hi rend="sc">Tryn</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>HElena hoor, ik ben heel ongerust van geest,</l>
+<l rend="; 1tab">Uw Stiefmoer is hier met Notaris Pronk geweest.</l>
+<l>'k Heb van een Testement gehoord, 'k vrees voor u Vader,</l>
+<l>Die hadden wy vergramt dat maakt de zaak veel kwader.</l>
+<l>Uw Stiefmoer zal haar vant geval bedienen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l rend="; 2tab">Stil,</l>
+<l>Dat scheeld my niet, hy mag zoo leeven als hy wil,</l>
+<l>Met al mijn Goed, indien hy my maar laat behouwen,</l>
+<l>Mijn vrye keur dat ik met die 't my lust mag trouwen.</l>
+<l>En dat hy my maar van die Doctor wilontslaan,</l>
+<l>Wat dat zijn Goed belangt daar leyd my weinig aan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Uw Stiefmoer tracht my tot haar hulp u af te troonen,</l>
+<l>Maar ik zal tot mijn dood u trouwe dienst betoonen,</l>
+<l>Dies zal het noodig zijn dat wy wel onderstaan,</l>
+<l>Wat hier gebeurd, op dat men ons niet kan verraan.</l>
+<l>Hoor, ik zal veynzen, en ik zal uw Stiesmoer zeggen,</l>
+<l>Dat ik met haar gelijk de zaaken aan wil leggen.</l>
+<l>Zy die daar na verlangt zal my haar hert terstond,</l>
+<l>Van alle zaaken voort ondekken tot de grond.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Hoe zalmen 't voort gaan van mijn Vaders wil best krenken,</l>
+<l>Dat schriklijk opzet, ach ik sterf daar aan te denken:</l></sp>
+<pb n="23"/>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Uw Minnaar Ferdinand die moetme doen verstaan,</l>
+<l>Uw Vaders wil, en ook wat datter dient gedaan.</l>
+<l>Hy moet int zenden van zijn Vrienden niet vertraagen,</l>
+<l>Uw doen verzoeken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l rend="; 1tab">Wie zal hem die bootschap draagen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Mijn ouwe Vryer die zal veel doen om mijn gunst,</l>
+<l>Hy zal ons deeze zaak uytvoeren na de kunst,</l>
+<l>Hy zal my daar voor weer wat kussen, strooken, streelen,</l>
+<l>En om u dienst te doen zal my dat niet verveelen</l>
+<l>Verlaat u op my, slaap gerust, ik hou de Wacht,</l>
+<l>En slaa op alles wat hier omgaat naerstig acht.</l></sp></div></div></div>
+<div type="act">
+<head rend="h3">Tweede bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Tryntje</hi> en <hi rend="sc">Ferdinand</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>MAar is dat Schellen? wel de Schel die zouw wel breeken,</l>
+<l rend="; 1tab">Wats uw begeeren Heer?</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l rend="; 2tab">Ik moet u Juffer spreeken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Ik schrik dat ik u zie, zijt gy het Ferdinand?</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>'k Zoek hier mijn nootlot, en daar ik door Liefde om brand,</l>
+<l>De schoon Helena, want ik kom om haar te vraagen</l>
+<l>Hoe zy haar, by, Bartrand, die zot, van daag zal draagen,</l>
+<l>Ik ben gewaarschout dat haar Hnw'lijk noch van daag</l>
+<l>Geslooten worden zal, ey roep haar eens om laag.</l></sp>
+<pb n="24"/>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>O zy is zoo mijn Heer, ten eersten niet te spreeken,</l>
+<l>Wie by haar zijn wil moet gebruyken list, en streeken.</l>
+<l>Zy word zorgvuldig als gy weet, bewaart, zy gaat,</l>
+<l>Niet van haar Kamer, en komt nimmer op de straat.</l>
+<l>Dat gy haar onlangs op de Schouburg zaagt had reeden,</l>
+<l>Daar had haar oude min, haar Vader om gebeeden.</l>
+<l>Maar dat daar voor viel, is aan niemand noch gezeid.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>Dat is voorzigtig. Maar hoor Trijntje, trouwe Meyd,</l>
+<l>Ik kom hier niet in schijn van Minnaar, mijn begeeren,</l>
+<l>Is om als Meester, haar de France Taal te leeren.</l>
+<l>Ik ben haar Meesters Vrind.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 1tab">Dan hebje wel gedaan.</l>
+<l>Daar komt haar Vader, sta jy stil, ik spreek hem aan.</l></sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel</head>
+<stage><hi rend="sc">Manshart, Ferdinand</hi> en <hi rend="sc">Tryn</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>'K Moet daag'lijks deeze Zaal met mijne stappen meeten,</l>
+<l>Ruym tien maal, maar oft in de lengte of in de breeten</l>
+<l>Moet weezen, weet ik niet, dat prijkel is te groot,</l>
+<l>Ging ik verkeert, gewis ik stapte in mijne dood.</l>
+<l>Hoe achteloos zou ik mijn zelve zoo verliezen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Mijn Heer daar is een Man.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 1tab">Ja wel, zy scheurd de vliezen</l>
+<l>Van bei mijne ooren och, mijn hert dat klopt en slaat.</l>
+<l>Vergeetje, dat men met geen Zieken zoo hart praat?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Mijn Heer, daar is een Heer.</l></sp>
+<pb n="25"/>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 3tab">Is dat mijn hoofd weer breeken,</l>
+<l>Als jy wat zeggen wilt, zoo zeg het zonder spreeken.</l>
+<l>Schreeuw toch zoo hart niet Trijn.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 4tab">Mijn Heer.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 5tab">Wel dat gaat goet,</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Ik zeg.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 1tab">Wat zegje?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 2tab">Dat die Heer u spreeken moet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Laat hem hier komen, maar hy moet my niet veel vraagen,</l>
+<l>Hy maak het kort en klaar, mijn hoofd kan niet verdraagen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Spreek zagjes, op dat gy dees Zwakke en Zieke Heer,</l>
+<l>Niet moeilijk maakt, want ziet zijn Hersenen zijn teer.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>Mijn Heer 't is my een vreugd u op de been te vinden,</l>
+<l>Gy zijt veel beeter, als ik hoorde van uw Vrinden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Hoe zou hy beeter zijn, wel dat komt niet te pas,</l>
+<l>Hy is veel Zieker als hy van te vooren was.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>Zijn aangezigt staat wel, hy hoeft noch niet te klaagen,</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Zijn aanzigt smelt als Was voor 't vuur noch alle daagen.</l>
+<l>Het zijn maar Buffels die dat zeggen kleyn van geest.</l>
+<l>Mijn Heer is Zieker als hy immer is geweest.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Dat is wel zeeker Trijn, uw oordeel moet ik achten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Hy eet en drinkt met smaak, hy slaapt geheele nachten</l>
+<pb n="26"/>
+<l>Gerust, hy gaat en staat, en heeft gezonde lêen;</l>
+<l>Maar dat belet zijn Ziekte en Krankheit niet, ô neen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Zoo ist ook.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l rend="; 1tab">Dats my leet, maar 't geen my hier doet koomen;</l>
+<l>De France Meester, Heer, die gy hebt aangenoomen</l>
+<l>Om uw Helena te onderwijzen in die Taal</l>
+<l>Is Ziek, hy zend my hier, op dat niet teenemaal,</l>
+<l>'t Geen zy geleerd had door zijn afzijn, word vergeeten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Gy doet zeer wel mijn Vriend, maar Trijntje laat haar weeten,</l>
+<l>Dat hier haar Meester is, zeg datze koomen moet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Dat ik hem by haar bragt mijn Heer, was wel zoo goet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Ga roep mijn Dochter hier, en doe voort mijn begeeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Hy zal uw Dochter Heer in eenzaamheit best leeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>'k Zeg doe mijn zin en ga.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 2tab">Het brabbelen van die Taal,</l>
+<l>Die gy toch niet verstaat, vermeerdert wis uw kwaal.</l>
+<l>'t Zal als het vijlen van een zaag zijn in uw ooren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Schoon ik ze niet verstaa, 'k mag 't echter noch wel hooren.</l>
+<l>Daar komt mijn Dochter, mijn Helena. Trijntje gaa,</l>
+<l>En ziet eens of mijn Vrouw gekleed is, repje draa.</l>
+<l>Helena, hoor mijn Kind, die u het Frans komt leeren,</l>
+<l>Is Ziek, dit is zijn Vriend, en die zou wel begeeren</l>
+<l>Dat hy u mid'lerwijl in 't Frans voort onder wees.</l></sp></div>
+<div type="scene">
+<pb n="27"/>
+<head rend="h4">Darde tooneel.</head>
+<stage><hi rend="sc">Manshart, Ferdinand</hi> en <hi rend="sc">Helena</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>O Hemel!</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 1tab">Hoe mijn Kind, wel gy word bleek van vrees.</l>
+<l>Waarom ontstelt gy u?</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l rend="; 4tab">Ach Vader!</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 5tab">Wil niet beeven.</l>
+<l>Wat scheeld u?</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l rend="; 3tab">Vreemder zaak en zag ik van mijn leeven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Hoe dat?</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l rend="; 2tab">Ik zag te nacht Heer Vader, in mijn droom,</l>
+<l>Daar ik ter dood toe was benard vol angst en schroom,</l>
+<l>Dat zeeker Heer, die daar by toeval was gekoomen,</l>
+<l>My reddede uyt gevaar int midden van mijn droomen,</l>
+<l>En dat geleek, dees Heer; hy maald my in de geest,</l>
+<l>De gansche nacht is hy niet uyt mijn zin geweest.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>Aan wien gy immer denkt int slaapen of int waaken,</l>
+<l>Die is gelukkig of gy kunt het hem licht maaken.</l>
+<l>Ik zal gelukkig zijn dat moogt gy vast vermoen,</l>
+<l>Keurd gy my om u ooit of hulp of dienst te doen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Hoe heeft uw Beeldtenis my deeze nacht doen zweeten.</l>
+<l>Waar van 't gedenken my onmooglijk kan vergeeten.</l></sp></div>
+<div type="scene">
+<pb n="28"/>
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Manshart, Ferdinand, Helena</hi> en <hi rend="sc">Tryntje</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>AL wat ik van den Heer Bartrand zei dat is vals,</l>
+<l rend="; 1tab">Ik heb 't geloogen en ik haal het in mijn hals.</l>
+<l>Zijn Vader zal met hem u de Visite geeven;</l>
+<l>Wat zal uw Dochter met een Man der Mannen leeven!</l>
+<l>Wat ist een Kaerel, wel gemaakt, wel 't is te ondieft!</l>
+<l>Ik heb hem eens gezien, ik ben op hem verlieft.</l>
+<l>Zijn aangename Taal kwam naauwlijk in mijne ooren</l>
+<l>Of 'k wenschte dat ik hem altijt had mogen hooren.</l>
+<l>Zoo dra uw Dochter hem zal zien, al wast haar leet,</l>
+<l>Zal zy verlieft zijn en de Bruyd eer dat ze 't weet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Mijn Heer, ay ga niet weg, maar blijf, 'k heb voorgenoomen',</l>
+<l>Haar uyt te trouwen en haar Bruygom zal straks koomen,</l>
+<l>Met zijn Heer Vader, maar zy heeft hem nooit gezien.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>Mijn Heer ik bid u, my zal te veel eer geschien</l>
+<l>Van zulk een zaak vol vreugd, zelf oog getuyg te weezen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Het is de Zoon van een wijs Doctor, waard gepreezen.</l>
+<l>Wy sluytent Huwlijk noch van deeze week.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l rend="; 3tab">Heel goet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Zeg dat de Meester, die haar Fransleerd, komen moet.</l>
+<l>Hy word ter Feest genood.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l rend="; 2tab">Uw last word waar genoomen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>En ik verzoek dat gy dan ook zult met hem koomen.</l></sp>
+<pb n="29"/>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>'k Zal niet mankeeren, wijl my werd groote eer gedaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Sta breet, maak plaats, daar komt, daar komt de Bruygom aan.</l></sp></div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Narticoforus, Bartrand, Manshart, Ferdinand, Helena</hi> en <hi rend="sc">Tryntje</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Mansh</hi>. <hi rend="i">Tast aan zijn muts maar neemt die niet af</hi>.</speaker>
+<l>MYn Doctor Florentijn heeft my wel streng verbooden,</l>
+<l>Mijn hoofd te ondekken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Narticoforus</hi>.</speaker>
+<l rend="; 2tab">Heer dat is ook niet van nooden.</l>
+<l>Wy Doctors zijn om elk te redden uyt de nood,</l>
+<l>'t Zy ver dan, dat door ons hun Ziekten wierd vergroot.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Heer ik ontfang.</l></sp>
+<sp>
+<speaker><hi rend="sc">Narticoforus</hi>.</speaker>
+<l rend="; 1tab">Ik kom my voor u needer buygen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Met vreugde de eer die gy my doed</l></sp>
+<sp>
+<speaker><hi rend="sc">Narticoforus</hi>.</speaker>
+<l rend="; 4tab">Om u te betuygen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Ik wenschte wel dat ik.</l></sp>
+<sp>
+<speaker><hi rend="sc">Narticoforus</hi>.</speaker>
+<l rend="; 3tab">De vreugde ons aangedaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Mijn Heer tot uwent met mijn Vrou had konnen gaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Narticoforus</hi>.</speaker>
+<l>Door deeze Vrindschap.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 3tab">Om verzeekering te geeven.</l></sp>
+<pb n="30"/>
+<sp>
+<speaker><hi rend="sc">Narticoforus</hi>.</speaker>
+<l>Van u zoo wenschte ik wel.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshert</hi>.</speaker>
+<l rend="; 6tab">Gy weet hoe Zieke leeven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Narticoforus</hi>.</speaker>
+<l>Onder het getal.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 2tab">En hoe die zijn gesteld</l></sp>
+<sp>
+<speaker><hi rend="sc">Narticoforus</hi>.</speaker>
+<l>Van naast uw Vrinden Heer voortaan te zijn geteld.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Ik kan niet anders doen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Narticoforus</hi>.</speaker>
+<l rend="; 5tab">En u in deeze zaaken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Als u te zeggen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Narticoforus</hi>.</speaker>
+<l rend="; 1tab">Die de Kunst alleenig raaken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Dat ik het al zal doen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Narticoforus</hi>.</speaker>
+<l rend="; 4tab">Zal doen meer als gemeen,</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Om u te doen verstaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Narticoforus</hi>.</speaker>
+<l rend="; 4tab">Ik dien u voor elk een.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Dat ik u Dienaar ben.</l></sp>
+<sp>
+<speaker><hi rend="sc">Narticoforus</hi>.</speaker>
+<l rend="; 3tab">Zoon met bedaarde zinnen,</l>
+<l>Maar wilt u Kompliment wat grasieus beginnen,</l>
+<l>Tretoe mijn Zoon betoon uw yver.</l></sp>
+<sp>
+<speaker><hi rend="sc">Bartrand</hi>.</speaker>
+<l rend="; 7tab">Wel ik ga.</l>
+<l>Wil ik de Vader ook niet eerst aanspreeken?</l></sp>
+<sp>
+<speaker><hi rend="sc">Narticoforus</hi>.</speaker>
+<l rend="; 8tab">Ja.</l>
+<pb n="31"/>
+<l>Leg af uw Kompliment vryborstig, nu tree nader.</l></sp>
+<sp>
+<speaker><hi rend="sc">Bartrand</hi>.</speaker>
+<l>Mijn Heer ik groet, ik eer u als mijn tweede Vader.</l>
+<l>'k Bemin, 'k erken, ja 'k derf ook zeggen dat ik eer</l>
+<l>U moet bewijzen als mijn Vader, ja noch meer.</l>
+<l>'k Ben u meer schuldig als van wien ik ben gebooren,</l>
+<l>Want de eerste teelde my, en gy hebt my verkooren.</l>
+<l>Door 't vaste nootlot wierde ik mijn Heer Vaders Kind,</l>
+<l>Maar gy maakt my uw Zoon, om dat gy my bemind.</l>
+<l>'k Ben daar gedwongen, hier vry willig aangenoomen.</l>
+<l>O tweede Vader! gy zijt de eerste voor gekoomen.</l>
+<l>Dat ik zijn Zoon ben, is door 't lichaam maar geweest,</l>
+<l>Maar gy maakt my uw Zoon door krachten van uw geest.</l>
+<l>Zoo veel de gaaven van de geest zijn meer bevonden</l>
+<l>Dan die van 't Lichaam, zoo ben ik u meer verbonden,</l>
+<l>Dan deeze Vader, 'k houw dit Zoonschap meerder waard,</l>
+<l>Ik offer u mijn zelfs, zoo lang ik leef op Aard.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Die hooge Schoolen zijn hoognoodig tot veel zaaken,</l>
+<l>Daar zietmen wijzen gek, en gekken wijzen maaken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Bartrand</hi>.</speaker>
+<l>Maar Vader ging dat wel?</l></sp>
+<sp>
+<speaker><hi rend="sc">Narticoforus</hi>.</speaker>
+<l rend="; 2tab">Optime.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 3tab">Laat ons dra</l>
+<l>Mijn Heer begroeten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Bartrand</hi>.</speaker>
+<l rend="; 1tab">Maar moet ik ook zoenen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Narticoforus</hi>.</speaker>
+<l rend="; 4tab">Ja.</l></sp>
+<sp>
+<speaker><hi rend="sc">Bartrand</hi>.</speaker>
+<l>Schoonmoeder zulk een naam werd u met recht gegeven,</l>
+<l>Om dat de Schoonheid schijnt in uw gelaat te leeven.</l></sp>
+<pb n="32"/>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Het is mijn Wijf niet, 't is mijn Dochter dat je 't vat.</l></sp>
+<sp>
+<speaker><hi rend="sc">Bartrand</hi>.</speaker>
+<l>Waar isse dan?</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 1tab">Ze komt terstond vertoef noch wat.</l></sp>
+<sp>
+<speaker><hi rend="sc">Narticoforus</hi>.</speaker>
+<l>Zoon maak u Kompliment.</l></sp>
+<sp>
+<speaker><hi rend="sc">Bartrand</hi>.</speaker>
+<l rend="; 2tab">Mejuffrouw ik ben eeven</l>
+<l>Als 't beeld van Memnon, 't geen wierd stem en spraak gegeeven,</l>
+<l>Wanneer 't de alziende zon, sterk straalende bescheen,</l>
+<l>Zoo voel ik ook een kracht doorkruypen al mijn leen,</l>
+<l>Nu dat uw oogen, die twee zonnen, my bestraalen,</l>
+<l>Mijn tong word los, ik kan onmoog'lijk die bepaalen.</l>
+<l>De zonneblom ziet staag de zon in 't aangezicht,</l>
+<l>Zoo keert mijn hert alleen, naar u mijn zon, mijn licht.</l>
+<l>De Leidstar van mijn heil. Ontfang mijn offerhanden,</l>
+<l>Mijn hert zal op 't Altaar uwes Schoonheids eeuwig branden.</l>
+<l>Dat hert, dat dan zijn roem en glory vinden kan,</l>
+<l>Als ik my noemen mag, uw Minnaar en uw Man.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Dats kennelijk en klaar, en niet te weederleggen,</l>
+<l>Al wie Studeert, die leerd moy denken en moy zeggen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi> <hi rend="i">Tegens Ferdinand</hi>.</speaker>
+<l>Wat dunkt u daar van Heer!</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l rend="; 3tab">'t Is een verstandig man,</l>
+<l>Zoo hy zoo Doctoreerd gelijk hy spreeken kan,</l>
+<l>Zal 't vreugde zijn, zijn Pasjent te zijn.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 4tab">Bove maaten,</l>
+<l>Zoo hy zijn Zieken zoo geneest als hy kan praaten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Kom, kom, geen tijt verzuymt, geef stoelen by der hand.</l>
+<pb n="33"/>
+<l>Heer Narticoforus, en gy mijn Heer Bartrand,</l>
+<l>Zet u, zet u ter neer, Heer Doctor een goet teeken,</l>
+<l>Elk staat verwondert die uw Zoon heeft hooren spreeken,</l>
+<l>Mijn Dochter zelf staat stom gelijk een roerloosbeeld,</l>
+<l>'t Is uw geluk, dat gy die Jongen hebt geteeld.</l></sp>
+<sp>
+<speaker><hi rend="sc">Narticoforus</hi>.</speaker>
+<l>Dat ik zijn Vader ben mijn Heer, dat kan niet raaken.</l>
+<l>Hy heeft wat anders dat my kan gelukkig maaken.</l>
+<l>Al wie hem kent, kent hem geensints voor zot of mal,</l>
+<l>Maar vry van alle kwaat, vol goetheid zonder gal.</l>
+<l>Daar is geen vuur in als in veele Jonge bloemen,</l>
+<l>Noch zijn verstant is ook niet vlug om van te roemen:</l>
+<l>Maar 't is een Jongman die bepaalt is van verstand,</l>
+<l>Hy draagd zijn lusten en zijn wijsheid in zijn hand.</l>
+<l>Toen hy een Kind was wist ik dat te Profeteeren,</l>
+<l>Hy liep ruym twaalef Jaar om 't A, B, C. te leeren.</l>
+<l>Ha dacht ik, dat is goet, een Boom die langsaam wast,</l>
+<l>Draagt vaak de beste vrucht, dat maakt de wortel vast.</l>
+<l>Daar is meer tijt van doen om in het Staal te schrijven</l>
+<l>Als in het zachte zand, maar 't zal weer langer blijven.</l>
+<l>Hy heeft tot Leyen gestudeerd by dag en nacht,</l>
+<l>Gelijk het Yzer dat tot buygen word gebragt,</l>
+<l>Door staadig smeeden, zoo heeft hy hem door Studeeren,</l>
+<l>Bekwaam gemaakt om hem te laaten Promoveeren.</l>
+<l>De Medicijnen zijn hem reedelijk wel gelukt.</l>
+<l>De reegels van de Kunst zijn hem int hoofd gedrukt.</l>
+<l>Hy disputeerd zoo snel, en redeneerd zoo krachtig,</l>
+<l>Dat wie 'er oponeerd die maakt hy leugenachtig.</l>
+<l>De reeden waar door hy verdiend noch meerder gunst,</l>
+<l>Is, dat hy de oude volgt als ik doe in de Kunst.</l>
+<l>Die de ommeloop van 't bloed nu anders willen leeren,</l>
+<l>Daar lacht hy me, en derft daar tegen disputeeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Bartrand</hi>.</speaker>
+<l>De omloopers met het bloed die heb ik vast gezet,</l>
+<l>Met deeze Teezes, ha, die toont het wonder net.</l>
+<pb n="34"/>
+<l>'k Zal die met uw verlof uw Dochter offereeren,</l>
+<l>Als de eersteling van mijn verstant, en mijn Studeeren,</l>
+<l>Die ik haar schuldig ben.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l rend="; 1tab">Dat huysraad is mijn Heer,</l>
+<l>My heel onnoodig ik verstaat niet, daar is 't weer.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Kom, kom, geef hier, geef hier, ik zal het printje plakken.</l>
+<l>Daar elk het zien zal, die gemakkelijk wil kakken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Bartrand</hi>.</speaker>
+<l>'k Verzoek Mejuffer doe my de eer aan, kan 't geschien,</l>
+<l>Kom, hoe ik menschen kan ontleeden, toch eens zien.</l>
+<l>Een Vrouwe lichaam zal ik Anatomizeeren,</l>
+<l>Gy moet het zien, ik zal daar over Harangueeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Dat zal vermaakelijk te zien zijn schoon en raar,</l>
+<l>Daars de Komedie maar een kreng by ist niet waar?</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Mijn Heer meent gy uw Zoon ook naar het Hof te stuuren,</l>
+<l>By Prins of Koning, want daar leerd men groote kuuren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Narticoforus</hi>.</speaker>
+<l>Neen onze Kunst gelukt by groote zelde wel,</l>
+<l>Want groote willen voort als op een sprong en stel</l>
+<l>Geneezen zijn, maar hoor den Burger die kan geeven,</l>
+<l>Waar door een Doctor vry kan zonder opspraak leeven,</l>
+<l>Ik volg de slenter by den Burger en niet meer,</l>
+<l>Gelaaten, gepurgeert, gezweet, daar hebjet Heer.</l>
+<l>En volgt de dood dan, 't word het nootlot toegeschreeven,</l>
+<l>Een Koning wil dat hem de Doctor lengt het leeven,</l>
+<l>Of anderschreeuwt men hem uyt voor een moordenaar.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Wel dat is onbeleeft, hoe zoud gy Heeren haar</l>
+<l>Het leeven rekken of geneezen watte gekken,</l>
+<l>Gy gaat by Zieken om Visitens, loon te trekken,</l>
+<l>Haar raad te geven en dan heb jy 't al gedaan.</l>
+<l>'t Mag met de Zieken dan zoo als het wil vergaan.</l></sp>
+<pb n="35"/>
+<sp>
+<speaker><hi rend="sc">Narticoforus</hi>.</speaker>
+<l>Dat is zoo, hoor ik volg de sleur by al mijn Kranken.</l>
+<l>Die sterft verwijt het nooit die op komt mag bedanken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Taal Meester toon wat aan mijn Dochter is geleerd.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>Dit Pastorel heeft zy van daag getranslateerd,</l>
+<l>Uyt Frans in Duyts, men hoord'er twee te zaame spreeken.</l>
+<l>Het is een Herders Spel, Vol fijne Minne streeken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Zeg ons den inhout op dat elk het beeter vat.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>'t Is van een Herder die in diepen aandacht zat.</l>
+<l>Hy zag een Herders Spel, dat hem zeer kost behaagen,</l>
+<l>Maar wierd gestoord, door dien hy deerlijk hoorde klaagen.</l>
+<l>Hy keerd zich om, en ziet een Herderin in last</l>
+<l>Door vuyle woorden, van een ongebonden gast.</l>
+<l>Hy neemt het voor haar op, gelijk ook alle mannen,</l>
+<l>Verplicht zijn over al haar krachten in te spannen</l>
+<l>Om 't Vrouwelijk geslacht, uyt allerhande noot</l>
+<l>Te reden, ja al waar 't met prijkel van de dood.</l>
+<l>Als hy de booswicht had verjaagd en straf gegeeven,</l>
+<l>Sprak hy de Herderin, die door die smaat gedreeven,</l>
+<l>Vast traanen uyt haar oogen perste, die vol glans,</l>
+<l>De Zon verbeelden aan des Hemels opper Trans.</l>
+<l>Ach! zey hy met een zucht, zoude ik u niet verdedigen?</l>
+<l>Ha booswicht, ha Barbaar, dorst gy dit beeld beleedigen?</l>
+<l>Waar vindmen zulk een hert ontmenscht en zoo versteent,</l>
+<l>Dat deeze traanen ziet, zich niet tot traanen weend.</l>
+<l>Hy stuyte voort de loop dier traanen op haar kaaken.</l>
+<l>Zy die aan dankbaarheid haar niet wou schuldig maaken,</l>
+<l>Verzuymt geen tijt om hem te danken, wijl een gloed,</l>
+<l>Uyt haar bekoorlijk oog doorstraald zijn teer gemoed,</l>
+<l>Hy lag als in een beemt, door znchten, minnelonken,</l>
+<pb n="36"/>
+<l>Van dat aanminnig beeld, vol wellust, als verdronken.</l>
+<l>Elk woordje datze sprak, en eyder tedere zucht,</l>
+<l>Door griefde hem het hert, hy vong die zoete lucht,</l>
+<l>En sprak, volmaakte beeld, bevallig en aanminnig,</l>
+<l>Daars geen gevaar zoo groot, noch geen geweld zoo vinnig,</l>
+<l>Dat ik ontzie, ik lee voor u de zwaarste pijn,</l>
+<l>Om van u dankbaar beeld, maar eens belonkt te zijn.</l>
+<l>Zy nam haar afscheid, zy vertrok op deeze klagten,</l>
+<l>En liet hem toen alleen verzeld met zijn gedachten.</l>
+<l>Hy draagt door de eerste maal van haar te zien, meer smert,</l>
+<l>Als meenig Minnaar door veel Jaaren in zijn hert.</l>
+<l>Op haar vertrek, schijnt hem haar af zijn al te dooden,</l>
+<l>Haar weer te spreeken wierd hem scherpelijk verbooden,</l>
+<l>Hy zuchten, sprak, helaas! die ik zoo weinig tijt,</l>
+<l>Gezien heb, met vermaak, raak ik voor eeuwig kwijt.</l>
+<l>Hy spant zijn krachten in, om haar maar eens te spreeken,</l>
+<l>Maar haare kluysters zijn met list, noch kracht te breeken,</l>
+<l>Dies port zijn Minnevlam hem aan tot dit besluyt,</l>
+<l>De Herderin te doen verzoeken tot zijn Bruyd,</l>
+<l>Dat zy hem toe staat, in een brief aan hem geschreeven,</l>
+<l>Maar in die zelve brief, doet zy hem kennis geeven,</l>
+<l>Hoe dat haar Vader had beslooten, vast gezet,</l>
+<l>Haar, aan een ander, na de Vaderlijke Wet,</l>
+<l>Die zelve dag, haar in haar weerwilte doen trouwen.</l>
+<l>Bedenk eens in wat angst, wat hertzeer, wat benouwen</l>
+<l>Die Herder was, hoe hy vol schrik gepijnigt werd,</l>
+<l>Hem drukt een heele berg vol rampen op zijn hert.</l>
+<l>Hy kan dat denkbeeld nooit uyt zijn gedachten krijgen.</l>
+<l>Van dat een ander maakt zijn Herderin zich eygen.</l>
+<l>Dat hy gedoogen zal, hoe dat bekoorlijk beeld</l>
+<l>Omhelst word en gekust, gevleyt word en gestreeld;</l>
+<l>Zijn tochtig hert gestelt om geen gevaar te vreezen,</l>
+<l>Besluyt, die zelve dag, by haar in huys te weezen.</l>
+<pb n="37"/>
+<l>De Minnelust ondekt voor hem geleegentheid,</l>
+<l>Die hem de toegang tot zijn Herderin bereid.</l>
+<l>Om in dit noodgeval, zelf uyt haar mont te hooren,</l>
+<l>Haar uytspraak, en wat lot zy voor hem had beschooren.</l>
+<l>Hy gaat daar, en bevind al wat hy had gevreest,</l>
+<l>Ja al de toestel, wierd bereid, van 't Bruylofts Feest;</l>
+<l>Hy zag de onwaardige, zijn mede Vreijer komen,</l>
+<l>Die door haar Vaders drift, wierd waardig aangenoomen,</l>
+<l>Die zeege praalend reets de zachte zy bekleed,</l>
+<l>Van 't schoonste Schepzel, dat hy op de waereld weet,</l>
+<l>Die hy als winnaar met een nijdig oog begluurde,</l>
+<l>Vol bittre haat, 't was vreemt dat hy hem noch bestuurde.</l>
+<l>Dit Schouwspel, deed zijn borst op zwellen, die de Min</l>
+<l>Aan prikkelde tot wraak, hy kon zijn Herderin,</l>
+<l>Maar met zijn oogen, zijn gedachten laaten weeten.</l>
+<l>Door dien haar Vader was dicht aan haar zy gezeeten.</l>
+<l>Doch eynd'lijk stapt hy stout verby die hinder paal,</l>
+<l>En spreekt zijn hert uyt, in deez minnelijke Taal.</l>
+<l>&#160;</l>
+<l rend="; 1tab">Ach! Filisach! ondek my uw gedachten,</l>
+<l rend="; 1tab">Al lang genoeg, mijn smert is veel te groot,</l>
+<l rend="; 1tab">Uw Tirsis bid, wil zijn lijden verzachten,</l>
+<l rend="; 1tab">Maak dat ik leef, of geefme een korte dood.</l>
+<l>&#160;</l>
+<l>Nu ist u beurd, nu moet gy antwoord geeven</l>
+<l>Daar ist Translaat 'k hebt voor u uyt geschreeven.</l>
+<l>Zijt gy nu Filis, ik zal Tirsis zijn, begin.</l>
+<l>Heer let aandachtig op de streeken van de Min.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l rend="; 1tab">Ach Tirsis ziet mijn lijden uyt mijn oogen,</l>
+<l rend="; 1tab">Ik zit als gy met een zoo wreev'le zin.</l>
+<l rend="; 1tab">Ik heb om meer te zeggen geen vermoogen.</l>
+<l rend="; 1tab">Als Tirsis, zijt verzeekert van mijn min.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Dat wist ik niet kan zy zoo Translateeren</l>
+<l>Van Frans in Duyts.</l></sp>
+<pb n="38"/>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l rend="; 1tab">Ja, dat kom ik haar leeren.</l>
+<l>'k Leer haar noch meer gelijk gy hooren zult.</l>
+<l>Hebt met vermaak, een weinig maar geduld.</l>
+<l>&#160;</l>
+<l>Helaas, nu my het al schijnt te verdrukken,</l>
+<l>Derf ik zoo veel niet hoopen, zonder smert;</l>
+<l>Van dat het my, mijn Schoone zal gelukken,</l>
+<l>Dat gy my geeft een Woonplaats in uw hert.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Ach Tirsis, weet ik moet u eeuwig minnen,</l>
+<l>Of anders zou mijn mond mijn hert verraan,</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>O woorden vol, vol Honingraad van binnen.</l>
+<l>Maar Tirsis zacht, heb ik ze ook wel verstaan?</l>
+<l>Ach Filis, laat uw Tirsis noch eens hooren,</l>
+<l>Die woorden daar gy my het hert me grieft.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Zijt doch gerust, 'k heb ualleen verkooren,</l>
+<l>Uw Filis is op u alleen verlieft.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>Ha Filis, wilt die woorden noch eens spreeken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Hoor Tirsis, ik bemin u maar alleen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>O woorden! die mijn minnenijt verbreeken,</l>
+<l>Ey Filis spreek, ey spreeker anders geen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>'t Is Filis vreugd, haar herte blood te leggen,</l>
+<l>En hondert maal te melden haare trouw.</l>
+<l>Ik wensch mijn tong, nu anders niet kon zeggen,</l>
+<l>Als Filis blijft van nu af Tirsis Vrouw.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>Regeerders van Aard, Hemel ende Baaren,</l>
+<l>Gy Koningen, zoo machtig en vermaard,</l>
+<l>Al uw geluk is niet om te eevenaaren,</l>
+<l>Naast mijn geluk, want dat is meerder waard.</l>
+<pb n="39"/>
+<l>O neen, 't gezigt van die my staat te vreezen</l>
+<l>Het by zijn van mijn mede Minnaar-hier,</l>
+<l>Belet my de gelukkigste te weezen.</l>
+<l>Dies brande ik noch in een verslindent vier.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Ach Tirsis, ach! zult gy mijn trouw verdenken,</l>
+<l>Maakt u ontrust een Minnaar die ik haat?</l>
+<l>'k Verzeeker u, ik zal aan niemant schenkken,</l>
+<l>Dat hert, dat voor mijn Tirsis open staat.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>Denk Filis aan uw Vader en zijn krachten,</l>
+<l>In weerwil zal hy u doen minnen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l rend="; 4tab">Neen,</l>
+<l>Neen Tirsis, 'k wil de dood veel eer verwachten,</l>
+<l>Als dat besluyt toe stemmen, zijt te vreen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Wat zey de Vader toen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l rend="; 2tab">Die deed niet als wat vraagen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Dan wast een groote gek, ik zou my anders draagen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>O Liefde!</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l rend="; 1tab">O trouwe Min!</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 3tab">Geef die Comedie hier.</l>
+<l>Daar steekt geen stichting in, kom geeft my dat papier.</l>
+<l>Die Herder sirsis is wel onbeschoft in 't Vryen,</l>
+<l>En Filis is een Pry, ik zou haar straf doen lijen,</l>
+<l>In dient mijn Kind was, maar wat staat'er op dit blad,</l>
+<l>Hoe is dit schrift? het is bekrabbeld en beklad.</l>
+<l>Waar zijn de woorden hier?</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l rend="; 2tab">Hoor, dat was haar begeeren,</l>
+<l>Zy wil de France Taal kort door karakters leeren.</l></sp>
+<pb n="40"/>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Vertrek, dat Herders Spel is strijdig met de deugd,</l>
+<l>'t Geest buyten spoorig, een kwaad voorbeeld aan de Jeugd.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>Ik dacht dat Bly-spel zou u stof tot blijdschap schaaffen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Het mocht de booze, ik zou eer zulke dingen straffen.</l>
+<l>Daar komt mijn Huysvrouw aan.</l></sp></div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Manshart, Narticoforus, Bartrand, Helena, Anna, Tryn</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 3tab">Monceur dat is de Zoon,</l>
+<l>Van Narticoforus.</l></sp>
+<sp>
+<speaker><hi rend="sc">Bartrand</hi>.</speaker>
+<l rend="; 1tab">Mevrouw, wat zijt gy schoon!</l>
+<l>Schoonmoeder, zulk een naam is u met recht geschonken,</l>
+<l>Elk ziet de Schoonheid op uw roode kaaken pronken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Mijn Heer, ik ben verheugd dat ik u zie.</l></sp>
+<sp>
+<speaker><hi rend="sc">Bartrand</hi>.</speaker>
+<l rend="; 4tab">Maar hoor,</l>
+<l>Gy zijt gelijk een beeld, uw voorhoofd zonder voor....</l>
+<l>Maar zagt, uw komst Mevrouw heeft mijn konsept verbrooken,</l>
+<l>'t Is my vergeeten, waar van heb ik daar gesprooken?</l></sp>
+<sp>
+<speaker><hi rend="sc">Narticoforus</hi>.</speaker>
+<l>Zoon wilt dat spaaren tot gy ruymer zijt van geest.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Ik wensch mijn Huysvrouw dat gy flus hier had geweest,</l>
+<l>Gy had een Cicero gehoord.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 2tab">Na dat ik reeken,</l>
+<pb n="41"/>
+<l>Gy had het steene Beeld van Memnon hooren spreeken,</l>
+<l>De tweede Vader en de Zonneblom gezien.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Hoor Dochter, geef uw hand want ik kom u gebien,</l>
+<l>Dat gy de Heer Bartrand zult voor uw Man verkiezen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Ik Vader?</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 1tab">Ja, kom voort, men moet geen tijd verliezen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Hoe, zoo ten eersten? ey, zoo haastig niet Papa.</l>
+<l>Geen eerbre Juffrouw zeid zoo licht ten eersten Ja.</l>
+<l>Maar door verkeering leerd men eerst elkaar recht kenken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Eerst trouwen, dan zalt veel vermaakelijker wennen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Een wederzijde min, moet voorgaan of de trouw</l>
+<l>Is onvolmaakt, dat baard veel ramp aan Man en Vrouw.</l></sp>
+<sp>
+<speaker><hi rend="sc">Bartrand</hi>.</speaker>
+<l>Wat my belangd, het is onnoodig meer te wachten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Zijt gy zoo haastig Heer? ik niet, 'k wil niet verachten.</l>
+<l>Uw goe geneegentheid tot my, maar weet mijn min,</l>
+<l>Heeft tot u noch in 't minst genomen geen begin.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Een Juffers liefde moet nooit voor het trouwen koomen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Ik bid u geef my tijd?</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 2tab">De tijd dient waar genoomen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Hoe Vaderlief, wilt gy dat ik uw outste Kind,</l>
+<l>In weerwil van mijn hert, my aan de boeijens bind,</l>
+<l>Van de onverbreekb're trouw, in dien mijn Heer wil weezen,</l>
+<l>Een eerlijk Man, moet hy voor zulk een Huysvrouw vreezen.</l>
+<pb n="42"/>
+<l>Die teegens haaren dank hem tot haar Bruygom nam.</l>
+<l>Is dat niet waar?</l></sp>
+<sp>
+<speaker><hi rend="sc">Bartrand</hi>.</speaker>
+<l rend="; 2tab">Nego consequentiam.</l>
+<l>Mejuffer hoor, ik kan wel eerlijk zijn en leeven,</l>
+<l>Met u in de Echt, als u, uw Vader my wil geeven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Te dwingen tot de min, heeft de alderminste schijn,</l>
+<l>De Liefde lijd geen dwang, die moet vry willig zijn.</l></sp>
+<sp>
+<speaker><hi rend="sc">Bartrand</hi>.</speaker>
+<l>Veel oude lieten met haar wil haar Dochters schaaken,</l>
+<l>Om haare kuysheid dan daar door bekent te maaken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Laat de oude, de oude zijn, wy zijn hier niet van 't out.</l>
+<l>'t Is nu geen oneer dat een jonge Juffer trouwt</l>
+<l>Met een die haar behaagt, al laat zy haar niet schaaken.</l>
+<l>Geen outheid maar 't gebruyk, maakt wettig veele zaaken.</l>
+<l>Zoo gy oprechte trouw en liefde tot my draagd,</l>
+<l>Zoo wil, wat ik wil, en doe al wat my behaagd.</l></sp>
+<sp>
+<speaker><hi rend="sc">Bartrand</hi>.</speaker>
+<l>Ik zal, behalve dat mijn liefde zoude krenken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Een Minnaar die oprecht bemind doet niet als denken,</l>
+<l>Hoe hy zijn wil, best in de handen stelt van haar,</l>
+<l>Die hy bemind.</l></sp>
+<sp>
+<speaker><hi rend="sc">Bartrand</hi>.</speaker>
+<l rend="; 2tab">Maar hoor, distinguo, het is waar,</l>
+<l>Zoo veel zijn eygendom niet aangaat, vat de zaaken,</l>
+<l>Quod cedo, maar wat dat zijn eygendom mag raaken,</l>
+<l>Nego.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 1tab">Jy bent het kwijt, hy komt van 't hooge School,</l>
+<l>Hy zal 't met woorden van u winnen, of ik dool.</l>
+<l>Maar waarom laat jy jou ook zoo onrek'lijk vinden.</l>
+<l>Daar hy u door de trouw aan 't Doctoors Gild wil binden.</l></sp>
+<pb n="43"/>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Een and're Vrijer maalt haar moog'lijk in de zin.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Als dat zoo was Mevrouw, wat kwaat steekt daar toch in?</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Papa Lief ik zou haar niet dwingen om te paaren;</l>
+<l>Maar ik zou haar, in 't kort, het Klooster doen bewaaren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Ik kan de goetheid, die gy voor my hebt, verstaan.</l>
+<l>Maar 't geen gy Vader raad, word altijd niet gedaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Al wat de Vader wil dat moet het Kind behaagen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>De lasten zijn bepaald die Kinders moeten draagen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Uw meening is dat gy wilt trouwen, maar met een,</l>
+<l>Die u behaagd, niet waar?</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l rend="; 1tab">O ja, met anders geen.</l>
+<l>Zoo Vader na mijn zin, my meent geen man te geeven,</l>
+<l>Zoo hoop ik dat hy my niet zal in de Echt doen leeven.</l>
+<l>Met zulk een die ik gansch onmooglijk minnen kan;</l>
+<l>Geen Vader mach zijn Kind, zoo dwingen aan de Man.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Mijn Heeren ik verzoek, wilt my dit doch vergeeven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Narticoforus</hi>.</speaker>
+<l>Dat is onnoodig, want daar is noch niet misdreeven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Ik wil een man oprecht beminnen, niet in schijn,</l>
+<l>En eer ik trouw, wilik daar van verzeekert zijn.</l>
+<l>Daar trouwender om maar alleen te zijn ontslaagen,</l>
+<l>Van de Ouders wetten, die haar lastig zijn te draagen.</l>
+<l>Ook zijnder die alleen, maar trouwen om het goed,</l>
+<l>Om rijk te worden, maar ik zeg al wie dat doet,</l>
+<l>Verkoopt zijn lijf om geld; daar zijnder ook die trouwen,</l>
+<l>Om prachtiger te gaan, en grooter Staat te houwen.</l>
+<pb n="44"/>
+<l>Ook zijnder die alleen maar trouwen om de zwier,</l>
+<l>Om dies te vrijer zonder opspraak het plyzier,</l>
+<l>Van al de waereld te genieten, zulke vrouwen,</l>
+<l>Verscheeld het weinig aan wat mannen datze trouwen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Gy valt nu spraakzaam, maar wat hebje daar me voor?</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Ik geef maar antwoord op het geen ik zie en hoor.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Uw onbeleeftheid is onmoog'lijk te verdraagen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Gy zoud wel wenschen dat ik stout sprak, om te klaagen,</l>
+<l>Maar dat geluk zal u Mevrouw nu niet geschien.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Ik heb geen stouter noch geen boozer Kind gezien,</l>
+<l>Als gy zijt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l rend="; 1tab">Hoor Mevrouw, gy komt u zelf maar kwellen.</l>
+<l>Zeg wat u lust, gy kunt my daar door niet ontstellen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>'k Zeg door uw stoute bek, gy onverdraag'lijk zijt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Dats vruchteloos, ik wil nu wijs zijn, tot uw spijt.</l>
+<l>Maar om u vorder tot geen gramschap te verwekken,</l>
+<l>Zal ik met dat gy hier gehoopt had gaan vertrekken.</l>
+<stage><hi rend="i">Binne</hi>.</stage></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Helena 'k geef u noch vier daagen en niet meer,</l>
+<l>Om te verkiezen of gy trouwen wilt dien Heer,</l>
+<l>Of datge in 't Klooster wilt vol eyndigen uw daagen.</l>
+<l>Stelugerust mijn Heer, gy zult haar haast behaagen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Het valt my moey'lijk Lief van u ook weg te gaan.</l>
+<l>Maar 'k heb een boodschap die noodsaak'lijk diend gedaan.</l>
+<l>Maar zijt verzeekert dat ik spoedig weer zal koomen.</l></sp>
+<pb n="45"/>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Zeg aan Notaris Pronk, 't geen hy heeft me genoomen</l>
+<l>Dat hy dat op maakt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l rend="; 4tab">Wel Monceur, dat zal geschien.</l>
+<l>Vaar wel Papa Lief, ik hoop u haast weer te zien.</l>
+<stage><hi rend="i">Binne</hi>.</stage></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Vaar wel mijn Schoone, ha, dat is een Vrouw der Vrouwen,</l>
+<l>Haar trouwe liefde doet my 't leeven noch behouwen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Marticoforus</hi>.</speaker>
+<l>Wy zullen ook mijn Heer vertrekken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshert</hi>.</speaker>
+<l rend="; 7tab">Eer gy gaat,</l>
+<l>Zoo zeg my hoe het met mijn ziekte nu doch staat?</l></sp>
+<sp>
+<speaker><hi rend="sc">Narticoforus</hi>.</speaker>
+<l>Bartrand neem de and're hand, ik leen aandagtige ooren,</l>
+<l>Om uw wijsoordeel van mijn Heer zijn pols te hooren.</l>
+<l>Quid dicis?</l></sp>
+<sp>
+<speaker><hi rend="sc">Bartrand</hi>.</speaker>
+<l rend="; 2tab">Dico. Dat die pols, het kan niet mis,</l>
+<l>De pols is van een man die niet gezond en is.</l></sp>
+<sp>
+<speaker><hi rend="sc">Narticoforus</hi>.</speaker>
+<l>Heel goet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Bartrand</hi>.</speaker>
+<l rend="; 1tab">Se slaad, se slaad al vry, al vry stijfachtig.</l>
+<l>Om niet te zeggen stijf.</l></sp>
+<sp>
+<speaker><hi rend="sc">Narticoforus</hi>.</speaker>
+<l rend="; 5tab">Dat raadje wel, waarachtig.</l></sp>
+<sp>
+<speaker><hi rend="sc">Bartrand</hi>.</speaker>
+<l>Ze stoot weerom.</l></sp>
+<sp>
+<speaker><hi rend="sc">Narticoforus</hi>.</speaker>
+<l rend="; 3tab">Zoo ist.</l></sp>
+<sp>
+<speaker><hi rend="sc">Bartrand</hi>.</speaker>
+<l rend="; 6tab">Ze huppelt heen en weer.</l></sp>
+<sp>
+<speaker><hi rend="sc">Narticoforus</hi>.</speaker>
+<l>Dats recht.</l></sp>
+<pb n="46"/>
+<sp>
+<speaker><hi rend="sc">Bartrand</hi>.</speaker>
+<l rend="; 2tab">Pareuchyma, de mild die doet u zeer.</l></sp>
+<sp>
+<speaker><hi rend="sc">Narticoforus</hi>.</speaker>
+<l>Optime.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 1tab">Florentijn zey dat al mijn gebreeken.</l>
+<l>Niet inde mild, o neen, maar in de leever steeken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Narticoforus</hi>.</speaker>
+<l>Pareuchyma dat is het een zoo wel als 't aar,</l>
+<l>De leever en de mild, die leggen by elkaar,</l>
+<l>En zijn door buurschap zoo medogent met elkander,</l>
+<l>Dat zoo der een lijt, voort zoo lijt ook straks den ander.</l>
+<l>Beveelt den Doctor u niet dagelijks gebraad</l>
+<l>Om te eeten?</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 3tab">Neen mijn Heer, als ik doe na zijn raad,</l>
+<l>Eet ik gekookte kost.</l></sp>
+<sp>
+<speaker><hi rend="sc">Narticoforus</hi>.</speaker>
+<l rend="; 4tab">Gezooden of gebraaden,</l>
+<l>Dat is al eeven veel, hy komt u 't beste raaden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Maar hoe veel korlen zout vereyst een Ey mijn Heer?</l></sp>
+<sp>
+<speaker><hi rend="sc">Narticoforus</hi>.</speaker>
+<l>Maar zes, of acht, of tien, of twalef en niet meer.</l>
+<l>'t Getal moet eeve zijn of 't zou kwaad voetzel geeven.</l>
+<l>Maar met de pillen moet het altijd zijn oneeven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Tot weder ziens mijn Heer, gy hebt hier nu gedaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Bartrand</hi>.</speaker>
+<l>Vaar tweede Vader wel.</l></sp>
+<sp>
+<speaker><hi rend="sc">Narticoforus</hi>.</speaker>
+<l rend="; 5tab">Vaar wel mijn Heer, wy gaan.</l></sp></div>
+<div type="scene">
+<pb n="47"/>
+<head rend="h4">Zeevende tooneel.</head>
+<stage><hi rend="sc">Manshart</hi> en <hi rend="sc">Anna</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>PApa, Helena stond daar met een man te praaten,</l>
+<l rend="; 1tab">Maar toen hy my zag, heeft hy haar terstond verlaaten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mamshart</hi>.</speaker>
+<l>Een man, een man, is 't waar? Mama Lief kan 't geschien?</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Alet, uw Dochter, heeft hem neevens my gezien.</l>
+<l>Die was ook by haar, gy kund haar eens onder vraagen.</l>
+<stage><hi rend="i">Binne</hi>.</stage></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Zend haar by my. Heeft zy haar daarom zoo gedraagen?</l>
+<l>Ha, dat zal de oorzaak zijn van dat zy haare hand,</l>
+<l>Niet uyt wou steeken om te trouwen met Bartrand.</l></sp></div>
+<div type="scene">
+<head rend="h4">Achste Tooneel.</head>
+<stage><hi rend="sc">Manshart</hi> en <hi rend="sc">Alet</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Alet</hi>.</speaker>
+<l>KAn ik Papa Lief nu in 't een of 't aar behaagen?</l>
+<l rend="; 2tab">Mama zey dat Papa my yts hadde af te vraagen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Kom hier en slaa uw oog eens op my, zie my aan,</l>
+<l>Kunt gy Alet, wat gy my zeggen moet niet raan?</l></sp>
+<sp>
+<speaker><hi rend="sc">Alet</hi>.</speaker>
+<l>Ik wil Papa Lief om uw ziekte te verlichten,</l>
+<l>Zoo wel wat sprookjens of wat raadzeltjens verdichten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Daar vraag ik u niet na, weet jy niet anders?</l></sp>
+<sp>
+<speaker><hi rend="sc">Alet</hi>.</speaker>
+<l rend="; 3tab">Neen.</l></sp>
+<pb n="48"/>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>O jou slim prijtje, o jy, jy weet wel wat ik meen.</l>
+<l>Zie dat klein pinkje, dat en kan je niet bedriegen.</l>
+<l>Zeg op al watje weet, maar maakme niet te liegen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Alet</hi>.</speaker>
+<l>Vergeef het my Papa.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 4tab">Gehoorzaamt dan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Alet</hi>.</speaker>
+<l rend="; 8tab">Ik zal.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Heb ik u niet belast dat gy my al en al</l>
+<l>Wat gy maar zaagt, aan my voort kennis zoude geeven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Alet</hi>.</speaker>
+<l>O ja.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 1tab">Bedenkje wel, heb jy dan niet misdreeven?</l></sp>
+<sp>
+<speaker><hi rend="sc">Alet</hi>.</speaker>
+<l>O neen Papa, ik zeide u altijd wat ik zag.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Kom zeg, wat zagje van je Zuster deeze dag.</l></sp>
+<sp>
+<speaker><hi rend="sc">Alet</hi>.</speaker>
+<l>Ik zag niet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 2tab">Niet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Alet</hi>.</speaker>
+<l rend="; 3tab">O neen!</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 6tab">Kom, kom, ik wil u zweeren.</l>
+<l>Dat deeze gard van daag u noch zal klappen leeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Alet</hi>.</speaker>
+<l>Och, och! Papa Lief och!</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 7tab">Kom jou geveinsde pry.</l></sp>
+<sp>
+<speaker><hi rend="sc">Alet</hi>.</speaker>
+<l>Mijn lieste Paatje Lief.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 5tab">Zal jy zoo liegen, jy.</l></sp>
+<pb n="49"/>
+<sp>
+<speaker><hi rend="sc">Alet</hi>.</speaker>
+<l>Ik bid u Paatje Lief, ey wilt het my vergeeven,</l>
+<l>Ik zalt niet weer doen, 'k zal 't niet weerdoen van mijn leeven.</l>
+<l>Gena Papa. Maseur die had het my verboon.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Alet, de gard alleen maakt deeze misdaad schoon.</l></sp>
+<sp>
+<speaker><hi rend="sc">Alet</hi>.</speaker>
+<l>Gena, gena, gy zult, gy zult het alles weeten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Neen eerst gegeezelt, want dat mocht ik aars vergeeten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Alet</hi>.</speaker>
+<l>Mijn zoete Paatje Lief gena, gena, gena.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Ik zal genadig zijn, maar voel eerst hoe ik sla.</l></sp>
+<sp>
+<speaker><hi rend="sc">Alet</hi>.</speaker>
+<l>O my! ô my! ik sterf, ey my.</l>
+<stage><hi rend="i">Zy zegd als dood</hi>.</stage></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 2tab">Wat wil dit weezen?</l>
+<l>Sta op Alet, sta op, och ik begin te vreezen.</l>
+<l>Aletje Lief mijn kind kund gy my niet verstaan.</l>
+<l>Ik ongelukkige ik, ach wat heb ik gedaan.</l>
+<l>Vervloekte gard moest gy mijn jongste dochter dooden.</l>
+<l>Barbaar, wreedaardige, 'k heb u niet meer van nooden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Alet</hi>.</speaker>
+<l>Papa ey schrey niet meer ik ben pas hallef dood.</l>
+<l>De schrik is over, uw Alletje heeft geen nood.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Kom mijn kleyn kleutertje 'k zal u dat nu vergeeven,</l>
+<l>Zoo jy my alles zegt, wat datter is bedreeven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Alet</hi>.</speaker>
+<l>'k Beloof het u Papa.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 1tab">Dat jy jou niet bedriegt,</l>
+<l>Dit pinkje weet het al, maak datje maar niet liegt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Alet</hi>.</speaker>
+<l>Maar zeg het tog niet aan mijn Suster.</l></sp>
+<pb n="50"/>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 6tab">Wil beginnen:</l>
+<l>Ik zalt niet zeggen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Alet</hi>.</speaker>
+<l rend="; 5tab">Hoor Papa, hoor ik kwam binnen</l>
+<l>In 't kamertje van ons Heleen, daar was een Heer,</l>
+<l>Ik vraagde wie hy was, hy zey my, kind ik leer</l>
+<l>Uw Suster Franz.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 4tab">Hier leyd den haaz. Laat hooren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Alet</hi>.</speaker>
+<l>Toen kwam mijn Suster in vol gramschap en vol tooren.</l>
+<l>Zy zey ga heen, ga heen, vertrek ik bid u ga,</l>
+<l>Of by mijn Vader raak ik heel in ongena.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Wel ging hy?</l></sp>
+<sp>
+<speaker><hi rend="sc">Alet</hi>.</speaker>
+<l rend="; 3tab">Neen, zy kon hem zoo niet kwijt geraken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Wat zey hy?</l></sp>
+<sp>
+<speaker><hi rend="sc">Alet</hi>.</speaker>
+<l rend="; 3tab">O hy sprak van honderd fraje zaaken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Wel wat nog meer?</l></sp>
+<sp>
+<speaker><hi rend="sc">Alet</hi>.</speaker>
+<l rend="; 5tab">Maar hoor, hy zey haar dit en dat.</l>
+<l>Ja dat hy haar zoo lief, gelijk zijn zelve hadt.</l>
+<l>Ook zey hy dat zy was de schoonste van den landen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>En toen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Alet</hi>.</speaker>
+<l rend="; 1tab">Toen knielde hy en kuste haare handen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Wat meer?</l></sp>
+<sp>
+<speaker><hi rend="sc">Alet</hi>.</speaker>
+<l rend="; 2tab">Toen kwam Mama vlak voor de kamer staan.</l></sp>
+<pb n="51"/>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Wat deed hy toen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Alet</hi>.</speaker>
+<l rend="; 1tab">Papa, toen is hy weg gegaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Maar zag jy anders niet?</l></sp>
+<sp>
+<speaker><hi rend="sc">Alet</hi>.</speaker>
+<l rend="; 2tab">O neen ter goeder trouwen</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Jy hebt noch wat gezien dat heb jy digt gehouwen.</l>
+<l>Mijn pinkje weet het, maak dat jy my niet bedriegt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Alet</hi>.</speaker>
+<l>Dan zeg ik Paatje Lief, dat jou kleyn pinkje liegt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Pas op, ik waarschou u.</l></sp>
+<sp>
+<speaker><hi rend="sc">Alet</hi>.</speaker>
+<l rend="; 2tab">Papa 'k heb niet versweegen.</l>
+<l>Al wat ik wist, daar heb jy kennis van gekreegen.</l>
+<stage><hi rend="i">Binnen</hi>.</stage></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Wel wel, wy zullent zien, pas op, gy moogt wel gaan.</l>
+<l>Wat wortme al moeylijkheit en onrust aangedaan.</l>
+<l>Daar elk gestaadig my de herzenz me komt krenken.</l>
+<l>Ik heb geen tijt om aan mijn kwaalen eens te denken.</l></sp></div>
+<div type="scene">
+<head rend="h4">Negende tooneel.</head>
+<stage><hi rend="sc">Manshart</hi> en <hi rend="sc">Boudewyn</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>HOe gaat het Broeder u?</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 2tab">Ach Broeder Boudewijn.</l>
+<l>Och ik ben heel niet wel, vol ziekte, smert en pijn.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Hoe Broeder heel niet wel?</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 1tab">Ik ben zoo vol gebreeken.</l>
+<pb n="52"/>
+<l>Ik ben zoo flauw, zoo swak, ja ik kan nauwlijks spreken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>O dat is moeyelijk ik kwam hier om eens van</l>
+<l>Een Huwelijk met u te spreeken 'k weet een Man,</l>
+<l>Voor Nicht Helena.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 1tab">Broer, ik wil van haar niet hooren</l>
+<l>Dat stoute stukke vlees verdient mijn haat en tooren,</l>
+<l>Die Voddemoer, die Pry die Hoer na allen schijn,</l>
+<l>Zy zal in 't Klooster of ik zal geen Manshart zijn.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>'t Gaat wel, ik ben verheugd, gy neemt weer toe in kragten.</l>
+<l>Mijn aanspraak komt uw pijn en lijden wat verzagten.</l>
+<l>Wy sullen flus daar van wel spreeken met meer klem.</l>
+<l>Ik breng die Juffer mede om door haar zoete stem,</l>
+<l>Al uw melankoli zoo wat te diverteeren,</l>
+<l>'t Zal u meer goet doen als dry Bagotijns scklisteeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Ik moet op mijn gemak, ik ben wat teer van oor,</l>
+<l>Het zal ook best zijn dat ik haar van verre hoor.</l></sp>
+<div type="scene">
+    <interpGrp> <interp type="song" value="moli015inge01_0001"/> </interpGrp>
+<head>Zang.</head>
+<l>I<hi rend="i">K zing van de Liefde die 't al heeft bewoogen</hi>.</l>
+<l rend="; 1tab"><hi rend="i">En zijn groot vermoogen</hi>.</l>
+<l rend="; 1tab"><hi rend="i">Ik zing</hi></l>
+<l rend="; 1tab"><hi rend="i">Zijn vermoogen</hi>.</l>
+<l rend="; 1tab"><hi rend="i">Het beste op aarde is Liefde, en ook haar zoete vreugd</hi>,</l>
+<l rend="; 1tab"><hi rend="i">Geen eer, hoe verheven</hi>,</l>
+<l rend="; 1tab"><hi rend="i">Noch Rikdommen, geven</hi></l>
+<l rend="; 1tab"><hi rend="i">Dat de Liefde geeft</hi>,</l>
+<l rend="; 1tab"><hi rend="i">Daar het al door leeft</hi>.</l>
+<l>&#160;</l>
+<l><hi rend="i">Ouwe kouwe Grysaards, denk eens aan uw jonge tijd</hi>,</l>
+<l rend="; 1tab"><hi rend="i">Gunt uw Kinders ook de vreugd</hi>,</l>
+<l rend="; 1tab"><hi rend="i">Die zoo zoet was in uw jeugd</hi>,</l>
+<l rend="; 1tab"><hi rend="i">Ouwe Grysaards, wie gy zijt</hi>,</l>
+<l rend="; 1tab"><hi rend="i">Denk eens aan uw jonge tijd</hi>,</l>
+<l rend="; 1tab"><hi rend="i">Eer de Liefde, 't u verwijt</hi>.</l></div></div></div>
+<div type="act">
+<pb n="53"/>
+<head rend="h3">Derde bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Manshart, Boudewyn</hi> en <hi rend="sc">Tryntje</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Die Zang, Heer Broeder, zal u meerder refrisseeren,</l>
+<l rend="; 1tab">Als tien Purgatien of kladdige Klisteeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Een goe Purgatie, Broer, is goet die maakt my fris.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>En my dunkt dat de Zang voor u veel beeter is.</l>
+<l>Laat ons nu spreeken van 't geen ik had voorgenomen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Ik bid u wacht wat, Broer, ik zal haast weder komen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Mijn Heer, wel gy vergeet uw stok, wat gaat u aan.</l>
+<l>Terwijl gy zonder stok onmogelijk knnt gaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Gy hebt gelijk kom ras, dat had ik schoon vergeeten.</l>
+<l>Jy moet gestaadig dat ik Ziek ben my doen weeten.</l></sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Boudewyn</hi> en <hi rend="sc">Tryntje</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Heer Boudewijn hebt gy geen deerenis noch smert,</l>
+<l rend="; 1tab">Met uw lief Nichje, zult gy dat jong jeugdig hert</l>
+<l>Zoo aan de driften van haar Vader overgeeven?</l>
+<l>Die haar met die zy haat wil in den Echt doen leeven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Ik moet bekennen toen my eerst ter ooren kwam.</l>
+<l>Dat malle Huwlijk wierde ik moeilijk, valsch en gram.</l>
+<l>Ik zal niet rusten, maar met list en kracht voortzetten,</l>
+<pb n="54"/>
+<l>De hinderpaal die haar dat Huwlijk zal beletten.</l>
+<l>'K heb hem van Ferdinand ook reets gesprooken, Trijn,</l>
+<l>Hy leend geen ooren, daarom zal het noodig zijn,</l>
+<l>Dat wy Bartrant die gek eerst haatlijk by hem maaken,</l>
+<l>Maar daar is werk aan vast eer wy daar toe geraaken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>'t Is waar uw Broer blijft vast op zijn gevoelen staan.</l>
+<l>Maar ik heb yts bedacht en daar door zal het gaan,</l>
+<l>Indien het wel gelukt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l rend="; 1tab">Maar zeg wat zal dat weezen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>'K zal van die zotterny hem in het kort geneezen?</l>
+<l>Ik heb bedagt daar moet een and're Doctor zijn,</l>
+<l>Die strijdig in de Konst is met Heer Florentijn,</l>
+<l>Die ik het alles zal ondekken, die zal maaken</l>
+<l>Dat Doctor Florentijn haast uit zijn gunst zal raaken.</l>
+<l>Als hy als Doctor hier zal dienen dan zal 't gaan,</l>
+<l>Wie weet of het geluk ons zelf niet by zal staan.</l>
+<l>Maar eer hy hier komt die ik daar toe heb gekooren,</l>
+<l>Zal ik my zelf voor eerst als Doctor laaten hooren.</l>
+<l>'t Zal zulk een pots zijn.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l rend="; 2tab">Maar, hoe durfje dat bestaan?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>'K durf wel wat anders doen. Maar daar komt uw Broeder aan.</l></sp></div>
+<div type="scene">
+<head rend="h4">Darde tooneel.</head>
+<stage><hi rend="sc">Manshart</hi> en <hi rend="sc">Boudewyn</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>HEer Broeder, 'k heb een beede eer wy van onze saken</l>
+<l rend="; 1tab">Noch spreeken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 2tab">Wat is dat?</l></sp>
+<pb n="55"/>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l rend="; 2tab">'t Zal uw geduld meest raaken.</l>
+<l>Hoor met geduld toch wat ik zeggen zal.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 3tab">Heel goet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Vlieg ook niet op als gy gemeenlijk wel doet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Wel dat beloof ik u.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l rend="; 1tab">Ook dat gy op mijn vraagen,</l>
+<l>U heel zagtmoedig en gemaatigt zult gedraagen.</l>
+<l>En ook ordentelijk antwoorden op mijn reen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Waar toe die voorwaarde ik ben daar wel mee te vreen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Van welk een booze geest word Broeder toch gedreeven,</l>
+<l>Die hem zijn kind dwingt, aan een Doctor uit te geven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Van zulk een geest die my verklaaren komt hoe dat</l>
+<l>Elk in mijn Huis moet doen zoo als ik alles vat.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Een Doctor, dat zal zijn een moorder van uw leeven,</l>
+<l>Die u om al uw goed haast te erven zal vergeeven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Niet beter voegt my als een Doctor onder dak.</l>
+<l>Mijn dochter hoorde ook om haar Vaders ongemak</l>
+<l>Vrywillig Heer Bartrant te kiezen, ja verzeeker.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Uw tweede dochter geeft gy dan licht een Apteeker.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Wel waarom niet, ik meen dan had ik wel gedaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Ik sweer u Broer ik kan die grillen niet verstaan.</l>
+<l>Gy hoord voor Doctors en Apteekers steets te vreezen.</l>
+<l>Gy tracht in spijt van u gezontheit Ziek te weezen.</l></sp>
+<pb n="56"/>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Wat wil dat zeggen Broer.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l rend="; 3tab">Dat gy niet Ziek zijt Heer.</l>
+<l>Gy zijt gezond en fris ik wenste nimmermeer,</l>
+<l>Om meer gezondheit àls gy hebt. En tot een teeken,</l>
+<l>'k Laat uw Klisteeren en Purgeeren voor my spreeken.</l>
+<l>Waar van je een laading van een heel Oostindisch Schip</l>
+<l>Draegd in uw buyk, gy zijt zoo hart gelijk een Klip,</l>
+<l>Of anders waart gy lang geborsten, 'k wil u sweeren,</l>
+<l>Dat gy haast sterven zult door al dat Doctoreeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Heel anders spreekt mijn Heer den Doctor Florentijn,</l>
+<l>'k Zou zonder zijne hulp al lang gesturven zijn.</l>
+<l>Ha dat Purgeeren en Klisteeren doet my leeven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Tot hy in 't kort u zal voor eeuwig gaan begeeven.</l>
+<l>Jou Doctors Martelaar.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 2tab">Hoe sla jy geen geloof,</l>
+<l>Dan in de Doctory.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l rend="; 1tab">Ik ben aan dat oor doof.</l>
+<l>Al wie daar in gelooft sterft daaglijks duuzend dooden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Ik zeg de Doctory heeft yder een van nooden.</l>
+<l>Een Konst voortreffelijk die t'alles doet bestaan.</l>
+<l>Indien die dood was, wel de Waereld zou vergaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Geen Gogelaar doet uyt de maatzak zulke greepen,</l>
+<l>Als veel Doctoren, o zy hebben looze kneepen.</l>
+<l>Die zotterny gaat ver dat iemand onderneemd,</l>
+<l>Een Zieke door de Kunst te helpen, 't is te vreemd.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Hoe Broer kan de eene mensch dan de and're niet geneezen?</l></sp>
+<pb n="57"/>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Indien het mooglijk was Heer Broeder dan mocht weezen.</l>
+<l>Maar 't maakzel van ons lijf en zijn beweegen is,</l>
+<l>Tot noch toe onbekent, zy raaden alle mis.</l>
+<l>De Doctors zijn zoo blind als Mollen, en zy wenschen</l>
+<l>Niet anders als maar om het licht geloof der menschen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Maar als me Ziek is Broer wat dienter dan gedaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Dan laat men de Natuur in alle ding begaan.</l>
+<l>Want kan ons de Natuur ontstellen 't kan ook weezen,</l>
+<l>Dat de Natuur weer kan herstellen en geneezen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Maar kan de Kunst Natuur somtijds niet helpen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l rend="; 2tab">Neen.</l>
+<l>Het is daar ver van daan de Doctors in 't gemeen,</l>
+<l>Beletten door haar Konst de werking der Natuuren.</l>
+<l>Ik hebber veel gekent die sturven door haar kuuren.</l>
+<l>Die nu noch leefde fris gezond, en wel gedaan,</l>
+<l>Zoo zy het op Natuur maar hadden laaten staan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Hoe derf jy zeggen dat de Doctors niet veel weeten?</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>O neen zy worden meest voor schrandere versleeten.</l>
+<l>Zy kennen meeste part haar Waereld, zy zijn fijn,</l>
+<l>Zy zijn geleerden loos, zy spreeken goet Latijn.</l>
+<l>De Ziektens noemen zy in 't Grieks als wijze Grieken,</l>
+<l>Haar oorspronk en haar eind voorzeggen zy de Zieken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Hoe komt dan Broeder dat meest alle menschen zijn</l>
+<l>Van mijn verstand?</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l rend="; 1tab">Dat komt de meeste door de schijn</l>
+<l>Van waarheit laaten haar graag van't verstand berooven.</l>
+<l>Al wat men gaaren hoord dat kanmen licht gelooven.</l>
+<pb n="58"/>
+<l>De Doctory is vry pluysirig, die gevalt:</l>
+<l>Wanneer een Doctor zoo wat koozeld, zoo wat kalt,</l>
+<l>Van 't bloed te zuyveren, van 't herte te versterken,</l>
+<l>Van de ingewanden te verkoelen, dan te werken,</l>
+<l>Om al de hitte die de Leever licht verteert,</l>
+<l>Te maatigen, op dat die word geconserveert.</l>
+<l>De Borst verzagt, de Mild verlicht van vinnig steeken.</l>
+<l>Die dat dan vleyent en lieftaalig uyt kan spreeken.</l>
+<l>Vermaakt zoo de ooren van de Zieken, daar zy vaak</l>
+<l>Vertellingen by doen, elk Doctor is een snaak.</l>
+<l>Doch dit is anders niet als maar vermaaklijk droomen,</l>
+<l>Alwaar de Zieken geen meer voordeel van bekoomen,</l>
+<l>Als het berouw van wat gedroomt te hebben past,</l>
+<l>Daar 's aan geen Doctor of zijn Doctery meer vast.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Gy Broeder zijt in 't kort al heel geleerd geworden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>De Doctors zijn twee zans al zijn zy in een orde:</l>
+<l>In 't zeggen en in 't doen, in 'r zeggea, ik ga rond.</l>
+<l>Wanneer zy spreeken spreekt de wijsheit uit haar mond.</l>
+<l>'t Zijn gaauwe mannen en doorluchtige verstanden;</l>
+<l>Maar in het doen helaas zijn 't kinderen 't is schanden.</l>
+<l>Haar weetenschap is maar een opgesmukte praat,</l>
+<l>Of een gerabbel dat geen denkbeeld na zig laat.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mamshart</hi>.</speaker>
+<l>'t Zijn vuyle menschen die de Medicijne krenken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Daar zijn ook Doctors die zoo bot zijn datze denken,</l>
+<l>Niet anders of haar Kunst is waarheit en geen schijn.</l>
+<l>Maar daar zijn Doctots, die wel weeten watze zijn.</l>
+<l>Die onder schijn van hulp, met Zieken raad te geeven,</l>
+<l>Maar denken hoe zy zelf, daar door gemakkelijk leeven.</l>
+<l>Maar Doctor Florentijn Heer Broeder die is goet.</l>
+<l>Die is van buyten en van binnen Doctor bloed.</l>
+<l>Het is al Doctor, maar met weinig weetenschappen.</l>
+<l>By al de onnoozelen mag hy voor aan wel stappen.</l>
+<l>In reegels van zijn Kunst steld hy meer zeekerheit,</l>
+<pb n="59"/>
+<l>Als in de Wiskunst, denk aan zulk een bescheit.</l>
+<l>Hy Laat, Purgeert, Klisteert en doet al zulke grillen.</l>
+<l>Maar weet niet watze zijn of watze zeggen willen.</l>
+<l>Gy zijt een Lijk in 't kort zoo gy hem laat begaan.</l>
+<l>Maar zoo heeft hy zijn Vrouw en Kinderen gedaan,</l>
+<l>En zalt zig zelf ook doen als hy het goet zal keuren.</l>
+<l>Daar zijnder veele die zijn Doctory betreuren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Gy spreekt uyt loutre haat Heer Broeder dat is mis.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Daar is het ver van daan ik spreek gelijk het is.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Was hier een Doctor gy zoud wel haast anders spreeken.</l>
+<l>Gy zoud dat lasteren en smaaden laaten steeken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Ik spreek maar tusschen ons, 'k heb met de Doctorschap</l>
+<l>Geen kwetsti, ver daar af, die laat ik in de kap.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Ik bid u Broeder wil u met geen Doctors moeyen,</l>
+<l>Want u te hooren doet mijn Krankheit grooter groeyen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Ik ben te vreen, maar 'k wensch dat gy eens met vermaak,</l>
+<l>Zaagd een Komedie van Moljeeren daar deez zaak</l>
+<l>Van de Doctoren word verhandelt, 't zou u baaten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Hoor Broer Moljeere had dat ook wel moogen laaten,</l>
+<l>Het voegd niet datmen voert die Heeren elk ten spot,</l>
+<l>Op het Tooneel als op een eerelijk Schavot.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Men ziet op het Tooneel van alderhande zoorten,</l>
+<l>Men zieter Koningen en Princen, wiens geboorten</l>
+<l>Zoo goed en van zoo goeye huy ze zijn als zy.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Was ik een Doctor Broer zy raakten zoo niet vry.</l>
+<l>Want wierden zy eens Ziek ik zou het hun verleeren.</l>
+<l>'k Zou hen niet helpen, maar met blijdschap uit zien teeren.</l>
+<pb n="60"/>
+<l>Ja zeker geen Klisteer wierd van my geordoneert.</l>
+<l>'k Zou zeggen barst en sterf onwaardig geklisteert.</l>
+<l>Ik zou my over hen, en hunne stoutheit wreeken,</l>
+<l>Dat geen Comediant zou namaals van my spreeken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Comedianten Broer die schuwen dat gevaar,</l>
+<l>Zy zien een Doctor aan maar voor een Moordenaar.</l>
+<l>En zoo zy somtijts aan een Kelderkoors geraaken,</l>
+<l>Zy weeten heel goet koop haar weer gezont te maaken.</l>
+<l>Met vasten, dat haar beurs en lijf maakt goet en groot.</l>
+<l>En zoo zy sterven wel elk sterft zijn eige dood.</l></sp></div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Manshart, Boudewyn</hi> en <hi rend="sc">Bagotyn</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Bagotyn</hi> <hi rend="i">Met een Klisteer</hi>.</speaker>
+<l>HEer Manshart maak u ree ik moet u voort Klisteeren,</l>
+<l>Den Doctor Florentijn komt u dit ordonneeren.</l>
+<l>Berey u met ter haast, 'is maar een kleyn Klisteer.</l>
+<l>Het is van passe warm kom repje repje Heer.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Hoe Broer wat wilje doen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 2tab">Ik bid u wil vertoeven.</l>
+<l>'t Is datelijk gedaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l rend="; 1tab">Dat zal zoo net niet hoeven.</l>
+<l>Ist ernst, hoor Bagotijn vertrek met uw Klisteer.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Apteeker Bagotijn kom t'avond liever weer.</l></sp>
+<sp>
+<speaker><hi rend="sc">Bagotyn</hi>.</speaker>
+<l>Ziet voor u wat gy doet, wil my toch niet beletten.</l>
+<l>Laat onverhiudert die Klisteer uw Broedet zetten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>'t Is uw gewoonte niet dat kan ik wel vermoen.</l>
+<pb n="61"/>
+<l>In 't aangezicht met een te spreeken van fatzoen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Bagotyn</hi>.</speaker>
+<l>Wat wil jy zeggen met dat aange zicht laat hooren?</l>
+<l>Wy Apoteekers staan gelijk met de Doctoren.</l>
+<l>Alwaar wy komen gaan wy nimmermeer te loor.</l>
+<l>Hier laat gy op uw hals de haat van uw Doctoor.</l>
+<l>Ik gaat hem zeggen, hoot Heer Manshart wilt vertrouwen.</l>
+<l>Het zal u in het kort maar al te laat berouwen.</l>
+<l>Gy zult, gy zult het zien wat dat gy nu bestaat.</l>
+<stage><hi rend="i">Binne</hi>.</stage></sp></div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Boudewyn</hi> en <hi rend="sc">Manshart</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>ACh Broeder gy alleen zijt oorzaak van dit kwaad.</l>
+<l rend="; 1tab">Dat Doctor Florentijn tot gramschap zal verwekken,</l>
+<l>Wanneer hy 't hoord dat ik de Apteeker deed vertrekken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Heer welk een swaarigheit, wel Broer wat gaat u aan?</l>
+<l>Heer Florentijn word boos, wat heb jy al misdaan.</l>
+<l>Hy had het geordoneert. Maar zalt nooit mooglijk weezen,</l>
+<l>De Doctor Ziekten in uw Broeder te geneezen.</l>
+<l>Gy maakt uw lichaam tot een Doctors vullis kar</l>
+<l>Met dat Purgeeren en Klisteeren, 't gaat te var.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Mijn lieve Broer gy praat als de gezonde menschen.</l>
+<l>Maar waard gy in mijn plaats gy zoud niet anders wenschen,</l>
+<l>Ja graager zijn als ik om geklisteert te zijn.</l>
+<l>Want het Purgeeren en Klisteeren mindert pijn.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Ik wll uw zotterny Heer Broeder niet meer laaken.</l>
+<pb n="62"/>
+<l>Maar apropo om op mijn oude text te raaken,</l>
+<l>Uw Dochter is vry meer als alle Doctors waard,</l>
+<l>'k Spreek voor een die haar staat in alles evenaard.</l>
+<l>Die haar veel beeter als Bartrant zal vergenoegen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>My niet, 'k heb haar verlooft daar moet zy haar na voegen.</l>
+<l>Of tot het Klooster.</l></sp>
+<sp>
+<speaker><hi rend="sc">Broer</hi>.</speaker>
+<l rend="; 1tab">Broer dat komt uw Wijf u raan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Ik docht wel dat mijn Wiif 't al weeder had gedaan.</l>
+<l>'t Is vreemd dat gy zoo lang van haar hebt stil gesweegen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>'k Heb ongelijk zy is uw Kinders heel geneegen.</l>
+<l>Maar om als Nonnen haar in 't Klooster te doen gaan.</l></sp></div>
+<div type="scene">
+<head rend="h4">Sesde tooneel.</head>
+<stage><hi rend="sc">Florentyn, Manshart</hi> en <hi rend="sc">Boudewyn</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Florentyn</hi>.</speaker>
+<l>WEl Manshart is het waar, wat doetme my verstaan?</l>
+<l rend="; 1tab">Zijt gy onwillig om dat ik kom ordoneeren</l>
+<l>Voort te gebruyken, en veracht gy het Klisteeren.</l>
+<l>'t Was een Klisteer die ik zorgvuldig had gemaakt,</l>
+<l>En met plyzier, ô smaat word die van u gewraakt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>O neen, maar van mijn Broer.</l></sp>
+<sp>
+<speaker><hi rend="sc">Florentyn</hi>.</speaker>
+<l rend="; 2tab">Zult gy my wederstreeven.</l>
+<l>Dat is een boosheit die 'k u nimmer zal vergeeven.</l>
+<l>Hoe een Klisteer weer om te zenden, ha wat hoon,</l>
+<l>Wel deeze misdaad die verdiend wel duuzend doon.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Dat is wel zeeker Heer.</l></sp>
+<pb n="63"/>
+<sp>
+<speaker><hi rend="sc">Florentyn</hi>.</speaker>
+<l rend="; 3tab">Wat zijt gy een ontaarde.</l>
+<l>Zoo dierbaar een Klisteer van zulk een groote waarde,</l>
+<l>Weerom te zenden, ha dat is een stout bestaan,</l>
+<l>Zoo 't niet gestraft word zal de Waereld haast vergaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Dat is waarachtig.</l></sp>
+<sp>
+<speaker><hi rend="sc">Florentyn</hi>.</speaker>
+<l rend="; 2tab">'t Is de Doctory verraden.</l>
+<l>'t Is onvetgeefelijk al badje om lijfs genaaden.</l>
+<l>'t Is Crimeleyes Majestratus, land verraad,</l>
+<l>Is op geen duuzend pond zoo swaar nog ook zoo kwaad.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Gy hebt gelijk.</l></sp>
+<sp>
+<speaker><hi rend="sc">Florentyn</hi>.</speaker>
+<l rend="; 1tab">Gy zoud in 't kort van uw gebreeken</l>
+<l>Gezuyvert zijn geweesl, nu blijf jy daar in steeken.</l>
+<l>Noch tien Purgatien, Klisteeren tweemaal tien</l>
+<l>Had gy noch maar van noode om u gezond te zien.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Hy is zoo veel niet waard.</l></sp>
+<sp>
+<speaker><hi rend="sc">Florentyn</hi>.</speaker>
+<l rend="; 4tab">Nu naad'ren vw elenden,</l>
+<l>Wat onbeleeftheit een Klisteer weer om te zenden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Heer Florentijn het is mijn schuld niet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Florentyn</hi>.</speaker>
+<l rend="; 5tab">Ha wat spijt.</l>
+<l>Hoe de gehoorzaamheit die gy my schuldig zijt</l>
+<l>Als Doctor, zult gy die zoo als met de voet treeden?</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Het is mijn schuld niet hoor ey luyster toch na reeden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Florentyn</hi>.</speaker>
+<l>'k Wil geen gemeenschap meer met u nu houden, bloed!</l>
+<l>Daar is het schrift, waar in ikaan mijn Neef mijn goed</l>
+<l>Gemaakt had, als hy met Helena zoude trouwen.</l>
+<l>Daar zijn de stukken ik wil u mijn woord niet houwen.</l></sp>
+<pb n="64"/>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Daar doe jy wel aan Heer.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 2tab">Broer, dat heb jy gedaan,</l>
+<l>Hier zijt gy de oorzaak van hoe zalt nu met my gaan?</l></sp>
+<sp>
+<speaker><hi rend="sc">Florentyn</hi>.</speaker>
+<l>'k Abandoneer u, ik verlaat u, 'k acht geen klaagen.</l>
+<l>Ik wil in 't minst of meest voor u geen zorg meer dragen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Vergeef het my ey spreekt met een bedaart gemoet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Florentyn</hi>.</speaker>
+<l>Ik geef u over aan de boosheit van uw bloed,</l>
+<l>Aan de baldadigheit van uw bedurve kragten,</l>
+<l>Zoo moet uw pijn en smert vermeerd'ren, nooit verzagten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Ey Doctor Florentijn gaa doch niet toornig heen,</l>
+<l>Laat komen de Klisteer al wasser meer als een.</l></sp>
+<sp>
+<speaker><hi rend="sc">Florentyn</hi>.</speaker>
+<l>Ik wil da! gy in 't kort zult ongeneeslijk weezen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Ik sterf ik ben om hals ey wil my eerst geneezen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Florentyn</hi>.</speaker>
+<l>Vallendeziekten zal u vallen doen in 't bet,</l>
+<l>Dan krijgje een teering die u in 't geraamte zet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Mijn Heer.</l></sp>
+<sp>
+<speaker><hi rend="sc">Florentyn</hi>.</speaker>
+<l rend="; 1tab">Van teering dan een krimping in de darmen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Mijn Heer gena, gena ik voel het al och armen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Florentyn</hi>.</speaker>
+<l>En van de krimping krijgje een buyk loop.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshert</hi>.</speaker>
+<l rend="; 3tab">Noch al meer.</l></sp>
+<sp>
+<speaker><hi rend="sc">Florentyn</hi>.</speaker>
+<l>Van Buykloop Roodeloop.</l></sp>
+<pb n="65"/>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 2tab">Gena mijn lieve Heer.</l></sp>
+<sp>
+<speaker><hi rend="sc">Florentyn</hi>.</speaker>
+<l>En van de Roodeloop de Waterzugt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 3tab">Och lacy!</l></sp>
+<sp>
+<speaker><hi rend="sc">Florentyn</hi>.</speaker>
+<l>En dan de pop'lezy, een eeuwige temtatie.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Heer Florentijn.</l></sp>
+<sp>
+<speaker><hi rend="sc">Florentyn</hi>.</speaker>
+<l rend="; 1tab">Dan een geraak theit die u moord.</l>
+<l>Dat zal de laatste zijn daar moetje dan me voord.</l>
+<l>Daar gy u zelf in stort door deeze zotternyen.</l>
+<stage><hi rend="i">Binnen</hi>.</stage></sp></div>
+<div type="scene">
+<head rend="h4">Zeevende tooneel.</head>
+<stage><hi rend="sc">Boudewyn</hi> en <hi rend="sc">Manshart</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>ACh 't is met my gedaan wat moet ik nu al lyen.</l>
+<l rend="; 1tab">Ik ben verlooren kan 't ontrijden noch ontgaan.</l>
+<l>De Doctory begint zijn handen al te slaan</l>
+<l>Aan my, om op het felst zig van die smaat te wreeken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Bedaar toch Broeder dat u iemant hoorde spreeken,</l>
+<l>Hy zou gelooven dat gy gek waard.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 2tab">'k Word al stijf.</l>
+<l>Ik voel een Magazijn vol Ziektens in mijn lijf.</l>
+<l>Die ryen vast te post, dan booven dan beneeden,</l>
+<l>Door 't heele lijf, ey zie hoe beeven al mijn leeden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Onnooz'le man, meent gy dat in een Doctors hand</l>
+<l>Ons leeven staat, ey Broer, ey opent uw verstand,</l>
+<l>Och daar hy u me drijgt zal hy zoo machtloos weezen,</l>
+<l>Om uyt te voeren als hy zijn zou in 't geneezen.</l></sp>
+<pb n="66"/>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>'k Ben ongeneezelijk, zoo zeyd hy, ô verdriet!</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Dats waar, maat 't is maar in vooroordeel anders niet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Ik ben verlaaten, och wat zal ik nu beginnen?</l>
+<l>Die Doctor kent mijn lijf van buyten en van binnen,</l>
+<l>Daar isser in de stadt voor my niet een zoo goed.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Maar ist nootzaaklijk datge een Doctor hebben moet?</l>
+<l>Wy zullen u'er een die beeter is beschikken.</l>
+<l>Een die zoo fors niet spreekt, die u niet zal verschrikken</l>
+<l>Met drygementen, een daar gy in geen gevaar,</l>
+<l>Door zijn zuld, een die u voorzigtig, konstig raar,</l>
+<l>Zal hand'len uw gebrek tot in de grond uytdelve.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Hy kende mijn natuur veel beeter als ik zelve.</l></sp></div>
+<div type="scene">
+<head rend="h4">Achste tooneel.</head>
+<stage><hi rend="sc">Manshart, Boudewyn</hi> en <hi rend="sc">Tryntje</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>DAar is een Doctor Heer die wou uspreeken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 2tab">My?</l>
+<l>Wat Doctor ist?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 1tab">Het is een van de Doctory.</l>
+<l>En hy gelijkt my zoo, ik schijn het zelf te weezen,</l>
+<l>Indien mijn Moeder niet was eerlijk, ik zou vreezen</l>
+<l>Dat het mijn Broeder was, die zy na Vaders dood</l>
+<l>Gekreegen had, maar hy 's niet wel als ik zoo groot.</l>
+<stage><hi rend="i">Binnen</hi>.</stage></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Zeg dat hy binnen komt. Heer Broeder ik zou gissen,</l>
+<l>Dat Doctor Florentijn hem zend, dat zal niet missen,</l>
+<pb n="67"/>
+<l>Op dat hy ons op nieuw vereenigt, 't is ook best,</l>
+<l>Want oorloog, haat en nijt is slimmer als de pest.</l>
+<l>'k Zal die geleegentheit my niet ontgleyen laaten,</l>
+<l>En niemand zal my dat beletten door schoon praaten.</l></sp></div>
+<div type="scene">
+<head rend="h4">Negende tooneel.</head>
+<stage><hi rend="sc">Manshart, Boudewyn</hi> en <hi rend="sc">Tryntje</hi> <hi rend="i">Als Doctor gek</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>SChoon ik 't geluk niet heb mijn Heer dat gy my kend,</l>
+<l rend="; 1tab">Zoo is het my gezegt van lieden hier ontrent,</l>
+<l>Als dat gy Ziek zijt, dies kom ik mijn dienst ofreeren.</l>
+<l>Het zy met Laaten, met Purgeeren of Klisteeren.</l>
+<l>Als Doctor, of al wat u zou van nooden zijn.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Bedriegt mijn oog my niet, waarachtig het is Trijn.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Mijn knegt staat aan uw deur ik ga hem order geeven,</l>
+<l>Dat hy de Zieken die ik hier heb opgeschreeven,</l>
+<l>Gaat zeggen dat zy wat vertoeven. Met verlof.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>'k Zeg dat het Trijn is Broer, wat dunkter u toch of?</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Waarom zou 't Trijn zijn, hoe durft gy dat vonnis strijken.</l>
+<l>Daar zijn veel menschen die malkanderen gelijken,</l>
+<l>Dat gebeurd daagelijks en dikmaals, 't is gemeen.</l>
+<stage><hi rend="i">Als Meyd</hi>.</stage></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Wats uw believen ben ik hier van nooden?</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 4tab">Neen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Riept gy my niet?</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 2tab">Wel neen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 3tab">Dan schort het aan mijn ooren.</l>
+<pb n="68"/>
+<l>Mijn ooren tuyten en dan kan ik niet wel hooren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Blijf, ziet de Doctor die u zoo gelijkt eens aan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Juffrouw ik kom. Mijn Heer ik moet na binnen gaan.</l>
+<stage><hi rend="i">Binnen</hi>.</stage></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Dat is een wond're zaak 't gaat mijn verstand te boven!</l>
+<l>Had ikze niet gelijk gezien 'k zou 't niet gelooven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Dats zulk een wonder niet, ziet het Verwarde Hof,</l>
+<l>Op de Comedie, want daar zieje 't zelfde, of</l>
+<l>Het Blyspel datze de Gelijke Tweeling heeten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>'k Docht 't waare sprookjens, of verdigzels van Poëten,</l>
+<l>Maar nu geloof ik het.</l></sp>
+<stage><hi rend="i">Als Doctor</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 2tab">Vergeef het my mijn Heer,</l>
+<l>Het is wat onbeleeft,</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 1tab">Ja wel nou dunkt me weer,</l>
+<l>'t Is onze Trijn, ô ja.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 1tab">Mijn Heer in alle hoeken,</l>
+<l>Des Waerels ga ik na vermaarde Zieke zoeken.</l>
+<l>Als Doctor reis ik door veel Koningrijken heen.</l>
+<l>En doe veel wonderen in dorpen en in Steên.</l>
+<l>'k Ben van die Doctors niet die hunne tijt verspillen,</l>
+<l>Met scheele Hoostpijn, of verkoutheit, dat ziin grillen.</l>
+<l>Of binne koorzen die ik my onwaardig ken.</l>
+<l>'t Zijn and're Ziektens Heer waar van ik Doctor ben.</l>
+<l>'t Zijn swaare Koorzen die door kou doen klappertanden.</l>
+<l>En dan het lichaam als een helze gloed verbranden.</l>
+<l>'t Zijn dappere benaauwde borsten, zijde wee.</l>
+<l>'t Zijn Peeperkoorzen, Jigt, daar Triom feer ik mee.</l>
+<l>'t Zijn Spaanze Koogels, die de neuzen weg doen steken.</l>
+<pb n="69"/>
+<l>Mijn Heer ik wensch wel dat gy alle die gebreeken</l>
+<l>Alleen had, en dat gy van alle Doctors hier,</l>
+<l>Verlaaten waard wat zou 't my zijn een groot plysier,</l>
+<l>Mogt ik u van al dat vervloekte kwaad geneezen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>'k Ben u verpligt mijn Heer dat zal niet noodig weezen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Gy ziet my stijf aan zeg hoe oud ziet gy my aan?</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Voor acht en twintig jaar gy zijt noch wel gedaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Ik ben ruym tneegentig.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 2tab">Dat zou me niet vertrouwen.</l>
+<l>Gy zijt een mooy out Man.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 3tab">Ik weet my jong te houwen,</l>
+<l>Door kracht van Kruyden, ja ik maak my zelve fris.</l>
+<l>Kom geeft uw pols, 'k zeg dat hy onverstandig is.</l>
+<l>Uw pols die kent my niet dat moet ik hem verleeren.</l>
+<l>Hy moet gehoorzaam zijn, zal ik u wel kureeren.</l>
+<l>Wie is uw Doctor Heer.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 2tab">'t Is Doctor Florentijn.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Die naam die ken ik niet 't zal geen wijs Doctor zijn.</l>
+<l>Ik vind hem hier niet staan daar deftige Doctoren</l>
+<l>Geteekent zijn, men zou, men zou wel van hem hooren.</l>
+<l>Indien hy wijs was, hoor laat voort die Doctor gaan.</l>
+<l>Hy heeft u zeekerlijk meer kwaad als goed gedaan.</l>
+<l>Daar zijnder beeter.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 1tab">Hy 's vermaard en word gepreezen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Dan stond zijn naam daar ook, het kan niet mooglijk weezen.</l>
+<pb n="70"/>
+<l>Wat zeyt hy dat u let? 'k heb haast, ey maakt het kort.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Veel zeggen dat het my hier in de Leever schort.</l>
+<l>Maar hy zeyd in de Milt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 3tab">Ik zeg dat is geloogen,</l>
+<l>Het schort u in de Long, al stond hy voor mijn oogen.</l>
+<l>Wat botten bok is dat.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 2tab">'k Ben bly dat ik dat weet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Smaakt het u ook niet wel, mijn Heer, al wat gy eet?</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Wel ja.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 1tab">Uw Long is Ziek wat mag die reekel praaten.</l>
+<l>Smaakt u de Wijn ook wel?</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 4tab">Verzeeker, uytermaaten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>De Long, maar droomt gy niet?</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 5tab">Ja dik wils tot mijn plaag.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>De Long, maar slaapje ook na den eeten?</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 7tab">Alle daag.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>De Long, de Long, de Long de Long zal u bederven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Och Broeder och de Long de Long zal my doen sterven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Wat zeyd hy dat gy meest moet eeten?</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 6tab">Maar gestooft.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Die Doctor is een gek en van 't verstant berooft.</l></sp>
+<pb n="71"/>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Veel vlees zop.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 2tab">Wat een gek.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 5tab">Potagie alle daagen.</l>
+<l>Veel Kalfs vlees, Hoenderen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 5tab">Hoe kan jy dat verdraagen?</l>
+<l>Wel wat een gek.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 3tab">En dan alle avond zonder fout,</l>
+<l>Veel ronde Pruymeu 't geen mijn lichaam open hout.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Die Doctor denk ik is in 't Lazarus huis gebooren.</l>
+<l>Wat gek is dat, my lust van hem niet meer te hooren.</l>
+<l>Ik ordoneer u, en gebruikt het zonder vrees,</l>
+<l>Heel goe graauw Erreten, gebrade runder vlees.</l>
+<l>Eedammer Kaas, en ook Kastainen zonder schroomen,</l>
+<l>die stoppen om daar door het roch'len voor te koomen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Ik bid u luyster Broer wat hy al ordoneert.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Dat zal u beeter zijn als dat gy weer Purgeert.</l>
+<l>Wat worde ik daar gewaar, wat zie ik, welke plaagen?</l>
+<l>Wat is dat?</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 1tab">Dats mijn arm.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 4tab">Waar moet jy die omdraagen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Wel dats een vreemde vraag.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 5tab">Ik zeg dat gy hem moet</l>
+<l>Afzetten, 't word vereist, en dat op staande voet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Maar waarom dat? ik schrik.</l></sp>
+<pb n="72"/>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 2tab">Ik zeg gy moet u spoeyen.</l>
+<l>Hy maakt dat de and're arm onmoog'lijk niet kan groejen.</l>
+<l>Hy trekt alt voetzel.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 1tab">Maar, dat doe ik niet, ô neen!</l>
+<l>Het scheeld de heele helft twee armen of maar een.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Gy moet op staande voet uw een oog uit doen steeken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Maar waarom dat ey zeg, wat komter aan te ontbreeken?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Gy zoud uyt 't ander oog dan eens zoo helder zien.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Ik dank u voor die raad, dat zal noch niet geschien.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Verschoon my Heer ik ga, 'k zal wel eens wederkeeren.</l>
+<l>'k Moet met veel Doctors gaan een doode visiteeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Hoe by een doode wel wat zal ik hier vermoen?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Om maar te zien wat datmen wel had konnen doen,</l>
+<l>Toen hy noch leefde om zijne Ziekte te geneezen.</l>
+<l>Zie in toekomende kan ons dat dienstig weezen.</l>
+<stage><hi rend="i">Binne</hi>.</stage></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Maar ik ley u niet uyt, een Zieke is vry daar van.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Wat dunkt u Broeder van die Doctor? dats een Man!</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Hy gaater stout me deur, hy laat hem lustig hooren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Zoo spreeken grooten en doorlugtige Doctooren.</l>
+<l>Het is een Doctor, wis van de aldereerste rang.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Hy 's niet plyzierig ik wierd op het laatst heel bang.</l>
+<l>Een arm afzetten en daar na een oog uytsteeken,</l>
+<pb n="73"/>
+<l>'k Dacht dat Medicament dat heeft my nooit geleeken.</l>
+<l>Ik wil geen een oog noch geen een arm zijn, dats vals.</l>
+<l>Ik dacht die Doctor brengt ter meenig om den hals.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Dat zijn de rechte en ook prijswaardige Doctoren,</l>
+<l>Die geen geveinstheit, maar de waarheit laaten hooren.</l>
+<l>Ik heb hem aangehoort met aandagt en met lust.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<stage><hi rend="i">Van binnen</hi>.</stage>
+<l>Alzoetjens Doctor zagt, ik bid u houd u rust,</l>
+<l>Beteugeld uwe lust en wil die moeyten spaaren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Wat schorter Trijn wat ist?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 2tab">Ik moet mijn eer bewaaren.</l>
+<l>De Doctor greep my na de borsten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 4tab">Is het waar?</l>
+<l>Wel dat is vremt een Man ontrent de hondert jaar,</l>
+<l>Dat die noch denken durft aan zulke geyle nukken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Wel nu de vrienschaps band is t'eenemaal aan stukken</l>
+<l>Met Doctor Florentijn, en 't schrift gescheurd is. dat</l>
+<l>Hy in het voordeel van zijn Neef geteekend had,</l>
+<l>Zoo geef die Heer gehoor daar ik u voor kwam spreken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Ik meen Helenain het Klooster te doen steeken.</l>
+<l>Dies spreekt daar nimmer van.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l rend="; 3tab">Ja ja ik docht het wel,</l>
+<l>Dat is op haar verzoek.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 1tab">Komt weer mijn Vrouw in 't spel.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Ja Broer ik meen haar, en ik kan het niet verdraagen,</l>
+<l>Gy tracht uw Wijf meer als uw Dochter te behaagen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Gy kent mijn Wijf niet Broer, het is een vrouw zoo goet,</l>
+<pb n="74"/>
+<l>Laat Trijntje zeggen wat al vriendschap zy my doet.</l>
+<l>Geen goetheit van een Vrouw is immer zoo beschreven.</l>
+<l>Zy sturf zoo ik sturf ja mijn leeven doet haar leeven.</l>
+<l>Zy vleid zy streeld my en ons gantsche huisgezin.</l>
+<l>Maakt ze op mijn wenken vlug door haar getrouwe Min.</l>
+<l>Dat gy haar liefde zaagt gy zoud het naauw gelooven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Heer Boude wijn haar trouw gaat alle trouw te booven.</l>
+<l>Laat ik uw Broeder daar een staaltje van doen zien.</l>
+<l>Geef my daar vryheit toe,</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 1tab">Wat zou'er dan geschien.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Laat my geworden hy zal haast heel anders praaten.</l>
+<l>Hy zal uw Vrouw als gy lief hebben en niet haaten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Maar Trijn wat wou jy doen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 1tab">Uw Vrouw kwam daatlijk in.</l>
+<l>Kom hier Heer Boudewijn, kom ras, en doe mijn zin.</l>
+<l>Versteek u in die hoek, en gy mijn Heer galeggen,</l>
+<l>Op deeze stoel, als of gy dood waart, ik zal zeggen,</l>
+<l>Dat gy gesturven zijt, dan zult gy zien de rouw,</l>
+<l>En liefde van die goe beminnelijke Vrouw.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Wel Trijn dat hebje wel, hoe kanjet zoo verzinnen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Leg stil daar komt u Vrouw.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 2tab">Wat zal ik nu beginnen?</l>
+<l>Ach ongelukkige, helaas wat gaat my aan.</l>
+<l>O schriklijk ongeluk, och och hoe zalt hier gaan.</l>
+<l>Hoe zal die tijding in mijn Vrouw haat ooren klinken.</l>
+<l>Ik zal elendig in mijn traanen noch verdrinken.</l>
+<l>Och! och! och! och! och! och!</l></sp></div>
+<div type="scene">
+<pb n="75"/>
+<head rend="h4">Tiende tooneel.</head>
+<stage><hi rend="sc">Anna, Boudewyn, Manshart</hi> en <hi rend="sc">Tryn</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l rend="; 2tab">Wel wat is hier geschied.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Och uw verlies is groot, ô hertzeer, ô verdriet.</l>
+<l>Mijn Heer uw goeje Man, och! och! die is gesturven.</l>
+<l>Ik was alleen by hem; helaas wy zijn bedurven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Is hy gesturven?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 1tab">Ja, och uw vetlies is groot,</l>
+<l>Uw overlede Man, Mevrouw, och die is dood.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>De Hemel zy gedankt nu ben ik eens ontslagen.</l>
+<l>Van zulken last, die my te lastig viel om draagen.</l>
+<l>Wel ben jy mal Trijn datje huyld jou zotte meyd.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>'t Is ommers de manier datmen de dôon beschreyd.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Is 't malligheit weg weg dat zal zoo net niet hoeven,</l>
+<l>Om zulk een Kaljebaard zal ik my niet bedroeven,</l>
+<l>Om zulk een Rochelpot en Hersenlooze bloed,</l>
+<l>Om zulk een Molik die ik trouwde om al zijn goed.</l>
+<l>Die anders niet deed als dat hy maar kwijlden knorden,</l>
+<l>Die ouwe kouwe gek ik zalder jong van worden,</l>
+<l>Ik lachme schier aan 't ent, hoe 's mijn geluk zoo groot,</l>
+<l>Ben ik die zagg'laar kwijt ha ha ha is hy dood?</l>
+<l>Die reets verrotten door 't Purgeeren en Klisteeren.</l>
+<l>Hy stonk als een privaat, ik zal de dood vereeren,</l>
+<l>Een lof gezang zoo lang ik leeven zal op aard,</l>
+<l>Gy zijt my Manshart nu, meer als in 't leeven waard.</l>
+<l>Dat out stuk stinkent vlees was my maar tot temtatie.</l>
+<l>Zijn leeven was mijn dood.</l></sp>
+<pb n="76"/>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 4tab">Dat is een Predikaatie.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Ik had het fleurtje van mijn jeugd, en frisse tijt</l>
+<l>Met hem alleenig maar vetsleeten om profiijt.</l>
+<l>Gy moet my helpen Trijn ik zal u wel beloonen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Zijt vry gerust ik zal mijn gunst u wel haast toonen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Nu niemant van zijn dood bewust is laat ons voort,</l>
+<l>Alt geld en 't beste goed vetsteeken daar 't behoord.</l>
+<l>Als dat geburgen is, laat ons dan 't lichaam leggen</l>
+<l>Opt bed, en van zijn dood noch teegens niemant zeggen</l>
+<l>Maar maaken dat hem daar een ander vind, dan ist</l>
+<l>Verborgen dat wy doen. De sleutel van sijn kist,</l>
+<l>Steekt in de rechter zak.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 4tab">Dats slings, ik zalze u geeven,</l>
+<l>Karonje, looze Hoer, jy hebt my braaf beschreeven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Och waar verberg ik my.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 5tab">Is dit jou liefde Hoer,</l>
+<l>Geveinsde en valsche Teef.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l rend="; 3tab">Wat zegje daar van Broer?</l></sp>
+<sp>
+<speaker><hi rend="sc">Anna</hi>.</speaker>
+<l>Och Man.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 2tab">Jou duivelin ik zal het zoo bestellen,</l>
+<l>Dat jy jou vingers aan mijn geld niet blaauw zult tellen.</l>
+<l>Vertrek</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 1tab">Is de overleeden Heer niet dood, ô dat is slegt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Bevind jy 't zoo niet Broer als ik u had gezegt.</l></sp>
+<pb n="77"/>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Och ja verzeeker Broer, kweet anders niet te zeggen.</l>
+<l>'t Zijn Hoere parten, dat is niet te wederleggen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Dat hadde ik nooit gelooft, ik ben bedroogen Heer.</l>
+<l>Daar komt uw Dochter, kom, kom leg u vaardig neer,</l>
+<l>Laat ons eens zien of zy haar plicht ook heeft vergeeten.</l>
+<l>Dus zult gy het gemoed van vw gezin haast weeten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Gy hebt gelijk, 't is goet.</l></sp></div>
+<div type="scene">
+<head rend="h4">Elfde tooneel.</head>
+<stage><hi rend="sc">Helena, Tryn, Manshart</hi> en <hi rend="sc">Boudewyn</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 1tab">O droevig ongeval,</l>
+<l>O rampspoet al te groot, die raakt my boven al,</l>
+<l>Mijn goeje Heer is dood, wie helpt, wie helpt my klagen.</l>
+<l>Was hy een and're dood gesturven 't was te draagen.</l>
+<l>Ik smelt in traanen ach ach ons verlies is groot.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Och wat is hier geschiet?</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l rend="; 1tab">Uw Vader die is dood.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Hoe is mijn Vader dood, och dan ben ik bedurven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Hy 's aan een flaaute in dees mijn armen zoo gesturven.</l>
+<l>Daar leyd hy uytgestrekt zoo doodelijk zoo naar.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Ach is mijn Vader dood, ô Hemel is het waar?</l>
+<l>Ach ongelukkige dit zal my eeuwig rouwen,</l>
+<l>Hy was op my vergramt, om dat ik niet wou trouwen</l>
+<l>Met hem, aan wie hy my reets had ten Echt belooft.</l>
+<l>Mijn ongehoorzaamheit alleen, heeft hem berooft</l>
+<pb n="78"/>
+<l>Vant lieve leeven, ja mijn Vader 'k heb misdreeven,</l>
+<l>Ja ik ben straf baar, dat ik u dorst wederstreeven;</l>
+<l>Ik zalt verbeteren. De Wet die gy my gaf</l>
+<l>By 't leeven zal ik na uw dood doen tot mijn slraf.</l>
+<l>Ik zal in 't Klooster voort voleindigen mijn daagen,</l>
+<l>Mijn ongehoorzaamheit en uwe dood beklaagen.</l>
+<l>Tot teek en van mijn liefde, ô droevig ongeluk!</l>
+<l>Gedoog dat ik u kus en in mijn armen druk.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mamshart</hi>.</speaker>
+<l>Mijn Dochter.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l rend="; 1tab">Vader leest ô Hemei welk een zeegen.</l>
+<l>De blijtschap sluyt mijn mond.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 3tab">Zijt om my niet verleegen,</l>
+<l>Ik ben niet dood, ik leef, kom nader my mijnd Kind,</l>
+<l>Dat ik u kus, ik zie, dat gy my teer bemind;</l>
+<l>Dat my zoo lief is, 'k wil u niet meer wederhouwen.</l>
+<l>'k Geef u uw vrye keur trouw die u lust te trouwen,</l>
+<l>Indient een Doctor is.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l rend="; 2tab">Die my ten Echt begeerd,</l>
+<l>En die ik lief heb, is van daag gepronoveert</l>
+<l>Tot Doctor, zulk een kracht heeft hem de Min gegeven,</l>
+<l>Hy heeft als Doctor reets al wonderen bedreeven.</l>
+<l>Hy zal Heer Vader u geneezen deeze dag.</l>
+<l>'k Verwacht hem al.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 2tab">Wel Kind, ik wou dat ik hem zag.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Broer kan de Minne God een smit de kragten geeven,</l>
+<l>Om met penzeel vol kunst te schilderen na 't leeven,</l>
+<l>Zoo ist min wonder dat hy aan een schrand're leerd</l>
+<l>De kunst en ook de kracht waar door hy Doctoreert.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Daar word gescheld, loop Trijn, wilt hem voort binnen laaten.</l></sp>
+<pb n="79"/>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Niet als een Doctor Kind zal my voor u bepraaten.</l></sp></div>
+<div type="scene">
+<head rend="h4">Twaalfde tooneel.</head>
+<stage><hi rend="sc">Manshart, Boudewyn, Ferdinand, Helena</hi> en <hi rend="sc">Tryntje</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>LEt doch met aandacht Broer, zet alle zotterny,</l>
+<l rend="; 1tab">Met uw vooroordeel nu eens teffens aan een zy.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>De liefde tot uw Kind en u, heeft my gedreeven,</l>
+<l>Tot de Eed'le artzeny om u te doen herleeven.</l>
+<l>De liefde heeft van daag my zelf gedoctoreert,</l>
+<l>Ik Ben ook door zijn kracht zoo ver al geavanzeert,</l>
+<l>Dat ik kan wond'ren doen dies zal ik u klaar toonen,</l>
+<l>Dat in my kunst en kracht der Doctoryen woonen.</l>
+<l>Dies heb ik hier ontboon Mejuffrouw Baggaleyn,</l>
+<l>Met haare boggel, die de Doctor Florentijn</l>
+<l>Tien jaaren vrug teloos resepten heeft gegeeven.</l>
+<l>'k Zal haar geneezen in uw by zijn. Daar beneeven</l>
+<l>Komt hier Monsieur Petiet die om wat groot te zijn,</l>
+<l>Tien duuzend guldens heeft belooft aan Florentijn,</l>
+<l>Als hy hem maar een voet deed groeyen, 'k zou hem prijsen.</l>
+<l>Had hy in twintig jaar hem maar een duym doen rijzen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Van Juffer Baggalijn en van Monsieur Petiet.</l>
+<l>Sprak Doctor Florentijn al dikmaals 't is geschiet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>Ik zal Monsieur Petiet doen groyen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 2tab">Kon dat weezen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>En dan Heer Manshart u op staande voet geneezen.</l>
+<l>Zy zijn reets aan uw deur men laatze binnen staan.</l></sp></div>
+<div type="scene">
+<pb n="80"/>
+<head rend="h4">Dertiende tooneel.</head>
+<stage><hi rend="sc">Manshart, Boudewyn, Helena, Ferdinand, Tryntje, Baggalyn</hi> en <hi rend="sc">Petiet</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>HOe lang heeft Florentijn wel over u gegaan?</l></sp>
+<sp>
+<speaker><hi rend="sc">Petiet</hi>.</speaker>
+<l>Hy deed my twintig jaar niet anders als Klisteeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Baggalyn</hi>.</speaker>
+<l>En ik heb tien jaar lang gedaan niet als Purgeeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>'t Is om te lachen dat de boggel zou vergaan,</l>
+<l>Door het Purgeeren, neen zy neemt daar meer door aan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Zoo Juffrouw Baggalijn word door uw konst geneezen,</l>
+<l>En dat Monsier Petiet word grooter als voor deezen,</l>
+<l>Zult gy mijn Doctor zijn en ook mijn Dochters Man.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>Wel let dan naarstig op en zie eens wat ik kan.</l>
+<l>Mundus vult decipi, zoo spreeken de Doctoren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Hoor Broer hy spreekt Latijn.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 2tab">Dat kan ik ook wel hooren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>Heer Manshart zet u neer en zie aandachtig, hoe,</l>
+<l>En wat hier zal geschien, Monsieur Petiet tre toe.</l>
+<l>Gy moet de kamer met my eerst eens overstappen,</l>
+<l>Eer gy de kracht gevoeld van mijne weetenschappen.</l>
+<l>Spreek my dees woorden na heel langzaam klaar en zagt.</l>
+<l>Want in die woorden heeft de Doctory veel kracht.</l>
+<l>&#160;</l>
+<l rend="; 1tab">Accidit in puncto</l>
+<l rend="; 1tab">Quod non speratur in anno.</l></sp>
+<pb n="81"/>
+<sp>
+<speaker><hi rend="sc">Petiet</hi>.</speaker>
+<l rend="; 1tab">Accidit in puncto</l>
+<l rend="; 1tab">Quod non speratur in anno.</l>
+<l>Zal ik haast groot zijn Heer dat zou my 't hert verk wikken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>Maar dit Conserrifje dat zult gy moeten slikken,</l>
+<l>Gy zult haast groot zijn doe mijn zin en volg mijn raad.</l></sp>
+<sp>
+<speaker><hi rend="sc">Petiet</hi>.</speaker>
+<l>Waar van is dat gemaakt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l rend="; 4tab">Van veelderhande zaad.</l>
+<l>Maar meest Kawoerde zaad gegroeyt by Allikanten.</l>
+<l>Door mengeld met het bloed van vreez lijke Olyfanten,</l>
+<l>En Wallevissen vet, met as van Reuze been,</l>
+<l>En Reuze reuzel wel gemengeld onder een.</l>
+<l>Sta stil verroer geen lit, gy moet voor al niet denken,</l>
+<l>Veel minder spreeken, want dat zou u konnen krenken.</l>
+<l>Zie daar hy groeyt zoo ras gelijk een Paddestoel.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>,</speaker>
+<l>My dunkt dat ik het zie.</l></sp>
+<sp>
+<speaker><hi rend="sc">Petiet</hi>.</speaker>
+<l rend="; 3tab">My dunkt dat ik het voel.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>Wel Broer wat dunkjer van.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 5tab">Ik zie hier wond're dingen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Ovidius is prul met zijn veranderingen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>Tree nu eens voort en zeg my na op yder tree.</l>
+<l>Mundus vult decipi.</l></sp>
+<sp>
+<speaker><hi rend="sc">Petiet</hi>.</speaker>
+<l rend="; 2tab">Mundus vult decipe.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>Mundus vult decipi. Nou wakker wil u spoeyen.</l></sp>
+<pb n="82"/>
+<sp>
+<speaker><hi rend="sc">Petiet</hi>.</speaker>
+<l>Mundus vul desipe.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l rend="; 3tab">Gy zult noch grooter groeyen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Petiet</hi>.</speaker>
+<l>Mundus vuldesipe.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l rend="; 2tab">Groey aan groey aan groey aan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Petiet</hi>.</speaker>
+<l>Mundus vuldesipe.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l rend="; 3tab">Nu heeft mijn kunst gedaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Petiet</hi>,</speaker>
+<l>Mundus vuldesipe. Ik zal u braafbetaalen.</l>
+<l>En als de faam alom uw daaden gaan verhaalen.</l>
+<l>Mundus vuldesipi.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l rend="; 1tab">Kom Juffrouw Baggalijn,</l>
+<l>Gy zult op staande voet, nu ook geholpen zijn.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l>My dunkt Heer Broeder dat Conserf is wonder kragtig.</l>
+<l>Het doet een groote kuur.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 5tab">Dat doet het toch, waarachtig.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>Ga nu de kamer tweemaal over zoo als ik.</l>
+<l>Heer Manshart voel die hult.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 6tab">Wel die is groot en dik.</l>
+<l>Die Boggel Doctor zal u vry veel moeyten geeven.</l>
+<l>Heb jy die lang gehad?</l></sp>
+<sp>
+<speaker><hi rend="sc">Baggalyn</hi>.</speaker>
+<l rend="; 4tab">O ja, mijn gantsche leeven.</l>
+<l>En hy groeit daagelijks noch grooter tot mijn leet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>Ik zal de groei hem eer beneemen als hy 't weet.</l>
+<l>De Boggel moet van my tot driemaal zijn gestreeken.</l>
+<pb n="83"/>
+<l>En wijl ik strijk moet jy dan deeze woorden spreeken.</l>
+<l>Mundus vuldesipi. Hebt gyze wel verstaan?</l></sp>
+<sp>
+<speaker><hi rend="sc">Baggalyn</hi>.</speaker>
+<l>Mundus vult desipi.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l rend="; 2tab">Nu zal het heel wel gaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Baggalyn</hi>.</speaker>
+<l>Mundus vult desipi.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l rend="; 2tab">Dat zijn nu twee strijkaaden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Baggalyn</hi>.</speaker>
+<l>Mundus vult desipi.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l rend="; 2tab">De Boggel is verraden,</l></sp>
+<sp>
+<speaker><hi rend="sc">Baggalyn</hi>.</speaker>
+<l>Maar Doctor Ferdinand gy streekt my vry wat stijf.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>Geen wonder, want de bult zit midden in je lijf,</l></sp>
+<sp>
+<speaker><hi rend="sc">Baggalyn</hi>.</speaker>
+<l>Ik zal u dankbaar zijn en rijkelijk beloonen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>Recht op uw hooft en hals en wil u zoo vertoonen.</l>
+<l>Wat dunkt u van die kuur is die niet kort en dra.</l>
+<l>Wilt gy uaan my ook niet overgeeven?</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 3tab">Ja.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>Als gy dit Poejertje driemaal hebt opgesnooven,</l>
+<l>Zoo zijt gy uw gebrek en ziekte ver te booven.</l>
+<l>Maar gy moet yder maal wannneer gy snijft, als die,</l>
+<l>Ook spreeken dit Latijn. Mundus vult desipi.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Mundus vult desipi.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l rend="; 1tab">Die Poejerzal u geeven,</l>
+<l>Uw gansche lichaam door nieuw bloed en ook nieuw leeven.</l></sp>
+<pb n="84"/>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<stage><hi rend="i">Al fniezend</hi>.</stage>
+<l>Mundus vult desipi.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l rend="; 1tab">Des Poejers kracht begint,</l>
+<l>Gy zult haast fris zijn als een jonggebooren kind.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Mundus vult desipi. Ik zou, ik zou wel wenschen,</l>
+<l>Te weeten wat het is.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l rend="; 2tab">Mijn Heer 't is as van menschen,</l>
+<l>Die altijt fris gezond en nooit zijn ziek geweest.</l>
+<l>Het is momie die op staande voet geneest.</l>
+<l>Uw Doctor Florentijn zy dat al uw gebreeken,</l>
+<l>Huis hielden in uw buyk, hy heeft hem slegt verkeeken.</l>
+<l>En daarom heeft hy u geslaadig geklisteerd,</l>
+<l>En na 't Klisteer hebt gy daaglijks gepurgeerd.</l>
+<l>Maar 't schort niet in uw buyk, dat durf ik u wel seggen,</l>
+<l>Het schort u in het hooft, zie daar, daar zalt u leggen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Tryn</hi>.</speaker>
+<l>Hy raad het zeeker recht hy 's met de kop gebruyt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>Daar zit dien Radix en die wortel moeter uyt.</l>
+<l>Die Poeder Kapitus zal reinigen uw leeden,</l>
+<l>En zuyveren uw bloed van boove tot beneeden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Maar by die menschen as is daar wat by gedaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>Ja aquavita in de zomerzon gebraan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Ja aquavita Heer hoe kanje 't zoo verzinnen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>Mundus vult desipi.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l rend="; 2tab">Ik voel het al van binnen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>Steek uyt uw borst en heft uw hooft recht in de lucht.</l></sp>
+<pb n="85"/>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>'k Voel mijn gezontheit komt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l rend="; 4tab">'k Zie dat uw ziekte vlugt.</l>
+<l>Die Poejer rust niet of het moet al 't kwaad verwinnen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<stage><hi rend="i">Al fniezende</hi>.</stage>
+<l>Dat voel, dat voel, dat voel, dat voel ik al beginnen.</l>
+<l>Mijn borst, mijn buyk, mijn bil, mijn hart, mijn hand mijn hooft,</l>
+<l>Veranderen, wel Broer dat had ik nooit gelooft.</l>
+<l>Ik stap zoo luchtig ik kan helder zien en spreeken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l>Papa my dunkt gy stapt verby al uw gebreeken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>Heer Doctor 'k neem u aan tot Zwaager, daar 's mijn hand.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l>'k Ben dankbaar.</l></sp>
+<sp>
+<speaker><hi rend="sc">Helena</hi>.</speaker>
+<l rend="; 2tab">Dank Papa.</l></sp>
+<sp>
+<speaker><hi rend="sc">Boudewyn</hi>.</speaker>
+<l rend="; 3tab">Broer dat is Ferdinand;</l>
+<l>Die ik u raaden dat gy zoud uw Dochter geeven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Manshart</hi>.</speaker>
+<l>'k Bedank u Broer gy zijt behouder van mijn leeven.</l>
+<l>Nu weet ik welk een kracht'er steekt in de momi</l>
+<l>Met aquavita.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+<l rend="; 1tab">En Mundus vult desipi.</l></sp>
+<p><hi rend="spat">EYNDE</hi>.</p></div></div>
+</body>
+</text>
+
+</TEI.2>

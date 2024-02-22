@@ -1,0 +1,1064 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Oneenige-trouw</title>
+                <author>Adriaan Boelens</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Oneenige-trouw</hi> van Adriaan Boelens in de eerste druk uit 1648.
+                </edition>
+                <respStmt>
+                    <resp>
+                        <corr>A5v: teugen-heyt → leugen-heyt: ‘En hart seer is het die met leugen-heyt de kost winnen’.</corr>
+                        <corr>A6v: sinneu → sinnen: ‘Vnd gevalt de sinnen wol’.</corr>
+                        <corr>A6v: gnnst → gunst: ‘Drumb geeb ich willich ober voor zeyn gunst’.</corr>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            
+            <publicationStmt>
+                <idno type="titelcode">boel009onee01_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2014 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note>ebook</note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"></idno>
+                    <idno type="usedcopy">exemplaar Theater Instituut Nederland, signatuur: 1 B 38: 1</idno>
+                </bibl>
+                <p>Adriaan Boelens, <hi rend="i">Oneenige-trouw</hi>. Adam Karelsz, Amsterdam 1648</p>
+                <p>&#160;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p></p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">Oneenige-trouw</title>
+                <title type="subordinate"></title>
+                <author>Adriaan Boelens</author>
+                <editor></editor>
+                <editor role="translator"></editor>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">Oneenige-trouw</title>
+                <title type="subordinate"></title>
+                <author>Adriaan Boelens</author>
+                <editor></editor>
+                <editor role="translator"></editor>
+                <idno></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2014-02-05</date>
+                <respStmt>
+                    <name type="person">CB</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+<text>
+<body>
+   <cf> <div type="chapter">
+        <pb ed="fol." n="A1r"/>
+<p>&#160;</p>
+<p><hi rend="i">DE KLUCHT Van de</hi> Oneenige-trouw,</p>
+<p>&#160;</p>
+<p><hi rend="i">In 't Rijm gestelt</hi></p>
+<p><hi rend="i">Door A.B.</hi></p>
+<p>&#160;</p>
+<p>[vignet]</p>
+<p>&#160;</p>
+<p><hi rend="spat"><hi rend="i">t' AMSTERDAM,</hi></hi></p>
+<p>Gedrukt voor <hi rend="i">Adam Karelsz, 1648</hi></p>
+    </div></cf>    <div type="chapter">
+        <pb ed="fol." n="A1v"/>
+        <head rend="h3"><hi rend="i">Personaedien.</hi></head>
+<list>
+<item><hi rend="i">IAN LEGHACHTER, de Man</hi></item>
+<item><hi rend="i">GRIETIE LICHTNAERS, sijn Vrou.</hi></item>
+<item><hi rend="i">MICHIEL IANSEN Propdarm, haer Vader.</hi></item>
+<item><hi rend="i">MODDE van GOMPEN, sijn Moeder</hi></item>
+<item><hi rend="i">COME MELIS, de Buerman.</hi></item>
+<item><hi rend="i">LYSIE VRAGELGATS, het Buerwijf.</hi></item>
+<item><hi rend="i">Mr. IORIS LEEPOOG, de Barbier,</hi></item>
+<item><hi rend="i">LOECKEVENT, de Blinde.</hi></item>
+<item><hi rend="i">PLONIE, sijn Wijf.</hi></item>
+<item><hi rend="i">MIEWES, Achterlam de Creupel.</hi></item>
+<item><hi rend="i">REYNIER, de Pol.</hi></item>
+<item><hi rend="i">MODDECE THEUNUS, de Schoudt.</hi></item>
+</list>
+</div>
+<div type="chapter">
+    <pb ed="fol." n="A2r"/>
+<head rend="h3"><hi rend="i">De Eerste Vytkomst, Jan Lechachter, en Grietje Lichtnaars.</hi></head>
+<lg type="poem"><l rend="speaker"><hi rend="i">Griet.</hi></l>
+<l><hi rend="i">N</hi>Ou hoe is het soekje 't nest Ey, selje gaen, so laet het lukken?</l>
+<l rend="speaker"><hi rend="i">Ian.</hi></l>
+<l>Dat wilje nouw met jou beste verstandt, maer werentelijck 't hiele werck raeckt aen stukken.</l>
+<l rend="speaker"><hi rend="i">Griet.</hi></l>
+<l>Jy seldt op de Fartel, of ick hekel jou ten huysen uyt. </l>
+<l>Voort segh ickje, wel hoe wort ick hier van een Man ebruyt.</l>
+<l rend="speaker"><hi rend="i">Ian.</hi></l>
+<l>Hoort Grietje, kenje mijn voor jou Man, soo laet mijn oock eens spreeken. </l>
+<l>Iy bent soo ongerust als de Maent van Maert, laet jou boosheydt so niet uytbreeken.</l>
+<l rend="speaker"><hi rend="i">Griet.</hi></l>
+<l>Wis hangh-gadt, jy mijn goedtje te luysen, neen Vaer jy komt'er niet aen te pas. </l>
+<l>Iy selt na mijn Pijpen dansen, schoonder gien Man meer in de Werelt was. </l>
+<l>Jy seldt de neus inde wint steecken, en maeken mijn een stuyver te winnen.</l>
+<l>Wat meenje wel jou leeghwagen, datwe met de kop ebruyt zinnen?</l>
+<l>Dat jy malle pis dief met mijn slippen in d'as zitten zou,</l>
+<l>En leve van de blaetjes, en bewaren mijn als een Veugel in de kou?</l>
+<l>En dat ik mijn Moers Erf-goet, met jou Luysebos sou verteeren?</l>
+<l>En jy op jou muyltjes leegh gaan? neen seker ik wouje liever wat of smeren.</l>
+<l>Iy seldt de handen uyt de mou steken, en winnen mijn de kost te veuren.</l>
+<l rend="speaker"><hi rend="i">Ian.</hi></l>
+<l>Wel nou ick selt doen, Heer Griet, hoe machje me soo versteure!</l>
+<l>Ie hebt in jou jeucht immers by de groote ghedient:</l>
+<l>Misselijk dat mijn daer van daen eerdaechs wel een Officy wordt verlient.</l>
+<l rend="speaker"><hi rend="i">Griet.</hi></l>
+<l>Ia kijck, wat sout met jou ook al wesen, dat sulken luy ons dan niet en hulpen?</l>
+<pb ed="fol." n="A2v"/>
+<l>Trouwens je was noch iewers toe bequaem, je mocht aen de Zee rijen met een kar, en halen schulpen;</l>
+<l>En comen dan met een nat gat t' huys, gelijck de arme Zeeluy doen:</l>
+<l>Gut hoe sou den Duyvel dan krimpen, ick wet by hem dan wel haest in en uyt sou spoen.</l>
+<l rend="speaker"><hi rend="i">Ian.</hi></l>
+<l>Ack're mast Wijf hoe ringhel oorje mijn oock! gans bloemerhart hoe speelje ook den beest.</l>
+<l rend="speaker"><hi rend="i">Griet.</hi></l>
+<l>Wel hadden de goe luy de milde hant niet geopent, wat waerje doch geweest?</l>
+<l>Segh Treutelaer, hadje wel een goet hembt dat jou kale bille deckte?</l>
+<l>Heugh jou wel dat al de wijde Werrelt, segh pronke-pint met jou geckte;</l>
+<l>Toen men deur jou Mantel wel boonen siften kon?</l>
+<l>En dat die ouwe Totebel jou Moer om twaelf stuyvers sweecx voor de Burgers spon?</l>
+<l>En wat jou Vaer belanckt, ik loof niet datje het selfs kundt wesen.</l>
+<l rend="speaker"><hi rend="i">Ian.</hi></l>
+<l>'t Is hooch genoech, mijn goe wijfje, benje dol, of benje beseten?</l>
+<l>Ick beken dat ick door jou verhoocht ben, ist dan noch niet wel?</l>
+<l rend="speaker"><hi rend="i">Griet.</hi></l>
+<l>Ia sulken Vrouw ben ik; en ik wil dat alle man na mijn luysteren sel.</l>
+<l>Ie moet er deur. Heb ik jou teghen lust en sin moeten trouwen,</l>
+<l>Soo sel ick jou niet beeter als voor mijn hons jonghen houwen.</l>
+<l>Cost jy schyn heyligh mijn Vaer bepraten dat hy worde een Coppelaer:</l>
+<l>Ie seldt dan oock zien, met wieje huys houwen moet, met mijn of met mijn Vaer.</l>
+<l rend="speaker"><hi rend="i">Ian.</hi></l>
+<l>Wel rijt jou den Elft, Griet?</l>
+<l rend="speaker"><hi rend="i">Griet.</hi></l>
+<l>Ick sel niet veur jou wijcken.</l>
+<l rend="speaker"><hi rend="i">Ian.</hi></l>
+<l>Griet! Griet!</l>
+<l rend="speaker"><hi rend="i">Griet.</hi></l>
+<l>Ia Vaer, Griet hiet ick, en ick sel de daet met de naem laten blijcken.</l>
+<l>Laet jou gheen wonder doen soo mijn handt jou stracxjens klinkt,</l>
+<l>Datje tot inde aert, met kous en schoene sinckt,</l>
+<l>En daer sel dan niet buyten blijven als 't hooft, en de rechter arm, op dat als ick begin te spreeken,</l>
+<l>Iy mijn seer eerbiedelijck sult groeten, tot een beleefheydts teeken.</l>
+<pb ed="fol." n="A3r"/>
+<l rend="speaker"><hi rend="i">Ian.</hi></l>
+<l>Wilje daer aen, so sou ick jou neemen by 't eene been,</l>
+<l>En smijten jou inde Lucht, voor hondert Drommels heen,</l>
+<l>Ia dat jou de Mugghen opghevreten souwen hebben, eer jy om leegh kost koomen.</l>
+<l>Dat is by get, hart tegen hart. </l>
+<l rend="speaker"><hi rend="i">Griet.</hi></l>
+<l>Iy selt 't jou nochtans wel betoomen.</l>
+<l rend="speaker"><hi rend="i">Ian.</hi></l>
+<l>Wel hoe wou jy het dan hebben alst nae jou zin gongh?</l>
+<l rend="speaker"><hi rend="i">Griet.</hi></l>
+<l>Datje mijn alle daeghs, dikke duyten sou brenghen en dwongh</l>
+<l>Iou keel van slikken, en dat jy mijn alle mooje dinghen sout koopen.</l>
+<l>Maer wat Duyvel, ick moet by jou als een sletvinck loopen:</l>
+<l>Ie bent mijn vleys dief, en je suypt mijn hart en bloet.</l>
+<l>Ie neemt mijn rust en lust, en maeckt dat ick altijdt steenen moet.</l>
+<l>Iy bent gien Man als een aer, 't is hier nacht en dagh al van vasten.</l>
+<l rend="speaker"><hi rend="i">Ian.</hi></l>
+<l>Bloet, wijf sooje niet en swijcht, ik sou mijn selver wel aen tasten:</l>
+<l>De kop die loopt mijn om, het bloedt wordtme warm,</l>
+<l>Ie het immers allerley Huysraet, kronje al hou jy jou so arm!</l>
+<l rend="speaker"><hi rend="i">Griet.</hi></l>
+<l>Ik mochten Duyvel, een blindt Paert mach tot onsent mit vrijer harten springen!</l>
+<l>En noch sou het geen scha doen; ja wel wy hebben kostelijcke dingen!</l>
+<l rend="speaker"><hi rend="i">Ian.</hi></l>
+<l>Wel is onse Herreberchje dan soo vaes?</l>
+<l rend="speaker"><hi rend="i">Griet.</hi></l>
+<l>Ia Esel, 'k wet de Lommert geeft </l>
+<l>Geen Vijftigh gulden voor al onse Inboel.</l>
+<l rend="speaker"><hi rend="i">Ian.</hi></l>
+<l>Soo waer als sy leeft!</l>
+<l>Swijcht Wijf, of wy sullen malkaer wat anders leere,.</l>
+<l rend="speaker"><hi rend="i">Griet.</hi></l>
+<l>Wat wou jy toch doen, sech ghepluckte Veugel sonder veeren?</l>
+<l>Isser wel stoel of banck in Huys, sech dat iet wat lijckt?</l>
+<l rend="speaker"><hi rend="i">Ian.</hi></l>
+<l>Sie daar, wat is dat? Wout-aap, zieje wel dat blijckt.</l>
+
+<stage><hi rend="i">Griet raast en slaat hem.</hi></stage>
+
+<l>Iou Hons-vat, Schelm, Dief, selje soo (sech Duyvel-jager) met mijn goetje leven?</l>
+<l>Daer sel ick jou veur Haene veughelen, daer sel ik jou de klop veur gheven</l>
+<l>Daer, dat isser veur,</l>
+<pb ed="fol." n="A3v"/>
+<stage><hi rend="i">Jan slaet weer.</hi></stage>
+
+<l>Daer pry en neemt die slach oock veur goet.</l>
+
+<stage><hi rend="i">Griet slaet hem met de Besem-stock.</hi></stage>
+
+<l>Iy dat dan.</l>
+<l rend="speaker"><hi rend="i">Ian.</hi></l>
+<l>O! mijn kop! de duventer! het bloet!</l>
+<l rend="speaker"><hi rend="i">Griet.</hi></l>
+<l>Dat schaedt jou niet, al had de slach noch harder vaert genomen.</l>
+<l rend="speaker"><hi rend="i">Ian.</hi></l>
+<l>Daer sal jou duysent Duyvelen, veur op de vodde komen.</l>
+<l>Ik mijn best na de Barbier, weer jou flus, hoorje wel Griet?</l>
+<l>Het sel jou te etter en te bloet uyt sweren, soo ick aers Jan Lechachter</l>
+<l>hiet. </l>
+
+<stage><hi rend="i">Binnen.</hi></stage>
+
+<l rend="speaker"><hi rend="i">Griet.</hi></l>
+<l>So moet het heur allegaer gaen, die de ghestuerde Wijven bedille.</l>
+
+<stage><hi rend="i">Reynier de Pol uyt.</hi></stage>
+
+<l>Hy sel nou wel fijnder zinghen, sou ick wedde wille. </l>
+<l>Hy moet weten dat ick Griet hiet, en ben niet vervaert voor sulcke Iannen.</l>
+<l>Maer in een teugel moet mense houwen, sulcke nesse bollege Mannen.</l>
+<l>Maer sacht, wie komt daer, hoo hoo, 't is Reyniertje lieve leven!</l>
+<l rend="speaker"><hi rend="i">Reyn:</hi></l>
+<l>Wel hoe, hoe benje dus ontstelt?</l>
+<l rend="speaker"><hi rend="i">Griet.</hi></l>
+<l>Och ick ben soo vermoeyt, ik staen en tril; ja al mijn leden beven.</l>
+<l rend="speaker"><hi rend="i">Reyn:</hi></l>
+<l>Van sulke kleyne torn?</l>
+<l rend="speaker"><hi rend="i">Griet.</hi></l>
+<l>Och ! hebje het dan gesien?</l>
+<l rend="speaker"><hi rend="i">Reyn:</hi></l>
+<l>Och ja ick was verheught, toen ick het sach gheschien.</l>
+<l rend="speaker"><hi rend="i">Griet.</hi></l>
+<l>So moetmen de Henne tasters leeren, Wijven tegens haer sin te trouwen.</l>
+<l>Hy mach die Text tot naerder uytlegginge altijt by provisie onthouwe.</l>
+<l>Ick kon het Hooren-beest niet wech krijghen, en ick had jou een uur gheset.</l>
+<l>Ick vreesde dat mijn lust, door hem sou weesen belet.</l>
+<l>Mijn Troetel lief, om hels jou Grietje eens, wilje segh ouwe Vryer?</l>
+<l>Ghy sijt mijn Troost, mijn vreucht, ja mijn eenighe verblyer.</l>
+<l rend="speaker"><hi rend="i">Reyn:</hi></l>
+<l>Mijn harteblat, indien de dau, de vrucht</l>
+<l>Vermaek verleent, in dien de soete lucht</l>
+<l>Int voor Iaar t' winter hart ontsteeckt, met al 't vernoegen,</l>
+<pb ed="fol." n="A4r"/>
+<l>So sal ick dan de vreught van ons daer teffens voeghen,</l>
+<l>En sien eens wat vermaeck 't ghemoet het beste past</l>
+<l>U zoete lippen sijn de banden die my vast</l>
+<l>Verbinden aende Reecx van Liefden. Al 't vermoghen</l>
+<l>Van Venus, woonde alleen, in uwe schoone ooghen.</l>
+<l>Mijn hart!</l>
+<l rend="speaker"><hi rend="i">Griet.</hi></l>
+<l>Mijn Trooster!</l>
+<l rend="speaker"><hi rend="i">Reyn:</hi></l>
+<l>Lieff!</l>
+<l rend="speaker"><hi rend="i">Griet.</hi></l>
+<l>Mijn schoone Son!</l>
+<l rend="speaker"><hi rend="i">Reyn:</hi></l>
+<l>Een kus!</l>
+<l rend="speaker"><hi rend="i">Griet.</hi></l>
+<l>Wel duysent.</l>
+<l rend="speaker"><hi rend="i">Reyn:</hi></l>
+<l>Och ick brant!</l>
+<l rend="speaker"><hi rend="i">Griet.</hi></l>
+<l>Ghy brant mijn.</l>
+<l rend="speaker"><hi rend="i">Reyn:</hi></l>
+<l>Neen ick blus.</l>
+<l rend="speaker"><hi rend="i">Griet.</hi></l>
+<l>U Asem kan de vlam ontsteeken.</l>
+<l rend="speaker"><hi rend="i">Reyn:</hi></l>
+<l>U begeeren,</l>
+<l>Meught ghy verkrijgen, komt laet ons na binnen keeren</l>
+<l rend="speaker"><hi rend="i">Griet.</hi></l>
+<l>Terwijl de Barbier, mijn Man verbindt sult ghy</l>
+<l>Mijn oock verbinden, en gheneesen mijn heel vry.</l>
+</lg><stage><hi rend="i">Binnen.</hi></stage>
+</div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">De Tweede Vytkomst, Come Melis, en Lijsje Vraggelgats, Twee Buurluy.</hi></head>
+<lg type="poem"><l rend="speaker"><hi rend="i">Melis.</hi></l>
+<l><hi rend="i">M</hi>Aer Lijsje Vraggelgats, dat was een spul, dat Arme luy malkaer soo smeten:</l>
+<l>Men sou segghen sy slaen malkaer een dicht lijf, wantse hebben anders niet veel te eten.</l>
+<l rend="speaker"><hi rend="i">Lijs.</hi></l>
+<l>Ia Come Melis, vroome luy meugent doen, maar het en past haar niet.</l>
+<l rend="speaker"><hi rend="i">Melis.</hi></l>
+<l>Mijn lieve Buurwijf, daar is soo veel dat in Amsterdam geschiet,</l>
+<l>En datmen met goed ooghen moet aensien: weetje wel dat Pieter heeft gevochten:</l>
+<l>En dat Kroontje een kind thuys kreegh? Ia, Ia hy mach wel bochten</l>
+<l>Met sijn sieke lijf; peet Diewer schrijft het op</l>
+<l>En valt hem aen sijn Erf-goet korte, en Bartel krijcht de Schop</l>
+<l>Van Teuntje dat is eerst een volck, sy pleghen malkaer het snot uyt de neus te licken:</l>
+<l>En Pieternel leyt nou recht voort ook aen twee stikken,</l>
+<l>Wat sel Gijsbert wonder toesien, als hy thuys komt dat Langhs de vloer</l>
+<pb ed="fol." n="A4v"/>
+<l>So drie vier stroo strontjes lopen, die haer Moer maeken tot Een hoer.</l>
+<l>Maer dat is gebruyckelijk, in een Oostindische reys, sy sullender in geen Kerk af preken.</l>
+<l rend="speaker"><hi rend="i">Lijs.</hi></l>
+<l>Hou jy daer Register off Melis, je weet vast al de streeken.</l>
+<l rend="speaker"><hi rend="i">Melis.</hi></l>
+<l>Neen ick Lijsjen maar je weet wel, dat tot onsendt de stapel is</l>
+<l>Van Niewe konvertijsjes, want dat mach sijn leven niet mis:</l>
+<l>Ik moet over al, tol off hebben, wat dat de vrouw mijn niet verhalen,</l>
+<l>Dat brenghen mijn de meysjes thuys, en ik heb kennis aen duytssen en walen.</l>
+
+<stage><hi rend="i">Mr. Ioris, Leepoogh en Ian Lechachter uyt.</hi></stage>
+
+<l rend="speaker"><hi rend="i">Lijs.</hi></l>
+<l>Daer komt Mr. Ioris Leepoogh, met Ian Lechachter aen sijn sy.</l>
+<l>Sie Hoe is hem 't hooft bewonden!</l>
+<l rend="speaker"><hi rend="i">Melis.</hi></l>
+<l>Kom gaen wy eens daer by.</l>
+<l rend="speaker"><hi rend="i">Ian.</hi></l>
+<l>Sy sel weten dat sy heur man geslagen heeft dat wil ik heur wel sweeren.</l>
+<l rend="speaker"><hi rend="i">Mr.</hi></l>
+<l>Maer Ian buur ik ben genootsaekt dit den Schout te adverteeren:</l>
+<l>Want die sulken passienten niet aenbrengt, valt in een Swaare Boet.</l>
+<l rend="speaker"><hi rend="i">Ian.</hi></l>
+<l>Maer quijten al jou Maets, heur Conscientie soo?</l>
+<l rend="speaker"><hi rend="i">Mr.</hi></l>
+<l>'t Komt op sijn selfs aen die qualik doet.</l>
+<l rend="speaker"><hi rend="i">Lijs.</hi></l>
+<l>Maer Mr. is onse buermans wont al wat te beduijen?</l>
+<l rend="speaker"><hi rend="i">Mr.</hi></l>
+<l>Alle hooft wonden sijn niet sonder prijkel</l>
+<l rend="speaker"><hi rend="i">Ian.</hi></l>
+<l>Ia selse mijn soo bruyen?</l>
+<l rend="speaker"><hi rend="i">Melis.</hi></l>
+<l>Hoor Ian buer versteurt jou niet, want dat selder gien goet toe doen.</l>
+<l rend="speaker"><hi rend="i">Mr.</hi></l>
+<l>d' Ontsteltheydt is jou quaedt, jy moet'er jou veur hoen.</l>
+<l rend="speaker"><hi rend="i">Ian.</hi></l>
+<l>Gae Mr. seght het de Schoudt aen en wilt het quetsuer vry quaet genoegh maken,</l>
+<l>Ick hoop dat sy daerom tot loon in 't spinhuys wel sal raken.</l>
+<l rend="speaker"><hi rend="i">Lijs.</hi></l>
+<l>Nou Ian buur laat jou toorn niet over jou wijsheydt gaen, 't is immer jou wijff.</l>
+<l rend="speaker"><hi rend="i">Ian.</hi></l>
+<l>Ten roert jou niet dat stikken vleys, ick wenscher de nikker op heur lijff.</l>
+<l>En ick sel mijn Moer halen, die selder anders op de Tempel rijen.</l>
+<pb ed="fol." n="A5r"/>
+<l rend="speaker"><hi rend="i">Melis.</hi></l>
+<l>'t Is een haesticheydt gheweest, ay wilt het gheval digh lijen.</l>
+<l rend="speaker"><hi rend="i">Ian.</hi></l>
+<l>Ia soo geduldigh dat ick de onbarmhertige hans, wel garde rijken wou,</l>
+<l>Daer hy heur Ruggevel, wat rau mee quesperen zou.</l>
+<l rend="speaker"><hi rend="i">Mr.</hi></l>
+<l>Nou ick ga na de Officier</l>
+<l rend="speaker"><hi rend="i">Ian.</hi></l>
+<l>En ick na me ouwe moer:</l>
+<l>Als die dit dan siet, die seld'er dan wel weer bruyen die Akkremense hoer,</l>
+
+<stage><hi rend="i">Binnen.</hi></stage>
+
+<l rend="speaker"><hi rend="i">Lijs</hi></l>
+<l>Dat is een paer volcx neen by loo drinckt onse Koerde een reys,</l>
+<l>Ik laet hem met de gardijn mis vry O! ho wy tasten malkaer niet aen 't vleys.</l>
+<l>Off 't is soo een grilletje, dat hem inde zin komt schieten</l>
+<l>Dat laet ick hem willigh toe ick denk ick mach het veur een morgen, off nacht soentje genieten.</l>
+<l>Wat dunckt u gaet het dan niet beter, als malkaer opt lijff te kappen;</l>
+<l>En dat wy doen dat blijft tusschen ons twee, en niemant salt na klappen.</l>
+<l rend="speaker"><hi rend="i">Melis.</hi></l>
+<l>Ick verstae het oock soo maer de wegh Lijsje is verby de deur men moet de vreemde oock niet versmaden.</l>
+<l rend="speaker"><hi rend="i">Lijs</hi></l>
+<l>Dat is waer vaer souwen jou wijffs kinderen wel op vijff off ses na kunnen rade</l>
+<l>Wie dat heur vaertje waer en wie heur behoeder is?</l>
+<l rend="speaker"><hi rend="i">Melis.</hi></l>
+<l>Holla Lijsje mijn wijff is te eerlijk, neen moer dat schietje seecker mis.</l>
+<l>Maer wille wy eens propbeeren, of ick mee niet ben vande kloeken,</l>
+<l>Ick ben te vreen laet jou man tot onsendt en ick by jou hier versoeke.</l>
+<l rend="speaker"><hi rend="i">Lijs</hi></l>
+<l>Iou schort een praetje vriendt, en het lijck wel malle kal:</l>
+<l>Maer het selme nuew doen hoe het met onse Buurtjes af loopen sal.</l>
+<l rend="speaker"><hi rend="i">Melis.</hi></l>
+<l>Ay lieve Lijsje dat sel wel te doen staen off sy altemet eens samen kijven</l>
+<l>Hy sal wel Jan Lechachter en zy Grietje Lichtnaers blijven.</l>
+<l rend="speaker"><hi rend="i">Lijs</hi></l>
+<l>Nou goeden dagh Buurman, hoordje d' een off d' ander dagh weer wat van heur strijt,</l>
+<l>Soo bid ick jou dat jy mijn terstont, een weynich daer van over smijt.</l>
+<l rend="speaker"><hi rend="i">Melis.</hi></l>
+<l>Dat sel ick wel doen, maer hoor iens noch jou woort, als jou Man te nacht, wil krayen</l>
+<pb ed="fol." n="A5v"/>
+<l>Soo moetje hem wat sachtjens maer niet met de besemstock paejen,</l>
+</lg><stage><hi rend="i">Binnen</hi></stage>
+</div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">De Derde Vytkomst, Modde van Gompen al Spinnende, en Singende uyt</hi></head>
+<lg type="poem"><l rend="; 2tab"><hi rend="i">1</hi></l>
+<l><hi rend="i">HEt voer een Schipper Laveere,</hi></l>
+<l><hi rend="i">Laveeren al om sijn Loon,</hi></l>
+<l><hi rend="i">Hij vrijden een Keuninghs dochter, Claas Clikke</hi></l>
+<l><hi rend="i">Dirck Swikke, Frans Iokop, Steve</hi></l>
+<l><hi rend="i">Sparredam, Sparredam, Spinadje,</hi></l>
+<l><hi rend="i">Leere Lap, Schape nat Stampadje,</hi></l>
+<l><hi rend="i">Van de rompompijne kraeck neutjes maeck Schelpen,</hi></l>
+<l><hi rend="i">Te Keulen al aen de Kroon.</hi></l>
+<l>&#160;</l>
+<l rend="; 2tab"><hi rend="i">2</hi></l>
+<l rend="; 1tab"><hi rend="i">Och Moeder zey sy Moeder</hi></l>
+<l><hi rend="i">Iy moeter myn gheven raet,</hi></l>
+<l><hi rend="i">Myn volght noch alle dagen</hi></l>
+<l><hi rend="i">Rampiere koele messe,</hi></l>
+<l><hi rend="i">Seuve, negen dikke duytze dolk,</hi></l>
+<l><hi rend="i">En korte geweere,</hi></l>
+<l><hi rend="i">Soo Hupschen Landes knecht nae.</hi></l>
+<l>&#160;</l>
+<l>Wel heer hoe ben ick dus vrolijk toch het kan al tijt geen donkere wolken sijn.</l>
+<l>'t En is geen halven arrebeydt die met vreughde voort gaedt maer pijn</l>
+<l>En hart seer is het die met leugen-heyt de kost winnen,</l>
+<l>Ick ga rechte voort in mijn gout soo makkelijk te spinnen.</l>
+<l>Het vlasje schiet te wonderlijcke moy, het is soo sacht als een zijt.</l>
+<l>Wel wat komt hier? Ia, ja, alweer een duure tijt:</l>
+<stage><hi rend="i">De Kreupel leyt de Blinde. den een Singht en d' ander speelt onder tussen loopt een wijf voor om haer Aelmis by Modde van Gompen</hi></stage>
+
+<l rend="; 2tab"><hi rend="i">O Ch wie ist doch alhie bestelt?</hi></l>
+<l rend="; 2tab"><hi rend="i">De boosheyt heeft jets in der Welt,</hi></l>
+<l rend="; 2tab"><hi rend="i">Boosheyt hat ihr genommen eyn,</hi></l>
+<l><hi rend="i">Beyd gros unt kleyn,</hi></l>
+<l rend="; 1tab"><hi rend="i">Boosheyt is iet zuudt gahr gemeyn.</hi></l>
+<l><hi rend="i">Nun bessert eugh, es is hooch 't zeyt,</hi></l>
+<pb ed="fol." n="A6r"/>
+    <l rend="; 1tab"><hi rend="i">Las ab von alle has unt neyt,</hi></l>
+<l rend="; 1tab"><hi rend="i">Slies Boosheyt ferne aus deyn harts,</hi></l>
+<l rend="; 1tab"><hi rend="i">Die Tuybel Swarts,</hi></l>
+<l rend="; 2tab"><hi rend="i">Das saghe ik dihr aen allen scharts,</hi></l>
+<l rend="; 1tab"><hi rend="i">Wo ferne ihr das nicht unt thut,</hi></l>
+<l rend="; 1tab"><hi rend="i">Wehrt ihr geworffen in de glut,</hi></l>
+<l rend="; 1tab"><hi rend="i">Dort unden in der hellen pijn,</hi></l>
+<l rend="; 1tab"><hi rend="i">Drumb las toch seyn,</hi></l>
+<l rend="; 1tab"><hi rend="i">Die boosheyt, sambt ihr valschen schyen.</hi></l>
+
+<l rend="speaker"><hi rend="i">Modde</hi></l>
+<l>Wech, wech, ick hoor dat gedoe soo veel alle dagen,</l>
+<l>Wilje singen dat ick quaet doe, en durfje me noch om Aelmis vragen?</l>
+<l>dat lijckt niet, jy most al anders queele off de hont sit op de tas.</l>
+<l rend="speaker"><hi rend="i">Kreup:</hi></l>
+<l>Wo, no, tho, dem katte krankt zingh ich d' ou nicht toe pas?</l>
+<l rend="speaker"><hi rend="i">Blinde</hi></l>
+<l>Dem galge noch toe, wen ich man om jeijn ander oort zingh by dem strooten,</l>
+<l>Soo sultze mie wel hooren on 'tieren fahern Laufen looten.</l>
+<l rend="speaker"><hi rend="i">Modde</hi></l>
+<l>Dat is al eeve-veel ofje schoon noch soo barmhertigh als een Ieronimus siet</l>
+<l>Soo schuylter wel een boefjen onder jy sint de beste Broeders niet.</l>
+<l>Maer singht mijn wat vrolijckx siet het wil nou met mijn soo schikken:</l>
+<l>Soo sel ick jou wat geven, en ick eens uyt paters vaetje swikken.</l>
+<l rend="speaker"><hi rend="i">Kreup:</hi></l>
+<l>Wo dat is 't reed'lich gesacht dat huppen is mijn herts leevesten vrijnt.</l>
+<l rend="speaker"><hi rend="i">wijff</hi></l>
+<l>Het stu noch nicht huppet doe heffs husz on hoff verhuppet, wie eyn vijnt.</l>
+<l>Da schal dusendt knuwel in dijn huppen faeren je wet mien wille</l>
+<l rend="speaker"><hi rend="i">Kreup:</hi></l>
+<l>Do seet tho Plonie, ein woordt soo goet alse twee, swicht stille.</l>
+    <l>Oder du west wel dat pumpes de Lose ijs plonie, plonie zee. tho!</l>
+<l rend="speaker"><hi rend="i">Wijff</hi></l>
+<l>Ia swalge bute, swalge bute, i maket mek soo moo</l>
+<l>Doe versoopen ridder dem suy duuvel moet dek in der huut sitte.</l>
+<l rend="speaker"><hi rend="i">Modde.</hi></l>
+<l>Wel hoe legge de sinne over hoop wat kal is ditte?</l>
+<l>Ken jy kleyne gemeente niet akkerdeeren, en sechje yeder soo veel goets veur?</l>
+<l rend="speaker"><hi rend="i">Kreup:</hi></l>
+<l>Wie schallen die eyn deun mooken.</l>
+<l rend="speaker"><hi rend="i">Modde.</hi></l>
+<l>wel gaet'er dan me deur.</l>
+<pb ed="fol." n="A6v"/>
+<l rend="speaker"><hi rend="i">Blind:</hi></l>
+<l>Noe Mewis zing her an, ein honsdrek op dijn noose:</l>
+<l>Verstijt doe de moestik nicht? noe soo thoe', noe zint wie voosen.</l>
+
+<stage><hi rend="i">Singen en speelen de Voos Allemande Boelense</hi></stage>
+
+<l rend="; 4tab"><hi rend="i">1</hi></l>
+    <l rend="; 1tab"><hi rend="i">O Wijn, O dus bist wol hupsch, en fijn,</hi></l>
+<l rend="; 2tab"><hi rend="i">Ier machet lust, und macht das jeder of</hi></l>
+<l rend="; 2tab"><hi rend="i">wil by dir froelich zeyn:</hi></l>
+<l rend="; 1tab"><hi rend="i">Wan man dich lustich trinckt,</hi></l>
+<l rend="; 1tab"><hi rend="i">Den ainer lauft en springht,</hi></l>
+<l rend="; 1tab"><hi rend="i">Der ander lust zu singen,</hi></l>
+<l rend="; 1tab"><hi rend="i">Der dritten sucht het spil,</hi></l>
+<l rend="; 1tab"><hi rend="i">Aud eyn jeder doet doet deyn wil.</hi></l>
+<l>&#160;</l>
+<l rend="; 4tab"><hi rend="i">2</hi></l>
+<l rend="; 2tab"><hi rend="i">Ier macht auch alten luuten junck,</hi></l>
+<l rend="; 1tab"><hi rend="i">Vnd doet ihn froelich singhen durch ein gute </hi></l>
+<l rend="; 2tab"><hi rend="i">bacheraschse trunck:</hi></l>
+<l rend="; 1tab"><hi rend="i">Wanneer ich aufs dem glas,</hi></l>
+<l rend="; 1tab"><hi rend="i">Mis trinken auft eyn pas,</hi></l>
+<l rend="; 1tab"><hi rend="i">Ben ich er freyt vom hertsen,</hi></l>
+<l rend="; 1tab"><hi rend="i">De glaezeren gar vol.</hi></l>
+<l rend="; 1tab"><hi rend="i">Vertreybt onmut en schmertzen</hi></l>
+<l rend="; 1tab"><hi rend="i">Vnd gevalt de sinnen wol.</hi></l>
+<l>&#160;</l>
+<l rend="; 4tab"><hi rend="i">3</hi></l>
+<l rend="; 2tab"><hi rend="i">Is 't bachus omb, en omb soo gut,</hi></l>
+<l rend="; 1tab"><hi rend="i">Drumb geeb ich willich ober voor zeyn gunst</hi></l>
+<l rend="; 2tab"><hi rend="i">aen hem mijn blut.</hi></l>
+<l rend="; 1tab"><hi rend="i">Zeyn vrijndeliche macht.</hi></l>
+<l rend="; 1tab"><hi rend="i">Dem lieb ich dach und nacht,</hi></l>
+<l rend="; 1tab"><hi rend="i">Hern wirth wilt freylich schreijben:</hi></l>
+<l rend="; 1tab"><hi rend="i">Es kan (das ist gewis)</hi></l>
+<l rend="; 1tab"><hi rend="i">Keyn gelt im sekkel blijen</hi></l>
+<l rend="; 1tab"><hi rend="i">Nu dem weyn soo herlich ist</hi></l>
+<pb ed="fol." n="A7r"/>
+<l rend="speaker"><hi rend="i">Modde</hi></l>
+<l>Wat seghje me daer van? hou dat, en die kanne bier noch toe.</l>
+<l rend="speaker"><hi rend="i">Kreup</hi></l>
+<l>O! doe smukke mukke hier Mewis ick brengh het doe.</l>
+<l>O! dat smakket soo lijde sute!</l>
+<l rend="speaker"><hi rend="i">Wijff</hi></l>
+<l>sup dat het doe dree mool voor den hals weer oet loope.</l>
+<l rend="speaker"><hi rend="i">Kreup</hi></l>
+<l>Plonie eyn kolappe in die snatse Plonie, ik segget doe Plonie doe schalst het bekopen.</l>
+<l rend="speaker"><hi rend="i">Blinde.</hi></l>
+<l>Noe wedder eyn maal.</l>
+<l>Lath talke vry gahn, ijdt istr wol eer im</l>
+<l>Schlope gedahn, lath Liefken fry kriefken,</l>
+<l>Lath Tryne vry grijne, laet plonie frij</l>
+<l>Stene, hoppas Filias vief vinger in solt</l>
+    <l>&#160;&#160;att, vief on twinich kanne bier moken den</l>
+<l>Hals u art, ha sa he, lustigh haraver, ont wedder</l>
+<l>Her aber door nicht is daer blijft nicht aver</l>
+<l>Hi ja'ch noch al graver.</l>
+
+<stage><hi rend="i">Ian Lechachter uyt</hi></stage>
+
+<l rend="speaker"><hi rend="i">Modde</hi></l>
+<l>Wel wie komt hier? jemini, Jan hoe is 'et vaer.</l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Vol lyen en swaricheyt, Och moertje het schortme daer.</l>
+<l rend="speaker"><hi rend="i">Modde</hi></l>
+<l>Wat is het benje ziek waer let het jou wel andtwoorje me niet op me vraghen?</l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Wat souwer wesen Besje? maer me wijf het me een gat in 't hooft geslagen.</l>
+<l rend="speaker"><hi rend="i">Kreup</hi></l>
+<l>Behoet ons van dem Swijn O! Hern was kreegh sprot 'er loon?</l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Watte? dat ick deur gingh, en men moer sall'er de butter wel broon.</l>
+<l rend="speaker"><hi rend="i">Moer</hi></l>
+<l>Dat'er gans lijden schent gaffjes weer niet vanje buyslen?</l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Wel neen want ick vreesde voor noch een party blauwe puysten.</l>
+<l rend="speaker"><hi rend="i">Modde</hi></l>
+<l>Mijn lieve Ian mijn ongheluckige Seun, wech speul-luy aen een kant.</l>
+
+<stage><hi rend="i">De speel luy binnen</hi></stage>
+
+<l>Ick mocht wel vrolijk zijn terwijl de bry dus is aengebrandt.</l>
+<l>Ick selder daer veur kreelisse, bloedt krijgh ickse onder mijn handen,</l>
+<l>Ick selse verscheuren, ja ick selse vreten met mijn tanden.</l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Dat hiet trouwe mortje, dat hiet heijlike aen een griet,</l>
+<l>Ach hadje gesien hoe Fierjenselijk dat sy mijn ten huysen uytstiet,</l>
+<l>Ie sout jou harte bloet gedronken hebbe, jy soutje moet niet kunnen stillen.</l>
+<pb ed="fol." n="A7v"/>
+<l rend="speaker"><hi rend="i">Modde</hi></l>
+
+<l>Ick selt'er uyt korrenen sou ick wedde winnen.</l>
+<l>Sy sel vanden Ael vreeten, men sleutelrijckx vast al na heur kop.</l>
+<l>Ick moet'er leere manne slaen ick mach'er ruympjes op.</l>
+<l>Wy selle dan sien wies haen voortaen sal Keuningh wesen.</l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Mijn lieve moertje verstoort jou soo niet, jy moet voor de buure vresen.</l>
+<l>Gaeter met sachtsinnicheydt aen, secht het heur met ghemack.</l>
+<l rend="speaker"><hi rend="i">Modde</hi></l>
+<l>Kom hier jy houten dirck, ick wou dat ick in jou vodde stack.</l>
+<l>Sy sou een aere haen met een dubbelde kam hebben, jase trouwen!</l>
+<l>Waerom quam het by! </l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Jy weet wel dat ick'er gien huys mee kan houwen.</l>
+<l>Als sy niet met kijnt is, dan is'er dit en dan schort'er dat.</l>
+<l>En de drommel doet meer als hy kan, 't was slim ghenoech al hadt</l>
+<l>Ick daar een sloodt, daer ick het uytschepten, mijn dunckt sy het gien klagen.</l>
+<l rend="speaker"><hi rend="i">Moer</hi></l>
+<l>Nou mijn deughdelijckse vaer jy souter anders plagen:</l>
+<l>Jy sout heur de heyl'ge dagen in den Almenak leren, in de vasten eet men geen vleys.</l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Iae moertje, maek jy dat de gansen wijs begon men dat een reys.</l>
+<l>Sy sou speulen deur al dese geuserij verlier ick de Oude koor sangh.</l>
+<l>Neen Schaep sy Regeleert haer na de rest, sy volcht diewers voorgangh.</l>
+<l>Ick heb het al vast slimgenoegh al werck ick dat ick swiet,</l>
+<l>Soo is't noch al kijk, Ian Lechachter hoe het hy 't nou dus briet,</l>
+<l>Hy slooft hem te wonder uyt, wat dunckje is dat wel te dulden!</l>
+<l rend="speaker"><hi rend="i">Moer</hi></l>
+<l>Maer wat seyt de Meester van 't gat?</l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Ia gans hondert gulden,</l>
+<l>Die is al na de Schoudt, en daer is oock een spulletje aen vast.</l>
+<l>Daer moet boet gelt wesen, somma ick ben in last:</l>
+<l>Ick heb de pijn, de schae, en schant, het quelt mijn aen alle kanten.</l>
+<l>Sy sinnen met wijven versien die huys houwen met sulke panten.</l>
+<l rend="speaker"><hi rend="i">Moer</hi></l>
+<l>Kom draegh mijn spinnen wiel in, ick moet de vaer eens opt lijff,</l>
+<pb ed="fol." n="A8r"/>
+<l>En vragen hoe hy sijn kint groot gemaeckt het, en segh jy van jou wijff</l>
+<l>Het quaetste datje weet, soo sullen wy samen raetslagen,</l>
+<l>Hoe wy ons in dit stuk, ten besten sullen dragen.</l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Ia maer ick weet niet mortje, de vaer is sulken opsichtige Man.</l>
+<l rend="speaker"><hi rend="i">Moer</hi></l>
+<l>Hy mach Baertje buer eens kussen, wel wat gaet ons dat an:</l>
+<l>kom in huys schikme mijn jak, en help mijn huyck op 't hooft</l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Nou dan wat een spul een Mens hem selver aendoet, ick hat het noyt gelooft,</l>
+<l>Dat heyliken soo veel voeten inde aert hat, mijn docht ick hoefde niet te vresen,</l>
+<l>Eersten dach docht mijn wat het sal altijdt bruyloft wesen:</l>
+<l>Maer het hinckende paert komt after aen, daerom IongeluySpiegeltje aen my.</l>
+<l>Toest de Grieten eerst te degen, eer gyse neemt aen u sy.</l>
+<l>'t Sijn veeltijts goe appelen, maer qua wijven haet sulk trouwen,</l>
+<l>Men moeten haer by de woorden gelooven, en by de kleeren vast houwen:</l>
+
+<stage> <hi rend="i">Ian Lech-achter, en Modde van Gompen uyt.</hi></stage>
+
+<l rend="speaker"><hi rend="i">Modde.</hi></l>
+<l>Trouwe vriendt, dat is een werckje, dit is een Schoon gewelt.</l>
+<l>Het komt jou nou thuys, ick het jou langh genoegh van te veuren gepselt.</l>
+<l>Jy sout niet hoger gevlogen hebben, als jou vleugels reijken kosten.</l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Dat heeft het al, ick wens dat ons die goe man mijn van heur of heur van mijn verlosten</l>
+<l>Ick mach dit veur mijn pekel sonden Reekenen van mijn jonge tijt:</l>
+<l>En dencken dit is hier mijn vaghe-vuur, 't is billick dat een Mens wat lyt.</l>
+<l>De deught woont selden in een volle borst van weelden,</l>
+<l>O! heyligh, heyligh, dat d' oprechte liefde teelden;</l>
+<l>Die gelt-zak niet bemint noch 't koppelen danken moet.</l>
+<l rend="speaker"><hi rend="i">Modde.</hi></l>
+<l>Daer komt het niet van daen jy toont jou als een bloet,</l>
+<l>Iy moest'er vonck achter geven, en laeten heur jou vuysten smaeken.</l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Get Moertje hadme vaer de buert somtijts in rep, en roer willen maeken,</l>
+<l>Soo most hy dat maer ghedaen hebben, ick mien! ick mien!</l>
+<pb ed="fol." n="A8v"/>
+<l>Iy had hem met jou rokken-bol, en sleutelreeckx versien.</l>
+<l>Iy had een paer handen als misthaken, wy hebben 't wel bevonden.</l>
+<l rend="speaker"><hi rend="i">Modde.</hi></l>
+<l>Snoer jy jou lange tongh, of 'k sweer jou by gans wonden!</l>
+<l>(Ben jy nou dus geteystert) jy krijght wel iens soo veel.</l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>vertoorent jou niet Mortje, wy hebben geen verscheel.</l>
+<l>Ick secht maer by gelijckenis, maer hier selle wy moeten wesen.</l>
+<l rend="speaker"><hi rend="i">Modde.</hi></l>
+<l>Nou klop:</l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Ick durff niet!</l>
+<l rend="speaker"><hi rend="i">Modde.</hi></l>
+<l>Begin jy nou te vresen?</l>
+<l>Soo moetje doen, en speulen zet'er jou lijff na, als een die jou gendagh biet.</l>
+
+<stage><hi rend="i">Sy klopt. Michiel Jansen Propdarm</hi></stage>
+
+<l rend="speaker"><hi rend="i">Mich:</hi></l>
+<l>Wel genavont Gerbrichje, en jy Seun ben jy soo hiel wel niet?</l>
+<l>Waerom hebbje de doek veurt hooft? </l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Ja Schoon-vaer, dat kom ik jou klagen.</l>
+<l rend="speaker"><hi rend="i">Modde.</hi></l>
+<l>Dat most jy dat eereloose pant, jou schoone dochter vragen.</l>
+<l rend="speaker"><hi rend="i">Mich:</hi></l>
+<l>Wat schort'er hebje weer gekeven? ick sie hier langer geen raet.</l>
+<l rend="speaker"><hi rend="i">Modde.</hi></l>
+<l>als 't is Bestevaer, dat doet datmen sijn kind'ren in heur Ionckheyt soo veel toelaet.</l>
+<l>Hadje de wijsemans leer gevolgt, en heur de garden wat meer laeten proeven,</l>
+<l>Iy had jou Conscienci meer gequeten, en wy souwen ons nou soo niet bedroeven.</l>
+<l rend="speaker"><hi rend="i">Mich:</hi></l>
+<l>Wel hoe raesje soo wat is'er gaens, jy kijft en ick weet niet waarom.</l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Hoor schoon-vaer d'oorsaek dat ick hier kom,</l>
+<l>Is om dat mijn wijffje heur aen mijn te buyten gegaen heeft ter goeder trouwen.</l>
+<l>Jy selter believen in te versien, of ick kan'er gien huys mee houwen.</l>
+<l>Sy het mijn geteystert met de beesem stock, dat'er het Roo sweet na quam.</l>
+<l>Mijn Grietje is te oploopende van moet seecker sy valt mijn te gram.</l>
+<l rend="speaker"><hi rend="i">Modde.</hi></l>
+<l>'t Is een moy Grietje, 't is een liefje treeter niet op, hoor Michiel, wil ick jou wat seggen!</l>
+<l>Iy selt jou dochter bestraffen, of daer sel een ander huysje leggen.</l>
+<l>Is dat vroome vrouwe werck, dat sy mijn goe onnosele Jan</l>
+<l>Soo kronen sal; dat heur de pokken schen, Foy heur an! </l>
+<pb ed="fol." n="B1r"/>
+<l rend="speaker"><hi rend="i">Mich:</hi></l>
+<l>Al stilletjes, maer hoe quam het by, jy gafter misschien oorsaek.</l>
+<l rend="speaker"><hi rend="i">Modde.</hi></l>
+<l>Als het is krimp-kloot wees jy er noch een voorspraek.</l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Sacht moertje laat u Soon spreeken, de rede vaertje van ons verschil zinnen</l>
+<l>Soo gheringh dat ick selver niet en weet wat dat de reden binnen.</l>
+<l rend="speaker"><hi rend="i">Modde.</hi></l>
+<l>Jae kijck iens, dat is huys houwe; ick segh noch, 't en kan niet langh bestaen.</l>
+<l>Soo boos hoofdich te wesen en soo kostelijk diep zee te gaen.</l>
+<l>Daer loopt niet ien dagh deur, off daer moeten drie off vier drumpel meyden wesen.</l>
+<l>'t Is dan een Nayster, dan een lapster, dan een waster, dan die, en dan desen.</l>
+<l>En die haer het beste na de mondt praten houden het hok het langsten in.</l>
+<l>Men sou soo een Ridders goet verteeren daar om is dit de juyste sin.</l>
+<l>Jy selt'er in dienen te versien, of ick sel'er raet toe schaffen.</l>
+<l rend="speaker"><hi rend="i">Mich:</hi></l>
+<l>luyster, ick sal eens mettje by'er gaan, en het sy ongelijck soo sal ickse bestraffen.</l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Soo 't jou belieft, och ick hoop dat sy eens goe sinnen krijgen sel.</l>
+<l rend="speaker"><hi rend="i">Mich:</hi></l>
+<l>Dat wens ick jou van herten mijn Seun jy spreekt hiel wel:</l>
+<l>Maer wacht een omme sien ick sal mijn mantel krijgen.</l>
+
+<stage><hi rend="i">Michiel in, en weer uyt.</hi></stage>
+
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Iget Moertje hoe voerje oock uyt.</l>
+<l rend="speaker"><hi rend="i">Modde.</hi></l>
+<l>wel sou ick veur hum swijgen?</l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Maer zie hy is een man die op sijn repetatie staet.</l>
+<l rend="speaker"><hi rend="i">Modde.</hi></l>
+<l>Wel het is hier omgekome, hier en is langer gien raet:</l>
+<l>Iou melck-muyl sel in jou ouwe Moer bedillen een vrouw van sestigh jaren?</l>
+<l>Heb ick jou daer voor groot gemaekt, daer wil sint velten in baaren.</l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Ick bidje swijch toch, Vaertje ick hoop niet dat jou dese moeyten verdriet:</l>
+<l rend="speaker"><hi rend="i">Mich:</hi></l>
+<l>het komt mijn al qualikjes gelegen, maer om datje dat selver siet,</l>
+<l>Dat ick heur onderrechten duurff, soo sel ick'er mijn nae stellen,</l>
+<l>Nou Gerbrich jy in't midden. </l>
+<l rend="speaker"><hi rend="i">Modde.</hi></l>
+<l>Wat meuchje mijn met de hooveerdij noch quellen.</l>
+<pb ed="fol." n="B1v"/>
+<stage><hi rend="i">Reynier en, Grietje Lichtnaers.</hi></stage>
+
+<l rend="speaker"><hi rend="i">Reyn:</hi></l>
+<l>Zie uyt off niemant vande buuren hier ontrent</l>
+<l>Int uytgaen mijn verspien, op datmen u niet schent.</l>
+<l rend="speaker"><hi rend="i">Griet</hi></l>
+<l>in mijn trouwe sorgh die niet alleen voor minne wonde,</l>
+<l>Maer voor mijn eer ook siet, ick blijff aen u verbonde.</l>
+<l rend="speaker"><hi rend="i">Reyn:</hi></l>
+<l>U minnelijck vermaeck dat lokt mijn als de blom</l>
+<l>De bije, en keert mijn hert altoos na 't uwen om.</l>
+<l>Margrietje ik mach u wis mijn Schoone perel noeme</l>
+<l rend="speaker"><hi rend="i">Griet</hi></l>
+<l>Ick sal mijn leve van u Meester wercke roeme</l>
+<l rend="speaker"><hi rend="i">Reyn:</hi></l>
+<l>Die al u schoonheyt niet en nimmer wort bestreen</l>
+<l>Die heeft geen hert, 't is wint, hy is gewis een queen,</l>
+<l>En 'k looff dat letjou Man, jy streeld' hem anders sachter.</l>
+<l rend="speaker"><hi rend="i">Griet</hi></l>
+<l>Dats soo want denkckt om niet heet hy geen Ian Lechachter</l>
+<l rend="speaker"><hi rend="i">Reyn:</hi></l>
+<l>Nu zie eens of de baen hier klaer is om te gaen.</l>
+<l rend="speaker"><hi rend="i">Griet</hi></l>
+<l>O! ongeluk wat raet gins komt mijn vaertjen aen,</l>
+<l>En Ian, en oock sijn moer, wat duycker sal ik maeken,</l>
+<l rend="speaker"><hi rend="i">Reyn:</hi></l>
+<l>Sie jy geen kans veur mijn hoe dat ick wech sal raeken?</l>
+<l>Soo sluyt mijn jevers in, want vinden sy mijn hier</l>
+<l>Soo gaet jou pot van schant en oneer strak te vier</l>
+<l rend="speaker"><hi rend="i">Griet</hi></l>
+<l>Sacht ick bedenk daer wat ik moetme raesent toone</l>
+<l>En haer het aengesicht met mijn maeghde water kroone:</l>
+<l>Sie jy dan hoeje best een sluypert maken kunt.</l>
+<l rend="speaker"><hi rend="i">Reyn:</hi></l>
+<l>Al wel ick waght het luk dat ons den handel gunt.</l>
+
+<stage><hi rend="i">Michiel Propdarm. Modde, en Ian</hi></stage>
+
+<l rend="speaker"><hi rend="i">Mich:</hi></l>
+<l>Een kruysjen op de borst is een schoon juweel maar als men het in 't hert moet dragen</l>
+<l>Door dusken oorsaak, soo verkort men te besuckt de droeve ouwe dagen.</l>
+<l rend="speaker"><hi rend="i">Modde.</hi></l>
+<l>Ia vaer daer aen kunmen sien waer dat het grijse hooft van daen komt.</l>
+<l rend="speaker"><hi rend="i">Mich:</hi></l>
+<l>Ia ick heb mijn dage wel wat over ghebrocht ick sie dit wijntje is gestomt:</l>
+<l>Het leeken in 't ierst brie dinghen maar het vervolgh is te bitter</l>
+<l>Ick heb met mijn dochter redelijk huys kunnen houwe, 'k heb mitt'er</l>
+<l>Noyt veescheel gehat sint dat Moer goe meyt</l>
+<l>Op 'er uyterste het kijnt mijn beval. </l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Ia vaertje dat het sijn bescheyt</l>
+<l>Iou het sy ontsien, en mijn dunktse mach sy bedillen en seggen.</l>
+<pb ed="fol." n="B2r"/>
+<l rend="speaker"><hi rend="i">Mich:</hi></l>
+<l>Nou klop wy selle sien waerom de sinnen soo over hoop leggen.</l>
+
+<stage><hi rend="i">Griet doet de deur open, en giet hun drie een pot met pis in 't gesicht, terwijl snapt Reynier uyt.</hi></stage>
+
+<l rend="speaker"><hi rend="i">Griet</hi></l>
+<l>Iou optrecker, jou eerloose bullebak, waer hebje nou weer geweest?</l>
+<l>Iy hoeren dop jy wijve smijter, jou rechte tover geest:</l>
+<l>Iy selt mijn noch in 't dolhuys helpen, daer binje op uyt, daer soeckje mijn te drijven.</l>
+<l rend="speaker"><hi rend="i">Reyn</hi></l>
+<l>Dat 's uyt de boeje nu niet langer hier te blijven.</l>
+<l rend="speaker"><hi rend="i">Griet</hi></l>
+<l>Ick sel mijn selffs noch verdrincken, ik heb al rotte kruyt geriet:</l>
+<l>En daer ben jy de oorsaeck of, jy rechte wijven verdriet.</l>
+<l rend="speaker"><hi rend="i">Moer</hi></l>
+<l>Foey dat swijn, dat heur harme schen. </l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Hoe bijt de pis in mijn oogen.</l>
+<l>Foey den elderment, dat sweer ick sal ick jou uyt droogen.</l>
+<l rend="speaker"><hi rend="i">Griet</hi></l>
+<l>Sie ick selje noch verscheuren, vreete sel'kje schelm, dieff, dieff,</l>
+<l rend="speaker"><hi rend="i">Mich:</hi></l>
+<l>Hoe is'et Griet ben jy dol? </l>
+<l rend="speaker"><hi rend="i">Griet</hi></l>
+<l>jy hebt een ander lieff,</l>
+<l>Daer suypje reynse-wijn mee, en ick moet mijn belijen met peuselaer.</l>
+<l>Iy bent niet mans genoech veur een wijff, jy sint een rechte treuselaer</l>
+<l>Iy hoept te veel buytens huys, en komt hier met een lege nap.</l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Werentelijck de hoer is droncken, men hoort het aan heur klap.</l>
+<l rend="speaker"><hi rend="i">Modde.</hi></l>
+<l>Dat is een venus hat sy een halsbant, dat is een baseliskus boosheyt  </l>
+<l rend="speaker"><hi rend="i">Griet</hi></l>
+<l>Ick ben een vrouw met eeren elff rib, en loop mijn noot niet klagen:</l>
+<l>Maer jy gebruyckt mijn voor jou esel, en doet mijn al de last dragen.</l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Dat liech jy hoerachtigh. </l>
+<l rend="speaker"><hi rend="i">Mich:</hi></l>
+<l>Wel, dochter, Grietje, kint.</l>
+<l>Hoe raesje soo hersseloos, ick ben jou vaer, ben jy ontsint?</l>
+<l rend="speaker"><hi rend="i">Griet</hi></l>
+<l>Ay my ! </l>
+
+<stage><hi rend="i">(Sy valt in swym).</hi></stage>
+
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Wel hoe Wijff, wijff, Grietje, Grietje.</l>
+<l rend="speaker"><hi rend="i">Mich:</hi></l>
+<l>Beste kijnt, sy is hiel buyten weste.</l>
+<l rend="speaker"><hi rend="i">Modde.</hi></l>
+<l>Een schorteldoeckx bant veur haar neus. </l>
+<l rend="speaker"><hi rend="i">Mich:</hi></l>
+<l>Ick vrees dit is haer leste.</l>
+<l rend="speaker"><hi rend="i">Modde.</hi></l>
+<l>Soo daer becomtse weer. </l>
+<l rend="speaker"><hi rend="i">Griet</hi></l>
+<l>Och set mijn op een </l>
+<pb ed="fol." n="B2v"/>
+<l>stoel.</l>
+<l rend="speaker"><hi rend="i">Mich:</hi></l>
+<l>Wel kijnt wat komt jou over, hoe maek jy sulcken gewelt.</l>
+<l rend="speaker"><hi rend="i">Griet</hi></l>
+<l>Och baertje ick wist niet waer mee sinnen waeren wanneer benje hier gekomen?</l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Kijk dat is oock een vraegh ick heb mijn Schoon vaer met mijn moer mee genomen.</l>
+<l>Om dat jy mijn flusjes een gat int hooft sloegh daerom heb ik het gedaen.</l>
+<l>En oock om dat sy jou wat souwe kappittelen, soo boos niet meer tegens mijn aen te gaen.</l>
+<l rend="speaker"><hi rend="i">Griet</hi></l>
+<l>Heb ick jou gequest ick weet'er niet off. </l>
+<l rend="speaker"><hi rend="i">Mich:</hi></l>
+<l>En sie mijn hier staen druypen.</l>
+<l>Mijn kostelijcke gesette kraech, wel hoe laetje sulcke buyen in jou sinnen kruypen?</l>
+<l rend="speaker"><hi rend="i">Griet</hi></l>
+<l>Och heer ick weeter niet off. </l>
+<l rend="speaker"><hi rend="i">Modde.</hi></l>
+<l>Jou Schoenen weeten 't niet.</l>
+<l>Sie ick eens sien als een verdroncken kat, jou rechte manne verdriet.</l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Was ick als jy fatsoen ick wou alden orlementen ontkennen.</l>
+<l>Maer wy hebben alle drie wat gekregen, sie hoe nat datwe bennen.</l>
+<l rend="speaker"><hi rend="i">Mich:</hi></l>
+<l>Wel dochter hoe tierje so an, dit is geen wijse lui'er doen.</l>
+<l rend="speaker"><hi rend="i">Griet</hi></l>
+<l>Och vaertje moet ick wel eens spreeke?</l>
+<l rend="speaker"><hi rend="i">Mich:</hi></l>
+<l>Wat was de oorsaeck van jou woen?</l>
+<l rend="speaker"><hi rend="i">Griet</hi></l>
+<l>Mijn Man, och vaertje, mijn man die leyt mijn het vuur soo na aende Scheenen,</l>
+<l>Dat ick altemet krancksinnich ben, ick loop, en vliegh, daer heenen,</l>
+<l>Och hy leeft met mijn als de kat met de muys, soo met slaen,</l>
+<l>Met gnorre, met kijve, met hoerejagers, inde kroegh te gaen,</l>
+<l>Hy is na dat het schijnt over gekomen, en daer by is hy soo scheynheyligh by de menschen,</l>
+<l>Dat ick ongelijk moet hebben, dit doet mijn na mijn sterven wenschen:</l>
+<l>Dit beneemt mijn de sinnen dat ick somtijts niet weet wat ick doe:</l>
+<l>Vergeef het mijn vaertje dat ick mis daen heb, ey hout het mijn ten goe,</l>
+<l>Ick was half kranksinnich en de schult moetje op Ian wijte.</l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Daer speult sint felten me, dat sou de drommel spijte.</l>
+<l>Schoonvaer sy liecht al den bruy, sy seyt niet een waer woort.</l>
+<l rend="speaker"><hi rend="i">Griet</hi></l>
+<l>Soo weynigh acht hy mijn vaertje, soo leeft hy met</l>
+
+<pb ed="fol." n="B3r"/>
+
+<l>mijn, voort</l>
+<l>Duysent drommels wenst hy mijn daegs wel in 't lijff, en hondert spaense pokke.</l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>En jy wenstse mijn met Tonnetjes vol. </l>
+<l rend="speaker"><hi rend="i">Griet</hi></l>
+<l>Dat moetje Jokke.</l>
+<l>Ick weet het wel jy verbluft mijn deur gaens jy geeft mijn genoech de klop.</l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Dat wil de nicker doen, wat plaech hoe kom ick dan aen dit gat in mijn kop.</l>
+<l>Of wilje klaertje klonters dat mijn oock heeten liegen.</l>
+<l>Neen byloo ick heb de Smart, ick voel het jy seltme niet bedriegen.</l>
+<l rend="speaker"><hi rend="i">Griet</hi></l>
+<l>Heb ick jou geraeckt, ick heb het mee in sulcken dollicheyt gedaen</l>
+<l>Off jy heb het gekregen toen ick mijn verweerde toen jy mijn flus wout slaen.</l>
+<l rend="speaker"><hi rend="i">Modde.</hi></l>
+<l>Daer is hy de man niet na hy is al te goet aerdigh van leven:</l>
+<l>Ick heb hem wel hondert mael ghesmeete en hy dorst mijn gien suuer op gesicht gheven,</l>
+<l rend="speaker"><hi rend="i">Griet</hi></l>
+<l>Soo is hy dan met het trouwe wel verandert die goetheyt betoont hy niet aen mijn.</l>
+<l rend="speaker"><hi rend="i">Modde.</hi></l>
+<l>Ick heb hem selffs gedragen en sonder vaer groot gemaeckt de schult moet by jou sijn.</l>
+<l rend="speaker"><hi rend="i">Mich:</hi></l>
+<l>En ick heb heur gemaeckt, ick weet wat sy is, sy sel'er dat wel wachten.</l>
+<l>Mijn leven hoorden ick (als nou) van heur gien klachten.</l>
+<l rend="speaker"><hi rend="i">Griet</hi></l>
+<l>Och vaertje ick heb geen schuldt. </l>
+<l rend="speaker"><hi rend="i">Mich:</hi></l>
+<l>Wel Ian, dit luyt hiel ongelijk.</l>
+<l>Leeff jy soo met mijn dochter?</l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Maer dit geeft and're blijk.</l>
+<l>Sel sy heur man soo teykenen dat wou de drommel geven.</l>
+<l rend="speaker"><hi rend="i">Mich:</hi></l>
+<l>Ja wel als jy het oock soo maeckt, jy sout stil mit'er leven.</l>
+<l rend="speaker"><hi rend="i">Griet</hi></l>
+<l>Schoon-Mortje och onse Ian is soo verandert, als nacht en dach.</l>
+<l rend="speaker"><hi rend="i">Modde.</hi></l>
+<l>Ick kan het qualick geloven schoon ick het selver sach.</l>
+<l rend="speaker"><hi rend="i">Mich:</hi></l>
+<l>Hoor Gerbrich sy hebbe beydegaer schuldt, ick sie hier niet anders deur te raecken,</l>
+<l>Als dat wy tusschen er beyde peys en vreede maecken.</l>
+<l rend="speaker"><hi rend="i">Modde.</hi></l>
+<l>Och ja, maer belast jou Dochter dat sy sulcke dingen niet meer doen moet.</l>
+<l rend="speaker"><hi rend="i">Mich:</hi></l>
+<l>Dat sel ick doen, maer sechje Ian dat hy hem oock wat bet'ren moet.</l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Ick segh noch Wijf, jy hebt schult en jy wilt het niet </l>
+
+<pb ed="fol." n="B3v"/>
+
+<l>belyen.</l>
+<l rend="speaker"><hi rend="i">Griet</hi></l>
+<l>Treet iens in jou gemoet, jy selt mijn wel bevrijen.</l>
+<l rend="speaker"><hi rend="i">Mich:</hi></l>
+<l>Nou, Nou, al laugh genoech, sie dochter het is jou Man,</l>
+<l>Jy selt hem in alle dingh ghehoorsaem sijn, en gaen soo niet meer an!</l>
+<l>Onthout dit veur een Regel, hoor ick weer sulcke geruchte,</l>
+<l>Soo sel ick jou op een ander wijs eens na behooren tuchte.</l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Ia wis schoon-vaer. </l>
+<l rend="speaker"><hi rend="i">Griet</hi></l>
+<l>Och valt mijn me vaer teugen, soo ben ick een bedurve vrouw.</l>
+<l rend="speaker"><hi rend="i">Modde.</hi></l>
+<l>Hier Jan, hier segh ick en luister dit segh ickje nou,</l>
+<l>Iy seltme jou wijff, soo niet versnuyven, off ick sel jou kleunen.</l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Sy liecht het Mortje. </l>
+<l rend="speaker"><hi rend="i">Modde.</hi></l>
+<l>Hou men de beck dicht toe, doet als ien vande degelijke Seune,</l>
+<l>Leef vrindelijck in jou huyshouwe, jy moet een goe veurganger sijn,</l>
+<l>Off mijn vuyste sellen 't jou leeren onthout dit van mijn.</l>
+<l rend="speaker"><hi rend="i">Mich:</hi></l>
+<l>Wel nou dochter, geef jou man de hant, hoe stae jy als de traege.</l>
+<l rend="speaker"><hi rend="i">Griet</hi></l>
+<l>Ia vaertje, ick wil het wel doen als mijn man hem beter wil dragen,</l>
+<l rend="speaker"><hi rend="i">Modde.</hi></l>
+<l>Nou bidmen kaer om vergiffenis, flucx segh ick doet het voort.</l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Liefste vergeeffje mijn, al onse questij, soo spreek een troostelijk woort.</l>
+<l rend="speaker"><hi rend="i">Griet</hi></l>
+<l>Iae hartje, en salje aen mijn Raese jou leven niet meer denkken.</l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Neen Engeltje. </l>
+<l rend="speaker"><hi rend="i">Modde.</hi></l>
+<l>Wat soo, daer moetje men kaer elk een soentje veur schenkken.</l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Nou Bakkisje, laete wy iens tappe, onse ouwers hebben al dorst begaen.</l>
+<l rend="speaker"><hi rend="i">Griet</hi></l>
+<l>Wel Soetertje krijcht de kan, Troostertje sy moet daer binnen staen,</l>
+<l rend="speaker"><hi rend="i">Mich:</hi></l>
+<l>Wat soo die pays is ghemaekt, die vree is haest ghetroffen.</l>
+<l rend="speaker"><hi rend="i">Modde.</hi></l>
+<l>Als de Luy vredens gesint sijn so moetmer niet op sloffen.</l>
+
+<stage><hi rend="i">De Schout uyt.</hi></stage>
+
+<l rend="speaker"><hi rend="i">Griet</hi></l>
+<l>Wel, wie komt hier? de Schout wel wat off dat beduyt?</l>
+<l>Sie hoe hongerich siet hy, wel hy komt hier veur uyt!</l>
+<l rend="speaker"><hi rend="i">Schout.</hi></l>
+<l>Genavont vroutje, ik slaeje voor eerst inde boeten,</l>
+<l>Datje jou man hebt bloet-gelaten, en dat suije mijn betalen </l>
+<pb ed="fol." n="B4r"/>
+<l>moeten.</l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Mijn Heer 't en het niet te beduye, maer soo een dolmens jou dat doet?</l>
+<l>Wat verbeurt die? </l>
+<l rend="speaker"><hi rend="i">Schout.</hi></l>
+<l>Tot hun en is geen boet,</l>
+<l>Als datmen hun van straet bant, daer sy weer bedaeren.</l>
+<l rend="speaker"><hi rend="i">Ian</hi></l>
+<l>Argo soo selje hier dan niet op doen, want toen mijn wijff so begon uyt te varen,</l>
+<l>Was sy met de kop gequelt, en komt het heur weer aen,</l>
+<l>Schout Oom, soo sal ick jou ontbien, op dat wy jens een middel beraen,</l>
+<l>Hoe wy metter sulle leven. </l>
+<l rend="speaker"><hi rend="i">Schout.</hi></l>
+<l>Wel dat zijn moye saeken,</l>
+<l>Iy selt het al even wel met mijn dienen of te maeken.</l>
+<l rend="speaker"><hi rend="i">Mich:</hi></l>
+<l>Hoor heerschip hier is niet te quaet, kom soo 't jou belieft wat in,</l>
+<l>En drink iens met ons om, ondertusschen vertel ik jou de sin,</l>
+<l>Voor eerst ist man en wijff, ten anderen de dolbeyt.</l>
+<l rend="speaker"><hi rend="i">Schout</hi></l>
+<l>Seer wel dan. </l>
+<l rend="speaker"><hi rend="i">Modde.</hi></l>
+<l>Kom mijn heer, kom mee in huys en sie de volheyt</l>
+<l>Van heur goe aert, jy sult dan selver 't vonnis geven,</l>
+<l>Kijve Man, en Wijff, sy soenen 't weer off, en moeten 't samen leeven.</l>
+</lg><p><hi rend="spat">FINIS</hi></p>
+<p>&#160;</p>
+    <figure>
+        <p><xptr to="boel009onee01ill0001.gif"/></p>
+    </figure>
+    <pb rend="blank" ed="fol." n="B4v"/>
+</div>
+</body>
+</text>
+</TEI.2>

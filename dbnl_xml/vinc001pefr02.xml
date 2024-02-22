@@ -1,0 +1,1880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Pefroen met het schaapshoofd</title>
+               <author>Ysbrand Vincent</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van de 2de, herziene druk van <hi rend="i">Pefroen met het schaapshoofd</hi> van Ysbrand Vincent uit 1691. De eerste druk dateert uit 1669.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>p. VIII: accolades verspreid over meerdere regels kunnen in deze digitale versie niet weergegeven worden. Daarom wordt de accolade hier, met bijbehorende tekst, op iedere regel herhaald.</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent>39</extent>
+           <scandetails>
+               <scan type="I">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>2</empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+               <scan type="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>32</empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">vinc001pefr02_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note></note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Theater Instituut Nederland, signatuur: 8 C 49: 3</idno>
+               </bibl>
+               <p>Ysbrand Vincent, <hi rend="i">Pefroen met het schaapshoofd</hi>. J. Lescailje (erven), Amsterdam 1691 (2de, herziene druk)</p>
+               <p>&#160;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Pefroen met het schaapshoofd</title>
+               <author>Ysbrand Vincent</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Pefroen met het schaapshoofd</title>
+               <author>Ysbrand Vincent</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-08-16</date>
+               <respStmt>
+                   <name type="person">SG</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+<body>
+<cf><div type="chapter">
+
+<pb n="I"/>
+<p>PEFROEN</p>
+<p>met het</p>
+<p>SCHAAPSHOOFD;</p>
+<p><hi rend="i">KLUCHTSPEL.</hi></p>
+<p>De Twede Druk, overzien, en veranderd.</p>
+<p><figure>
+<p><xptr to="vinc001pefr02ill0001.gif"/></p>
+</figure></p>
+<p>Te Amsterdam,</p>
+<p>By de Erfgenaamen van J. Lescailje, op de Middeldam, naast de Visch Poort, 1691.</p>
+<p><hi rend="i">Met Privilegie.</hi></p>
+
+</div></cf>
+<div type="chapter">
+<pb n="III"/>
+<head rend="h3">Voorrede.</head>
+<p>M<hi rend="i">En heeft sedert eenige jaaren, verscheidene Bly, en Kluchtspelen, uit de Fransche, in onze Taale overgebragt: maar het Lót, om zo te spreeken, is aan zeer weinige gunstig geweest. De oorzaak hunner ongenade, komt, óf uit eene kwaade verkiezinge, óf door onmagt der onervaarene Berymers: want óf men al, by geluk, eene stóffe, bekwaam voor ons Tooneel, in handen krygt, en niet in zyne magt heeft, dezelve na onze spreekwyze, zeden, en manieren te schikken, en de omstandigheden, in dier voegen te veranderen, dat de Fransman daar te eenemaal uit geraakende, de Geschiedenisse schyne onder onze Landsgenooten voorgevallen te weezen, is het by na onmoogelyk, dat een Bly, óf Kluchtspel, proef zal kunnen houden. De ervaarenheid heeft dit klaar doen zien, in</hi> l'Esprit Folet, l'Ecole des Jalous, Le Bourgeois Gentilhomme, Le Malade Imaginaire, <hi rend="i">en verscheidene andere diergelyke vertaalingen, waar aan echter geene kósten gespaard zyn, om ze met Gezangen, kunstige Baletten, enz. op te pronken. Zeker aanzienlyk, en voornaam Heer, van een doordringend oordeel, zeide by zeker voorval, dat het vergeeffelyk was, om aan dus daanige vertaalde Stukken, eenige achtinge by de onkundige te geeven, dat men daar by stelde</hi>: uit het Fransch van M<hi rend="sup">r</hi>. Moliere, enz. <hi rend="i">maar in tegendeel zeer nadeelig, op de Tytel van Bly, óf Kluchtspelen, die verstaanlyk, en kunstig verhandeld, niets van de Fransche Dichter, als de enkele stóffe, hadden behouden. Dit is in sommige Blyspelen, door dien Heer genoemd, en in</hi> Waarenar met de Pót, <hi rend="i">uit de Latynsche</hi> Aulularia <hi rend="i">ontleend, door de Heer</hi> Hooft, <hi rend="i">met groote kunst waargenomen.</hi></p>
+<lg type="poem">
+<l>Plautus steld de Geschienis, al had men ze te Athenen bespeurd;</l>
+<l>Maar wat is'er ook, dat te Amsterdam niet gebeurd?</l>
+<l>Dus neemen wy bekende Plaatsen, en Straatjens.</l>
+<l>Niemand trek hem iets aan, 't zyn maar hoofdelooze praatjens.</l>
+</lg>
+<pb n="IV"/>
+<p><hi rend="i">Eene voorzigtige, en verstandige verkiezinge, geeft zekerlyk, een groot voordeel; dóch de goede uitslag van een Spel, het zy eene Vertaalinge, Geschiedenisse, óf eigene Vindinge, hangt daarom niet te eenemaal af van de Stóffe die men verhandelen wil: want vólgens het</hi> Gebruik, <hi rend="i">en</hi> Misbruik <hi rend="i">des</hi> Tooneels, <hi rend="i">van de Heer</hi> Andries Pels,</p>
+<lg type="poem">
+<l rend="; 1tab"><note place="margin">P. 41.</note> Is 't juist niet in de stóf, dat al de kunst bestaat;</l>
+<l>Verscheidene andere sieraaden doen de Spelen</l>
+<l>Zo verre in waerde van malkanderen verscheelen</l>
+<l>'t Is nu onfeilbaar by de meeste jonge Maats,</l>
+<l>Wenze in een' mag're stóf, op de eenheid van de Plaats</l>
+<l>En Tyd, maar letten, en wanneer ze in hunn' Bedryven</l>
+<l>Geen gaaping lyden, nóch die ledig laaten blyven,</l>
+<l>Dat hun Tooneelstuck, dan verdiend de lóf, en gunst</l>
+<l>Der kenneren, en net gemaakt is na de Kunst;</l>
+<l>Zich zelf inbeeldende, als dat is in acht genomen,</l>
+<l>'t Is dan verre in de kunst, ja verr' genoeg gekomen.</l>
+<l rend="; 1tab">Onnoz'le, 't is het minst dat iemand in een Spél</l>
+<l>Waarneemen moet, al past het by 't voornaamste wél.</l>
+<l>De Byverdichtsels in uw stóf zo net te weeven</l>
+<l>Dat zy geen dubbelheid, nóch ander misstal geeven,</l>
+<l>Zeer naauw te letten op het leggen van de knoop</l>
+<l>Des ganschen Handels, op het leiden van de loop</l>
+<l>Tót aan de ontknoopinge, en 't natuurlyk, fraai ontwinden,</l>
+<l>Zyn Kunsten, by geen Onervaar'ne, licht te vinden;</l>
+<l>Maar zeer noodzaakelyk, indien gy staat na lóf:</l>
+<l>Want gy vind uit zich zelf, niet een bekwaame stóf</l>
+<l>O Dichter, tót een Spel; ga vry in alle hoeken</l>
+<l>Na Fabels, ga vry na Geschiedenissen, zoeken.</l>
+</lg>
+<p><hi rend="i">Doorgaans word ook weinig in acht genomen, de Ondeugd, haatelyk af te schilderen, en den onschuldigen Lyder in zyne eere, en ruste te herstellen, om daar door de Aanschouweren, met eene afschrik voor het kwaad, en opwekking tót weldoen, vergenoegd, te laaten vertrekken, gelyk ook by de vólgende Vaerzen uit het bovengenoemde werk, te zien is.</hi></p>
+<pb n="V"/>
+<lg type="poem">
+<l>Ook moet de Deugd, hoewel beklaagd, niet blyven zuchten:<note place="margin">P. 40.</note></l>
+<l>Want alzo wel in Treur, als Blyspel, ja in Kluchten,</l>
+<l>Is 't aangenamer dat de Deugd daar word geleerd,</l>
+<l>Dan dat daar de Ondeugd, óf de Zonde, in triomfeert.</l>
+<l>Wat geeft het aan den Volke een wonder groot genoegen</l>
+<l>Wanneer het Waarnar ziet, zich na de reden voegen;</l>
+<l>Als hy die Pót vol Goud, met zo veel angst bewaard,</l>
+<l>Met zo veel rouw gemist, na 't vinden onbezwaard</l>
+<l>Aan Ritsaard geeft, én door een edelmoedig kiezen</l>
+<l>Koopt rust voor kommer, van 't bewaaren en verliezen:</l>
+<l>Als Klaartje, onnozelyk bedroogen, én misleid</l>
+<l>Door 't knaagend overschót van Ritsaards deugd'lykheid,</l>
+<l>Word blyde Moeder, en vernoegde Bruid, in 't nypen</l>
+<l>Der hoogste nood, uit vrees van straf voor haar vergrypen.</l>
+</lg>
+<p><hi rend="i">Eenige Fransche Dichters, voeren dikwils der Spaanjaarden Jaloezy, op het allerbelachchelykste ten Tooneele, door dien die hartstócht aan het Fransche Hóf, schier voor eene Doodzonde word gerekend.</hi></p>
+<p><hi rend="i">Iemand, die zonder overleg, zede, en Tooneelkunde, een Spel van die Natuur, na de Letterlyke zin in het Neêrduits wilde vertaalen, en eene ontrouwe Vrouw, van de welgegronde minnenyd haares Mans, deed triomfeeren, zou lichtelyk de ruuwste, en Ondeugenste hoop, zyner Aanschouweren, doen lachchen, gelyk dat onder anderen in de vertaalinge van</hi> George Dandin, <hi rend="i">op de naam van</hi> Lubbert Lubbertsz, <hi rend="i">uitgegeeven, is gebleeken: dóch hy zal de verstandige en zedige Toehoorderen, op het allerhoogste, mishaagen, en 't Oogwit niet bereiken dat'er in een welgesteld, en leerzaam Spel vereischt word.</hi></p>
+<lg type="poem">
+<l>Hy heeft op 't rechte wit gemikt,</l>
+<l>Die stigtende ook de Geest verkwikt.</l>
+</lg>
+<p><hi rend="i">De Fransche Blyspeldichter, en vermaakkelyk Speler</hi> Poisson, <hi rend="i">heeft in zyn eerste Kluchtspel</hi>, Lubin, <hi rend="i">anders</hi> Le Sót Vangé, <hi rend="i">gelyk ook in eenige volgende, van hem in 't licht gekomen</hi>,
+<pb n="VI"/><hi rend="i">deeze aanstootelyke Klip, voorzigtiger als</hi> M<hi rend="sup">r</hi>. Moliere, <hi rend="i">in eenige zyner Stukken, weeten te myden. Lichtelyk door dien de eerste meest toeleide om de Burgers, en deeze, een Hoveling geworden, om voornaamelyk het Hóf te behaagen.</hi></p>
+<p><hi rend="i">Op wat wyze</hi> Pefroen, <hi rend="i">uit</hi> Lubin <hi rend="i">getrokken, in onze Taale verhandeld, overzien, en herdrukt, te voorschyn komt, staat aan de Verstandige Liefhebberen te oordeelen. De anderen zullen 'er hachchelyk meer misslagen als deezen, in vinden: maar de grootste gebreeken die'er in zyn, gelyk dat veeltyds gebeurd, over het hoofd zien. Dit zouwmen evenwel tót zyn voordeel kunnen zeggen, dat hoe dikwils hy ook sedert ruim twe en twintig jaaren, het Tooneel betreeden heeft, hem het geluk, meer als veele andere by gebleeven is, vande Aanschouweren nóch nooit mishaagd te hebben.</hi></p>
+<p><hi rend="i">De Ziel van het Tooneelspel, is het kunstig en natuurlyk vertoonen; dóch hoe grooten luister, een verstandig en geacht Tooneelist aan de Spelen byzet, het is echter, na ons begrip, te eenemaal buiten zyn vermogen, een Ondeugend Spel in achtinge, óf een goed Tooneelstuk, by de verstandige, in kleenachtinge te brengen De onzydige Kenneren, zullen aanstonds, door het vertoonen, en in het leezen zien, óf het gebrek, in het Speelen, óf in het Spel zelve is.</hi></p>
+<p><hi rend="i">Deeze Voorrede, enz. op het verzoek van een Vriend, daar zulks niet aan geweigerd konde worden, voor dit Kluchtspel gesteld, zullen wy, om niet te verveelen, eindigen met de volgende vaerzen.</hi></p>
+<lg type="poem">
+<l>Wy zien te graag dat hy, wien we onrecht geeven, lydt.</l>
+<l>Weshalven '<hi rend="i">t Huuwelyk</hi> van <hi rend="i">Niet</hi>, ook <hi rend="i">Haat</hi> en <hi rend="i">Nyd</hi>,</l>
+<l>De <hi rend="i">Ontrouwe Dienstmaagd</hi>, en <hi rend="i">Pefroen</hi>, en <hi rend="i">Kwaade Grieten</hi></l>
+<l>Behaagen, om dat we ons gewenschte wit beschieten.</l>
+<l>Die dan verdiende lóf, in 't stichten van de Jeugd</l>
+<l>Behaalen wil, geef straf aan Ondeugd, loon aan Deugd.</l>
+</lg>
+<p><figure>
+<p><xptr to="vinc001pefr02ill0002.gif"/></p>
+</figure></p>
+</div>
+<div type="chapter">
+<pb n="VII"/>
+<head rend="h3">Copye van de Privilegie.</head>
+<p>DE Staten van Holland ende Westvriesland, doen te weten. Also Ons vertoont is by de tegenwoordige Regenten van de Schouwburgh tot Amsterdam. Dat sy Supplianten sedert eenige Jaren herwaerts met hunne goede vrinden hadden gemackt en ten Toonele gevoert verscheiden Wercken, soo van Treurspelen, Blyspelen als Kluchten, welcke sy lieden nu geerne met den druck gemeen wilden maecken, doch gemerkt dat dese wercken door het nadrucken van anderen, veel van haer luyster, soo in Tael als Spelkonst souden komen te verliesen, ende alsoo sy Supplianten hen berooft souden sien van hun bysonder oogwit om de Nederduytsche Tael en de Dichtkonst voort te setten soo vonden sy hen genootsaekt, om daer inne te voorsien, ende hen te keeren tot Ons, onderdanigh versoeckende, dat wy omme redenen voorsz. de Supplianten geliefden te verlenen Octroy ofte Privilegie, omme alle hunne wercken reets gemaeckt ende noch in 't licht te brengen, den tyt van vyftien Jaren alleen te mogen drucken en verkopen of doen drucken en verkopen, met verbot van alle anderen op seeckere hooge peene daer toe by Ons te stellen ende voorts in communi forma. Soo IS 't, dat Wy, de Zake en 't Versoek voorsz. overgemerkt hebbende, ende genegen wesende ter bede van de Supplianten, uyt Onse rechte wetenschap, Souveraine Magt ende authoriteyt deselve Supplianten geconsenteert, geaccordeert ende geoctroyeert hebben, consenteren, accorderen ende octroyeren mitsdesen, dat sy geduurende den tyt van vyftien eerst achtereenvolgende Jaren de voorsz. werken die reeds gedrukt zyn, ende die van tyt tot tyt door haer gemaekt ende in 't ligt gebragt sullen werden, Binnen den voorsz. Onsen Lande alleen sullen mogen drukken, doen drukken, uytgeven en verkopen. Verbiedende daerom allen ende eenen yegelyken de selve werken naer te drukken ofte elders naer gedruckt binnen den selve Onsen Lande te brengen, uyt te geven ofte te verkopen, op de verbeurte van alle de naargedrukte, ingebrachte ofte verkogte Exemplaren, ende een boete van
+drie hondert guldens daer en boven te verbeuren, te appliceren een derde part voor den Officier die de calange doen sal, een derde-part voor den Armen der plaetse daer het casus voorvallen sal, ende het resterende derde-part voor de Supplianten. Alles in dien verstande, dat Wy de Supplianten met desen Onsen Octroye alleen willende gratificeren tot verhoedinge van hare schade door het nadrucken van de voorsz. werken, daer door in geenige deele verstaan, den Inhoude van dien te Authoriseren, ofte te avouëren, ende veel min de selve onder Onse protectie ende bescherminge eenig meerder credit, aansien ofte reputatie te geven, nemaer de Suppliante, in cas daar in yets onbehoorlijkx soude mogen influëren, alle het selve tot haren laste sullen gehouden wesen te verantwoorden, tot dien eynde wel expresselijk begerende, dat by aldien sy desen Onsen Octroye voor de selve Werken sullen willen stellen,
+<pb n="VIII"/>daer van gene geabbrevieerde ofte gecontraheerde mentie sullen mogen maken: nemaer gehouden sullen wesen, het selve Octroy in 't geheel ende sonder eenige Omissie daar voor te drukken ofte te doen drucken; ende dat sy gehouden sullen zyn een Exempelaer van alle de voorsz werken, gebonden ende wel geconditioneert te brengen in de Bibliotheecq van Onse Universiteyt tot Leyden, ende daer van behoorlyk te doen blyken. Alles op poene van het effect van dien te verliesen. Ende ten eynde de Suppliante desen Onsen consente Octroye mogen genieten als naar behooren: Lasten wy allen ende eenen yegelyken die 't aengaen mach, dat sy de Suppliante van den inhoude van desen doen, laten en gedogen, rustelyk, en volkomentlyk genieten en cesserende alle beletten ter contrarie. Gedaan in den Hage onder Onsen Grooten Zegele hier aan doen hangen, den <hi rend="sc">xix</hi> September. in 't Jaer onses Heeren en Zaligmakers duysent ses hondert vier en tachtig.</p>
+<p>&#160;</p>
+<p>G. <hi rend="spat">FAGEL</hi>.</p>
+<p>&#160;</p>
+<p>Ter Ordonnantie van de Staten</p>
+<p>&#160;</p>
+<p><hi rend="spat">SIMON</hi> van <hi rend="spat">BEAUMONT</hi>.</p>
+<p>&#160;</p>
+<p>De tegenwoordige <hi rend="sc">Regenten</hi> van de <hi rend="sc">Schouwburg</hi>, hebben het recht der bovenstaande <hi rend="sc">Privilegie</hi>, voor deeze druk, van <hi rend="sc">Pefroen</hi>, <hi rend="i">Kluchtspel</hi>, vergund aan de Erfgenaamen <hi rend="i">J. Lescalje.</hi></p>
+<p>&#160;</p>
+<p><hi rend="i">Amsterdam de</hi> 26. <hi rend="i">February.</hi> 1691.</p>
+</div>
+<div type="chapter">
+<head rend="h3">Vertooners.</head>
+<list>
+<item><hi rend="sc">Lysje</hi>, Vrouw,.......} van Pefroen.</item>
+<item><hi rend="sc">Ouwekennis</hi>, Buurman, } van Pefroen.</item>
+<item><hi rend="sc">Otje</hi>, Knecht, van Ritsaart.</item>
+<item><hi rend="sc">Ritsaart</hi>.</item>
+<item><hi rend="sc">Fem</hi>, een Kóks Meid.</item>
+<item><hi rend="sc">Pefroen</hi>, Man van Lysje.</item>
+</list>
+<p>&#160;</p>
+<p>De Geschiedenis van het Kluchtspel, begind 's Avonds omtrent ten Achten, en eindigd voor Negen uuren.</p>
+<p>&#160;</p>
+<p><hi rend="i">Het Tooneel verbeeld het Huis, en de Buurt van Pefroen.</hi></p>
+</div>
+<div type="act">
+<pb n="1"/>
+<head rend="h3">Pefroen met het schaapshoofd,
+<lb/>
+kluchtspel;</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Lichte Lysje, Ouwekennis</hi>, <hi rend="i">uit het Huis van Pefroen komende.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l><hi rend="b">W</hi>El hoe! durfjy, durfjy, Kees Plat,</l>
+<l>Jan Gortenteller, jy Jan Gat,</l>
+<l>Om zulke dingen my verzoeken?</l>
+<l>My? my? ja wel ik zou schier vloeken;</l>
+<l>My? die jou haat, gelyk de dood?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Nou, weez zo kwaad niet, 't heeft geen nood.</l>
+<l>Jouw Smuil bewaard jouw eer wel. Trouwen!</l>
+<l>Dit schynt het puikje van de Vrouwen;</l>
+<l>Maar, die 'er recht kend, weet wel dat</l>
+<l>Ze kuisch is, als een Maertse Kat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l>Wel, Lomp, al was 't zo, wat zou 't weezen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Wel niemendal: wie zou jy vreezen?</l>
+<l>Jouw arme Man? die, vaak in 't naauw,</l>
+<l>Geslagen word heel blond en blaauw,</l>
+<l>Van jou en Ritzaart, die vermeeten</l>
+<l>Schier alle daag by jou komt eeten,</l>
+<l>En slaapt tot jouwent als 't hem lust?</l>
+<pb n="2"/>
+<l>Zie, Budrwyf, 'k liet dit wel in rust;</l>
+<l>Maar jy onthaald my met verachten...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l>Brus heen doe voor de deur jou klagten;</l>
+<l>'k Ben moê deez' praat te hooren van</l>
+<l>Een zotter Kwibes, dan myn Man.</l>
+</sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>DAar ben ik schandig uitgestreeken!</l>
+<l>Maar, vuile Feeks, ik zal my wreeken;</l>
+<l>Ik zal jouw Man, om dit bedryf,</l>
+<l>Een hart gaan steeken in het lyf,</l>
+<l>Zo zal hy straks jouw Boel verjaagen,</l>
+<l>En geeven je de huid vol slagen.</l>
+<l>Kortom, 'k zal u, ô snoode Pry!</l>
+<l>De spyt doen voelen die ik ly:</l>
+<l>Doch om dit beter te besteeken,</l>
+<l>Moet ik met Ritzaart eerst gaan spreeken.</l>
+<l>En, naar dat hem de pols dan slaat,</l>
+<l>Zo geef ik straks Pefroen de raad</l>
+<l>Om met de Wortel....</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Otje</hi>, <hi rend="i">met een Goude Ring uit de Goudsmits Winkel koomende</hi>, <hi rend="sc">Ouwekennis</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Otje</hi>.</speaker>
+<l rend="; 1tab">NEen, bewaart 'et.</l>
+<l>Ho! Ouwekennis maat, hoe vaart 'et?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Ho! Otje! waar 's jou Meester?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Otje</hi>.</speaker>
+<l rend="; 2tab">Wel,</l>
+<l>Ik loof hy is noch in zen vel.</l>
+</sp>
+<pb n="3"/>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Zeg, waar zal ik hem konnen vinden?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Otje</hi>.</speaker>
+<l>In 't Koffy huis.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l rend="; 2tab">Waar?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Otje</hi>.</speaker>
+<l rend="; 4tab">By zen vrinden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Waar gaat hy meest, by wien, en waar?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Otje</hi>.</speaker>
+<l>Weet ik dat zo juist op een hair.</l>
+<l>Somtyds drinkt hy een Chokolaatje</l>
+<l>Of Kok-ail hier in 't Valkestraatje</l>
+<l>Dicht by de Dam: want datje 't vat,</l>
+<l>Myn Heer verstaat hem op dat nat.</l>
+<l>Maar 's Somers drinkt hy Flambozade,</l>
+<l>Serbetti, Rubium, Limonade,</l>
+<l>Ter plaats daar dikwils veel Messieurs</l>
+<l>De beurs vergeeten in de Beurs.</l>
+<l>En als hy lust heeft om te smooken,</l>
+<l>Gaat hy met smaak een pypje rooken</l>
+<l>Gints op 't Rokkin, alwaar de Thee</l>
+<l>Heel puik is, en de Koffy meê.</l>
+<l>Dan gaat hy noch...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l rend="; 3tab">Wie heeft zyn leeven!</l>
+<l>Wanneer zult gy my antwoord geeven?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Otje</hi>.</speaker>
+<l>Tot den Armeener Molochmay,</l>
+<l>En Sinagooger Mardochay.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Maar...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Otje</hi>.</speaker>
+<l rend="; 1tab">Deeze leste, moetje weeten,</l>
+<l>Houd ook een Badstoof om te zweeten....</l>
+</sp>
+<pb n="4"/>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Zo 't zyn mag...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Otje</hi>.</speaker>
+<l rend="; 3tab">O! 't is zo gezond,</l>
+<l>Men zweet 'er droppels van een pond.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Hoor toe.....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Otje</hi>.</speaker>
+<l rend="; 2tab">Maar, zeg me eens met bedaaren,</l>
+<l>Je bent een man nou op je jaaren.</l>
+<l>Dunkt jou dat al die voddery</l>
+<l>Van Melk en Waterdranken by</l>
+<l>Een goed glas Wyn zyn te gelyken?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Maar hoor....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Otje</hi>.</speaker>
+<l rend="; 2tab">'t Is schand' voor arm, en ryken,</l>
+<l>Dat zy haar tyd en geld zo slecht</l>
+<l>Besteên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l rend="; 1tab">Maar, Otje....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Otje</hi>.</speaker>
+<l rend="; 4tab">Maar, 'k heb recht,</l>
+<l>En kan ik eens op 't kussen raaken,</l>
+<l>Gelyk ik hoop, ik zal wel maaken</l>
+<l>Dat al de Pacht van Bier en Wyn</l>
+<l>Op deez' verfoeide drank zal zyn</l>
+<l>Gesteld.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l rend="; 1tab">Mag ik je bidden, Otje,</l>
+<l>Hou my niet langer voor het Zotje,</l>
+<l>Ik heb myn' tyd van doen: daar om</l>
+<l>Zo jy maakt dat ik by hem kom,</l>
+<l>Zal ik jou drinkgeld geeven, zeper.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Otje</hi>.</speaker>
+<l>Dat woord is krachtiger dan Peper.</l>
+</sp>
+<pb n="5"/>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>, <hi rend="i">hem geld geevende.</hi></speaker>
+<l>‘Wat dunkje van dien snooden Plug?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Otje</hi>.</speaker>
+<l>Ga, wacht my op de gintze brug.</l>
+<l>'k Wagt Ritzaart hier, en 'k zal jou wenken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>‘Terwyl kan ik my wat bedenken.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Otje, Ritzaart</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Otje</hi>, <hi rend="i">ziende Ritzaart haastig voorby gaan.</hi></speaker>
+<l>HOe? hebje zulk een haast, myn Heer?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ritzaart</hi>, <hi rend="i">al voortgaande op zyn Uurwerk ziende.</hi></speaker>
+<l>'t Is reeds by achten, is 't niet meêr:</l>
+<l>Dit 's 't uurtje van myn Lief gegeeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Otje</hi>.</speaker>
+<l>Ik heb geen Hakkeney, myn' leeven</l>
+<l>Een tel zo gaan zien, als je doet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ritzaart</hi>.</speaker>
+<l>Deez' stond belooft my 't grootste zoet</l>
+<l>Dat iemand my...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Otje</hi>.</speaker>
+<l rend="; 1tab">‘Hy schynt bezeten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ritzaart</hi>.</speaker>
+<l>Maar geef myn Ring, 'k mogt die vergeeten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Otje</hi>.</speaker>
+<l>Maar zeg me eens, Heer: Pefroen, dien Bloed,</l>
+<l>Die als een Postpaert loopen moet,</l>
+<l>Al wat j'em heet, gaat haalen, brengen,</l>
+<l>En wiens geduld noch kan gehengen,</l>
+<l>Of schoon hy alles ziet en lyd</l>
+<l>Dat hem zyn wyf, dat jy hem smyt,</l>
+<l>Deez' Zot, zo zot als Keesje Koenen,</l>
+<l>Wiens Vrouw jy als jouw Vrouw gaat zoenen,</l>
+<pb n="6"/>
+<l>Zeg, heb j'em ook te boek gesteld,</l>
+<l>En onder 't Koekkoeks Gild geteld?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ritzaart</hi>.</speaker>
+<l>Waar toe deez' zotte klap van noode?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Otje</hi>.</speaker>
+<l>Hy 's de eerst' niet van de Koekkoeks moode,</l>
+<l>Vermits men heur, die meê, na 'k gis,</l>
+<l>Uit Vrankryk hier gekoomen is,</l>
+<l>Nou al de waereld door ziet wand'ren.</l>
+<l>Alle and're moodens die verand'ren,</l>
+<l>En duuren maar een korte poos;</l>
+<l>Maar deze moode duurd altoos.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Ritzaart, Otje, Pefroen</hi>, <hi rend="i">met een Markt Emmer, daar een Schaapshoofd in is, na huis toe gaande.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Ritzaart</hi>.</speaker>
+<l>DIt 's 't voorwerp van uw spotternijen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Otje</hi>.</speaker>
+<l>Dien bloed heeft zeker veel te lijen:</l>
+<l>'t Lykt hy komt uit de Hal.</l>
+</sp>
+<stage><hi rend="i">Pefroen, willende Ritzaart in 't voorbygaan groeten, laat onvoorziens zyn Hoedband vallen</hi>;</stage>
+<sp>
+<speaker><hi rend="sc">Otje</hi>, <hi rend="i">zulks ziende, zeid.</hi></speaker>
+<l rend="; 2tab">Men Heer,</l>
+<l>Je Hoedband valt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>, <hi rend="i">de Hoedband opraapende, en in zyn zak steekende.</hi></speaker>
+<l rend="; 1tab">Ik dankje zeer:</l>
+<l>Maar, 't zal na ditmaal niet meêr beuren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Otje</hi>.</speaker>
+<l>Zie, dat zyn Filezoofsche geuren.</l>
+<l>Ik lachme slap om deze Haan.</l>
+</sp>
+<pb n="7"/>
+<sp>
+<speaker><hi rend="sc">Ritzaart</hi>.</speaker>
+<l>Tsa, geef myn Ring dan, nu, wel aan,</l>
+<l>Ik zou dit teemen schier vervloeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Otje</hi>.</speaker>
+<l>Je gaat dan wis zyn vrouw bezoeken?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ritzaart</hi>.</speaker>
+<l>Hoor, Ot, je maakt je wat te vry.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Otje</hi>.</speaker>
+<l>Wie? ik men Heer?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ritzaart</hi>.</speaker>
+<l rend="; 4tab">En zo ik 't ly,</l>
+<l>Zie toe uw pligt niet te vergeeten</l>
+<l>Of....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Otje</hi>.</speaker>
+<l rend="; 1tab">Je blyft t'avond daar licht te eeten?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ritzaart</hi>.</speaker>
+<l>'t Zou konnen zyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Otje</hi>.</speaker>
+<l rend="; 3tab">En dan te nacht?..</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ritzaart</hi>.</speaker>
+<l>Wat zegje?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Otje</hi>.</speaker>
+<l rend="; 2tab">Of jy wilt dat 'k u wagt?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ritzaart</hi>.</speaker>
+<l>Neen. Geef. 'k verzuim hier ondertusschen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Otje</hi>, <hi rend="i">hem de Ring geevende, en weggaande.</hi></speaker>
+<l>Ga heen, wil haar voor my eens kusschen:</l>
+<l>‘Ik vrees wel dapper voor de Ring.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ritzaart</hi>, <hi rend="i">algaande zyn hair kemmende.</hi></speaker>
+<l>Dat 's voor een zoet vermaak, gering.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Otje</hi>, <hi rend="i">verbaasd weêrom koomende.</hi></speaker>
+<l>Heer, Ouwekennis komt verstelt, en...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ritzaart</hi>, <hi rend="i">met verstoortheid.</hi></speaker>
+<l>Wat wil hy? 'k wensch hem voor Sint Felten.</l>
+<l>Ga vlieg, en zeg, dat ik deez' dag</l>
+<l>Niet kan, noch aan hem spreeken mag,</l>
+<pb n="8"/>
+<l>En dat een zaak van groot belangen....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Otje</hi>.</speaker>
+<l>Het is te laat, of ik wil hangen!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ritzaart</hi>.</speaker>
+<l>'k Wensch hem de Nikker op zyn huid:</l>
+<l>Maar, wil j'em dan niet keeren, Guit?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Otje</hi>.</speaker>
+<l>Daar is hy, hoe kan ik 't beletten?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ritzaart</hi>.</speaker>
+<l>De Duiker moet die Vent verpletten;</l>
+<l>Die my verstoort in myn bejag.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Ritzaart, Ouwekennis, Otje</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ritzaart</hi>.</speaker>
+<l>HA! Ouwekennis, goeden dag.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Ik heb u licht weêrom doen keeren?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ritzaart</hi>.</speaker>
+<l>In 't minste niet:</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Otje</hi>.</speaker>
+<l rend="; 1tab">‘Hoe kan hy smeeren!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Och, zonder uwe hulp, ik sterf!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ritzaart</hi>.</speaker>
+<l>‘'k Wensch u gehangen duizend werf.</l>
+<l>Myn Vriend, al kosten 't ook myn leeven,</l>
+<l>Zal my de lust noch wil begeeven,</l>
+<l>Om u te dienen als 't betaamd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Uw heusheid, Heer, maakt my beschaamd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ritzaart</hi>.</speaker>
+<l>‘En ik word raazend van uw teemen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Otje</hi>.</speaker>
+<l>‘'t Gaat braaf, wil maar koeragie neemen.</l>
+</sp>
+<pb n="9"/>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Zo gy my dienst wil doen, zo kom</l>
+<l>En ga een straatjen met my om.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ritzaart</hi>.</speaker>
+<l>'k Zou barvoets voor u gaan na Romen...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Otje</hi>.</speaker>
+<l>‘Wie heeft oit valscher mensch vernomen</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ritzaart</hi>.</speaker>
+<l>En 'k ben heel tot uw dienst bereid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Uw gunst en openhertigheid</l>
+<l>Te my waarts, weinig weêrgâvinden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ritzaart</hi>.</speaker>
+<l>‘'k Wensch dat de hel u mag verslinden.</l>
+<l>Vriend, gy zult zien, dat met 'er daad</l>
+<l>Ik meêr zal doen als met de praat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Kom, gaan we.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ritzaart</hi>, <hi rend="i">tegens zyn Knecht.</hi></speaker>
+<l rend="; 1tab">Gy zult dit vergelden.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Otje</hi>.</speaker>
+<l>JA, ja, jouw kyven, dreigen, schelden,</l>
+<l>Ben ik al lang gewend: wie heeft</l>
+<l>Zen leeven zulk bedrog beleeft,</l>
+<l>Of van zo vuile veinzerijen</l>
+<l>Gehoord? De Drommel mogt dit lijen</l>
+<l>En by jou woonen!</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Achtste tooneel</head>
+<stage><hi rend="sc">Fem, Otje</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Fem</hi>.</speaker>
+<l>HEm.</l>
+</sp>
+<pb n="10"/>
+<sp>
+<speaker><hi rend="sc">Otje</hi>.</speaker>
+<l rend="; 4tab">Ja hem:</l>
+<l>Zie ik je niet, ik hoorje stem.</l>
+<l>ô Fem! de Drommel moet me haalen</l>
+<l>Zo 'k om jou docht; waar loopje dwaalen</l>
+<l>By avond dus allien langs straat?</l>
+<l>Of zoekje neering?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fem</hi>.</speaker>
+<l rend="; 3tab">Wat ien praat!</l>
+<l>Foei, schaam jou, 'k heb ien stuk Gebraade</l>
+<l>Gebrogt tot jufvrouw Karbenade:</l>
+<l>Maar jy, waar loopje dus bezwiet?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Otje</hi>.</speaker>
+<l>De Nikker schenje, ik weet 'et niet.</l>
+<l>Jouw Pry, het hoofd is me aan 'et hollen.</l>
+<l>Men Baas die is al weêr uit krollen,</l>
+<l>En komt te nacht niet t'huis.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fem</hi>.</speaker>
+<l rend="; 5tab">Dat 's goed,</l>
+<l>Wel kom tot onzent, malle Bloed;</l>
+<l>Ons volk is juist te gast: we zullen</l>
+<l>Met onze Knecht Smeervet wat smullen,</l>
+<l>En lachchen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Otje</hi>.</speaker>
+<l rend="; 2tab">Geefme een zoen. j'hebt recht.</l>
+<l>Veur zulken Meester zulken Knecht.</l>
+<l>Maar zacht daar komt men Meesters Zwager.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fem</hi>.</speaker>
+<l>Wie is hy?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Otje</hi>.</speaker>
+<l rend="; 1tab">'t Is een Korendrager.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fem</hi>.</speaker>
+<l>Ien Korendrager? ha, ha!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Otje</hi>.</speaker>
+<l rend="; 4tab">Ja,</l>
+<l>Een Korendrager met een H.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="11"/>
+<head rend="h4">Negende tooneel.</head>
+<stage><hi rend="sc">Pefroen</hi>, <hi rend="i">met een Markt Emmer daar een Schaapshoofd in is.</hi> <hi rend="sc">Lysje</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>DE Duiker mogt zo langer leeven!</l>
+<l>Is 't noch niet lang genoeg gekeeven?</l>
+<l>Zeg, Varken, zal 't altyd zo gaan?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l>Ga, breng dit Schaapshoofd hier van daan</l>
+<l>Weêr na de Slager, maak geen grillen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>, <hi rend="i">met een schreijende stem.</hi></speaker>
+<l>Hy zal het niet weêr neemen willen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l>'k Loof jy me raazend maaken zouw?</l>
+<l>Wel wie of hier van eeten wouw?</l>
+<l>'k Stuur je om een jong, een lekker Lamshoofd,</l>
+<l>En jy brengt hier een hoornig Ramshoofd;</l>
+<l>Jou grooten Rekel, Ezel, Zót,</l>
+<l>Zie jy niet dat men met je spót?</l>
+<l>Ga breng het weêr, of 'k zel je villen,</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Hy zal het niet weêr neemen willen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l>'t Is oud, en 't stinkt: ruik. ben je een kind?</l>
+<l>'t Stinkt zeven mylen in de wind;</l>
+<l>Ga heen; want ziet 'k wil geen bedillen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Hy zal het niet weêr neemen willen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l>Kryg ik een stok, jy raakt in klem.</l>
+<l>Maar luister toch eens naar deez' stem:</l>
+<stage><hi rend="i">hem nabootzende.</hi></stage>
+<l>Hy zal het niet weêr neemen willen.</l>
+<l>Ik geef jou straks wat op de Billen.</l>
+<l>De Gard die leid al in de pis.</l>
+<pb n="12"/>
+<l>Wel hoe of 't hier geschaapen is,</l>
+<l>Zeg, Haanrey?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l rend="; 1tab">Ik wil graag belijen,</l>
+<l>Dat ik, toen ik jou eerst kwam vrijen,</l>
+<l>(Jou geilheid ziende vol ontrouw,)</l>
+<l>Wel docht, wat dat ik weezen zou.</l>
+<l>Wat raad? want Heintje Pik afschuuw'lyk,</l>
+<l>Die Koppelaar was van ons huuw'lyk,</l>
+<l>Die schynt wel heeft het zo verstaan;</l>
+<l>En 't is hem na zyn zin gegaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l>Je walgt me, en 'k zie je met afgryzen:</l>
+<l>Ga ik langs straat, de Buuren wyzen</l>
+<l>My stadig met een vinger naar.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>En aan my toond m'er wel een paar.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l>Wat was ik zot, dat ik ging trouwen</l>
+<l>Met zulk een Jakhals, zulk een Bouwen,</l>
+<l>Een die zo arm was als een Muis,</l>
+<l>Ja kaalder als een Beed'laars Luis:</l>
+<l>Ik die een eenig kind, mooi, proper</l>
+<l>Was van een ryke Beddekoper?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Dit 's de oorzaak moog'lyk, dat jouw eer</l>
+<l>Zo licht is, als een Ganzeveer.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l>Jou schort een praatje, Logge Leunis,</l>
+<l>Ga breng dit hoofd weêr straks aan Teunis,</l>
+<l>Of 'k breek jou licht een arm of been.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Ai, sla me niet, ik ga straks heen:</l>
+<l>Maar het is tyd en moeiten spillen;</l>
+<l>Hy zal 't toch niet weêr neemen willen.</l>
+</sp>
+<stage><hi rend="sc">Pefroen</hi>, <hi rend="i">schreijende weg gaande, beluisterd zyn Wyf van verre.</hi></stage>
+</div>
+<div type="scene">
+<pb n="13"/>
+<head rend="h4">Tiende tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l>NOch meêr? brus voort, je zult ik zweer't</l>
+<l>Dit weêr bezuuren als je keerd.</l>
+<l>Ja wel kedaar, ik kan 't niet dulden!</l>
+<l>Had ik zo menig duizend gulden</l>
+<l>Als ik berouwen heb gehad</l>
+<l>Van jou te trouwen, Vrind, in Stad</l>
+<l>Was niemand ryker: maar patientsy:</l>
+<l>Ik maak van alles juist geen mentsy;</l>
+<l>Het was myn' Ouders wil, en 'k most</l>
+<l>Om best wil doen zo ik best kost.</l>
+<l>Was 't aârs, hy rook niet aan de Lever.</l>
+<l>Deez' bloed was Knecht by onze Weever,</l>
+<l>En won een kroon, of om die streek,</l>
+<l>Met al zyn slooven in de week;</l>
+<l>Was 't niet om dapper op te teeren?</l>
+<l>Het was een Vogel zonder veêren,</l>
+<l>Die niet een goed kleed had aan 't gat,</l>
+<l>Zo ik 't hem niet gegeeven had.</l>
+<l>Deez' Luishond echter, met zyn grillen,</l>
+<l>Zou noch wel Meester speelen willen,</l>
+<l>Zo ik hem zulks niet had belet,</l>
+<l>En hem de kruin wat recht gezet.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Elfde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>, <hi rend="i">haar beluisterd hebbende.</hi></speaker>
+<l>WEl, Feeks, zyn dit zo schoone zaaken,</l>
+<l>Om jou hier door beroemd te maaken?</l>
+<l>Ben ik door jou geraakt in 't Gild,</l>
+<l>'t Waar best dat gy dit liet in 't stilt',</l>
+<l>En gingt jouw schand niet openbaaren.</l>
+<l>Och! wat 's men in zen jonge jaaren</l>
+<pb n="14"/>
+<l>Gelukkig, als men, zonder Wyf,</l>
+<l>En zorg, niet zoekt als tydverdryf.</l>
+<l>Men speelt met Knikkers, men gaat Hoepen,</l>
+<l>Men Koot, men Bikkeld in de Stoepen,</l>
+<l>Of wel in Huis, naar dat men wil;</l>
+<l>Men speeld Schuilhoekje, Gatjebil;</l>
+<l>Nou gaat men Kolven, dan eens Kaatzen;</l>
+<l>Men ryd in 't Sleedje, of wel op Schaatzen;</l>
+<l>Men zend de Vlieger na de lucht,</l>
+<l>En gaat uit zwemmen met genugt;</l>
+<l>Als 't weêr tot uitgaan niet bekwaam is,</l>
+<l>En dat men met de Meisjes t'saam is,</l>
+<l>Dan speeld men Bruidje, Handjeklap,</l>
+<l>Of Kraamvrouw geef het Kindje pap.</l>
+<l>Knikknelishuis, Verkeerdereden,</l>
+<l>En duizend andre zoetigheden,</l>
+<l>Daar meê men zyn onnooz'le tyd</l>
+<l>Geneug'lyk, zonder ramp, verslyt;</l>
+<l>Zo dat men mag van Kinders zeggen,</l>
+<l>Dat zy een beter leeven leggen</l>
+<l>Als wy Getrouwden, die voor 't meest</l>
+<l>Nu zyn, 't geen zy nooit zyn geweest.</l>
+<l>Myn Wyf die heeft 'et gaan vertrekken,</l>
+<l>Ik ben 't, en kan het niet bedekken;</l>
+<l>Doch, 'k troost my dat ik hier ter plaats</l>
+<l>Verscheid'ne voor myn Kameraads</l>
+<l>Mag groetten: maar recht uit te kallen,</l>
+<l>Ik ben d'ellendigst' wel van allen;</l>
+<l>Mits hy, die my doet dit affront,</l>
+<l>My noch komt slaan gelyk een hond.</l>
+<l>Wie zou zulk leeven niet vervloeken?</l>
+<l>Zy noemt hem, om my te bedoeken,</l>
+<l>Kozyn. deez' Snoeshaan is gestaâg</l>
+<l>By haar, des nachts en over daag:</l>
+<l>Hy slaapt op 't beste bed by vlaagen;</l>
+<l>Ik onder in een Rollewagen;</l>
+<pb n="15"/>
+<l>Myn Wyf in een schoon Ledekant.</l>
+<l>Des avonds, om my vander hand</l>
+<l>Te hebben, is 't: snyd een stuk eeten,</l>
+<l>En loop na bed; als ik gegeeten,</l>
+<l>En klein bier toe gedronken heb,</l>
+<l>Dan kruip ik zachtjens in myn kreb:</l>
+<l>Maar zy zyn, foey! ik moet 't my schaamen,</l>
+<l>Tot overmiddernacht te saamen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Twaalfde tooneel.</head>
+<stage><hi rend="sc">Ritzaart, Pefroen</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ritzaart</hi>.</speaker>
+<l>IS ma Kouzine in huis?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l rend="; 1tab">Ik mien</l>
+<l>Wel ja, Heer. dit 's Kozyn; laat zien</l>
+<l>Of hy zal kloppen? Ouwe leuren!</l>
+<l>Zyn Sleutel opend alle deuren</l>
+<l>En Slooten van ons heele huis,</l>
+<l>Tot zelfs myn Wyfs trezoor, inkluis.</l>
+<l>Daar koomtze, bloed, had ik gezweegen!</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Dertiende tooneel.</head>
+<stage><hi rend="sc">Lysje</hi>, <hi rend="i">met Ritzaarts schoenen, en een leege Wynflesch.</hi> <hi rend="sc">Pefroen</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l>STa jy hier noch? Hoe is 't gelegen?</l>
+<l>Spreek op, Schavuit, waar 's 't Schaapshoofd; hê</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Ik breng hier nou een ander meê.</l>
+<l>Dat hy varsch van een Schaap deed villen.</l>
+</sp>
+<stage><hi rend="i">Dit gezegt hebbende, geeft hy haar de Emmer met het Schaapshoofd over.</hi></stage>
+<pb n="16"/>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l>Hy zal het niet weêr neemen willen.</l>
+<l>Heeft hy 't nouw niet genomen, Zwyn?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Wel ja.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>, <hi rend="i">hem de leege Flesch, en Ritzaarts Schoenen geevende.</hi></speaker>
+<l rend="; 1tab">Voort, haal deez' Flesch vol wyn,</l>
+<l>En veeg die schoenen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l rend="; 4tab">Ritzaarts schoenen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l>Wel ja.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l rend="; 1tab">Hy mag zyn Besje zoenen.</l>
+<l>Zo ik ze veeg....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l rend="; 3tab">'k Zeg veegtze, of strak</l>
+<l>Sluit ik je weêr eens in 't gemak,</l>
+<l>Daar jy drie dagen lang te water</l>
+<l>En brood zult zitten. Hoorje, Sater.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Ja 'k hoor 'et.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l rend="; 2tab">Wel, waar wil dit heen?</l>
+<l>Wie zal hier meester zyn van tweên?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Dat is niet duister om te raaden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l>Ga, zie eens tot de Koks na 't braaden</l>
+<l>Van 't Achterboutje, en van 't Kappoen:</l>
+<l>Jy meugt dan straks jouw maaltyd doen</l>
+<l>Met Panvis, eer die gaat verlooren.</l>
+<l>Geef hier die schoenen.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="17"/>
+<head rend="h4">Veertiende tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>, <hi rend="i">de Flesch aan stukken smytende.</hi></speaker>
+<l rend="; 1tab">'k Brand van tooren!</l>
+<l>En 'k loof, zo Job dit kwaad verdroeg,</l>
+<l>Dat hy van spyt aan 't raazen sloeg,</l>
+<l>En zeggen zou in deeze kwaalen:</l>
+<l>De Droes moet die Kozyn wel haalen,</l>
+<l>En bryz'len hem zo fyn als glas.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyftiende tooneel.</head>
+<stage><hi rend="sc">Ouwekennis, Pefroen</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>‘IK koom hier nou juist recht van pas,</l>
+<l>‘Om aan myn voorneem klem te geeven.</l>
+<stage><hi rend="i">Tegens Pefroen.</hi></stage>
+<l>Foey jou: waar is je schaamt' gebleeven:</l>
+<l>Dat al de Buuren in de straet</l>
+<l>Staâg zien hoe datje Wyf jou slaat?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Wat zal ik doen, myn lieve Buurman?</l>
+<l>Ze ziet my als een Leeuw zo zuur an,</l>
+<l>Als ik iets zeg; vermits Kozyn</l>
+<l>Haar dwingt om my zo straf te zyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Wat maakt hy toch tot uwent, deezen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>'t Geen dat van my gedaan moest weezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Ik heb hem straks, met zoetigheid,</l>
+<l>Eens onderhouwen, en gezeid</l>
+<l>Hoe al de Waereld hem beschuldigd,</l>
+<l>Dat hy jou dus met oneer huldigd;</l>
+<l>Maar hy, in plaats van te verslaan,</l>
+<pb n="18"/>
+<l>Is spottend' van my afgegaan;</l>
+<l>Hy heeft zyn kneevels opgestreeken,</l>
+<l>En zei, dat hy jouw Vrouw moest spreeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Och! Buurman, had jy hem gekeerd,</l>
+<l>Ik had jou 'k weet niet wat vereerd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Van een Kozyn, dat 's noch te lijen:</l>
+<l>Vermits de Vrouwtjens, in deez' tijen,</l>
+<l>Hoewel tot droefheid van veel Mans,</l>
+<l>Staâg zyn met and'ren aan den dans.</l>
+<l>Toch jy bent van Acteons Jaagers,</l>
+<l>De Hoofdman van de Hoorendraagers.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Dat is tot daar en toe. ik ken</l>
+<l>Niet anders weezen als ik ben.</l>
+<l>Myn Wyf is mooi, en vry bekoorlyk;</l>
+<l>Doch doedze kwaad, 't is wel behoorlyk</l>
+<l>Dat zy de straf lyd, 't raakt my niet.</l>
+<l>Maar 't geen my 't aldermeest verdriet,</l>
+<l>En schier onmoog'lyk valt te draagen,</l>
+<l>Is datze my zo brust met slagen,</l>
+<l>Dat al myn leden, door die pyn</l>
+<l>Geduurig als gerabraakt zyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Gebuur, jy hebt wel licht vernomen...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Ja, dat jy bent geweest na Romen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Ho, ho, al ben ik niet heel oud,</l>
+<l>Ik heb al vry wat meêr beschouwd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Hoe! strekt de Waerelt dan noch varder?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Wat benje een' onbedreven Harder!</l>
+</sp>
+<pb n="19"/>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Wie, ik? ik heb den Haag gezien,</l>
+<l>Het Hof, de Prins, en de Edelliên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Dat is niet waerdig om te noemen,</l>
+<l>By 't geen men buitens 's lands mag roemen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>O selleweeken! ik moet gaan,</l>
+<l>Myn Wyf zou my te barste slaan.</l>
+<l>Ik kom straks weêr.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l rend="; 1tab">Neen, blyf: gantsch lyden!</l>
+<l>Myn reden zullen je verblyden.</l>
+<l>Maar mits de tyd nu kort is, zal</l>
+<l>Ik niet verhaalen wat ik al</l>
+<l>Voor wond'ren zag in vreemde landen;</l>
+<l>Doch zynde in de Indische waranden,</l>
+<l>Wierd my vereerdt een stukjen houts,</l>
+<l>Geschat op zeven tonnen gouds;</l>
+<l>Maar een stuk houts van wond're krachten,</l>
+<l>Dat de allerbooste Vrouw verzachten,</l>
+<l>En goed kan maaken als m'er slaat,</l>
+<l>Al wasze ook als de Droes zo kwaad.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Het mogt de Duiker, dat 's wat zonders!</l>
+<l>Maar de oorspronk van dit hout vol wonders?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Komt van een Gchina Gchinaasboom,</l>
+<l>Geplant by een keiryke stroom,</l>
+<l>Door de allerkloekste der Gchineezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Bylo! dat moet een Gaauwerd weezen,</l>
+<l>Indien dit hout zo deugdzaam is.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Zo maar jouw Wyfde smaak had, wis...</l>
+</sp>
+<pb n="20"/>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Ik wou wel dat zy 't eens mogt proeven:</l>
+<l>Maar dit maal durf ik niet vertoeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Blyf staan, zeg ik: want zo je wilt,</l>
+<l>Haar boozheid word wel haast gestilt.</l>
+<l>Ik zweer jou, en het zal ook blyken,</l>
+<l>Dat zy haar zelf niet zal gelyken,</l>
+<l>Zo goed als zy zal worden, door</l>
+<l>De kracht van deeze wortel.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l rend="; 2tab">Hoor:</l>
+<l>Zou ik haar somtyds moogen zoenen,</l>
+<l>En by haar slaapen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l rend="; 1tab">Welk een Oenen!</l>
+<l>Slaap jy niet by haar als 't jou lust?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Gantsch bloed, dan was ik wel gerust,</l>
+<l>Indien ik mogt die vreugde raapen.</l>
+<l>Maar waar zou haar Kozyn dan slaapen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Hy slaape by de Droes voortaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Och! daar zal zy nooit toe verstaan;</l>
+<l>Haar hert zou staâg weêr na hem jeuken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Je zult haar rug als Stokvis beuken,</l>
+<l>Dan zal zy, ziende haar verheerdt,</l>
+<l>Al doen wat jy van haar begeerdt.</l>
+<l>Als zy boosaardig, en verbolgen.</l>
+<l>Haar kwaâ gewoonte komt te volgen,</l>
+<l>En jou mishandeld, dan is 't tyd,</l>
+<l>Dat jy tot straffen vaerdig zyt.</l>
+<l>Neem deze Wortel rustig, moedig,</l>
+<l>En smeerdt haar rug dan lustig bloedig,</l>
+<pb n="21"/>
+<l>Zo zal jy haar straks daatlyk zien,</l>
+<l>Voor jou geboogen op de kniên,</l>
+<l>Vergifnis biddende, u daar neven</l>
+<l>Beloven, dat zy al haar leeven</l>
+<l>Jou zal gehoorzaam zyn, bereid</l>
+<l>Om jou te dienen als een meid;</l>
+<l>Ze zal jou liefde en trouw toedraagen,</l>
+<l>En haar Kozyn ten huize uitjaagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Dat zou zeer goed zyn. maar de kwant</l>
+<l>Die allereerst deez' Wortel vand?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Heeft het beproeft: dies wilt niet vreezen.</l>
+<l>Heb jy myn Wyf gekend voor deezen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Ja toch. iget, het was 'er een!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Drie slagen van deez' Radiks, deên</l>
+<l>Dat zy zo goed als wyn en brood wierd:</l>
+<l>Maar eer dat jy dus ruim de schoot vierd,</l>
+<l>Is 't noodig datje een woord, of zes</l>
+<l>Gchineesch leerd, en heel fiks jouw les</l>
+<l>En rol kend, aârs zou jy de slagen,</l>
+<l>Haar toegeschikt, zelf moeten draagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Kom, leer my die dan, haastje wat,</l>
+<l>Eer datze ons hier betrapt op 't mat:</l>
+<l>Ze zal straks koomen. Selleweeken,</l>
+<l>Ik kan van vreugde naauwlyks spreeken!</l>
+<l>Men zal haar daadlyk, zo ik mien,</l>
+<l>Heel vreemde sprongen springen zien,</l>
+<l>Die my bet als haar zullen haagen.</l>
+<l>En zo dit werk wel komt te slagen,</l>
+<l>Is al 'et geen ik heb, voor jou</l>
+<l>Ten besten, neem myn geld, myn Vrouw,</l>
+<l>Gebruik het alles zonder schroomen,</l>
+<pb n="22"/>
+<l>Of 't jou altyd had toegekoomen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Ik eisch jou niets. hou je maar stout,</l>
+<l>Dat jy deez' woorden wel onthoud:</l>
+<l><hi rend="i">Taasse, rouzi, friou, Titave,</hi></l>
+<l><hi rend="i">Glazibus, razibus, vinum grave.</hi></l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Gantsch lichters, wat verbrutste taal!</l>
+<l>Ik zie geen kans dit altemaal</l>
+<l>In een rond jaar, ik wil 't wel zweeren,</l>
+<l>Veel min zo op een sprong, te leeren,</l>
+<l>Dat ik het duid'lyk zeggen zel,</l>
+<l>Hadieu, Gebuur, het gaat je wel.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Pefroen, hoor hier, of 't zal niet deugen.</l>
+<l>Al was 't dat jy niet meêr geheugen</l>
+<l>Als een Garnaelshoofd had, zal ik</l>
+<l>Jou, in min als een oogenblik</l>
+<l>Van buiten leeren een History.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Wel Vriend, verschaf jy dus malmory?</l>
+<l>Zo moest jy my van stonden aan</l>
+<l>Daar van voorzien: want ik moet gaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Zeg op, jy snatert als een Rave;</l>
+<l><hi rend="i">Taasse, rouzi, friou titave,</hi></l>
+<l><hi rend="i">Glazibus, razibus, vinum grave.</hi></l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l><hi rend="i">Taassen rou...</hi></l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l rend="; 1tab">Hoe! twee woorden maar?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Patientie dat ik wat bedaar.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l><hi rend="i">Taasse....</hi></l>
+</sp>
+<pb n="23"/>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l rend="; 1tab">Ho, ho, me dunkt 'k verstaatme</l>
+<l>Een Geldtas, niet?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l rend="; 4tab">‘'t Geduld verlaatme!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Spreek liever langzaam, 't een na 't aâr.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Ik zeg 't jou duidelyk en klaar:</l>
+<l><hi rend="i">Taasse rouzi.</hi></l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l rend="; 3tab">Nou lustig t'zaamen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Waarom versteurje my?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l rend="; 5tab">'k Zouw raamen.</l>
+<l>Als ik 't gelyk op zei met jou,</l>
+<l>Dat ik het eerder leeren zouw.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Hoor toe; en wil jouw hoofd niet breeken.</l>
+<l>Je zult de woorden na my spreeken:</l>
+<l><hi rend="i">Taasse...</hi></l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l rend="; 1tab"><hi rend="i">Taassen</hi>, is 't goed, myn Heer?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Vaar voort.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l rend="; 2tab">Ja, maar ik weet niet meêr.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Wel, wat meen jy dan te beginnen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>'t Gerokkende voort af te spinnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Maar zo je niet in jouw verstand...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Wat spreekt me ook Heidens in dat land!</l>
+<pb n="24"/>
+<l>Veurwaar de spraak van deez' Gchineezen</l>
+<l>Moet moeilyk om te leeren weezen.</l>
+<l>Van dit studeeren draaid myn' kop.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>‘Ik geef het noch niet gants'lyk op:</l>
+<l>‘Want om dit Wyf haar straf te geeven,</l>
+<l>‘Moet ik met hem geduldzaam leeven,</l>
+<l>‘Tot ik van hem verzekerd ben.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Hoort toe: my dunkt dat ik het ken.</l>
+<l><hi rend="i">Taasse, rouzi, friou titave,</hi></l>
+<l><hi rend="i">Glazibus, razibus, vinum grave.</hi></l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>, <hi rend="i">hem de Wortel overgeevende.</hi></speaker>
+<l>Goed is 't. ga heen. door dit bedryf,</l>
+<l>Zel jy je Meester zien van 't Wyf.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zestiende tooneel.</head>
+<stage><hi rend="sc">Pefroen, Lysje</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>‘Daar komt Lys Kleumkous, Scheuk der Scheuken,</l>
+<l>‘Hoe wil ik jou dat rugbeen beuken!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l>Wel Rekel, kom je nou eerst weêr?</l>
+<l>Waar is de Wyn? 't Gebraad? ik zweer...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>‘O Vodd', hoe wil ik straks schermutz'len!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l>Wat staat dien Wynbalg daar te futz'len?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l><hi rend="i">Taasse, rouzi, friou..</hi> ‘ô spyt!</l>
+<l>Ik ben de laatste woorden kwyt!</l>
+<l>Gebuur.....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l rend="; 2tab">Wat mag dien Gek al leggen....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l rend="; 1tab">Deur is hy zonder iets te zeggen.</l>
+<pb n="25"/>
+<l>Ze heeft gelyk: want door gebrek</l>
+<l>Van 't lest, sta ik hier als een Gek.</l>
+<l>Het rymde, dunkt my, op een Rave,</l>
+<l><hi rend="i">Taasse, rouzi, friou, titave,</hi></l>
+<l>Daar heb ik 't weêr gevonden; goed!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l>In 't Gekken Gasthuis met dien bloed.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Niet al gek. 't sa, de reverentsy,</l>
+<l>Heel fraaitjens voor myn Ekselentsy;</l>
+<l>Maar na de nieuste moode: want....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l>Hy is beroofd van zyn verstand.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Van myn verstand? Ik zal je leeren</l>
+<l>Hoe dat een Vrouw haar Man moet eeren.</l>
+<l>De reverentsy, zeg ik, of</l>
+<l>Deez' Radiks...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l rend="; 1tab">Maak het niet te grof.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>, <hi rend="i">haar slaande.</hi></speaker>
+<l><hi rend="i">Taasse, rouzi, friou, titave,</hi></l>
+<l><hi rend="i">Glazibus, razibus, vinum grave.</hi></l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l>Ik zal het doen, sla my dan niet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>De reverentsy. Neêr.<note n="*" place="margin"><hi rend="i">Zy neigt beleefdelyk.</hi></note> zo ziet.</l>
+<l>O Worteltjen, ik moet jou streelen</l>
+<l>Datje ons zo wel deez' rol doet speelen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l>Wie Duiker heeft je dit geraân,</l>
+<l>Dat jy my derft gebiên, en slaan?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>, <hi rend="i">haar slaande.</hi></speaker>
+<l>O Varken! laat je jou noch hooren?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l>Och liefste kind, verlaat jouw tooren.</l>
+</sp>
+<pb n="26"/>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Och liefste kind! verbruste Pry,</l>
+<l>Van waar komt my deeze eer? meen jy</l>
+<l>Dat ik jouw Ritzaart ben, dien brave?</l>
+<l><hi rend="i">Taasse, rouzi, friou, titave,</hi></l>
+<l>Die zal jou anders toonen dan.</l>
+</sp>
+<stage><hi rend="i">Hy slaat haar.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l>Och, och, genaâ, myn zoete Man!</l>
+<l>Wat deerdje? zegme jouw behaagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Ga straks Kozyn ten huize uitjaagen;</l>
+<l>En zie, noch spreek hem nooit weêr aan.</l>
+<l>Ga heen, en kom voort weêr. voortaan</l>
+<l>Zal ik de Man zyn van myn' Vrouwtje,</l>
+<l><hi rend="i">Taasse, rouzi, friou</hi>, zoet houtje!</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zeventiende tooneel.</head>
+<stage><hi rend="sc">Ritzaart, Lysje, Pefroen</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ritzaart</hi>.</speaker>
+<l>WAarom moet ik dus haast en stil</l>
+<l>Vertrekken?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l rend="; 1tab">Ga, om mynent wil.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ritzaart</hi>.</speaker>
+<l>Dat is genoeg voor de geleerde;</l>
+<l>'k Gehoorzaam u, dien ik staâg eerde.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Achtiende tooneel.</head>
+<stage><hi rend="sc">Pefroen, Lysje</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>WEg is hy: dit gaat zoo 't behoord.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l>Myn hertje Lief, hy is al voort.</l>
+</sp>
+<pb n="27"/>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Hy is al voort, dit doet jou schreijen.</l>
+<l>t'Sa, wil tot lachchen jou bereijen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l>Ik kan niet lachchen als ik ween.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Lach, of ik sla jou kop aan tween:</l>
+<l>Want zie ik wil niets van jou prachchen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l>Zal ik luidkeels of zachtjens lachchen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Luidkeels en hartig.<note n="*" place="margin"><hi rend="i">Zy lacht.</hi></note> houw, niet meêr;</l>
+<l>Te veel daar doet me 't hoofd van zeer.</l>
+<l>Schrei nou van stonden aan medoog'lyk.</l>
+<stage><hi rend="i">Zy schreid.</hi></stage>
+<l>Men pryst jouw stem in 't zingen hoog'lyk.</l>
+<l>Zing eens; maar, fnies eer datje zingt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l>Hoe fniezen, als de nood niet dwingt?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Fnies: want wil jy my tegenspreeken,</l>
+<l>Zal ik jou 't neusbeen stukken breeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l>'t Is my onmooglyk, slaatme vry.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>, <hi rend="i">haar slaande.</hi></speaker>
+<l><hi rend="i">Taasse rouzi</hi>, koom sta me by.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l>Al wat je doet 't zal doch niet baaten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Wel ken je niet zo meug je 't laaten;</l>
+<l>Fnies dan in schyn slechts; nu wel aan.</l>
+<stage><hi rend="i">Zy fniest.</hi></stage>
+<l>Het zeegens 't kind. Ik ben voldaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l>Ik loof't wel. mits in alle deelen,</l>
+<l>Jy hier den Baas hebt willen speelen,</l>
+<l>Het kan voor eenmaal zo wel deur.</l>
+</sp>
+<pb n="28"/>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Zing my dat Liedjen eens te veur...</l>
+<stage><hi rend="i">Hy neurit haar de wyz' voor.</hi></stage>
+<l>Ken jy de wyz' niet? watte dingen!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l>Myn stem deugd niemendal tot zingen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Noch stem, noch hoofd; j'hebt niet een lit</l>
+<l>Aan 't lyf, dat deugd of schaamt' bezit:</l>
+<l>Maar zie, ik wil en zal naar deezen</l>
+<l>Alleen jouw Man en Meester weezen.</l>
+<l>Zing op, verheug my door uw zangk.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l>Hoe zoude ik zingen, ik ben krank.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Ik zal jou een Doktoor verstrekken,</l>
+<l>Vier streeken van deez' Wortel trekken</l>
+<l>De kwaade dampen uit de kop.</l>
+</sp>
+<stage><hi rend="i">Hy slaat haar.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l>Och, och, ik sterf, houw jy niet op!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Jy sterven? men mag je een bezeeten</l>
+<l>Eer als een stervend Vrouwmensch heeten.</l>
+</sp>
+<stage><hi rend="i">Hy slaat haar.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Lysje</hi>.</speaker>
+<l>Houw op, ik smoor in dit verdriet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Zing dan; jouw huilen helpt hier niet.</l>
+<l>Of sterf vry, beter nou als laater.</l>
+<l>Verhang je hier, of spring in 't water.</l>
+<l>Doch eer ik zie jouw eind' vervuld,</l>
+<l>Zo wil ik dat je zingen zult:</l>
+<stage><hi rend="i">Pefroen zingt haar het volgende, of een ander Liedje voor, dat ze dan daar na gelykelyk te saamen zingen.</hi></stage>
+<pb n="29"/>
+<l><hi rend="i">Dus moet men de kwaade Wyven temmen, fa, la, la.</hi></l>
+<l><hi rend="i">Al zouwenze ook in haar traanen zwemmen, fa, la, la.</hi></l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Och <hi rend="i">Friou</hi>, straf der kwaade Vrouwen,</l>
+<l>Wat ben ik al aan jou gehouwen!</l>
+</sp>
+<stage><hi rend="i">Lysje, van verre Ritzaart ziende koomen, gaat stilzwygende in huis.</hi></stage>
+</div>
+<div type="scene">
+<head rend="h4">Negentiende tooneel.</head>
+<stage><hi rend="sc">Pefroen, Ouwekennis, Ritzaart</hi>, <hi rend="i">ieder van een byzond're zyde komende.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi> <hi rend="i">tegens Ouwekennis.</hi></speaker>
+<l>MYn Koning!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l rend="; 2tab">Heeft het Hout gediend?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>, <hi rend="i">tegens Ritzaart, die in 't Huis van Pefroen meend te gaan.</hi></speaker>
+<l>Heb jy hier iets verlooren, Vriend?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ritzaart</hi>.</speaker>
+<l>He!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l rend="; 1tab">Ho! zo hoog niet eens te draave,</l>
+<l><hi rend="i">Taasse, rouzi, friou, titave</hi></l>
+<l>Zou jou mishand'len, in der daad.</l>
+<l>Hier valt niet meêr te schachch'ren, Maat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ritzaart</hi>.</speaker>
+<l>Wel hei! Kozyn, hoe zal 't hier weezen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Hoor, geen Kozynschap meêr na deezen:</l>
+<l>Want jy behoorde wel te vreên</l>
+<l>Te zyn met 't geen je deed voor heen;</l>
+<l>Je meugd dat voor een lukje keuren,</l>
+<pb n="30"/>
+<l>'t Welk jou niet licht weêr zal gebeuren,</l>
+<l>Vermits ik daar in heb voorzien.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ritzaart</hi>.</speaker>
+<l>Wel Zot, zou jy my dan verbiên?...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Wat! Zot? jou Beest, men zal jou leeren</l>
+<l>Een eerlyk Man zyn Wyf te onteeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ritzaart</hi>.</speaker>
+<l>Onnooz'le Bloed, wat gaat jou aan!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Jy speeld noch de gebraade Haan!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Nou, lustig, nou, toon je als een Braave.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l><hi rend="i">Taasse, rouzi, friou, titave,</hi></l>
+<l>Myn Broertje, dit 's de Koningslag.</l>
+<l>Kom, help my watje helpen mag.</l>
+<l>Hou daar, hou daar: pak nou jouw biezen.</l>
+<stage><hi rend="i">Hy jaagd Ritzaart al slaande weg.</hi></stage>
+<l>Zie hoe hy 't Haaze pad gaat kiezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>‘Ik zie myn' wraak ten eind' gebrogt.</l>
+<l>Indien hier iemand weezen mogt</l>
+<l>Die t'huis een ontrouw Wyf wou temmen</l>
+<l>Behoeft my maar eens toe te hemmen;</l>
+<l>Myn' Wortel is tot ieders dienst.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Z' heeft my gered op 't onvoorzienst.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Twintigste, <hi rend="i">en laatste</hi> tooneel.</head>
+<stage><hi rend="sc">Ouwekennis, Fem</hi>, <hi rend="i">Koksmeid met het gebraad</hi>, <hi rend="sc">Pefroen</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>WAt zoekje kind?</l>
+</sp>
+<pb n="31"/>
+<sp>
+<speaker><hi rend="sc">Fem</hi>.</speaker>
+<l rend="; 2tab">Woond hier Pefroen niet?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Breng jy het Boutjen en 't Kappoen niet?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fem</hi>.</speaker>
+<l>Ja....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l rend="; 1tab">Ga dan binnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Fem</hi>.</speaker>
+<l rend="; 3tab">Wel, Sinjeur.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Kom, Buurman, 't moet 'er nou meê deur;</l>
+<l>Kom in, we zullen t'zaamen eeten:</l>
+<l>'k Wil myn geleede leed vergeeten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l>Hier by is puik van Graves Wyn,</l>
+<l>Zo klaar, zo rood als een Robyn,</l>
+<l>G'hebt Vlees, ik zal de Wyn betaalen</l>
+<l>En straks een Flesch of drie gaan haalen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Ik ben te vreên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l rend="; 2tab">Jouw Wyf getemd,</l>
+<l>Zal alles stemmen, wat jy stemt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Pefroen</hi>.</speaker>
+<l>Wat ben ik u verpligt, myn Braave!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ouwekennis</hi>.</speaker>
+<l><hi rend="i">Glazibus, razibus, vinum grave.</hi></l>
+</sp>
+<stage><hi rend="spat">EINDE</hi></stage>
+</div>
+</div>
+</body>
+</text>
+
+</TEI.2>

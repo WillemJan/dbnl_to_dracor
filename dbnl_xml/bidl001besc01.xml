@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Beschryving der spreekende perzoonen, zangen, danssen, konstwerken en vertoogen. Gevoegd by J.V. Vondels Faëton</title>
+               <author>Govert Bidloo</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Beschryving der spreekende perzoonen, zangen, danssen, konstwerken en vertoogen. Gevoegd by J.V. Vondels Faëton</hi> van Govert Bidloo uit 1685.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr></corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan type="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page><!-- specificeer de lege pagina's hier --></empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">bidl001besc01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note></note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Theater Instituut Nederland, signatuur: 13 A 18: 3</idno>
+               </bibl>
+               <p>Govert Bidloo, <hi rend="i">Beschryving der spreekende perzoonen, zangen, danssen, konstwerken en vertoogen. Gevoegd by J.V. Vondels Faëton</hi>. Jacob Lescailje (erven), Amsterdam 1685</p>
+               <p>&#160;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Beschryving der spreekende perzoonen, zangen, danssen, konstwerken en vertoogen. Gevoegd by J.V. Vondels Faëton</title>
+               <author>Govert Bidloo</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Beschryving der spreekende perzoonen, zangen, danssen, konstwerken en vertoogen. Gevoegd by J.V. Vondels Faëton</title>
+               <author>Govert Bidloo</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-09-23</date>
+               <respStmt>
+                   <name type="person">SG</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+      <text>
+<body><cf>
+<div type="chapter">
+
+<pb n="1"/>
+<p>BESCHRYVING</p>
+<p>DER</p>
+<p>Spreekende Perzoonen, Zangen, Danssen, Konstwerken en Vertoogen.</p>
+<p><hi rend="i">Gevoegd by</hi></p>
+<p>J.V. VONDELS</p>
+<p>FAÈTON, OF Roekelooze Stoutheid.</p>
+<p><hi rend="i">Vertoond of de Amsterdamsche Schouburg</hi>.</p>
+<p><figure>
+<p><xptr to="bidl001besc01ill0001.gif"/></p>
+</figure></p>
+<p>t'AMSTERDAM,</p>
+<p>By d'Erfg: van Jacob Lescailje, op den Middeldam, naast de Vischmarkt. 1685.</p>
+<p>Met Privilegie</p>
+
+</div></cf>
+<div type="chapter">
+<interpGrp>
+<interp type="primair" value="16850220"/>
+</interpGrp>
+<pb n="2"/>
+<head rend="h3">Copye van de privilegie.</head>
+<p>DE Staten van Hollandt ende West-Vrieslandt doen te weten. Alsoo Ons vertoont is by de tegenwoordige Regenten van de Schouwburgh tot Amsterdam, dat sy Supplianten sedert eenige Jaren herwaarts met hunne goede vrinden hadden gemaakt en ten Toonde gevoert verscheyden Werken, soo van Treurspeelen, Blyspeelen als Kluchten, welke sy lieden nu geerne met den druk gemeen wilden maken: doch gemerkt dat dese werken door het nadtakken van anderen, veel van hun luyster, soo in Taal als Spelkonst souden komen te verliesen, en alsoo sy Supplianten hen berooft souden sien van hun bysonder ooghwit om de Nederduytsche Taal en de Dichtkonst voort te setten, soo vonden sy hen genoodsaakt, om daar inne te voorsien, ende hen te keeren tot Ons, onderdanig versoekende, dat Wy omme redenen voorsz. de Supplianten geliefden te verleenen Octroy ofte Privilegie, omme alle hunne Werken reedts gemackt ende noch in 't licht te brengen, den tijde van vijftien Jaren alleen te mogen drukken en verkoopen of doen drukken en verkoopen, met verbodt van alle anderen op seekeren hooge peene daar toe by Ons te stellen, ende voorts in communi forma. Soo is 't dat Wy de Sake en 't Versoek voorsz. overgemerkt hebbende, ende genegen wesende ter bede van de Supplianten, uyt Onse rechte wetenschap, Souveraine macht ende authoriteyt deselve Supplianten geconsenteert, geaccordeert ende geoctroyeert hebben, consenteren, accorderen ende octroyeren mitsdesen, dat sy geduurende den tijdt van vijftien eerst achter een volgende Jaren de voorsz. Werken die reeds gedrukt zijn, ende die van tijdt tot tijdt door haar gemaakt ende in 't ligt gebragt sullen werden, binnen den voorsz. Onsen Lande alleen sullen mogen drukken, uytgeven en verkoopen. Verbiedende daarom allen ende eenen ygelijken deselve Werken naar te drukken, ofte elders naargedrukt binnen den selve Onsen Lande te brengen, uyt te geven ofte te verkoopen, op de verbeurte van alle de naargedrukte, ingebragte ofte verkogte Exemplaren, ende een boete van drie
+hondert guldens daar en boven re verbeuten, te appliceren een derde part voor den Officier die de calange doen sal, een derde part voor den Armen der Plaatse daar het casus voorvallen sal, ende het resterende derde part voor den Supplianten. Alles in dien verstande, dat wy de Supplianten met desen Onsen Octroye alleen willende gratificeren tot verhoedinge van hare schade door het nadrukken van de voorsz. Werken, daar door in geenige deelen verstaan, den inhoude van dien te authoriseten ofte te advoueren, ende veel min de selve onder Onse protectie ende bescherminge eenig meerder credit; aensien ofte reputatie te geven, nemaer
+<pb n="3"/>de Supplianten in cas daar in yets onbehoorlyx soude mogen influeren, alle het selve tot haten lasten sullen gehouden wesen te verantwoorden; tot dien eynde wel expresselijk begeerende, dat by aldien sy desen Onsen Octroye voor de selve Werken sullen willen stellen, daar van gene geabrevieerde ofte gecontraheerde mentie sullen mogen maken, nemaar gehouden sullen wesen het selve Octroy in 't geheel ende sonder eepige Omissie daar voor te drukken ofte te doen drukken, ende dat sy gehouden sullen zijn een exemplaar van al de voorsz. werken, gebonden en wel geconditioneert te brengen inde Bibliotheecq van Onse Universiteyt tot Leyden, ende daer van behoorlyk te doen blyken. Alles op poene van het effect van dien te verliesen. Ende ten eynde de Supplianten desen Onsen consente Octroye mogen genieten als naar bebooren: Lasten wy alle ende eenen ygelijken die 't aangaan mag, dat sy de Supplianten van den inhoude van desen doen, laten en gedogen, rustelijk en volkomentlijk genieten, en cesserende alle beletten ter contrarie. Gedaan in den Hage onder Onsen grooten Zegele hier aan doen hangen den <hi rend="sc">xix</hi> September, in 't Jaar onses Heeren en Zaligmakers duysent ses hondert vier en tachtigh.</p>
+<p><hi rend="sc">g. fagel</hi>.</p>
+<p>Ter Ordonnantie van de Staten</p>
+<p><hi rend="sc">simon</hi> van <hi rend="sc">beaumont</hi>.</p>
+<p>&#160;</p>
+<p>De tegenwoordige <hi rend="sc">Regenten</hi> van de <hi rend="sc">Schouburgh</hi>, hebben het Recht van de bovenstaende Privilegie, voor deze Beschrijving, vergunt aan d'Ersgenamen van <hi rend="sc">Jacob Lescailje</hi>.</p>
+<p>&#160;</p>
+<p><hi rend="i">In Amsterdam, den</hi> 20 <hi rend="i">February</hi>, 1685.</p>
+</div>
+<div type="chapter">
+<pb n="4"/>
+<head rend="h3"><hi rend="i">Aan den Leezer, of Aanschouwer</hi>.</head>
+<p>OM uwe nieuwbegeerige oogen, en ooren, zoo veel wy vermoogen, te vergenoegen, hebben wy goed gevonden, het groote Treurspel van <hi rend="sc">Faëton</hi>, door wijlen de Heer <hi rend="sc">J.v. Vondel</hi> gemaakt, ten Tooneele te brengen; maar alzoo de Dichter gewoonlijk zijne Speelen, op de Oude Grieksche, en Latijnsche wijze geschikt heeft, en derhalven aan de hedendaagsche smaak, die op der Franschen geschiktheid, of der Itaaliaanen veranderingen van vertoogen gestelt is, niet allom voldoed, neemen wy de vryheid, onvermindert des grooten Mans waardye, wien wy zoo veel achting als iemand, toedragen, om zijn schoone stuk, 't welk wy in 't geheel laaten, noch eenig sieraaden by te voegen. Men beschuldige ons echter niet van eenige betweetery; want de waarheid der bekende spreuk, dat men licht, tot de reeds uit gevondene zaaken wat toe doen kan, is by ons altijd, met zoo veel zekerheid aangenoomen, als dat'er niets lichter, dan berispen; en niet zwaarder, om te doen, dan verbeteren, valt.</p>
+<p>'T geen'er van 't by gevoegde, gezongen werd, is met deeze tekenen,, aangeweezen; de Sieraaden van het Tooneel, de Kleedingen der bizondere, en niet elk bekende Zinverbeeldende Perzoonen vind men ter vereischter plaatze beschreeven.</p>
+<p>Noch hebben wy tot meerder klaarheid hier by gedaan den inhoud van 't geheele Treurspel, en de Perzoonen, die de Dichter in 't zelve heeft in gevoerd.</p>
+<p><hi rend="sc">Faëton</hi>, Febus en Kleimenes Zoon, van Oom Epafus, Jupijnsen Isis Zoon, getergt en beschimpt, over d'onkunde aan zijnen Vader, hem van Klymene (zoo de schimper uitstroide) toegelegt; bid de Moeder datze hom tog zijnen regten Vader toone, het welck zy belooft. Hier op trektze met den Zoone en hare drie Dogteren, Faëtuze, Lampete, en Febe, uit Ethiopie door Oost-Indie, naar Febus hof en den opgank der Zonne, daar Febus haar en de Kinders wellekomt, <hi rend="sc">Faëton</hi> verzekert dat hy zijn eigen Vader is, en, tot een onderpand van dien, met een hoogen eed zweerd den Zoon te schenken wat hy op zijnen Vader zal begeeren. <hi rend="sc">Faëton</hi> eischt reukeloos den Zonnewagen eenen dag te mogen regeeren, het welck Febus hem ongaarne, dog door den hoogen eed verbonden, ten leste inwilligt. <hi rend="sc">Faëton</hi> stijgt hier op vrolijck te wagen, rukt voort, en, onbedreven in het mennen der Zonnepaarden, verbijstert, mist de regte heirbaan, en helpt de Paarden, ten bederve der Weereld, aan 't hollen. Jupiter werd
+<pb n="5"/>hierom van Juno en den Hemelraad gedwongen dien brand te blusschen, en treft den reukeloozen Wagenaar, dat hy inden Padus [sedert den Eridaan naar hem genoemt] neder plompt, daar de Moeder en Gezusters met Cycnus, het begraven lijk beklagen. en Klymene hare Dogters in Popelierboomen, Cycnus in een Zwaan ziet veranderen. Febus, in zijnen rouwe van de Goden beklaagt, en treurig, laat zig eindelijk troosten, en gaat heenen, om den gerabraakten Zonnewagen te herstellen, ende weder te regeeren.</p>
+<p>Het Treurtooneel is Febus Hof. Het Treurspel begint met den opgank, en eindigt met den ondergank, en de Lijkstaatsie van <hi rend="sc">Faëton</hi>.</p>
+<div type="section">
+<head rend="h4">De treurspeelders.</head>
+<list>
+<item><hi rend="sc">Klymene</hi>, <hi rend="i">Faetons Meeder.</hi></item>
+<item><hi rend="sc">Faëton</hi>, <hi rend="i">Febus en Klymenes Zoon.</hi></item>
+<item><hi rend="sc">Zonnelingen</hi>, <hi rend="i">Febus en Klymenes Dogters.</hi></item>
+<item><hi rend="sc">Rey</hi> van <hi rend="sc">Uuren</hi>.</item>
+<item><hi rend="sc">Febus</hi>.</item>
+<item><hi rend="sc">Juno</hi>.</item>
+<item><hi rend="sc">De Hemelraad</hi>.</item>
+<item><hi rend="sc">De Faam</hi>.</item>
+<item><hi rend="sc">Jupiter</hi>.</item>
+</list>
+</div>
+<div type="section">
+<head rend="h4">Vertooners, daar by gedaan.</head>
+<list>
+<item>De Nacht. <hi rend="i">Een Vrouw in een Zwart kleed, onder een Lamfer met Starren bezaaid, houdende een Maan in de hand.</hi></item>
+<item>Zorg. <hi rend="i">Een Man in 't Geel en Zwart, met een Slang om 't Lijf, en vleugels aan de Voeten en 't Hooft, hebbende 't haar los en engesiert.</hi></item>
+<item>Arbeid. <hi rend="i">Een Man met een Dommekracht, en ander Werk-tuig by zich, omkleed met een Leeuwen huid.</hi></item>
+<item>Hemelraad. <hi rend="i">Gedeeld in</hi> 3 <hi rend="i">Perzoonen, en genaamt</hi> 1 <hi rend="i">sle</hi>. 2 <hi rend="i">de</hi>. 3 <hi rend="i">de. Hemel-Raad.</hi></item>
+<item>Uuren. <hi rend="i">Die by wijze van Rey zullen spreeken.</hi></item>
+<item>Ganimedes. <hi rend="i">Een Jongeling, in 't Wit en Rood, met een Schenk-schaal en Kan by zich,</hi>.</item>
+<item>Vesta. <hi rend="i">Een Vrouw met een Muur kroon op, rijkelijk gekleed, hebbende eenige Aard-vruchten by haar, en een Cepter in de hand.</hi></item>
+<item>Iris. <hi rend="i">Een Jonge Vrouw met een Regenboog of 't Hooft, in 't Rood, Geel, en Blaauw gekleed.</hi></item>
+<item>De Lucht. <hi rend="i">Een Vrouw met een Chameleon op de hand, en een Hulzel. verbeeldende een Wolk, op 't hooft, daar een Vogel uit komt,</hi>
+<pb n="6"/><hi rend="i">voorts in Hemelblaauwe en Witte losse kleeren, nut vliegende Vogels versiert.</hi></item>
+<item>Tijd.</item>
+<item>Mercurius.</item>
+</list>
+</div>
+<div type="section">
+<head rend="h4">Zingende.</head>
+<list>
+<item>Eenige der Uuren. <hi rend="i">Gedeeld in uuren van de Dag, en Je Nacht, die van den Dag zijn gekleed met Witte Geblomde Rokken, en Roode Sluier-kleeden, het Hooft is geciert met een stralende Zen, en groene Kranssen. In haar handen ziet men Tuilkens van frisse Bloemen, op de rug veelverwige vleugelen: die van de Nacht, met Zwarte Rokken, met Sterren bezaaid, en Blaauwe Sluier-kleeden, hebbende op 't Hooft een Maan, en kranssen van Slaap verwekkende kruiden als nachtschade; in de hand een bundelken van Bilzengroen en Slaapbollen, op de rug zwarte Vleermuis vleugelen.</hi></item>
+<item>Wakkerheid. <hi rend="i">Een Vrouw met een Haan by haar, op 't Hooft een vurige vlam, in de hand een licht, voorts grootsch gekleet.</hi></item>
+<item>Slaap. <hi rend="i">Een dik Man, in 't Zwart en Wit gekleed, hebbende een krans om het Hooft van Slaapbollen, en Ypebladen.</hi></item>
+<item>De Vier Getijden des Jaars. Verbeeld in vier Perzoonen.</item>
+<item>Hemellieden. <hi rend="i">Mans en Vrouwen, in 't Wit gekleed.</hi></item>
+<item>Brongodinnen. <hi rend="i">Met een Rivier-kruik en Riem in de hand, Lieze kroonen op 't Hooft, en Zeegroene klederen aan.</hi></item>
+<item>Boschnimphen. <hi rend="i">In 't Wit, met Groente versiert.</hi></item>
+<item>Eeuwigheid. <hi rend="i">Een Vrouw met een bestraalde Driehoek, daar een oog in staat, op 't Hooft, een Slang, die de Staart vat in de hand, voorts in 't Groen en Wit gekleed.</hi></item>
+</list>
+</div>
+<div type="section">
+<head rend="h4">Danssende.</head>
+<list>
+<item>De Morgenstond en haar Gespeelen. <hi rend="i">In't Rood en Wit, met Sterren en bloemen op het Voorhooft.</hi></item>
+<item>Ganimedes en twee Homel-Geesten.</item>
+<item>De Vier Winden. <hi rend="i">In 't Wit, met vleugelen, en blazende tronien op de borst, en Hooft-cieraden van vleugelen op 't hooft, in hunner midden.</hi></item>
+<item>Eölus. <hi rend="i">In't Blaauw, met Wolken, Winden, Weerlichten en Onweeren beschildert.</hi></item>
+<item>Gebrande Volkeren. <hi rend="i">In 't Zwart, met gloeiende Aangezichten, Handen en Voeten.</hi></item>
+<item>De Seven Planeeten. <hi rend="i">Mannen in 't Rood gekleed, hebbende ieder zijn Sterreteken in de hand, en een cieraad van Sterren op 't Hooft.</hi></item>
+</list>
+</div>
+</div>
+<div type="act">
+<pb n="7"/>
+<head rend="h3">Voor het Treurspel van Faëton.</head>
+<stage>Het geheele Tooneel verbeeld een Wolkhemel, alwaar men een ondergaande Maan aan de kim, en den opkomstigen dag door de nevelen, en duisterheid der Wolken ziet breeken.</stage>
+<div type="scene">
+<head rend="h4">Eerste tooneel.</head>
+<sp>
+<speaker><hi rend="sc">De Nacht</hi> <hi rend="i">nederdaalende of een gestarnde Wolkwagen, omringt van Vleermuizen, en Nacht gedrochten.</hi></speaker>
+<l>'t <hi rend="b">W</hi>Erd tijd dat ik het veld verlies,</l>
+<l>En 't and're deel des waerelds kies,</l>
+<l>Wijl de uchtendstond, met haar Gespeelen,</l>
+<l>Ontwaakt, om broeders oor te streelen,</l>
+<l>En de aard te groeten met een lach,</l>
+<l>Als voorboô van een schoone dag,</l>
+<l>De gloed van haare roode kaaken,</l>
+<l>Doed reeds de kimmen flaauwlijk blaaken,</l>
+<l>Haar noch beneevelde aangezicht,</l>
+<l>Geeft bosch, en veld, en zee al licht;</l>
+<l>Op lastige arbeid, op gy zorgen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Zorg</hi>, <hi rend="i">en</hi> <hi rend="sc">Arbeid</hi> <hi rend="i">ontwaakende</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Zorg</hi>.</speaker>
+<l>Ach! zien wy reeds al weêr den morgen?</l>
+<l>O! koestervrouw van onze smert!</l>
+<l>Vertraag uw snelle loop, volherd,</l>
+<l>Noch voor een wijl den dag te weeren,</l>
+<l>Die zorg en arbeid komt vermêeren!</l>
+<pb n="8"/>
+<l>Het licht, 't welk elk tot vreugd verstrekt,</l>
+<l>Dient, nu gy my den slaap onttrekt,</l>
+<l>My maar alleen om de ongelukken</l>
+<l>Met meerder kracht in 't hert te drukken,</l>
+<l>Nu komt my hoon, verlies, en spijt,</l>
+<l>Benauwde vrees, en schrik, en nijd</l>
+<l>Met haar verwoede prik'len noopen;</l>
+<l>Ach! moet ik dus den slaap bekoopen!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Arbeid</hi>.</speaker>
+<l>Denk dat ik, als de dag opgaat,</l>
+<l>Gepijnigtwerd, tot 's avonds laat,</l>
+<l>Dat my het zweet werd uitgedreven,</l>
+<l>Om 't gierig menschdom winst te geven</l>
+<l>Zal dan mijn afgematte lijf,</l>
+<l>Een werktuig, tok, en tijdverdrijf,</l>
+<l>Voor altijdwoelende gedachten,</l>
+<l>Nooit ongesteurde rust verwachten?</l>
+<l>Wat ongenoegde, ontstelde geest,</l>
+<l>Is deeze nacht geraakt geweest?</l>
+<l>Ach! of wy weer dien tijd eens zagen,</l>
+<l>Toen Febus deed den dag vertraagen.</l>
+<l>Ay! stille nacht vertoef noch lang.</l>
+<l>Ay! laat ons fluim'ren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Nacht</hi>.</speaker>
+<l rend="; 1tab">'t Is den dwang</l>
+<l>Van 's waerels orden niet te vergen,</l>
+<l>Op! op! wilt mijn gedult niet tergen.</l>
+<l>'T is lang genoech voor u gerust.</l>
+<l>En gy, wien nooit de blijdschap lust,</l>
+<l>Komt, volgt, 't is tijd gy bange droomen,</l>
+<l>En nachtgedrocht, 't welk dag moet schroomen;</l>
+<l>Geleid mijn koets, gelijk een rey,</l>
+<l>En Hofstoet, met een nachtgeschrey;</l>
+<l>'K zie menschen door de wolken zweeven,</l>
+<l>En zich naar Febus hof begeeven.</l>
+<l>Ik hoor haar zuchten. Ziet de kim</l>
+<l>Begind te blaauwen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Zorg</hi>.</speaker>
+<l rend="; 1tab">Sta, of klim....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Nacht</hi>.</speaker>
+<l>Voort, voort, men mag niet langer marren,</l>
+<pb n="9"/>
+<l>Men ziet geen schitt'ring meêr van starren,</l>
+<l>Dan die Aurore op 't voorhooft draagd,</l>
+<l>En Febus wel het meest behaagd,</l>
+<l>Wijl Thetis.... Maar daar komen de Uuren.</l>
+<l>On spreeken mag niet langer duuren.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="i">De</hi> <hi rend="sc">Nacht, Arbeid, Zorg</hi>, <hi rend="i">en de Nachtstoet vertrekkende, ruimen plaats voor de</hi> <hi rend="sc">Uuren</hi> <hi rend="i">van den</hi> <hi rend="sc">Dag</hi>, <hi rend="i">en die van de</hi> <hi rend="sc">Nacht</hi>. <hi rend="i">Op hunne aankomst ziet men het daglicht vermeerderen</hi>.</stage>
+<stage><hi rend="i">De</hi> <hi rend="sc">Wakkerheid</hi> <hi rend="i">opleidende de</hi> <hi rend="sc">Uuren</hi> <hi rend="i">van den</hi> <hi rend="sc">Dag</hi>.</stage>
+<stage><hi rend="i">De</hi> <hi rend="sc">Slaap</hi> <hi rend="i">geleidende de</hi> <hi rend="sc">Uuren</hi> <hi rend="i">van de</hi> <hi rend="sc">Nacht</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Wakkerheid</hi> <hi rend="i">zingt onder byspel van zachte fluiten, en andere speeltuigen</hi>.</speaker>
+<l>‘De haan komt met de nachtegaal,</l>
+<l>Door schelle kreet, en blijde taal,</l>
+<l rend="; 1tab">Wijl leven wekker 't zwerk verdunt,</l>
+<l>Den menschen 't licht verbreien.</l>
+<l>Gy uuren, wien mijn zorg wil leien,</l>
+<l rend="; 1tab">Verhaalt zoo hoog gy kunt,</l>
+<l rend="; 1tab">Wat heil u Febus gunt,</l>
+<l>En gy, ô slaap! vermeng uw laage stem hier onder,</l>
+<l>Vertel! vertel! vertel! des wijden hemels wonder.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Eenige der</hi> <hi rend="sc">Uuren</hi> <hi rend="i">van den</hi> <hi rend="sc">Dag</hi> <hi rend="i">zingen met de</hi> <hi rend="sc">Slaap</hi> <hi rend="i">Den Rey in 't Treurspel geschikt achter het eerste Bedrijf, beginnende</hi>,</speaker>
+<l rend="; 2tab">Verheffenwe eenstemmig met lofgedicht.</l>
+<l rend="; 2tab">Den oirsprong van licht en leven, hoogh verheven, &amp;c.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="i">Na deeze zang verschijnt</hi> <hi rend="sc">Aurora</hi> <hi rend="i">met haar Gespeelen, eindigende het voorspel met een dans.</hi></stage>
+<stage><hi rend="i">Met het begin van het eerste Bedrijf ziet men de achterste volken verdwijnen, het Zonnenhof met gesloote deuren en vensteren, en het licht vermeerderen. In dit Deel, daar maar weinige woorden in verandert zijn, belooft</hi> <hi rend="sc">Klymene</hi> <hi rend="i">aan haare kinderen, tot een bewijs dat</hi> <hi rend="sc">Epafus</hi> <hi rend="i">hun oom hen gelastert heeft, met haar te verwijten dat zy bastaarden zijn, hen hunnen vader te zullen toonen</hi>.</stage>
+<pb n="10"/>
+<stage><hi rend="i">Het tweede Bedrijf begind met het uitkomen van de Tijd, die de vier getijden des jaars met Zich voert.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Tyd</hi>.</speaker>
+<l>Ik die altijd de zelve ben,</l>
+<l>En door uw heerschappyen ren,</l>
+<l>Met onvermoeide snelle schreeden,</l>
+<l>Geley u tot de plechtigheeden,</l>
+<l>Die elk de zon te geeven plag,</l>
+<l>Als onder houd van nacht, en dag.</l>
+<l>De waakende uuren zijn bodinnen,</l>
+<l>Die eeuwig einden, en beginnen,</l>
+<l>Zijn met eerbiedigheid al vroeg,</l>
+<l>Toen 't morgenlicht de nacht verjoeg,</l>
+<l>Voor 't zonnenhof met vreugd verscheenen,</l>
+<l>Pean zal u het oor ook leenen,</l>
+<l>Verheft dan voor dit hooge hof</l>
+<l>Apolloos luister, kracht, en lof.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Lente</hi>.</speaker>
+<l>‘Hoor nu Apollo hoe wy u prijzen.</l>
+<l rend="; 1tab">Flora en Lente,</l>
+<l>Op uw vergode flonkering rijzen.</l>
+<l>'K zal uw beleeftheid eeren, en loven,</l>
+<l rend="; 1tab">En eêle bladen,</l>
+<l>Voor uw altaaren, overal rooven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Zomer</hi>.</speaker>
+<l>‘'K zie de aarde geneegen,</l>
+<l>Om vruchten te geeven.</l>
+<l>Wanneer uwe straalen,</l>
+<l>Ten hemel afdaalen,</l>
+<l>Eert Ceres uw zeegen.</l>
+<l>&#160;</l>
+<l>Zy siert uw altaaren,</l>
+<l>Met bladen en airen.</l>
+<l>Met gras, en met kruiden,</l>
+<l>De wind uit het zuiden,</l>
+<l>Speeld door haare hairen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Herfst</hi>.</speaker>
+<l>‘Zoude ik Febus niet bedanken,</l>
+<l rend="; 1tab">Die mijn jaartijd vruchten geeft,</l>
+<l>Van de weelge wijngaardranken,</l>
+<l rend="; 1tab">Daar laachus eer van heeft.</l>
+<pb n="11"/>
+<l>Die, ons de appeldrank uit schaalen,</l>
+<l rend="; 1tab">Wijl de liefde 't hert ontsteekt,</l>
+<l>Zoo geneuglijk in laar haalen;</l>
+<l rend="; 1tab">Daar de wijn de zorgen breekt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Winter</hi>.</speaker>
+<l>‘Als Eoöl met dolle kaaken,</l>
+<l>Mijn en zijn gety trompet,</l>
+<l>Doen wy Aarde en Hemel kraaken,</l>
+<l>Daar het ys zijn schotzen zet.</l>
+<l>&#160;</l>
+<l>Maar of hy zomtijds zijn vlaagen,</l>
+<l>Op Neptuun in gramschap spouwt,</l>
+<l>'K heb nochthans mijn blye dagen,</l>
+<l>Als Saturnus feestijd houd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Tyd</hi>.</speaker>
+<l>Voegd u ter zyen gy hebt geen gevaar te schroomen,</l>
+<l>'K zie dat Apol uw zang heeft gunstig aangenomen,</l>
+<l>Daar treed hy vrolijk van de Silvre drempels af,</l>
+<l>Hy voerd den fakkel, die de Hemelvoogd hem gaf.</l>
+</sp>
+<stage><hi rend="i">Het zeer kostelijk gebouwde Paleis man</hi> <hi rend="sc">Apollo</hi> <hi rend="i">geopent zijnde, ziet men heel ver van de Poert, door verscheide Wolken een sterk schitterende Zon; en een weinig van daar, de twalef Zonnetekenen, alle doorschijnende en glans gevende aan de omzweevende Wolken, het Hof en de Perzoonen. Na dat dit bedrijf, waar in na veel weigering, en bede</hi> <hi rend="sc">Apollo</hi> <hi rend="i">aan</hi> <hi rend="sc">Faëton</hi> <hi rend="i">zijn bede toestaat, met nog eenige weinige verandering 5 Tooneelen gespeeld heeft, is het volgende tot een seste daar by gevoegd, zijnde een gesprek tusschen de blijvende Perzoonen, na het vertrekken van</hi> <hi rend="sc">Faëton</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Febus</hi>.</speaker>
+<l>Mijn zoon! mijn welbeminde!... ach! hy is heen gevaaren,</l>
+<l>Mijn raad heeft uit; ik zie alreeds den dag opklaaren!</l>
+<l>Ween niet mijn schoone Vrouw, weent niet mijn hemels kroost,</l>
+<l>Ik blijf uw toeverlaat, en eeuwig vaste troost.</l>
+<l>'K zal u met hemeldrank, en Godenspijs verquikken,</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Klymene</hi>.</speaker>
+<l>'K verlang naar de avond; maar met vreezen, beven, schrikken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Faëton</hi>.</speaker>
+<l>Wy zullen broeder aan den Padus weder zien.</l>
+</sp>
+<pb n="12"/>
+<sp>
+<speaker><hi rend="sc">Klymene</hi>.</speaker>
+<l>Ach! of het mogt gezond, en vergenoegd geschién.</l>
+<stage><hi rend="i">Alhier verschijnen eenige der</hi> <hi rend="sc">Uuren</hi> <hi rend="i">en</hi> <hi rend="sc">Ganimedes</hi>, <hi rend="i">spreekende de woorden, van den Rey beginnende</hi></stage>
+<l>Wat is de kinderliefde krachtig &amp;c.</l>
+<stage><hi rend="i">Het derde Bedrljf vertoont het afscheid van</hi> <hi rend="sc">Fedus</hi>, <hi rend="i">van</hi> <hi rend="sc">Klymene</hi> <hi rend="i">en haare kinderen; ten tweeden het begin van de ongelukkige tocht van</hi> <hi rend="sc">Faëton</hi>, <hi rend="i">en begind met een dans van Hemelgeesten, in welker midden men</hi> <hi rend="sc">Ganimedes</hi> <hi rend="i">ziet. Na den dans verschijnen twee Hemellieden zingende</hi>.</stage>
+<l>‘Ga heen ô! schoone in vreede</l>
+<l>Uw god'lijk aangezicht ontfing de straalen.</l>
+<l rend="; 1tab">Die god'lijk gloeiend, van</l>
+<l rend="; 1tab">De zonnegod Pean</l>
+<l>Ter neder daalen.</l>
+<l>&#160;</l>
+<l>Nu zat geen oom u schenden!</l>
+<l rend="; 1tab">Noch uw vergode zaad met smaad meer hoonen,</l>
+<l rend="; 1tab">Terwijl de Hemel zelf,</l>
+<l rend="; 1tab">Met glans ziet aan 't gewelf,</l>
+<l>Uw Zoon bekroonen.</l>
+<stage><hi rend="i">Na dat de</hi> <hi rend="sc">Uuren</hi> <hi rend="i">aan</hi> <hi rend="sc">Febus</hi> <hi rend="i">een Juweel koffer gebragt hebben, en hy het aan</hi> <hi rend="sc">Klymene</hi> <hi rend="i">vereert heeft, verschijnen op zijn gebod de</hi> <hi rend="sc">Winden</hi>, <hi rend="i">en in hemer midden</hi> <hi rend="sc">Eölus</hi> <hi rend="i">danzende. Na den dans geleiden zy</hi> <hi rend="sc">Klymene</hi> <hi rend="i">en haare Kinderen. Op 't ze vende Tooneel verschijnt met weinig byvoeging</hi> <hi rend="sc">Iris</hi>, <hi rend="i">tijding brengende van eene ongewoone hette, en kort daar op de</hi> <hi rend="sc">Lucht</hi>, <hi rend="i">klagende</hi></stage>
+<l>Moet alles in een mengelklomp,</l>
+<l>En de eerstgevormde ruwe romp</l>
+<l rend="; 1tab">Verwis'len? wil verklaaren,</l>
+<l>O! groote Koningin, wat zaak,</l>
+<l>Wat misbedrijf des Hemels wraak,</l>
+<l rend="; 1tab">Dus heevig uit doed vaaren?</l>
+<l>De zon, noch naauwlijks opgestaan.</l>
+<l>Steekt als een blixem alles aan,</l>
+<l rend="; 1tab">Waar zijne straalen raaken,</l>
+<l>Mijn hooftstof krijgt een and're vorm,</l>
+<pb n="13"/>
+<l>Men hoort geen klank in deezen storm,</l>
+<l rend="; 1tab">Dan kissen, flakk 'ren, kraaken.</l>
+<l>Ach! groote Apollo wat is dit?</l>
+<l>Dat gy niet op uw waagen zit,</l>
+<l rend="; 1tab">Of is'ze voort geronnen?</l>
+<l>Na dat zy u van 't hollend rad,</l>
+<l>Op 't onvoorzienst gesmeeten had,</l>
+<l rend="; 1tab">Wie zalze keeren konnen!</l>
+<l>'T gevoogelte uit de laatste kouw</l>
+<l>Des nachts, gelokt door licht, en douw,</l>
+<l rend="; 1tab">Strijkt zoo veel 't kan den veder!</l>
+<l>Maar word, gelijk in eene vlugt,</l>
+<l>Verbrand, en tuimeld uit de lucht,</l>
+<l rend="; 1tab">Op de Aarde en 't Waater neder.</l>
+<l>Geen arend zelf, dan die Jupijn,</l>
+<l>In gunst en straf ten dienst moet zijn,</l>
+<l rend="; 1tab">Kan 't felle licht verdragen,</l>
+<l>Zal eene hooftstot de and're drie</l>
+<l>Verwoesten? keer dien val, ay! zie</l>
+<l rend="; 1tab">De brand is voortgeslagen.</l>
+<l>Hoor! hoe erbarmlijk 't Water klaagd!</l>
+<l>Heeft bron of lucht u ooit behaagd?</l>
+<l rend="; 1tab">Zoo toon nu mededoogen.</l>
+<l>Wy zijn geblaakert tot de dood,</l>
+<l>Niets kan ons redden uit de nood</l>
+<l rend="; 1tab">Dan 't opperste vermoogen.</l>
+<stage><hi rend="i">Hier of verschijnen van onderen door de Wolken twee</hi> <hi rend="sc">Bron - Godinnen</hi>, <hi rend="i">wier eene zingd</hi>.</stage>
+<l>‘Ach! ach! wat smert, ik kan niet meêr!</l>
+<l rend="; 1tab">Ach! gy pijnigt al mijn leden.</l>
+<l rend="; 1tab">En uw straf heeft recht noch reden,</l>
+<l>Waar misdeed ik ooit uw eer.</l>
+<l>&#160;</l>
+<l>Wees genaadig! want uwe brand,</l>
+<l rend="; 1tab">Smoort, en waterdier, en vissen!</l>
+<l rend="; 1tab">Moet men mijn verkoeling missen,</l>
+<l>Zoo houwt bron noch zee meer stand.</l>
+</sp>
+<stage><hi rend="i">Met een antwoord van</hi> <hi rend="sc">Juno</hi> <hi rend="i">op deze klachten eyndigt dis Bedrijf</hi></stage>
+<pb n="14"/>
+<stage><hi rend="i">In het Vierde Bedrijf ziet men de verdeeling der Hemelraad in</hi> 3 <hi rend="i">perzoonen: Handelende om het branden der Zon te stutten. Op het derde Tooneel verschijnt</hi> <hi rend="sc">Vesta</hi>, <hi rend="i">klagende, op 't vterde</hi> <hi rend="sc">Mercurius</hi>. <hi rend="i">En op 't vijfde</hi> <hi rend="sc">Iris</hi> <hi rend="i">en</hi> <hi rend="sc">Mercurius</hi>. <hi rend="i">Spreekende de Vaarzen die by verhaal in 't Treurspel, of met weinige verandering door ons daar by gevoegd zijn, en op 't laaste twee Koppeldichten, beginnende het eerste</hi> Gelukkige Adelaer, &amp;c. <hi rend="i">En het tweede</hi> De Schiltknaap zwanger van de Donder, &amp;c.</stage>
+<sp>
+<speaker><hi rend="i">Met het openen van de gordijnen ziet men in 't begin van 't Vijfde Bedrijf, een Landschap, en den stromende Rivier de Padus na een voorgaande geruis van Donder en Blixem, hoort men</hi> <hi rend="sc">Faëton</hi> <hi rend="i">in de Wolken roepende</hi>.</speaker>
+<l>Help! Vader Febus, help! A pollo, ach de schrik</l>
+<l>Verhaast mijn ondergang vast ieder oogenblik.</l>
+<l>Ik zie den Donderaar vol gramschap nederstreeven,</l>
+<l>Help Febus! help! men dingt uw eyge zoon naar 't leeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Na een vervaarlijk geweld van Donder en Blixem valt</hi> <hi rend="sc">Faëton</hi> <hi rend="i">met wagen en paarden uit de lucht, in den Padus. Hier op valt een verschiet, en verschijnen eenige Volkeren overgebleven van den brand, danssende ter eeren</hi> <hi rend="sc">Jupiter</hi> <hi rend="i">wegens hunne behoudenis, deze werden gevolgt van</hi> 2 <hi rend="i">Bosch-goainnen zingende</hi>,</speaker>
+<l>‘Welk een verkoeling daald uit den hoogen,</l>
+<l rend="; 1tab">Die bewoogen</l>
+<l>Met onze elende gelijk een God,</l>
+<l rend="; 1tab">Dus zijn mededoogende oogen,</l>
+<l>Slaat op onzer aller lot?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">De tweede</hi></speaker>
+<l>‘Vader Jupijn is ons genaadig,</l>
+<l rend="; 1tab">Wonderdaadig,</l>
+<l>Straffende zelf de zoon der Zon,</l>
+<l rend="; 1tab">Hy behoowd zijn recht gestaadig,</l>
+<l>Zelver tegen Faëton.</l>
+</sp>
+<stage><hi rend="i">In 't einde van deze zang werd een verschiet geopent, toonende het graft van</hi> <hi rend="sc">Faëton</hi>. <hi rend="i">Hier na de faam, aan</hi> <hi rend="sc">Febus</hi> <hi rend="i">het verongelukken van zijn zoon, en den inhoud van de vertoonig verhaald</hi>, <hi rend="sc">Febus</hi> <hi rend="i">geklaagd,</hi>
+<pb n="15"/><hi rend="sc">Jupiter</hi> <hi rend="i">en de</hi> <hi rend="sc">Hemelraaden</hi> <hi rend="i">hem tot het herstellen der zon, geraaden, en gebeden hebbende; verschijnen na het einde van 't Treurspelde</hi> <hi rend="sc">Eeuwigheid</hi> <hi rend="i">met eenig gevolg, opleidende de</hi> 7 <hi rend="sc">Plakeeten</hi>. <hi rend="i">De</hi> <hi rend="sc">Wakkerheid</hi> <hi rend="i">opleidende de</hi> <hi rend="sc">Uuren</hi> <hi rend="i">van den</hi> <hi rend="sc">Dag</hi>. <hi rend="i">De</hi> <hi rend="sc">Slaapzugt</hi> <hi rend="i">met de</hi> <hi rend="sc">Uuren</hi> <hi rend="i">van de</hi> <hi rend="sc">Nacht</hi>.</stage>
+<sp>
+<speaker><hi rend="i">Zingende de</hi> <hi rend="sc">Eeuwigheid</hi>.</speaker>
+<l>‘Vader van 't licht, vader van al 't verblijen,</l>
+<l>Stel u te vreên, in deeze droeve slag,</l>
+<l>Herstel, herstel dees bange dag,</l>
+<l>En stel de rou ter zijen.</l>
+<l>Ga heen bezie de glori van uw zoon,</l>
+<l>Hy heeft iets grootsch bestaan, al moest hem 't noodlot doôn.</l>
+<l>Hy sturf, en voeld geen lijen.</l>
+<l>Herstel, ay! herstel deeze dag,</l>
+<l>Vergeet, ay! vergeet deeze slag.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hier op velgen eenige der</hi> <hi rend="sc">Uuren</hi>.</speaker>
+<l>‘Zie hier den rei wien uw glans moet verlichten.</l>
+<l rend="; 1tab">Ai zamel de stukken weêr van uwe kar.</l>
+<l>Wil toch de Weereld op nieuw weêr verplichten,</l>
+<l rend="; 1tab">Schenk uwe straalen aan hemel en star.</l>
+<l rend="; 2tab">Voerman der dagen</l>
+<l rend="; 2tab">Voer weer uw Waagen,</l>
+<l>Alles raakt anders door 't duister in 't war.</l>
+</sp>
+<sp>
+<speaker>2<hi rend="i">de</hi>.</speaker>
+<l>‘Eeuwen, getijden, en maanden, en daagen,</l>
+<l rend="; 1tab">'t Wenscht al naar uw aanschijn, en vrolijke gloed,</l>
+<l>Laat toch de droefheid uw hert niet meer plaagen,</l>
+<l rend="; 1tab">Treed uwe schoone Kly mene te moed.</l>
+<l rend="; 2tab">Voerman der dagen,</l>
+<l rend="; 2tab">Voer weêr uw Waagen;</l>
+<l rend="; 1tab">Wijl men met zangen, en danssen u groet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hier op volgt een Dans van seven Plaaneeten, na den dans zingen de</hi> <hi rend="sc">Uuren, Eeuwigheid</hi> <hi rend="i">en andere, by wijze van Rey</hi>.</speaker>
+<l>‘Wil nu o! Aarde Apollo bedanken,</l>
+<pb n="16"/>
+<l rend="; 1tab">Die uw leeven,</l>
+<l>Weder op nieuw verheugen zal,</l>
+<l rend="; 1tab">Vecht en voedzel rijk'lijk geeven,</l>
+<l>Na zijn droeve nazaads val.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hier na werd weder gedanst door de Plaaneeten, en daar no als boven gezongen</hi>.</speaker>
+<l>‘Laat ons den Vader weder verblijen,</l>
+<l rend="; 1tab">Met gezangen,</l>
+<l>Tot een wellekom van de Zon,</l>
+<l rend="; 1tab">En voldoen zijn herts verlangen,</l>
+<l>Eeren zijoen Faëton.</l>
+</sp>
+<p><hi rend="spat">EYNDE</hi>.</p>
+</div>
+</div>
+</body>
+</text>
+
+</TEI.2>

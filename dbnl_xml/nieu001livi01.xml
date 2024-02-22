@@ -1,0 +1,2193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Livia</title>
+               <author>Guilliam van Nieuwelandt</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Livia</hi> van Guilliam van Nieuwelandt uit 1617.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>fol. D1r: In het origineel komt na het ‘tvveede vvtcomen’ het ‘vyfde vvtcomen’. Dat is hier ongewijzigd overgenomen.</corr>
+                       <corr>fol. F4: Deze pagina wordt in het origineel gevolgd door F6. Dat is hier ongewijzigd overgenomen.</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <publicationStmt>
+               <idno type="titelcode">nieu001livi01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2021 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note></note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Universiteitsbibliotheek Leiden, signatuur: 1089 B 35: 3, scan van Google Books</idno>
+               </bibl>
+               <p>Guilliam van Nieuwelandt, <hi rend="i">Livia</hi>. Guilliam van Tongheren, Antwerpen 1617</p>
+               <p>&#160;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Livia</title>
+               <author>Guilliam van Nieuwelandt</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <idno type="nur"></idno>
+           <availability>
+               <p></p>
+           </availability>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Livia</title>
+               <author>Guilliam van Nieuwelandt</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <idno type="nur"></idno>
+           <availability>
+               <p></p>
+           </availability>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2021-03-25</date>
+               <respStmt>
+                   <name type="person">RK</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+<text>
+<interpGrp><interp type="primair" value="antwe001olij01"/></interpGrp>
+<body>
+<cf><div type="chapter">
+<pb ed="fol." n="A1r"/>
+<p>Livia tragoedie, door VVil. van Nievvvelandt schilder van Antwerpen.</p>
+<figure>
+<p><xptr to="nieu001livi01ill0001.gif"/></p>
+</figure>
+<p>t'Antwerpen, By Guilliam van Tongheren, Boeck-vercooper inde Cammerstraet, inden Griffoen. Anno, 1617.</p>
+<p><hi rend="i">Met Gratie ende Priuilegie.</hi></p>
+<pb ed="fol." rend="blank" n="A1v"/>
+</div></cf>
+<div type="chapter">
+<pb ed="fol." n="A2r"/>
+<head rend="h3">Gvil. van Nievwelandt, aen den wysen, discreten, ende voorsienighen, <hi rend="i">Ioan Coomans</hi>.</head>
+<p><hi rend="sc"><hi rend="spat">MYn Heer</hi></hi>, besich zijnde mijnen <hi rend="sc"><hi rend="spat">Savl</hi></hi> door den druck wt te gheuen, docht my, dat dese mijne <hi rend="sc"><hi rend="spat">Livia</hi></hi> niet sterck ghenoech en was om den last te draghen van de nauwe ondersoeckinghe der curieuse Poeten, maer ghebeden zijnde van diuersche persoonen, ende versterckt door hare reden, die waren, dat de ghebreken niet soo nauw', en souden doorsocht worden, om dat sy was ghemaeckt in den April van mijnen ouderdom, hebbe my laten beweghen, dat ick haer, met hare ontschuldighe doodt mijnen rasenden <hi rend="sc"><hi rend="spat">Savl</hi></hi> sal laten gheselschap houden, daerom haer willende versorghen, van eenen die door sijn achtbaerheydt sal voldoen, dat aen haer soude moghen ghebreken. Is het reden dat ick de selue V.E. toe eyghene, die niet alleen en bemint de droef-singhende <hi rend="sc"><hi rend="spat">Clio</hi></hi>, maer oock mijne const-lieuende <hi rend="sc"><hi rend="spat">Pictvra</hi></hi>. Ia soo dat het schijnt dat sy met hare borsten, gevoedt heeft uwe<hi rend="i">n</hi> const-lieuen den geeft, ende wesende eene<hi rend="i">n</hi> ouertreffer in alle eerlijcke ende vermaeckelijcke consten, verheerlijckt ghy den name van u gheslacht. Versekert dan zijnde dat ick haer soo wel op gheoffert hebbe, bidde haer doch danckelijcken te ontfanghen. Sy wenscht aenghenomen te wesen om te moghen rusten onder uwe gheluckighe bewaringhe.</p>
+
+</div>
+<div type="chapter">
+<interpGrp><interp type="primair" value="lena004"/>
+<interp type="primair" value="antwe001goud01"/></interpGrp>
+<pb ed="fol." n="A2v"/>
+<head rend="h3">Ode. Op de const-vloeyende Poêtische Tragedie van Livia, ghecomponeert deur den const-zinrijck Poët Gvil van Nievvvelandt, Ouderman vanden Olijftack Thantvverpen.</head>
+
+<lg type="poem">
+<l><hi rend="i">Tot vél derhand' genucht, strecken s'menschen gedachte</hi>n</l>
+<l><hi rend="i">Maer bouen al, in twee soo staet hun meeste vreught</hi></l>
+<l><hi rend="i">D'een mint d'el Poësy, met alle hare crachten</hi></l>
+<l><hi rend="i">D'ander in Schilder const is aldermeest verheught,</hi></l>
+<l><hi rend="i">Maer onsen </hi>Nieuwlandt <hi rend="i">cloeck Poët in dees twee consten</hi></l>
+<l><hi rend="i">Bemintse niet alleen, maer hy ghebruycktse t'recht</hi></l>
+<l><hi rend="i">Dies hem de </hi>Musa vroet, <hi rend="i">bereyt een croon vol ionsten</hi></l>
+<l><hi rend="i">Die hem van d'eere selfs, wort om het hooft gevlecht</hi></l>
+<l><hi rend="i">Siet hier sijn Poësy, hoe dat sy ons can leeren</hi></l>
+<l><hi rend="i">Te schouwen d'oncuysheydt, al schijnts' in d'eerste schoon</hi></l>
+<l><hi rend="i">Want ghy cont sien hoe sy vreught in droefheydt doet keeren</hi></l>
+<l><hi rend="i">End' voor het lachen eerst, gheeft naer schreyen tot loon</hi></l>
+<l><hi rend="i">De Moeder quam </hi>door haer, met twee <hi rend="i">sonen om 'tleuen</hi></l>
+<l><hi rend="i">Den Keyser end' sijn son, wert oock ghebracht ter doodt</hi></l>
+<l><hi rend="i">Dus leert v sijne const, vor oncuysheyt te beuen</hi></l>
+<l><hi rend="i">VVant sy de menschen brenght in veelderhande noot</hi></l>
+<l><hi rend="i">Merckt sijn vloeyende const, vol neerduytsch soet om lesen</hi></l>
+<l><hi rend="i">VVaer in te bouen hy gaet ons const oeff' naers al</hi></l>
+<l><hi rend="i">Die teghenwoordich sijn, dies is hy weert ghepresen,</hi></l>
+<l><hi rend="i">Bouen iemandt diemen, prijs oft eer gheuen sal</hi></l>
+<l><hi rend="i">In Schilder-conste cloeck, sietmen hem eer behalen</hi></l>
+<l><hi rend="i">Dies by twee Croonen draeght, sijn benijders tot spijt</hi></l>
+<l><hi rend="i">Die altijdt baecken seer, oft hy iewers mocht falen</hi></l>
+<l><hi rend="i">Maer betert ghy sijn const, eer dat ghy hem benijt.</hi></l>
+</lg>
+<p>In Liefde verheught, <hi rend="sc"><hi rend="spat">P. Lenaerts</hi></hi> Facteur vande Goud-blom, Thantwerpen.</p>
+
+</div>
+<div type="chapter">
+<interpGrp><interp type="primair" value="bosc174"/></interpGrp>
+<pb ed="fol." n="A3r"/>
+<head rend="h3">Sonet.</head>
+
+<lg type="poem">
+<l>SEght <hi rend="sc"><hi rend="spat">Livia</hi></hi> vvaer toe comt ghy ons vveer bedroeuen,</l>
+<l>Daer v onrustich hert te vreden vvas ghestelt,</l>
+<l>Of toet oock mijnen gheest beproeuen v ghevvelt,</l>
+<l>Rust <hi rend="sc"><hi rend="spat">Livia</hi></hi> bidd' ick vvant rust sal ick behoeuen.</l>
+<l>&#160;</l>
+<l rend="; 1tab">Maer all' soec ic de rust d'onrust en vvilt niet toeue<hi rend="i">n</hi>,</l>
+<l>En d'oorsaeck is den lust die my onrustich quelt,</l>
+<l>Voort Hippocrene dan beuochticht doch het velt,</l>
+<l>Dat vvassen mach de vrucht die <hi rend="sc">Niev vv'landt</hi> eerst laet proeuen.</l>
+<l>&#160;</l>
+<l rend="; 1tab">Hy gheeft ons eenen smaeck, en smaeck vervveckt den lust,</l>
+<l>Soo zijt ghy <hi rend="sc"><hi rend="spat">Niev vv'landt</hi></hi> dan d'oorsaeck van mijn onrust,</l>
+<l>En niet de doode vrouvv' vviens gheest ick sou besvvaren.</l>
+<l>&#160;</l>
+<l rend="; 1tab">Rust <hi rend="sc">Livia</hi> gerust d'oorsaeck is <hi rend="sc"><hi rend="spat">Nievvvelandt</hi></hi>,</l>
+<l>Die ons door sijne const en goddelijck verstandt</l>
+<l>Vervveckt lust, en onrust, daer vvy in rusten vvaren.</l>
+</lg>
+<p><hi rend="i">Veel deughs vanden Bosch.</hi></p>
+
+</div>
+<div type="chapter">
+<pb ed="fol." n="A3v"/>
+<head rend="h3">Inhovt der tragoedie.</head>
+<div type="section">
+<head rend="h4">Het eerste deel.</head>
+<p>L<hi rend="i">Abinus</hi> vermoeden hebbende dat sijn moeder soude bevrucht wesen, schrijft het aen sijnen broeder, ontbiet haer te willen dooden, om dat haer gheslachte dat soo doorluchtich in alle hoocheyt bloeyde, door dese daet gheen vercleynicheydt en soude ghebeuren, <hi rend="i">Placidus</hi> den brief ontfangen hebbende, is seer bedroeft, ontbiet voor antwoorde, dat hy soude doen, als een Edelman voor sijn eere schuldich was, <hi rend="i">Labinus</hi> dese antwoorde naer sijn dul voornemen met onuerstandt ouerlegghende, ghebiedt haer door sijnen dienaer te dooden, maer onschuldich beuonden sijnde ende van den ongherusten gheest des Moeders ghequelt, brenght hem seluen door mismoedicheydt ter doodt.</p>
+</div>
+<div type="section">
+<head rend="h4">Het tvveede deel.</head>
+<p><hi rend="i">Placidus </hi>om sijn droefheyt te vergheten gaet met zijnen vrient <hi rend="i">Diadumenus</hi> ter Iacht maer vermoyt sijnde, versoecken d'een aen d'ander, dat elck hem by zijn lief soude leyden, <hi rend="i">Placidus </hi>naer veel weygheringhe leyt <hi rend="i">Diadumenus</hi> by sijn lief <hi rend="i">Darida</hi>, doch by beloften dat van hem gheen ontrouwicheyt en soude ghebeuren.</p>
+</div>
+<div type="section">
+<head rend="h4">Het derde deel.</head>
+<p>De liefde in <hi rend="i">Diadumenus</hi> d'ouerhandt nemende comt daer wederom cloppen, maer <hi rend="i">Placidus</hi> daer wesende ontstack in toren, gebiedt hem inne te laten, <hi rend="i">Diadumenus </hi>incomende wert van <hi rend="i">Placidem</hi> voor het hooft gheslaghen, waerom hy een van beyder doodt heeft ghesworen.</p>
+</div>
+<div type="section">
+<head rend="h4">Het vierde deel.</head>
+<p>VVraecke beschuldicht hier zijnen vriendt ende hare begeerte baert een onschuldige doodt want <hi rend="i">Diadumenus </hi>in toren verwoet zijnde gaet hem by den <hi rend="i">Keyser </hi>beclagen, dat hy oorsaecke was van zijns moeders doodt, die hem gebiet gheuanghen te nemen, den Keyser soeckt de saecken te middelen, maer <hi rend="i">Diadumenus </hi>wtsinnich zijnde, wilt hem seluen dooden.</p>
+
+</div>
+<div type="section">
+<pb ed="fol." n="A4r"/>
+<head rend="h4">Het vyfde deel.</head>
+<p>Den <hi rend="i">Keyser</hi> siende gheenen beteren raet, doet <hi rend="i">Placidem </hi>steruen, schenckt het hooft aen den wraeckgierighen <hi rend="i">Diadumenus</hi>, die verblijt zijnde va<hi rend="i">n</hi> sijns vyants doodt niet denckende op sijn nakende ongheluck, wort met den <hi rend="i">Keyser </hi>van des gedooden <hi rend="i">Prince </hi>dienaers ghedoodt.</p>
+</div>
+</div>
+<div type="chapter">
+<head rend="h3">Personagien.</head>
+<list>
+<item><hi rend="i">Macrinus Opilius.</hi></item>
+<item><hi rend="i">Diadumenus.</hi></item>
+<item><hi rend="i">Placidus.</hi></item>
+<item><hi rend="i">Labinus.</hi></item>
+<item><hi rend="i">Liuia.</hi></item>
+<item><hi rend="i">Darida.</hi></item>
+<item><hi rend="i">Adrastus.</hi></item>
+<item><hi rend="i">Sabellus.</hi></item>
+<item><hi rend="i">Fuluius.</hi></item>
+<item><hi rend="i">Chooren.</hi></item>
+</list>
+
+</div>
+<div type="chapter">
+<pb ed="fol." n="A4v"/>
+<head rend="h2">Eerste deel</head>
+<head rend="h3">Eerste vvtcomen.</head>
+<stage><hi rend="i">Labinus. Sabellus.</hi></stage>
+
+<lg type="poem">
+<l>Wanneer snijdt ghy den draet ghy helsche dry <hi rend="i">Fatalen, </hi></l>
+<l>Den tijdt valt my te langh' dat ghy my wacht te hale<hi rend="i">n</hi>,</l>
+<l>VVat wacht ghy met de doot, die ick acht vol geluck,</l>
+<l>Door dat sy met haer cracht verniele<hi rend="i">n</hi> can den druck,</l>
+<l>VVat doen ick langher hier vertwijfelt vol onrusten,</l>
+<l>Wat grouwelijcker strijdt verdrijft all' mijne lusten,</l>
+<l>Ach wat voel ick al pijn wat voel ick al verdriet,</l>
+<l>VVat quelt my een misdaet, met onuerdacht gheschiet,</l>
+<l>Ach mijn ick berst van spijt, den spijt vernielt mijn sinnen,</l>
+<l>Den wil tot wraeck, en vrees' den teghenstrijdt beghinnen,</l>
+<l>Vervloeckten wil oncuys vermalendijden lust,</l>
+<l>Wort dan door ouderdom v hitte niet gheblust,</l>
+<l>T'schijnt dat de bleecke doodt, haer, die haer was beuolen</l>
+<l>Gheraeckt heeft, met den pijl van <hi rend="i">Cupido</hi> ghestolen,</l>
+<l>Vervloeckten cleynen <hi rend="i">Godt</hi>, meynt ghy dat <hi rend="i">Citheree</hi></l>
+<l>Die v heeft voortghebracht, ons groot vrientschap deed',</l>
+<l>Oft dat ghy sijt van 'tsaet van yemant van de <hi rend="i">Goden</hi>,</l>
+<l>Om dat ghy als Tyran doet volghen v gheboden?</l>
+<l>Neen ghy, neen ghy ghewis, ghy zijt van 'tgrouwelijck saet</l>
+<l>Der slanghen, en bequaem tot alderhande quaet,</l>
+<l>Vernielder van de rust, verstoorder van den vrede,</l>
+<l>Verwecker van den twist, verderuer van de steden</l>
+<l>Verleyder tot onneer, eerdief van goeden naem,</l>
+<l>Roouer van eer, en deught en alle goede faem,</l>
+<l>Den dul verwoeden <hi rend="i">Mars</hi>, en deed' noyt soo veel schaden</l>
+<l>Als ghy, en zijnen haet is beter te versmaden.</l>
+<l>VVaer loop ick buyten reen, ick sien dat mijn ghedacht</l>
+<l>Drijft als de woeste zee, door stuere winden cracht,</l>
+<l>Mijn Moeder is de gheeen, die my aendoet dit lijden,</l>
+<l>En niet <hi rend="i">Cupido</hi> blindt, noch oock den Godt der strijden</l>
+<l>T' is sy, t'is sy segh ick, die my doet dese pijn,</l>
+<l>T'is sy, t'is sy segh ick, aen wie de wraeck sal sijn.</l>
+<l>Vervloeckten boosen lust moet ick v misdaet wreken,</l>
+<l>Ach ick vervloeck den dach van dat ick con ghespreken,</l>
+
+<pb ed="fol." n="B1r"/>
+<l>Ia ick vervloeck den dagh, dat haer mijn vader nam,</l>
+<l>Noch meer sy hy vervloeckt dat ick ter werelt quam,</l>
+<l>Maer waren by v doodt de goddelijcke wetten,</l>
+<l>Dat v, die sijt verslenst gheen vrees' en con beletten,</l>
+<l>Of was v desen lust veel lieuer dan ons eer,</l>
+<l>Ach wellust hoe brenght ghy de menschen ter oneer</l>
+<l><hi rend="i">Sabellus </hi>desen brief sult ghy mijn broeder gheuen,</l>
+<l>Maer anders niemant niet soo ghy wilt blijuen leuen,</l>
+<l>De saeck ick v beueel daerom sijt my ghetrou,</l>
+<l>Eer d'ontrou v beloont te spade met berouw',</l>
+<l>Dees ontrou is ghenoech die my soos eer doet steruen,</l>
+<l>Dat ick om rechte wraeck my seluen sal verderuen</l>
+<l>Gaet wacht ghy nieuers naer en keert op staenden votet.</l>
+<l rend="speaker"><hi rend="i">Sabellus.</hi></l>
+<l rend="; 1tab">Recht als de scaduw' volght comt sorgh ons in't ghemoet.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Eerste deel <lb/>tvveede vvtcomen.</head>
+<stage><hi rend="i">Placidus. Sabellus.</hi></stage>
+
+<lg type="poem">
+<l>DEn twijfel is onvast maer vast in 'thert des menschen,</l>
+<l>Ick vrees' eer dat ick lees door twijfel van mijn wenschen,</l>
+<l><hi rend="i">Sabellus</hi> seght my doch gaet het mijn vrienden wel.</l>
+<l rend="speaker"><hi rend="i">Sabellus.</hi></l>
+<l rend="; 1tab">Ia'et Heer soo niet eer langh <hi rend="i">Fortuna </hi>speelt haer spel.</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab"><hi rend="i">Fortuna</hi> waerom dat.</l>
+<l rend="speaker"><hi rend="i">Sabellus.</hi></l>
+<l rend="; 1tab">VVilt den brief wel doorlesen</l>
+<l>Soo sult ghy sien waerom het lichtelijck sou wesen.</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">VVel hoe wat lees ick hier, wat schandelijcker daet,</l>
+<l><hi rend="i">Ons moeder is bevrucht oock vvaer vvel mijnen raet</hi></l>
+<l><hi rend="i">Datmen haer dooden sou', om 't gheslacht niet t'onteeren</hi></l>
+<l>Neen <hi rend="i">Goden </hi>wilt van mijn, soo boosen wreetheyt keeren,</l>
+<l>Bevrucht, hoe nu bevrucht, bevrucht te wesen nou, </l>
+<l>Bevrucht hoe can het sijn, soo wel bejaerde vrouw',</l>
+<l>Die schier onvruchtbaer schijnt, bevrucht te sijn van kinde,</l>
+<l>Och moeder, moeder och, wie isser die ghy minde,</l>
+<l>Voor v eer en gheslacht, wie isser die v 'thert,</l>
+<l>Voor trouw en eere dus soo tot oneere tert,</l>
+<l>VVie isser die v soo veel leughens doet gheloouen,</l>
+<l>VVie isser die v soo van sinnen gaet beroouen,</l>
+
+<pb ed="fol." n="B1v"/>
+<l>Onsalighe gheboort en waert ghy niet bedacht,</l>
+<l>En hebt ghy hier gheen wraeck van niemant op ghewacht,</l>
+<l>Dacht ghy niet dat dees schandt ons alle can verderuen,</l>
+<l>Noch dat sy door den tijdt in eeuwicheydt sal steruen,</l>
+<l><hi rend="i">Iuppiter </hi>grooten Godt waer toe ben ick gheraeckt,</l>
+<l>Hoe ben ik nv wee my door droefheydt gants verblaeckt,</l>
+<l>Bevrucht, bevrucht, bevrucht, sout oock moghelijck wesen</l>
+<l>Och als een wond' aen 'thert, is my dit pijn te lesen,</l>
+<l>O arme die op aerd' in onghemake woelt,</l>
+<l>En dacht ghy niet dees schand, die nv mijn ziele voelt,</l>
+<l>Als ick den brief aenschou, soo dunckt my t'hert te breken,</l>
+<l>VVaerom moeder ontrou, en hebt ghy niet ghesteken,</l>
+<l>Een mes in dese borst doen sy was ionck en teer,</l>
+<l>Soo wel als ghy 'tnu doet met dees vervloeckt onneer,</l>
+<l>Vervloeckt segh ick te recht want d'eer van heel gheslachten,</l>
+<l>Hanght aen eens vrouwen lust die licht sijn van ghedachten.</l>
+<l>Waerom en heb ick niet voor 't voedich melck fenijn,</l>
+<l>Wt uwe borst ghesoocht om hier af vry te sijn,</l>
+<l>Dan 'ten is anders niet wat will' ick droeuich claghen,</l>
+<l>D'eerste verloren eer is qualijck te bejaghen,</l>
+<l>Door een vrouw' comen wy ter onneer, en tot schandt,</l>
+<l>Daer wy d'eer hadde eerst van het Romeynsche landt,</l>
+<l>Ons eerlijck groot gheslacht, gheen hooft en mach wtsteken.</l>
+<l>En roemen meer van eer, ach 't verdriet my te spreken,</l>
+<l>Den moedt die wert my vol moeder dit doede ghy,</l>
+<l>Die lusten soeckt voor eer, en <hi rend="i">Labinum </hi>en my,</l>
+<l>VVraeckgierich nu verweckt tot v, en ons bederuen.</l>
+<l>O doodt hadt ghy ons doch voor desen tijdt doen steruen,</l>
+<l>Soo waren wy bevrijdt te doen een wreede wraeck,</l>
+<l>Die alleen boeten can de schult van dese saeck,</l>
+<l>Och moeder wat onneer, doet ghy ons nu met schanden,</l>
+<l>VVraeck, roept mijn herte, wraeck aen v, van mijnder handen,</l>
+<l>Den dach my duyster dunckt waer is voorleden min,</l>
+<l>Wegh <hi rend="i">Helles</hi>, wegh van my, want ghy rooft mijnen sin, </l>
+<l>Drucx moeder wijckt van my, laet blijschap in my woonen,</l>
+<l>Dat ick, dees mijn onneer, door gramschap niet en loone,</l>
+<l>Die my ter herten gaet, en aendoet sulck ghewelt,</l>
+<l>Dat ick door het verdriet nu niet en ben ghestelt,</l>
+<l>Om hem te schrijuen dan, Sabellus wilt hem segghen,</l>
+<l>Dat hy de saeck wel, voordachtich wil aenlegghen,</l>
+
+<pb ed="fol." n="B2r"/>
+<l>En dat hy doet, ghelijck een Edelman toestaet,</l>
+<l>Dees saeck is my te blindt om geuen goeden raet,</l>
+<l>Dan voor al dat hy doch de saeck soo wil betrachten,</l>
+<l>Want sy ons moeder is, die ons met pijn en smert,</l>
+<l>Ghedraghen heeft met vreught veel maenden aen haer hert,</l>
+<l>Dan dat hy 'tlicht gheloou' niet haest en wilt betrouwen,</l>
+<l>VVant wraecke sonder recht den wreker doet berouwen</l>
+<l>Keert dan op staenden voet en seght hem dit ras aen.</l>
+<l rend="speaker"><hi rend="i">Sabellus.</hi></l>
+<l rend="; 1tab">VVel Heer ick meyn dat hy v meyningh sal verstaen.</l>
+<l rend="speaker"><hi rend="i">Labinus.</hi></l>
+<l rend="; 1tab">Seght hem dat wy gheluck sijn edelheyt toe wenschen.</l>
+<l>Hy staet in sorghen groot die haetich is den menschen.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Eerste deel <lb/>derde vvtcomen.</head>
+<stage><hi rend="i">Liuia.</hi></stage>
+
+<lg type="poem">
+<l>EEnen droom vremt van zin quam my voor inder nacht,</l>
+<l>Dat ick, die nu oudt ben, ter werelt hebb' ghebracht,</l>
+<l>Twee dieren vremt van aert en soo wreet van manieren,</l>
+<l>Als Leeuwen onghetemt oft ander wilde dieren,</l>
+<l>Daerom ben ick bevreest want desen droom my quelt,</l>
+<l>Sout quaet sijn, neen, nochtans dit dencken my ontstelt,</l>
+<l>VVant van alsulcken droom en hoord ick noyt vermanen,</l>
+<l>'Tbrenght my gepeysen aen 'tdoet dat ick stort veel tranen,</l>
+<l>Niet wetende wat mijn outheydt ghebeuren mocht,</l>
+<l>Doch ten aenvalt my niet, want ick heb opghebrocht,</l>
+<l>Twee als ick niet en weet, dan die in alle deuchden,</l>
+<l>Sochten te leuen wel, dies ick my seer verheughden,</l>
+<l>Maer mijnen jonghsten soon die heeft wat stuer ghegaen,</l>
+<l>Dat hy my soo het scheen, niet wilde spreken aen,</l>
+<l>En dat doet my den droom dickwils te vooren comen,</l>
+<l>Soo dat hy 'smoeders hert seer droeuelijck doet schromen,</l>
+<l>Och soo hy wist wat smert dat mijn herte gheschiet,</l>
+<l>Als hy my soo onweert van ter zijden aensiet,</l>
+<l>Ick weet hy 'tlaeten sou, om my niet te verstooren, </l>
+<l>VVant hy heeft my gheweest ghehoorsaem naer 'tbehooren,</l>
+<l>Maer wat sal ick doch doen, 'ken quel my seluen maer,</l>
+
+<pb ed="fol." n="B2v"/>
+<l>Ten helpt my toch al niet, wel siet, maer wie comt daer,</l>
+<l><hi rend="i">Labinus</hi> soo ick can aen sijnen ganck beuinden,</l>
+<l>Och door outheydt my nu mijn ooghen gants verblinden,</l>
+<l>Siet hy comt naerder, nu sien ick wel dat hij't is,</l>
+<l>Hy heeft my wel ghesien, en gaet noch stuer ghewis,</l>
+<l>Och 'thert inwendich my, bitterlijck dunckt te breken,</l>
+<l>Als hy soo stuerlijck gaet, en my niet en wilt spreken,</l>
+<l>Den ouderdom men nu veracht siet van de ieucht,</l>
+<l>Ick mach gaen, 'tis voorwaer 'smoeders hert wel cleyn vreucht,</l>
+<l>Te wesen stuer besien van diemen liefde ionde.</l>
+<l rend="speaker"><hi rend="i">Labinus.</hi></l>
+<l rend="; 1tab">'tHert sou my lichter sijn dat ick eens weenen conde,</l>
+<l>Als ick mijn moeder nu soo swangher moet aensien,</l>
+<l>Ick weet sy mercket wel, doch wat haer sal gheschien,</l>
+<l>Daer denckt sy 'tminste van, gheen vrees' en sal haer deeren,</l>
+<l>Mijn dienaer weet ick wel is op sijn wederkeeren,</l>
+<l>Daer comt hy recht ghegaen, wel met begheer ghewacht,</l>
+<l>VVat tijdingh brenght ghy.</l>
+<l rend="speaker"><hi rend="i">Sabellus.</hi></l>
+<l rend="; 1tab">Hy wenscht v goeden nacht</l>
+<l>Naer dat hy uwen brief die ick hem had ghegheuen,</l>
+<l>Bedrucktelijck doorlas en heeft oock niet gheschreuen,</l>
+<l>Dan seyde dat ick v sou segghen dat ghy Heer,</l>
+<l>Als Edelman behoort, sout toesien voor v eer</l>
+<l>Maer hy waerschout v wel dat ghy sout beyden langher,</l>
+<l>Dat ghy ghewisser weet oft sy te recht is swangher,</l>
+<l>VVant sy v moeder is die v ghedraghen heeft.</l>
+<l rend="speaker"><hi rend="i">Labinus.</hi></l>
+<l rend="; 1tab">Beyden, neen, sy is swaer, soo een der <hi rend="i">Goden </hi>leeft,</l>
+<l>VVel tot haer ongheluck oft d'ooghen souden lieghen:</l>
+<l>'Twaer wonder sou het vals, vermoeden my bedrieghen,</l>
+<l>Daerom, volcht haer dan naer sy is daer in ghegaen,</l>
+<l>'T is tijdt dat ick voor sijn, en mijnder eere staen,</l>
+<l>En hoort roept haer alleen tot inde camer binnen,</l>
+<l>Maer veyst v tot dat ghy, haer recht naer uwe sinnen,</l>
+<l>En wensch wel hebt alleen, en seght haer dan dees groet,</l>
+<l>Dat sy tot onser eer, haer troost, want steruen moet,</l>
+<l>Om haer oncuysche daedt die sy tot een verachten,</l>
+<l>Bedreuen heeft tot schandt van all' haer mans gheslachten,</l>
+<l>En dan, als ghy haer dit gheseyt hebt, trecket bloodt</l>
+<l>Het sweert van uwer sijd' en brenght haer soo ter doodt,</l>
+<l>Met een gherust ghemoet, en wilt v gants niet quellen,</l>
+<l>De vreese, schrick, en schult, wilt my die al toe stellen,</l>
+
+<pb ed="fol." n="B3r"/>
+<l>Volght haer sy gaet daer voor dat niemant niet en hoort.</l>
+<l rend="speaker"><hi rend="i">Sabellus.</hi></l>
+<l rend="; 1tab">Moet ick door mijnen dienst volbrenghen dese moort,</l>
+<l>Moet mijn ghehoorsaemheydt tot moorden hem begheuen,</l>
+<l>Voorwaer de dienstbaerheydt is lastich te beleuen,</l>
+<l>Maer off ick het al ded' ben ick de oorsaeck, neen,</l>
+<l>Daerom sal ick het doen de wraeck comt hem alleen.</l>
+<l>Siet Heere dan den gheen die dees daet sal volvoeren,</l>
+<l>Hoe wel seer noode want de leden my beroeren,</l>
+<l>Alsick daer maer op denck door vreese van de daet.</l>
+<l rend="speaker"><hi rend="i">Labinus.</hi></l>
+<l rend="; 1tab">Doet het en zijt gherust 'tis straffe van het quaet,</l>
+<l>Maer siet dat het ghesin' ons moorden niet en mercken.</l>
+<l rend="speaker"><hi rend="i">Sabellus.</hi></l>
+<l rend="; 1tab">Ick gaen comt wreeden Godt der moorden wilt my stercken.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Eerste deel <lb/>vierde vvtcomen.</head>
+<stage><hi rend="i">Sabellus.</hi></stage>
+
+<lg type="poem">
+<l>FY wreetheydt bouen maet, waer is mijn wreeden Heere,</l>
+<l>Fy moordadighe daet, gheboren is d'onneere,</l>
+<l>Voor 'tgans edel gheslacht, vervloeckt sy desen dach,</l>
+<l>Ick wou dat ick mijn Heer mijn leuen meer en sach,</l>
+<l>Mijn bloedt, en gheest ontstelt, alsmen wel can ghedencken,</l>
+<l>Dat ick onrechtigh een ghinck metten sweerde crencken,</l>
+<l>Daer schult, noch onneer in beuonden is gheweest,</l>
+<l>Maer deuchdelijck in eer, d'onneere heeft ghevreest,</l>
+<l>Ach wat heb ick ghedaen, als onnatuerlijck mensche,</l>
+<l>Een vrou vol deugh, en eer, ghedoodt na mijnen wensche,</l>
+<l>Beloghen t'onghelijck, van v die waert het kindt,</l>
+<l>Hoe is't mogh'lijck <hi rend="i">Iupijn</hi> datmen soo kinders vindt,</l>
+<l>Verwaentheyt sonder reen, hoe, wat gaet gy bedrijuen,</l>
+<l>Die sielen moorders sijt, en t'onrecht doodt de wijuen,</l>
+<l>Onsalighen <hi rend="i">Labin'</hi>, comt verantwoorden ghy</l>
+<l>Dees grouwelijcke moort van v moeder, die bly</l>
+<l>Van herten was, doen sy van v welvaren hoorde,</l>
+<l>Voorwaer 'twas my een smert, dat ick haer noch vermoorde,</l>
+<l>Hoe wel all' dat ick ded' was niet dan sijn beuel,</l>
+<l>Nochtans mijn hert besweeck door dit bedrijuen fel,</l>
+<l>Ia ick en weet nau schier hoe ick ghelijck den snoode,</l>
+
+<pb ed="fol." n="B3v"/>
+<l>Dees edel oude vrou met desen sweerde doode,</l>
+<l>Dan het is nu te laet, maer hoe het sal vergaen, </l>
+<l>VVeet alleen het gheval.</l>
+<l rend="speaker"><hi rend="i">Labinus.</hi></l>
+<l rend="; 1tab">VVel hoe is het ghedaen,</l>
+<l>My dunckt ghy zijt verbaest, seght hoe zijt ghy gheuaren,</l>
+<l rend="speaker"><hi rend="i">Labinus.</hi></l>
+<l rend="; 1tab">Sy is ter doot ghebracht maer niet sonder beswaren,</l>
+<l>Het deert my in mijn hert wraeck volght my arme knecht.</l>
+<l rend="speaker"><hi rend="i">Sabellus.</hi></l>
+<l rend="; 1tab"><hi rend="i">Sabelle </hi>waerom dat.</l>
+<l rend="speaker"><hi rend="i">Labinus.</hi></l>
+<l rend="; 1tab">Och, wilt ghy 'tweten recht,</l>
+<l>'tFeyt is soo loflijck niet, nochtans sal ick 't verhalen,</l>
+<l>Als ick na mijnen will', v moeder inde salen,</l>
+<l>Alleen had door gheleydt, ick seyde 'tgheen ghy weet,</l>
+<l>En my beuolen hadt doch druckelijk sy creet,</l>
+<l>Soo ghy wel dencken moecht, en riep 'tis onwaerachtich,</l>
+<l>Maer desen scherpen punct die was haer veel te crachtich,</l>
+<l>Daer ick eyndichde mee haer roepen en ghejanck,</l>
+<l>Soo dat sy sterf de doodt, sonder te ligghen cranck,</l>
+<l>Doen nam ick haestich haer, om niet te beyden langher,</l>
+<l>En snee haer 'tlichaem op, doch sy en was niet swangher,</l>
+<l>Dies ick vervloeck den tijdt, dat ick ghinck dooden haer,</l>
+<l>Siet haren bleecken gheest, volght my onrustich naer,</l>
+<l>Haer fackel feng mijn hert, waer keer ick my waer henen,</l>
+<l>Vertwijfelt voor de wraeck, vindt ick my in gheweenen,</l>
+<l>Door dienstbaerheydt, in schad', 'thooft vliecht my ouer al,</l>
+<l>'Tis wonder waer onrust, tot rust, my brenghen sal.</l>
+<l rend="speaker"><hi rend="i">Liuia.</hi></l>
+<l rend="; 1tab">Doorbrekende dees aerd, ben ick hier voortghecomen,</l>
+<l>Verschrickelijck ghestelt, ontschuldich 'tlijf benomen.</l>
+<l>VVt 'tdiepste van der hell' bloedigh nochtans ghebaeyt,</l>
+<l>In <hi rend="i">Acheron</hi>, en <hi rend="i">Stix</hi>, het wiel dat eeuwich draeyt,</l>
+<l>Om met dees vlam het hert, van mijnen soon te branden,</l>
+<l>Die my dus heeft ghedoodt, tot wraeck van mijnder handen,</l>
+<l>VVat segh ick, my ghedoodt, ick leue door de daet,</l>
+<l>VVant mijne wreede doodt wt gheen ghedacht en gaet,</l>
+<l>Bereyt tot allen tijdt, om wreken en verstooren,</l>
+<l>Die d'oorsaeck waren, dat men my soo liet vermooren,</l>
+<l>VVant nu ick ben betuycht met valscheydt en bedroch,</l>
+<l>Wilt mijnen gheest de wraeck, en is onrustich noch,</l>
+<l>Ongheluckinghen tijdt, cont ghy my niet verleenen,</l>
+<l>Meer tijdt om d'ongheual, met droefheyt te beweenen,</l>
+<l>Verselschapt grouwelijck, meer dan ick segghen can,</l>
+
+<pb ed="fol." n="B4r"/>
+<l>Door wraeck van mijnen soon, niet sone, maer Tyran,</l>
+<l>Bedroefden ouderdom, moest v dit noch ghebeuren,</l>
+<l>Moest v, desen Tyran, onsalich soo verscheuren,</l>
+<l>Voor den ghesetten tijdt, die ghy te leuen waert,</l>
+<l>Daer ghy van d'ongheluck, der Goden wert bewaert,</l>
+<l>Och dese mijne doodt, en cost noch niet versaden,</l>
+<l>Den bloetdorst, van den gheen, die door sijn onghenaden,</l>
+<l>Mijn leuen had ghecort, maer snee my open, wandt</l>
+<l>Door valschen twijfel, hy doorsocht mijn inghewandt,</l>
+<l>Soo heeft hy dan betaelt mijn moederlijcke sorghen,</l>
+<l>Met droefheydt en verdriet, met woorden en verworghen,</l>
+<l>En sendt my soo ter hell', in droefheydt, anghst, en druck,</l>
+<l>Daer mijns ghelijcken, noch claghen haer ongheluck;</l>
+<l>Mijn onrust my vermaent, dat ick moet comen schenden,</l>
+<l>Met desen brandt, dat hy sijn leuen brenght ten enden,</l>
+<l>Vergheeft my mijnen soon dat ick voor desen niet,</l>
+<l>V ondanckbarich hert betaelt hebt met verdriet.</l>
+<l>Nu dan comt my te hulp ghy helsche rasernijen,</l>
+<l>Bereyt oock eenen brandt, ondraghelijck te lijen,</l>
+<l>VVeerdich soo wreeden moort, aen die hem heeft ghebaert,</l>
+<l>V Fackels nu ontsteeckt, betoont toch uwen aerdt,</l>
+<l>Verbrandt hem d'inghewandt, soo dorstelijck van binnen,</l>
+<l>Dat hy als <hi rend="i">Tantalus</hi>, den dorst en can verwinnen,</l>
+<l>Laet hem oock niet ontgaen den swaren arrebeyt,</l>
+<l>Die <hi rend="i">Sysiphus</hi>, voor straf te doen was opgheleyt,</l>
+<l>Doet hem in eeuwicheydt, om sijn boosheydt te weten,</l>
+<l>Als <hi rend="i">Tytius</hi>, het hert oock van de gieren eten,</l>
+<l>D'onrustelijcke radt, dat <hi rend="i">Ixion</hi> met pijn,</l>
+<l>In eeuwigheden draeyt laet hem te weynich sijn,</l>
+<l>Dat hem de wreetheydt keert tot zijnder grooter schanden,</l>
+<l>Op dat hy soo versaedt sijn bloetdorstighe handen, </l>
+<l>Ongheluck voor sijn eer vercrijght hy met beclagh,</l>
+<l>Van dese mijne doodt, verschrickt den claren dagh,</l>
+<l>De Firmamenten groot, en Stigiam om sticken,</l>
+<l>Iae hemel, zee, en aerd', van dese moort verschricken,</l>
+<l>VVee my heeft dit mijn sorgh', voor loon aen v verdient,</l>
+<l>Is dit om dat ick v van herten heb bemint,</l>
+<l>Helaes mijn wenschen is, verandert in het blaesen,</l>
+<l>Van dulle gramschap die, verwoedich my doet rasen,</l>
+<l>Wensende dat mijn doodt, door v verdriet en smert,</l>
+
+<pb ed="fol." n="B4v"/>
+<l>Vernoeghen mach den gheest, en dit onrustich hert,</l>
+<l>Waerom, ghy Goden die den hemel cont ghebieden,</l>
+<l>En sloeght ghy my niet doodt, eer my dit moest gheschieden,</l>
+<l>Soo waer onschuldich hy, die ick soo seer veruolgh,</l>
+<l>En teghen wien den gheest, wraeckghierich hem verbolgh',</l>
+<l>Daerom en suldy niet, met rust ter hellen dalen,</l>
+<l>Maer v ondanckbaerheydt, in eeuwicheydt betalen,</l>
+<l>Verdrieten ick v wensch, vervremt van alle lust,</l>
+<l>d'Eeuwighe slauerny, voor v voorvaders rust,</l>
+<l>Waerom weerhoud' ick my, v boosheydt soo te wreken,</l>
+<l>Dat ick met desen brandt, v hert niet aen en steke,</l>
+<l>Tot wraecke van mijn doodt, onsalich als ick ben,</l>
+<l>Nu <hi rend="i">Liuia</hi> niet meer die v voor sone ken.</l>
+<l rend="speaker"><hi rend="i">Labinus.</hi></l>
+<l rend="; 1tab">Opent ghy aerde nu, en ghy Goden der hellen,</l>
+<l>Ontfanght my nu terstont, om naer verdienst te quellen</l>
+<l><hi rend="i">Simplegades</hi> verdrinckt verslindich inden grondt,</l>
+<l>Den moorder die niet weert sijn moeder is ghejont,</l>
+<l><hi rend="i">Caribdis</hi> doet de wraeck, <hi rend="i">Scilla </hi>wilt my vernielen,</l>
+<l><hi rend="i">Iupijn</hi> eyscht toch van my dees ontschuldighe sielen,</l>
+<l><hi rend="i">Hemus</hi> comt valt op my die s'helschen boeck besluyt,</l>
+<l><hi rend="i">Cerberum</hi> smijt my neer, <hi rend="i">Charon </hi>comt met v schuyt,</l>
+<l>Brenght my onsalich mensch tot in <hi rend="i">Plutoris</hi> eruen,</l>
+<l>Comt voort, comt voort segh' ick, want ick will' haestich steruen</l>
+<l>T'verdriet my hier te sijn den dagh dunckt my een Iaer,</l>
+<l>Want desen gheest, en moort, benauwt mijn herte swaer,</l>
+<l>Voor helsche raserny wilt uwen Borgher halen,</l>
+<l>Op dat hy mach sijn schult met rechten loon betalen</l>
+<l>Waerom en heb ick niet desen punct in mijn hert</l>
+<l>Ghesteken, eer sy door my soo vermooret wert,</l>
+<l>Dan, hy heeft noch den punct, ia 'tis ghewis den seluen,</l>
+<l>Die als een schop in d'aerd, nae mijn hert noch sal deluen,</l>
+<l>Gheluckigh sy den dagh die nu comt met verdriet,</l>
+<l>Maer vervloeckt sy den tijdt dat d'oorsaeck is gheschiet,</l>
+<l>Vervloeckt sy oock den mont die 't vonnis heeft ghesproken,</l>
+<l>Dan vervloeckt noch veel meer soo 'tniet en wert ghewroken,</l>
+<l>Vermalendijde tongh' die schande sprack t'onrecht,</l>
+<l>Vermalendijt sy hy die oorsaeck gaf den knecht,</l>
+<l>Comt dryhoofdigh ghediert wilt my nu gants verslinden,</l>
+<l><hi rend="i">Megera</hi> laet my doch der hellen afgrondt vinden,</l>
+<l>Dat ick die stede vindt, van <hi rend="i">Pluto</hi> 'shelschen Godt,</l>
+
+<pb ed="fol." n="C1r"/>
+<l>En dat ick soo tot loon vercrijgh het doncker codt,</l>
+<l>Een dicken neuel mist, dunckt my voor ooghen vallen,</l>
+<l>De sterren, Son, en Maen, oock duyster met hun allen,</l>
+<l>Nu dan, het is ghedaen, daer is mijn bloote borst,</l>
+<l>Den punct, handt, ende will', dier noyt in steken dorst,</l>
+<l>Maer v wraeck, droeuen gheest, heeft d'ouerhandt vercreghen,</l>
+<l>Dat hy gaen soecken sal, waer mijn hert is gheleghen,</l>
+<l>Ontfanght mijn ziel <hi rend="i">Iupijn</hi>, de doodt mijn hert gheraeckt,</l>
+<l>O! doodt voor 'tleuen ghy nv vriendelijcken smaeckt.</l>
+<l rend="speaker"><hi rend="i">Liuia geest.</hi></l>
+<l rend="; 1tab">Nu rust ô droeuen gheest, vernoeningh' heb ghy creghen,</l>
+<l>Mijn onschult, gaet de wraeck, als vyandinne teghen.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Eerste deel <lb/>vyfde vvtcomen.</head>
+<stage><hi rend="i">Placidus, Fuluius, Sabbellus.</hi></stage>
+
+<lg type="poem">
+<l>VErwonderingh' mijn bevangt, ick verlangh' meer, en meer.</l>
+<l>Ick vrees' my valt wat in, doch seyd' ick, dat om eer</l>
+<l>Als Edelman behoort hy dede, ghelijck reden,</l>
+<l>Daer med' en gaf ick last, noch vonnis, van 'tontleden,</l>
+<l>Maer seyde dat hy sou, als Edelman betaemt,</l>
+<l>Sijn eere voore staen, dus, of 'tsoo quaem, ick naemt,</l>
+<l>Dat sy ghedoodet waer ick waer daer in onschuldich,</l>
+<l>Dan ick vrees' van haer doodt want hy was onuerduldich,</l>
+<l>Nochtans soo wou ick wel dat hy haer 'tleuen liet,</l>
+<l>Want lieuer sout my sijn, en waer haer niet gheschiet,</l>
+<l>Dan ick acht dat hy voor de meeste eer sal houwen,</l>
+<l>Te laten leuen haer, en quellen niet de vrouwen,</l>
+<l>En sien waer ouer dat het met der tijdt sal gaen,</l>
+<l>Is't soo, hy sal voorwaer het beste sijn beraen.</l>
+<l rend="speaker"><hi rend="i">Fuluius.</hi></l>
+<l rend="; 1tab"><hi rend="i">Sabellus</hi> is daer Heer.</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">Gaet laet hem stracx incomen.</l>
+<l rend="speaker"><hi rend="i">Sabellus.</hi></l>
+<l rend="; 1tab">Het hert dunckt my door vrees' voor <hi rend="i">Placide</hi> te schromen.</l>
+<l>Maer wat sal het all' zijn ick en ben d'oorsaeck niet.</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">Seght my wel, hoe siet ghy, hoe is de moort gheschiet.</l>
+<l rend="speaker"><hi rend="i">Sabellus.</hi></l>
+<l rend="; 1tab">Och iae hoort bidd' ick doch hoe dese daet ghebeurde,</l>
+<l>Hy sant my dies ick 'tseyt' wel dusentmael betreurde,</l>
+<l>Dat ick haer dooden sou doch dochte weynich, dat</l>
+
+<pb ed="fol." n="C1v"/>
+<l>Sy soo ontschuldich was als ick 'tbeuonden hadt,</l>
+<l>Daer hy seer groot misbaer en veel ghevloeck om maeckte,</l>
+<l>'Kwas bly dat ick met 'tlijf ghesont van hem gheraeckte,</l>
+<l>Want hy met dul geroep vervloeckte d'uer en dagh,</l>
+<l>Dat hy geboren was en dat hy haer oyt sach,</l>
+<l>'Ken weet oock anders niet want hy bleef daer staen vloecken</l>
+<l>Oft hy ghinck met sijn sweert sijn inghewant door soecken,</l>
+<l>Door 'tgrouwelijck ghebaer die hem sijn dulheydt gaf,</l>
+<l>Doen haeren bleecken gheest hem voor quam wt het graf,</l>
+<l>Noyt schrickelijcker dagh' con my den hemel gheuen.</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">Hoe is ons moeder doodt waer door dat wy hier leuen,</l>
+<l>Vloyt, vloyt mijn ooghen beyd', als twee reuieren stijf,</l>
+<l>Dat ick in tranen nu verdoen mijn leet, en lijf.</l>
+<l>Och waer het moghelijck den hemel door mijn schreyden,</l>
+<l>Iet te beweghen waer 'ken sou my niet verbeyden.</l>
+<l>Comt <hi rend="i">Atropos</hi> comt voort snijt mijnen draet terstont,</l>
+<l>Want niemandt helpen can mijn hert ter doodt ghewondt,</l>
+<l>Voor vreught tot desen tijdt moet ick swaerlijck versuchten,</l>
+<l>Door dat den lichten dagh d'ooghen doet onghenuchten,</l>
+<l>Ach my dat dese schandt ons edel huys gheschiet,</l>
+<l>Moet naer soo veel gheluck toecomen dit verdriet,</l>
+<l>Dan mijne droeue clacht en helpt haer niet met allen,</l>
+<l>Den moorder om sijn wraeck is inde wraeck ghevallen,</l>
+<l>Den rechten loon naer werck heeft hy ontfanghen recht,</l>
+<l>Sijn bloedt-dorst heeft vervult 'tvolbrenghen van den knecht.</l>
+<l>Droefheydt en doet gheen goedt, wat wil ick my bedencken,</l>
+<l>Onrust die sorghe baert, de ziel het meest doet crencken,</l>
+<l>VVant al den dagh vernieut sy hare bitt're pijn,</l>
+<l>Dees doodt moet nu het is met vreught vergheten sijn,</l>
+<l>Den dach die gaet voorby dienaer ghy sult gaen vraghen,</l>
+<l>Den vorstelijcken Prins oft hy med' wilt gaen iaghen,</l>
+<l>Dees droefheydt door de iaght, wil ick stellen ter sy,</l>
+<l>En openbaren 'them, om te verlichten my,</l>
+<l>VVant oft ick my veel quel ten can my toch niet baten,</l>
+<l>Daerom ben ick van sin dit claghen doodt te laten,</l>
+<l>En iaghen met de iaght de droefheydt van mijn hert,</l>
+<l>Daer in ick als in't net met droefheyt ben verwert.</l>
+</lg>
+<div type="section">
+<head rend="h4">Choor.</head>
+
+<lg type="poem">
+<l>EEn quade vrucht die wt den toren rijst,</l>
+<l>In neemt 'tghemoet, iae 'theele licht der reden,</l>
+
+<pb ed="fol." n="C2r"/>
+<l>Den schijn is wel dat d'een den and'ren prijst,</l>
+<l>En inwendich steeckt vol vileynicheden.</l>
+<l rend="; 1tab">D'ontsinnicheyt, boosheyt, en toren spruyt,</l>
+<l>VVt hooghmoet, en verachten van de deughden,</l>
+<l>Die den mensch brenght, ten quaden eynden wt,</l>
+<l>Onrust 'tghemoet vervremt ons van de vreughden.</l>
+<l rend="; 1tab">Soo yemant doet teghen 'tgheen hem natuer,</l>
+<l>Toelaten wil', behoortmen hem te achten</l>
+<l>Onwijs, en sott', ong'luckich 'taller uer,</l>
+<l>VVant reden hy door ontucht gaet verachten.</l>
+<l rend="; 1tab">Den toren is den onderganck van 'goedt,</l>
+<l>Als onwijsheyt, daer by wort 'tsaem ghevonden,</l>
+<l>VVant dickwils men siet door onschult veel bloedt,</l>
+<l>Vergieten, dat sy seluen gaen ter gronden.</l>
+<l rend="; 1tab">Het is van nood' dat al die dinghen, die</l>
+<l>De menschen gram doen, dat sy al blindt waren,</l>
+<l>En onwijs, om dat gheen licht dinck is wie.</l>
+<l>Soo gants vergramt goe' reden can verclaren.</l>
+<l rend="; 1tab">Veel beter waer't te sijn gheboren niet,</l>
+<l>Als tiranny te laten in hem woonen,</l>
+<l>VVant als hy doet sal hem gheschieden siet,</l>
+<l>Door dat de wraeck sijn meesters weer comt loonen.</l>
+<l rend="; 1tab">Oft eenich mensch een Keyserijck besadt</l>
+<l>Met boosheyt, soo verderft hy 'tallen enden,</l>
+<l>Hy stort veel bloedt, en doet menighe stadt,</l>
+<l>Vallen, en brenght veel menschen in ellenden.</l>
+<l rend="; 1tab">'T ontprijsen niet, is't dat yemandt verstoort,</l>
+<l>Om dinghen, die het selfde wel verwillen,</l>
+<l>Hoe, oft wanneer het noodt doet, oft behoort,</l>
+<l>Maer dat daer naer, den toren hy can stillen.</l>
+<l rend="; 1tab">Een iammer saeck is't dat yemandt verhert,</l>
+<l>In eyghen will', en toren gheeft de stede,</l>
+<l>Als moordery, gheschiet om yemandts smert,</l>
+<l>Daer hy hem self oock stellet in 'tonvreden.</l>
+<l rend="; 1tab">De gramschap is loffelijck, als sy met</l>
+<l>Rechtueerdicheydt, becleedt is 'tallen tijden,</l>
+<l>Maer sonder reen wtsinnich hier op lett',</l>
+<l>Is als verghift, moordadich quaet om mijden.</l>
+<l rend="; 1tab">De gramschap is begheerte van de wraeck,</l>
+<l>De gramschap is den raet een vyandinne,</l>
+<l>Om datmen siet een ander wel de saeck,</l>
+
+<pb ed="fol." n="C2v"/>
+<l>Beter doorsiet, of die waer 'touerwinnen.</l>
+<l rend="; 1tab">Soo houw' ick best datmen reden verstaet,</l>
+<l>En eyghen will' hem niet en laet vernoeghen,</l>
+<l>Dat door boosheyt comt doodelijcken haet.</l>
+<l>Op dat de wraeck by haer niet en comt voeghen.</l>
+</lg>
+<p><hi rend="spat">PAVSA</hi>.</p>
+</div>
+</div>
+<div type="chapter">
+<head rend="h2">Tweede deel</head>
+<head rend="h3">Eerste vvtcomen.</head>
+<stage><hi rend="i">Placidus. Diadamenus.</hi></stage>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l>WAt docht v van de wilde iacht,</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">'Ken hadse noyt soo goedt ghedacht,</l>
+<l>Den mensche leeft door all' die lusten.</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">Ick was vermoet ick moeste rusten.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">Maer wat een vreucht, ay my, ick sweet,</l>
+<l>Voorwaer dat loopen maeckt my heet.</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab"><hi rend="i">Sabellus</hi> coppelt ghy die honden,</l>
+<l>En strijckt den dien wat sijn wonden,</l>
+<l>Hoe, sijn die ander niet ghequetst.</l>
+<l rend="speaker"><hi rend="i">Sabellus.</hi></l>
+<l rend="; 1tab">Neen Heer.</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">Iaechtse dan all' te nest,</l>
+<l>Maer seker 'tis nu lust te iaghen,</l>
+<l>Hoe spronckt dat hert door hegh, en haghen,</l>
+<l>'tScheen dat het vloogh, door vrees' en schrick.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">Sijn schoonheyt brocht hem inden strick,</l>
+<l>VVant met sijn hoornen bleef hy hangen.</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">Door schoonheydt wordt men meest ghevanghen,</l>
+<l>Ten sijn de herten niet alleen.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">Herten vanghen sy in't ghemeen,</l>
+<l>Maer die sy vanght sijn onse herten,</l>
+<l>En gheeft voor lusten dobbel smerten,</l>
+<l>Dan laet sy vanghen met gheweldt,</l>
+<l>Ick ben van sinnen soo ghesteldt,</l>
+<l>Dat ick my voor haer sal bewaren.</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">Die 'tminste seyt soeckt eerst te paren,</l>
+
+<pb ed="fol." n="C3r"/>
+<l>Ey doet v Ionckheydt toch gheen schandt.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">Hoe meyndy dat ick mijn verstandt,</l>
+<l>Al ben ick ionck niet can bedwinghen.</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">Neen, onsen staet soeckt die dinghen,</l>
+<l>Leegheyt, Ionckheydt, rijckdom, en rust,</l>
+<l>Sijn de wortelen van wellust,</l>
+<l>En sijn ons by eer wijse soecken.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">'T is waer 'ken can het niet vervloecken,</l>
+<l>Als ick mijn seluen wel bedenck,</l>
+<l>De vrouwen vanghen met ghewenck,</l>
+<l>Meer dan wy doen, door list en netten,</l>
+<l>Mijn liefde sou ick noch wel setten,</l>
+<l>Op die schoon Nimphe die daer sadt,</l>
+<l>Doen wy by 'twater rusten wat,</l>
+<l>Kend' ghy haer niet, my dunckt sy lonckte.</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">Neen ick voorwaer, maer 'thert ontvonckte,</l>
+<l>Als ick haer groote schoonheyt sach.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">Die iacht was weerdich desen dagh,</l>
+<l>Al hadden wy niet meer bedreuen,</l>
+<l>'T verdroot my haer soo te begheuen,</l>
+<l>Het wilt ontdeckte was te ras.</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">Ghy kent haer nou, 'tcomt weer te pas,</l>
+<l>Maer seght weet ghy hier niet te iaghen,</l>
+<l>Vergheeft my Heer, lust doet my vraghen,</l>
+<l>Soo ick yet wist, Godt kenn' mijn ziel,</l>
+<l>Dat ickse niet voor my en hiel,</l>
+<l>Maer oock voor v als rechte vrienden.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">Neen ick en wist nu niet te vinden,</l>
+<l>Ghy weet wel wat, laet ons maer gaen.</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">K'en doen.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">Ey laet het weygheren staen,</l>
+<l>'T en can niet min naer uwe iaren,</l>
+<l>Dan yder wilt het self bewaren,</l>
+<l>Dat isser 'trecht ghebruycken van.</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">Seker k'en doen als Edelman,</l>
+<l>K'en can niet dencken yet te weten,</l>
+<l>Oft 'tis ghemeyn oft oudt versleten,</l>
+<l>Wat nieus verweckt den appetijdt,</l>
+<l>VVant als het nieu is achten wijdt,</l>
+<l>Maet weet ghy wat, seght eer wy scheyden.</l>
+
+<pb ed="fol." n="C3v"/>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">Neen ick.</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">Gaen wy, ick sal v leyden,</l>
+<l>Maer sweyrt my als een Prins van moet,</l>
+<l>Dat ghy my gheen ontrou en doet,</l>
+<l>VVant ick heb haer naer mijnen wenschen.</l>
+<l rend="speaker">Diadumen.</l>
+<l rend="; 1tab">Vervloeckt sijn all' ontrouwe menschen,</l>
+<l>Ick ontrou, neen ghewis, ick sweyr,</l>
+<l>Dat ick niet dan t'ghesicht begheer,</l>
+<l>Den eedt die doen ick voor de Goden.</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">En ick, die houw ick als gheboden,</l>
+<l>Daerom betrou ick op v woort.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">Ick sweyrt als edel-man behoort,</l>
+<l>Dat v gheen ontrou sal ghebeuren,</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">Desen is goet als die te veuren,</l>
+<l>Men moet gheloouen sonder eedt,</l>
+<l>Maer dese Princes, die ick weet,</l>
+<l>Ick meyn dat sy v sal beuallen.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">VVie ist?</l>
+<l rend="speaker">Placidus.</l>
+<l rend="; 1tab"><hi rend="i">Darida.</hi></l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">T'was mijn inghevallen,</l>
+<l>De Goden draghen uwer acht,</l>
+<l><hi rend="i">Darida</hi> hebt ghy soo ghewacht,</l>
+<l>Dat ghy <hi rend="i">Placidem</hi> hebt gheuanghen.</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">Gaen wy ick weet sy sal verlanghen</l>
+<l>My dunckt dat sy hier comt ghegaen.</l>
+<l rend="speaker">Diadumen.</l>
+<l rend="; 1tab">Ist sijt.</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">Ia gaen wy hier staen.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Tvveede deel <lb/>tvveede vvtcomen.</head>
+<stage><hi rend="i">Darida.</hi></stage>
+
+<lg type="poem">
+<l>C<hi rend="i">Vpido</hi> waerdy Godt, soo sout ghy zijn rechtueerdich,</l>
+<l>Maer neen, ghy zijt te cleyn, radeloos, en lichtveerdich,</l>
+<l>Nochtans men noemt v Godt, sone van <hi rend="i">Citheree,</hi></l>
+<l>Die hemel, hel, en aerd, verweckt vol van onvree</l>
+<l>Ghy zijt het ôch, 'tis waer v wapen v ontdecken,</l>
+<l>De cracht van uwen pijl, mijn lijden doet verwecken,</l>
+
+<pb ed="fol." n="C4r"/>
+<l>Comt baeyt v pluymkens teer, in mijnder tranen vloet,</l>
+<l>Die my v wreede wett', wt d'ooghen vloyen doet.</l>
+<l>O! wett' der liefden wreet, teghen my soo verbolghen,</l>
+<l>Een yder vliet v quaet, en ick, ick moet het volghen,</l>
+<l>Om dat ick een bemin, die my de liefde riet,</l>
+<l>Reden is veel te swack, als het gheweldt ghebiedt.</l>
+<l>O! groote vlam der min, die door v hittich branden,</l>
+<l>Ons herten soo verweckt, tot lijden veelderhanden,</l>
+<l>Hoe comt dat ick bemin, helaes die van my vliet,</l>
+<l>En die my soo bemindt, dat ick hem minne niet,</l>
+<l>Of wildy proeuen ons door uwe groote crachten,</l>
+<l>En doet het niet aen die, die v gheboden achten, </l>
+<l>Oft ist om wreken v, van uwen ouden haet,</l>
+<l>Wreeckt v dan aen die sijn, beschuldich van het quaet,</l>
+<l><hi rend="i">Placide</hi> soo ick sterf, om v daer mee te dienen,</l>
+<l>Gheen grooter eer, noch lof, can ick van v verdienen,</l>
+<l>Dan dat ghy my verghelt, als ghy my brenght in noot,</l>
+<l>Om dat all' mijn verdriet mach eynden door de doodt.</l>
+<l>Och van den heelen dagh, en vindt ick tijdt om rusten,</l>
+<l>Van crijten, en gheween, vervremt van alle lusten,</l>
+<l><hi rend="i">Placidus </hi>'tis v leedt, dat mijnen gheest vernoeght,</l>
+<l>Helaes bedroefde vrouw', dat ghy oyt liefde droecht.</l>
+<l>Den dach die gaet voorby, en sendt sijn doncker nachten,</l>
+<l>Dat yders herte rust, van arbeyt en ghedachten,</l>
+<l>Maer lijden waeckt met my, die ruste van my treckt,</l>
+<l>VVant in den diepen slaep, wort mijn verdriet ontweckt,</l>
+<l>Indien den dagh my gheeft, middel om yet te mercken,</l>
+<l>Ialoursheyt voeght haer strack, daer by met hare wercken,</l>
+<l>Den nacht door stilheyts rust, verdubbelt mijne pijn,</l>
+<l>Als mijn ghedachte stil, in't ouerdencken sijn.</l>
+<l>Den dagh, is my gheen dagh, door dat ick niet en vinde,</l>
+<l>Dan wanhoop, sonder rust, om dat ick v beminde,</l>
+<l>Den nacht, is my gheen nacht, door dat ick niet en rust,</l>
+<l>VVant mijn verdriet, en pijn, in stilheydt hem verlust.</l>
+<l>Desen bedriegher vals, om goeden moet te gheuen,</l>
+<l>Die lonckt, en winckt ons toe daer door hy ons doet leuen,</l>
+<l>Maer als hy ons dan heeft, in sijn ghewelt ghevaen,</l>
+<l>Dan toont hy zijne cracht, en laet sijn vleyen staen.</l>
+<l>Ghelijck den voghel hem, doet vanghen, door het singhen,</l>
+<l>En hem den vis verhanght door 'taes, oft ander dinghen,</l>
+
+<pb ed="fol." n="C4v"/>
+<l>Dat hem den visscher gheeft voordachtich met opsett',</l>
+<l>Ben ick gheuanghen oock onnoosel in het nett',</l>
+<l>Maer lacen van dat ick, ghevanghen was, met listen,</l>
+<l>Verloor ick sin, en moet, want die te samen twisten,</l>
+<l>Dan hoop is mijne rust, die sal my gheuen raet,</l>
+<l>VVant wanhoop my voorseyt, het aldergrootste quaet.</l>
+<l>Dit en is noch al niet, maer t'meeste noch van allen,</l>
+<l>Dat ick noch swijghen moet, in al mijn ongheuallen,</l>
+<l>Och dat ick hem mocht sien, 'tverbeyden waer gheluck,</l>
+<l>Maer neen 'tis raes voorwaer, hy laet my inden druck.</l>
+<l>O! <hi rend="i">Placidus</hi> mijn siel, mijn licht, mijn vreucht, mijn herte,</l>
+<l>Sleutel van mijn ghedacht, versoeter mijnder smerte,</l>
+<l>Helaes ghevoeldy niet, hoe mijn teyrende vier,</l>
+<l>Ontsteeckt van uwe deucht, en my doet steruen hier.</l>
+<l>Soo ick dan niet en sien, dat my can hulpich wesen,</l>
+<l>Rust v dan <hi rend="i">Darida</hi>, de doodt en wilt niet vreesen,</l>
+<l>O! hemels isser hoop, soo sendt doch eenen dach,</l>
+<l>Dat v wreede ghesett' ten besten keeren magh.</l>
+<l>Is dit voor mijnen loon, is dit voor mijne liefde,</l>
+<l>Is dit voor al de vreught, daer ick v in beliefde,</l>
+<l>Verlaten och wat wet, ontrou hoe loont ghy my,</l>
+<l>Och quaet te minnen is't, sonder wederparty.</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">Ghegroet edel Godin.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">Verheught v herte bly,</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">Wat quelt v soo den gheest, van my tot uwer smerte,</l>
+<l rend="speaker"><hi rend="i">Darida.</hi></l>
+<l rend="; 1tab">Niet Princen zijt ghedanckt, den gheest bedroeuet herte,</l>
+<l>Vreese die gheeft my in, dat ghy op ander denckt.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">Stelt dat doch aen d'een sy.</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">V sinnen niet en crenckt,</l>
+<l>Met ydel, sot ghedacht, ghy die mijn hert van binnen,</l>
+<l>Meerder verwonnen hebt, als 'tmoghelijck waer te winnen,</l>
+<l>Daerom zijt wel gherust, en stelt v als 'tbetaemt.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">Ghelooft hem <hi rend="i">Darida</hi>, die weerdich zijt ghenaemt,</l>
+<l>Der liefden schoon Godin, door schoonheydt wtghelesen.</l>
+<l rend="speaker"><hi rend="i">Darida.</hi></l>
+<l rend="; 1tab">Onnoodigh sulck verhael, onweerdigh soo ghepresen,</l>
+<l>Schoonheyt, en dat ghy prijst, sijn gauen by gheual,</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">Voorwaer v comter meer, ia dusent in 'tghetal,</l>
+<l>En meer als ick vermach, wt mijnen mont te spreken,</l>
+<l>Nou laet het doch gheschien.</l>
+<l rend="speaker"><hi rend="i">Darida.</hi></l>
+<l rend="; 1tab">Wegh wat sal v ghebreken,</l>
+
+<pb ed="fol." n="D1r"/>
+<l>Ey 'tcussen voeght nu niet, beyt opeen ander tijdt.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">Ach liefde uwen brandt mijn herte quetst, en snijdt,</l>
+<l>Als ick sien dit ghecus, dan 'tsal my oock ghebeuren,</l>
+<l>Soo soo hergaet het weer dat's recht als van te veuren,</l>
+<l>Princes des minnaers brandt wort soo te recht gheblust,</l>
+<l>Blust doch den mijnen oock.</l>
+<l rend="speaker"><hi rend="i">Darida.</hi></l>
+<l rend="; 1tab">Ey nou 'tis wel ghecust,</l>
+<l>Dit was bouen ghedacht van desen dagh' t'ontfanghen.</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">Voorwaer v by te sijn had ick seer groot verlanghen,</l>
+<l>Maer d'oorsaeck wilde niet dat ick het con ghedoen,</l>
+<l rend="speaker"><hi rend="i">Darida.</hi></l>
+<l rend="; 1tab">De liefde van de mans schijnt altijdt euen groen,</l>
+<l>Maer drooght ghelijck het hoy datmen haest siet verdwijnen,</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">Ey wegh met sulck ghepeys.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">G'en soeckt hem maer te pijnen,</l>
+<l>Dan 'tis de meeste smert die eenen minnaer draeght.</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">Smert, neen oprechte liefd', die my seer wel behaeght,</l>
+<l>Mijn ziel ghevoelt de vreught van <hi rend="i">Daridas</hi> beminnen,</l>
+<l>Die door haer deught verwint, meer dan ick can ghewinnen,</l>
+<l>Veriaeght de vreese dan en zijt van rou ghestilt.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">Wy zijn ter iacht gheweest, maer ghy alleen zijt 'twilt,</l>
+<l>Daer uwen <hi rend="i">Placide</hi> soo vlijtich om wt speurde.</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">Geen Hert, geen Haes, geen Hind', en dee noyt dat ick treurde</l>
+<l>Doen sy ontvloden my, maer dat ghy my verliet,</l>
+<l>Vreucht waer met my ghedaen, 'tleuen en waer my niet,</l>
+<l>Mijn ziel ghebonden is, in uwe schoone hayren.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">Princes ghelooft hem vry, laet v vermoeden varen,</l>
+<l>VVant hy bemint v wel ghestadich en ghetrou.</l>
+<l rend="speaker"><hi rend="i">Darida.</hi></l>
+<l rend="; 1tab">Voorwaer indient soo waer, ick my verheughen sou,</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">Gaen wy soo mach den gheest naer rust wat lust vercrijgen,</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">Der liefden Godt is blindt en qualijck can hy swijghen,</l>
+<l>'T vier brandt ons maer van by maer 'tsijn dat brandt soo seer</l>
+<l>Dat hoe wy veerder sijn het brandt ons meer en meer.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Tvveede deel <lb/>vyfde vvtcomen.</head>
+<stage><hi rend="i">Diadumenus.</hi></stage>
+
+<lg type="poem">
+<l>VOorwaer 'tis cleyne moeyt te segghen op mijn trou,</l>
+<l>Maer groote moeyt, als men die onderhouden sou,</l>
+
+<pb ed="fol." n="D1v"/>
+<l>Oock ist een cleyne const, yemandt yet toe te segghen,</l>
+<l>Dan soo hy 'tniet en doet, soo laet hy d'eere legghen,</l>
+<l>Dat weet ick van te voor, nochtans en can ick schier,</l>
+<l>Om mijn trou te voldoen, blusschen het hittich vier,</l>
+<l>Dat my inwendich quelt, bouen' beloft en eeden,</l>
+<l>Want ick verwonnen ben door hare schoonicheden,</l>
+<l>Haer edel schoon ghelaet, mijn hert ontfancken doet,</l>
+<l>Tot haer ick 'thoogh ghepeys nu wend', door dat 'tghemoet,</l>
+<l>Met liefde vervult is, want sy, door min beuanghen</l>
+<l>Heeft mijn hert, doen ick haer ontvlochten hayr sach hangen,</l>
+<l>Op hare schouders wit, als goutdraet blont ghevlocht,</l>
+<l><hi rend="i">Cyprina </hi>schijnt sy self van <hi rend="i">Celus</hi> voortghebrocht,</l>
+<l>Der <hi rend="i">Musen </hi>soet ghesangh, en is niet om ghelijcken</l>
+<l>By haer, mijn <hi rend="i">Darida, </hi>daer <hi rend="i">Pallus</hi> voor moet wijcken,</l>
+<l>VVant sy wel sprekentheyt ghebruyckt in alle reen,</l>
+<l>Soo dat van 'tHemelsch Heyr haer comt den prijs alleen,</l>
+<l>Door Goddelijcke liefd' vind' ick my nu ghedwonghen,</l>
+<l>Om singhen haren lof, al hadd' ick duysent tonghen,</l>
+<l>Dan 'tis waer, 'twaer onneer soo <hi rend="i">'tPlacide</hi> vernam,</l>
+<l>Oock sou met alle recht hy daerom wesen gram,</l>
+<l>En oorsaeck sijn dat ick ons vrientschap eerst sou scheyden,</l>
+<l>Maer, wat had' hy my by, sijn weertste lief te leyden,</l>
+<l>Cost hy niet dencken, dat onweten niet en deert,</l>
+<l>Oft dat den sin door 'tsien en weten wel verkeert,</l>
+<l>Cost hy niet dencken, dat de min heeft sulcke crachten,</l>
+<l>Dat sy voor trou, en eer, noch voor beloft can wachten,</l>
+<l>De liefde die bedriecht, Lacht, Lonckt, vreest, hoopt, en quelt,</l>
+<l>Waerom dat hy voor blindt, en kintsich wert ghestelt,</l>
+<l>Nochtans sijn groote cracht is quaet om teghen strijden,</l>
+<l><hi rend="i">Iuppiter</hi> cost dien Godt als was hy groot niet mijden,</l>
+<l>Maer als ick dul verlieft door vleeschen lust vermaent,</l>
+<l>Verand'ren al den dach in beestelijck ghedaent,</l>
+<l>Sijn moeder die hem hadd' ghedraghen aen haer herte,</l>
+<l>En Mars der crijghen Godt, dee hy oock lijden smerte,</l>
+<l>Hoe sou ick dan, die my daer niet by setten will',</l>
+<l>Connen bedwinghen, oft van haer my houden stil',</l>
+<l>Neen ick, neen ick ghewis, al heb ick het ghesworen,</l>
+<l>Haer liefde, heeft my 'thert voor mijn belooft vercoren,</l>
+<l>Want sy in mijn ghemoet is vast en wel gheprent,</l>
+<l><hi rend="i">Cupido </hi>haer als my, toch uwe schichten sendt,</l>
+
+<pb ed="fol." n="D2r"/>
+<l>Ontfunckt haer herte, dat ick eynden mach mijn wenschen,</l>
+<l>Want ick haer meer bemin dan yemant van de menschen,</l>
+<l>En sendt ons <hi rend="i">Trvphe </hi>by, daer alle vreucht wt spruyt,</l>
+<l>Met haren roosencrans welrieckende vol cruyt,</l>
+<l>Want sy is 'twaert alleen die my met liefde crachtich,</l>
+<l>Sinneloos heeft beroert, ontsinnich en onmachtich,</l>
+<l><hi rend="i">Ate</hi> wijckt toch van my, dat <hi rend="i">Darida</hi> my gheeft,</l>
+<l>Weer liefde, dat het hert in rust en vrede leeft,</l>
+<l>Op dat wy onsen lust in haren hof ghebruycken,</l>
+<l>Daer minnebloemkens eel welriecken, en ontpluycken,</l>
+<l>Op dat ick plucken mach daer een naer mijnen lust,</l>
+<l>Soo wort mijn hittich vier met rechten smaeck gheblust,</l>
+<l>Al is't dat ick beloft, en eer, sal ouertreden,</l>
+<l>'Tis liefde, die het doet, die in my neemt haer steden,</l>
+<l>Soo kenn' ick my hier van onschuldich, doch ick ben't</l>
+<l>Die voor den persoon self, der schult sal sijn bekent,</l>
+<l>Dan nu wat will' ick doen, ick sien, ick ben verwonnen,</l>
+<l>'Twaer beter voor mijn eer dat 'tniet en waer begonnen,</l>
+<l>Want dickwils sietmen dat daer door verweckt den nijdt,</l>
+<l>Die ons tot inden doodt by blijft tot allen tijdt,</l>
+<l>Maer nochtans ick en can, wat will' ick my veel quellen,</l>
+<l>Het schijnt, het is natuer, 'thert moet de liefde mellen,</l>
+<l>Onblusschelijcke liefd' hoe zijt ghy dus ghegront,</l>
+<l>Hoe hebt ghy nu mijn hert met pijne soo ghewont,</l>
+<l>Sal ick moeten beloft om uwen 'twille breken,</l>
+<l><hi rend="i">Placide</hi> d'uer beclaeght dat ick haer mee ghinck spreken,</l>
+<l>Ghy, die meynt dat ghy haer alleen behouden sult,</l>
+<l>Maer neen, ick vrees', ick ducht, liefde die heeft de schult,</l>
+<l>Want sy is die my sent, ia dwinght my daer te gane,</l>
+<l>'Tis reden, dat 'tbeuel onweygherich wert ghedane,</l>
+<l>Dat door onwillicheyt my niet en naeckt verdriet,</l>
+<l>Want eenen knecht moet doen dat zijnen Heer ghebiet.</l>
+</lg>
+<div type="section">
+<head rend="h4">Choor.</head>
+
+<lg type="poem">
+<l>HEt beste dat ons door dese wijsheydt is,</l>
+<l>Ghegheuen om te leuen hier in vreden,</l>
+<l>Is vrientschap, die in vreden oock ghewis,</l>
+<l>Met trou eyndight sonder te ouertreden.</l>
+<l rend="; 1tab">Ghetrouwen vriendt, is weerdigher dan schadt,</l>
+
+<pb ed="fol." n="D2v"/>
+<l>Om datmen mach op sijne woorden bouwen,</l>
+<l>Want door den raet, gheeft hy de trouwe, dat</l>
+<l>Seer iammer is niet en wort onderhouwen.</l>
+<l rend="; 1tab">Wy vinden veel dat trouw' aen eenen vrindt,</l>
+<l>Seer qualijck wort vervolghet naer 'tbehooren,</l>
+<l>VVant sy als slaep bedriegh'lijck, is en windt,</l>
+<l>Dat, door ontrou, sy beyde gaen verlooren.</l>
+<l rend="; 1tab">Men siet oock wel dat twee die minnen een,</l>
+<l>All' hebben sy malcand'ren trouw' beloouet,</l>
+<l>Door blinde liefd' haer trouw' wel ouertreen,</l>
+<l>VVant onreyn min, des minnaers sin beroouet.</l>
+<l rend="; 1tab">Den minnaer can seer qualijck sijne min,</l>
+<l>Bedecken, voor sijn vrindt om 'thert te lichten,</l>
+<l>Oock schijnt dat hem verheught, en licht den sin,</l>
+<l>Als hy raedt soeckt van hem tot onderrichten.</l>
+<l rend="; 1tab">De liefde is den Breydel, van die sijn,</l>
+<l>Hertneckich, want sy brenghtse all' ten onder,</l>
+<l>Oock die haer voedt, aendoet sy groote pijn,</l>
+<l>Van heeren en van elken in bysonder.</l>
+<l rend="; 1tab">'Tis wonder vremt dat yemandt die met hert,</l>
+<l>Een lief bemindt liefde niet can bedecken,</l>
+<l>VVant men wel siet datmen door twist verweert,</l>
+<l>Door ander, die daer mede noch gaen ghecken.</l>
+<l rend="; 1tab">Ghetrouwe liefd' is niet 'tontprijsen, want</l>
+<l>Sy vrede brenght, tusschen twee rechte vrinden,</l>
+<l>Maer daer ontrou, d'een d'ander doet met schandt,</l>
+<l>Baert twist, en nijt, hoe seer sy eerst beminden.</l>
+<l rend="; 1tab">Ontrouwen vrindt is booser als regal,</l>
+<l>Die voor d'oogh' schijnt ghetrou als vriendt te wesen,</l>
+<l>Want door hem comt seer dickwils tot den val,</l>
+<l>SIjn heel gheslacht onschuldich al van desen.</l>
+<l rend="; 1tab">Veel beter waert te sijn gheboren niet,</l>
+<l>Dan met elk een te gaen, in aller weghen,</l>
+<l>Voor een ontrou, die sijn vrients lief afsiet,</l>
+<l>Daer wt den haet, haetich sijn vriendt comt teghen.</l>
+<l rend="; 1tab">Liefde en nacht en raden gans gheen goedt,</l>
+<l>Oorseack sy sijn, van ontrou aen te stoocken,</l>
+<l>Door dat onrust de liefde maeckt 'tghemoedt,</l>
+<l>Liefd' is ontrou daer trouw' door wet ghebroken.</l>
+<l rend="; 1tab">Een minnaer trou die hout sijn liefde still'</l>
+
+<pb ed="fol." n="D3r"/>
+<l>Aen sijnen vrindt soo hoeft hy niet te schroomen,</l>
+<l>Dat hy voor hem sal crijghen sijnen will',</l>
+<l>Oft door ontrou van hem sal sijn ontnomen.</l>
+</lg>
+<p><hi rend="spat">PAVSA</hi>.</p>
+</div>
+</div>
+<div type="chapter">
+<head rend="h2">Derde deel</head>
+<head rend="h3">Eerste vvtcomen.</head>
+<stage><hi rend="i">Placidus. Darida.</hi></stage>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l>BEsitster van mijn hert, leuen van mijnen tijdt,</l>
+<l>Leuen! die door v rust, d'onrusticheydt benijdt,</l>
+<l>Hemel van mijnder ieucht, ruste tot lust ghegheuen,</l>
+<l>Lusten ghy zijt gheblust, soo ist ghenucht te leuen.</l>
+<l>O! triumphante vreught, vriendelijck sonder endt,</l>
+<l>Vrientschap, en blijen will', blijft ons by, en ontrent,</l>
+<l>Sonne van mijnder ziel, hauen tot mijn behouwen,</l>
+<l>Goddinn' waer door ick leef, als ick v mach aenschouwen.</l>
+<l>Mijn hert ontfunckt en brant inwendich als een vier,</l>
+<l>Dat ick by v mach sijn die als den Lauwerier,</l>
+<l>In schoonheyt bouen gaet, den wilghen, pijn', en eycken,</l>
+<l>Die bouen 'tleeghe cruyt, haer tacken hooch' wtreycken,</l>
+<l>Recht als een claer fonteyn, spruyt uwer deughden vloedt,</l>
+<l>Daer ick voetsel wt neem tot v en mijn behoedt,</l>
+<l><hi rend="i">Dels</hi>' zijt ghy voorwaer door schoonheydt wtghelesen,</l>
+<l>Princes ghy zijt alleen, daer ick by socht te wesen,</l>
+<l>V afsijn was my leet, en dochte menich iaer,</l>
+<l>En 'tby sijn gheenen tijdt, door dat v ooghen claer,</l>
+<l>Mijn hert verheughen doet, als <hi rend="i">Dions</hi> dochter schoone.</l>
+<l rend="speaker"><hi rend="i">Darida.</hi></l>
+<l rend="; 1tab">De liefde schijnt ghy self met uwe liefd' te loonen,</l>
+<l>Volhert maer inden lust v bliju' ick als vrindin.</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">Hoe <hi rend="i">Darida</hi> mijn ziel, meynt ghy by my de min,</l>
+<l>Gheen vaster stadt en heeft dat die soo licht can wijcken,</l>
+<l>Al quamen hier ghedaelt <hi rend="i">Iunont</hi> groote rijcken,</l>
+<l>Ia <hi rend="i">Tagus</hi> gulden vloet, en dat ick kiesen souw',</l>
+<l>'Ken koose gheen van haer, maer v alleen die trouw'</l>
+<l>Aen my bewesen hebt, all' creegh ick v met listen,</l>
+
+<pb ed="fol." n="D3v"/>
+<l>Den strijdt is weert gheeert daer twee niet langh en twisten:</l>
+<l>Daerom mocght ghy wel sien ô <hi rend="i">Darida </hi>mijn vreught,</l>
+<l>Dat my mijn herte leeft door v verheuen deught,</l>
+<l>En dat ick door v min inwendelijck moet blaecken,</l>
+<l>Die my den stercken Godt <hi rend="i">Cupido</hi> dede smaecken,</l>
+<l>All' segh ick dit alsoo Princes s'en doet gheen pijn,</l>
+<l>Ghy zijt die haer gheneest, ghy zijt den medecijn,</l>
+<l>V hulp is inde cracht van uwer ooghen stralen,</l>
+<l>Waerdoor ick can mijn hert verlooren wederhalen.</l>
+<l>Niemant heeft uwe cracht hoe hooch hy sy gheleert,</l>
+<l>Als ghy soo mijn hert roept, en anders gheen begheert,</l>
+<l>'T verheught my dat ick v mijn liefde hebb' ghegheuen,</l>
+<l>Die als den steen in 'tgoudt vol ieughdigh is in't leuen,</l>
+<l>Den rooselaer zijt ghy ghelijck, en Ceder hoogh',</l>
+<l>Ia! als een Diamant, schoon in des werelts oogh',</l>
+<l>Daer gheen onreynheyt in noch letsel wert gheuonden,</l>
+<l>Soo zijt ghy lief door liefd', die my gheeft liefder wonden,</l>
+<l>Een persende figuer sijt ghy in dese borst,</l>
+<l>Die alleen 'tvoetsel zijt als zy van minne dorst,</l>
+<l>Het wit sijt ghy alleen, daer mijn hert wilt na schieten,</l>
+<l>Hoe sou dit leuen my verheughdich toch verdrieten.</l>
+<l>Den dach dunckt my een uer, het Iaer maer eenen dach,</l>
+<l>Als ick v mijn Goddin, naer lust ghebruycken mach,</l>
+<l><hi rend="i">Minerua</hi> comt bidd' ick, met uwe Dochters neghen,</l>
+<l>Dat sy met hooghen lof, dees mijn Goddin gaen teghen,</l>
+<l>Want sy is 'twaerd' alleen van alle dat daer leeft,</l>
+<l>Haer Goddelijcke deught sy ouervloedich gheeft,</l>
+<l>En als des Somers dauw' tot nut op 'tvelt comt dalen,</l>
+<l>Soo daelt haer liefd' in my, qualijck om te verhalen,</l>
+<l>Croondraechster van mijn hert, O! suyuer beeltenis,</l>
+<l>Ontfanght mijn herte dat door liefde vreughdich is,</l>
+<l>Ontfanght bidd' ick, ontfinght, laet hopeloosheyt steruen.</l>
+<l rend="speaker"><hi rend="i">Darida.</hi></l>
+<l rend="; 1tab">Van my die ben ghevaen en suldy liefde deruen,</l>
+<l>Stilt dan den droeuen gheest, beswaert v sinnen niet,</l>
+<l><hi rend="i">Darida </hi>is v lief, en maeckt doch gheen verdriet,</l>
+<l>Sy is, die in v hert haer herte laet bewaren,</l>
+<l>Die eerst v pijnen cost daerom laet droefheyt varen,</l>
+<l>Want sy naer uwen wensch haer onderdanich sett'.</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">'Ken will' verachten meer, hemel, natuer noch wett',</l>
+<l>Noch liefd' al is die blindt, oft eenich van de <hi rend="i">Goden</hi>,</l>
+
+<pb ed="fol." n="D4r"/>
+<l>Maer rechten van de liefd' en haten die hem vloden,</l>
+<l>O! goddelijcke deught, bewaerster van mijn ziel,</l>
+<l>Ziele die my behout, eer ick gheheel verviel,</l>
+<l>Ghy bosschen wildt gheboomt, oft woest wildernissen,</l>
+<l>Den <hi rend="i">Echo</hi> van mijn clacht sult ghy nu heel ghemissen,</l>
+<l>Mijn vrou waer op dat nu des hemels gaue rijst,</l>
+<l>Heeft my naer vrees' ontfaen haer goetheyt my bewijst,</l>
+<l>Dat haer hert is bevrijt van haer ialoersche pijne,</l>
+<l>En was dat niet gheclopt.</l>
+<l rend="speaker"><hi rend="i">Darida.</hi></l>
+<l rend="; 1tab">Och iae't.</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">Wie mach dat sijne,</l>
+<l>'T valt my voorseker in het is den Prins ghewis,</l>
+<l>Vertrecken wy ons hier <hi rend="i">Fulus</hi> siet wie daer is,</l>
+<l>Maer seght my eerst bescheet eer ghy hem laet incomen.</l>
+<l rend="speaker"><hi rend="i">Fuluius.</hi></l>
+<l rend="; 1tab">Ick vrees' het is den Prins mijn hert dunckt my te schromen,</l>
+<l>Hier sien wy veel verdriet en al maer om een vrou</l>
+<l>Wie is het die daer clopt.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">Doet op.</l>
+<l rend="speaker"><hi rend="i">Fuluius.</hi></l>
+<l rend="; 1tab">Hy is het op mijn trouw,</l>
+<l>De vreught is op een endt ons naeckt droefheyt te winnen.</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">Wie ist.</l>
+<l rend="speaker"><hi rend="i">Fuluius.</hi></l>
+<l rend="; 1tab"><hi rend="i">Diadumenus </hi>heer en waerder gheeren binnen,</l>
+<l>Want seyde doet my op en sprack voort anders niet.</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">Mijn leden beuen my door gramschap als een riet,</l>
+<l>Hoe! acht hy trou niet meer is die by hem verloren,</l>
+<l>Princes vertreckt van hier, mijn hert ontsteeckt in toren,</l>
+<l>En stelt v doch gherust, gaet bid' ick, gaet toch wech,</l>
+<l rend="speaker"><hi rend="i">Darida.</hi></l>
+<l rend="; 1tab">Och stilt v gramschap toch.</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">Ey doet dat ick v segh,</l>
+<l>Ick will' hem wachten maer en vraghen naer sijn trouwe</l>
+<l>Dus gaet, 'tis best voorwaer dat ick hem wat voor 'thooft douwe</l>
+<l>Die trouw, belooft, en eedt om eere niet en acht,</l>
+<l><hi rend="i">Fuluius </hi>laet hem in, en ick hem hier ghewacht,</l>
+<l>En gheuen hem dat hy het minste denckt te crijghen.</l>
+<l rend="speaker"><hi rend="i">Fuluius.</hi></l>
+<l rend="; 1tab">Sijt wel ghecomen heer.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">Sus stilt v wilt toch swijghen,</l>
+<l>Hoe is <hi rend="i">Placidus </hi>hier dat ghy hier mede zijt,</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">De reden, en den noodt, die dwinght my dat ick smijt,</l>
+<l>Hout dat die trouw, en eedt, met onneer soeckt te schenden,</l>
+<l>Meyneedich booswicht snoot, die ick voor vriendt bekenden,</l>
+
+<pb ed="fol." n="D4v"/>
+<l>Is dit v trouw' belooft die ghy volbrenghen sout.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">Wel hoe is het in ernst? verrader dit onthout,</l>
+<l>Slaen, moeders moorder, hoe soeckt ghy my om te vinden,</l>
+<l>Ick sweyr by <hi rend="i">Plutons </hi>rijck, off' 'tvier moet my verslinden,</l>
+<l>Dat ghy, oft ick, den doodt hierom becoopen sult,</l>
+<l>VVat, is mijn sweert verfuymt? de boosheyt my vervult,</l>
+<l>Dat ick het had, ick sweyr, dat gheen van uwe crachten,</l>
+<l>V baten souden wat, maer v tot een verachten,</l>
+<l>Vernielen met de helft van alle die ick sien,</l>
+<l>Den blixem sy mijn hulp, dat wraecke mach gheschien,</l>
+<l>Mijn bloedt ontstelt hem, foy, foy segh ick dat ick leue.</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">Doet all' dat ghy begheert, naer v ick met en gheue,</l>
+<l>Als mijnen schoen, en dreck acht ick v, en niet meer.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">Och valsche liefde blindt, hoe smijt ghy nu te neer,</l>
+<l>Beloften, trou, en eedt, om vrouwen lust vol schanden,</l>
+<l>Vervloeckten wil oncuys, O! booswicht die v handen,</l>
+<l>Aen my dorst steken eerst, ick sweyr by 'tfirmament,</l>
+<l>Dat ghy, en v gheslacht, off' 'tmijn sal sijn gheschent,</l>
+<l>Indachtich is't my noch, hoe ghy last hebt ghegheuen,</l>
+<l>Een doodtlijck vonnis, dies v broeder bracht om 'tleuen,</l>
+<l>V moeder, die hy seyd' bevrucht te sijn van kindt,</l>
+<l>Den doodt comt haestich nu die v oft my verslindt;</l>
+<l>V beckeneel sal ick ghebruycken (voor wijnschalen)</l>
+<l>Om drincken, en de schandt, wrekende soo betalen,</l>
+<l>Vermalendijde handt die my soo dorste slaen,</l>
+<l>Hoe sal noch mijnen will' met v worden ghedaen,</l>
+<l>Vervloeckte tongh', die my soo schandich dorst aenspreken,</l>
+<l>Ick sweyr ghy sult eer langh niet segghen mijn ghebreken,</l>
+<l>Noch ontrou bouen eedt, van my vertellen mee',</l>
+<l>Die ick, ick seght wel self bouen beloften dee'.</l>
+<l>Dan dat all' aen d'een sy den gheest die roept om wraecke</l>
+<l>Die sy oock crijghen sal, want wraeck, vereyst de saecke,</l>
+<l>Nu, van sijns moeders doodt, will' ick beclaghen hem,</l>
+<l>En roepen, wraecke, wraeck, met een ghemeyne stem,</l>
+<l>Sijn stoutheyt sal ick hem, die my als schoendreck achtet,</l>
+<l>Betalen, sweyr ick hem als hy het niet en wachtet,</l>
+<l>'T verachten loont sijn Heer, want het verghellet wort,</l>
+<l>Nu dan, 'twaer quaet versuymt den tijdt die wert nu cort,</l>
+<l>Mijn vader comt nu haest, als heerlijck met den vromen,</l>
+<l>Ick sal hier binnen gaen en wachten naer sijn comen.</l>
+</lg>
+
+<div type="section">
+<pb ed="fol." n="E1r"/>
+<head rend="h4">Choor.</head>
+
+<lg type="poem">
+<l>F<hi rend="i">Ortuna </hi>heeft voorsichticheydt van doen,</l>
+<l>Met wijsen raet, als hare naer vrindinnen,</l>
+<l>Gheluck den gheen die dese sal op voen,</l>
+<l>Want hy daer deur de ruste sal ghewinnen.</l>
+<l rend="; 1tab">Crachtich is hy die goedertieren leeft,</l>
+<l>Want door de deught verwindt hy sonder strijden,</l>
+<l>Die hem misdoet sijn misdaet hy vergheeft,</l>
+<l>En die hem haet, verwindt hy door te lijden.</l>
+<l rend="; 1tab">Gheen dingh en is meer prijsigher, als dat</l>
+<l>Voorsichticheydt, en Goedicheydt te samen,</l>
+<l>Een edel Prins heeft, weerdigher als schadt,</l>
+<l>En haestich stilt den toren naer 'tbetamen.</l>
+<l rend="; 1tab">Onwijs is hy die met vermeten sweert,</l>
+<l>Tot naerdeel van zijn vrienden, oft vyanden,</l>
+<l>Door dat berou, dickwils vrede begheert,</l>
+<l>Ten waer den eedt en vreese van de schande.</l>
+<l rend="; 1tab">De lijdtsaemheyt behoort een Prince toe,</l>
+<l>In voorspoet, oft als hem Fortuyn loopt teghen,</l>
+<l>Anders wort hem het leuen laf, en moe,</l>
+<l>Om dat hoogheyt in 'thert hem is gheleghen.</l>
+<l rend="; 1tab">Oock trou moet hy ghebruycken, oft 'tis niet,</l>
+<l>Want trou by hem is quaet te sijn verloren,</l>
+<l>Om dat ontrou dickwils brenght in 'tverdriet,</l>
+<l>Hem, en die sijn vrienden waren te voren.</l>
+<l rend="; 1tab">Die trou verliest, verliest den besten pandt,</l>
+<l>Want beter sy als't sweert is voor den Heeren,</l>
+<l>Door dat de trouw, bewaerster is van 'tlandt,</l>
+<l>Door haer, dan haer de onderdanen eeren.</l>
+<l rend="; 1tab">Den Prins is wijs, die sijnen raet hout, met</l>
+<l>Gherechticheydt, en trouw tot allen tijden,</l>
+<l>Als hy self hout, en houden doet sijn wett',</l>
+<l>En haet, en nijt, met ontrou, stelt besijden.</l>
+<l rend="; 1tab">Ghelijck het gout gheproeft wert op den steen,</l>
+<l>Soo wort den Heer beproeft van d'ondersaten, </l>
+<l>Oft hy met liefd, en trou, tot haer met een,</l>
+<l>Vervult is, om haer in voorspoet te laten.</l>
+<l rend="; 1tab">Toren ghy maeckt den mensch hem niet en kendt,</l>
+<l>Want hy verwindt 't verstandt, tot sijn bederuen,</l>
+
+<pb ed="fol." n="E1v"/>
+<l>Dat hy daer door, hem en sijn wyandt schendt,</l>
+<l>Die vry van wraeck onschuldich waren 'teruen.</l>
+<l rend="; 1tab"> Alsoo wort oock die in sijn wreetheyt blijft,</l>
+<l>Berooft van sin, want wijsheyt van hem wijcket,</l>
+<l>Dat iammer is, den toren wert ghestijft,</l>
+<l>Vyant van deucht, is boosheyt, soo het blijcket.</l>
+<l rend="; 1tab">Een deughdich Prins verwint dees 'tsamen all',</l>
+<l>Want hy sijn trouw' en eere soeckt te houwen,</l>
+<l>Daer hy ghevreest, van elck door worden sal,</l>
+<l>Om datmen mach op sijne woorden bouwen.</l>
+</lg>
+<p><hi rend="spat">PAVSA</hi>.</p>
+</div>
+</div>
+<div type="chapter">
+<head rend="h2">Vierde deel</head>
+<head rend="h3">Eerste vvtcomen.</head>
+<stage><hi rend="i">Diadumenus, Macrinus Opilius.</hi></stage>
+
+<lg type="poem">
+<l>DE son met mijn bedroeft dat hy soo langhe verbeyt,</l>
+<l>D'uer is nochtans voorby, doch daer niet aen en leyt,</l>
+<l>Ick sal hem wachten noch, all' duerden het tot morghen,</l>
+<l>Want dat ick het versweegh, ick mochter aen verworghen,</l>
+<l>T' wachten dat is hier best, want hy haest comen moet, </l>
+<l><hi rend="i">Placide</hi>, d'uer beclaeght die my hier wachten doet,</l>
+<l>Beclaeght, en vloeckt den tijdt, dat ghy v handt dorst steken,</l>
+<l>Aen my, foy v, en my, by schoendreck hebt gheleken,</l>
+<l>Dat woort, en slaen ick sweer, ghy noch becoopen sult,</l>
+<l>Verrader boos vervloeckt, ick verlies mijn ghedult.</l>
+<l>Dan siet den staet die comt <hi rend="i">Placidus</hi> mach wel schromen,</l>
+<l>Voor d'eerste moet hy nu naer sijn ghewoonte comen,</l>
+<l>Daer is hy, dies verblijdt mijn hert inwendich seer,</l>
+<l>Gheluck, vred', en voorspoet, sy v ô <hi rend="i">Caesar </hi>Heer,</l>
+<l>V moghentheydt die leeft en moet alsoo welvaren.</l>
+<l rend="speaker"><hi rend="i">Keyser.</hi></l>
+<l rend="; 1tab">Hoe is't <hi rend="i">Diadumen</hi>, is daer wat te verclaren,</l>
+<l>V wesen yet ghetuyght gheschiet v onghelijck.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">Ghenadich Vader iae't daer is een in v rijck,</l>
+<l>Die tot ons all' der schandt, een vonnis heeft ghegheuen,</l>
+<l>Teghen sijn moeder, die sijn broeder bracht om 'tleuen,</l>
+
+<pb ed="fol." n="E2r"/>
+<l>Beloghen van hem, want hy schreef dat zy was swaer,</l>
+<l>Maer doen sy was vermoort en was het gans niet waer,</l>
+<l>Gheen daedt dient meer ghestraft als dese soo waerachtich.</l>
+<l rend="speaker"><hi rend="i">Keyser.</hi></l>
+<l rend="; 1tab">Wie is hy.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab"><hi rend="i">Labinus.</hi></l>
+<l rend="speaker"><hi rend="i">Keyser.</hi></l>
+<l rend="; 1tab">Waer is hy woonachtich,</l>
+<l>Den loon van sijn misdaedt, ontfanght hy soo 'tbehoort.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">Corts naer sijns moeders doodt heeft hy hem self vermoort,</l>
+<l>Maer <hi rend="i">Placidus</hi> die heeft hem desen raet ontboden.</l>
+<l rend="speaker"><hi rend="i">Keyser.</hi></l>
+<l rend="; 1tab">Voor sulcken boose daedt verschricken self de Goden,</l>
+<l>Hoe? <hi rend="i">Liuia</hi> ghedoodt van haren eyghen soon,</l>
+<l>Dees daedt vereyscht tot wraeck den recht verdienden loon,</l>
+<l><hi rend="i">Adrastus </hi>ghy sult gaen en nemen hem gheuanghen,</l>
+<l>Naer Princelijck ghebruyck maer my sal seer verlanghen,</l>
+<l>Oft hy ontschult saldoen van soo Godloose daedt.</l>
+<l rend="speaker"><hi rend="i">Adrastus.</hi></l>
+<l rend="; 1tab">De daedt waer straffe weert soo 'tniet en is door haet.</l>
+<l rend="speaker"><hi rend="i">Keyser.</hi></l>
+<l rend="; 1tab"><hi rend="i">Diadumenus </hi>vertreckt ick sal hem hooren spreken</l>
+<l>En sien, oft ghy door haet v niet en soeckt te wreken.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">'Ken weet van gheenen haet sijn saeck is openbaer,</l>
+<l>All' dat ick heb verhaelt is niet dan all' te waer.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Vierde deel <lb/>tvveede vvtcomen.</head>
+<stage><hi rend="i">Placidus</hi> gheuanghen <hi rend="i">Adrastus.</hi></stage>
+
+<lg type="poem">
+<l>ACh? wee my dat ick leef, is nu verloren d'eer,</l>
+<l>Heeft onneer d'ouerhandt, is daer gheen liefde meer,</l>
+<l>Is trouw, en vrientschap gants, door ontrou nu verdreuen,</l>
+<l>Wee? hem, die my dit doet, en nu staet naer mijn leuen,</l>
+<l>Och wort my dees ontrou ghedaen van eenen man,</l>
+<l>Foy? v verrader, foy? die v toont als tyran?</l>
+<l>Goden! hoort mijne claght aensiet toch dese schande?</l>
+<l>Van desen sweerder boos die trou bandt wten lande,</l>
+<l>Nu dan, verdult hier in moet deught soo sijn verghelt.</l>
+<l rend="speaker"><hi rend="i">Adrastus.</hi></l>
+<l rend="; 1tab">V aenclaght van party is heel anders vertelt,</l>
+<l>Dan ick wt uwen mont mijn heer hebb' connen hooren,</l>
+<l>D'aenleggher eyst altijdt, doch en wilt niet verstooren,</l>
+<l>Want recht moet blijuen oft dit rijck is op een endt.</l>
+
+<pb ed="fol." n="E2v"/>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">Die schult heeft aen de saeck bidd' ick moet sijn gheschent,</l>
+<l><hi rend="i">Goden! </hi>zijt mijn ghetuygh die niet en is verborghen.</l>
+<l rend="speaker"><hi rend="i">Adrastus.</hi></l>
+<l rend="; 1tab">V saecken sal in recht doorsocht sijn, wilt niet sorghen,</l>
+<l>Want recht sal v gheschien, indien ick yet vermach,</l>
+<l>Daerom zijt wel gherust,</l>
+<l rend="speaker"><hi rend="i">Placidus.</hi></l>
+<l rend="; 1tab">Recht wacht ick met verdrach.</l>
+<l>Van v die recht altijdt verdienstich hebt ghewesen,</l>
+<l>Den rechter die de saeck doorgrondt is weert ghepresen,</l>
+<l>Want oordeel met verstandt hy door het recht wtspreeckt,</l>
+<l>Dan nu 'tgheual soo is, <hi rend="i">Iuppijn </hi>de misdaet wreeckt,</l>
+<l>Aen hem, aen my, oft beyd', die schuldich wert beuonden.</l>
+<l rend="speaker"><hi rend="i">Adrastus.</hi></l>
+<l rend="; 1tab">Die ouerlast wilt doen wort wraecke toeghesonden,</l>
+<l><hi rend="i">Placidu</hi> sijt ghetroost, het quaet crijcht loon doot 'tgoet,</l>
+<l>Soo 'trecht niet door 'tghewelt haer crachten laten moet.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Vierde deel <lb/>derde vvtcomen.</head>
+<stage><hi rend="i">Keyser.</hi></stage>
+
+<lg type="poem">
+<l>DIt is het swaertste stuck dat my te voren comt,</l>
+<l>Soo langh' ick 'trijck besadt oft <hi rend="i">Caesar </hi>wert ghenoemt,</l>
+<l><hi rend="i">O Roma! </hi>moest dit hier en niet in <hi rend="i">Pharsen </hi>blijcken,</l>
+<l>Den heer wint groot onrust daer vred' voor twist moet wijcke<hi rend="i">n</hi>,</l>
+<l>Dees saken quellen my onrustich in mijn hert,</l>
+<l><hi rend="i">Placidus </hi>v verblijdt soo ghy beloghen wert,</l>
+<l>Maer hebt ghy met onneer v aenclaght maer bedreuen,</l>
+<l>All' waert ghy noch soo groot soo ghellet v het leuen,</l>
+<l>Niet is daer dat den Prins maeckt heerlijck en ontsien,</l>
+<l>Dan dat hy 'trecht en all' haer wetten wel bedien,</l>
+<l>Gheluckigh is het landt daer 'trecht ghebruyckt haer crachten.</l>
+<l rend="speaker"><hi rend="i">Adrastus.</hi></l>
+<l rend="; 1tab">Vrede sy v ghewenscht O <hi rend="i">Caesar </hi>hoogh van machten</l>
+<l>V moghentheyt die weet dat hy gheuanghen, is</l>
+<l>Om v te spreken self all' sijn verlanghen, is</l>
+<l>Maer ick hebb' wel verstaen d'oorsaecke van 'taenclaghen,</l>
+<l>Dat thoren is de schult, want als ick hem ghinck vraghen</l>
+<l>Heeft my de heele saeck by vasten eedt verclaert,</l>
+<l>Waer by my dunckt sijn eer ten vollen is bewaert,</l>
+<l>Want sijnen broeder hem van buyten had gheschreuen.</l>
+
+<pb ed="fol." n="E3r"/>
+<l>Dat, om dat sy was swaer, hy nemen wou haer leuen,</l>
+<l>Om dat sijn oudt gheslacht sou vry sijn van dees schandt,</l>
+<l>Waer op hy wel bedacht hem schreef met goet verstandt,</l>
+<l><hi rend="i">Doet als een Edelman behoort</hi>, maer dese woorden,</l>
+<l>Verweckten <hi rend="i">Labin' </hi>soo dat hy haer liet vermoorden</l>
+<l>Nu; dat den Prince selu' v quam aendoen de clacht,</l>
+<l>Is, <hi rend="i">Placidus</hi>, en hy, hadden gheweest te iacht,</l>
+<l>Vermoeyt van 'tiaghen, sy versochten aen malcander,</l>
+<l>Oft yemant wist wat liefs, dan neen, seyd' elck den ander,</l>
+<l>Maer <hi rend="i">Placidus</hi> ten lest leyt uwen soon, by een,</l>
+<l>Dan by beloften dat sy, hem sou sijn alleen,</l>
+<l>Dat hem den Prince swoer op trouw' en op sijn eere,</l>
+<l>Maer hy door blinde liefd' wou weder by haer keeren,</l>
+<l>Dan vondt <hi rend="i">Placide </hi>daer die om d'ontrouwe daedt,</l>
+<l>Vergramt eer dat hy 'tdacht, hem in 'tincomen slaet,</l>
+<l>Doen swoer hy heel vergramt dat een van beyd' sou steruen,</l>
+<l>Hier door soeckt hy tot wraeck <hi rend="i">Placidem</hi> te verderuen,</l>
+<l>Dit is het heele stuck en d'oorsaeck altemael.</l>
+<l rend="speaker"><hi rend="i">Keyser.</hi></l>
+<l rend="; 1tab">Seght dat my mijnen soon comt spreken in mijn sael,</l>
+<l>Ter wijlen sal ick my op sijne saeck beraden.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Vierde deel <lb/>vierde vvtcomen.</head>
+<stage><hi rend="i">Keyser. Diadumenus.</hi></stage>
+
+<lg type="poem">
+<l>WEl hoe? <hi rend="i">Diadumen' </hi>comt ghy den Prins verraden,</l>
+<l>Daer ghy door v ontrou verweckt den eersten haet.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">'Ken weet van gheen ontrou hy heeft ghedaen de daet,</l>
+<l rend="speaker"><hi rend="i">Keyser.</hi></l>
+<l rend="; 1tab">'Tis soo het is, ick wil dat ghy sult maecken vrede,</l>
+<l>Loont 'tquaet met goet ghy windt d'ondeught en die haer dede,</l>
+<l>All' hebb ick met gheweldt tot heerlijckheydt en loon,</l>
+<l><hi rend="i">Ba(tanus </hi>ghedoodt in Pharten en sijn Croon</l>
+<l>My seluen opgheset, in boosheyt hy versmoorde,</l>
+<l>Sijn moeder hy besliep, en broeder hy vermoorde,</l>
+<l>Daerom den dullen nijdt v hert laet winnen niet,</l>
+<l>Want sy is eyghen wraeck, en brenght v in't verdriet.</l>
+<l>Sy is die tiranny by vrienden can ghemaken,</l>
+<l>Trou, liefde, deught, en eer, sy samen sal versaecken,</l>
+
+<pb ed="fol." n="E3v"/>
+<l>Doet daerom mijnen will' laet vyantschap met een.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">Seer geeren sou ick 'tdoen, maer dees hooghmoed'heyt, neen</l>
+<l>Can ick vergheten niet, en 'tmoordadigh' bedrijuen,</l>
+<l>Aen sijn moeder, die hy belasten om t'ontlijuen,</l>
+<l>Foy schandt is't voor het landt, foy moorder ick roep wraeck.</l>
+<l rend="speaker"><hi rend="i">Keyser.</hi></l>
+<l rend="; 1tab">Troost v met mijnen wil, ick neemt voor mijne saeck,</l>
+<l>Daerom niet meer gheseyt laet dese boosheyt varen,</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">Comt ghy ghebroetsel wreet der hellen sonder sparen</l>
+<l>Vernielt die crachtich swoer op v rijck, met den eedt,</l>
+<l>Steruen will' ick den doodt, daer is den hals ghereedt,</l>
+<l>Slaet af, die oft de zijn', want ick hebb' het ghesworen,</l>
+<l>De doodt voor 'tleuen nu mach 'tsijn hebb' ick vercoren,</l>
+<l>De tweede ure naer dees, sweyr ick sal sijn de corst,</l>
+<l>Steeckt in vernielt my haest daer is mijn bloote borst,</l>
+<l>Mijnen will' toch volbrenght laet my dees beed' verweruen,</l>
+<l>Dat my den Beul toch niet tot uwer schandt doet steruen,</l>
+<l>Want ick wil steruen, oft hy, die ghy 'tliefste wilt.</l>
+<l rend="speaker"><hi rend="i">Keyser.</hi></l>
+<l rend="; 1tab">Wat boosheyt heeft v hert beseten, sijt ghestilt,</l>
+<l>Hoe? heeft de dulle nijdt de reden gants verdreuen,</l>
+<l>Is eer, en vreese wegh.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">De Goden willen 'tgheuen</l>
+<l>Dat hy, oft ick, de doodt naer eedt becoopen mach,</l>
+<l>Wraeck roep ick, wraecke, wraeck,</l>
+<l rend="speaker"><hi rend="i">Keyser.</hi></l>
+<l rend="; 1tab">Stil segh' ick, hebt verdrach,</l>
+<l>Mijnen gheest heel ontstelt <hi rend="i">Diadumenus</hi> reden,</l>
+<l>Sal uwen toren dus den goeden raet vertreden,</l>
+<l>Sal sy d'oorsake sijn, dat recht sal sijn gheschent,</l>
+<l>Dat my en 'theel gheslacht sou brenghen tot den endt,</l>
+<l>Stelt doch de saeck in my ick sal het all' wel stillen.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">'T ghehucht en s'helschen gront, dat sou door boosheyt drillen</l>
+<l>Dat ick haer mijnen eedt niet haestich en volbrocht,</l>
+<l>Den tijdt, den punct, en handt, en hoeft niet 'tsijn ghesocht,</l>
+<l>Daer is hy die 'tsal doen, wilt ghy het niet volbrenghen.</l>
+<l rend="speaker"><hi rend="i">Adrastus.</hi></l>
+<l rend="; 1tab">Wel holla hoe sal 'tsijn,</l>
+<l rend="speaker"><hi rend="i">Keyser.</hi></l>
+<l rend="; 1tab">'Ken sal dit niet ghehenghen,</l>
+<l><hi rend="i">Diadumenus </hi>hoe ist, zijt ghy te spreken niet.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">Sijn slaen sal hem, oft my, noch brenghen int verdriet,</l>
+<l>Den eedt die is te hoogh die ick hem heb ghesworen.</l>
+<l rend="speaker"><hi rend="i">Adrastus.</hi></l>
+<l rend="; 1tab">Is v verstant verdoolt, en goeden raet verlooren, </l>
+<l>Ghebruyckt reden, hoe dus, het schijnt ghy boosheyt voet.</l>
+
+<pb ed="fol." n="E4r"/>
+<l rend="speaker"><hi rend="i">Keyser.</hi></l>
+<l rend="; 1tab">Voorwaer als ick naer recht v vonnis spreken moet,</l>
+<l>Ghy verdient soo wel straf als hy, om v ontrouwe.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">Is't waer soo doodt my dan, oft ick my self doordouwe.</l>
+<l>Den eedt moet sijn voldaen oft d'aertrijck is te cleym,</l>
+<l><hi rend="i">Rhadamant', </hi>drijft de wraeck tot verderf in't ghemeyn,</l>
+<l>Dat hy, oft ick, oft beyd, mach crijghen mijn begheeren.</l>
+<l rend="speaker"><hi rend="i">Keyser.</hi></l>
+<l rend="; 1tab">Mijn hert wort heel verschrickt van dit onmatich sweyren,</l>
+<l>Gheeft reden in v plaets wat zijt ghy dul, en fel,</l>
+<l>Oft is <hi rend="i">Tisiphoné</hi>, verborghen in v vel,</l>
+<l>Dat gheen bermherticheydt by v en wert gheuonden,</l>
+<l>Voorwaer recht, trou, en eer door ontrou wert versonden:</l>
+<l>Verloren is de rust daer twist beroert de vre:</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">Laet recht, en kiest v eer en onser alder mee,</l>
+<l>Wraeck! roep ick, om het feyt, 'tsy hem, oft my, 'tis euen,</l>
+<l rend="speaker"><hi rend="i">Adrastus.</hi></l>
+<l rend="; 1tab">Daer recht voor boosheyt wijckt daer is't wel vrees' te leue<hi rend="i">n</hi>,</l>
+<l>My dunckt den Keyser hem nu heel verwinnen laet.</l>
+<l>Voorwaer hy is in sorgh' die staet in 'sPrincen haet,</l>
+<l>Door dat den raet, en recht, door toren nu moet buyghen.</l>
+<l rend="speaker"><hi rend="i">Keyser.</hi></l>
+<l rend="; 1tab">'Tis quaet wt bitter gall' den soeten dranck te suyghen,</l>
+<l>Oft van den wilden tack te plucken goede vrucht.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">Dees reden acht ick niet dan ydelheydt, en clucht,</l>
+<l>Den tijdt die gaet voorby die niet en is te winnen.</l>
+<l rend="speaker"><hi rend="i">Keyser.</hi></l>
+<l rend="; 1tab">Saken van groot ghewicht dient tijdt om wel versinnen,</l>
+<l>De eensaemheydt gheeft raet, in sorgheloosen nacht,</l>
+<l>Die my raet gheuen sal in mijn beroert ghedacht.</l>
+</lg>
+<div type="section">
+<head rend="h4">Choor.</head>
+
+<lg type="poem">
+<l>EEn mensche die naer macht begheerich is,</l>
+<l>Met groote moyt gherechticheydt can houwen,</l>
+<l>En die oock voedt eerghiericheydt onwis,</l>
+<l>Comt lichtelijck door onrecht in't benouwen.</l>
+<l rend="; 1tab">'Tis droeuich daer den toren vred' verdrijft,</l>
+<l>Want recht, en eer, door ontrou wordt verdreuen,</l>
+<l>All' meent den mensch, dat hy machtigher blijft,</l>
+<l>Daer med' hy doet dat men staet naer sijn leuen.</l>
+<l rend="; 1tab">Haestighen nijt gaet sonder reden voort,</l>
+<l>Want sy wt werpt, haer voncken met boosheden,</l>
+<l>Ghelijck een Lamp door ouertol ghestoort,</l>
+<l>Om dat den will', door boosheyt, niet is leden.</l>
+
+<pb ed="fol." n="E4v"/>
+<l rend="; 1tab">Maer een wijs Prins die eer, en vre begheert,</l>
+<l>Behoort naer recht sijn oordeel wt te spreken,</l>
+<l>En recht, voor eer te houden, oft 't verkeert,</l>
+<l>Want sonder recht noyt eer en is ghebleken.</l>
+<l rend="; 1tab">Rechtueerdich oock, en is hy niet die schout,</l>
+<l>Begheerde wraeck, wraeckghierich in het herte,</l>
+<l>Maer die vermach te wreken, en hem hout,</l>
+<l>Vredich, die windt ruste voor leet, en smerte.</l>
+<l rend="; 1tab">Oock is hy niet rechtueerdich, die gheen cleen</l>
+<l>Ontfanghen wil, maer rechtueerdich beuonden,</l>
+<l>Die ghift veracht, en 'tgroot niet wilt met een,</l>
+<l>Wee daer het recht door ghiften wert versonden.</l>
+<l rend="; 1tab">Rechtueerdich oock en is hy niet, die houdt</l>
+<l>Iemandt tot vriendt, daer door hy 'trecht gaet schenden</l>
+<l>Maer die natuer door wett' niet en verstout,</l>
+<l>Soeckt eer, en recht, en alle schand' te wenden.</l>
+<l rend="; 1tab">Den Vorst behoort den thoren in te sien,</l>
+<l>Die recht, en raet daer door verachtich schelden,</l>
+<l>Maer strengh, en straf, met dreyghen te verbien,</l>
+<l>Want goede vrucht daer wt can wasschen selden.</l>
+<l rend="; 1tab">Oock en behoort hy voor gheen cleyn ghedruys,</l>
+<l>Verschricken haest, maer die met alle rechten,</l>
+<l>Te legghen neer, oft anders comt sijn huys</l>
+<l>In schandt, en hem die achtmen als den slechten.</l>
+<l rend="; 1tab">'T vermeten hoogh is niet te prijsen, want </l>
+<l>Onwetentheyt, sy door het sweyren voeden,</l>
+<l>Daer hy, en sijn gheslacht, me comt in schant,</l>
+<l>Die eerst de wraeck daer van niet en vermoeden.</l>
+<l rend="; 1tab">Een coel ghemoet is dan in veel het best,</l>
+<l>Want raet by haer, met voordraght wert verheuen,</l>
+<l>Vrede voor twist, gheeft sy ons op het lest,</l>
+<l>Den nijt, door tijdt vergaet ghelijck ons leuen.</l>
+<l rend="; 1tab">Die vredich wil sijn rijck houden in rust,</l>
+<l>Die voedt het recht, soo heeft hy niet te vreesen,</l>
+<l>Dat door de deught voorspoet sal sijn gheblust,</l>
+<l>Maer eer daer door sal hem altijdt by wesen.</l>
+</lg>
+
+<pb ed="fol." n="F1r"/>
+<p><hi rend="spat">PAVSA</hi>.</p>
+</div>
+</div>
+<div type="chapter">
+<head rend="h2">Vyfde deel</head>
+<head rend="h3">Eerste Vvtcomen.</head>
+<stage><hi rend="i">Macrinus. Opilius. Adrastus.</hi></stage>
+<lg type="poem">
+<l>O! Grooten <hi rend="i">Iuppiter</hi>, O! Vader alder goden,</l>
+<l>Voert mijnen gheest datick mach volghen v geboden,</l>
+<l>Gheboden niet alleen, maer uwen cloecken raet,</l>
+<l>Die ghy alleen besloet in 'tdoen van v weldaet,</l>
+<l>Maer als ghy socht den mensch' met schaden te verderuen,</l>
+<l>Door watervloedt, en vier, oft door de Pest te steruen,</l>
+<l>Riept ghy den heelen raet der Goden in v zael,</l>
+<l>En deedt naer haren raet de wraecke teenemael.</l>
+<l>Wijsen, en grooten Godt? Godt segh' ick, die sijn crachten,</l>
+<l>En groote daden doet door Goddelijcke machten,</l>
+<l>Gheeft dat ick, die maer ben een ghenster van v vier,</l>
+<l>V groote daden volgh, en die doen leuen hier;</l>
+<l>Volghen, wat segh ick doch, 'ken can, want mijne raden,</l>
+<l>Sijn niet als d'v ghesint maer roepen al ghenaden,</l>
+<l>Daer mijnen soon alleen roept (teghen) om de wraeck,</l>
+<l>Die hy door haet vervolght en om gheen ander saeck.</l>
+<l>Maer hoe, ben ick vervremt van alle recht, en reden,</l>
+<l>Laet ick om haet, de rust, en soeck haer te vertreden,</l>
+<l>Soeck ick mijn eyghen quaet als die vliecht om het licht,</l>
+<l>Daer ick weet dat mijn rijck soo heerlijck is ghesticht,</l>
+<l>Om dat sy die voor my dit rijck hebben beseten,</l>
+<l>In maticheyt haer ampt noyt en hebben vergheten.</l>
+<l>Wijsen <hi rend="i">Anthonil</hi>, was niet v Goddelijck woort,</l>
+<l>Dat niet den raet aen v, maer ghy den raedt behoort,</l>
+<l>Heeft oock <hi rend="i">Catonis </hi>niet ons eene leer ghegheuen,</l>
+<l>Dat die gheweldich sijn, en langhen tijdt wil leuen,</l>
+<l>Moeten haer groote macht ghebruycken soo met maet,</l>
+<l>Dat het eer soberheyt ghelijckt, den ouerdaet.</l>
+<l>'Tis waer ick ben een Vorst, maer voer alleen den name,</l>
+
+<pb ed="fol." n="F1v"/>
+<l>Want ben sonder ghemoet des ick my seluen schame,</l>
+<l>Te dencken dat ick ben, <hi rend="i">Macrini?</hi> die wel eer,</l>
+<l>Was niet van naem een Prins, maer van ghemoet een Heer.</l>
+<l>Ghemoet segh ick te recht want in voorgaende tijden,</l>
+<l>Hebb' ick door mijn ghebodt rechtueerdich doen op snijden,</l>
+<l>Twee ossen, en besloot daer in voor 'tinghewant,</l>
+<l>Twee mannen die ghelijck vercracht hadden met schandt</l>
+<l>Een dienstmaecht, waer dat sy naer haer belieuen woonden,</l>
+<l>En haer ghenoten deught ondanckbaer soo beloonden.</l>
+<l>Ick meyn dat haer berou, quam langhe voor de doodt,</l>
+<l>Die om haer claght te doen, maer buyten hadden 'thoot,</l>
+<l>Om haer te sien, en oock malcand'ren toe te spreken,</l>
+<l>Tot dat 'tverrotten haer, haer crachten heeft besweken,</l>
+<l>Maer dit treft my nu aen, het swaertste comt op 'tlest,</l>
+<l>De smert gheuoelt men eerst als men hem seluen quetst,</l>
+<l>D'eere van mijn gheslacht, en vrees' van recht, en wetten,</l>
+<l>Baert my alsulcken twist, dat ick sal moeten setten,</l>
+<l>My, 'trijck, en mijnen soon, in vreese van 'tgheweldt</l>
+<l>Van 'twanckelbaer gheluck, daer d'eer op is ghesteldt,</l>
+<l>Soo kies' ick dan voor'trecht, de rust van mijn geslachte,</l>
+<l>Want voor 'trecht quam de scha<hi rend="i">n</hi>t dat hem den Prins ombrachte</l>
+<l>Hoe wel ick weet het is onneere voor het rijck,</l>
+<l>Nochtans ick moet het doen, sou vrede sijn ghelijck,</l>
+<l>Om dat den eedt door nijdt, en hoochmoet, is ghesworen,</l>
+<l>Daer nijdt heeft d'ouerhandt, is recht en raet verloren,</l>
+<l>Vervloeckten? boosen haet die soo de deught verwindt.</l>
+<l>De reden is verdooft, wanneer de wraeck beghint,</l>
+<l>De bloet-dorst wort versaedt, dat yder een sal weten.</l>
+<l><hi rend="i">Adrastus </hi>gaet, dat hem het hooft sy afghesmeten,</l>
+<l>En laet het brenghen hier 'tis mijn, doch straf ghebodt.</l>
+<l rend="speaker"><hi rend="i">Adrastus.</hi></l>
+<l rend="; 1tab">'Tghebodt van onsen Heer is als van eenen Godt,</l>
+<l>Waer dat bermherticheyt ghevoert wert door de reden,</l>
+<l>Onnoodich was de moeyt daerom in recht te treden,</l>
+<l>Dan <hi rend="i">Caesar </hi>v ghebodt gheschiede soo ghy 'twilt.</l>
+<l rend="speaker"><hi rend="i">Keyser.</hi></l>
+<l rend="; 1tab">Volbrenght dat ick v segh', en sijt hier van ghestilt,</l>
+<l>Mijn rijck bloedigh begost, en bloedigh will' verlenghen,</l>
+<l>Het hooft naer mijn beuel, sult ghy hier tot my brenghen,</l>
+<l>De wraeck daer van ick wacht doet ghy dat ick v segh.</l>
+<l rend="speaker"><hi rend="i">Adrastus.</hi></l>
+<l rend="; 1tab">'Tsal Heere sijn ghedaen.</l>
+<l rend="speaker"><hi rend="i">Keyser.</hi></l>
+<l rend="; 1tab">Maeckt spoedigh uwen wegh',</l>
+
+<pb ed="fol." n="F2r"/>
+<l>En keert op staenden voet, men sal my hier oock vinden,</l>
+<l>'Ten was noyt mannich hert, dat hem te langh' versinden.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Vyfde deel <lb/>tvveede vvtcomen.</head>
+<stage><hi rend="i">Sabellus. Fuluius.</hi></stage>
+
+<lg type="poem">
+<l>'TGerucht, en roep des volcx, ontsteeckt den geest tot wraec,</l>
+<l>Wort onsen Heer ghedoodt, om onrechtighe saeck,</l>
+<l>De helsche raserny, sendt hulp om te verghelden.</l>
+<l rend="speaker"><hi rend="i">Fuluius.</hi></l>
+<l rend="; 1tab">De nijt, en hoeft gheen const, om yemant vals te schelden,</l>
+<l>Is trou, en vrientschap doodt, en recht soo wt den landt.</l>
+<l rend="speaker"><hi rend="i">Sabellus.</hi></l>
+<l rend="; 1tab">Goden! by v ick sweyr, dat om trouw met dees handt</l>
+<l>Wraecke gheschieden sal, verrader die de trouwe,</l>
+<l>Verradich hebt gheschent de wraeck die sal v rouwen,</l>
+<l>Oft cracht moet my ontgaen, dat ghy 'tontcomen sout,</l>
+<l>Den gheest en bloedt in 'tlijf, wort my deur gramschap cout,</l>
+<l>Dit liju' en leuen ick om uwen 'twill' sal waghen,</l>
+<l>All' viel het hemels vier, 'ken salder niet naer vraghen,</l>
+<l>Maer v sielmoorder noch doorkeruen naer mijn lust.</l>
+<l rend="speaker"><hi rend="i">Fuluius.</hi></l>
+<l rend="; 1tab">'Tghepeys van steruen stelt, den gheest heel in onrust,</l>
+<l>Wort deught alsoo verghelt, men sou de deught verfoyen.</l>
+<l rend="speaker"><hi rend="i">Sabellus.</hi></l>
+<l rend="; 1tab">'Tsweet breeckt door gramschap wt, de wrake sal noch groye<hi rend="i">n</hi></l>
+<l>Soo 'tonsen Heer betreurt, ick sweer by hell' en Goon,</l>
+<l>Dat hy, oft ick, de doodt sal eruen voor den loon,</l>
+<l>Want gramschap doet de<hi rend="i">n</hi> eedt, door trouw' ia't voorghenomen.</l>
+<l rend="speaker"><hi rend="i">Fuluius.</hi></l>
+<l rend="; 1tab">Still', still', den staet die comt, den Keyser sal oock comen,</l>
+<l><hi rend="i">Diadum'nus </hi>verwoedt, die sien ick volghen mee.</l>
+<l rend="speaker"><hi rend="i">Sabellus.</hi></l>
+<l rend="; 1tab">Het recht van onsen Heer, sal sijn ghedaen al ree,</l>
+<l>Dan wy hier wat ghewacht, en hooren oft sijn vloecken,</l>
+<l>De doodt van onsen Heer noch langher sal versoecken,</l>
+<l>Naer 'tweten my verlanght, 'tverlanghen my oock quelt.</l>
+</lg>
+
+</div>
+<div type="chapter">
+<pb ed="fol." n="F2v"/>
+<head rend="h3">Vyfde deel <lb/>derde vvtcomen.</head>
+<stage><hi rend="i">Keyser. Diadumenus.</hi></stage>
+
+<lg type="poem">
+<l>ONvredicheyt, en twist, baerdt onrust, en ghewelt,</l>
+<l>Den tijdt die is voorby, ure ghy naeckt onlustich,</l>
+<l><hi rend="i">Placidus</hi> ghy zijt doodt, dan, daerom niet onrustich,</l>
+<l>Veel beter ghy, dan ick, oft eenigh van de mijn,</l>
+<l>Als een van twee door wraeck, wraeckghierich doodt moet sijn,</l>
+<l>Hoe wel onrecht hier in, door boosheyt is ghedreuen,</l>
+<l>'Tis quaet met sijnen Prins in oproer soo te leuen,</l>
+<l>Want oproer baert den twist, en twist den dooden haet.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">Laet varen dat ghepeys, sijn hoogheyt die doet quaet,</l>
+<l>Crijcht hy niet sijnen loon, sou hy de wraecke deruen,</l>
+<l>Men heeft hier in het rijck om minder saeck doen steruen,</l>
+<l>Daerom laet dit ghedacht hy crijght maer loon, naer recht.</l>
+<l rend="speaker"><hi rend="i">Keyser.</hi></l>
+<l rend="; 1tab">Hy vecht als in het vier, daer 'twinnen wilt den knecht,</l>
+<l>Want niemant lijden will' sijn minder tot verachten.</l>
+<l rend="speaker"><hi rend="i">Adrastus.</hi></l>
+<l rend="; 1tab">Ontfanght dees bleecke doodt, O <hi rend="i">Caesar </hi>hooch van machten,</l>
+<l>V will', begheert, en last, wraeckgierigh is volbrocht.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">Gheluckich sy den tijdt daer ick naer heb ghesocht,</l>
+<l>Mijn hert, en gheest verheught, nu sal ick vredich wesen.</l>
+<l rend="speaker"><hi rend="i">Keyser.</hi></l>
+<l rend="; 1tab">Vernoeghingh' van den gheest tot rust is weert ghepresen,</l>
+<l>Neemt sone, voor een gift het hooft wilt nemen aen,</l>
+<l>Mijn Heeren, en ghy all', vertreckt wilt binnen gaen,</l>
+<l>Want ick met mijnen soon, alleen wat heb te spreken,</l>
+<l>'Ten is gheen recht dat sy hooren yemants ghebreken,</l>
+<l>Nu? na dien will', en nijt, ten onrecht is gheblust,</l>
+<l>Begheer, en will' ick, dat ghy houden sult v rust,</l>
+<l>En eedt door hooghen moet door wraecke soo te houwen,</l>
+<l>Dat recht versaeckt moet sijn, en naermaels v mocht rouwen,</l>
+<l>Maer door vrientschap ghetrouw een yder sijn, en still',</l>
+<l>Soo wint ghy eer, en die ghemeente 'tuwen will',</l>
+<l>Want meerder ruste brenght vereeneghinghe mede</l>
+<l>Dan tweedracht, cleynen twist maeckt lichtelijcken vrede,</l>
+<l>Daerom doet mijn beuel, en volghet desen last,</l>
+
+<pb ed="fol." n="F3r"/>
+<l>Vrede ghy voelen sult, dat tot verheughen wast,</l>
+<l>Want vrede voor den twist is constigh naer te comen.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">'Tis vreught die winder is, daer twee van 'tleuen schromen,</l>
+<l>Gheluckich sy de handt die eerst den cop op nam,</l>
+<l>Twist? ghy zijt nu gheendt, den toren heftich gram,</l>
+<l>Heeft wraeck naer zijnen lust, nu heb ick eerst ghenoeghen,</l>
+<l>De Goden wel te recht, my als verwinder voeghen,</l>
+<l>Den gheest hem nu verheught, het hert inwendich lacht,</l>
+<l>Dat ick, nu heb dit hooft in mijn ghebiedt ghebracht,</l>
+<l>Dat my soo schandelijck dorst achten en ghelijcken,</l>
+<l>By schoendreck, foy 'tis schandt, dies moet ick't noch bekijcken,</l>
+<l>Verraders aensicht, doch het was v leste mael.</l>
+<l rend="speaker"><hi rend="i">Keyser.</hi></l>
+<l rend="; 1tab">Wat hoe? wel is het noch, waer toe weer dit verhael,</l>
+<l>Ghenoeght v met den roof, wat wilt ghy weer beghinnen,</l>
+<l>Is't noch niet heel ghedaen.</l>
+<l rend="speaker"><hi rend="i">Diadumen.</hi></l>
+<l rend="; 1tab">'Tberst wt van binnen,</l>
+<l>Als ick 'tverraders hooft, noch bleeck, en doodt aenschouw,</l>
+<l>Soo moeders moorder soo.</l>
+<l rend="speaker"><hi rend="i">Sabellus.</hi></l>
+<l rend="; 1tab">Wraeck roep ick, roept berouw',</l>
+<l>Rechtbrekers, die de trouw, door ontrouw nu vernielen,</l>
+<l rend="speaker"><hi rend="i">Fuluius.</hi></l>
+<l rend="; 1tab">'Tbloet <hi rend="i">Placide</hi> roep wraeck, van dees verdoemde zielen,</l>
+<l>Het lijden v ghenaeckt, hout valsch meynedich hert.</l>
+<l rend="speaker"><hi rend="i">Keyser.</hi></l>
+<l rend="; 1tab">Wel hoe? verraders hoe?</l>
+<l rend="speaker"><hi rend="i">Sabellus.</hi></l>
+<l rend="; 1tab">De doodt ghewroken wert,</l>
+<l>Dat sy in <hi rend="i">Plutons </hi>rijck <hi rend="i">Cocitus </hi>poel verweruen,</l>
+<l rend="speaker"><hi rend="i">Keyser.</hi></l>
+<l rend="; 1tab">Ach wee ick heb ghenoech,</l>
+<l rend="speaker"><hi rend="i">Sabellus.</hi></l>
+<l rend="; 1tab">Vermoort hem, doet hem steruen,</l>
+<l>Die trouw, en eedt, noch recht, om eer niet meer en houdt,</l>
+<l>Soo comt haer recht, en loon, als boose moorders stout,</l>
+<l>Dats noch hout, die het rijck met Princen bloet gaet schenden,</l>
+<l rend="speaker"><hi rend="i">Fuluius.</hi></l>
+<l rend="; 1tab">Het helsche boos ghespuys wraeckgierich brenght ten ende<hi rend="i">n</hi>,</l>
+<l>Door bloedt, en wreede doodt, die nijt en onrecht voet.</l>
+<l rend="speaker"><hi rend="i">Sabellus.</hi></l>
+<l rend="; 1tab">Dees handt door rechte wraeck, als dese noch verdoet,</l>
+<l>Die d'oorsaeck is hier van, om 'tsamen te verghelden,</l>
+<l>Een onschuldighe doodt blijft onghewroken selden.</l>
+</lg>
+
+</div>
+<div type="chapter">
+<pb ed="fol." n="F3v"/>
+<head rend="h3">Vyfde deel <lb/>vierde vvtcomen.</head>
+<stage><hi rend="i">Darida. Sabellus.</hi></stage>
+
+<lg type="poem">
+<l>O! heerscher vande Iocht, ô schepper van den AL,</l>
+<l>O! vader <hi rend="i">Iuppiter </hi>cont ghy sien desen val,</l>
+<l>Waer is nu uwe cracht waer sijn v donderslaghen?</l>
+<l>Waer is v groot gheweldt en grouwelijcke plaghen?</l>
+<l>Sendt uwen blixem haest slaet met v gramschap groot</l>
+<l>Dit lichaem, want het wenscht alleene naer de doodt.</l>
+<l>Scheurt Hemels en sendt vier, sendt vier aen alle sijden,</l>
+<l>Dat dees vervloeckte aerd' met my oock heeft te lijden,</l>
+<l>En wilt ghedooghen niet dat sy in haren buyck,</l>
+<l>Verteyre dit ghebeent, maer dat ick het ghebruyck</l>
+<l>Ten offer in de vlam, op dat ick mach vernoeghen</l>
+<l>Den gheest, van v mijn ziel 'tsal hem ghewillich voeghen.</l>
+<l>O! <hi rend="i">Goden </hi>al te wreet, O! hemels, O! gheset,</l>
+<l>O! Son die door v strael vergult dit groene bedt,</l>
+<l>O! tortsen van den nacht, die 'tvoorhooft soo vercieren,</l>
+<l>Van uwe <hi rend="i">Hecate</hi>, houdt op van meer te vieren,</l>
+<l>Rooft my dit leuen haest, haest segh ick, my vernielt,</l>
+<l>Op dat ick gaen ter hell', ter hell' segh ick ontsielt.</l>
+<l>Treckt my hier van der aerd', treckt my hier wt dit leuen,</l>
+<l>En doet mijn droeue stem den droeuen weerclanck gheuen.</l>
+<l>Wat lijd' ick ongheluck, verdroncken in verdriet?</l>
+<l>Wat lijd' ick doch al druck naer weynich vreught gheschiet?</l>
+<l>Wat sal ick doen helaes! waer sal ick hulpe vinden,</l>
+<l>Waer wreeck ick mijn ghewelt, ô doodt wilt my verslinden.</l>
+<l>Comt! helsche fury comt! en voedt v met mijn bloedt,</l>
+<l>Sent my den Arent ras van <hi rend="i">Promethé</hi>, en doet</l>
+<l>Mijn inghewandt naer lust wt mijnen lijue trecken,</l>
+<l>Wilt uwe bitt're wraeck met mijn onschult bedecken,</l>
+<l>Haelt wt dit inghewant, het lijdend' droeuich hert</l>
+<l>Dat my door tranen doet onlijdelijcke smert,</l>
+<l>Onlijdelijck segh ick door dat all' mijn <hi rend="i">Fatalen</hi></l>
+<l>Verbeyden, om de doodt tot mijnen dienst te halen.</l>
+
+<pb ed="fol." n="F4r"/>
+<l>Wat heb ick doch ghedaen, seght hemels die my plaeght,</l>
+<l>Dat g'op een arme vrou den haet soo bitter draeght,</l>
+<l>Is't om dat my natuer de schoonheyt gaf, en 'twesen</l>
+<l>Dat <hi rend="i">Diadum'nus</hi> heeft soo onghetrou doen wesen,</l>
+<l>Soo vloeck ick hare deught, my schoonheyt, en d'ontrou.</l>
+<l>Die d'oorsaeck sijn, dat ick nu ben in desen rou.</l>
+<l>O Goden! ben ick dan een oorsaeck van dees saken,</l>
+<l>Hoe waert ghy dan bedacht mijn schoonheydt soo te maken,</l>
+<l>Wist ghy niet dat daer door, dees grouwelijcke daet</l>
+<l>Gheschieden sou, vol wraeck, en schandelijck verraet,</l>
+<l>Wist ghy niet dat daer door soo vromen Prins sou steruen,</l>
+<l>Wist ghy niet dat daer door mijn liefde sou verderuen.</l>
+<l>O! <hi rend="i">Placide </hi>mijn ziel ô <hi rend="i">Placide </hi>mijn licht,</l>
+<l><hi rend="i">Placide </hi>roep ick, maer sijn hooren is gheslicht,</l>
+<l>In't Elisesche velt, in 'tvelt waer dat de zielen</l>
+<l>Vol lust, van sorgh beurijt seer ouervloedich crielen.</l>
+<l>Gheluckich velt waer ick met grooten wensch wil sijn,</l>
+<l>Om <hi rend="i">Placidus,</hi> v ziel te voeghen by de mijn.</l>
+<l>Wraeckgierighen Tyran? Tyran die hebt verraden,</l>
+<l>De gaue vande deught wilt v nu voorts versaden,</l>
+<l>In't suyghen van het bloedt, van die ghy hebt ghedoodt,</l>
+<l>Verft nu v wreet ghesicht maeckt v wraeckgierich root,</l>
+<l>Draeght nu het teecken, van die ghy oyt hebt gheleken,</l>
+<l>Versaedt nu uwen lust hier sijn bebloede beken,</l>
+<l>Versaedt hier hebt ghy smaeck in het onnoosel bloedt,</l>
+<l>SIet <hi rend="i">Darida </hi>is hier die noch haer clachte doet,</l>
+<l>Sy wenscht om by haer lief te moghen salich rusten,</l>
+<l>Haelt wt haer droeue borst het hert het sal haer lusten,</l>
+<l>Het hert, segh ick het hert, dat hier nu is alleen, </l>
+<l>Ontnomen van de ziel vol droef heyt en gheween,</l>
+<l>Het hert, segh ick het hert, dat niemandt en can scheyden,</l>
+<l>Dan ghy ô droeue doodt, en soo ter hellen leyden.</l>
+<l>O! hemels doch ghedooght dat ick op eenen dagh,</l>
+<l>Met mijnen droeuen gheest mijn lief gheleyden mach,</l>
+<l>Sluyt ons beyd' in een graf op dat onse lichamen,</l>
+<l>Toch blijuen als ons ziels in eeuwicheden t'samen.</l>
+<l>Nu ghy salighe ziel, die door de soete doodt,</l>
+<l>Ontgaen zijt all' den haet, de wraeck, en meerder noot,</l>
+<l>Ghy en hoeft nu voortaen den Tyran meer te schroomen,</l>
+
+<pb ed="fol." n="F4v"/>
+<l>Rust salich in v rust d'onrust is v ontnomen.</l>
+<l>Maer my die was gherust blijft all' d'onrusticheydt,</l>
+<l>En dat, sindt dat de wraeck d'onrust heeft ingheleyt.</l>
+<l>O! salichrijcke rust, wanneer sal ick v stralen</l>
+<l>Oock voelen, op dat ick mijn ruste weer mach halen,</l>
+<l>Ghedooght, bid ick ghedooght dat mijnen droeuen gheest,</l>
+<l>Mach rusten door de doodt, en blijuen onbevreest.</l>
+<l rend="speaker"><hi rend="i">Sabellus.</hi></l>
+<l rend="; 1tab">Princes en vreest niet meer stilt doch v droeuich claghen,</l>
+<l>Siet hier, die den Tyran rechtueerdich heeft verslaghen,</l>
+<l>Siet hier, dat is sijn bloedt, tot wraeck van onsen Heer,</l>
+<l>Hy is doodt, met sijn wraeck, want hy en leeft niet meer,</l>
+<l>Den <hi rend="i">Keyser </hi>is door ons ter hellen oock ghesonden,</l>
+<l>Drooght uwe tranen af, het bloedt van hare wonden,</l>
+<l>Sal wasschen wt de smet van hare wreede daedt.</l>
+<l rend="speaker"><hi rend="i">Darida.</hi></l>
+<l rend="; 1tab">Och wat sal ick nu doen ick vrees' voor meerder quaet,</l>
+<l><hi rend="i">Sabelle</hi> vliedt toch wegh oft ick sien v ontleden,</l>
+<l>O! <hi rend="i">Roma </hi>wat in v men siet gheschieden heden,</l>
+<l>Wat sal ick doen helaes? sal ick in dit verdriet</l>
+<l>Noch blijuen, nu de wraeck wraeckgierich is gheschiet,</l>
+<l>Sal ick van <hi rend="i">Placide </hi>hier blijuen, als verlaten,</l>
+<l>Om dat 'tbeest'lijck ghemeent my doodelijck sou haten,</l>
+<l>Daer ick mijn vrijheyt can vercrijghen, als ick maer</l>
+<l>Mijn wtuercoren lief en soeck te volghen naer,</l>
+<l>Maer soo ick sterf eylaes? wie sal v hier beweenen,</l>
+<l>Wie sal ô <hi rend="i">Placide </hi>vergaren uwe beenen,</l>
+<l>En legghen in een graf naer v verdienst, en eer,</l>
+<l>Dat der Tyrannen wraeck, haer niet en quellen meer,</l>
+<l>Neen <hi rend="i">Placidus </hi>ick leef, ick leef om v te dienen,</l>
+<l>En wil door mijnen dienst v liefde noch verdienen,</l>
+<l>Die door de wreede doodt noch niet en is ghedaen,</l>
+<l>Ick wil maecken v graf, en daer op weenen gaen,</l>
+<l>Ick wil nadt maken, met mijn tranen uwe asschen,</l>
+<l>En met de selue wil ick v ghebeenten wasschen,</l>
+<l>Rust <hi rend="i">Placide </hi>mijn ziel mijn ziele blijft altijdt,</l>
+<l>Met uwe ziel ver-eent daerom gheruster zijt.</l>
+</lg>
+<div type="section">
+<head rend="h4">Choor.</head>
+
+<lg type="poem">
+<l>HEt weerdighst dat den mensch op aerden heeft,</l>
+<l>Is eenen vriendt daer hy op mach vertrouwen,</l>
+
+<pb ed="fol." n="F6r"/>
+<l>Want hy daer door dickwils gheruster leeft,</l>
+<l>Daerom wilt elck hem van ontrouheyt schouwen,</l>
+<l rend="; 1tab">Den thoren boos gheen stede winnen laet,</l>
+<l>Want quade vrucht, men door haer wel siet rijsen,</l>
+<l>Ia door onweet, en al wetende slaet,</l>
+<l>Ten onrecht, dus is sy heel te ontprijsen.</l>
+<l rend="; 1tab">Wie hem begheeft tot vriendt, en slaeu' der min, </l>
+<l>DIe vindt hem selu', vol stormen, en ghedachten,</l>
+<l>Want sorgh', en vrees', dat is all' haer ghewin,</l>
+<l>Haer woecker nijdt, en hopen haer gheslachten.</l>
+<l rend="; 1tab">Wie hoocheyt mint, en 'tneedrich sijn versmaedt,</l>
+<l>Door grammen schijn, oft hooghmoet, hy moet weder</l>
+<l>Tot leeghen vall', maer houden middel-maet,</l>
+<l>Van elck bemindt, soo valt hy niet te neder.</l>
+<l rend="; 1tab">Die 'tgans ghebiet om heerschen heeft een landt,</l>
+<l>Moet wachten hem een vonnis wt te spreken,</l>
+<l>Voor sijnen vriendt oft door gheschencken, want</l>
+<l>Sijn valscheydt doet den ned'ren 'thooft op steken.</l>
+<l rend="; 1tab">Reden, noch recht, van boosheydt, nu en wort,</l>
+<l>Gans niet gheacht, raet wort by haer mispresen,</l>
+<l>Want als een Lamp, vol ouertollich stort,</l>
+<l>Stort toorn de wraeck, (door boosheyt) om te vresen.</l>
+<l rend="; 1tab">O! gulden tijdt, salighen vre', en rust,</l>
+<l>Hoe zijt ghy nu in yser hert verandert,</l>
+<l>Waer is betrou, ôch doodt, en wtgheblust,</l>
+<l><hi rend="i">Rhamnusia </hi>draecht bloedigh haren standert.</l>
+<l rend="; 1tab">Soo wie het sweert een dwaes om heerschen gheeft,</l>
+<l>De boosheyt hy voor sijnen Heer sal croonen,</l>
+<l>Maer wie verkiest een, die door wijsheyt leeft,</l>
+<l>Croont vree, en vree sal d'ondersaten loonen.</l>
+<l rend="; 1tab">Spieghel, bidd' ick laet dit doch wesen dan,</l>
+<l>Bandt <hi rend="i">Nemesis </hi>onrustich wt den lande,</l>
+<l><hi rend="i">Bellona </hi>wreet, verjaeght met haren man,</l>
+<l><hi rend="i">Minerua </hi>wilt ontfanghen met verstande.</l>
+<l rend="; 1tab">Salighe rust, wenschen wy v, nu dier,</l>
+<l>In vrede blijft, en twisten wilt 'tvermijden,</l>
+<l>Tot <hi rend="i">Lachesis </hi>volspindt v leven hier, </l>
+<l>En <hi rend="i">Atropos </hi>comt uwen draet af snijden.</l>
+<l rend="; 1tab">Vrede ghy zijt de Voester van de deucht,</l>
+<l>Vrede ghy zijt waer door de consten bloeyen,</l>
+
+<pb ed="fol." n="F6v"/>
+<l>Een vredich eeuw' door v Herschept in vreught,</l>
+<l>Vrede wensch ick die in de consten groeyen.</l>
+<l rend="; 1tab"><hi rend="i">Hebe</hi> ghy zijt die dit beghonnen hebt,</l>
+<l>'Tbestaen vergheeft, in const, wilt danckbaer blijuen,</l>
+<l><hi rend="i">Castales </hi>vloedt ghy ionghe spruyten schept,</l>
+<l>Blijft vredich by den tack vol van Olijuen.</l>
+</lg>
+<p>Annag. <hi rend="sc"><hi rend="spat">Dient vvven</hi> AL</hi>.</p>
+</div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="secundair" value="16140304"/></interpGrp>
+<head rend="h3">Approbatie.</head>
+<p><hi rend="i">TRagica haec Actio, rhetoricè depicta eleganter que Flandricè continuata; nîl, quodaut sanae sidei, probis moribus aut honestati atque decentiae refragetur, continet. Quare meo iudicio (Superiorum accedente authoritatê atque determinatione), Publicè otiam exhibere poterit. Quod attestor ego subscriptus </hi>4. <hi rend="i">Nonas Martij, Anno </hi>1614.</p>
+<p>&#160;</p>
+<p><hi rend="sc"><hi rend="spat">Franciscvs Hovivs S.T.L.</hi></hi> </p>
+<p>ad Ripam Fluminis Scaldis Pastor,</p>
+<p>Librorumque Censor.</p>
+</div>
+<div type="chapter">
+<head rend="h3">Errata.</head>
+<p>PAg. 13. vers. 11. staet, met woorden en verworghen, leest: met moorden en verworghen.</p>
+<p>Pag. 14. vers 26. staet, voor helsche raserny, leest: voort helsche raserny.</p>
+<p>Pag. 23. regul 33. staet, vijfde wtcomen, leest: derde wtcome<hi rend="i">n</hi>.</p>
+<p>Pag. 29. vers 31. staet, dat ick hem wat voor 'thooft douwe, leest: dat ick hem voor 'thooft douwe,</p>
+<p>Pag. 32. vers 11. staet, dat hy soo langhe verbeyt, leest: dat hy soo langh' verbeyt.</p>
+<p>Pag 39. vers 28. staet, den ouerdaet, leest: dan ouerdaet.</p>
+</div>
+</body>
+</text>
+</TEI.2>

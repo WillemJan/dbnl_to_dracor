@@ -1,0 +1,3057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Claudius Domitius Nero</title>
+               <author>Guilliam van Nieuwelandt</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Claudius Domitius Nero</hi> van Guilliam van Nieuwelandt uit 1618.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>fol. A2r: dueght → deught: ‘de lieflijcke deught, met hare gherechticheyt verlaten’.</corr>
+                       <corr>fol. A3r: het onjuiste paginanummer AV is verbeterd.</corr>
+                       <corr>fol. B1v: tegheuen → te gheuen: ‘weder te gheuen alle sijne goederen’.</corr>
+                       <corr>p. 10: leeff → leef: ‘Maer leef ick, dit berouw’.</corr>
+                       <corr>p. 41: S. Poppea. → Sporus.</corr>
+                       <corr>p. 52: Vyede → Vyfde: Vyfde deel. Seste vvtcomen’.</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <publicationStmt>
+               <idno type="titelcode">nieu001clau01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2021 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note></note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Universiteitsbibliotheek Leiden, signatuur: 1089 B 35: 1, scan van Google Books</idno>
+               </bibl>
+               <p>Guilliam van Nieuwelandt, <hi rend="i">Claudius Domitius Nero</hi>. Guilliam van Tongheren, Antwerpen 1618</p>
+               <p>&#160;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Claudius Domitius Nero</title>
+               <author>Guilliam van Nieuwelandt</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <idno type="nur"></idno>
+           <availability>
+               <p></p>
+           </availability>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Claudius Domitius Nero</title>
+               <author>Guilliam van Nieuwelandt</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <idno type="nur"></idno>
+           <availability>
+               <p></p>
+           </availability>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2021-03-08</date>
+               <respStmt>
+                   <name type="person">RK</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+<text>
+<interpGrp><interp type="primair" value="antwe001olij01"/></interpGrp>
+<body>
+<cf><div type="chapter">
+<pb ed="fol." n="A1r"/>
+<p>CLAVDIVS</p>
+<p>DOMITIVS NERO</p>
+<p>TRAGOEDIE.</p>
+<p><hi rend="i">DOOR</hi></p>
+<p>GVIL. van NIEVVVELANDT</p>
+<p>VAN ANTWERPEN.</p>
+<figure>
+<p><xptr to="nieu001clau01ill0001.gif"/></p>
+</figure>
+<p>T' HANTWERPEN,</p>
+<p>By Guilliam van Tongheren, Boeck-vercooper inde Camer-</p>
+<p>straet, inden Griffoen. Anno, 1618.</p>
+<p><hi rend="i">Met Gratie ende Priuilegie.</hi></p>
+<pb ed="fol." rend="blank" n="A1v"/>
+</div></cf>
+<div type="chapter">
+<interpGrp><interp type="primair" value="heem101"/></interpGrp>
+<pb ed="fol." n="A2r"/>
+<head rend="h3">Gvil. van Nievvvelandt, aen den wysen, discreten, ende seer voorsienighen, Iohan vander Ast. deken vande gvlde vanden heylighen gheest, diemen noemt den Olyftack.</head>
+<p><hi rend="sc">PLvtarchvs</hi>, willende beschrijuen de vrome daden van <hi rend="i">Demetrius</hi>, verhaelt in't begin van sijn leuen, dat de <hi rend="i">Spartanen </hi>hare slaue<hi rend="i">n</hi>, <hi rend="i">Ilotas</hi> ghenaemt, op hare hooghe vierdaghen eenighe schandelijcke dinghen deden doen, ende brochten haer dan in de plaetsen daer sy hare ghemeyne maeltijden waren houdende, om hare kinderen daer door te leeren schouwen de schandelijckheyt van alsulcke misdaden: welcke maniere hoe wel <hi rend="i">Plutarchus</hi> die misprijst nochtans eenighe stichtinghe moeste te weghe brenghen, door dat de nature der menschen vreesachtich is, die lichtelijcken can beweeght worden door de teghenwoordicheydt van seer schandelijcke dinghen. Dit ouerdacht hebbende, naer dat ick alle de grouwelen van <hi rend="i">Nero </hi>ghelesen hadde, nam voor my, hem door mijne Poësy naer het leuen af te beelden, om onse Nederlantsche ieught voor ooghen te brengen den schandelijcken loon van soo grouwelijcke tyrannen, die door hare wreede dertelheden de lieflijcke deught, met hare gherechticheyt verlaten, <pb ed="fol." n="A2v"/>haer ouergeuende den schandelijcken lust van hare eergierige gheneghentheyt. <hi rend="i">Antigenidas</hi> seyde, dat de ionghe lieden meer vreughden souden scheppe<hi rend="i">n</hi> in eenen goeden speelman te hooren spelen, naer dat sy den quaden souden ghehoort hebben: alsoo dunckt my ooc, dat de menschen haer bequamer tot der deught voegen, als sy de straffe der boosheyt met soo vele leeringhen voor ooghen hebben ghesien. <hi rend="i">Nero </hi>dan, tot gheenen anderen eynde voortgebracht wesende, dan tot eenen spiegel van alle boosheydt, waerdoor de wijse deught van <hi rend="i">Seneca</hi> de stralen te crachtigher laet schijnen, wort niet te min de beleefde goetionsticheyt van v.E. voorghedragen, onder wiens vleugelen hy met groot verlangen wenscht te mogen rusten: wel wetende by niemant beter noch bequamer te connen wesen, door de liefde die v.E. hem toedraghende toont. Ia dat meer is sijnen voortbrenger wel met rechte moeght genoemt worden, door dat uwe vriendtschap hem ghetelt heeft in mijnen by naer gantsch verstoruen gheest. Bidde der haluen dat v.E. hem belieue in sijne vrientschap aen te nemen, met niet minder goetionsticheyt, als hy van my, uwen vrient, ende dienaer, v.E. toeghesonden, ende beuolen wort, Vaert lange wel.</p>
+<lg type="poem">
+<l>W<hi rend="i">T eenen herden steen soo spruyt de claer Fonteyne,</hi></l>
+<l><hi rend="i">Die haren loop verspreydt seer liefelijck en soet;</hi></l>
+<l><hi rend="i">En ghy, van </hi>Nieuwelandt,<hi rend="i"> u ader, schoon, en reyne,</hi></l>
+<l><hi rend="i">Spruyt wt de bitterheydt van </hi>Neros<hi rend="i"> straf gemoedt</hi></l>
+<l><hi rend="i">Veel voordeel, nut, en deught het vlietigh beecksken doet</hi></l>
+<l><hi rend="i">Dat van de steyle rotsch de velden comt besproeyen:</hi></l>
+<l><hi rend="i">Maer 'ten is onghelijck soo vruchtbaer niet, en goet,</hi></l>
+<l><hi rend="i">Als is de soeticheyt, die m'in u dicht siet vloeyen.</hi></l>
+</lg>
+<p>Deught is haers selfs loon.</p>
+</div>
+<div type="chapter">
+<interpGrp><interp type="primair" value="fayd001"/></interpGrp>
+<pb ed="fol." n="A3r"/>
+<head rend="h3">Balade Tot lof des Autheurs vant teghenvvoordich boeck.</head>
+<lg type="poem">
+<l>IS T soo ons heeft gheleert <hi rend="i">Pythagoras</hi> vermaerdt,</l>
+<l>Als d'edel siele schoon, die nimmermeer can steruen</l>
+<l>Van hier verhuysen moet, door dat den mensch naer aert,</l>
+<l>(Mides der <hi rend="i">Fatalen </hi>ampt) sijn vleesch comt te bederuen,</l>
+<l>Dat sijnen gheest dan gaet een ander lijf be-eruen:</l>
+<l>Dit schijnt gheheel versiert, oft voor de handt ghedicht,</l>
+<l>Nochtans soo sietmen claer, condy t'verstant verweruen,</l>
+<l>Dat nu <hi rend="i">Homerus</hi> gheest compt weder blincken licht</l>
+<l>Int lijf van <hi rend="i">Nieuwelant,</hi> spijt <hi rend="i">Momus</hi> den booswicht,</l>
+<l>En de <hi rend="i">Zoylisten</hi> al, die hem dees eer benijden:</l>
+<l>Want dit treurspelgih boeck den leser ondericht</l>
+<l>Wat redenrijckxsche const hy baert aen alle sijden</l>
+<l>In Neder-duytsche tael, reyn maet, constich int snijden.</l>
+<l>Dus <hi rend="i">Mineruisten</hi> fraey thoont dat ghy const bemint,</l>
+<l>Dicht desen dichter lof, van nu tot allen tijden:</l>
+<l>Want den Lauriren crans heeft hy te recht verdiendt.</l>
+</lg>
+<lg type="poem">
+<l>Henricq Fay-d'herbe <hi rend="i">slecht</hi></l>
+<l><hi rend="i">Facteur vande </hi>Peoene,<hi rend="i"></hi></l>
+<l><hi rend="i">Int schoone Mechels pleyn,</hi></l>
+<l><hi rend="i">Schreef dees Balade recht</hi></l>
+<l><hi rend="i">Van </hi>Nieuwelandt, <hi rend="i">die groene</hi></l>
+<l><hi rend="i">Schoon bloeyt in consten reyn:</hi></l>
+<l><hi rend="i">Want neuen Schildery,</hi></l>
+<l><hi rend="i">Die d'werck is sijnder handen,</hi></l>
+<l><hi rend="i">Dicht hy oock Poesy,</hi></l>
+<l><hi rend="i">Bouen alle verstanden.</hi></l>
+</lg>
+<p>Selden rust.</p>
+
+</div>
+<div type="chapter">
+    <interpGrp><interp type="primair" value="16180715"/>
+        <interp type="primair" value="meche001peoe01"/>
+        <interp type="primair" value="thie008"/></interpGrp>
+<pb ed="fol." n="A3v"/>
+<head rend="h3">Ode Tot den Const-vloeyenden Gvilliam van Nieuvvvelandt Ouderman vanden Olijftack ende Appellist tot Antvverpen.</head>
+
+<lg type="poem">
+<l><hi rend="sc">Ghy</hi> <hi rend="i">neghen dochters vol verstandt:</hi></l>
+<l><hi rend="i">VVat sal ick doch gaen beghinnen,</hi></l>
+<l><hi rend="i">Ick bid v Liens versterckt mijn handt,</hi></l>
+<l><hi rend="i">Doet my wijselijck versinnen:</hi></l>
+<l><hi rend="i">VVant ick sou geiren maken d'werck</hi></l>
+<l><hi rend="i">Dat sonder hulpe blijft onsterck.</hi></l>
+<l>&#160;</l>
+<l><hi rend="i">Ick sou hem geiren prijsen seer</hi></l>
+<l><hi rend="i">(VVout ghylieden my beschincken)</hi></l>
+<l><hi rend="i">Die ons </hi><hi rend="spat"><hi rend="sc">Brabanders</hi></hi> <hi rend="i">door sijn leer</hi></l>
+<l><hi rend="i">VVt v lieder vloet doet drincken,</hi></l>
+<l><hi rend="i">VVant voor hem ons niemant en schanck</hi></l>
+<l><hi rend="i">Dan alleen gheminghelden dranck.</hi></l>
+<l>&#160;</l>
+<l><hi rend="i">Ick meen den </hi><hi rend="spat"><hi rend="sc">Nievwelandt</hi></hi> <hi rend="i">vernuft,</hi></l>
+<l><hi rend="i">Die den </hi><hi rend="spat"><hi rend="sc">Olyftack</hi></hi> <hi rend="i">doet groeyen,</hi></l>
+<l><hi rend="i">En die ons hoofden (schier versuft)</hi></l>
+<l><hi rend="i">Nu met rechte const leert moeyen:</hi></l>
+<l><hi rend="i">Deur den </hi><hi rend="spat"><hi rend="sc">Nero</hi></hi> <hi rend="i">speelwijs ghedicht</hi></l>
+<l><hi rend="i">Ghelinstert by alst Hemels licht.</hi></l>
+<l>&#160;</l>
+<l><hi rend="i">Sijn hooft is dobbelfout verciert</hi></l>
+<l><hi rend="i">Met twee croonen wtghelesen,</hi></l>
+<l><hi rend="i">Eerst door </hi><hi rend="spat"><hi rend="sc">Poesi</hi></hi> <hi rend="i">ghemaniert,</hi></l>
+<l><hi rend="i">Dan door Schilderconst ghepresen:</hi></l>
+</lg>
+
+<pb ed="fol." n="A4r"/>
+
+<lg type="poem">
+<l><hi rend="i">Hy heeft in const de volle cracht,</hi></l>
+<l><hi rend="i">Al had hem t'hooft </hi><hi rend="spat"><hi rend="sc">Iovis</hi></hi> <hi rend="i">voortbracht.</hi></l>
+<l>&#160;</l>
+<l><hi rend="i">Hy leert ons eerst ons moeders tael</hi></l>
+<l><hi rend="i">Die wy waenden recht te spreken,</hi></l>
+<l><hi rend="i">Als </hi><hi rend="spat"><hi rend="sc">Cicero</hi></hi><hi rend="i"> d'Latijnsche sael</hi></l>
+<l><hi rend="i">Leerden alst was afgheweken:</hi></l>
+<l><hi rend="i">Dies by de derde croon verdint,</hi></l>
+<l><hi rend="i">Die hem </hi><hi rend="spat"><hi rend="sc">Schaldia</hi></hi> <hi rend="i">vast opbint.</hi></l>
+<l>&#160;</l>
+<l><hi rend="i">Menich die dit niet en begrijpt</hi></l>
+<l><hi rend="i">Deur plompheyt, oft hoouerdijen,</hi></l>
+<l><hi rend="i">VVant een onwetend' mensch die pijpt</hi></l>
+<l><hi rend="i">Dwaeselijck aen alle sijen:</hi></l>
+<l><hi rend="i">Ick weet ick hebt te recht ghesmaeckt</hi></l>
+<l><hi rend="i">VVant dat ick prijs heb ick ghelaeckt.</hi></l>
+<l>&#160;</l>
+<l><hi rend="i">Siet den </hi><hi rend="spat"><hi rend="sc">Nero</hi></hi> <hi rend="i">boosch en straf,</hi></l>
+<l><hi rend="i">Fraey int lesen, als int spelen,</hi></l>
+<l><hi rend="i">Daer al t'voorgaende maer als caf</hi></l>
+<l><hi rend="i">By en schijnt om te doen quelen:</hi></l>
+<l><hi rend="i">De const oeffenaers cleyn en groot</hi></l>
+<l><hi rend="i">Leuen daer by die schenen doot.</hi></l>
+<l>&#160;</l>
+<l><hi rend="spat"><hi rend="sc">Livia</hi></hi><hi rend="i"> en </hi><hi rend="spat"><hi rend="sc">Savl</hi></hi> <hi rend="i">daer veur,</hi></l>
+<l><hi rend="i">VVie can al dees const deurgronden,</hi></l>
+<l><hi rend="i">Dus gheesten leeft vry van ghetreur,</hi></l>
+<l><hi rend="i">VVant den gordiaen ontbonden</hi></l>
+<l><hi rend="i">Heeft ons </hi><hi rend="spat"><hi rend="sc">Gvilliam</hi></hi> van <hi rend="spat"><hi rend="sc">Nievvvelandt</hi></hi></l>
+<l><hi rend="i">Gheeft hem die eer aen elcken candt.</hi></l>
+<l>&#160;</l>
+<l><hi rend="i">Maer hoe! wat mach ick prijsen hem</hi></l>
+<l><hi rend="i">Die tot swerelts ent sal leuen</hi></l>
+<l><hi rend="i">Al had ick den </hi><hi rend="spat"><hi rend="sc">Syrenen</hi></hi> stem<hi rend="i"></hi></l>
+</lg>
+
+<pb ed="fol." n="A4v"/>
+
+<lg type="poem">
+<l><hi rend="i">Ken can hem niet loflijckx gheuen:</hi></l>
+<l><hi rend="i">Want meer het werck den wercker prijst,</hi></l>
+<l><hi rend="i">Als het seer den </hi><hi rend="spat"><hi rend="sc">Zoylvm</hi></hi><hi rend="i"> begrijst.</hi></l>
+<l>&#160;</l>
+<l><hi rend="i">Om v vroom vrientschap bid ick vriendt,</hi></l>
+<l><hi rend="i">Wenschende gheluck welvaeren</hi></l>
+<l><hi rend="i">Aen u die d'licht sijt van die blint</hi></l>
+<l><hi rend="i">Hadden gheleghen veel iaren,</hi></l>
+<l><hi rend="i">Die Goden sullent loonen recht.</hi></l>
+<l><hi rend="i">Want mijnen loon is u te slecht.</hi></l>
+</lg>
+<p>Troost v in Godt <hi rend="spat"><hi rend="sc">Hans Thievllier</hi></hi> den ionghen <hi rend="spat"><hi rend="sc">Peoene</hi></hi> tot Mechelen 1618. 15. <hi rend="spat"><hi rend="sc">Ivli</hi></hi>.</p>
+</div>
+<div type="chapter">
+<interpGrp>
+<interp type="primair" value="lang261"/>
+</interpGrp>
+<head rend="h3">Sonet.</head>
+<lg type="poem">
+<l>GHy redenrijck geslacht, dat soeckt naer const te trachten</l>
+<l>Van d'edel Poësi, door dijn vernuft verstandt,</l>
+<l>Siet een nieu constich werck, is wt ee<hi rend="i">n</hi> <hi rend="sc">Nievwelandt</hi>,</l>
+<l>Elck constenaer gheiont, een ghift wel groot te achten.</l>
+<l>&#160;</l>
+<l>T'ghelijckt den lust-hof wel daer veel cruyden van crachten,</l>
+<l>Met ouervloet in staen, en blommen schoon beplandt,</l>
+<l>T'geblomt tot d'ooghs vermaeck, de cruyden om den brandt</l>
+<l>Van sieckten veelderley int lichaem te versmachten.</l>
+<l>&#160;</l>
+<l>Hier wort in schoon ghedicht, en reden voorghestelt,</l>
+<l>Meest <hi rend="spat"><hi rend="sc">Neros</hi></hi> dertelheyt, sin hoochmoet, sijn ghewelt,</l>
+<l>Sijn dulle raserny, en bloet-dorst quaet om gronden.</l>
+<l>&#160;</l>
+<l>Sijn dichten veel en schoon, sijn als blommen ghedaen</l>
+<l>Tot elcx vermaeck, en lust, de cruyden die hier staen</l>
+<l>Sijn al de reden cloeck, een boet teghen veel sonden.</l>
+</lg>
+<p><hi rend="i">P. In liefde volhert alias </hi></p>
+<p>Nou noch.</p>
+
+</div>
+<div type="chapter">
+<pb ed="fol." n="B1r"/>
+<head rend="h3">Inhovdt der tragoedie.</head>
+<div type="section">
+<head rend="h4">Het eerste deel.</head>
+<p>NEro, berooft wesende van sijn Moye, Lepida, wendt sijne liefde tot een vry ghelaten slauinne, ghenaemt <hi rend="i">Actea</hi>; het welcke sijne moeder <hi rend="i">Agrippina</hi> niet en conde verdraghen: maer vermerckende den wraeckghierighen aerdt van haren sone, bewillicht in sijne liefde, ende doet hem tot vervullinghe des selfs hare schatcamer aenbieden. Hy, merckende haren list, ontfanght de selue, maer beueelt dat sy haren Raedtsman <hi rend="i">Pallas</hi> soude verlaten; waeromme sy soo verstoorde dat sy <hi rend="i">Brittanicum</hi> in het rijcke dreychde te stellen; t'welck <hi rend="i">Nero</hi> vreesende, doet den Ionghen Prince dooden.</p>
+</div>
+<div type="section">
+<head rend="h4">Het tweede deel.</head>
+<p><hi rend="i">Nero</hi> hem ontslaghen siende van de vreese die hy van <hi rend="i">Brittanicus</hi>hadde, crijght quaet vermoeden op sijnen voornaemsten Raetsheer <hi rend="i">Burrus Afranius</hi>: maer <hi rend="i">Seneca</hi> dit versetaende, beweeght den Keyser alsoo, dat hy <hi rend="i">Burrus</hi>den staet doet behouden. Daer naer vercrijghen sy beuel om <hi rend="i">Agrippina </hi>te gaen ondersoecken van eenigh verraet, dat sy teghen den Keyser haren sone voor soude ghenomen hebben; waer van sy van <hi rend="i">Paris</hi>, die een van <hi rend="i">Neros</hi> Pluymstrijckers was, by hem was beschuldight. Ondertusschen is de droeue clachte van de verlaten <hi rend="i">Ottauia</hi>, huysvrouwe van <hi rend="i">Nero</hi>, en<hi rend="i">de</hi> dochter van <hi rend="i">Claudius,</hi> en<hi rend="i">de</hi> <hi rend="i">Messalina</hi>, <hi rend="i">Burrus</hi> ende <hi rend="i">Seneca </hi>brengen voor antwoorde, dat haer <hi rend="i">Agrippina</hi> ganschelijck verontschuldight, waer door sy den valschen aenbrengher <hi rend="i">Paris</hi> hadden laten dooden. Nietemin <hi rend="i">Nero </hi>ghedreuen sijnde door haet ende vreese, verclaert dat hy <hi rend="i">Aniceto</hi>den last heeft ghegheuen om haer te doen steruen, d'welck oock geschiede. Ondertusschen sterft <hi rend="i">Burrus</hi>, die <hi rend="i">Nero</hi> in sijne sieckte gaet besoecken, ende doet onder decksel van medecijne sijn verhemelte van den mont met fenijn bestrijcken, doch wort maer inde coor verhaelt.</p>
+</div>
+<div type="section">
+<head rend="h4">Het derde deel.</head>
+<p><hi rend="i">Sabina Poppea, </hi>huysvrouwe van <hi rend="i">Marcus Otho</hi>, naermaels Keyser, wort van <hi rend="i">Nero </hi>bemindt, ende van haren man gherooft, ghelijck sy <pb ed="fol." n="B1v"/>te voren van haren eersten man <hi rend="i">Crispinus</hi> door den voorschreuen <hi rend="i">Otho</hi> benomen was. Sy verhaelt dat sy ghelegen hebbende by <hi rend="i">Nero</hi> ghedroomt heeft eenen schrickelijcken droom, die sy hem verhaelt, dat hy alle tot sijnen voordeel acht te wesen: maer sy vreesende voor ongeluck, begeert om hare liefde te versekeren, dat hy <hi rend="i">Octauia </hi>doet steruen, dat hy om haren twill' oock doet geschieden: maer wilt dat hem eerst de hoofden van <hi rend="i">Plautius</hi> ende <hi rend="i">Sylla</hi>, seer eerweerdighe persoonen, souden gebrocht worden. <hi rend="i">Seneca</hi> siende dese daden vreest dat hy in dit woeden niet en soude vergheten worden; versoeckt daerom te moghen vertrecken; biedt den Keyser weder te gheuen alle sijne goederen: maer <hi rend="i">Nero</hi> weyghert die aen te nemen, met niet minder geveynstheyt als hy van sijnen ouden Meester beieghent wordt.</p>
+</div>
+<div type="section">
+<head rend="h4">Het vierde deel.</head>
+<p><hi rend="i">Mellichus</hi>, vrygemaeckte slaue, brenght den Keyser aen dat eenighe Romeynsche Edeluyden besloten hadden hem te dooden, waer van <hi rend="i">Piso</hi> het hooft soude wesen, onder welcke was <hi rend="i">Lucanus</hi>, neue va<hi rend="i">n</hi> <hi rend="i">Seneca</hi>, die hy meest alle dede vangen, ende dooden: crijgt ondertusschen tijdinge dat <hi rend="i">Vindex</hi> hem afgevallen was, en<hi rend="i">de</hi> by <hi rend="i">Galba</hi> gevoegt, die tot Keyser van het heyr in Spaignien wtgheroepen was, waerom hy alle sijne goederen doet verbeurt verclaren, ende te coope stellen. In dit rasen wort <hi rend="i">Anthonius Natalis</hi> voor hem ghebracht, die een was van die teghen hem hadden ghesworen, die naer ondersoeck verhaelt, dat hy van <hi rend="i">Piso</hi> was gesonden geweest by <hi rend="i">Seneca</hi>, om te vraghen oft hy niet goet en vont dat sy malcanderen dickwils quamen besoecken? waer op <hi rend="i">Seneca</hi> antwoorde, neen. Dan dat sijn leuen hinck aen het leuen van <hi rend="i">Piso.</hi> <hi rend="i">Nero </hi>sendt <hi rend="i">Siluanus</hi> tot <hi rend="i">Seneca</hi>, die dat bekent met een onbeweeght ghemoet, niet meynende daer aen misdaen te hebben. <hi rend="i">Nymphidius Sabinus</hi> ouerste van de Praetorianen, (de welcke de lijfwacht der Keyseren waren) comt met eenighe van de sijne, die hy verhaelt alle de wreedtheden van haren Prince, die hy door sijne reden soo beweeght, dat sy by eedt beloue<hi rend="i">n</hi> hem te dooden. <hi rend="i">Nero</hi> crijght antwoorde van <hi rend="i">Seneca</hi>, beueelt <hi rend="i">Siluanus</hi> weder te gaen, om te segghen dat hy soude sijn eyghen doodt verkiesen: maer <hi rend="i">Siluanus</hi>, niet doruende, sendt <hi rend="i">Fenius</hi>, Hooftman van de lijfgarde.</p>
+
+</div>
+<div type="section">
+<pb ed="fol." n="B2r"/>
+<head rend="h4">Het vyfde deel.</head>
+<p><hi rend="i">Fenius</hi> comt met <hi rend="i">Seneca</hi>, die hem vrijwillich tot der doot bereyt: wilt sijn Testament lesen, maer wort belet. Beclaeght hem des haluen: vermaent sijne vrienden ende huysvrou tot ghedult: laet haer voor een Testament het voorbeeldt van sijn leuen, met sijne goddelijcke leeringhe, ende schriften. Sijn huysvrou <hi rend="i">Paulina</hi> wilt met hem steruen: worden beyde hare aderen gheopent; maer <hi rend="i">Nero</hi> ghebiet dat sy soude leuen. Hy doet hem seluen in de beenen ende voeten oock laten, maer door den ouderom en wilt het bloet niet volghen eyscht Fenijn, dan en wilt oock niet wercken. Doet hem ten lesten in het badt met lauw water sette<hi rend="i">n</hi>, waer in hy den gheest aen <hi rend="i">Iupiter</hi> den verlosser op seyde te gheuen. <hi rend="spat"><hi rend="sc">Nero</hi></hi> siende dat hy om alle sijne wreetheydt een yeder hatich was gheworden, verhaelt seer ongheduldich alle sijne droomen, ende ander voorteeckenen van sijne doodt. Staet vol twijfel wat hem in sijne sake staet te doen: gaet voor die reyse noch slapen. Tusschen wijlen verschijnt den gheest van <hi rend="i">Agrippina</hi>, met <hi rend="i">Megaera</hi>, een van de helsche rasernijen, die hare wraecke comt vervolghen. <hi rend="spat"><hi rend="sc">Nero</hi></hi> springht naeckt in sijn hemde wt het bedde. Doet besien oft de poorten van sijn hof wel worden bewaert: doch gheen antwoort vercrijghende, doorloopt seluer alle de camers van sijn hof: maer vindende de poorten wel ghesloten, keert naer sijn camer, alwaer sijne lijfwachters oock wtghevlucht waren, hem ghestolen hebbende sijn busken vol Fenijn, met de decksels van sijn bedde. Waer ouer ontstelt wesende, doet <hi rend="i">Specillius Mirmillo</hi> soecke<hi rend="i">n</hi>, om hem te dooden: maer niet vindende die hem desen laetsten dienst wilde doen, wilt sijn seluen inden <hi rend="i">Tyber</hi> verdrincken. Wort in het loopen ontmoet van <hi rend="sc">Faön</hi> sijne vryghemaeckte slaue, die hem sijn huys vier mijlen buyten Roomen ligghende aenbiedt, dat hy goet vindt, ende vlucht met hem op een peert, naeckt in sijn hemde, sijn aensicht bewonden met eenen snutdoeck, ende een quaet mantelken om sijn lijf. <hi rend="i">Nymphidius </hi>vermaent de Praetorianen van haren eedt. <hi rend="spat"><hi rend="sc">Nero</hi></hi> gevlucht wesende leyt op een quaet beddeken, ghedeckt met een quaet decksel, verhaelt sijn vreese, ende wat hem op den wegh beieghent was.</p>
+<p>Hem wort aengheseyt, dat hy sijne doodt moeste verhaesten, soo hy hem van sijne vyanden wilde bevrijden. Hy doet een graf maecken, hem daer naer dreyghende te steken met twee <pb ed="fol." n="B2v"/>Poignaerden, die hy met hem ghebrocht hadde, steeckt die weder in sijn scheede. Seyt dat sijn ure van steruen noch niet en was gecomen. <hi rend="i">Faon</hi> crijght eenen brief, die hem <hi rend="i">Nero</hi> ontneemt. Leest selue dat hem den raedt, ende de ghemeynte verwesen. Wilt weten wat straf den verwesen staet te gheschieden: maer hoorende gherucht, beueelt <hi rend="i">Sporus</hi> sijn doodt te beclagen. Vervloeckt sijne vreese. Set sijnen poygnaert op sijn keel, die hem van <hi rend="i">Epaphroditus</hi> voort inghesteken wort: ware ouer <hi rend="i">Nymphidius</hi>, met de <hi rend="i">Praetorianen </hi>in huys vallen, ende siende<hi rend="i"> Nero</hi> half doodt, wilt met sijnen mantel het bloet stoppen, schijn makende dat hy tot sijnder hulpe was ghecomen: maer <hi rend="i">Nero</hi> noch seghende dese woorden: te laet, en siet de getrouwigheyt, sterft een onsalighe doodt. Dit eensdeels ghetrocken wt <hi rend="i">Plutarchus, C. Tacitus, Suetonius Tranquilis, </hi>ende <hi rend="i">AEmylius Probus.</hi></p>
+</div>
+</div>
+<div type="chapter">
+<head rend="h3">Personagien</head>
+
+<table>
+<row><cell>Prologus.</cell><cell>Sabina Poppea.</cell></row>
+<row><cell>Nero.</cell><cell>Tigellinus.</cell></row>
+<row><cell>Claudius.</cell><cell>Soldaet Coor.</cell></row>
+<row><cell>Actea.</cell><cell>Herault.</cell></row>
+<row><cell>Claudius Senecius.</cell><cell>Siluanus.</cell></row>
+<row><cell>Agrippina.</cell><cell>Mellichus.</cell></row>
+<row><cell>Tyber Coor.</cell><cell>Anthonius Natalis.</cell></row>
+<row><cell>Roma Coor.</cell><cell>Statius.</cell></row>
+<row><cell>Seneca.</cell><cell>Nymphidius Sabinus.</cell></row>
+<row><cell>Burrus Afranius.</cell><cell>Praetorianen.</cell></row>
+<row><cell>Octauia.</cell><cell>Fenius.</cell></row>
+<row><cell>Ecloge Voester.</cell><cell>Pompea Paulina.</cell></row>
+<row><cell>Anicetus.</cell><cell>Knecht van Fenius.</cell></row>
+<row><cell>Romeynsche vrou Coor.</cell><cell>Sporus.</cell></row>
+<row><cell>Epraproditus.</cell><cell>Megaera.</cell></row>
+<row><cell>Faon.</cell><cell>Petinus.</cell></row>
+<row><cell>Brittanicus stom.</cell><cell>Icelus. Laquay van Faon.</cell></row>
+</table>
+
+</div>
+<div type="chapter">
+<pb n="1"/>
+<head rend="h2">Eerste deel</head>
+<head rend="h3">Eerste vvtcomen. <lb/><hi rend="i">Prologus.</hi></head>
+<head rend="h4">Sonet.</head>
+<lg type="poem">
+<l>DE liefde tot de const, die crachtich weckt den gheest,</l>
+<l>Sal hier Neronem wreedt, en schricklijck vertoonen;</l>
+<l>En hoe Tyrannen doen haer dienaers dienst, beloonen,</l>
+<l>Die haer van hare ieught seer dienstic sijn gheweest.</l>
+<l>&#160;</l>
+<l>Den hooghmoet, wreedt van aert, die als een grouwsaem beest,</l>
+<l>Met licht ghelooue comt by groote Princen woonen,</l>
+<l>Sult ghy in Nero sien, die niet en can verschoonen</l>
+<l>Sijn dulle rasernij, waer door hem yder vreest.</l>
+<l>&#160;</l>
+<l>Dit bloedigh droef tonneel en het u niet verdrieten,</l>
+<l>Al het hy moeders moordt, en ander bloedt vergieten,</l>
+<l>'T is spieghel van het quaet, waer door men kent de deught:</l>
+<l>&#160;</l>
+<l>Maer met verstant en lust, wilt op de woorden letten,</l>
+<l>En niet het droef ghesicht voor onse Masa setten:</l>
+<l>In droeue Poësy schuylt wel verborghen vreught.</l>
+</lg>
+
+</div>
+<div type="chapter">
+<head rend="h3">Eerste deel <lb/>Tweede vvtcomen.</head>
+<stage><hi rend="i">Gheest van Claudius.</hi></stage>
+
+<lg type="poem">
+<l>MYn ongheruste ziel doet mijnen gheest hier comen,</l>
+<l>Die, door ghebreck van wraeck, de ruste was benomen.</l>
+<l>Ick com' wt Acheron, van waer noyt ziel en quam,</l>
+<l>Die met haer lichaem weer haer eerste wesen nam.</l>
+<l>Ick com' wt droeuich velt, waer dat de sielen dwalen,</l>
+<l>Die hare rust van wraeck noch moeten comen halen.</l>
+<l>Ick com' wt 't doncker hof, waer dat noyt sonn' en scheen,</l>
+</lg>
+
+<pb n="2"/>
+
+<lg type="poem">
+<l>Maer waer het lieue licht door roock en stanck verdween.</l>
+<l>Waer dat der sielen straf rechtueerdich wordt ghegheuen,</l>
+<l>Daer niemant voor en vreest in 't aenghename leuen,</l>
+<l>Daer het dryhoofdigh dier den inganck van bewaert,</l>
+<l>Die hem alleen door vrees' voor <hi rend="i">Hercules</hi> vervaert.</l>
+<l>Daer haer de deught voor schrickt, en all' de hooghe Goden,</l>
+<l>Die in haer hoogh besit haer wreedtheyt sijn ontvloden.</l>
+<l>Daer niemant meer en vreest voor moorden, noch verraet;</l>
+<l>Maer yeder siet sijn straf, en loon van sijne daet.</l>
+<l>Den <hi rend="i">Tyber</hi> vloyt van bloet, ick sien hem <hi rend="i">Stix</hi> beschamen,</l>
+<l>En mijn onruste ziel comt met de wraeck versamen.</l>
+<l>Dees grouwelijcke vlam, die ick aen t'vier ontstack,</l>
+<l>Dat eertijts AEthna dwongh dat hy door d'aerde brack.</l>
+<l>Heeft my den helschen Godt ghegheuen in dees handen,</l>
+<l>Om dat ick sou mijn huys en erfghenamen branden.</l>
+<l>Hoe branden? hola neen, maer vullen dat vol nijdt,</l>
+<l>Op dat het tot mijn wraeck vol wreetheyt wasch altijdt;</l>
+<l>En sprenghen dat met bloedt, met bloet van naeste vrienden,</l>
+<l>Tot datmen daer gheen deught, maer alle quaet sal vinden.</l>
+<l>Den roock van dese vlam, die vrees en schrick verweckt,</l>
+<l>Sal dringhen tot in 't hert, daer hem den haet bedeckt.</l>
+<l>Sijn overgroote cracht sal desen dagh verthoonen,</l>
+<l>En met meer leet en rouw' mijn ongheual beloonen.</l>
+<l>Sijn schrickelijcke cracht hebb' ick alree gheproeft:</l>
+<l>Maer nu doet sy de wraeck, die mijnen gheest vertoeft.</l>
+<l>Haer wraecke wreket al; ia tot die daer de deughden,</l>
+<l>Als in een salich huys, seer vroy'lijck in verheughden.</l>
+<l>Comt vry onnoosel kint, <hi rend="i">Brittanice</hi>, comt aen,</l>
+<l>Siet hoe mijn droeue ziel den wegh is voorghegaen.</l>
+<l>Comt, lieue dochter, comt, en wilt verdraghen leeren</l>
+<l>Dat ghy <hi rend="i">Poppea</hi> siet u suyuer bedd' onteeren.</l>
+<l>Soo siet ghy all' de straf en grouwelijck verdriet,</l>
+<l>Die <hi rend="i">Messalina</hi> noch om hare daet gheschiet.</l>
+<l>Voort Goden doet de wraeck, de wraeck wort u ghebeden,</l>
+<l>Dat sy mijn siele com' vernoeghen hier beneden.</l>
+<l>Voort Goden, straft mijn leet, voert <hi rend="i">Agrippinas</hi> ziel</l>
+<l>Naer 't <hi rend="i">Stygiamsche</hi> rijck, tot in 't vervloeckte wiel;</l>
+<l>En laet in <hi rend="spat"><hi rend="sc">Nero</hi></hi> gantsch den naem van <hi rend="i">Caesar </hi>steruen,</l>
+<l>En al sijn heerlijckheyt tot mijne wraeck verderuen.</l>
+</lg>
+
+<pb n="3"/>
+
+<lg type="poem">
+<l>Ruckt door u groote cracht den schepter wt sijn handt,</l>
+<l>En gheeft hem die hem can recht voeren door verstandt.</l>
+<l>Doet sijn ghewenst gheluck tot op een ander keeren,</l>
+<l>Soo sal hy tot sijn leet sijn dulle dwaesheyt leeren.</l>
+<l>Vervloeckten snooden lust, hoe maeckt ghy ons soo blindt,</l>
+<l>Dat wy de sonde doen eer dat sy ons bemindt?</l>
+<l>Moest uwen sotten wensch mijn boose vrouw' beweghen,</l>
+<l>Dat sy in 't openbaer ghinck haer begheerte teghen?</l>
+<l>Moest haren roffiaen, in spijt van d'eer, en my,</l>
+<l>Haer trouwen tot my leet in all' haer hoerdery?</l>
+<l>Neen snooden <hi rend="i">Sillius</hi> ghy zijt om uwe sonden,</l>
+<l>Met haer, door rechte straf, ter hellen neer ghesonden.</l>
+<l>Vermalendijden dagh! dagh segh ick van berouw',</l>
+<l>Waer in ick weder nam dees grouwelijcke vrouw',</l>
+<l>Die door haer wreetheyt groot, en schrickelijcke wercken,</l>
+<l>De rasernijen self in boosheyt sou verstercken:</l>
+<l>Door dat sy goddeloos soo schandigh tracht naer eer;</l>
+<l>Met moorden, bloedt, en vier, eerghierich vol onneer.</l>
+<l>Want haren dullen haet, heeft haer soo seer ghedreuen,</l>
+<l>Dat sy my heeft ontrooft haer aenghename leuen:</l>
+<l>Maer haer vervloeckte doodt sal vullen mijne wraeck,</l>
+<l>Daer mijnen droeuen gheest om houden moet de waeck.</l>
+<l>Wraeck segh ick, die my doet verschrickelijck hier comen,</l>
+<l>Voorsegghen van het quaet dat daer is voorghenomen.</l>
+<l>Wraeck, segh ick, die sal gaen in leuen, en in goet,</l>
+<l>Tot dat sy haer alt'saem rootverwen in het bloet.</l>
+<l>'T is heden dan den dagh die my gherust sal stellen,</l>
+<l>Als ick haer ziele sien neerdalen in der hellen.</l>
+<l>'T is heden dan den dagh dat ick mijn ofterhandt</l>
+<l>Vercieren sal met bloedt, en grouwelijcke schandt,</l>
+<l>'T is heden dan mijn rust, is rust in wraeck gheleghen,</l>
+<l>En gaen de zielen droef, van mijne kinders teghen.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Eerste deel <lb/>Derde vvtcomen.</head>
+<stage><hi rend="i">Nero. Acté. Claudius Senecius.</hi></stage>
+
+<lg type="poem">
+<l>WIE gaet in heerlijckheyt als ick ghelijk de goden?</l>
+<l>Al dat op aerdtrijck is moet houden mijn gheboden;</l>
+</lg>
+
+<pb n="4"/>
+
+<lg type="poem">
+<l>Mijn schaduw' wort ontsien, niemant is mijns ghelijck,</l>
+<l>Dan Iupiter alleen; en dat maer in sijn rijck;</l>
+<l>Die inden hemel heerscht, daer hy voert in sijn handen</l>
+<l>Den blickxem, daer hy door de werelt can verbranden:</l>
+<l>Die door sijn Godtheyt heeft de winden in 't ghewelt,</l>
+<l>En die het hemels heyr haer hooghe wetten stelt:</l>
+<l>Die 't god'lijck wesen is van all' het wesen t'samen:</l>
+<l>Maer ick den aerdschen Godt, die menschen ghehoorsamen,</l>
+<l>Die door mijn Godtheyt hebb'op aerden heerschappy,</l>
+<l>En niemant, dan dees vrouw, is heyligh neuen my.</l>
+<l>Heyligh segh ick alleen, om dat ick haer beminne,</l>
+<l>Want haer mijn liefde maeckt veel meer als een Goddinne.</l>
+<l>De werelt is mijn erf, en onder mijn ghebiet,</l>
+<l>All'dat op aerdrijck is alleen op Nero siet.</l>
+<l>Ick doen all' dat ick wil, al woud' ick 't al vernielen,</l>
+<l>Mijn ooghen doen het al voor mijne voeten knielen.</l>
+<l>Den donder van mijn stem gaet van het Oost in 't West;</l>
+<l>AEgypten moet mijn iock oock dragen voor het lest.</l>
+<l>Van daer, daer <hi rend="i">Phoebus</hi> spant de peerden inden waghen,</l>
+<l>Tot daer hy weder rust, is 't all' tot mijn behaghen.</l>
+<l>Mijn beelt, als eenen Godt, elck een aenbidden moet;</l>
+<l>Wat Coninck dat daer is hy valt voor my te voet.</l>
+<l>Den Tartas', Pers', en Grieck die eerst seer machtigh waren,</l>
+<l>Verschricken, als sy sien mijn dulle gramschap baren.</l>
+<l>Den Arent, die door cracht de wolcken scheurt van een,</l>
+<l>Voer ick, als Iupiter op aerdrijck ook alleen.</l>
+<l>Mijn vleughels decken t'al, den al moet voor my buyghen,</l>
+<l>En niemant dan my self en neem ick voor ghetuyghen.</l>
+<l>Al die op aerden zijn, sijn slauen van mijn pracht,</l>
+<l>En ick een slaef alleen van mijn verlieft ghedacht:</l>
+<l>Een slaue van die my mijn slauerny comt teghen,</l>
+<l>Met lieffelijcken loon, daer ben ick toegheneghen.</l>
+<l>Een slaef alleen van u, <hi rend="i">Actéa</hi>, mijn Goddin,</l>
+<l>Die mijne vrijheyt rooft, daer ghy waert mijn slauin.</l>
+<l>O soete slauerny, ô lieffelijke banden,</l>
+<l>Die soo met vreughden boeyt mijn ziel, en niet mijn handen.</l>
+<l>Hoe doet ghy door u cracht verwinnen <hi rend="i">Neros </hi>hert,</l>
+<l>Dat soo vol pracht, en eer, noyt ouerwonnen wert.</l>
+</lg>
+
+<pb n="5"/>
+
+<lg type="poem">
+<l>En doet sijn groot ghemoet, de slaefsche liefde leeren.</l>
+<l rend="speaker"><hi rend="i">Acté.</hi></l>
+<l>Gheen onghenucht soo groot oft can in vreught verkeeren.</l>
+<l>Grootmoedighen Monarch, mijn slauerny was groot;</l>
+<l>Iae soo dat sy mijn ziel benauwde tot der doodt:</l>
+<l>Maer hoe mijn lichaem was in hare slaefsche crachten,</l>
+<l>Soo was nochtans den gheest gansch vrij met sijn ghedachten:</l>
+<l>Dan nu mijn lichaem is in vrijdom weer ghestelt,</l>
+<l>Wordt mijnen gheest tot slaef en onder u ghewelt.</l>
+<l>Ick voel de slauerny, wanneer ghy uwe straelen</l>
+<l>Van uwe Godtheyt groot laet in mijn ziele dalen.</l>
+<l>De liefde die ghy draeght maeckt mijne slauerny,</l>
+<l>Want lichaem, ziel, en lijf, ontrooft sy gansch van my,</l>
+<l>En maeckt haer tot slauin, die eeuwich soeckt te slauen,</l>
+<l>Om in haer slaefsche ziel all'uwen wil te grauen.</l>
+<l>Vergheeft my grooten Vorst, soo ick my vuers aen,</l>
+<l>Door vrouwelijcken aert te buyten hebb' ghegaen.</l>
+<l>Ghedooght dat ick maer roer u heerelijcke voeten,</l>
+<l>Om uwe moghentheyt eerbiedelijck te groeten.</l>
+<l>Ghedooght dat ick u dien, en dat <hi rend="i">Actéa </hi>mach,</l>
+<l>Van u, die sijt haer sonn', vercrijghen haren dagh,</l>
+<l>Die all' haer eere vindt in u grootmoedich wenschen.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>De deught verciert het hooft van deughdelijke menschen.</l>
+<l>Staet op mijn schoone, staet, ick wilt dat uwen naem,</l>
+<l>Als <hi rend="i">Neros </hi>name sy een yder aenghenaem.</l>
+<l>Maer waerom mach den haet mijn moeder soo vervoeren?</l>
+<l>Wat meynt sy dat mijn ieught can leuen sonder hoeren?</l>
+<l>Is 't haer al wt den sin hoe dat sy oock vergat</l>
+<l>Den Keyser haren man, met die bewaert den schat?</l>
+<l>Vervloeckten ouderdom, waer door dat wy vergheten</l>
+<l>Hoe dat de spijse smaeckt die ionghe menschen eten.</l>
+<l>Wat let haer dees slauin? Of meynt sy dat ick haer</l>
+<l>Sal setten in het rijck, oft ick beseten waer?</l>
+<l>Neen neen, ick weet veel meer; en weet oock wel te kiesen</l>
+<l>Dat ick om haren 't wil, en sal, noch wil verliesen.</l>
+<l>Dat sy my vry beny, of grouwelijck verstoort,</l>
+<l>'T en let aen <hi rend="i">Caesar </hi>niet soo sy niet weer en moort.</l>
+<l>Wat hadd' sy <hi rend="i">Lepida </hi>mijn moye te vergheuen</l>
+<l>Daer ick naer mijnen wensch' pleegh vreughdigh med' te leuen.</l>
+<l>Oft meynt sy dat den lust met eene spijs versaedt,</l>
+</lg>
+
+<pb n="6"/>
+
+<lg type="poem">
+<l>Van mijn <hi rend="i">Octauia</hi>, die ick inwendich haet?</l>
+<l>Neen all' de wetten sijn alleen voor d'onderdanen,</l>
+<l>Maer mijnen wil sal doen dat hem den lust sal manen.</l>
+<l>De Iaren sijn voorby, dat ick met vrees' ontsagh</l>
+<l>Den grijsaert <hi rend="i">Seneca</hi>, die my te leeren plach.</l>
+<l>De Iaren sijn voorby, waer in ick pleegh te schromen,</l>
+<l>Maer nu is mijnen tijdt van heerlijckheyt ghecomen.</l>
+<l>Mijns moeders macht is wt, sy heeft soo veel ghedaen</l>
+<l>Door wreetheyt, dat ick haer in 't rijck ben voorghegaen.</l>
+<l><hi rend="i">Brittanicus </hi>mach haer door sijne kintsheyt vreesen,</l>
+<l>Om voorderingh van staet naer het ghebruyck der weesen:</l>
+<l>Maer ick, die staen in 't rijck en daer het rijck voor beeft,</l>
+<l>Wil hebben vrees', en eer, dat eer aen Princen gheeft.</l>
+<l>De ionckheyt slacht den wijn, die vers comt in de vaten,</l>
+<l>Die men om 't wercken moet de locht ghebruycken laten;</l>
+<l>Want stopt men hem te vroegh eer dat hy heeft ghewrocht,</l>
+<l>Soo berst hy wt het vat, en soeckt alsoo de locht:</l>
+<l>De ionckheyt vanghelijck, die men door dwanck wilt dwinghen,</l>
+<l>Soeckt vrijheyt, als sy siet haer macht in alle dinghen,</l>
+<l>Die gheene vrees' betaemt, maer crachten van den man,</l>
+<l>Waer in hy sijnen moet met list gebruychen can.</l>
+<l>Mijn hoogheyt sal ick doen door mijne cracht beminnen.</l>
+<l rend="speaker"><hi rend="i">C. Senici.</hi></l>
+<l>De grootheyt van het rijck in <hi rend="i">Caesar </hi>moet beghinnen.</l>
+<l rend="speaker"><hi rend="i">Nero</hi>.</l>
+<l>De grootheyt van den Vorst wort eerst te recht ghesien,</l>
+<l>Wanneer hy door ghewelt sijn willen doet ontsien.</l>
+<l rend="speaker"><hi rend="i">C. Senici</hi>.</l>
+<l>De Keyserlijcke vrouw doet <hi rend="i">Caesar </hi>door my groeten,</l>
+<l>Die my ootmoedigh sendt te buyghen voor u voeten.</l>
+<l rend="speaker"><hi rend="i">Nero</hi>.</l>
+<l>Is dat all' haer beuel dat sy u heeft belast?</l>
+<l rend="speaker"><hi rend="i">C. Senici.</hi></l>
+<l>Neen, maer dat in haer hert een recht genoeghen wast,</l>
+<l>Dat dese schoone vrou can uwen lust versaden.</l>
+<l>En bidt dat uwe deucht gheen mildtheyt will' versmaden.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Wat mildicheyt is 't doch, daer sy my van ontbiedt?</l>
+<l rend="speaker"><hi rend="i">C. Senici.</hi></l>
+<l>De camer, met den schat, indien het maer geschiet,</l>
+<l>Dat hare milde ghift met danck werd' aenghenomen,</l>
+<l>Om dat u liefde sou met rechten lust volcomen.</l>
+<l rend="speaker"><hi rend="i">Nero</hi>.</l>
+<l>Den stierman is bevreest, als aen den Orisont</l>
+<l>De wolken swillen op, wt <hi rend="i">Amphitrites </hi>mont;</l>
+<l>Of als hy siet de sonn' den waterroock op trecken,</l>
+<l>Waer door men strackx de locht met wolcken siet bedecken;</l>
+</lg>
+
+<pb n="7"/>
+
+<lg type="poem">
+<l>Strijckt all' de seylen neer, past op het roer en schip,</l>
+<l>En soeckt de ruyme zee door vreese van de clip:</l>
+<l>Maer ick die in het schip des werelts ben gheseten,</l>
+<l>En die met windt van list word' crachtich aenghesmeten,</l>
+<l>Moet oock wel voor my sien, dat dees <hi rend="i">Sirene </hi>my</l>
+<l>Niet wt het schip en lock, en roof mijn heerschappy.</l>
+<l>In voorspoet moet den mensch wel open doen sijn ooghen,</l>
+<l>Of moet sijn ongheluck met lijdtsaemheyt gedooghen:</l>
+<l>Den snelsten van verstandt heeft moyt om list t'ontgaen,</l>
+<l>'T en sy dat hy 't ghewelt doet voor de reden gaen.</l>
+<l>Gaet henen, cust haer handt, en seght dat wy wel weten</l>
+<l>Dat haren ouden haet wel schijnt te sijn vergheten:</l>
+<l>Maer dat ick haer beueel op mijn ghehoorsaemheyt</l>
+<l>Dat <hi rend="i">Pallas </hi>haer verlaet, die haer dus heeft verleyt,</l>
+<l>Oft ick sal my met cracht en reden op hem wreken.</l>
+<l rend="speaker"><hi rend="i">C. Seneci.</hi></l>
+<l>Aen mijnen trouwen dienst en sal het niet ghebreken.</l>
+<l>De Goden die het rijck groot maken door 't ghewelt,</l>
+<l>Die maken haer ghelijck die daer in is ghestelt.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>De wonderbaer natuer heeft in de volle wapen</l>
+<l>De Schildtpadd', in den schilt, als in het stael gheschapen;</l>
+<l>Nochtans niet sonder vrees', noch doodelijck en nijdt,</l>
+<l>Die hem den Arent draeght, afghunstelijck altijdt,</l>
+<l>Die door sijn groot ghemoet gheen dier en can ghelijden,</l>
+<l>Dat hem in ghelijckt, of comt haer all' bestrijden.</l>
+<l>Dit heerlijck groot ghemoet des Arents wort met cracht,</l>
+<l>En listigh snel verstant ter hooghster eer ghebracht;</l>
+<l>Want siet hy dat den schilt sijn crachten doet mislucken,</l>
+<l>Soo smijt hy hem door list op eenen steen in stucken.</l>
+<l>Wie comt dit hoogh ghewelt dan aen den Vorst alleen,</l>
+<l>Die met den Arent heeft sijn hooghe cracht ghemeen?</l>
+<l>Die niet en can met eer ghelijden noch verdraghen</l>
+<l>Dat yemant sou den naem van hoogheyt by hem draghen?</l>
+<l>Ick sweyr by 't hemels heyr en by mijn eyghen hooft,</l>
+<l>Dat ick haer voor sal gaen eer sy mijn leuen rooft,</l>
+<l>En euen wel mijn ziel, en lieue licht ghenieten,</l>
+<l>Al sou 't gantsche rijck, iae goden self verdrieten.</l>
+</lg>
+
+</div>
+<div type="chapter">
+<pb n="8"/>
+<head rend="h3">Eerste deel <lb/>Vierde vvtcomen.</head>
+<stage><hi rend="i">Agrippina. C. Senicius. Nero. Anicetus.</hi></stage>
+
+<lg type="poem">
+<l>WEl hoe? ben ick vervloeckt? is all' mijn lijdtsaemheyt</l>
+<l>Dan oorsaeck van mijn quaet, en <hi rend="i">Neros </hi>dertelheyt?</l>
+<l>Waerom heb ick verlanght met ouergroot verlange<hi rend="i">n</hi>,</l>
+<l>Dat ick soo grousaem saet int lichaem sou ontfangen?</l>
+<l>Maer waerom hebb' ick hem doch in het rijck ghestelt,</l>
+<l>Dat hy soo schandigh toont aen my sijn boos ghewelt?</l>
+<l>Ick twijfel, en met recht, oft ick hem soon mach noemen,</l>
+<l>En oft hy hem mijn kindt rechtueerdich mach beroemen.</l>
+<l>Ick twijfel oft hem niet <hi rend="i">Charibdis </hi>heeft ghebaert,</l>
+<l>Oft <hi rend="i">Caucasus </hi>vol sneeuw, door sijnen boosen aert.</l>
+<l>Ick twijfel oft den Leeuw, die wreet is van manieren,</l>
+<l>Hem niet en heeft ghevoedt met sijne wreede Dieren.</l>
+<l>Wat twijfel ick daer aen, neen, 't is alleen mijn schult,</l>
+<l>Omdat ick soo sijn quaet verdraghe met ghedult,</l>
+<l>Die toe stae, door den last ghegheuen van de Goden,</l>
+<l>Dat ick my met ontsach doe volghen mijn gheboden.</l>
+<l>Maer seght, <hi rend="i">Senecie</hi>, hoe sprack hy dit ghebodt?</l>
+<l rend="speaker"><hi rend="i">C. Seneci.</hi></l>
+<l>Met dreyghingh van de wraeck, en straf als eenen Godt.</l>
+<l rend="speaker"><hi rend="i">Agrippina.</hi></l>
+<l>Hoe stont hem het ghesicht? scheen hy het oock te meenen?</l>
+<l rend="speaker"><hi rend="i">C. Seneci.</hi></l>
+<l>'t Hyrcansche Tygher-dier en cander gheen verleenen,</l>
+<l>Dat grouwelijcker is, al soogh het menschen bloedt.</l>
+<l rend="speaker"><hi rend="i">Agrippina.</hi></l>
+<l>Maer als ghy hem aenboodt mijn lieffelijcke groet,</l>
+<l>En camer docht u noch dat hy de ghift verachten?</l>
+<l rend="speaker"><hi rend="i">C. Seneci.</hi></l>
+<l>Neen, maer ick sach in hem veel strijden der ghedachten.</l>
+<l rend="speaker"><hi rend="i">Agrippina.</hi></l>
+<l>Werdt hy dan oock ghewaer dat ick het dé door list?</l>
+<l rend="speaker"><hi rend="i">C. Seneci.</hi></l>
+<l>Den twijfel die hy creegh die baerden all' den twist.</l>
+<l rend="speaker"><hi rend="i">Agrippina.</hi></l>
+<l>Sijn onbeschaemde hoer con sy haer tongh wel snoeren?</l>
+<l rend="speaker"><hi rend="i">C. Seneci.</hi></l>
+<l>Sy sweegh, maer haer ghesicht dé hem het hert beroeren:</l>
+<l>'T scheen dat sy met haer oogh haer meyningh dé verstaen.</l>
+<l rend="speaker"><hi rend="i">Agrippina.</hi></l>
+<l>Sy wort vermalendijt, soo sy het heeft ghedaen,</l>
+<l>Dat <hi rend="i">Agrippina </hi>moet den raet van <hi rend="i">Pallas </hi>deruen.</l>
+<l rend="speaker"><hi rend="i">C. Seneci.</hi></l>
+<l>Is sij't, wat schade waert dat yemant haer dé steruen?</l>
+<l rend="speaker"><hi rend="i">Agrippina.</hi></l>
+<l>Gheen; maer het straf ghebodt, hoe was het inder daet?</l>
+</lg>
+
+<pb n="9"/>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">C. Seneci.</hi></l>
+<l>Op mijn ghehoorsaemheyt, dat <hi rend="i">Pallas </hi>haer verlaet,</l>
+<l>Oft ick sal my, met cracht, en reden, op hem wreken.</l>
+<l rend="speaker"><hi rend="i">Agrippina.</hi></l>
+<l>De tonghe sy vervloeckt, die teghen my derf spreken:</l>
+<l>Maer voort, wat was het slodt, dat hy noch meer beual?</l>
+<l rend="speaker"><hi rend="i">C. Seneci.</hi></l>
+<l>Niet anders, dan dat hy voorsichtich wesen sal.</l>
+<l rend="speaker"><hi rend="i">Agrippina.</hi></l>
+<l>Was dat al hy sprack? hadd' hy gheen ander reden?</l>
+<l rend="speaker"><hi rend="i">C. Seneci.</hi></l>
+<l>Gheen ander, maer ick sach sijn wesen heel t'onvreden.</l>
+<l rend="speaker"><hi rend="i">Agrippina</hi>.</l>
+<l>Ach! hemels, wraecke, wraeck!</l>
+<l rend="speaker"><hi rend="i">C. Seneci.</hi></l>
+<l>Waerom, me-vrouw, de wraeck?</l>
+<l>Is <hi rend="i">Pallas </hi>meer bemint als d'eer van uwe saeck?</l>
+<l rend="speaker"><hi rend="i">Agrippina.</hi></l>
+<l>Bemint? neen hy ghewis, maer om dat ick wil wesen,</l>
+<l>Van aensien, en ghewelt, ghelijck ick was voor desen.</l>
+<l>Wie meynt dat ick ben, dat hy soo stout ontbiet,</l>
+<l>Op mijn gehoorsaamheyt, dat mijnen wil gheschiet?</l>
+<l>Recht oft my stont te doen sijn dwaesheyt en gheboden:</l>
+<l>Oft meynt hy dat hy is ghecomen van de Ghoden,</l>
+<l>Door dat een yeder hem als eenen Godt aenbidt?</l>
+<l>Neen, neen, het is door my dat hy verheuen sidt:</l>
+<l>Sijn dwase sotterny sal my gheen hoere maken.</l>
+<l rend="speaker"><hi rend="i">C. Seneci.</hi></l>
+<l>Stil, dat hy niet en denckt dat wy daer van hem spraken.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Is <hi rend="i">Pallas </hi>wt het hof, naer mijn ghebodt, ghedaen?</l>
+<l rend="speaker"><hi rend="i">Agrippina.</hi></l>
+<l>Ghedaen? neen hy Tyran, noch salder niet wtgaen,</l>
+<l>Al sou het gantsche rijck het onderst' boven keeren.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Stil moeder, 't moet soo sijn, den tijdt die salt oock leeren:</l>
+<l>Den raedt vindt het voor goet, en ick oock van ghelijck.</l>
+<l rend="speaker"><hi rend="i">Agrippina.</hi></l>
+<l>Maer wie is desen raet, die by u is in 't rijck,</l>
+<l>Dat sy haer teghen my verstouten yet te raden?</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Die tot profijt van 't rijck haer eer en goet versmaden.</l>
+<l rend="speaker"><hi rend="i">Agrippina.</hi></l>
+<l>Help Goden, wat ick hoor; wie is 't die eer versmaet?</l>
+<l>Is 't <hi rend="i">Burrus</hi>, als hy heeft daer sijnen wensch' naer staet?</l>
+<l>Oft is <hi rend="i">Seneca</hi>, die 't rijck met gelt sou coopen,</l>
+<l>Dat hy van ons besit met renten en verloopen?</l>
+<l>Voorseker 't sal ghewis den kindermeester sijn,</l>
+<l>Die weer naer <hi rend="i">Corsica </hi>sal moeten, met den schijn,</l>
+<l>Dat hy in eenicheyt Philosopy gaet soecken,</l>
+<l>En decken soo sijn quaet met 't decksel van de boecken.</l>
+<l>Wel <hi rend="i">Nero</hi>, denckt daer op dat ick de schelmen ken,</l>
+<l>En dat ick als te voor noch <hi rend="i">Agrippina </hi>ben.</l>
+<l>Die teghen alle recht u broeder hebb' benomen,</l>
+</lg>
+
+<pb n="10"/>
+
+<lg type="poem">
+<l>Daar ghy ondanckbaer, zijt soo heerlijck toeghecomen.</l>
+<l>Den dagh moet sijn vervloeckt, en d'uer vermaledijt,</l>
+<l>Dat ick u gaf het rijck, waer van ghy Heere zijt.</l>
+<l>Maer leef ick, dit berouw en sal my niet meer quellen,</l>
+<l>Dan sal den erfghenaem voor u in 't rijcke stellen,</l>
+<l>Vervloeckt sy de Fortuyn, dat sy haer hoogheyt gheeft,</l>
+<l>Die door natuer en recht gheen deel aen d'eer en heeft,</l>
+<l>En rooft die van 't gheluck die 't rijck is aengheboren,</l>
+<l>Om gheuen aen die d'eer door boosheyt heeft verloren.</l>
+<l>O goden wreeckt mijn leet, en grouwelijcke schandt.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>De gramschap doet den mensch verblinden van verstandt:</l>
+<l>Maer meest toont sy den aert in licht verstoorde vrouwen,</l>
+<l>Die haer op haer gheluck verlaten en betrouwen.</l>
+<l>Moeder doet dat ick will', want 't willen is mijn eer.</l>
+<l rend="speaker"><hi rend="i">Agrippina.</hi></l>
+<l>Onsalighen Tyran ghy terreght my noch meer?</l>
+<l>Nu sweyr ick by de cracht van all' de helsche goden</l>
+<l>Dat ick <hi rend="i">Brittanicus </hi>te croonen hebb' gheboden</l>
+<l>'T heyr is alree vergaert, om hem die is bequaem,</l>
+<l>Te stellen in het rijck, als wettich erfgenaem.</l>
+<l>Den kindermeester wijs en sal my niet ontvlieden,</l>
+<l>Noch <hi rend="i">Burrus</hi>, die soo wel mijn saecken kan verspieden.</l>
+<l>Ick trots u alle dry, doet vry naer haren raet,</l>
+<l>Besluyt al dat ghy wilt door grouwelijcken haet:</l>
+<l>Ick sal oock mijnen wil door mijnen toren volghen.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>'Tschijnt dat <hi rend="i">Alecto </hi>wreet van haer is ingheswolghen.</l>
+<l>Maer wat? moet mijn ghedult noch langer sijn gheproeft,</l>
+<l>Daer ick den raet wel weet, die dese saeck behoeft?</l>
+<l>En is haer dulheyt wreet niet grouwelijck beuonden,</l>
+<l>Doen sy heeft haren man naer <hi rend="i">Acheron </hi>ghefonden,</l>
+<l>En dat, om dat haer saet sou hebben heerschappy,</l>
+<l>Daer sy soo seer naer dorst, vol pracht en hoouerdy?</l>
+<l>Den thoren heeft meer cracht als d'eersucht in ons sinnen;</l>
+<l>Nochtans can d'eersucht wel den thoren overwinnen.</l>
+<l><hi rend="i">Brittanicus </hi>den Prins wort veerthien iaren out,</l>
+<l>En voor den staet van 't rijck in 't spreken al te stout:</l>
+<l>Ia vreest hem niet voor my al spelende te singhen,</l>
+<l>Dat ick hem 't rijck ontroof, en dat ick hem wil dwinghen:</l>
+<l>Dees woorden met het gheen dat mijne moeder tracht,</l>
+<l>Sou lichtelijcken doen verliefen mijne macht,</l>
+</lg>
+
+<pb n="11"/>
+
+<lg type="poem">
+<l>'Ten waer dat sijne doodt haer dé haer hope deruen.</l>
+<l>Gaet henen ghy terstont, en doet den ionghen steruen:</l>
+<l>De ruste van het rijck vereyst het, daerom gaet.</l>
+<l rend="speaker"><hi rend="i">Anicetus.</hi></l>
+<l>Den Keyserlijcken wil geschiede met der daet.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Den Hemel die en can maer eenen <hi rend="i">Phoebus </hi>draghen:</l>
+<l>Dat bleeck als <hi rend="i">Phaeton </hi>wou sitten op den waghen:</l>
+<l>Hoe sou dan 't roomsche rijck, dat niet en is soo groot,</l>
+<l>Verdraghen dat daer meer sou wesen als een hoot?</l>
+<l>Neen, ick moet sijn alleen, alleen moet ick ghebieden,</l>
+<l>En dat ick wil dat sal naer mijnen wil geschieden.</l>
+<l>Den AL sal eer vergaen, met al het aertsche cruyt,</l>
+<l>Eer ick verand'ren wil, van dat ick eens besluyt,</l>
+<l><hi rend="i">Euphrates</hi> sal veel eer de berghen teghen loopen,</l>
+<l>En <hi rend="i">Ianus</hi> weder sien de iaren langh verloopen,</l>
+<l>Eer ick om yemants wil herroepen sal den last,</l>
+<l>Die <hi rend="i">Anicetus </hi>is voorsichtelijck belast.</l>
+<l>De rust sal ick voor 't rijck door mijn ghewelt versorghen,</l>
+<l>Al sou ick 't halue rijck doen dooden en verworghen.</l>
+</lg>
+<stage><hi rend="i">De doodt van Brittanicus in vertooninghe.</hi></stage>
+<div type="section">
+<head rend="h4">Choor.</head>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Tyber.</hi></l>
+<l>Nv laet ons droeffelijck beweenen,</l>
+<l>Dat ons den hemel wilt verleenen;</l>
+<l>En laet ons claghen ons verdriet,</l>
+<l>Met d'ouerlast dat ons geschiet.</l>
+<l rend="speaker"><hi rend="i">Roma.</hi></l>
+<l>Och, <hi rend="i">Tyber</hi>, laet my droeuich claghen,</l>
+<l>Die alleen moet de lasten draghen:</l>
+<l>Ghy sijt geluckigh, want ghy vloyt</l>
+<l>Door mijn verdriet, dat in my groyt.</l>
+<l rend="speaker"><hi rend="i">Tyber.</hi></l>
+<l>O Goden! wat moet ick al hooren?</l>
+<l>Maer wat comt <hi rend="i">Tyber </hi>al te vooren?</l>
+<l>Daer ick al sien, dat mijnen vloet</l>
+<l>Verandert is in menschen bloet.</l>
+<l rend="speaker"><hi rend="i">Roma.</hi></l>
+<l>Ey laet toch al dit claghen blijuen</l>
+</lg>
+
+<pb n="12"/>
+
+<lg type="poem">
+<l>Maer laet my alleen rouw bedrijuen:</l>
+<l>Laet my beweenen mijn ellendt,</l>
+<l>Die my den Hemel ouersendt.</l>
+<l rend="speaker"><hi rend="i">Tyber.</hi></l>
+<l>De droefheyt, die ick u sien lijden,</l>
+<l>Doet dat ick niet en can verblijden:</l>
+<l>Den rechten vriendt bedroeft, te sien,</l>
+<l>Als hy den vriendt siet leet geschien.</l>
+<l rend="speaker"><hi rend="i">Roma.</hi></l>
+<l>See vol gheluck plagh ick te wesen,</l>
+<l>En niemant neffen my ghepresen:</l>
+<l>Maer nu, helaes, wort mijn gheluck</l>
+<l>Verandert in verdriet, en druck.</l>
+<l rend="speaker"><hi rend="i">Tyber.</hi></l>
+<l>All' u verdriet moet ick oock voelen</l>
+<l>Door dat ick moet u voeten spoelen:</l>
+<l>Lijdt ghy verdriet, ick krijg mijn deel;</l>
+<l>Wy maken t'samen 't droef tonneel.</l>
+<l rend="speaker"><hi rend="i">Roma.</hi></l>
+<l><hi rend="i">Euripides </hi>tonneel voorhenen</l>
+<l>En heeft soo grouw'lijck noyt geschenen,</l>
+<l>Wanneer het <hi rend="i">Iphigenia</hi></l>
+<l>Bebloede, door sijn onghena.</l>
+<l rend="speaker"><hi rend="i">Tyber.</hi></l>
+<l>Nu <hi rend="i">Roma</hi>, lijdt den wil der Goden,</l>
+<l>Denckt dat ons dat soo is gheboden:</l>
+<l>Die willigh draeght den teghenspoet,</l>
+<l>Die valt het ongheluck heel soet.</l>
+<l rend="speaker"><hi rend="i">Roma.</hi></l>
+<l>Och <hi rend="i">Tyber, </hi>moet ick 't dan ghedooghen,</l>
+<l>En sien dees wreetheyt voor mijn ooghen?</l>
+<l><hi rend="i">Brittanicus </hi>die dooden sy,</l>
+<l>En all' dees moorden wijt men my.</l>
+<l rend="speaker"><hi rend="i">Tyber.</hi></l>
+<l>Niet; maer de ghene die t'bedrijuen.</l>
+<l>Lijdt ghy, en wilt volstandigh blijuen:</l>
+<l>Draeght met ghedult, ghy moet noch sien,</l>
+<l>Meer wreetheyt die nog sal gheschien.</l>
+<l rend="speaker"><hi rend="i">Roma.</hi></l>
+<l>O Goden! wilt my dan verstercken,</l>
+<l>Moet ick noch sien soo wreede wercken:</l>
+<l>Den besten raet is dan ghedult;</l>
+<l>Plaeght ons, ons quaet, het is ons schult.</l>
+</lg>
+
+<pb n="13"/>
+<p>PAVSA.</p>
+</div>
+</div>
+<div type="chapter">
+<head rend="h2">Tvveede deel.</head>
+<head rend="h3">Eerste vvtcomen.</head>
+<stage><hi rend="i">Nero, Seneca.</hi></stage>
+
+<lg type="poem">
+<l>Maer seght my <hi rend="i">Seneca, </hi>wie isser die daer leeft,</l>
+<l>Die d'eer verliesingh vreest, en d'oude deugt noch heeft?</l>
+<l rend="speaker"><hi rend="i">Seneca</hi>.</l>
+<l>Die door bermherticheyt de vreese can verwinnen,</l>
+<l>En door de reden laet gheleyden sijne sinnen.</l>
+<l>De deught heeft meerder cracht dan 't ijser dat ghy draeght;</l>
+<l>Want die rechtueerderich is, heeft alle vrees' veriaeght.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Dat is al sotterny; de vrees' verwint de reden.</l>
+<l rend="speaker"><hi rend="i">Seneca.</hi></l>
+<l>Niet; maer sy baert de deught, en die stelt ons te vreden.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Ghenomen sy baert deught, vergaet de vreese dan?</l>
+<l rend="speaker"><hi rend="i">Seneca.</hi></l>
+<l>Ia sy, door dat de deught de vreese dwinghen can,</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>De vreese dede my <hi rend="i">Brittanicus </hi>verworghen.</l>
+<l rend="speaker"><hi rend="i">Seneca.</hi></l>
+<l>Soo leyt dan uwe deught door vreese gantsch verborghen.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>'T is eere voor het rijck, dat <hi rend="i">Caesar </hi>wort ghevreest.</l>
+<l rend="speaker"><hi rend="i">Seneca.</hi></l>
+<l>'T is waer, maer 't waer meer eer, waer het door deught gheweest.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Wie voeghet min als my te vreesen voor het leuen?</l>
+<l rend="speaker"><hi rend="i">Seneca.</hi></l>
+<l>Aan niemant, maer noch min daer oorsaeck toegheuen.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Maer als men siet, de daet, diemen door vreese wacht?</l>
+<l rend="speaker"><hi rend="i">Seneca.</hi></l>
+<l>Dan is de vrees' vergaen wt ons bevreest ghedacht.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>In my is sy verweckt, want ik sien mijn bederuen,</l>
+<l>Soo ick niet voor en gaen mijn moeder te doen steruen.</l>
+<l>Al dat sy roept, is wraeck, sindt dat sy heeft verhoort,</l>
+<l>Dat ick door mijn ghebodt den Ionghen heb vermoort.</l>
+<l>Haer Goddelijcke spijs sal sy te wercke stellen,</l>
+<l>Waer med' sy <hi rend="i">Claudius </hi>ghefonden heeft ter hellen,</l>
+<l>Soo ick haer gheef den tijd, die haer te langh verdriet.</l>
+<l>Ach hemels! moet ick sien dat my ghewelt gheschiet?</l>
+<l>En dat ick van een vrou ghedwonghen word' te wreken,</l>
+<l>Die my, en mijnen staer, heeft doruen teghen spreken?</l>
+<l>Haer stellen teghen my? ha dwaesheyt van een vrouw!</l>
+<l>Ick sien, ick sien, haer doodt, eer dat sy crijght berouw.</l>
+</lg>
+
+<pb n="14"/>
+
+<lg type="poem">
+<l>Haer stellen teghen my? my, die sy moest verblijden?</l>
+<l>'T is recht, als of sy woud' den hemel gaen bestrijden.</l>
+<l>Den blicxem, en het vier rooft sy, <hi rend="i">Iupijn, </hi>veel eer,</l>
+<l>Dan my het Roomsche rijck, dat <hi rend="i">Nero </hi>kent voor Heer.</l>
+<l rend="speaker"><hi rend="i">Seneca.</hi></l>
+<l>Haer eyghen hoouerdy sal haer, haer, straf verleenen.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Haer eyghen hoouerdy sal sy met leedt beweenen.</l>
+<l>'T waer schade voor het rijck, dat daer in wies den haet.</l>
+<l>Ghy siet se dwinght my self te te straffen haer verraet,</l>
+<l>Dat onse vrientschap breckt, door noot, door recht en wetten.</l>
+<l>Daerom moet mijne straf all' haer verraet beletten:</l>
+<l>'T is beter sonder vrees' als deughdelijck vernaemt.</l>
+<l rend="speaker"><hi rend="i">Seneca.</hi></l>
+<l>Siet dat de quade faem u niet te laet beschaemt.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>De princen sijn door 't rijck gheen kinders, maer eer goden.</l>
+<l>Wie sal dan doruen eens berispen mijn gheboden?</l>
+<l>Maer als ick my bedenck, seght, <hi rend="i">Burrus</hi>, dat ick wil</l>
+<l>Dat hy den staet verlaet, en stracx hem houde stil.</l>
+<l>De Vorsten, die het rijck wel seker willen bouwen,</l>
+<l>En moghen gheenen staet aen yemant langh betrouwen:</l>
+<l>Want suyghen sy haer satt' aen haer ghewenst gheluck,</l>
+<l>Soo vallen sy daer naer seer licht in ongheluck:</l>
+<l>Recht als veel dronckaerts doen, die niet en worden droncken,</l>
+<l>Soo langh haer <hi rend="i">Bacchus </hi>wort met ouervloedt gheschoncken,</l>
+<l>Voor dat sy in de locht seer vol ghedroncken gaen;</l>
+<l>Dan vallen sy daer neer, en connen niet ghestaen:</l>
+<l>Dat ick van hem ghevoel, weet ick door 't ondervinden.</l>
+<l rend="speaker"><hi rend="i">Seneca.</hi></l>
+<l>D'ondanckbaerheyt is quaet, by eerelijcke vrienden.</l>
+<l>Hoe <hi rend="i">Caesar </hi>'t schijnt den haet verwint u ghansch ghemoet:</l>
+<l>Neen, neen, bedwinght u self, om die u valt te voet:</l>
+<l>Denckt om u oude deught, en op mijn onderwijsen.</l>
+<l>Waer door men u in 't rijck van yeder hoorde prijsen.</l>
+<l>Denckt, <hi rend="i">Caesar, </hi>bidd' ick, denckt op u saechtmoedicheyt,</l>
+<l>Die tot den Hemel hoogh, met lof was verbreyt.</l>
+<l>Hoe langh is 't dat ghy liet (recht soo ghy waert verheuen)</l>
+<l>Het rond' woort aen de wacht, seer goede moeder geuen?</l>
+<l>Hoe langh is 't dat ghy swoert dat ghy wout in dit rijck</l>
+<l>Soo heerschen, dat ghy sout Augusto sijn ghelijck?</l>
+<l>Hoe lang is 't, ô niet langh, doen ghy twee hadt verwesen,</l>
+<l>Dat ghy beclaeghe dat ghy schrijuen cost, en leven?</l>
+<l>Wat ghaeft ghy aen 't <hi rend="i">Seneci </hi>voor antwoort na haer groet,</l>
+</lg>
+
+<pb n="15"/>
+
+<lg type="poem">
+<l>Wast niet, als ick dat hebb' verdient, met woorden goet.</l>
+<l>Hoe wilt ghy dan u eer, aen ydel dwaesheyt hanghen,</l>
+<l>En uwen trouwsten vriendt benemen sijn verlanghen,</l>
+<l>Die al sijn eere vindt in uwen dienst te doen?</l>
+<l>Weet ghy niet dat den haet crijgt voetsel van 't vermoen?</l>
+<l>Bandt <hi rend="i">Paris </hi>wt het rijck, hy voordert u verderuen.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Is sijn beclaghingh vals, soo sal den booswicht steruen.</l>
+<l>Staet op, om uwen 't wil, blijft <hi rend="i">Burrus </hi>in 't beuel:</l>
+<l>Maer neemt ghy aen de saeck, en ondersoeckt die wel.</l>
+<l>En ghy, seght <hi rend="i">Burrus </hi>aen, dat hy my stracx comt spreken.</l>
+<l>En dat ick hem vergheef, de schult van sijn ghebreken.</l>
+<l>Dan, als ick my bedenck', hoe <hi rend="i">Paris </hi>quam te nacht,</l>
+<l>Verschrickelijck beroert in sijn bevreest ghedacht,</l>
+<l>Soo dunckt my dat ick hoor, hoe sy haer heeft versworen,</l>
+<l>En teghen my, en 't rijck, verradery vercoren.</l>
+<l>Ick weet, en ken haer schult, sy snackt naer mijne doodt;</l>
+<l>Haer hert is, voor een vrou, te boos, te wreet, te groot.</l>
+<l>Ia niet dan moort, en bloet, daerom sal sy het drincken,</l>
+<l>En daer se meest na haeckt daer sal sy in versincken.</l>
+<l>Ghy Goden, die met cracht cont rechten onse saeck,</l>
+<l>Wreeckt die om wraecke roept, door cracht van uwe wraeck.</l>
+<l>Oft laet ghy my 't ghewelt om seluer wt te voeren;</l>
+<l>Soo sal ick wraecke doen, al sou ick 't rijck beroeren.</l>
+<l rend="speaker"><hi rend="i">Seneca.</hi></l>
+<l>'T is rechte tiranny, dat door ghewelt gheschiet.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>'T ghewelt betaemt den gheen, die ouer veel ghebiet:</l>
+<l>'T is eerlijck voor het hooft, dat hem ontsien de leden.</l>
+<l rend="speaker"><hi rend="i">Burrus</hi>.</l>
+<l>In <hi rend="i">Caesar </hi>sy den vré, door goddelijcke reden.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>De gramschap is door haer versonden wt mijn hert.</l>
+<l rend="speaker"><hi rend="i">Burrus</hi>.</l>
+<l>Die, bidd' ick, dat sy veel en meerder in u wert.</l>
+<l>Op dat sy uwe ziel met hare cracht bestralen.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>De cracht van hare deught heeft u tot hier doen halen,</l>
+<l>Door dat ick voor my heb te doen het swaerste stuck,</l>
+<l>Waer aen ick waegh het rijck, mijn eer, en mijn gheluck.</l>
+<l>'T gheluck van eenen Vorst hanght aen het wel beraden,</l>
+<l>En dat hy door verstant can teghenspoet versmaden.</l>
+<l>Dit segh ick, om dat ick besloten heb by my</l>
+<l>De vreese wegh te doen, door macht van heerschappy.</l>
+<l>De Hemels, locht en aerd' ,sijn vol van mijn getuyghen,</l>
+<l>Dat haer hooueerdigh hert eer breken sou, als buyghen.</l>
+</lg>
+
+<pb n="16"/>
+
+<lg type="poem">
+<l>Haer wreetheyt ick geuoel, vermenghelt met den haet,</l>
+<l>Waer mede sy bereyt haer grouwelijck verraet.</l>
+<l><hi rend="i">Paris </hi>heeft my vermaent, dat ick my wel moet wachten,</l>
+<l>Indien ick wil ontgaen het net van haer ghedachten.</l>
+<l>Ghy siet dat hy die speelt en siet gheen ouders aen:</l>
+<l>Maer soeckt met alle list sijn voordeel gae te slaen.</l>
+<l>Den noodt, die wetten breckt, can alle voordeel geuen.,</l>
+<l rend="speaker"><hi rend="i">Burrus</hi>.</l>
+<l>Noch beter can de deught ons heerelijck doen leuen.</l>
+<l>Ach hemels? wat ick hoor! wat seght ghy <hi rend="i">Seneca</hi>?</l>
+<l>Verwillight ghy den raet, die ick met leet verstae?</l>
+<l>Verwillight ghy, dat 't kint de moeder sal doen steruen,</l>
+<l>Om dat hy door dees daet sou winnen sijn verderuen?</l>
+<l>Neen <hi rend="i">Caesar</hi>, desen raet is veel te ras bedacht,</l>
+<l>Stelt doch de saeck in ons, of gheeft aen my de macht.</l>
+<l>Ick sweyr by 't hooghe licht, en cracht van all' de Goden,</l>
+<l>Dat, soo hy heeft misdaen, teghen des rijcx gheboden,</l>
+<l>Of teghen uwen staet, dat hy tot hare straf,</l>
+<l>Eer <hi rend="i">Phoebus </hi>onder gaet, sal ligghen in het graf.</l>
+<l>De wetten gheuen tijdt, om saken te verweyren;</l>
+<l>En die beclaghen wilt, moet dat met eedt besweyren.</l>
+<l>Hoe sou dees groote saeck dan oock niet sijn verhoort,</l>
+<l>Te meer sy moeder is, die meerder eer behoort?</l>
+<l>Neen <hi rend="i">Caesar</hi>, u ghemoet laet dat met reden dwinghen:</l>
+<l>Let op d'omstandicheyt, den noodt en ander dinghen.</l>
+<l>Waer sijnse, die, claght u hebben aenghedaen?</l>
+<l>Dat sy, naer 't roomsch ghebruyck, by haer beclaghingh staen.</l>
+<l>Wie meer als <hi rend="i">Paris </hi>toch heft dese clacht begonnen?</l>
+<l>En wie is om sijn quaet meer in het recht verwonnen?</l>
+<l>Wanneer is desen raet bedacht, en ouerleyt,</l>
+<l>Dan 's nachts, en als ghy aet, als ons den lust verleyt?</l>
+<l>Neen <hi rend="i">Caesar</hi>, desen raet sal u voorseker maken,</l>
+<l>Dat ghy naer dwaesheyt rieckt, en naer gheen ander saken.</l>
+<l>Wie is daer, die den naem met recht van <hi rend="i">Caesar </hi>heeft,</l>
+<l>Dan uwe moghentheyt, die door den voorspoet leeft?</l>
+<l>Wie can sy beter 't rijck, dan haren soon, beuelen?</l>
+<l>'K laet staen, dat sy hem dat soo schandigh af sou stelen.</l>
+<l>Vergheeft my, grooten Vorst, verstout ick mijn natuer,</l>
+<l>Dat ick mijn woorden spreeck, door yuer wat te stuer,</l>
+<l>'T is om dat sijn ghemoet sijn trouw'heyt moet bewijsen.</l>
+</lg>
+
+<pb n="17"/>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>De reden is het stael, en snijdich sweert der wijsen.</l>
+<l>Wel aen, gaet beyd'by haer, en ondersoeckt haer wel;</l>
+<l>Maer dat sy niet en merckt den list van mijn beuel.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Tvveede deel <lb/>Tvveede vvtcomen.</head>
+<stage><hi rend="i">Octauia. Ecloge Voester.</hi></stage>
+
+<lg type="poem">
+<l>HOe is mijn hert verschrikt, door droefheyt en verdriet?</l>
+<l>O Goden! wat ellend' dat dese vrouw geschiet!</l>
+<l>O grouwelijck gheluck, waer door ick schijn verheuen</l>
+<l>Die my den <hi rend="i">vvreeden</hi> voor <hi rend="i">Sillanus </hi>hebt ghegeuen.</l>
+<l>Ach doodelijck min! wegh vreught vermenght met druck:</l>
+<l>Wegh schoonheyt, vol bedrogh, verdriet en ongheluck.</l>
+<l>Vervloeckten hooghen staet, waerdoor dat wy bederuen,</l>
+<l>Soo haest d'oprechte deught in ons beghint de steruen.</l>
+<l>Ach aenghenamen tijdt van lieffelijcke ieught,</l>
+<l>Waer in wy door natuer beminnen alle vreught.</l>
+<l>Wat hadd'ick doch ghedaen, doen ick door u sou groyen,</l>
+<l>Dat ghy den wasdom quamt met vriende bloet besproyen?</l>
+<l>O hemels al te wreet, is al der Goden raet</l>
+<l>Alleen op my verstoort met doodelijcken haet?</l>
+<l>Heeft een onnoosel vrouw' verdient soo sware slaghen,</l>
+<l>Dat ghy haer soo veel leedt op eenen dagh doet draghen?</l>
+<l>Moet haer bedroefde ziel noch proeuen meer ellendt,</l>
+<l>Door dat haer suyuer bedd' soo schandigh wort geschent?</l>
+<l>Moet sy <hi rend="i">Actea </hi>sien oncuyschelijck ontstelen,</l>
+<l>Dat haer natuer, en wett' door trouwe dé beuelen?</l>
+<l>Moet sy <hi rend="i">Poppea </hi>sien gebruycken haren lust,</l>
+<l>En dat sy haer tot spijt in <hi rend="i">Neros </hi>armen rust?</l>
+<l>Ach grouwelijck verdriet? hoe comt ghy ons bestrijden?</l>
+<l>Siet mijne swackheyt aen, die 't niet en can ghelijden:</l>
+<l>Denckt, dat mijn groot ghedult ten eynde wert ghebracht,</l>
+<l>Om dat mijn broeder is verwonnen door u cracht.</l>
+<l>Och lieven Ionghelinck, onnoosel wel met reden,</l>
+<l>Hoe is u simpel ieught, met uwe teere leden,</l>
+<l>Verslonden door de doodt, eer dat ghy vruchtbaer waert,</l>
+<l>Om datmen sach u deught, en aenghenamen aert?</l>
+</lg>
+
+<pb n="18"/>
+
+<lg type="poem">
+<l>Wie heeft het ongheluck met cracht en soo beseten?</l>
+<l>Wie heeft de vreught van rust door onrust soo vergheten,</l>
+<l>Dan dees <hi rend="i">Octauia</hi>, die niet, als door de doodt,</l>
+<l>Ontgaen en can 't ghewelt van haer ellende groot.</l>
+<l rend="speaker"><hi rend="i">Ecl. Voest.</hi></l>
+<l>Helaes bedroefde vrouw! u droefheyt doet my weenen.</l>
+<l rend="speaker"><hi rend="i">Octauia</hi>.</l>
+<l>O Goden wilt ons doch all' u ghedult verleenen.</l>
+<l rend="speaker"><hi rend="i">Ecl. Voest.</hi></l>
+<l>De lijdtsaemheyt verwint, verdraeght daerom het leet.</l>
+<l rend="speaker"><hi rend="i">Octauia</hi>.</l>
+<l>De vrees' van ongheluck maeckt my den schrick bereet:</l>
+<l>Ick ken mijn swacke cracht; ô Goden! wilt my stercken.</l>
+<l rend="speaker"><hi rend="i">Ecl. Voest.</hi></l>
+<l>Stelt uwe saeck in haer, sy geuen loon naer wercken:</l>
+<l>Maer veyst doch u verdriet met lieffelijck onthael.</l>
+<l rend="speaker"><hi rend="i">Octauia</hi>.</l>
+<l>Aen wie?</l>
+<l rend="speaker"><hi rend="i">Ecl. Voest.</hi></l>
+<l>Aen uwen man.</l>
+<l rend="speaker"><hi rend="i">Octauia</hi>.</l>
+<l>Veysen, och dit verhael</l>
+<l>Doet my het bloedt van 't lijf tot in mijn ooghen comen.</l>
+<l>Neen, veel eer sal de zee <hi rend="i">Neptuno </hi>sijn benomen,</l>
+<l>En met den Hemel weer vermenghen als te voor,</l>
+<l>Eer dat ick hem noch eens tot mijnen lust vercoor.</l>
+<l>'T vier sal door sijnen brandt het water eer verdrooghen,</l>
+<l>Of menghen onder een, eer dat ick sal ghedoogen,</l>
+<l>Dat sijn vervloeckte lipp' sal roeren mijnen mont,</l>
+<l>Die eeuwigh claghen moet hoe hy mijn ziele wondt.</l>
+<l>'T licht met de duysternis die sullen eer vereenen,</l>
+<l>En door natuer, en tijdt, noch dagh, noch nacht verleenen;</l>
+<l>De hemels, hell', en aerd', vermenghen eer; eer 't hert</l>
+<l>Vereenight met den gheen', die my doet dese smert.</l>
+<l>'T hert, segh ick, daer de doodt is leuend' in gheschreuen:</l>
+<l>Die mijnen wreeden man mijn broeder heeft ghegheuen.</l>
+<l>O <hi rend="i">Iupiter</hi>, verslindt, met u verslindigh vier,</l>
+<l>Het wreet, en grouwsaem hooft, van dit vervloeckte dier.</l>
+<l>Brandt sijnen dullen brandt met meer wtsinnich rasen,</l>
+<l>Soo mach hy self het vier van sijne wraecke blasen.</l>
+<l rend="speaker"><hi rend="i">Ecl. Voest.</hi></l>
+<l>Fortuna doet het al, die doet al dat sy wilt.</l>
+<l rend="speaker"><hi rend="i">Octauia</hi>.</l>
+<l>Doet sy 't, soo weckt sy 't quaet, dat van de deught verschilt:</l>
+<l>Maer neen, den Goden haet vervult ons huys met schaden,</l>
+<l rend="speaker"><hi rend="i">Ecl. Voest.</hi></l>
+<l>Sy connen 't weer met vreught als 'thaer belieft versaden.</l>
+<l rend="speaker"><hi rend="i">Octauia</hi>.</l>
+<l>'T is waer, als 't haer belieft: maer 't schijnt dat haren raet</l>
+<l><hi rend="i">Idalia </hi>belast te wecken all' dit quaet.</l>
+<l>Die door haer schandigh vier mijn moeder heeft doen quellen:</l>
+</lg>
+
+<pb n="19"/>
+
+<lg type="poem">
+<l>Waerom dat hare ziel ghesonden is ter hellen.</l>
+<l>'T scheen dat ick <hi rend="i">Iuno </hi>was, herboren op der aerd',</l>
+<l>Om dat ick was vol eer Augustelijck ghebaert,</l>
+<l>En huysvrouw van de gheen, die ick moet broeder noemen,</l>
+<l>Dat gheenen mensch by my op aerdtrijck en mach roemen:</l>
+<l>Maer al den schoonen schijn vertoont nu sijn bedrogh.</l>
+<l>'T is waer ick ben de vrouw van mijnen broeder noch:</l>
+<l>Maer <hi rend="i">Iuno </hi>niet ghelijck, die noyt en was ghebannen,</l>
+<l>Door schandelijcken lust, en boosheyt der tyrannen:</l>
+<l>Maer ben veel eer ontschaeckt, ghelijck <hi rend="i">Proserpina;</hi></l>
+<l>Want ick sien hel' als sy, waer dat ick gaen oft stae.</l>
+<l rend="speaker"><hi rend="i">Ecl. Voest.</hi></l>
+<l>Ey stil, bedroefde vrouw, waerom all' dese clachten?</l>
+<l>V droefheyt roert mijn hert, en alle mijn ghedachten.</l>
+<l>Ghy quetst mijn teere ziel, die oock u droefheyt lijdt,</l>
+<l>Die sonder uwe vreught in gheenen lust verblijdt.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Tvveede deel <lb/>Derde vvtcomen.</head>
+<stage><hi rend="i">Nero. Seneca. Burrus Afranius.</hi></stage>
+
+<lg type="poem">
+<l>HOe is de saeck vergaen, die ghy moest ondersoecken?</l>
+<l rend="speaker"><hi rend="i">Seneca.</hi></l>
+<l>'K en was noyt meer verschrickt, als van haer grouwsaem vloecken;</l>
+<l>'T scheen dat in haren mont de helsche wreetheyt lach.</l>
+<l rend="speaker"><hi rend="i">Burrus.</hi></l>
+<l>M'en docht niet dat ick haer, maer een <hi rend="i">Megaera </hi>sach,</l>
+<l>Soo quam wt haer ghesicht, door gramschap, 't vier ghesprongen.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>De vrouwen draghen 't hert op haer vergramde tonghen.</l>
+<l>Dan 't vloecken is al wint. Wat is van hare daet?</l>
+<l rend="speaker"><hi rend="i">Seneca.</hi></l>
+<l>Haer onschult was seer groot, maer met verwoeden haet.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>'T verraet is 't niet by haer, en teghen my ghesworen?</l>
+<l rend="speaker"><hi rend="i">Burrus.</hi></l>
+<l>Sy heeft het vals bethoont, en <hi rend="i">Paris </hi>'t lijf verloren.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Heeft sy dan haer verraet met haren list bedeckt,</l>
+<l rend="speaker"><hi rend="i">Seneca.</hi></l>
+<l>Neen, maer 't verraet was vals dat <hi rend="i">Paris </hi>hadd' verweckt,</l>
+<l>Want hy en con sijn claght met waerheyt niet bethoonen.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Te meer en can sy dat met waerheyt niet verschoonen.</l>
+<l>Ick seluer ben den thoon; haer gramschap heeft voor my</l>
+<l>Met onuerdult ghetoont all' haer verradery.</l>
+<l>Mijn eere soeckt haer doodt, daeromme sal sy steruen,</l>
+<l>Want al daer sy naer tracht, dat is naer mijn bederuen.</l>
+</lg>
+
+<pb n="20"/>
+
+<lg type="poem">
+<l>Eens is sy straf ontgaen, maer voor de tweede mael,</l>
+<l>Voorseker ick haer doodt, ghelijck ick die verhael.</l>
+<l>Den last hebb' ick daer van doen <hi rend="i">Aniceto </hi>geuen,</l>
+<l>Om dat hy door sijn sweert haer nemen sou het leuen.</l>
+<l>D'onsekerheyt van 't schip, tot 'tdecksel van den list,</l>
+<l>Was voor soo groote saeck te schandelijck ghemist.</l>
+<l>Haer daedt vereyscht de doodt, men hoeft die niet te decken,</l>
+<l>Noch oock naer het ghebruyck voor rechters te betrecken.</l>
+<l>'Tgaet <hi rend="i">Caesars </hi>leuen aen, hy segh ick: moet alleen</l>
+<l>De straf daer ouer doen voor hem en voor 't ghemeen.</l>
+<l>Wat seght ghy van de saeck? ghy siet het moet toch wesen;</l>
+<l>Daer d'eere staet in vrees', daer wort ghewelt ghepresen.</l>
+<l>Spreeckt op, hoe staet ghy soo? 't schijnt dat ghy sijt verbaest:</l>
+<l>Oft meynt ghy dat den haet door <hi rend="i">Neros </hi>tonghe raest?</l>
+<l>Neen, 't is tot rust van 't rijck, 't moet sijn, oft wy alt'samen</l>
+<l>Sien ick eer morghen doodt, oft tot ons leet beschamen.</l>
+<l>De saecken sijn verwert, en met haer in verschil:</l>
+<l>De vreese, die ick hadd', leydt onder mijnen wil:</l>
+<l>Wilt daerom oock den wil, die ick wel hebb' besloten,</l>
+<l>Want mijnen wil en heeft noyt mijne ghemoet verdroten.</l>
+<l>Spreeckt, segh ick, oft het schijnt dat ghy met <hi rend="i">Nero </hi>spot.</l>
+<l rend="speaker"><hi rend="i">Seneca.</hi></l>
+<l>'T ghewelt van uwen wil doet willen u ghebodt:</l>
+<l>Den slagh sien ick alree onmoghelijck om keeren.</l>
+<l rend="speaker"><hi rend="i">Burrus</hi>.</l>
+<l>De grootste vreese treft aen d'aldergrootste Heeren:</l>
+<l>Want die ghevreest wilt sijn bestrijdt de vreese meest.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>T'en is gheen vrees', maer noodt, die door nature vreest.</l>
+<l rend="speaker"><hi rend="i">Burrus</hi>.</l>
+<l>Nochtans de vreese doet my ongheluck vermanen,</l>
+<l>Door dat liet gansch ghewelt van de <hi rend="i">Praetorianen</hi></l>
+<l><hi rend="i">Germanicus </hi>gheslacht, eerbiedigh, soo bemint,</l>
+<l>Dat sijn ghedacht alleen haer herten aen hem bindt:</l>
+<l>Sy vrees' ick sullen 't leet van sijne dochter wreken.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>De vreese sal haer wel beletten wat te spreken.</l>
+<l>'Tis <hi rend="i">Caesar </hi>self die 't doet, de meeste van 't geslacht.</l>
+<l rend="speaker"><hi rend="i">Burrus</hi>.</l>
+<l>De grootheyt van de saeck beroert my mijn ghedacht;</l>
+<l>Dan 'tis te laet met raet als't stuck is voorghenomen.</l>
+<l>'t Staet <hi rend="i">Aniceto </hi>toe sijn woorden naer te comen.</l>
+</lg>
+
+</div>
+<div type="chapter">
+<pb n="21"/>
+<head rend="h3">Tvveede deel <lb/>Vierde vvtcomen.</head>
+<p><hi rend="i">Anicetus. Agrippina.</hi></p>
+
+<lg type="poem">
+<l>ME-vrouwe met ghedult verdraeght den teghenspoet.</l>
+<l>Ha bloedthondt, die soo dorst naer mijn onnoosel bloedt;</l>
+<l>Versaedt vry uwen lust, 'ten bidd' u niet te toeuen:</l>
+<l>Maer laet my vry den dranck van <hi rend="i">Neros </hi>wreetheyt proeuen.</l>
+<l>Vermalendijden soon, is dit all' mijnen danck,</l>
+<l>Om dat ick u het rijck voor uwen broeder schank.</l>
+<l>Wel aen wy sullen dan, u bloedich hert versaden?</l>
+<l>Flocx, treckt de sweerden wt, om in mijn bloedt te baden:</l>
+<l>Daer is den snooden buyck, die <hi rend="i">Nero </hi>heeft ghebaert:</l>
+<l>Steeckt daer de sweerden in, hy is te langh ghespaert,</l>
+<l>Laet hem de rechte straf van sijne misdaet draghen,</l>
+<l>Om dat hy tot ons schande dit monster heeft ghedraghen.</l>
+<l>Suyght <hi rend="i">Tyghers</hi>, suyght vry bloedt, scheurt dit onsaligh' lijf</l>
+<l>Met tanden, vry van een van dit vervloeckte wijf.</l>
+<l>En draeght hem 't inghewant, soo mach hy hem verblyden,</l>
+<l>Dat hy het deel mach sien, dat hem droegh in sijn voortijden.</l>
+<l>Wat wacht ghy wreeden Leeuw? oft schept ghy uwen lust,</l>
+<l>Dat mijne doodt vertoeft, die my maeckt ongherust?</l>
+<l>Hoe vreest ghy mijne doodt? moet ick u dan verrassen,</l>
+<l>Om in mijn eyghen bloedt dees handen self te wassen?</l>
+<l>Neen, helschen moorder moort, wat moorden ghy besluyt,</l>
+<l>'T sal mijne ruste sijn, drijft maer de ziel hier wt.</l>
+<l>Versekert sijn ghewelt, door 'tgrouwelijck vergieten</l>
+<l>Van mijn onsaligh' bloedt, dat wraecke sal ghenieten.</l>
+<l>De vrees' en heeft gheen cracht, den wil maeckt my ghereet,</l>
+<l>Den schepter ick vervloeck, en prijs u sweerden wreet.</l>
+<l>Snijdt flockx den snooden buyck vermalendijt in stucken,</l>
+<l>Soo doet ghy siel, en lijf, den grooten wensch ghelucken.</l>
+<l rend="speaker"><hi rend="i">Anicetu</hi>s.</l>
+<l>Wel mannen, tast haer aen, en doet dat sy begheert.</l>
+<l rend="speaker"><hi rend="i">Agrippina</hi>.</l>
+<l>'Tsa voort, mijn groot ghemoet en heeft hem noyt verueert.</l>
+<l>Steeckt, snijdt, scheurt, ruckt van een mijn lichaem, is ten besten:</l>
+<l>Drijft daer de sweerden door, tot aen haer handt ghevesten,</l>
+<l>Soo, dout vry door den buyck: soo voelt hy eerst den straf</l>
+<l>Daer ick tot wraeck (ayme) doordalen moet in 't graf.</l>
+</lg>
+
+<div type="section">
+<pb n="22"/>
+<head rend="h4">Choor.</head>
+
+<lg type="poem">
+<l>WAt is 't gheluck dat ons de werelt gheeft,</l>
+<l>Meer als verdriet, en sware donderslaghen?</l>
+<l>Een cleyne vreught, vermenght met duysent plaghen?</l>
+<l>'T gheluck is groot, voor die ghenoeghen heeft.</l>
+<l rend="; 1tab">Wat is den staet, waer door men heerlijck leeft,</l>
+<l>Soo men die moet met ongherustheyt draghen,</l>
+<l>Meer als bedrogh, waer door wy dickwijls claghen,</l>
+<l>Met vrees' vermenght, waer door een yeder beeft?</l>
+<l rend="; 1tab">Och Roma siet hoe dat u straten vloeyen,</l>
+<l>Met bloet, waer door men wraeck, en haet siet groeyen:</l>
+<l>Hoe cont ghy sien dees moeders moordery?</l>
+<l rend="; 1tab">Roept <hi rend="i">Tyber </hi>aen, dat hy haer weer will' spoelen,</l>
+<l>Soo mach den haet der Goden eens vercoelen.</l>
+<l>Dat wy voortaen sijn van haer plaghen vry.</l>
+<l rend="; 1tab">O wreede moort, hoe smet ghy mijn gheluck?</l>
+<l rend="speaker"><hi rend="i">Roma.</hi></l>
+<l>Hemels, verstoort van dit afgrijsich stuck.</l>
+<l rend="; 1tab">Lijdt toch den druck, het is der Goden raet:</l>
+<l rend="speaker"><hi rend="i">Tyber.</hi></l>
+<l>Ons ongheluck is leeringh' van het quaet.</l>
+<l>Blijft dagheraet, die lieffelijck bestraelt;</l>
+<l rend="speaker"><hi rend="i">Roma.</hi></l>
+<l>Niet op en staet, van daer ghy sijt ghedaelt:</l>
+<l>Maer my betaelt, van dese wreetheydt stout,</l>
+<l>Die sy verhaelt, met wraecke menich fout.</l>
+<l rend="; 1tab">Den Leeuw' int wout: noch Tygher is soo wreet,</l>
+<l rend="speaker"><hi rend="i">Tyber.</hi></l>
+<l>Als die betrout, in sijne dulheyt heet.</l>
+<l rend="speaker"><hi rend="i">CHOOR.</hi></l>
+<l>Beclaeght met leet de Keyferlijcke vrouw',</l>
+<l>Daer 't aerdrijck breet moet ouer draghen rouw'.</l>
+<l rend="speaker"><hi rend="i">Roma, Tyber, ende Choor singhen, oft spreken te samen.</hi></l>
+<l>ALs ick aenschouw, dees droeue heerschappy,</l>
+<l>Met all' d'ontrouw', en wreede Tyranny;</l>
+<l>Soo claghen wy, de dulle wreedheyt snoodt,</l>
+<l>En moordery, van <hi rend="i">Agrappinas </hi>doodt.</l>
+</lg>
+
+<pb n="23"/>
+
+<lg type="poem">
+<l rend="; 1tab">O Vorsten siet dit prachtich trots ghemoet,</l>
+<l>Dat ons verdriet met leedt verwecken doet:</l>
+<l>Treedt met den voet, ô Goden, 'tis nu noodt,</l>
+<l>Sijn hert verwoet, om <hi rend="i">Agrippinas </hi>doodt.</l>
+<l rend="; 1tab">O wonder hoogh! wat brengt ghy aen den dagh?</l>
+<l>Al u vertoogh is lijden en beclagh:</l>
+<l>Ghunt toch verdragh, waer van wy sijn ontbloodt,</l>
+<l>Maer maeckt ghewach van <hi rend="i">Agrippinas </hi>doodt.</l>
+<l rend="; 1tab">Waer sijt ghy doch? <hi rend="i">Astrea </hi>lieue deught?</l>
+<l>Laet ghy 't bedroch verleyden onse Ieught,</l>
+<l>Daer uwe vreught, verheught in goetheyt groot?</l>
+<l>Weent soo ghy meucht om <hi rend="i">Agrippinas </hi>doodt.</l>
+<l rend="speaker"><hi rend="i">CHOOR.</hi></l>
+<l rend="; 1tab">'T is wel voor haer: maer wilt beclaghen mé,</l>
+<l>Hoe hy daer naer oock <hi rend="i">Burrum </hi>steruen dé.</l>
+<l rend="speaker"><hi rend="i">Te samen als te vooren.</hi></l>
+<l rend="; 1tab">Wie sou de cracht ontgaen van den Tyran,</l>
+<l>Die door ghedacht den mensch vernielen can:</l>
+<l>Daer desen man, alree seer onghesont,</l>
+<l>Lijdt, voor den ban, Fenijn in sijnen mont?</l>
+<l rend="; 1tab">O wreede wraeck, hoe voordert u den nijdt;</l>
+<l>Daer ghy de saeck by naer versekert zijt?</l>
+<l>Moest uwen spijt aen <hi rend="i">Burrus </hi>noch geschien,</l>
+<l>Om dit verwijt, met gheene reen 'tontvlien?</l>
+</lg>
+<p>PAVSA.</p>
+</div>
+</div>
+<div type="chapter">
+<head rend="h2">Derde deel.</head>
+<head rend="h3">Eerste vvtcomen.</head>
+<stage><hi rend="i">Nero. Sabina Poppea. Tigellinus. Epaphroditus.</hi></stage>
+
+<lg type="poem">
+<l>WEl, waerom soo verschrikt, dat all' de leden beuen?</l>
+<l rend="speaker"><hi rend="i">S. Poppea.</hi></l>
+<l>Och, <hi rend="i">Caesar </hi>eene<hi rend="i">n</hi> droom heeft my de schrik gegeue<hi rend="i">n</hi>.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Heeft die soo groote cracht in u bevreest gemoet?</l>
+<l rend="speaker"><hi rend="i">Epaphrod.</hi></l>
+<l>De droomen sijn alleen voorboden van het goet.</l>
+</lg>
+
+<pb n="24"/>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Wat was hy, toch den droom, of moet hy sijn versweghen?</l>
+<l rend="speaker"><hi rend="i">S. Poppea.</hi></l>
+<l>Te nacht, wanneer ick was in uwen arm geleghen.</l>
+<l>Naer dat den stillen slaep verwonnen hadd' mijn hert;</l>
+<l>Soo docht my, dat ick met mijn hayr getrocken wert,</l>
+<l>En dat ick sach den gheest van <hi rend="i">Agrippina </hi>comen,</l>
+<l>Die niet dan wraeck en riep, met eyschelijck verschromen.</l>
+<l>'T hof scheen te sijn vervult, vol vreesselijck gheluyt,</l>
+<l>En 't angstelijcke sweet docht my te bersten wt.</l>
+<l>De Roomsche vrouwen droef beweenden, met veel tranen,</l>
+<l>'T verdriet, dat sy door vrees haer vreesden te vermanen.</l>
+<l>Haer lichaem scheen bebloedt, en telcken dat sy sprack,</l>
+<l>Soo docht my dat sy 'thert wt mijnen boesem track.</l>
+<l>Haer schoon gevlochten hayr, dat sy als gout hadd' hangen,</l>
+<l>Dat docht my oock verkeert in grouwelijcke slanghen.</l>
+<l><hi rend="i">Medusas </hi>slanghich hooft was in haer rechter handt,</l>
+<l>En in haer slincker, 't vier van eenen helschen brandt.</l>
+<l>De vreese die bedwanck ons van het bedd' te vlieden.</l>
+<l>Maer doen docht my een saeck veel vremder te geschieden:</l>
+<l>Het aerdtrijck scheurden op, recht, of den helschen mont,</l>
+<l>Ons, met het gansche rijck, verslinden wou terstont.</l>
+<l>'T bedd', daer wy lieffelijck op hadden liggen rusten.</l>
+<l>En daer wy onse vreught ghenoten op den lusten.</l>
+<l>Docht my, dat schrickelijk versonck, door d'open aerdt,</l>
+<l>En dat ghy doen u hert doordouwde met u swaerdt.</l>
+<l>De vreese die ick had, en can ick niet wtspreken,</l>
+<l>Haer cracht dé my den slaep verschromelijcken breken.</l>
+<l>'T hert staet my noch en clopt, ghelijck den pols die slaet,</l>
+<l>Den vreesselijcken schrik my door de leden gaet.</l>
+<l>'T verschromen doet my noch de stemme vreesich beuen.</l>
+<l>Och wat sach ick al bloedt? van al dat ick sal leuen,</l>
+<l>En denck ick niet te sien soo grouwelijcken stuck:</l>
+<l>Noch dat ons meer voorseyt ghewisser ongheluck:</l>
+<l>'Ten sy dat uwe cracht den quaden slach can keeren.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>De dinghen, die de vrees', en twijfel licht vermeeren,</l>
+<l>Doorvlieghen door den dagh de weghen van 't ghedacht,</l>
+<l>En brenghen droomen voort, met wonderlijcke cracht.</l>
+<l>De vrouwen, swack van gheest, sijn licht door vrees' bedroghen,</l>
+<l>En door een cleyne saeck, tot onuerdult ghetoghen.</l>
+<l>De twijfelighe vrees' comt door een cleyn ghemoet:</l>
+</lg>
+
+<pb n="25"/>
+
+<lg type="poem">
+<l>Maer daer sy plaetse crijght, verteirt sy vleesch en bloedt.</l>
+<l>De droomen sijn bedrogh, dan soo sy wat bedieden,</l>
+<l>Soo sal wt desen droom ons eer en rust gheschieden.</l>
+<l>Ghy beeft, en sijt verschrickt, dat ghy mijn moeder saeght,</l>
+<l>Ter wijlen ghy tot rust, in dees mijn armen laeght,</l>
+<l>En dat de vrouwen doen met onuerdult beweenden,</l>
+<l>Haer ouergroot verdriet, dat haer de vrees' verleende.</l>
+<l>Mat meynt ghy dat dit thoont, dan dat den ouden haet</l>
+<l>Den mensch tot naer de doodt niet onquelt en laet?</l>
+<l>'T bleeck aen het nijdigh hooft, dat sy hadd' in haer handen;</l>
+<l>Maer haren dullen nijdt was oorsaeck van haer schanden.</l>
+<l>De tranen die ghy saeght weghieten, met gheween,</l>
+<l>Bethoonen het verdriet van mijne vrou alleen,</l>
+<l>Die ick verlaten hebb', en door den haet ghebannen,</l>
+<l>In <hi rend="i">Pandatharia</hi>, met meer van mijne mannen.</l>
+<l>'T bedd' dat door d'aerde sonck, en toont gheen ongheual;</l>
+<l>Maer dat het, tot ons vreught, oock eeuwigh dueren sal.</l>
+<l>'T sweert, dat ghy door mijn hert verschrickelijck saeght dringen?</l>
+<l>Thoont ons, dat my gheen mensch op aertrijck en sal dwinghen:</l>
+<l>Maer dat ick van my self een machtich Heere ben,</l>
+<l>Die niemant, dan voor slaef, van mijnen naem en ken.</l>
+<l>Den wegh hebb' ick tot maght beghinnen vast te maken:</l>
+<l>'T ghewelt sal <hi rend="i">Nero </hi>wel tot sijnen wensch doen raken.</l>
+<l>Den ionghen Prins is doodt; mijn moeder, vol van spijt,</l>
+<l>Heeft oock door rechte wraeck, den loon van haren nijdt.</l>
+<l>Den grijsaert <hi rend="i">Burrus </hi>oock en sal my niet meer quellen;</l>
+<l>Maer is, tot mijnder rust, ghesonden inder hellen.</l>
+<l>Mijn ouergroot ghewelt sal geuen onse rust:</l>
+<l>Stelt ghy maer uwen gheest naer wil van mijnen lust.</l>
+<l>Keert alle vrees' in vreught, laet het verschricken varen,</l>
+<l>Deckt u met mijn gheluck, het sal u seker sparen:</l>
+<l>'T gheluck is door mijn eer tot meerder eer gheraeckt.</l>
+<l rend="speaker"><hi rend="i">S. Poppea.</hi></l>
+<l>'Tgheluck van uwen staet en is noch niet volmaeckt.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Wel, waerom niet volmaeckt? wat can ick daer aen deruen?</l>
+<l rend="speaker"><hi rend="i">S. Poppea.</hi></l>
+<l>Seer veel, 'ten sy dat ghy <hi rend="i">Octauia </hi>doet steruen.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Maer sy wort wel bewaert in <hi rend="i">Pandatharia.</hi></l>
+<l rend="speaker"><hi rend="i">S. Poppea.</hi></l>
+<l>'Tis waer, maer hare wraeck gaet ons tot Romen na.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Sou de Thyrrensche zee my voor haer niet bevrijden?</l>
+<l rend="speaker"><hi rend="i">Tigellinu</hi>s.</l>
+<l>Natuere leert het kint de plaets van vrees' te mijden:</l>
+</lg>
+
+<pb n="26"/>
+
+<lg type="poem">
+<l>Hoe voeghet <hi rend="i">Caesar </hi>dan, dat hy vreese leeft?</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Ick vreesen? neen, ick wil, dat 'taerdtrijck voor my beeft.</l>
+<l>Gheeft <hi rend="i">Aniceto </hi>last, dat hy haer neemt het leuen,</l>
+<l>En seght dat ick hem heb dit wreet beuel ghegheuen.</l>
+<l>Haer misdaet, die hy heeft met sijnen eedt bethoont,</l>
+<l>Is reden dat hy self met wreede straf beloont:</l>
+<l>Maer dat hy my eerst brenght de twee verraders hoofden,</l>
+<l>Die my door haer verraet van <hi rend="i">Africa </hi>beroofden.</l>
+<l>'T is <hi rend="i">Plautius</hi>, segh ick, en <hi rend="i">Sylla</hi>, die ick meen:</l>
+<l>Ick sal sijn sonder vrees', al sou ick sijn alleen.</l>
+<l>Gaet, doet strackx mijn beuel, dat ick heb voorghenomen.</l>
+<l rend="speaker"><hi rend="i">Tigellinu</hi>s.</l>
+<l>Den wil van <hi rend="i">Caesar </hi>sal in alles sijn volcomen.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>De straf gheschiet te laet, als sy door vrees' gheschiet,</l>
+<l>Om dat het groot ghemoet door vreese lijdt verdriet.</l>
+<l>Strackx, gaet, en doet den last volbrenghen, 't moet soo wesen:</l>
+<l>De straf, die recht gheschiet, voor heylich wordt ghepresen.</l>
+<l>Maer dat <hi rend="i">Octauia</hi>, die dit wel vreest alree,</l>
+<l>Wel seker wert geuoert, door de Tyrrhensche zee,</l>
+<l>En datmen haer daer doodt, ghelijck ick hebb' beuolen,</l>
+<l>Soo blijft voor mijn ghemeynt dees wreede moort verholen.</l>
+<l>Dit is den rechten wegh, waer door ick mijnen naem</l>
+<l>Sal maken, met ghewelt, en yder aenghenaem.</l>
+<l>Mijn vreese sal soo gantsch verdrijuen van der aerden,</l>
+<l>En ick sal, soo ick moet, mijn cracht, als Godt, aenueerden.</l>
+<l>Mijn wettelijcke trouw gheef ick <hi rend="i">Poppea </hi>schoon,</l>
+<l>En gheeft rechtueerdelijck <hi rend="i">Othoni </hi>sijnen loon.</l>
+<l>Ick wreeck <hi rend="i">Crispinus </hi>leet, en maeck u mijn goddinne,</l>
+<l>Mijn cracht sal uwen droom, en mijne vrees' verwinnen.</l>
+<l>Wie meer als <hi rend="i">Caesar </hi>is van sijnen wil een Heer?</l>
+<l rend="speaker"><hi rend="i">S. Poppea.</hi></l>
+<l>Den wil van <hi rend="i">Caesar </hi>bindt <hi rend="i">Poppea, </hi>meer en meer:</l>
+<l>Den goddelijcken raet die voeghet al ten besten.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Gaen wy, dat onse trouw'de <hi rend="i">Flamines </hi>beuesten.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Derde deel. <lb/>Tvveede vvtcomen.</head>
+<p><hi rend="i">Seneca. Nero.</hi></p>
+
+<lg type="poem">
+<l>SEght, machtighe Fortuyn, waerom bedrieght ghy my,</l>
+<l>Met schijn van u gheluck, in eer en heerschappy?</l>
+</lg>
+
+<pb n="27"/>
+
+<lg type="poem">
+<l>Moet ick, als uwe slaef in u ghewelt oock raken,</l>
+<l>Om mijnen val daer naer gheweldigher te maken?</l>
+<l>Ick weet, ô snoo Fortuyn, dat die verheuen staet,</l>
+<l>Licht swijmelt, als hy d'oogh tot inde leeghte slaet,</l>
+<l>En vreest den swaren val door swackheyt der natueren,</l>
+<l>Om dat hy niet en can het hoogh ghesicht verdueren.</l>
+<l>Noyt hadd' ick meerder vreught, dan doen ick leefde, wijt</l>
+<l>Van alle nijdicheyt, in mijnen ionghen tijt,</l>
+<l>Noyt hadd' ick meerder rust, dan doen ick was ghebannen,</l>
+<l>Door dat ick doen ontghinck de boosheyt der tyrannen.</l>
+<l>Noyt hadd'ick meerder vré, dan doen ick <hi rend="i">Cirno </hi>sach,</l>
+<l>Met ouervloet verciert, daer ick te woonen plach;</l>
+<l>Al waer ick hadd' den tijdt, om met verstant te leeren,</l>
+<l>Hoe dat dit groot ghebouw des hemels can omkeeren,</l>
+<l>En wat voor wetenschap, dat de natuer daer in</l>
+<l>Soo wel geschapen heeft, en of het hadd' beghin:</l>
+<l>Hoe dat de clare son' soo snel en ras can rijden,</l>
+<l>En hoe de zee beroert, door hare maen ghetijden:</l>
+<l>Waer door den dagh beghint, blos verwigh roosen root,</l>
+<l>En wat den nacht verthoont, als <hi rend="i">Phoebus </hi>deckt sijn hoot:</l>
+<l>Wat de planeten ons voor teeckenen bedieden,</l>
+<l>En al wat door natuer natuerlijck can gheschieden.</l>
+<l>'T scheen dat <hi rend="i">Saturnus </hi>doen den gulden tijt vol lust</l>
+<l>My smaken liet, vol vreught, en aenghename rust.</l>
+<l>O! recht onsaligh hof, vol nijdicheyt, en haten,</l>
+<l>Hoe sijt ghy van de deught verschouen, en verlaten?</l>
+<l>Hoe is de schoone maecht, <hi rend="i">Astrea</hi>, vol van goet,</l>
+<l>Ghevloden voor de gheen, die baeyt in menschen bloet?</l>
+<l>Die twist en oorlogh baert; vol hongher en ellenden,</l>
+<l>Dat grouwelijcken can de menschen droeuich schenden?</l>
+<l>Die noch den waghen voert van den vervloeckten <hi rend="i">Mars</hi>:</l>
+<l>Die hem in 't stael verthoont met vreeselijck geknars:</l>
+<l>Die door de bloedtschand' doet de rijcken gansch vernielen:</l>
+<l>En door sijn wraeck vervoert de swackheyt onder zielen.</l>
+<l>Wat heeft dees schoone stadt (ô Goden) doch ghedaen,</l>
+<l>Dat desen bloedthondt wreet haer schoonheyt doet vergaen?</l>
+<l>Heeft sy, als ick, haer self door dwaesheyt oock vergheten,</l>
+<l>Dat sy 't gheluck versuymt met reden af te meten?</l>
+<l>Soo hebt ghy wel ghelijck (ô Goden) ick bekent,</l>
+</lg>
+
+<pb n="28"/>
+
+<lg type="poem">
+<l>Dat ghy haer dwaesheyt straft, en dat ghy plaghen sendt.</l>
+<l>Daer comt den wreeden Vorst, hooghmoedigh aenghetreden,</l>
+<l>'T schijnt dat het aerdtrijck beeft, door sijne trotsche schreden:</l>
+<l>Sijn ooghen branden hem, ghelijck het helsche vier,</l>
+<l>'T schijnt dat hy 't wesen heeft van eenigh <hi rend="i">Tyger </hi>dier.</l>
+<l>O Goden keert sijn hert tot redelijcken weghen,</l>
+<l>Tot dat ick mijnen wil volcomen heb vercreghen.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Den ghenen die den naem van <hi rend="i">Mars </hi>voert in het velt,</l>
+<l>En tot een machtich hooft in 't oorlogh is ghestelt;</l>
+<l>Moet doen, dat hem den raet voorsichtich heeft gheboden,</l>
+<l>En houden haren raet, ghelijck den raet der Goden:</l>
+<l>Maer ick, die ben het hooft van dit oneyndich rijck,</l>
+<l>Ben sonder ouerhooft, en sonder mijns ghelijck.</l>
+<l>Mijn onbepaelde macht doet al het aerdtrijck beuen;</l>
+<l>De vrees' van mijne daedt can my mijn ruste gheuen:</l>
+<l>Den naem van mijn ghewelt maeckt heerlijck mijn ghedacht:</l>
+<l>Den wil, en niet den raedt, vermeerdert mijne macht.</l>
+<l>Wat toeval can 't gheluck van <hi rend="i">Nero </hi>toch vervaren?</l>
+<l rend="speaker"><hi rend="i">Seneca.</hi></l>
+<l>De Goden willen 't rijck, en <hi rend="i">Caesar </hi>langh bewaren.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Den wensch, die deughdich is, gaet weer tot die hem gheeft:</l>
+<l>Maer hy en doet gheen cracht, aen die sijn wenschen heeft.</l>
+<l rend="speaker"><hi rend="i">Seneca.</hi></l>
+<l>Mijn wenschen is alleen, dat ghy hoort mijne reden.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Seer geeren, spreeckt vry op, dat is vergheefs ghebeden.</l>
+<l rend="speaker"><hi rend="i">Seneca.</hi></l>
+<l>Ghy weet (ô machtich vorst) dat ick u kindtsche ieught,</l>
+<l>Nu veerthien iaren langh', gheleyt hebb' tot der deught:</l>
+<l>En acht waer naer dat ghy tot Keyser sijt vercoren,</l>
+<l>In welcken dienst ick gansch' mijn iaren hebb' verloren:</l>
+<l>Maer voor mijn tijdt-verlies, hebt ghy my rijck ghemaeckt;</l>
+<l>Iae soo, dat ick schier ben ter hooghster eer gheraeckt,</l>
+<l>En dat aen mijn gheluck niet meer en dient te wesen,</l>
+<l>Door dat ick, neuen u, bemindt word' en ghepresen.</l>
+<l>Ghy weet oock (grooten Vorst) dat, naer de moyt, de rust,</l>
+<l>Den mensch is aenghenaem, en sijnen meesten lust:</l>
+<l>En dat de Keysers oyt de moeyt wel deden loonen,</l>
+<l>Dat ick, met goet bewijs, en reden, can betoonen.</l>
+<l>En liet <hi rend="i">Augustus </hi>niet vertrecken wt der stadt,</l>
+<l><hi rend="i">Agrippa</hi>, naer dat hy veel eer, en goet besadt,</l>
+<l>Om gaen tot <hi rend="i">Mitylin</hi>, met ruste stil te leuen,</l>
+<l>Om van den dullen nijdt niet meer te sijn ghedreuen?</l>
+</lg>
+
+<pb n="29"/>
+
+<lg type="poem">
+<l><hi rend="i">Maecenas </hi>van ghelijck, vercreeg hy niet, dat hy</l>
+<l>Mocht leuen in sijn huys, van alle lasten vry?</l>
+<l>Den eenen hadd' met hem ten oorlogh langh ghetoghen,</l>
+<l>En d'ander was sijn saem ten hemel toe ghevloghen.</l>
+<l>Van rijckdom, deught en eer nochtans ghequelt, met nijdt,</l>
+<l>Die vol afgunsten volght het groot gheluck altijdt.</l>
+<l>Maer, wat van my belanght, 'ken can my niet bedencken.</l>
+<l>Wat reden <hi rend="i">Caesar </hi>heeft, soo grooten schadt te schenken,</l>
+<l>Dan dat ick, met veel sorgh, met moeyten, heb gheleert,</l>
+<l>En gheen en onderrecht, wiens schaduw' my vereert;</l>
+<l>In voeghen dat ick self ghedwonghen ben te segghen,</l>
+<l>Als ick mijn groot gheluck met reen gaen overlegghen:</l>
+<l>Maer is 't oock moghelijck, dat ick, die was soo slecht,</l>
+<l>Nu ben vol gunst, en eer, en hebb' het Roomsche recht?</l>
+<l>Oock mede van 't ghetal van <hi rend="i">Caesars </hi>beste vrienden,</l>
+<l>Die alleen heuren naem, door sijne goetheyt vinden?</l>
+<l>Heeft eenen nieuwen naem, by haer, die ouder sijn,</l>
+<l>Wel connen munten wt, of gheuen eenen schijn?</l>
+<l>Maer waer is mijnen gheest, die matigh hem con voeghen,</l>
+<l>Hoe neemt hy nu dus out in houen sijn ghenoeghen?</l>
+<l>Hoe wandelt hy met lust door all' sijn huysen schoon</l>
+<l>Wat treckt hij all' profijt van die hem brenghen loon:</l>
+<l>Sijn landen en besidt seer wijt en breet vvtrecken</l>
+<l>De winningh van sijn ghelt en can hy nauw' intrecken:</l>
+<l>Sijn wenschelijck gheluck maeckt hem tot bouen toe</l>
+<l>Soo vol, dat hy dat gantsch verdrietigh wort en moe.</l>
+<l>Maer mijnen plicht doet my dan weer door reden dencken,</l>
+<l>Dat my niet toe en staet te weyg'ren u gheschencken.</l>
+<l>Siet, <hi rend="i">Caesar</hi>, onse schult is dan seer wel voldaen,</l>
+<l>Ghy gheuende soo veel, dat eerlijck mach bestaen,</l>
+<l>Voor een soo grooten vorst, en ick, dat ick ontfanghe</l>
+<l>De gunst van uwe deught, met wenselijck verlanghe.</l>
+<l>Wat aengaet mijn gheluck, vol rijckdom, eer en staet;</l>
+<l>De nijdighe fortuyn verweckt haer tot den haet,</l>
+<l>En siet my nijdigh aen: maer ghy cont haer ontmoeten,</l>
+<l>En treden haer ghewelt, door cracht, met uwe voeten.</l>
+<l>Voorwaer, indien ick waer in 't oorloogh' wreet ghestelt,</l>
+<l>Oft dat ick ghinck te voet, verdrietich ouer 't velt,</l>
+<l>Soo sou ick sijn verblijdt, dat d'oorloogh' waer volcomen;</l>
+</lg>
+
+<pb n="30"/>
+
+<lg type="poem">
+<l>En dat ick waer, daer ick mijn reys hadd' voorghenomen,</l>
+<l>Is 't dan niet redelijck, daer ick des leuens wegh,</l>
+<l>Verdrietich, en met eer, doorreyst hebb', dat ick segh,</l>
+<l>Dat ick in stille rust wil eynden dit mijn leuen,</l>
+<l>Dat, door den ouderdom, van crachten is begheuen</l>
+<l>Den rijckdom heeft my langh verblint, door sijnen schijn,</l>
+<l>Maer nu wil ick daer van en gansch ontslaghen sijn.</l>
+<l>Doet die van stonden aen tot u schadtcamer keeren,</l>
+<l>Om yemant, die 't verdient, daer mede te vereeren.</l>
+<l>Neemt, segh ick, all' den schadt, die my onrustheyt baert,</l>
+<l>Ick wilder los van sijn, ick hebb' hem langh' bewaert.</l>
+<l>Den tijd sal ick voortaen in studi wel besteden,</l>
+<l>Daer ick ghewoon in was mijn houen te betreden.</l>
+<l>V moghentheyt is ionck, en in sijn meeste cracht,</l>
+<l>En al het aerdsch' gheluck in uwe groote macht:</l>
+<l>Maer wy, die sijn gheweest uw' oude trou dienaren,</l>
+<l>Verliesen onsen loon, door loop van onse iaren.</l>
+<l>Eerst daerom, die den tijdt begunsticht, mt sijn ieught;</l>
+<l>Soo doet ghy schijnen 't licht, en glans van uwe deught.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Wel aen, ghy wilt dan sien hoe ick ben onderwesen,</l>
+<l>Om dat ghy daer door sout noch meerder sijn ghepresen?</l>
+<l>Ghy wilt dat ick verweyr op staende voet de reen,</l>
+<l>Die langh is ouerdacht in u ghedacht alleen?</l>
+<l>Wel, 't is door u alleen, en door u onderwijsen,</l>
+<l>Dat all' de werelt ons moet voor verstandigh prijsen:</l>
+<l>Maer wat Augustus raeckt, dat hy <hi rend="i">Agrippa</hi>, met</l>
+<l><hi rend="i">Maecenas </hi>rusten liet, daer dient wel opghelet.</l>
+<l>'Tis waer, hy gaf haer rust, in haer veroude daghen:</l>
+<l>Maer 't was, doen hy, en 'trijck haer as sijn con verdraghen.</l>
+<l>Doen hy door sijn gheluck het rijck met vré besadt,</l>
+<l>En doen de lieue rust was in dees groote stadt.</l>
+<l>Maer, hoe liet hy haer gaen? was 't niet met all'haer goeden,</l>
+<l>Om haer naer haren wensch', en haeren staet te voeden?</l>
+<l>Ick weet, en ben ghewis, waert dat <hi rend="i">Bellona </hi>wreet</l>
+<l>Haer grouwelijck ghewelt hier baerde, met veel leet,</l>
+<l>Dat uwe wapen my oock niet en sou verlaten,</l>
+<l>Maer straffen door u deught, die wy rechtueerdigh haten,</l>
+<l>Den staet van mijn gheluck hebt ghy, door u verstandt,</l>
+<l>Van in mijn ionghe ieught, voorsichtelijck gheplandt;</l>
+</lg>
+
+<pb n="31"/>
+
+<lg type="poem">
+<l>Want soo men houeniers siet teere boomen enten,</l>
+<l>Soo siet men u door leer verand'ren ons ghewenten.</l>
+<l>Al 'tghene ghy besit, van houen, goet, en ghelt,</l>
+<l>Staet onder de Fortuyn, en hanght aen haer ghewelt.</l>
+<l>Ick schaem my, dat ick sien dat vryghemaeckte slauen</l>
+<l>Veel rijcker sijn dan ghy, van renten, goet, en hauen.</l>
+<l>Ick schaem my, dat ick hoor, dat eenich sterf'lijck mensch,</l>
+<l>In hoogheyt u beschaemt, door volheyt van den wensch.</l>
+<l>Wat aengaet u versoeck, dat ghy het goet wilt deruen,</l>
+<l>En biedt my weder aen te renten, ghelt, en eruen;</l>
+<l>Dat is bedeckten schijn, ghebruyckt ghy self het goet,</l>
+<l>En denckt, dat ghy dit al om <hi rend="i">Caesars </hi>wille doet.</l>
+<l>Maer ghy acht u misschien met minder eer verheuen,</l>
+<l>Dan wel <hi rend="i">Vitellius</hi>, die dry mael is ghegheuen</l>
+<l>Het borghemeester ampt, en prijst noch bouen my</l>
+<l>Den Keyser <hi rend="i">Claudius</hi>, die min was van weerdy,</l>
+<l>Recht oft ick niet en con door mildtheyt, en gheschencken,</l>
+<l>Beloonen die my dient, en haren dienst ghedencken;</l>
+<l>En of ick niet en con ghegheuen soo veel schadt,</l>
+<l>Als wel <hi rend="i">Volusius</hi>, door spaersaemheyt, besadt.</l>
+<l>Neen hout dat ghy besit, en blijft in u beuelen,</l>
+<l>En wilt my niet den raedt van u verstandt ontstelen.</l>
+<l>Ghy recht mijn ionghe ieught, door uwen cloecken raedt,</l>
+<l>Wanneer die slibb'rich valt, onwetend', in het quaet.</l>
+<l>V cloecke wackerheyt vermeerdert mijn vermoghen,</l>
+<l>En dwinght my tot de deught, al wort my die ontoghen.</l>
+<l>'T waer my een groote schandt, en qualijck ouerdocht,</l>
+<l>Soo men all' uwen schadt in onse kisten brocht;</l>
+<l>Want niemant dencken sou dat ghy wel waert te vreden,</l>
+<l>Maer dat ick dit u goet aen ander wou besteden.</l>
+<l>En al waert dat dees daet u maticheyt bewees,</l>
+<l>En soo, datmen daer door u deughden meerder prees,</l>
+<l>Soo waer 't nochtans gheen eer, sijn eere te vermeeren,</l>
+<l>Waer door men sijnen vriendt met schanden can onteeren.</l>
+<l rend="speaker"><hi rend="i">Seneca.</hi></l>
+<l>Laet mijnen ouderdom beweghen uwe deught.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Dat doen ick, want ick soeck sijn aldergrootste vreught.</l>
+<l>Den couden ouderdom doet ghierigheydt verwecken.</l>
+<l rend="speaker"><hi rend="i">Seneca.</hi></l>
+<l>Dat's waer, maer haer alleen die 'tgoet voor eere strecken.</l>
+<l>Dan uwen grooten wil bedwinght my mijn ghemoet,</l>
+<l>Dat ick, wel teghen wil, u noch bedancken moet.</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="32"/>
+<head rend="h3">Verthooninghe.</head>
+<head>Eerste.</head>
+<stage><hi rend="i">De hoofden van </hi>Plautius, <hi rend="i">ende </hi>Sylla <hi rend="i">worden voor</hi> Nero <hi rend="i">ghebracht.</hi></stage>
+<div type="section">
+<head>Tweede.</head>
+<stage>Octauia <hi rend="i">wort doodt ghelaten.</hi></stage>
+</div>
+<div type="section">
+<head>Derde.</head>
+<stage>Nero, <hi rend="i">trout </hi>Sabina Poppea, <hi rend="i">op de Heydensche wijse.</hi></stage>
+</div>
+<div type="section">
+<head rend="h4">Choor.</head>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Ecloge Voester</hi>.</l>
+<l>SIt <hi rend="i">Themis</hi>, de gherechticheyt,</l>
+<l>By <hi rend="i">Iupiter</hi>, ghelijck men seyt,</l>
+<l>Om dienen in sijn hooghe saken:</l>
+<l>Soo ben ick wel verwonden seer,</l>
+<l>Dat sy verdraeght al dees oneer,</l>
+<l>Die haren naem te niet can maken.</l>
+<l rend="; 1tab">O hemels! cont ghy sien dit quaet,</l>
+<l>Dat all' u crachten te bouen gaet?</l>
+<l>En laet ghy u gheen saeck verdrieten;</l>
+<l>Daer ghy, wel siet dat mijne vrou,</l>
+<l>Soo schandelijck en onghetrou,</l>
+<l>Onschuldich, moet haer bloedt verghieten?</l>
+<l rend="; 1tab">Och droeue stadt, my deirt u schandt,</l>
+<l>Ghy die gebiedt soo menich landt,</l>
+<l>En condt u seluen niet verwinnen:</l>
+<l>Weet ghy niet dat ons meeste cracht,</l>
+<l>Gheleghen is, als wy met macht</l>
+<l>Verwinnen onse dwase sinnen?</l>
+<l rend="speaker"><hi rend="i">Roma.</hi></l>
+<l rend="; 1tab">'T is, moeder, 'tloon van het gheual,</l>
+<l>Dat altijdt was, en wesen sal,</l>
+<l>Soo langh de menschen d'aerd bewoonen;</l>
+</lg>
+
+<pb n="33"/>
+
+<lg type="poem">
+<l>De Goden sijn alleen dit vry:</l>
+<l>Maer t'al ons misdaet connen sy,</l>
+<l>Ter rechter tijdt, seer wel beloonen.</l>
+<l rend="speaker"><hi rend="i">Tyber.</hi></l>
+<l rend="; 1tab">All' 't water dat er stort en ghiet,</l>
+<l>En sal het vier wt blusschen niet,</l>
+<l>Dat u eer langh noch sal verbranden:</l>
+<l>Daer comen sy, alree ghegaen,</l>
+<l>Die hem in als sijnden onderdaen,</l>
+<l>Met fackels in haer wreede handen.</l>
+<l rend="speaker"><hi rend="i">Soldae</hi>t.</l>
+<l rend="; 1tab">Den brandt van onsen grooten Vorst,</l>
+<l>Vereyscht meer water, doot den dorst,</l>
+<l>Dan all' het vier, dat ick sal steken</l>
+<l>In dese welghebouwde stadt,</l>
+<l>Om dat hy uorste naer het nat,</l>
+<l>Van <hi rend="i">Nemesis </hi>bebloede beken.</l>
+<l rend="speaker"><hi rend="i">Tyber.</hi></l>
+<l rend="; 1tab">'T schijnt dat den lust aen <hi rend="i">Nero </hi>voeght,</l>
+<l>Om dat hy sijnen wil vermoeght,</l>
+<l>Al sou hy 't al met druck bedroeuen:</l>
+<l>Maer als het niet en can gheschien,</l>
+<l>Van Troyen in den brandt te sien,</l>
+<l>Dan doet hy 't sijne stadt beproeuen.</l>
+<l rend="speaker"><hi rend="i">Ecl</hi>. <hi rend="i">Voeste</hi>r.</l>
+<l rend="; 1tab">Och soete <hi rend="i">Venus </hi>toont u cracht,</l>
+<l>Dat u Troyansch' vermaert gheslacht,</l>
+<l>Datmen door <hi rend="i">Caesar </hi>siet verheuen,</l>
+<l>Door wreetheyt niet en wort besmet,</l>
+<l>Dat het den grooten name let,</l>
+<l>Die haer <hi rend="i">Aeneas </hi>heeft ghegheuen.</l>
+<l rend="speaker"><hi rend="i">Roma.</hi></l>
+<l rend="; 1tab">Hy droegh den Vader wt het vier,</l>
+<l>Maer desen steecket seluer hier</l>
+<l>In sijne stadt, tot sijn vernoeghen:</l>
+<l>'T verschil is groot van d'oude deught,</l>
+<l>Dat ons verweckt heeft onse vreught;</l>
+<l>Dan 't sijn de Goden die het voeghen.</l>
+<l rend="speaker"><hi rend="i">Soldaet</hi>.</l>
+<l rend="; 1tab">Wat wachten wy met ons beuel?</l>
+<l>'Tsa gaen wy dat volbrenghen wel:</l>
+<l>'T sijn Christenen die daer meest woonen,</l>
+<l>Daer hy wilt dat het branden sal,</l>
+<l>Om dat hy door dit ongheual,</l>
+<l>Haer ongheloof te recht sou loonen.</l>
+</lg>
+
+<pb n="34"/>
+<p>PAVSA.</p>
+</div>
+</div>
+<div type="chapter">
+<head rend="h2">Vierde deel.</head>
+<head rend="h3">Eerste vvtcomen.</head>
+<stage><hi rend="i">Nero. Anicetus. Mellichus. Tigellinus. Sabina Poppea. Sporus. Herault. Siluanus. Ant. Natalis.</hi></stage>
+
+<lg type="poem">
+<l>T'Was wel een vreught om sien, hoe all'dat slecht ghespuys</l>
+<l>Liep met verbaesden schrick, om berghen elck sijn huys:</l>
+<l>Maer all' dees vreught en can mijn gramschap niet vercoelen,</l>
+<l>Die my dees slaue doet tot in mijn ziele voelen.</l>
+<l>Strackx, <hi rend="i">Anicete</hi>, gaet en vanght haer altemael,</l>
+<l>Dat ick haer haer verraet met rechten loon betael.</l>
+<l>Brenght hier op staenden voet die ghy eerst sult becomen,</l>
+<l>Soo weet ick hoe 't verraet van haer is voorghenomen.</l>
+<l>Brenght grouwelijck ter doodt die schuldigh is daer aen;</l>
+<l>Maer set my <hi rend="i">Pisa </hi>vast, tot dat ghy sult verstaen.</l>
+<l>Wat doodt dat mijnen haet en gramschap can versaden;</l>
+<l>Want ick voorseker weet dat hy dit heeft gheraden.</l>
+<l>Den valsten van 't verraet sluyt, om sijn boosheyt snoot,</l>
+<l>Met slanghen in een vat, en brenght hem soo ter doodt.</l>
+<l>Scheurt d'een de darmen vvt, en laetse dander eten;</l>
+<l>Gheen grouwelijcke pijn en laet tot wraeck vergheten:</l>
+<l>Maer dat, op straf van 't lijf, ons niemant en ontgaet.</l>
+<l rend="speaker"><hi rend="i">Anicetus</hi>.</l>
+<l>'<hi rend="i">T augustelijck </hi>ghebodt sal straffen haer verraet.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Siet dat ghy hare daet doet seker ondersoecken,</l>
+<l>En doet haer haer berou door mijne straf vervloecken.</l>
+<l>Maer seght my, weet ghy niet of <hi rend="i">Seneca </hi>dit stuck</l>
+<l>Met raet heeft bij ghestaen, tot sijn groot ongheluck?</l>
+<l rend="speaker"><hi rend="i">Mellichus</hi>.</l>
+<l>Neen daer en is van hem in't minste niet ghesproken.</l>
+<l rend="speaker"><hi rend="i">Tigellinus</hi>.</l>
+<l>'Ten can niet minder sijn, hy heeft de locht gheroken:</l>
+<l>Den neef en sal niet doen, of hy weet vande saeck.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Weet hy in 't minst daer van, soo valt op hem de wraeck.</l>
+<l rend="speaker"><hi rend="i">S. Poppea.</hi></l>
+<l>'Tis seker wel een saeck, die vele seer beclaghen,</l>
+<l>Dat uwe mogentheyt can sijnen voorspoet draghen.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Wat reden heb ick doch, om hem te maken quijt?</l>
+<l rend="speaker"><hi rend="i">S. Poppea.</hi></l>
+<l>Niet weynich, maer seer veel, al waer het maer den spijt,</l>
+</lg>
+
+<pb n="35"/>
+
+<lg type="poem">
+<l>Dat hy hem soo met eer beneuen u doet eeren:</l>
+<l>Soo ghy dit langher lijdt, soo sien ick tot hem keeren</l>
+<l>Het gansche rijck en staet, door dat hy herten wint,</l>
+<l>Waer door hy meer als ghy ontsien wort, en bemint.</l>
+<l>Waer is daer onderdaen gheboren op der aerden,</l>
+<l>Die rijcker is dan hy; en oock van meerder waerden?</l>
+<l>Wie is daer oock soo stout, van soo veel als daer leeft,</l>
+<l>Die roemen derf als hy dat hy u wijsheyt gheeft?</l>
+<l>Voorwaer, al uwen lof doet hy met haet benijden,</l>
+<l>En schimpt, als hy u siet de paerden maer berijden.</l>
+<l>Singht ghy met blijden lust, soo roept hy ouerluydt,</l>
+<l>Dat <hi rend="i">Nero </hi>sijn verstandt doet hooren met gheluyt.</l>
+<l>Al d'eere die ghy hebt sal hy hem noch toeschrijuen.</l>
+<l>En u en sal in 't lest niet dan verachtingh blijuen;</l>
+<l>'Ten sy dat ghy vercort u ouergroot ghedult,</l>
+<l>En loont, met rechte straf sijn wel verdiende schult.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Al dat ghy seght, dat doet mijn gramschap wel verwecken,</l>
+<l>Maer dat en can den haet met gheenen schijn bedecken.</l>
+<l>Noyt mensch ghebracker stock als hy den hondt wilt slaen,</l>
+<l>Noch aen de wraecke tijdt, om oorsaeck naer te gaen:</l>
+<l>Die tijdt heeft, can sin seer bedecken met de reden.</l>
+<l rend="speaker"><hi rend="i">Sporus</hi>.</l>
+<l>Den <hi rend="i">Herault </hi>wt het heyr wacht uwe moghentheden.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Laet hem vry comen hier, en segghen sijnen last.</l>
+<l rend="speaker"><hi rend="i">Herault</hi>.</l>
+<l><hi rend="i">Verginius </hi>den Vorst heeft desen my belast,</l>
+<l>Te gheuen sijnen Prins, die eeuwich moet wel varen.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Hoe staet het met ons heyr, en onse wree' barbaren?</l>
+<l rend="speaker"><hi rend="i">Herault</hi>.</l>
+<l>Niet wel.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Waerom niet wel? verweckt daer dan verraet?</l>
+<l rend="speaker"><hi rend="i">Herault</hi>.</l>
+<l>De brieuen, acht ick wel, verhalen al den staet.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l><hi rend="i">Gantsch' </hi>Turditania, <hi rend="i">met all' de </hi>Lustanen<hi rend="i">,</hi></l>
+<l><hi rend="i">Sijn al door </hi>Vindex <hi rend="i">macht, met vorsder onderdanen,</hi></l>
+<l><hi rend="i">Gheuallen van het rijck, en uvven naem ontseyt;</hi></l>
+<l><hi rend="i">En </hi>Galba '<hi rend="i">t hooft verclaert van all' u heerlijckheyt:</hi></l>
+<l><hi rend="i">VVant hy is in het heyr eendrachtelijck vercoren,</hi></l>
+<l><hi rend="i">En met ghetrouvven eedt als Keyser vast ghesvvoren.</hi></l>
+<l>Flockx aerde, scheurt van een, berst op vervloeckten gront,</l>
+<l>Doet hier ras swillen op den wreeden helschen mont.</l>
+<l>Voort <hi rend="i">Caron</hi>, voert van hier, in u vervloeckte vloeden,</l>
+<l>Die my soo grousaem doet in gramschap dul verwoeden.</l>
+</lg>
+
+<pb n="36"/>
+
+<lg type="poem">
+<l>Wat doet ghy nu <hi rend="i">Iupijn</hi>? pleeght ghy weer vrouwenlust,</l>
+<l>Dat ghy dees schande lijdt? of sijt ghy wel gherust,</l>
+<l>Dat ghy daer bouen uit, en laet my hier beneden,</l>
+<l>Vol schrickelijck verdriet, onrustich, en t'onvreden?</l>
+<l>Neen, grooten donder Godt, u cracht moet mijn verdriet,</l>
+<l>Met vreeselijcke straf, wraeckgierigh, doen te niet.</l>
+<l>Of hebt ghy gheenen tijdt, om mijne saeck te wreken,</l>
+<l>Om dat u sou den tijdt aen vrouwen lust ghebreken;</l>
+<l>Gheeft my in dees mijn handt den blicxem, en het vier,</l>
+<l>Soo straf ick self mijn leet, en blijf verwinder hier.</l>
+<l>Maer hoe? 't schijnt dat ick vrees, oft dat ick ben verwonnen,</l>
+<l>Daer dees verradery noch qualijck is beghonnen;</l>
+<l>En dat van eenen dwaes, die out is, en verrot,</l>
+<l>En door sijn dwaesheyt toont dat hy is dol en sot.</l>
+<l>Maer hoe heeft hy het heyr tot sijnen wil gheuonden?</l>
+<l rend="speaker"><hi rend="i">Herault</hi>.</l>
+<l>Den veltheer, <hi rend="i">Vindex</hi>, was te vooren hem verbonden,</l>
+<l>En hadd' gansch Gallia ghegheuen in sijn macht:</l>
+<l>Maer <hi rend="i">Vindex </hi>heeft daer naer sijn seluen omghebracht.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Hoe omghebracht? waerom?</l>
+<l rend="speaker"><hi rend="i">Herault</hi>.</l>
+<l>Om dat hy hadd' verloren</l>
+<l>Wel twintich duysent mans in Gallia gheboren.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Soo is hy recht gheloont. Neen, <hi rend="i">Iupiter</hi>, ghy zijt,</l>
+<l>Die door u hooghe cracht comt wreken mijnen spijt,</l>
+<l>Vergheeft my sijt ghy wat van my te naer ghesproken,</l>
+<l>'T was om dat ick mijn leedt te ras wou sien ghewroken.</l>
+<l>De schatten van het rijck sijn meestendeel verdaen,</l>
+<l>Daerom moest desen twist noodtwendelijck opstaen,</l>
+<l>Om haer met schatten van Gauloysen weer te vullen,</l>
+<l>Die wy tot nut van 't rijck, ter noodt ghebruycken sullen.</l>
+<l>Al <hi rend="i">Galbas </hi>groote goet comt ons nu wel ter handt,</l>
+<l>Die ick van weghen 't rijck verclare voor vyandt.</l>
+<l>Strack stellet all' te coop, die 't moest daer voor sal bieden,</l>
+<l>Die gheuet, want dit moet tot wraecke soo gheschieden.</l>
+<l rend="speaker"><hi rend="i">Anicetus</hi>.</l>
+<l>Gaet aen, verrader, voort, valt <hi rend="i">Caesar </hi>ras te voet.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Mijn wraeck sal u verraet doen straffen met u bloet.</l>
+<l rend="speaker"><hi rend="i">A. Natalis</hi>.</l>
+<l>Och, <hi rend="i">Caesar</hi>, laet u deught mijn misdaet toch vergheuen.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Weet ghy wie d'oorsaeck is, soo gheef ick u het leuen:</l>
+<l>Soo niet soo moet ghy strackx betalen uwe schult.</l>
+<l rend="speaker"><hi rend="i">A. Natalis</hi>.</l>
+<l>Verdraeght dan dat ick spreeck, ô <hi rend="i">Caesar</hi>, met ghedult.</l>
+</lg>
+
+<pb n="37"/>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Spreeckt, maer indien ghy lieght, soo sal ick u doen steruen.</l>
+<l rend="speaker"><hi rend="i">A. Natalis</hi>.</l>
+<l>Niet ick, maar <hi rend="i">Piso </hi>was de schult van ons verderuen.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Heeft <hi rend="i">Seneca </hi>gheen schult aen dees verradery?</l>
+<l rend="speaker"><hi rend="i">A. Natalis</hi>.</l>
+<l>Neen, <hi rend="i">Caesar</hi>; maer en is oock niet volcomen vry:</l>
+<l>Want <hi rend="i">Piso </hi>dede my sijn meyningh ondersoecken,</l>
+<l>Maer hy lagh sieck te bedd', doen ick hem quam besoecken.</l>
+<l>Ick, die ghetrouw' wou sijn, voldede mijnen last,</l>
+<l>Die my van <hi rend="i">Piso </hi>was wel scherpelijck belast,</l>
+<l>En hiel hem voor de saeck, niet om den Prins te dooden,</l>
+<l>Maer dat hem <hi rend="i">Piso </hi>dé tot sijne vrientschap nooden:</l>
+<l>Maer hy door sijn verstandt, roeck haeftelijck de londt,</l>
+<l>En seyd' dat hy 't besoeck niet al te nut en vondt:</l>
+<l>Dan wat de rest aenghinck, sijn leuen, eer, en goeden,</l>
+<l>Aen <hi rend="i">Pisos </hi>leuen hongh': waeromme wy vermoeden,</l>
+<l>Dat hy het eyndt wou sien van dit seer groot verraet,</l>
+<l>En hem dan wijselijck oock voeghen naer den staet.</l>
+<l rend="speaker"><hi rend="i">Tigellinus</hi>.</l>
+<l>En is 't niet als ick seyd', dat hij'er af sou weten?</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Wel aen, mijn wraeck en sal sijn boosheyt niet vergheten.</l>
+<l><hi rend="i">Siluane</hi>, gaet bij hem, en hoort oft hy 't bekent.</l>
+<l>Nu vindt ick schijn van wraeck; en ghy staet ouerendt;</l>
+<l>V wel verdiende straf vergheef ick teghen reden;</l>
+<l>Seght vry dat ghy den wil van <hi rend="i">Caesar </hi>hebt verbeden.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Vierde deel. <lb/>Tvveede vvtcomen.</head>
+<stage><hi rend="i">Siluanus </hi>met Soldaten<hi rend="i">. Statius. Seneca.</hi></stage>
+
+<lg type="poem">
+<l>Staet daer, en ghy comt hier, treckt all' de sweerden wt,</l>
+<l>Stil all' de wapen los, soo maeckt het gheen gheluyt,</l>
+<l>Dat niemant hem en roert ter wijlen dat wy spreken;</l>
+<l>En ghy belt aen de poort, beyt: salder niet ghebreken?</l>
+<l>Neen, belt stijf; belt noch eens, is uwen Heer alleen?</l>
+<l rend="speaker"><hi rend="i">Statius</hi>.</l>
+<l>Neen, daer is volck by hem, en eet oock, soo ick meen.</l>
+<l rend="speaker"><hi rend="i">Siluanus</hi>.</l>
+<l>Seght, dat <hi rend="i">Siluanus </hi>hem alleen wat heeft te segghen.</l>
+<l>Neen, beyt, hy sou ter wijl sijn antwoordt ouerlegghen.</l>
+<l>Gaet, gaet, seght dat hy strack hier comen moet by my:</l>
+<l>My deyrt, heeft hy oock schult aen dees verradery.</l>
+<l rend="speaker"><hi rend="i">Seneca.</hi></l>
+<l>De Goden willen u in haren vré bewaren.</l>
+</lg>
+
+<pb n="38"/>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Siluanus</hi>.</l>
+<l>Die wensch' ick vanghelijck, dat sy u oock ghesparen:</l>
+<l>Maer vreese wel met leedt dat der fortuyne cracht</l>
+<l>Verwinnen sal den wensch, en hare groote macht,</l>
+<l>Want ick ben door 'tb euel van <hi rend="i">Caesar </hi>hier ghecomen,</l>
+<l>Omdat hy heeft een saeck wel onvoordacht vernomen.</l>
+<l>En om dat sijnen staet, en leuen daer aen hanght,</l>
+<l>Moet daer in sijn voorsien, als daer veel aen verlanght.</l>
+<l>Ghy weet dan van 't verraet, en hoe 't al gaet verloren?</l>
+<l>En wie dat in sijn doodt te samen sijn ghesworen?</l>
+<l>En dat sy meestendeel gheuanghen sijn ghestelt?</l>
+<l>En veel daer van ghedoodt, met schrickelijck ghewelt?</l>
+<l>Maer eenen comt voor hem u edelheyt beclaghen,</l>
+<l>Dat hy van <hi rend="i">Piso </hi>was ghesonden u te vraghen,</l>
+<l>Oft ghy niet goet en vondt, dat ghy te samen meer</l>
+<l>Malcanderen besocht, dan 't was geschiet wel eer:</l>
+<l>Maer ghy, die wijser waert, en vreesde 't quaet vermoeden,</l>
+<l>Socht door u eenicheyt het haten te verhoeden,</l>
+<l>Ontboot hem, dat dit waer het sorghelijckste dinck,</l>
+<l>Dan dat u leuen ghansch aen <hi rend="i">Pisos </hi>leuen hinck.</l>
+<l>Dit is, dat <hi rend="i">Caesar </hi>doet veel quaet van u gheuoelen.</l>
+<l rend="speaker"><hi rend="i">Seneca.</hi></l>
+<l>De reden heeft de cracht, van gramschap te vercoelen.</l>
+<l>Iae 't is voorseecker waer, <hi rend="i">Natalis </hi>seyd' my aen,</l>
+<l>Dat <hi rend="i">Piso </hi>langhen tijdt naer vrientschap hadd' ghestaen:</l>
+<l>Maer ick hebb' met voordracht gheweyghert sijn versoecken,</l>
+<l>Door dat ick niet en socht dat hy my quam besoecken,</l>
+<l>Om dat ick was te sieck, en door den wil bereyt</l>
+<l>Te leuen in ghemack, in rust, en eenicheyt:</l>
+<l>Van dat mijn leuen hanght aen dat van <hi rend="i">Pisos </hi>leuen,</l>
+<l>Noyt mensch en heeft men oyt gheen oorsaeck licht sien gheuen,</l>
+<l>Dat hy eens anders eer sou stellen voor de sijn,</l>
+<l>Noch sijn en stell' ick oock daer mé niet voor het mijn.</l>
+<l>Wat aengaet van de rest, 'ken can hem niet ghesmeecken,</l>
+<l>Hy seluer weet seer wel daer van het seker teecken:</l>
+<l>Hem neem ick tot getuygh', die ondervonden heeft,</l>
+<l>Dat ick oyt vryer was als yemant die daer leeft.</l>
+<l>Groet <hi rend="i">Caesar</hi>, wenscht hem vré, en voorspoet in sijn saecken.</l>
+<l rend="speaker"><hi rend="i">Siluanus</hi>.</l>
+<l>De Goden laten hem tot desen wensch gheraecken.</l>
+<l>Gaen wy, ick ben verbaest te sien sijn groot ghelaet,</l>
+<l>Dat door sijn weerdicheyt den Prins te bouen gaet.</l>
+</lg>
+
+</div>
+<div type="chapter">
+<pb n="39"/>
+<head rend="h3">Vierde deel. <lb/>Derde vvtcomen.</head>
+<stage><hi rend="i">Nymphidius, </hi>Praetorianen.</stage>
+
+<lg type="poem">
+<l>TSa, toonen wy te sijn ghetrouw <hi rend="i">Praetorianen</hi>;</l>
+<l>En doet <hi rend="i">Nymphidi </hi>raedt, hy sal u wel vermanen.</l>
+<l>Ghy siet hoe wreet en straf dat desen bloedthondt moort,</l>
+<l>En dat sijn raserny noch daghelijckx verstoort:</l>
+<l>All' 't bloedt van 't gansche rijck en can hem niet versaden;</l>
+<l>Ia wenscht, om in ons bloedt, als <hi rend="i">Caius</hi>, noch te baden.</l>
+<l>Hadd' Roomen eenen hals, hy sneedt hem seffens af;</l>
+<l>Want hy wenscht ons te sien verrotten in het graf.</l>
+<l>Daer den Tyran ghebiedt, en can men niet ontvlieden,</l>
+<l>'Ten sy men hem door moort sijn moorden doet verbieden,</l>
+<l>My grouwelt als ick denck sijn dulle wreetheydt snoodt,</l>
+<l>Hoe hy <hi rend="i">Poppea </hi>tradt, met sijne voeten doodt:</l>
+<l>Maer eerst hoe dat hy let <hi rend="i">Britanicum </hi>verworghen,</l>
+<l>Om dat hem desen Prins voor ongheluck dé sorghen.</l>
+<l>Dees grouwelijcke vrees' moest <hi rend="i">Agrippina </hi>mé</l>
+<l>Doen lijden, want hy haer den buyck opsnijden dé.</l>
+<l>Denckt hoe hy <hi rend="i">Burrus </hi>oock, (die hem ghetrouw' liet blijcken)</l>
+<l>'Tverhemelt van den mont liet met fenijn bestrijcken.</l>
+<l>Dan oock, de wreede doodt van sijn <hi rend="i">Octauia</hi></l>
+<l>Die hy vermoorden liet in <hi rend="i">Pandatharia</hi>.</l>
+<l>Hoe langh is 't datmen hem, <hi rend="i">Doryphorum </hi>sach trouwen,</l>
+<l>En <hi rend="i">Sporum </hi>sijnen bock, tot schande van de vrouwen.</l>
+<l>Waer was oyt eenich Vorst soo buyten sijn verstandt,</l>
+<l>Die door sijn stadt wou sien hoe Troyen hadd' ghebrandt?</l>
+<l>Wat boosheyt datmen oyt ghesien heeft van Tyrannen,</l>
+<l>Sy spaerden hare stadt, haer goet, oft hare mannen:</l>
+<l>Maer desen Tygher moort, en brandt sijn eyghen stadt,</l>
+<l>En gheeft aen guyghelaers den Keyserlijcken schadt.</l>
+<l>Ghy siet hoe schrickelijck dat hy haer all' doet steruen,</l>
+<l>En dat al sijnen lust is moorden en verderuen;</l>
+<l>Waer door hy d'oorsaeck soeckt om <hi rend="i">Seneca </hi>te slaen,</l>
+<l>Die sijne dertelheyt met leeringh doet verstaen.</l>
+<l>Siet oock wie dat het heyr in Spaignien heeft vercoren,</l>
+<l>Tot Keyser van het rijck, en in sijn plaets ghesworen.</l>
+</lg>
+
+<pb n="40"/>
+
+<lg type="poem">
+<l>Sweyrt hem oock van ghelijck en maeckt u desen quijt,</l>
+<l>Soo wort ghy alle rijck met ouer groot profijt:</l>
+<l>Een yeder voor het hooft sal seuen hondert croonen</l>
+<l>Vercrijghen van het rijck, om sijnen dienst te loonen.</l>
+<l>Sweyrt maer met vasten eedt <hi rend="i">Quirino </hi>onsen Godt,</l>
+<l>Dat ghy volbrenghen sult dem wil van mijn ghebodt:</l>
+<l>Maer dat ghy van dit stuck gheen mensch en sult vermanen,</l>
+<l>Tot dat ick uwen eedt rechtueerdelijck sal manen.</l>
+<l rend="speaker"><hi rend="i">Praetorian</hi>.</l>
+<l>Wy sweyren altesaem den Godt <hi rend="i">Quirino </hi>eedt,</l>
+<l>Dat wy <hi rend="i">Nymphidium </hi>ten dienste sijn bereedt.</l>
+<l>Wy sweyren altesaem met vasten eedt de Goden,</l>
+<l>Dat wy all' sullen doen <hi rend="i">Nymphidy </hi>gheboden.</l>
+<l>Wy sweyren en met eedt aen <hi rend="i">Galba </hi>dan ons trou,</l>
+<l>En sweyren <hi rend="i">Neros </hi>doodt, die wreet is en ontrou.</l>
+<l rend="speaker"><hi rend="i">Nymphidi</hi>.</l>
+<l>Wel aen, ons leuen hanght dan in ons eyghen saken.</l>
+<l>Laet my de sorgh' alleen, ick sal voorsichtich waken.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Vierde deel <lb/>Vierde vvtcomen.</head>
+<stage><hi rend="i">Nero. Sporus. Tigellinus. Siluanus.</hi></stage>
+
+<lg type="poem">
+<l>MAer waerom is den Prins niet sonder vrees' gheschapen,</l>
+<l>Soo wel als hy door vrees' ghebruycken moet de wapen?</l>
+<l>Of waerom moet hy sijn recht als een ander mensch',</l>
+<l>Dat hem de wreede doodt oock heeft naer haren wensch'?</l>
+<l>Is hy niet meer, dan die van moeder sijn gheboren?</l>
+<l>Ia tot een eenigh hooft des werelts maer vercoren?</l>
+<l><hi rend="i">Prometheus </hi>voor ghewis en leerde maer de const,</l>
+<l>Doen hy van aerd' en slijck de menschen eerst begonst,</l>
+<l>Dat hy gheen minder vrees' ons hert en heeft ghegheuen,</l>
+<l>Door dat wy hier alleen als Goden moeten leuen.</l>
+<l>De vreese sy vervloeckt, en die de vreese schiep,</l>
+<l>En all' die hare cracht, eerbiedigh, oyt aenriep.</l>
+<l>'Tschijnt dat wy vol gheluck, en eer, sijn op der aerden;</l>
+<l>Maer dees vervloeckte vrees' vermindert onse waerden.</l>
+<l>Vrees', segh ick, die mijn ziel verschrickelijcken scheurt,</l>
+<l>Om dat my dese schandt van <hi rend="i">Galba </hi>nu ghebeurt.</l>
+</lg>
+
+<pb n="41"/>
+
+<lg type="poem">
+<l>Ach, hemels! wreeckt mijn leet, ghy sijt om my te wreken.</l>
+<l rend="speaker"><hi rend="i">Sporus.</hi></l>
+<l>En twijfelt niet, haer wraeck en sal u niet ghebreken:</l>
+<l>Thoont maer u straf ghewelt, soo voordert ghy haer cracht.</l>
+<l rend="speaker"><hi rend="i">Tigellinu</hi>s.</l>
+<l>De Vorsten hebben van de Goden volle macht,</l>
+<l>Om, als haer rechter handt, te doen haer hooghe daden.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Wel heeft hy oock bekent, dat hy my wilt verraden?</l>
+<l rend="speaker"><hi rend="i">Siluanus</hi>.</l>
+<l>Al dat <hi rend="i">Natalis </hi>sey', bekent hy altemael,</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Soo sweyr ick by mijn hooft dat ick hem recht betael.</l>
+<l>Maer nam hy gheen onschult, of was hy niet verslaghen?</l>
+<l rend="speaker"><hi rend="i">Siluanus</hi>.</l>
+<l>Gansch niet: maer wel ghemoet aanhoorden hy mijn vraghen,</l>
+<l>En seyde doen, 't is waer, dat hy ghesonden was:</l>
+<l>Maer dat hy doen ter tijdt seer qualijck was te pas;</l>
+<l>Waer door hy wel bedacht, afkeerde sijn versoecken, Om</l>
+<l>dat hy niet en socht hem <hi rend="i">Piso </hi>quam besoecken:</l>
+<l>Maer wat aengaet de rest, daer meerder aen verlanght,</l>
+<l>Van dat sijn leuen aen het gheen, van <hi rend="i">Piso </hi>hanght,</l>
+<l>Seyd' my, soo yeder socht sijn schande te beletten,</l>
+<l>Dat hy oock niemants eer sal voor de sijne setten.</l>
+<l>Voort dat hy sijnen gheest, die altijdt was gantsch vry,</l>
+<l>Sal houden vry als voor van alle smeeckery,</l>
+<l>En wilt dat <hi rend="i">Caesar </hi>self sijn vrijheyt sou ghetuyghen.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>De Philosophen sijn door gheene vrees' te buyghen:</l>
+<l>Maer hadd' hy gheen ghelaet van vreese, voor de doodt?</l>
+<l rend="speaker"><hi rend="i">Siluanus</hi>.</l>
+<l>Wat woorden dat hy sprack, den moet bleef euen groot:</l>
+<l>In woorden, noch ghelaet, en was gheen vrees' te mercken.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Wel aen wy willen sien, oft hy die sal verstercken.</l>
+<l>Gaet henen, seght dat hy sijn eyghen doodt verkiest;</l>
+<l>Want ick wil, tot mijn rust, dat hy het lijf verliest.</l>
+<l rend="speaker"><hi rend="i">Siluanus alleen</hi>.</l>
+<l>De grootheyt van den man doet my door vrees' verschicken.</l>
+<l>Ick gaen, neen ick en sal, maer sal een ander schicken.</l>
+<l>De straf is veel te wreet, sy grouwelt in mijn hert:</l>
+<l>Maer sijnen haet die wilt dat sy volcomen wert.</l>
+<l>Best sal ick desen last aen <hi rend="i">Fenius </hi>ghebieden,</l>
+<l>Soo weet ick, dat hy wel, en seker sal gheschieden.</l>
+<l>My deyrt seer den man, 'ken can hem niet ghesien:</l>
+<l>My dunckt dat ick hem noch moet eeren en ontsien.</l>
+<l>Onsaligh is het rijck, dat lijden moet Tyrannen,</l>
+<l>Die alle recht, en eer, door haer ghewelt, verbannen.</l>
+</lg>
+
+<div type="section">
+<pb n="42"/>
+<head rend="h4">Choor.</head>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Ecloge Voester</hi>.</l>
+<l>SOo ons de <hi rend="i">Fame </hi>niet bedrieght,</l>
+<l>Die dickwils seer veel leugens lieght,</l>
+<l>Soo valt de hooghe wraeck der Goden,</l>
+<l>Rechtueerdich op <hi rend="i">Poppeas </hi>hooft,</l>
+<l>Die <hi rend="i">Nero </hi>had van ziel berooft.</l>
+<l>Dat hy moest volghen haer gheboden.</l>
+<l rend="speaker"><hi rend="i">Roma.</hi></l>
+<l rend="; 1tab">Maer, lieue <hi rend="i">Voester</hi>, seght ons doch,</l>
+<l>Veruoerde sy hem door bedroch,</l>
+<l>Dat hy soo grouw'saem con vernielen?</l>
+<l>Wat is de wraecke die ghy seght?</l>
+<l>Ey, bidd' ick, ons toch onderrecht,</l>
+<l>Soo troost ghy onse droeue zielen.</l>
+<l rend="speaker"><hi rend="i">Eccl. Voest.</hi></l>
+<l rend="; 1tab">All' de ghemeynte van de straet,</l>
+<l>Die loopen met verwoeden haet,</l>
+<l>Met fackels, om haer hof te branden:</l>
+<l>De rechte wraeck van mijne vrouw',</l>
+<l>Die cregh' sy met een laet berouw',</l>
+<l>Door straffe van noch meerder schanden.</l>
+<l rend="; 1tab">Haer beelden die van marber staen,</l>
+<l>Die liepen sy in stucken slaen,</l>
+<l>En treden die met hare voeten:</l>
+<l>Ia dat van coper schoon vergult,</l>
+<l>Vernielden sy met onuerdult,</l>
+<l>Om haren dullen haet te boeten.</l>
+<l rend="speaker"><hi rend="i">Tyber.</hi></l>
+<l rend="; 1tab">Maer hoe verdroegh' hy dese schandt?</l>
+<l>Of sach hy gheeren noch den brandt,</l>
+<l>Om sijne lusten te versaden?</l>
+<l>Hy weet mischien, dat dese saeck</l>
+<l>Soo comen moet, tot rechte wraeck,</l>
+<l>Of lijden meer, en grooter schaden.</l>
+<l rend="speaker"><hi rend="i">Eccl. Voest.</hi></l>
+<l rend="; 1tab">De wraeck die heeft haer al ontmoet:</l>
+<l>Want hy heeft haer met sijnen voet</l>
+<l>Te bersten, op den buyck ghetreden,</l>
+<l>Soo dat sy met haer teere vrucht</l>
+<l>Gaen dalen is met droef ghesucht,</l>
+<l>By d'ander sielen hier beneden.</l>
+</lg>
+
+<pb n="43"/>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Roma.</hi></l>
+<l rend="; 1tab">O Goden, hebt ghy dan noch cracht,</l>
+<l>Is <hi rend="i">Roma </hi>noch in u ghedacht?</l>
+<l>Sout ghy haer noch met leet ontfermen?</l>
+<l>O goote Goden wonder goet,</l>
+<l>Versaedt doch eens van menschen bloedt,</l>
+<l>Dat droeuigh niet en doet dan kermen.</l>
+<l rend="speaker"><hi rend="i">Tyber.</hi></l>
+<l rend="; 1tab">Waer onsen ouden <hi rend="i">Seneca</hi>,</l>
+<l>Daer door verlost van d'onghena,</l>
+<l>Soo mochten wy van vreughden singhen:</l>
+<l>Maer nu helas doet ons sijn leet,</l>
+<l>Wtstorten duysent tranen heet,</l>
+<l>Die met verdriet door d'ooghen dringhen.</l>
+<l rend="speaker"><hi rend="i">Eccl. Voest.</hi></l>
+<l rend="; 1tab">Och! ouden wijsen trouwen man.</l>
+<l>Die nu geuoelt, wat den tyran,</l>
+<l>Door sijnen haet al van verrechten:</l>
+<l>Rust saligh' in <hi rend="i">Elises </hi>velt;</l>
+<l>Vliedt door de doodt sijn wreet ghewelt,</l>
+<l>Dat hy bethoont aen sijne knechten.</l>
+<l rend="speaker"><hi rend="i">Roma.</hi></l>
+<l rend="; 1tab">Nu <hi rend="i">Tyber</hi> laet ons sien het endt,</l>
+<l>De wreetheyt sijn wy schier ghewent,</l>
+<l>De Goden sullen ons verstercken:</l>
+<l>Ons wraeck sal <hi rend="i">Galba </hi>doen ghewis,</l>
+<l>Die al in Spaengnien Keyser is,</l>
+<l>En loone sijne dwase wercken.</l>
+</lg>
+<p>PAVSA.</p>
+</div>
+</div>
+<div type="chapter">
+<head rend="h2">Vyfde deel.</head>
+<head rend="h3">Eerste vvtcomen.</head>
+<p><hi rend="i">Seneca. Fenius. Statius. Pompeia Paulina.</hi></p>
+
+<lg type="poem">
+<l>WEL aen, soo wilt hy dan dat ick de doodt verkies?</l>
+<l>En dat ick, voor den dienst, mijn leuen oock verlies?</l>
+<l>De grootheyt van 't ghemoet betoont me in het strijde<hi rend="i">n</hi>,</l>
+<l>En datmen teghenspoet can sonder vreese lijden.</l>
+<l>O Goden! die de saeck van 't menschelijck gheslacht</l>
+</lg>
+
+<pb n="44"/>
+
+<lg type="poem">
+<l>Te voren hebt ghesien, door d'alderhoochste cracht,</l>
+<l>En siet, als voor der handt, dat was en dat sal comen,</l>
+<l>Eer dat in ons ghemoet de saeck is voorghenomen:</l>
+<l>Sijt mijn getuyghen al, ick neem u daer voor aen,</l>
+<l>Voor wien ick wel bereyt tot in mijn eynde staen,</l>
+<l>Dat ick mijn siel aen hem rechtueerdigh hebb' ghequeten,</l>
+<l>En gheenen plicht, noch raedt, in sijnen dienst vergheten.</l>
+<l>Ghy weet, en hebt ghesien, (ô Goden) mijne daedt,</l>
+<l>Dat ick onschuldigh ben aen dit vervloeckt verraet;</l>
+<l>En dat ick euen wel, om sijnen haet te coelen,</l>
+<l>De grouwelijcke doodt moet in mijn lichaem voelen.</l>
+<l>Wel aen dan, treden wy met onuersaecht ghemoedt,</l>
+<l>Vrijwilligh tot der doodt, en gheuen hem het bloedt,</l>
+<l>Dat sijnen dullen dorst, wraeckghierich mach versaden:</l>
+<l>'Ten waer voor ons gheen eer te bidden om ghenaden.</l>
+<l>Gaet henen, <hi rend="i">Statius</hi>, en haelt mijn tafelet,</l>
+<l>Waer in mijn Testament volcomen is gheset;</l>
+<l>Om dat men naer mijn doodt gheen saeck en sou beroeren.</l>
+<l rend="speaker"><hi rend="i">Fenius</hi>.</l>
+<l>'Ten is van gheenen nood', wy sullen 'twel wtvoeren:</l>
+<l>Laet <hi rend="i">Caesar </hi>macht van 'tsijn, 'ten hoeft gheen Testament.</l>
+<l rend="speaker"><hi rend="i">Seneca.</hi></l>
+<l>Nou dan, dit is den loon van mijn ellendich endt.</l>
+<l>Och! vrienden, mijn ghemoet en can ick niet wtspreken,</l>
+<l>Om dat ick niet en can voorcomen u ghebreken.</l>
+<l>Ghy siet ick word' belet te loonen uwe deught,</l>
+<l>Waer in ick voor het lest hadd' mijne meeste vreught:</l>
+<l>Dan, naer all' dit verlies, houd' ick het best van allen.</l>
+<l>En daer ick oyt in hadd' mijn meeste wel ghevallen:</l>
+<l>Dat is de lieue deught, voor mijnen grootsten schadt,</l>
+<l>Die ick onweerdelijck, met grooter eer, besadt.</l>
+<l>Maer all' dat ick u laet, dat is mijn leer, en leuen,</l>
+<l>Spijt <hi rend="i">Nero</hi>, hy en can gheen nutter rijckdom gheuen.</l>
+<l>Wat weent ghy? weet ghy niet dat ick d'onruste zee,</l>
+<l>Met hare baren laet, en vaer naer stille ree?</l>
+<l>Om met volcomen rust, en eeuwelijck met vreden,</l>
+<l>Het aenghename velt <hi rend="i">Olympus </hi>te betreden?</l>
+<l>Wat is dit leuen doch? is 't niet een groot tempeest?</l>
+<l>En reden datmen dat verschrickelijcken vreest?</l>
+<l>Is't niet een wreede reys, door wilde woeste weghen,</l>
+<l>Waer in de roouers ons, en moorders comen teghen?</l>
+</lg>
+
+<pb n="45"/>
+
+<lg type="poem">
+<l>Neen, laet het weenen staen; de werelt die ick laet,</l>
+<l>En is maer schijn van vreught, verborghen in den haet;</l>
+<l>Hoe schoon, en aenghenaem, dat sy haer comt verthoonen,</l>
+<l>Soo moet sy doch in 't lest met ydel wesen loonen.</l>
+<l>Ick schaem my, dat ick sien, dat ghy hier staet en weent.</l>
+<l>Weet ghy niet dat ons dit den hooghen Godt verleent?</l>
+<l>Neen vrienden, neemt maer moet, leert teghenspoet verdraghen,</l>
+<l>'Tis kinderlijcke vrees' soo droeffelijck te claghen.</l>
+<l>Wy kennen <hi rend="i">Nero </hi>wel, en weten voor ghewis,</l>
+<l>Dat hy door sijn natuer, wreet, en bloedtdorstich is,</l>
+<l>Wat cander doch van hem veel beter sijn te wachten,</l>
+<l>Die soo verwoedich thoont sijn dulle wreede crachten?</l>
+<l>Wat moorden can doch voort vervuilen sijne wraeck,</l>
+<l>Dan dees mijn droeue doodt, daer ick met wensch naer haeck?</l>
+<l>Wat can hem sijnen naem meer in verachtingh stellen,</l>
+<l>Dan dat hy, teghen recht, ons senden doet ter hellen?</l>
+<l>Wel hoe mijn lieue ziel, en zijt ghy niet verblijdt,</l>
+<l>Dat ick de werelt laet, met haren dullen nijdt?</l>
+<l>Maer waerom dit misbaer? en crijgh ick niet mijn wenschen?</l>
+<l>En laet den wreeden hier, bloedt-ghierich, by de menschen?</l>
+<l>Weet ghy niet, dat ick gaen, met strijdende ghewelt,</l>
+<l>Naer 't lieffelijcke dal, en schoon <hi rend="i">Elises </hi>velt?</l>
+<l>Weet ghy niet; dat ick gaen, daer bouen by de Goden,</l>
+<l>Om eeuwelijck met vreught te dienen haer gheboden?</l>
+<l>'Tis droeuigher te sien, dat hier den boosen leeft,</l>
+<l>Dan dat den goeden sterft, die sijn vernoeghen heeft.</l>
+<l><hi rend="i">Paulina </hi>seght my doch, en moeten wy niet steruen,</l>
+<l>Om dit seer saligh rijck, vol vreughden, te verweruen?</l>
+<l>Och! hoe vol groote deught sijn all' de Goden goet?</l>
+<l>En hoe vergaet den mensch, die alle boosheyt doet?</l>
+<l>Wie sou dan niet met lust naer hare vreughden haecken,</l>
+<l>Daer hare cracht ons ziel onsterffelijck can maecken?</l>
+<l>Thoont daerom u ghemoet, dat u can weerdich wesen.</l>
+<l>Om eeuwich in 't ghedacht, met lof te sijn ghepresen.</l>
+<l>Druckt mijne schriften goet tot u vreesigh hert,</l>
+<l>Op dat sy daer in groeyt, en vol van vruchten wert;</l>
+<l>Soo sal mijn droeue doodt onsterffelijcken leuen.</l>
+</lg>
+
+<pb n="46"/>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">P. Paulina</hi>.</l>
+<l>Och! ick en can u eer gheen meerder luyster gheuen,</l>
+<l>Dan dat ick met mijn bloedt voldoen mijn offerhandt,</l>
+<l>Om eeuwelijck t'ontgaen verachtelijcke schandt.</l>
+<l>Neen, <hi rend="i">Seneca </hi>mijn ziel, ick wil met u vertrecken,</l>
+<l>Om in my naer u doodt gheen wraecke te verwecken.</l>
+<l>Hoe sou mijn herte vreught vercrijghen, naer u doodt?</l>
+<l>Hoe sou ick connen sien dees dulle wreetheyt snoot?</l>
+<l>Hoe sou <hi rend="i">Paulinas </hi>ziel van uwe ziel toch scheyden?</l>
+<l>Neen, neen, ick wil ghetrou hem in sijn ruste leyden.</l>
+<l>Treedt aen ghy beulen straf, <hi rend="i">Paulina </hi>staet ghereedt,</l>
+<l>Slaet haer voor 't eerste doodt, door uwe dulheyt wreet.</l>
+<l>Dringht vry door dese borst de puncten van de sweerden,</l>
+<l>Sy sal het voor een deught in desen noodt aenveerden.</l>
+<l>Wat wacht ghy? slaet, eer ick u traecheyt self verhaest.</l>
+<l rend="speaker"><hi rend="i">Fenius</hi>.</l>
+<l>'Tghemoet van dese vrouw' maeckt mijnen gheest verbaest.</l>
+<l>Ras, gaet by <hi rend="i">Caesar</hi>, vraeght of ick haer sal bewaren.</l>
+<l rend="speaker"><hi rend="i">Seneca.</hi></l>
+<l>Een edel vroom ghemoet en can gheen vrees' veruaren.</l>
+<l>Och! mijn beminde vrou, ick hadd'u voorghestelt,</l>
+<l>De lieffelijcke vreught, van dit onrustich velt:</l>
+<l>Ick hadd'u voorghestelt den wellust van het leuen;</l>
+<l>Maer nu siet ghy den loon, die sy ons soeckt te gheuen.</l>
+<l>Wel aen, ter wijle ghy de doodt wilt lijden mé,</l>
+<l>Om sekerlijck te gaen met my in mijne vré,</l>
+<l>Soo ben ick wel gherust, my dan den wegh te wijsen:</l>
+<l>Den moorder sal dees daedt ghedwonghen sijn te prijsen.</l>
+<l>Laet onser beyder doodt, met een bereyt ghemoet,</l>
+<l>Stout moedelijcken t'saem ghetuyghen met ons bloedt:</l>
+<l>Laet ons te samen gaen door d'onghebaende weghen,</l>
+<l>De lieffelijcke rust, met recht vernoeghen, teghen.</l>
+<l>Wel aen wy sijn ghereet, comt beulen treedt vry aen,</l>
+<l>Daer sijn ons armen bloot, wilt haer, haer ad'ren slaen.</l>
+<l><hi rend="i">Paulina</hi>, sijt ghemoet, en vreest niet wat te lijden:</l>
+<l>Ick sien der Goden vreught, en aenghenaem verblijden,</l>
+<l>Wel hoe? waer blijft het bloedt? steeckt dieper, steeckt ghy wel</l>
+<l>'Tschijnt dat ghy maer en raeckt het out vercrompen vel:</l>
+<l>Of sou den ouderdom dat hebben doen verteiren?</l>
+<l rend="speaker"><hi rend="i">Fenius</hi>.</l>
+<l>Staet stil.</l>
+<l rend="speaker"><hi rend="i">P. Paulina</hi>.</l>
+<l>Wel; ick en sal door vreese niet verueiren?</l>
+<l>Laet vry mijn lauwe bloedt vercoelen <hi rend="i">Neros </hi>haet.</l>
+</lg>
+
+<pb n="47"/>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">k. va</hi>n <hi rend="i">Feni</hi>.</l>
+<l>Hout op, want <hi rend="i">Caesar </hi>wilt dat ghy haer 't leuen laet.</l>
+<l rend="speaker"><hi rend="i">Fenius.</hi></l>
+<l>Bindt strackx haer aders toe, ras sefh ick, hebdy doecken.</l>
+<l>Soo, dat's wel; <hi rend="i">Nero </hi>sal meer willen ondersoecken.</l>
+<l rend="speaker"><hi rend="i">P. Paulina</hi>.</l>
+<l>Och! <hi rend="i">Seneca </hi>mijn lief moet u <hi rend="i">Paulina </hi>dan</l>
+<l>verliesen hare rust met haren lieuen man?</l>
+<l>Moet sy door wreet ghewelt haer droefheyt dan beclaghen,</l>
+<l>En ouer uwe doodt; seer droeuigh, rouwe daghen?</l>
+<l>Moet sy ghescheyden zijn van u ghewenste vier,</l>
+<l>En blijuen vol onrust verdrietelijcken hier?</l>
+<l rend="speaker"><hi rend="i">Seneca.</hi></l>
+<l>Lijdt doch verduldelijck en wilt u niet bedroeuen,</l>
+<l>Al scheyden wy, soo 'tschijnt, lichamelijck van een,</l>
+<l>Door mijne droeue doodt vol bitterlijck gheween,</l>
+<l>Ons zielen sullen haer onscheydelijck verheughen.</l>
+<l rend="speaker"><hi rend="i">P. Paulina</hi>.</l>
+<l>Ghedult, soo wy, helas, niet beter en vermeughen.</l>
+<l rend="speaker"><hi rend="i">Seneca.</hi></l>
+<l>Ey! bidd'ick, gaet van hier, adieu mijn lieue vrouw,</l>
+<l>Draeght toch, soo 't u betaemt, de grootheyt van den rouw':</l>
+<l>Gaet bidd' ick, laet my maer mijn droeuich leuen corten.</l>
+<l rend="speaker"><hi rend="i">P. Paulina</hi>.</l>
+<l>O Goden! moet ick dan bedroefde tranen storten?</l>
+<l rend="speaker"><hi rend="i">Seneca.</hi></l>
+<l>Seght <hi rend="i">Caesar </hi>(<hi rend="i">Fenius</hi>) dat ick bleef wel ghemoet.</l>
+<l>Comt hier en opent oock mijn aders inden voet.</l>
+<l>Tot in de droeue doodt wil ick doen sijn gheboden.</l>
+<l>O! salichrijcke Choor van deughdelijcke Goden,</l>
+<l>Laet u onsterff'lijckheyt beweghen mijne doodt,</l>
+<l>Dat ick verheughen mach in vwe goetheyt groot.</l>
+<l>Wel hebb'ick dan gheen bloedt door all' mijn oude leden,</l>
+<l>Daer all' mijn aders zijn gansch open en doorsneden?</l>
+<l>Gaet henen, <hi rend="i">Statius</hi>, en haelt my wat fenijn,</l>
+<l>Of ick daer door misschien vercorten mocht de pijn.</l>
+<l>Het leuen is seer soet, en yeder soeckt te leuen;</l>
+<l>Ia self die dieren sijn tot desen lust ghedreuen:</l>
+<l>Maer hoe schoon dat het is, of lieffelijck verciert,</l>
+<l>Soo crijghet doch den glansch, als het de deught bestiert.</l>
+<l>Is dit waer mede men de quade straft t'Athenen?</l>
+<l rend="speaker"><hi rend="i">Statius</hi>.</l>
+<l>Iae't Heer.</l>
+<l rend="speaker"><hi rend="i">Seneca.</hi></l>
+<l>Soo sal het my de lieue rust verleenen.</l>
+<l>Hoe loopt den dwasen mensch naer eer en hooghen staet?</l>
+<l>En acht voor sijn gheluck als iemant ondergaet?</l>
+<l>Daer teghen, die 't verstant can dwinghen door de reden,</l>
+</lg>
+
+<pb n="48"/>
+
+<lg type="poem">
+<l>Is met de trouwe deught, vernoeght en wel te vreden.</l>
+<l>Wel hoe? vertreckt de doodt? heeft het Fenijn gheen cracht,</l>
+<l>Om dat het ouer zee van Griecken is ghebracht?</l>
+<l>Gaet henen, haelt het badt, dat ick het bloedt doen trecken,</l>
+<l>Om in mijn swacke vleesch gheen meerder pijn te wecken.</l>
+<l>Wy moeten doch voldoen den grouwelijcken lust,</l>
+<l>En vinden door de doodt de lieffelijcke rust.</l>
+<l>O goden! sal den haet ons eeuwich dan bederuen?</l>
+<l rend="speaker"><hi rend="i">Fenius</hi>.</l>
+<l>Set daer het becken neer, dat sal hem wel doen steruen.</l>
+<l>Nou, <hi rend="i">Seneca</hi>, gaet aen, daer is het badt ghereet.</l>
+<l rend="speaker"><hi rend="i">Seneca.</hi></l>
+<l>Soo, soo, 't sal soo wel sijn, het water is wel heet.</l>
+<l>ô grooten Iupiter, verlosser van de menschen,</l>
+<l>V offer ick dit bloedt, met hert, met wil, en wenschen</l>
+<l>V offer ick dit nat, van water, en van bloedt,</l>
+<l>Op dat ghy mijne wraeck rechtueerdigh daer mé doet.</l>
+<l>Ontfanght, ontfanght, ontfanght, verlosser van der aerden,</l>
+<l>Den wtghepersten gheest, seer swack, en cleyn van waerden.</l>
+<l>ô Iupiter, ontfanght mijn gansch vermoede ziel,</l>
+<l>die altijd uwen wil van grooter weerden hiel.</l>
+<l rend="speaker"><hi rend="i">Fenius</hi>.</l>
+<l>Draeght hem in <hi rend="i">Martis </hi>velt, op datmen hem verbrande.</l>
+<l>De doodt van desen man is <hi rend="i">Neros </hi>meeste schande.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Vyfde deel. <lb/>Tweede wtcomen.</head>
+<p><hi rend="i">Nero. Petinus.</hi></p>
+
+<lg type="poem">
+<l>MOet <hi rend="i">Nero </hi>dan de vrees' oock onderdanich wesen?</l>
+<l>Moet sijn vervloeckt gheluck door vreese sijn mispresen?</l>
+<l>Ach! vrouwelijcke vrees', die ons de droomen voert</l>
+<l>Tot in ons mannich hert, die gheest en ziel beroert.</l>
+<l>Moet ick die noyt te voor ghewoon en was te droomen,</l>
+<l>Nu droomen; en dat dat mijn moedich hert doet schroomen?</l>
+<l>Neen, 'tis wat meer als droom, voor seker ick ghelooft,</l>
+<l>Mijn rijck is 't roer van 't schip, dat my soo scheen gherooft:</l>
+<l>Mijn moeder my vertoont, mijn huysvrou hier beneden</l>
+<l>Roept, <hi rend="i">Nero, Nero </hi>vast, en laet my noyt met vreden:</l>
+<l>Mijn peerts, en mieren droom voorsegghen alle quaet.</l>
+<l>Als ick denck hoe 't ghemeynt nu lestmael in 't Senaet.</l>
+</lg>
+
+<pb n="49"/>
+
+<lg type="poem">
+<l>(Doen ick der schelmen straf wou straffen als den strenghen)</l>
+<l>Riep, o Auguste, ghy sult dan de straf volbrenghen,</l>
+<l>De Goden sijn vergramt, 't is all' op my verstoort,</l>
+<l>Een yeder soeckt, en wenscht om my te sien vermoort:</l>
+<l>De beelden vallen af, de Mausolesche deuren</l>
+<l>Gaen oock van seluen op, als of men haer dé scheuren,</l>
+<l>En roepen <hi rend="i">Nero </hi>al; Ia <hi rend="i">Sporus</hi>, mijn ghedacht,</l>
+<l>Toont my in eenen rinck <hi rend="i">Proserpin </hi>vercracht.</l>
+<l>Wat sal dan <hi rend="i">Nero </hi>doen? sal hy by <hi rend="i">Galba </hi>vluchten,</l>
+<l>En vallen hem te voet, met weenen; en met suchten,</l>
+<l>Meer dan sijn eer ghedooght? neen lieuer by den <hi rend="i">Parth,</hi></l>
+<l>Al wist hy dat hy daer sou lijden meerder staert.</l>
+<l>Wat segh ick by den <hi rend="i">Parth'</hi>? 'tis beter my te veysen,</l>
+<l>En cleeden my met rouw', schijndroeuigh van ghepeysen;</l>
+<l>En gaen voor mijn ghemeynt, en vallen haer te voet,</l>
+<l>Dat om mijn wreedtheydt haer soo grouwelijck verwoet.</l>
+<l>Neen, 'tis te vol ghevaer, sy souden my ontleden;</l>
+<l>Eer ick ter plaets sou sijn daer ick soud doen de reden.</l>
+<l><hi rend="i">Locusta</hi>, dit fenijn is dooden besten raet,</l>
+<l>Dat my verlossen sal van vrees', verdriet en haet.</l>
+<l>Sijn aenghename cracht sal dese boss' bewaren,</l>
+<l>En <hi rend="i">Nero </hi>wijsen 'tlandt daer hy sal moeten varen.</l>
+<l><hi rend="i">Petine</hi>, rijdt terstont naer Osti' by de zee,</l>
+<l>En maeckt dat daer strack sijn veel schepen op de ree:</l>
+<l>Maer set daer niemant op, dan van mijn vrije slauen,</l>
+<l>Die my 't ghetrouste sijn in des' mijn naeste hauen.</l>
+<l>Ter wijle sal ick sien wat my noch staet te doen,</l>
+<l>Dan vindt my morghen in <hi rend="i">Seruilis </hi>houen groen;</l>
+<l>Den nacht, die eensaem is, sal ons sijn hulpe gheuen.</l>
+<l rend="speaker"><hi rend="i">Petinu</hi>s.</l>
+<l>Als teghenspoet beghint, dan kentmen eerst het leuen.</l>
+<l>'t Augustelijck gebodt sal haestelijck gheschien,</l>
+<l>En wensch ons wt de vrees', met macht, oft vlucht te sien.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Vyfde deel. <lb/>Derde wtcomen.</head>
+<stage>Gheest van <hi rend="i">Agrippina, Megaera.</hi></stage>
+
+<lg type="poem">
+<l>VErwoede raserny vervult mijn dulle wraeck;</l>
+<l>Wraeck, daer ick onuersaedt in eeuwicheyt naer haeck?</l>
+</lg>
+
+<pb n="50"/>
+
+<lg type="poem">
+<l>Drijft hem dit helsche vier, met all' u rasernijen,</l>
+<l>In sijn vervloeckte ziel, dat sy hem al bestrijen.</l>
+<l>Voedt sijn moordadich hert met u afgrijsich quaet,</l>
+<l>Dat hy van wreetheydt swill', en van verwoeden haet.</l>
+<l>Vervloeckt in hem de rust, die ghy wel cont ontstelen;</l>
+<l>Soo mach hy 't droeuich eyndt van ons Tragoedi spelen.</l>
+<l>Laet gheen verwoedtheydt naer die tot mijn wraeck behoort,</l>
+<l>Maer gheeft my rust door wraeck van des' mijn wreede moort.</l>
+<l><hi rend="i">Megaera </hi>wreekt maer wel, soo sal ick vredigh rusten,</l>
+<l>En met vernoeghden wensch' den droeuen gheest verlusten.</l>
+<l>Wreeckt, segh ick, doet de wraeck doordringhen door sijn hert,</l>
+<l>Dat hy met het berouw' noch meer ghepijnicht wert.</l>
+<l>Doet hem sijn moeder-moort tot inde ziel ghevoelen,</l>
+<l>Soo sal mijn dulle wraeck, versaden, en vercoelen.</l>
+<l>Wraeck roep ick, wraecke, wraeck, met vreeselijcken spijt.</l>
+<l rend="speaker"><hi rend="i">Megara.</hi></l>
+<l>Sijn gruwelijck ghemoet is vol van haet en nijdt.</l>
+<l>Mijn cracht is door sijn hert tot in sijn siel ghedronghen.</l>
+<l rend="speaker"><hi rend="i">Agrippina.</hi></l>
+<l>Noyt heeft my meer den gheest van vreughden opghesprongen,</l>
+<l>Nou dan, dit bloedigh eyndt sal wesen mijne vreught,</l>
+<l>Door dat ick inde wraeck vindt alle rust, en deught.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Vyfde deel. <lb/>Vierde vvtcomen.</head>
+<stage><hi rend="i">Nero </hi>int hemde. <hi rend="i">Epaphroditus. Faon.</hi></stage>
+
+<lg type="poem">
+<l>IS <hi rend="i">Nero </hi>dan de rust door vreese gansch berooft?</l>
+<l>Oft treckt hem de fortuyn soo nijdich met het hooft?</l>
+<l>Flockx, siet oft al de wacht de poorten wel bewaren.</l>
+<l>Vermalendijt is 't al dat my soo doet veruaren.</l>
+<l>Waer sijn de Goden nu met all' haer hooghe cracht?</l>
+<l>Vervloeckt sy haren naem, waer door men my veracht.</l>
+<l>Ghy hemels, scheurt van een, en doet het aerdtrijck scheuren,</l>
+<l>Dat Romen eer versinck', eer my leet moet ghebeuren.</l>
+<l>Hoe? keert hier niemant weer, die my te recht bediedt,</l>
+<l>Wat van 'tverradigh' volck dat buyten al gheschiedt?</l>
+<l>Ben ick van Godt en mensch te samen dan verlaten?</l>
+<l>Sal my dan Sonn' en Maen, met al haer Asters baten?</l>
+<l>Tsa, laet ons seluer sien, de vreese dringht my voordt.</l>
+<l>De poorten sijn wel toe, tot aen de groote poort.</l>
+</lg>
+
+<pb n="51"/>
+
+<lg type="poem">
+<l>Hoe? is mijn trouwe wacht ontrouwich oock ghevloden?</l>
+<l>Nu sien ick <hi rend="i">Neros </hi>val, tot lust van mensch' en Goden.</l>
+<l rend="speaker"><hi rend="i">Epaphrodi.</hi></l>
+<l>De decksels noch 't fenijn en vind' ick nieuers niet.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Soo sien ick dat het all' tot mijn verderf gheschiedt.</l>
+<l>De schaduw' van de doodt comt <hi rend="i">Nero </hi>gansch ontmoeten,</l>
+<l>En leydt haer stricken vast aen sijn vervloeckte voeten.</l>
+<l>Roept ghy <hi rend="i">Mirmillum </hi>hier, dat hy des' groote borst</l>
+<l>Doordringhe met sijn sweert, daer yeder soo naer dorst.</l>
+<l>Oft yemant als hy is, dat hy maer rooft mijn leuen,</l>
+<l>Dat ick alree met wil ten besten hebb' ghegheuen.</l>
+<l>Vervloeckt sy de fortuyn, en all' mijn onghenuecht.</l>
+<l rend="speaker"><hi rend="i">Epaphrod</hi>.</l>
+<l><hi rend="i">Mirmillo </hi>met de sijn, sijn all' door vrees' ghevlucht.</l>
+<l>'Tis all' vol haet, en vrees' vol onwil, en verschromen.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Heeft <hi rend="i">Nero </hi>dan noch vriendt, noch vyandt meer te Romen,</l>
+<l>Dat hy soo schandigh sterft, als hy boos heeft gheleeft?</l>
+<l>Ach hemels gheeft toch raet die gheenen raet en heeft.</l>
+<l>Tsa <hi rend="i">Tyber</hi>, ghy alleen sult <hi rend="i">Nero </hi>dan verdrincken,</l>
+<l>Die in u sandigh nadt sijn lichaem sal versincken.</l>
+<l rend="speaker"><hi rend="i">Epaphrod</hi>.</l>
+<l>Is <hi rend="i">Albula </hi>den vloedt dan <hi rend="i">Neros Acheron</hi>?</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Neen, 'twaer noch allerbest dat ick my berghen con,</l>
+<l>Daer ick 't verstroyt ghemoet wat weder mocht versamen.</l>
+<l>Ach! moet hem <hi rend="i">Nero </hi>dan sijn groote daden schamen?</l>
+<l rend="speaker"><hi rend="i">Faon.</hi></l>
+<l>Vlucht buyten op mijn huys, eer dat het wort te spa.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Waer is 't?</l>
+<l rend="speaker"><hi rend="i">Faon.</hi></l>
+<l>Niet al te veer, recht by <hi rend="i">Salaria</hi>;</l>
+<l>Den Nomentanschen wegh sal ons daer haest gheleyden.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Wel doet my dan een peert in alder haest bereyden.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Vyfde deel. <lb/>Vyfde vvtcomen.</head>
+<stage><hi rend="i">Nymphidius. Pretorius.</hi></stage>
+
+<lg type="poem">
+<l>AL <hi rend="i">Neros </hi>wreedtheyt snoot doet cynden mijn ghedult.</l>
+<l>Tsa mannen 't is nu tijdt te quijten onse schult,</l>
+<l>Den moorder heeft de vlught door vreese voorghenomen,</l>
+<l rend="speaker"><hi rend="i">Pretorius</hi>.</l>
+<l>Wy willen altesaem den grooten eedt naercomen.</l>
+<l rend="speaker"><hi rend="i">Nymphid</hi>.</l>
+<l>Ha bloedthondt, ha Tyran, die sweert sal door u hert</l>
+<l>Noch dringhen tot den hecht, eer het versadight wert.</l>
+</lg>
+
+<pb n="52"/>
+
+<lg type="poem">
+<l>Den langh ghewensten dagh comt grouwelijck verthoonen,</l>
+<l>Waer in wy uwe daet, en moorden sullen loonen.</l>
+<l>Ras, altemael te peert, dat wy hem volghen naer.</l>
+<l>En straffen hem om 'tquaet eer dat hy 'twort ghewaer.</l>
+<l>Sijn haest versierde vlucht sal anders 'topset breken,</l>
+<l>En ons beroouen d'eer van ons aen hem te wreken.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Vyfde deel. <lb/>Seste vvtcomen.</head>
+<stage><hi rend="i">Nero. Sporus. Epaphroditus. Faon. Icelus.</hi></stage>
+
+<lg type="poem">
+<l>HIer leyt dan <hi rend="i">Nero </hi>neer met alle sijn haerlijckheyt,</l>
+<l>Die soo langh door Fortuyn voorspoedigh was gheleydt.</l>
+<l>Hier leyt hy, die de vrees' met machte dé verdrijuen,</l>
+<l>En weet nu self gheen plaets, daer hy door vrees' mach blijuen.</l>
+<l>De vrees' is goddelijck, of daer is godtheyt aen;</l>
+<l>Want sy is tot mijn ziel door haer ghewelt ghegaen.</l>
+<l>Hemels, ghy sijt de vrees' ghy doet het aerdtrijck beuen,</l>
+<l>En slaet met blicxems vier die vreesich wordt ghedreuen.</l>
+<l>Ach <hi rend="i">Faon</hi>, wat voor vrees' gheuoelde <hi rend="i">Neros </hi>hert,</l>
+<l>Doen hem, die vluchte self, 't vervolgh verweten werdt?</l>
+<l>Men docht haer niet te sien, die spraken, ons ontmoeten,</l>
+<l>Noch dat ons naer ons eer, <hi rend="i">Mißicius </hi>ghinck groeten;</l>
+<l>Maer 't dul verwoedich volck, met sweerden in haer handt,</l>
+<l>Die sy my dronghen door mijn vreesich inghewant.</l>
+<l>Den moyelijcken wegh, vol wilde dooren haghen,</l>
+<l>En was soo vrees'lijck niet als aen my was het vraghen,</l>
+<l>Wat nieuws dat inde stadt van <hi rend="i">Nero </hi>wert vertelt,</l>
+<l>Die, soo vol vrees' en schrick, verdrietigh was op 'tvelt.</l>
+<l>Ach! helsche bitter vrees', vol grouwelijcke crachten,</l>
+<l>Die soo veel boosheyt voert in my door mijn ghedachten:</l>
+<l>Saeyt u afgrijsich quaet, en vreeselijck fenijn</l>
+<l>In haer, voor wien ick vlucht, en mijn vyanden sijn.</l>
+<l>Wat grof; en leelijck broodt brenght ghy ons hier voor ooghen?</l>
+<l rend="speaker"><hi rend="i">Faon</hi>.</l>
+<l>Al dat op desen tijdt den toeual laet ghedooghen.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>'Tis veel te grof en swert, 'ten is gheen <hi rend="i">Neros </hi>broodt.</l>
+<l rend="speaker"><hi rend="i">Faon</hi>.</l>
+<l>'Tis beter dat als gheen, 'ten dient maer inden noodt.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Gheeft my het water hier, dat sal my 't herte lauen.</l>
+</lg>
+
+<pb n="53"/>
+
+<lg type="poem">
+<l>Ras, doet my daer een graf ghelijck mijn lichaem, grauen,</l>
+<l>En set daer steenen om, in schijn van eenen muer.</l>
+<l rend="speaker"><hi rend="i">Epaphrod</hi>.</l>
+<l>Soo <hi rend="i">Caesar </hi>vry wilt sijn, soo cort hy self sijn uer.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Haelt water, om dit lijf naer mijne doot te wasschen,</l>
+<l>Ick sal <hi rend="i">Nymphidium </hi>in sijn opset verasschen.</l>
+<l>Brenght hier oock strackx het hout en datmen my verbrandt</l>
+<l>Volcomen met mijn hooft, soo iemant slaet sijn handt</l>
+<l>Om my dat af te slaen, soo maen ick u al t'samen.</l>
+<l>Dat ghy hem seluer doodt, maer sult mijn asch versamen;</l>
+<l>En legghen dat in 'tgraf van 'thuys <hi rend="i">Domitiaen</hi>,</l>
+<l>Dat langh in <hi rend="i">Martis </hi>velt met eeren heeft ghestaen.</l>
+<l>All' 'tghene dat ick segh', dat bidd'ick neuen 'twillen.</l>
+<l rend="speaker"><hi rend="i">Icelus</hi>.</l>
+<l>Wy sullen 'tbeste doen, om yeder een te stillen.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Wat werckman sterf ick dan, daer ick het soo voorsien?</l>
+<l rend="speaker"><hi rend="i">Faon</hi>.</l>
+<l>Wel, weetmen inde stadt van <hi rend="i">Caesars </hi>haestigh vlien?</l>
+<l rend="speaker"><hi rend="i">Laquay</hi>.</l>
+<l>Gansch Romen is in roer, en yeder vreest sijn leuen.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Wat leeft ghy daer? laet sien, wat staet hier in gheschreuen?</l>
+<l><hi rend="i">Den raedt heeft hem verclaert voor vyant van het rijck,</hi></l>
+<l><hi rend="i">En vvijsen hem tot straf, die toecomt sijns ghelijck</hi>.</l>
+<l>Wat straffe plach men die te gheuen in voorrijden,</l>
+<l>Die hem door wreede daedt van yeder dé benijden?</l>
+<l rend="speaker"><hi rend="i">Epaphrod</hi>.</l>
+<l>Men stack haer naeckt den hals door een gheclouen hout,</l>
+<l>En sloeghen haer dan 'tlijf met roeden menichfout,</l>
+<l>Tot dat sy door dit slaen ter doodt met pijn besweken.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Neen, lieuer sal ick my dan seluer 't hert afsteken.</l>
+<l>Tsa, proeuen wy den punckt van dit verslindigh stael,</l>
+<l>Dat ick 'tontrouwich volck door mijne doodt betael.</l>
+<l>Neen mijn <hi rend="i">Fatalsche </hi>uer en is noch niet ghecomen.</l>
+<l>Noyt dacht ick dat de doodt soo vreeselijck doet schromen.</l>
+<l>Och, <hi rend="i">Sporus</hi>, my beclaeght, siet uwen <hi rend="i">Nero </hi>gaet</l>
+<l>Naer <hi rend="i">Stygiamsche </hi>rijck, om datmen hem soo haet:</l>
+<l>Hy gaet naer <hi rend="i">Acheron</hi>, en sal u daer verbeyden.</l>
+<l>Ach! grouwelijcke doodt, die my van hier doet scheyden,</l>
+<l>Maer, is 't oock moghelijck, dat yemant met sijn sweert</l>
+<l>Sijn eyghen hert doorsteeckt, daer 't my soo seer verveert?</l>
+<l>Is dat soo licht te doen, en sonder vrees' te pleghen;</l>
+<l>Valt yemant in u sweert, en thoont my soo de weghen,</l>
+<l>Ach! ick leef schandelijck, oneerlijck, en veracht:</l>
+<l>Maer neen, 'ten voeght my niet te vreesen int ghedacht,</l>
+</lg>
+
+<pb n="54"/>
+
+<lg type="poem">
+<l>Mijn saken eyschen moet, tsa, moet, ghewelt, en reden,</l>
+<l>Eer ons den snooden val met voeten doet vertreden.</l>
+<l>Wat hoor ick daer <hi rend="i">Faon</hi>? 'tsijn peerden die ick hoor,</l>
+<l>Haer vreeselijck ghetier slaet my tot in mijn oor.</l>
+<l><hi rend="i">Epaphrodite</hi>, helpt dat ick mach haestich steruen.</l>
+<l>Drijft vry den poignaert in, om <hi rend="i">Nero </hi>te verderuen.</l>
+<l>Ay my, 'tis meer als wel.</l>
+<l rend="speaker"><hi rend="i">Epaphrodi</hi>.</l>
+<l>Voort <hi rend="i">Caesar</hi>, douwt maer voort.</l>
+<l rend="speaker"><hi rend="i">Nymphid</hi>.</l>
+<l>Dringht in, tsa dringht ghelijck, en opent soo de poort.</l>
+<l>Den bloedthondt sal sijn lijf in gheene plaets beschermen,</l>
+<l>Maer sal dit stalen sweert noch douwen door sijn dermen.</l>
+<l rend="speaker"><hi rend="i">Sporus</hi>.</l>
+<l>Ach! <hi rend="i">Caesar </hi>is vermoort.</l>
+<l rend="speaker"><hi rend="i">Nymphid</hi>.</l>
+<l>Hoe? is den Tygher doodt?</l>
+<l rend="speaker"><hi rend="i">Sporus</hi>.</l>
+<l>Niet doodt, maer sonder hoop, en in den meesten noodt.</l>
+<l rend="speaker"><hi rend="i">Nymphid</hi>.</l>
+<l>Tsa, gaen wy dan het bloedt met onsen mantel stelpen.</l>
+<l rend="speaker"><hi rend="i">Sporus</hi>.</l>
+<l>De wond' is veel te groot, t'en is niet om te helpen.</l>
+<l rend="speaker"><hi rend="i">Nymphid</hi>.</l>
+<l>Och <hi rend="i">Caesar</hi>, dese daet verbaest ons al te seer.</l>
+<l rend="speaker"><hi rend="i">Nero.</hi></l>
+<l>Te laet! en siet de trou!</l>
+<l rend="speaker"><hi rend="i">Nymphid</hi>.</l>
+<l>Nou sijn wy sonder Heer;</l>
+<l>Dan <hi rend="i">Galba </hi>sal het rijck wel haest in vrede stellen:</l>
+<l>Laet <hi rend="i">Nero </hi>met sijn quaet, vry dalen in der hellen.</l>
+</lg>
+<div type="section">
+<head rend="h4">Choor.</head>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Roma.</hi></l>
+<l rend="; 1tab">O Goden, hoe thoont ghy u cracht?</l>
+<l>Hoe groot, en wijt, streckt uwe macht?</l>
+<l>Hoe cont ghy all'ons schande wreken?</l>
+<l>Hoe doet ghy den Tiran vergaen,</l>
+<l>Die soo veek boosheydt heeft ghedaen,</l>
+<l>In sijne wreé bebloede beken?</l>
+<l rend="speaker"><hi rend="i">Tyber.</hi></l>
+<l rend="; 1tab">De Goden kennen s'menschen hert,</l>
+<l>En laten dat 't ghetrocken wert,</l>
+<l>Door haren wil, tot deught, oft sonde:</l>
+<l>Maer dan comt haer rechtveerdicheyt,</l>
+<l>Dat all'haer wercken onderscheyt,</l>
+<l>Dat alle quaet vernielt ten gronde.</l>
+<l rend="speaker"><hi rend="i">Ecl. Voest.</hi></l>
+<l rend="; 1tab">Lof groote Goden altesaem,</l>
+<l>Voor wien dat ick ons boosheyt schaem,</l>
+<l>Dat ghy verhoort hebt all'ons claghen.</l>
+
+<pb n="55"/>
+<l>Ghy siet, ghy kent, ghy weet ons leet,</l>
+<l>Daerom sijt ghy tot ons bereet,</l>
+<l>En gheeft ons dat wy connen draghen.</l>
+<l rend="speaker"><hi rend="i">Roma.</hi></l>
+<l rend="; 1tab">Nu hoop ick dan, met vreught, en lust,</l>
+<l>In eeuwicheyt te sijn gherust,</l>
+<l>Ter wijll' de Goden sijn te vreden,</l>
+<l>Door 'tbloedt van <hi rend="i">Neros </hi>offerhandt,</l>
+<l>Dat hem ghebrocht heeft dese schandt,</l>
+<l>Door all' sijn wreede dertelheden.</l>
+<l rend="speaker"><hi rend="i">Tyber.</hi></l>
+<l rend="; 1tab">De Goden willen sijn alleen</l>
+<l>Vol rust, en vré, vry van gheween,</l>
+<l>Daerom ghedooghen sy de menschen,</l>
+<l>Haer menschelijcke boosheyt quaet,</l>
+<l>Waer door sy doen haer boose daet,</l>
+<l>Om dat het all' naer haer sou wenschen.</l>
+<l rend="speaker"><hi rend="i">Epilogus</hi>.</l>
+<l rend="; 1tab">Gaet binnen, Voester, 'tis ghedaen.</l>
+<l>Wat blijft ghy hier noch langher staen?</l>
+<l>Dit claghen sou het volck verdrieten:</l>
+<l>Oft dunckt u dat dit droef tonneel,</l>
+<l>Haer niet en heeft voldaen gheheel,</l>
+<l>Dat ghy hier noch comt tranen ghieten?</l>
+</lg>
+</div>
+<div type="section">
+<head rend="h4">Sonet.</head>
+
+<lg type="poem">
+<l>DE lieffelijcke deught, die ons de Godtheyt baert,</l>
+<l>Wil u, mijn Heeren all', met hare cracht bestralen,</l>
+<l>En in u trouwe ziel den wasdom comen halen:</l>
+<l>Op dat sy heerlijck thoont de grootheyt van den aert.</l>
+<l>&#160;</l>
+<l rend="; 1tab">Al heeft den wreeden u, door sijn ghevloeck veruaert;</l>
+<l>Laet in u siele doch sijn woorden gheensins dalen:</l>
+<l>Maer denckt, dat Godt altijdt de boosheyt doet betalen,</l>
+<l>En dat hy, tot ons leer, haer, tot haer straf bewaert.</l>
+<l>&#160;</l>
+<l rend="; 1tab">Den goddelijcken gheest, waer van wy 't teecken voeren,</l>
+<l>Die wil, door sijne cracht, u herten soo beroeren,</l>
+<l>Dat ghy eendrachtelijck de vré omhelsen meught:</l>
+<l>&#160;</l>
+<l rend="; 1tab">Op dat den vreden tack die schoon staet vol Olijuen,</l>
+<l>Tot inder eeuwicheyt mach in den vrede blijuen,</l>
+<l>En baren in u hert de lieffelijcke deught.</l>
+</lg>
+<p><hi rend="i">Annag. Dient uvven AL.</hi></p>
+
+</div>
+</div>
+<div type="chapter">
+<interpGrp><interp type="primair" value="beye007"/></interpGrp>
+<pb n="56"/>
+<head rend="h3">Approbatie.</head>
+<p>DE<hi rend="i">se Tragedie inhoudende de wreetheyt van </hi><hi rend="spat"><hi rend="sc">Domitivs Nero</hi></hi>, <hi rend="i">midtsgaders de loffelijcke onderwijsinghe vanden vermaerden </hi><hi rend="spat"><hi rend="sc">Seneca</hi></hi>, <hi rend="i">ende de doot vanden seluen, onlancx tot stichtighe recreatie gherepresenteert, is weerdich om ghedruckt te worden, als niet besluytende, dan het welck tot goet exempel, ende manierlijck leuen mach aenghenome worden. Quod testor.</hi></p>
+<p>&#160;</p>
+<p><hi rend="spat"><hi rend="sc">Lavr. Beyerlinck</hi></hi> Aertspriester, ende Canonick van Antwerpen, ende Visitateur vande Boecken.</p>
+</div>
+<div type="chapter">
+<head rend="h3">Errata.</head>
+<list>
+<item>Voor inde Balade, vers. 4. staet. mides. leest: midts.</item>
+<item>Daer naer inde Ode staet. Den Syrenen stem, leest: der Syrenen stem.</item>
+<item>Pag. 26. vers. 1. staet, dat hy vreese leeft, leest: dat hy met vreese leeft.</item>
+<item>Pag. 40. vers. 12. staet Nymphidy. leest: Nymphidij.</item>
+</list>
+</div>
+</body>
+</text>
+</TEI.2>

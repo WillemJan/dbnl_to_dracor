@@ -1,0 +1,1040 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">De krooninge van haare Majesteiten Wilhem Hendrik en Maria Stuart</title>
+                <author>Thomas Arents</author>
+                
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van de derde druk van <hi rend="i">De krooninge van haare Majesteiten Wilhem Hendrik en Maria Stuart</hi> van Thomas Arents uit 1689.
+                </edition>
+                <respStmt>
+                    <resp>
+                        <corr>p. VII en VIII: accolades verspreid over meerdere regels kunnen in deze digitale versie niet weergegeven worden. Daarom wordt de accolade hier, met bijbehorende tekst, op iedere regel herhaald.</corr>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <scandetails>
+                <scan type="I">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page>2</empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+                
+            </scandetails>
+            <publicationStmt>
+                <idno type="titelcode">aren001kroo01_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2011 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note>DSOLmetadata:yes</note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"></idno>
+                    <idno type="usedcopy">exemplaar Theater Instituut Nederland, signatuur: 13 A 13: 1</idno>
+                </bibl>
+                <p>Thomas Arents, <hi rend="i">De krooninge van haare Majesteiten Wilhem Hendrik en Maria Stuart</hi>. Jacob Lescailje (erven), Amsterdam 1689</p>
+                <p>&#160;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p></p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">De krooninge van haare Majesteiten Wilhem Hendrik en Maria Stuart</title>
+                <author>Thomas Arents</author>
+                
+                <idno type="isbn"></idno>
+                <idno type="nur"></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">De krooninge van haare Majesteiten Wilhem Hendrik en Maria Stuart</title>
+                <author>Thomas Arents</author>
+                
+                <idno type="isbn"></idno>
+                <idno type="nur"></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2011-09-09</date>
+                <respStmt>
+                    <name type="person">SG</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+<text>
+<interpGrp>
+<interp type="primair" value="frank01"/>
+<interp type="primair" value="groot01"/>
+<interp type="primair" value="ierla01"/>
+<interp type="secundair" value="mari039"/>
+<interp type="secundair" value="will013"/>
+</interpGrp>
+<body>
+    <cf>
+<div type="chapter">
+
+<pb n="I"/>
+<p>DE KROONENGE <hi rend="i">Van haare Majesteiten</hi>, WILHEM HENDRIK, ÉN MARIA STUART, Tót Koning, én Koninginne VAN Engeland, Vrankryk, én Yrland.</p>
+<p>
+<figure>
+<p><xptr to="aren001kroo01ill0001.gif"/></p></figure></p>
+<p>Amsterdam, by de Erfg: van <hi rend="i">J. Lescailje</hi>, op de Middeldam, op de hoek van de Vischmart, 1689. <hi rend="i">Met Privilegie</hi>.</p></div>
+    </cf>
+<div type="chapter">
+<interpGrp>
+<interp type="secundair" value="wits034"/>
+</interpGrp>
+<pb n="III"/>
+<head rend="h3">Aan de <hi rend="i">Edele, Manhafte, Gestrénge Heer</hi>, De Heer Lambert Witsen,
+<lb/>
+<hi rend="i">Ridder, enz. Kolonel, én Sergant-Majoor der Stad Amsterdam, enz</hi>.</head>
+<lg type="poem">
+<l><hi rend="b">H</hi>Eel Neêrland hélpt deez' dag het Vórstlyk Londen vieren;</l>
+<l rend="; 1tab">Der Burg'ren yver, zich door 't vuur, als vuur, vertoond,</l>
+<l>Nu zy 's Lands Véldheer Vórst der Britten zien gekroond</l>
+<l>Door zyn beleid, zyn moed, én 't hemelsche bestieren.</l>
+<l>&#160;</l>
+<l rend="; 1tab">Myn Zangster, om dat Feest mét haare vreugd te sieren,</l>
+<l>Uit een onkreukb're drift, die haar geheel bewoond,</l>
+<l>Heeft zich verstout (haar kleen vermoogen diend verschoond)</l>
+<l>Een Lovertje te zien gehégt aan die Laurieren.</l>
+<l>&#160;</l>
+<l rend="; 1tab">Maar, wie deeld dieper in die gadelooze vreugd,</l>
+<l>Als Amstels Ov'righeên, door wélkers trouw de deugd</l>
+<l>Des Vórstely ken Hélds zich 't stérkst' zag onderschraagen.</l>
+<l>&#160;</l>
+<l rend="; 1tab">Wie meêr, Grootmoedig Heer, als <hi rend="sc">Witsens</hi> achtbaar bloed,</l>
+<l>Van ouds af, nooit versuft in Raad, Beleid, nóch Moed.</l>
+<l>Wien stond my waardiger als U dit op te draagen.</l>
+<l>&#160;</l>
+<l rend="; 2tab">T. ARENDSZ.</l></lg></div>
+<div type="chapter">
+<interpGrp>
+<interp type="primair" value="beau026"/>
+</interpGrp>
+<pb n="IV"/>
+<p>
+<figure>
+<p><xptr to="aren001kroo01ill0002.gif"/></p></figure></p>
+<div type="section">
+<head rend="h3">Copye Van de privilegie.</head>
+<p>DE Staten van Holland ende Westvriesland doen te weeten. Alzo Ons vertoond is by de tegenwoordige Regenten van de Schouwburg tot Amsterdam, Dat zy Supplianten zedert eenige Jaaren herwaarts met hunne goede vrinden hadden gemaakt en ten Tooneele gevoert verscheiden Werken, zo van Treurspeelen, Blyspeelen als Klugren, welke zy lieden nu geerne met den druk gemeen wilden maken: doch gemerkt dat deze Werken door het nadrukken van anderen, veel van hun luifter, zo in Taal als Spelkonst zouden komen te verliezen, en alzo zy Supplianten hen berooft zouden zien van hun byzondere oogwit om de Nederduitsche Taal en de Digtkonst voort te zetten,
+<pb n="V"/>zo vonden zy hen genoodzaakt, om daar inne te voorzien, ende hen te keeren tot Ons, onderdanig verzoekende, dat Wy omme redenen voorsz. de Supplianten geliefden te verleenen Oktroy ofte Privilegie, omme alle hunne Werken reeds gemaakt, ende noch in 't ligt te brengen, den tyd van vyftien Jaaren alleen te mogen drukken en verkoopen of doen drukken en verkoopen, met verbod van alle anderen op zeekeren hooge peene daar toe by Ons te stellen, ende voorts in communi forma. Zo is 't dat Wy de Zake en 't Verzoek voorsz. overgemerkt hebbende, ende genegen wezende ter bede van de Supplianten, uit Onze regte wetenschap, Souveraine magt ende authoriteit dezelve Supplianten gekonzenteert, geakkordeert ende geoktroieert hebben, konzenseeren, akkordeeren ende oktroieeren misdezen, dat zy geduurende den tyd van vyftien eerst achter een volgende Jaaren de voorsz. Werken die reeds gedrukt zyn, ende die van tyd tot tyd door haar gemaakt ende in 't ligt gebragt zullen werden, binnen den voorsz. Onzen Lande alleen zullen mogen drukken, doen drukken, uitgeven en verkoopen. Verbiedende daarom allen ende eenen ygelyken dezelve Werken naar te drukken, ofte elders naargedrukt binnen den zelve Onzen Lande te brengen, uit te geven ofte te verkoopen, op de verbeurte van alle de naargedrukte, ingebragte ofte verkogte Exemplaaren, ende een boete van drie honderd guldens daar en boven te verbeuren, te appliceren een darde part voor den Officier die de kalange doen zal, een dat de part voor den Armen der Plaatze daar het kazus voorvallen zal, ende het resteerende dat de part voor den Supplianten. Alles in dien verstande, dat wy de Supplianten met dezen Onzen Oktroije alleen willende gratificeren tot verhoedinge van haare schaade door het nadrukken van de voorsz. Werken, daar door in geenige deelen verstaan, den inhoude van dien te authorizeeren ofte te advoueeren, ende veel min de zelve onder Onze protektie ende bescherminge, eenig meerder kredit, aanzien oft reputatie te geven, nemaar
+de Supplianten in kas daar in yets onbehoorlyk zoude mogen influeeren, alle het zelve tot haren laste zullen gehouden wezen te verantwoorden; tot dien einde wel expresselyk begeerende, dat by aldien zy dezen Onzen Oktroije voor de zelve Werken zullen willen stellen daar van geene geabbrevieerde ofte gekontraheerde mentie zullen mogen maaken, nemaar gehouden zullen weezen het zelve Oktroy in 't geheel ende zonder eenige Omissie daar voor te drukken ofte te doen drukken, ende dat zy gehouden zullen zyn een exemplaar van alle de voorsz. Werken, gebonden ende wel gekonditioneert te brengen in de Bibliotheecq van Onze Univerziteit tot Leiden, ende daar van behoorlyk te doen blyken. Alles op poene van het
+<pb n="VI"/>effekt van dien te verliezen. Ende ten einde de Supplianten dezen Onz en konz ent en Oktroije mogen genieten als naar behooren: Lasten wy allen ende eenen ygelyken die 't aangaan mag, dat zy de Supplianten van den inhoude van dezen doen, laaten en gedogen, rustelyk en volkomentlyk genieten, en cesserende alle beletten ter kontrarie. Gedaan in den Haage onder Onz en grooten Zegele hier aan doen hangen den <hi rend="sc">xix</hi> September in 't Jaar onzes Heeren en Zaligmakers duizent zes honderd vier en tachtig.</p>
+<p>G. FAGEL.</p>
+<p>&#160;</p>
+<p>Ter Ordonnantie van de Staaten</p>
+<p>&#160;</p>
+<p>SIMON van BEAUMONT.</p>
+<p>&#160;</p>
+<p>De te genwoordige <hi rend="i">Regenten</hi> van de <hi rend="i">Schouwburg</hi>, hebben het recht der bovenstaande Privilegie, voot de <hi rend="i">Krooninge van haare Majesteiten, tot Koning en Kominginne van Engeland, &amp;c.</hi> vergund aan de Erfgenaamen van <hi rend="i">J. Lescailje</hi>.</p>
+<p>&#160;</p>
+<p>In Amsterdam den 21 April, 1689.</p></div></div>
+<div type="chapter">
+<pb n="VII"/>
+<head rend="h3">Vertooners.</head>
+<head rend="h4"><hi rend="i">Spreekende</hi>.</head>
+<list>
+<item><hi rend="spat">DE MAAGD VAN GROOT BRITTANJE</hi>.</item>
+<item><hi rend="spat">BATAVIA</hi>.</item>
+<item><hi rend="spat">De TEEMS</hi>.</item>
+<item><hi rend="spat">De RYN</hi>.</item>
+<item><hi rend="spat">De FAAM</hi>.</item>
+<item><hi rend="spat">De SEINE</hi>.</item>
+<item><hi rend="spat">De PALTS</hi>.</item>
+<item><hi rend="spat">De WAARHEID</hi>.</item>
+<item>Een { <hi rend="spat">MAN</hi>, } <hi rend="i">klaagende Paltslieden</hi>.</item>
+<item>Een { <hi rend="spat">VROUW</hi>, } <hi rend="i">klaagende Paltslieden</hi>.</item>
+<item>Een { <hi rend="spat">WEEZ</hi>, } <hi rend="i">klaagende Paltslieden</hi>.</item>
+<item>Tweede <hi rend="spat">WEEZE</hi>, } <hi rend="i">klaagende Paltslieden</hi>.</item></list>
+<div type="section">
+<head rend="h4"><hi rend="i">Zingende</hi>.</head>
+<list>
+<item><hi rend="spat">HOVAARDY</hi>.</item>
+<item><hi rend="spat">VLEIJERY</hi>.</item>
+<item><hi rend="spat">BEDROG</hi>.</item>
+<item>Twee <hi rend="spat">STROOMNIMFEN</hi>.</item>
+<item><hi rend="spat">ENGELSCHE {  HARDERS</hi>.</item>
+<item><hi rend="spat">ENGELSCHE { HARDERINNEN</hi>.</item>
+<item><hi rend="spat">ENGELSCHE { ONDERDAANEN</hi>.</item></list></div>
+<div type="section">
+<head rend="h4"><hi rend="i">Danssende</hi>.</head>
+<list>
+<item><hi rend="spat">GEWELD</hi>, } <hi rend="i">In het eerste Bedryf</hi>.</item>
+<item><hi rend="spat">MOORD</hi>, } <hi rend="i">In het eerste Bedryf</hi>.</item>
+<item><hi rend="spat">SPYT</hi>, } <hi rend="i">In het tweede Bedryf</hi>.</item>
+<item><hi rend="spat">WRAAKZUCHT</hi>, } <hi rend="i">In het tweede Bedryf</hi>.</item>
+<item><hi rend="spat">VERWOEDHEID</hi>, } <hi rend="i">In het tweede Bedryf</hi>.</item>
+<item><hi rend="spat">WANHOOP</hi>, } <hi rend="i">In het tweede Bedryf</hi>.</item>
+<item>De { <hi rend="spat">TEEMS</hi>, } <hi rend="i">Vier Stroomgoden in het laatste Bedryf</hi>.</item>
+<item>De { <hi rend="spat">RYN</hi>, } <hi rend="i">Vier Stroomgoden in het laatste Bedryf</hi>.</item>
+<item>De { <hi rend="spat">DONAU</hi>, } <hi rend="i">Vier Stroomgoden in het laatste Bedryf</hi>.</item>
+<item>De { <hi rend="spat">TAAG</hi>, } <hi rend="i">Vier Stroomgoden in het laatste Bedryf</hi>.</item></list></div>
+<div type="section">
+<pb n="VIII"/>
+<head rend="h4"><hi rend="i">Zwygende</hi>.</head>
+<list>
+<item>De <hi rend="spat">KONING</hi>, } <hi rend="i">van Engeland, Vrankryk ên Yrland</hi>.</item>
+<item>De <hi rend="spat">KONINGINNE</hi>, } <hi rend="i">van Engeland, Vrankryk ên Yrland</hi>.</item>
+<item><hi rend="spat">ENGELSCHE GEESTELYKE</hi>, en</item>
+<item><hi rend="spat">ENGELSCHE WAERELDLYKE LORDS</hi>.</item>
+<item><hi rend="spat">DAPPERHEID</hi>, } <hi rend="i">staande benevens ae Traen, aan de zyde van de Koning</hi>.</item>
+<item><hi rend="spat">STANTVASTIGHEID</hi>, én } <hi rend="i">staande benevens ae Traen, aan de zyde van de Koning</hi>.</item>
+<item><hi rend="spat">VOORZICHTIGHEID</hi>, } <hi rend="i">staande benevens ae Traen, aan de zyde van de Koning</hi>.</item>
+<item><hi rend="spat">WYSHEID</hi>, } <hi rend="i">staande aan de zyde van de Koninginne</hi>.</item>
+<item><hi rend="spat">GOEDERTIERENHEID</hi>, én } <hi rend="i">staande aan de zyde van de Koninginne</hi>.</item>
+<item><hi rend="spat">RECHTVAARDIGHEID</hi>, } <hi rend="i">staande aan de zyde van de Koninginne</hi>.</item>
+<item><hi rend="spat">VREDE</hi>, } <hi rend="i">daalende in een Troon van welken neder</hi>.</item>
+<item><hi rend="spat">GERECHTIGHEID</hi>, én } <hi rend="i">daalende in een Troon van welken neder</hi>.</item>
+<item><hi rend="spat">WAARHEID</hi>. } <hi rend="i">daalende in een Troon van welken neder</hi>.</item>
+<item><hi rend="spat">De OORLOGSVLOEKEN</hi>.</item>
+<item><hi rend="spat">FRANSCHE KRYGSOVERSTEN</hi>, <hi rend="spat">DRAGONDERS</hi>, én <hi rend="spat">SOLDAATEN</hi>.</item>
+<item><hi rend="spat">ENGELSCHE</hi>, én <hi rend="spat">YRSCHE KRYGSOVERSTEN</hi> én <hi rend="spat">SOLDAATEN</hi>.</item>
+<item><hi rend="spat">MISHANDELDE STEDELINGEN</hi> én <hi rend="spat">LANDLIEDEN VAN DE PALTS</hi>.</item>
+<item><hi rend="spat">BRANDENBURGSCHE én HOLLANDSCHE SOLDAATEN</hi>.</item>
+<item><hi rend="spat">DE ZEVEN VEREENIGDE NEDERLANDSCHE PROVINTIEN</hi>.</item>
+<item><hi rend="spat">EEN DRAAK</hi>.</item>
+<item><hi rend="spat">DE WRAAK DES HEMELS</hi>.</item></list></div></div>
+<div type="act">
+<pb n="1"/>
+<head rend="h2">De krooninge <hi rend="i">Van haare Majesteiten</hi>, Wilhem Hendrik, en Maria Stuart,
+<lb/>
+Tót Koning, én Koninginne van Engeland.</head>
+<head rend="h3">Eerste bedryf.</head>
+<head rend="h4"><hi rend="i">Eerste tooneel</hi>.</head>
+<stage><hi rend="i"><hi rend="b">D</hi>E Maagd van Vrankryk, verbeeld door de Seine, als zynde de vermaardste én bekéndste Révier van Vrankryk, omringt van de voornaamste Fransche Grooten, én Krygsoversten aan de eene, én Engelsse én Yrße Krygsoversten aan de andere kant.
+<lb/>
+De Seine rédeneert mét de Oversten over haare toestand, betuigende, door eene réde vol verwoedheid én lasteringen tégens Hólland, haare spyt over de veranderinge in Engeland, én geheel Europa voorgevallen</hi>.
+<pb n="2"/>
+<lb/>
+<hi rend="i">Zy maant de Oversten aan om wraak daar van te neemen, én alle bedénkelyke razernije te pleegen.
+<lb/>
+Ondertusschen verschynen Hovaardy, Vleijery, én Bedróg. Hitsende de zélve door hun gezang nóch vérder aan, om wraak van de gehoonde glory hunnes Konings te neemen</hi>.
+<lb/>
+    <l rend="; 1tab">Gewéld, én Moord</l>
+
+<hi rend="i">Ryzen uit de Afgrond, (het Gewéld, gewapend mét een Schild én Zwaard, de Moord mét een Wolfsvél omgórd) maakende te zaamen eene Dans, waar in zy hunne verwoedheid, én dreigeménten verbeelden, én het Bedryf besluiten.
+<lb/>
+Aanspraak van de</hi> <hi rend="sc">Seine</hi> <hi rend="i">aan de Fransche Krygsoversten</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Seine</hi>.</speaker>
+<l>MAnhafte Hélden, tót uws Konings roem geschapen,</l>
+<l>Grondvésten van zyn ryk, Krygsgoden in het wapen,</l>
+<l>Door wiens gevreezden arm én onverschrokken ziel,</l>
+<l>De groote Lodewyk alom steeds 't véld behiel,</l>
+<l>En zyne naam waar voor de trótste vólk'ren beeven,</l>
+<l>Zich tót aan 't Starrendak, ja hooger, ziet verheeven;</l>
+<l>Gy, die het al voor hém doet buigen door de kracht</l>
+<l>Uws krygsvólks, wiens gemoed mét alle érbermen lacht.</l>
+<l>Door vrouwen, kinderen, nóch maagden nooit bewoogen,</l>
+<l>Hoe kunt gy zulk een hoon, als ons geschied, gedoogen?</l>
+<l>Hoe kunt ge lyden dat door zulk een hand vol land.</l>
+<l>Als Hólland, 't wélk zich korts zag door uw arm vermand,</l>
+<l>En uw gewéld in zyn moerassen most ontduiken,</l>
+<l>Ge uws Vórsts vermoogendheid nu ziet de wieken fnuiken?</l>
+<l>Dat snoode Land, 't wélk steeds zyn zeege heeft verlét,</l>
+<l>Zyne alver winnendheid de voet steeds dwars gezét,</l>
+<l>Dat ous te lande én ook te water 't hoofd durfd' bieden,</l>
+<l>En onze scheepsmagt steeds mét schande heeft doen vlieden:</l>
+<l>Nóch niet te vreên dat 't in zyn hoogmoed triomfeert,</l>
+<pb n="3"/>
+<l>Heeft onzen Bondgenoot op 't smaadelykst onteerd,</l>
+<l>Het onderling verstand, mét zo veel listigheden</l>
+<l>Bedékt, verwaandelyk verydelt, én vertreeden,</l>
+<l>En op het onverwachst, ten spót van zyn vernuft,</l>
+<l>Dat nu, na 't schynt, schoon 't nooit gebeurde, heeft gefuft,</l>
+<l>De trouwe Jakob uit het Britsche ryk verdreeven,</l>
+<l>En een vermeetele in zyn plaats ten troon verheeven.</l>
+<l>Die, schoon hy door zyn Echt, geboorte, én wéttig bloed</l>
+<l>Zich zelve waand te zien in zyn réchtvaardig goed,</l>
+<l>Waar van zyn Voorzaad word gezégt te zyn versteeken,</l>
+<l>Als eenen die 's Ryks wét, én réchten durfde breeken,</l>
+<l>Zyn bloed verzaaken, een onzéker érfge naam</l>
+<l>Voorstéllen, ja, dat ik my zélf te noemen schaam,</l>
+<l>Zyn vórstelyk gemoed, ondraagelyke woorden,</l>
+<l>Bezoed len boven dien mét onmedoogend moorden.</l>
+<l>Die onderdrukker, die verdélger van de list</l>
+<l>Der schrand're maunen hém alleen niet 't ryk betwist,</l>
+<l>Maar durft ons over zè op 't allervinnigst dreigen,</l>
+<l>En alle Vórsten tót myn ondergang doen neigen;</l>
+<l>Die uwes Konings magt weêrspanniglyk versmaân,</l>
+<l>Zyne onbepaalde wil hovaardig tégen staan,</l>
+<l>Ja onbedachtelyk zyn légers reeds bespringen,</l>
+<l>Vol moed hém wéder al 't veroverde te ontwringen.</l>
+<l>Op, op; 't is tyd dat gy uw' grimmige oogen slaat</l>
+<l>Op die ver waatene; verwoest dat heilloos zaat;</l>
+<l>'t Moet uitgeroeid, om nooit zyn' glory meer te ontluist'ren,</l>
+<l>Noch zyne zeegepraal door smétten te verduist'ren.</l>
+<l>Heeft eene zè van vuur, van traanen, én van bloed</l>
+<l>Niet magts genoeg, doe, doe 't verzinken in de vloed</l>
+<l>Des noorder Oceaans; die zal op zyn geboden,</l>
+<l>Als in onze Operaas, die ryksgedróchten dooden.</l>
+<l>Al heeft hy door 't beleid van Luxemburg wel eer</l>
+<l>Doen voelen hoe hy is te vreezen, door 't geweer</l>
+<l>Van onverzoenb're, schélmse én raazende soldaaten,</l>
+<pb n="4"/>
+<l>Op zyn bevél in woede én wreedheid uitgelaaten,</l>
+<l>Het lustryk Bodegraave én Zwadenburgerdam</l>
+<l>Stréng doen verwoesten, én verteeren door de vlam,</l>
+<l>Die zuigelingen in de wieg zélf niet deê spaaren,</l>
+<l>Terwyl de moeder, vast gebonden aan haar haaren,</l>
+<l>In 't aanzien van de man, onteerd wierd, én ontzield,</l>
+<l>En nevens hém mét huis én hóf door 't vuur vernield,</l>
+<l>Dit 's alles sléchs gering by 't geen hén is beschooren</l>
+<l>Tót straf van hun bestaan door 's Konings félle tooren.</l>
+<l>Bréngt al de plaagen die de hél verzinnen mag,</l>
+<l>Tót hun verdélging, op het schriklykste aan de dag.</l>
+<l>Zal my een slobbrig Y, óf schraale Maas bràveeren?</l>
+<l>Een Amstelplasje my, een Koningin, onteeren?</l>
+<l>Neen, neen: 'k verga veel eer voor eeuwig eer ik ly</l>
+<l>Dat zulk een overmoed lang ongewrooken zy.</l>
+<l>De fórsse Ryn begind van vér zyn norsse braauwen</l>
+<l>Wyd op te spalken, én my schamper toe te graauwen;</l>
+<l>De dolle Donau spreekt hém moed in, stérkt zyn magt,</l>
+<l>Terwyl de Tyber mét 's Vórsts dreigementen lacht:</l>
+<l>De traage Taag voelt zélf zyn oude moed ontsteeken,</l>
+<l>Om op my 't ongelyk, hém aangedaan, te wreeken;</l>
+<l>Maar boven al maakt my de strydb're Teems ontroerd,</l>
+<l>Die, brullende van wraak, vervaarlyk légt én loert,</l>
+<l>Om my een doodsche steek in 't wroegend hart te geeven:</l>
+<l>'k Voorzie zyn vloot door zè reeds hér waard heene streeven;</l>
+<l>My dunkt ik zie hém reeds aan myne kust geland,</l>
+<l>En doorgedrongen zélf tót in myn ingewand.</l>
+<l>'k Zie al 't gewonnene weêr schandelyk verlooren:</l>
+<l>De heele waereld heeft myn ondergang gezwooren;</l>
+<l>'t Schynt élk zich tans om my te dooden 't yvrigst toont;</l>
+<l>Maar 'k héb ook niemand in het woeden ooit verschoont.</l>
+<l>Dóch, 't is nóch tyd voor u die donder af te keeren;</l>
+<l>Uwe Oorlogsbénden, fleeds gewoon te triomfeeren,</l>
+<l>Staan reê, 's ryks schatkist is met 's vyands roof vervuld:</l>
+<l>Wat is 'er dat gy niet te boven komen zult?</l>
+<pb n="5"/>
+<l>Terwyl dat gy de Palts, vermaard door vruchtbere oesten,</l>
+<l>En édle wynstók, zult doen door het vuur verwoesten,</l>
+<l>En haare Véstingen vernielen tót de grond,</l>
+<l>Ja zo dat nie mand ooit kan zéggen, zie daar stond</l>
+<l>Het prachtig Vórstelyk Slót, dat eeuwen kon verduuren,</l>
+<l>Daar zietge 't overschót der Témp'len, óf der muuren;</l>
+<l>Tot een verbaazing van al wie u weêrstand bied.</l>
+<l>Laat onzen Bondgenoot, wien 't Kétterdom verstiet,</l>
+<l>Mét onze magt gestérkt, in 't ryk der Yren dringen,</l>
+<l>Om mét die hulp de Teems kloekhartig te bespringen,</l>
+<l>Op dat, terwyl de nieuw verkooren Koning 't hoofd</l>
+<l>Hém bied, 't snood Néderland blyf van zyn hulp beroofd.</l>
+<l>Men moet der Yren moed wél niet te veel betrouwen,</l>
+<l>Maar hun gedachten mét het schynbeeld bézig houwen</l>
+<l>Van hunne Gódsdienst, die vervolgt word én verdrukt,</l>
+<l>En hoe de Roomsche Kerk haar sierssel word ontrukt.</l>
+<l>Want schoon my aan het récht der Kerk niet légt gelégen,</l>
+<l>Gelyk men daaglyks ziet, 't kan échter 't graauw beweegen;</l>
+<l>'t Word door die blinddoek tot verwoede wraak bekoord.</l>
+<l>Dat bleek op Bartels Nacht, die hoog beruchte moord,</l>
+<l>Toen door 's volks razerny ruim honderd duizend zielen,</l>
+<l>Daar onder al de bloem der Hugenotten vielen.</l>
+<l>Dat hébt ge, ô Yrland, op het schrikkelykst gezien,</l>
+<l>Toen, door die woede, driemaal honderd duizend liên</l>
+<l>Het leeven, in het kort, op 't allerwreedst verlooren.</l>
+<l>Ik zie die zélve tyd weêr op een nieuw hérbooren;</l>
+<l>Ik zie een open véld om al wat ooit voorheen</l>
+<l>Afgryslyks is gebeurd, dit pas in een te smeên.</l>
+<l>Ik voel zélf de afgrond tót myn bystand zich beweegen,</l>
+<l>De Spooken klimmen reeds, tót onze hulp geneegen,</l>
+<l>De roode Draak braakt zucht tót wraak, bloeddorst, én moord:</l>
+<l>Het onderaardsch gespuis word brullende gehoord.</l></sp>
+<div type="scene">
+<pb n="6"/>
+<head rend="h4"><hi rend="i">Tweede tooneel</hi>.</head>
+<stage><hi rend="sc">Hovaardy, Vleijery, Bedróg, Moord</hi>, <hi rend="i">én</hi> <hi rend="sc">Geweld</hi>, <hi rend="i">verscheinen in de Zaal</hi>.</stage>
+<sp>
+<speaker><hi rend="i">De</hi> <hi rend="sc">Seine</hi> <hi rend="i">spreekt hén aan</hi>.</speaker>
+<l>GY Razernijen, die vrywillig komt verschynen,</l>
+<l rend="; 1tab">Doet door een nacht van ramp der Kétt'ren zon verdwynen;</l>
+<l>Blaast, blaast den Vorsten in een onverzétb're moed;</l>
+<l>Maakt hén meêdoogenloos, onzoenbaar, én verwoed</l></sp>
+<stage><hi rend="i">Zang der Spooken</hi>
+<lb/>
+<hi rend="sc">Hovaardy, Vleyery</hi>, <hi rend="i">ón</hi> <hi rend="sc">Bedróg</hi>,</stage>
+<sp>
+    <interpGrp> <interp type="song" value="aren001kroo01_0001"/> </interpGrp>
+<speaker><hi rend="sc">Hovaardy</hi>.</speaker>
+<l>WIe durft de grootste Koning térgen</l>
+<l rend="; 1tab">Die Immer 't Aardryk zag?</l></sp>
+<sp>
+<speaker><hi rend="sc">Bedróg</hi>.</speaker>
+<l>Wie kan zich voor zyn toorn verbérgen?</l>
+<l rend="; 1tab">Zy trèft gelyk een donderslag.</l></sp>
+<sp>
+<speaker><hi rend="sc">Vleyery</hi>.</speaker>
+<l>De Hémel zélf kan hém geen réden vérgen,</l>
+<l rend="; 1tab">Wyl hy alleen al wat hy wil vermag.</l></sp>
+<sp>
+<speaker><hi rend="i">Alle te zaamen</hi>.</speaker>
+<l>Wie durft de grootste Koning térgen</l>
+<l rend="; 1tab">Die immer 't Aardryk zag?</l></sp>
+<sp>
+<speaker><hi rend="sc">Vleyery</hi>.</speaker>
+<l>Hovaardig rót, vermeet'le dwérgen,</l>
+<l rend="; 1tab">Bereid u vry tót weêgeklag.</l></sp>
+<sp>
+<speaker><hi rend="sc">Hovaardy</hi>.</speaker>
+<l>Beef, beef, verwaande, voor de gloed</l>
+<l rend="; 1tab">Van zyn ontsteeke tooren;</l>
+<l rend="; 1tab">Zy zal u doen versmooren,</l>
+<l>In eene Zè van traanen, vuur en bloed.</l></sp>
+<pb n="7"/>
+<sp>
+<speaker><hi rend="i">Alle te zaamen</hi>.</speaker>
+<l>Wie durft de grootste Koning térgen</l>
+<l rend="; 1tab">Die immer 't Aardryk zach?</l>
+<stage>Vertooninge achter het eerste Bedryf.
+<lb/>
+<hi rend="i">BEllona</hi>, <hi rend="i">gewapend</hi>, <hi rend="i">omringt van 's Oorlógsvloeken</hi>, <hi rend="i">doet bewys aan de Fransche Krygsdrommen</hi>, <hi rend="i">verzien mét Geschut én alle ander Moordgeweer</hi>, <hi rend="i">mét hunne wreedheid voort te vaaren</hi>, <hi rend="i">én de Palts te verwoesten</hi>.</stage>
+<l>BEllona mét haar stoet, omringt van Oorlogsschaaren,</l>
+<l>Gebied aan de Oversten mét woeden voort te vaaren,</l>
+<l>Die toonen hén bereid, én buigen voor haar neêr.</l>
+<l>Daar zietge 't brullend heir, verzien van Moordgeweer,</l>
+<l>Gereed de vruchtb're Palts onménschlyk te verwoeiten.</l>
+<l>Wat zal de dulle Kryg een beemd van Lyken Oegsten.</l></sp>
+<stage><hi rend="i">Dans van</hi> <hi rend="sc">Geweld</hi> <hi rend="i">én</hi> <hi rend="sc">Moord</hi>.
+<lb/>
+<hi rend="i">Einde van het eerste Bedryf</hi>.</stage></div></div>
+<div type="act">
+<pb n="8"/>
+<head rend="h3">Tweede bedryf.</head>
+<head rend="h4"><hi rend="i">Eerste tooneel</hi>.</head>
+<stage><hi rend="i">De</hi> <hi rend="sc">Faam</hi>, <hi rend="i">de</hi> <hi rend="sc">Ryn</hi>.
+<lb/>
+<hi rend="i">Het Tooneel verbeeld een lustig Landschap daar de Rynstroom door loopt</hi>.</stage>
+<sp>
+<speaker><hi rend="i">De</hi> <hi rend="sc">Faam</hi>.</speaker>
+<l>GEduchte Ryn, die van 't Gebérgte neêr komt stroomen,</l>
+<l>Die duizend Stéden téld aan uw' beroemde zoomen,</l>
+<l>En die zo meenigmaal het woeden hebt bezuurt</l>
+<l>Van dwingelanden, dóch hun razerny verduurt,</l>
+<l>Rys uit uw klaare kil; wil myne réden hooren</l>
+<l>En wélk een zégen gantsch Europa is beschooren.</l></sp>
+<sp>
+<speaker><hi rend="i">De</hi> <hi rend="sc">Ryn</hi>.</speaker>
+<l>Wie vérgt my in het licht te komen? welk een maar,</l>
+<l>O Faam, méld uw Bazuin? is wéder nieuw gevaar</l>
+<l>Voor handen? zal het bloed myn waat'ren weêr ontluist'ren,</l>
+<l>Of zal een donderbui de dag op nieuws verduist'ren?</l>
+<l>Komt weêr de Sein Slang vol verwoedheid op my aan?</l>
+<l>Doe my, o snél Gerucht, de waarheid tóch verstaan,</l></sp>
+<sp>
+<speaker><hi rend="i">De</hi> <hi rend="sc">Faam</hi>.</speaker>
+<l>Ik héb geen maar van ramp, ô Stroòm! u voor te houwen,</l>
+<l>Ik kom u nooden om iets heuggelyks te aanschouwen,</l>
+<l>Al broeid een dolle stórm én donder in de lucht,</l>
+<l>Die reeds van verre word vernomen door 't gerucht.</l>
+<l>Het heilryk licht omtrent de Teemsstroom opgereezen,</l>
+<l>Zal een vertroosting in die duisternissen weezen.</l>
+<l>Koom, zie de deugd vol roem verheven op de Troon.</l>
+<l>Oranje, Nassaus bloed, zult gy de dierbre Kroon</l>
+<l>Van 't magtig Britse Ryk de haaren zien omstraalen,</l>
+<l>Daar zuit gy Hóllands Héld mét pracht zien zeegepraalen,</l>
+<l>De Troon bekleên die zyn Grootvader eer bezat,</l>
+<l>Daar gaerne 't boos bedróg hém van versteeken had,</l>
+<pb n="9"/>
+<l>Schoon zy door 't bloed, zyne echt, zyn deugd, hém was beschooren,</l>
+<l>Zélf van de hemel tót dat Ryksbehoud verkooren.</l>
+<l>Zyn Leeuwemoed, gestyft van Neêrlands oorlogs magt,</l>
+<l>Zyn Hélden hart, dat steeds heeft nood én dood veracht,</l>
+<l>Heeft hém, in spyt van storm én duizend doodsgevaaren,</l>
+<l>Onwankelbaar gevoerd door 't barnen van de baaren,</l>
+<l>Om 't onderdrukte Ryk te rédden van 't gewéld.</l>
+<l>Wat zou onmooglyk zyn voor zulk een dapper héld?</l>
+<l>Naauw zét de <hi rend="i">Oranje Vórst</hi> op 't heilryk land zyn voeten,</l>
+<l>Of ziet zich van élk een als hun verlósser groeten.</l>
+<l>Mét wat verwoedheid zich de Ryksplaag ook bewoog,</l>
+<l>Wat gloênde dreigingen zy uit haar kaaken spoog,</l>
+<l>Zyn onverschrokke ziel ontfonkt te meêr zyne ad'ren:</l>
+<l>De Draak ziet gantsch verbaast die Overwinnaar nad'ren,</l>
+<l>Zy durft hém niet weêrstaan, maar geeft zich in de Lucht.</l>
+<l>Waar 't door zyn goedheid niet, zy was het niet ontvlugt.</l>
+<l>Maar zyn doorluchte ziel, zyn hoogverheve zinnen,</l>
+<l>Zyn hart, dat altyd kan zyn driften overwinnen,</l>
+<l>Heeft, schoon tót straf wierd door gerechte wraak gepleit,</l>
+<l>Getoont dat hy meêr roeming oedertierenheid</l>
+<l>Als kwaads vergélding vind. mét duizend vreugdezangen</l>
+<l>Zult gy hét Britsche vólk haar Koning zien ontfangen:</l>
+<l>Zy zien hém als een schild voor hunne vryheid aan;</l>
+<l>Een trouw beschérmer van zyn trouwen onderdaan;</l>
+<l>Voor wiens geduchte naam de trótse Sein moet beeven,</l>
+<l>Wiens woede op Neêrland wierd door hém te rug gedreeven,</l>
+<l>En voor wiens kloekheid, nooit in 't grootst gevaar beklérnt,</l>
+<l>De trótse Lodewyk hét bloed in de ad'ren strémt;</l>
+<l>Die zich bereids verbeeld van hém te zien besprongen,</l>
+<l>En 's Vórsten bénden tót zyn havens ingedrongen;</l>
+<l>Of in het open véld hém, hoe, verwoed door spyt,</l>
+<l>Aangrypen, daar hy hém in 't midden van de stryd</l>
+<l>Van zo veel hélden in het wreed gevécht verslagen,</l>
+<l>Dóch tót onsterff'lyke eer, van hén, zal réden vraagen.</l>
+<pb n="10"/>
+<l>O Rynstroom, die zo vaak van schrik te rugge vlood</l>
+<l>Voor 't woên der draaken, voor wiens wreed gezigt de dood</l>
+<l>Steeds heenen vliegt, zie u ook van die zon belonken.</l>
+<l>Wél aan dan, kom, aanschouw die Roem der waereld pronken,</l>
+<l>Bezie hoe 't konings kleed past om zyn hélden leên.</l>
+<l>Maar 't grootste sierssel dat in zo veel heerlykheên,</l>
+<l>En praalgewaaden zich zal op doen voor uwe oogen,</l>
+<l>Daar uw verwondering zich 't krachtigst door bewoogen</l>
+<l>Zal voelen, is zyn nooit volpreeze Koningin;</l>
+<l>Maria, 't ófferbeeld van vórstelyke min.</l>
+<l>De dierb're vreugdekroon van zyne lévensdagen;</l>
+<l>Maar wien ook minder 't ryk kan als haar Héld behaagen.</l>
+<l>De luister van de deugd, die haare ziel verlicht,</l>
+<l>Maakt dat de duisternis der lasteringen zwicht,</l>
+<l>En zuivert 't Vórsten bloed waar van ze is voortgesprooten.</l>
+<l>Toef niet, ô Stroomgód, hébtge ooit stóf tót vreugd genooten,</l>
+<l>Nu is het dat zy u op 't minnelykst bestraalt.</l></sp>
+<sp>
+<speaker><hi rend="i">De</hi> <hi rend="sc">Ryn</hi>.</speaker>
+<l>Verbaast, verwonderd door het geen ge my verhaald,</l>
+<l>O Faam, kan myne vreugd zich naauwelyks bedwingen</l>
+<l>O wonderlyke keer! ô wat veranderingen!</l>
+<l>De Teems ontbonden, én tót myne hulp bereid!</l>
+<l>O hemel, wélk geluk, wat goedertierenheid!</l>
+<l>Nu, hoop ik, is de wraak om hoog by u beslooten,</l>
+<l>Van zo veel bloeds 't geen zo onménsch'lyk is vergooten,</l>
+<l>Zo veel onnoozele, mêdoogenloos ontzield,</l>
+<l>Van zo veel véstingen, zo goddcloos vernield.</l>
+<l>Die koninglyke Héld, gebooren tót regeeren,</l>
+<l>Héb ik de Lelyvórst zien aan myn boord braveeren;</l>
+<l>En mét een hand vol vólks, mét Hóllands magt alléén,</l>
+<l>In spyt van dolle woede, én opgeblaazendheên,</l>
+<l>Beroemde véstingen, kloekmoedig aangegreepen,</l>
+<l>Hém zien ontwringen, waar op 't heilloos heir beneepen,</l>
+<pb n="11"/>
+<l>Van doodschrik, tommelings 't gewonne Land verliet,</l>
+<l>En door die Lasheid zyn gekóchte roem verried,</l>
+<l>Maar wat zal hy na zulk een wénschelyk verbinden</l>
+<l>Van <hi rend="i">Britt</hi>- én <hi rend="i">Neder-land</hi>, zich tans niet onderwinden?</l>
+<l>Beef, Seine, beef, verschuil in uwe Waterkólk.</l>
+<l>De wraak des Hemels wêt reeds door zyn hand haar dólk;</l>
+<l>'k Zie de Oorlogsvlammen door uw' weelige Akkers weijen,</l>
+<l>Door uwe Wouden én Wynbergen zich verspreijen,</l>
+<l>Een deerlyk véldgeschrey, tót straf van zo veel moord,</l>
+<l>Als gy bedreeven hébt, word kérmende gehoort.</l>
+<l>Maar, Vorstelyke Teems, die korts nóch had te schroomen</l>
+<l>Voor slaverny, hoe zyt gy tót dit heil gekomen?</l>
+<l>Gy ziet uw nacht van druk in eene héld're dag</l>
+<l>Van vreugd veranderd, nu het Koninglyk gezag</l>
+<l>Van Groot Brittanje, het gezégenst aller landen,</l>
+<l>Door 't hémelsche bestier, gestéld is in de handen</l>
+<l>Eens Vórsts, wiens groote ziel zich aan uw lót verbind,</l>
+<l>Die boven troon én kroon réchtvaardigheid bemind;</l>
+<l>Der dwingelanden schrik, der onderdrukten Heilland.</l>
+<l>O gloryryke Teems! ô hooggelukkig Eiland!</l>
+<l>Héb dank, ô blyde Faam......</l></sp>
+<sp>
+<speaker><hi rend="i">De</hi> <hi rend="sc">Faam</hi>.</speaker>
+<l rend="; 2tab">Wat wil dat naar gerucht!</l></sp>
+<sp>
+<speaker><hi rend="i">De</hi> <hi rend="sc">Ryn</hi>.</speaker>
+<l>Myn Stroom word gantsch beroerd; wat damp vervuld de lucht?</l></sp>
+<sp>
+<speaker><hi rend="i">De</hi> <hi rend="sc">Faam</hi>.</speaker>
+<l>Het Aardryk beeft! ik hoor gedruis! wie komt ons nad'ren?</l></sp>
+<sp>
+<speaker><hi rend="i">De</hi> <hi rend="sc">Ryn</hi>.</speaker>
+<l>Wat doodsche schrik strémt my op nieuws het bloed in de ad'ren!</l></sp>
+<sp>
+<speaker><hi rend="i">De</hi> <hi rend="sc">Faam</hi>.</speaker>
+<l>O Hemel! wat ik zie!</l></sp>
+<sp>
+<speaker><hi rend="i">De</hi> <hi rend="sc">Ryn</hi>.</speaker>
+<l rend="; 1tab">Hélp, Hemel! ô verdriet!</l></sp>
+<pb n="12"/>
+<sp>
+<speaker><hi rend="i">De</hi> <hi rend="sc">Faam</hi>.</speaker>
+<l>Ik vliê. O stroom! verzink in 't diepste van uw vliet.</l></sp>
+<div type="scene">
+<head rend="h4"><hi rend="i">Tweede tooneel</hi>.</head>
+<stage><hi rend="i">Een vuurspuuwende</hi> <hi rend="sc">Draak</hi> <hi rend="i">komt te voorschyn</hi>; <hi rend="i">de</hi> <hi rend="sc">Faam</hi> <hi rend="i">vliegt wég</hi>, <hi rend="i">én de</hi> <hi rend="sc">Stroom</hi> <hi rend="i">zinkt néder</hi>.</stage>
+<l>Het Tooneel veranderd, én vertoond een verwoesd</l>
+<l>Landschap; aan verscheide kanten van het Tooneel</l>
+<l>ziet men vuurvlammen, én daar word een</l>
+<l>verméngd geschrei van Mannen, Vrouwen,</l>
+<l>én Kinderen gehoord.</l>
+<stage><hi rend="i">De Draak keert zich</hi>, <hi rend="i">vuur én vlammen braakende</hi>, <hi rend="i">heen én wéder</hi>.</stage>
+<l>Men hoord een zwaare Donderslag. Waar op een félle</l>
+<l>Blikzemstraal néderschiet, die de Draak tréft</l>
+<l>én in de afgrond doed verzinken.</l></div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Derde tooneel</hi>.</head>
+<stage><hi rend="sc">Spyt, Wraakzucht, Verwoedheid, Wanhoop</hi>, <hi rend="i">ieder mét een Toorts én een Dolk in de, vuist</hi>, <hi rend="i">ryzen uit de Afgrond</hi>, <hi rend="i">betoonende door een verwoede Dans hunne spyt over 't omkomen des</hi> <hi rend="sc">Draaks</hi>, <hi rend="i">dóch van een vuurregen overvallen</hi>, <hi rend="i">verzinken</hi>.</stage></div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Vierde tooneel</hi>.</head>
+<stage><hi rend="sc">Klaagende Paltslieden</hi>, <hi rend="i">een</hi> <hi rend="sc">Vrouw</hi>, <hi rend="i">beweenende 't verlies van haar Man</hi>, <hi rend="i">een</hi> <hi rend="sc">Man</hi>, <hi rend="i">'t verlies van zyn Vrouw</hi>, <hi rend="i">twee</hi> <hi rend="sc">Weezen</hi> <hi rend="i">'t verlies hunner Ouders</hi>.</stage>
+<sp>
+<speaker><hi rend="i">De</hi> <hi rend="sc">Vrouw</hi>.</speaker>
+<l>MOst ik myn waarde man zien stérven,</l>
+<l>Helaas! door 't Fransche moordgeweer?</l></sp>
+<pb n="13"/>
+<sp>
+<speaker><hi rend="i">De</hi> <hi rend="sc">Man</hi>.</speaker>
+<l>Myn trouwe hélft, moet ik u dérven,</l>
+<l>Beroofd van léven én van eer!</l></sp>
+<sp>
+<speaker>1 <hi rend="sc">Weez</hi>.</speaker>
+<l>Helaas! waar zal ik moeten zwérven?</l>
+<l>Myn waardige Ouders zyn niet meêr!</l></sp>
+<sp>
+<speaker>2 <hi rend="sc">Weeze</hi>.</speaker>
+<l>Ik zag myn Vaders strót doorkérven,</l>
+<l>Myn Moeder storte in 't bloed ter neêr.</l>
+<l>Helaas! waar zal ik moeten zwérven?</l>
+<l>Myn waardige Ouders zyn niet meêr.</l></sp>
+<sp>
+<speaker>1 <hi rend="sc">Weez</hi>.</speaker>
+<l>Helaas! waar zal ik moeten zwérven?</l>
+<l>Myn waardige Ouders zyn niet meêr!</l></sp>
+<sp>
+<speaker><hi rend="i">De</hi> <hi rend="sc">Vrouw</hi>.</speaker>
+<l>Most ik myn waarde man zien stérven,</l>
+<l>Helaas! door 't Fransche moordgeweer!</l></sp>
+<sp>
+<speaker><hi rend="i">De</hi> <hi rend="sc">Man</hi>.</speaker>
+<l>Myn trouwe hélft, moet ik u dérven,</l>
+<l>Beroofd van léven én van eer!</l></sp>
+<sp>
+<speaker><hi rend="i">De</hi> <hi rend="sc">Vrouw</hi>.</speaker>
+<l>O Hemel! wees mét ons bewoogen.</l></sp>
+<sp>
+<speaker><hi rend="i">De</hi> <hi rend="sc">Man</hi>.</speaker>
+<l>Houd op, ai! maatig uwe straf.</l></sp>
+<sp>
+<speaker><hi rend="i">De</hi> <hi rend="sc">Weez</hi>.</speaker>
+<l>Héb mét ons lyden mededoogen.</l></sp>
+<sp>
+<speaker><hi rend="i">De</hi> <hi rend="sc">Weeze</hi>.</speaker>
+<l>Wisch onze droeve traanen af.</l></sp>
+<sp>
+<speaker><hi rend="i">De</hi> <hi rend="sc">Man</hi>.</speaker>
+<l>Zie daar de droeve Paltsmaagd nad'ren,</l>
+<l>Het haar ontsnoerd, 't gewaad gescheurd:</l>
+<l>Haar doodsgelaat toond wélk een schrik dringt door haar ad'ren.</l>
+<l>O ramp, die nooit genoeg kan zyn betreurd!</l></sp></div>
+<div type="scene">
+<pb n="14"/>
+<head rend="h4"><hi rend="i">Vyfde tooneel</hi>.</head>
+<sp>
+<speaker><hi rend="i">De</hi> <hi rend="sc">Klaagende Palts</hi>, <hi rend="i">de voorige</hi>.</speaker>
+<l>WRaak, Hemel! Hemel, wraak! kunt gy deer gruuwzaamhéden</l>
+<l>Aanschouwen? kuntge zien hoe 'k word verwoest, ver treeden?</l>
+<l>Blyft gy meêdoogenloos voor myn benauwde klagt?</l>
+<l>Geréchte Hemel, waar 's uw donder, waar de kracht</l>
+<l>Van uwe Bliksemen? weetgy van geen ontfermen?</l>
+<l>Een vuurvloed overstroomd myn Akkers; klaagen, kérmen</l>
+<l>Van Maagden, schandelyk gesleurd, onteerd, vermoord,</l>
+<l>En zuigelingen, word, helaas! alom gehoord.</l>
+<l>Ik zie hét dierbaar Bloed myns vólks als water pléngen.</l>
+<l>Ik voel myn haaren door verwoede vlammen zéngen:</l>
+<l>Al myn versiersselen zyn t'eenemaal verdooft;</l>
+<l>En myn beroemd gezag is haare kroon ontroofd.</l>
+<l>Zal myne wynstók al de waereld 't hart verheugen,</l>
+<l>En drénktge my, helaas! mét zulke bitt're teugen?</l>
+<l>Myn vórstelyk paleis, dat eeuwen heeft gestaan,</l>
+<l>En 't oorlógs woên verduurt, moet nu te gronde gaan:</l>
+<l>De zwaare toorens, die de waereld deên verwond'ren,</l>
+<l>Bezwyken, waggelen, én stórten, wyl van ond'ren</l>
+<l>Des vyands razerny de grondslag open maakt,</l>
+<l>En meêr dan Etnaas gloed, al donderende, braakt.</l>
+<l>O lusthóf van uw' Vórst, ô roem van zyne landen,</l>
+<l>Hoe deerelyk zyt gy gemartelt door de handen</l>
+<l>Van aardsch Tierannen, waar door gy u, tégens récht</l>
+<l>En réden, zo verwoed ziet in het stóf gelégt!</l>
+<l>Hoe zwaar is uwe val, die 'k eeuwig zal betremen!</l>
+<l>Zult gy wel immer 't hoofd weêr komen op te beuren?</l>
+<l>'k Eisch wraak, ô Hemel! én ik zie de dag te moet</l>
+<l>Dat, tót vergélding van zo veel vergoote bloed,</l>
+<l>Van zo veel moorden, én van zo veel gruuweldaaden,</l>
+<pb n="15"/>
+<l>Het zwaard uws toorns zich in myns vyands bloed zal baaden;</l>
+<l>En 't oorlógsvuur, in 't goud van 't lelydak ontfonkt</l>
+<l>Der Lustgebouwen, daar de trótse Sein meê pronkt,</l>
+<l>Verteeren al de pracht dier opgeblaaze muuren;</l>
+<l>Tót een verwondering én schrik der nagebuuren.</l>
+<l>De maat der boosheid most geheelyk zyn vervuld.</l>
+<l>Heel 't aardryk wacht mét my de straf mét ongeduld.</l>
+<stage>Vertooninge achter het tweede Deel.
+<lb/>
+<hi rend="i">VOor aan ziet men de Stedelingen én Landlieden van de Palts, op het grouwelykste mishandeld, gesleept, gebonden, weggevoert, gemartelt, vrouweschennis, kindermoorden, enz. Achter vertoont zich het Slaan der Fransche door de Brandenburgsse én Hóllandsche Troepen, mét de nederlaag én vlugt der Franschen, die van de Wraake des Hemels, boven hun Hoofd vliegende, met een Zwaard, vervólgt wérden.
+<lb/>
+Op de eerste opzigt</hi>.</stage>
+<l>Hier zietge 't Fransche Heir, in moedwil uitgelaaten;</l>
+<l>Onnoozelheid kan 't Kind, nóch Maagden 't kermen baaten;</l>
+<l>Geen Konings woord behoed de onschuld'ge Steedeling;</l>
+<l>Des Landsmans érf vergaat door 't vuur, hy door de kling</l>
+<l>Na dat hy eereloos heeft zyne Vrouw zien schénden,</l>
+<l>Wat baart de Staatzucht al verwoedheên én elénden.</l>
+<stage><hi rend="i">Op de tweede vertoening</hi>.</stage>
+<l>Hier ziet ge 't schénziek rót kloekmoedig aangegreepen,</l>
+<l>Die wolven, dood van schrik, de lénden na zich sleepen,</l>
+<l>De kloekheid die hun hart, als 't moorden géld, bewoond,</l>
+<l>Nu geen de minste blyk van dapperheid betoont.</l>
+<l>Des Hemels gloende Wraak doet hen hun boosheid boeten,</l>
+<l>Ze is stréng van arm, al schynt zy somtyds traag van voeten.</l></sp>
+<stage><hi rend="i">Einde van het tweede Bedryf</hi>.</stage></div></div>
+<div type="act">
+<pb n="16"/>
+<head rend="h3">Derde bedryf.</head>
+<head rend="h4"><hi rend="i">Eerste tooneel</hi>.</head>
+<stage><hi rend="i">HEt Tooneel verbeeld de voorgrond van de plaatse der Krooninge. De Teemsstroom</hi>, <hi rend="i">de Ryn</hi>, <hi rend="i">de Donau én de Taag verschynen mét een gevolg van Waternimfen</hi>, <hi rend="i">Engelsche Harders én Harderinnen. De Teems nood hén alle te zaamen zich te verheugen over de gewénschte Krooninge des nieuwen Konings</hi>, <hi rend="i">én der nieuwe Koninginne</hi>, <hi rend="i">waar van het Feest op dat oogenblik gevierd wérd</hi>, <hi rend="i">zybetoonen bunne vreugd door hunne gezangen</hi>, <hi rend="i">tót lóf van haare Majesteiten. Daar op nood de Teems de andere Stroomgoden binnen te treeden om plaats te maaken aan de Maagd Batavia</hi>, <hi rend="i">die van de Maagd van Groot Brittanje by de hand geleid</hi>, <hi rend="i">mét haar gevólg</hi>, <hi rend="i">de zeven vrye vereenigde Nederlandsche Provintien</hi>, <hi rend="i">hén komt nad'ren</hi>.</stage>
+<sp>
+<speaker>De <hi rend="sc">Teems</hi>.</speaker>
+<l>HEt heilryk oogenblik, ô Nimfen, is verreezen</l>
+<l>Dat wy, nu voor ons geen meêr onraad is te vreezen,</l>
+<l>Wyl moord, bedróg, gewéld, verraad gebannen zyn,</l>
+<l>Een heughclyke dag een héld're zonneschyn</l>
+<l>De nacht der rampen die ons dreigden op zien klaaren,</l>
+<l>En 't brullend onweêr op het vrindelykst bedaaren.</l>
+<l>Het Vórst'lyk Hóf dat nu in volle blydschap woeld,</l>
+<l>Daar tans de vrolykheid op 't weeligste krroelt,</l>
+<l>Nood ons gezaamendlyk haar feest te zien vertoonen:</l>
+<l>Daar zullen wy de Deugd, de Minzaamheid zien kroonen,</l>
+<l>Die deugd waar door we ons zien voor dwinglandy behoed,</l>
+<l>Die minzaamheid, de roem van 't Koninglyke bloed.</l>
+<l>'t Is <hi rend="i">Wilhem Héndrik,</hi> die voor geene Waereldgrooten</l>
+<l>Behoefd te wyken, zélf uit Keizers bloed gesprooten,</l>
+<l>Wat naakt, ô Britt'land, u al heerlykheid én vreugd;</l>
+<l>O wélk een glans ontfangt de Kroon van zyne deugd!</l>
+<l>Aan zyne zyde staat uw' dierb're Koninginne,</l>
+<pb n="17"/>
+<l>Des Koningly ken Hélds doorluchte Gemaalinne:</l>
+<l>Komt, eerd mét my de glans van 't vrind'lyk aangezigt,</l>
+<l>Groet mét verwondering het bovenménsch'lyk licht,</l>
+<l>Waar door haar groote ziel gekénd word uit haare oogen,</l>
+<l>Die ed'le ziel, steeds vol van Vórsi'lyk mededoogen</l>
+<l>Voor de onderdrukte, steeds tót hunne hulp bereid,</l>
+<l>'t Beroemdste Baak' van Liefde én Goedertierenheid;</l>
+<l>Hoofddeugden, zélden zo volmaaktelyk te toonen</l>
+<l>In Koninginnen, dóch die haar op 't heerlykst kroonen.</l>
+<l>O Ed'le pronkstar die alle andere verdooft!</l>
+<l>O wélk een eerekroon voor my! nu beurd myn hoofd</l>
+<l>Zich moedig hooger op; myn roem genaakt de wólken,</l>
+<l>Nu zal myn naam, vermaard by nooit bekénde vólken,</l>
+<l>Geen overvruchtb're Nyl, noch ryke Ganges meêr</l>
+<l>Te wyken hoeven, geen Eufraat betwist myne eer.</l>
+<l>Op, op, myn Nimfen, toon uw'blydschap én genoegen:</l>
+<l>En gy, ô Véldliên! wilt u t'zaamen by ons voegen;</l>
+<l>Toon, névens ons, mét uw' Véldnimfen u verblyd:</l>
+<l>Nu zytge voor het woên des dollen Krygs bevryd,</l>
+<l>Onnoodig u voortaan angstvallig te verschuilen,</l>
+<l>In 't naar én doods vertrék van onderaardsche kuilen.</l>
+<l>Gy ook, ô Harders' die uw' rust verzékert ziet,</l>
+<l>Gy, Harderinnen, héf, héf aan een vrolyk lied.</l>
+<l>Nu kuntge t'zaam mét lust uw' lieve Lamm'ren weiden;</l>
+<l>Aan myn kristalle boord hén vrolyk drénken leiden,</l>
+<l>Geen bloedstroom zal zich meêr verméngen mét myn nat,</l>
+<l>Nóch my ontluisteren, wél eer zo wreed beklad.</l>
+<l>Wél aan, wilt in dit uur malkander niet bez wyken,</l>
+<l>Laat, élk om stryd, uw vreugd én danbaarheden blyken;</l>
+<l>Zie hoe de Hémel lacht, hoe 't Aardryk zich verheugd,</l>
+<l>Ja zélf het woeste Meir bedaard is, én vol vreugd.</l></sp>
+<sp>
+    <interpGrp> <interp type="song" value="aren001kroo01_0002"/> </interpGrp>
+<speaker>1 <hi rend="sc">Stroomnimf</hi>.</speaker>
+<l rend="; 1tab">Laat ons de groote Koning looven,</l>
+<l rend="; 1tab">Die ons de milde Hémel geeft;</l>
+<l rend="; 1tab">Hy is het waardst geschénk van boven,</l>
+<l rend="; 1tab">Dat Britt'land ooit genooten heeft.</l></sp>
+<pb n="18"/>
+<sp>
+<speaker><hi rend="i">De</hi> <hi rend="sc">Veldlieden, Veldnimfen, Harders</hi> <hi rend="i">én</hi> <hi rend="sc">Harderinnen</hi>.</speaker>
+<l rend="; 1tab">Laat ons de groote Koning looven,</l>
+<l rend="; 1tab">Die ons de milde Hemel geeft.</l></sp>
+<sp>
+<speaker>2<hi rend="sup">e</hi>. <hi rend="sc">Stroomnimf</hi>.</speaker>
+<l rend="; 1tab">De vryheid, van 't gewéld verschooven,</l>
+<l rend="; 1tab">Door zyne deugd op nieuws hérleeft.</l></sp>
+<sp>
+<speaker><hi rend="i">De voorige</hi></speaker>
+<l rend="; 1tab">Laat ons de groote Koning looven,</l>
+<l rend="; 1tab">Die ons de milde Hemel geeft.</l></sp>
+<sp>
+<speaker>1 <hi rend="sc">Stroomnimf</hi>.</speaker>
+<l rend="; 1tab">Nooit rampspoed moet zyn roem verdooven,</l>
+<l rend="; 1tab">Die tót aan 's Waerelds einden zweefd.</l></sp>
+<sp>
+<speaker><hi rend="i">Alle te zaamen</hi>.</speaker>
+<l rend="; 1tab">Laat ons de groote Koning looven</l>
+<l rend="; 1tab">Die ons de milde Hemel geeft</l>
+<l rend="; 1tab">Hy is het waardst geschénk van boven</l>
+<l rend="; 1tab">Dat Britt' land ooit genooten heeft.</l></sp>
+<sp>
+<speaker><hi rend="i">De</hi> <hi rend="sc">Teems</hi>.</speaker>
+<l>Beroemde Stroom Goôn, die deez' groote dag komt eeren,</l>
+<l>Wilt door uwe achtbaarheên de vrolykheid vermeêren;</l>
+<l>Treed mét ons binnen; toon uw' blydschap nevens my;</l>
+<l>Terwyl de Seine barst van spyt én razerny.</l>
+<l>Komt, groet mét my het licht der Vórstelyke straalen</l>
+<l>Die, zo vol zegen, op ons alle nederdaalen.</l>
+<l>Batavia verschynt, van Britt'lands Maagd geleid,</l>
+<l>Belétten wy heur niet in heure vrolykheid:</l></sp>
+<div type="scene">
+<head rend="h4"><hi rend="i">Twede tooneel</hi>.</head>
+<stage><hi rend="i">De Maagd van Groot Brittanje</hi>, <hi rend="i">verzeld van veele Engelsche Grooten en Edellen</hi>, <hi rend="i">geleid Batavia</hi>, <hi rend="i">de Maagd van Nederland</hi>, <hi rend="i">vergezélschapt van de zeven vrije vereenigde Provincien ieder aan haar Wapen te kénnen</hi>, <hi rend="i">by de hand na de plaatse der Krooninge. Naar wederzydsche betuigeniße van genegenheid en onverbreekbre Vrindschap</hi>, <hi rend="i">toont zy aan Batavia haare Koninglyke Majesteiten op de Troon</hi>, <hi rend="i">ieder mét de Kroon op 't Hoofd</hi>.</stage>
+<pb n="19"/>
+<sp>
+<speaker><hi rend="sc">Brittanje</hi>.</speaker>
+<l>TErwyl myn Volkeren deez' dag mét blydschap kroonen,</l>
+<l rend="; 1tab">En élk om stryd bewys van hun vernoeging toonen,</l>
+<l>Nu zy door 's Hémels gunst, én uw doorluchtigst bloed,</l>
+<l>Zich zien voor dwinglandy én ondergang behoed,</l>
+<l>Vinde ik niets waardiger om my het hart te raaken,</l>
+<l>Als dat ge u aan die vreugd ook wilt deelachtig maaken;</l>
+<l>O vrygevocht'ne, die veel liever 't léven liet,</l>
+<l>Als dat ge uw' dapperheid én oude roem verlied,</l>
+<l>Ik weet wat deel gy moogd in myn verlóssing neemen,</l>
+<l>'k Zal u die glory niet betwisten, nóch ontvreemen,</l>
+<l>Het was uw' Véldheer, én geoeffende oorlogsmagt,</l>
+<l>Door wien zulk een geluk ons is te weeg gebragt.</l>
+<l>Gy, Edelmoedige, beroemd door uwe daaden,</l>
+<l>Durfde alle dreigingen des vyands kloek versmaaden,</l>
+<l>En stélde u zélve voor zyn razernije bloot,</l>
+<l>Om my in 't hoogst gevaar te rédden uit de nood;</l>
+<l>Uw schatten, schépen, én beroemde waterhélden</l>
+<l>Die voor uw wélvaard steeds zich in de Brésse stélden,</l>
+<l>Zo wél bedachtelyk als vroom, én onvertzaagd</l>
+<l>Hébt gy gelykelyk voor myn behoud gewaagt.</l>
+<l>Uw scheepryk Y héb ik zulks eeuwig dank te weeten,</l>
+<l>De trouwe Maas zal myn geheugen nooit vergeeten;</l>
+<l>De dappre Zeeuwen, én de vrije Vries, wiens hart</l>
+<l>De dwinglandy steeds onverschrokken heeft getart,</l>
+<l>Staan t'zaamen in myn hart dankbaatlyk opgeschreeven,</l>
+<l>Uw Opperhoosden, steeds gewoon na lóf te streeven,</l>
+<l>Wien 't nimmermeer verdroot, mét onbezweeken moed,</l>
+<l>In 't woedenst van de stryd én 's dollen oorlogsgloed,</l>
+<l>Manhaftelyk uw staat te hélpen onderschraagen,</l>
+<l>En lyf, ja ziel, kon 't zyn, gerust daar voor te waagen;</l>
+<l>Die hélden zullen nooit uit myn gedachten gaan:</l>
+<l>Een onverwélkb're kroon van ed'le lauwerblaân</l>
+<l>Moet hunne kruinen tót hun aller roem omvlégten,</l>
+<l>En hunne naamen aan het hoogst gestarnte hégten.</l>
+<l>Verwacht, ô waardigste, dat ik op myne beurt</l>
+<l>U zal betoonen hoe myn ziel uw' diensten keurt.</l>
+<pb n="20"/>
+<l>De groote Koning die myn Ryksstaf heeft in handen,</l>
+<l>Die strydb're Vórst, de schrik van alle dwingelanden,</l>
+<l>In uwe schoot gekweekt, zy u een bórg voor my,</l>
+<l>En strékke u tót een schild voor Vrankryks razerny.</l>
+<l>De Zè zal 't Neêrlands bloed mét 't Britse nooit meêr méngen,</l>
+<l>Maar het tierannige, te zaam vereenigt, pléngen;</l>
+<l>Tót wraak van uw verdriet, én myn verraân gezag.</l>
+<l>Ik blaake, ik brande, ik haak na die gewénschte dag.</l></sp>
+<sp>
+<speaker><hi rend="sc">Batavia</hi>.</speaker>
+<l>Hoe zoet, ô myn vrindin, is die betuigenisse,</l>
+<l>Uit een opréchte ziel, én onbeschroomd gewisse,</l>
+<l>Aan my; hoe heerelyk vind ik me tans beloond?</l>
+<l>Voor de yver die ik héb tót uwen dienst getoont.</l>
+<l>Hoe waard is 't my dat ik my vrylyk mag beroemen</l>
+<l>Mét u veréénd te zyn; gelukkig moet ik noemen</l>
+<l>Het aanblik dat my heeft tót uwe hulp verwékt,</l>
+<l>En nu een waarborg voor myn wreede Vyand strékt</l>
+<l>O vorstelyke Maagd, wie zal ons kunnen deeren,</l>
+<l>Wanneerwe élkanderen getrouwelyk verweeren?</l>
+<l>Uw Koning is het hoofd myns heirs, én van myn vloot:</l>
+<l>Wat hulp verwacht ik niet van zulk een bondgenoot?</l>
+<l>Wat bén ik niet verpligt hém op myn beurt te toonen,</l>
+<l>Gy zult, naar zyn verdienst, die Héld mét goud bekroonen,</l>
+<l>Maar ik zal van myn hart, hét waardigste kleinood,</l>
+<l>Een troon hém stichten die geen vyand, nood, noch dood</l>
+<l>Ooit zal doen wankelen. 'k verlang die Vorst t'aanschouwen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Brittanje</hi>.</speaker>
+<l>Myn trouwste Gebuurin, ik zal uw niet weêrhouwen,</l>
+<l>Gy zult hém zien, de glans van zyne Majesteit</l>
+<l>Kan niet onheuglyk zyn aan uw genegenheid.</l>
+<stage>De Schutdoek word opgehaald.
+<lb/>
+<hi rend="i">Zyne Majesteit zittende mét zyne Koninginne</hi>, <hi rend="i">ieder mét de kroon op 't hoofd</hi>, <hi rend="i">op de troon in het midden van een Vorstelyke zaal. Aan de zyde van zyn Majesteit</hi>, <hi rend="i">néffens de troon</hi>, <hi rend="i">staan</hi>, <hi rend="i">Dapperheid</hi>, <hi rend="i">Standvastigheid</hi>, <hi rend="i">én Voorzigtigheid</hi>,
+<pb n="21"/>
+<hi rend="i">aan de zyde van haare Majesteit</hi>, <hi rend="i">Gôdvruchtigheid</hi>, <hi rend="i">Edelmoedigheid</hi>, <hi rend="i">én Goedertierenheid. Ter réchter zyde van het Tooneel staan de Engelsche Geestelyke</hi>, <hi rend="i">aan de linker de Waereldlyke Lords</hi>.</stage></sp>
+<sp>
+<speaker><hi rend="sc">Brittanje</hi>.</speaker>
+<l>Daar ziet gy op de Troon die Overwinnaar praalen</l>
+<l>Mét zyne Koningin, voor wélkers héldre straalen</l>
+<l>De glanssen van 't gesteent, aan 't sierssel van haar hoofd</l>
+<l>Verbleeken, én byna gantsch wérden uitgedoofd.</l>
+<l>Gy ziet hén beide, omringt mét eene stoet van Vad'ren</l>
+<l>En éd'le Ridd'ren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Batavia</hi>.</speaker>
+<l rend="; 2tab">'k Zal mét uw verlóf hén nad'ren,</l>
+<l>Al is dat tintelen myn oogen ongewoon,</l>
+<l>Ik eer de glanssen van de koninglyke Kroon.</l>
+<l rend="; 1tab">Door liefde, pligt, én diepe érkéntenis bewoogen,</l>
+<l>Kom ik, van overzè, tót in uw hóf getoogen,</l>
+<l>O Vórst, om 't heil daar u de hemel meê vereerd,</l>
+<l>En dat myn ziel voor zyn beroemst geluk waardeerd,</l>
+<l>Mét myne zegewénsch na waarde te versieren,</l>
+<l>En deeze blyde dag verheugd te hélpen vieren.</l>
+<l>Ziet hier de Zusteren van 't vrije Nederland,</l>
+<l>Te zaam verbonden door de lieffelyke band</l>
+<l>Van Vréde, én Eendracht, die u névens my begroeten.</l>
+<l>Uw' glory kan in hén 't geleede leed verzoeten,</l>
+<l>Hét heugd hén nóch, toen, door een dwingend Nagebuur,</l>
+<l>Heur heerlykheid byna verzonk in bloed én vuur,</l>
+<l>Hoe uw' manhafte ziel, in die benaauwde vlaagen,</l>
+<l>Tót hun hérstélling goed én bloed u deede waagen;</l>
+<l>Hoe gy, spyt de overmagt van Vrankryks krygsgewéld,</l>
+<l>Grootmoediglyk hén tróft in 't blaakend oorlógsvéld,</l>
+<l>Zélf Stad op Stad ontrukte, én deed te lande uit wyken,</l>
+<l>Daar Bérgen u voor 't laast de lauwere krans zag stryken;</l>
+<l>Alwaar gy zéggen mogt, ik kwam, ik zag, ik won.</l>
+<l>De lauw'ren, die u voor de bliksems van Bourbon</l>
+<l>De kruin verzék'ren, zyn hun allerwaardste panden,</l>
+<l>En de onverwelkb're roem der vrije Nederlanden:</l>
+<pb n="22"/>
+<l>Zy hoopen, in de schaauw van dat geheiligt loof</l>
+<l>'t Gewéld der wolven, hoe verwoed én heet na roof,</l>
+<l>Hoe naar het ongedierd ook grimmen mag, én huilen,</l>
+<l>Als in een wagenbórgt gerustelyk te ontschuilen;</l>
+<l>Zy achten, door 't beschut van uw verwinnend zwaard,</l>
+<l>Hun vryheid, hun geluk, én glory wel bewaard;</l>
+<l>En dat gy, om 't gewéld der Seine te betoomen,</l>
+<l>Tót hunne bystand mét uw' magt eerlang zult komen.</l>
+<l>Ik zie, ô Vorst! dat uw gemoed niet is vervreemd</l>
+<l>Door 't Goud der Kroon; 'k zie hoe uw ziel genoegen neemd</l>
+<l>In myne rédenen. ook wat ons staat te hoopen,</l>
+<l>O Koningin! in wien wy zien de Hemel open,</l>
+<l>Van uw genegenheid; u die zo langen tyd</l>
+<l>De luister zyt geweest van Hólland, zynwe kwyt;</l>
+<l>Maar schoon het Lichaam, ô Vórstin! ons heeft begeeven,</l>
+<l>Uw liefde is ons geheel én onvervalscht gebleeven;</l>
+<l>De tekens uwer deugd, de Waereld door bekénd,</l>
+<l>Staan in gantsch Hóllands hart zo klaar én diep geprént,</l>
+<l>Dat élk, wanneer hy van uw scheiden hoort vermaanen,</l>
+<l>Van liefde én énk'le rouw versmélten moet in traanen.</l>
+<l>Nooit, nooit vergeet de Haag, mét wélk een minzaamheid</l>
+<l>Gy ieder een ontfingt, zélf zonder onderscheid;</l>
+<l>Uw mildheid is élk een, verdrukte 't meest gebleeken;</l>
+<l>De Témplen kunnen van uw heilige yver spreeken;</l>
+<l>De Burg ren van uw' trouw, én Vórstelyk gemoed,</l>
+<l>Standvastig in beraad, in voor én tegenspoed.</l>
+<l>Hoe kon de Hemel zo veel deugden beter loonen.</l>
+<l>Als met driedubble glans uw waerdig hoofd te kroonen.</l>
+<l>Leeft lang, ô Vórst'lyk Paar! ô aller eeuwen Roem,</l>
+<l>Die 'k onbeschroomd de pronk der Waereldgrooten noem,</l>
+<l>Regeert voorspoediglyk, op dat uwe Onderzaaten</l>
+<l>Gelukkig moogen zyn. al wie u durf verwaaten</l>
+<l>Belaagen, ga te grond: maar wélk een snél gedruis</l>
+<l>Beweegt de hófzaal. mét een lieffelyk geruis?</l>
+<pb n="23"/>
+<l>Wat hélder licht verspreit zyn heuggelyke straalen?</l>
+<l>De hémel opent zich: 'k zie hémellieden daalen,</l>
+<l>Zy neigen 't hoofd, ter gunst van uwe Majesteit;</l>
+<l>Ik zwyg, hun hemeltaal vereischt eerbiedigheid.</l></sp></div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Derde tooneel</hi>.</head>
+<stage><hi rend="sc">Vrede, Waarheid</hi>, <hi rend="i">én</hi> <hi rend="sc">Gerechtigheid</hi>, <hi rend="i">nederdaalende in een Troon van wélken. Zy treeden uit de Troon</hi>, <hi rend="i">én begroeten haare Majesteiten. De voorige blyven</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Waarheid</hi>.</speaker>
+<l>O Vórst, wien myn belang, vér boven troon én kroon,</l>
+<l rend="; 2tab">Het hélden hart kon raaken,</l>
+<l>Geniet, mét uw Vórstin, de rykstaf, tót uw loon.</l>
+<l rend="; 1tab">U zal nooit ramp genaaken,</l>
+<l>Zo lang geréchtigheid, myn Zuster, u verzêld;</l>
+<l rend="; 1tab">Gy zult haar steeds beminnen:</l>
+<l>En wyl uw' groote ziel door kryg na vréde hélt,</l>
+<l rend="; 1tab">Zult gy gewis verwinnen.</l>
+<l>Wy komen van om hoog ons voegen by uw stoet;</l>
+<l rend="; 1tab">'t Is 's hemels wélbehaagen.</l>
+<l>Ontfang ons wederom, ons die korts zo verwoed</l>
+<l rend="; 1tab">'t Gewéld heeft doen verjaagen.</l>
+<l>Wy zyn, gy weet bêt, van onstérffelyk geslagt,</l>
+<l rend="; 1tab">Daar wy vereenigt blyven,</l>
+<l>Bloeit alle heerlykheid in onverwinb're kracht,</l>
+<l rend="; 1tab">Voelt zich de wélvaard styven.</l>
+<l>Zo zy, ô Vórst, uw ryk een ryk van weelde én vreugd,</l>
+<l rend="; 1tab">Spyt wrévele overbuuren.</l>
+<l>Uw koninglyk gebied, gegrondvest door de deugd,</l>
+<l rend="; 1tab">Zal alle nyd verduuren.</l></sp>
+<sp>
+<speaker><hi rend="sc">De Maagd van Groot Brittanje</hi> <hi rend="i">maand de aanschouwende onder daanen des ryks tot vreugdezangen</hi>.</speaker>
+<l>Gy Onderdaanen, wien de blydschap 't aangezicht</l>
+<l>Ophélderd mét een straal van overheuglyk licht,</l>
+<pb n="24"/>
+<l>Op, nu de hemel zélf dit kroonfeest komt vereeren,</l>
+<l>Wilt in dit ogenblik de vrolykheid vermeêren.</l>
+<l>De Teemsstroom nadert met een achtb're stoet verzéld,</l>
+<l>Eer door gezang uw Vórst, én koninglyken Héld.</l>
+<l rend="; 1tab"><hi rend="i">Zang van Engelsche</hi> <hi rend="sc">Onderdaanen</hi>.</l>
+    <interpGrp> <interp type="song" value="aren001kroo01_0003"/> </interpGrp>
+<l rend="; 1tab">Laat ons te zaam mét blyde klanken,</l>
+<l rend="; 1tab">De Hémel danken,</l>
+<l>Voor de onwaardeerb're gunst die 't Britse ryk geniet,</l>
+<l>Nu haar een Vórst die 't recht bemind, gebied.</l>
+<l rend="; 1tab">Regeer mét uwe Koninginne,</l>
+<l>Gelukkig, lang, én steeds verheugd,</l>
+<l>Ons herte blaakt tót u in zuiv're minne.</l>
+<l>Wyl u de Kroon min siert als uwe deugd.</l>
+<l rend="; 1tab">Laat ons te zaam met blyde klanken,</l>
+<l rend="; 1tab">De Hémel danken,</l>
+<l>Voor de onwaardeerb're gunst die 't Britse ryk geniet,</l>
+<l>Nu haar een Vórst die 't recht bemind, gebied.</l></sp></div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Vierde én laasste tooneel</hi>.</head>
+<stage>Alle de voorige.
+<lb/>
+<hi rend="i">De</hi> <hi rend="sc">Teems</hi>, <hi rend="i">de</hi> <hi rend="sc">Ryn</hi>, <hi rend="i">de</hi> <hi rend="sc">Donauw</hi> <hi rend="i">én de</hi> <hi rend="sc">Taag</hi> <hi rend="i">verschynen</hi>, <hi rend="i">maakende te zaamen eene Dans</hi>, <hi rend="i">waar mede het feest een einde neemt</hi>.
+<lb/>
+Einde van het derde Bedryf.</stage></div></div>
+</body>
+</text>
+</TEI.2>

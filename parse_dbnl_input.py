@@ -12,53 +12,8 @@ import requests
 baseurl = f'https://www.dbnl.org/nieuws/xml.php?id=%s' # DBN download TEI-files.
 infile = 'Bibliografische metadata RiR gepubliceerd in 1500-1700.xlsx' # Input xls file.
 
-
-#def _fetch_dbnlxml_byid(dbnlid: str, outdir='xml': str) -> bool:
-
-from dataclasses import dataclass
-from typing import List
-
-@dataclass
-class Play:
-    title: str
-    author: Author
-    year: str
-    place_of_publication: str
-    publisher: str
-    library: str
-    category: str
-    country: str
-    edition: Edition
-    translator: Translator
-    link: str
-    shelfmark: str
-    full_text: str
-    actors: List[Actor]
-
-@dataclass
-class Author:
-    first_name: str
-    last_name: str
-    prefix: str
-
-@dataclass
-class Edition:
-    edition_number: str
-    edition_type: str
-
-@dataclass
-class Translator:
-    first_name: str
-    last_name: str
-
-@dataclass
-class Actor:
-    actor_name: str
-    role: str
-
-
-
-
+if not os.path.isdir('dbnl_xml'):
+    os.mkdir('dbnl_xml')
 
 
 def print_dracor_xml(data: list[dict]):
@@ -147,7 +102,7 @@ def parse_metadata(infile: str, baseurl: str) -> list[dict] | None:
 
         data = {}
 
-        fn = 'xml' + os.sep + str(wanted.get('ti_id').get(nr)) + '.xml'
+        fn = 'dbnl_xml' + os.sep + str(wanted.get('ti_id').get(nr)) + '.xml'
         if not os.path.isfile(fn):
             res = requests.get(baseurl % wanted.get('ti_id').get(nr))
             if not res.status_code == 200:
@@ -170,7 +125,7 @@ def parse_metadata(infile: str, baseurl: str) -> list[dict] | None:
     return all_data
 
 
-#data = parse_metadata(infile, baseurl)
-#pprint(data)
-#print_dracor_xml(data)
+data = parse_metadata(infile, baseurl)
+pprint(data)
+print_dracor_xml(data)
 

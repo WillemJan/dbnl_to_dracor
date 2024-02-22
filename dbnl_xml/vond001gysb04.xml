@@ -1,0 +1,3066 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Gysbreght van Aemstel</title>
+               <author>Joost van den Vondel</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van de herdruk van <hi rend="i">Gysbreght van Aemstel</hi> van Joost van den Vondel uit 1659. De eerste druk dateert uit 1637.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr></corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan type="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>2</empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">vond001gysb04_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note></note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Theater Instituut Nederland, signatuur: 3 C 21</idno>
+               </bibl>
+               <p>Joost van den Vondel, <hi rend="i">Gysbreght van Aemstel</hi>. Abraham de Wees (erven), Amsterdam 1659 (herdruk)</p>
+               <p>&#160;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Gysbreght van Aemstel</title>
+               <author>Joost van den Vondel</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Gysbreght van Aemstel</title>
+               <author>Joost van den Vondel</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-10-04</date>
+               <respStmt>
+                   <name type="person">SG</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+         <text>
+<interpGrp>
+<interp type="secundair" value="amste001"/>
+</interpGrp>
+<body><cf>
+<div type="chapter">
+
+<pb n="1"/>
+<p>J.v. VONDELS</p>
+<p>GYSBRECHT</p>
+<p>VAN</p>
+<p>AEMSTEL</p>
+<p>d'Ondergangk van zijne Stadt, en zijn ballingschap.</p>
+<p>TREURSPEL.</p>
+<p><hi rend="i">Urbs antique ruit.</hi></p>
+<p>De leste druck, vermeert, en verbetert.</p>
+<p><figure>
+<p><xptr to="vond001gysb04ill0001.gif"/></p>
+</figure></p>
+<p>t'Amsterdam.</p>
+<p>By de Weduwe van <hi rend="i">Abraham de Wees</hi>, op den Middeldam, 1659.</p>
+
+</div></cf>
+<div type="chapter">
+<interpGrp>
+<interp type="secundair" value="groo001"/>
+</interpGrp>
+<pb n="3"/>
+<head rend="h3">Den edelen heere Huigh de Groot, Gezant der Koninginne en kroone van Zweden, by den allerchristelijcksten Koning, Luidewijck van Bourbon, Koning van Vranckrijck en Navarre.</head>
+<p><hi rend="b">M</hi>YN HEER,</p>
+<p>&#160;</p>
+<p><hi rend="i">Het rijzen van onzen nieuwen Schouwburgh, gevordert door de Heeren Weesvaders, en inzonderheit door den yver des Raedsheeren Nikolaes van Kampen, niet onbedreven in Bouwkonst, en liefhebber van alle fraeie geesten en wetenschappen, dede onzen lust rijzen, om dit aenzienelijck gebouw in te wijden met eenigh werck, dat deze stadt en Burgerije moght behagen: waerom wy voor onze stoffe uitkozen de jammerlijcke verwoestinge van Amsterdam, en ballinghschap van Gijsbreght van Aemstel, toen Heere der zelver stede:</hi>
+<q rend="bq">Genus à quo principe nostrum:
+<lb/>
+<hi rend="i">De rechte stam van Amsterdam.</hi></q>
+<hi rend="i">Het is kennelijck dat d'aeloude Dichters pooghden de ghedichten den volcke smaeckelijck te maecken met zaecken te ververschen, die die hunne Vorsten en voorouderen betroffen. Homeer verhief de daden en rampen der Griecken, zijne landslieden, en trompette wat geduurende en na het belegh van Troje gebeurde. Maro geleide AEneas, na Trojens onderganck, van Xanthus aen den Tiber, huwde het Latijnsche aen het Trojaensche geslacht, waer uit de Romeinen gesproten zijn. Silius voert den Punischen, Lukaen den burgerlijcken oorlogh. De poëten onzer eeuwe volgen der aelouden voetstappen. Der Christenen ooren luisteren naer Tasso, terwijl hy Buljons christelijcke dapperheit voor Jerusalem zingt. Ronsard kittelt de Vrancken met zijnen Frankus, Hektors oir, den stam der Fransche koningen: en Hooft, ae Drost van Muiden, streelt d' Amsterlanders en zijn geboorte</hi>
+<pb n="4"/><hi rend="i">stadt, in Velzens treurspel, met de voorspellinge van de Vecht; en de Baethouwers met zijnen Baeto, der Katten vorst, waer van de Baethouwers, nu Hollanders genoemt, hunnen oirsprong rekenen: en onder de Griecksche tooneeldichters hangen Sofokles, Euripides en AEschylus doorgaens om Ilium, en wat daer aen vast is, gelijck wolcken om het geberghte, en bouwen hunne bloedige tooneelen te Thebe, t' Argos, en elders, en smilten tot traenen van droefheit, of raecken aen 't hollen van dolheit en ydele inbeeldingen:</hi></p>
+<lg type="poem">
+<l>Gelijck het Pentheus docht, wanneer zijn brein aen 't glijen</l>
+<l>Geraeckte, dat hy zagh ontelbre Razerijen.</l>
+<l>Twee Thebens in de lucht, twee zonnen, klaer van strael:</l>
+<l>Of Agamemnons zoon Orestes, t' elckemael</l>
+<l>Op 't hoogh tooneel gejaeght, terwijl met schrick bevangen</l>
+<l>Hy vloodt voor 's moeders geest, verzien met zwarte slangen</l>
+<l>En tortsen, daer de Wraeck den drempel dicht bezet.</l>
+</lg>
+<p><hi rend="i">Het is oock de reden niet ongelijck, dat onze eige zaecken ons meer ter harte gaen dan die van vreemden en uitheemschen. Beneffens dit in zicht prickelde ons hier toe de genegentheit, om eens (waer het mogelijck) den schoonen brant van Troje t' Amsterdam, in het gezicht zyner ingezetenen, te stichten, naer het voorbeelt des goddelijcken Mantuaens, die een vier ontstack, dat geuriger en heerlijcker blaeckt dan de hemelsche vlam, die den fenix verteert; gelijck Virgilius d' eenige fenix is, in wiens schaduwe het ons lust (zijn wy des waerdig) laeg by de aerde te zweven: en uit wiens assche, eens om de hondert jaeren, een fenix te voorschijn koomt, dien ik nu met den vinger niet hoef te wijzen, naer dien de glans van zijn pennen alle de werelt in d'oogen schittert. Wy bouwden dit treurspel op de gedachtenis, ons by de schryvers en de faem daer van naergelaeten; en stoffeerden en bekleedden de zaeck naer de goude vryheit der edele poëzye; oock naer de tooneelwetten waer tegens wy wetende niet misdeden, 't en waer misschien in talrijckheit van personagien, dat wy qualijck konden vermijden, zonder het werck zijnen eisch te weigeren. Of eenige Amsterdammers moghten walgen van den zwaren val hunner muuren, en</hi>
+<pb n="5"/><hi rend="i">'t verstrojen der voorouderen te hooren; zoo wort die bittere nasmaeck verzoet, door Rafaëls voorspellinge van de heerlijcke verrijzenisse der verdelg de vesten en verstroielingen; dat wy nu op 't allergeluckighste beleven, onder de-wijze regeeringe der tegenwoordige Burgermeesteren, die het gemeene beste boven hun eigen behartigen, en geenen oorlogh prijzen, dan die om vreede gevoert wort. Ick vermat my verwaendelijck dit uwe Ex<hi rend="sup">tie</hi>. op te dragen, en dat te vrypostiger, overmits uwe Ex<hi rend="sup">tie</hi>. van den treurigen tooneelstijl, die de hooghdravenste, onder allerley slagh van schryven de kroon spant, niet afkeerigh schijnt; gelijck blijckt by den gekruisten Christus, eertijds in vryheit, zedert by de Thebaensche dochter in gevangenis, en onlangs by den degelijcken Iosef in ballingschap geteelt, en van ons, zoo wy best konden, op het Nederduitsche tooneel gebraght, tot stichtelijck vermaeck dezer loflycke burgerye, en van alle eerlijcke lieden. Wy vertrouwen dat dit uwe Ex<hi rend="sup">tie</hi>. te min zal mishagen, aengezien hier, onder de oudste en treffelijckste edelen en bondgenooten, niet oneerlyck in 't harnas sneuvelt de ridder Heemskerck, een adelycke en manhaftige ranck, uit dat bloet, waer van uwe Ex<hi rend="sup">tie</hi>. zijn brave afkomst telt. Ick offere u dan in uwe ballingschap mijnen Gijsbreght van Aemstel, den godvruchtigen en dapperen ballingh. Omhels hem uit medoogen, die eer medoogen dan gramschap waerdigh is, en leeflangh ter eere van uw Vaderlandt,</hi></p>
+<p>&#160;</p>
+<p>t' Amsterdam <hi rend="sc">cIƆ IƆ c xxxvii</hi>.</p>
+<p>den <hi rend="sc">xvi</hi>. van Wijnmaent.</p>
+<p>&#160;</p>
+<p>Uwe E. ootmoedige dienaer</p>
+<p>&#160;</p>
+<p><hi rend="sc">J. v. Vondel</hi>.</p>
+</div>
+<div type="chapter">
+<pb n="6"/>
+<head rend="h3">Voorspel van Gysbrecht van Aemstel,
+<lb/>
+Aen <hi rend="i">Schout, Burgermeesters, en Wethouders van Amsterdam.</hi></head>
+<lg type="poem">
+<l>DE trotze Schouwburgh heft zijn spitze kap</l>
+<l rend="; 1tab">Nu op, en gaet de starren naderen,</l>
+<l>En wellekomt met dertel hand geklap</l>
+<l rend="; 1tab">Al 't Raedhuis, en ons wijze Vaderen.</l>
+<l>Het heiligh Raedhuis wijdt den Schouburgh in,</l>
+<l rend="; 1tab">En wacht met zijn aendachtige ooren,</l>
+<l>Zoo vierigh, als Karthagoos Koningin,</l>
+<l rend="; 1tab">Belust het droef verhael te hooren,</l>
+<l>Hoe Ilium van Argos wiert verplet,</l>
+<l rend="; 1tab">En door de torts in d' assche raeckte:</l>
+<l>Dat, zoeter dan al 't Afrikaensch bancket</l>
+<l rend="; 1tab">De tong, haer leckre zinnen smaeckte.</l>
+<l>Het nieuw tooneel drie eeuwen springt te rugh,</l>
+<l rend="; 1tab">Om Aemstels vesten te verstooren,</l>
+<l>En bouwt de wreetheit eene breede brugh.</l>
+<l rend="; 1tab">'t Aeloude Troje wort herboren,</l>
+<l>En gaet te gronde in 't gloeiende Amsterdam.</l>
+<l rend="; 1tab">Onze Aemstel zal een Xanthus strecken,</l>
+<l>Geverwt van bloet: de Kermerlandsche vlam,</l>
+<l rend="; 1tab">Als 't Griexse vier, de daecken lecken.</l>
+<l>Hier zweemt 't bestormt stadthuis naer Priaems hof.</l>
+<l rend="; 1tab">Hoe kort kan 's weerelds pracht verandren!</l>
+<l>Hoe stuiftze wegh voor wind in roock en stof!</l>
+<l rend="; 1tab">Kristijnen strecken hier Kassandren,</l>
+<l>By 't hair gesleurt. De Bisschop Gozewijn</l>
+<l rend="; 1tab">Besprengkelt, als Priaem, d' autaeren:</l>
+<l>Daer Pyrrus woedt en moort, in Haemstees schijn,</l>
+<l rend="; 1tab">En geen Klaeris noch grijze hairen</l>
+<pb n="7"/>
+<l>Verschoont. De helsche en goddelooze Vries</l>
+<l rend="; 1tab">Geen snoode Ulysses wijckt in boosheit.</l>
+<l>Noit leê Heleen door 't schaecken dit verlies,</l>
+<l rend="; 1tab">Dat door des schenners trouweloosheit</l>
+<l>Vrouw Machtelt lydt. De schalcke Vossemeer</l>
+<l rend="; 1tab">Bootst Sinons aert naer in 't stoffeeren.</l>
+<l>Het zwanger paerd van Troje baert' er weêr</l>
+<l rend="; 1tab">De krijghslien, die de kans doen keeren.</l>
+<l>Heer Gijsbreght draeght zich als Anchises zoon,</l>
+<l rend="; 1tab">En wort door tegenspoet niet slapper:</l>
+<l>Zijn deughden staen in top voor elck ten toon,</l>
+<l rend="; 1tab">Niet min godtvruchtelijck als dapper.</l>
+<l>Proost Willem stort in 't priesterlijck gewaet,</l>
+<l rend="; 1tab">Als Panthus, Febus priester, neder.</l>
+<l>Vrouw Badeloch, die op Kreüze slaet,</l>
+<l rend="; 1tab">Verbeelt ons, hoe getrouw en teder</l>
+<l>Oprechte liefde in rampen is belaên</l>
+<l rend="; 1tab">Met haer beminde wedergade.</l>
+<l>In Veenerick herleeft de kleene Askaen,</l>
+<l rend="; 1tab">Waermeê de heldt op Gods genade</l>
+<l>Zich scheep begeeft, en op een beter wacht;</l>
+<l rend="; 1tab">Dat wy ter goeder uur beleven,</l>
+<l>Nu Amsterdam en 't Aemstelers geslacht</l>
+<l rend="; 1tab">Zijn kroon ten Hemel heeft geheven.</l>
+<l>Zoo eens de vreê ons scheeprijck Y bestrael',</l>
+<l rend="; 1tab">En 't oorloghs onweêr rust van ruisschen,</l>
+<l>Kiest gansch Euroop dees stadt tot Amirael:</l>
+<l rend="; 1tab">En 'k zie eer lang ons zilvre kruissen</l>
+<l>Bezaeit met gour van starren, eerst ontdeckt,</l>
+<l rend="; 1tab">En 't wapen, tot een Hemelsch teken,</l>
+<l>Om hoog, van mist noch aerdschen damp bevleckt,</l>
+<l rend="; 1tab">Den Zeeheld hart en moedt in spreken,</l>
+<l>Daer hy, beducht om 't gieren van de naelt,</l>
+<l rend="; 1tab">Door 't ys naer Indus dwaelt.</l>
+</lg>
+</div>
+<div type="chapter">
+<interpGrp>
+<interp type="secundair" value="kamp048"/>
+</interpGrp>
+<pb n="8"/>
+<head rend="h3"><hi rend="i">Op den nieuwen Schouwburgh</hi>, Aen den Raedsheer Nikolaes van Kampen,</head>
+<lg type="poem">
+<l>WY bootzen 't groote Rome naer in 't kleen,</l>
+<l rend="; 1tab">Nu <hi rend="sc">Kampen</hi> bezigh is met bouwen,</l>
+<l>En trots ten Hemel vaert met hout en steen.</l>
+<l rend="; 1tab">Geschut noch donders van kortouwen</l>
+<l>Versteuren hem, terwijle Spinola</l>
+<l rend="; 1tab">Van boven ziet zijn maenden krimpen</l>
+<l>In 's Princen weecken, en hoort in Breda</l>
+<l rend="; 1tab">Ons kort zijn lang belegh beschimpen.</l>
+<l>De Bouwkunst bloeit in 't midden van 't gevecht,</l>
+<l rend="; 1tab">En opent Schouwburgh en tooneelen:</l>
+<l>Daer strijckt de grijze Raedt het voorhoofd slecht,</l>
+<l rend="; 1tab">En word door droeve en blijde speelen</l>
+<l>Verquickt: daer groeit onze Amsterdamsche jeught,</l>
+<l rend="; 1tab">Die in haer' schick den bouwheer prijzen:</l>
+<l>Zoo dat zijn naem, op 't schatren van haer vreught,</l>
+<l rend="; 1tab">Tot in den boogh om hoogh komt rijzen,</l>
+<l>En stuit'er op, en berst ten venstren uit.</l>
+<l rend="; 1tab">Pompejus zou zijn eer benijden,</l>
+<l>En Scaurus zelf, vernamen zy 't geluidt,</l>
+<l rend="; 1tab">Dat, nae 't verloop der eerste tijden,</l>
+<l>Hun faem verdooft; mits 't oude Rome vlack</l>
+<l rend="; 1tab">Ter aerde plofte met zijn wallen,</l>
+<l>En 't ysselijck gevaerte kreegh een' krack,</l>
+<l rend="; 1tab">In puin begraven of vervallen.</l>
+<l>De krijgh ziet heiligh noch onheiligh aen:</l>
+<l rend="; 1tab">Wat kan'er tegens staen!</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="9"/>
+<head rend="h3">Kort begryp.</head>
+<p>GYsbregt van Aemstel, heer van Aemstel en Aemsterlant, met meer treffelijcke heeren en edelen, om het vangen van graef Floris, die den ouden adel verdruckte, en vrouw Machtelt van Velzen, zijn zusters dochter, schendigh verkrachte, lang in ballingschap omgezworven hebbende, quam, na de doot van 's graeven erfgenaem, weder t' Aemsterdam: maer de graefs-gezinden (waer onder Kennemers en Waterlanders de verbittersten waren) belegerden hem in zijne stadt een ront jaer lang, en om die te vermeesteren, verzierden ten lesten eenen aenslagh, en gelieten zich ofze aftrocken. Die van de stadt vervolghden hen een stuck weeghs, en brogten Vosmeer, den doortrapten spie, uitgemaeckt om d' Aemsterdammers te bedriegen, gevangen. Dezen, van Gijsbreght ondervraeght, wert het leven geschoncken, en belast het rijsschip, genoemt het zeepaert, (waer in het puick van ridderen en knaepen, en de bloem der krijgslieden met den reus verborgen lagen) te helpen inhaelen. Ter middernacht, zijnde Kersnacht, eer de maen op, en terwijl de burgery zonder achterdencken ter kercke in haren yver opgetrocken was, overweldighde de verborge laegh de Haerlemmer poort, en Vosmeer stichte brant uit het rijsschip door al de stadt; waer op Diederick van Haerlem met zijn krijghsvolck, dat zich heimelijck in 't Katuizers klooster onthiel, en voort Willem van Egmont met het gantsche leger, 't welck spade in den avont wederkeerde, binnen ruckten. Heer Peter, deken van de groote kerck, brogt d' eerste tijdinge op het huis, zoo mevrouw van Aemstel over haren droom en gezicht vast bekommert was; dies de heer van Aemstel, gevolght van de reedste bloetverwanten en bondgenooten naer den Dam vloogh, en daer en elders orden zocht te stellen, en kerck en merckt te beschermen, doch al vergeefs: waer van Badeloch bescheyt kreegh door zijnen broeder A rent. Het raethuis middelerwijl bestormt en vermeestert zijnde, raeckte Gijsbreght van daer in het Klaerisse klooster, begeerigh om bisschop Gozewijn van Aemstel, zijnen
+oom, en d' abdis Klaris van Velzen, zijn nicht, te bergen; het welck zy weigerden. De vyanden op d' abdy aenvaslende, dwongen den heer over den binnen Aemstel te vluchten. Hy aldaer de nieuwe zijde verloren, en d'oude mede in brant ziende, en hoorende de ruitery de Doelebrugh over trecken, weeck naer de burgh met eenen hoop vluchtelingen, en verhaelde zijn gemaelin het overige van zijn wedervaeren; gelijck oock de bode kort daer op hem vertelde hoe het met d' abdye en al de stadt voort afgeloopen was. Terstont viel men van het slot uit: maer zy werden binnen gedreven, met verlies van Arent van Aemstel, dien de broeder dootlijck gewont boven brogt, daer hy daetelijck den geest gaf. Strax quam de heer van Vooren het huis opeischen, het welck Gijsbreght hem rustigh afsloegh. Maer terwijl hy yverde om gemaelin en kinders met allen den gevluchten scheep te brengen, en voor had zelf het huis te verdadigen, verscheen'er Rafaël, een der zeven engelen, die hem vermaende zich met allen den zijnen te wateren na Pruissen te begeven, en daer een stadt, die noch Hollant heet te stichten, en vertrooste den godvruchtigen helt met de voorspellinge der toekomende grootheit van Aemsterdam, en het geluck zijner nakomelingen: waer op Gijsbreght het slot verliet.</p>
+<p>Het tooneel is voor en in de stadt, en op het huis. Gijsbreght van Aemstel spreeckt de voorrede. De Reien bestaen uit Amsterdamsche maeghden, edelingen, Klaerissen en burghzaten. Het treurspel begint na middagh ten drie uuren, en eindight in den morgenstont.</p>
+</div>
+<div type="chapter">
+<pb n="10"/>
+<head rend="h3">Spreeckende Personagien.</head>
+<list>
+<item>GYSBRECHT VAN AEMSTEL.</item>
+<item>WILLEBORD, <hi rend="i">Vader van 't Kathuizers klooster.</hi></item>
+<item>ARENT VAN AEMSTEL, <hi rend="i">Gysbrechts broeder.</hi></item>
+<item>VOSMEER, <hi rend="i">de spie.</hi></item>
+<item>REY VAN AMSTERDAMSCHE MAEGHDEN.</item>
+<item>WILLEM VAN EGMONT, <hi rend="i">veltheer.</hi></item>
+<item>DIEDERICK VAN HAERLEM, <hi rend="i">maerschalck</hi>,</item>
+<item>HOPLIEDEN.</item>
+<item>POORTIER VAN 't KLOOSTER.</item>
+<item>REY VAN EDELINGEN.</item>
+<item>BADELOCH, <hi rend="i">vrouw van Aemstel.</hi></item>
+<item>HEER PETER, <hi rend="i">deken.</hi></item>
+<item>BONDTGENOOTEN.</item>
+<item>REY VAN KLAERISSEN.</item>
+<item>GOZEWYN VAN AEMSTEL, <hi rend="i">Bisschop van Uitrecht.</hi></item>
+<item>KLAERIS VAN VELZEN, <hi rend="i">Moeder van 't Klaerissen klooster.</hi></item>
+<item>BODE.</item>
+<item>DE HEER VAN VOOREN, <hi rend="i">met den trompetter.</hi></item>
+<item>ADELGUND, <hi rend="i">Gysbrechts dochter.</hi></item>
+<item>VEENERICK, <hi rend="i">Gysbrechts zoontje.</hi></item>
+<item>RAFAËL, <hi rend="i">een der zeven Engelen.</hi></item>
+</list>
+</div>
+<div type="act">
+<pb n="11"/>
+<head rend="h2">Gysbrecht van Aemstel.
+<lb/>
+Treurspel.</head>
+<head rend="h3">Het eerste bedryf.</head>
+<sp>
+<speaker><hi rend="i">Gijsbrecht van Aemstel.</hi></speaker>
+<l>HEt hemelsche gerecht heeft zich ten lange leste</l>
+<l>Ontferremt over my, en mijn benaeude veste,</l>
+<l>En arme burgery; en, op mijn volx gebedt,</l>
+<l>En dagelijx geschrey, de bange stadt ontzet.</l>
+<l>De vyant, zonder dat wy uitkomst durfden hoopen,</l>
+<l>Is, zonder slagh of stoot, van zelf het velt verloopen.</l>
+<l>Mijn broeder jaeght hem na, zy nemen vast de wijck,</l>
+<l>En vluchten haestigh langs den Haerelemmer dijck.</l>
+<l>Zoo stuift de zee voor wint met haer gedreve golven.</l>
+<l>Zoo zagh men menighmael een kudde wreede wolven,</l>
+<l>En felle tigers vliên voor 't ysselijck geschreeuw</l>
+<l>Van aller dieren vorst, den hongerigen leeuw,</l>
+<l>Om niet al levendigh en versch te zijn verslonden</l>
+<l>Van hem, die op zijn jaght geen aes en had gevonden.</l>
+<l>Hoe snel, hoe onverziens is deze kans gedraeit?</l>
+<l>Hier, daer het leger lagh, is 't veld alom bezaeit</l>
+<l>Met wapens en geweer, verbaest van 't lijf gereeten,</l>
+<l>Van ingebeelden schrick, en uit der hant gesmeeten,</l>
+<l>Om zonder hindernis te vlieden langs den wegh.</l>
+<l>Ja op 't verjaeren zelf van 't jaerige belegh</l>
+<l>Wort d'afgestrede muur van 't langh belegh ontslaegen.</l>
+<l>Hoe zal het gansche lant van ons verlossingh waegen!</l>
+<l>De Kermerlander had met Waterlander dier</l>
+<l>Gezworen duizentwerf, dat hy met zwaert en vier</l>
+<l>Vernielen zou eerlang de menschen, en de daecken,</l>
+<l>En tot een kerreckhof en asch en puinhoop maecken</l>
+<l>Mijn out, mijn wettigh erf, en delven al mijn eer</l>
+<l>In eenen poel, tot wraeck van Floris hunnen heer:</l>
+<l>Om wiens vervloeckte doot ick lijde zoo onschuldigh,</l>
+<l>Als yemant lijden magh, doch draegh mijn kruis geduldigh:</l>
+<pb n="12"/>
+<l>Of zoo ick schuldigh ben, en heeft het my gemist,</l>
+<l>'t Is uit onnozelheit, en zonder ergh of list.</l>
+<l>Neef Velsen, lang geterght, van eige wraeck geprickelt,</l>
+<l>En Woerden hebben my hier listigh in gewickelt,</l>
+<l>En 't schoonste voorgestelt, en eerst de zaeck verbloemt</l>
+<l>Met wonderbaeren glimp: maer 'k heb hun wit verdoemt,</l>
+<l>Zoo dra als ick verstont, hoe grof zy zich vergreepen,</l>
+<l>Met den gevangen graef naer Engelant te scheepen,</l>
+<l>En sloeg dien voorslagh af, ten beste van 't gemeen,</l>
+<l>En riedt de ridderschap en al de groote steên</l>
+<l>Te roepen, om den vorst zijn' moedtwil te besnoeien,</l>
+<l>En geene uitheemsche maght noch koningen te moeien,</l>
+<l>Noch overzees gewelt te haelen in het lant;</l>
+<l>Veel min het hooft des lants te helpen aen een' kant:</l>
+<l>Waer uit een springvloet is van zwarighêen gesproten,</l>
+<l>Die over steden ging en vast geboude sloten,</l>
+<l>En dorpen zonder endt, en menschen zonder tal,</l>
+<l>Van allerhande staet, dien 't eeuwigh smarten zal.</l>
+<l>Noch hiel de wraek geen' stant, en gaf zich noit te vrede;</l>
+<l>Al had zy uitgeroit, ten negensten gelede,</l>
+<l>Wat Velzens stam bestont, of van zijn maeghschap scheen.</l>
+<l>De nieuwe ridderschap en steden in 't gemeen</l>
+<l>Verbonden zich wel streng, met diergezworene eeden,</l>
+<l>Handtastinge en geschrift, dat zy bezeglen deden,</l>
+<l>Van nu in eeuwigheit, met onverzoembren haet,</l>
+<l>Aen Woerden, Velzens bloet, en Aemstel, dezen smaet</l>
+<l>Te wreecken, en van zoen te reppen noch te roeren.</l>
+<l>Ons maeghschap zit verdruckt, durf schilt noch wapen voeren,</l>
+<l>En geeft gewilligh schot en lot, om zoo gerust</l>
+<l>Te leven, en de glans des adels blijft gebluscht.</l>
+<l>Hier holp geen tusschen spraeck van koningen en heeren.</l>
+<l>Men wou mijn trouwe stadt noch 't onderst boven keeren,</l>
+<l>Met burgery met al, wat my is houw en trouw.</l>
+<l>De hoop was, dat de tijt allengskens slyten zou</l>
+<l>De bitterheit des volx, en d'oude wrock versterven:</l>
+<l>Waerom ick my getrooste in ballingschap te zwerven</l>
+<pb n="13"/>
+<l>Veel jaeren achter een. Of immers toen de zoon</l>
+<l>Van Floris wert gehaelt in aller zielen troon,</l>
+<l>Verhoopte ick, zonder last van deze burgerije,</l>
+<l>Te keeren in 't bezit en d'erref heerschappye</l>
+<l>Van Vecht en Aemstelstroom: dan laes: 't is al om niet.</l>
+<l>En was 't om my alleen, het waer een klein verdriet.</l>
+<l>Ick liet my zelf van lidt tot lidr in stucken zaegen,</l>
+<l>En nam op my alleen de gruwelyxte plaegen,</l>
+<l>Die oit tyran bedacht; was dan de schult geboet,</l>
+<l>En sprack men daer meê vry mijn al t'onnozel bloet,</l>
+<l>Mijn lieve gemalin, en willige onderzaeten.</l>
+<l>Ick wou, om hunnent wil alleen, mijn leven laeten,</l>
+<l>Of springen in een' poel, en stoppen deze wel,</l>
+<l>En dempen met een' sprong de nimmerzatte hel.</l>
+<l>Dat weet hy, die het al bezichtight uit den hoogen,</l>
+<l>En wat in duister schuilt met zijn doorzichtige oogen</l>
+<l>Ontdeckt tot op den gront, en alle harten kent;</l>
+<l>Waerom hy oock mijn recht gehanthaest heeft in 't endt,</l>
+<l>En met den zegekrans my heerlijck begenadight,</l>
+<l>En tegens al de maght der vyanden verdaedight;</l>
+<l>Die licht slaen in den wint van outs genote deught,</l>
+<l>Waer aen wy volck en vorst verplichten van ons jeught,</l>
+<l>Zoo yvrig, zonder oit van trouwe te veranderen.</l>
+<l>Mijn vader heeft gestreckt een hooft van Waterlanderen,</l>
+<l>En Kennemer in 't velt, en met gewelt alom</l>
+<l>(Hoewel door noot geperst) vervolght den adeldom,</l>
+<l>En aller vyantschap op zijnen hals geladen.</l>
+<l>De koning Willem zou getuigen van zijn daden,</l>
+<l>Indien hy eenmael moght verrijzen uit het graf.</l>
+<l>Ick heb Graef Floris trouw gehanthaeft by zijn' staf,</l>
+<l>Zoo lang hy zat vervooght, en niet een woort kon spreken,</l>
+<l>'k Heb hem zijn vaders doot rechtvaerdigh helpen wreken,</l>
+<l>Het koninglijck gebeente ontdeckt, den Vries getemt,</l>
+<l>En, als geheimen raet, in al zijn heil gestemt,</l>
+<l>Met Brero voor de vuist het Vlaemsche heir geslaegen,</l>
+<l>En in Kazant met kracht den standaert wech gedragen;</l>
+<pb n="14"/>
+<l>Toen Guido nijdigh was, dat Floris, al 't uitheemsch</l>
+<l>Gezint, zijn' erfgenaem wou huwen aen den Teems,</l>
+<l>En Vlaendren, Walchren zocht te trappen met zijn rotten.</l>
+<l>Oock voer ick over zee, om hem de kroon der Schotten</l>
+<l>Te zetten op het hooft, hoewel het anders viel.</l>
+<l>Ick stont den graef en 't volck ten dienst met lijf en ziel,</l>
+<l>En noch verzaemelt men in 't harnas zoo veel troepen,</l>
+<l>Die over Amsterdam en Aemstel wraecke roepen,</l>
+<l>En brullen nacht en dagh, en zien niet hoe de vlam</l>
+<l>Van dezen fellen brant haer' eersten oirsprong nam</l>
+<l>Uit Floris geile borst, en 't schandelijck omhelzen,</l>
+<l>Het schennen van mijn nicht, die schoone bloem van Velzen,</l>
+<l>'t Verongelijcken van den adel, in zijn recht,</l>
+<l>Bezworen met zijn' mont, verblinde menschen, zeght,</l>
+<l>Indien geen wrock en wraeck uw oogen dus verblinden,</l>
+<l>Zoudt ghy niet stofs genoegh tot Aemstels onschult vinden?</l>
+<l>Hoe zocht men hem van outs te maecken tot een slaef!</l>
+<l>Wat leedt hy niet al leeds van bisschop en van graef!</l>
+<l>Men wou zijn loflijck bloet in 't bisdom niet gedoogen.</l>
+<l>d'Aertsbisschop aen den Rijn kon met zijn nijdige oogen</l>
+<l>Niet aenzien ons geluck, gaf Gozewijn de schop,</l>
+<l>En zetten zijnen neef den hoogen myter op.</l>
+<l>Wy streeden om den staf, tot datze my en Woerden,</l>
+<l>Aen weêrzy van zijn paert, tot een triomfe voerden</l>
+<l>In Uitrecht, met veel smaets, van veder aengehoort.</l>
+<l>Men heeft my 't Vrelantsch slot ontweldight, hem Montfoort.</l>
+<l>'k Beken het slot was my met voorwaerde opgedragen;</l>
+<l>Maer nergens om gebouwt, dan om mijn landt te plagen.</l>
+<l>'k Heb 's graeven vangenis wel zeven jaren lang</l>
+<l>Bezuurt, en Zwaenenburgh noch afgestaen door dwang,</l>
+<l>Mijn erf in leen verkeert, en manscbap moeten zweeren;</l>
+<l>Daer ick eerst Godt alleen, en anders geene heeren</l>
+<l>Oit kende in mijn gebiet, noch rekeninge gaf.</l>
+<l>Noch dringt men evenwel op my zoo stijf en straf:</l>
+<l>Doch Haerlem draeght met recht de grootste schult van allen,</l>
+<l>Dat om zijn voordeel wrockt, en wenscht mijn sterke wallen</l>
+<pb n="15"/>
+<l>Te slechten tot den gront, in schijn van 's graeven zaeck,</l>
+<l>En weet zijn baetzucht loos te decken met de wraeck,</l>
+<l>Misbruickt hier toe den Zeeuw, de Hollanders, en Vriezen,</l>
+<l>Om door mijn grootheit niet aen eere te verliezen.</l>
+<l>Zoo leght de zaeck by my, en daer op gae ick aen,</l>
+<l>En heb in 't zwaer belegh de stormen uitgestaen,</l>
+<l>En dagh en nacht voor aen geworstelt op de wallen,</l>
+<l>'t Vermoeide volck gesterckt, en rustigh uitgevallen,</l>
+<l>Mijn' broeder Ot gequetst zien sterven in mijn' schoot:</l>
+<l>Krackeelen neêrgeleght in brant, in hongers noot,</l>
+<l>Gelijck een vader, my voor 't algemeen gedraegen:</l>
+<l>En noit bezweeck mijn moedt in droeve nederlaegen:</l>
+<l>Noch 'k blies my zelven op in voorspoet, noch zocht roem</l>
+<l>In 's vyands ondergang: hoe noode ick vyant noem,</l>
+<l>Die onverzoenelijck zich tegens my verzetten,</l>
+<l>En wenschen met mijn bloet hun blanck geweer te smetten.</l>
+<l>'k Vergeef hun deze feil, en domme onwetenheit,</l>
+<l>Beveel my in zijn hant, die recht van onrecht scheit,</l>
+<l>En streckt in 's hemels stoel der onderdruckten trooster.</l>
+<l>Maer 'k zie den vader daer van ons Katuizers klooster</l>
+<l>Genaecken van ter zy, op dat hy my begroet'.</l>
+<l>Hy schijnt om ons geluck verheught en wel gemoedt.</l>
+<l>'k Zal best verstaen uit hem, die nimmer was besproken,</l>
+<l>Waerom het leger is dus schichtigh opgebroken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Willebord. Gysbrecht van Aemstel.</hi></speaker>
+<l>MYn welgeboren heer, de zoete Jesus zy</l>
+<l>Met u en uwe stadt, en sta u eeuwigh by,</l>
+<l>In allerhande noot. de broeders van onze orden,</l>
+<l>En ick, zijn zoo verblijdt, als ofwe levend worden</l>
+<l>Getrocken in den troon van Godts volmaeckte vreught.</l>
+<l>Ons klooster zingt, en klingt, en is niet meer verheught</l>
+<l>Op 't allerhooghste feest en heiligh jaer getije,</l>
+<l>Geviert van al de kerck, ter eere van Marije,</l>
+<l>De zuivre moedermaeght, en Christus, haren zoon,</l>
+<l>Die ons verloste aen 't kruis, en droegh een doornekroon,</l>
+<pb n="16"/>
+<l>Als nu om uwent wil, die van de wreede plaegen</l>
+<l>Des goddeloozen krijghs verlost zijt en ontslagen:</l>
+<l>Nu al uw vyanden verbaest zijn doorgegaen,</l>
+<l>En laeten tenten, tuigh, en hunne hutten staen,</l>
+<l>En alles, wat zy meer uw volck ten beste geven.</l>
+<l>'k Geloof Godts engel heeft den vyant wechgedreven,</l>
+<l>Als 't heir des Assyriers, die zijn vermeetle stem</l>
+<l>Hiskia hooren liet, tot voor Jeruzalem,</l>
+<l>Het welck in eenen nacht zoo wonderlijck verkeerde,</l>
+<l>Toen een, die 't al regeert, dat stoffen hem verleerde.</l>
+<l>Hoe menigh dreigement, en vloeck heb ick gehoort!</l>
+<l>Wat heeft men gift en gal gebraeckt, en brant en moort</l>
+<l>Getiert, en 't gansche jaer gescholden, en gekreeten,</l>
+<l>Niet anders, of zy u met tanden wouden eeten!</l>
+<l>d'Een zette u levende en geketent op een radt:</l>
+<l>Een ander rolde u naeckt in Velzens spijckervat:</l>
+<l>Een ander wou uw hooft, uw beckeneel, vergulden,</l>
+<l>En vatten het in gout. 't was byster hoeze brulden.</l>
+<l>Zy deelden bloet voor wijn, uw vleesch voor voedsel uit,</l>
+<l>Krackeelden om 't geraemt, en dongen naer uw huit,</l>
+<l>En wouden die get out op eenen ketel spannen,</l>
+<l>Tot endeloozen schrick van schelmen en tyrannen:</l>
+<l>Maer Godt zy eeuwigh danck die hunne boos heit schut.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Dien d'opperste beschermt, heeft eene vaste stut.</l>
+<l>Godtvruchte vader, dat u Godt en Christus loonen,</l>
+<l>Naerdien de broeders zich met u zoo gunstigh toonen</l>
+<l>Te my waert, ick vertrouwe uw vierige gebeén</l>
+<l>Die hebben dagh en nacht voor mijne stadt gestreên,</l>
+<l>De stormen afgekeert, en 't vier van onze daecken;</l>
+<l>Want wapens zijn onnut, zoo d'engelen niet waecken,</l>
+<l>En 't yverigh gebedt van 't geestelijcke volck.</l>
+<l>Wat hing u over 't hooft een droeve en donckre wolck</l>
+<l>Van zwarigheên, terwijl hier 't leger heeft gelegen:</l>
+<l>Gy zijt niet misgedeelt in 's oorloghs milden zegen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Wil.</hi></speaker>
+<l>Geen hair is ons gekrenckt, geen overlast gebeurt.</l>
+<l>Men heeft het klooster noit in zijnen dienst gesteurt.</l>
+<pb n="17"/>
+<l>Wy hebben staêgh volhardt in onzen ouden yver:</l>
+<l>De boomgaert leed geen scha aen vruchten, noch de vyver</l>
+<l>Aen visschen, noch de kerck aen d'alderkleenste ruit.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Wie heeft dan des soldaets baldaedigheit gestuit?</l>
+<l>Wat hiel zoo kort in dwang die breidelooze gasten?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Wil.</hi></speaker>
+<l>Met geen inlegering wou Egmont ons belasten:</l>
+<l>Behalve dat hy zelf en zijne lijfwacht meê,</l>
+<l>Die altijt tuchtigh is, hier nam zijn legersteê,</l>
+<l>En boven onze poort, liet aenslaen 's graeven wapen,</l>
+<l>Daer wy in zekerheit gerust op moghten slaepen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Dat doet my wel, gelijck een lieffelijcke lucht.</l>
+<l>Ick zelf en al de stadt was meest om u beducht,</l>
+<l>En vreesde ofge lang verjaeght waert, en geplondert.</l>
+<l>Maer vader, zegh my eens; een yeder is verwondert,</l>
+<l>Waerom 't verbittert heir zoo onverziens vertrock,</l>
+<l>En liever niet volharde in 't opzet van zijn' wrock.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Wil.</hi></speaker>
+<l>Verwonder u niet eens, de noot heeft hen gedrongen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Mijn burgers lagen stil, en 't leger onbesprongen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Wil.</hi></speaker>
+<l>Van buiten wel, maer niet van binnen dat gy 't weet.</l>
+<l>Het wintert fel, wanneer een wolf den andren eet:</l>
+<l>Zoo ging in 't leger toe. belieft het u te hooren,</l>
+<l>Al 't geen ick heb gehoort met dees mijn eigene ooren,</l>
+<l>En met mijne oogen zelf gezien noch dezen dagh?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Eerwaerde vader, spreeck, ick luister naer 't verslagh.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Wil.</hi></speaker>
+<l>Na dat ick d'oversten een wijl had hooren mompelen</l>
+<l>Van Amsterdam, al stil, by duister t'overrompelen,</l>
+<l>Rees tusschen Diederick en Egmont een krackeel,</l>
+<l>Dat uitborst meer en meer: een yeder trock een deel</l>
+<l>Van 't krijgsvolck op zijn zy, en zocht het stuck te stijven,</l>
+<l>En naer zijn eigen hooft den aenslagh door te drijven.</l>
+<l>Veel Hoplién yverden te slissen het geschil.</l>
+<l>Maer Diedriek, hardt van hooft, die nimmer luistren wil</l>
+<l>Naer reden, noch bescheit, en 't velt behoudt met krîjten,</l>
+<l>Wert trotser, overmits de lange Klaes van Kyten,</l>
+<l>De Sparrewouwer reus, zoo onbeschoft als groot,</l>
+<l>In alles wat hy dreef hem hulp en bystant boodt,</l>
+<pb n="18"/>
+<l>En Egmont met zijn klock en grove stem vervaerde,</l>
+<l>Hem dreef met eene vuist, dat hy een wijl ter aerde</l>
+<l>In zwijm lagh en voor doot. die moetwil en die hoon,</l>
+<l>Den veltheer aengedaen, ging veelen aen hun kroon,</l>
+<l>En zonder het ontzagh des reuzen, fel gebeeten,</l>
+<l>Men had elckanderen terstont in 't hair gezeten,</l>
+<l>En onder een banier wraeckgierigh aengerant.</l>
+<l>Men raesde een heele weeck. de twist, het misverstant,</l>
+<l>En misvertrouwen wies. daer sporrelden de zinnen.</l>
+<l>Men vreesde min de stadt, en meer verraet van binnen;</l>
+<l>Tot dat al d'oversten verzaemelden heel stil</l>
+<l>In 't klooster, dezen dagh, tot slechting van 't geschil:</l>
+<l>Doch al vergeefs: men was veel eer gezint te vechten,</l>
+<l>En deze onesfenheit met degens te beslechten,</l>
+<l>Dan recklijck, en bedaert, te luistren naer verdragh.</l>
+<l>Ick tradt'er in den hoop, gelijck ick zomwijl plagh,</l>
+<l>En sprack hen toe, en broght aldus hen aen 't bedaeren:</l>
+<l>Manhafte hopliên, Godt wil 't leger lange spaeren,</l>
+<l>In onderlingen pais, het eenigh dat'er magh</l>
+<l>Uw vyant, wie 't oock zy, gedijen tot ontzagh.</l>
+<l>De tweedracht is een pest, die allen staet te schroomen.</l>
+<l>Gedenckt dat u de stadt, die 't rieckt, op 't lijf zal komen.</l>
+<l>Wat middel is 'er, om den Aemstel 't hooft te bien,</l>
+<l>Nu elck, wantrouwigh, d'een naer d'ander om moet zien?</l>
+<l>Gy zijt, eer 't iemant gist, geslagen of gevangen.</l>
+<l>Wanneer de herder dwaelt, wat padt, wat rechte gangen,</l>
+<l>Kan d'arme kudde gaen? dus maeckt een kort besluit.</l>
+<l>Verdraeght het scheel, of schort den krijgh, en scheit'er uit,</l>
+<l>En keert van waer gy quaemt: waer toe veel werx begonnen?</l>
+<l>Berockent zoo veel spels, als 't niet werd afgesponnen?</l>
+<l>Ick merckte dat mijn raet niet weinigh hier vermoght.</l>
+<l>Men nam mijn woorden in. zy kreegen achterdocht,</l>
+<l>En zorge voor gevaer van uw gesteurde wallen,</l>
+<l>En dat de burgery en lantzaet uit moght vallen.</l>
+<l>Daer liep een klein gerucht, gy waert al op de been.</l>
+<l>De dootschrick quam'er in. men ruckte 't heir by een.</l>
+<pb n="19"/>
+<l>Men brack al heimlijck op, en zonder eenigh teken</l>
+<l>Van horen en trompet, of hut in brant te steecken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Gy hebt de stadt, en my geen' kleinen dienst gedaen;</l>
+<l>Een deught die nimmer zal uit mijn gedachten gaen.</l>
+<l>Gedenck my in 't gebedt voor uw altaer ten goede.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Wil.</hi></speaker>
+<l>De lieve Jesus neeme u eeuwigh in zijn hoede.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arent zan Aemstel. Gysbrecht van Aemstel: Vosmeer.</hi></speaker>
+<l>HEer broeder, zijt gerust, en luit van vreugt de klocken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Waer is het heir? hoe verr' waert gy het nagetrocken?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ar.</hi></speaker>
+<l>Omtrent een booghscheut weeghs aen geen zy Slooterdijck.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Hoe gingh 't u op den toght.?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ar.</hi></speaker>
+<l>Zy stoven al gelijck</l>
+<l>Voor uit, als voor den wolf een kudde onnoosle schapen.</l>
+<l>Mijn volck hoefde op dien toght geweer noch eenigh wapen,</l>
+<l>En keert met rijcken buit. de Kermers scheenen stom:</l>
+<l>Want hoe men 't vechten zocht, zy zagen niet eens om,</l>
+<l>En reckten vast hun padt, van dootschen schrick bezeten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Noit kraeide haen, als hem de kam was afgebeten.</l>
+<l>Noit baste een dogh, maer droop heel stil, als hy 't verloor,</l>
+<l>Met ingetrocken staert, en hangende ooren, door.</l>
+<l>Wat vogel brengtge dus geknevelt, en gevleugelt?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ar.</hi></speaker>
+<l>Het is een uit de vlucht van 't vluchtige geveugelt,</l>
+<l>Gegrepen buiten dijx, daer stack hy in het slick.</l>
+<l>Hoe beeft hy! 't aengezicht ziet doots en bleeck van schrick.</l>
+<l>Hy is gesleipt, gesleurt, en heeft veel smaets geleden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Een woedende gemeente en staet in recht noch reden,</l>
+<l>Wenze iemant over magh. men brengh hem hier voor my.</l>
+<l>Wie zijt gy? uit wat lant?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Vos.</hi></speaker>
+<l>Heer Gijsbrecht, strafme vry.</l>
+<l>Ick ben van 's vyants volck, en waerdigh om te sterven.</l>
+<l>'k Heb meê gezocht uw stadt en burgers te verderven,</l>
+<l>En duizentmael verdient een schandelijcke doot.</l>
+<l>Ick geef my in uw hant, geperst door hoogen noot.</l>
+<l>Mijn ramp wil Kennemer en Waterlant behaegen:</l>
+<l>Maer 'k zal de doot van u met minder smert verdraegen</l>
+<l>Dan van mijn eigen volck, dat zich ondanckbaer toont,</l>
+<l>En mijn' getrouwe dienst zoo onrechtvaerdigh loont.</l>
+</sp>
+<pb n="20"/>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Wat zijtge voor een gast? of in wat lant geboren?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Vos.</hi></speaker>
+<l>Ick ben een Goyers kint, vervallen in Godts tooren,</l>
+<l>Te Laren opgevoedt. 'k ontliep mijne oudren vroegh.</l>
+<l>Mijn vader vielme hardt, want ickme paslijck droegh.</l>
+<l>'k Heb al mijn leven langh gevolleght vreemde heeren.</l>
+<l>En buiten moeten 't geen ick t'huis niet woude leeren.</l>
+<l>De bittere armoe heeft mijn herssenen gewet.</l>
+<l>'k Heb menigh stuck verziert, en 't lijf daer na gezet,</l>
+<l>Om door een braeve daet of aenslagh op te raecken,</l>
+<l>En door een anders scha eens mijn fortuin te maecken!</l>
+<l>Maer altijt heeftze my den rugge toegewent;</l>
+<l>Doch noit zoo dwers als lest. Godts schickinge, ick beken 't</l>
+<l>Is stercker dan de mensch, of zijn geboortestarre:</l>
+<l>En of ons brein iet bouwt, zy stoot het al om verre,</l>
+<l>En gaet een andren gangk. met wat een listigheit,</l>
+<l>Met wat een' rijpen raet was d'aenslagh aengeleit,</l>
+<l>Om te vermeesteren uw lang bestormde muuren.</l>
+<l>Zoo Vosmeer naar zijn' zin dat schip had mogen stuuren,</l>
+<l>Gelijck het by hem lagh, zy hadden, het is waar,</l>
+<l>Gewonnen in een uur door list, dat in een jaer</l>
+<l>Door uiterlijck gewelt noch stormen wert verovert.</l>
+<l>Het schijnt dat d'oversten verblint zijn en betovert.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Sta op en heel my niets van alles wat gy weet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Vos.</hi></speaker>
+<l>Nu ben ick immers vry van Hollants dieren eedt,</l>
+<l>En Egmont kan my hier niet heeten of verbieden.</l>
+<l>Hy dreigtme met de doodt, en perstme hier te vlieden.</l>
+<l>Mijn aenslagh is misluckt, en ydel en onnut.</l>
+<l>Heer Gyzelbrecht, gena. ick geef my in uw schut.</l>
+<l>Gy kuntme, wiltge slechts, een vrient en vader strecken,</l>
+<l>Naerdien ick u 't verraet volkomen wil ontdecken,</l>
+<l>En hoe 't geschoren lagh, in 's krijghs geheimen raet,</l>
+<l>Tot ondergang van u, en uwen heelen staet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Ontbint den knecht, zoo magh hy onverhindert spreecken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Vos.</hi></speaker>
+<l>De hopliên wenschten dick het leger op te breecken,</l>
+<l>Naerdien met storm op storm, en endeloos gevecht,</l>
+<l>Het heele ronde jaer, niet meer was uitgerecht</l>
+<pb n="21"/>
+<l>Dan moeite en volck gespilt, en tijt onnut versleten:</l>
+<l>Het welck zoo menighmael den veltheer wert verweten;</l>
+<l>Een smaet die lastigh viel: en hiel hem niet verplicht</l>
+<l>Zijn eer en eedt, hy hadt zijn ancker langh gelicht:</l>
+<l>En och, of 't waer gebeurt een goede wijl te voren,</l>
+<l>My waer dit ongeluck noch onheil niet beschoren:</l>
+<l>Want 't is een maent geleên, dat ick hem heimlijck riedt</l>
+<l>Te maecken op mijn woort, een ende van 't verdriet:</l>
+<l>En zoo hy was gezint een luttel volx te waegen,</l>
+<l>Ick wou hem in de stadt op bey mijn handen draegen,</l>
+<l>En stappen zelf voor aen, en maecken hun het spoor,</l>
+<l>Ick opende mijn wit, en sloegh het middel voor.</l>
+<l>'k Had zomwijl door de graft, by duisternacht, gezwommen,</l>
+<l>En al de wacht bespiet, en 't groot rondeel beklommen,</l>
+<l>Dat aen den hoeck van 't Y uw stercke stadt bewaert.</l>
+<l>Hier lagen Blijden in, en ander krijghsgevaert.</l>
+<l>'k Nam aen, en 't kost geschien, door muur en al te booren</l>
+<l>Recht waterpas, zoo stil, dat niemant my zou hooren.</l>
+<l>Wanneer nu door de breuck een krijgsman heenen moght,</l>
+<l>Zou 't braefste puick, hier toe gelot en uitgezocht,</l>
+<l>De graft, daerze ondiepst is, met rijs op Kersnacht dammen,</l>
+<l>En kruipen in 't rondeel, om d'eerste poort te rammen,</l>
+<l>Als d'afgewaeckte wacht gevelt lagh en vermoort.</l>
+<l>Het heir dan over dam, en door geramde poort,</l>
+<l>Aen 't nederhouwen, wat op straet zich openbaerde,</l>
+<l>Terwijl de burgery kappel en kerck bewaerde:</l>
+<l>En 't was te nacht de tijt, en vraeghtge naer bewijs?</l>
+<l>Gy ziet, hoe daer een schip, het zeepaert leght vol rijs,</l>
+<l>Het welck men door de vlucht verzuimt heeft en vergeten.</l>
+<l>Wat werdt'er niet al tijts met kibbelen versleten.</l>
+<l>De hoofden laegen vast elendigh overhoop.</l>
+<l>Men schoof de schult op my. 'k had menslevleesch goet koop:</l>
+<l>Noch wist niet wat ick dreef: zy zouden 't niet gehengen,</l>
+<l>Dat ick het volck zoo licht zou op de vleeschbanck brengen,</l>
+<l>En jagen in hun doot. dus ging 't aen d'eene zy:</l>
+<l>Aen d'andre stemdemen eendrachtelijck met my:</l>
+<pb n="22"/>
+<l>Tewijl verliep de kans, en d'aenslagh bleef vast steecken.</l>
+<l>Toen zochten'er een deel hun leet aen my te wreecken.</l>
+<l>Daer quamen, zonder slot, veel klachten t' mijnen last.</l>
+<l>Ick was een toveraer, en daer op raeckte ick vast,</l>
+<l>En most, door pijn geperst, al 't opgedichte melden.</l>
+<l>Men doemde my ter doodt, en heden zou 't my gelden:</l>
+<l>Maer gistren avont brack een vrient mijn boeien los.</l>
+<l>Ick vlughte langs den dijck, gelijck een hollend ros.</l>
+<l>Doch hielt'er niet, uit angst van 't leven te verliezen.</l>
+<l>Ick sloegh ter zijden af, en schoot'er in de biezen,</l>
+<l>En stack in diep moerasch al den verleden nacht.</l>
+<l>Zy trocken my verby. Ick hielme stil, en zagh 't;</l>
+<l>Tot dat uw burger quam de Kermers nagevlogen.</l>
+<l>Ick riep om hulp, en wert uit diep moerasch getogen:</l>
+<l>Want anders was ick daer gebleven en gesmoort.</l>
+<l>Doch zoo ick sterven moet; 'k wil liever voor uw poort,</l>
+<l>Aen wie ick 't heb verdient, dit lastigh leven laeten,</l>
+<l>Dan by mijn eigen volck, die my met onrecht haeten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Ga heene, ick schenck u 't lijf: het is geen straffens tijt,</l>
+<l>Wy zijn van onzen hals den grooten vyant quijt.</l>
+<l>'k Ontfang u in mijn' dienst, en zal u wel betaelen.</l>
+<l>Ga help terstont het rijs en 't zeepaert binnen haelen.</l>
+<l>De kou begint, en is noch verr' van haer vertreck.</l>
+<l>In 't wachthuis en op 't slot is hout en brant gebreck:</l>
+<l>Men maghze strax verzien, en barnen 't rijs tot asschen,</l>
+<l>Zoo kunnen zy hier meê de vesten niet verasschen,</l>
+<l>Ick hoor de Goyer doet de waerheit niet te kort,</l>
+<l>Want zijn vertelling stemt met vader Willebord.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey van Amsterdamsche maeghden.</hi></speaker>
+<l rend="; 1tab">NU stelt het puick van zoete keelen,</l>
+<l rend="; 1tab">Om daer gezangen op te speelen,</l>
+<l rend="; 2tab">Tot lof van Godt, die op zijn' troon</l>
+<l rend="; 1tab">Gezeten is, zoo hoogh en heerlijck,</l>
+<l rend="; 1tab">Van waer hy zien kon, hoe begeerlijck</l>
+<l rend="; 2tab">Het Sparen stack naer Aemstels kroon;</l>
+<pb n="23"/>
+<l>Hoe wraeck met zwaerden en met speeren</l>
+<l>De torenkroon van 't hooft wou scheeren</l>
+<l rend="; 1tab">Der schoone en wijd vermaerde stadt,</l>
+<l>En rucken door gewelt van benden</l>
+<l>Der vesten gordel van haar lenden,</l>
+<l rend="; 1tab">Een plondren haer kleinoot en schat;</l>
+<l>En schenden d'edele en getrouwe,</l>
+<l>Gelijck de schender Velzens vrouwe,</l>
+<l rend="; 1tab">Wel ruim zoo waerdigh als Heleen,</l>
+<l>Den brant van een herboren Troje,</l>
+<l>En krijgh, die 't overschot verstroie,</l>
+<l rend="; 1tab">Na dat men jaeren heeft gestreên.</l>
+<l>Waer is de reus met al zijn stoffen,</l>
+<l>Die Gysbreghts stadt ter neêr wou ploffen,</l>
+<l rend="; 1tab">En om haer' muur zijn armen slaen?</l>
+<l>Wat ydle schrick heeft hem geslagen?</l>
+<l>Wat ydle vreeze magh hen jaegen,</l>
+<l rend="; 1tab">Die nu met schande strijcken gaen?</l>
+<l>'t Is tijt de kercken te stoffeeren,</l>
+<l>Te danssen, en te bancketteren,</l>
+<l rend="; 1tab">En met een' uitgelaten geest</l>
+<l>Dees blyschap aen de vreught te huwen,</l>
+<l>Die vrolijcke englen ons vernuwen</l>
+<l rend="; 1tab">Met gezang, op Godts geboortefeest.</l>
+<l>Treck in, ô Aemstel, treck nu binnen,</l>
+<l>Die zonder slagh kunt overwinnen.</l>
+<l rend="; 1tab">Treck in, ô brave burgery,</l>
+<l>Die u zoo moedigh hebt gequeten,</l>
+<l>Geen eeuw en zal uw eer vergeten,</l>
+<l rend="; 1tab">De hemel sta u eeuwigh by.</l>
+</sp>
+</div>
+<div type="act">
+<head rend="h3">Het tweede bedryf.</head>
+<sp>
+<speaker><hi rend="i">Willem van Egmont. Die drick van Haerlem. Hoplieden.</hi></speaker>
+<l>WY zijn by 't klooster weêr, daer Willebord in vreê</l>
+<l>Met al de broeders woont, en stort zijn avontbeê.</l>
+<pb n="24"/>
+<l>'t Zal noodigh zijn dat wy den hopliên openbaeren</l>
+<l>Het geen op handen is.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Die.</hi></speaker>
+<l>'t Is tijdt, zy wisten garen</l>
+<l>Wat heimlijck by ons broeit: verlos hen van de pijn.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Eg.</hi></speaker>
+<l>Manhafte hopliên, hoort: wy hebben, onder schijn</l>
+<l>Van onderling krackeel, een' aenslagh voorgenomen,</l>
+<l>Om beter tot ons wit op eenen sprong te komen.</l>
+<l>Men heeft daer op het heir van daegh te rugh gevoert:</l>
+<l>Maer dat en is het niet, waer op de veltheer loert,</l>
+<l>Noch 't geen men onder 't volk veel dagen hoorde mompelen,</l>
+<l>Ons wit is dezen nacht den vyant t'overrompelen,</l>
+<l>Nu hy zich veiligh acht, en buiten krijghsgevaer.</l>
+<l>Voor 't opgaen van de maen [het duncke niemant zwaer]</l>
+<l>Zal 't leger meester zijn van poorten en van veste.</l>
+<l>Wat is'er dan voor u een rijcke buit ten beste!</l>
+<l>Hoe zultge weiden gaen op 't slot, en in de stadt!</l>
+<l>Zoo yemant streeft naer eer; ick toon hem 't rechte padt,</l>
+<l>De heirbaen van de deught, om moedigh op te steigeren.</l>
+<l>Zy offert u den prijs, 't en zy 't uw handen weigeren.</l>
+<l>Wie rustigh is die spreecke, en hou de wapens reê.</l>
+<l>Wie zich flaeuwhartigh vint, dat die te rugge treê.</l>
+<l>Ick heb my op dit stuck met weinigen beraeden,</l>
+<l>En 't zeepaert, dat eerst lagh aen 't Y, met rijs doen laden,</l>
+<l>Op dat'er de soldaet gerust in schuilen moght.</l>
+<l>De Sparewouwer reus, met yver aengezocht,</l>
+<l>Ging met de bloem des volx en 't puick van al de grooten</l>
+<l>Te nacht grootmoedigh scheep, op 't noemen van de loten:</l>
+<l>Mijn broeder Wouter zelf, Vianen, met de zorgh</l>
+<l>En hope van zijn huis: Abkou, en Ryzenborgh,</l>
+<l>Put, Grobber, Kuilenburgh, met Arckel, Borsslen, Vooren,</l>
+<l>En 't graeven zoonen beide: en 't schip, na dat wy hooren</l>
+<l>Uit ons' doortrapten spie, is al in stadt gehaelt,</l>
+<l>Door Vossemeers beleit: zoo dat'er niets en faelt</l>
+<l>Dan nu te nacht, zoo ras zy poort en sloten breecken,</l>
+<l>En Zwaenenburregh viert, te letten op dat reken,</l>
+<l>En voort met alle maght te volgen op het licht</l>
+<l>Des schrickelijcken brants, van Vosmeers torts gesticht.</l>
+</sp>
+<pb n="25"/>
+<sp>
+<speaker><hi rend="i">Hop.</hi></speaker>
+<l>De Veltheer geef slechts last, aen ons zal niet gebreken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Eg.</hi></speaker>
+<l>Waer zal men best een deel van 't oorloghsvolk versteecken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Die.</hi></speaker>
+<l>'t Katuizers klooster is ons 't reedst, het leght hier by.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Eg.</hi></speaker>
+<l>Dat volck is liefst verschoont, en van inlegring vry.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hop.</hi></speaker>
+<l>'t Is voor een korte wijl.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Eg.</hi></speaker>
+<l>Een Godtshuis zoo t'ontwyen?</l>
+<l>Ick heb het lang verschoont.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Die.</hi></speaker>
+<l>Laet my daer meê betyen.</l>
+<l>Gy hopliên, voert terwijl den voortoght herwaert aen:</l>
+<l>Wanneer gy komt dan zal het klooster open staen,</l>
+<l>Of 't moest my aen de macht, dat zweer ick hen, ontbreecken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Eg.</hi></speaker>
+<l>Ick gae terwijl naer stadt, om Vosmeer noch te spreecken,</l>
+<l>Die ter gezette tijt komt zwemmen door den boom.</l>
+<l>Versteur de broeders niet, maer hou u wat in toom,</l>
+<l>En roep niet luit, men mocht uw stem te verre hooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Die.</hi></speaker>
+<l>Een krijghsman laet zich van geen paepen ringelooren.</l>
+</sp>
+<stage><hi rend="i">Poortier. Diederick van Haerlem. Willebord.</hi></stage>
+<sp>
+<speaker><hi rend="i">Poor.</hi></speaker>
+<l>WIe klopt'er?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Die.</hi></speaker>
+<l>Doe vry op, en vrees niet: 't is u vrient.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Poor.</hi></speaker>
+<l>'t Is avont, en een tijt dat ons geen vrientschap dient:</l>
+<l>Koom morgen vroeg by daegh.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Die.</hi></speaker>
+<l>Wat zal ons hier gebeuren?</l>
+<l>'k Zegh anderwerf, doe op.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Poor.</hi></speaker>
+<l>Men opent hier geen deuren</l>
+<l>Zoo spaede: ga uw' gang: koom morgen tijdigh weêr.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Die.</hi></speaker>
+<l>Ick zegh voor 't lest, doe op, en doet gy 't niet, ick zweer.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Poor.</hi></speaker>
+<l>Wie zijtge, die dus raest, als wilt en uitgelaeten?</l>
+<l>Wy dochten langer niet om ruiters noch soldaten.</l>
+<l>Heer maerschalck, wel hoe dus? wat jaeght u hier zoo spa?</l>
+<l>Men sloegh u 't heiligh kruis, toen 't leger optrock, na.</l>
+<l>'k Geloof niet dat gy ons al weder zoeckt te quellen.</l>
+<l>En koomtge dus alleen? waer zijn uw rotgezellen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Die.</hi></speaker>
+<l>Ick koom alleen. waer is uw meester Willebord?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Poor.</hi></speaker>
+<l>Ter kercke, daer hy vast, en zijn gebeden stort.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Die.</hi></speaker>
+<l>Ga roep hem, want ick moet dien goeden vader spreecken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Poor.</hi></speaker>
+<l>O Jesus, sta ons by, dit is een mislijck teken.</l>
+<l>Ick heb gebelt. hy komt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Die.</hi></speaker>
+<l>Ga roep den vader, flux.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Poor.</hi></speaker>
+<l>Soldaten brengen ons heel zelden veel gelux.</l>
+<l>Wy zienze noo van voor, en allerliefst van achter.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Die.</hi></speaker>
+<l>Wie eenen hopman huist, die heeft een trouwen wachter,</l>
+<pb n="26"/>
+<l>En ridderlijck beschut, en hoeft geen poort noch slot.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Poor.</hi></speaker>
+<l>De beste wachter is de stercke en groote Godt,</l>
+<l>Die nimmermeer en slaept, en luistert naer ons zuchten.</l>
+<l>Wy bidden staegh om pais, en haeten krijgsgeruchten,</l>
+<l>En hooren met verdriet het kraeien van dien haen.</l>
+<l>In oorlogh houden eerst abdy en klooster aen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Die.</hi></speaker>
+<l>Gy zat hier in 't belegh voor alle moetwil veiligh.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Poor.</hi></speaker>
+<l>Wy weten 't Egmont danck, en houden hem voor heiligh.</l>
+<l>Daer is de vader zelf, zoo bleeck en afgevast.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Wil.</hi></speaker>
+<l>Heer maerschalck, wel, wat nu?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Die.</hi></speaker>
+<l>Ick koom by u te gast.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Wil.</hi></speaker>
+<l>Gy zijt my wellekom, al komt gy ongebeden.</l>
+<l>'k Verwachte u t'avont niet, en luister naer de reden</l>
+<l>Dat gy dus schichtigh keert: daer is wat meer aen vast.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Die.</hi></speaker>
+<l>'k Verzoeck alleen op u, en dat door Egmonts last,</l>
+<l>Of ick wat krijgsvolck magh te nacht in 't klooster leggen.</l>
+<l>Het is een krijgsmans beê, gy mooghtze niet ontzeggen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Wil.</hi></speaker>
+<l>'k Geloof gy deunt met my.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Die.</hi></speaker>
+<l>'t Is errenst, en geen spel.</l>
+<l>En Egmonts eigen last: hy gafme dit bevel.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Wil.</hi></speaker>
+<l>Hoe zal men dit verstaen? heeft Egmont dat bevolen?</l>
+<l>Hy stack noit Godtshuis aen, noch zocht zich by de kolen</l>
+<l>Te warmen van dat vier. 't is enckel misverstant.</l>
+<l>Gy zijt my wellekom, mijn heer, daer is mijn hant.</l>
+<l>'k Zal u en uwen stoet gewilligh innelaten</l>
+<l>Maer 't Godtshuis op te doen baldaedigen soldaeten</l>
+<l>Of ruitren, 'k ly niet: 'k vermagh 't met geen gemoedt.</l>
+<l>Het klooster is Godts erf, en Jesus eigen goet.</l>
+<l>Wie kloosters raeckt, die raeckt den appel van Godts oogen.</l>
+<l>Heer oversté, geloof, 't is buiten ons vermogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Die.</hi></speaker>
+<l>'t Is om een uur of twee te doen, ten hooghste dry.</l>
+<l>Ick blijf u borghr en hou uw kerck en klooster vry</l>
+<l>Van overlast en scha, en zal de boosheit straffen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Wil:</hi></speaker>
+<l>Met krijghsmans borreghtoght en heb ick niet te schaffen.</l>
+<l>Al waer 't de veltheer zelf, ick zey 't hem in 't gezicht:</l>
+<l>Dit is een overout en vorstelijck gesticht,</l>
+<l>Verzorght in vrede en krijgh met zegelen en brieven,</l>
+<l>Dat wie het quetst, gedencke een vorst des rijx te grieven,</l>
+<pb n="27"/>
+<l>Die zeght: hy raeckt mijn kroon wie 't Godshuis yet misdoet.</l>
+<l>Sint Andries is 't gewijt: het past geen' krijgsmans voet.</l>
+<l>'t Zy verr' dat Diedrick nu 's Katuizers vyant werde.</l>
+<l>Twee Alexanders zelfs, de vierde en oock de derde,</l>
+<l>Gelijck de tweede Urbaen, bevestighden dit slagh</l>
+<l>Van Godtsdienst, daar men Bruin wel d'eer van geven magh.</l>
+<l>Ja op dat geen gerucht zou steuren ons gemoeden,</l>
+<l>Magh niemant deze plaets, beneden hondert roeden,</l>
+<l>Betimmeren, veel min bezwaeren met den last,</l>
+<l>Dien d'oorlogh naer zich sleipt, of eenigh oorloghsgast.</l>
+<l>Wy staen op keizerlijcke en pauzelijcke wetten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Die.</hi></speaker>
+<l>De wetten zwijgen stil voor wapens en trompetten.</l>
+<l>De noot breeckt wet: gy mooght op geene wetten staen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Wil.</hi></speaker>
+<l>Ontwijtge dan 't gewijde?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Die.</hi></speaker>
+<l>Als David heeft gedaen,</l>
+<l>Toen hy voor 't zwaert van Saul te Nobe quam gevloden,</l>
+<l>En zijnen honger boete aen priesterlijcke brooden,</l>
+<l>Dat niemant oit vermoght, 't en waer 't gezalfde hooft.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Wil.</hi></speaker>
+<l>De stoute Usia wert rechtvaerdelijck berooft</l>
+<l>Van zijn gezontheit, toen hy 't heilighdom ontwijde.</l>
+<l>De priesters hebben Godt en d'englen op hun zijde.</l>
+<l>Dit is het errefdeel, dat ons te beurte viel.</l>
+<l>Hy laedt des graeven vloeck rampzalig op zijn ziel,</l>
+<l>Die 't Godtshuis in zijn recht en vrydom wil verdrucken.</l>
+<l>Hebt gy een' aenslagh voor, het kan u niet gelucken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Die.</hi></speaker>
+<l>Hoe luit des graeven vloeck, dat ick u wel versta?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Wil.</hi></speaker>
+<l>Dat aller Heilgen toorne en eeuwige ongena</l>
+<l>Alleen niet treffen zal de kinders, en den vader,</l>
+<l>O gruwel! maer hy moet met Judas, Godts verrader,</l>
+<l>Met Lucifer en al zijne engelen vergaen,</l>
+<l>En schaemroot en verdoemt voor Jesus vierschaer staen.</l>
+<l>'t Is schrickelijck, begint uw hart noch niet te beven?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Die.</hi></speaker>
+<l>Ja 't klooster heeft dien vloek den lantsheer voorgeschreven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Wil.</hi></speaker>
+<l>Het zy daer meê zoo 't wil, men opent nu geen poort.</l>
+<l>'t Is Kersmis; 't klooster viert Godts vrolijcke geboort;</l>
+<l>De hooghste feest van 't jaer; dus laet dit werreck steecken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Die.</hi></speaker>
+<l>Katuizerbroêr, hier gelt geen prevelen, noch preecken.</l>
+<pb n="28"/>
+<l>Bewilligh mijn verzoeck, en sta mijn bede toe,</l>
+<l>Of anders ly dat ick het ongebeden doe.</l>
+<l>De tijt verloopt, 't is spa: daer komen mijn soldaeten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Wil.</hi></speaker>
+<l>'k Getroost my eer de doot, dan ick dit toe zal laeten.</l>
+<l>Wat wilt ghy 't helsche vier op uwe halzen laên?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Die.</hi></speaker>
+<l>Voort mannen, vaert vry voort, en steeckt het klooster aen:</l>
+<l>'t Is kout, zoo mogen wy ons by de kolen warmen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Wil.</hi></speaker>
+<l>Och maerschalck, hou gemack: och wilt u toch ontfarmen</l>
+<l>Het is geen Kristen mensch die brant in kloosters sticht.</l>
+<l>Al wat het Godtshuis heeft, huisvesting, vier en licht,</l>
+<l>En spijs, en dranck, het is voor 't krijghsvolck al ten beste.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Die.</hi></speaker>
+<l>Nu mannen, treckt vry in: treckt voor, ick blijf de leste.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Vosmeer: Willem van Egmont</hi>,</speaker>
+<l>ICk koom al heimelijck gezwommen door de grachten.</l>
+<l>Waer sammelt Egmont nu? hy zou my hier verwachten.</l>
+<l>'t Is doncker. ick ben nat, en klippertant van kou.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Eg.</hi></speaker>
+<l>Wel waer of Vosmeer blijft, ons afscheit was, hy zou</l>
+<l>Verzeker op dees uur alhier zich laten vinden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Vos.</hi></speaker>
+<l>Hier is de man al zelf. wie zich derf onderwinden</l>
+<l>Een' aenslagh, vol gevaers, moet passen op zijn tijt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Eg.</hi></speaker>
+<l>Weest welkoom, brave borst, nu blijckt het, datge zijt</l>
+<l>Een krijgsman, op wiens woort men wel een kerk magh bouwé.</l>
+<l>Hoe hebt gy 't met den heer van Aemstel al gebrouwen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Vos.</hi></speaker>
+<l>Zoo geestigh, dat'er niets aen dezen aenslagh faelt.</l>
+<l>De burgery heeft zelf het zeepaert ingehaelt,</l>
+<l>Met zangen en triomf, als die van Troje deden.</l>
+<l>Ick stuurde en hiel het roer: maer 't oorloghsvolck, beneden</l>
+<l>In 't schip, liep groot gevaer. de bodem slorpte 't nat,</l>
+<l>Door 't stooten op een' pael, waer door een yeder zat</l>
+<l>In 't water tot de knie, en vreesde te versticken.</l>
+<l>Het ongemack was groot, noch durfde niemant kicken:</l>
+<l>Doch 't leck geraeckte dicht, en stopte wonderbaer</l>
+<l>Van zelf, toen broght de hoest ons weder in gevaer;</l>
+<l>Vermits men 't schor geluit bescheidelijck kon hooren.</l>
+<l>Had Godt niet zelf verdooft des Aemsterdammers ooren,</l>
+<pb n="29"/>
+<l>Wy waren van ons stem en eigen keel verraên.</l>
+<l>Ick gaf my zelven moedt, en hief eens rustigh aen</l>
+<l>Te zingen, dat het klonck, schoon hert en nieren krompen.</l>
+<l>Dan trantelde ick van kou: dan viel ick eens aen 't pompen.</l>
+<l>Zoo raeckten wy in stadt, daer, als een waterval,</l>
+<l>Al 't volleck schoot naer 't schip, van straet en burreghwal.</l>
+<l>De geest van out en jong door een scheen uitgespannen.</l>
+<l>Men brocht het Vosmeer toe met kroezen en met kannen.</l>
+<l>Maer 't zagh'er deerlijck uit, toen Gysbrecht liet gebiên,</l>
+<l>Men zou de naeste poort en 't slot van rijs verzien:</l>
+<l>Want door het lang belegh, en door de koude dagen</l>
+<l>Was al de torf verbrant. ick holpze rustigh draegen,</l>
+<l>En scheen de gaeust van al, in 't bangste van dien noot:</l>
+<l>Want had het lang geduurt, de zolder waer ontbloot,</l>
+<l>Waer onder 't krijghsvolck lagh gedoken in zijn laegen;</l>
+<l>Doch d'avont viel heel kort, en ick begon te klaegen,</l>
+<l>En hielme gansch vermoeit, en riep: van daeg genoegh</l>
+<l>Geslaeft; men valle aen't werk, na'et hoogtijt, 's morgens vroeg.</l>
+<l>Het wachthuis is verzien. het is nu tijt van vieren,</l>
+<l>Naer dien gy van den schrick der Hollantsche banieren</l>
+<l>Genadigh zijt verlost, en ick'er 't lijf af broght.</l>
+<l>Men schonckze vry gelagh, en gafze gelt. ick zocht,</l>
+<l>Geveinft den arrebeit om 't hooghtijt uit te stellen.</l>
+<l>De tijt gehengt nu niet u alles te vertellen:</l>
+<l>Hoe zorghlijck het in 't schip en onder 't krijghsvolck stont,</l>
+<l>En elck verscheelde, en wat een yeder raetzaemst vont;</l>
+<l>Hoe ickze menighmael met dreigen holp aen 't zwijgen,</l>
+<l>En konze, om 't leven zelf niet aen 't bedaeren krijgen:</l>
+<l>Hoe Arkel, heel verkoudt, zijn eigen ponjaert bloot</l>
+<l>Gezet had op den strot, en trooste zich de doot,</l>
+<l>Om al zijn mackers niet door 't hoesten te verklicken.</l>
+<l>Nu schort'er dat wy elck ons werreck voort beschicken.</l>
+<l>Het zeepaert, zwanger van gewapenden, zal gaen</l>
+<l>In arbeit, en van vracht, voor 't opgaen van de maen,</l>
+<l>Omtrent ter middernacht, verlossen, als de kercken</l>
+<l>Op 't hooghtijt zijn gepropt van menschen, die 't niet mercken:</l>
+<pb n="30"/>
+<l>Dan zal de laegh in twee gedeelt, eer 't ymant hoort,</l>
+<l>Terstont vermeesteren de Haerelemmer poort,</l>
+<l>En rammenze met kracht: en ick, om u te lichten</l>
+<l>Van verr', zal daedlijck brant in 't holle zeepaert stichteu,</l>
+<l>Dat midden in de stadt by d'andre schepen leit.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Eg.</hi></speaker>
+<l>De maerschalck wacht op u in 't klooster, al bereit</l>
+<l>Terstont met duizent man de muuren in te trecken,</l>
+<l>En 't leger leght niet verre: ick ga het hun ontdecken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Vos.</hi></speaker>
+<l>En ick al weêr naer stadt. nu veltheer, pas op 't stuck.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Eg.</hi></speaker>
+<l>Godt geef dat u en my dees aenslagh wel geluck.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey van edelingen.</hi></speaker>
+<l rend="; 1tab">Wy edelingen, bly van geest,</l>
+<l rend="; 1tab">Ter kerke gaen op 't hooghste feest</l>
+<l rend="; 1tab">Den eerst geboren Heilant groeten,</l>
+<l rend="; 1tab">En knielen voor de kleene voeten</l>
+<l rend="; 1tab">Van 't kint, waer voor Herodes vreest:</l>
+<l rend="; 2tab">Het kint waer voor een star verrijst,</l>
+<l rend="; 1tab">Die Wijzen met haer stralen wijst</l>
+<l rend="; 1tab">De donkre plaets van zijn geboorte,</l>
+<l rend="; 1tab">En leitse in Davids oude poorte,</l>
+<l rend="; 1tab">Daer d'allerhooghste 't laeghste prijst.</l>
+<l rend="; 2tab">Het oosten offert wieroock, gout,</l>
+<l rend="; 1tab">En bittre myr. de gave ontvouwt</l>
+<l rend="; 1tab">'s Kints Godtheit, priesterdom, vol waerde,</l>
+<l rend="; 1tab">En zijne sterflijckheit op d'aerde.</l>
+<l rend="; 1tab">Hier leght hy, die 't al heeft gebouwt.</l>
+<l rend="; 2tab">'t Gevogelt, dat op wiecken zweeft</l>
+<l rend="; 1tab">Zijn nest, de vos zijn holen heeft,</l>
+<l rend="; 1tab">En woont in bergen, en in bosschen:</l>
+<l rend="; 1tab">Een stal van ezelen en ossen</l>
+<l rend="; 1tab">Den Schepper naeulyx herbergh geeft.</l>
+<l rend="; 2tab">De kribbe hem een wiegh verstreckt,</l>
+<l rend="; 1tab">Die 't aerdtrijck met den hemel deckt,</l>
+<l rend="; 1tab">En elleck dier bestelt zijn voeder.</l>
+<l rend="; 1tab">O kint, gy zijt, gelijck uw moeder,</l>
+<l rend="; 1tab">Met pracht noch hoovaerdy bevleckt.</l>
+<pb n="31"/>
+<l rend="; 1tab">Hier voert de neêrgedaelde Godt</l>
+<l>De trotse weerelt om met spot</l>
+<l>In zijn triomf, ten smaet der hoven.</l>
+<l>Het nedrigh hart voert hy naer boven</l>
+<l>Met hem in 't hooghgeboude slot.</l>
+<l rend="; 1tab">Hier schuilt dat Godlijck aengezicht,</l>
+<l>Waer uit de zonne schept haer licht,</l>
+<l>En alle starren glans, en luister.</l>
+<l>Hier leght hy zonder glans in 't duister,</l>
+<l>Die englen tot zijn' dienst verplicht.</l>
+<l rend="; 1tab">Des hemels reien wiegen hem</l>
+<l>In slaep met hunne zoete stem,</l>
+<l>Die noit van vaeck en was beschoten,</l>
+<l>En weckt het hooft van alle grooten,</l>
+<l>In 't koningklijck Jerusalem.</l>
+<l rend="; 1tab">Augustus rijck verliest zijn eer:</l>
+<l>De Roomsche scepter reickt niet veer:</l>
+<l>Het oost versmaet Latijnsche naemen:</l>
+<l>Maer dees beheerscht het al te zaemen,</l>
+<l>Oock daer de zonne neemt haer' keer.</l>
+<l rend="; 1tab">De hemel 't aerdtrijck en de hel</l>
+<l>Scherp luisteren naer zijn bevel,</l>
+<l>En siddren voor de zuivre wetten,</l>
+<l>Die hy door visschers laet trompetten,</l>
+<l>En blasen over duin en del.</l>
+<l rend="; 1tab">De doecken, daer dit kint in leit</l>
+<l>Is 't purper van zijn majesteit,</l>
+<l>Waer in de herders hem aenschouwen,</l>
+<l>Dien Godt de zielen komt vertrouwen,</l>
+<l>Gelijck van outs was toegezeit:</l>
+<l rend="; 1tab">Dat Godt zijn kudde weiden zal,</l>
+<l>En hoên voor ramp en ongeval,</l>
+<l>En naer het afgedwaelde vraegen,</l>
+<l>Dat schaep op zijne schouders dragen</l>
+<l>Met vreught by 't overigh getal.</l>
+<l rend="; 1tab">Hier is de wijsheit ongeacht:</l>
+<l>Hier geld geen adel, staet, noch pracht.</l>
+<pb n="32"/>
+<l>De hemel heeft het kleen verkoren.</l>
+<l>Al wie door ootmoet wort herboren,</l>
+<l>Is van het hemelsche geslacht.</l>
+<l rend="; 1tab">Gy die der vorsten harten leit,</l>
+<l>Gelijck een beeck, en schift en scheit</l>
+<l>Het licht van dicke duisternissen;</l>
+<l>Laet den tyran zijn' aenslagh missen,</l>
+<l>Die den onnooslen laegen leit.</l>
+</sp>
+</div>
+<div type="act">
+<head rend="h3">Het derde bedryf.</head>
+<sp>
+<speaker><hi rend="i">Badeloch. Gys breght van Aemstel. Heer Peter. Bontgenoten. Arend van Aemstel.</hi></speaker>
+<l>ICk trock zoo dra niet aen mijn beste en hooghtijts kleêren,</l>
+<l>Om in de kerck met al de stadt te triomfeeren</l>
+<l>Voor Godt, die 't leger dreef van d'aengevochte wal,</l>
+<l>En zich verneêren quam in Bethlems armen stal,</l>
+<l>Of raeckte in eenen stoel aen 't sluimeren en droomen,</l>
+<l>En ben benauwt en bang uit mijnen slaep gekomen;</l>
+<l>Gelijck de dauw getuight, die op mijn kaecken leit.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Mijn halve ziel, wat's dit? hoe zietge zoo beschreit?</l>
+<l>Wat nevel van verdriet bezwalckt uw blinckende oogen,</l>
+<l>En heeft den hemel van uw aenschijn dus betogen?</l>
+<l>Nu zijt gerust, en zegh, wat is het dat u smert?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>My leght, helaes, my leght een zwarigheit op 't hart.</l>
+<l>Ick heb in mijnen slaep yet schrickelijx vernomen.</l>
+<l>Een droom bezwaert mijn hart: gezichten doenme schromen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>De droomen zijn bedroch: gy vreest uit misverstant.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>Nicht Machtelt, dochtme, stont voor mijne ledekant</l>
+<l>Bedruckt, en in dien schijn, waer in zy by haer leven</l>
+<l>My dick haer hartewee te kennen plagh te geven,</l>
+<l>Toenze in haer traenen smolt, en, van gedult berooft,</l>
+<l>De handen deerlijck wrong, het hair trock uit heur hooft,</l>
+<l>De blancke borsten krabde, en scheurde 't kleet aen flarden,</l>
+<l>En zagh begruist van stof, zoo dat ick 't nau kon harden,</l>
+<l>Noch hooren al 't gekerm, en jammerlijck misbaer,</l>
+<l>Noch 't schelden op den graef, voor schelm, geweldenaer,</l>
+<pb n="33"/>
+<l>Verkrachter van een vrouw, zoo kuisch, zoo welgeboren.</l>
+<l>Helaes! zy quam my niet in die gestalt te vooren,</l>
+<l>Gelijck haer zuivre ziel, van droefheit afgepijnt</l>
+<l>In 't leven, nu voor Godt en d'engelen verschijnt,</l>
+<l>Met eenen pallemtack in haer sneeuwitte handen,</l>
+<l>En in het sneeuwit kleet, en oogen, die nu branden</l>
+<l>In 't hemelsch paradijs, als starren aen de lucht.</l>
+<l>Ick sprackze al schreiende aen, na eenen diepen zucht:</l>
+<l>O adelijcke spruit van 't hooge huis te Woerden,</l>
+<l>Om welcker ongelijck de helden oorlogh voerden,</l>
+<l>Dat oorlogh, 't welck, na dat gy in den heemel trockt,</l>
+<l>Zoo onverzoenelijck tot noch toe smoockt, en wrockt;</l>
+<l>Wat oirzaeck drijft u hier op ongeruste paden?</l>
+<l>Of komtge om onzent wil, met zwarigheit beladen?</l>
+<l>Om d'uwen by te staen, in 't kommerlijck belegh?</l>
+<l>Nicht Machtelt, 't is vergeefs: de vyanden zijn wegh.</l>
+<l>Wat treurtge? wy zijn vry van laegen, van bespringen:</l>
+<l>Dus help ons nu om hoogh by Godt triomfe zingen.</l>
+<l>Omring uw hooft met licht, in steê van lauwerkrans,</l>
+<l>En ley der englen rey met vrolijckheit ten dans.</l>
+<l>Zy schudde 't hooft, en scheen van gramschap te veranderen</l>
+<l>In 't aengezicht, en sloegh de handen van elkanderen,</l>
+<l>En steende, en zuchte zwaer, en borst in 't endt dus uit,</l>
+<l>Maer met een heesche keel en dof en schor geluit:</l>
+<l>Onnoosle, zijtge nu van vyanden ontslaegen?</l>
+<l>En slaeptge zoo gerust? en vreestge niemants laegen?</l>
+<l>Daer gy, om mijnent wil, op 't alleruiterst zijt,</l>
+<l>En naest aen uwen val? op op, het is geen tijt</l>
+<l>Van slaepen: het is tijt naer andere gewesten</l>
+<l>Te vlieden van dit huis. de vyant heeft de vesten.</l>
+<l>De zeestadt staet in brant: het is met haer gedaen.</l>
+<l>Oom Gijsbreght heeft vergeefs zijn burgers voorgestaen.</l>
+<l>Geen tegenworstelen noch strijden magh u baeten.</l>
+<l>Godts Heilgen hebben kerck en outers lang verlaten.</l>
+<l>Op op, bergh Gozewijn, voor al mijn eenigh pant,</l>
+<l>Klaris, mijn eigen hart, eer 't heiligh klooster brand',</l>
+<pb n="34"/>
+<l>Eer eenigh booswicht haer mishandele en misbruicke,</l>
+<l>Naer zijn' vervloeckten lust, en zy haer oogen luicke.</l>
+<l>Al zjjn de straeten dicht bezet, en naeu bewaert;</l>
+<l>'k Zal Gijsbreght, ongequetst van spiets of eenigh zwaert,</l>
+<l>En, zonder eene nop van 't kleet door 't vier te zengen,</l>
+<l>Geleiden, en gezont op dezen drempel brengen.</l>
+<l>Verlaet dan flux dit slot: steeck af, op Godts gena,</l>
+<l>En geef u zeewaert in. voort, voort, eer 't wort te spa.</l>
+<l>Al d' englen zullen u voor stormen en voor stranden</l>
+<l>Behoeden, dat de vloot behouden magh belanden.</l>
+<l>Gedenck eens welck een schrick mijn slaeprigh hart beving.</l>
+<l>Mijn hair dat rees te bergh, en aen een yder hing</l>
+<l>Een droppel nats: het zweet begost my uit te breecken.</l>
+<l>Mijn lijf wert kil, als ys: ick wou, en kost niet spreecken,</l>
+<l>En schoot uit mijnen droom, al bevende en bevreest,</l>
+<l>Greep toe, en zocht vergeefs t'omhelzen haeren geest,</l>
+<l>Die door mijn armen droop, en wechstoof uit mijn oogen,</l>
+<l>En lietme heel verbaest, en van het spoock bedrogen.</l>
+<l>Dit is het datme steurt, en in de zinnen speelt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>'t Is loutere ydelheit, die zich het brein verbeelt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>Och of het ydel waer! ick heb mijn uur verslaepen,</l>
+<l>Om naar de kerck te gaen. 't is spade.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Pe.</hi></speaker>
+<l>Wapen, wapen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>Bescherm ons, goede Godt: behoe ons voor gevaer.</l>
+<l>'k Hoor onraet. och ick zorgh mijn droom is al te waer:</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Heer Peter, wel hoe dus? wat port u zoo te roepen?</l>
+<l>Wat jaeght u hier by nacht?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Pe.</hi></speaker>
+<l>Godt lof, dat ick de troepen</l>
+<l>Des vyands ben ontvloôn, ter doot toe afgemat.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Wat vyant? hoe? ghy raest.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Pe.</hi></speaker>
+<l>De vyant is in stadt.</l>
+<l>Het is met Amsterdam en met zijn hooge wallen</l>
+<l>Gedaen: zy is de wraeck in 't endt te buit gevallen.</l>
+<l>De gruwelijcke Reus heeft eene poort vermant.</l>
+<l>Het zeepaert lost zijn vracht, en Vosmeer sticht den brant,</l>
+<l>In 't barnen van 't gevecht, met schimpen en braveeren.</l>
+<l>De wachters vechten flaeu, en zien hen niet te keeren.</l>
+<l>Het leger treckt vast in met duizenden, een maght</l>
+<l>Zoo groot als Waterlant noch oit te velde braght,</l>
+<pb n="35"/>
+<l>En Kennemer, en Vries, en Zeeu en Hollant t' zaemen,</l>
+<l>Met allen die, op ons gebeeten, herwaert quamen.</l>
+<l>De Kersnacht heeft gedient tot dit verraeders werck,</l>
+<l>Bestaen voor maeneschijn, toen 't volleck in de kerck</l>
+<l>Met offren bezigh was, en zingen in de kooren;</l>
+<l>Terwijl de stadt, volvreught, als Christus scheen herboren,</l>
+<l>Wy weder uit de muil der bleecke doot verlost.</l>
+<l>Vergeefs heeft dit belegh u zoo veel zweet gekost,</l>
+<l>En bloet en arrebeyt, nu alles loopt verlooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Ick zal terstont om hoogh gaen zien van Schreiers toren.</l>
+<l>Gy dienaers, brengt mijn' helm en harnas by der hant.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>Helaes wat gaet my aen, in dezen droeven stant!</l>
+<l>Is dat triomf? heet dat zijn vyanden verjaegen?</l>
+<l>Nu kent men Haerlem eerst: nu blijcken Egmonts laegen.</l>
+<l>Nu lachenze om mijn stadt, zoo lang van hun benijt.</l>
+<l>Mijn goede vrome man gaet quijnen, en verbijt</l>
+<l>Zijn leet des daeghs, en brengt de nachten door met waecken.</l>
+<l>Ick vind hem menighmael met traenen op de kaecken:</l>
+<l>En vraegh ick wat hem deert: hy zucht, en antwoort niet,</l>
+<l>En kropt zijn hartewee, verdubbelt mijn verdriet.</l>
+<l>Hoe veel geluckiger zijn arme en slechte dorpen,</l>
+<l>En hutten laegh gebouwt, min stormen onderworpen</l>
+<l>Dan eenigh heerenhuis, dat door 't geboomte steeckt,</l>
+<l>En daer het bulderen des wints zijn kracht op breeckt.</l>
+<l>Weet hier van eenigh mensch, ick weet'er van te spreecken:</l>
+<l>Als ick den ganschen tijt mijns levens overreken,</l>
+<l>Van mijne bruiloft af, van dat ick zat verlooft:</l>
+<l>Wat stormen waeiden my niet sedert over 't hooft?</l>
+<l>Wat toren is zoo hoogh, van waer mijn oogh de baren,</l>
+<l>De zee kan overzien van al mijn wedervaeren?</l>
+<l>En wie ziet noch het endt van dien begonnen strijt?</l>
+<l>Hier meê ga ick mijn'man, naest Godt mijn toevlught, quijt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Pe.</hi></speaker>
+<l>Gedult mevrouw, gedult; Godt proeft zijn uitverkoren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Ick kan bescheielijck en klaer 't geklicklack hooren</l>
+<l>En rammelen van 't stael: 't geluit koomt dichter by.</l>
+<l>De schepen branden al, en schitteren in 't Y,</l>
+<pb n="36"/>
+<l>En in de Diemermeer en alle burreghwallen.</l>
+<l>Ick zagh het groot gebou, Jan Witten gevels, vallen:</l>
+<l>Het naeste huis daer aen staet rede in lichten brant.</l>
+<l>De klocken kleppen vast. de heele waterkant</l>
+<l>Is al in rep en roer. het bloedigh zwaert gaet weien.</l>
+<l>Men steeckt'er de trompet: men hoort de menschen schreien.</l>
+<l>Brengt hier mijn harrenas. voort dienaers, schaft geweer.</l>
+<l>Al wie in 't harnas sterft, die sterft met krijghsmans eer.</l>
+<l>Waer vrienden in den noot? waer zijn ons bondgenooten?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Pe.</hi></speaker>
+<l>Voor 't huis vergaderen de treflycksten, de grooten;</l>
+<l>Heer Heemskerck, die vol viers om uwe zuster quam,</l>
+<l>Oudshoren, en Polaen, hoe grijs hy is en stram,</l>
+<l>Heer Zwieten, Teilingen, en Waermont, en uw broeder,</l>
+<l>En Kuick, en Kraienhorst. geen leeuwen zijn verwoeder,</l>
+<l>Om aen te gaen op roof.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Men roep' hen voor den dagh.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bont.</hi></speaker>
+<l>Mijn heer, 't is vechtens tijt, zoo vechten helpen magh.</l>
+<l>Wy zijn getroost met u te leven en te sterven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Gy zult in eeuwigheit by Godt uw loon verwerven,</l>
+<l>Voor dezen trouwen dienst, in mijnen lesten noot.</l>
+<l>Gy ziet hier anders niet voor oogen dan de doot:</l>
+<l>Doch zooge zijt gezint den vyant te verletten,</l>
+<l>Zoo veel ons mooghlijck zy, en 't leven op te zetten</l>
+<l>By stadt en burgery, zoo volghtme: dat 's u voor.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bont.</hi></speaker>
+<l>Wy volgen algelijck, en houden 't zelve spoor.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>Beschermt mijn' lieve man, dat bid ick, vroome heeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ar.</hi></speaker>
+<l>Mevrouw, betroume vry, 'k zal zonder hem niet keeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey van Klaerissen.</hi></speaker>
+<l rend="; 1tab">OKersnacht, schooner dan de dagen,</l>
+<l rend="; 1tab">Hoe kan Herodes 't licht verdragen,</l>
+<l rend="; 1tab">Dat in uw duisternisse blinckt,</l>
+<l rend="; 1tab">En wort geviert, en aengebeden.</l>
+<l rend="; 1tab">Zijn hooghmoedt luistert naer geen reden,</l>
+<l rend="; 1tab">Hoe schel die in zijne ooren klinckt.</l>
+<l rend="; 2tab">Hy pooght onnooslen te vernielen,</l>
+<l rend="; 1tab">Door 't moorden van onnoosle zielen,</l>
+<pb n="37"/>
+<l>En weckt een stadt- en lantgeschrey,</l>
+<l>In Bethlehem, eu op den acker,</l>
+<l>En maeckt den geest van Rachel wacker,</l>
+<l>Die waeren gaet door beemt en wey:</l>
+<l rend="; 1tab">Dan naer het westen, dan naer 't oosten.</l>
+<l>Wie zal die droeve moeder troosten,</l>
+<l>Nu zy haer lieve kinders derf?</l>
+<l>Nu zy hun ziet in 't bloet versmooren,</l>
+<l>Vergaen, die naulijx zijn geboren,</l>
+<l>En zoo veel zwaerden root geverft?</l>
+<l rend="; 1tab">Zy ziet de melleck op de tippen</l>
+<l>Van die bestorve en bleecke lippen,</l>
+<l>Geruckt noch versch van moeders borst.</l>
+<l>Zy ziet de teêre traentjes hangen,</l>
+<l>Als dau, aen druppels op de wangen:</l>
+<l>Zy zietze vuil van bloet bemorst.</l>
+<l rend="; 1tab">De winckbraeu deckt nu met zijn booghjes</l>
+<l>Gelokene en geen lachende ooghjes,</l>
+<l>Die straelden tot in 's moeders hart,</l>
+<l>Als starren, die met haer gewemel</l>
+<l>Het aenschijn schiepen tot een' hemel,</l>
+<l>Eer 't met een mist betrocken wert.</l>
+<l rend="; 1tab">Wie kan d'elende en jammer noemen,</l>
+<l>En tellen zoo veel jonge bloemen,</l>
+<l>Die vroegh verwelckten, eerze noch</l>
+<l>Haer frissche bladeren ontloken,</l>
+<l>En lieffelijck voor yder roken,</l>
+<l>En 's morgens droncken 't eerste zogh?</l>
+<l rend="; 1tab">Zoo velt de zicht de korenairen.</l>
+<l>Zoo schud een buy de groene blaeren,</l>
+<l>Wanneer het stormt in 't wilde wout.</l>
+<l>Wat kan de blinde staetzucht brouwen,</l>
+<l>Wanneerze raest uit misvertrouwen!</l>
+<l>Wat luit zoo schendigh dat haer rout!</l>
+<l rend="; 1tab">Bedruckte Rachel, staeck dit waeren:</l>
+<l>Uw kinders sterven martelaeren,</l>
+<pb n="38"/>
+<l>En eerstelingen van het zaet,</l>
+<l>Dat uit uw bloet begint te groeien,</l>
+<l>En heerlijck tot Godts eer zal bloeien,</l>
+<l>En door geen tiranny vergaet</l>
+</sp>
+</div>
+<div type="act">
+<head rend="h3">Het vierde bedryf.</head>
+<sp>
+<speaker><hi rend="i">Gozewijn van Aemstel. Klaeris van Velzen. Rey van Klaerissen. Gysbreght van Aemstel.</hi></speaker>
+<l>HEt loopt met Amsterdam, gelijck gy hoort, ten ende,</l>
+<l>En wy verwachten deel aen d'algemeene elende,</l>
+<l>'t En zy dat elck van ons zich daetelijck verzie.</l>
+<l>Voor my, 'k ben out en traegh: my voeght niet dat ick vlie;</l>
+<l>Zoo veele moeiten is dit leven my niet waerdigh.</l>
+<l>Belieft het Godt, hy koom'; zijn dienaer staet al vaerdigh:</l>
+<l>Hy hael my in zijn' troon en aengenaeme rust.</l>
+<l>Maer gy, mijn dochter, wien het leven beter lust,</l>
+<l>En in het bloeienst zijt van uwe jonge jaeren,</l>
+<l>Zet gy 't op vluchten aen, of Jesus u wou spaeren,</l>
+<l>En helpen in der noot. Klaerisse, reine maeght,</l>
+<l>Die t' onrecht noch den haet van vader Velzen draeght,</l>
+<l>Begeef u op de vlught: al d'andren zullen volgen.</l>
+<l>De vyant, blint van wraeck, is bitter, en verbolgen,</l>
+<l>En allermeest op u, ô moeder, vlught voorheen.</l>
+<l>Ick help u in dien noot met traenen, en gebeên,</l>
+<l>En volge u met mijn hart, daer my geen voeten brengen.</l>
+<l>Ga hene, Machtels kint, of Godt het wou gehengen</l>
+<l>Dat gy geborgen wert: 'k ben meest met u begaen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kla.</hi></speaker>
+<l>Och, vader Gozewijn! waer zietge my voor aen?</l>
+<l>Zoo ick u dus begaf, hoe zou dat my betaemen?</l>
+<l>Gy zijt mijn maeghschap toch, naer vleesch en geest te zaemen.</l>
+<l>Zou ick u hier alleen verlaeten tot een' roos,</l>
+<l>Die my een vader streckte, en 't Christelijck geloof</l>
+<l>In 't herte prente, vroegh van kints been af herbaerde,</l>
+<l>Den geest versterckte, en 't lijf in reinigheit bewaerde?</l>
+<l>'k Verlaet u nimmermeer.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l>Dit outer is ons wijck.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Go.</hi></speaker>
+<l>O edel maeghdeke, hoe zijtge zoo gelijck</l>
+<pb n="39"/>
+<l>Van aert die Klaere zelf, naer wien gy heet Klaerisse?</l>
+<l>Waer vinde ick onderscheit in dees gelijckenisse?</l>
+<l>Toen 't Sarazijnsche heir vermeesterde al de stadt</l>
+<l>Daer Sinte Klaere was, hoe droeghze zich? zy tradt</l>
+<l>Grootmoedigh in de poort van 't klooster, daerze woonde:</l>
+<l>En zagh den vyant wech, zoo ras hy zich vertoonde.</l>
+<l>Haer moedt, haer sterck geloof, en yverigh gebedt</l>
+<l>Verstreckte haer een zwaert, en harnas, en helmet.</l>
+<l>Gy mooght dan, nu gy hebt die zelleve gedachten,</l>
+<l>Met my, voor dit altaer, de vyanden verwachten.</l>
+<l>Maer treckme (dat mijn doot zy verr' van schande en smaet)</l>
+<l>Eerst aen dit stramme lijf mijn staetighste gewaet,</l>
+<l>Gelijck een Bisschop voeght, eer krijgsliên ons verrassen.</l>
+<l>Zet my den mijter op: hy zal niet qualijck passen</l>
+<l>Op mjjn gezalfde kruin. breng hier den gouden ringk,</l>
+<l>En steeck aen deze hant, die beeft, den vingerlingk,</l>
+<l>Daer ick de bruit van't Sticht, de Roomsche kerck, meê troude.</l>
+<l>Geef my den herdersstaf, tot steunssel van mijne oude,</l>
+<l>Daar ick Godts kudde meê gehoedt heb, en geweit:</l>
+<l>'k Heb noit de tekens van het Bisdom afgeleit</l>
+<l>Met wil, maer door bedwangk: al leef ick als gebannen;</l>
+<l>Al ruimde ick Henrick plaets, en Willem, en twee Jannen.</l>
+<l>En 't waer een klein verlies, al had men my verkort</l>
+<l>In naem en eer, was slechts geen Christensch bloet gestort,</l>
+<l>En zoo veel zaets vertreên van mensche- en paerdevoeten.</l>
+<l>Most niet onschuldigh volck de schult der heeren boeten?</l>
+<l>Nu kinders, zet u hier, en dat een yder non</l>
+<l>Met my den lofzang zing van ouden Simeon.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l rend="; 2tab">Vergun, ô Godt op zijne bede,</l>
+<l rend="; 2tab">Naer uw belofte, uw' knecht verlof;</l>
+<l rend="; 1tab">Op dat hy reize in ruste en vrede</l>
+<l rend="; 2tab">Om hoogh naer 't hemelsche vredehof:</l>
+<l rend="; 1tab">Naerdien ick met mijne eigene oogen</l>
+<l rend="; 2tab">Den algemeenen heilant zagh,</l>
+<l rend="; 1tab">Die als een zon schijnt uit den hoogen;</l>
+<l rend="; 2tab">Daer yder zich in verblijden magh:</l>
+<pb n="40"/>
+<l rend="; 1tab">Een schoone zon, die met haer straelen</l>
+<l rend="; 2tab">Het blinde Heidendom verlicht,</l>
+<l rend="; 1tab">En Jakobs huis en Isrels paelen</l>
+<l rend="; 2tab">Verheerlijckt, en noch veel vaster sticht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Dat Godt u allen spaere, is 't hier noch tijt van zingen!</l>
+<l>De vyant zackt vast neêr, om 't klooster te bespringen.</l>
+<l>Oom Gozewijn, koom hier: gy zijt stockout en traegh;</l>
+<l>Gedoogh dat ick u op mijn beide schouders draegh.</l>
+<l>Klaerisse nicht, gy zult my volgen met dees reien,</l>
+<l>Waer Godt, of 't goet geluck ons allen wil geleien.</l>
+<l>Nu vader, volgh mijn' raet. de vyant woedt en raest.</l>
+<l>Wie 't leven bergen wil, die bergh het in der haest.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Go.</hi></speaker>
+<l>Gemack, mijn trouwe neef, gy mooght dees moeite derven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kla.</hi></speaker>
+<l>Wy zijn alleens gezint, en wel getroost te sterven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Hoe nu? heeft Godt my dan, door water en door vier,</l>
+<l>Door spiets en zwaert geredt, en menigh blanck rappier,</l>
+<l>Dat ick den Bisschop noch voor 't outer zou zien slaghten,</l>
+<l>En in het laeuwe bloet de nonnekens verkrachten?</l>
+<l>Dat werde nimmer waer. ô Goddelijck geslacht!</l>
+<l>Nicht Machtels geest verscheen mijn liefste dezen nacht:</l>
+<l>Een stem belaste my haer kint en oom te bergen.</l>
+<l>Haer schimme waert om u: en moet ick 't u noch vergen?</l>
+<l>En maecktge zelf uw ziel noch schuldigh aen dien moort?</l>
+<l>De krijgslien zijn niet verr' van deze kloosterpoort,</l>
+<l>Die leght met eenen slagh ter aerde neêrgeworpen.</l>
+<l>Dees godtgewijde vloer zal 't kuische bloet haest slorpen.</l>
+<l>Het krijgsvolck nadert vast, ick hoor het aen 't gedruis.</l>
+<l>Ick bidt om zijnent wil, die levendigh aen 't kruis</l>
+<l>Om ons genagelt hing, voor Sions wreede muuren:</l>
+<l>Ick bidde u om zijn hant-en voet-en hartquetsuuren,</l>
+<l>En om de doorne kroon, die 't hooft verplette en brack,</l>
+<l>En om de scherpe spiets, die in zijn zijde stack;</l>
+<l>Vergunme dezen troost, in zoo veel zwaericheden,</l>
+<l>Dat ick uw leven berge: ô vader; dat ick heden</l>
+<l>Onschuldigh blijven magh aen uwer aller bloet.</l>
+<l>Dit eenige is mijn wensch: en kan ick uw gemoedt</l>
+<pb n="41"/>
+<l>Door smeecken noch gebeên noch bittre traenen buigen;</l>
+<l>Zoo neem ick Godt en al zijn heilgen tot getuigen,</l>
+<l>Dat geenerley gevaer, noch zelf de felle doot,</l>
+<l>My hinderden uw lijf te bergen in den noot.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Go.</hi></speaker>
+<l>Gy hebt godvruchtigh, neef, u neffens ons gequeten.</l>
+<l>Wy zullen 't noch voor Godt noch engelen vergeeten.</l>
+<l>Den grooten Godt alleen zy eer in 't hemelrijck.</l>
+<l>Wy bidden u, sta op: gy doet ons ongelijck,</l>
+<l>Dat gy ter aerde knielt voor sterffelijcke menschen.</l>
+<l>Hoe zou ick schooner doot na 'et lange leven wenschen,</l>
+<l>Dan hier voor martelaer, op deze heilge steê,</l>
+<l>Te offeren mijn bloet, in 't vierighst van mijn beê,</l>
+<l>Op 't allerhooghste feest van Godts geboortenisse!</l>
+<l>Waer of de doot vertreckt? ick heb een rein gewisse,</l>
+<l>En haeckte lang te gaen naer aller zielen bedt;</l>
+<l>Al sedert dat ick uit mijn' zetel wert gezet,</l>
+<l>Toen Uitrecht, dat den vorst, gelijck zijn' vader, eerde,</l>
+<l>Door staetzucht opgeruit, my wars den neck toekeerde:</l>
+<l>Van die tijt was ick al dit lastigh leven moe.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Daer is de vyant zelf. ick vliegh naer boven toe,</l>
+<l>En zal, zoo lang ick magh, de kloosterpoort beschutten,</l>
+<l>Of mijne hulp noch kost uw leven onderstutten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Badeloch: Arent van Aemstel.</hi></speaker>
+<l>HEer broeder, wel wat 's dit? hoe keertge dus alleen!</l>
+<l>O Godt, waer blijft mijn heer? is hy gebleven?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ar.</hi></speaker>
+<l>Neen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>Wat tijding brengtge dan? zegh op, is hy gebleven?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ar.</hi></speaker>
+<l>Ick liet hem voor 't stadthuis gezont en noch in 't leven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>Helaes! waer magh hy zijn, mijn troost, mijn hoop, mijn hooft.</l>
+<l>En keertge zonder hem? dit hadge niet belooft.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ar.</hi></speaker>
+<l>Versla u niet, maer toef. gy zult hem haest aenschouwen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>Dat toeven valtme bang. och was hy slechts behouwen,</l>
+<l>In 't onweêr, dat de staet in zee drijft zonder roer.</l>
+<l>Ick bid, verhaelme toch al wat u wedervoer.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ar.</hi></speaker>
+<l>Gy eischt een' zwaren eisch. wie zou daer niet voor gruwen?</l>
+<l>Het zal ons hartewee en droefheit slechts vernuwen.</l>
+<pb n="42"/>
+<l>Wie hoort dit treurspel aen, die niet zijn tranen laet?</l>
+<l>Al stont hier Grobber zelf, en 't heiloos bastertzaet,</l>
+<l>Het waer onmogelijck dat hy dit hooren konde,</l>
+<l>Het is een nieuwe slagh in mijne versche wonde.</l>
+<l>Oock steeckenwe alle bey noch midden in den druck:</l>
+<l>En wachten op den slagh van 't uiterste ongeluck,</l>
+<l>Ten zy het Godt verzie, en zet de wraecke paelen:</l>
+<l>Doch nu gy 't zoo begeert, hoor toe, ick zal 't verhaelen.</l>
+<l rend="; 1tab">Wy quamen niet zoo haest omtrent den middeldam,</l>
+<l>Daer wat vergaering was van burgren, men vernam,</l>
+<l>Hoe 't ingetrocken heir de nieuwe zyde alreede</l>
+<l>Vermeestert had, het volck onnutten weêrstant dede;</l>
+<l>Dies Gysbreght liet gebiên, men zou in vaerdigheit</l>
+<l>De bruggen, daer de stadt zich recht in 't midden scheit,</l>
+<l>Verbranden, en voor al den Middeldam bezetten;</l>
+<l>Om 's vyants overkomst, waer 't mooghlijck, te beletten,</l>
+<l>En dat men d'oude zy moght vrijen voor gevaer,</l>
+<l>Schoon of het krijghsvolck van de nieuwe meester waer.</l>
+<l>Hy zellef was de voorste, om elleck moedt te geven,</l>
+<l>En ging daer op met ons naer merckt en raethuis streven,</l>
+<l>En broght met al zijn maght de burgers op de been,</l>
+<l>Die ruckten hier en daer van allesins by een.</l>
+<l>Men spande ketenen, voor 't haestige verrasschen.</l>
+<l>Men stopt den toegang dicht met zacken, kisten, kassen,</l>
+<l>En alles wat men reedst kon vinden by der hant.</l>
+<l>Toen vlogen wy met hem te zaemen naer den brant,</l>
+<l>Om, waer het mogelijck, daer orden op te stellen:</l>
+<l>Maer laes! het was te spa. wat mont kan u vertellen</l>
+<l>Den zuuren arrebeit van dezen naeren nacht,</l>
+<l>En met hoe groot een' moort die over wort gebraght?</l>
+<l>Men zagh de doôn gestroit langs burreghwal, en straeten:</l>
+<l>Geen' kruiswegh, die niet dicht bezet was van soldaeten.</l>
+<l>Men ziet'er allesins verbaestheit, en men hoort</l>
+<l>Zich mengen onder een bloetstorting, brant en moort.</l>
+<l>De groote aeloude stadt, vermaert in oorelogen,</l>
+<l>Zoo scheeprijck, en voor wie zich zee en stroomen bogen,</l>
+<pb n="43"/>
+<l>Den vreemde en nagebuur, en rijcken tot ontzagh,</l>
+<l>Gaet plotselijck te grond, en zinckt met eenen slagh.</l>
+<l>Wy worden niet te min door wanhoop aengedreven,</l>
+<l>Dat menig graefsgezinde en Kermer kost zijn leven:</l>
+<l>En 't Amsterlantsche bloet en sneuvelt niet alleen.</l>
+<l>De lijcken groeien aen, en leggen onder een,</l>
+<l>Het aenzicht naer de straet gekeert, of op hun ruggen.</l>
+<l>De kennis van den wegh, van stegen, straeten, bruggen,</l>
+<l>En stadts gelegentheit, by schijnen van de maen,</l>
+<l>Quam dapper ons te baet, en hiel de drommen staen</l>
+<l>Der vyanden, die dick het zeeten op een loopen.</l>
+<l>Dan ging'er eens een deur, en dan een venster open,</l>
+<l>Wy groeiden in getal en moedt, en ruckten voort,</l>
+<l>Of 't mooghlijck had geweest de Haerelemmer poort,</l>
+<l>Die overweldight was, met dooden te verkroppen;</l>
+<l>En weêr met kracht al wat in steê was uit te kloppen;</l>
+<l>Maer quamen voel te spa. de nau ontslipte wacht</l>
+<l>Verhaelde ons hoe alree de voortoght met de kracht</l>
+<l>Der ruitren binnen was: wie zou daer tegens mogen?</l>
+<l>En schoon men hier en daer een brugh had opgetogen,</l>
+<l>Men rechte weinigh uit. de brant nam ymmer toe.</l>
+<l>d'Ontsteltheit was te groot. men wist niet waer, of hoe.</l>
+<l>Mijn broêr, proost Willem, quam, geladen onder d'armen</l>
+<l>Met overschot van 't kruis des heilants: helpt beschermen</l>
+<l>Ons hooftkerck, rijck gebout ter eere van Katrijn,</l>
+<l>En Jesus moeder zelf. ô burgers, berght Kristijn,</l>
+<l>Heer Gysbreghts zuster toch; en naulyx kost hy spreecken.</l>
+<l>Ick hebze in 't vrouwekoor al bevende versteecken,</l>
+<l>En raeckte naulyx uit. de lantreus is'er veur.</l>
+<l>Men hoort zijn stem. hy loopt met boomen op de deur.</l>
+<l>Om Godts wil, gaet de kerck op 't hooge feest ontzetten.</l>
+<l>Wy schieten derwaert aen, om 't onheil te beletten,</l>
+<l>Als tygers, die, by nacht van honger uitgejaeght,</l>
+<l>Gebeeten zijn op roof. wy vliegen onvertsaeght</l>
+<l>Door vier en zwaerden heen, om 't al voor Godt te waegen:</l>
+<l>Maer vinden voor ons komst de kerckdeur opgeslaegen,</l>
+<pb n="44"/>
+<l>En hooren eenen galm, die uitberst over straet,</l>
+<l>En over al de stadt, en Godt voor 't voorhooft slaet,</l>
+<l>In zijnen hoogen troon, als eer de kerck der Joden.</l>
+<l>d' Altaeren en het koor zijn opgehoopt met dooden.</l>
+<l>Wat bleef'er ongeschent! wat kreegh'er niet een' krack!</l>
+<l>'t Gevlughte volleck zit op trans, gewelf, en dack,</l>
+<l>En biet noch tegenweer, en quetst ons zelfs met steenen</l>
+<l>En hout uit misverstant. men hoort de vrouwen weenen,</l>
+<l>En kinders, die vol schrick krioelen hier en daer,</l>
+<l>De binnetranssen langs. De kaerssen op 't altaer</l>
+<l>Zijn zommigen gebluscht, en zommigen die blaecken.</l>
+<l>De kerreckschenners woên, en passen wat te raecken,</l>
+<l>En vechten om den buit, en plondren 't al, oock zelf</l>
+<l>Het Marianum, dat te pronck hing aen 't gewelf,</l>
+<l>Wort afgeruckt. men zet in 't glibbrigh bloet zijn stappen.</l>
+<l>Men torst'er kelcken uit, kassuiffelen, en kappen,</l>
+<l>Die stijf staen van gesteente, en parlen en root gout,</l>
+<l>Om 't heerelijckst, als 't plagh, wanneer men hooghtijt houdt,</l>
+<l>En koor en outerkleên. de Kersnacht lagh in stucken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>Hoe ging 't u met Kristijn? hoe most dit Gysbreght drucken!</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ar.</hi></speaker>
+<l>En my: bedenck dat eens. hoe staet my 't schouspel voor!</l>
+<l>Men sleipteze by 't hair uit ons lievrouwe koor,</l>
+<l>Om d'armen dun en teêr met koorden stijf gebonden.</l>
+<l>Hoe diep ging dit in 't hart, die naer haer huwlijck stonden!</l>
+<l>Doch Heemskerck meest, die dol dit langer niet verdroegh,</l>
+<l>Toen zy naer's hemels troon haer blaeckende oogen sloegh.</l>
+<l>Wy sloten ons wel dicht, en volghden hem altzamen,</l>
+<l>En rucktenze uit de maght des knevlers: daer op quaemen</l>
+<l>De Gelderschen, de Zeeu, de Vries en Kennemaer</l>
+<l>Van allesins te hoop, vol spijts, op 't groot misbaer,</l>
+<l>En om d'ontruckte maeght: men zagh'er 's graeven zoonen,</l>
+<l>Men zagh'er d'Egmonts zelfs en Diedrick meê zich toonen</l>
+<l>Om 't moedighste in dien strijt, met Grobber, helsch van aert.</l>
+<l>De winden buldren zoo, eer 't bijster weêr bedaert</l>
+<l>Des winters, tegen een, en weeten van geen strijcken,</l>
+<l>En zetten in gevaer de dammen en de dijcken,</l>
+<pb n="45"/>
+<l>Door 't perssen van den vloet. de vyant wert te sterck,</l>
+<l>En groeide, en deê met kracht ons deizen uit de kerck,</l>
+<l>En wijcken naer den Dam, om versch te zijn gesteven.</l>
+<l>Neef Heemskerck had by 't koor alreê den geest gegeven,</l>
+<l>Die ridderlijcke helt en eere van zijn' stam.</l>
+<l>Polaenen viel'er by, die hem te hulpe quam,</l>
+<l>En niemant weeck in moedt noch billijckheit van oordeel,</l>
+<l>En Kuick, hem zeer gelijck. hier had de deught geen voordeel.</l>
+<l>Het heilighdom van 't kruis den proost deê weinigh nuts.</l>
+<l>Geen stool beschutte hem, noch geen vierkante muts,</l>
+<l>Noch geen godtvruchtigheit kon Jesus priester helpen,</l>
+<l>Toen wy, ô Willem broêr, uw bloet niet moghten stelpen.</l>
+<l>Daer gy te sneuvlen quaemt, recht over 't hoogh altaer.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>Wat hoor ick hier al leeds! hoe voel ick my zoo naer!</l>
+<l>Verhael my evenwel al d'overige elende.</l>
+<l>'t Begin vernoeghtme niet: 'k verlang met schrick naer 't ende.</l>
+<l>Hoe kost mijn droeve man zoo scheiden van zijn bloet?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ar.</hi></speaker>
+<l>In zoo veel rampen hiel hy al den zelven moedt,</l>
+<l>En yverde om den Dam te houden onbezweecken,</l>
+<l>Waer langs de vyant zocht geweldigh in te breecken:</l>
+<l>Gelijck een waterstroom gewelt baert op een sluis,</l>
+<l>En elx gehoor verdooft met ysselijck gedruisch.</l>
+<l>De deuren kanten zich geweldigh tegens 't wringen</l>
+<l>Des springvloets; voor een wijl, tot dat zy open springen,</l>
+<l>En geven 't water ruimt, den springvloet vryen toom,</l>
+<l>Die wint dan velt, en ruckt de wortels met den boom,</l>
+<l>En huis en hof om veer, en zet de laege landen</l>
+<l>In eene baere zee, met groene en nieuwe stranden.</l>
+<l>Dus ging 't, na dat men wel een heel uur lang den Dam</l>
+<l>Verdadight had, zoo dra de burgery de vlam</l>
+<l>Ten daecke van de kerck ten hemel uitgeslaegen,</l>
+<l>En 't heerelijck gebouw zagh branden lichter laegen,</l>
+<l>En hoorde 't moortgeschrey des volx, dat out en jong</l>
+<l>Van boven, om het vier t'ontgaen, te berste sprong,</l>
+<l>Of in de spietsen viel ter aerde. dit gezichte</l>
+<l>Benam hun al den moedt. De helsche Grobber stichte</l>
+<pb n="46"/>
+<l>Met een gewijde toorts den brandt in 't heiligh dack.</l>
+<l>Hoe leedt het Godt, dat hem de moort niet eer en stack!</l>
+<l>Toen was het elck voor zich, een yder bergh zijn leven.</l>
+<l>Mijn broeder riep, ick zou my flux op 't slot begeven,</l>
+<l>En zijne gemaelin en kinders gade slaen.</l>
+<l>Hy zelf weeck op 't stadthuis, en bleef de leste staen.</l>
+<l>Ick wert op wegh verlet, en koom den burgh bewaeren,</l>
+<l>En hoop de goede Godt zal mijn' heer broeder spaeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>Een hoopelooze hoop. och Gysbreght, lieve heer,</l>
+<l>Ick reken u al doot, en zie u nimmer weêr.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey van Edelingen. Badeloch.</hi></speaker>
+<l rend="; 1tab">WAer wert oprechter trou</l>
+<l rend="; 1tab">Dan tusschen man en vrou</l>
+<l rend="; 1tab">Ter werelt oit gevonden?</l>
+<l rend="; 1tab">Twee zielen, gloênde aen een gesmeet</l>
+<l rend="; 1tab">Of vast geschakelt en verbonden</l>
+<l rend="; 1tab">In lief en leedt.</l>
+<l rend="; 2tab">De bant, die 't harte bint</l>
+<l rend="; 1tab">Der moeder aen het kint,</l>
+<l rend="; 1tab">Gebaert met wee en smarte,</l>
+<l rend="; 1tab">Aen haere borst met melck gevoedt,</l>
+<l rend="; 1tab">Zoo lang gedraegen onder 't harte,</l>
+<l rend="; 1tab">Verbint het bloet.</l>
+<l rend="; 2tab">Noch stercker bint de bant</l>
+<l rend="; 1tab">Van 't paer, door hant aen hant</l>
+<l rend="; 1tab">Verknocht, om niet te scheiden,</l>
+<l rend="; 1tab">Na datze jaeren lang gepaert</l>
+<l rend="; 1tab">Een kuisch en vreedzaem leven leidden,</l>
+<l rend="; 1tab">Gelijck van aert.</l>
+<l rend="; 2tab">Daer zoo de liefde viel,</l>
+<l rend="; 1tab">Smolt liefde ziel met ziel,</l>
+<l rend="; 1tab">En hart met hart te gader.</l>
+<l rend="; 1tab">Die liefde is stercker dan de doot.</l>
+<l rend="; 1tab">Geen liefde koomt Godts liefde nader,</l>
+<l rend="; 1tab">Noch is zoo groot.</l>
+<pb n="47"/>
+<l rend="; 2tab">Geen water bluscht dit vuur,</l>
+<l rend="; 1tab">Het edelst, dat natuur</l>
+<l rend="; 1tab">Ter weerelt heeft ontsteecken,</l>
+<l rend="; 1tab">Dit is het krachtighste ciment,</l>
+<l rend="; 1tab">Dat harten bint, als muuren breecken</l>
+<l rend="; 1tab">Tot puin in 't endt.</l>
+<l rend="; 2tab">Door deze liefde treurt</l>
+<l rend="; 1tab">De tortelduif, gescheurt</l>
+<l rend="; 1tab">Van heer beminde tortel.</l>
+<l rend="; 1tab">Zy jammert op de dorre ranck</l>
+<l rend="; 1tab">Van eenen boom, verdrooght van wortel,</l>
+<l rend="; 1tab">Haer leven langk.</l>
+<l rend="; 2tab">Zoo treurt nu Aemstels vrou,</l>
+<l rend="; 1tab">En smilt, als sneeuw, van rou</l>
+<l rend="; 1tab">Tot water en tot traenen.</l>
+<l rend="; 1tab">Zy rekent Gysbrecht nu al doot,</l>
+<l rend="; 1tab">Die om zijn stadt en onderdaenen</l>
+<l rend="; 1tab">Zicht geeft te bloot.</l>
+<l rend="; 2tab">O Godt, vetlicht haer kruis,</l>
+<l rend="; 1tab">Dat zy den helt op 't huis</l>
+<l rend="; 1tab">Met blijdschap magh ontfangen,</l>
+<l rend="; 1tab">Die tusschen hoop en vreeze drijft,</l>
+<l rend="; 1tab">En zucht, en uitziet met verlangen</l>
+<l rend="; 1tab">Waer Aemstel blijft.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>My dunckt ick hoor gerucht: daer roept een aen de poort.</l>
+<l>Godt lof, het is mijn heer: ick heb zijn stem gehoort.</l>
+</sp>
+</div>
+<div type="act">
+<head rend="h3">Het vyfde bedryf.</head>
+<sp>
+<speaker><hi rend="i">Gysbreght van Aemstel Badeloch. Bode.</hi></speaker>
+<l>MYn lief, hoe hebtge dus uwe oogen uitgekreten?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>Nu gy behouden zijt. is al mijn leet vergeten,</l>
+<l>Mijn trouwe bruidegom, mijn hooft, mijn troost, mijn schat:</l>
+<l>Nu gy behouden zijt, wat geef ick om de stadt,</l>
+<l>Om al het wereltsch goedt! hoe zijtge hier gekomen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Na dat de vyant nu den Dam had ingenomen,</l>
+<pb n="48"/>
+<l>Nam ick en 't overschot naer 't raethuis toe de wijck,</l>
+<l>En hiel hem staen met kracht, als water voor den dijck;</l>
+<l>Daer 't lantvolck opgeklept zich zoeckt by nacht te redden,</l>
+<l>En brengt vast zoden aen, en stenen, paelen, bedden,</l>
+<l>En bulsters, en al wat den zeedijck stutten kan,</l>
+<l>Waer die is doorgeweeckt; en zweet met alle man.</l>
+<l>Dat speet den grooten reus, die liet zich vreeslijck hooren,</l>
+<l>En stack met hals en hooft, gelijck een steile toren</l>
+<l>En spitse, boven 't volck en alle hoofden uit,</l>
+<l>En scheen een olyfant, die omsnoft met zijn' snuit.</l>
+<l>Zijn spietse was een mast in zijne grove vingeren.</l>
+<l>Ick zagh hem man op man gelijk konijnen slingeren</l>
+<l>Wel driemael om zijn hooft, gevat by 't eene been,</l>
+<l>En kneuzen dan het hooft op stoepen of op steen.</l>
+<l>Hy kan met zijnen pols een' burghwal over springen,</l>
+<l>Hy proeft op grendelen de deught der staele klingen,</l>
+<l>Houwt fel met eenen slagh door yzer en door stael,</l>
+<l>En proeft zyn beckeneel op poorten van metael.</l>
+<l>Hy scheen een Polyfeem, het krijghsvolckscheen zijn kudde.</l>
+<l>De toren van 't stadthuis beweeghde zich en schudde,</l>
+<l>Zo dick hy op een' post, of op den gevel stiet.</l>
+<l>Hy vreesde Herkles knods noch Samsons vuisten niet.</l>
+<l>De Kermers volgen hem, en Noorderlantsche knechten.</l>
+<l>Men voert den stormbock aen: men gaet de ladders rechten,</l>
+<l>En klimt, met d'eene hant ten gevel uitgestreckt,</l>
+<l>In d'ander met den schilt, die hals en hooft bedeckt</l>
+<l>Voor eene hagelbuy van steenen hout en pylen.</l>
+<l>Ons jeught, daer tegens aen, die wentelt heele stylen</l>
+<l>En eicke balleken, en uitgelezen hout,</l>
+<l>En wat'er is van outs tot pracht en prael gebouwt,</l>
+<l>Van boven in den hoop; en ofze luttel hoopen,</l>
+<l>Zoo dient het om hun huit ten dierste te verkoopen,</l>
+<l>En burgermeesteren en raeden voor te staen,</l>
+<l>Tot quyting van den eedt haer overheit gedaen.</l>
+<l>Men ziet'er zelf het bloet der overheit verhitten,</l>
+<l>En stijven de gemeent: behalve die hier zitten</l>
+<pb n="49"/>
+<l>Blootshooft, en half gekleet, en zonder weer te biên,</l>
+<l>Van zwacken ouderdom; en durreven wel zien</l>
+<l>Zoo eetelijck een doot kloeckhartigh onder oogen;</l>
+<l>En vechten met hun hart, nu handen niet en mogen.</l>
+<l>Een deel der burgery beneên met hellebaerd</l>
+<l>En sabelen en spiets de poort en muur bewaert.</l>
+<l>Ick steegh den toren op, die boven 't dack koomt rijzen,</l>
+<l>In 't midden van 't stadthuis; van waer men u kon wijzen</l>
+<l>De tenten om de stadt, en hoe al 't leger lagh,</l>
+<l>En van wiens trans men flaeu den Dom van Uitrecht zagh,</l>
+<l>By klaer en helder weêr. 'k zagh hier uit hoeze streden,</l>
+<l>En met den storrembock de poort gewelt aen deden,</l>
+<l>En ramden reis op reis, verdadight door een dack</l>
+<l>Van schilden, dicht gevoeght. de deur gaf krack op krack.</l>
+<l>Wy stelden flux in 't werck de dissels, en de bijlen,</l>
+<l>En hieuwen in het ront in stucken alle stijlen,</l>
+<l>En stieten spits en al 't gevaert van boven af;</l>
+<l>Het welck een' slagh en roock de merreckt over gaf;</l>
+<l>En maeckte een vreeslijck loch in zoo veel ysre koppen;</l>
+<l>Dat anderen terstont, gevoeght in orden, stoppen.</l>
+<l>Terwijle stack de kerck de naeste huizen aen.</l>
+<l>Van daer begon de vlam in 't leien dack te slaen</l>
+<l>Van 't raethuis, en de roock en smoock verblinde ons oogen.</l>
+<l>De poort bezweeck, het volck quam razende ingevlogen.</l>
+<l>'k Was al mijn vrienden quijt, en stont verbaest en stom.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>En zaegtge toen noch niet naer vrouw en kinders om?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>In die verbaestheit scheen een nevel uit den hoogen</l>
+<l>En goddelijcke glans te blincken voor mijn oogen,</l>
+<l>En uit die heldre wolck quam eene stemme voort.</l>
+<l>Ick heb het licht gezien, en zelf de stem gehoort:</l>
+<l>O Gysbreght, laetge nu Klaeris uw nicht verlegen?</l>
+<l>Magh u oom Gozewijn, die grijze, niet bewegen?</l>
+<l>En steltge huis en vrouw en kinders in gevaer?</l>
+<l>Toen schrickte ick, en steegh af, en packte my van daer,</l>
+<l>Door een' verholen gang, die uitkomt in een' kelder.</l>
+<l>'k Aenbadt het heiligh licht, dat voor my ging zoo helder.</l>
+<pb n="50"/>
+<l>Ick raeckte op straet, en quam in 't klooster vranck en vry.</l>
+<l>Maer niemant gaf gehoor, noch luisterde nae my,</l>
+<l>Die tegens 't ongeval noch reuckeloos wou wrijten,</l>
+<l>En boven op het dack my in het uiterst quijten:</l>
+<l>Want eer ick boven quam, lagh poort en post om veer:</l>
+<l>Dies gleê ick by een touw in 't kloosterschuitje neêr,</l>
+<l>Dat juist noch achter lagh, en 'k voer den Aemstel over.</l>
+<l>Daer klom ick op een' boom, nu dor en zonder lover,</l>
+<l>En luisterde hoe 't met Godts klooster voort verging.</l>
+<l>My docht dat ick 't misbaer met bey mijn ooren ving,</l>
+<l>En zagh, toen ick een poos verbaest had zitten proncken,</l>
+<l>Een' dicken roock en smoock, en na den roock de voncken,</l>
+<l>Ick hoorde paerdevolck, dat langs de Doelebrugh</l>
+<l>Quam trapplen naer ons toe. mijn voeten werden vlugh.</l>
+<l>Men had, ô groot verzuim, dees brugh niet afgesmeeten.</l>
+<l>Ick vloogh'er heen, en zocht te stillen die vast kreeten,</l>
+<l>En gaf hun moedt, en wou de ruiters houden staen:</l>
+<l>Zy zouden achter my de brugh in stucken slaen,</l>
+<l>Of steecken haer in brant: maer niemant durfde 't waegen.</l>
+<l>Oock zagh ick d'oude zy nu branden lichter laegen;</l>
+<l>Een voorbô van het geen was naderhant gebeurt,</l>
+<l>En dat de Middeldam alreê most zijn gescheurt;</l>
+<l>Dies gaf ick 't op, en voort de gansche stadt ten beste,</l>
+<l>En waerschuwde yeder een, en gafme langs de veste</l>
+<l>Naer 't slot toe, met een sleip van menschen arm en rijck,</l>
+<l>Een' troosteloozen hoop, die herwaert neemt de wijck.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bo.</hi></speaker>
+<l>Most ick den Bisschop noch zien sterven en d'abdisse?</l>
+<l>Och vader Gozewijn! och, reine maeght Klaerisse!</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Hoe is het mogelijck dat gy 't hebt konnen zien?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bo.</hi></speaker>
+<l>'t Is mooglijck, guntge my dat ick u daer op dien.</l>
+<l>Toen Heemskerck Borsselen gevelt hadt voor uwe oogen,</l>
+<l>Lagh 't lijck ter zijden 't koor, in eenen hoeck getogen,</l>
+<l>Na dat ick in den drang des vyants my verstack,</l>
+<l>Mits gy te rugge weeckt, en vielt dat pas te zwack.</l>
+<l>Zoo dra men, om den brandt, de groote kerck most ruimen,</l>
+<l>Ontwapende ick den doode, en zette helm en pluimen</l>
+<pb n="51"/>
+<l>Van Borsselen op 't hooft, en toogh zijn rusting aen,</l>
+<l>En bond het zwaert op zy, om in dien schijn te gaen</l>
+<l>Ons vyanden bespiên, en letten hoe men 't maeckte.</l>
+<l>Ick volghde Haemste na, toen hy in 't klooster raeckte,</l>
+<l>En vloogh de kerckdeur in, daer Gozewijn noch zat,</l>
+<l>In 't midden van den rey, die even vierigh badt,</l>
+<l>En door een vast geloof op Godt zoo moedigh steunde,</l>
+<l>Dat niemant zich het woên der vyanden bekreunde.</l>
+<l>Hy scheen een zon gelijck, en zy de klaere maen;</l>
+<l>Al d'andren starren, die met vreught ten reye gaen,</l>
+<l>En juichen om dees twee, daer zy haer' glans uit scheppen.</l>
+<l>Men zaghze naulyx yet dan kuische lippen reppen.</l>
+<l>Maer Haemste vaert hem toe met opgestroopten arm,</l>
+<l>Beklad en root, en van Kristijnes bloet noch warm,</l>
+<l>En vat hem by den baert met d'eene, met den degen</l>
+<l>Gereet in d'andre hant, bebloet en bloot. toen stegen</l>
+<l>De nonnen op, en geen, hoe lieflijck van gemoedt,</l>
+<l>Die geen leeuwin geleeck, wanneerze brult en woedt,</l>
+<l>Dewijl de jaeger 't nest wil plondren en beroven.</l>
+<l>Zoo quam oprechte trouw en eedle gramschap boven.</l>
+<l>Zy worstelen een wijl. Klaeris zet voet by voet,</l>
+<l>Omarremt Gozewijn, omringt van haeren stoet.</l>
+<l>Wie zou 't godtvruchtigh hooft een hair bezeeren konnen,</l>
+<l>Omheint meet eenen muur van godtverloofde nonnen,</l>
+<l>Gestrengelt arm in arm? ô Christelijcke knoop!</l>
+<l>Ick zie de deughden zelfs, Geloof, en Liefde, en Hoop,</l>
+<l>Met haere zusteren, die tegens Ondeught strijden,</l>
+<l>En naer de zege staen door kruis en medelijden.</l>
+<l>De vyant stont versust, en deisde om deze zaeck:</l>
+<l>Maer 't aenzien van Klaeris beweeghde 't hart tot wraeck,</l>
+<l>En braght hem in den zin den moort van zijnen vader,</l>
+<l>En dat zy d'afkomst was van Velzen, den verrader.</l>
+<l>Hy blaeckte, en kreegh een koorts, en door de koortse dorst</l>
+<l>Naer heur en Aemstels bloet, en stiet eerst door de borst</l>
+<l>Met zijn' bebloeden dolck dan d'eene non, dan d'andere.</l>
+<l>Zy vielen overhoop, en lagen by elckandere</l>
+<pb n="52"/>
+<l>In 't ront, gelijck een krans van roozen, wit en root.</l>
+<l>Toen stond Klaerisse daer by Gozewijn, ontbloot</l>
+<l>Van menschelijcke hulp. gy zoudze bey zien proncken,</l>
+<l>Als bloemen op haer' steel, in eenen beemt, verdroncken</l>
+<l>Van eenen rooden plas. d'een zuchte noch, en d'een</l>
+<l>Vertrock het hooft, die d'arm, en deze noch haer been.</l>
+<l>Een ander had den geest zoo daetelijck gegeven.</l>
+<l>De Bisschop. schoon hy stont op d'oevers van zijn leven,</l>
+<l>Betoomde zich niet eens van gramschap en van rouw.</l>
+<l>Uw vader ley de hant wel eerloos aen een vrouw,</l>
+<l>Maer zoop noit vrouwenbloet, of is daer om gelastert.</l>
+<l>Dus blijckt het datge zijt een overwonnen bastert,</l>
+<l>Naer lichaem en naer geest; nu gy uw aert betoon</l>
+<l>Aen nonnen, die altijt in 't woeden zijn verschoont.</l>
+<l>En d'ander antwoort hem: gy zult deze eedle reien,</l>
+<l>Als bastertbisschop, dan gaen volgen, en geleien.</l>
+<l>Hardtneckige, legh nu den valschen mijter neêr.</l>
+<l>Zoo sprack het bastertzaet. en ruckte hem om veer</l>
+<l>Met stoel met al in 't bloet: de mijter viel'er mede.</l>
+<l>Klaerisse viel'er by, toen zy haer beste dede,</l>
+<l>En hiel hem even sterck om zijnen hals gevat.</l>
+<l>En scheen gevormt albast, met purper overspat.</l>
+<l>Hy duwde 't bloedigh zwaert in 's grijzen stramme zijde,</l>
+<l>Tot aen 't vergult gevest. zoo zagh men eer, ten tijde</l>
+<l>Van 't blinde Heidendom, voor 't aengesteken vier,</l>
+<l>Met 's priesters mes gekeelt een witte offerstier,</l>
+<l>Met gulde hoornen, en wiens rugh de kranssen decken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Hoe droegh Klaerisse zich?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bo.</hi></speaker>
+<l>Zy holp den degen trecken</l>
+<l>Uit 's ooms gewonde zijde, en zette hem terstont</l>
+<l>Den mijter op het hooft, en kust den bleecken mont.</l>
+<l>Hy opent pijnelijck zijn halfgelokene oogen,</l>
+<l>En zietze noch eens aen, en schijnt met haer bewogen,</l>
+<l>Die hem zijne oogen luickt. hy geeft den lesten zucht.</l>
+<l>Zy vangt den veegen geest, en die benaude lucht,</l>
+<l>En zwijmt een poos van druck. maer Haemstede, eerze weder</l>
+<l>Bekomt, die worrept haer op 't doode lichaem neder,</l>
+<pb n="53"/>
+<l>En boet'er schendigh meê zijn' godtvergeten lust.</l>
+<l>z' Ontwaeckt in 't ende, en wort van 't schellemstuck bewust,</l>
+<l>En roept: mijn bruidegom, zie neder hoe ick lije,</l>
+<l>En hoe men my schoffeert. ô zuivre maeght Marije!</l>
+<l>O Klaere, aenschouwtge dit? vrouw Machtelt, zie uw kint.</l>
+<l>De booswicht slaet heur klaght en woorden in den wint,</l>
+<l>Gelijck een vogel grijp 't gepiep der simple duiven,</l>
+<l>Als hy'er uit de vlught een vast krijght in zijn kluiven.</l>
+<l>Ga hene, zeght hy, klaegh uw moeder uwe smart.</l>
+<l>Hy trappeltze op de buick, en op 't benaeude hart,</l>
+<l>Dat haer het bloedt ten neus en monde uit quam gevlogen,</l>
+<l>En zy den den dootsnick gaf, en sloot die hemelsche oogen,</l>
+<l>En uitging ofze sliep, in 's Bisschops open arm.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>Hoort Godt dan langer niet het jammerlijck gekerm</l>
+<l>Van zijn gewijde bruit? of lust het hem de boosheit</l>
+<l>Te stijven in haer quaet, door zijne strafteloosheit?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Was toen zijn moedt gekoelt van alle schendery,</l>
+<l>En d'oude wrock gepaeit.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bo.</hi></speaker>
+<l>Het bleef'er noch niet by.</l>
+<l>Niet verre van 't altaer, vereert met rijcke gaven,</l>
+<l>Stont een albaste tombe: in deze lagh begraven</l>
+<l>Het kostelijck gebeente en d'overheilige asch</l>
+<l>Van een', die om 't geloof aen Godt gemartelt was;</l>
+<l>Daer most de snode schelm zich zelven noch aen wreecken.</l>
+<l>'t Is wonder, als Godt zwijght, dat dooden niet en spreecken,</l>
+<l>Hy schonze, en sloegh'er aen zijn klaeuwen, vuil van bloet,</l>
+<l>En brackze brullende op met grooten overmoedt.</l>
+<l>Terstont quam hem een geur en yet wat lieflijcks tegen:</l>
+<l>Maer die verwaten mensch, [wat zou zijn hart bewegen!]</l>
+<l>Vaert grimmigh voort, en stroit de beenders hier en daer,</l>
+<l>En smijt de tombe in twee; en breeckt 't gewijde altaer,</l>
+<l>Gebiet terstont den brant in 't kloosterdack te steecken.</l>
+<l>Het vier nam d'overhant, waer voor de plondraers weecken.</l>
+<l>Ick quam omtrent de Beurs, te water uitgebouwt,</l>
+<l>Nu half gebrant, en zagh al 't zilverwerck en gout,</l>
+<l>Geplondert heylighdom, tapijten, en schildrijen,</l>
+<l>Scharlaken, en fluweel, langs heen de gaelerijen</l>
+<pb n="54"/>
+<l>Geworpen overhoop, daer Grobber hiel de wacht.</l>
+<l>De vlamme speelde in 't gout, en schitterde by nacht.</l>
+<l>Men zagh'er by een schaer van weduwen en weezen,</l>
+<l>Bekreeten en bedruckt, en die noch erger vreezen.</l>
+<l>Zoo raeckte ick onbekent door 't krijghsvolck heen by 't slot,</l>
+<l>Tot berging van mijn lijf. 'k vertrouw my u en Godt.</l>
+<l>De wint steeckt op; men hoort hem in de vlammen bruizen.</l>
+<l>Een zee van gloet verdrinckt al d'overige huizen.</l>
+<l>De burgh lijt last. 't waer best dat ghy een' uytval deed,</l>
+<l>En dan de brugh afbraeckt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Mijn broeder staet gereet</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Badeloch. Arent van Aemstel. Gysbreght van Aemstel. Heer Peter. Rey van Edelingen.</hi></speaker>
+<l>WAt zien we te gemoet? de burghzaet komt gevloden.</l>
+<l>Mijn man loopt weêr te rugh, en zoeckt vast by de dooden</l>
+<l>Zijn' broeder, dien hy mist, en al te trouw bemint,</l>
+<l>En niet verlaeten zal, 't en zy dat hy hem vint,</l>
+<l>En levendigh of doot magh torssen op den rugge,</l>
+<l>In 't uiterste gevaer. daer sloopenze de brugge.</l>
+<l>Helaes! wat gaet my aen? waer vinde ick mijnen heer;</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ar.</hi></speaker>
+<l>Och, broeder, laetme los.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Hoe is 't?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ar.</hi></speaker>
+<l>Ik kan niet meer.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>Hoe is het, Arent broêr?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Pe.</hi></speaker>
+<l>Nu doe ons eenigh teken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ar.</hi></speaker>
+<l>Ick ben den adem quijt. ick kan niet langer spreecken.</l>
+<l>Mijn hart bezwijckt door 't bloên. ick heb mijn plicht voldaen,</l>
+<l>Mijn vaderlijcke stadt ten ende voorgestaen,</l>
+<l>Nae dat ick heb zoo lang in ballingschap gezworven.</l>
+<l>Heer broeder, 'k neem verlof, en als ick ben gestorven</l>
+<l>Zoo voer, indienge moet verlaeten deze plaets,</l>
+<l>Mijn lijck met u, op dat de wraecklust des soldaets</l>
+<l>Het niet onteere, en gun het een gewijde stede.</l>
+<l>Gedenck mijn ziel voor Godt, ô priester, in uw bede.</l>
+<l>Ick schey, ick zwijm, ick sterf. mijn tijt is hier geweest.</l>
+<l>Och vrienden, bid voor my, ô Godt, ontfang mijn' geest.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Pe.</hi></speaker>
+<l>Hy is bereght, en heeft gena by Godt verworven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Hy is met krijghsmans eere in 't harrenas gestorven,</l>
+<l>En volght zijn' broeder Ot in 't hemelsch vaderlant,</l>
+<l>En triomfeert by Godt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>Gy mist uw rechte hant.</l>
+</sp>
+<pb n="55"/>
+<sp>
+<speaker><hi rend="i">R.v.E.</hi></speaker>
+<l>Nu zal hy zich voortaen ten uitval niet beledigen,</l>
+<l>Noch 't Vrelandsch slot noch dit met zulck een' moet verdedigen,</l>
+<l>Noch 't Amsterdamsche recht beschutten met zijn zwaert,</l>
+<l>En draeven door het heir op een luid brieschend paert,</l>
+<l>Om prijs en eer in 't stof door zweet en bloet te winnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Men trecke 't lichaem uit: men draeg' den doode binnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">De heer van Vooren met den trompetter. Gysbrecht van Aemstel.</hi></speaker>
+<l>MYn heer, uw ongeluck is ons van harte leet.</l>
+<l>Wy staen voor deze graft tot storremen gereet.</l>
+<l>'t Waer tijdt en meer dan tijt, dat gy u kort beraede,</l>
+<l>En gaeft het huis voort op, met hope van genade,</l>
+<l>En schutte d'ongena. ick eisch 't in 's graeven naem,</l>
+<l>Door veltheer Egmonds last.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Gy eischt dat ik 't my schaem.</l>
+<l>Ick schey'er zoo niet af, als met mijn eigen leven,</l>
+<l>En eer ick sterref zal noch menigh met my sneven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Vo.</hi></speaker>
+<l>Is 't eere dat een helt zich zelf verreuckeloos'?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Men houdt de plaets op hoop.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Vo.</hi></speaker>
+<l>Hier is geen hoop altoos.</l>
+<l>Met houden is hier niet met allen uit te rechten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Dat magh men dan bezien. wy zullen 'er om vechten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Vo.</hi></speaker>
+<l>'t Was vechtens tijt, eer noch de vyant uwe stadt,</l>
+<l>De poorten, en de vest geheel vermeestert hadt.</l>
+<l>Toen alle klocken brant en moort en onraet klepten,</l>
+<l>En burger en soldaet om 't zeerst hun handen repten:</l>
+<l>Nu die verweldight zijn, het raethuis afgebrant,</l>
+<l>En wat in 't harnas blonck, gesneuvelt en vermant,</l>
+<l>Is 't al vergeefs het slot en overschot verdadight.</l>
+<l>Bera u kort, gy wort misschien noch begenadight.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>'t Is mijn gewoonte niet te bidden om gena.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Vo.</hi></speaker>
+<l>'t Is wijsheit dat men zich uit noot te buiten ga,</l>
+<l>En zijn gewoonte staecke, en stel 't gevaer voor oogen.</l>
+<l>Zy kiezen 't best van twee, die beter niet en mogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>'k Verwacht een uitkomst dan, en geef het op aen Godt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Vo.</hi></speaker>
+<l>Wat uitkomst wachtge toch? gy zult terstont dit slot</l>
+<l>Van alle kanten zien beladdren, en bespringen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Men zalme van het Y zoo lichtelijck niet dwingen.</l>
+<pb n="56"/>
+<l>Ick heb noch over al veel vrienden op mijn hant.</l>
+<l>Mijn toeverlaet, naest Godt, is Y en waterkant.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Vo.</hi></speaker>
+<l>Geloofme, 'k zoeck u niet met woorden te vertsaegen,</l>
+<l>Ghy zult het van dien kant zoo heerlijck op zien dagen,</l>
+<l>Met schuiten zonder tal, eer u de zon beschijn'.</l>
+<l>Wat riemen voert of zeil heeft amirael Persijn</l>
+<l>Beslaegen in zijn' dienst by Vries en Waterlanderen.</l>
+<l>Al 't omgelegen volck ruckt haestigh by elckanderen,</l>
+<l>En treckt vast op den brant van kerck en torens aen.</l>
+<l>Hoe is het mogelijck die maght te wederstaen,</l>
+<l>Met zoo een hant vol volx, dat door de nederlaegen</l>
+<l>Der versch vernielde stadt vol schrix is, en verslaegen?</l>
+<l>Gy vielt, 't is waer, van 't slot op uwen vyant uit:</l>
+<l>Wat holp 't? men dreef u in. gy waert zoo kort gestuit,</l>
+<l>En keerde op uwen burgh met roô bebloede koppen,</l>
+<l>Van vreeze dat men u den toegang toe moght stoppen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>'k Ontfing geen leedt, alleen mijn boezem zagh bemorst</l>
+<l>Van bloet, vermits een kay, geslingert langs mijn borst,</l>
+<l>Het vel had afgeschuurt, en effen 't vleesch gewreven.</l>
+<l>Geen dootschrick dreef ons meer dan wy ons zelven dreven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Vo.</hi></speaker>
+<l>Daer niet gewonnen wort is 't ydel dat men strijt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Een krijgsman wint genoegh, al wint hy niet dan tijt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Vo.</hi></speaker>
+<l>'t Was raedzaemst by verdragh, en niet uit noot gegeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Mijn moeder leerde my, dat ick geen' raet zou leven</l>
+<l>Met vyanden, waer van men 't arghste moet vermoên.</l>
+<l>Mijn heer, ick heb uw' raet voor dees tijt niet van doen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Vo.</hi></speaker>
+<l>Mijn meesters harte treckt naer alle brave helden,</l>
+<l>Die voor hun eere en erf zich vroom ter weere stelden.</l>
+<l>d'Onmatigheit van wraeck, gepleeght na Velzens doot,</l>
+<l>Heeft Egmont noit bestemt, noch yemants schult vergroot.</l>
+<l>Ick ken hem, als my zelf: hy mint u in 't byzonder.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Hy mint my, als het blijckt, en keert het bovenste onder.</l>
+<l>Hy mint my averechts. zijn liefde staet ons dier.</l>
+<l>Wie heeft de stadt vernielt, verwoest met zwaert en vier.</l>
+<l>En al den nacht gewoedt, als wilt en uitgelaeten?</l>
+<l>Wie stopt den Aemstel toe met dooden? wie de straeten?</l>
+<pb n="57"/>
+<l>Waer ziet men niet de vlam van dien gestichten brant?</l>
+<l>Wat grafsteê, wat altaer, wat kerck heeft 's roovers hant</l>
+<l>Verschoont? wat heilighdom, kapellen, kloosters, nonnen</l>
+<l>Zijn van die klaeuwen niet geschantvleckt, en geschonnen?</l>
+<l>Op dat ick niet en repp', hoe gruwzaem zijn soldaet</l>
+<l>Na'et schennen martlen durf den godtgewijden staet;</l>
+<l>Daer al de volgende eeuw met laster van zal spreecken,</l>
+<l>En dat Godts streng gerecht te zijner tijt wil wreecken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Vo.</hi></speaker>
+<l>Dit, leider! was een nacht vol ramps, vol ongevals:</l>
+<l>Maer dat men oversten wil schuiven op den hals</l>
+<l>Al wat'er is misdaen by krijgsliên zonder orden,</l>
+<l>En die door geen gezagh in toom gehouden worden</l>
+<l>By die gelegentheit, dat lijdt de reden niet,</l>
+<l>Noch leert d'ervarentheit, en is wel meer geschiet;</l>
+<l>Byzonder daer het hart van wraecklust was bezeten.</l>
+<l>Wie keert een' dollen leeuw, na 't breecken van zijn keten?</l>
+<l>Hy volght zijn' wreeden aert, en vlieght met eenen loop,</l>
+<l>En grabbelt blindelingh den reedsten uit den hoop.</l>
+<l>Wanneer 't verbolgen zwaert geraekt uit's krijgsmans scheede,</l>
+<l>Het keert 'er langsaem in, en acht gebodt noch bede,</l>
+<l>Ziet vorst noch veltheer aen. het zwaert, geterght van wraeck</l>
+<l>En gramschap, vint in 't bloet des vyants zoeten smaeck.</l>
+<l>De duisternis des nachts maeckt alle ding oock gruwelijck:</l>
+<l>Dan schijnt het, wat men daeghs zich schamen zou, min schuwelijck,</l>
+<l>In dees bloetdronckenschap, en blinde en dartle lust,</l>
+<l>Die tot een vonxken toe al 't licht van reden bluscht,</l>
+<l>Uit tamme menschen schept onredelijcke dieren,</l>
+<l>Men moet, men wil of niet, dan 't heir den teugel vieren.</l>
+<l>Mijn meester toen hy eerst voor uwe vesten quam,</l>
+<l>Wou wel bemaghtigen de muur van Amsterdam,</l>
+<l>Maer in den gront de stadt zoo schendigh te verdelgen,</l>
+<l>Was noit zijn wit, en 't valt hem bitter te verzwelgen:</l>
+<l>Hoewel het krijghsrecht hem verschoont; hy verreght niet</l>
+<l>Het uiterst van zijn recht, en straft noch met verdriet:</l>
+<l>Is tot verzachting en verschooning meer genegen,</l>
+<l>Dan al te stijf te staen op 't punt van zijnen degen.</l>
+<pb n="58"/>
+<l>Verschoon uw leven toch, en gun dees eer aen my.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Ick ben met eenen doot voor al mijn leven vry.</l>
+<l>Vertreck, en wacht u my meer tijdingen te brengen.</l>
+<l>'k Getroost my al wat Godt u toelaet te gehengen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gysbrecht van Aemstel. Badeloch. Heer Peter. Rey van Edelingen. Adelgund. Veenerick. Bode. Rafaël.</hi></speaker>
+<l>WY gaven Vooren kort en duidelijck bescheet.</l>
+<l>Gy hoort, hoe 't oorloghsvolck tot stormen staet gereet:</l>
+<l>Waerom het noodigh waer, eer zy dit huis besluiten</l>
+<l>Van achter met een vloot van schepen en van schuiten,</l>
+<l>My van onnut gezin, en die geen nootweer biên,</l>
+<l>t'Ontslaen, en met de bloem der mannen te voorzien,</l>
+<l>Die machtigh is 't gewelt des vyants af te keeren,</l>
+<l>Het welck ons komt aen boort met storrembrugh en leêren.</l>
+<l>Mijn liefste, geef u scheep: al is het scheiden pijn,</l>
+<l>'t Is noodigh. Peter zal uw trouwe leitsman zijn,</l>
+<l>En dit gevlughte volck en u en uwe kinderen</l>
+<l>Vervoeren naer een wijck, daer niemant u kan hinderen.</l>
+<l>Getroost u daer een wijl te wachten, tot dat Godt</l>
+<l>Ons weder t'zamenbrenge, en gunne een beter lot.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>Helaes, wat ga ick aen? wat komt my weder over?</l>
+<l>Waer zentge my, mijn lief, Persijn den grooten roover</l>
+<l>Uw' vyant in den mont, die op ons vlamt en loert</l>
+<l>Uit Zwaenenburgh, daer hy des graeven vlagge voert?</l>
+<l>'t Verdriet hem zulck een slot en vasten burgh te derven,</l>
+<l>Die ongerechte gift. uw zaet, uw wettige erven</l>
+<l>Te blusschen in haer bloet, is al zijn wensch en wit,</l>
+<l>Op dat hy onverlet volharde in 't nieuw bezit.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Pe.</hi></speaker>
+<l>Mevrouw, zijt wel getroost: ick zal u zelf geleiden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>'k Neem oorlof met een kus.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>Ick zal van 't huis niet scheiden</l>
+<l>Noch scheep gaen zonder u, mijn heer, mijn waerde man.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Ick volg u eer gy 't weet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>Daer weetge luttel van.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>De stroom is wijt genoegh, al stoptmen deze haven,</l>
+<l>Een schuit ontslipt het licht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>Men zal u hier begraven,</l>
+<l>Bestulpen onder 't puin. ick zie dit huis in brant.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Pe.</hi></speaker>
+<l>d'Onsterffelijcke Godt heeft alles in zijn hant.</l>
+</sp>
+<pb n="59"/>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>Och, of de goede Godt zich mijnes wou ontfermen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Pe.</hi></speaker>
+<l>Mevrouw, betrouw op hem: hy kan ons wel beschermen,</l>
+<l>En voert zijn eigendom door water vier en vlam.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>Gelijck de brant getuight van 't gloeiende Amsterdam.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Pe.</hi></speaker>
+<l>'t Is zijn gehengenis. wie durf zich daer in mengen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>Wanneer ons leet geschiet, dan zal hy 't oock gehengen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Mijn lieve gemaelin, gy stelt u 't zwaerste voor.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Pe.</hi></speaker>
+<l>Uw droefheit houd geen maet, 't benevelt brein geen spoor.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">R.v.E.</hi></speaker>
+<l>Nu vollegh raet, mevrouw, en laet u toch gezeggen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Adel.</hi></speaker>
+<l>Och, moederlief, wat raet? zy komen 't huis beleggen.</l>
+<l>Bewaer mijn reinigheit, mijn' maeghdelijcken staet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>Och, dochter, moeders troost is krancke toeverlaet.</l>
+<l>De klockhen deckt vergeefs het sidderende kiecken</l>
+<l>Voor een' doortrapten vos met schaduw van haer wiecken:</l>
+<l>Hy grijptze beide, en stroit de pluimen in de wint,</l>
+<l>En koelt zijn' lust, en ruckt de moeder van het kint.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Zult gy dan oirzaeck zijn dat beide uw kinders sneven?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>Ick zou om eenen man wel bey mijn kinders geven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Beweeght uw kroost u niet, dit jongske kleen en teêr?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>Niet luttel, maer mijn man beweeghtme noch al meer.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ve.</hi></speaker>
+<l>Wat schreitge moederlief? zijt gy bedroeft om vader?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>Om vader schrey ick, kint, om u en ons te gader.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Uw moeder keert zich niet aen u noch uwe smert.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>Met smerte baerde ick 't kint, en droegh het onder 't hart.</l>
+<l>Mijn man is zelf het hart. 'k heb zonder hem geen leven.</l>
+<l>'k Zal u om lief noch leedt bezwijcken noch begeven.</l>
+<l>'k Beloofde u hou en trouw te blijven tot de doot.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>'t Is oock getrouwigheit, wanneer men scheit uit noot.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Pe.</hi></speaker>
+<l>Men scheit om beters wil, om weder te verzaemen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>Indien ick van hem schey, wy komen nimmer t'zaemen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Pe.</hi></speaker>
+<l>Gy scheide menighmael, en zaeght hem weêr gezont.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>Ick scheide noit, daer 't zoo bedroeft geschapen stont.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Pe.</hi></speaker>
+<l>De weerhaen van de kans kan lichtelijck verkeeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>'t Verkeerde noit zoo snel, of 't was om my te deeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Pe.</hi></speaker>
+<l>'t Was best de kinders dan in zekerheit gebroght.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>'t Was best, en hielme niet de bant des echts verknocht.</l>
+</sp>
+<pb n="60"/>
+<sp>
+<speaker><hi rend="i">Pe.</hi></speaker>
+<l>Een vrouw gedijt tot last: zy weet niet uit te rechten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>Bestelme slechts een zwaert, ick ben bereit te vechten,</l>
+<l>Te sterven aen de zy van mijnen vromen man.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Gy hebt een vrouwenhart.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>Neem eens de proef daer van.</l>
+<l>Heldinnen stonden eer als onbeweeghde posten.</l>
+<l>De faem van vrouwen roemt, die stadt en volck verlosten.</l>
+<l>Uw moeder Baerte toont hoe veel een vrouw vermagh,</l>
+<l>Wanneer zy Ysselstein verdaedight jaer en dagh.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bode.</hi></speaker>
+<l>Ick waerschouw u, mijn heer, eerwe overrompelt worden.</l>
+<l>De triomfeerder stelt zijn vaendels in slaghorden,</l>
+<l>En d'eer des eersten storms verguntmen aen den Vries,</l>
+<l>Die 't volck in orden stelt: ons dient geen tijdtverlies.</l>
+<l>Men voert de stormbrugh aen: men steeckt'er de trompetten.</l>
+<l>'t Is over tijdt den muur en torens te bezetten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Al lang genoegh gemart: dewijl de noot u prest,</l>
+<l>Gehoorzaem uwen heer, en kus hem eens voor 't lest.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>Zeer gaerne, brave helt, vergunme slechts een bede,</l>
+<l>En ruck, het is mijn wil, dit lemmer uit de schede,</l>
+<l>En stoot het door dees borst, en doop het in dit bloet.</l>
+<l>'t Is beter dat gy 't zelf dan Vries of Kermer doet,</l>
+<l>Als ick u heb den geest zien geven door uw wonden,</l>
+<l>Mijn zoontje zonder hooft, mijn dochterke geschonden,</l>
+<l>En hoor al 't huis vervult met brant met moortgeschreeuw.</l>
+<l>Zoo sterf ick noch uw vrouw, geen kinderlooze weeuw!</l>
+<l>Zoo magh mijn kint, of gy noch bey deze oogen luicken,</l>
+<l>Naerdien ick 's levens licht niet langer magh gebruicken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>O gruwel, Badeloch, ben ick van zulck een' aert,</l>
+<l>Dat ick een vrouw, en noch mijn eigen, met mijn zwaert,</l>
+<l>Zoo eerelijck voor haer, voor kinderen, en magen,</l>
+<l>En deze goe gemeent mijn leven lang gedragen,</l>
+<l>Vermoorden zou, gelijck een gruwelijck tyran?</l>
+<l>Zoo ben ick langer niet uw bedgenoot, uw man:</l>
+<l>Zoo hebt gy onbekent dus lange my versleten,</l>
+<l>En ick mijn Christendom verzaeckt, mijn' plicht vergeten.</l>
+<l>Hoe laetge zulck een woort uw' kuischen mont ontgaen?</l>
+<l>Of wiltge, dat ick u altzamen zal verraên,</l>
+<pb n="61"/>
+<l>En my aen uwe doodt en schennis schuldigh maecken?</l>
+<l>'t Is tijt om weer te biên: de vyanden genaecken.</l>
+<l>Het godloos bastertzaet, beweeght door geen misbaer,</l>
+<l>Dat onze nicht Klaeris van Velzen, voor 't altaer</l>
+<l>En 't kruisbeelt, in 't gezicht haers bruidegoms verkrachte,</l>
+<l>En trappelde op het hart, en om den dootsnick lachte,</l>
+<l>Zal daetlijck dezen burgh veroveren verwoet.</l>
+<l>Ick zal mijn vrouw, mijn zaet zien in elckanders bloet</l>
+<l>Versticken. Grobber zal 't in eenen beker schincken,</l>
+<l>En dat, zoo laeuw als 't is, den vader op doen drincken,</l>
+<l>Op dat d'ontruste geest doorwaer' zijn ingewant,</l>
+<l>En pijnig' voor zijn doot het los en vlot verstant.</l>
+<l>Waer zijtge dienaers? waer mijn lijfwacht? waer mijn knapen?</l>
+<l>Brengt herwaert mijn geweer, op mannen, wapen, wapen.</l>
+<l>Het is de jongste dagh, en met dit huis gedaen.</l>
+<l>Noch zal het wraeckeloos zoo niet te gronde gaen:</l>
+<l>Daer moet een groot getal met ons ten hemel vaeren.</l>
+<l>Komt volghme, daerwe flus in 't harnas bezigh waren,</l>
+<l>In 't midden van den moort. 'k gevoel een nieuwe kracht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>Waer wiltge heene? uw zelf verdrincken in de gracht?</l>
+<l>De slotbrugh brant vast af. of hebtge voor te sterven,</l>
+<l>Zoo neem ons t'zamen meê: hier zijn uw wettige erven,</l>
+<l>De huwbaere Adelgund, d'onnoosle Veenerick.</l>
+<l>Mijn hairen staen te bergh: hoe klopt mijn hart van schrick!</l>
+<l>Och vader, 't is mijn schult: och, zijt zoo niet verbolgen.</l>
+<l>Bedaer wat: ick ga scheep: ick zal den Deken volgen,</l>
+<l>Te water en te land: hy voerme waer 't hem lust,</l>
+<l>Of naer den wilden Yr, of aen de noortsche kust.</l>
+<l>Nu vrees ick geen gevaer, noch geene uitheemsche stranden.</l>
+<l>Ick neem verlof. ick ga: ick kus voor 't lest uw handen,</l>
+<l>Gehoorzaem u, gelijck een Christe vrouwe past.</l>
+<l>Ick schrey en klaegh vergeefs. och mannen, houdt hem vast.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">R.v.E.</hi></speaker>
+<l>Mijn heer, ontferm u toch om uw bedruckte vrouwe:</l>
+<l>Zy luistert naer uw' raet: zy zwijmt: zy sterft van rouwe.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Adel.</hi></speaker>
+<l>Och, vader, moeder sterft. wat gaet my leider aen!</l>
+</sp>
+<sp>
+<speaker><hi rend="i">R.v.E.</hi></speaker>
+<l>'t En zy gy wat bedaert, het is met haer gedaen.</l>
+</sp>
+<pb n="62"/>
+<sp>
+<speaker><hi rend="i">Pe.</hi></speaker>
+<l>Om Godts wil, geef gehoor: gy ziet hoe zy u minnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Wat razery is dit! wat onverzetbre zinnen!</l>
+<l>Men recht met jammeren noch jancken hier niet uit:</l>
+<l>De traenen doen 't hem niet. de wreetheit wort gestuit</l>
+<l>Met dapperheit en moedt. waer laet gy u vervoeren!</l>
+<l>Het kermen is onnut: men moet de handen roeren.</l>
+<l>Scheep, scheep. nu zijt getroost, mijn lief, de tijt is kort.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>Voor 't scheiden, laetme toe dat ick mijn bede stort.</l>
+<l>Heer Peter, bid voor ons, dat Godt deze arme schaere</l>
+<l>Door zijne engel stuure, en mijnen heer bewaere.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Pe.</hi></speaker>
+<l>Gy die der vromen schilt en wisse toevlught zijt,</l>
+<l>En van den hemel af den jammerlijcken strijt</l>
+<l>Der menschen gade slaet, en ziet de steden daelen,</l>
+<l>En wentelen, en zet de heerschappijen paelen;</l>
+<l>Erbarm u over dit bedruckt belegert slot:</l>
+<l>Bescherm 't rechtvaerdigh hooft, en bergh het overschot</l>
+<l>Der uitgeroide stadt, genootzaeckt door de baeren,</l>
+<l>In lange ballingschap, op Godts gena, te vaeren,</l>
+<l>Gy hebt het huisgezin van Noah wel behoed,</l>
+<l>Dat op de baeren dreef en hoogen watervloet;</l>
+<l>Toen 't water immer wies, tot daer de sterren bloncken,</l>
+<l>Toen 't hemelhoogh geberghte en alle spitsen zoncken,</l>
+<l>En al de weerelt lagh in eene baere zee</l>
+<l>Gedompelt over 't hooft, en kende strant noch ree.</l>
+<l>Gy trooste door de duif die overbleve zielen.</l>
+<l>d'Olijftack zey haer aen hoe alle watren vielen.</l>
+<l>Vertroost ons desgelijx in droeve ballingschap.</l>
+<l>Gy weet daer van de maet, en kent den lesten stap.</l>
+<l>Uw geest die blaeze in 't zeil: uw heilige engel stiere</l>
+<l>Het roer, en zette ons op, daer elck u vrolijck viere.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ra.</hi></speaker>
+<l>O Gysbreght, zet getroost uw schouders onder 't kruis</l>
+<l>U opgeleit van Godt. 't is al vergeefs dit huis</l>
+<l>Verdaedight; hadden wy 't in ons behoed genomen,</l>
+<l>Het waer met Amsterdam zoo verre noit gekomen:</l>
+<l>Dus wederstreef niet meer uw trouwe gemaelin.</l>
+<l>Verlaet uw wettigh erf, en quel u nergens in.</l>
+<pb n="63"/>
+<l>Al leght de stadt verwoest, en wil daer van niet yzen:</l>
+<l>Zy zal met grooter glans uit asch en stof verrijzen!</l>
+<l>Want d'opperste beleit zijn zaecken wonderbaer.</l>
+<l>De Hollantsche gemeent zal, eer dry hondert jaer</l>
+<l>Verloopen, zich met maght van bontgenooten stercken,</l>
+<l>En schoppen 't Roomsch altaer met kracht uit alle kercken,</l>
+<l>Verklaeren 't graefflijck hooft vervallen zijn recht,</l>
+<l>En heerschen staetsgewijs; het welck een bits gevecht,</l>
+<l>En endeloozen krijgh en onweêr zal verwecken,</l>
+<l>Dat zich gansch Christenrijck te bloedigh aen wil trecken.</l>
+<l>In 't midden van den twist, en 't woeden nimmer moe,</l>
+<l>Verheft u stadt haer kroon tot aen den hemel toe,</l>
+<l>En gaet door vier en ys een andre weerelt vinden,</l>
+<l>En dondert met geschut op alle vier de winden.</l>
+<l>Uw afkomst midlerwijl zal geensins onder gaen,</l>
+<l>Maer eeuwigh adelijck en eerelijck bestaen,</l>
+<l>Op sloten en in steên; en loffelijck regeeren,</l>
+<l>En Aemstels oude naem zal geenen lof ontbeeren;</l>
+<l>Als uw naemhafte stadt haer' Schouburgh open doet,</l>
+<l>En voert op 't hoogh tooneel uw daeden te gemoet</l>
+<l>Den burgermeesteren, en drymael twalef raeden,</l>
+<l>Gezeten op uw' schilt, van kruissen overlaeden.</l>
+<l>Dus geef u haestigh scheep: 't is tijt, want zonder Godt</l>
+<l>En onze hulp, 't was ongekomen met dit slot.</l>
+<l>Ick zal u met een' mist en dicken nevel decken,</l>
+<l>En voorgaen met mijn' glans, den volcke een leidstar strecken,</l>
+<l>In 't midden van den stroom. schep moedt, en wanhoop niet,</l>
+<l>Maer volgh gehoorzaem na het geen u Godt gebiet.</l>
+<l>Zijn wil is, dat gy treckt naer 't vette lant van Pruissen,</l>
+<l>Daer uit het Poolsch gebergt de Wijsselstroom komt ruisschen,</l>
+<l>Die d'oevers rijck van vrucht genoeghelijck bespoelt.</l>
+<l>Verhou u daer, en wacht tot dat de wraeck verkoelt.</l>
+<l>Gy zult in dit gewest een stadt, Nieuw Hollant, bouwen,</l>
+<l>En in gezonde lucht, en weelige landouwen,</l>
+<l>Vergeten al uw leet, en overbrogten druck;</l>
+<l>Waer door uw naezaet klimt den bergh op van 't geluck.</l>
+<pb n="64"/>
+<l>Valt u 't verwoesten der godtsdienstigheit te lastigh,</l>
+<l>Volhardt by 't out geloof en Godts altaer stantvastigh,</l>
+<l>Op 't spoor der ouderen, u moedigh voorgetreên.</l>
+<l>Zoo draeft men recht naer Godt, door alle starren heen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Pe.</hi></speaker>
+<l>Zijt gy dat Rafaël? zijt gy dat zelf, die beyde</l>
+<l>Tobias en zijn bruit zoo veiligh t'huis geleide?</l>
+<l>Of liever d'afgezant des hemels, die zoo klaer</l>
+<l>Voor Moses trock, gelijck een vierige pilaer?</l>
+<l>Of die den vromen Loth noch berghde, eer 't vier van boven</l>
+<l>De steden stack in brant? of die den gloênden oven</l>
+<l>Verkoelde, en brogt'er gaef dry jongelingen uit?</l>
+<l>Wy volgen op uw licht: wy zien 't is Godts besluit.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Nu buigh ick my voor Godt, mijn lief, mijn uitverkoren.</l>
+<l>Nu weiger ick geenfins naer uwen raet te hooren,</l>
+<l>En legh hier 't harnas af. hier baet geen tegenweer:</l>
+<l>Nu Godt dit huis verlaet, en gelt'er zwaert noch speer.</l>
+<l>Al 't volck ga voor, dan 't lijck, en niemant hoef te vreezen;</l>
+<l>Ick zelf met mijn gezin zal d'allerleste wezen.</l>
+<l>Heer Peter, 'k bid u, tast dit heïligh kruisbeelt aen,</l>
+<l>Dat voor mijne oudren lang heeft op 't altaer gestaen,</l>
+<l>En my is aenge-erft. ick storte in tijt van vrede</l>
+<l>En oorlogh menighmael hier voor mijn vierge bede,</l>
+<l>Zoo wel des nachts als daeghs. hoort mannen, hoort na my.</l>
+<l>Wanneer men uit den stroom en Pampus raeckt voorby,</l>
+<l>Zoo doet ter slincke hant in zee zich op wat weilant,</l>
+<l>Dat Marcken heet van outs, een laegh en visschers eilant,</l>
+<l>Het welck een klooster draeght genaemt Mariengaerd,</l>
+<l>Een rijcke en oude abdy: wy zullen derrewaert</l>
+<l>Ons spoên, voor wint voor stroom, met riemen en met zeilen,</l>
+<l>En daer de vloot verzien, en voorraet ommedeilen,</l>
+<l>En leven wijder raet. gaet scheep in die gestalt,</l>
+<l>Gelijck ick heb belast.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">R.v.E.</hi></speaker>
+<l>Helaes! hoe bitter valt</l>
+<l>Het scheiden van zijn lant, daer alles loopt verloren!</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Pe.</hi></speaker>
+<l>De liefde tot zijn lant is yeder aengeboren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ba.</hi></speaker>
+<l>Verdelghde stadt, wy gaen, en komen nimmer weêr,</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gys.</hi></speaker>
+<l>Vaer wel, mijn Aemsterlant: verwacht een' andren heer.</l>
+</sp>
+<p><hi rend="spat">UIT</hi>.</p>
+</div>
+</body>
+</text>
+
+</TEI.2>

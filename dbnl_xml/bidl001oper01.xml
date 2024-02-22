@@ -1,0 +1,1461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Opera op de zinspreuk: Zonder spijs, en wijn, kan geen liefde zijn</title>
+               <author>Govert Bidloo</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Opera op de zinspreuk: Zonder spijs, en wijn, kan geen liefde zijn</hi> van Govert Bidloo uit 1686.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>p. 3: accolades verspreid over meerdere regels kunnen in deze digitale versie niet weergegeven worden. Daarom wordt de accolade hier, met bijbehorende tekst, op iedere regel herhaald.</corr>
+                       <corr>p. 5: de kop ‘Opera op de zinspreuk: Zonder spijs, en wijn, kan geen liefde zijn’ is tussen vierkante haken toegevoegd.</corr>
+                       <corr>p. 37: de drukfouten zijn in deze digitale versie doorgevoerd in de lopende tekst. De opgave ervan is verplaatst naar dit colofon.</corr>
+                      
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan type="I">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>2</empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">bidl001oper01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note></note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Theater Instituut Nederland, signatuur: 13 A 33: 5</idno>
+               </bibl>
+               <p>Govert Bidloo, <hi rend="i">Opera op de zinspreuk: Zonder spijs, en wijn, kan geen liefde zijn</hi>. Albert Magnus, Amsterdam 1686</p>
+               <p>&#160;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Opera op de zinspreuk: Zonder spijs, en wijn, kan geen liefde zijn</title>
+               <author>Govert Bidloo</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Opera op de zinspreuk: Zonder spijs, en wijn, kan geen liefde zijn</title>
+               <author>Govert Bidloo</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-09-29</date>
+               <respStmt>
+                   <name type="person">SG</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+      <text>
+<body><cf>
+<div type="chapter">
+
+<pb n="I"/>
+<p>OPERA,</p>
+<p><hi rend="i">Op de Zinspreuk,</hi></p>
+<p>Zonder Spys, en Wyn,</p>
+<p>Kan geen Liefde zyn.</p>
+<p><hi rend="i">Sine Cerere &amp; Baccho friget Venus.</hi></p>
+<p><figure>
+<p><xptr to="bidl001oper01ill0001.gif"/></p>
+</figure></p>
+<p>t'amsterdam.</p>
+<p>By Albert Magnus, op den Nieuwendyk, ia den Atlas, by den Dam. 1686.</p>
+<p><hi rend="i">Met Privilegie.</hi></p>
+
+</div></cf>
+<div type="chapter">
+<pb n="III"/>
+<head rend="h3">Copye van de Privilegie.</head>
+<p>DE Staten van Hollandt ende Westvrieslandt doen te weten. Also Ons vertoont is by de tegenwoodige Regenten van de Schouwburgh tot Amsterdam. Dat sy Supplianten sedert eenige Jaren herwaerts met hunne goede vrinden hadden gemaeckt en ten Toonele gevoert verscheiden Wercken, soo van Treurspelen, Blyspelen als Kluchten, welcke sy lieden nu geerne met den druck gemeen wilden maecken, doch gemerkt dat dese wercken door liet nadrucken van anderen, veel van haer luyster, soo in Tael als Spelkonst souden komen te verliesen, ende alsoo sy Supplianten hen berooft souden sien van hun bysonder ooghwit om de Nederduytsche Tael en de Dichtkonst voort te setten soo vonden sy hen genootsaekt, om daer inne te voorsien, ende hen te keeren tot Ons, onderdanigh versoeckende, dat Wy omme redenen voorsz. de Supplianten geliefden te verlenen Octroy ofte Privilegie, omme alle hunne wercken reets gemaeckt ende noch in 't licht te brengen, den tyt van vyftien Jaren alleen te mogen drucken en verkopen of doen drucken en verkopen, met verbot van alle anderen op seeckere hooge peene daar toe by Ons te stellen ende voorts in communi forma. Soo is 't dat Wy de Zake en 't versoek voorsz. overgemerkt hebbende, ende genegen wesende ter bede van de Supplianten, uyt Onse rechte wetenschap, Souveraine magt ende authoriteyt deselve supplianten geconsenteert, geaccordeert ende geoctroyeert hebben, consenteren, accorderen ende octroyeren mitsdesen, dat sy geduurende den tyt van vyftien eerst achter een volgende Jaren de voorsz. werken die reeds gedrukt zyn, ende die van tyt tot tyt door haer gemaekt ende in 't ligt gebragt sullen werden, binnen den voorsz. Onsen Lande alleen sullen mogen drukken, doen drukken, uytgeven en verkopen. Verbiedende daarom allen ende eenen ygelyken de selve werken naar te drukken ofte elders naer gedrukt binnen den selve Onse Lande te brengen, uyt te geven ofte te verkopen, op de verbeurte van alle de naargedrukte, ingebragte ofte verkogte exemplaren, ende een boete van drie
+hondert guldens daer en boven te verbeuren, te appliceren een derde part voor den Officier die de calange doen sal, een derde-part voor den Armen der Plaetse daer het casus voorvallen sal, ende het resterende derde-part voor den Supplianten. Alles in dien verstaande, dat wy de Supplianten met desen Onsen Octroye alleen willende gratificeren tot verhoedinge van hare schade door het nadrukken van de voorsz. werken, daar door in geenige deelen verstaen, den inhoude van dien te Authoriseren ofte te advoueren, ende veel min de selve onder Onse protectie ende bescherminge, eenig meerder credit aensien ofte reputatie te geven, nemaer de Supplianten in cas daar in yets onbehoorlykx soude mogen influeren, alle het selve tot haren laste sullen gehouden wesen te verantwoorden; tot dien eynde wel expresselyk begerende, dat by aldien sy desen Onsen Octroye voor de selve Werken sullen willen stellen, daer van geene geabbrevieerde ofte gecontraheerde mentie sullen mogen maken, nemaer gehouden sullen wesen het selve Octroy in 't geheel
+<pb n="IV"/>ende sonder eenige Omissie daer voor te drukken ofte te doen drukken, ende dat sy gehouden sullen zyn een exemplaer van alle de voorsz. werken, gebonden ende wel geconditioneert te brengen in de Bibliotheecq van Onse Universiteyt tot Leyden, ende daer van behoorlyk te doen blyken. Alles op peene van het effect van dien te verliesen. Ende ten cynde de Supplianten desen Onsen consente Octroye mogen genieten als naer behooren: Lasten wy allen ende eenen ygelyken die 't aengaen mach, dat sy de Supplianten van den inhoude van desen doen, laten en gedogen, rustelyk en volkomentlyk genieten en cesserende alle beletten ter contrarie. Gedaen in den Hage onder Onsen groten Zegele hier aen doen hangen den <hi rend="sc">xix</hi> Septembr. in 't Jaer onses Heeren en Zaligmakers dnysent ses hondert vier en tachtig.</p>
+<p>G. <hi rend="spat">FAGEL</hi>.</p>
+<p>&#160;</p>
+<p>Ter Ordonnantie van de Staten</p>
+<p>&#160;</p>
+<p><hi rend="spat">SIMON</hi> van <hi rend="spat">BEAUMONT</hi></p>
+<p>&#160;</p>
+<p>De tegenwoordige <hi rend="sc">Regenten</hi> van de <hi rend="sc">Schouwburgh</hi>, hebben het Recht van de bovenstaande Privilegie, aangaande dese Opera, vergunt aen <hi rend="sc">Albert Magnus</hi>, Boekverkooper tot Amsterdam.</p>
+<p>&#160;</p>
+<p><hi rend="i">In Amsterdam den 17 December. 1686.</hi></p>
+</div>
+<div type="chapter">
+<interpGrp>
+<interp type="secundair" value="hoof067"/>
+</interpGrp>
+<pb n="V"/>
+<head rend="h3">Aan de Ed. vrouwe mevrouwe Maria de Wit, huisvrouw van de H<hi rend="sup">R</hi>. Willem Hooft.</head>
+<p>DE menigvuldige beleeftheden dien ik dagelyks ten uwen huize geniet, doen my altyd middelen zoeken, om te toonen hoe gaarn ik iets van deeze verschuldigingen afdeed;
+<pb n="VI"/>des wil ik ook deeze gelegenheid niet verwaarloozen waar in ik U E<hi rend="sup">t</hi>; iets kan aanbieden, 't geen U E<hi rend="sup">t</hi> zoo niet om de schikking en zaamenstelling der gedachten, en woorden, ten minsten om de zaamenstelling der Zangen Speelmaaten, en toonen door M<hi rend="sup">r</hi>. Joan Schenk op de zelve gemaakt, behaagen zal: want men kan U E<hi rend="sup">ts</hi>. kunde in deeze oefening zonder misdaad niet verdenken, dat zy tot leermeester iemand neemen zou, die in deeze kunst geen volkoomen vermoogen had. Dat ik geen deeling der Bedryven heb aangeweezen, geschied, om dat men dien in een Opera niet dan uit de schikking van de stof zelve kent; gaande de slag van de grondtoon altyd voort; en alzoo zal men door de tusschen poozen der Speelstukken voor de uitkomsten van Ceres, en Venus de deeling der stof klaar genoech kunnen zien. U E<hi rend="sub">t</hi><hi rend="sup">s</hi>.
+<pb n="VII"/>heuscheid, en de bevinding van U E<hi rend="sup">ts</hi>. liefde tot deeze kunst doen my, toch met verschuldigde eerbiedigheid dan vertrouwen, dat de aanbieding van dit stukje U E<hi rend="sub">ts</hi>. niet geheel onaangenaam zal zyn: maar indien ik zie dat U E<hi rend="sup">t</hi>. en den kenneren van de kunst deeze proef voldoed, zal ik my spoeden, om iets van meerder omslag ten Tooneele te brengen. Blyvende onderwyle</p>
+<p>&#160;</p>
+<p><hi rend="sc">mevrouw</hi></p>
+<p>&#160;</p>
+<p><hi rend="i">U Ets.</hi></p>
+<p>&#160;</p>
+<p><hi rend="i">Zeergehoorzcame dieraar</hi></p>
+<p>&#160;</p>
+<p>G. <hi rend="sc">Bidloo</hi>.</p>
+</div>
+<div type="chapter">
+<pb n="VIII"/>
+<head rend="h3">Vertooners Van het voorspel.</head>
+<list>
+<item><hi rend="sc">Dichtkunde</hi>.</item>
+<item><hi rend="sc">Maatzang</hi>.</item>
+<item><hi rend="sc">Speel</hi>- en</item>
+<item><hi rend="sc">Danskonst</hi>.</item>
+<item><hi rend="i">Eenige uit de Zanggodinnen.</hi></item>
+</list>
+</div>
+<div type="act">
+<pb n="1"/>
+<head rend="h3">Voorspel</head>
+<stage>Na de Ouverture of voorgaande Maatgespel ziet men in een Tooneel verbeeldende een Paleis,</stage>
+<stage>Dichtkunde, Maatzang, Dans- en Speelkunst, nevens eenige der Zanggodinnen.</stage>
+<sp>
+<speaker><hi rend="i">Dichtkunde</hi>.</speaker>
+<l>Terwyl myn veder aangedreeven,</l>
+<l>Om nieuw vermaak aan 't volk te geeven,</l>
+<l rend="; 1tab">Zyn eerste proef heeft voortgebragt,</l>
+<l>Wenscht hy ô<hi rend="i">!</hi> trouwe Speelgenooten,</l>
+<l rend="; 1tab">Dat gy deeze yver niet veracht;</l>
+<l>Maar door uw bystand wilt vergrooten.</l>
+<l rend="; 2tab">Zoo bloey de kunst<hi rend="i">!</hi></l>
+<l rend="; 2tab">Zoo win men gunst,</l>
+<l rend="; 2tab">By elk die kunst waardeerd,</l>
+<l rend="; 2tab">En Bloeiend' Yver eert.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Maatzang</hi>.</speaker>
+<l>Ik zal met uw gedicht myn groot vermoogen paaren;</l>
+<l>Schaakeerende 't geluid van Stemmen, Fluiten, Snaaren:</l>
+<l rend="; 1tab">Door reizen, en daalen, van toonen, en maaten,</l>
+<l rend="; 1tab">Droefheid, vreugd; ja alle drift,</l>
+<l rend="; 1tab">Dien gy af beeld in geschrift,</l>
+<l rend="; 1tab">Als bekrachtigt hooren laaten.</l>
+</sp>
+<pb n="2"/>
+<sp>
+<speaker><hi rend="i">Maatzang en Dichtkunde te zaamen.</hi></speaker>
+<l rend="; 1tab">Zoo bloey de kunst!</l>
+<l rend="; 1tab">Zoo win men gunst,</l>
+<l rend="; 1tab">By elk die kunst waardeerd,</l>
+<l rend="; 1tab">En Bloeiend' Yver eert.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Danskunst.</hi></speaker>
+<l>Laat ons Grieken, en Romen</l>
+<l rend="; 1tab">Naderkoomen!</l>
+<l>Uw opzet maakt myn voeten gaande;</l>
+<l>'k Zal keerende, buigende, draaiende, staande,</l>
+<l rend="; 1tab">Zwierende,</l>
+<l rend="; 1tab">Stierende</l>
+<l rend="; 1tab">Lichaam, en tred,</l>
+<l rend="; 1tab">Den maat, door u gezet,</l>
+<l>Navolgen met langzaame schréden,</l>
+<l>Op trip'lende treden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Danskunst, Dichtkunde en Maatzang te zaamen.</hi></speaker>
+<l rend="; 1tab">Zoo bloey de kunst!</l>
+<l rend="; 1tab">Zoo win men gunst,</l>
+<l rend="; 1tab">By elk die kunst waardeerd,</l>
+<l rend="; 1tab">En Bloiend' Yver eert.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Eenige uit de Zanggodinnen, Dichtkunde, Maatzang, Dans- en Speelkunst.</hi></speaker>
+<l>Kom, kom, gaan wy naar binnen.</l>
+<l>Kom, kom, gaan wy beginnen.</l>
+<l rend="; 1tab">Laat ons zien hoe 't Venus maakt,</l>
+<l rend="; 1tab">Die aan 't twisten is geraakt:</l>
+<l rend="; 1tab">Wyl wy eeuwig vereenigt blyven,</l>
+<l rend="; 1tab">Zonder te twisten of te kyven.</l>
+</sp>
+</div>
+<div type="act">
+<pb n="3"/>
+<head rend="h3">Vertooners van de opera.</head>
+<list>
+<item><hi rend="sc">Venus</hi>.</item>
+<item><hi rend="sc">Cupido</hi>.</item>
+<item><hi rend="sc">Mercurius</hi>.</item>
+<item><hi rend="sc">Iris</hi>.</item>
+<item><hi rend="sc">Ceres</hi>.</item>
+<item><hi rend="sc">Bacchus</hi>.</item>
+<item><hi rend="sc">Sylenus</hi>.</item>
+<item><hi rend="sc">Megera</hi>.</item>
+<item><hi rend="sc">Jupiter</hi>.</item>
+<item><hi rend="sc">Juno</hi>.</item>
+</list>
+<p>
+<table>
+<row>
+<cell><hi rend="i">Reyen van Bachanten.</hi></cell>
+<cell/>
+</row>
+<row>
+<cell><hi rend="i">Menaden.</hi></cell>
+<cell/>
+</row>
+<row>
+<cell><hi rend="i">Landlieden.</hi></cell>
+<cell/>
+</row>
+<row>
+<cell><hi rend="i">Boschnimphen.</hi> }</cell>
+<cell><hi rend="i">zwygende.</hi></cell>
+</row>
+<row>
+<cell><hi rend="i">Razernyen.</hi> }</cell>
+<cell><hi rend="i">zwygende.</hi></cell>
+</row>
+<row>
+<cell><hi rend="i">Minnegeden.</hi> }</cell>
+<cell><hi rend="i">zwygende.</hi></cell>
+</row>
+</table>
+</p>
+<div type="scene">
+<head rend="h4">Danszen.</head>
+<list>
+<label>1.<hi rend="i">ste.</hi></label><item><hi rend="i">Van Cupido, Hymen, Comus en Minnegoden.</hi></item>
+<label>2.</label><item><hi rend="i">Satyrs.</hi></item>
+<label>3.</label><item><hi rend="i">Een van 't gevolg van Bacchus, Botrys.</hi></item>
+<pb n="4"/>
+<label>4.</label><item><hi rend="i">De Jeugd.</hi></item>
+<label>5.</label><item><hi rend="i">Landlieden.</hi></item>
+<label>6.</label><item><hi rend="i">Kupido. Hymen</hi> 2. <hi rend="i">Landlieden.</hi> 2 <hi rend="i">Satyrs. en</hi> 4 <hi rend="i">Minnaars.</hi></item>
+</list>
+<p>&#160;</p>
+<p>De sieraden, en veranderingen der Tooneelen werden op de vereischte Plaatzen beschreeven.</p>
+<p>&#160;</p>
+<p>Het Tooneel in het vermaakelyke dal van Ida veranderd zynde; ziet men op het eerste Tooneel.</p>
+<p>&#160;</p>
+<p><hi rend="i">Een Dans van Cupido, Hymen, Comus, en eenige Minnegoden.</hi></p>
+<p>&#160;</p>
+<p>Ten eynde van den dans verschynt op het tweede Tooneel.</p>
+<pb n="5"/>
+</div>
+    <div type="scene">
+    <head rend="h3">[Opera op de zinspreuk: Zonder spijs, en wijn, kan geen liefde zijn]</head>
+<sp>
+<speaker><hi rend="sc">Venus</hi>.</speaker>
+<l rend="; 1tab">Houd op! houd op van danssen,</l>
+<l rend="; 1tab">Verwerpt, vertreed uw kranssen;</l>
+<l rend="; 2tab">Nu Ceres my verlaat;</l>
+<l rend="; 2tab">Nu Bromius my haat,</l>
+<l rend="; 2tab">Gevoel ik dat myn gloed,</l>
+<l rend="; 2tab">Eerlang verflaauwen moet,</l>
+<l>Ach! zoonen wilt uw blyde toortzen,</l>
+<l>De stichters van de minnekoortzen,</l>
+<l>Vry dooven, wyl ons 't vuur ontbreekt,</l>
+<l>Waar door men liefde, en leeven queekt,</l>
+<l rend="; 2tab">Breekt uw pylen, breekt uw boogen,</l>
+<l rend="; 2tab">Liefde heeft nu geen vermoogen,</l>
+<l rend="; 3tab">Ach! 't heel al kan niet bestaan!</l>
+<l rend="; 3tab">Zoo dit twisten voort moet gaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Cupido</hi>.</speaker>
+<l>Wat reden heeft de Veldgodin,</l>
+<l rend="; 1tab">Om van uw byzyn haar te onthouwen?</l>
+<l>Wie heeft de Moeder van de Min,</l>
+<l rend="; 1tab">Met Bacchus twist, en haat gebrouwen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Venus</hi>.</speaker>
+<l>Proserpina die altyd wrokt,</l>
+<l>Om datz' in 't blomryk veld, gelokt</l>
+<l rend="; 1tab">Geschaakt wierd door den Koning</l>
+<l rend="; 1tab">Der onderaardsche wooning,</l>
+<l rend="; 2tab">Maakt haar Moeder</l>
+<l rend="; 2tab">Staag verwoeder,</l>
+<l>Als zy haar denken doed, hoe bang zy riep</l>
+<l>Toen zy haar dochter, zoeken liep:</l>
+<pb n="6"/>
+<l rend="; 1tab">Want schoon zy wierd een Konings Vrouw,</l>
+<l rend="; 1tab">Noch haat zy my om Plutoos trouw.</l>
+<l>Die zouder te vryen of streelen,</l>
+<l>Haar als een schaaker quam steelen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Cupido</hi>.</speaker>
+<l>Wat oorzaak wend toch Bacchus voor?</l>
+<l>Waar om men ook zyn gunst verloor.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Venus</hi>.</speaker>
+<l>Dat ik toen Jupiter quam daalen....</l>
+<l>Maar ach ik kan u niet verhaalen</l>
+<l rend="; 1tab">Al 't ongelyk, en al de spyt,</l>
+<l rend="; 1tab">Die my de razerny vol nyd</l>
+<l rend="; 2tab">Nu lyden doed;</l>
+<l rend="; 2tab">Uw Moeder moet,</l>
+<l rend="; 2tab">Die Zon en Maan,</l>
+<l rend="; 2tab">In vlam deed staan,</l>
+<l rend="; 2tab">Die 't al kon braân,</l>
+<l rend="; 2tab">Van kouw vergaan,</l>
+<l rend="; 2tab">Ach! 't is gedaan!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Cupido</hi>.</speaker>
+<l>Wie zweeft daar gints op lucht, en wind?</l>
+<l>Wie daald daar neder zoo gezwind?</l>
+<l>Die komen wis met nieuwe maaren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Venus</hi>.</speaker>
+<l>Meêr leed, en ongeluk verklaaren.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="7"/>
+<head rend="h4"><hi rend="i">Derde tooneel.</hi></head>
+<stage><hi rend="i">Aan de eene zyde van het Tooneel ziet men nederkomen Mercurius, aan de andere Iris, gezeeten onder een Regenboog, deeze neêrgevloogen, en gedaald zynde, zegt</hi></stage>
+<sp>
+<speaker><hi rend="sc">Mercurius</hi>.</speaker>
+<l>Wat doet Vrouw Venus hier alreê?</l>
+<l>Daar zelf de Zon pas boven zee,</l>
+<l rend="; 1tab">En zyn azuure kimmen,</l>
+<l rend="; 1tab">Begind te klimmen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Venus</hi>.</speaker>
+<l>Ik zogt, ô Hemelboô dit dal,</l>
+<l>Om of misschien, my 't goed geval,</l>
+<l rend="; 1tab">Hen hier liet vinden,</l>
+<l rend="; 1tab">Die my eer minden.</l>
+<l>Ik weet dat in dit geurig groen,</l>
+<l>De Landman pleeg zyn beê te doen,</l>
+<l rend="; 1tab">Aan Ceres Altaaren,</l>
+<l rend="; 1tab">Om weelderig' airen.</l>
+<l>Dat Bacchus op het druivefeest,</l>
+<l>Hier dikmaals is verheugd geweest.</l>
+<l rend="; 2tab">Ik smelt van druk!</l>
+<l rend="; 2tab">Om 't ongeluk,</l>
+<l rend="; 1tab">Dat zy my verlaaten,</l>
+<l rend="; 1tab">En schuwen, en haaten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mercurius</hi>.</speaker>
+<l>Jupyn bewoogen,</l>
+<l>Zend my uit den hoogen,</l>
+<l rend="; 1tab">Om, zoo het mooglyk is,</l>
+<l rend="; 1tab">Weêr een verbintenis,</l>
+<pb n="8"/>
+<l>Met u en de andere op te rechten,</l>
+<l>En alle twist, en haat te slechten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Iris</hi>.</speaker>
+<l rend="; 1tab">Zo zond ook Juno my aan u,</l>
+<l rend="; 3tab">Terwyl zy nu</l>
+<l rend="; 2tab">De trouw weêr wil doen leeven,</l>
+<l rend="; 2tab">En u uw luister geeven.</l>
+<l>'k Zal uit haar naam met Ceres spreeken,</l>
+<l>En licht haar haat, en gramschap breeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mercurius</hi>.</speaker>
+<l>Het zoet van Herses minnevlam,</l>
+<l>Die door uw gloed aan 't blaaken quam,</l>
+<l rend="; 2tab">Verplicht my, om altyd</l>
+<l rend="; 2tab">Te toonen lust, en vlyt,</l>
+<l rend="; 1tab">Wanneer'er zaaken</l>
+<l rend="; 1tab">Uw eer, of welstand raaken.</l>
+<l>Ik zal by Bacchus..... maar ik hoor,</l>
+<l rend="; 1tab">Van ver den stoet</l>
+<l rend="; 1tab">Die hem begroet,</l>
+<l>Zyn blye Satyrs danszen voor.</l>
+<l rend="; 1tab">Hoor hoe ze tieren!</l>
+<l rend="; 1tab">Zie hoe ze zwieren!</l>
+<l>Wyl ieder waggelende tred,</l>
+<l>Een blyk van zyn bevelen zet.</l>
+<l rend="; 1tab">De fluit, schalmey, en bom,</l>
+<l rend="; 1tab">De Ruispyp, en de trom</l>
+<l rend="; 1tab">Vervullen 't dal alom</l>
+<l rend="; 1tab">Met klank en wederklankken,</l>
+<l rend="; 1tab">Hoor hoe zy hem bedankken,</l>
+<l rend="; 1tab">Bekranst met wyngaardrankken.</l>
+</sp>
+<pb n="9"/>
+<sp>
+<speaker><hi rend="sc">Cupido</hi>.</speaker>
+<l rend="; 1tab">Haaten deeze goden u</l>
+<l rend="; 1tab">Werd men voor de liefde schuw</l>
+<l rend="; 1tab">Zoo moet alles wêer vergaan,</l>
+<l rend="; 1tab">Tot een mengklomp overslaan,</l>
+<l>Smoor uw druk, ga uw schoon gezicht verbergen</l>
+<l>Tot men u om uw byzyn wêer kom vergen.</l>
+<l rend="; 2tab">Haat Inachus die u haat</l>
+<l rend="; 2tab">Wil niet bezwyken!</l>
+<l rend="; 2tab">Doe Ceres ook blyken,</l>
+<l>Dat haar gramschap u niet eens ter herten gaat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Iris</hi>, <hi rend="i">tegen Venus</hi>.</speaker>
+<l>Vertrek, en keer zoo schoon gesiert,</l>
+<l>Als gy op Paphos word geviert.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Venus</hi>.</speaker>
+<l rend="; 1tab">Ik volg uw raad.</l>
+</sp>
+<stage><hi rend="i">Venus met Cupido, Hymen en Comus en Minnegoden binnen.</hi></stage>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Vierde tooneel.</hi></head>
+<stage><hi rend="sc">Mercurius</hi>, <hi rend="sc">Iris</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Mercurius</hi>.</speaker>
+<l rend="; 3tab">Kom Iris, laat</l>
+<l rend="; 2tab">Ons van ter zy op alles merken,</l>
+<l rend="; 1tab">Om, volgens 's Hemels wil, wat goeds te werken.</l>
+</sp>
+<stage><hi rend="i">Mercurius en Iris verschuilen zich elk aan een zy van het Tooneel.</hi></stage>
+</div>
+<div type="scene">
+<pb n="10"/>
+<head rend="h4"><hi rend="i">Vyfde tooneel.</hi></head>
+<stage>Bacchus verschynt, zittende op een waagen, voortgetrokken van Indianen, omringt van Satyrs, Bacchanten, Menaden, Dryaden. Achter hem komt Sylenus, Botrys, en ander gevolg.</stage>
+<sp>
+<speaker><hi rend="sc">Bacchus</hi>.</speaker>
+<l>Dat nu het oost myn magt getuig,</l>
+<l>De druif hier om den olm zich buig,</l>
+<l rend="; 1tab">Dat boomen, en velden</l>
+<l rend="; 1tab">Myn zegening melden<hi rend="i">!</hi></l>
+<stage><hi rend="i">Hier veranderd het boschtooneel in Wynstokken, en Wyngaardprielen.</hi></stage>
+<l>Zatte Satyrs dat uw geest,</l>
+<l>Zich verheug' op Libers feest,</l>
+<l rend="; 1tab">Zich verzaade in lekk're vochten,</l>
+<l rend="; 2tab">Uitgedrukt in kop, en schaal:</l>
+<l rend="; 2tab">Toont de kracht van myn onthaal,</l>
+<l>Huppelt wringt uw lyf in bochten.</l>
+<stage><hi rend="i">Dans van Satyrs.</hi></stage>
+<l rend="; 3tab">Na den Dans zingt</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Eene der Bacchanten.</hi></speaker>
+<l>Op Menaden, op Bacchanten!</l>
+<l>Wilt uw groene veldhut planten,</l>
+<l>Daar de lommer der olyf,</l>
+<l>Dekt Inacchus gladde lyf.</l>
+<l rend="; 1tab">Op Menaden;</l>
+<l rend="; 1tab">Op Dryaden,</l>
+<l>Op al wat in bosschen woont,</l>
+<l>Bromius, of Ceres kroont.</l>
+</sp>
+<pb n="11"/>
+<sp>
+<speaker><hi rend="i">Rey van Bacchanten, en Menaden.</hi></speaker>
+<l>Stut geen klank, zingt hem dank!</l>
+<l rend="; 1tab">Op Menaden,</l>
+<l rend="; 1tab">Op dryaden,</l>
+<l>Op al wat in bosschen woont!</l>
+<l>Bromius of Ceres kroont.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Sylenus.</hi></speaker>
+<l>Daar wy Liber zien verschynen,</l>
+<l rend="; 1tab">Leeft terstond,</l>
+<l rend="; 1tab">Lucht, en grond,</l>
+<l>Laat nu Venus zuchten, quynen,</l>
+<l rend="; 1tab">En verteeren, daar de wyn,</l>
+<l rend="; 1tab">Ons bevryd van minnepyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Tweede der Bacchanten alleen.</hi></speaker>
+<l>Iö Evan groote Vader<hi rend="i">!</hi></l>
+<l>Iö Evan uit uw Ader</l>
+<l rend="; 1tab">Vloed dat Zielverquikkend nat,</l>
+<l rend="; 1tab">Daar geen druk, of ramp op vat.</l>
+<l>Liber, Bromius, Inacchus<hi rend="i">!</hi></l>
+<l>Evöe, Iäcchus, Bacchus,</l>
+<l rend="; 1tab">Zoon van Semele gebaard,</l>
+<l rend="; 1tab">Gy zyt eer en offer waard.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey van alle.</hi></speaker>
+<l>Dat Jupyn ons aan kom schouwen!</l>
+<l>Daar wy 't Hooge feest gaan houwen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Eene der Menaden.</hi></speaker>
+<l>Vry van onrust, en 't geweld,</l>
+<l>Daar de liefde elks hert mêe queld,</l>
+<l>Dat zich naar haar wetten steld,</l>
+<pb n="12"/>
+<l>Vry van kommer, en verdriet;</l>
+<l rend="; 2tab">Is het leeven,</l>
+<l rend="; 2tab">Ons gegeeven,</l>
+<l>Door den gever van den Wyn,</l>
+<l>Laat ons hem dan dankbaar zyn!</l>
+<l rend="; 2tab">Nu men deeze vreugd geniet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Deze der Menaden nevens de 2<hi rend="sup">de</hi> der Bacchanten.</hi></speaker>
+<l>Klagen, hoopen, smeeken, vreezen,</l>
+<l rend="; 3tab">Is het lot,</l>
+<l>Van oprecht verlieft te weezen.</l>
+<l rend="; 3tab">Venus spot,</l>
+<l>Met haar slaaven, en slavinnen;</l>
+<l rend="; 1tab">Die dan op elkander winnen,</l>
+<l>Als z'elkaar doen derven</l>
+<l rend="; 1tab">Lust en rust,</l>
+<l>Tot des eens of anders sterven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Eerste der Menaden.</hi></speaker>
+<l>Weg dan liefde, en minnepyn,</l>
+<l rend="; 1tab">Laat de klaare wyn;</l>
+<l>Laat de gloed, en glans der drup'len,</l>
+<l rend="; 1tab">Die in 't kristallyn</l>
+<l>Spelen, springen, schuimen, hup'len,</l>
+<l>Dryven, dringen uyt ons hert,</l>
+<l>Alle zotte minnesmert.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Een uyt het gevolg van Bacchus, houdende een drinkvat in de hand.</hi></speaker>
+<l rend="; 2tab">Syleen<hi rend="i">!</hi></l>
+<l rend="; 2tab">Hier is alle smaak by een.</l>
+<l rend="; 2tab">Dit 's de nektar, daar de goden,</l>
+<pb n="13"/>
+<l rend="; 2tab">Elk op nooden;</l>
+<l rend="; 1tab">Dit 's de rechte Hyppocreên,</l>
+<l rend="; 1tab">Daar poëten,</l>
+<l rend="; 1tab">Zoo veel door te zwetzen weeten.</l>
+<l rend="; 3tab">Hier in zit Democritus,</l>
+<l rend="; 3tab">Hier in zit Heraclitus,</l>
+<l rend="; 3tab">Plato en Hippocrates,</l>
+<l rend="; 3tab">Seneca, en Bartholus,</l>
+<l rend="; 3tab">Geeven hier door les op les,</l>
+<l rend="; 3tab">Eer dan Vader Bacchus dus.</l>
+</sp>
+<stage><hi rend="i">by drinkt.</hi></stage>
+<sp>
+<speaker><hi rend="i">Sylenus mede gedronken hebbende.</hi></speaker>
+<l rend="; 4tab">Al die niet meugen,</l>
+<l rend="; 5tab">ô! vrolyke god,</l>
+<l rend="; 5tab">Die lekkere Teugen,</l>
+<l rend="; 5tab">Zyn suffend, of zot.</l>
+<l rend="; 4tab">Uw kannen te leegen,</l>
+<l rend="; 4tab">Uw glazen te veegen</l>
+<l rend="; 5tab">Is 't eenige goed,</l>
+<l rend="; 5tab">Is 't eenige zoet.</l>
+<l>ô! Botrys wil Bacchus met danssen Begroeten,</l>
+<l>Ik kan, ik kan niet mêer staan op myn voeten,</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Zesde tooneel.</hi></head>
+<stage><hi rend="i">Dans van Botrys, dronke zynde.</hi></stage>
+<stage><hi rend="i">Na den dans verschynt Mercurius by de voorgaande.</hi></stage>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Sevende tooneel.</hi></head>
+<sp>
+<speaker><hi rend="sc">Mercurius</hi>.</speaker>
+<l>Dat Zon, en dau den Wyngaard zegen,</l>
+<l>En Bacchus alle vreugd bejegen<hi rend="i">!</hi></l>
+</sp>
+<pb n="14"/>
+<sp>
+<speaker><hi rend="sc">Bacchus</hi>.</speaker>
+<l>Heb dank Mercuur.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mercurius</hi>.</speaker>
+<l>Dit vrolyk uur,</l>
+<l rend="; 1tab">Dit weeldrig woud,</l>
+<l>Daar zich de blydschap zelve onthoud,</l>
+<l rend="; 1tab">Is recht bequaam,</l>
+<l rend="; 1tab">Om aangenaam,</l>
+<l>Den boodschap u te zeggen,</l>
+<l>Die my Jupyn beval u voor te leggen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bacchus</hi>.</speaker>
+<l>Vertrekt myn reyen,</l>
+<l>Tot ik u roep om my te rug te leyen.</l>
+</sp>
+<stage><hi rend="i">Al het gevolg van Bacchus, nevens de Satyrs, Botrys, en Sylenus vertrekken.</hi></stage>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Achste tooneel.</hi></head>
+<stage><hi rend="sc">Mercurius, Bacchus.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Bacchus</hi> <hi rend="i">vervolgt.</hi></speaker>
+<l>Wat wil de vader van zyn zoon?</l>
+<l>Hy wederstond nooit zyn geboôn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mercurius</hi>.</speaker>
+<l>Dat hy met Paphos Koningin,</l>
+<l>Een nieuwe vrindschap weêr begin.</l>
+<pb n="15"/>
+<l rend="; 2tab">De liefde doe weêr leeven,</l>
+<l rend="; 2tab">Wien 't leeven wil begeeven.</l>
+<l>Die dwaalende in den rouw,</l>
+<l>Doed sterven vreugd en Trouw.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bacchus</hi>.</speaker>
+<l>Gedenkt Jupyn myn vader niet,</l>
+<l>Hoe Semele het leeven liet?</l>
+<l rend="; 1tab">Kon Venus 't vuur niet smooren,</l>
+<l rend="; 1tab">Ach! ging zy niet door haar verlooren<hi rend="i">!</hi></l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mercurius</hi>.</speaker>
+<l>Haar eyd'le wensch; niet Venus gloed,</l>
+<l>De blixem; niet Jupyns onthaalen.</l>
+<l>Deed haar zoo duur haar min betaalen,</l>
+<l>Maar denk! hoe wierd dien schaâ geboet.</l>
+<l rend="; 1tab">Jupyn heeft u voldragen;</l>
+<l rend="; 2tab">Gebaard, ter min besteed,</l>
+<l rend="; 1tab">Wil toch geen wêerstand waagen!</l>
+<l rend="; 2tab">Daar gy zyn wil nu weet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bacchus</hi>.</speaker>
+<l>Deed ik wel eer op woeste baaren,</l>
+<l>Het zee volk myn gezach ervaren;</l>
+<l rend="; 2tab">Kon ik die myne magt,</l>
+<l rend="; 2tab">En feesten heeft belacht,</l>
+<l rend="; 1tab">In vuile dieren verkeeren<hi rend="i">!</hi></l>
+<l>Venus zal zelf my ongewrooken, niet onteeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mercurius</hi>.</speaker>
+<l>Ay! zie met welk een welbehaagen</l>
+<l>Voert Ceres Iris op haar waagen.</l>
+<l rend="; 1tab">De Landman vol eenvoudigheid,</l>
+<l rend="; 1tab">Zyn offer aan haar voeten leid,</l>
+<pb n="16"/>
+<l>Laat ons uit deeze groente zien,</l>
+<l>Hoe zy haar dank en ootmoed biên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bacchus</hi>.</speaker>
+<l>Dat al wat ik hier Teelde aanstonds verdwyn!</l>
+<l>Ik wil niet dat zy merk dat wy hier zyn.</l>
+</sp>
+<stage><hi rend="i">Bacchus en Mercurius zich ter zyde begeevende, veranderd het Tooneel in zyn eerste gedaante.</hi></stage>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Negende tooneel.</hi></head>
+<stage>Na, en onder maatgespel verschynt Ceres op een waagen versierd met landbouwtuig, Koorenairen, en Bloemen. Zy werd getrokken en omringt van landlieden, zoo mans als vrouwen, en boschnimphen, by haar zit Iris, voor haar gaan kinderkens dragende een bekranst Altaar, en offergiften.</stage>
+<sp>
+<speaker><hi rend="sc">Ceres.</hi></speaker>
+<l>Gy die 't gewoel van Hof, en stad ontvlied,</l>
+<l>En stille vreugd, en vrede op 't land geniet,</l>
+<l rend="; 1tab">Daar voog'lezang 't musiek verstrekt,</l>
+<l rend="; 1tab">Dat met den dag den slaaper wekt,</l>
+<l>Reist<hi rend="i">!</hi> reist<hi rend="i">!</hi> terwyl ik 't veld ga groeten,</l>
+<l>Die al uw arbeid wil verzoeten.</l>
+<l rend="; 1tab">Wat leed kan toch u landman quellen,</l>
+<l rend="; 1tab">Als ik den kooren air doe zwellen.</l>
+<l rend="; 2tab">Het vêe en veld,</l>
+<l rend="; 1tab">Door my werd teeld, en groey besteld?</l>
+<l>Geen storm, of kryg den lust,</l>
+<l>Op 't vette land ontrust.</l>
+</sp>
+<pb n="17"/>
+<sp>
+<speaker><hi rend="i">Gevolg van Ceres.</hi></speaker>
+<l rend="; 3tab">ô! Ceres behoedster,</l>
+<l rend="; 4tab">En eenige voedster</l>
+<l rend="; 3tab">Van al onze vreugd,</l>
+<l rend="; 3tab">En tierige jeugd.</l>
+<l rend="; 2tab">Zie hoe wel wy alles meenen,</l>
+<l rend="; 2tab">Op ô! Landliên rept uw beenen.</l>
+</sp>
+<stage><hi rend="i">Dans van Landlieden.</hi></stage>
+<sp>
+<speaker><hi rend="i">Een van de Landmannen.</hi></speaker>
+<l rend="; 2tab">Volgen wy de Veldgodin<hi rend="i">!</hi></l>
+<l rend="; 2tab">Spyt de Moeder van de Min,</l>
+<l rend="; 3tab">Wy zyn ontslagen</l>
+<l rend="; 3tab">Van pyn, en klagen,</l>
+<l rend="; 3tab">Van al 't zuchten,</l>
+<l rend="; 4tab">Ongenuchten</l>
+<l rend="; 4tab">Staat nu stom,</l>
+<l rend="; 5tab">Vryheid,</l>
+<l rend="; 5tab">Blyheid,</l>
+<l rend="; 4tab">Keert weêrom.</l>
+</sp>
+<stage><hi rend="i">Onder, en na eenig tusschenspel, werd een Offerhande aan Ceres gedaan.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Ceres</hi>.</speaker>
+<l>'k Ontsang deeze eerste vrugt van 't veld,</l>
+<l>Dees melk op myn Altaar gesteld,</l>
+<l rend="; 3tab">Dees kom,</l>
+<l rend="; 3tab">Met gom,</l>
+<l rend="; 2tab">En bloed der dieren,</l>
+<l rend="; 2tab">Komt jaarlyks vieren</l>
+<l rend="; 1tab">De vruchtb're Moeder, en haar kroost.</l>
+<l rend="; 1tab">Der Landliên heul, en troost.</l>
+<pb n="18"/>
+<l rend="; 1tab">Uw plechtigheid heeft my voldaan,</l>
+<l rend="; 1tab">Verwagt my in de gindze Laan.</l>
+</sp>
+<stage><hi rend="i">Al het gevolg van Ceres vertrekt.</hi></stage>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Tiende tooneel.</hi></head>
+<stage><hi rend="sc">Ceres</hi>, <hi rend="sc">Iris</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ceres</hi>.</speaker>
+<l>Durft Iris my die vriendschap vergen;</l>
+<l>'t Verzoek van Juno noem ik tergen.</l>
+<l>Vergeet zy 't leed, en al 't verdriet,</l>
+<l rend="; 1tab">Door Venus haat geschied;</l>
+<l rend="; 3tab">Ik niet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Iris</hi>.</speaker>
+<l>Voldoe myn beê, ay! zyt vernoegd,</l>
+<l>Terwyl 't uw wysheid voegd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ceres</hi>.</speaker>
+<l rend="; 2tab">Wiens gloed, en schicht,</l>
+<l rend="; 3tab">Staag onrust sticht,</l>
+<l rend="; 3tab">Boelagie wekt,</l>
+<l rend="; 3tab">Een Toorts verstrekt,</l>
+<l rend="; 2tab">Die 't hert verbrand,</l>
+<l rend="; 2tab">'t Gemoed vermand,</l>
+<l rend="; 3tab">Die list, en logen leert,</l>
+<l rend="; 3tab">Werd nooit van my geëert.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Iris</hi>.</speaker>
+<l rend="; 2tab">Vergeet uw leet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ceres</hi>.</speaker>
+<l rend="; 3tab">Myn Kind te schaaken!</l>
+<l rend="; 4tab">ô! wat spyt,</l>
+<pb n="19"/>
+<l rend="; 3tab">Ik ben haar quyt,</l>
+<l rend="; 2tab">Die my dikmaals kon vermaaken.</l>
+<l rend="; 2tab">Cyane die naar wou helpen,</l>
+<l rend="; 2tab">Dorst de roover overstelpen,</l>
+<l rend="; 3tab">En verkeeren in een vloed,</l>
+<l rend="; 3tab">Die voor eeuwig vloeien moet,</l>
+<l rend="; 2tab">Als de traanen die zy schreide.</l>
+<l rend="; 3tab">Toen hy haar ter hel in leide.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Iris</hi>.</speaker>
+<l rend="; 3tab">Juno ziet geen vlam opvaaren,</l>
+<l rend="; 4tab">Van trouw Altaaren.</l>
+<l>Zy eischt, dat gy om haar op Jupiters gebod,</l>
+<l>Vereent met Venus, en u leed wyt aan het lot.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ceres</hi>.</speaker>
+<l>ô! Noodlot voor wiens onbedwingbaare armen</l>
+<l rend="; 2tab">Noch mensch, noch God,</l>
+<l>Zich kan verweeren, noch beschermen,</l>
+<l rend="; 2tab">Zoo uw gebod</l>
+<l rend="; 1tab">My doemde 't leet te smaaken,</l>
+<l rend="; 1tab">'t Geen ik gevoelde in 't schaaken</l>
+<l rend="; 2tab">Van Proserpyn,</l>
+<l rend="; 2tab">Zal ik te vreede zyn;</l>
+<l>Maar sta dan ook ten minsten toe.</l>
+<l>Dat ik myn wraak, aan Venus, en haar kind voldoe</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Elfde tooneel.</hi></head>
+<stage><hi rend="i">Mercurius, en Bacchus, komen by Ceres en Iris</hi></stage>
+<sp>
+<speaker><hi rend="sc">Mercurius</hi>.</speaker>
+<l rend="; 1tab">Wy hebben schoone landgodin,</l>
+<l rend="; 2tab">Uw klachten aangehoord,</l>
+<l rend="; 2tab">Ay! wees toch niet verstoord!</l>
+    <l rend="; 2tab">Voldoe des Hemels Koningin!</l>
+    <stage>Veldgewas en vrolyke &amp;C. <hi rend="i">werd door Ceres gezongen.</hi></stage>
+<pb n="20"/>
+<l rend="; 2tab">Voldoe Jupyn,</l>
+<l rend="; 2tab">Wil vrolyk zyn,</l>
+<l>Een zaak, door 't lot geschied,</l>
+<l>Hersteld toch gramschap niet.</l>
+<l rend="; 2tab">Veldgewas, en vrolyke airen,</l>
+<l rend="; 2tab">In de schuuren te vergaaren,</l>
+<l>Beemd, en boom, en huis, en stal</l>
+<l>Vol te vinden, overal,</l>
+<l rend="; 1tab">Zal de menschen meêr vernoegen,</l>
+<l rend="; 1tab">Als van minnebrand te zwoegen,</l>
+<l>Daar men door een felle vonk</l>
+<l>Van een minnelyke lonk,</l>
+<l>Aangestooken. 't Hert moet winnen,</l>
+<l>Van die zelf dien drift niet minnen,</l>
+<l>Of moet quynen tot zyn graf,</l>
+<l>Is dan liefde vreugd, of straf?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Iris</hi>, en <hi rend="sc">Mercurius</hi>.</speaker>
+<l>Laat ons met geen droeve maaren</l>
+<l>Wederom te rugge vaaren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bacchus</hi>.</speaker>
+<l>'k Durf myn vader niet weêrstreeven,</l>
+<l>'k Wil geen stof aan Juno geeven,</l>
+<l rend="; 1tab">Tot misnoegen, wrok of haat,</l>
+<l rend="; 1tab">Twist is, zelf by Goden, quaad.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mercurius</hi>, en <hi rend="sc">Iris</hi>.</speaker>
+<l>Zou de voeder van de blydschap</l>
+<l rend="; 1tab">Zou de queeker van de lust</l>
+<l rend="; 1tab">Langer leeven ongerust,</l>
+<l>En vermaakt zyn met Partyschap?</l>
+<l>Kom dan, kom ook Ceres kom</l>
+<pb n="21"/>
+<l>Heet de Min weêr wellekom.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ceres</hi>.</speaker>
+<l>'k wil dat Venus eerst beken,</l>
+<l>Dat ik hoog beledigt ben.</l>
+<l rend="; 1tab">Dat zy voel, wanneer wy wyken,</l>
+<l rend="; 1tab">Liefde eerlang den vlag moet stryken.</l>
+<l>Dat zy. .... Maar de lucht</l>
+<l>Leeft van zoet gerucht.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Iris</hi>.</speaker>
+<l>Al de wolken die hier zweeven</l>
+<l>Geeven</l>
+<l>Geur, en gloed, wyl 't pluimgediert,</l>
+<l>Voor, en om den Zetel zwiert.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ceres</hi>.</speaker>
+<l rend="; 1tab">Komt herwaards aan wil my geleien</l>
+<l rend="; 2tab">Komt myn reyen<hi rend="i">!</hi></l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bacchus</hi>.</speaker>
+<l rend="; 2tab">Wilt gy scheyen,</l>
+<l rend="; 1tab">Zoo zal ik haar niet verbeien.</l>
+<stage><hi rend="i">Mercurius tracht vergeefs Bacchus</hi>, <hi rend="i">Iris, Ceres op te houden.</hi></stage>
+<l>Blyf, laat ons uw vrede maaken,</l>
+<l>Waar na goôn en menschen haaken,</l>
+<l rend="; 3tab">Sta toch stil.</l>
+<l rend="; 3tab">Doe myn wil;</l>
+<l>Wees toch niet te zeer verbolgen,</l>
+<l>Wil Jupyns beveelen volgen.</l>
+</sp>
+<stage><hi rend="i">Alle binnen.</hi></stage>
+</div>
+<div type="scene">
+<pb n="22"/>
+<head rend="h4"><hi rend="i">Twaalefde tooneel.</hi></head>
+<stage>Venus versiert met roozenhoed, en riem, daald onder maatgespel, omringt van Cupido, Minnegoden, Duiven, Musschen, en Zwaanen, in een Wolk op 't aardryk.</stage>
+<sp>
+<speaker><hi rend="sc">Venus</hi>.</speaker>
+<l>Helaas<hi rend="i">!</hi> nu is myn hoop verlooren!</l>
+<l rend="; 2tab">Men vlucht daar ik verschyn,</l>
+<l rend="; 1tab">ô<hi rend="i">!</hi> schand! ô! weê! ô pyn.</l>
+<l rend="; 1tab">Wat moet ik lyden! zien en hooten<hi rend="i">!</hi></l>
+<l>Wat baat my riem, en roozenhoed,</l>
+<l rend="; 1tab">En in een glans van ster, en straalen,</l>
+<l rend="; 1tab">Op 't quynende aardryk neêr te daalen!</l>
+<l>Daar ik uw byzyn missen moet,</l>
+<l>ô! god die tweemaal zyt gebaard,</l>
+<l>En u godin van vruchtbaare aard.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Cupido</hi>.</speaker>
+<l rend="; 2tab">Gaan Satyrs nu schuilen</l>
+<l rend="; 2tab">In holen, en kuilen,</l>
+<l rend="; 3tab">Wanneer de Min</l>
+<l rend="; 3tab">Treed boschwaards in?</l>
+<l rend="; 2tab">Zy pleegen te schuilen,</l>
+<l rend="; 2tab">In holen, en kuilen,</l>
+<l rend="; 3tab">Wanneer de Min,</l>
+<l rend="; 3tab">Hen hun vrindin,</l>
+<l rend="; 2tab">Of minnejagt liet schuilen,</l>
+<l rend="; 2tab">In holen, en in kuilen.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="23"/>
+<head rend="h4"><hi rend="i">Dertiende tooneel.</hi></head>
+<stage>Mercurius, en Iris, met Bacchus, en Ceres, nevens hun gevolg wederom uitkomende, staande Venus by de wolken.</stage>
+<sp>
+<speaker><hi rend="sc">Mercurius</hi> tegen <hi rend="sc">Bacchus</hi>.</speaker>
+<l rend="; 1tab">Begroet elkander.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Iris</hi> tegen <hi rend="sc">Ceres</hi>.</speaker>
+<l rend="; 3tab">'t Moet geschiên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Venus</hi>.</speaker>
+<l>Mag ik myn vrinden weder zien<hi rend="i">!</hi></l>
+<l>Godheên, die voorhêen, ons teder</l>
+<l rend="; 2tab">Hebt bemint,</l>
+<l rend="; 2tab">Hebt bezint.</l>
+<l>Toon ons d'oude vrindschap weder.</l>
+<l>'k Voel de minnebrand verdooven,</l>
+<l>Wanneer gy my wilt van uw byzyn berooyen.</l>
+<l>Maar ach! wat daad verschoont de liefde niet,</l>
+<l>Die weeld'rig niet als op 't beminde ziet.</l>
+<l>Ik weet waar om gy zucht;</l>
+<l>Ik weet uw ongenucht,</l>
+<l rend="; 2tab">'t Is niet myn schuld,</l>
+<l rend="; 3tab">Hebt geduld,</l>
+<l rend="; 2tab">Tot gy 't zelf eens hooren zult.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ceres</hi>.</speaker>
+<l>Myn dochter riep toen zy verzonk....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Venus</hi>.</speaker>
+<l>Gedenk, wie zy haar liefde schonk?</l>
+<l rend="; 1tab">Geen laag geboorn' of sterflyk held,</l>
+<l rend="; 1tab">Dwong haar met vuurig mingeweld,</l>
+<pb n="24"/>
+<l rend="; 1tab">Maar hy die met zyn yz're staf,</l>
+<l rend="; 2tab">All' afgeleefde kan regeeren,</l>
+<l rend="; 1tab">Gelukkig maakt, of doemt ter straf,</l>
+<l rend="; 2tab">En eeuwig ziet zyn ryk vermêeren.</l>
+<l rend="; 1tab">Noch schaakte hy de schoone niet,</l>
+<l rend="; 2tab">Als om voor gemaalin te houwen.</l>
+<l rend="; 1tab">Staak toch uw klachten en verdriet,</l>
+<l rend="; 2tab">En wil myn byzyn niet meêr schouwen!</l>
+<l rend="; 3tab">Uw dochter wierd toen van princes,</l>
+<l rend="; 3tab">Een magtige godes.</l>
+<l rend="; 3tab">Ay dat zy Plutoos vlam dan lesch!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ceres</hi>.</speaker>
+<l rend="; 1tab">Mars dreigd altyd myn oegsten,</l>
+<l rend="; 1tab">Te schenden, en verwoesten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Venus</hi>.</speaker>
+<l rend="; 1tab">Ik zal'er voorzyn wees te vreên,</l>
+<l rend="; 1tab">Ik zal hem straks gaan tegen treên,</l>
+<l rend="; 2tab">Hy zal, verdagvaard,</l>
+<l rend="; 3tab">Alhier ter stêe,</l>
+<l rend="; 2tab">Zyn slagzwaard</l>
+<l rend="; 3tab">Wel houden in schêe.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Een uit het gevolg van Bacchus</hi>.</speaker>
+<l>'k Wed Ceres zoo veel dorst niet heeft, als toen</l>
+<l rend="; 2tab">z'om Proserpyn liep dwaalen,</l>
+<l>'t Schynd Bacchus nu dien haast niet heeft, die hem</l>
+<l rend="; 2tab">deed Thescus bruid onthaalen,</l>
+<l rend="; 1tab">Met alle minlykheid.</l>
+<l>Maar best den vinger op de mond geleid,</l>
+<l>'k Heb geen lust in een Haagdis te verkeeren,</l>
+<l>Noch om 't zwemmen als een Dolphyn te leeren,</l>
+<pb n="25"/>
+<l>Of al 't water moest ook zyn,</l>
+<l>Veranderd in wyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mercurius</hi>, en <hi rend="sc">Iris</hi>, <hi rend="i">een weinig ter zyden.</hi></speaker>
+<l rend="; 1tab">‘'t Zal gaan, zy beginnen,</l>
+<l rend="; 1tab">‘Elkaar weêr te minnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bacchus</hi>.</speaker>
+<l rend="; 1tab">Myn moeder is door uw gedood,</l>
+<l rend="; 1tab">Gy moest haar toen zy....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Venus</hi>.</speaker>
+<l rend="; 5tab">Zy genoot</l>
+<l rend="; 1tab">De omhelzing van Jupyn,</l>
+<l rend="; 1tab">Noch konze niet te vrede zyn,</l>
+<l rend="; 2tab">Voor dat hy haar in vuur quam naaken,</l>
+<l rend="; 2tab">Geen beê kon hen hier vry van maaken,</l>
+<l rend="; 3tab">Des moest Jupyn dit weig'ren, of,</l>
+<l rend="; 3tab">Zyn lief verteeren zien tot stof.</l>
+<l rend="; 3tab">Geen liefde, maar die dwang,</l>
+<l rend="; 3tab">Veroorzaakt' ons haar ondergang.</l>
+<l rend="; 1tab">Gedenk, gedenk ô! Liber hier tegen,</l>
+<l rend="; 1tab">Wat heb je al zoet, wat al vreugd verkregen<hi rend="i">!</hi></l>
+<l rend="; 3tab">Erigone viel door my in uw schoot,</l>
+<l rend="; 3tab">Toen gy u in een druive bos besloot</l>
+<l rend="; 1tab">De schoone Ariadne viel Bacchus te beurt,</l>
+<l rend="; 1tab">Wat heb je bemint, wat heb je gekeurt,</l>
+<l rend="; 4tab">En niet verkregen?</l>
+<l rend="; 1tab">Laat Bacchus dan Venus verlegen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mercurius</hi>.</speaker>
+<l rend="; 1tab">Godheên, goedheên voor de menschen,</l>
+<l rend="; 1tab">Kom voldoed elkanders wenschen,</l>
+<l rend="; 3tab">Weest verheugd,</l>
+<pb n="26"/>
+<l rend="; 2tab">Wekt weêr vreugd,</l>
+<l>Daar al d'aard door leeven moet,</l>
+<l>Koesterd weeld' en minnegloed,</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Iris</hi>.</speaker>
+<l>Zoo zal 's Hemels Koningin,</l>
+<l rend="; 3tab">Haar bodin,</l>
+<l rend="; 3tab">Bly onthaalen,</l>
+<l rend="; 3tab">In haar zaalen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bacchus</hi>.</speaker>
+<l>'t Is laag genoeg gewrokt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ceres</hi>.</speaker>
+<l>Haar weezen elk tot vrindschap lokt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Een uit het Gevolg van Ceres</hi>.</speaker>
+<l>Laat de Liefde weder bloeijen,</l>
+<l rend="; 2tab">Laat ze groeijen,</l>
+<l>Ons verquikken, als men laat,</l>
+<l>En vermoeid van 't bouwland gaat.</l>
+<l>En by hekken, heggen, stallen,</l>
+<l>Graag blyft praaten, kussen, mallen,</l>
+<l rend="; 1tab">En elk graag zyn liefje meld,</l>
+<l rend="; 1tab">Hoe zyn hertje al is gesteld.</l>
+</sp>
+<stage><hi rend="i">De</hi> 4. <hi rend="i">eerste verssen werden herhaelt door de Rey van Ceres</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Sylenus</hi>.</speaker>
+<l>A! 't krakeelen ‘ Moet verveelen,</l>
+<l rend="; 1tab">ô! dit is maar tydverzuim,</l>
+<l rend="; 2tab">'k Had wel ruim</l>
+<l rend="; 1tab">Drypaar stoopjes kunnen likken,</l>
+<l rend="; 1tab">ô<hi rend="i">!</hi> men zou van dorst hier stikken,</l>
+<l rend="; 2tab">Maak je reê,</l>
+<l rend="; 2tab">Tot de vreê,</l>
+<pb n="27"/>
+<l>Al 't krakeelen ‘ Moet verveelen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mercurius</hi>.</speaker>
+<l>Maar zacht, het aardryk lilt,</l>
+<l>Wie of het breekt, en tilt?</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Veertiende tooneel.</hi></head>
+<stage>Megere by de voorgaande van onderen opkomende, nevens eenige der Razernyen.</stage>
+<sp>
+<speaker><hi rend="sc">Megere</hi>.</speaker>
+<l rend="; 1tab">Myn oog kan niet verdragen,</l>
+<l rend="; 1tab">Het licht zoo hoog aan 't dagen.</l>
+<l rend="; 2tab">Hier pleeg ik dag op dag,</l>
+<l rend="; 2tab">Te toonen, wat de twist vermag,</l>
+<l rend="; 2tab">Men waant my hier tê zyn</l>
+<l rend="; 2tab">Bodin van Proserpyn,</l>
+<l rend="; 2tab">Maar neen, Megere leeft,</l>
+<l rend="; 1tab">Als zy maar liefde, en eenigheid weêrstreeft.</l>
+<l rend="; 1tab">Heeft om't geven van een gouwe vrugt,</l>
+<l rend="; 1tab">Gantsch Griekenland, en Azie gezucht.</l>
+<l rend="; 2tab">Deeze twist zal al bederven,</l>
+<l rend="; 2tab">Wat van leeven weet, of sterven.</l>
+<l rend="; 1tab">Waar vind ik Ceres? waar Inachus?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bacchus</hi>, en <hi rend="sc">Ceres</hi> <hi rend="i">te zaamen</hi>.</speaker>
+<l rend="; 1tab">Verzink voor Ceres, en voor Bacchus,</l>
+<l rend="; 1tab">Zy zyn uw haat'lyk byzyn moê<hi rend="i">!</hi></l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mercurius</hi>.</speaker>
+<l rend="; 1tab">'k Bezweer u by die Slangeroe,</l>
+<l rend="; 1tab">Vertraag niet, zink terstond weêr neder,</l>
+<l rend="; 1tab">En keer in eeuwigheid niet weder.</l>
+</sp>
+<stage><hi rend="i">Megere verzinkt, en de Razernyen vertrekken</hi>.</stage>
+</div>
+<div type="scene">
+<pb n="28"/>
+<head rend="h4"><hi rend="i">Vyftiende tooneel.</hi></head>
+<sp>
+<speaker><hi rend="sc">Mercurius</hi>, en <hi rend="sc">Iris</hi> <hi rend="i">tegen Venus</hi>.</speaker>
+<l rend="; 2tab">Dit 's ô! schoone Vrouw</l>
+<l rend="; 2tab">'t Eynd van al uw rouw.</l>
+<l rend="; 3tab">Liefde moet</l>
+<l rend="; 3tab">Door haar gloed</l>
+<l rend="; 3tab">Triumpheeren,</l>
+<l rend="; 3tab">En regeren,</l>
+<l rend="; 3tab">Spyt de nyd,</l>
+<l rend="; 3tab">Voor altyd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bacchus</hi>.</speaker>
+<l>Strooit nu bladen, druiven, bloemen,</l>
+<l rend="; 1tab">Drenkt met appeldrank, en wyn,</l>
+<l rend="; 1tab">De aarde daar wy vrolyk zyn,</l>
+<l>En vereenigt Venus roemen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Eene der Bacchanten</hi>.</speaker>
+<l>Schud de Tirssen, schud de Lanszen,</l>
+<l>Satyrs wilt van vreugde danszen,</l>
+<l rend="; 1tab">Zoekt by heggen, en by haagen,</l>
+<l rend="; 1tab">Bosch- Rivier- en Veldgodin,</l>
+<l rend="; 1tab">Tot vernoeging van uw Min,</l>
+<l rend="; 1tab">Twist is uit het veld geslagen,</l>
+</sp>
+<stage><hi rend="i">Deeze bovengezongene woorden werden herhaald door een Rey van Bacchanten, en Menaden</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ceres</hi>.</speaker>
+<l>Kom eenvoudig Landzaat kom,</l>
+<l rend="; 3tab">Sta niet stom.</l>
+<l>Heet de Liefde wellekom!</l>
+<l>'t Vermoogen dat de ziel bekoord,</l>
+<pb n="29"/>
+<l>Wie blyft verstoord,</l>
+<l rend="; 1tab">Die in de geurige waaszem</l>
+<l rend="; 1tab">Van haar heigenden aaszem,</l>
+<l>Onder 't gloeien van die blinkende oogen.</l>
+<l>Gevoeld naar min'lyk vermogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Een uit het gevolg van Ceres</hi>.</speaker>
+<l rend="; 2tab">Wie moet</l>
+<l rend="; 2tab">Den gloed</l>
+<l rend="; 1tab">Vol wondere krachten,</l>
+<l rend="; 1tab">Van Venus niet achten?</l>
+<l>Wy zingen altyd</l>
+<l>Megere ten spyt,</l>
+<l rend="; 2tab">Wie moet</l>
+<l rend="; 2tab">Den gloed</l>
+<l rend="; 1tab">Vol wondere krachten,</l>
+<l rend="; 1tab">Van Venus niet achten!</l>
+</sp>
+<stage><hi rend="i">Deeze zang werd herhaald door 't gevolg van Ceres.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Mercurius</hi>.</speaker>
+<l>'k Zag op Ida twist beginnen.</l>
+<l>Nu de Tweedragd overwinnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Cupido</hi>.</speaker>
+<l>Dat Cestus nu weêr straalen geef!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ceres</hi>.</speaker>
+<l>De Roos weêr op uw hair herleef,</l>
+<l>De Duif met minzaam trekkebekken,</l>
+<l>De lust tot lieven op ga wekken!</l>
+<l rend="; 1tab">'k Wil ô! blye Citharè,</l>
+<l rend="; 2tab">Altyd meê</l>
+<l rend="; 1tab">Zingen om uw Altaar steê.</l>
+<l rend="; 1tab">Als gy pleegd om 't myn te doen</l>
+<pb n="30"/>
+<l rend="; 4tab">in het groen.</l>
+<l rend="; 2tab">'K wil het vrolyk menschdom voên,</l>
+<l rend="; 1tab">En als Bacchus leeven geeven,</l>
+<l rend="; 1tab">Om de Liefde te doen leeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bacchus</hi>.</speaker>
+<l rend="; 1tab">Wil musch en zwaan,</l>
+<l rend="; 2tab">Nu wederslaan</l>
+<l rend="; 1tab">In uw gareelen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Iris</hi>.</speaker>
+<l rend="; 3tab">ô! Citharè</l>
+<l rend="; 3tab">Vergeet uw wee<hi rend="i">!</hi></l>
+<l rend="; 4tab">Vang aan te queelen,</l>
+<l rend="; 4tab">Te lacchen en te streelen.</l>
+<l rend="; 2tab">Ik zal aan Juno dit met vreugd vertellen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Mercurius</hi>.</speaker>
+<l rend="; 1tab">Jupyn niet lang my om 't verhaal te van d'uitslag te quellen.</l>
+<l rend="; 2tab">Maar wyl dees wolk verdwynd</l>
+<l rend="; 5tab">Verschynt</l>
+<l rend="; 3tab">Een nieuwe glans,</l>
+<l rend="; 1tab">Wat godheid daald van 's hemels trans.</l>
+</sp>
+<stage><hi rend="i">De Wolk daar Venus mede nedergedaalt is verdwynende ziet men Iupiter, en Iuno tredende uit een blinkenden Hemel</hi>.</stage>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Sestiende tooneel.</hi></head>
+<sp>
+<speaker><hi rend="sc">Mercurius</hi> <hi rend="i">vervolgt</hi>.</speaker>
+<l rend="; 4tab">'t Is der Goden Koning,</l>
+<l rend="; 5tab">'t Is Jupyn.</l>
+<l rend="; 4tab">juno laat haar wooning</l>
+<l rend="; 5tab">Om te zyn,</l>
+<l>Daar zy 't vuur van twist siet smooren,</l>
+<l rend="; 1tab">Laat ons hun bevelen hooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jupiter</hi>.</speaker>
+<l>Gy godhêen, die my kent voor opperhoofd</l>
+<pb n="31"/>
+<l rend="; 1tab">Nu gy gehoorzaam zyt aan myn geboden,</l>
+<l>En uwen Zegening aan d'aard belooft,</l>
+<l rend="; 1tab">Zal dag op dag de weelde en lust u nooden,</l>
+<l rend="; 3tab">Op 't ziele zoet,</l>
+<l rend="; 3tab">'t Geen vrindschap voed.</l>
+<l>Dat uw vereeniging dan eeuwig duur!</l>
+<l>Daar de altydteelende natuur,</l>
+<l rend="; 1tab">Die leevens gloed,</l>
+<l rend="; 1tab">Door blaaken moet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Juno</hi>.</speaker>
+<l rend="; 4tab">Dat uwe gloed</l>
+<l rend="; 3tab">Op myn altaaren wêerschyn geef.</l>
+<l>En Trouw, en vreugd in ieders hert herleef<hi rend="i">!</hi></l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jupiter</hi>, en <hi rend="sc">Juno</hi> <hi rend="i">te zaamen</hi>.</speaker>
+<l>Treed vernoegd in 's Hemels zaalen.</l>
+<l>Daar men u zal blyd' onthaalen.</l>
+<l rend="; 2tab">By al 't hooge godendom</l>
+<l rend="; 2tab">Venus Ceres, Bacchus kom.</l>
+<l rend="; 3tab">Leef, en zweef.</l>
+<l rend="; 3tab">Vol jeugd</l>
+<l rend="; 3tab">Vol vreugd!</l>
+<l>Zing nu elk uw blydschap zing!</l>
+<l>Zaamen uw vereeniging.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ceres</hi>.</speaker>
+<l>Dat de vrindschap eeuwig duur.</l>
+<l rend="; 3tab">Daar natuur,</l>
+<l>Daar 't heel al is aangelegen,</l>
+<l>Laat ons vreugd, en vryheid pleegen,</l>
+<l rend="; 2tab">Nu wy weer vereenigt zyn</l>
+<l rend="; 2tab">En door Juno, en Jupyn.</l>
+</sp>
+<stage><hi rend="i">Dit werd herhaald door Ceres, Bacchus en Venus</hi>.</stage>
+<pb n="32"/>
+<sp>
+<speaker><hi rend="sc">Venus</hi>.</speaker>
+<l>'k Zie dit dal reeds bloeyen, en bloozen.</l>
+<l rend="; 1tab">Mirten, palmen roozen</l>
+<l>Dekken d'aard, wyl 't pluimgediert,</l>
+<l>Minnedeuntjes tiere liert.</l>
+<l rend="; 1tab">Danst myn zoonen,</l>
+<l rend="; 1tab">wilt nu toonen,</l>
+<l rend="; 2tab">Dat myn vreugd,</l>
+<l rend="; 2tab">U verheugd.</l>
+<l rend="; 1tab">Spant uw boogen,</l>
+<l rend="; 2tab">Treft wêer herten</l>
+<l rend="; 2tab">Gaat wêer tarten,</l>
+<l rend="; 2tab">Al wat leeft,</l>
+<l rend="; 2tab">Moeder heeft</l>
+<l rend="; 1tab">weêr vermogen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Zeventiende tooneel.</hi></head>
+<stage>Hier op verschynen Cupido, Hymen. 4 minnaars.</stage>
+<stage><hi rend="i">Na deeze gedanst hebben werd door at die op het Tooneel zyn gezongen</hi>.</stage>
+<l rend="; 1tab">Nu mag d'aarde vrolyk weezen</l>
+<l rend="; 1tab">Zonder voor de twist te vreezen,</l>
+<l rend="; 2tab">wyl de vader van de wyn,</l>
+<l rend="; 2tab">En de vrugtb're veldgodin,</l>
+<l rend="; 2tab">Met de moeder van de min,</l>
+<l rend="; 2tab">Voor altyd vereenigt zyn.</l>
+<stage><hi rend="i">Onder het herhaalen van deeze zang, werd een dans gemengt, en de gordyn geslooten</hi>.</stage>
+<pb n="33"/>
+<stage><hi rend="i">Geeyndigt zynde de tusschen-maaten der speeltuigen, vervolgt</hi></stage>
+<sp>
+<speaker><hi rend="sc">Ceres</hi>.</speaker>
+<l>Denkt niet myn deugd'lyke onderzaaten,</l>
+<l>Dat wy geneugte en vrindschap haaten,</l>
+<l rend="; 1tab">ô! Neen, 'k haat Venus, door wiens snood beleid</l>
+<l rend="; 1tab">Lichtvaardigheid,</l>
+<l rend="; 1tab">En dertelheid,</l>
+<l rend="; 1tab">Op 't aard'ryk is verspreid;</l>
+<l>Die eerst den menschen in gedachten bragt,</l>
+<l>Dat Jupiter om d'eeden van de Minnaars lacht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Een der Landlieden</hi>.</speaker>
+<l>Hoe zelden zietmen bedyen,</l>
+<l>Met oprecht, en trouw te vryen!</l>
+<l rend="; 1tab">'t Schynt dat het vrouwelyk gemoed,</l>
+<l>Door beloften, en linkze streeken,</l>
+<l rend="; 1tab">Meêr dan door oprechte gloed,</l>
+<l>Is te winnen, en te breeken.</l>
+<l rend="; 1tab">Maar ô! schoone landgodin,</l>
+<l rend="; 1tab">Ban niet heel en al de min,</l>
+<l rend="; 1tab">'t Was wel eer uw hals vrindin.</l>
+<pb n="34"/>
+<l>Heeft het opperhoofd der goden,</l>
+<l>U zyn min niet aangeboden,</l>
+<l>Toen, hem Venus 't hert ontstak,</l>
+<l>En van uwe schoonheid sprak?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Tweede der Landlieden.</hi></speaker>
+<l>Spreekt men noch voor Mavors boel?</l>
+<l rend="; 2tab">Dat men tegenspraak,</l>
+<l rend="; 3tab">Noch gewoel,</l>
+<l rend="; 2tab">Om haar vrindschap maak:</l>
+<l>Laat Ceres begaan,</l>
+<l>Zoo zy 't zal verstaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Iris</hi>.</speaker>
+<l rend="; 1tab">Ongenuchte en haat te stooren,</l>
+<l rend="; 2tab">Is ieders plicht;</l>
+<l rend="; 2tab">Gy zult licht.</l>
+<l>Als gy Venus ziet, veel tot haar onschuld hooren.</l>
+</sp>
+<pb n="35"/>
+<sp>
+<speaker><hi rend="sc">Ceres</hi>.</speaker>
+<l>Ik ga op Jupiters verzoek een dor gewest begroeten,</l>
+<l>En keer naauw wederom na 't zeeg'nen van dat land,</l>
+<l>Of moet die droefheid hier helaas! helaas<hi rend="i">!</hi> ontmoeten,</l>
+<l>Dat myn geliefde kind geraakte in Plutoos hand.</l>
+<l rend="; 1tab">'k Raâ niemand voor Venus te spreeken,</l>
+<l rend="; 4tab">Ik wil my wreeken.</l>
+<l>Mag ik myn kind, van twalef, maar ses maanden zien!</l>
+<l>'k Zal Venus voor eeuwig myn byzyn verbiên.</l>
+<l rend="; 3tab">Zoo zal zy leeren,</l>
+<l rend="; 2tab">Godinnen ontzien, en eeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Eerste der Landtlieden</hi>.</speaker>
+<l>Die goden, en menschen, groot, en kleen,</l>
+<l rend="; 2tab">Door haar aanloklykheên,</l>
+<l rend="; 2tab">Wist te bekooren,</l>
+<l rend="; 2tab">Gaat dan verlooren <hi rend="i">!</hi></l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Iris</hi>.</speaker>
+<l rend="; 2tab">Flora quynt, Hebe klaagt,</l>
+<l rend="; 2tab">Ieder weent,</l>
+<l rend="; 2tab">Ieder steent,</l>
+<pb n="36"/>
+<l rend="; 2tab">Nu Venusstar niet daagd.</l>
+<l rend="; 1tab">Maar 'k hoop voor haar een beter lot.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Eerste der Landlieden</hi>.</speaker>
+<l rend="; 1tab">Vaarwel dan vrindelyk genot</l>
+<l>Van eensgezinde wil, van herten te winnen,</l>
+<l rend="; 2tab">Die wy beminnen<hi rend="i">!</hi></l>
+<l>Vaarwel dan liefde ik volg vol trouw,</l>
+<l>De Hooftvoogdes van d'akkerbouw.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Ceres</hi>.</speaker>
+<l>Men voege zich ter dienst voor my bereid,</l>
+<l>Dees tegenspraak heeft my reeds al verdrooten</l>
+<l rend="; 2tab">Komt feestgenooten<hi rend="i">!</hi></l>
+<l>Brengt aan de gift myn altaar toegeweit.</l>
+<l rend="; 2tab">Laat in uw bede en zangen,</l>
+<l rend="; 3tab">Danssen, en spel,</l>
+<l>De landbouw lof ontfangen,</l>
+<l rend="; 2tab">En zeg Venus vaarwel.</l>
+</sp>
+<stage><hi rend="i">Hier op zingt, gaande tot den Altaar van Ceres al het</hi></stage>
+</div></div>
+
+<cf><div type="chapter">
+<pb n="37"/>
+<head rend="h3">Drukfouten.</head>
+<p><hi rend="i">In het Elfde Tooneel is vergeeten, inde eerste zang van Mercurius het vierde vers</hi>.</p>
+<p>&#160;</p>
+<p>Voldoe des Hemels Koningin<hi rend="i">!</hi></p>
+<p>&#160;</p>
+<p><hi rend="i">Daar na</hi></p>
+<p>&#160;</p>
+<p>Veldgewas en vrolyke &amp;c. <hi rend="i">werd door Ceres gezongen</hi>.</p>
+<p>&#160;</p>
+    <p><hi rend="i">VYFTIENDE TOONEEL.</hi></p>
+<p>&#160;</p>
+<p><hi rend="i">Zingt Venus.</hi></p>
+<p>Schud de Tirssen &amp;c.</p>
+<p>&#160;</p>
+<p><hi rend="i">In 't zelve Tooneel, in de Zang van Iris.</hi></p>
+        <p>Vang aan te queelen.</p>
+<p>&#160;</p>
+<p><hi rend="i">In 't eynde van dit Tooneel, zingt Mercurius.</hi></p>
+<p>Jupyn niet lang my om 't verhaal van d'uitslag quellen.</p>
+    </div></cf>   
+</body>
+</text>
+
+</TEI.2>

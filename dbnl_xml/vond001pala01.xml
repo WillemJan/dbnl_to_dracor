@@ -1,0 +1,3667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Palamedes oft Vermoorde onnooselheyd</title>
+                <author>Joost van den Vondel</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Palamedes oft Vermoorde onnooselheyd</hi> van Joost van den Vondel uit 1625.
+                </edition>
+                <respStmt>
+                    <resp>
+                        <corr></corr>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <scandetails>
+                <scan type="1">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page>4</empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""></insert>
+                </scan>
+            </scandetails>
+            <publicationStmt>
+                <idno type="titelcode">vond001pala01_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2011 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note>unicode</note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"></idno>
+                    <idno type="usedcopy">exemplaar Theater Instituut Nederland, signatuur: 3 C 72</idno>
+                </bibl>
+                <p>Joost van den Vondel, <hi rend="i">Palamedes oft Vermoorde onnooselheyd</hi>. Jacob Aertsz Calom, Amsterdam 1625</p>
+                <p>&#160;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p></p>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">Palamedes oft Vermoorde onnooselheyd</title>
+                <author>Joost van den Vondel</author>
+                <idno type="isbn"></idno>
+                <idno type="nur"></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">Palamedes oft Vermoorde onnooselheyd</title>
+                <author>Joost van den Vondel</author>
+                <idno type="isbn"></idno>
+                <idno type="nur"></idno>
+                <imprint>
+                    <date></date>
+                    <publisher></publisher>
+                    <pubPlace></pubPlace>
+                </imprint>
+            </bibl>
+            <idno type="isbn"></idno>
+            <order>
+                <price curr="euro"></price>
+                <link></link>
+            </order>
+            <blurb><p></p></blurb>
+            <titlepage><p></p></titlepage>
+            <colofon><p></p></colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2011-09-23</date>
+                <respStmt>
+                    <name type="person">SG</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+  </teiHeader>
+<text>
+
+
+<body>
+<cf><div type="chapter">
+
+<pb n="1"/>
+<p>J.V. VONDELENS</p>
+<p>PALAMEDES</p>
+<p>Oft</p>
+<p>Vermoorde Onnooselheyd.</p>
+<p>Treur - Spel.</p>
+<p>NUNC CASSUM LUMINE LUGENT.</p>
+<p><figure>
+<p><xptr to="vond001pala01ill0002.gif"/></p>
+</figure></p>
+<p>Gedruckt nae de Copye,</p>
+<p>t' AMSTERDAM,</p>
+<p>By Jacob Aertsz Calom, Boeck-verkooper op 't Water/in de vyerighe Calom. Anno 1625.</p>
+
+</div></cf>
+<div type="chapter">
+<pb n="2"/>
+<head rend="h3">Klinckert.</head>
+<lg type="poem">
+<l>'TEn leed geen seven jaer, of Palamedes schaeu,</l>
+<l>By nacht, de tenten ging der Rechteren doorwaeren:</l>
+<l>Die resen op verbaest met opgeresene hayren,</l>
+<l>En sagen daer een' schim mis handelt blond en blaeu.</l>
+<l rend="; 1tab">Sijn baerd hing dick van bloed: zyn' keel was schor, en slaeu:</l>
+<l>Wie komt ons, riepen sy, in 't duyster dus vervaeren?</l>
+<l>By toortslicht, sprack hy, ick uw' straf lees uyt dees' blaeren:</l>
+<l>Die mijne onnooselheydt een roove gaeft aen 't graeu.</l>
+<l>&#160;</l>
+<l rend="; 1tab">Sy zidderden van schrick, sy vlooden niet, sy vloogen,</l>
+<l>Dan ginder, dan weer hier, voor 't branden zyner oogen,</l>
+<l>Hy stapte hen na, en liet een' bloedvleck waer hy trad;</l>
+<l>&#160;</l>
+<l rend="; 1tab">Tot dat de schemering des dageraeds ontloocken,</l>
+<l>D' Angstvalligheyd verdreef van 't naer, en yss'lijck spoocken,</l>
+<l>En vond de Vaderbeuls door 't knaegen afgemat.</l>
+</lg>
+<p><hi rend="spat">ΘΕΟΚ</hi>.</p>
+<p>Ἵ<figure rend="inline"><p><xptr to="vond001pala01fi0001.gif"/></p></figure> ἄχαρις ἐς τί τιϑέρπ|.</p>
+    <p>Θρέψ<figure rend="inline"><p><xptr to="vond001pala01fi0003.gif"/></p></figure> κ<figure rend="inline"><p><xptr to="vond001pala01fi0003.gif"/></p></figure> λυκιδεῖς, ϑρέψ<figure rend="inline"><p><xptr to="vond001pala01fi0003.gif"/></p></figure> κύνας, ὥς τε ϕάγωντι,</p>
+<pb n="3"/>
+<p><figure>
+<p><xptr to="vond001pala01ill0001.gif"/></p>
+</figure></p>
+</div>
+<div type="chapter">
+<pb n="5"/>
+<head rend="h3">Voor-rede.</head>
+<p><hi rend="b">D</hi>Ie tot staet, en ampten beroepen wesende, yvert voor het gemeen beste, set goed en bloed in de weeghschael om het ghemeen beste: want vermits de wegh ter deughde, in sekere aensien, steyl en moeyelijck valt, word hy van weynighen ghesocht, veel min bewandelt: oversulcx muntten deughdelijcke personagien voor andere uyt, en worden van de ghemeente gelieft, en als aengebeden, soo lang de selve van hare vooghden, en vaderen gezond oordeelt. Tegens de sulcke kanten sich altyd die hun bysonder boven het ghemeen welvaren stellen, en om alle hinderpalen wech te nemen, trachten by alle middelen der vromen naem, en faem haetelijck te maecken: het welck dan, overmits hier toe stof ontbreeckt, niet kan geschieden, als met slincxsche afwegen, tot geweld en valscheyd, loch en bedrogh in te slaen. De menschen die de meestendeel onervaeren zyn, en op menschen steunen, of nutshalven, of om zucht die zy den dezen of dien toedragen, of uyt licht betrouwen, laten sich lichtelijck misleyden van geveynsde, en bedriegelijcke voorgangers, en noch lichter alsser zaecken onder gemengt worden die 't heylige betreffen; onder welck momaensicht de boose Heydenen (ick roer geene Christenen) wonderlijck hunne personagie hebben gespeelt, en tot nadeel van de vroome raedsmannen, ende de lichtgeloovige, en wispelturighe gemeente, treffelijcke winsten gestreecken. Evenwel ghelijck het der rechtvaerdigheyd, als eygen is verdrucking te lyden: alzoo is haer oock als eenen troostelijcken loon by geleyd, dat hare onnoozelheyd niet onderdrnckt blijft: maer by alle eerlijcke nakomelinghen doorbreeckt, en in waerden ghehouden ende geviert word. Onder de overoude kan hier van ghetuyghen de Griecxsche
+<pb n="6"/>Palamedes, dien wy op het Neerlandsch toonneel brengen: want na dat hy zo schendigh, onder het decksel van met den vyand gehandelt, en penninghen ghenooten te hebben, by 't gemeene volck hatelijck gemaeckt, en door Agamemnon en Ulysses, tot eene onherhaelijcke schade, en bederf van gants Grieckenland vermoord was, zoo heeft zyne onnooselheyd, en oprechtigheyd, na het verdwijnen der logenen, en lasteringen hoe langs hoe meer, tot schande en verstroying he zyner beulen, en moordenaren, door gebroken; even als de zonne, dewelcke, na het verstuyven der nevelen en dampen, wederom opklaert, en te voorschijn komt; gelijck dit veersken seyd, dat de Zee-god</p>
+<q rend="bq"><hi rend="i">Collectasque fugat nubes, solemque reducit.</hi></q>
+<lg type="poem">
+<l rend="; 1tab">Dat is:</l>
+<l>Verjaegt de wolcken, die sich dick te saem' vergaren,</l>
+<l>En weer met zonneschijn den Hemel op doet klaren.</l>
+</lg>
+    <p>En sonder desen troost en belooninge souden de vrome (die als pylaren noch de weereldsche staten, en geselligheyd der menschen staende houden, en onderschoren) dickwils onder hunnen last, en inde aenvechtingen, die sy voor het gemeen beste lyden, beswijcken; daer sy nu hier door gesterckt zynde, poch meenighmael de stormen, en onweeren manhaftigh, en met eene wonderbare standvastigheyd uytst en; gelijck wy hier van een voorbeeld hebben aen den geduldigen Socrates; die beschuldight, ende ter dood veroordeelt wesende, om dat hy vreemd vande Griexsche Goden gevoelde, sich, na Xenophons getuygenis, met Palamedes aldus trooste en sterckte: Παϱαμυθεῖτ<figure rend="inline"><p><xptr to="vond001pala01fi0003.gif"/></p></figure> <figure rend="inline"><p><xptr to="vond001pala01fi0001.gif"/></p></figure>᾽ ἕτι με <figure rend="inline"><p><xptr to="vond001pala01fi0002.gif"/></p></figure>  Παλαμή<figure rend="inline"><p><xptr to="vond001pala01fi0001.gif"/></p></figure>ης. ο῾ <figure rend="inline"><p><xptr to="vond001pala01fi0004.gif"/></p></figure>πληοίως ἐμοὶ πλευτήας. ἔκ γὰρ <figure rend="inline"><p><xptr to="vond001pala01fi0004.gif"/></p></figure> νιῶ πολὺ ϰαλλί♉ς ὕμν♉ς
+        παρέχεται Ὀδυσσέως т<figure rend="inline"><p><xptr to="vond001pala01fi0005.gif"/></p></figure> α<figure rend="inline"><p><xptr to="vond001pala01fi0001.gif"/></p></figure>ιϰέως αποϰτεἱναντ <figure rend="inline"><p><xptr to="vond001pala01fi0006.gif"/></p></figure> ἀυτόν.</p>
+<p>Dat is te seggen:</p>
+<pb n="7"/>
+<q rend="bq"><hi rend="i">Daer beneffens vertroost my Palamedes, die eene gelijcke dood gestorven is als ick: want hy nu schoondre lofzangen verschaft als Ulisses, die hem onrechtvaerdelijck om het leven brocht.</hi></q>
+<p>Oversulcx is het gemeene beste niet weynig gehouden in de geschichtschryvers, poëten, en redenaers, die de beroemde helden hebben onsterffelijck gemaeckt, door hunne geschriften, sonder de welcke zoo vermaerde, en loffelijcke daden, met den grave, en eene eeuwige vergetelheyd, souden overstolpt blyven: daer nu hunne geheugenis en glorie, noch veele dappere mannen uytlevert, en hen ter deughde aenprickelt, wanneer sy overwegen, hoe <q rend="bq"><hi rend="i">Indomita virtus colitur, &amp; toto Deus
+<lb/>
+Narratur orbe.</hi></q> zoo veel gezeyd:</p>
+<lg type="poem">
+<l>Voor d'ongetemde deughd men wieroockreucken queeckt,</l>
+<l>En van soo groot een' God de gantsche weereld spreeckt.</l>
+</lg>
+<p>Als mijne treurzangeres toghtigh was om yet wat treffelijcx te rymen, so heeftse Palamedes uytgepickt, een' man die by Griecxsche, en Latijnsche schrijvers soo hoogh gheroemt word. Diogenes Laertius ghetuygt in het leven van Socrates dat Euripides, die wijse dichter, en Goddelijcke treurspeelder, sijnen Palamedes op het tonneel brenghende, die van Athenen hunne moordadicheyd, ghepleeght in het ombrengen van Socrates, bedecktelijck aldus verweten heeft:</p>
+    <p>Ἐ<hi rend="i">ϰτανετ᾽ ἐκτανετε τίὼ πάνσοϕον τίὼ <figure rend="inline"><p><xptr to="vond001pala01fi0005.gif"/></p></figure> <figure rend="inline"><p><xptr to="vond001pala01fi0001.gif"/></p></figure>ὲν ἀλγύν♉σαν αἰ<figure rend="inline"><p><xptr to="vond001pala01fi0001.gif"/></p></figure>οῖα μύσαν.</hi> Philostrates, die het leven van Palamedes beschreven heeft, gedenct mede in zynen Ulysses deselve woorden, en voegt er dit volgende noch by: <hi rend="i"><figure rend="inline"><p><xptr to="vond001pala01fi0004.gif"/></p></figure> ὅτι πειϑέντες ἀνϑϱώπῳ δεινῷ, <figure rend="inline"><p><xptr to="vond001pala01fi0006.gif"/></p></figure> ἀναιδ<figure rend="inline"><p><xptr to="vond001pala01fi0005.gif"/></p></figure> λὀγῳ, ταῦτα δϱάσ<figure rend="inline"><p><xptr to="vond001pala01fi0002.gif"/></p></figure>αν</hi>, Het welcke wy in rijm aldus aen een schaeckelen:</p>
+<lg type="poem">
+<l>Ghy hebt, o Griecxsche schaer! verstoort</l>
+<l>Den soeten Nachtegael vermoort:</l>
+<pb n="8"/>
+<l>Een' Sanggodin, in all's verzocht,</l>
+<l>En wijs, die geen verdriet aenbrocht:</l>
+<l>En hebt geblinddoeckt altemael,</l>
+<l>Door d'onbeschaemde logentael</l>
+<l>Eens wreên Tyrans vol bitterheyd,</l>
+<l>Bedreven zoo vervloeckt een feyt.</l>
+</lg>
+<p>Daer hebt ghy een treffelijck getuyghenis gehoort van dezes vorsten wijsheyd, heerlijck uytgedruckt door dien Goddelijcken bynaem <hi rend="spat">PANSOPHON</hi>: gelijck Xenophon, die Socrates leerling, en tydgenoot geweest is, hier mede overeenstemt in 't vierde boeck der gedenck weerdige zaecken, daer hy Euthydemis doet spreecken deze woorden: <hi rend="i">Maer hebt ghy niet gehoort van Palamedes rampsaligheden? diense altemael roemen dat hy om sijne wijsheyd benijd, door Ulysses omgekomen is</hi> De zelve Xenophon in zijn 10. hoeck van de jacht zeyd: dat Palamedes doen hy leefde zijne tydgenooten in wijsheyd verre te boven ging. Syne rechtvaerdigheyd ende onnoozelheyd blijckt niet minder als zijne voorsichtigheyd: gelijck wy alreede hebben aengewezen; en Philostrates in het leven van Apollonius Tyaneus doet Thespion, een Overste der Schoolsophisten, in zyn gesprake van de rechtvaerdigheyd aldus spreken: <hi rend="i">Als ick by my selven overlegge het geen Palamedes voor Trojen: ende Socrates te Athenen overgekomen is zoo dunckt my dat de rechtvaerdigheyd by de menschen qualijck onthaelt word want dese die de alderrechtvaerdighste waren, zijn met de hooghste onbillijckheyd bejegent, ja alleen op vermoeden van boose feyten omgebrocht, alsmen buyten recht het oordeel over hen velde.</hi></p>
+<p>Virgilius in zyn tweede boeck van AEneas getuygter dit af,</p>
+<lg type="poem">
+<l><hi rend="i">Fando aliquid si forte tuas pervenit ad aureis</hi></l>
+<l><hi rend="i">Belidie nomen Palamedis, &amp; inclyta fama</hi></l>
+<l><hi rend="i">Gloria: quem falsa sub proditione Pelasi</hi></l>
+<l><hi rend="i">Insontem, infando indino, quia bella vetabat,</hi></l>
+<l><hi rend="i">Demisere neci: nunc cassum lumine lugent.</hi></l>
+</lg>
+<pb n="9"/>
+<p>Dat is:</p>
+<lg type="poem">
+<l rend="; 1tab">Soo mooghlick koudsgewyse u yet ter ooren quam</l>
+<l>Van Palameed, geteelt uyt Koningh Belus stam,</l>
+<l>Beroemt van naem en faem, die sonder schuld most sneven,</l>
+<l>En onder schijn van 't loos verraed by hem bedreven,</l>
+<l>Op 't overscheudigh blijck ter grouwelijcke dood</l>
+<l>Van Griecken werd gedoemt, mits hy den krygh verbood;</l>
+<l>Nu dees voor 's Hemels licht geloocken heeft zyne oogen</l>
+<l>Betreurt de Grieck zijn lijck, te spa met rouw bewogen.</l>
+</lg>
+<p>Wy komen tot Ovidius, daer Ajax Ulysses dit te kaeuwen geeft:</p>
+<lg type="poem">
+<l><hi rend="i">Vellet &amp; infelix Palamedes esse relictus;</hi></l>
+<l><hi rend="i">Viveret aut certe lethum sine crimine haberet.</hi></l>
+<l><hi rend="i">Quem male convicti nimium memor iste furoris</hi></l>
+<l><hi rend="i">Prodere rem Danaum finxit, fictumque probavit</hi></l>
+<l><hi rend="i">Crimen; &amp; ostendit quod jam praefoderat aurum.</hi></l>
+</lg>
+<p>Dat is:</p>
+<lg type="poem">
+<l rend="; 1tab">D'onsaelge Palameed met recht mocht wenschen mee</l>
+<l>Dat noyt Ulysses waer getogen over Zee;</l>
+<l>Hy sou gewisselijck op desen dagh noch leven,</l>
+<l>Of had zoo valsch betight den geeft niet opgegeven;</l>
+<l>Wien d'overtuyghde, en al te wrockende Ithakees</l>
+<l>Opdichte 't loos verraed; en endelijck bewees</l>
+<l>'t Gedichte schellem-stuck: ontdeckende de gaven,</l>
+<l>En 't goud dat hy 'er self te vooren had doen graven.</l>
+</lg>
+<p>Voorwaer na mijn oordeel heeft Naso dit geestigh in zyne transformatie te pas gebrocht, overmits dit aertsschelmstuck eygentlick tot de herscheppinge of verschoppinge behoort. Dictys Cretenser die den Trojaenschen oorlogh self bekleed, en in de Punische taele beschreven heeft, ghedenckt in zyn
+<pb n="10"/>tweede boeck beyde dese deughden van Palamedes met dese woorden: <hi rend="i">Alsoo is die uytnemende en in den leger aengenamen man, wiens raed nocht: vromigheyt noyt vruchteloos geweest waren, schendig omgebracht, als hy becingelt was van sulke die het alderminst betaemde.</hi> Dat de Phrygiaensche Dares seyd, dat Palamedes door de hand van Alexander of Paris vechtende omgekomen is, verdient geen geloof, overmits hy hier in van het gemeene gevoelen afwijckt. Roeptmen dat Dares in den krijgh tegenwoordigh is geweest; wy stellender Dictys tegen. Het is ons genoegh dat Dares hem afmaelt, <hi rend="i">wijs, manhaftigh, en lieflijck</hi>: en dat hy getuygt dat de Argiven in den leger Palamedes wetenschap, billijckheyt, sachtmoedigheydt, en goedheyd betreurden. Daer is oock weynig aengelegen, of weynige schryvers meer verschillen in de maniere zyner dood: Dat na Pansanias seggen Ulysses en Diomedes hem verdroncken; of soo Dictys aentekent, dat die twee hem in eenen put steenigden. Ymmers watter van is, Ulysses en Diomedes worden na het algemeen ghevoelen voor de schelmen gehouden, die desen aenslagh ghebrouwen hebben: waer by aenmerckens waerdigh is het geen Dictys getuygt, datter waren die seyden: dar Agamemnon niet onkundigh was van desen aenslagh, uyt liefde die hy hadde tot het Veldheerschap; en om dat het meestedeel van Palamedes begeerde gheregeert te wesen, en opentlijck uyt seyden, dat hem het opperste gebied toequam. De selve Dictys schrijft elders: dat alle de Griecxsche Vorsten Agamemnon vervloeckten, en van hem afweecken, om dat hy Apollos Priester Chryses zyne Dochter, die hy wellusts halven mis bruyckte, weygerde, en oock om dat Ulysses en Diomedes, niet sonder zynen raed, let hier op, hadden vermoord <hi rend="i">P</hi>alamedes, die in den heyr zoo bemind, en aenghenaem was. Oock staet ons waer te nemen het geen Dares getuygt, dat Palamedes, terwijl het bestand was, den Vorsten
+<pb n="11"/>meermaels aendiende, dat Agamemnon niet waerdigh was Veld-overste te wesen. Meer of yemandt sich verwonderde waerom Homerus desen Vader des Vaderlands zo stilswygende voor by gegaen is, die sal weten dat de Poeët hier toe nootzakelyck gedrongen was, om zynen doolende Ulysses niet te brandmercken: waerom Philostrates in het leven van Apollonius wel te recht zeyd: dat Palamedes geene grootere vyanden gehad heeft als Ulysses, en Homerus: vermits die hem lagen leyde, waer door hy gesteenigt is; maer dees niet weerdig geacht heeft, met eenen woorde zynen lof aen te roeren. Wat onheyl den Griecken, om en zedert Palamedes dood over-gekomen is, gedenckt Dictys Cretenser in zyn zeste Boeck, Hyginius in zyn 116 hoofdstuck, Euripides in zyne Helene en Electra: Seneca de latynsche Treurspeelder in zynen Agamemnon: Ick geswyge dat Xenophon, in zyn tiende Boeck van de jaght, uytdruckelijck de Goden tot wreeckers van deses mans dood maeckt; alzo dat de Pelasgen met recht klagen mochten:</p>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">Impius ex quo</hi></l>
+<l><hi rend="i">Tydides, sed enim scelerumque inventur Ulysses</hi></l>
+<l><hi rend="i">Fatale agressi sacrato avellere templo</hi></l>
+<l><hi rend="i">Palladium, cresis summe custodibus arcis,</hi></l>
+<l><hi rend="i">Corripuere sacram effigiem, manibusque cruentis</hi></l>
+<l><hi rend="i">Virgineas ausi Divae contingere vittas:</hi></l>
+<l><hi rend="i">Exillo fluere, ac retro sublapsa referri</hi></l>
+<l><hi rend="i">Spes Danaum, fractae vires, aversa Deae mens:</hi></l>
+<l><hi rend="i">Nec dubiis ea signa dedit Tritonia monstris.</hi></l>
+</lg>
+<p>Dat is:</p>
+<lg type="poem">
+<l>Maer zedert Tydeus zoon die Goddeloos bestond,</l>
+<l>Met d'Ithakois, een tuck op schelmeryen vond,</l>
+<l>'t Palladium, bescheert tot heyl of ongelucken,</l>
+<l>Wt Trojens Godgewyde, en heylge kerck te rucken:</l>
+<pb n="12"/>
+<l>Na datse op 't opperste geklommen van den borgh,</l>
+<l>De wachters hieuwen neer, en dorsten sonder zorgh</l>
+<l>Aengrijpen 't heyligh beeld, en met bloedverwige handen</l>
+<l>Aenroeren Pallas pruyck, en maeghdelijcke banden;</l>
+<l>Van doen af is vervloeyt aller Argiven moed,</l>
+<l>En d'hoop die seegh, en ging te rugh door tegenspoed.</l>
+<l>Hunn' maght gebroken is, en 's Outers gunst geweecken:</l>
+<l>Minerve gaf hier van geen twijffelachtigh teecken.</l>
+</lg>
+<p>Na dat dees treffelijcke man so schendigh van de Griecken vermoord was, zoo hebben Achilles en Ajax zyn lichaem ter aerde gedaen, op den oever van AEolien, niet verre van Trojen. Wy hebbē in dit treurspel syne uytvaert gehouden in Boeotien, in die kerck daer het wydberoemde, en overoude orakel of de Godspraeck was der Godesse Themis, aen wiens voeten wy hem een gouden pronkbeeld rechten: dan dit salmen de poëtische vryheyd toegevē, also Philostrates seyt, dat die van AEolien hem eene Kapelle heyligden, en een beeld toewyde, na de gestaltenis eenes manhaftigen, en grootmoedigen mans, wien de inwoonders daer ontrent, op sekere dagen des jaers te samen schoolende, Offerhanden toebrachten: zo dat de Mosopische treurspeelder wel te recht singt in zyne Andromache</p>
+<lg type="poem">
+    <l>Οὔ τοι λείψανα των ὰγαϑῶν</l>
+<l>Ανδ ρῶν άφαιρῶτ<figure rend="inline"><p><xptr to="vond001pala01fi0003.gif"/></p></figure></l>
+    <l>Χρόνος ἀδ᾽ ἀρετὰ</l>
+    <l>Καὶ ϑανουσι λάμπει.</l>
+</lg>
+<p>Dat is:</p>
+<lg type="poem">
+<l><hi rend="i">De tijd en heeft noyt weghgenomen</hi></l>
+<l><hi rend="i">Den naem, en 't overschot der vromen:</hi></l>
+<l><hi rend="i">Want na dat sy zijn overleên</hi></l>
+<l><hi rend="i">Soo blinckt hunn deughd voor yeder een'</hi></l>
+</lg>
+<p>Maer wy vallen mogelijck den Leser verdrietig met al te lang eene Voor-rede, en seggen noch om kort te maken, dat indien den letterkundighen hier in yet vreemds of ongerymts voor-<pb n="13"/>koomt, die sal weten dat wy ons daer in gedragen hebben nae het letterkunstigh besluyt, daer van wettelijck t'Amstelredam by eenige Dichters gemaect: en wat de spelling belangt, also ons besluyt daer van niet en rept, en dit in elcx vryheyd staet, soo hebben wy meest den gemeenen sleur gevolgt, uytgeseyd in weynighe dingen, overmits wy tot noch toe noyt ons selven daer in hebben konnen voldoen, oock achtende datter so veel niet aen gelegen is, als, met verlof, zich sommige wel inbeelden. In Vranckrijck hebben eenige geesten de spelling willen hervormen, en juyst schryven gelijckmen spreeckt, dan sy sijn niet gevolght geworden van de treffelijcksle schryvers, die ongetwijffelt gewichtige reden daer toe gehad hebben: en soumen hier af yet sekers besluyten so wast van noode datter een tweede Cadmus verrees die meer letters vond, en het AB verrijckte: wy moesten voor eerst de Griecksche Eta, en de Deensche oe invoeren, daer tegens mogtmen eenige letters verwerpen. Maer help Hercules, soo voortgaende, soumen het eene volck teghens het ander op de been helpen. Wat sou hier uyt een letterstrijd ontstaen, veel bloediger als oyt het gevecht was vande Centauren: En Luciaen had treffelijcke stof om dit pleyt te beschryven; ick swyge datter licht eene scheuringe te verwachten stond tusschen poëten en poëten, tot nadeel van 't gemeen lichaem der dichteren: insonderheyd alsmen so regelrecht tegens malkanderen aenliep, gelijk by exempel geschied in 't geschil van de Z die by sommighe soo veel doet als <hi rend="i">duplex Sigma</hi>, het welck sy meenen met de Griecxsche letterkunst te konnen verdedigen, dat andere rond uyt lochenen, roepende; of het schoon met die letter by de Griecken so gelegen is, datse nochtans by ons niet meer geld als een sachte s. versterckende dit
+voorstel met de schriften van Koornhert en Spiegel. Maer hola! 't is langh genoegh om de geytenwol getwist, laet ons liever hooren wat Palamedes te seggen heeft.</p>
+</div>
+<div type="chapter">
+<pb n="14"/>
+<head rend="h3">Het inhoud.</head>
+<p><hi rend="b">P</hi>Alamedes, de zoon van Nauplius Koning van Euboea, was door zyne langduurighe en ghetrouwe dienste, en sonderlinghe wijsheydt, en voorsichtigheyd, in sulck een aensien en groot achtbaerheyd gekomen by de Griecxsche Vorsten, ende de Koningen gebroeders, datter sonder zynen raed niet werd beslooten, ja datmen de ghewichtighste saecken op zyne wackerheyd, en ervaerentheyd liet aenkomen, en berusten. Maer alsoo hy gestreng en onbuyghelijck was, in 't voorstaen van der vorsten, en steden hoogheden, handvesten, en gerechtigheden, zo kon hy 't so naeu niet micken, of Agamemnon liet sich duncken dat zyne eer door desen man of eenighsins gequetft, of niet na behooren ghevordert werd, waer door hy eenen afkeer van hem kreegh: het welck de Priesters, en Wichelaers, en insonderheyd Calches, ghewaer wordende, sochten dien onlust by Agamemnon te voeden, alsoo sylieden sich, in saken die den Godsdienst, en hunne hoogheyd, en heyligheyd betroffen, niet weynigh gequetst hielden. Palamedes evenwel liet niet na den Myceenschen Koning te begunstighen in al het geen wat hy behoudens eer en eed vermoght: gelijck hy dan beneffens andere goede diensten bevorderde, dat hem het opperste beleyd des Trojaenschen toghts werd opghedraghen, en met gemeene stemmen Veldheer gemaeckt. Zedert gheviel 't dat Ulysses (om van den optoght ontslaghen te zyn, nochte de tegenwoordigheyd zyner gemaelinne Penelope te derven) sich zot veynsende, de strand ploeghde; waer over hy achterhaelt werdt van Palamedes, die Telemaech, des ploegers zoontjen, in de voore leyde, het welck de Vader vermyende te quetsen, soo is de schalckheyd daer door openbaer geworden; waer uyt Ulysses van dien tyd af, mede oorsaeck nam om hem te haten. Namaels als Ulysses na Thra-<pb n="15"/>cien ghesonden was, om graen voor 't Leger te halen, en ledigh weder keerde, werd Palamedes derwaerts geschickt, die met gheladen Schepen afgeveerdight, en het heyr spijsende prijs inleyde. Hier door is Ulysses wrock in eene
+doodlijcke vyandschap verandert, en heeft om sich te wreken, den ghesteurden Agamemnon (die nu of na meerder ghesagh, of nae d' opperste hoogheyd stond) noch wyders, soo door sich selven, als door Calches en andere, misleyd en opgehitft: voorgevende dat d'Eubeër niet anders voor had als de Argolische Heeren te verschoppen, en Achillis tot de eer van 't Veldheerschap te verheffen, en in te dringen. Na dat nu door dese oneenigheyd, geduerende het bestand, de Vorsten en hoplieden hier over gedeelt waren, en allerley achterdencken onder het lichtgeloovigh volck was uytgestroyt, en de domme gemeente gheblintdoeckt, en bequaem ghemaeckt om logen voor waerheyd, en valsche voor oprechte munte te ontfangen, zo brouwen Ulysses, en Diomedes, met kennisse des Veldheers, eenen aenslagh, om glimpelijck, en onder schijn van recht, Palamedes van kant te helpen, het welck aldus toeging: men bracht door Agamemnon te wege, dat Palamedes van legerplaets verwisselde. 's Anderendaeghs daer na, als Ulysses sekeren schat van goude penninghen begraven had, ter stede daer Palamedes eerst zyne tenten spande, zond hy eenen Trojaen, zynen gevangen, met eenen brief, om dien heymelijck te bestellen aen Palamedes, maer de bode wert by Diomedes, die op hem paste, onderschept, om hals gebrogt, ende in vollen Krygsraed ghesleept, daer de Brief gelesen werd; waer in Priam vermelde van het gesonden geld, en hem steef tot het voorgenomen verraed. Het meestendeel der Vorsten, siende 's vyands hand en zegelring (die konstigh naghebootst waren) hielden het verraed voor waerachtigh, te meer, alsoo sulcke geruchten lang onder het volck gemompelt hadden: eenighe
+<pb n="16"/>twijffelden: eenige wisten beter; en also hier over twist rees, zeyde Ulysses, men zoude sulcx niet eer geloof gheven, voor datmen het stuck hadde nagevorscht, en de penningen daer de brief af vermelde, by den verdachten gevonden. Dit werd zo besloten, en de schat ontdeckt zynde, werd Palamedes in hechtenis versekert. Syne doodvyanden steldemen over hem tot rechters, doch ter bede werd Nestor hun, om welstaens wille, noch toegevoegt. Als zy nu vast over 't oordeel besich waren, quam Calches, vergezelschapt met het by hem opgestoockte graeu, ende de Krijgslieden, den welcken men desen beschuldighden (na dat de gemeente zyne dood gestemt had) overleverde, die hem als eenen openbaren verraeder uytleyden, en steenighden. Oates, de jonger zoon van Nauplius met rou ghetroffen, door 't verhael van het deerlijck ombrengen zyns broeders, valt klaghtigh aen Neptuyn den zeegod: die, het hooft ten golven uytsteeckende, hem vertroost met de eere die het onschuldige lijck volgen zal, en voor oogen steld wat plagen en ongelucken Grieckenland, en den vadermoordenaren over 't hoofd hangen. Die van Trojen vieren over de dood van hunnen vyand Palamedes. Het tonneel is in en buyten het Griecxsche leger, voor en om Trojen.</p>
+<div type="section">
+<head rend="h4">Personagien.</head>
+<list>
+<item>PALAMEDES.</item>
+<item>REY van Euboeers.</item>
+<item>REY van Ithakoisen.</item>
+<item>MEGEER.</item>
+<item>SISYPHUS.</item>
+<item>ULYSSES.</item>
+<item>Ulysses dienaer.</item>
+<item>DIOMEDES.</item>
+<item>REY van Peloponesers en Ithakoisen.</item>
+<item>EURYPILUS.</item>
+<item>Schildwacht.</item>
+<item>AGAMEMNON.</item>
+<item>Agamemnons dienaers.</item>
+<item>NESTOR.</item>
+<item>AJAX.</item>
+<item>OATES.</item>
+<item>THERSITES.</item>
+<item>CALCHES.</item>
+<item>BODE.</item>
+<item>NEPTUYN.</item>
+<item>PRIAM.</item>
+<item>HECUBA.</item>
+<item>REY van Trojaensche Maeghden.</item>
+</list>
+</div>
+</div>
+<div type="act">
+<pb n="17"/>
+<head rend="h2">J.V. Vondelens Palamedes
+<lb/>
+Oft
+<lb/>
+Vermoorde Onnooselheyd. Treur-Spel.</head>
+<head rend="h3">De eerste handel.</head>
+<sp>
+<speaker><hi rend="spat">PALAMEDES</hi>.</speaker>
+<l><hi rend="b">D</hi>Ie sorgt, en waeckt, en slaeft, en draeft, en ploegt, en sweet,</l>
+<l>En tot 's Landts oorbaer vast een lastigh ampt betreed,</l>
+<l>En waent de menschen aen syn' vroomheyd te verbinden;</l>
+<l>Die sal sich jammerlijck in 't end' bedrogen vinden,</l>
+<l>Van 't wispelturigh volck; dat veel te los van hoofd,</l>
+<l>Genooten dienst vergeet, en leyder 't quaed gelooft.</l>
+<l rend="; 1tab">VVat dorperheyd is dit, onedele gemeente;</l>
+<l>Wat bitse nyd verteert het merch in uw gebeente;</l>
+<l>Wat dolheydt u vervoert? dat ghy uwe Heeren hoont,</l>
+<l>En met zoo valsch een munt uw' troutste Vaders loont?</l>
+<l rend="; 1tab">Koomt reuckeloose schaer, treed voorts, ick ben te vrede</l>
+<l>Te dingen, om 't geschil, ter vierschaer van de rede;</l>
+<l>Doet vry u stucken daer; brengt van uw seggen blijck;</l>
+<l>Op dat rechtvaerdigheyd een billick vonnis strijck.</l>
+<pb n="18"/>
+<l rend="; 1tab">Ghy seght, als nu de wraeck, om Trojen om te keeren,</l>
+<l>Onledigh hiel den raed der Koningen en Heeren;</l>
+<l>Dat ick gedaghvaert quam, en schoon zy altemael</l>
+<l>Besloten 't eerloos feyt te rechten met het stael;</l>
+<l>Noch zeyde ick: 't was by hen te heftigh opgenomen,</l>
+<l>En datmen tijds genoegh zou tot het uytterst' komen.</l>
+<l>Waer uytmen vaten moght, dat ick 't meyneedigh rijck</l>
+<l>Meer gunst toedroegh als ons, gequetst door 't ongelijck;</l>
+<l>Ick antwoord: het besluyt is licht om wederleggen,</l>
+<l>Vermits dit geensins volght uyt het voorgaende zeggen;</l>
+<l>Maer eer het tegendeel: want dat ick liever zagh</l>
+<l>De zaeck in vree beslecht, by middel van verdragh,</l>
+<l>Is waer en lovens weerd: en wie ontkend wat plaegen,</l>
+<l>Bellone met sich sleept, met droeve nederlagen,</l>
+<l>Gevaerlijck voor 't gemeen; wiens welvaert men met druck,</l>
+<l>En angst siet hangen in de weeghschael van 't geluck.</l>
+<l>Dat ick Priaem dan noô met krijgh zagh aengegrepen,</l>
+<l>Was om der Phrygen trots te weeren van ons' schepen;</l>
+<l>Was om Achilles niet met Hector onverveert</l>
+<l>Te worst'len doen om 't ramp, of hun, of ons bescheert.</l>
+<l rend="; 1tab">Hier by en rust 'et niet, men smijt my voor de schenen,</l>
+<l>Dat ick de Koningen van Sparten, en Mycenen,</l>
+<l>Met al de Vorsten, als wy zetten onzen voet</l>
+<l>Op Dardans bodem, wou versmooren in hun bloed;</l>
+<l>Om dat ick, alsmen had gegeven 't bloedigh teecken,</l>
+<l>De vloot, noch versch geland, van d'oevers af deê steecken,</l>
+<l>En hielme binnen boords, 't geleeck wat, wistme niet</l>
+<l>Dat dit door enckel last des Veld-Heers waer geschiet;</l>
+<l>Die, als wy 't aerselen der bange Krijghslien vruchten,</l>
+<l>Hun allen troost, en hoop benemen wou van vluchten,</l>
+<l>En moedigen tot slaen, wanneer de nood hen deê</l>
+<l>Aenloopen op het spits, of 't swalpen van de Zee.</l>
+<pb n="19"/>
+<l rend="; 1tab">Noch wilmen my te lijve, om dat ick driest, en stouter</l>
+<l>Als ander, eer Iphigeen noch verwde 't bloedigh outer,</l>
+<l>Het offer marren dede, en 't stuck leyde in beraed;</l>
+<l>Of juyst onnoozel bloed, en Agamemnons zaed,</l>
+<l>De grimmige Hecate most paeyen, en verzachten?</l>
+<l>Dan ofmen haer een Hinde, of teere Geyt zou slachten?</l>
+<l>Een' saecke die sigh schaemt, recht of hy yet verbeurt,</l>
+<l>Die Chalches in zyn' waen, en schelmze droomen steurt.</l>
+<l>En daer aen twijfel slaet; of Goden en Godessen,</l>
+<l>In 't grouzaem moorden van geheylighde Princessen</l>
+<l>Behagen namen oyt; gelijck der Goden tolck</l>
+<l>Dees grove logens veylt voor waerheyd aen het volck;</l>
+<l>Dat voor hem nedervalt, en feest maeckt van 't vernielen,</l>
+<l>En 't ommebrengen van zoo veel' gedoemde zielen.</l>
+<l rend="; 1tab">Men stroyt om 's Veldheers haet te scharpen tegens my;</l>
+<l>Dat ick besnoeyen wil de wettige vooghdy</l>
+<l>Der twee gebroederen, en d'opperste der Griecken</l>
+<l>Treck op Achilles zijde, en tracht bedeckt hunn' wiecken</l>
+<l>Te korten, waer ick mach; 't welck uytbarst langs hoe meer,</l>
+<l>Midts ick met hengsten van 't verovert Lesbos keer,</l>
+<l>Met Hooren-beesten, en een' hoop geboeyde slaven;</l>
+<l>Maer 't goud verlochen, om behendigh t'ondergraven</l>
+<l>Het steunsel hunner macht; dewijl elck, als zyn' God,</l>
+<l>Dien aenbid, die hem streckt tot voordeel, en genot.</l>
+<l>Dan om die laster plaets te geven, ick de Vorsten</l>
+<l>Hou t'edel van gemoed; en geen' doorluchte borsten</l>
+<l>Gevoelen dit van my, die Menelaus, met</l>
+<l>Syn' oudren Broeder, heb gemerckt, en uytgeset</l>
+<l>Tot hoofden van den toght, als 't veelen heeft verdrooten,</l>
+<l>En droegh hun op 't beleyd van ons' beroemde vlooten;</l>
+<l>Doen Chalches op hen smaelde, en uytspoogh vier en vlam,</l>
+<l>Om datse daelden van zoo Goddeloos een' stam.</l>
+<pb n="20"/>
+<l>Dat ick gebrandmerckt wort met soo een onrijp oordeel,</l>
+<l>Als die den roof misbruyck tot een bysonder voordeel,</l>
+<l>En Chirons voesterling soeck voor te trecken: neen,</l>
+<l>Ick kan, en danck 't den Goon, 't bysonder van 't gemeen</l>
+<l>Voorsichtigh schiften, en elck een het zyn verschaffen:</l>
+<l>Ick handhaef yeders recht, en pas op niemands blaffen.</l>
+<l>Elcx vryheyd is de mijn': die weegh ick in een' schael:</l>
+<l>Wie hier uyt vreese deyst, ick sta gelijck een pael.</l>
+<l>Dreygt Palamedes vry te moorden, en te priemen,</l>
+<l>Hy blyft de selve man, al sneed ghy hem aen riemen:</l>
+<l>En draegt sich na zyn' plicht getrou, oprecht, en kuysch:</l>
+<l><hi rend="i">M</hi>en soecke hem waer men wil, hier leyt d'Euboeër t'huys.</l>
+<l rend="; 1tab">Voorts dat ick Thestors zoon so vaeck heb doorgenomen:</l>
+<l>'t Is waer, my docht 't was tyd sijne hoovaerd te betoomen:</l>
+<l>Om dat hy verder als de Kerck en 't Outer gaet,</l>
+<l>En snuff'len komt, uyt baet, en staetsucht in den raed.</l>
+<l>Hy is een vreemdeling, ja een Trojaen geboren,</l>
+<l>Noch kent de seden niet die tot ons land behooren.</l>
+<l>Noch wat ons welvaert eyscht. Hy wette zyn verstand</l>
+<l>In 't geen zyn ampt betreft, en kruype in 't ingewand</l>
+<l>Der dieren met zyn' geest, en staere op 's <hi rend="i">H</hi>emels lichten:</l>
+<l>Hy lette op voglenzang, op droomen, en gesichten,</l>
+<l>Op Godspraeck, en geheym, en hang'er niet wat by</l>
+<l>Van 't zyn, of lust'et hem, elck hebb' zyn oordeel vry.</l>
+<l rend="; 1tab">Maer 't is te schandeloos, en strijd met al mijn daden,</l>
+<l>Dat ick ben omgekocht, om 't leger te verraden:</l>
+<l>Dat Paris, om met my te hand'len van die moord,</l>
+<l>Lagh 's nachts met een Galey, met goud gelaen, aen boord.</l>
+<l>Dat ick den oorlogh schorste, en uytstel nam tien dagen,</l>
+<l>Om ons t'ontwapenen, en dan het stuck te wagen,</l>
+<l><hi rend="i">M</hi>et meerdre sekerheyd. Apollo die uw' troon,</l>
+<l><hi rend="i">E</hi>n zetel hebt gebout in 't midden van de Goon,</l>
+<pb n="21"/>
+<l>En met uw' klaerheyt bluscht de Goddelijcke lampen,</l>
+<l>En van het aertrijck veeght de nevelen, en dampen:</l>
+<l>Ghy siet in dese nacht, en voor uw' Majesteyt,</l>
+<l>Der sulcker schennis stuyt op mijne onnooselheyd.</l>
+<l rend="; 1tab">Dits mijn' besolding dan, voor dat ick met beswaeren</l>
+<l>Tot der Argiven heyl geslaeft heb soo veel jaeren:</l>
+<l>Met wijsheyd, raed, en daed 't bouvalligh rijck gestut:</l>
+<l>De stormen afgeweert, en op mijn' borst geschut:</l>
+<l>Dẽ boef vermomt met schijn van Godsvrucht en van heyligheyd:</l>
+<l>Ontdeckt, en Pelops hof, en 't Land herstelt in veyligheyd:</l>
+<l>Wtheemsche ballingen van Have, en huys berooft,</l>
+<l>Gelockt, gewellekomt, en in mijn' schoot gestooft:</l>
+<l>Vergroot der steden kreyts, en ommeloop der muuren:</l>
+<l>Tot Grieckens hulp verplicht gekroonde nagebuuren:</l>
+<l>Met kielen ingesleept den oegst die 't oosten las:</l>
+<l>Ia daer de naelde swijmt, gestaen na vryen pas:</l>
+<l>Ulysses achterhaelt: het heyr, als 't scheen verlaten,</l>
+<l>Door hongers nood, gespijst: geoeffent ons soldaten:</l>
+<l>De deught des Peleaens verstaelt met kloeck beleyd:</l>
+<l>D'eylanden, en de steén, aen Helles strand, ontseyd:</l>
+<l>Steenrotsen uytgehoolt, en stucken lands vergraven:</l>
+<l>Nu hier een schans geleyd, dan gins gediept eene haven:</l>
+<l>t'Abyde in doodsgevaer mijn vromigheyd gebracht:</l>
+<l>Daer ick gewond werd op den aenslagh in der nacht:</l>
+<l>Daer doen Achilles weeck, als 't naulijcx was begonnen,</l>
+<l>Noch voor den morgenstond de vesting werd gewonnen:</l>
+<l><hi rend="i">E</hi>n had ick d'ongunst van ons Princen niet gevreest,</l>
+<l>Lyrnes voor mijn vertreck verovert waer geweest.</l>
+<l rend="; 1tab">Maer wat beschuldig ick een wuft, en dom gepeupel,</l>
+<l>Dat na den voortgang van zyn Heer gaet recht, of kreupel:</l>
+<l>Daer doch Laërtes zoon, die op een grootren bout,</l>
+<l><hi rend="i">M</hi>y met 's rijcx wichelaer, al dese moeyten brout,</l>
+<pb n="22"/>
+<l>En na mijn leven staet, en gaet zijn' sinnen spitsen,</l>
+<l>Om 't Krijghsvolck tegens my dolkoppigh op te hitsen,</l>
+<l>Sy brullen langs hoe meer. Waer of ick best verschuyl?</l>
+<l>Wie blijft die lijd gevaer: wie vlught dien schoutmen vuyl.</l>
+<l rend="; 1tab">My docht, den jongsten nacht, dat ick voor andre radder,</l>
+<l>Beklom des schaeckers burgh, en vechtende op een ladder</l>
+<l>Opgaf den Geest, daer ick den vyand besigh hiel,</l>
+<l>En met een groot stuck muurs geplet ter aerde viel;</l>
+<l>Doen schoot ick op, en schoon ick niet op d'ydelheden</l>
+<l>Van spock, of droomen pas, noch leyd my op de leden</l>
+<l>Of d'eene of d'andre ramp, mijn' strenge dwaelstar oock</l>
+<l>Voorlang te Troje in 't veld mijn beyde oogappels loock.</l>
+<l>De wichelaers my niet als ongelucken spellen;</l>
+<l>Doch een manhafte ziel moet dit ter zyden stellen.</l>
+<l rend="; 1tab">Heer Vader, die my erft den segen van uw' Kroon,</l>
+<l>Het ga met my zoo 't wil; ick blijf uw echte Soon</l>
+<l>Van bloed, en van gemoed, en zal u niet ontaerden</l>
+<l>In vroomigheyd, in trou, in 't midden van de swaerden,</l>
+<l>In 't midden van de nijd, en lasteringen: daer</l>
+<l>Mijn goede naem, en faem me word bedruckt zoo swaer.</l>
+<l>Ick weet waer op ick steun, mijn ongekreuckt geweten</l>
+<l>En is niet quaeds bewust, noch heeft sigh noyt vergeten</l>
+<l>Aen eenigh schendigh feyt; en zoo ick daerom ly,</l>
+<l>Soo wasch mijn edel bloed eens anders schelmery.</l>
+</sp>
+<sp>
+<speaker>REY van EVBEERS. REY van ITHAKOISEN.</speaker>
+<l rend="; 1tab">VVy Krijslien passen op ons beurt</l>
+<l>Rondom Neptunus muuren;</l>
+<l>Terwijl den Hemel starloos treurt,</l>
+<l>En telt de slepende uuren.</l>
+<l>De naere lucht nu schreyt en sucht.</l>
+<pb n="23"/>
+<l>Hoe lange zal het duuren?</l>
+<l rend="; 1tab">De middernacht herhaelt haer scha</l>
+<l>Met dick're duysternissen:</l>
+<l>Slaghregens decken Cynthia,</l>
+<l>Dies wy haer aenschijn missen.</l>
+<l>Wiens vroomheyd sal, met Trojens val,</l>
+<l>'t Begonnen Oorlogh slissen.</l>
+</sp>
+<sp>
+<speaker>R.V.I.</speaker>
+<l rend="; 1tab">d'Euboeër afkomst zal met dwang</l>
+<l>Mars teugelen ten lesten:</l>
+<l>Maer niet met Trojens ondergang,</l>
+<l>En 't storten van dees' vesten;</l>
+<l>Maer met dese Aerd, door Hectors swaerd,</l>
+<l>Van lijcken vet te mesten.</l>
+</sp>
+<sp>
+<speaker>R.V.E.</speaker>
+<l rend="; 1tab">Die swanger gaen van guytery</l>
+<l>Ons' Prins hier me betighten:</l>
+<l>Om datze minder zyn als hy,</l>
+<l>En niet voor uyt en lichten.</l>
+<l>Dus tracht de nijd zyn' faem van spijt,</l>
+<l>Veel' logens op te dichten.</l>
+</sp>
+<sp>
+<speaker>R.V.I.</speaker>
+<l rend="; 1tab">Wat sucht hy in zyn' boezem draeght</l>
+<l>Is vaeck aen hem gebleecken:</l>
+<l>Die 't heyr op 's vyands bodem waeght,</l>
+<l>En dan van vree wil spreecken:</l>
+<l>Die veynst, en sluypt, en onderkruypt</l>
+<l>Al d'opperste der Griecken.</l>
+</sp>
+<sp>
+<speaker>R.V.E.</speaker>
+<l rend="; 1tab">Aen hem, wiens tong van Nectar dout,</l>
+<l>En draeght vergift inwendigh,</l>
+<l>Word eer dees' schalckheyd toevertrout,</l>
+<l>En watmen acht voor schendigh:</l>
+<l>Die hof, en zael, met logentael</l>
+<l>Stofferen kan behendigh.</l>
+<pb n="24"/>
+<l rend="; 1tab">Ons vorst soeckt op geen ledekant</l>
+<l>Mycenen te bescharmen:</l>
+<l>Hy ploeght niet aen d'onvruchtbre strand,</l>
+<l>Op dat hy magh verwarmen</l>
+<l>Sijn' bedgenoot: die in haer' schoot</l>
+<l>Hem kust, en neemt in d'armen.</l>
+</sp>
+<sp>
+<speaker>R.V.I.</speaker>
+<l rend="; 1tab">Het log geslacht van Ithaca,</l>
+<l>Dat achter leyd gekroopen,</l>
+<l>Is niet zoo vierigh nergens na,</l>
+<l>Om hopliên op te loopen,</l>
+<l>Gelijck uw Heer, die met zyn' speer</l>
+<l>Koomt achter aen gedroopen.</l>
+</sp>
+<sp>
+<speaker>R.V.E.</speaker>
+<l rend="; 1tab">Wat Palamedes derf bestaen</l>
+<l>Dat bleeck, doen hy in 't landen</l>
+<l>Het volck dede in slaghoorden staen,</l>
+<l>En redde van verbranden,</l>
+<l>En strandens nood, ons' trotse Vloot,</l>
+<l>Als 't leger weeck met schanden.</l>
+</sp>
+<sp>
+<speaker>R.V.I.</speaker>
+<l rend="; 1tab">'t Is waer, wy kennen 's mans bedrijf,</l>
+<l>Het bergen van de kielen,</l>
+<l>Was 't bergen van zyn eygen lijf,</l>
+<l>Doen zoo veele helden vielen:</l>
+<l>Doen hy de dood den rugge bood,</l>
+<l>Met wiecken aen zyne hielen.</l>
+</sp>
+<sp>
+<speaker>R.V.E.</speaker>
+<l rend="; 1tab">Hoe d'onverbiddelijcke Tracx</l>
+<l>Hem leende gunstige ooren</l>
+<l>Bleeck, doen hy 't heyr vertrooste stracx</l>
+<l>Met graen, en weeldigh kooren:</l>
+<l>Daer hy 't uw' Vorst, ontseggen dorst,</l>
+<l>Doen 't leger scheen verlooren.</l>
+</sp>
+<sp>
+<speaker>R.V.I.</speaker>
+<l rend="; 1tab">Ulysses droeghmen geen ontsagh,</l>
+<l>Wat was aen hem bedreven:</l>
+<pb n="25"/>
+<l>Die niet uyt Argos schatkist magh</l>
+<l>Syn' paerden voeder geven:</l>
+<l>Nocht aen den disch des Veldheers is</l>
+<l>Gesien en hoogh verheven.</l>
+</sp>
+<sp>
+<speaker>R.V.E.</speaker>
+<l rend="; 1tab">Hy is te vrede met zyn erf,</l>
+<l>En zyn Heer Vaders leenen,</l>
+<l>Al bet als hy, die roemen derf</l>
+<l>Op Ithaca van steenen,</l>
+<l>En klippen woest, en groot, wiens oegst</l>
+<l>Is slechter als wy meenen.</l>
+</sp>
+<sp>
+<speaker>R.V.I.</speaker>
+<l rend="; 1tab">Maer waerom stoft dit volck aldus</l>
+<l>Op zyne erf-Koninckrijcken?</l>
+<l>Heeft niet de Vader Nauplius</l>
+<l>Voor Princen moeten wijcken?</l>
+<l>En tot zyn heyl, de vlagh, en 't zeyl</l>
+<l>Voor mindre moeten strijcken?</l>
+</sp>
+<sp>
+<speaker>R.V.E.</speaker>
+<l rend="; 1tab">'t Was Nauplius wiens wijsheyd vaeck</l>
+<l>Veel' Koningen versochten,</l>
+<l>En hiel met alle Vorsten spraeck,</l>
+<l>Op veel' manhafte toghten:</l>
+<l>Doen zy wel eer, van heynd en veer,</l>
+<l>Geschencken tot hem brochten.</l>
+</sp>
+<sp>
+<speaker>R.V.I.</speaker>
+<l rend="; 1tab">Waer 't vremt dat Palamedes dan</l>
+<l>Onse heyrkraght ging verraden?</l>
+<l>Vermids hy muylen stallen kan</l>
+<l>Met schatten swaer geladen;</l>
+<l>Gelijck de stam daer hy af quam,</l>
+<l>Geen giften kost versmaden.</l>
+</sp>
+<sp>
+<speaker>R.V.E.</speaker>
+<l rend="; 1tab">Verdient hy een brandteecken, die</l>
+<l>Tot onzes staets verkleenen,</l>
+<l>Ick meest verrijckt met giften sie:</l>
+<l>Merckt dezen niet, maer genen:</l>
+<pb n="26"/>
+<l>Wiens goudsucht boos, en Goddeloos,</l>
+<l>Vind zyns gelijck' niet eenen.</l>
+<l rend="; 1tab">Steyl Neritos vol klippen heeft</l>
+<l>Noyt woester dier ontfangen</l>
+<l>Als hy, die schelms en onbeleeft</l>
+<l>Betrout zyn' slimme gangen:</l>
+<l>Die liegt, en stout zyn' verw behout,</l>
+<l>Schoon hy'r in word gevangen.</l>
+</sp>
+<sp>
+<speaker>R.V.I.</speaker>
+<l rend="; 1tab">Ulysses die op Calches steunt,</l>
+<l>En ons' gebroederheeren,</l>
+<l>Sich deze laster niet bekreunt:</l>
+<l>Syn' vroomheyd salmen eeren;</l>
+<l>Maer wie den helm, voert als een schelm,</l>
+<l>Dat sal de tydt ons leeren.</l>
+</sp>
+<sp>
+<speaker>R.V.E.</speaker>
+<l rend="; 1tab">Drael lange, o blonde Phoebus! drael,</l>
+<l>Schou eeuwigh onze kimmen:</l>
+<l>D'ondanckbre Grajen niet bestrael,</l>
+<l>Die langs hoe meer verslimmen.</l>
+<l>Waer vlieden wy? wat rasery</l>
+<l>Koomt uyt den afgrond klimmen?</l>
+</sp>
+</div>
+<div type="act">
+<pb n="27"/>
+<head rend="h3">De tweede handel.</head>
+<sp>
+<speaker><hi rend="spat">SISYPHUS</hi>. <hi rend="spat">MEGEER</hi>.</speaker>
+<l>WAer ben ick <hi rend="spat">SISYPHUS</hi>, gemat van op te stygen?</l>
+<l>Nu schep ick weder locht, nu kan ick adem krygen.</l>
+<l>Waer ben ick? in wat nacht? Megeere die my jaeght,</l>
+<l>Nachtmerri, oude Kol, hoe hebt ghy ons geplaeght,</l>
+<l>Met uw' bebloede sweep en peckstock onderwegen,</l>
+<l>Eer ick een' doorgang heb, na'et boven volck gekregen.</l>
+<l>Waer ben ick? in den dagh, of in een' blydre nacht,</l>
+<l>Als d'onderaerdsche poel? waer magh ick doolen? sacht.</l>
+<l>Waer vind ick Hecate? waer flonckeren de starren?</l>
+<l>Wanschepsel, die geen' grijns behoeft, noch kunt ontwarren</l>
+<l>Vw' pruyck: die groulijck krielt van swarte slangen, segh</l>
+<l>Waer dwael ick? op wat spoor? waer leyd ons deze wegh?</l>
+<l>My dunckt ick hoor geblaf van honden, die ons riecken.</l>
+<l>Swygt rekels, luystert. sus, help Cerberus! 't zyn Griecken.</l>
+<l>Ick ben in Pelops rijck, of in mijn oud gebied,</l>
+<l>t'Ephyren, dat gaet wel. Momaensicht hoort ghy 't niet?</l>
+<l>VVy zyn t'Ephyren: daer de menschen van mijn' treken,</l>
+<l>En boevestucken, met een groot afgryzen spreecken,</l>
+<l>En Minos vloecken, als zy hooren dat mijn' straf</l>
+<l>Niet swaerder weegt, als 't wight eens steens berg op berg af</l>
+<l>Te went'len, nat van sweet, in d'onderaerdsche kelders.</l>
+<l>Kolryster rade ick recht? segh op, of zijn wy elders.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">ME</hi>.</speaker>
+<l rend="; 1tab">In Troas staenwe, niet in Isthmos: in 't gesicht</l>
+<l>Van Ilium, daer nu het Dorisch Leger light,</l>
+<l>In 't Vlacke, en open veld: van waer wy korts vernamen</l>
+<l>Die bleecke schimmen, die ons treurigh tegen quamen,</l>
+<pb n="28"/>
+<l>Besprenckelt van veel bloeds, gehouwen, en gekapt,</l>
+<l>Mishandelt, en mismaeckt, gesengt, gequetst, gekrabt.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">SI</hi>.</speaker>
+<l rend="; 1tab">Wat 's d'oorzaeck van 't geschil?</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">ME</hi>.</speaker>
+<l>Een Vorst, door geyle minne,</l>
+<l>Heeft tot zyn boel geschaeckt de Bruyt, en Koninginne</l>
+<l>Van Menelaüs: die zoo zeer niet op de deughd</l>
+<l>Als op de schoonheyd vlamt, en 't bloeysel haerer jeughd,</l>
+<l>En hooger die waerdeert als veeler Princen leven.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">SI</hi>.</speaker>
+<l rend="; 1tab">Een slimmer Sisyphus is noch na my gebleven,</l>
+<l>Wat uytkomst of ons staet te wachten van 't gevecht?</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">ME</hi>.</speaker>
+<l rend="; 1tab">Men zal geëffent sien, en tot den grond geslecht</l>
+<l>'t Hof van Laömedon, en dees' benyde vesten:</l>
+<l>Als Inachus geslacht, die 't Krygsvolck geeft ten besten,</l>
+<l>Dat overwinner noch, den tienden somer, zal</l>
+<l>De Goon verschricken met zoo ysselijck een' val.</l>
+<l>Dan sal het overschot der vluchtige Trojaenen,</l>
+<l>Met handen wringen, en afbiggelende tranen,</l>
+<l>Beschelden Paris: die, zoo schandeloos, onkuysch,</l>
+<l>Veroorzaeckt heeft 't bederf van zyn doorluchtigh huys,</l>
+<l>En liever had zyn' faem, en glory uyt te wissen,</l>
+<l>Als boels aenminnigheyd, en kitteling te missen.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">SI</hi>.</speaker>
+<l rend="; 1tab">Ghy en uw' zusters, als hem Venus had verlockt,</l>
+<l>Hebt verre een grooter daed gesponnen, en berockt,</l>
+<l>Als ghy der Doren vloot de Zee gingt over voeren,</l>
+<l>En om een' lichte vrou gants Asien beroeren.</l>
+<l>Eumenides, welaen, recht yligh over end</l>
+<l>Vw slingerslangigh hayr, en brand, en blaeckt, en schend,</l>
+<l>En schuymbeckt, raest, en moord: daer sietmen 't Leger krielen;</l>
+<l>Daer laedmen Charons schuyt, tot sinckens toe, met zielen;</l>
+<l>Het isser drock aen 't Veer. zoo wreeckeressen, voort,</l>
+<l>Spoockt door de benden heen, verzadight u met moord,</l>
+<pb n="29"/>
+<l>De messen zynder op gewet, en scharp geslepen,</l>
+<l>Beschildert uw' gewaed met bloed, en paersse strepen.</l>
+<l>Bevleckt uw aengesicht met breyn versch uytgespat.</l>
+<l>Siet toe, ghy snevelt licht, het isser slipperglad.</l>
+<l>Soo Dochters van de nacht, maer als ghy hier met lijcken</l>
+<l>De stroomen hebt gedamt. en d'overzeesche rijcken</l>
+<l>Tot puyn, en gruys verplet, en uyt hunn' plaets beweeght,</l>
+<l>Den adeldom, en 't puyck der Vorsten uytgeveeght:</l>
+<l>Sal dan de wraeck vernoeght, door 't bloed zoo veeler helden,</l>
+<l>Met woeden staecken?</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">ME</hi>.</speaker>
+<l>Neen, dan wilt Europe gelden,</l>
+<l>Ghy Grajen huylt, en grayt, uw' doodvarw set. word bang.</l>
+<l>Wy koomen, om den wegh tot uwen ondergang</l>
+<l>Te baenen, swanger van voordachte schellemstucken,</l>
+<l>En hechten Argos ramp aen Trojens ongelucken.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">SI</hi>.</speaker>
+<l rend="; 1tab">Wat middel isser om te rockenen dit quaed?</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">ME</hi>.</speaker>
+<l rend="; 1tab">Den Phoenix, daer hun heyl en segen in bestaet,</l>
+<l>Te helpen aen d'een' zy': op datze met zyn sterven</l>
+<l>Oock zyn' manhaftigheyd, en raed, en wijsheyd derven,</l>
+<l>En vallen over hoop, wraeckgierigh van gemoed,</l>
+<l>En voeren Borger-krijgh om zyn onschuldigh bloed.</l>
+<l>Ick sie de Vorsten al gespouwen, en verbolgen,</l>
+<l>De volcken van een' stam malkanderen vervolgen;</l>
+<l>D'eylanden in 't geweer, en 't vaste land in roer.</l>
+<l>Hier wordmen vlam gewaer, daer hoortmen een rumoer</l>
+<l>Van steden tegens steên, van vlooten tegens vlooten.</l>
+<l>D'een' ramp uyt d'andre wast, wat wordter bloeds vergoten.</l>
+<l>Euboea loopt 't gedeylt Peloponnesus af,</l>
+<l>Van Scyros Ithaca. Thessalien tot straf</l>
+<l>Van Locres Krijgsvolck licht. de Cyclades die slypen</l>
+<l>Hunn' speer, om onderling malkandren aen te grypen.</l>
+<l>De sonden klimmen op, d'een draeght des anders schuld,</l>
+<l>Der Vorsten hoven zyn met grouwelen vervult.</l>
+<pb n="30"/>
+<l>Met bloedschande, overspel, met moord, met vuyligheden.</l>
+<l>Men luystert noch' na recht, na billickheyd, noch' reden.</l>
+<l>De Koninginnen, en Princessen zyn bykans</l>
+<l>All' schuldigh aen de moord, en neerslagh haerer mans:</l>
+<l>En eer en trouweloos. elck is om 't seerst verwoeder.</l>
+<l>De zoon den Vader wreeckt, de dochter wreect haer' moeder.</l>
+<l>'t Vertwyflen aen de stam, en wettige afkomst splist</l>
+<l>Het volck, en voed den veede, en endeloosen twist,</l>
+<l>En 't woeden: dat zoo lang beschreyelijck zal duuren,</l>
+<l>Tot datmen siet in 't end de steden zonder muuren,</l>
+<l>De stroomen onbezeylt, de kampen onbeploeght,</l>
+<l>En d'onderaerdsche Styx bevolleckt, en vernoeght.</l>
+<l>Rampsaligh spoock, ghy zijt tot mijn behulp verkooren</l>
+<l>Voor andre zielen: gaeu noop uwe neef met spooren:</l>
+<l>VViens schalckheyd hapert, om bedriegelijck, en valsch,</l>
+<l>Den Soon van Nauplius te brengen om den hals.</l>
+<l>Hy sluymert: in zyn' droom en slaep zal hy u hooren,</l>
+<l>En wat uw geest erdicht, dat vezel hem in d'ooren;</l>
+<l>Ga heen rampsaligh spoock.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">SI</hi>.</speaker>
+<l>Ben ick de beste dan</l>
+<l>Dien d'afgrond tot dit snood bedrijf uytbraecken kan?</l>
+<l>Is niemand het bequaem tot schelmery gevonden?</l>
+<l>Dit is mijne afkomsts tent, ick moet zijn hert doorgronden.</l>
+<l>Hy heeft de leus al wech. Megeere 't is beschickt.</l>
+<l>Als hy mijn' geest vernam, doen was zijn geest verschrickt;</l>
+<l>Sijn sweet brack uyt van angst, zijne hayren schielijck resen;</l>
+<l>Ick heb hem na zijn wensch den kortsten wegh gewesen.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">ME</hi>.</speaker>
+<l rend="; 1tab">Soo is het reyzens tyd. gedoemde ziel ga schuyl;</l>
+<l>Duyck in den donckren poel, en noyt beschenen kuyl.</l>
+<l>De nacht is op zijn droefste, en Phoebe wijckt de spoocken.</l>
+<l>Ulysses gaept en geeut: ghy hebt zijn' rust gebroken;</l>
+<l>Daer treed hy uyt zijn' tent. gaep aertrijck, en al heel</l>
+<l>Verswelgtse, die ghy thans gebraeckt hebt uyt uw' keel.</l>
+</sp>
+<pb n="31"/>
+<sp>
+<speaker>ULYSSES. LYFKNECHT. DIOMEDES.</speaker>
+<l>EEn dunne slaep beschoot noch nauwelycx mijne oogen,</l>
+<l>Of mijn onruste geest door 't guychelen werd bedrogen</l>
+<l><hi rend="i">E</hi>ens drooms, of door een schim, dieme' indẽ droõ verscheẽ,</l>
+<l>En droegh mijn' aenslagh gunst, en holpme 't feyt bekleen,</l>
+<l><hi rend="i">E</hi>n 't stuck met sulck een' list besteecken, en vermommen:</l>
+<l>Dat Nestors wyse tong daer tegens moet verstommen.</l>
+<l>Het sy dan schim, of droom, of wat het wesen wil,</l>
+<l>'t En is geen marrens tyd. mijn Lyf-knecht, ga al stil</l>
+<l>Na Diomedes tent. segh, dat ick hem verbeyde</l>
+<l>Soo datelijck hier ter stee, doen thans hy van my scheyde,</l>
+<l>Werd d'aenslagh opgeschort tot wyder overlegh,</l>
+<l>Als nu zoo wasser 't een, dan 't ander inden wegh:</l>
+<l>Nu duncktme gaet hy glad, en 't magh een raed verstrecken,</l>
+<l>Doch vaeck schijnt ruym in't eerst, 't geen scharp valt int voltreckẽ.</l>
+<l rend="; 1tab">Maer d'aẽslagh nietemin moet eẽmael sijn gewaegt.</l>
+<l>Mijn vyand staet versuft, en dut, en is vertsaegt:</l>
+<l>Hy vind sich raedeloos, om van de lastermonden,</l>
+<l>En logens sich t'ontslaen: waer mede hy word geschonden.</l>
+<l>Te meer hy sich verweert, en na zijne onschuld tracht,</l>
+<l>Te meer het lastren groeyt. hy is, en blyft verdacht.</l>
+<l>Het Krygsvolck is gedeelt: d'een looft hem als een' Vader,</l>
+<l><hi rend="i">E</hi>n d'ander hem verspuwt, en scheld voor Landverrader.</l>
+<l>By dese swarigheyt koomt, dat der Goden tolck</l>
+<l>De lasterlogen queeckt, en koestert onder 't volck.</l>
+<l>Mijn' wraecklust sal eer lang hem zynen trots verleeren,</l>
+<l>En d'oude lemten gants tot etter uyt doen sweeren.</l>
+<l rend="; 1tab">Hy, siende dat zyn pleyt, en rolle liep na 't end,</l>
+<l>Den Veldheer gistren noch quam smeecken in zijn tent,</l>
+<l>En bad, hy wilde hem doch zijn' gunstige ooren leenen:</l>
+<l>Ophaelende wat dienst dat Argos, en Mycenen,</l>
+<pb n="32"/>
+<l>Ontfangen hadden eer, door zyn getrouwen plicht;</l>
+<l>De Koning beet hem toe, vergramt in 't aengesicht;</l>
+<l>Ick heb gedienstigheen, ick ken 't door u genooten;</l>
+<l>Maer eene ontfange spijt my schendigh heeft verdrooten.</l>
+<l>D'Atryden zullen u vermorselen tot gruys,</l>
+<l>Of ghy zult hen tot stof verdelgen met hun huys.</l>
+<l rend="; 1tab">Dit dreygement hem trof, hy antwoorde al verslagen;</l>
+<l>Mycenen heeft sich oyt beleefdelijck gedragen,</l>
+<l>En met genade altijd zyn' vyanden ontmoet;</l>
+<l>Dies bidde ick, dat uw toorn niet al te hevigh woed.</l>
+<l>Dus scheyde hy, maer beducht, zo 't bleeck aen zyn' manieren</l>
+<l>Voor Agamemnons grim, en 't spits der Helbaerdieren.</l>
+<l rend="; 1tab">Nu 't gader mede hoe 't wil, 't kan anders niet als wel,</l>
+<l>Ick ben het niet alleen, de grootste zyn in 't spel.</l>
+<l>Wy hebben op ons' sy' de weereldlijcke machten,</l>
+<l>En geestelijcken arm gesterckt met domme krachten;</l>
+<l>En waer toe zal hy zyn beducht voor veel gevaers,</l>
+<l>Die tot zyn voorspraeck heeft de tong des wichelaers.</l>
+</sp>
+<sp>
+<speaker>DIO.</speaker>
+<l rend="; 1tab">Ick koom op uw ontbod, geheymste vriend, en macker,</l>
+<l>Wat onrust dryft uw' geest? wat houd uw' sinnen wacker,</l>
+<l>Dus in de middernagt?</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">VL</hi>.</speaker>
+<l>Noch Venus, noch haer vyer;</l>
+<l>Maer saecken van gewicht, de rechte tyd is hier,</l>
+<l>Om onzen aenslagh zoo terstond in 't werck te stellen.</l>
+</sp>
+<sp>
+<speaker>DIO.</speaker>
+<l rend="; 1tab">Mijn raed is hier te kleyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">VL</hi>.</speaker>
+<l>Daer wilt u niet me quellen.</l>
+</sp>
+<sp>
+<speaker>DIO.</speaker>
+<l rend="; 1tab">Ick kan geen' doorgang sien. ick blijf'er noch voor staen:</l>
+<l>Soo lang ick niet begrijp hoe dat het toe kan gaen.</l>
+</sp>
+<sp>
+<speaker>ULYS.</speaker>
+<l rend="; 1tab">Hy brack uyt 's veldheers last zyn' tent op gistren morgen,</l>
+<l>En sloegh sich elders neêr: zoo datmen kan verborgen,</l>
+<l>In d'eerste leger-plaets, een seker wight van goud;</l>
+<l>Recht of zyn' sorge dat aen 't aerdrijck had vertrout.</l>
+<l>Als hy nu word betight van zijne ontfange gaven,</l>
+<l>Soo zal de Kryghsraed flucx dien rijckdom op doen graven;</l>
+<pb n="33"/>
+<l>Waer door hy schuldigh word aen 't opgeleyde quaed.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">DIO</hi>.</speaker>
+<l rend="; 1tab">'t En heeft niet schijns genoeg.</l>
+</sp>
+<sp>
+<speaker>UL.</speaker>
+<l>Dit komt ons noch te baet.</l>
+<l>Ick sal in Priams naem een' brief aen hem doen schryvẽ,</l>
+<l>Die meldende van 't goud, hem soeckt ter daed te styven.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">DIO</hi>.</speaker>
+<l rend="; 1tab">Wie sal de bode zijn?</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">ULY</hi>.</speaker>
+<l>Maer een Trojaens slaevoen,</l>
+<l>Die mijn gevangen is. ghy sult de ronde doen,</l>
+<l>En passen op den spie, en helpen hem om 't leven,</l>
+<l>En vindende den brief, die Agamemnon geven.</l>
+<l>Hoe kan d'Eubeër doch ontworstelen desen strick?</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">DIO</hi>.</speaker>
+<l rend="; 1tab">'t Is recht Ulysses vond: maer als ick 't ernstigh wick,</l>
+<l>Het stuck is vol gevaers. laet desen raed besterven.</l>
+</sp>
+<sp>
+<speaker>ULYS.</speaker>
+<l rend="; 1tab"><hi rend="i">I</hi>ck vreese uw' bloodigheyd die sal de saeck verderven.</l>
+<l>Hoe stouter aengevat, hoe lichter uytgevoert.</l>
+<l>De kans moet sijn gewaegt.</l>
+</sp>
+<sp>
+<speaker>DI.</speaker>
+<l>Waer 't schaeckspel, waer het boert</l>
+<l>Best datmen 't wat vertreck. de tyd is niet geboren.</l>
+</sp>
+<sp>
+<speaker>ULYS.</speaker>
+<l rend="; 1tab">Daer is met sammelen tot noch toe meer verloren</l>
+<l>Meer schade als winst gedaen.</l>
+</sp>
+<sp>
+<speaker>DI.</speaker>
+<l>De man heeft groote gunst</l>
+<l>By 't volck, en by den raed.</l>
+</sp>
+<sp>
+<speaker>UL.</speaker>
+<l>Bedeckte logenkunst,</l>
+<l>Die heeftse vry gedunt door 't lang, en stadigh knaegen.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">DIO</hi>.</speaker>
+<l rend="; 1tab">Al die hem sijn verwant van vrienden, en van magen,</l>
+<l>Sijn' sijde gunstigh sijn en dreygen ons met wraeck.</l>
+</sp>
+<sp>
+<speaker>Uly<hi rend="i">S.</hi></speaker>
+<l rend="; 1tab">Geen' maege, of bloedverwant magh tuygen in sijn' saeck.</l>
+<l>Van dreygen niemand sterft.</l>
+</sp>
+<sp>
+<speaker>DI.</speaker>
+<l>Achillis vroom in feyten,</l>
+<l><hi rend="i">E</hi>n Ajax sal sijn recht ten uytersten bepleyten,</l>
+<l>Door 's grysen Nestors tong.</l>
+</sp>
+<sp>
+<speaker>ULY.</speaker>
+<l>Dit acht ick heel gering,</l>
+<l>De veldheer is de siel, en stuerman van 't geding.</l>
+<l>'s Rechts uytspraeck staet by hem. hy kiest bequame mannen</l>
+<l>En kipt de rechters uyt, die d'heylige vierschaer spannen.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">DIO</hi>.</speaker>
+<l rend="; 1tab">Soo d'aengeklaeghde sich beroept op 't Griexsche recht?</l>
+</sp>
+<sp>
+<speaker>UlyS.</speaker>
+<l rend="; 1tab">'t Geschil word na de plaets gevonnist, en beslecht.</l>
+<l>Wy staen op 's vyands boôm, wy kennen hier geen' wetten,</l>
+<l>Als die des veldheers mond en lippen sullen setten.</l>
+<pb n="34"/>
+<l><hi rend="i">S</hi>ijn wil is wets genoegh, die spreecke, een yder swijg,</l>
+<l>Des oppervorsten swaerd is rechter inden krijgh.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">DIO</hi>.</speaker>
+<l rend="; 1tab">Of d'oppervorst besweeck, als d'aenslagh was begonnen?</l>
+</sp>
+<sp>
+<speaker>ULY<hi rend="i">S.</hi></speaker>
+<l rend="; 1tab">De wereld geensins lyd twee schitterende sonnen:</l>
+<l>Soo duld geen heerschappye twee hoofden in een rijck,</l>
+<l>Geen vorst sijn' wederga: geen koning sijns gelijck.</l>
+<l>d'Eubeër is te hoogh in mogentheyd gestegen,</l>
+<l>En aensien by 't gemeen: dits Agamemnon tegen:</l>
+<l>Die heeft wel duysendmael geklopt op sijn rappier.</l>
+<l>Gevloeckt by all' de Goon', geswooren hoogh en dier</l>
+<l>By synes gordels draeck, by 't krunckelen der slangen,</l>
+<l>Waermé de Gorgon is sijns beuckelaers behangen,</l>
+<l><hi rend="i">E</hi>n by den staf sijns rijcx van Mulciber gesmeed:</l>
+<l>Dat hy sich wreecken sal van 't aengedaene leet:</l>
+<l>Dat d'eylander niet lang sijn Majesteyt sal benglen:</l>
+<l>Al sou hy d'oppergoon met d'onderaerdsche menglen.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">DIO</hi>.</speaker>
+<l rend="; 1tab">Met Agamemnons wrock is 't leger niet gepaeyt.</l>
+</sp>
+<sp>
+<speaker>ULYS.</speaker>
+<l rend="; 1tab">'t Is waer, maer dat is vol oneenigheyd gesaeyt.</l>
+<l>De meesten hoop is blind, om d'oorsaeck van dit wrocken</l>
+<l>Te sien met onderscheyd: oock heeftmer in betrocken</l>
+<l>'t Verschil van kerckenplight, de maght van 't geestlijck hof,</l>
+<l>En 't geen den dienst betreft der Coden: dese stof</l>
+<l>Soodanigh is van aerd, dat allerley' krackeelen,</l>
+<l>Dat sucht tot eyge baet, en staet hier onder speelen:</l>
+<l>En aller schelmery, die slechts eenschijn gestalt</l>
+<l>Van hayligheydt ontleent, licht door dien trechter val.</l>
+<l>Men hitst 's volcx harten op tot dolligheyd door kryten.</l>
+<l>En d'aldersterckste past den swacksten uyt te byten.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">DIO</hi>.</speaker>
+<l rend="; 1tab">Maer wacht u, als de tyd de waerheyt eens ontdeckt.</l>
+</sp>
+<sp>
+<speaker>ULYS.</speaker>
+<l rend="; 1tab">Al hebtge 't hayligdom met vadermoord bevleckt:</l>
+<l>Uw' susters schaemte ontbloot, in 't aensicht van uw' swager:</l>
+<l>Ia self den blixem drigh gekroont tot hoorendrager:</l>
+<pb n="35"/>
+<l>Verkraght sijne eegemael, en schencker Ganimeed:</l>
+<l>Ten word niet eens gemerckt, als maer een outerkleed</l>
+<l>Die grouwelen bedeckt, ten strecken dan geen' sonden.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">DIO</hi>.</speaker>
+<l rend="; 1tab">En of de priesters 't pleyt met Palamedes stonden?</l>
+</sp>
+<sp>
+<speaker>ULYS.</speaker>
+<l rend="; 1tab">Dat is onmooghelijck: want hoemen 't wend, of keert,</l>
+<l>'t <hi rend="i">S</hi>chort even Calches daer, daer 't Agamemnon deert.</l>
+<l>Sijne hoogheyd is geraeckt, en hayligheyd: die stedes,</l>
+<l>Midts d'onderkruypingen, en list van Palamedes,</l>
+<l>Allencx gemuylband word, en van sijn' glants berooft:</l>
+<l>En 't was soo veer gebragt, dat geen gemyterd hoofd</l>
+<l>Sou spreecken in den raed, of met de vorsten stemmen:</l>
+<l>Een toom om na sijn' wensch de wichelaers te temmen.</l>
+<l>Dit leyt hem in den krop. behalven dat hy steef</l>
+<l>De vorsten tegens hem, die soo Godyvrigh dreef,</l>
+<l>Dat yeder Griexsche stad sou leggen nieuwe drempels,</l>
+<l>Om 't noodlot op 't outaer, in Godgewijde tempels,</l>
+<l>Te vieren, met den reuck van 't gulden wieroockvat:</l>
+<l>Dienst daer de priesterschap een koninglijcken schat,</l>
+<l><hi rend="i">E</hi>n rijcken oegst af maeyt. hoe geestigh saghmen schaecken</l>
+<l>Den tabbaerd met de kap? met onbeschaemde kaecken</l>
+<l>Dreef Calches na sijn wensch, met lutt'le stemmen door</l>
+<l>'t Besluyt der tempeliers, en gaf geen' reên gehoor.</l>
+<l>d'<hi rend="i">E</hi>ubeër heeft 'et oock in Aulis heel verpeutert.</l>
+<l>Daer seyde hy schoon de vloot door storm, en onweer leutert,</l>
+<l><hi rend="i">M</hi>en magh soo reuckeloos niet plengen konings bloed:</l>
+<l>Men stel den neerslagh uyt: misschien sal oock de vloed</l>
+<l>Hier meê niet sijn gepaeyt: wilt u der jonffer jamren:</l>
+<l>Hackt liever af den hals van wit gewolde lamren.</l>
+<l>Daer schond hem 't priesterdom de krijgslien op het lijf.</l>
+<l><hi rend="i">E</hi>lck vloeckte, en schold om 't seerst. sy kreten even stijf.</l>
+<l>Het saed van Nauplius van Godsdienst is verbastert:</l>
+<l>'t Viert tempel noch autaer: Diana word gelastert:</l>
+<pb n="36"/>
+<l>Verworght den vryen geest: of stort hem van een' rots:</l>
+<l>Dees smaelt op wichlery, en droomen. d'inspraeck Gods</l>
+<l>Hy gants in twijffel treckt, hy sal het heyr verwarren:</l>
+<l>Hy acht noch' vogelsangh, noch' ingewand, noch' starren.</l>
+<l>Ick rep van geen geheym. ghy Diomedes saegt</l>
+<l>Wat hy te lyden had, om 't redden van de maeghd.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">DIO</hi>.</speaker>
+<l rend="; 1tab"><hi rend="i">S</hi>yne aengewende vlyt tot Iphigeens verschooningh,</l>
+<l>Te lichter hem in gunst kan brengen by den Koningh.</l>
+</sp>
+<sp>
+<speaker>ULYS.</speaker>
+<l rend="; 1tab">'t Blijft tusschen my en u: 't is Agamemnons aerd,</l>
+<l>Dat sijn' gedachtenis geen weldaedlang bewaert:</l>
+<l>Maer 't aengedaene leet, en d'eens gelede smarte,</l>
+<l>Schiet diepe wortelen in sijn wraeckgierigh harte,</l>
+<l>Al t'onversoenelijck. 't was Atreus die voor heen</l>
+<l>By opdracht onderkroop 't oud recht der Griecxsche steên.</l>
+<l>De soon vlamt op de vrucht van dese parckementen,</l>
+<l>En hoopt sijn' lauren telg op desen boom te enten:</l>
+<l>Maer Palamedes oogh sijn' gangen onderschept,</l>
+<l>En is voor hem gereêt, en waeckt eer hy sich rept:</l>
+<l>Dies raest 's Krijgsvorsten wraeck: die om hem te betraepen,</l>
+<l>Misbruyckt den ouden haet der Griecxsche legerpaepen,</l>
+<l>Bedienaers van de nood, en noyt verbeden dwang:</l>
+<l>Die doen hem 't koude sweet afloopen, door 't gedrang</l>
+<l>Der lasteraeren, en staegh liegende overboden,</l>
+<l>Geen' misdaed reecknen 't quaed, 'tgeen streckt ten dienst der Goden.</l>
+<l>Doch 't gelt ons even veel. wy doelen naer ons wit,</l>
+<l>Het sy dan slincx of rechts. waerom ick ernstigh bid,</l>
+<l>Dat uwe dapperheyd dit heldenstuck verselle.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">DIO</hi>.</speaker>
+<l rend="; 1tab">Ick vindden aenslagh goed, 't is waer, maer dat ick stelle</l>
+<l>My selven in gevaer, is overwegens waerd.</l>
+<l>Ick ben een man in 't veld, om op een moedigh paerd,</l>
+<l>Dat schuymbeckt, briescht, en krapt, en stof werpt met fijn voetẽ,</l>
+<l>Mijn' vyand voor de vuyst, met sweerd en speer, t'ontmoeten:</l>
+<pb n="37"/>
+<l>Maer 'k heb uw' veynsery, Ulysses, lang verleert:</l>
+<l>Ick stem het niettemin, dewijl ghy 't soo begeert.</l>
+</sp>
+<sp>
+<speaker>ULYS.</speaker>
+<l rend="; 1tab">Laet Diomedes slechts die sorgh aen my bevolen.</l>
+<l><hi rend="i">H</hi>et moet'er doncker sijn daer d' Ithakois sal dolen.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">DIO</hi>.</speaker>
+<l rend="; 1tab">Wel aen, ick ben 't getroost: doch eer wy 't stuck bestaen,</l>
+<l>Soo sal 't hooghnoodigh sijn ons wyders te beraen:</l>
+<l>Op datmen 't schandelijck ten halven niet laet steecken.</l>
+<l>Vernieu my anderwerf den voorslagh uwer treken.</l>
+</sp>
+<sp>
+<speaker>ULYS.</speaker>
+<l rend="; 1tab">Tre met my in mijn' tent, 't sal wel soo veyligh sijn,</l>
+<l>Men handelt van die saek best achter de Gordijn.</l>
+</sp>
+<stage><hi rend="i">REY van PELOPONNESERS en ITHAKOISEN.</hi></stage>
+<sp>
+<speaker><hi rend="spat">EURIPILUS</hi>.</speaker>
+<l>KOomt laet ons by de donckre maen</l>
+<l><hi rend="i">E</hi>endraghtelijck ten reye gaen,</l>
+<l>En storten yvrigh dese beê</l>
+<l>Voor ons drye aensicht Hecaté:</l>
+<l rend="; 1tab">Datse Atreus soonen doch bewaer:</l>
+<l>Die voor ons haerdstede, en 't outaer,</l>
+<l>Soo rustigh waeghden lijf en goed,</l>
+<l>En troosten 't volck in tegenspoed.</l>
+<l rend="; 1tab">Dat geen verrader sich verstout,</l>
+<l>Om 't flickeren van 't Trojaensche goud,</l>
+<l>Hen t'overlevren aen den Prygh,</l>
+<l>En ons in 't heymelijck bekrygh.</l>
+<l rend="; 1tab"><hi rend="i">E</hi>n smoor half doon op doon gehoopt</l>
+<l>In 't bloed dat uyt ons' wonden loopt:</l>
+<l>En steeckt tot schrick van Grieckenland,</l>
+<l>Door Hectors toorts de Vloot aen brand:</l>
+<l>En geef uytheemschen gasten stof</l>
+<l>Te seggen: hier is 't Kerreck-hof,</l>
+<pb n="38"/>
+<l>Daer Troje door Godloosen boef</l>
+<l>Mycenen met haer' maght begroef:</l>
+<l rend="; 1tab">Daer stond Achilles tent wel eer:</l>
+<l>Hier Agamemnons: ginder veer</l>
+<l>Werd dagh op dagh soo fel gestreen,</l>
+<l>Om Menelaüs bruyt Heleen:</l>
+<l rend="; 1tab">Hier lagh de vloot op desen hoeck.</l>
+<l>Keer, O Godesse, sulck een' vloeck.</l>
+<l>Bewaer Godin uw' kercken oock,</l>
+<l>Op datme' u tempel pleghtigh smoock:</l>
+<l rend="; 1tab">Op dat u reuckwerck opwaerts rijs',</l>
+<l>Na d'eenmael aengenome wijs,</l>
+<l>Na d'eenmael voorgeschreven plicht:</l>
+<l>'t <hi rend="i">S</hi>y dat ghy droef of heller licht.</l>
+<l rend="; 1tab">Begunstigh doch Apollos soon,</l>
+<l>Den taelman van den oppertroon:</l>
+<l>Die sich op Gods geheym verstaet,</l>
+<l>En alle teeckens gade slaet.</l>
+<l rend="; 1tab">Die vaeck kan spellen 't ongesienst:</l>
+<l>En wien de suyvre Godesdienst</l>
+<l><hi rend="i">S</hi>oo diep en swaer ter herten gaet,</l>
+<l>En achtse een pyler van den staet:</l>
+<l rend="; 1tab">Een pyler daer de staet op leunt:</l>
+<l>En om dese oorsaeck sigh bekreunt</l>
+<l>Vaeck met den wereldlijcken staf:</l>
+<l>Al neemtmen 't hem soo qualijck af.</l>
+<l rend="; 1tab">Weer van ons alle nieuwigheen.</l>
+<l>Bevry voor vleck uwe outerkleen,</l>
+<l><hi rend="i">E</hi>n neem de priesters in uw' scharm,</l>
+<l>Die uwe altaeren houden warm.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">EVR</hi>.</speaker>
+<l rend="; 1tab">Sy heeft u toegeknickt. nu wend u tot de nood:</l>
+<l>Heft aen een nieuwen dans, en maeckt haer' Godheyd groot.</l>
+</sp>
+<pb n="39"/>
+<sp>
+<speaker><hi rend="spat">REY</hi>.</speaker>
+<l rend="; 1tab">O kracht die niet en syt t'ontvlien:</l>
+<l>Geweld dat tusschen uwe knien</l>
+<l>Beklemt de diamanten spil:</l>
+<l>Daer 't al op draeyt na uwen wil.</l>
+<l rend="; 1tab">Die hebt van eeuwicheyd gesaeyt</l>
+<l>'t <hi rend="i">S</hi>aed, daer de tyd sijn' vrucht af maeyt.</l>
+<l>O dwangbestuurster van al 't werck,</l>
+<l>Die Goon en menschen steld een perck.</l>
+<l rend="; 1tab">Hou vast en ancker van 't gesticht</l>
+<l>Der weereld, die in tegenwicht</l>
+<l>d'Hoofdstoffen houd. o suyl, die self'</l>
+<l>Draeght onbeswaert dat swaer gewelf.</l>
+<l rend="; 1tab">O die met yseren scepter heerscht,</l>
+<l>En blyfter laest, en waert 'er eerst:</l>
+<l>Die Hemel, Aerd, en Hel bestiert,</l>
+<l>En maeckt dat elck uw' Godheyd viert,</l>
+<l rend="; 1tab">Die op haer' beurt de starren riept,</l>
+<l><hi rend="i">E</hi>n meerdre en mindre Goden schiept,</l>
+<l>En blijft versteenight en verstockt,</l>
+<l>En hebt al 't noodlijck quaed berockt.</l>
+<l rend="; 1tab"><hi rend="i">S</hi>aturnus sijnen vader lubt,</l>
+<l>En 't pekelschuym met bloed bedrupt:</l>
+<l>Eene oorsaeck datter Venus quam,</l>
+<l><hi rend="i">M</hi>et haere onkuysche minnevlam.</l>
+<l rend="; 1tab">Jupijn ontvonckt door Cypris strael,</l>
+<l>Voorts walghde van sijne eegemael</l>
+<l>Die bleef verschopt, en al sijn' feest</l>
+<l>Was hoer, of jongen, of een beest.</l>
+<l rend="; 1tab"><hi rend="i">M</hi>ercuur werd d'alderslimste dief,</l>
+<l>En Bacchus kreegh de kruycken lief,</l>
+<l>En struyckelende na den dronck,</l>
+<l>Song haylge veersen dat het klonck.</l>
+<pb n="40"/>
+<l rend="; 1tab">Mars groeyde in bloed en menschen moord,</l>
+<l>Dat Reusen quamen fel aen boord</l>
+<l>Den Donderaer, met smaet en schimp:</l>
+<l>Doense Ossa parsten met Olymp,</l>
+<l rend="; 1tab">En weer met Ossa Pelion:</l>
+<l>Eer hen een starcker overwon:</l>
+<l>Dat <hi rend="i">M</hi>inos Bruyt, het geyle dier,</l>
+<l><hi rend="i">S</hi>ich liet bespringen van een' <hi rend="i">S</hi>tier:</l>
+<l rend="; 1tab">Dat d'Africaen so wreed als sterck,</l>
+<l>Van menschen hoofden boude een' kerck:</l>
+<l>En dat sijn Tempelpriester had,</l>
+<l><hi rend="i">E</hi>en Doodshooft tot een wieroock vat:</l>
+<l rend="; 1tab">En, eer hy noch gebeden sprack,</l>
+<l><hi rend="i">E</hi>en' menschen ongeltoorts ontstack:</l>
+<l>En plengde, met een' heylgen schijn,</l>
+<l>Paers menschen bloed, in plaets van wijn.</l>
+<l rend="; 1tab">En offerde, den Goon tot brand</l>
+<l>Halflevend' menschen ingewand:</l>
+<l>Terwijl een menschen darrem sluyt,</l>
+<l>Om 't lijf sijn' taeye menschen huyt,</l>
+<l rend="; 1tab"><hi rend="i">S</hi>ijn offerkleed, en feestcieraet:</l>
+<l>En song, en schreeude sonder maet,</l>
+<l>Wt parckement vol bloedrood schrift:</l>
+<l>Verruckt door innerlijcke drift:</l>
+<l rend="; 1tab">En deé weergalmen op elck vaers</l>
+<l><hi rend="i">E</hi>en' rey van woeste moordenaers:</l>
+<l>Wier wapen, swaerd noch, kortelas,</l>
+<l><hi rend="i">M</hi>aer kaeckebeen of schinckel was:</l>
+<l rend="; 1tab">Dat Tantalus noch vuyl bemorscht</l>
+<l>Van versche moord, opschaffen dorst</l>
+<l>Het vleesch sijns Soons op Jovis disch:</l>
+<l>Niet by geval gebeurt en is:</l>
+<pb n="41"/>
+<l rend="; 1tab">Maer onontworstelbaer bescheer!</l>
+<l>Ghy self waert d'oorsaeck, u koomt d'eer:</l>
+<l>Die dobbeltrony Janus slacht,</l>
+<l>Die achter grijnst, van vooren lacht.</l>
+<l rend="; 1tab"><hi rend="i">S</hi>oo noch 't verraed smeult in zyne asch,</l>
+<l>Ontdeckt sulcx doch uw' priestren ras:</l>
+<l>Scharp Argos sabel langs hoe meer:</l>
+<l><hi rend="i">E</hi>n Priams standers werp ter neer.</l>
+</sp>
+<sp>
+<speaker>EVR.</speaker>
+<l rend="; 1tab">Houd op ghy hebt voldaen. het nootlot heeft volkomen</l>
+<l>Uw' danssen, en gesang goetgunstigh aengenomen.</l>
+</sp>
+</div>
+<div type="act">
+<head rend="h3">De derde handel.</head>
+<stage><hi rend="spat">DIOMEDES</hi>. <hi rend="spat">SCHILDWACHT</hi>. <hi rend="spat">AGAMEMNON</hi>.</stage>
+<sp>
+<speaker><hi rend="spat">DIO</hi>.</speaker>
+<l>HOu schildwacht hou!</l>
+</sp>
+<sp>
+<speaker>SCHI.</speaker>
+<l>Wie daer?</l>
+</sp>
+<sp>
+<speaker>DIO.</speaker>
+<l><hi rend="i">I</hi>ck moet den Veldheer spreken.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">SCHI</hi>.</speaker>
+<l rend="; 1tab">Wie zytge? meld uw' naem, of geef 't gewoonlijck teecken.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">DIO</hi>.</speaker>
+<l rend="; 1tab">'t Is Diomedes self.</l>
+</sp>
+<sp>
+<speaker>SCHI.</speaker>
+<l>Koom weck hem daer hy leyd.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">DIO</hi>.</speaker>
+<l rend="; 1tab">Groot meester van ons heyr, die uwen leger spreyd</l>
+<l>Van drooge en dorre blaen: op op, 't is tyd te waecken.</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab">Wel Diomedes vriend, segh op, wat zyn 't voor saecken?</l>
+<l>Wat brengt ghy ons by nacht: is Hector op de been?</l>
+</sp>
+<sp>
+<speaker>DIO.</speaker>
+<l rend="; 1tab">'k Heb een Trojaenschen spie den hals versch afgesneen,</l>
+<l>Als ick de ronde dede. hy is belast met brieven.</l>
+<l>Ick sleep den booswicht hier. het sal den Vorst believen</l>
+<l>Te vorschen nae 't geheym.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">AGA</hi>.</speaker>
+<l>Koom hou de toorts wat dicht,</l>
+<l>Op dat ick desen gast beschou in 't aengesicht.</l>
+<pb n="42"/>
+<l>'t Is waerlijck een Trojaen van kleeding en van wezen.</l>
+<l>Dit 's Priams zegelring. ick moet het inhoud lesen.</l>
+<l>Op mannen, 't is verraed. mijn' dienaers flucx gaet heen,</l>
+<l>Behalven Palameed, roept al den raed by een.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">AGAMEMNON</hi>. <hi rend="spat">ULYSSES</hi>. <hi rend="spat">DIOMEDES</hi>. <hi rend="spat">NESTOR</hi>. <hi rend="spat">AIAX</hi>.</speaker>
+<l>GHy die voor kroonengoud, en vorstelijcke banden,</l>
+<l>Nu voert den kopren helm, en met uw' dappere handen</l>
+<l>Van 't Asiaensche stael de voncken stuyven doet,</l>
+<l>En Simoïs vermengt, en verwt met breyn en bloed:</l>
+<l>Ick zal u voorts de reên, en oorsaeck gaen verklaeren,</l>
+<l>Waerom men t'ontyds dus den krijghsraed deê vergaren.</l>
+<l>De Phrygiaen, die 't heyr verspiedende by nacht,</l>
+<l>Van Diomedes hand zoo versch is omgebracht.</l>
+<l>(Als hy de ronde doende hem quam verbaest ontmoeten,</l>
+<l>En sleepte hem dood en warm voor uwer aller voeten:</l>
+<l>Daer ghy hem liggen siet) was met een' brief belaen,</l>
+<l>Dieme' uyt zyn boesem trock en yemand schijnt te raen</l>
+<l>Tot grouwelijck verraed. ick zal u laten hooren</l>
+<l>Het inhoud van dit blad, 't welck vremd klinct in mijn ooren.</l>
+<l>Neptunus waerde zoon, die uw grootvaders stad</l>
+<l>Begunstight waer ghy mooght: de letters van dit blad</l>
+<l>Betuygen myne jonst, waer door ick ben genegen</l>
+<l>Te strecken over u mijn' koninglijcken zegen,</l>
+<l>Dat ghy ontfangen hebt 't jongst toegesonden goud</l>
+<l>Ick uyt den spie verstond: wiens mond ghy toevertrout</l>
+<l>'t Geheymnis van u hart. ick heb alree genooten</l>
+<l>De vruchten van 't bestand voor luttel tyds beslooten,</l>
+<l>En wacht op 't uyterst vast. is ergens gunst te koop</l>
+<l>Om goud, zoo spaer geen' munt. ick Priam leve op hoop'</l>
+<pb n="43"/>
+<l>Daer is 't geheym des briefs. wat dunckt u Griecxsche vorstẽ?</l>
+</sp>
+<sp>
+<speaker>ULYS.</speaker>
+<l rend="; 1tab">Verdelgse o luno doch! die naer ons leven dorsten.</l>
+</sp>
+<sp>
+<speaker>DIO.</speaker>
+<l rend="; 1tab">Ontdeckse o Hecate! die naer den ondergang</l>
+<l>Van onze tenten staen.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">NES</hi>.</speaker>
+<l>Ontdeck de waterslang</l>
+<l>Die schuylt in 't groene gras.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">AI</hi>.</speaker>
+<l>Saturnus breng de waerheyd</l>
+<l>Ten lesten eens in 't licht.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">AGA</hi>.</speaker>
+<l>Wie twijfelt aen de klaerheyd</l>
+<l>Van 't goddeloos verraed?</l>
+</sp>
+<sp>
+<speaker>AI.</speaker>
+<l>Ick twijfel met verlof,</l>
+<l>Die alle trecken ken, en saussen van het hof.</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab">Nu Ajax geef gehoor, en wees niet ongeregelt.</l>
+</sp>
+<sp>
+<speaker>NES.</speaker>
+<l rend="; 1tab">Is 't koning Priams merck?</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">AGA</hi>.</speaker>
+<l>De brief was toegezegelt</l>
+<l>Met 's konings eygen ring: doch 't wapen is misluckt</l>
+<l>In 't zeeglen, en zyne hand in 't schrijven wat gedruckt.</l>
+<l>Mistrout ghy aen mijn woord, geloof uwe eygene oogen.</l>
+<l>Daer vader lees den brief.</l>
+</sp>
+<sp>
+<speaker>AI.</speaker>
+<l>Een' dochter van de logen,</l>
+<l>Een vondeling van 't hof, een basterd van den nyd'</l>
+<l>En overjaerden wrock, 't uytbraecxsel van de spyt.</l>
+</sp>
+<sp>
+<speaker>NES.</speaker>
+<l rend="; 1tab">'t Schrift swijmt na Priams hand, zoo doet de druck van 't waepen.</l>
+</sp>
+<sp>
+<speaker>AJAX.</speaker>
+<l rend="; 1tab">So paeytme 't slechte volck: zoo leydmen kinders slapen,</l>
+<l>Maer Ajax nimmermeer.</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l>'t Sy hoemen 't stuk verschoon,</l>
+<l>De koning Nauplius is God Neptunus zoon.</l>
+</sp>
+<sp>
+<speaker>AJAX.</speaker>
+<l rend="; 1tab">Ia Palamedes is 't ick houd 'et u ten besten.</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab">Neptunus eyge stad zyn Trojens hooge vesten:</l>
+<l>Die draeght d'Eubeër gunst, zoo doet zyn heyloos zaed.</l>
+</sp>
+<sp>
+<speaker>AJAX.</speaker>
+<l rend="; 1tab">Ia Palamedes is 't, die brout ons dit verraed,</l>
+<l>Die booswicht moet van kan.</l>
+</sp>
+<sp>
+<speaker>ULY.</speaker>
+<l>Beschut ons goede goden.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">DIO</hi>.</speaker>
+<l rend="; 1tab">Dat tref Laomedon.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">AI</hi>.</speaker>
+<l>Of eer in tyds gevloden.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">DIO</hi>.</speaker>
+<l rend="; 1tab">Dat ongeluck en zy ons nimmermeer bescheert.</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab">Hier geld geen lochenen, 't zy hoemen 't wend of keert,</l>
+<pb n="44"/>
+<l>'t Is Priams teeckening. wy twyfflen nu niet langer,</l>
+<l>Of Palamedes gaet van dese boosheyd swanger.</l>
+</sp>
+<sp>
+<speaker>AJAX.</speaker>
+<l rend="; 1tab">Dat heeftmen lang gefocht, en onder 't volck gestroyt.</l>
+<l>En nu met desen brief het schelmstuck opgetoyt.</l>
+</sp>
+<sp>
+<speaker>NES.</speaker>
+<l rend="; 1tab">Ghy heeren siet wel toe, 't sijn sorgelijcke saecken,</l>
+<l>Hy vang wat wightigs aen, die tot een' schelm sal maecken,</l>
+<l>Een' wel geboren vorst, een' man van groot bewint:</l>
+<l>Dies wensch ick dat geen' wraeck uwe oogen en verblind'.</l>
+<l>Het stuck met reden wickt, en velt geen onrijp oordeel.</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab">Daer d'hoogheyd word gequetst, heeft niemand eenigh voordeel.</l>
+</sp>
+<sp>
+<speaker>N<hi rend="i">E</hi>S.</speaker>
+<l rend="; 1tab">Of d'hoogheyd is gequetst dat hangt hier in geschil.</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab">Hy merckt de misdaed licht, diese anders mercken wil.</l>
+</sp>
+<sp>
+<speaker>NES.</speaker>
+<l rend="; 1tab">Die yemand hatigh is seer licht een' brief kan dichten.</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab">Nabootsen hant en merck, d'onnooselheyd betighten?</l>
+</sp>
+<sp>
+<speaker>NES.</speaker>
+<l rend="; 1tab">Dat is wel eer gebeurt.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">AI</hi>.</speaker>
+<l>Alwaer het noyt geschied'</l>
+<l><hi rend="i">S</hi>oo derfmen 't nu bestaen.</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l>Die 't leger heeft verspied,</l>
+<l>Met brieven afgerecht, hier voor u leyd verslagen.</l>
+</sp>
+<sp>
+<speaker>AJAX.</speaker>
+<l rend="; 1tab">Indien hy levend waer men mocht hem ondervragen.</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab">De doode meld de saeck, het is een Phrygiaen.</l>
+</sp>
+<sp>
+<speaker>AJAX.</speaker>
+<l rend="; 1tab">Een slaef, die korteling in 't oorloogh werd gevaen,</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab"><hi rend="i">S</hi>o soumen alles wel in twyffel konnen trecken.</l>
+</sp>
+<sp>
+<speaker>AJAX.</speaker>
+<l rend="; 1tab">Zo soumen altijd wel des vroomen naem bevlecken.</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab">Die mensch was lang verdacht.</l>
+</sp>
+<sp>
+<speaker>AI.</speaker>
+<l>Zo was de valsche tong</l>
+<l>Des grooten logenaers.</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l>Ghy Ajax zyt te jong,</l>
+<l>Om Agamemnons mond soo kort te heeten liegen.</l>
+<l>Of lust' et u, zo wilt u selven niet bedrieghen:</l>
+<l>Maer dat uw degen passe op 't koninglijcke stael,</l>
+</sp>
+<sp>
+<speaker>AJAX.</speaker>
+<l rend="; 1tab">Zoo doet hy.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">NES</hi>.</speaker>
+<l>Houd gemack ghy heeren. laet de schael</l>
+<l>Van waere billickheyd beslechten d'ongelijcken.</l>
+<l>Hoe kan uw hevigh swaert een wettigh vonnis strijcken.</l>
+<pb n="45"/>
+<l>Die 't recht heeft op zyn' sy vaeck sneuvelt door het spits.</l>
+<l>Besadight breyn u schey': die rechter is te bits.</l>
+<l>Het mes zy op Dardans meyneedigh zaed verbittert:</l>
+<l>Dryf Hector op de vlucht, als 't blixemende schittert</l>
+<l>In d'appel zijner oogh, veel eer dan 't God geheng'</l>
+<l>Dat d'eene bondgenoot het bloed des anders pleng',</l>
+<l>En 't Dorisch leger ryt zyns zellefs ingewanden,</l>
+<l>Syn wapenen vermeng, verwarr' zyn rechterhanden.</l>
+<l>Wat had de vyand stof te lachen in ons' dood.</l>
+<l>Hoe zou hy vier en torts in ons gedeelde vloot</l>
+<l>Dan slingeren met maght, en met bebloede sabels</l>
+<l>'t Gedraeyde kennep gaen doorhouwen van ons kabels,</l>
+<l>En zenden brandende de kielen zeewaert in:</l>
+<l>In 't aensien van de stad, en Priaems hofgesin.</l>
+<l>'t Geschil aen my verblijft. vertrout mijn' silverhayren,</l>
+<l>En grauwen ouderdom. die veel is wedervaren.</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab">Al waer 't mijn eygen bloed zoo wil ick datmen straf</l>
+<l>De stichters van 't verraed.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">AI</hi>.</speaker>
+<l>Ick dat een open graf</l>
+<l>Hen levendigh verswelgh.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">NES</hi>.</speaker>
+<l>Wy stemmen 't all' te saemen;</l>
+<l>Maer waer de boosheyd schuylt schijnt doncker om te ramen.</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab">De goddeloos die neemt de scheemring tot zyn wyck.</l>
+</sp>
+<sp>
+<speaker>NES.</speaker>
+<l rend="; 1tab">Men stell'dan 't oordeel uyt tot dat het yeder blijck.</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab">Ontbeert dit schijn en blijck?</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">NES</hi>.</speaker>
+<l>Het is te twyffelachtigh.</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab">Wat eyscht ghy voor bewijs? hoe bondig? of hoe krachtig?</l>
+</sp>
+<sp>
+<speaker>NES.</speaker>
+<l rend="; 1tab">Dat klaer en helder licht gelijck de middagh doet.</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab">Hy quetst 't gemeene best die booze feyten voed.</l>
+</sp>
+<sp>
+<speaker>NES.</speaker>
+<l rend="; 1tab">Ick voe niet quaeds, maer vrees ontschuldig bloed te storten</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab">Ghy vreest niet eens den staet door slapheyd te verkorten.</l>
+</sp>
+<sp>
+<speaker>NES.</speaker>
+<l rend="; 1tab">De rechter handelt wijs, die veel quaeddoenders spaert,</l>
+<l>Om eene onnoosle ziel te vryen van het swaerd.</l>
+</sp>
+<pb n="46"/>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab">So kan geen rijk bestaen.</l>
+</sp>
+<sp>
+<speaker>NES.</speaker>
+<l>So kan het eeuwigh duuren</l>
+<l>Gerechtigheyd die bout de koninglijcke muuren;</l>
+<l>Daer onrecht en geweld palaysen ommeruckt;</l>
+<l>Van elcken druppel bloeds des geens dieme' onderdruckt,</l>
+<l>En doemt door 't schendigh stael, ontspruytẽ duysend wrockẽ,</l>
+<l>Die barsten uyt tot wraeck; wiens sweerd eens uytgetrocken</l>
+<l>Keert langzaem in zyn' schee. die hayligh bloed vergiet</l>
+<l>Terght Nemesis. sie toe, en roer deze Hydra niet.</l>
+<l>'t Is licht een hoofd gevelt in reuckeloozen tooren;</l>
+<l>Maer konst is 't, let hier op, den wortel gants te smooren,</l>
+<l>Wanneer den hals in plaets van een veele hoofden teelt.</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab">Mijn oordeel van het uw hier inne niet verscheelt,</l>
+<l>Ick kniel voor Themis throon, mijn' daeden dat betuygen.</l>
+<l>'t Waer dolligheyd het recht uyt haet en nyd te buygen.</l>
+<l>Ick zal niet wetteloos bestaen door onbescheyd.</l>
+<l>Wie tegens 't algemeen, en d'oppermajesteyt</l>
+<l>Sich zelven schandelijck, nocht eerloos heeft vergrepen,</l>
+<l>Die loopt geen lijfs gevaer.</l>
+</sp>
+<sp>
+<speaker>AI.</speaker>
+<l>Och waren noyt mijn schepen</l>
+<l>Verzeylt van Salamin in d'haven Tenedos.</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab">Gevaltet u zoo maeck uwe anckertouwen los.</l>
+<l>Ten steeckt den Grajen niet op tien of twalef kielen.</l>
+</sp>
+<sp>
+<speaker>AJAX.</speaker>
+<l rend="; 1tab">Maer doen twee Ajaxen 't gants leger tegenhielen,</l>
+<l>En redden uwe vloot: daer 't al scheen overmant,</l>
+<l>Daer Hectors fackel ree de zeylen stack aen brand;</l>
+<l>Doen stackter nau genoegh. hoe of dit uyt wil vallen?</l>
+<l>Mijn vader Telamon was d'eerste die de wallen</l>
+<l>Van Trojen eer beklom, en Hercles steef met kracht:</l>
+<l>Een van de vyftigh oock, die om de gulde vacht,</l>
+<l>Door 't klinckende gedruys der Cyaneesche rotzen,</l>
+<l>Na Colchos togen, en den zeevooghd gingen trotzen;</l>
+<l>Ick volgende den aerd van een' zoo braven held,</l>
+<l>Heb Helles vloed gekruyst, en hier in 't vlacke veld</l>
+<pb n="47"/>
+<l>Gespannen myne tent, en nam het leet ter harten</l>
+<l>Van Menelaus, en 't verongelijckte Sparten;</l>
+<l>Dits mijn besolding nu, dits Ajax al uwe eer;</l>
+<l>Wat drael ick, 'k heb verlof, men guntme dat ick keer.</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab">Vw vader Telamon, de terger der Trojaenen;</l>
+<l>Was oorzaeck van veel bloeds, en veeler Griecken traenen,</l>
+<l>Was oorzaeck dat de vloot der Phrygen overwoey;</l>
+<l>Dat Alexander in vergoeding zyner moey,</l>
+<l>Mijn broeders bedgenoot, en dierbaer pand vervoerde,</l>
+<l>En door zijn' roof Europe, en Asien beroerde.</l>
+<l>Wat uwe reys belangt, ghy stoft al t'onbedocht,</l>
+<l>Als of aen u alleen hing d'overzeesche toght.</l>
+<l>Neen, Ajax, staeck dien roem, en wiltet my vergeven,</l>
+<l>Om eenen Ajax waer de toght niet nagebleven.</l>
+</sp>
+<sp>
+<speaker>NES.</speaker>
+<l rend="; 1tab">Ghy Heeren waer toe dient dit onderling verwijt?</l>
+<l>Het baert afkeerigheyd als d'een den andren bijt.</l>
+<l>Ick bid den oppervorst hy wil zyn' gramschap sussen,</l>
+<l>En niet den oorlooghsmoed van dezen kryghsheld' blussen:</l>
+<l>Wiens braeve daeden volght onsterffelijcke naem.</l>
+<l>De mond eens yegelijcx gaet swanger van zijn' faem.</l>
+<l>Een veldheer die met hoon zyne hoplien loont na'et stryen,</l>
+<l>Sijn eygen heyrkracht gaet de seenwen stucken snyen.</l>
+</sp>
+<sp>
+<speaker>AJAX.</speaker>
+<l rend="; 1tab">Daer leyd 't vervloeckt geweer, de Goden straffen my</l>
+<l>Indien ick immer gord den degen op myn zy'.</l>
+<l>Geen held behaelt hier lof, hoe dapper, hoe rechtschapen,</l>
+<l>Hoe vroom hy sit te paert. dat sich een ander wapen.</l>
+<l>Ick dien geen dwingeland, nocht geen vermetel hoofd:</l>
+<l>Dat niets prijswaerdigh acht als 't geen sijne harssen looft.</l>
+</sp>
+<sp>
+<speaker>NES.</speaker>
+<l rend="; 1tab">Nu Ajax toom den moed, beweer uw' zaeck met reden.</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab">Wy zyn dit lang gewent, 't zyn d'oude korselheden,</l>
+<l>Best dat hy eerst bedaer.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">NES</hi>.</speaker>
+<l>'t Is heftigh gekrackeelt,</l>
+<l>Het drucktme de gemoên te zien aldus verdeelt,</l>
+<pb n="48"/>
+<l>En wenschte dat die twist beslecht waer en bevredight.</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab">Ick wensch het desgelijcx.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">NES</hi>.</speaker>
+<l>Als elck het zyn verdedight,</l>
+<l>En treckt zyn streng na maght, is 't wilt en ongesien.</l>
+</sp>
+<sp>
+<speaker>AAG.</speaker>
+<l rend="; 1tab">Wat Agamemnon drijft dat moet voor al geschien.</l>
+<l>'t Betaemt den minderen voor meerdre macht te duycken.</l>
+</sp>
+<sp>
+<speaker>NES.</speaker>
+<l rend="; 1tab">Een Koning kan zeer licht d'ontfange maght misbruycken.</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab">Dat oordeel staet aen hem.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">NES</hi>.</speaker>
+<l>En oock aen zyn' gemeent,</l>
+<l>Van wie hy zyne maght, en heerlijckheyd ontleent.</l>
+<l>De Koning is om 't volck wijs die sigh weet te voegen</l>
+<l>Na 's tyds gelegentheyd, en yeder kan vernoegen?</l>
+<l>Insonderheyd die zyn van zyn' geheymen raed,</l>
+<l>En leden van het rijck, en pylers van den staet.</l>
+<l>Vwe hooogheyd alle ramp, en ongeluck verhoede.</l>
+</sp>
+<sp>
+<speaker>ULYS.</speaker>
+<l rend="; 1tab">Ick spreker zoo veel in, men houd 'et my te goede:</l>
+<l>Dat elck den vorst verschoone, en quaed vermoeden schort,</l>
+<l>Soo lang na luyd des briefs geen goud gevonden word</l>
+<l>Ontrent de legerplaets van Palamedes tenten.</l>
+<l>Men ondersoecke het stuck, en staeck' dees dreygementen.</l>
+</sp>
+<sp>
+<speaker>DIO.</speaker>
+<l rend="; 1tab">Die raed my wel gevalt.</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l>Wat zeydter Nestor van?</l>
+</sp>
+<sp>
+<speaker>NES.</speaker>
+<l rend="; 1tab">Oprechte munt de proef gewilligh lyden kan,</l>
+<l>Soo sal 't navorschen oock geen eerlijck man beschaemen.</l>
+</sp>
+<sp>
+<speaker>ULYS.</speaker>
+<l rend="; 1tab">Wie neemt dien last op sigh?</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l>V beyde sal 't betamen.</l>
+</sp>
+<sp>
+<speaker>ULYS.</speaker>
+<l rend="; 1tab">Het waer ons aengenaemst, indien het andre deên,</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab">Volbrengt ghy mijn bevel: Verricht dit met u tween.</l>
+</sp>
+<pb n="49"/>
+<sp>
+<speaker><hi rend="spat">CALCHES</hi>. <hi rend="spat">EURIPILU</hi><hi rend="i">S</hi>.</speaker>
+<l>ONsterffelijcke Goôn, wier overgroot vermogen</l>
+<l>Uw' priesterschap beschermt, als d'appel uwer oogen:</l>
+<l>Die uyt uw' stoelen daelt, beweven met een' wolck,</l>
+<l>En handhaeft uw' gemeent, uw eer ophoudend volck,</l>
+<l>En waerde speelgenoots: die over hunne waeyen</l>
+<l>De soomen van hun kleed, en mantels laten sweyen:</l>
+<l>Wier langgebaerde kin van hayren hangt vermast</l>
+<l>Wier winckbrau en gebaer niet lochent, hoe hun past</l>
+<l>Een wetteloose maght: die prat op vorstenbanden,</l>
+<l>En keyfers kroonen treed: wier hoeden breed van randen,</l>
+<l>Gebogen van ter sy', voor spits en achter spits,</l>
+<l>Beschaduwen 't gelaet, daer 't lieffelijck, en bits</l>
+<l>Sich in het staetigh menght, tot styving van geboden,</l>
+<l>En sielentuchtiging: ontsterffelijcke Goden,</l>
+<l>Die onse demoed hebt geheven uyt het stof</l>
+<l>Op uwen tempeltroon: o Goden, u sy lof,</l>
+<l>Dat ghy uwe eere wreeckt, en straftse dievermetel</l>
+<l>Opdraegen 't kerckenrecht den weereldlijcken setel:</l>
+<l>Die al te seker staen op 't slibberigh en steyl,</l>
+<l>En schroeven 't heylighdom ten dienst van burgerheyl.</l>
+<l rend="; 1tab">Dat Palamedes ons nu muylbande, en tot spot maeck</l>
+<l>'t Gesagh der tempeliers, de sekerheyd der Godspraeck:</l>
+<l>Dat hy op 't outer nu sijn' nieuwe grouwelen set,</l>
+<l>En wuft, en onbesuyst onse outerkleên besmet.</l>
+<l>Nu sal hy leeren wat het in heeft dus t'ontyde</l>
+<l>Sijn' vingeren te slaen aen 't priesterlijck gewyde.</l>
+<l rend="; 1tab">Wy staen met Goden in ontbreeckelijck verbond.</l>
+<l>Al wie ons wederspreeckt, die wederspreeckt Gods mond.</l>
+<l>Wy sijn afdrucksels Gods, onsterflijckheyds gesanten.</l>
+<l>Wy sijn gehult, gesalft tot Iupiters trawanten,</l>
+<pb n="50"/>
+<l>En voeren sijn' levrey, en maecken sijnen stoet,</l>
+<l>En door onse hayligheyd men Godheyd spreecken moet.</l>
+<l>Wat weereltlijcke macht ons stout derf tegenwroeten,</l>
+<l>Diens setel sijght, en staet op waggelende voeten.</l>
+<l>Ons' wencken blicxems sijn, en donders yeder woort.</l>
+<l>Wy sijn een muur om 't rijck, de sleutels van stadspoort,</l>
+<l>De fackels om een land in lichten brand te stellen.</l>
+<l>Gezart wy geven aen d'uytbraecxselen der Hellen,</l>
+<l>En vloecken vryen toom: en geen <hi rend="i">M</hi>onarch soo gaeu</l>
+<l>Sijn heyr brengt op de been, als wy het woeste graeu.</l>
+<l>Daer komt Eurypilus. wel soon, mijn' sinnen hangen</l>
+<l>In twyfiel tusschen vrees, en hartelijck verlangen.</l>
+<l>Hoe is het spel vergaen? is 't boschswijn eens gejaegt?</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">EVR</hi>.</speaker>
+<l rend="; 1tab">O eer des priesterdoms, men heeft te recht gedaeght,</l>
+<l>Den vyand onses naems: na datmen opgegraven</l>
+<l>Hadde in sijn' legertent d'ontfange Troische gaeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">CAL</hi>.</speaker>
+<l rend="; 1tab">Mijn hart van blyschap swelt, en geeft den geest meer bots:</l>
+<l>Mijn ingewand ontspringt nu eens die vyand Gods</l>
+<l>Ten lesten is betrapt door d'Ithakoische stricken.</l>
+<l>Het noodlot dit bestuurt, geen menschelijck beschicken.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">EVR</hi>.</speaker>
+<l rend="; 1tab">Maer of die schalcke noch dit lijfsgevaer ontsprong,</l>
+<l>Door sijn ervaeren breyn, en slibbergladde tong?</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">CAL</hi>.</speaker>
+<l rend="; 1tab">De saeck en lyd geen' last. wy sullen 't soo bestellen</l>
+<l>Dat sijn dood vyanden, en haeters 't oordeel vellen:</l>
+<l>Na datmen 't oude, en langvergeten uyt den hoeck</l>
+<l>Gehaelt heeft, en doorsocht wel naeu sijns levens boeck.</l>
+<l>Van dingen die hem sijn ontschoten door de jaeren:</l>
+<l><hi rend="i">E</hi>n waer de logen geld, daer salmen waerheyd spaeren:</l>
+<l><hi rend="i">E</hi>n geven 't valscheen schijn van oprecht, en een' verf</l>
+<l>Van bloedbad, van verraed, van lien en landbederf.</l>
+<l>Sijn vonnis boven aen sal in het voorhoofd voeren:</l>
+<l>Hoe dat hy driest bestond het haylige aen te roeren,</l>
+<pb n="51"/>
+<l>En brack met eenen band 's rijcx banden altemael:</l>
+<l>Het heyr verwarrende met een' gedeelde tael:</l>
+<l>Beswangrende een gedroght, en Hydra van geschillen,</l>
+<l>Van nood, gebeurlijckheyd, van moeten, en van willen:</l>
+<l>En eyschte in dit geschrey, dat slechts sijn bovensang</l>
+<l>Alleen sou sijn gehoort, door kerck, en priester dwang:</l>
+<l>Ia wetten gevende, waer na dat d'outerknechten,</l>
+<l><hi rend="i">E</hi>en hemelsch Godvryvolck, sich souden moeten rechten:</l>
+<l>En steef het onderscheyd van noodigh, en van nut:</l>
+<l>En streckte door gesagh der nieuwigheden stut:</l>
+<l>Afslaende een wettige versameling van Paepen:</l>
+<l>En brengende om sijn' tent vreemd krijgsvolck in de wapen,</l>
+<l>Self buyten 's veldheers last: en duysent dingen meer.</l>
+<l><hi rend="i">M</hi>aer gaenwe binnen, want de raed vergadert weêr.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">PALAMEDE</hi><hi rend="i">S</hi>.</speaker>
+<l>O Nacht, wiens doncker kleed beschaduwt alle menschen,</l>
+<l>Soo wel die heerlijck sijn, als die om noodruft wenschen:</l>
+<l>Wat boosheyt decktghe doch met dicke duysternis,</l>
+<l>Wiens laegen of bedrogh uw' naerheyd gunstigh is?</l>
+<l>Men vordertme in den raed, hoe derf ick my vertrouwen.</l>
+<l>Het is op my gemunt, daer is wat quaeds gebrouwen.</l>
+<l>Men mompelt allerleyds: men stroyt een valsch gerucht.</l>
+<l>Mijn' vrienden sijn besorght, men raedme dat ick vlught.</l>
+<l rend="; 1tab">Hoe kan een vroom gemoed, ghy kentet Hemellieden,</l>
+<l>Dat niets en is bewust, verstaen tot eerloos vlieden!</l>
+<l>Hoe kan een edel hart verswelgen, datmen segg':</l>
+<l>Die droop voor schellem door voor Trojen in 't belegh,</l>
+<l>Noch' dorst gedaghvaert niet sijn' saeck voor recht bepleyten:</l>
+<l>Vermits hy was berucht van schandelijcke feyten.</l>
+<pb n="52"/>
+<l rend="; 1tab">Neen Palamedes, blijf, en hou noch liever stal:</l>
+<l>Al schietmen pylen uyt gedoopt in bittre gal,</l>
+<l>Soo brandmerck door uw' vlucht, uyt ydele vervaernis,</l>
+<l>De glori niet uws naems, u selven tot beswaernis,</l>
+<l>Uw' magen tot verwijt, uw' vyanden tot vreughd':</l>
+<l>Maer beur uw voorhoofd op, en toon dat waere deughd',</l>
+<l>Als d'eedle pallemboom, geen' last te draegen weygert,</l>
+<l>En tegens 't swaer gewight der lasteringen steygert.</l>
+<l rend="; 1tab">Het onverbreeckelijck recht van 't oude Grieckenland,</l>
+<l>d'Handvesten oyt geschat een dier en hayligh pand,</l>
+<l>De gulde vryheyd, die vast treurt, en slaet aen 't quynen,</l>
+<l>Ick reys aen reys dus lang, heb tegens 't ondermynen</l>
+<l>Der boosen voorgestreên: ick blijf haer schutsheer noch,</l>
+<l><hi rend="i">E</hi>n voorspraeck tegens list, en uytgemaeckt bedrogh,</l>
+<l>So lang een' druppel bloeds sal uyt mijn' aders leecken:</l>
+<l>Soo lang mijn' suyvre tong kan suyvere waerheyd spreecken.</l>
+<l rend="; 1tab">De maght ontbreecktme niet om dit gevaer t'ontgaen.</l>
+<l>Jupijns manhafte soon, sijn neef de Peleaen</l>
+<l>Erbieden sigh om strijd, met hooge en haylige eeden,</l>
+<l>Te keeren 's veldheers grim en ongerechtigheden.</l>
+<l>En mijn' onnoselheyd, in spijt van logentael.</l>
+<l>En siedendheete wraeck, door waepenen en stael</l>
+<l>Te vrijen wettelijck: maer als ick 't overwege,</l>
+<l>'t Is beter dat ick lij, dan dat ick mijne sege</l>
+<l>Met burgermoord bevleck, en om hun onverstand</l>
+<l>Grieck tegens Grieck, en standaers tegen standaers kant:</l>
+<l>'t Is beter datme' een' siel verdelge van der Aerde,</l>
+<l>Als 't euvel uytwasch met den schitterenden swaerde.</l>
+<l rend="; 1tab">Van datmen my verkoor tot aller vorsten mond,</l>
+<l>En als verdediger, aen ons gebied verbond,</l>
+<l>Met diergesworen eên, verstond ick, so ick 't huyden</l>
+<l>Hoognoodigh voor den staet [hoe schendigh sy 't misduyden]</l>
+<pb n="53"/>
+<l>En tot versekering der vorsten in 't gemeen,</l>
+<l>Noch oordeel: dat 't gesag op 't hayligdom alleen</l>
+<l>Den scepter toebehoort, en vorstelijcke banden:</l>
+<l>En dat geen tempelier sijn' vingers en sijne handen</l>
+<l>Sal schenden aen dien toom, en teugel: als een recht</l>
+<l>En hoogheyd aen 's lands staet onscheydbaer vast gehecht.</l>
+<l>Het is van aenvang oock by alle bontgenooten</l>
+<l><hi rend="i">E</hi>enpaerigh soo verstaen, verdedight, en beslooten:</l>
+<l>Soo drijf ick dan niet nieus, of seldsaems, soomen 't noemt:</l>
+<l><hi rend="i">M</hi>aer 't priesterdom, dat slincx het weereldlijck verdoemt.</l>
+<l rend="; 1tab">Genomen ick waer stom, en liet dien teugel slippen:</l>
+<l>Tot wroeging myner siele, en schennis myner lippen:</l>
+<l><hi rend="i">S</hi>ou niet te duchten staen gewetens scharpe dwang,</l>
+<l>Waer aen gekoppelt is der steden ondergang?</l>
+<l>Na 'et bannen van de deughd, na 'et grouwelijck bestormen</l>
+<l>Van raedhuys, en van kerck: na 'et endeloos hervormen</l>
+<l>Van tempel, tempeldienst, en wat aen 't outer kleeft.</l>
+<l>Wat raedsheer is so jong die 't niet en heeft beleeft?</l>
+<l>De kercke galmen noch. de kussens, en de saelen</l>
+<l>Ontbloot van grysen raed: het roocken van de palen,</l>
+<l>Beschreyen hun geweld, en 't swaert van bloed bespat.</l>
+<l>Hunn dolligheyd die spoockt en roockt van <hi rend="i">S</hi>tad op stad.</l>
+<l>Het hayligh parckement, met heerlijck was besegelt.</l>
+<l>Betuyght hunn' rasery, te woest, en ongeregelt.</l>
+<l>Vergevet my, indien mijn' vroomigheyd gezart,</l>
+<l>Na soo getrou een' dienst, uw' seeren raeckt te hard.</l>
+<l>De Goden sullen tot gerechtigheyd bewogen</l>
+<l>De klaere waerheyd eens doen blincken, als de logen</l>
+<l>Van d'Ithakois gesmeed, van Calches tong gevijlt,</l>
+<l>Gelijck een damp verstuyft, en als een roock verijlt.</l>
+<l rend="; 1tab">Men maeckt den veldheer diets, om ons als kaf te wannen,</l>
+<l>Als waermen tegens hem met yver ingespannen:</l>
+<pb n="54"/>
+<l>Daer niemand het als ick sijne eere gevordert heeft:</l>
+<l>Hoewel getrouwe dienst my quae' belooning geeft.</l>
+<l>'t Is waer ick dulde 't noyt, noch' sal het niet gehengen</l>
+<l>Met mijn' bestemming, datm' onordentlijck ga mengen</l>
+<l>'t Bysonder en 't gemeen, 't welck groot geschil verweckt.</l>
+<l>Het opperste gesagh, als hy te velde treckt,</l>
+<l>Is met gemeenen raed sijn' scepter opgedragen:</l>
+<l>Niet om 't besonder recht der vorsten te belaegen,</l>
+<l><hi rend="i">E</hi>n dese maght soo wijd te strecken, datter een</l>
+<l>'t Bysonder eygendom sou smelten in 't gemeen,</l>
+<l>En als een dwingeland sich inden setel setten,</l>
+<l>En schenden de van ouds besworen Griecxsche wetten.</l>
+<l><hi rend="i">H</hi>oe kan ick schaemteloos dat onrecht met hem staen,</l>
+<l>En tegens eer en eed mijn vaderland verraen?</l>
+<l rend="; 1tab">'t Besetten myner tent, met meerder tal van wachten,</l>
+<l>Geen wettigh voedsel geeft tot allerley' gedachten:</l>
+<l>Vermits het is geschied door Ajax wijsen raed.</l>
+<l>Ick was alree gebrogt in veeler hoplien haet:</l>
+<l>Men sagh nocht hoorde niet als blixemen, en dondren:</l>
+<l>Men mompelde van moord, bloedstortingen, en plondren.</l>
+<l>Wat vorst vermagh dit niet? wat raeckt het yemands kroon,</l>
+<l>Dat ick voorsichtighlijck verseker mijn persoon?</l>
+<l>Dit maeckt geen' staet in staet, gelijck sy lastren darren,</l>
+<l>Noch' streckt niet om het heyr door tweedragt te verwarren:</l>
+<l>Maer wel tot eenigheyd, dewyl mijn lyfwachts eed</l>
+<l>Noch' tegens 't algemeen, noch' 'skonings hoogheyd streed.</l>
+<l rend="; 1tab">Dat wy de schatkist van 's lands middelen uytputten,</l>
+<l>Waer door sich 't weerloos heyr niet langer kan beschutten,</l>
+<l>Ia loopt geen kleyn gevaer van droeve nederlaegh,</l>
+<l>Ten sy men met Priaem sich schandelijck verdraegh:</l>
+<l>Is logen en versiert. 't sou waerheyd het gelijcken,</l>
+<l>Waer dit gestroyt om hen die eerloos sich verrijcken.</l>
+<pb n="55"/>
+<l rend="; 1tab">Maer daer en deert het niet. 't is niet soo seer om my.</l>
+<l>Men tracht den vryen staet te quetsen door mijn' sy.</l>
+<l>Men roept tot slaefschen dienst het vrygevochten Griecken.</l>
+<l>En treckt bedecktelijck slaghveeren uyt sijn' wiecken.</l>
+<l>Men gaet de vroomste na, op datmen 't recht verstom.</l>
+<l>De Godsdienst streckt een grijns, en 't schelmstuck gaet voor mom.</l>
+<l>Wat kael is een beroyt tot Agamemnons voordeel</l>
+<l>De saecken handhaeft, niet uyt wetenschap en oordeel:</l>
+<l>Maer puur uyt eygebaet. 't geraes, 't gedrang, 't gewoel</l>
+<l>Is om den Hayligh niet, maer om den hayligen stoel.</l>
+<l rend="; 1tab">Ick sal gedaghvaert dan voor Agamemnon treden,</l>
+<l>En tegenwoordigh self den loosen raed bekleeden,</l>
+<l>En uytstaen met geduld, het sy oock wat het sy.</l>
+<l>Koom lasters logentael, ick ken my selven vry.</l>
+<l>Koom overjaerde wrock, koom lang gedreygde wraecke.</l>
+<l>Ick steun op mijn gemoed, en op mijn goede saecke.</l>
+<l>Ick stap mijn' dood te moet: sy streck' 't gemeen tot baet,</l>
+<l>Als ick mijn bloed vergiet ten offer voor den staet.</l>
+</sp>
+<pb n="56"/>
+<sp>
+<speaker><hi rend="spat">PALAMED</hi><hi rend="i">E</hi><hi rend="spat">S</hi>. <hi rend="spat">AGAMEMNON</hi>. <hi rend="spat">N</hi><hi rend="i">E</hi><hi rend="spat">STOR DIOMEDES</hi>. <hi rend="spat">ULYSSE</hi><hi rend="i">S</hi>.</speaker>
+<l>ICk benop uw ontbod, beheerscher van Mycenen,</l>
+<l>En overste van 't heyr, hier in den raed verscheenen.</l>
+<l>Wat onraed drijft u op, en daghvaert ons by nacht?</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">AGA</hi>.</speaker>
+<l rend="; 1tab">Ghy Palamedes waert van overlangh verdacht,</l>
+<l>En 't quaed vermoeden groeyt, als of ghy met de Phrygen</l>
+<l>Had heymelijck verstand.</l>
+</sp>
+<sp>
+<speaker>PA</speaker>
+<l>d'Onnoosle te betygen</l>
+<l>Was oyt geringe kunst, en sotte kinderklap:</l>
+<l>Daer 't overtuygen is eene hoogre wetenschap.</l>
+<l>Wy hebben niet gemeens met dat meyneedigh Trojen.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">AGA</hi>.</speaker>
+<l rend="; 1tab">Hoe koomt ghy dan berucht?</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">PA</hi>.</speaker>
+<l>Dat vraeght hen die dit stroyen.</l>
+<l>Tot schennis mynes naems.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">AGA</hi>.</speaker>
+<l>Gemeenlyck wilt soo gaen,</l>
+<l>Waer yemand word belast, daer is een weynigh aen.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">PAL</hi>.</speaker>
+<l rend="; 1tab">Soo maeckt de lastering dan vroome luyden schuldigh?</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">AGA</hi>.</speaker>
+<l rend="; 1tab">Dat volght niet: maer 't geroep is nu soo menighvuldigh</l>
+<l>In aller krygslien mond, en selfs in Priams stad:</l>
+<l>Soo datmen vast gelooft daer hapert dit of dat.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">PAL</hi>.</speaker>
+<l rend="; 1tab">Onseker landgerucht moet logen syn of waerheyd.</l>
+<l>Dat elck 't bedencken schorte, en wacht op meerdre klaerheyd,</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">AGA</hi>.</speaker>
+<l rend="; 1tab">De staet en lyd het niet, het leger loopt gevaer.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">PAL</hi>.</speaker>
+<l rend="; 1tab">Wat eyscht dan d'oppervorst, dat ick de waerheyd spaer,</l>
+<l>En logentael verdicht, en valsche stricken breyde,</l>
+<l><hi rend="i">M</hi>yne eyge siel verworg, en soo van hier verscheyde?</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">AGA</hi>.</speaker>
+<l rend="; 1tab">Spreeck waerheyd, meld ons flucx wat in dien boezem steeckt.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">PAL</hi>.</speaker>
+<l rend="; 1tab"><hi rend="i">E</hi>en vroom en oprecht hart dat waere deughden queeckt,</l>
+<pb n="57"/>
+<l>Dat noyt en was gekrenckt door konincklijcke giften.</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab">Ghy zoon van Nauplius men zal uw' woorden siften,</l>
+<l>V selven niet bedriegh, nocht hael geen' swaerdre straf</l>
+<l>Vw' misdaed op den hals: men heefter tyding af.</l>
+<l>Heeft Paris met een g'lay u niet aen boord gelegen?</l>
+<l>Siet daer, hy staet verstomt: hy heefter op geswegen:</l>
+<l>Hy zet zijn' doodverw: hy besterft in 't aengesicht:</l>
+<l>Het quaed geweten wroeght: het schellemstuck betight</l>
+<l>Syn' eygen meester. zoo, zoo zal ick 't kluwen krijgen,</l>
+<l>Wy hebben 't end alree: hy staetet toe met swijgen.</l>
+</sp>
+<sp>
+<speaker>PAL.</speaker>
+<l rend="; 1tab">Niet schellems sta ick toe, noch ben in 't minst bewust</l>
+<l>Van meyneed of verraet, nocht innerlijck ontrust.</l>
+<l>Neen Agamemnon, neen: maer ben al heel verwondert</l>
+<l>Om dees' beschuldigingh, die in mijn ooren dondert.</l>
+<l>Ick merck uw' valscheyt dingt na mijn onnoozel bloed;</l>
+<l>Dat mooghtge storten, maer 't vrysprekende gemoed</l>
+<l>Vytblusschen nimmermeer, myne onschuld 't hoofd zal heffen</l>
+<l>Ten golven uyt, of schoon haer lasterbuyen treffen.</l>
+<l>Is 't om mijn' dood gedaen, zoo spaer deze ydle reên,</l>
+<l>Koom koel uw' moed aen my, en leydme daetlijck heen.</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab">Hy maeckt sich zelven 't soeck, ja derf den Koning tergen,</l>
+<l>Ontkend 't bekende feyt, en waentet te verbergen.</l>
+<l>Wy moeten strenger gaen, voorts brengt de pynbanck hier,</l>
+<l>En parst de waerheyd uyt met water en met vier;</l>
+<l>Het is hardneckigheyt. brengt herwaerts hayre koorden,</l>
+<l>En reckt hem kruysgewys. hy past op niemands woorden.</l>
+<l>Wy hebben dat wel eer halsterckere verleert.</l>
+</sp>
+<sp>
+<speaker>PAL.</speaker>
+<l rend="; 1tab">Dats strydigh tegens recht.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">AGA</hi>.</speaker>
+<l>Geen oorlooghsvorst sich keert</l>
+<l>Aen yemands recht of wet. de Vorsten vol en droncken</l>
+<l>D'Handvesten nu en dan de Griecxsche steden schoncken:</l>
+<pb n="58"/>
+<l>Hy neemtze dieze gaf den volcke in eygendom;</l>
+<l>'t Is heeren gift, een heer die eyschtze wederom.</l>
+<l>Indienze ons dienstigh zyn, wy willen datze spreecken;</l>
+<l>Maer swygen, zooze ons 't hooft met tegenstribben breecken.</l>
+</sp>
+<sp>
+<speaker>PAL.</speaker>
+<l rend="; 1tab">Men heefter dan vergeefs vaeck oorloogh om gevoert;</l>
+<l>Vergeefs 't aenpaelend rijck zyns nabuurs om beroert,</l>
+<l>En ydel opgestoft. uw vader in zyn leven</l>
+<l>Sprack dickwils: waer toe 't recht in parckement geschreven,</l>
+<l>Met letters rood van goud, gestarckt met heerlijck wasch:</l>
+<l>Wanneer geen burger oyt des sellefs vruchten las,</l>
+<l>Nocht deel had aen 't genot. och overheerde Argiven!</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab">Wy staen op 's vyands boôm, mijn willen, mijn believen,</l>
+<l>Is aller Griecken wet. acht yemand mijne stem</l>
+<l>Een' krachteloosen galm, mijn degen geeftse klem.</l>
+<l>Nu antwoord op ons vraegh. hier geld geen tegenstreven.</l>
+</sp>
+<sp>
+<speaker>PAL.</speaker>
+<l rend="; 1tab">Ick ben, heer Koning, u noyt antwoord schuldigh bleven.</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab">Voorts rand den booswicht aen. gy pynigers koomt voort,</l>
+<l>Wat voer ick woordenstrijd met desen schelm, hy hoort</l>
+<l>Nocht luystert na mijn' reên, voorts legt hem 't vier wat nader,</l>
+<l>Daer is niet aen verbeurt al sneuvelt de verrader.</l>
+</sp>
+<sp>
+<speaker>PAL.</speaker>
+<l rend="; 1tab">Ghy heeren siet voor u, ick ben in uwe maght:</l>
+<l>Gebeurtme leed of smart, dat is geweld en kraght.</l>
+<l>Ghy mooght met luy gebaer de ruyme locht vervullen;</l>
+<l>Maer denckt daer levender die 't van u eysschen sullen.</l>
+<l>Belydenis door pijn uyt yemands mond geparst,</l>
+<l>Word selden vast gelooft, en schoon ghy 't heelt, het barst</l>
+<l>Ten dicken muuren uyt. hy overtreed de paelen</l>
+<l>Van billijckheyd, die zoo waend yemand t'achterhaelen.</l>
+</sp>
+<sp>
+<speaker>NES.</speaker>
+<l rend="; 1tab">Indien het u gevalt, o veldheer, ga met my,</l>
+<l>Op datwe ons onderlingh bespreecken aen d'een' sy'.</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab">Wat seyd de vader goeds?</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">NE</hi>.</speaker>
+<l>Ick sal grootmagtig koning</l>
+<l>Van u niet bidden 't geen magh dienen tot verschooning</l>
+<pb n="59"/>
+<l>Van meyneed, of verraed: is hier de minste schuld,</l>
+<l>Hy draegh verdiende straf, en peenen met geduld;</l>
+<l>Maer dat ghy niet en tracht, door pynigen en recken,</l>
+<l>Een' misdaed uyt den mond van dezen vorst te trecken,</l>
+<l>Tot quetsingh van de grootste, en van 't bysonder recht</l>
+<l>Des vorstelijcken naems, en zoo u zelf' bevecht.</l>
+<l>Men heeft oock op dit stuck nu lang genoegh gedrongen.</l>
+<l>Misschien is 't giftigh spogh van bitze lastertongen;</l>
+<l>Maer isser anders yet, men legge hem dat te last,</l>
+<l>En geef zyne onschuld plaets.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">AG</hi>.</speaker>
+<l>De booswicht die is vast,</l>
+<l>O roem van Neleus stam, het schelmstuck zal ons scheyden.</l>
+<l>Wy vonden 't goed hem zoo een weynigh om te leyden;</l>
+<l>Maer of hy 't loochnen dorst, alwaerder blyck en schijn,</l>
+<l>Sou dan de pynbanck niet ons' jongste toevlucht zyn?</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">NES</hi>.</speaker>
+<l rend="; 1tab">'t Geen blijckt dat spreeckt van zelf: wie vuyl is moet sich schamen.</l>
+<l>Daer vele teeckenen een' zaeck bestemmẽ t'zamen.</l>
+<l>Men neem zoo kort een' wegh alsme' immer nemen kan.</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab">Sleept hier den dooden spie. wat dunckt u van dien man?</l>
+</sp>
+<sp>
+<speaker>PAL.</speaker>
+<l rend="; 1tab">Het is een zielloos lijf.</l>
+</sp>
+<sp>
+<speaker>AG.</speaker>
+<l>Dat is 't niet datwe vraegen.</l>
+<l>Is 't niet de spie die vaeck het leger quam belaegen?</l>
+</sp>
+<sp>
+<speaker>PAL.</speaker>
+<l rend="; 1tab">'t Waer mooglijck.</l>
+</sp>
+<sp>
+<speaker>AG.</speaker>
+<l>'t Is hy zelf, die dicwils was gewent</l>
+<l>Te duycken in de schaeu van Palamedes tent.</l>
+</sp>
+<sp>
+<speaker>PAL.</speaker>
+<l rend="; 1tab">Mijn aengesicht dien mensch met kennis noyt aenschoude.</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab">Vwe oogen zagen hem, doen ghy hem toevertroude</l>
+<l>'t Geheym van brief aen brief: of als hy van Priaem</l>
+<l>V schriften brachte, en groete in 's grijzen konings naem.</l>
+</sp>
+<sp>
+<speaker>PAL.</speaker>
+<l rend="; 1tab">Mijn hayr moet als Megeer van swarte slangen krielen;</l>
+<l>Mijn' schimme naemaels draege alleen, 't geen alle zielen,</l>
+<l>In onderaerdschen poel van Dis is toegedoemt;</l>
+<l>Mijn naem die zy een vloeck waer dat hy word genoemt;</l>
+<l>Of als Prometheus moet ick 't leverpicken lyen;</l>
+<l>Indien ick kennis heb aen dees verraderyen.</l>
+</sp>
+<pb n="60"/>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab">Spaer uw meyneedigheyd, o boos verraders hart!</l>
+<l>Hoe dat ghy hooger sweert, hoe dieper ghy verwart.</l>
+<l>Lees zelf den loosen brief van 's Konings ring gezegelt,</l>
+<l>Geteeckent met zyne hand, en vloeck niet ongeregelt.</l>
+</sp>
+<sp>
+<speaker>PAL.</speaker>
+<l rend="; 1tab">Het schryven is Priam noch Hector niet verboôn,</l>
+<l>Noch streckt my tot geen' vleck. ghy kentet goede Goôn,</l>
+<l>Die veer zijt van 't bedrogh in uwen troon gezeten,</l>
+<l>Hoe zuyver dat ick ben, en hayligh van geweten.</l>
+</sp>
+<sp>
+<speaker>AGA</speaker>
+<l rend="; 1tab">Nu Diomedes tuygh.</l>
+</sp>
+<sp>
+<speaker>DI.</speaker>
+<l>Wat eyschtmen voor bescheed?</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab">Tuyg wat u wedervoer als ghy de ronde deed.</l>
+</sp>
+<sp>
+<speaker>DIO.</speaker>
+<l>'t Was over middernacht, de bleecke starren vielen.</l>
+<l>Eerst ging ick strandewaerts besichtigen ons' kielen;</l>
+<l>Maer alles was in stilt: doen namen wy ons pad</l>
+<l>Na Ida, tusschen 't heyr, en tusschen 's vyands stad:</l>
+<l>Van derwaerts hoorden wy 't geruysch van yemands voeten,</l>
+<l>En hielden stal, belust wat of ons zoude ontmoeten;</l>
+<l>Of spoock, of dier, of mensch. 't gerucht quam nader aen.</l>
+<l>Mijn oor begeerigh ving het ritselen der blaên,</l>
+<l>Van 't lisch, en 't groene kruyd. by scheemerschaeu ten lesten</l>
+<l>Soo worde ick hem gewaer, het dien den Grieck ten besten,</l>
+<l>En roep: wie daer? hy swyght, en ruckt geswind voorby.</l>
+<l>Ick volgh met blanck geweer, en quets hem in zyn' dy,</l>
+<l>En vat hem na den kraegh; hy duyckt, en, of het God gaf,</l>
+<l>In 't duycken ick den spie steeck botteling den strot af;</l>
+<l>Met sneuvelt op het veld de schelm en loose dief.</l>
+<l>Men ruckt zyn' boezem op, en vindter desen brief:</l>
+<l>Waer uyt de boodschap blijckt, en wien hy was gesonden.</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab">Tot meerdre sekerheyd, om alles te doorgronden,</l>
+<l>Soo heeftmen nagevorscht wie deze laegen brout:</l>
+<l>Wie schelms genoten heeft het vyandlijcke goud,</l>
+<l>En 't loos geheym ontdeckt. Ulysses doe ons open,</l>
+<l>En toon waerme' men tracht den Kryghsraed om te koopen.</l>
+</sp>
+<pb n="61"/>
+<sp>
+<speaker>ULYS.</speaker>
+<l rend="; 1tab">Ick bidde ontschuldight my.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">AGA</hi>.</speaker>
+<l>Voorts open ons den schat,</l>
+<l>Op dat de zaecke blijcke, eer yemand ons beklad.</l>
+</sp>
+<sp>
+<speaker>ULYS.</speaker>
+<l rend="; 1tab">Daer sietge, o Vorsten, 't goud tot ons bederf beschoren;</l>
+<l>Wiens glans het oogh verblinde, en schendigh kost bekoren</l>
+<l>De vaeck beproefde trou, tot zoo vervloeckt een feyt,</l>
+<l>Als oyt is in Euroop bejammert en beschreyd;</l>
+<l>'t Meyneedigh Troje voed met sulck een lockaes wolven,</l>
+<l>En tygers in ons heyr. dit heeftmen opgedolven</l>
+<l>Daer Palamedes korts zyn leger had gespreed.</l>
+<l>Ach! dat een grootze ziel sich zelve dus vergeet.</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab">Te hoogh hy 't goed waerdeert, die 't ydel weerelds goed schat</l>
+<l>Als waerdigh om een heyr te stellen in een bloedbad.</l>
+</sp>
+<sp>
+<speaker>PAL.</speaker>
+<l rend="; 1tab">Ick hoor, ick denck, ick sie. Iupijn ghy kent mijn wit,</l>
+<l>Soo deedghe, o Themis, oyt, die voor zyn' voeten sit:</l>
+<l>Wiens Godspraeck ick besweer in dese mijn verkleening,</l>
+<l>Datse in Boeotien van myne oprechte meening</l>
+<l>Getuygenisse geeft: zoo lang haer Godheyt spreeckt,</l>
+<l>En langs haere heylge kerck Chephisus stroomt en leeckt.</l>
+</sp>
+<sp>
+<speaker>AGA.</speaker>
+<l rend="; 1tab">Wy neemen 't voor bekend. 't verraed is ons gebleecken.</l>
+<l>Ga voorts in hechtenis, tot datter word gestreecken</l>
+<l>Een vonnis over 't feyt. legh af 't meyneedigh sweerd.</l>
+<l>Ontwapent hem terstond, wat draelt ghy? ick begeer 't.</l>
+</sp>
+<sp>
+<speaker>PAL.</speaker>
+<l rend="; 1tab">Dits openbaer geweld.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">AGA</hi>.</speaker>
+<l>Scheyd desen van de vroomen</l>
+<l>Door scharpe vangenis. laet niemant by hem koomen,</l>
+<l>Tot dat hy 't rechte loon na zyn' verdienste ontfang.</l>
+</sp>
+<sp>
+<speaker>NES.</speaker>
+<l rend="; 1tab">Een die niet dencken derf is wonder bloode, en bang.</l>
+</sp>
+<pb n="62"/>
+<sp>
+<speaker><hi rend="spat">REY VAN EUBEER</hi><hi rend="i">S</hi>.</speaker>
+<l>ALree het dun gesaeyt gestarnt</l>
+<l>Verflaeut, en niet soo vyerigh barnt.</l>
+<l>De schaduwe is aen 't overleenen.</l>
+<l>De nacht het opgeeft. voor sich heenen</l>
+<l>De morgenstar drijft 's hemels hayr.</l>
+<l>De voerman van den grooten beyr,</l>
+<l>Op dat hy zijne beurt verwissel,</l>
+<l>Die vlught met omgekeerde dissel.</l>
+<l>De goude Titan rijst alree</l>
+<l>Met blaeuwe paerden uyt der zee,</l>
+<l>En schittert over bosch en duynen,</l>
+<l>En Idaes blaederrijcke kruynen.</l>
+<l>O wellekoome morgenstond!</l>
+<l>Ghy voert hem spelen in den mond</l>
+<l>Van endeloose salighede,</l>
+<l>Die rustigh lustigh, wel te vrede.</l>
+<l>Beschout wat ons nature geeft;</l>
+<l>VVat schoonheyd in haer aenschijn sweeft;</l>
+<l>VVat Godlijck word, door alle haer' leden,</l>
+<l>Van 't diep verwondren aengebeden.</l>
+<l>Die in een liefelijcke streeck,</l>
+<l>By 't ruysschen van een' silverbeeck</l>
+<l>Sijn landhuys sticht, en boersche wooning;</l>
+<l>Wat is dat een gesegent Koning!</l>
+<l>Die niet en vlamt op ydel lof,</l>
+<l>En zijne lusten met zyn' hof</l>
+<l>Vernoeght, en indrinckt met zyne ooren</l>
+<l>Den vooglensang, die sich laet hooren,</l>
+<l>Als d'uchtentdou langworpigh leyd</l>
+<l>By druppels hier en daer gespreyd;</l>
+<pb n="63"/>
+<l>Op roozebladen versch ontloocken:</l>
+<l>Wanneer sich opdoen duysend roocken,</l>
+<l>En duyzend kleuren, voor het oogh,</l>
+<l>Van bloemen: als een regenboogh,</l>
+<l>Als Iris bruylofskleed geweven:</l>
+<l>Een schildery die swijmt na 'et leven.</l>
+<l>Hy plant, hy poot, of hy verset:</l>
+<l>Belaegt de voglen met zyn net:</l>
+<l>Of overlenende met yver,</l>
+<l>De spartelvisch treckt uyt den vyver,</l>
+<l>Met zyn' gebogene hangelroe:</l>
+<l>Of is hy zulcke spelen moe,</l>
+<l>Hy spand zyn paerden in voor 't daegen,</l>
+<l>En gaet met honden 't knyn belaegen:</l>
+<l>Of rijd by klaeren zonneschijn</l>
+<l>Door wegen die gestrengelt zyn</l>
+<l>Als voormaels der Cretensen doolhof.</l>
+<l>Hier bloeyt een afgetuynde koolhof;</l>
+<l>Daer lacht een' beemd' een klaverwey,</l>
+<l>Omcingelt met een boomenrey;</l>
+<l>Men leeght de koeyen uyers wacker;</l>
+<l>Hier swoeght en ploeghtmen op den acker,</l>
+<l>En ginder hooptmen op 't gewas:</l>
+<l>Daer saeytmen boeckweyt: ginder vlas;</l>
+<l>Hier groeyt en bloeyt het weeldigh kooren,</l>
+<l>Omheynt met steeckelige dooren;</l>
+<l>Daer spoeyt een speeljaght over 't meer;</l>
+<l>Hier roockt een dorrep: ginder veer</l>
+<l>Een slot wil in 't verschiet verflaeuwen,</l>
+<l>En hooger op 't geberghte blaeuwen.</l>
+<l>Veer dwaelt hy van dit leven af,</l>
+<l>Dien d'onrust nagaet, tot in 't graf;</l>
+<pb n="64"/>
+<l>Die tot den avond van den morgen</l>
+<l>Geknaeght geplaeght word van de zorgen,</l>
+<l>Van zorge, die niet rusten laet,</l>
+<l>Die slaef word van een' vryen staet,</l>
+<l>En tot gemeene best sal raemen,</l>
+<l>En brengen zoo veele hoofden t'zaemen.</l>
+<l>Hy word ghebeten van de nijd,</l>
+<l>Hoe vroom en eerlijck hy sich quijt.</l>
+<l>De tabberd, ick beken 't, is eerlijck,</l>
+<l>En 't kussen deftigh en raedsheerlijck:</l>
+<l>Maer och wat is 't een lastigh pack:</l>
+<l>Wat moeyte nestelt onder 't dack,</l>
+<l>Daer yeder vlamt na hoogre stoelen,</l>
+<l>En allerley' gebreken woelen.</l>
+<l>Die ramp vermijd mijn burgerboer.</l>
+<l>Hy drinckt uyt goud noch parlemoer,</l>
+<l>Geen Achonith, nocht spoch van draecken:</l>
+<l>'t Welck 't hart de ziel doet quynend braecken.</l>
+<l>Oock schuylt hy voor de poegnerts vry,</l>
+<l>Die, achter de tapissery,</l>
+<l>Den man van staet het lijf ontseggen,</l>
+<l>En zyne voorspoed laegen leggen.</l>
+<l>Geen' vreeze maeckt hem 't leven suur.</l>
+<l>De gunst des volcx dat wispeltuur,</l>
+<l>En wuft nu stroockt, nu steeckt zyne Heeren,</l>
+<l>Hy sonder hertzeer magh ontbeeren.</l>
+<l>Van 't bedde hy niet wort opgeklopt</l>
+<l>Half suyzebollend: nocht men stopt</l>
+<l>Syne hand vroeghmorghens niet vol schriften,</l>
+<l>Men zal zyn' ommegang niet sisten.</l>
+<l>Mijne huysgoon niemands wrock bespied.</l>
+<l>Men madt hem door veel aenspraecx niet;</l>
+<pb n="65"/>
+<l>Noch' sit beschanst in zijn' pampieren,</l>
+<l>Die door de slaefsche zinnen swieren.</l>
+<l>Hy ziddert niet voor 's Priesters stem,</l>
+<l>Die al zijn' vuylnis veeght aen hem,</l>
+<l>En scheld zijn' landsheer voor een' bengel,</l>
+<l>En veynst zich Gods gesant en Engel.</l>
+<l>Door soo veel' klippen en gevaers,</l>
+<l>Door 't onweer, dat de wichelaers</l>
+<l>Met lastertongen wecken stedes,</l>
+<l>Drijft d'afgesloofde Palamedes.</l>
+<l>Sijn' schipbreuck zietmen te gemoet:</l>
+<l>Ten zy Neptuyn zijn wettigh bloed</l>
+<l>Verschoone, en, aengebeên om bystand,</l>
+<l>De zee besadigh met den drytand.</l>
+</sp>
+</div>
+<div type="act">
+<pb n="66"/>
+<head rend="h3">De vierde handel.</head>
+<sp>
+<speaker><hi rend="spat">OATE</hi><hi rend="i">S</hi>. <hi rend="spat">AJAX</hi>.</speaker>
+<l>O Chalces! die de strand bekleed met prael van huysen:</l>
+<l>En t'elckens sevenwerf hoord in een etmael bruysen</l>
+<l>Euripius pekelschuym, so vaeck met sand vermengt,</l>
+<l>Hy uyt d'AEgeesche zee geweld van golven brengt,</l>
+<l>En steeckt sijne hoornen op, en koomt uwe hooge muuren,</l>
+<l>En Aulis haven diep, en weersijds d'oevers schuuren:</l>
+<l>O vaderlijcke stad! hoe luttel voeltge noch,</l>
+<l>Hoe Argos wrock, en wraeck, en 't Cephaleens bedrogh</l>
+<l>Mijn' ongerusten geest afmatten, en vermoeyen:</l>
+<l>Hoe vrees en hoop in my nu ebben, nu weer vloeyen.</l>
+<l>Ach vader Nauplius! uwe afkomst is in nood.</l>
+<l><hi rend="i">M</hi>en dingt hem na den hals. hy worstelt met de dood:</l>
+<l>Men toetst de lastering, men schout hem vroom, en echter</l>
+<l>Men gaet hem na, en steld sijn' vyand tot sijn rechter.</l>
+<l>Hy die de tong, de mond, en schild der vryheyd is,</l>
+<l><hi rend="i">S</hi>ijn vrydom nu ontbeert, in swaere vangenis.</l>
+<l rend="; 1tab">Hoe kan Ulysses doch een wettigh vonnis spreecken?</l>
+<l>Wiens haet niet lievers wenschte als sich aen hem te wreecken,</l>
+<l>Van zedert dat hy sleepte uytsinnich 't ploegespoor</l>
+<l>Aen strand, doen Palameed het kind leyd in de voor:</l>
+<l>Waer door hy fijne bruyt Penelope most missen,</l>
+<l>Om, <hi rend="i">S</hi>parten te geval, de schandvleck uyt te wissen</l>
+<l>Van Menelaüs bed, en namaels als de Thrax</l>
+<l>Hem afsloeg sijn versoeck, en mijnen broeder stracx</l>
+<l>Afveerdighde met graen, doen 't schier was omghekomen,</l>
+<l>Heeft d'oudewrock allencx in felheyd toegenomen:</l>
+<pb n="67"/>
+<l>Meer saecken ick verswijgh. wat Tydeus soon belangt,</l>
+<l>Dats een soldaet, die gants aen Agamemnon hangt,</l>
+<l>En van sijne handen vlieght. maer weert voor al, o Griecken!</l>
+<l>Dat doch de rasebol, dien niemand qualijck riecken,</l>
+<l>Of luchten magh, en scharp twee woorden spellen kan,</l>
+<l>Ter vierschaer niet en ga, nocht over sulck een' man,</l>
+<l>Nocht over sijne daên een onrijp oordeel stamer:</l>
+<l>Sijn' domheyd word bereen van onsen vogelraemer:</l>
+<l>Thersites buldert uyt wat Calches denckt of droomt:</l>
+<l>d'Onwetentheyd die maeckt hem stout, en onbeschroomt.</l>
+<l>Kortom, loftuytery, en baetsucht sien wy heden,</l>
+<l>En loshoofds domme kracht den rechterstoel bekleeden:</l>
+<l>Dit wichelt my niet goeds. mijn broeder is verraen:</l>
+<l><hi rend="i">S</hi>ijne haeters meesters sijn. hoe of dit wil vergaen?</l>
+<l rend="; 1tab"><hi rend="i">M</hi>aer sie ick herwaerts niet den grooten Ajax treden:</l>
+<l>Sijn aensicht is vol vyers: hy mort, en schijnt t'onvreden:</l>
+<l>Best soeck ick heul aen hem. O soone van Iupijn!</l>
+<l>Wat tydingh brengt ghy ons? sal beden, onderschijn</l>
+<l>Van recht, d'onnoselheyd mijns broeders sneuvlen moeten?</l>
+</sp>
+<sp>
+<speaker>AJAX.</speaker>
+<l rend="; 1tab">De noytverdiende peen, en straffe sal hy boeten,</l>
+<l>'t En sy het wort geschut.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">OA</hi>.</speaker>
+<l>Wat sal ick best bestaen?</l>
+<l>'k Ben raedeloos, wat raed?</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">AJ</hi>.</speaker>
+<l>Mijn neef de Peleaen</l>
+<l>Te Lesbos word verlet: 't zijn d'Ithakoische treken:</l>
+<l>Men heeft met voordacht door d'Atryden dit besteecken:</l>
+<l>Maer sonder dat, wy twee doorhieuwen met ons stael</l>
+<l>'s Gevangens banden, selfs in spyt van logentael,</l>
+<l><hi rend="i">E</hi>n valscheyd, die doortrapt dit na haer' wensch beschicken,</l>
+<l>En 's Vorsten braeve siel, en wackerheyd verstricken</l>
+<l>Met openbaer geweld. sy willender me voort.</l>
+<l>Foey, dat dus Atreus saed de vorsten ringeloort.</l>
+<l>Foey, dat so groot een man voor sulc een snoode vierschaer</l>
+<l>Betrocken, plengt sijn bloed: dat naderhand soo dierbaer</l>
+<pb n="68"/>
+<l>Sal worden gewaerdeert, als 't klaegen is te laet,</l>
+<l>En Grieckenland de lucht met droeven weergalm slaet</l>
+<l>Van klachten, en gehuyl: wanneer de vlechten hangen,</l>
+<l>En handen gaen in 't hayr: de tranen langs haer' wangeu</l>
+<l>Afbiggelen bedruckt, en 't schelmstuck word verfoeyt.</l>
+<l><hi rend="i">M</hi>aer dat d'aertswichelaer geveynst hier onder roeyt,</l>
+<l>Met sijn doortrapte tong, en koestert onse plaegen;</l>
+<l>En baeckert ons bederf: dat 's sonde te verdragen:</l>
+<l>Dat in soo fel een' brand hy voedende oly giet:</l>
+<l>Dat een verloopen Phrijgh gants Griecken doet verdriet.</l>
+<l>Het lustme ditmael eens sijn leven te doorloopen</l>
+<l><hi rend="i">S</hi>ijn vader Thestor hiet: wiens harssen had doorkroopen</l>
+<l>'t Half levende ingewand der dieren, soo hy sey,</l>
+<l>En noemde sich een' soon van Phoebus, en Agley,</l>
+<l>En lette op vogle sang, op spoock, en ydle droomen,</l>
+<l>Op drift van God, en geest, op 't ruysschen van de boomen,</l>
+<l>En 's hemels aengesicht, in 't aldernaeste dorp,</l>
+<l>'t Welck roockte by het leck, ontrent een' slingerworp.</l>
+<l>Hier queeckte hy Calches breyn, en leerde hem deftigh klappen.</l>
+<l>En grollen mengen in land nutte wetenschappen:</l>
+<l>En raemen op een hayr, na d'hayren van een' dogh,</l>
+<l>De korlen van een' vijgh, de biggen van een sogh,</l>
+<l>Die rond en swanger gingh, na'et maecxsel van haer jongen:</l>
+<l>En oeffende sijn' geest op drie, op seven sprongen,</l>
+<l><hi rend="i">E</hi>n 't wettelijck gebruyck van woord en letterkracht,</l>
+<l>Seef, becken, en gebeent. vaeck leyde hy hem by nacht</l>
+<l>Op Idaes hooge kruyn, en staerende en de starren,</l>
+<l>Gaf diepe raedsels uyt, en liet sijn' soon ontwarren</l>
+<l>Verwarde vraegen, en ontstricken knoopen, daer</l>
+<l>Een Godschalck Arabier, of oud <hi rend="i">E</hi>gyptenaer,</l>
+<pb n="69"/>
+<l>Of Indiaens Branman om sweeten soude, en hygen.</l>
+<l>Hier prachte Calches meê, om noodtdufts eysch te krygen,</l>
+<l><hi rend="i">E</hi>n bedelde achter land, gelijck hy was gewent:</l>
+<l>Tot dat Laocoön en Panthus hem in 't end</l>
+<l>Verworven gunst by 't hof: dit wist hy soo te smeecken,</l>
+<l>Door ydel lof, en door 't opproncken der gebreecken,</l>
+<l>Dat hy verkoren werd aertswichelaer van 't rijck:</l>
+<l>Doen blies hem hoorvaerd op: doen achte hy sich gelijck</l>
+<l>Een' <hi rend="i">H</hi>ayligh van 't outaer: en die soo korts ging beedlen,</l>
+<l>Hoonde alle tempeliers, en bengelde 's lands eedlen.</l>
+<l>Sijn' trotsheyd borst terstont tot boose stucken uyt:</l>
+<l>Door gaylheyd hy ontmaegde een' streng verloofde bruyt,</l>
+<l>Den bruygom te geval: dit tuygt de gryse Nestor.</l>
+<l>Den schimmen vloeckte hy toe sijn' ouden vader Thestor.</l>
+<l><hi rend="i">E</hi>ens anders bedgenoot, al t'eerloos van gemoed,</l>
+<l>Tot schennis hy versocht, en maekte haer kuyscheyd vroet,</l>
+<l>Dat niemand Minos heeft nocht Cerberus te vruchten,</l>
+<l>Dat Styx en Acheron sijn moolocken, en kluchten.</l>
+<l>Eurypilus bedeckte het overige vuyl</l>
+<l>Sijns meesters, tot soo lang hy bloo, gelijck een uyl</l>
+<l>Van yeder een verpickt most Ilium begeven.</l>
+<l>Doen quam hy al beroyt in Grieckenland gedreven</l>
+<l>Aen Agamemnons hof, en vlamde op 't oud genot:</l>
+<l>Wtgevende: hoe hy 's nachts door inspraeck van den God</l>
+<l>Apollo was vermaent uyt Trojens slot en wallen</l>
+<l>Te vlieden, om t'ontgaen de dreygende ongevallen,</l>
+<l>Die 't stamhuys van Dardaen nu hingen over 't hoofd.</l>
+<l>Dit nam ons Priesterschap soo in, en 't werd geloofd</l>
+<l>Van 't volck. de faem ging voorts door alle steden stroyen</l>
+<l>Hoe Calches had gesien den hoogen burgh van Trojen</l>
+<l>Verweldight, en de wacht in 't sluymeren gedood,</l>
+<l><hi rend="i">E</hi>n van 't Palladium Minervaes kerck ontbloot:</l>
+<pb n="70"/>
+<l>De <hi rend="i">S</hi>ceesche poort beroofd van wylen Konings asschen:</l>
+<l>'t Pallays met vlam omringt, en 't Griecxsche swaerd verrafschen</l>
+<l>De stad, van wijn en slaep bedolven op haer' feest:</l>
+<l>Ia tot waerteecken noch, hoe sijn ontwolckte geest</l>
+<l>De vyandlijcke Goon op Ilium gebeten</l>
+<l><hi rend="i">S</hi>agh waeren. Pallas op de kruyn van slot geseten,</l>
+<l>Met helm en beuckelaer, vast drilde haer' taeyelans,</l>
+<l>En schudde haer' Pluym. Belloon die blies van 's toorens trans,</l>
+<l>En stack haer' moordtrompet. de vader heet ontsteecken</l>
+<l>Door wraeck self d'armen steef, en senuwen der Greecken:</l>
+<l>Verschafte hun moed, en dreef de Goon op den Dardaen,</l>
+<l>En op sijn' wapenen met kraght en yver aen.</l>
+<l>Sijn' wreede Iuno, met den aengegorden degen,</l>
+<l>De <hi rend="i">S</hi>ceesche poort besette, en hiel alsins de wegen,</l>
+<l>En toepaen veyligh, langs de zee en waterkant,</l>
+<l>En riep met heesche keel de Krijgslien van de strand.</l>
+<l>De vloot gaf drommels uyt den anderen tot bystand.</l>
+<l>Neptuyn die schudde vast, met sijner gaffel dryetand,</l>
+<l>'s <hi rend="i">M</hi>uurs oude grondvest, die so diepe wortels schoot.</l>
+<l>De Priesterschap verbaest, en al bestorven vlood</l>
+<l>Om troost na d'outers toe, na Godgewijde drempels:</l>
+<l>Maer al vergeefs, helaes, sy vonden alle Tempels</l>
+<l>Verlaten van de Goon, van haylighdom, het koor:</l>
+<l>Sy wieroockten te spa: geen' Godheyd gaf gehoor.</l>
+<l>Daer spoockten met haer toorts de wreede Raseryen,</l>
+<l>Met slingerslangigh hayr. men sagh aen alle syen</l>
+<l>De stad ten val gedoemt, soo raeckte hy in sijne eer:</l>
+<l>Wat Ilium ontnam dat gaf hem Argos weer.</l>
+<l>De veldheer most sijn' tong tot groote kosten huuren,</l>
+<l><hi rend="i">E</hi>n self sijn' wreedheyd en moordadigheyd besuuren</l>
+<l>In Aulis aldereerst: doen op der Vorsten beê</l>
+<l><hi rend="i">E</hi>n dwang hy Iphigeen most heylgen Hecaté.</l>
+<pb n="71"/>
+<l>Een burger die 't mishaeghde, en aensagh met verwondren</l>
+<l>Most vluchten, en bedruckt sijn huysgoon noch sien plonderẽ</l>
+<l>Door Krijgslien, heymelijck by Calches opgeruyt:</l>
+<l>Die sey noch dat dees' straf ontstond door Gods besluyt.</l>
+<l>d'Atryden weten 't wel dat Thestors soon een schelm is,</l>
+<l>En evenwel, vermits hy hun een staelen helm is</l>
+<l>By dees' gelegentheyd, misbruyckense sijn' dienst,</l>
+<l><hi rend="i">E</hi>n boosheyd tot hun wit: maer op het ongesienst</l>
+<l>Soo sullense den boef en booswight eens verschoppen,</l>
+<l>Gelijck de kinders doen hunne afgesleurde poppen.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">OAT</hi>.</speaker>
+<l rend="; 1tab">Mijn broeder heeft den boef gekeecken door en door,</l>
+<l>Van voetsool tot de kruyn, en quam sijn' laegen voor</l>
+<l>Tot der Argiven heyl, en hiel met kraght den teugel,</l>
+<l>Tot hy den eenen voet arghlistigh in den beugel,</l>
+<l><hi rend="i">E</hi>n door des veldheers heup kreegh steun van stegelreep.</l>
+<l>Nu doet hy 't Dorisch ros eens draven na sijn' sweep,</l>
+<l>En luystren wonder gaeu na 'et pricklen sijner spooren:</l>
+<l>Nu rijd hy die hem reê, en heeft alree gesworen</l>
+<l>By Palamedes dood. wat raed? de tijd is kort.</l>
+<l>En hoemen langer draelt, hoe 't quaed noch arger word.</l>
+</sp>
+<sp>
+<speaker>AJAX.</speaker>
+<l rend="; 1tab">De raedeloose neemt het reedste tot sijn voordeel,</l>
+<l>Niet so hy wil, maer magh. so Nestor over 't oordeel</l>
+<l>Moght sitten, mogelijck viel 't vonnis niet so swaer.</l>
+<l>'t Was winst genoegh, indien wat tyds gewonnen waer:</l>
+<l>So hem de vierschaer sloegh in endeloose boeyen.</l>
+<l>Achilles midlertyd die koster onder roeyen:</l>
+<l>d'Oplopentheyd des volcx moght koelen: 's veldheers haet</l>
+<l>Versachten: Nauplius sou spreecken voor sijn saed,</l>
+<l>En wettige erfgenaem, en tredense onder oogen,</l>
+<l>Die willens wetens dus uytstroyen dese logen.</l>
+<l>Oates 't voeght u best te dingen voor uw bloed.</l>
+<l>Ga Agamemnon aen, en grijp hem in 't gemoed;</l>
+<pb n="72"/>
+<l>Betuygh hem hoe het strijdt met aller rechten orden,</l>
+<l>Dat yemand, wie 't oock zy, sal van zijn' vyand worden</l>
+<l>Veroordeelt: en versoeck ernsthaftelijck, dat hy</l>
+<l>Gedoogh dat Nelus soon, met d'overige dry</l>
+<l>Ter vierschaer ga: misschien sal hy 't uw' beê vergunnen</l>
+<l>Wt schaemte, en oock om dat seer licht drye rechters kunnen</l>
+<l>Vermeestren 's vierden stem. dits 't naeste dat ick weet.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">OAT</hi>.</speaker>
+<l rend="; 1tab">Ick spoey my binnen. och d'Atrijden zijn te wreed:</l>
+<l>Dies ben ick hopeloos, en vrees een droevigh ende.</l>
+</sp>
+<sp>
+<speaker>AIAX.</speaker>
+<l rend="; 1tab">Iupijn uw' broeder vrye, en al zyne haeters schende.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">AGAMEMNON</hi>. <hi rend="spat">OATES</hi>. <hi rend="spat">LYFKNECHT</hi>.</speaker>
+<l>D'Eubeërs kryten vast: wy maecken 't langs hoe grover.</l>
+<l>Het moeter evenwel nu onder door, of over.</l>
+<l>Hier geld geen aerselen. de kans is al gewaeght.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">OAT</hi>.</speaker>
+<l rend="; 1tab">Ghy die als oppervorst de bijl van 't leger draeght,</l>
+<l>En zijt geboren tot het Staf en Scepterswaeyen;</l>
+<l>Wilt door uwe heus heyd doch ons onbenoegen paeyen.</l>
+<l>De Rechters spannen vast de rechtbanck, en te gaer</l>
+<l>Mijn' broeder dreygen met het uyterste gevaer</l>
+<l>Van 't leven, en van ouds op hunnen vyand nydigh,</l>
+<l>En haetigh, draegen sich in 't oordeel te partydigh.</l>
+<l>Schut dese onbillijckheyd, en weertse door uw' maght.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">AGA</hi>.</speaker>
+<l rend="; 1tab">Ghy spreeckt te spa. de saeck is nu te veer gebraght.</l>
+<l>De Rechters zijn gelot. hy salse erkennen moeten;</l>
+<l>Maer vind ghy 't goed, men sal 't geen streng schijnt wat versoeten</l>
+<l>Met noch een' vierde stem. wy stellen 't aen uw' keur.</l>
+<l>Kies die u best gevalt, en draeg ons yemand veur.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">OAT</hi>.</speaker>
+<l rend="; 1tab">Dit ampt voeght Nestor best.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">AG</hi>.</speaker>
+<l>Mijn lijf knecht sonder beyden</l>
+<l>Segh Nestor aen; dat hy in 't recht den twist help scheyden,</l>
+<pb n="73"/>
+<l>En voeg by d'andre dry sijn wijsheyd, datter niet</l>
+<l>Onbillijcx in dit stuck uyt toorne, en sucht geschied.</l>
+<l><hi rend="i">S</hi>y waenen ons het werck met listen t'onderkruypen.</l>
+<l>Maer 't is de doodsnack, 't sijn d'Eubeërs laeste stuypen.</l>
+<l>De saeck is soo doornaeyt, en so beset in all s,</l>
+<l>Hy raeckter eer niet af 't en kost hem sijnen hals.</l>
+<l>De kling die moeter deur, het sy men 't recht of krom schout</l>
+<l>Ia eer de rechtbanck sweegh ick goot een' tong van stom goud:</l>
+<l>Dat honderdoogigh hoofd, die wachter ben ick moe,</l>
+<l>En Argos Argus haet, alwaer 't maer om de koe,</l>
+<l>Die tot den buyck toe treed in frissche klaverweyde.</l>
+<l>Ick sie, ick sie den beul 't swaerd trecken uyt der scheyde:</l>
+<l>Den ouden hondsvod vast staen sidderen voor den slagh:</l>
+<l>Daer leyd de grijsen kop, 's Lands uytgedient gesagh.</l>
+</sp>
+<stage><hi rend="spat">ULYSSES</hi>. <hi rend="spat">NESTOR</hi>. <hi rend="spat">THERSITES</hi>. <hi rend="spat">DIOMEDES</hi>. <hi rend="i">REY van PELOPONNESERS en ITHAKOISEN.</hi>
+<hi rend="spat">CALCHES</hi>.</stage>
+<sp>
+<speaker>ULYS.</speaker>
+<l>G<hi rend="i">H</hi>y Heeren diete gaer op Agamemnons heeten,</l>
+<l>Om Palamedes saeck ter vierschaer sijt geseten,</l>
+<l>U allen is bekend het grouwelijck verraed,</l>
+<l>Gebrouwen tot verderf van den gemeenen staet:</l>
+<l>En hoe d'Eubeër vorst, uyt Nauplius gesprooten,</l>
+<l>Het toegesonden goud meyneedigh heeft genooten</l>
+<l>Van Koning Priams spie, en listigh omgekocht</l>
+<l>Veele hoplien, en so 't heyr al meer en meer gebrogt</l>
+<l>In 't uytterste gevaer, van onder Trojens wallen,</l>
+<l>Voor 't kriecken van den dagh, te worden overvallen.</l>
+<pb n="74"/>
+<l>Dewijl de misdaed dan so klaer en helder blijckt,</l>
+<l>Ontbreeckter datter voorts een wettigh vonnis strijckt,</l>
+<l>En na 'et begangen stuck den schuldigen doe boeten</l>
+<l>Sijn' welverdiende straf. ghy rechters sult dan moeten</l>
+<l>Aenwijsen met uw' stem, wat hem word opgeleyd,</l>
+<l>Die sich bewegen liet tot so vervloeckt een feyt</l>
+<l>Dat Nestor sich verklaer.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">NES</hi>.</speaker>
+<l>Ick wens genadige Heeren,</l>
+<l>Dat wy door 't oordeelen nocht quetsen, noch verseeren</l>
+<l>Den schoon gebloeyden staet: maer datmen liever hel</l>
+<l>Tot matigheyd, als al te streng een vonnis vel.</l>
+</sp>
+<sp>
+<speaker>THER.</speaker>
+<l rend="; 1tab">Wat seyd de grijse man? ghy suft, o oude vader.</l>
+<l>Geen' strengheyd is te hard. het is een landverrader,</l>
+<l>Een overgeven schelm: vind sulck een by u heul?</l>
+<l>Laet my er meê begaen, en heylightme tot beul.</l>
+<l>Ick heb voor lang gewenscht den booswicht aen te randen,</l>
+<l>En tot elcx schouspel hem te villen met mijn' tanden.</l>
+</sp>
+<sp>
+<speaker>ULIS.</speaker>
+<l rend="; 1tab">Thersites hou gemack, en spreeck op uwe beurt.</l>
+<l>Ghy vader Nestor, dat ghy 't leger niet gesteurt</l>
+<l>Wilt hebben nocht gequetst, is lof en prijsens waerdigh:</l>
+<l>Dat acht ick, sal geschien, indien wy heel rechtvaerdigh</l>
+<l>Af handlen dese saeck, en laeten 't recht geschien,</l>
+<l>En niemands bloed, nocht stam, nocht mogentheyd ontsien,</l>
+<l>Want sooge dese straf wilt swacken door verschooning,</l>
+<l><hi rend="i">E</hi>n door de vingers sien, die 't outer en de wooning</l>
+<l>Wt goudsucht heeft belaeght, en dragen u als tolck</l>
+<l>Van sulck een schendigh stuck: gewisselijck het volck</l>
+<l>Sal t'samen rotten, en vergaeren in veele hoopen,</l>
+<l>En morren: datmen laet de grootste schelmen loopen,</l>
+<l>En die handdadigh sijn aen kleene sonden, hard</l>
+<l>Ter straffe voordert, en de goe gemeente zart,</l>
+<l><hi rend="i">E</hi>n als by d'ooren treckt. het krijgsvolck sal ons hoonen,</l>
+<l>En roepen: dat wy sijn aensienders van persoonen:</l>
+<pb n="75"/>
+<l>Of dat wy 't met hem staen die sulcke netten breyd.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">DIO</hi>.</speaker>
+<l rend="; 1tab">Daer dient wel op gelet. het geen Ulysses seyd</l>
+<l>Is niet dan al te waer, laet dees sijn' schuld betaelen,</l>
+<l><hi rend="i">E</hi>er datwe op onsen hals der hoplien ongunst haelen.</l>
+<l>Ick sie veel' swaerigheen, en vind my al bevreest,</l>
+<l>En ducht niet sonder reên dat duysendhooftigh beest,</l>
+<l>By dees' gelegentheyd, en onder Trojens vesten.</l>
+</sp>
+<sp>
+<speaker>THER.</speaker>
+<l rend="; 1tab">De vader die word kindsch. men houd et hem ten besten,</l>
+<l>Wat uytspraeck hoeftmen hier? hy brengt sijn vonnis me.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">NES</hi>.</speaker>
+<l rend="; 1tab">Om 't heyl van 't Vaderland verguntme dese beê:</l>
+<l><hi rend="i">E</hi>n by u selven proeft, en overweeght mijn seggen:</l>
+<l>Of't ongeraden waer d'Eubeër vorst te leggen</l>
+<l>In eeuwige hechtenis, op datmen niet en maeck</l>
+<l><hi rend="i">S</hi>ijn overoud geslacht verblind door heete wraeck.</l>
+<l>Hy heeft een' lange sleep van hooghgeboren magen.</l>
+<l>Sijn Vader Nauplius, als wy in Aulis lagen,</l>
+<l>Sich in gedienstigheen niet weynigh queet, en bood</l>
+<l>Al wat hy bieden moght tot reddingh van de vloot,</l>
+<l>En Palamedes dienst ging boven elcx vermoeden.</l>
+</sp>
+<sp>
+<speaker>ULY<hi rend="i">S.</hi></speaker>
+<l rend="; 1tab">Voorgaende deughden met een schelmstuck te vergoeden</l>
+<l>Is Griecken ongewent, een' schandelijcke daed</l>
+<l>Wischt alle weldaên uyt. voorlede vroomheyd baet</l>
+<l>Geen' mensche, die van aerd verwisselt, en verwandelt,</l>
+<l>Sich aen 't gemeen vergrijpt, en met de vyand handelt.</l>
+<l>Nocht reecx van oud geslacht, nocht stam, nocht adeldom,</l>
+<l>En word hier aengesien, noch' buyght de wetten krom:</l>
+<l>Want raeckte dit in swang, en waer die dagh geboren,</l>
+<l>Wat souder tegens staen, so liep de staet verloren.</l>
+<l>En om in hechtenis te brengen Palameed:</l>
+<l>'t Heeft veel bedenckens in, en strijd met onsen eed:</l>
+<l>Voor eerst, die ons verbind, dat sulck een mensch moet sterven.</l>
+<l>Die schuld heeft aen verraed, en 't algemeen bederven.</l>
+<pb n="76"/>
+<l>Daer na so kan geen' plaets versekeren genoegh</l>
+<l>Een' vorstelijck persoon: men tracht of spade of vroegh</l>
+<l>Naer sijn' verlossing, en men soeck de wacht te krencken:</l>
+<l><hi rend="i">M</hi>en houd dit vaderland in onrust en bedencken:</l>
+<l>Men graeft de mueren door, of draeght hem in een' kist</l>
+<l>Voor boecken uyt: men veynst, men hangelt, en men vischt</l>
+<l>Om toorens, en om gracht: of eermen het kan riecken</l>
+<l>Krijght een gevangen heer, gelijck een vogel, wiecken,</l>
+<l><hi rend="i">E</hi>n over zee en zand sweeft heen door d'ope lucht:</l>
+<l>Als de Cecropische Dedael sich gaf ter vlught:</l>
+<l>En van sijn vangenis, waer in hy sat versteecken,</l>
+<l>Ontbonden, past sijn leet en ongelijck wreecken,</l>
+<l>Het geen hy waent en droomt dat sich is aengedaen:</l>
+<l>En derf al wat hy denckt aengrijpen en bestaen.</l>
+<l>Meer dingen ick verswijgh die stonden te besorgen.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">NES</hi>.</speaker>
+<l rend="; 1tab">Ontsla u van die vrees, door vaste en wisse borgen.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">DIO</hi>.</speaker>
+<l rend="; 1tab">Wat borge is mans ghenoegh?</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">NES</hi>.</speaker>
+<l>Achilles geeft sijn woord,</l>
+<l>En Ajax. wel wats dit. wie komt ons hier aen boord?</l>
+</sp>
+<sp>
+<speaker>THER.</speaker>
+<l rend="; 1tab">Het is de goe gemeent</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">NE</hi><hi rend="i">S</hi>.</speaker>
+<l>o Goddeloose treken!</l>
+</sp>
+<sp>
+<speaker>THER.</speaker>
+<l rend="; 1tab">Wat seght ghy? 't is het volck dat heefter in te spreecken.</l>
+<l>Wat seyter 't leger toe? koomt geeft uw oordeel dra.</l>
+<l>Sal Palameed de landverrader sterven?</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">REY</hi>.</speaker>
+<l>Ja.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">CAL</hi>.</speaker>
+<l rend="; 1tab">Dat is de stemme Godts, ghy Rechters neyght uwe ooren,</l>
+<l>En stemt met uw' gemeent, of vreest der Goden tooren.</l>
+</sp>
+<sp>
+<speaker>ULIS.</speaker>
+<l rend="; 1tab">Men lever hem den volcke.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">DIO</hi>.</speaker>
+<l>Ick stem 't.</l>
+</sp>
+<sp>
+<speaker>TH.</speaker>
+<l>Thersites oock</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">NES</hi>.</speaker>
+<l rend="; 1tab">Argivische landou, mijne oogen sien den roock</l>
+<l>Opgaen van uwen brand, en Calches ondertusschen</l>
+<l>Die wieght het volck in slaep, en niemand tracht te blusschen</l>
+<l>Het vier, dat in sijne asch vast smeult en heymelijck smoockt</l>
+<l>En die u hoeden sou, die is het, die dit stoockt,</l>
+<pb n="77"/>
+<l>En uyt besondren wrock geeft voedsel dese vlammen,</l>
+<l>Roemt op geen' lange ry van oude vadrenstammen,</l>
+<l>Op hoven schoon van bou, nocht steden trots van muur:</l>
+<l>Men sloopt men slecht 'et al op dese onsalige uur:</l>
+<l>Men velt geswind ter neêr, wat langsaem is geklommen.</l>
+<l>Gaet Griecken ruckt om veer die suyl der vorstendommen.</l>
+<l>Den Athlas, die 't gebied met sijne schouders schraeght,</l>
+<l><hi rend="i">E</hi>n onverwickelijck dat groot gevaerte draeght:</l>
+<l>Die onlangs heeft gevryt uw' dierverpande steden.</l>
+<l>Gaet Griecken, smoort de ziel van uw' gerechtigheden:</l>
+<l>Verworght uw' trousten raed in soo veel ongevals:</l>
+<l>Uw' vryheyds voorspraeck ruckt de tong uyt sijnen hals.</l>
+<l>Mijne ziele smelte aen lucht, en Pylus myne beenen</l>
+<l>Ontfange, eer dat ick hoor der Griecken val beweenen.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">REY VAN EUBEERS</hi>.</speaker>
+<l>ACh! waer toe of der Goden onbescheyd</l>
+<l>Befaemde deughde hier rust en vreê ontseyd:</l>
+<l><hi rend="i">E</hi>n sonder staf, en aerselen doet gaen</l>
+<l>So steyl een pad, so wilde en woeste een' baen:</l>
+<l rend="; 1tab">Door kreupelbosch, door weghen ruygh begroeyt,</l>
+<l><hi rend="i">E</hi>n onbestraet: daer elcke stap vermoeyt</l>
+<l><hi rend="i">E</hi>en' arbeydsaem hardvochtigh' man, geteelt</l>
+<l>Om barrevoets geschoeyt te gaen met eelt:</l>
+<l rend="; 1tab">Daer vrou natuur gesaeyt heeft scharp gesteent,</l>
+<l>Dat sweeten doet selfs reusen langgebeent:</l>
+<l>Daerme' eensaem dwaelt: daer sonder spoor of pad,</l>
+<l>Voor 't oogh geen' spits verrijst van vleck of stad,</l>
+<l rend="; 1tab"><hi rend="i">S</hi>oo swaer een wegh, van 's Hemels hoogen trans,</l>
+<l>Dreef Junoos wrock den bastaerdsoon haers mans</l>
+<pb n="78"/>
+<l>Geweldigh in: 't geklater van haer' sweep</l>
+<l>Van kindsbeen af sijn' grove krachten sleep.</l>
+<l rend="; 1tab">Voor d'eerste proef 't wicht met sijn hantjes greep</l>
+<l>Twee slangen aen, die 't flucx te barsten kneep:</l>
+<l>De voester schepte haer' doodverw, en sagh stom</l>
+<l>'s Kinds vuystjens swart van adders om en om.</l>
+<l rend="; 1tab"><hi rend="i">S</hi>ijn' stiefmoer staegh raest op Alcmene beus:</l>
+<l>Als sy hem siet van Hydra, Leeu, en Reus,</l>
+<l>Van Diomeed, Busyr, en Stier, en Beer,</l>
+<l>En Kakos moord met zege komen weêr:</l>
+<l rend="; 1tab">En gespen, tot verwondring sijner eeu,</l>
+<l>Om sijne borst de slang, en fieren Leeu:</l>
+<l>Geharrenast, overgeleecken held,</l>
+<l>Met die hy vreesde, en moedigh had gevelt.</l>
+<l rend="; 1tab">Wat grouwelijck wat schrickelijck gedroght</l>
+<l>Lucht, Zee, en Aerde in 't licht te voorschijn brogt,</l>
+<l>Dat leyd gekneust. elck Hercules daeden prijst,</l>
+<l>Waer Phoebus glans verguld's Aerdbodems lijst.</l>
+<l rend="; 1tab">De Faem sijn roem voert over alle zeen.</l>
+<l>Sijn Godheyd word kerckpleghtigh aengebeen:</l>
+<l>Van daer de Son de beyde Mooren verft,</l>
+<l>Tot daerse daelt, en in de baeren sterft.</l>
+<l rend="; 1tab"><hi rend="i">M</hi>aer endelijck so breeckt hy met sijn' knods</l>
+<l>Ter poorten in des onderaerdschen Gods:</l>
+<l>Der schimmen rijck na boven open lagh:</l>
+<l>'t Spriet ooghter al geslagen van den dagh.</l>
+<l rend="; 1tab">Van derwaerts hy opdondert onversaeght,</l>
+<l>En voor sich heen den swarten rekel jaeght:</l>
+<l>Viert, kort, en vlyd de keten met sijn hand,</l>
+<l>Waer mede hy fors den dryekop leyde aen band.</l>
+<l rend="; 1tab">Met sweem de Son, en 't licht ontsonck sijn' siel,</l>
+<l>En als een kleed de nacht op 't Aerdrijck viel,</l>
+<pb n="79"/>
+<l>Van schrick en vrees. hy dreef den grouwel voor,</l>
+<l>En voerde hem soo de Griecxsche steden door.</l>
+<l rend="; 1tab"><hi rend="i">S</hi>o had de vuyst van Hercules geklemt.</l>
+<l>Men sagh nu aerde en onderaerdsch getemt,</l>
+<l>Als hy sijn hoofd door 's Hemels nave stack,</l>
+<l>En onderschoorde het licht gestarrent dack.</l>
+<l rend="; 1tab">Alcides deughd genoot dit tot haer' loon,</l>
+<l>Dat hy om hoogh met d'eeuwigheyd der Goon</l>
+<l>Omtoogen werd: en slaende 't hoofd om leegh</l>
+<l>Roock 't wieroock, dat van d'outers opwaerts steegh.</l>
+<l rend="; 1tab">Alcmenaes soon, die sulck een' glori kreeght,</l>
+<l>Wat baetet dat ghy 't Aerdrijck hebt geveeght</l>
+<l>Van ongediert, van menigen tyran,</l>
+<l>En dat de Goon u bruyckten tot hunn' wan?</l>
+<l rend="; 1tab">Als zedert uw' vergoding d'Opperhel,</l>
+<l>Na ouden aerd, wat grousaem is, en fel,</l>
+<l>Weêr heeft geteelt, en rockent enckel quaed:</l>
+<l>Als 't onkruyd weêr vertreed het edel saed?</l>
+<l rend="; 1tab">Och! of ghy noyt van ons gescheyden waert.</l>
+<l>Och! had ghy doch gestaeckt uwe Hemelvaert:</l>
+<l><hi rend="i">S</hi>o sou ons' borst niet suchten na om hoogh:</l>
+<l>Noch' tranendou neerbigglen uyt ons oogh.</l>
+<l rend="; 1tab"><hi rend="i">S</hi>o souden wy niet derven d'oude vreughd:</l>
+<l>Noch' treurigh sien, hoe d'hooghgemelde deughd</l>
+<l><hi rend="i">S</hi>o overvalsch betight word, en beklad:</l>
+<l>Hoe 't heyligh bloed 't meyneedigh sweerd bespat:</l>
+<l rend="; 1tab">Hoe d'oppervorst, en aller guyten tolck,</l>
+<l>Dat edel breyn ten roove geeft aen 't volck:</l>
+<l>'t Welck opgeruyt, door vorst en priesterhaet,</l>
+<l>In sijn bederf met blijschap weyen gaet.</l>
+<l rend="; 1tab">Nu raest en woed d'onwetende ghemeent,</l>
+<l>En onse staet voorboghtigh overleent:</l>
+<pb n="80"/>
+<l>'Thans alsme ontwaeckt, en slaet sijn' dolheyd ga.</l>
+<l>Koomt naberou, en klaegen veel te spa</l>
+<l rend="; 1tab">'Thans als 's mans deughd na logens mist en damp</l>
+<l>Opbeurt het hoofd, en blinckt als 's Hemels lamp.</l>
+<l>Dan sal 't gehuyl betuygen wie hy was:</l>
+<l>Maer te vergeefs bevochtigen fijn asch.</l>
+</sp>
+</div>
+<div type="act">
+<head rend="h3">De vyfde handel.</head>
+<sp>
+<speaker><hi rend="spat">BODE</hi>. <hi rend="spat">OATE</hi><hi rend="i">S</hi>. <hi rend="spat">NEPTUYN</hi>.</speaker>
+<l>VErvloeckte, afgrysselijcke, en deerelijcke moord.</l>
+<l>Verfoeylijck schelmstuck, waer heeft men oyt gehoort</l>
+<l>Van sulck een' grouwel? kan den Hemel dat gehengen!</l>
+<l>Wie sagh doorluchtigh bloed oyt schandelijcker plengen?</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">OAT</hi>.</speaker>
+<l rend="; 1tab">Die neerlaegh ons verhael: vertel van stuck tot stuck</l>
+<l>Mijn broeders uytgang, en beklaeghlijck ongeluck.</l>
+</sp>
+<sp>
+<speaker>BODE.</speaker>
+<l rend="; 1tab">So flucx de rechters na veel overlegs ten lesten</l>
+<l>Hem gaven 's Krijgsvolcx grim, en hevigheyd ten besten.</l>
+<l>Teegh al de Pelopeesche, en Ithakoische schaer</l>
+<l>Na 's opperhoofdmans tent, en legerplaetse, daer</l>
+<l><hi rend="i">M</hi>en Palamedes hiel versekert, en gevangen,</l>
+<l>En paep Eurypilus hem sterckte, om sijne gangen</l>
+<l>Te strecken na de dood getroost, en wel gemoed.</l>
+<l><hi rend="i">M</hi>et so spreeckt Calches: ghy die onser aller bloed</l>
+<l>En leven op een' prijs geset hebt, en u merckelijck</l>
+<l>Besondight, en misgaen aen 't weereldlijck, en 't kercklijck:</l>
+<l>De goedige gemeent die vordert u tot straf:</l>
+<l>Uw jongste tijd is hier, dus breeckt dit marren af.</l>
+<pb n="81"/>
+<l>d'Euboeër vorst die rees van daer hy was geseten,</l>
+<l>En sprack: o mannen die verhit sijt en gebeten</l>
+<l>Op mijne onnooselheyd, wat is dit voor een' wijs',</l>
+<l>Dat veertighjaerge dienst, en soo veel slavernijs,</l>
+<l>Met stortinge van bloed vergolden word in 't ende?</l>
+<l>Sy kreten: lantverraer, Jupijn uw' meyneed schende:</l>
+<l>Ghy hebt u vonnis wech. hy sweegh, en trad voor heen.</l>
+<l><hi rend="i">S</hi>ijn' rechte sijde quam d'Aertswichelaer bekleen,</l>
+<l>De slincke Eurypilus, en schenen sich t'erbarmen.</l>
+<l>Een Cephaleensch soldaet recht voor hem op sijne armen</l>
+<l>'t Quansuys meyneedigh Goud droegh in een' beuckelaer.</l>
+<l><hi rend="i">S</hi>oo ging hy moedigh, en met voegelijck gebaer:</l>
+<l>Bedrommelt, en bestuwt van Krijgslien, en van trossen,</l>
+<l>En vorderde sijn' tred na Idaes hooge bossen.</l>
+<l>Een heuvel ryster aen den voet des berghs, die schuyn</l>
+<l>Groeyt als een schoutooneel: van wiens verheven kruyn</l>
+<l>En toppunt, als de vloot werp 't ancker in dese haven,</l>
+<l>Een' kerck de Son gewijt, geciert met rijcke gaven,</l>
+<l>Verstreckt een' baeck in zee: vermits de God, die korts</l>
+<l>Voor d'ooster gevel braef te prijck stond met een' torts:</l>
+<l>Wiens goude flonkervlam natuurlijck scheen te lichten,</l>
+<l>En dagh te senden op der menschen aengesichten.</l>
+<l>Nu leyd dat schoon gebou geschonden, en ontsloopt,</l>
+<l>En d'haylge steenen hier en ginder opgehoopt,</l>
+<l>De voorige heerlijckheyd besteenen, en beschreyen.</l>
+<l>Ons' krijghsvolcx moedwil in die Godenprael ging weyen,</l>
+<l>En brande, en blaeckt'et al. d'aertswichelaer stond stom,</l>
+<l>En loegh om 't plonderen van Phebus heyligdom,</l>
+<l>En grenickte, als hy sagh, hoe 't schuym der menschen vayligh,</l>
+<l>Een schouspel maeckte van den Phrygiaenschen Hayligh.</l>
+<pb n="82"/>
+<l>Dese eertyds een' gewyde en afgekeurde plaets,</l>
+<l>Nu een verspogen vloeck, na'et woeden des soldaets</l>
+<l>Ten vadermoord gedoemt, met grouwelijcke woorden,</l>
+<l>Vast grimmelt van het volck, dat swart van allen oorden</l>
+<l>Hier dringt, en t'samenschoolt, en Idaes steylheyd leeft</l>
+<l>Van menschen, daer de Bergh een open uytsicht heeft</l>
+<l>Op desen heuveltop: ontallijckheyd van fielen</l>
+<l>In sijn' Cypressen, en geboge tacken krielen,</l>
+<l>En beven in de blaên. Wat isser een gewoel!</l>
+<l>Een yder heeft sijn wit: dees draeght sich stil, en koel</l>
+<l>In 't weereldlijck beloop, noch' weet wat hy sal wenschen,</l>
+<l>En om te kijcken volght slechts 't spoor van andre menschen:</l>
+<l>Die braeckt sijn' gal, en scharpt sijn tong gelijck een pyl,</l>
+<l><hi rend="i">E</hi>n bootst in 't spreecken na den priesterlijcken styl,</l>
+<l><hi rend="i">E</hi>n scheld, en is vol viers, en groeyt in 's naesten schennis,</l>
+<l>En word al heel bereen van yver sonder kennis,</l>
+<l><hi rend="i">E</hi>n dorst na 'et edel bloed: een ander ruym so flaeu</l>
+<l>In tegenyveren, uyt vreese van het graeu,</l>
+<l>Sich intoomt, en met rou het treurspel komt bekijcken,</l>
+<l>En 't voorspel tot bederf der <hi rend="i">E</hi>uropeesche rijcken:</l>
+<l><hi rend="i">E</hi>en eenigh swijger weeght de wereld in een schael,</l>
+<l>'s Volcx sotterny belacht, en treurt om 's lydens quael.</l>
+<l>De domme menighten haere handen t'samen klappen,</l>
+<l>Met dat hy als een Leeu grootmoedigh aen komt stappen,</l>
+<l><hi rend="i">E</hi>n klimt den heuvel op, eer dat hem yemand verght:</l>
+<l><hi rend="i">E</hi>n staende op 't opperste, nae 't rysende geberght</l>
+<l>Dat staetigh aensicht wend, waer meê hy onbesweecken</l>
+<l>Plagh in Mycenens sael voor 't hayligh recht te spreecken,</l>
+<l><hi rend="i">E</hi>n voor den Griecxschen staet te dingen met sijn' tong.</l>
+<l>Het nieusgier volck, door 's mans vrypostigh wesen, hong</l>
+<l>In twijffel, of hy met den hals sijn' schuld sou boeten,</l>
+<l>Dan ofmen door genade het vonnis sou versoeten.</l>
+</sp>
+<pb n="83"/>
+<sp>
+<speaker><hi rend="spat">OAT</hi>.</speaker>
+<l rend="; 1tab">Mijn' borst die klopt, en schrick myne aendacht breeckt, en stoort:</l>
+<l>Doch vaer ghy niet te min met uw' vertelling voort.</l>
+</sp>
+<sp>
+<speaker>BODE.</speaker>
+<l rend="; 1tab"><hi rend="i">S</hi>o staende in t'openbaer, met opgerechten hoofde,</l>
+<l>O mannen, seyd hy, of uwe heusheyd noyt geloofde</l>
+<l>Al 't geen de valscheyd heeft van landverraeder dicht,</l>
+<l>Dat was mijns harten wensch. 'k heb volgens mynen plicht</l>
+<l>Gants vroom, en ongeveynst, en opentlijck gehandelt,</l>
+<l><hi rend="i">E</hi>n sterf een oprecht Grieck, gelijck ick heb gewandelt.</l>
+<l>Uyt had hy, als daer op van wedersyden hem</l>
+<l>De Priesters by de Goon verbaden met hunn' stem,</l>
+<l>En steenden overluyd. na et sluyten der gebeden</l>
+<l>Soo weeckense af verbaest, en gaven sich beneden.</l>
+<l>Hy met sijn dienaers hulp, getroost, en wel te moe,</l>
+<l>Bereyde sich ter dood, en tot de middel toe,</l>
+<l>Ten halven lyve naeckt, in 't uytterst van sijn lyden,</l>
+<l>Sijn' lijfknecht oorlof gaf, die treurigh trad ter syden,</l>
+<l>Na d'alderjongsten dienst. daer stond de Deughd geciert</l>
+<l>Met waere onnooselheyd, van 't leelijck ongediert</l>
+<l>Begrenen en begrimt. de Beestelijcke krygers</l>
+<l>Van menschen nu veraerd in Luyperden, en Tygers,</l>
+<l>Van reedlijckheyd ontkleed, beseten van de wraeck,</l>
+<l>En felste Rasery, beving een graeger smaeck</l>
+<l>Na'et Goddelijcke bloed. sy knarsten op de tanden.</l>
+<l>De gramschap saghmen uyt hunn' dreygende oogen branden:</l>
+<l>Die gloeyden vreesselijck, gelijck als koolen viers:</l>
+<l>En nu verkropt van toorne, ontsint, en vol getiers,</l>
+<l>En vloeckens, als den haet hunn' klaghten had geslepen,</l>
+<l>De grouwelijcke beuls, en duyvels steenen grepen,</l>
+<l>En blixemden met maght op desen vroomen vorst.</l>
+<l><hi rend="i">I</hi>ck sagh den eersten steen afstuyten van sijn' borst:</l>
+<l>Den tweeden van den slaep sijns hoofds, en hoorde klincken</l>
+<l>Den slagh van 't beckeneel. terstond verging hem 't blincken</l>
+<pb n="84"/>
+<l>Van 't eerlijck silverhayr. dat achtbaere gelaet</l>
+<l>Werd jammerlijck van bloet besprenckert, en begaet.</l>
+<l>Met seegh hy swijmend neêr. de Godvergete boeven</l>
+<l>Die hagelden soo lang, tot datse hem gants begroeven,</l>
+<l>En smoorden door 't gewight van steenen meer en meer.</l>
+<l>Gelijck als Bacchus rey ging raesende te keer</l>
+<l>Den soeten Harpenaer, die vogelen kost locken,</l>
+<l>En dieren, en 't geboomt, met tortsen steenen stocken:</l>
+<l>En morselden sijn vleesch met allerley geweer:</l>
+<l>Soodanigh was het end van desen wijsen Heer:</l>
+<l>Als 't reuckeloose volck toevliegende, op ging krabblen</l>
+<l><hi rend="i">H</hi>et bloedigh puyn, en om de wreede steenen grabblen:</l>
+<l>Dees uyt nieusgierigheyd, en die uyt encklen haet,</l>
+<l>Op dat sijn dolligheyd, en moordlust werd versaed.</l>
+<l>Veel dooptender in 't bloed de vochtbesweete doecken,</l>
+<l>En wrongen 't uyt in wijn, en soopen 't op met vloecken,</l>
+<l>En nooden juychend tot d'onmenschelijcke feest</l>
+<l>Hunn' spitsbroers, van dien God, en selven tuymelgeest</l>
+<l>Gedreven en geraeckt. Den Hemel stroock uw' sinnen</l>
+<l>Met troost, om door geduld dat onheyl te verwinnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">OAT</hi>.</speaker>
+<l rend="; 1tab">Grootvader legtge dood in d'afgrond, noch' gevoelt</l>
+<l>Uw' Godheyd 't ongelijck uws naeneefs. koom en spoelt,</l>
+<l>En wasch het aerdrijck weêr van d'oude grouwel vlecken.</l>
+<l>Uw' gramschap kost wel eer der bergen kruynen decken,</l>
+<l>En tot uw broeders wraeck, de menschen en het vee</l>
+<l>[Doen Pyrrhe en haer gemael niet sagh als baere zee]</l>
+<l>Verdrencken, en verdoen: uw hoofd nu op wilt steecken</l>
+<l>En toon uw log noch' traegh, om straf en streng te wreecken</l>
+<l>U selven, en uws bloeds geleden smaed, en hoon.</l>
+<l>Koom hanthaef uw geslaght, en d'oude sluyerkroon</l>
+<l>Van Koning Nauplius: op datter door u oordeel</l>
+<l>Noch blijck, dat Godensaed heeft boven andre voordeel.</l>
+</sp>
+<pb n="85"/>
+<sp>
+<speaker><hi rend="spat">NEP</hi>.</speaker>
+<l rend="; 1tab">Mijn soon, die 't broederlijck en deerlijck ongeluck</l>
+<l>Besteent, schep moed, en toom, en matigh uwen druck.</l>
+<l>Sijn' dood so onverdient, als staet, en landbederflijck,</l>
+<l>Roept wraeck, en maeckt sijn' naem roemruchtbaer, en onsterflijck.</l>
+<l>De dappere Ajax en Achilles blyven stout</l>
+<l>Bewaerders van het lijck, tot datmen namaels houd</l>
+<l>Sijne uytvaert, als sijne asch met traenen word begooten,</l>
+<l>Van Cadmus borgery, de schreyende Boeoten:</l>
+<l>Wanneer de toeloop van 't by hem verdedight volck</l>
+<l><hi rend="i">S</hi>ijn' sterflijckheyd verselt ter onderaerdsche kolck,</l>
+<l>Verwelft met elpenbeen, verdeckt met marmorsarcken:</l>
+<l>Daer Themis antwoord geeft, en in haer kerck der kercken</l>
+<l>Het wieroock voor haer smoockt. dight aen de voeten van</l>
+<l>d'Aenbedelijcke maeghd, men desen grooten man</l>
+<l>Een goude pronckbeeld recht. De Griecxsche Ionffers bringen,</l>
+<l>En leenen tot dees' prael haere afgestreecke ringen.</l>
+<l>Alreede sie ick staen den Hayligh hallef naeckt,</l>
+<l>Vrypostigh als een held, die voor de vryheyd waeckt:</l>
+<l>Beteeckent door den hoed, bewaert soo sorrighvuldigh</l>
+<l>Met d'eene: d'andre hand, aen Trojens goud onschuldigh,</l>
+<l>d'Handvesten, toevertrout 't gewijde parckement,</l>
+<l>En segels gade slaet, op datse niemand schend.</l>
+<l>d'Eerwaerdige Godes 's mans deughden schijnt te vieren,</l>
+<l>En deckt sijn' grysen kop met haylige laurieren:</l>
+<l>Terwijl hem vreeslijck lijf en leven word ontseyd</l>
+<l>Van 't grimmigh ongediert: op sijne onnooselheyd</l>
+<l>[Gemat van ouderdom en veertighjaerigh worstlen]</l>
+<l>Als op een' vetten roof met opgesteecke borstlen,</l>
+<l>Met manen versch geschud, en muylen opgespart,</l>
+<l>Gebeten, en verbit. sijn fiere moed die tart</l>
+<pb n="86"/>
+<l>'t Vierspouwen van den Draeck, eene onrust zyner eeuwe,</l>
+<l>Het huylen van den Wolf, het brullen van den Leeuwe,</l>
+<l>'t Schuymbeckende <hi rend="i">E</hi>verswijn, het naer geloey des Stiers,</l>
+<l>Het grynsen van den Beer, 't gebriesch eens Tygerdiers,</l>
+<l>En 's Luyperts tantgeknars. soo leeft sijn' faem de jaren</l>
+<l><hi rend="i">E</hi>n eeuwen door in spyt der Vadermoordenaeren:</l>
+<l>Die Phoenix sijner tijd en hoe de nyd meer bast,</l>
+<l>Hoe minder hy vertsaeght, hoe hooger dat hy wast.</l>
+<l>'t Is billijck dat sijn roem, en lof ten grave uyt swelle.</l>
+<l>AEolien hem wyd, en haylight een Kapelle,</l>
+<l><hi rend="i">E</hi>n jaergetydigh feest: en set op 't hoogh outaer</l>
+<l><hi rend="i">S</hi>yn' beeltenis met sang, en deftigh kerckgebaer.</l>
+<l>De Priesters met hunn' pracht, en blinckende gewaeden</l>
+<l>Hem offrende, haelen op sijne heerelijcke daeden;</l>
+<l>Maer groot is 't jammer, en beschreylijck 't ongeval,</l>
+<l>'t Welck om een vroome siel gants Griecken treffen sal:</l>
+<l>Groot is d'ellende daer sijne haeters sich in wickelen</l>
+<l>Mijn neef uw Vader gaet met geyle minne pricklen</l>
+<l>Der Koninginnen, en Princessen eensaem bed:</l>
+<l>Wier Bruydegoms de Krijgh voor Trojen houd verlet:</l>
+<l>Wier poeselachtigh vleesch, door 't langh ontbeeren, weeligh,</l>
+<l>De wellust kiest voor schaemt, en draeght sich overspeeligh:</l>
+<l>En heelt sijn' kitteling, en lonckt, en streelt, en kust:</l>
+<l>En onderlingen brand met soet omhelsen bluscht:</l>
+<l>Versmaed der mannen trou, om 't puyck der jongelingen.</l>
+<l>d'Oneerelijcke galm van spelen, danssen, singen,</l>
+<l>Door 't gulden welfsel rolt: en Venus stroyter 't saed</l>
+<l>Om neerslagh, bloed, en moord, en allerhande quaed,</l>
+<l>Om tranen, en gehuyl te maeyen, en te oegden:</l>
+<l>Om vorst, en vorstendom; en rijcken te verwoesten:</l>
+<pb n="87"/>
+<l>En 't doolende overschot, met twyfelige stap,</l>
+<l>Te senden over zee, en sand in ballingschap,</l>
+<l>So verre, en so uytheemsch, dat nieusgier 't volck komt gapẽ,</l>
+<l>En dut of 't menschen sijn, of seker slagh van aepen.</l>
+<l>Achillis gramschap slaght Thersites met een' vuyst.</l>
+<l>De moord slaet Diomeed voor Trojen. 't water bruyst,</l>
+<l>En raeckt aen 't sieden, als mijn grimmigheyd verbolgen</l>
+<l>Haer' vinnen van sich steeckt: waer op de stormen volgen,</l>
+<l>Die Agamemnon in het keeren met sijn vloot</l>
+<l>Afeyschen rekening van Palamedes dood,</l>
+<l>En 't bloed mijns bloedverwants: en pynigen 't gewissen</l>
+<l>Des fellen moordenaers: die enckle duysternissen,</l>
+<l>Met roode straelen viers, en kromme blixems siet</l>
+<l>Gespouwen, en doorklooft: en met sijne ooren niet</l>
+<l>Als schorre donders hoort, en ysselijcke slagen:</l>
+<l>En drijft onwetende na Samos door de vlaegen,</l>
+<l>In 't eeuwigh schuymend graf van Icarus en looft</l>
+<l>Den saligen Priaem voor 't hoogh outaer onthoofd:</l>
+<l>Vergeeft sijn' segefeest: en vangt, vol schricx en bevens,</l>
+<l>Met sijn gehoor 't gekraeck van stevens tegens stevens,</l>
+<l>Van syde tegens sy, scheepskielen tegens kiel.</l>
+<l>Des vaders Nauplius met smart verkropte siel,</l>
+<l>Die op d'Eubeër kust 't weerkeeren van de Greecken</l>
+<l>Alree geroken heeft, een' fackel doet ontsteecken,</l>
+<l>En licht in zee van 't slot: dat steyl, en hooghgebout,</l>
+<l>Op 's bergs verheve kruyn, van wedersyds beschout,</l>
+<l>Een' baere Zee: wier diepe, en holle watren woelen,</l>
+<l>d'Eylanden allesins, en vasten grond bespoelen.</l>
+<l>De stuurlien van de vloot, verlockt door dese toorts,</l>
+<l>Sich geven derwaerts aen: daerse al te saemen voorts,</l>
+<l>In plaetse van de nood, en lijfsgevaer t'ontslippen,</l>
+<l>Vervallen in 't gedruys der Caphareesche klippen,</l>
+<pb n="88"/>
+<l>En 't luydende gehuyl van soo verbolgen vloed,</l>
+<l>Die stadigh barnt, en op de blinde klippen woed.</l>
+<l>Daer houd gerechte wraeck d'ontrampeneerde schepen</l>
+<l>Verlet, door 't scharp gesteent, als van haere hand gegrepen:</l>
+<l>Of met een' dijck bewelt van sand, dat hallef dryft,</l>
+<l>En door gebreck van vloed hen sloopt, en stucken wryft,</l>
+<l>Of achter driftigh, voor gestrand op harde kayen:</l>
+<l>Of stootse aen splinters door den draeystroom, in het swayen.</l>
+<l>De schippers vloecken d'onherbergelijcke ree,</l>
+<l>En haeten 't drooge land, en roepen om de zee:</l>
+<l>Wiens heesche, en schorre keel, door 't naer gehuyl der menschen</l>
+<l>[Dat ydel en vergeefs met bedeloft, en wenschen</l>
+<l>Mijn' gramschap paeyen wil] word over 't vlack verdooft.</l>
+<l>Ulysses evenwel, en 't wrongkroondraegende Hoofd</l>
+<l>Ontslippen dit gevaer, gespaert tot leyder treurspel:</l>
+<l>Daer gener schipbreuck van 't voorspoocksel is, en 't veurspel.</l>
+<l>'k Sie Clytemnestre alree geveynsdelijck en bly,</l>
+<l>Onthaelen haer' gemael: en Argos borgery</l>
+<l>Haer' vorst met waere vreughd begroeten, en ontfangen.</l>
+<l>De lucht geslagen word met fluyten, en gesangen.</l>
+<l>De Kercken gaen ter feest. de Koninglijcke sael</l>
+<l>Word staetigh toegerust, met overdaed van prael.</l>
+<l>Bancketten rechtmen aen, hoedanigh voor hunn' traenen</l>
+<l>De jongste maeltijd was der blyde Phrygiaenen.</l>
+<l>Het tafelbedde blinckt van 't Iliasche paers,</l>
+<l>En 's purpers glans vermeert by toorts, en wassekaers.</l>
+<l>'t Goud van Assaracus verswelght de Griecxsche wynen,</l>
+<l>En Goden leckerny. de koppen vol robynen</l>
+<l>Het sterffelijck gesicht, en d'oogen scheemren doen.</l>
+<l>'t Goud recht'er wildbraed aen, en Paeu, en Kallekoen.</l>
+<pb n="89"/>
+<l>Hy self leyd hoogh, en prat, en munt door sijn cieraeden</l>
+<l>Voor andren uyt, met bonte en spicklige gewaeden,</l>
+<l>En draeght aen 't lijf de pracht, en kleeding van Priaem.</l>
+<l>Sijne eegemael besweert hem by 's verwinnaers naem,</l>
+<l>Dat hy 't verciersel doch sijns vyands af wil leggen,</l>
+<l>Voor betre wisselingh: licht is hy te geseggen,</l>
+<l>Om 't handwerck aen te doen der lieve bedgenoot:</l>
+<l>Onkundigh van 't gevaer der korts aenstaende dood.</l>
+<l>Verschrickt noch ziddert niet. een balling om sal brengen</l>
+<l>Den Vorst der Koningen: een overspeelder plengen,</l>
+<l>En spillen 't bloed eens mans. sijn' slachting sal geschien.</l>
+<l>Het jongste dischgerecht sijn' Heer sal bloeden sien:</l>
+<l>Het roode vocht den wijn bespatten: 's Konings leven</l>
+<l>Van Argos Koningin ter neerlaegh word gegeven.</l>
+<l>Het aengetogen kleed dat weygerd en ontseyd</l>
+<l><hi rend="i">S</hi>yne handen doorgang: dies hy swoeght en arrebeyd</l>
+<l>En lucht soeckt: maer vergeefs. de schooten ruym van vouwen,</l>
+<l>En sonder opening sijn hooft besloten houwen.</l>
+<l>De suffert gantsch verwijft hem in de lenden steeckt:</l>
+<l>Maer overmits de moed in 't quetsen hem ontbreeckt,</l>
+<l>Het mesten halven keert. de Vorst begint te worstlen:</l>
+<l>En als in 't wilde woud het boschswyn ruygh van borstlen:</l>
+<l>Gegrepen van het ned, nochtans t'ontvlieden tracht,</l>
+<l>En alsins uytkomst soeckt, en woed met domme kraght,</l>
+<l>Gants ydel en vergeefs: vermits het vol verschricken,</l>
+<l>Door 't woelen enger maeckt de loose jaegerstricken:</l>
+<l>Soo woelt en tracht hy oock bedompelt, om het valsch,</l>
+<l>En blindgeweven kleed te worpen van den hals:</l>
+<l>En in den wyden schoot, en ployen ingewickelt</l>
+<l>Alom sijn vyant soeckt, ancxtvalligh aengeprickelt.</l>
+<l>De dochter van Tyndaer al woende, en rasend stracx</l>
+<l>Verselt den gruwelmoord, gewapent met eene acx:</l>
+<pb n="90"/>
+<l>En alsmen aen 't outaer, op pleghtige offerseesten</l>
+<l>Voor 't slaghtẽ met der byl eerst merct den neck der beesten,</l>
+<l>En stieren, alsoo micktse, en wickt haer' felle vuyst</l>
+<l>Dan ginder, dan weer hier, en neemt 'et wis en juyst.</l>
+<l>Hy leydter toe, de schelm: wech heeft hy't. 't is gekloncken</l>
+<l>Met desen dwingeland: wiens wreedheyd heeft gedroncken</l>
+<l>'t Neptuniaensche bloed soo greetigh, en so helsch.</l>
+<l>'t <hi rend="i">H</hi>oofd quaelijck afgehackt hanght aen een lapken vels.</l>
+<l>Hier vloeyt het schuymend rood daer grijnsen mond en oogen.</l>
+<l>Cassandra, vol van God, ter sael komt ingevloogen.</l>
+<l>En met haer roosenhoed den lijcke d'uytterste eer</l>
+<l>Bewijst, en kranst den romp. sy gaetse flucx te keer</l>
+<l>Met d'acxe warm van bloed, en deckt den sieleloosen</l>
+<l>Met sijn geroofden buyt: die vallende de roosen,</l>
+<l>En frissche bloemen kreuckt, en verwt den Marmorvloer.</l>
+<l>Leg, roept de moorderes, leg daer, o Koningshoer!</l>
+<l>O schandvleck van mijn bed! o kancker van goe' seden!</l>
+<l>Dat hebdy voor uw' langh gepleeghde vuyligheden.</l>
+<l>Het daetlijck juychende hof, en vrolijcke Paleys</l>
+<l>Geeft nu een' naeren galm, en is vol moordgeschreys.</l>
+<l>Electra swijmt van schrick: en anextigh voor haer moeders</l>
+<l>Verwoedheyd, bergt geswind d'nnooselheyd des broeders,</l>
+<l>Door Phocius den Oom: sy selve in duysterheyd,</l>
+<l>En vangenis bemuurt, een treurigh leven leyd:</l>
+<l>Tot d'overspeelder haer', om achterdocht te schouwen,</l>
+<l>Doet met eene' ackerman als een' boerinne trouwen:</l>
+<l>Ter tyd toe dat de wraeck de moordenaers verrast:</l>
+<l>Die, alsse in Pallas kerck de groote Goden vast</l>
+<l><hi rend="i">M</hi>et blydschap offren, om Orestes overlyden,</l>
+<l>Besprongen worden, en benart van alle syden.</l>
+<l>De smart geeft wapenen aen Dochter, en aen Soon.</l>
+<l>De moedermoord bespat het aengesicht der Goon:</l>
+<pb n="91"/>
+<l>Die toornigh, en verhit, om 't schendigh kerck ontwyen,</l>
+<l>Daghvaerden staende voets de felle Raseryen,</l>
+<l>Met biesend slangenhayr, en ysselijck gegrim.</l>
+<l>De neerslagh knaeght hun 't hart. de moederlijcke schim,</l>
+<l>Gewapent met een' torts, hen naestapt door den tempel.</l>
+<l>Sy vlieden voor, en sien de Vloecken op den drempel:</l>
+<l>Sijn aller menschen vloeck, om sulck een' grouwelmoord:</l>
+<l>De daecken stierense ongehuysvest altyd voort.</l>
+<l>Dat leert nae heyligh bloed van Godenkinders dorsten</l>
+<l>Tot in het derde lit. ick ga den val der Vorsten,</l>
+<l>En Koningen voorby. ick swijgh hoe Grieckenland</l>
+<l>Veroorsaeckt moord uyt moord, en mengelt brand in brand,</l>
+<l>En uytroyt stammet stam, geslachten met geslachten.</l>
+<l>Door schennis schennis boet, verkrachten met verkrachten:</l>
+<l>En aen 't gewyde slaet sijn' vingers onbesuyst:</l>
+<l>En in sijn' boesem wroet: terwijl Ulysses kruyst</l>
+<l>De Zeen veel' jaeren lang van 't pekelschuym bedolven.</l>
+<l>Gesmeten herrewaerts, en derwaerts met mijn' golven:</l>
+<l>Gesolt gerolt, door soet en suur, door heet en kout:</l>
+<l>Geweeckt van 't nat: gebraen van hit, en soor van 't sout.</l>
+<l>Na dat hy is ontslipt de Caphareesche laegen,</l>
+<l>De winden hem aen d'onherberglijcke oevers jaegen,</l>
+<l>Van 't forsse Thracier volck: daer Hebrus koude vliet</l>
+<l>Sijn water loost, en in d' AEgeesche baeren giet:</l>
+<l>Van derwaerts wederom na d'Africaensche kusten:</l>
+<l>Daer sijn geselschap sich ter neer wil slaen, en rusten,</l>
+<l>Vervlockt door 't lecker oeft: dan nae Trinacria,</l>
+<l>In 't hol van Polipheem, den Cyclops: die te spa</l>
+<l>Sijn' dronckenschap beklaeght; om dat hy nu in 't duycken,</l>
+<l>En 't rysen van de zon eenoogigh niet magh bruycken</l>
+<l>Den sienelijcken God, en 't aengebeden licht:</l>
+<l>Dan tweemael daer AEool sijn' setel heeft gesticht:</l>
+<pb n="92"/>
+<l>En over buyen heerscht, en breydelt dwarrelwinden:</l>
+<l>Dan weêr na Antiphaet, oyt hongrigh om verslinden</l>
+<l>Het rauwe menschen vleesch, waer hy 't bekomen kon:</l>
+<l>Dan by de toveres, een' dochter van de son,</l>
+<l>Die haer verspieders flucx herscheppen kan in swynen,</l>
+<l>En d'Ithakois verlet drie hondert sonneschynen:</l>
+<l>Tot datse in't scheydẽ sich met Telegoon vertroost.</l>
+<l>In wiens schoon aenschijn sweeft, en leeft haer boelschaps kroost,</l>
+<l>Van derwaerts wend hy 't roer na d'Oceaensche baeren,</l>
+<l>En daelt daer onderaerdsche, en dootse schimmen waeren:</l>
+<l>Dan wederom sijn schip aen Cieces oorden stiert,</l>
+<l>Daer met lijckstacy hy Elpenoors uytvaert viert.</l>
+<l>Van hier langs d'oevers der soetsingende Sirenen:</l>
+<l>Die onder navelvisch, en boven maeghden scheenen.</l>
+<l>Ick swijgh hoe hy 't gevaer van Scylle. en van Charybd,</l>
+<l>Haer draeystroom, barning, kolck, en woest gesteente ontslipt,</l>
+<l>De rotsen wit van schuym, en grondeloose afgronden,</l>
+<l>En 't blaffende gehuyl der blaeuwe, en zeegroene honden:</l>
+<l>En land daer Phaëtuse haer vaders beesten hoed:</l>
+<l>Die 't hongerig scheepsvolck slagt, wiens sonde Ulysses boet:</l>
+<l>Met schipbreuck, als hy naeckt tot berging van sijn leven,</l>
+<l>Na negen dagen by Calypso komt gedreven:</l>
+<l>Die als hy is ontruckt de kaecken van de dood,</l>
+<l>Hem seven jaren stooft, en koestert in haer schoot,</l>
+<l>En leert den Grieck, met min te stoocken, en te lessen,</l>
+<l>Hoe soet d'omhelsing is, en byslaep der Godessen:</l>
+<l>Ter tijd toe datse een' soon, en schoone Dochter teelt:</l>
+<l>Dese op de moeder treckt, die is sijns Vaders beeld.</l>
+<l>Na dat hy van haer scheyd, en sy 't niet kan ontseggen,</l>
+<l>En siet Phaeacien met blyschap voor sich leggen,</l>
+<l>Ick mynen dryetand rep, en breeck sijn' nieuwe kiel.</l>
+<l>Leucothoë die bergt sijne half versoope siel.</l>
+<pb n="93"/>
+<l>De strand ontfangt hem naeckt. hier schuylt hy in de bladen.</l>
+<l>De Koninglijcke maeghd medoogende, gewaeden</l>
+<l>Verschaft den vreemdeling, begaen om Peneloop,</l>
+<l>Hy vind sijn eegemael ten laetsten met een' hoop</l>
+<l>Verliefde vryers, die vast na haer kuyscheyd dingen,</l>
+<l>Becingelt, en omheynt, en koomtse stout bespringen,</l>
+<l>En stort hen overhoop, en valt nae langhe ellend</l>
+<l>In d'armen sijner bruyd. maer voor het dreygement</l>
+<l>Der heyl'ge Godspraeck [die hem waerschout voor sijn' basterd]</l>
+<l>Bevreest, ontsinnigh hy de groote Goden lastert,</l>
+<l>En sich besyden 's weeghs in eensaemheyd versteeckt:</l>
+<l>Ter tyd toe Telegoon, door Circes sorgh gequeeckt,</l>
+<l>Belust t'aenschouwen eens het aengesicht sijns vaders</l>
+<l>Hem onbekend verwond, en doodlijck quetst in d'aders,</l>
+<l>Met een vergiftige, en daer toe bescheerde doorn:</l>
+<l>Waer aen de booswicht sterft, en bluscht Neptunus toorn.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">OAT</hi>.</speaker>
+<l rend="; 1tab">Grootvader vluchtge uw' soon, en laetge hem in dit lyen</l>
+<l>Getroost met woorden, en met schoone Prophecyen,</l>
+<l>En martghe met uw' wraeck. O Vader: wat sal 't sijn?</l>
+<l>Het menschelijck geslaght word weeligh. op Jupijn!</l>
+<l>Den Hemel word bestormt, beklommen van de boosheyd</l>
+<l>Der nieuwe Reusen, op, en blixem hunn' Godloosheyd.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">PRIAEM</hi>. <hi rend="spat">HECUBA</hi>.</speaker>
+<l>DIt ongeluck is hem voor ons te spa beschooren,</l>
+<l>Waer dit wat eer gebeurt, noyt hadden wy verlooren</l>
+<l><hi rend="i">S</hi>oo veel beroemde steen, tot nadeel van 't gemeyn.</l>
+<l>Nu Griecxsche wijsheyd loop, en raeskal sonder breyn.</l>
+<l>'t Huys van Assaracus heeft selve Pelops handen</l>
+<l>Den grootsten vyand der Trojaenen aen sien randen,</l>
+<l>En onder 't decxsel van meyneedigh landverraed</l>
+<l>Soo schendigh doemen. vaert nu wel, o Griecxschen staet!</l>
+<pb n="94"/>
+<l>O raedeloose maght, die in uw' degens strompelt,</l>
+<l>Droomt van gheen Trojen meer: waeckt om niet overompelt</l>
+<l>Te worden, noch verrast van Hectors schittrigh stael,</l>
+</sp>
+<sp>
+<speaker>HECV.</speaker>
+<l rend="; 1tab">Die segen dout op ons uyt 's Hemels milde sael.</l>
+<l>De Goden toonen sich op heden goedertieren.</l>
+</sp>
+<sp>
+<speaker>PRI.</speaker>
+<l rend="; 1tab">Ick wil dat Hof, en Stad op dese tyding vieren.</l>
+</sp>
+<sp>
+<speaker><hi rend="spat">REY VAN TROJAENSCHE MAEGDEN</hi>.</speaker>
+<l>TRojaensche wijdberoemde jeughd,</l>
+<l><hi rend="i">S</hi>inght Pallas lof, en juycht van vreughd,</l>
+<l>En eert met Kerck gebaeren</l>
+<l>Haer' drempels en outaeren.</l>
+<l rend="; 1tab">De feestelijcke schaere danss';</l>
+<l>En schudd' voor haer den lauwerkrans.</l>
+<l>Dat maeghdelijcke pruycken</l>
+<l>In groene olyven duycken:</l>
+<l rend="; 1tab">En 't hayr met silver niet vertuyt,</l>
+<l>Nocht' Paerlesnoer, maer als een' bruyt</l>
+<l>Den witten hals bekleede,</l>
+<l>En deck' na d'oude sede.</l>
+<l rend="; 1tab">Dat Asien te samen school':</l>
+<l>'t <hi rend="i">S</hi>y die op d'oevers van Pactool</l>
+<l>'t Goud scheemren sien, en blincken:</l>
+<l>Of die <hi rend="i">M</hi>eander drincken:</l>
+<l rend="; 1tab">Of treen Caysters boord, die wit</l>
+<l>Van langgehalsde swaenen sit,</l>
+<l>Die in de suyvre plassen,</l>
+<l>Haer' blancke pluymen wassen:</l>
+<l rend="; 1tab">'t Sy 't volck van Sagaris besproeyt,</l>
+<l>Die d'Anckers schuurt, en boghtigh vloeyt:</l>
+<l>'t Sy 't geen verdreven balling</l>
+<l>Nocht voeder heeft, nocht stalling</l>
+<pb n="95"/>
+<l rend="; 1tab">Voor Griecxsche kleppers, en met druck</l>
+<l>Vlood herwaerts, om Achilles juck,</l>
+<l>En heerschappy te schouwen</l>
+<l>In veylige landouwen:</l>
+<l rend="; 1tab">En voor Caïcus Xanthus koor,</l>
+<l>En d Iliasche vesten voor</l>
+<l>Lyrnes: wiens swacke muuren</l>
+<l>Geen stormen en verduuren.</l>
+<l rend="; 1tab">Weckt heylgen galm, en huwt uw' keel</l>
+<l>Aen luyt, en sangerige veel.</l>
+<l>Wilt heldre stemmen paeren</l>
+<l>Met spel van winden snaeren:</l>
+<l rend="; 1tab">En treckt met Goddelijck geluyd</l>
+<l>De blyde siel ten ooren uyt:</l>
+<l>Gelijck met maetgesangen</l>
+<l>Ghy Paris ginght ontfangen:</l>
+<l rend="; 1tab">Doen op het water rey aen rey,</l>
+<l>Met vreughd ontmoete sijn galey,</l>
+<l>En welkom hiet van harten</l>
+<l>De schoone bruyd van Sparten.</l>
+<l rend="; 1tab">Die Proteus brande met haer' min,</l>
+<l>En uytblonck als een' Zeegodin:</l>
+<l>Soo Venus quam bepeerelt</l>
+<l>In 't Parlemoer ter weereld:</l>
+<l rend="; 1tab">En doen de schoonheyt van Heleen</l>
+<l>Niet sterflijck, maer een' sonne scheen:</l>
+<l>Die cierlijck uytgestreecken,</l>
+<l>Het hoofd eerst op komt steecken:</l>
+<l rend="; 1tab">En in het silver van den vloed</l>
+<l>Haer' goude pruycke schittren doet:</l>
+<l>En in 't kristal 't vergulsel</l>
+<l>Siet spieglen van haer hulsel.</l>
+<pb n="96"/>
+<l rend="; 1tab">O dochter van den Dondergod,</l>
+<l>Minerve, gny bewaeckt het slot</l>
+<l>Van uw Godsdienstigh Trojen.</l>
+<l>De vyanden verstroyen:</l>
+<l rend="; 1tab">En Agamemnon suypt verwoed</l>
+<l><hi rend="i">S</hi>ijn trouste raedsmans edel bloed.</l>
+<l>Het leger gaet sijn' speeren</l>
+<l>Nu tegens Argos keeren.</l>
+<l rend="; 1tab"><hi rend="i">M</hi>ycenen van verstant beroofd,</l>
+<l>Haer wijsheyts beckeneel doorklooft:</l>
+<l>En langs het veld loopt scharssen</l>
+<l>Met d'uytgetogene harssen.</l>
+<l rend="; 1tab">Stadts grootste vyand voor de poort</l>
+<l>Leyd van sijn eygen volck vermoord.</l>
+<l>Lof lof zy u Godesse,</l>
+<l>O strijtbre krygeresse!</l>
+<l rend="; 1tab">Voor u galmt 't vrolijcke geschrey,</l>
+<l>Voor u klinckt ruyspijp en schalmey.</l>
+<l>Voor u gehuwde vrouwen,</l>
+<l>En jouffers feestdagh houwen:</l>
+<l rend="; 1tab">En met vermengde reyen treen</l>
+<l>Na wit Albast, en Marmorsteen.</l>
+<l>De Priesters op uw' drempels</l>
+<l>Ontsluyten alle Tempels:</l>
+<l rend="; 1tab"><hi rend="i">S</hi>oo flucx 't Goddinnebeeld genaeckt</l>
+<l>Dat over Dardans stamhuys waeckt.</l>
+<l>De schaeren na u tochten,</l>
+<l>En sijn met loof bevlochten.</l>
+<l rend="; 1tab">Stockoude gryserts levens sat,</l>
+<l>Hunn' wensch deelachtigh, komen mat</l>
+<l>U offerwynen brengen,</l>
+<l>En sidderende plengen.</l>
+<l rend="; 2tab"><hi rend="i">FINIS.</hi></l>
+</sp>
+</div>
+</body>
+</text>
+</TEI.2>

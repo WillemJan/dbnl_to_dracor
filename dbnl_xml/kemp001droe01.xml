@@ -1,0 +1,3263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Droeff-eyndich-spel van de moordt van sultan Osman</title>
+               <author>Abraham Kemp</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Droeff-eyndich-spel van de moordt van sultan Osman</hi> van Abraham Kemp uit 1623.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>fol. Bijv: een deel van de tekst is moeilijk leesbaar. Dat is hier tussen vierkante haken aangegeven.</corr>
+                       <corr>fol. Biiijr: <hi rend="i">eude</hi> → <hi rend="i">ende</hi>: ‘<hi rend="i">Janitzer Aga, ende Silactar loopen oock binnen.</hi>’.</corr>
+                       <corr>fol. Diiijv: biunen → binnen: ‘Van binnen wert eenen hoorn geblasen’.</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <publicationStmt>
+               <idno type="titelcode">kemp001droe01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2020 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note></note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Universiteitsbibliotheek Leiden, signatuur: 1098 B 90: 1, scan van Google Books</idno>
+               </bibl>
+               <p>Abraham Kemp, <hi rend="i">Droeff-eyndich-spel van de moordt van sultan Osman</hi>. Adriaen Helmichsz., Gorinchem 1623</p>
+               <p>&#160;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Droeff-eyndich-spel van de moordt van sultan Osman</title>
+               <author>Abraham Kemp</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <idno type="nur"></idno>
+           <availability>
+               <p></p>
+           </availability>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Droeff-eyndich-spel van de moordt van sultan Osman</title>
+               <author>Abraham Kemp</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <idno type="nur"></idno>
+           <availability>
+               <p></p>
+           </availability>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2019-11-27</date>
+               <respStmt>
+                   <name type="person">RK</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+<text>
+    <interpGrp><interp type="primair" value="gorin001segh01"/>
+        <interp type="secundair" value="turki01"/>
+        <interp type="secundair" value="16230520"/></interpGrp>
+<body>
+<cf><div type="chapter">
+<pb ed="fol." n="Air"/>
+<p><hi rend="i">A. KEMPS</hi></p>
+<p>Droeff-eyndich Spel, vande Woordt van <hi rend="i">Sultan Osman, </hi>Keyser van Turckijen: gheschiet den 20<hi rend="i">sten. </hi>Mey 1622. ende eerstmael vertoont by de Camer <hi rend="i">Vernieut uyt Liefden, </hi>binnen <hi rend="i">Gorinchem, </hi>op den 20<hi rend="i">sten. </hi>Mey 1623.</p>
+<p>&#160;</p>
+<p>Op den zin,</p>
+<p><hi rend="i">Beter bemindt, dan ghevreest.</hi></p>
+    <figure>
+        <p><xptr to="kemp001droe01ill0001.gif"/></p>
+    </figure>
+<p><hi rend="sc"><hi rend="i">Ghedruckt tot Gorinchem.</hi></hi></p>
+<p>Voor Adriaen Helmichsz. Boeck-verkooper, woonende aent Mercktvelt int Schrijf-boeck. Anno 1623.</p>
+</div></cf>
+<div type="chapter">
+    <interpGrp><interp type="primair" value="16030501"/></interpGrp>
+<pb ed="fol." n="Aiv"/>
+<head rend="h3"><hi rend="i">Aen den E. Hooch-gheleerden, </hi>Mr. Cornelis Vinck, van Gorinchem.<lb/><hi rend="i">Raedt ende Agent vanden Hooch-gheboren Furst </hi>ende Heere, Fredricus byder Gratien Godts, Erve tot Noorwegen, Hertoch in Sleswijck, Holsteyn, Stormarn, en der Dietmarsen, Grave tot Oldenborch, en Delmenhorst, &amp;c.</head>
+<p><hi rend="i">M</hi>YN HEERE,</p>
+<p>'t <hi rend="i">IS een ghewisse saeck, dat het ouer-lesen der Historien, veler Lieden, Insonderheydt den ghenen die eenighe treffelijcke Ampten van Princen ende Heeren bedienen, groote nutbaerheydt aen-brenght: Daer uyt konnen op't klaerste ghespeurt werden &amp; veranderinghen, die alle Menschen, soo van Hooghen, als Leeghen Start, zijn onderworpen. Ick dit bemerckende, hebbe met yuer ouerlesen &amp; wonderbare veranderinghe, 't voorleden Jaer in Turckijen gheschiede: ben beweegt gheworden, deselue, na mijn kranck vermogen, in Rijm te stellen, door den druck ghemeente maken, ende V.E. toe te eyghenen. Eensdeels door de uytnemende Vrindtschap ende hertelicke gheneghentheyt die ick in u.e. mywaerts, altijts bevonden hebbe: Anderdeels, omdat mijn slechte </hi>Poësie <hi rend="i">onder uwe vleugelen beschermt werdende, te meer soudt mogen toenemen, ende metter tijdt yet treffelijcken te weghe brenghen. Ten derden, midts dese verhandelinghe schijnbaen te gaen, alle Personen van diergelijcken Staet, van hare Heeren te raden te betrachten het Spreeck-woort, </hi>BETER BEMINT, DAN GEVREEST.</p>
+<p><hi rend="i">Ende alsoo V, E. noch teghenwoordich doende zijt, op de wederkomste vande wyse, als Agent van uwer E. voor-gemelte Furstink Heerschappije vanden grooten Turck, Namelijck van Algier: So wert uwer E. (welchert by-wesen wy, eerstdaeche</hi>n<hi rend="i"> met groote blyschap verhopen) dit toegeeygent, tot een welkomst gaende, onder Mey-dichte. Gedaen in Gorinchem desen eersten Mey 1603. by</hi></p>
+<p><hi rend="i">V. E. dienstwillighe</hi></p>
+<p>Abraham Kemp.<hi rend="i"> </hi></p>
+
+</div>
+<div type="chapter">
+<pb ed="fol." n="Aijr"/>
+<head rend="h3"><hi rend="i">Aende Gedicht-lievende Lesers.</hi></head>
+<p><hi rend="i">BEminde Lesers: Om V.E. te berichten de rechte eygenschap deses Treur-spels, dient aenghemerckt, dat ick hebbe ghevolcht, soo veel my doenlijck was de beschrijvinghe, daer van in druck tot mynen handen ghecomen, dan bevindende de stoffe vol droefheydt, ende dat daer wel eenige vermakelickheyt by diende, om de toesienders ofte lesende Jeucht een weynich te verheughen, hebbe ick, volgens d'Oude Vryheydt inde Poësie ghebruyckelick, (behalven de vermakelijckheydt vande Sot, inden Druck uyt ghelaten,) noch daer by ghevoecht, seker Vryagie tusschen Silactar ende Flora: Midtsgaders de practijcken by Celia ghebruyct, om Silactars Liefde van Flora af te trecken, met d'uytcomste.</hi></p>
+<p><hi rend="i">Ende de verschijninghe van OSMANS GHEEST, ende den aencleven van dien. Op dat V.E. niet vremt dunct, als ghy sulcx sout moghen comen te sien, ende lesen, alsoo 'tselue is een by-gevoechde eygen vindinge. Onder dese berichtinge, dan, volcht alhier</hi></p>
+</div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">een cort Inhoudt des Spels.</hi></head>
+<p>INt eerste deel, wort verhaelt, hoe <hi rend="i">Sultan Osman </hi>Keyser van Turcijen, verstoort ouer de nederlaghe inden Poolschen Krijch, A<hi rend="sup">o.</hi> 1621. gheschiet. Voor-neemt zijn onwillich Krijchs-volck te straffen. Ende onder den schijn van een Bedevaert nae Mecha te doen, alle de Schatten doet vergaderen, om den Stoel zijns Rijcx tot Groot Cayro te stellen. Zijn Moeder vertelt haren Droom, ende is bevreest voor zijn ongheluck. <hi rend="i">Silactar Aga </hi>in Vryagie zijnde met <hi rend="i">Flora, </hi>begheeft hem in een Taveerne om Wijn te drincken, by hen-luyden verboden, daer komen andere <hi rend="i">Bassas, </hi>ende <hi rend="i">Sultan Osman </hi>komt selffs, in onbekende Cleedinghe hun daer uyt drijven. Haelt daer naer de Cleynodien uyt zijns Vaders Graff, ende gaet by <hi rend="i">Mustapha </hi>zijnen Oom, die hem zynen Droom uyt-leydt.</p>
+<p>&#160;</p>
+<p>INt tweede deel, openbaert <hi rend="i">Osman </hi>zijn voor-nemen, van zynen Stoel tot Groot Cayro te stellen, sijn Heeren ontradent hem. <hi rend="i">Silactar </hi>vertreckt uyt den Raedt, gheeft het <hi rend="i">Flora </hi>te kennen, die bedroeft is, om dat <hi rend="i">Silactar </hi>van haer scheyden soude, radende hem de Princen ende 'tVolck op te ruyen, teghen <hi rend="i">Osman, </hi>die, ontboden sijnde, komen, maecken Oproer, verachten 'sKeysers aen-biedinge, slaen eenige Heeren doot: Halen <hi rend="i">Mustapha </hi>uyt een diepen Put, vatten hem op de schouderen, roepen hem uyt voor Keyser.</p>
+
+<pb ed="fol." n="Aijv"/>
+<p>INt derde deel, wert <hi rend="i">Mustapha </hi>weder uytgeroepen voor Keyser, <hi rend="i">Osman </hi>en<hi rend="i">de </hi>sijn Moeder dat hoorende sijn v<hi rend="i">er</hi>baest. <hi rend="i">Celia </hi>niet connende becomen de Liefde van <hi rend="i">Silactar, </hi>maect hem wijs dat <hi rend="i">Flora </hi>met een <hi rend="i">Pagie </hi>boeleert. <hi rend="i">Osman </hi>vlucht int Huys van <hi rend="i">Janitzer Aga, </hi>die Vrede willende maken, wort dootgeslagen en<hi rend="i">de Osman </hi>gevangen. <hi rend="i">Celia </hi>doet met besweringe geesten verschijnen, inde gedaente, van <hi rend="i">Flora </hi>boelerende met een <hi rend="i">Pagie, </hi>'twelc <hi rend="i">Silactar </hi>siende gelooft. <hi rend="i">Flora </hi>hier van niet wetende, doet verhael va<hi rend="i">n</hi> hare groote Liefde, tot <hi rend="i">Silactar, </hi>en<hi rend="i">de </hi>by hem come<hi rend="i">n</hi>de verwijt hy haer, hare hoererije. <hi rend="i">Mustapha </hi>sijnde seer met verschrictheyt gequelt, wort tydinge gebracht van <hi rend="i">Osmans </hi>gevanckenisse. Hy geeft de soldaten macht om <hi rend="i">Osman</hi> te brengen waer sy willen, die wort opt Casteel vande seven toornen gestranguleert.</p>
+<p>&#160;</p>
+<p>INt vierde deel wort <hi rend="i">Mustapha </hi>vertoont <hi rend="i">Osmans </hi>oor, tot teke<hi rend="i">n</hi> van zijn doot. <hi rend="i">Silactar </hi>beclaecht <hi rend="i">Floras </hi>lichtveerdicheyt, en<hi rend="i">de </hi>besluyt de waerheyt vande sake selfs te willen hoore<hi rend="i">n</hi>, uyten eygen mont van <hi rend="i">Celia, </hi>hy maect hem toe als haer Biecht-vader, en<hi rend="i">de </hi>hoort soo alle de gelegentheyt, dies hy haer, toornich van hem drijft. <hi rend="i">Flora </hi>doet droevighe clachten <hi rend="i">Silactar </hi>ontdeckt haer de saeck, sy trouwen t'samen. <hi rend="i">Soltana Thiossem </hi>verstoort ouer haers soons <hi rend="i">Osmans </hi>doot, besweert de boose geesten, beveelt haer by <hi rend="i">Mustapha </hi>inden Raedt te verschijnen. <hi rend="i">Mustapha </hi>wert gekroont daer vertoonen hun den gheest van <hi rend="i">Osman, </hi>de <hi rend="i">Wraeck, </hi>en <hi rend="i">Phasarel </hi>den Boosen gheest, voorsegghende <hi rend="i">Mustapha </hi>ende <hi rend="i">Dahout </hi>hun corts aenstaende doot. </p>
+<p>Ende heeft 't Spel hier mede EYNDE.</p>
+<p>Een saecke is oock aenmerckens weerdich, dat al 'tghene in dit Spel, betreffende de gheschiedenisse, verhandelt wort (behalven d'uytlegginghe van Osmans Droom ende weynich anders,) ghebeurt is binnen XXIIIJ. uren. 'tWelck byde Oude Poëten voor uytmuntich gheacht, ende byden wijdt-beroemde<hi rend="i">n</hi> Hollantschen Dichter Pieter Cornelisz Hooft, in zijn Gerardt van Velsen, achtervolcht is.</p>
+
+</div>
+<div type="chapter">
+    <interpGrp><interp type="primair" value="muyr001"/></interpGrp>
+<pb ed="fol." n="Aiijr"/>
+<head rend="h3"><hi rend="i">Clinck-dicht,</hi><lb/><hi rend="i">Op A. Kemps Turcxe Droef-eyndich Spel.</hi></head>
+
+<lg type="poem">
+<l>WAt onverwachte Const comt hier weer voor den dach?</l>
+<l>'t Schijnt (<hi rend="i">KEMP</hi>) dat uwe penn' met bly en droevicheden</l>
+<l>ghemengelt is geweest: daer meed men desen wreden</l>
+<l>En schrickelicken Moort, u cloeck uyt-beelden sach.</l>
+<l rend="; 1tab">Doen <hi rend="i">Sultan Mustapha, </hi>als Slaeff ghevanghen lach,</l>
+<l>Men <hi rend="i">Sultan Osman </hi>sach op 'sKeysers Throone treden,</l>
+<l>Door't wickelende Radt viel haest van 'thooch beneden,</l>
+<l>'tGheluck en weder spoet: elck een hier vinden mach.</l>
+<l rend="; 1tab">Sijn wrevel tort 'tghemoet van sijn trou onderdanen,</l>
+<l>Hert-koppich hy versmaet heur bidden en vermanen,</l>
+<l>Wil jeghens d'Oude Wet indringhen nieuwicheyt,</l>
+<l rend="; 1tab">Stelt sulcx met kracht int werc, in weer-wil van 'sLants rade<hi rend="i">n</hi>,</l>
+<l>De rasende ghemeent beteughelt zyne daden,</l>
+<l>Doet vallen hem van 'thooch in doots ellendicheyt.</l>
+</lg>
+<p><hi rend="i">'kVerbey den tijt.</hi></p>
+</div>
+<div type="chapter">
+    <interpGrp><interp type="primair" value="vosb008"/></interpGrp>
+<head rend="h3"><hi rend="i">Lof-dicht,</hi><lb/><hi rend="i">ter Eeren, den soet-vloeyenden Poët, A. Kemp, op zijn navolgende Spel.</hi></head>
+
+<lg type="poem">
+<l>O Gorinchem vermaert ô Hollandts kleyne Stadt,</l>
+<l>Doch groot door Consten, diemen sta'ich in u siet plegen,</l>
+<l>Ter welcker veel sijn maer tot dees ben 'k meest genegen,</l>
+<l>Die weerdigher ick acht, dan al des Wereldts schadt.</l>
+<l rend="; 1tab">Const roemers alghelijck, komt hier, hier seggh' ick dat,</l>
+<l>Ghy vinden sult de Bloem, de Fleur van veel <hi rend="i">Poëten,</hi></l>
+<l>Schout doch dit spel eens aen, siet wat hy u laet weten,</l>
+<l>Door dees <hi rend="i">Tragoedi, </hi>droef, in dit kleyn Werck bevat.</l>
+<l rend="; 1tab">Hier sult ghy vinden in soo ghij't met lust door-leest,</l>
+<l><hi rend="i">DAT BETER IS, BEMINDT TE WORDEN, DAN GHEVREEST.</hi></l>
+<l>'t Is <hi rend="i">KEMP </hi>die u dit leert, ghedreven tot u jonste,</l>
+<l rend="; 1tab">Gheen Fabel noch gheen Droom, maer <hi rend="i">Waerheydt, </hi>stelt hy voor,</l>
+<l>Daerom met lusten leest, ghy wert ghesticht hier door,</l>
+<l>Dus yder mercken kan, dat hem <hi rend="i">'tHert treckt na Conste:</hi></l>
+</lg>
+<p><hi rend="i">A. Vosberghen.</hi></p>
+
+</div>
+<div type="chapter">
+<pb ed="fol." n="Aiijv"/>
+<head rend="h3"><hi rend="i">Sonnet ofte Klinck-dicht.</hi></head>
+
+<lg type="poem">
+<l><hi rend="i">W</hi>Aer's <hi rend="i">Redenrijcke Maegh't? </hi>ghevlucht uyt <hi rend="i">Arckels </hi>Landt?</l>
+<l>voor lang' of eewich wech? of is s'haer maer wat ruste<hi rend="i">n</hi>?</l>
+<l>'Kvraech u <hi rend="i">Kemp </hi>na die <hi rend="i">Maegh't, </hi>die u so dicmaels custen</l>
+<l>Was haren <hi rend="i">Maechdom </hi>wer'lts s'had langh' met u ghemandt.</l>
+<l>&#160;</l>
+<l rend="; 1tab">Ghy waert 'tuytmuytend' Lieff, sy hield u voor <hi rend="i">Ghesandt</hi></l>
+<l>aen al haer Minnaers, die ghy met u werck noyt blusten</l>
+<l>maer brandt ontstaeckt, en deed haer scheppen nieuwe lusten,</l>
+<l>Hebt ghy nu niet voor haer? breng't voort, hout niet aen cant.</l>
+<l>&#160;</l>
+<l rend="; 1tab">'kDanck u van 'tgheen ick sie, ô! 'ksie ghy hier vertellet,</l>
+<l>(Voor-treff'lijck met goet dicht) hoe dat wort afghestellet,</l>
+<l>Gheworcht, en omghebracht, des aller Turcken Heer.</l>
+<l>&#160;</l>
+<l rend="; 1tab">Den Voorsaet afghesteld 's uyt Kercker diep weer halen,</l>
+<l>Verkrijcht weer 'sKeysers Croon, soo connen groote dalen,</l>
+<l>En som' weer vlieghen op, 'tneemt hier haest eenen keer.</l>
+<l>Te recht men seyt dies heeft, <hi rend="i">gheleent is maer die Eer.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+    <interpGrp><interp type="primair" value="heyn064"/></interpGrp>
+<head rend="h3"><hi rend="i">Ode, ofte vreuchdich Ghesanck.</hi></head>
+
+<lg type="poem">
+<l>1.</l>
+<l rend="; 1tab"><hi rend="i">Kemp, </hi>soo ghy in const volherdet,</l>
+<l>'tPuyck van dichters ghy noch werdet,</l>
+<l>Ghy sult wesen <hi rend="i">Gorcums </hi>loff.</l>
+<l>Cloeck'lijck hebt ghy hier gheschreven,</l>
+<l>Prijs can'k u na waerd niet gheven,</l>
+<l>Met Pen, want te veel 'kvind' stoff.</l>
+<l>&#160;</l>
+<l>2.</l>
+<l rend="; 1tab">Lief is my, dat na u sterven,</l>
+<l><hi rend="i">Gorcum </hi>sal die Eer beerven,</l>
+<l>Dat ghy daer sijt op-ghevoet,</l>
+<l>Naer ons doot u naem noch levet,</l>
+<l>Door dit werck dat ghy ons ghevet,</l>
+<l>'tHeeft in alles ouervloet.</l>
+<l>&#160;</l>
+<l>3.</l>
+<l rend="; 1tab">Goet is datmen niet sal twisten,</l>
+<l>Alsmen met <hi rend="i">Homero </hi>misten,</l>
+<l>V gheboort-plaets is bekent:</l>
+<l>Om de sijn viel vele reden,</l>
+<l>Seven steden daerom streden,</l>
+<l>Eere ghy oock weerdich bent.</l>
+</lg>
+<p><hi rend="i">Magnes Amoris Amor.</hi></p>
+<p><hi rend="i">G. V. W.</hi></p>
+
+</div>
+<div type="chapter">
+<pb ed="fol." n="Aiiijr"/>
+<head rend="h3"><hi rend="i">Loff-dicht, ter eeren den Poët, A. Kemp.</hi></head>
+
+<lg type="poem">
+<l><hi rend="i"><hi rend="b">G</hi>HY lieue </hi>Nimphkens <hi rend="i">schoon, geseten aende Vloet</hi></l>
+<l><hi rend="i">van clare </hi>Lingens-stroom, <hi rend="i">comt wilt </hi>blom-crance<hi rend="i">n</hi> <hi rend="i">ciere</hi>n<hi rend="i"></hi></l>
+<l><hi rend="i">En vlechten die door een, met </hi>Mirthen <hi rend="i">en </hi>Laurieren,</l>
+<l><hi rend="i">Van </hi>Palm <hi rend="i">en </hi>Zegel-bloem, <hi rend="i">breyt eenen </hi>Meyen-hoet,</l>
+<l rend="; 1tab"><hi rend="i">Om Croonen u </hi>Poët, <hi rend="i">ons </hi>Phenix, <hi rend="i">die ghy moet</hi></l>
+<l><hi rend="i">als d'Eer van </hi>Helicon, <hi rend="i">op den </hi>Parnasso <hi rend="i">vieren,</hi></l>
+<l><hi rend="i">Siet </hi>Veldt-goddinnen <hi rend="i">selfs, haer lieue </hi>Rey <hi rend="i">hier stieren,</hi></l>
+<l><hi rend="i">'tHooft t'croonen om en om, met schoone Blomkens soet,</hi></l>
+<l rend="; 1tab"><hi rend="i">Den </hi>Mey <hi rend="i">die lacht hem toe, en vriendelicken Juyghet</hi></l>
+<l><hi rend="i">hem, voor wien </hi>Pallas <hi rend="i">selfs gewillichlick neer buyghet,</hi></l>
+<l><hi rend="i">Der </hi>Musen <hi rend="i">liefsten vrient, en </hi>Gorchums <hi rend="i">waerden Soon</hi></l>
+<l rend="; 1tab"><hi rend="i">Laet vry 'tOudt </hi>Griecken-landt <hi rend="i">laet and're Steden brommen,</hi></l>
+<l><hi rend="i">'tVernedert </hi>Arckels-landt <hi rend="i">dat mach en can zich rommen.</hi></l>
+<l><hi rend="i">Te hebben opghevoet, die </hi>Kempt <hi rend="i">om </hi>d'Eeren-Croon.</l>
+</lg>
+</div>
+<div type="chapter">
+    <interpGrp><interp type="primair" value="vos_222"/></interpGrp>
+<head rend="h3"><hi rend="i">Ode.</hi></head>
+
+<lg type="poem">
+<l>'tSa tsa gy <hi rend="i">Nimphkens </hi>die daer schuylt</l>
+<l>En uwen soeten tijdt vertuylt,</l>
+<l>Hier onder d'schadu vande Linden</l>
+<l>Comt voort doch uyt het doncker Wout</l>
+<l>En langer niet u daer onthout,</l>
+<l>Een ander werck sult ghy hier vinden.</l>
+<l rend="; 1tab">'t Is lang' genoech gejockt, ghemalt,</l>
+<l>'t Is langh ghenoech gepraet, ghehalt,</l>
+<l>'t Is langh ghenoech ledich gheseten,</l>
+<l>Pluckt ras de <hi rend="i">Lauren Telgen </hi>aff,</l>
+<l>Die desen soeten <hi rend="i">Mey </hi>u gaff,</l>
+<l>En croont doch ons <hi rend="i">Prins </hi>der <hi rend="i">Poëten.</hi></l>
+<l rend="; 1tab">Kiest ras den grootsten tack van al,</l>
+<l>Die dichtst' van bladers wesen sal,</l>
+<l>Wilt d'eynden tot malkand'ren buygen</l>
+<l>En laet de <hi rend="i">Neghen Susters </hi>dan,</l>
+<l>Off yemant die het beter kan,</l>
+<l>Op ellick blat zijn Loff betuyghen.</l>
+<l rend="; 1tab">Van onderen vervolghens op,</l>
+<l>Tot boven 'thoochste inden top,</l>
+<l>Wilt op de bladers doch uyt-beelden</l>
+<l>De <hi rend="i">Spelen </hi>die door cloecken Geest</l>
+<l>Doch door zijn <hi rend="i">Musa </hi>aldermeest,</l>
+<l>Op ons <hi rend="i">Tonneel </hi>men dicwils <hi rend="i">speelden.</hi></l>
+<l>1. Voor eerst dees <hi rend="i">Turxen Keysers moort</hi></l>
+<l>2. My dunct men oock van <hi rend="i">Caesar </hi>hoort,</l>
+<l>3. 'tOut <hi rend="i">Vlaerdingh' </hi>kan het tuyghen:</l>
+<l>4. De <hi rend="i">Arckelsche Gherechticheyt,</hi></l>
+<l>5. Hoe <hi rend="i">Aleran zijn Bruyt wech leyt,</hi></l>
+<l>6. Siet <hi rend="i">Massiniss' voor Schipio buyghen,</hi></l>
+<l rend="; 1tab">7. <hi rend="i">Christi Gheboort, Besnydenis,</hi></l>
+<l>8. Van <hi rend="i">Graecien </hi>komt <hi rend="i">Amadis,</hi></l>
+<l>9. <hi rend="i">Ferrarens Graef zijn Soon doet sterven,</hi></l>
+<l>10. Hoe <hi rend="i">Iudith Holophernum doot,</hi></l>
+<l>11. <hi rend="i">Savoysche Hertogin in noot,</hi></l>
+<l>12. Noch <hi rend="i">Troylus can Briscida werven.</hi></l>
+<l rend="; 1tab">13. Den <hi rend="i">Roelandt op den Ronchevael,</hi></l>
+<l>14. Van <hi rend="i">Florisel </hi>doet oock verhael,</l>
+<l>De bladers die noch ouer blijven,</l>
+<l>Laet met zijn <hi rend="i">Lieden, Dichten </hi>meest</l>
+<l>(Gequeelt op menich Bruylofts Feest</l>
+<l>Met soete<hi rend="i">n</hi> toon) alt'saem vol-schrijden.</l>
+<l rend="; 1tab">Met dese <hi rend="i">Croon </hi>zijn hooft verciert,</l>
+<l>Al schijnt dat <hi rend="i">Momus </hi>grimmich tiert,</l>
+<l>Wilt na u plicht <hi rend="i">Nimphkens </hi>hem loone<hi rend="i">n</hi>:</l>
+<l>Mijn <hi rend="i">Musa </hi>sal oock zijn bereet,</l>
+<l>Naer haer vermogen steets gereet</l>
+<l>Hem als ons roem <hi rend="i">Poëtlijck </hi>Croonen.</l>
+</lg>
+<p><hi rend="i">Noot baert list, </hi></p>
+<p><hi rend="i">A. C. Vos.</hi></p>
+
+</div>
+<div type="chapter">
+    <interpGrp><interp type="primair" value="hens039"/></interpGrp>
+<pb ed="fol." n="Aiiijv"/>
+<head rend="h3"><hi rend="i">Clinck-dicht, ter eeren A. Kemp, A.</hi></head>
+
+<lg type="poem">
+<l><hi rend="i"><hi rend="b">K </hi>EN kan met myne tongh' u Loff niet gh'noch uyt-spreken,</hi></l>
+<l><hi rend="i">O </hi>Kemp! <hi rend="i">door't sin-rijc-werc, </hi>(<hi rend="i">des schrickelicken moort</hi></l>
+<l><hi rend="i">van </hi>Sultan Osman:) <hi rend="i">'sg'lijcx noyt meer en is gehoort</hi></l>
+<l><hi rend="i">Ghy cloec af beelt, en soo't oock meermael is gebleken.</hi></l>
+<l rend="; 1tab"><hi rend="i">'tSchijnt ghy corts van </hi>Parnass' <hi rend="i">of </hi>Helicon <hi rend="i">gestreken</hi></l>
+<l><hi rend="i">zijt, met de </hi>Musen <hi rend="i">t'saem, die 'tvloeyende Gedicht</hi></l>
+<l><hi rend="i">u prenten is, dat ghy veer boven and're licht,</hi></l>
+<l><hi rend="i">m'Hoort u van </hi>Lauren-blae<hi rend="i">n</hi>, <hi rend="i">te schencke</hi>n<hi rend="i"> </hi>'tPoëts <hi rend="i">teken</hi></l>
+<l rend="; 1tab"><hi rend="i">Indien dat yemant der </hi>Poëten <hi rend="i">waerdich is</hi></l>
+<l><hi rend="i">t'ontfangen </hi>d'Eeren-Croon, <hi rend="i">soo zijt ghij't, dat's ghewis,</hi></l>
+<l><hi rend="i">Mijn const most kracht'ger zijn, so 'ku na waerd' geriefde</hi>n<hi rend="i">.</hi></l>
+<l rend="; 1tab"><hi rend="i">Dies hem wel roemen mach het </hi>Gorcums Arckels-landt,</l>
+<l><hi rend="i">Daer is gheteelt, ghevoet, dit </hi>Reden-rijck <hi rend="i">verstandt,</hi></l>
+<l><hi rend="i">Dat'k hem dit stel tot Lof, gheschiet</hi></l>
+    <l><hi rend="i">Wt Rechter Lieffden.</hi></l>
+</lg>
+<p><hi rend="i">'t Hensberck.</hi></p>
+</div>
+<div type="chapter">
+<head rend="h3">De Personagien deses Spels.</head>
+<list>
+<item>1. Sultan Osman, <hi rend="i">Keyser van Turckijen,</hi></item>
+<item>2. Silactar Aga,</item>
+<item>3. Capi Aga,</item>
+<item>4. <hi rend="i">Queissilar Aga</hi></item>
+<item>5. Soltana Thiossem, <hi rend="i">'sKeysers Moeder,</hi></item>
+<item>6. Flora,</item>
+<item>7. Helena <hi rend="i">een Weerdin,</hi></item>
+<item>8. Boustangj Bassa,</item>
+<item>9. Ianitzer Aga,</item>
+<item>10. Sultan Mustapha <hi rend="i">Keyser,</hi></item>
+<item>11. Dahout Bassa,</item>
+<item>12. Celia,</item>
+<item>13. Phafarel, <hi rend="i">een boosen Gheest,</hi></item>
+<item>Osmans Geest,</item>
+<item><hi rend="i">De </hi>Wraeck, <hi rend="i">stom.</hi></item>
+</list>
+
+</div>
+<div type="chapter">
+<pb ed="fol." n="Bir"/>
+<head rend="h3"><hi rend="i">Het eerste Deel.</hi></head>
+<stage><hi rend="i">Sultan Osman sittende in sijnen Throon,</hi><lb/><hi rend="i">Silactar Aga, Capj Aga, Queissilar Aga, Ianitzer Aga, Boustangj Basia, en d'andere rontom hem.</hi></stage>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Osman.</hi></l>
+<l><hi rend="i">H</hi>Et Ottomansche Rijck, meer dan drie-hondert Jaren,</l>
+<l>Naer Osmans d'eerste doot, is weeldich voort gevaren</l>
+<l>in macht, van trap tot trap, doe hy door 'tscherp geweyr</l>
+<l>ghewonnen had al 'tLant, aent pont Euxinse meyr.</l>
+<l>Orchanus zijnen Soon, tRijck Phrygia verpletten,</l>
+<l>En zijnen Keysers Stoel in Hellesponto setten.</l>
+<l>En Amurath die won Bulgaria gheheel,</l>
+<l>Vermaerde Rijcken groot, die vielen hem te deel.</l>
+<l>Daer na den Bajazeth gants Griecken-landt beheerde,</l>
+<l>Maer laes! Fortuyn verblint den rugghe hem toe keerde,</l>
+<l>Soo dat dees Werelts-Godt, dees al ontstenden Man,</l>
+<l>Int laetst ghevanghen wiert, van Tartars Tamburlan,</l>
+<l>Doe wiert dien kloecken Heldt, belast met gulden banden,</l>
+<l>Besloten in een Koy, ghevoert door alle Landen,</l>
+<l>Hy, die wel eer gheacht was aller Volck'ren Godt,</l>
+<l>Wiert aldermeest veracht, was aller Volcken spot:</l>
+<l>En moest ghelijck een Hondt, op deyrd' zijn voetsel kryghen,</l>
+<l>Was Tamburlans Schabel om op zijn Peert te styghen</l>
+<l>Doe kreech het Turcxse Rijck, voorwaer geen kleynen krack,</l>
+<l>En zijnder Sonen twist, die maecktent meerder zwack,</l>
+<l>Maer, naemaels isset weer gheresen tot de Sterren,</l>
+<l>Soo dat een yeder beeft, diet noemen hoort van verren.</l>
+<l>Doch niemant heeft den Naem der Turcken soo verbreed',</l>
+<l>Als Sultan Mahumeth, van desen Naem de tweed'</l>
+<l>Constantinopolen, en 'tmachtich Trapezonden,</l>
+<l>Heeft zijn verwinders handt, en trotz ghemoet verslonden,</l>
+<l>Twaelff Coninckrijcken oock, soo datt't nu voor my beeft,</l>
+<l>Van der de Sonne daelt, tot daers' haer opganck heeft.</l>
+<l>Maer hoe? of schoon de<hi rend="i">n</hi> Paus, de<hi rend="i">n </hi>Spaensche<hi rend="i">n</hi> Phlips de<hi rend="i">n</hi> vierde<hi rend="i">n</hi> </l>
+<l>Den Franschen Lodowijck, die dickwils ick manierden</l>
+<l>De Christen Conincxkens, die ick als leckers acht</l>
+<l>My vreesen, wat heb ick, fy schande doch ghewracht?</l>
+<l>Wat isser uytghericht van 'tgheen ick had bevolen</l>
+<l>Te royen uyt den staet van 'tConincrijck van Polen?</l>
+<l>Wat heeft my spijts ghedaen, dien Christen grysen Hond</l>
+<l>Ick berst dat ick hem noem, dien Poolschen Sigismond.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Heer Keyser weest ghestilt, hebt ghy wat schaed' gheleden</l>
+<l>Den Pool oock insghelijcx, voorwaer hy heeft gheen reden</l>
+<l>van zich te roemen.</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Hoe? ick, ick die had gheroemt</l>
+<l>my selfs een Engel Godts: hem, en de zijn ghenoemt</l>
+<l>de kleyne Conincxkens, en had ghelooft, ghezworen,</l>
+
+<pb ed="fol." n="Biv"/>
+<l>Te moorden 'tjonghe Kint, dat noch niet was gheboren,</l>
+<l>Die spotten met zijn Godt, aent ploeghen spannen wou</l>
+<l>Zijn volcken, in het lant Bulgarj woest en rou:</l>
+<l>Mijn bloed'ghe Sabel sont, om mynen toorn te tuyghen,</l>
+<l>Hoe seg ick, ick, 'kseg ick, ick, heb ick moeten buyghen?</l>
+<l>Ja buyghen, sy en vlien.</l>
+<l rend="speaker"><hi rend="i">Capj.</hi></l>
+<l rend="; 1tab">Mijn Heer, der Goden wil</l>
+<l>Naer't schijnt is somtijts soo, om datmen gheen gheschil</l>
+<l>met hunlien maken sou, en zich dien loff toeschrijuen,</l>
+<l>Die sy tot alder tijdt, by haer doch laten blijuen.</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Der Goden wil?</l>
+<l rend="speaker"><hi rend="i">Capj.</hi></l>
+<l rend="; 1tab">Haer wil.</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Haer wil? ghy segt haer wil:</l>
+<l>'kBid Capj Aga zwijcht van sulcke reden stil,</l>
+<l>Der Goden wil is goet, sy willen waerlijck straffen</l>
+<l>der Christen Kettery, haer diensten afdoen schaffen,</l>
+<l>Mijn trouloos Turcken zijnt, die onghehoorsaem zijn,</l>
+<l>En my niet dienen dan al traechlijck met ghegrijn:</l>
+<l>Die'ck teghen haren danck ten Poolschen krijch most wecken,</l>
+<l>Die my meyneedichlijck, 'tghelt diefs-ghewijs onttrecken,</l>
+<l>Die als ick monst'ren sal, voor veertich duysent man</l>
+<l>Doen, dat ick naulicx daer acht duysent vinden kan.</l>
+<l>Die Turcken seg ick sijnt, die doen my 'spel verliesen,</l>
+<l>Off Bethlem Gabor heeft mijn zyde gaen verkiesen:</l>
+<l>En off my Bhemens Prins Chur-paltz is toeghedaen,</l>
+<l>En off my volck'ren veel tot will'ghen dienste staen,</l>
+<l>Als Tartars, Dacien, Bulgaren en Illiren</l>
+<l>De Serven, Bosnien de Thracers en Epiren,</l>
+<l>En noch ontelb're meer, wat helpet, als den staet,</l>
+<l>Van binnen is ghekrenckt, door ontrou en verraet,</l>
+<l>Dat's d'oorsaeck dat ick heb veel duysent man verloren,</l>
+<l>Adrianopolen tot vlucht-plaets heb verkoren,</l>
+<l>Een Sultan vlieden? ha! O schand! o groote schandt;</l>
+<l>Janitzers, Spahy, wel, braveerders van mijn Lant</l>
+<l>Ick sal dees groote smaet door u ghedaen, soo wreken,</l>
+<l>Dat ouer duysent iaer, men noch daer van sal spreken,</l>
+<l>Ick schaf u gantschlick aff, een and're Ridderschap</l>
+<l>Sal'ck stellen in u plaets.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">De<hi rend="i">n </hi>toorn van trap tot trap</l>
+<l>steets climt mijn Heer, indien ghy die niet wilt betomen,</l>
+<l rend="speaker"><hi rend="i">Capj.</hi></l>
+<l rend="; 1tab">Bedaert u Heer</l>
+<l rend="speaker"><hi rend="i">Queis.</hi></l>
+<l rend="; 1tab">O Prins wilt tot u seluen comen,</l>
+<l>tIs Godes schic geweest.</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Wel ist dan Godes schick?</l>
+<l>Soo hebben niet misdaen d'eet-brekers, maer selfs ick.</l>
+<l>Ick wil dan boete doen, ick weet met goede reden</l>
+<l>wat ons ghelooue is, wat goet dat immer deden</l>
+<l>die vast zijn int ghelooff: Daer is een eenich Godt:</l>
+<l>Die Moyses den Propheet ghegheuen heeft 'tGhebodt</l>
+<l>Daer elck na leuen most: Van David den Prophete,</l>
+<l>En van zijn Psalter-boeck, 'tgheheymenis ick wete.</l>
+<l>Den derden groot Propheet was Jesus, welckers Wet</l>
+
+<pb ed="fol." n="Bijr"/>
+<l>Als eene Nieuwe Leer, de Werelt is gheset:</l>
+<l>Naer zijnen afganck, is den vierden opgheresen,</l>
+<l>Noch d'aldergrootst' Propheet ons Mahometh most wesen:</l>
+<l>Die heeft van God ghebracht ons Wet den Alcoran,</l>
+<l>En niemant sonder die, behouden blyven kan.</l>
+<l>Ick zy nu vast ghesint ons Mahomet te eeren,</l>
+<l>En my om zijnent wil na Mecha toe te keeren</l>
+<l>Int Eel Arabia, daer zyne Tombe hangt</l>
+<l>aent welfsel vande Kerck, en niets die onder-vangt:</l>
+<l>Dien Tempel die daer heeft rontom wel tachtich Torens,</l>
+<l>En soo bedeckt met gout, steeckt na de lucht zijn Horens,</l>
+<l>Die moet ick eens besien, en pelgrimagie doen.</l>
+<l rend="speaker"><hi rend="i">Queis.</hi></l>
+<l rend="; 1tab">Heer 'tis een verre reys.</l>
+<l rend="speaker"><hi rend="i">Capj</hi></l>
+<l rend="; 1tab">God wil u Heer, vehoen,</l>
+<l>'kBid sulx doch n<hi rend="i">iet</hi> bestaet.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Sijn Majesteyt moet dencke<hi rend="i">n</hi></l>
+<l>Voor eerst dat zijn persoon, doort reysen zich sal krencken,</l>
+<l>Ter Zee en oock te Landt, ten and'ren, dat u staet,</l>
+<l>Die vremde verre reys dees tijdt niet toe en laet:</l>
+<l>V volck is noch ontroert vermits den krijch met Polen,</l>
+<l>Wie weet oock wat verraet dat leggen mach ghescholen</l>
+<l>in u misgunders Heer.</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">'kSeg spreect my daer niet af</l>
+<l>Vergadert al mijn schat, selfs uyt mijns Vaders graf,</l>
+<l>Versamelt al by een, en stelt in alles orden,</l>
+<l>Op dat ten eersten mach mijn reys bevordert worden</l>
+<l>Siet dat gy niet v<hi rend="i">er</hi>suymt.</l>
+<l rend="speaker"><hi rend="i">Queis.</hi></l>
+<l rend="; 1tab">Mijn Heer het sal geschie<hi rend="i">n</hi>.</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Maeckt dat ick metter spoet mach uwen yuer sien.</l>
+<l>Op dat ick niet vergram.</l>
+<stage><hi rend="i">Al binnen, behalven Osman.</hi></stage>
+<l>'tIs Mecha niet, mijn Heeren,</l>
+<l>Maer 'tis het groot Alkayr, daer wil ick my na keeren</l>
+<l>En houden daer mijn Hoff.</l>
+<l rend="speaker"><hi rend="i">Sultana Thiossem.</hi></l>
+<l rend="; 1tab">Is dat mijn Moeder niet?</l>
+<l>Sy ist, wel hoe? my dunckt zy heel bedroefd'lijck siet,</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Vrou Moeder lief, hoe ist?</l>
+<l rend="speaker"><hi rend="i">Thioss.</hi></l>
+<l rend="; 1tab">Ha Soon mijn lieue sone</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l>Mijn moeder.</l>
+<l rend="speaker"><hi rend="i">Thioss.</hi></l>
+<l>Kint.</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l>Hoe dus? dit be<hi rend="i">n</hi> ic o<hi rend="i">n</hi>gewone</l>
+<l rend="speaker"><hi rend="i">Thioss.</hi></l>
+<l rend="; 1tab">Bedroeft.</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l>Waerom?</l>
+<l rend="speaker"><hi rend="i">Thioss.</hi></l>
+<l>'kEn weet,</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l>g'En weet?</l>
+<l rend="speaker"><hi rend="i">Thioss.</hi></l>
+<l rend="; 1tab">'kEn weet mijn Kint</l>
+<l>'tIs door een droom, een droom, daer'ck my bezwaert in vind:</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l>Een droom?</l>
+<l rend="speaker"><hi rend="i">Thioss.</hi></l>
+<l rend="; 1tab">Een droom.</l>
+<l rend="speaker"><hi rend="i">Osm,</hi></l>
+<l rend="; 1tab">Een droom?</l>
+<l rend="speaker"><hi rend="i">Thioss.</hi></l>
+<l rend="; 1tab">Een droom doet my gheloouen,</l>
+<l>Datm'u mijn lieue Kindt, sal van u Croon beroouen:</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Hoe moeder door een droo<hi rend="i">m</hi>?</l>
+<l rend="speaker"><hi rend="i">Thios.</hi></l>
+<l rend="; 1tab">Mijn lieue soon gy weet</l>
+<l>dat ick mijn tijdt seer veel tot leeren heb besteet</l>
+<l>Der wijsheyt vant Voorsegh: ghelijck de cloeck Araben,</l>
+<l>Egypters, Mauritaens ons leeren door bock-staven:</l>
+<l>Daerin ick sonder roem gheheel ervaren ben:</l>
+<l>En veel dat comen sal, dick van te voren ken.</l>
+<l>Dees Const voorseyd' my 'tquaet, dees Const doet my u raden</l>
+
+<pb ed="fol." n="Bijv"/>
+<l>Mijn Soon dat ghy u wacht voor al d'aenstaende quaden.</l>
+<l>Ick bid u door mijn hert, 'kbezweyr u door mijn bloet</l>
+<l>Dat ghy u wacht mijn Soon, kseg dat g u wachten moet.</l>
+<l>Het is door dese Const, dat ick ghele en vijff Jaren,</l>
+<l>De doot mijns lieuen Mans so claer ginck openbaren</l>
+<l>Mijns Sultan Achomats, een Jaer voor zijnen doot</l>
+<l>En dat Mustapha doe, zijn Broeder (eerst ontbloot</l>
+<l>Van Eer, van Haeff, van Schat,) sou zijnen Troon bezweyen</l>
+<l>En datmen hem daer na sou int ghevanck'nis leyen,</l>
+<l>En ist niet waer? niet waer! helaes! 'tis al te waer</l>
+<l>Derhaluen ick te meer my selfs hier in bezwaer,</l>
+<l>Och Soon mijn herte berst.</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Nu Moeder wilt niet vresen,</l>
+<l>Het can wel waer, en oock 'tkan onwaer mede wesen.</l>
+<l>'tVoorsegghen gaet niet vast, maer seght my doch, wat ist?</l>
+<l rend="speaker"><hi rend="i">Thioss.</hi></l>
+<l rend="; 1tab"><hi rend="i">U</hi>yt 'tgheen ick heb gheseyst, ghy wel mijn meyningh gist.</l>
+<l>'kWeet uyt ghewissen loop der Sterren en Planeten,</l>
+<l>Hoe hooch ghy zijt mijn Soon, op uwen Throon gheseten:</l>
+<l>Hoe seer een yder op u woort, jae wencken mickt:</l>
+<l>Hoe seer een yder voor u ooghen op-slaen schrickt:</l>
+<l>Hoe seer een yder trilt, en tzidderich moet beuen:</l>
+<l>Als ghy een stuyrschen wenck, hem van ter zijd' gaet gheuen.</l>
+<l>Ick seg hoe hooch ghy sit, dat ghy in corten tijt,</l>
+<l>Sult zijn u Eer, u Rijck, u Croon, u Leuen quijt.</l>
+<l>Laes! als ick daer aen denck, soo voel ick 'tbloet op-styghen,</l>
+<l>Mijn hayren rijsen steyl, 'kmoet na mijn adem hygen:</l>
+<l>My dunckt ick sie alreets, u went'len inde pijn:</l>
+<l>My dunckt ick sie alreets, u bleec en dootschen schijn:</l>
+<l>My dunckt ick sie alreets, de gheesten om my zwieren</l>
+<l>Met vremt en wreet ghesnor.</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Laet redenen u stieren</l>
+<l>Mijn Moeder 'theeft g[he]en noot, 'kben gantslick niet bevreest.</l>
+<l rend="speaker"><hi rend="i">Thioss.</hi></l>
+<l rend="; 1tab">Mijn Soon daer zweeft alreets u sael'wen bleecken Gheest.</l>
+<l>Ach my;</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Hebt moet, want heeftet God al so besloten</l>
+<l>soo moet het zijn, want siet by yder wert ghenoten,</l>
+<l>Tgunt hem is opgheleyt, g'lijck d'Alcoran beschrijft.</l>
+<l rend="speaker"><hi rend="i">Thioss.</hi></l>
+<l rend="; 1tab">Mijn herte door den rou gheperst ghesloten blijft.</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">'kBid stelt dit uyt 'tghedacht, en wilt u hert niet quellen,</l>
+<l>Maer met een bly ghemoet u doch te vreden stellen,</l>
+<l>Vrou Moeder blijft gherust: 'kmoet gaen in vremde cleen</l>
+<l>Ghelijc een slechten man, verselschapt met zijn tween</l>
+<l>inde Tavernen sien hoe't mijn Janitzers maken,</l>
+<l>En drincken sy den Wijn, of doen verboden saken</l>
+<l>Ik richt haer dan soo uyt, datt't haer wel langh noch heucht,</l>
+<l>Wel Moeder blijft ghesont, en 'kbid u maeckt wat vreucht</l>
+<l>Ic ga my maken toe.</l>
+<l rend="speaker"><hi rend="i">Thioss.</hi></l>
+<l rend="; 1tab">Ic bid weest doch voorsichtich</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Vrou Moeder uwen raet ben ic te volghen plichtich.</l>
+<stage><hi rend="i">Elck bysonder binnen.</hi></stage>
+
+<pb ed="fol." n="Biijr"/>
+<l rend="speaker"><hi rend="i">Silactar.</hi></l>
+<l rend="; 1tab">Wat cracht is oock de Lieffd, hoe dringht sy inde borst,</l>
+<l>Hoe wroelt sy in het hert, hoe wert den zin vermorst</l>
+<l>van dien die in Lieffde draecht? Wel hoe? wat mach het wesen?</l>
+<l>'tIs een gheneuchlick leet, het is een stadich vreesen</l>
+<l>vermengt met soete hoop; het is een soete pijn,</l>
+<l>Een pijn? gheen pijn; een pijn, die sonder pijn doet sijn.</l>
+<l>Tis vreucht, en 'tis verdriet, 'tis droefheyt en verblye,</l>
+<l>Tis sotte wijsheyt ist, 'ts wyse mallerye</l>
+<l>Het is een cracht, gheen cracht, een kintsheyt van een man,</l>
+<l>Een cracht die niemant siet, noch niemant vlieden can:</l>
+<l>Het dwingt soo sterck dat ick veel lieuer sou verlaten,</l>
+<l>De pracht van 'sKeysers Hoff, en al mijn hooghe staten</l>
+<l>dan myne Flora, ach! mijn Peerle Adamant,</l>
+<l>Die na u treckt mijn ziel, wiens vlam mijn hert verbrant.</l>
+<l>Wiens oogen strael verteert al 'tmerch mijns levens vochtich</l>
+<l>Wiens blinckende ghesicht my voet, helaes! hoe tochtich</l>
+<l>verlangh ick na u Lieff, Goddin van mijn ghedacht,</l>
+<l>Hier ben ick by haer huys: Ist best dat ick verwacht?</l>
+<l>Of wil ick cloppen aen? Ha Flora Lieff hoe beven</l>
+<l>dees leden, Flora Lieff, mijn crachten my begheven.</l>
+<l>Ha Flora, Flora.</l>
+<stage><hi rend="i">sy kijckt van bouen.</hi></stage>
+<l rend="speaker"><hi rend="i">Flora.</hi></l>
+<l rend="; 1tab">Wel wat hoor ick hier ontrent?</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l>Mijn Flora</l>
+<l rend="speaker"><hi rend="i">Flo.</hi></l>
+<l>Wie is daer?</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Schoon Flora Lief icbent</l>
+<l rend="speaker"><hi rend="i">Flora.</hi></l>
+<l>Mijn Heer doe dus bedroeft?</l>
+<l rend="speaker"><hi rend="i">Sil.</hi></l>
+<l rend="; 1tab">Helas! wat meuchdy vrage<hi rend="i">n</hi></l>
+<l>Gy weet Princes mijn quel: 'Ken hoeft u niet te clagen,</l>
+<l>mijn hert</l>
+<l rend="speaker"><hi rend="i">Fl.</hi></l>
+<l>mijn siel</l>
+<l rend="speaker"><hi rend="i">Sil.</hi></l>
+<l>mijn vreugt mijn hoop mijn troost mijn we<hi rend="i">n</hi>s</l>
+<l rend="speaker"><hi rend="i">Flora.</hi></l>
+<l rend="; 1tab">Helaes! hoe crachtich heerscht de Lieffd' oock inden mens.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">So crachtich dat ons hert gestadich wert ghedreven</l>
+<l>te lieuen die, die schijnt dat 'tleven ons moet gheven.</l>
+<l>Comt ghy niet af mijn Lieff.</l>
+<l rend="speaker"><hi rend="i">Flo.</hi></l>
+<l rend="; 1tab">Alst u belieft mijn Heer.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Comt daetlic.</l>
+<l rend="speaker"><hi rend="i">Flo.</hi></l>
+<l rend="; 1tab">Wel ic coom.</l>
+<l rend="speaker"><hi rend="i">Sil.</hi></l>
+<l rend="; 1tab">Ic voel noch meer en meer</l>
+<l>Ick inde Liefd' versmoor, die gaet my meer vermoorden,</l>
+<l>Als ick het soet gheruys mach hooren van haer woorden,</l>
+<stage><hi rend="i">Flora uyt</hi></stage>
+<l>Mijn Engel weest gegroet.</l>
+<l rend="speaker"><hi rend="i">Flora.</hi></l>
+<l>Mijn Heer ooc insgelijck.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Ick wissel Flora niet voor al des Keysers Rijck.</l>
+<l rend="speaker"><hi rend="i">Flora.</hi></l>
+<l rend="; 1tab">'Ksou u niet wiss'len Heer voor Perssens Landen mede.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Ic niet voor al de Weerlt.</l>
+<l rend="speaker"><hi rend="i">Flo.</hi></l>
+<l rend="; 1tab">Ghelijck ick oock niet dede.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Ha luckster inde Liefd', ha herten soo vereent,</l>
+<l>Hoe luckich ist als Min wort weder-sijds ghemeent.</l>
+<l>Maer Enghel Vrou, ick heb mijn dienaer wtghesonden</l>
+<l>By Sophys Tempel, gins in d'Arent, daer'ck heb vonden</l>
+<l>een seer bequame plaets, daer t'saem wy moghen zijn</l>
+<l>een wijl vergaert in vreucht, en drincken Candisch wijn.</l>
+<l rend="speaker"><hi rend="i">Flora.</hi></l>
+<l rend="; 1tab">O Heer mijn hert besterft.</l>
+<l rend="speaker"><hi rend="i">Sil.</hi></l>
+<l>Waero<hi rend="i">m</hi>?</l>
+<l rend="speaker"><hi rend="i">Flo.</hi></l>
+<l rend="; 1tab">'Ke<hi rend="i">n</hi> derft n<hi rend="i">iet</hi> wage<hi rend="i">n</hi></l>
+<l>Want wierdet openbaer wy souden straffe draghen,</l>
+<l>Dewijl ons Wet verbiet te drincken van dat vocht,</l>
+
+<pb ed="fol." n="Biijv"/>
+<l>Mits Mahometh vol Wijn, zijn vrint heeft omghebrocht.</l>
+<l>Noch meerder is de schant gherekent voor ons Vrouwen.</l>
+<l>Mits wy verhit vant sap, ons tucht niet connen houwen</l>
+<l>Maer zijn van selfs gheneycht tot 'tgheen men ons om vleyt,</l>
+<l>Soo dat een Vrou by dranck tot 'tvraghen niet en beyt:</l>
+<l>Maer dat sy aengheport quansuys ondancx moet lyden,</l>
+<l>Daer is sy toe bereet, en smeeckt selfs op die tyden,</l>
+<l>Dies houdet my voor goet mijn Heer.</l>
+<l rend="speaker"><hi rend="i">Sil.</hi></l>
+<l>Neen Flora Lief,</l>
+<l>'tGhestolen beetgen maeckt diet nut tot gheenen dieff:</l>
+<l>Tis maer lust-giericheyt, want alderbest die smaken,</l>
+<l rend="speaker"><hi rend="i">Flora.</hi></l>
+<l rend="; 1tab">Maer Heer men can hier door wel in ghevaer gheraken,</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Tsal blyven wel bedeckt, laet ons niet langh hier staen,</l>
+<l>Tis tijt mijn Flora dat wy derwaerts henen gaen.</l>
+<l>Goddinne Flora nu.</l>
+<l rend="speaker"><hi rend="i">Flora.</hi></l>
+<l rend="; 1tab">Mijn Heer ick ga met schromen.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">De wijn beneemt de vrees.</l>
+<l rend="speaker"><hi rend="i">Flora.</hi></l>
+<l rend="; 1tab">Ic op u woort sal comen.</l>
+<stage>Weerdinne uyt.</stage>
+<l>Mijn Heer weest seer ghegroet: Me Joffrou goeden dach.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Tapt Wijn, en langht een stoel dat Joffrou sitten mach.</l>
+<stage><hi rend="i">De Weerdin maect preparatie, sy brengent ouer ende weder ouer.</hi></stage>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Langt ons 'tverkeer-bert eens; Wy moeten Lief wat spele<hi rend="i">n</hi></l>
+<l rend="speaker"><hi rend="i">Flora.</hi></l>
+<l rend="; 1tab">Mijn Heer 'kv<hi rend="i">er</hi>staet my niet.</l>
+<l rend="speaker"><hi rend="i">Sil.</hi></l>
+<l rend="; 1tab">'Ksal u va<hi rend="i">n</hi>t mijn me deele<hi rend="i">n</hi>.</l>
+<stage><hi rend="i">Zy spelen stil-swijgende. Van binnen wert ghespeelt.</hi><lb/><hi rend="i">Bousstangj Bassa, Janitzer Aga.</hi></stage>
+<l rend="speaker"><hi rend="i">Boust.</hi></l>
+<l rend="; 1tab">Hier mee<hi rend="i">n</hi> ic vintme<hi rend="i">n</hi> wijn.</l>
+<l rend="speaker"><hi rend="i">Janit.</hi></l>
+<l rend="; 1tab">Monseur weest seer gegroet</l>
+<l>De vraech is ofmen me een can verteyren moet?</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Ghelieftet u mijn Heer?</l>
+<stage><hi rend="i">Sy scheyden uyter spelen.</hi></stage>
+<l rend="speaker"><hi rend="i">Boust.</hi></l>
+<l rend="; 1tab">Speelt vrylijck voort Me Vrouwe.</l>
+<l rend="speaker"><hi rend="i">Flora.</hi></l>
+<l rend="; 1tab">Twas maer voor cortswijl heer.</l>
+<l rend="speaker"><hi rend="i">Janit.</hi></l>
+<l>Ic wel ee<hi rend="i">n</hi> canske<hi rend="i">n</hi>  houwe</l>
+<l>Om sien oft lucken wil, Soot u mijn Heer ghelieft.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Mijn Heer ist uwen sin, ghy wort daer me gherieft.</l>
+<stage><hi rend="i">Sy spelen stom.</hi><lb/><hi rend="i">Osman met Queissilar ende Capj. gedifuigeert ende met wapenen voorsien, met eenighe stommen.</hi></stage>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l>Wel hola hou; kseg hou: wat volc is hier?</l>
+<l rend="speaker"><hi rend="i">Boust.</hi></l>
+<l rend="; 1tab">Wie daer?</l>
+<l rend="speaker"><hi rend="i">Capi.</hi></l>
+<l rend="; 1tab">Wie daer? wat's dat gheseyt? Segt wat gelieft u vaer.</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l>Wat? speeltme<hi rend="i">n</hi> hier? k'speel me.</l>
+<l rend="speaker"><hi rend="i">Sil.</hi></l>
+<l>Wel laet ons eerst volende<hi rend="i">n</hi></l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Twaer goet dat ick een Bood' voor henen had gaen senden:</l>
+<l>Den cop is my ontstelt: voort voort om 'theel ghelach</l>
+<l rend="speaker"><hi rend="i">Janit.</hi></l>
+<l rend="; 1tab">Wel vremder haen ic noyt van al mijn leven sach.</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l>Voort voort maect cort en goet.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Wel aen.</l>
+<stage><hi rend="i">Zy spelen stilswijghende.</hi></stage>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Tsijn Fielen treken</l>
+<l>dat ghy die schijf verset.</l>
+<l rend="speaker"><hi rend="i">Sil.</hi></l>
+<l rend="; 1tab">Ick bid wilt soo niet speken:</l>
+<l rend="speaker"><hi rend="i">Boust.</hi></l>
+<l rend="; 1tab">Mijn Heer g'hebt ongelijc.</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Gy liechter aen schavuyt</l>
+<l>Voort jaecht my hier terstont dit volck ter keeten uyt.</l>
+<stage><hi rend="i">Osman binnen. D'andere slaen Silactar metten sijnen uyte Herberghe, de Ioffrou loopt binnen.</hi></stage>
+
+<pb ed="fol." n="Biiijr"/>
+<stage><hi rend="i">Capj haer gebastoneert hebbende, werpt zijn gedesuigeert cleet af,</hi><lb/><hi rend="i">Janitzer Aga, ende Silactar loopen oock binnen.</hi></stage>
+<l rend="speaker"><hi rend="i">Capi.</hi></l>
+<l rend="; 1tab">Boustangj sta, sta stil: siet hier of ghy my kent.</l>
+<l rend="speaker"><hi rend="i">Boust.</hi></l>
+<l>Wel Capi Aga hoe? my dunckt dat ghy het bent.</l>
+<l rend="speaker"><hi rend="i">Capi.</hi></l>
+<l rend="; 1tab">Ghy Mannen dits door last van Osman onsen Heere:</l>
+<l>Die dapper is verstoort dat ghy vergeet de Leere</l>
+<l>van Mahomet Propheet, die ons den Wijn verbiet:</l>
+<l>Maer of het is verboon 'tschijnt ghylien latet niet.</l>
+<l>Dits nu daer van de straf, hy heeft my voort gheboden</l>
+<l>u dit te segghen aen, Hy sweert by d'hooghe Goden</l>
+<l>So ghy't noch meermael doet en daer niet op en past</l>
+<l>Dat ghy na desen tijt sult lyden zwaerder last.</l>
+<l>Elck wacht hem van misdoen.</l>
+<stage><hi rend="i">Capj binnen.</hi><lb/><hi rend="i">Silactar uyt.</hi></stage>
+<l rend="speaker"><hi rend="i">Boust.</hi></l>
+<l rend="; 1tab">Silactar desen smaet en sal ick niet verdraghen,</l>
+<l>Soo als snoo boeven ons uyt een Taveern te jagen:</l>
+<l>Ha Osman al te wreet, ha Osman al te straf</l>
+<l>Hy was niet wel besint die desen raet u gaff.</l>
+<l>Op sulcken snooden wijs, soo schand'lick te onteeren;</l>
+<l>En sulcken smaet te doen selfs aen u grootste Heeren.</l>
+<l>Jantizers Spahijs hooft, om sulcken cleynen saeck?</l>
+<l>Nu wel, ick hoop eerlangh sal hier van schieden wraeck.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Boustangj Bassa 'kzweyr, 'ken sal dit niet vergheten,</l>
+<l>Maer of mijn toorn vergrimt, soo moet mijn Heer oock weten</l>
+<l>Die yet wil treflicx doen, moet nemen goet beraet,</l>
+<l>Ic sal my veynsen, maer v<hi rend="i">er</hi>wachten tot de daet.</l>
+<stage><hi rend="i">tsamen binnen.</hi><lb/><hi rend="i">Osman, Capj en Queissilar.</hi></stage>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Sijn al de schatten ree? wat hebt ghy al vergaert?</l>
+<l rend="speaker"><hi rend="i">Capi.</hi></l>
+<l rend="; 1tab">Mijn Heer al 'tgheen by u voor-saten is bewaert;</l>
+<l>De Kamer is ontbloot, wiens Schat men niet mocht roeren</l>
+<l>dan teghen Christenrijck den Oorloch me te voeren.</l>
+<l>De Vaten altemael van Siluer en van Gout,</l>
+<l>Zijn elcx tot eenen clomp ghegoten en ghedout.</l>
+<l>De gouden Appels die daer hinghen inde Salen,</l>
+<l>Int Welfsel vant Serrail, wy hebben af doen halen:</l>
+<l>Al d'Eel Ghesteenten en Juweelen vant Tresoor,</l>
+<l>Tot veertich Cassen toe: daer gaen wy oock me door.</l>
+<l>Elcx wel twee voeten langh, soo veel in ouerdaden,</l>
+<l>Dat vier Galeyen vol daer me men wel sou laden.</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Het Graf van Achomath mijn Vader doet dat op.</l>
+<l rend="speaker"><hi rend="i">Queis.</hi></l>
+<l>Mijn Heer en waert gee<hi rend="i">n</hi> scha<hi rend="i">n</hi>t?</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Tsa breect my n<hi rend="i">iet </hi>de<hi rend="i">n</hi> cop</l>
+<l>Maer opent slechs het Graff, 'ksal selfs daer binnen treden.</l>
+<l rend="speaker"><hi rend="i">Capi.</hi></l>
+<l rend="; 1tab">Mijn Heer sie voor-hem, dat hy niet en valt beneden.</l>
+<stage><hi rend="i">Hy treet in het Graf, en</hi>de <hi rend="i">haelt eenige dingen daer uyt.</hi></stage>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Daer zijn de Veders van den Turbant heel beseyt</l>
+<l>met Diamanten schoon, van grooter weerdicheyt:</l>
+<l>En daer is een Carquant vol Edele Ghesteenten,</l>
+
+<pb ed="fol." n="Biiijv"/>
+<l>Mijns corts ghestoruen Soons, waer toe de dood' ghebeenten</l>
+<l>verciert met desen Schat, die onweerdeerlick is.</l>
+<l>Nu heb ick t al by een.</l>
+<stage><hi rend="i">Hy treet uyt 'tGraf.</hi></stage>
+<l rend="speaker"><hi rend="i">Queis.</hi></l>
+<l rend="; 1tab">Mijn Heer het is ghewis</l>
+<l>een onweerdeerlick goet.</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Hebt ghy ooc doen bestellen,</l>
+<l>Dat ons de Christenheyt te water niet can quellen,</l>
+<l>Constantinopolen dat dat niet wert verrast.</l>
+<l rend="speaker"><hi rend="i">Queis.</hi></l>
+<l rend="; 1tab">Mijn Heer dat pont Euxin de zwarte Zee ontlast</l>
+<l>blijft, vande Rooverij der Polen of Cosacken,</l>
+<l>Die voor dees Haven wel haer Ancker derven smacken</l>
+<l>Zijn veel Galeyen ja tot twintich toe ghereet.</l>
+<l rend="speaker"><hi rend="i">Capi.</hi></l>
+<l rend="; 1tab">Oock twintich insgelijcx, doorsnyden wijt en breet,</l>
+<l>De Middellantsche Zee, om vry te zijn van Spaengien</l>
+<l>Hoe wel die heeft veel wercx met Hollant en Oraengien</l>
+<l>Ontrent Cicilien, sta'igh hy zijn Galeyen hout</l>
+<l>En by 'tEel Nap'les oock, den Hertoch is seer stout,</l>
+<l>Van 'tHuys de Medices, Toscanen of Florensen,</l>
+<l>Die zijn Galeyen me stuyrt dicht op onse grensen,</l>
+<l>Om die te wederstaen, zijn ons Galeyen uyt,</l>
+<l>En krijghen d'een tijt slaech, en dander tijt weer buyt:</l>
+<l>Dats d'oorlochs avontuyr, men moet zijn beurt verwachten</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Dat is seer wel ghedaen, gaet henen wilt nu trachten</l>
+<l>Dat alles wert bewaert.</l>
+<stage><hi rend="i">Queissilar en Capi binnen.</hi></stage>
+<l>Ick ben gheheel beducht,</l>
+<l>Door eenen Droom, die my hout sta'ich in onghenucht,</l>
+<l>En dan mijn Moeders woort gaet my daer neffens quellen,</l>
+<l>Dat ick dees fantasy niet uyt 'tghedacht can stellen:</l>
+<l>Ick heb gheraetslaecht wie my dit opt best verclaert</l>
+<l>Dewijl't mijn Moeder niet en dient gheopenbaert.</l>
+<l>Mijn Meester Koja wijs, die heeft my dick gheraden</l>
+<l>te gaen by mynen Oom, dat die my sou ontladen</l>
+<l>van dese duysternis, want daer hy int Serrail</l>
+<l>ghevanghen sit, daer hoort hy sta'ich der Eng'lentael.</l>
+<l>Ick ga dan na hem toe. Wel Osman wat sal't wesen?</l>
+<l>Een Keyser een Soudaen, sou die voor droomen vresen?</l>
+<l>En schricken voor de praet, voort praten van een Vrou?</l>
+<l>Neen Sultan Osman neen, Ick u te moedich hou.</l>
+<l>Hier ben ick by de plaets, Mustapha Oom comt voren,</l>
+<l>Mustapha, wel ick vrees hy, 'tleven heeft verloren:</l>
+<l>Mustapha, hoort ghy niet?</l>
+<l rend="speaker"><hi rend="i">Must.</hi></l>
+<l rend="; 1tab">Wie daer?</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Mustapha Oom.</l>
+<l rend="speaker"><hi rend="i">Must.</hi></l>
+<l rend="; 1tab">Kleg hier ghekarkert laes! vol beven en vol schroom:</l>
+<l>Wie stoort my nu noch meer?</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Mijn Oom ick moet u spreecken.</l>
+<l rend="speaker"><hi rend="i">Must.</hi></l>
+<l rend="; 1tab">Wie zijt ghy?</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Osman.</l>
+<l rend="speaker"><hi rend="i">Must.</hi></l>
+<l rend="; 1tab">Hoe? dit is een wonder teecken.</l>
+<l>Een Keyser by zijn slaeff, dit moet wat vremts bedien.</l>
+
+<pb ed="fol." n="Cir"/>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Mijn Oom ick heb onlancx een vremden droom ghesien:</l>
+<l>'kSoeck daer verclaringh aff.</l>
+<l rend="speaker"><hi rend="i">Must.</hi></l>
+<l rend="; 1tab">Helaes! mijn Heer mijn sinnen</l>
+<l>zijn soo verwert dat'k haest gheen reden weet te vinnen:</l>
+<l>'tLoopt alles buyten spoor, mijns sinnens koor verbaest</l>
+<l>Inbeeldich vol ghewoel, en schrick'licheden raest:</l>
+<l>Voor d'ooghen schem'ren my dwael-geesten, drochgen, spoken,</l>
+<l>Doort stai'ch ghemurmureer mijn herss'nen zijn ghebroken.</l>
+<l>'tLeyt alles ouer hoop, 'ken weet nau wie ick ben,</l>
+<l>My dunct ick niet my selfs, ja niet Mustapha ken.</l>
+<l>Doch seght my uwen droom.</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">My docht in 'sdrooms ghepeysen</l>
+<l>dat ick wech-veerdich was, na Mecha toe te reysen:</l>
+<l>Ick sat op een Kameel die groot was soo het scheen,</l>
+<l>Maer tusschen myne been heel spoedichlick verdween</l>
+<l>en na den Hemel vlooch, soo dat ick in mijn handen</l>
+<l>niet hielde dan den toom.</l>
+<l rend="speaker"><hi rend="i">Must.</hi></l>
+<l rend="; 1tab">Ha Osman kon mijn banden</l>
+<l>ick soo licht werden quijt, als ghy wel sult u Rijck,</l>
+<l>Van mijn verlossinghs-heyl had ick ghewisse blijck.</l>
+<l>Weet Heer het groot Kameel daer op ghy hebt gereden</l>
+<l>dat is u Keyserrijck, 'twelck tot den dach van heden</l>
+<l>u onderworpen is. Maer dat hy henen dreeff,</l>
+<l>Verschoont my dat ickt u oprecht te kennen gheeff,</l>
+<l>'tBeteeckent, dat u Rijck wel haest sal rebelleren,</l>
+<l>En dat u eyghen Volck u selfs sal ruineren:</l>
+<l>Dies ghy't verliesen sult: En dat den Toom ghy hielt,</l>
+<l>Dat is dewijl ghy leeft u onderdaen gheknielt</l>
+<l>een ander Keyser eert: Alleen de naem en teken</l>
+<l>eens Keysers blijft u by. Mits hy u is ontweken</l>
+<l>En dat ghy bleeft alleen.</l>
+<stage><hi rend="i">binnen.</hi></stage>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Mijn Oom goe'n dach ick ga.</l>
+<l>Wel wat verclaers is dat? Wel of ickt recht versta?</l>
+<l>Wat droom ick weer op nieus? Mijn Keyserrijck verliesen?</l>
+<l>Mijn Volck dewijl ick leeff een and'ren Keyser kiesen?</l>
+<l>Hoe slaep ick? Droom ick weer? Off raes ick? Wel wat ist?</l>
+<l>Of heeft Mustapha zich int spreken selfs vergist?</l>
+<l>Hy nochtans is een Man, die met de Eng'len redet,</l>
+<l>Hy nochtans is een Man, daer niemant voor en tredet</l>
+<l>In wijse voor-segs gaeff, hy nochtans is een Man,</l>
+<l>Die al 'tgheheymenis toecomstich weten can.</l>
+<l>Doch 'tkan oock wesen dat door't stadich droevich perssen,</l>
+<l>Verbijsteringh van zin, ontroeringh vande herssen,</l>
+<l>Hy in zijn weten dwaelt. Nu wel het sy hoe't zy</l>
+<l>Al 'tgunt is voor beschickt, dat moet ghebeuren my:</l>
+<l>Ick ben daer in gherust: Ick moet my gaen bereyden,</l>
+<l>Om nu in alder haest uyt Griecken-lant te scheyden.</l>
+</lg>
+<stage><hi rend="i">binnen.</hi></stage>
+
+</div>
+<div type="chapter">
+<pb ed="fol." n="Civ"/>
+<head rend="h3"><hi rend="i">Het tweede Deel.</hi></head>
+<stage><hi rend="i">Sultan Osman, Silactar, Queissilar</hi><lb/><hi rend="i">en Capj.</hi></stage>
+
+<lg type="poem">
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab"><hi rend="i">G</hi>Hy Princen ick moet u mijn meyningh nu verclaren,</l>
+<l>Ten is na Mecha niet, maer 'tis na 'tgroot Alcaren</l>
+<l>daer'ck my begheven wil. Groot Cayro is de Stadt,</l>
+<l>Daer'ck gheerne mynen Throon en Keysers sit-plaets hadt.</l>
+<l>Die Stadt, de grootste Stadt van al des werelts Steden,</l>
+<l>Eerst Babilon ghenaemt: Groot Cayro nu op heden:</l>
+<l>Daer Memphis 'tConincx Hoff, van 'toud' Egypten leyt,</l>
+<l>Aldaer den snellen Nijl dees twee int midden scheyt.</l>
+<l>Daer seg ick wil ick heen, en Griecken-lant verlaten.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Of ickt u Heer ontriet, 'kbid wilt my dies niet haten:</l>
+<l>Voorwaer mijn hert verschrickt dat ick dees reden hoor:</l>
+<l>Verbaestheyt my ontstelt.</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Silactar wel waer door?</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Waer door mijn Heer? My dunckt ick sie alreets het tieren</l>
+<l>vant rasent woedich volck, dat niet is om te stieren</l>
+<l>alst eens is op den hol: my dunckt ick sie 'tghewoel,</l>
+<l>My dunckt dat ick alreets de wond int hert ghevoel,</l>
+<l>Die uwe Majesteyt door dat vertreck sal lyden,</l>
+<l>Gheen mensch soo cloeck die dit u Rijcke can bevryden</l>
+<l>van twist en scheuringh, want als dees ghemeente siet,</l>
+<l>Dat g'haer verlaet mijn Heer, soo sals' u achten niet:</l>
+<l>Elck sal dan meester zijn: Hier salmen In-lants vechten,</l>
+<l>G'lijckt Sill' en Mario wel eer te Room' aemechten,</l>
+<l>Den onvertsaechden Pool, den Oostenrijckschen helt,</l>
+<l>Den Spaenschen Coninck me, comt dadelick te velt,</l>
+<l>Neemt 'teen voor 'tander na, Byzants dees Edel Stede,</l>
+<l>Na Constantin' ghenoemt, verliest ghy Keyser mede,</l>
+<l>En al dit Oosters rijck.</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Silactar 'theeft gheen noot,</l>
+<l>Wel cloeckert zijt g'alreets van vrees en ancxt schier doot?</l>
+<l>Ick laet hier sulcken last, dat niemant zich sal roeren,</l>
+<l>Off teghen my sal staen, 'ken vrees niet die rumoeren</l>
+<l>die ghy my voorstelt, vrint slechs maer te vreden vreest,</l>
+<l>Siet hier in desen brief, eens al mijn meyningh leest.</l>
+<stage><hi rend="i">Silactar leest den Brieff.</hi></stage>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 2tab"><hi rend="i">Aen den Bassa van Groot Cayro.</hi></l>
+<l><hi rend="b">W</hi>Eet Bassa Hussain, om reden wy verlaten</l>
+<l>Constantinopolen, door vele die ons haten,</l>
+<l>Het hier niet seker is, wy brenghen onsen Stoel</l>
+<l>tot Cayro, daer wy zijn bevrijt naer ons gevoel:</l>
+<l>Ons Schat en ons Thresoor, den rijckdom van ons Vad'ren,</l>
+<l>Die hebben wy by een alt'samen doen vergad'ren,</l>
+<l>Dus comt ons ras t'ghemoet, ons snel Galeyen rust,</l>
+<l>Met veel Soldaten braeff, aen Alexandris Cust.</l>
+<l rend="; 3tab"><hi rend="i">Sultan Osman.</hi></l>
+
+<pb ed="fol." n="Cijr"/>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l>Mijn Heer het is dan ernst?</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Silactar jaet in trouwen.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">De Goden gonnen dat het u noch moet berouwen.</l>
+<l rend="speaker"><hi rend="i">Queis.</hi></l>
+<l rend="; 1tab">Maer Heer salt veylich zijn dees reys dus aen te gaen?</l>
+<l>En teghen danck ws Volcx? 'tis al een groot bestaen.</l>
+<l>De Zee Propontides die moet ghy door laveren,</l>
+<l>By Sestus en Abijd' dan door de engt passeren:</l>
+<l>Wie weet of met ghewelt u yemant quam aen boort,</l>
+<l>By't Lesbos Mitileen moet ghy dan reysen voort,</l>
+<l>En doort Egeisch Meyr, daer vele roovers zwieren,</l>
+<l>Wie weet of't Griecxse Volck u oock niet na sal stieren</l>
+<l>En of op Scio dan niet deen of dander past</l>
+<stage><hi rend="i">Silact. binnen.</hi></stage>
+<l>Op dat hy onversiens u daer ontrent verrast:</l>
+<l>Samos en Nigropont, ghy laet aen elcke zyden</l>
+<l>d'Eylanden van Ciclad' daer sult ghy p'rykel lyden.</l>
+<l>Soo ghy 'tgroen-golvich-meyr daer Doris henen steect</l>
+<l>haer langhen smallen arm, en soo de golven breeckt</l>
+<l>van 'tLandtschap Caria, 'kseg soo ghy dat cont seylen</l>
+<l>En soo met vreucht de Cust van Candia cont peylen</l>
+<l>Soo zijt ghy uyt 'tgevaer.</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Vrint Queissilar voor wien</l>
+<l>sou ick doch schromen? Segt, wie heeft op my 'tghebien?</l>
+<l>ic pas op Goon noch mensch.</l>
+<l rend="speaker"><hi rend="i">Capj.</hi></l>
+<l>Heer dats vermetel spreke<hi rend="i">n</hi></l>
+<l>De Goden souden licht dees trotse woorden wreken,</l>
+<l>Wy vreesen voor ons Prins, wy schromen voor ons Heer</l>
+<l>Wy achten op sijn woort, wy letten op sijn eer.</l>
+<l>Tgunt Queissilar verhaelt, is Heer om u te raden</l>
+<l>dat ghy voorsichtich zijt, om myden alle quaden.</l>
+<l>'tWoest meyr onveylich is, van Creta na Scarpant,</l>
+<l>Daer Rodis leyt en duyckt by Doris vaste lant.</l>
+<l>En als ghy 'twyde brack al hebt na wil door-sneden,</l>
+<l>En t'Alexandrien Egypten gaet betreden:</l>
+<l>Wat Wildernissen groot moet ghy dan al voorby,</l>
+<l>'tBroeck-lant Marote-is leyt daer aen d'eene zy,</l>
+<l>Aen d'ander Nilus arm, dees reys streckt vol ghevaren,</l>
+<l>Doch 'khoop ons Mahometh sal u mijn Heer bewaren,</l>
+<l>Maer beter bleeft ghy hier, om myden allen twist,</l>
+<l>Die door den Poolschen crijch noch meer is opghehist</l>
+<l>Wy sorgen voor u Rijc.</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Weest gy maer wel te vreden,</l>
+<l>En doet dat ic u hiet.</l>
+<l rend="speaker"><hi rend="i">Queissi.</hi></l>
+<l rend="; 1tab">Vergramt met om ons reden,</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Silactar is die wech? En langt mijn Brieven niet?</l>
+<l rend="speaker"><hi rend="i">Queissi.</hi></l>
+<l rend="; 1tab">Iae Heer.</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Wel aen, ick wil dat datelick gheschiet</l>
+<l>den voortganck mijns verstrecks, t'Alcayre moet ick woonen</l>
+<l>opt Slot soo groot als Vlms, 'kwil niemant meer sal toonen</l>
+<l>onwillich zich hier toe.</l>
+<l rend="speaker"><hi rend="i">Capj.</hi></l>
+<l rend="; 1tab">Wel Heer salt moeten sijn?</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Kseg ja, noch eenmael ja, voort aen, com volghet mijn.</l>
+<stage><hi rend="i">binnen.</hi></stage>
+
+<pb ed="fol." n="Cijv"/>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Ha leyd-ster held're Maen, gheen maen maer levens Son,</l>
+<l>Noyt meerder druck als nu mijn herte ouerwon;</l>
+<l rend="speaker"><hi rend="i">Flora.</hi></l>
+<l rend="; 1tab">Mijn Heer waerom?</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Waerom?</l>
+<l rend="speaker"><hi rend="i">Flora.</hi></l>
+<l rend="; 1tab">Waerom? Ick moet het vraghen,</l>
+<l>Mits ick wel 'tmeeste deel wou van u lyden draghen.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Laes! 'tongheluck ons treft, het gaet ons beyden aen.</l>
+<l rend="speaker"><hi rend="i">Flora.</hi></l>
+<l>Ons beyden? Hoe mijn Heer? Kbid doet my dat verstaen.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Princesse, Engel, neen, Goddin van mijn ghedachten,</l>
+<l>Ghy weet wel hoe de Lieffd ons herten gaet vercrachten</l>
+<l>Dat ick zy heel in u, en ghy in my verkeert,</l>
+<l>Dat d'een den and'ren op zijns Zielen outaer eert:</l>
+<l>En buychsaemlicken knielt, en doet daer offerhanden</l>
+<l>Dat suchtent loost de walmt van d'offerhandens branden?</l>
+<l>Dat ghy en ick zijn een, met hert, met ziel, met zin,</l>
+<l>En onverscheydelick ghebonden door de min.</l>
+<l>Maer mede weet ghy wel dat wy ons doen versussen,</l>
+<l>En laes! al steels-ghewijs ons heete vlammen blussen</l>
+<l>bevreest voor 'sKeysers toorn, mits hy ons vrintschap haet.</l>
+<l>En nu hy morghen vroech na 'tGroot Alcayro gaet</l>
+<l>om houden daer zijn Hoff, moet ick nootsaeck'lick mede,</l>
+<l>Dewijl ick heb by hem in dienst soo hooghen stede.</l>
+<l>Dits Flora dat my deert.</l>
+<l rend="speaker"><hi rend="i">Flora.</hi></l>
+<l rend="; 1tab">Noyt saeck my quader viel,</l>
+<l>Voert doch mijn Lichaem me, ghy hebt alreets de Ziel.</l>
+<l>Hoe sal ick sonder u, 'tLijff sonder Ziele leven?</l>
+<l>Al wild ick, ick en can, 'ken can u niet begheven.</l>
+<l>Doot ben ick sonder u: Doot, doot, ja gantsch'lick doot,</l>
+<l>Ghy zijt mijn al, mijn licht, mijn son, mijn morghen-root,</l>
+<l>mijn leve<hi rend="i">n</hi>, lust, en vreucht.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Gy zijt mijn hoochste wensche<hi rend="i">n</hi></l>
+<l>Van d'Hemel afghedaelt een Engel by de menschen:</l>
+<l>Maer Lieff wat sal ick doen? Den Keyser u benijt,</l>
+<l>Mits ghy soo laech van staet en cleyn van rijckdom zijt.</l>
+<l>En mits hy my bemint soo sal hy nimmer doghen,</l>
+<l>Dat ick u Lieff tot Vrou sal Echt'lick trouwen moghen.</l>
+<l>En nochtans steecktmen eer aent blauwe ront de handt,</l>
+<l>Eer sal 'tgheladen Schip beseylen 'tdorre Sandt.</l>
+<l>Eer salm' opt woeste meyr met drooge voeten wand'ren,</l>
+<l>Eer ick mijn Lieffd tot u Goddinne sal verand'ren.</l>
+<l>Maer even-wel 'kmoet me, en moet u laten hier:</l>
+<l>Doch blijft mijn ziel by u.</l>
+<l rend="speaker"><hi rend="i">Flora.</hi></l>
+<l rend="; 1tab">Kont ghy in gheen manier</l>
+<l>versinnen, hoe ick me mocht na Alcayro reysen?</l>
+<l>Mijn Heer bedenckt u, hoe? En cont ghy niet bepeysen?</l>
+<l>Laer ick als u slavin heel slecht 'twort u ghebeen,</l>
+<l>Met u in uwen dienst doch mede derwaerts heen:</l>
+<l>Off laet in Mans ghewaet ick my gheheel verleden,</l>
+<l>Want and're Vrouwen sulcx hier voormaels oock wel deden.</l>
+<l>Ick sal na u ghebot u sta'ich ten dienste staen,</l>
+
+<pb ed="fol." n="Ciijr"/>
+<l>En achter u altijts ghelijck een Pagie gaen:</l>
+<l>Soo haest ghy my gebiet, 'tsal schijnen dat ick vlieghe</l>
+<l>Op dat in sulck ghestalt den Keyser ick bedrieghe:</l>
+<l>Ha trotse werelts pracht! ha gier'ghe hooverdy!</l>
+<l>Ha sotte glorijs roem, hoe wrevel zijt ghy my.</l>
+<l>Om dat ick niet en ben van Princen stam gheboren,</l>
+<l>Soo weyrtmen my helaes! van dien die'ck heb vercoren</l>
+<l>Die mijn is en ick zijn; O herten soo versteent!</l>
+<l>Die willen scheyen doen twee herten soo vereent</l>
+<l>alleen om 'swerelts pracht: die sulcx in willen voeren</l>
+<l>Die maken daghelicx van eerbaer vrouwen hoeren.</l>
+<l>Want als ghescheyden wort, de Lieffd' soo vast verknocht,</l>
+<l>Noch d'eene tijt off d'aer, wort d'oude lust volbrocht.</l>
+<l>Maer Heer wat ick bedenck; En comnen niet wel maken</l>
+<l>Dat 'tVolck door dit vertreck in oproer soude raken?</l>
+<l>Mits hy dees Stadt verlaet, en al de schatten rooft.</l>
+<l>Ghy wort by Princen en by 'tVolck seer veel ghelooft</l>
+<l>Doet ghy u best daer toe, soo sult ghy wel beletten</l>
+<l>Dees voorgenome<hi rend="i">n</hi> reys.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Me Vrou 'ksalt daer op sette<hi rend="i">n</hi></l>
+<l>Kheb sulcx ooc al bedocht.</l>
+<l rend="speaker"><hi rend="i">Flora.</hi></l>
+<l rend="; 1tab">Voor al dient haer gheseyt</l>
+<l>hoe dat hy haer braveert, mits hy onweerdich scheyt:</l>
+<l>Hoe dat hy't hier ontbloot van al de schoon Juweelen</l>
+<l>Om die int groot Alcayr d'Egypters uyt te deelen.</l>
+<l>Vergeet oock niet den trotz aen ons onlanx ghedaen:</l>
+<l>Hoe dat hy'r vele heeft moordadich doot doen slaen.</l>
+<l>Van 'tmeeste tot de minst, haer alles stelt voor oogen</l>
+<l>Insonderheyt, dat zy behooren niet te doogen,</l>
+<l>Dat onsen Adeldom soo grouw'lick wort gheplaecht,</l>
+<l>Mits d'een of dand'ren guyt aen hem steets ouerdraecht</l>
+<l>'tgunt van hem wort gheseyt, en dat hy die gaet loonen,</l>
+<l>Voor dees verklickery, met menichte van Croonen.</l>
+<l>Mijn Lief doet so ic ga.</l>
+<stage><hi rend="i">binnen.</hi></stage>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">De Goden u behoen;</l>
+<l>Khoop Osman tot u straf mijn hoochste vlijt te doen.</l>
+<l>Hier zijn de Princen t'saem.</l>
+<stage><hi rend="i">Boustangi, Janitzer, Dahout</hi></stage>
+<l>Weest seer ghegroet mijn Heeren.</l>
+<l rend="speaker"><hi rend="i">Dah.</hi></l>
+<l rend="; 1tab">Op uwes Dienaers woort mijn Heer wy tot u keeren</l>
+<l>Wat is mijn Heers gelieft?</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Een saeck die my benout,</l>
+<l>En een gheheymenis die niemant dient vertrout</l>
+<l>dan die volstandich is, moet ick u openbaren.</l>
+<l rend="speaker"><hi rend="i">Boust.</hi></l>
+<l rend="; 1tab">Soot u mijn Heer belieft, wilt ons de saeck verclaren.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Ghy Princen 'tgunt ick seg, is niet wt haer of nijt</l>
+<l>maer tot ons aller eer, en tot des Lants proffijt.</l>
+<l>Laes! sien wy dag'licx niet, hoe Osman wil regeren?</l>
+<l>Hoe hy zijn onderdaens gaet wreet tyranniseren;</l>
+<l>Hoe hy de Landen schat, en alles inne slockt?</l>
+<l>Hoe hy de arme liens haer zweet en bloet ontrockt.</l>
+
+<pb ed="fol." n="Ciijv"/>
+<l>Hy is het die ons plaecht, hy, die ons schand'lick quellet</l>
+<l>En niemant isser noch die zich daer teghen stellet,</l>
+<l>Men laet hem al begaen.</l>
+<l rend="speaker"><hi rend="i">Dah.</hi></l>
+<l rend="; 1tab">Niet waer Silactar Heer?</l>
+<l>In zynen handen staet ons leven goet en eer.</l>
+<l>Hy spottet met ons vrees, hy bralt in zyne glory,</l>
+<l>Hy hout ons onder 'tjock, dat schijnt hem een victory,</l>
+<l>Den voet op onsen neck, den duym op onse keel,</l>
+<l>Men can niet laten, doen, 'tsy luttel ofte veel</l>
+<l>Soot hem niet aeng'naem is, soo moetmen straf besuyren,</l>
+<l>By Mahometh ick zweyr ten sal niet langer duyren:</l>
+<l>Men hoort met recht en re'en, toont hy hem als Tyran,</l>
+<l>'tGhemeene voor te staen, opt beste datmen can.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Niet waer? een Prins en moet zich niet tyrannich draghen.</l>
+<l rend="speaker"><hi rend="i">Boust.</hi></l>
+<l rend="; 1tab">Laes! soo wanner den Prince crijcht een wel-behaghen</l>
+<l>in eyghen sellefs doen, het is dan goet of quaet:</l>
+<l>Als hy die hem berispt, daer ouer bitter haet.</l>
+<l>Als hy op de Ghemeene welvaert niet wil achten:</l>
+<l>Als hy sijn ooren stopt voor d'Ondersaten clachten:</l>
+<l>Als hy montspeelders heeft, en achter-raden hout:</l>
+<l>Als hy de best vant Lant oock alderminst betrout:</l>
+<l>Als hy aenbrengers g'looft, en deelt die milde gaven:</l>
+<l>Soo gaet hy teenemael na tyrannije draven.</l>
+<l>Hy denckt dan gantslick niet opt spreeck-woort datmen leest,</l>
+<l><hi rend="i">Datt't beter is, bemindt te worden, dan ghevreest.</hi></l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Wat dunckt u Princen, sijn in Osman niet te speuren</l>
+<l>al dese fouten?</l>
+<l rend="speaker"><hi rend="i">Dah.</hi></l>
+<l>Ja.</l>
+<l rend="speaker"><hi rend="i">Janit.</hi></l>
+<l rend="; 1tab">'tKan somtijts wel gebeuren</l>
+<l>dat hy zich wat verloopt in d'een of d'ander saeck,</l>
+<l>Maer dese woorden schijnt dat schien uyt weder-wraeck.</l>
+<l>Ons Keyser is een helt, jongh, trots, van hooghen bloede</l>
+<l>Verheven op den Throon, manhaftich van ghemoede</l>
+<l>Gheneghen tot de straf van die weerspannich zijn,</l>
+<l>Wanneert wat heftich schiet 'theeft dan tyrannich schijn.</l>
+<l>Hy is groot-dadich, mildt, en tot sijn volck gheneghen,</l>
+<l>Of yemant onder u een haet op hem heeft kreghen</l>
+<l>door eenich mis-verstant, dat moet niet sijn gheduyt</l>
+<l>als oft tyrannich waer, hoe-wel't wat vreeslick luyt</l>
+<l>in d'ooren vande geen, die weynich van hem houwen.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Ianitzer Aga slecht, wel Aga wat vertrouwen</l>
+<l>dat ghy van Osman hebt, wel Aga, Aga maer</l>
+<l>Al 'tgheen Boustangj seyt, en noch veel meer is waer.</l>
+<l>Janitzer Aga slecht, en worden niet verstoten</l>
+<l>hier meest al d'Edel-lien? by slechte 'tgoet ghenoten,</l>
+<l>Dorf Cezar metter daet niet doen al wat hy wil?</l>
+<l>En moeten selfs de grootst' daer op niet zwijghen stil?</l>
+<l>Janitzer Aga slecht, zijnt niet Tibery tyden,</l>
+<l>Daerin de beste vande snootste moeten lyden,</l>
+<l>Daerin d'aenbrengers meest besitten 'sKeysers hert,</l>
+
+<pb ed="fol." n="Ciiijr"/>
+<l>En elck een voor die daet als vroom beloonet wert:</l>
+<l>Daerin het gheen men sucht, Ja nauwelicx mach dencken,</l>
+<l>Terstont wort aenghebrocht, en gaen niet leugens krencken</l>
+<l>het oprecht vroom ghemoet? en luystert niet de muyr?</l>
+<l>En valt het oordeel niet den goe'n voor 'tvangen suyr?</l>
+<l>Ons Keysers vinnicheyt, wraeck-gierichlick ghedreven,</l>
+<l>En wort die niet een glimp by zynen raet ghegheven?</l>
+<l>Wel hoe Janitzer slecht? en merckt ghy dit niet aen?</l>
+<l>En weet ghy niet dat hy, voor Bedevaert te gaen</l>
+<l>Wil na groot Cayro toe? en steelt alsoo ons schatten.</l>
+<l rend="speaker"><hi rend="i">Janit.</hi></l>
+<l rend="; 1tab">Silactar 'kg'loof dat niet.</l>
+<l rend="speaker"><hi rend="i">Sil.</hi></l>
+<l rend="; 1tab">Wilt eens dien brief aenvatte<hi rend="i">n</hi></l>
+<l>en siet wat hy daer schrijft, ick coom nu uyten raet,</l>
+<l>En heb u hier ontboon, om soo t'voorcomen 'tquaet.</l>
+<stage><hi rend="i">Zy lesen den Brief binnens monts.</hi></stage>
+<l rend="speaker"><hi rend="i">Dahout.</hi></l>
+<l rend="; 1tab">Ist mog'lick? ist oock waer? ist droom? of isset waerheyt?</l>
+<l>En voel ick niet 'tpampier? ist niet dat openbaer seyt</l>
+<l>Dees Brief des Keysers zin? ist niet zijn eyghen hant?</l>
+<l>Versta ick niet dat hy niet blyvet hier te lant?</l>
+<l>En lees ick niet dat hy berooft heeft ons Thresoren?</l>
+<l>En dat hy tot zijn Hoff groot Cayro heeft vercoren;</l>
+<l>By Mahon 'tsal niet zijn: Soo Jupijn my verlaet,</l>
+<l>Soo neem ick Pluto en zijn Hel-hont dan te baet.</l>
+<l>Den drie-hooft Cerber wreet, Alect en Thesiphonen,</l>
+<l>En uyt den Helschen poel, de Spoken die daer woonen,</l>
+<l>Boustangj wat seght ghy?</l>
+<l rend="speaker"><hi rend="i">Boust.</hi></l>
+<l rend="; 1tab">Ick zweyr u insghelijck,</l>
+<l>Eer Osman ons verlaet, en kiest een ander rijck</l>
+<l>tot zynes Keysers Hoff, eer seg ick sal ick pooghen</l>
+<l>dat 'tonderst boven comt, eer dat ick sal ghedooghen,</l>
+<l>Constantinopolen die Edel Stadt te sien</l>
+<l>berooft van Keysers eer, voorwaer ten sal niet schien.</l>
+<l>De bulderende Plut' bezweyr ick uyter hellen,</l>
+<l>Om dien meyneedigert als hersseloos te quellen.</l>
+<l>Tsa, 'tsa, ghy Griecken 'tsa, 'tsa maeckt u op de been,</l>
+<l>Elck past op zijn gheweyr een yder isser een,</l>
+<l>Tsa, laet ons dien Tyran gaen vanghen ofte dooden.</l>
+<l rend="speaker"><hi rend="i">Janit.</hi></l>
+<l rend="; 1tab">Mijn Heere<hi rend="i">n</hi> 'kstaet niet toe.</l>
+<l rend="speaker"><hi rend="i">Sil.</hi></l>
+<l>Hoe bloet slacht gy de<hi rend="i">n</hi> bloode<hi rend="i">n</hi></l>
+<l>Gaet hene<hi rend="i">n</hi>, flocx van hier.</l>
+<stage><hi rend="i">Hy dreycht hem. Janitzer binnen,</hi></stage>
+<l>Elck een zy nu een Man,</l>
+<l>En ruy het Vollick op soo dapper als hy can.</l>
+<l>Ick zweyr by Mahons hooft, Ick zweyr by Jovis handich,</l>
+<l>Die ons den donder sent, en snellen blicxem brandich,</l>
+<l>By Hel en Hemel t'saem, by Zee, Rivier en Vloet,</l>
+<l>By hem die met gheknars doet vlieten 'twarme bloet</l>
+<l>By Acherontis stroom, by Stygis donck're poelen,</l>
+<l>Ick sal met groot ghedruys het volck doen rasen woelen,</l>
+<l>Com Princen, doen wy t'saem alhier een vasten eedt</l>
+<l>dat niemant rusten sal, of wreken eerst ons leedt.</l>
+
+<pb ed="fol." n="Ciiijv"/>
+<stage><hi rend="i">Zy doen Eedt opt Zweert.</hi></stage>
+<l rend="speaker"><hi rend="i">Dahout.</hi></l>
+<l rend="; 1tab">Kzweyr ick mijn best sal doen, om Osman te benouwen.</l>
+<l rend="speaker"><hi rend="i">Boust.</hi></l>
+<l>Ick zweyr u insghelijcx, ghy moocht my wel vertrouwen.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Ick van ghelijcken me, 'tsa maken wy gherucht,</l>
+<l>Hou Mannen op, op, op, den Keyser ons ontvlucht.</l>
+<stage><hi rend="i">Zy loopen met een furie, d'een deur in, en d'ander deur uyt.</hi><lb/><hi rend="i">Zy roepen met haer 3. of 4. teffens.</hi></stage>
+<l rend="speaker"><hi rend="i">Dahout.</hi></l>
+<l rend="; 1tab">Den Keyser ons ontvlucht, laet by d'Jaours ons blyven.</l>
+<l>De Christen honden, die ons soecken te ontlyven.</l>
+<stage><hi rend="i">Daer vergaderen veel stomme Personen, met Capi Aga,</hi></stage>
+<l rend="speaker"><hi rend="i">Boust.</hi></l>
+<l>De<hi rend="i">n</hi> Keyser o<hi rend="i">n</hi>s o<hi rend="i">n</hi>tvlucht, gedooge<hi rend="i">n</hi> wy dat?</l>
+<stage><hi rend="i">(sy roepe</hi>n<hi rend="i"> algelijc)</hi></stage>
+<l>nee<hi rend="i">n</hi>.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Wy comen haest tot ons voornemen soo ick meen,</l>
+<l>Com laet ons het Serrail off Hoff met macht belegghen.</l>
+<stage><hi rend="i">Ianitzer Aga comt wandele</hi>n<hi rend="i">, diese dapper slae</hi>n<hi rend="i">, Ianitzer loopt binne</hi>n<hi rend="i">.</hi><lb/><hi rend="i">Den Keyser senter een uyt.</hi></stage>
+<l>Ic com uyt 'sKeysers last.</l>
+<l rend="speaker"><hi rend="i">Dah.</hi></l>
+<l>Wat wil dees bloet hier segge<hi rend="i">n</hi>?</l>
+<stage><hi rend="i">Zy slaen he</hi>m<hi rend="i"> doot, rucken en plucke</hi>n<hi rend="i"> hem, elc trect wat van zijn Lijf.</hi><lb/><hi rend="i">Den Keyser vertoont hem boven opt Serrail, ofte in een Cabinet op de Muyr voor de tralien.</hi></stage>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Wat is van dit gheroep, gheraes, ghemuytineert</l>
+<l>Doet ghy dit u Soudaen? wat wacht ghy van hem weer?</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">De reden, waerom al dit Volck dus is verbolghen</l>
+<l>En dese Krijchslien meest, is, mits ghy wilt vervolghen</l>
+<l>u sot inbeeldings lust, dat ghy vervoert den Schat,</l>
+<l>Verlaten wilt dees plaets, segt waerom doet ghy dat?</l>
+<l>Wat heeft u doch beweecht? wilt ghy in Pelgrimagie</l>
+<l>Na Mecha? waer toe dan dees rijckdom? tot bravagie?</l>
+<l>Vijfhondert duyst Zexquijns, een millioen drie, vier,</l>
+<l>Wast niet ghenoech tot reys? tot miltheyt en playsier.</l>
+<l>Ghy nemet wech dien schat, niet u, maer onsen eygen</l>
+<l>van langhen tijt vergaert, voor d'Christ'nen houden dreygen,</l>
+<l>Neemt ghy die wech, waer met dan worden wy voldaen</l>
+<l>voor dienst die wy u doen? Zijt ghy belust te gaen</l>
+<l>gaet door, laet ons den schat, wy sullen veerdich maken</l>
+<l>een and'ren Keyser, segt, wat ist? wat zijn de saken?</l>
+<l>Wat drijft u doch van hier? zijt g'hier niet wel by ons?</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Gaet door boos-wichten gaet, maect gheen oproers gebons,</l>
+<l>Niet weerdich zijt ghy mijns, of dat ick u sou achten,</l>
+<l>Mits ghy tot mynen dienst noyt trouwelick en trachten.</l>
+<l>Als ick u bruycken wou, tot schutting van mijn Rijck,</l>
+<l>Wast altijt met ghegrijn, en noyt ghehoorsaems blijck.</l>
+<l>Als ick 'tvoorleden jaer noch voerde crijch met Polen</l>
+<l>Wat heb ick moeyt ghehat, hoe hielt ghy u verholen,</l>
+<l>Ick trock u teghen danck. Ick wilde eenmael sien,</l>
+<l>Off my oock trouwen dienst als noot waer, sou gheschien.</l>
+<l>Van dien die'ck staich betael, dies ick selfs monst'ring dede,</l>
+<l>Om daer te loonen haer, doe bleeck u trouwichede.</l>
+
+<pb ed="fol." n="Dir"/>
+<l>In plaets van veertich duyst, ick maer acht duysent vont</l>
+<l>Kbelaste datmen eens Galeyen veertich sont</l>
+<l>opt wit en zwarte meyr, daer waren nau soldaten,</l>
+<l>Ick most mijn Keysers cleet en Majesteyt verlaten,</l>
+<l>En liep in slecht habijt, Taveerne in en uyt,</l>
+<l>En brocht u met ghewelt, soo in Galey en schuyt.</l>
+<l>Maer d'eerste plaetse daer ghy quaemt aen landt te legghen,</l>
+<l>Daer liep de helft wel wech, wat sal ick hier van segghen?</l>
+<l>Wat dunckt u, wiert ick wel ghedient ghelijckt behoort?</l>
+<l>Soo doende comtmen haest het Christenrijck aenboort.</l>
+<l>Ick sacht ick mercktent aen, ick wist dat niet ene sliepen,</l>
+<l>Den Pool en Persiaen, ick wist hoe veel hier riepen</l>
+<l>oproerich teghens my, dies dacht ick op dat pas</l>
+<l>Dat'ck hier niet seker noch niet wel ghedient en was.</l>
+<l>Khad noch versekering door vele Propheten,</l>
+<l>Die 'tgunt toecomend' is, tot een minuyt schier weten.</l>
+<l>Constantinopolen datt't sou verloren gaen,</l>
+<l>Maer dat ick door ghewelt daer weer sou comen aen.</l>
+<l>Dit alles overleyt, besloot ick met mijn schatten</l>
+<l>in seeck'rer plaets te gaen, om soo 'tverlies t'her-vatten.</l>
+<l>Welck is die plaetse nu? Groot Cayro, door dit blijck</l>
+<l>Soo oordeelt selver nu, of'k niet heb groot ghelijck?</l>
+<l>Waer toe dit woelen dan, wel waer toe dees rumoeren?</l>
+<l>Al even-eens of ghy met my wout oorloch voeren.</l>
+<l>Doch mits ick sie dat ghy soo grooten moeyte maeckt</l>
+<l>Soo loof ick en ick sweyr, mijn reys sal sijn ghestaeckt.</l>
+<l>En op dat ghy daer van moocht vry versekert wesen,</l>
+<l>Siet daer mijn eyghen hant, wilt dat eens ouer-lesen.</l>
+<stage><hi rend="i">Hy werpt eenen Brief af.</hi><lb/><hi rend="i">Silactar leest.</hi></stage>
+<l> <hi rend="i">G</hi>Hy Heeren weest ghestilt, 'kbelooff by eer en trouwe,</l>
+<l>Dat ick altijt mijn Hoff t'Constantinop'len houwe,</l>
+<l>Laet my mijn schatten doch.</l>
+<l rend="speaker"><hi rend="i">Dah.</hi></l>
+<l rend="; 1tab">Wat is met dit geschrijff?</l>
+<l>Mijn Heer gheeft my eens:</l>
+<stage><hi rend="i">Hy scheurt den Brief.</hi></stage>
+<l>Soo: 'Kzweyr dat ick hier blijf</l>
+<l>tot dat ons Ottoman sal leveren die Hoofden</l>
+<l>vande verraders, die ons sta'ich ons eere roofden.</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">De Hoofden? hoe, van wie?</l>
+<l rend="speaker"><hi rend="i">Dah.</hi></l>
+<l rend="; 1tab">Van uwen groot Vezier</l>
+<l>of Connestab'le ras, sent ons dien schellem hier.</l>
+<l>En van u Koja, of u lieven Meester mede.</l>
+<l rend="speaker"><hi rend="i">Boust.</hi></l>
+<l rend="; 1tab">Hoe Dahout, met die twee en ben ick niet te vrede,</l>
+<l>Hoort Osman, sent oock 'thooft van Aga Queissilaer.</l>
+<l>En van Taftarda, des Staedts grooten Secretaer.</l>
+<l>En van meer and're noch, dan salm' u openbaren</l>
+<l>wat ons begeerte is, en onsen wil verclaren.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Voort leverts' ons terstont.</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l>Maer Heer sy zijn hier niet.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Wy willen dat ons wil van stonden aen gheschiet.</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l>Mijn Heer s'en zijn hier niet, 'ken can u die niet senden.</l>
+
+<pb ed="fol." n="Div"/>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Daer ouer sal u noch den vloeck en evelschenden.</l>
+<l>Voort, voort, bestormt 'tSerrail.</l>
+<stage><hi rend="i">Sy beclimmen het Serrail, met bloote gheweyren inde hant, met groot rumoer, openende de deuren.</hi><lb/><hi rend="i">Osman comt selfs aende deur, haer leverende Queissilar ende noch 1. ofte 2. andere Personen.</hi><lb/><hi rend="i">Hy leyt zijn handen t'samen.</hi></stage>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Mijn Heeren weest ghestilt,</l>
+<l>Daer zijn de gene die gy immers hebbe<hi rend="i">n</hi> wilt.</l>
+<stage><hi rend="i">Osm. binnen.</hi><lb/><hi rend="i">Zy slaen Queissilar doot. Ende loopen naer de ghevanckenisse van Mustapha.</hi></stage>
+<l rend="speaker"><hi rend="i">Dahout.</hi></l>
+<l rend="; 1tab">Laet ons 'tgevanckenis gaen van Mustapha soecken.</l>
+<l rend="speaker"><hi rend="i">Boust.</hi></l>
+<l rend="; 1tab">Hier ist, ick sou voorwaer mijn knechten wel vervloecken</l>
+<l>dat ick gheen sleutels vind, com breken wij't slechts op.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Hoe krijghen wy hem uyt? hoe dul is my den cop,</l>
+<l>Loop ras en haelt een koord', wy moeten hem doen kroonen,</l>
+<l>En Osman zijnen trotz nu eens ten rechten loonen.</l>
+<stage><hi rend="i">Daer wert een langhe koord' ghebracht, die werpense Mustapha toe.</hi></stage>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Mustapha, Heer comt hier, Mustapha Heer comt voord'</l>
+<l>Mustapha, hout u vast, comt hout u aen dees koord'.</l>
+<stage><hi rend="i">Zy trecken hem uyt. Hy boven zijnde can 'tlicht niet verdrage</hi>n<hi rend="i">.</hi></stage>
+<l rend="speaker"><hi rend="i">Must.</hi></l>
+<l rend="; 1tab">Ha glinst'rich gulden strael, hoe scheem'ren my mijn oogen,</l>
+<l>My dunct ick 'theld're licht der Sonnen niet can dooghen:</l>
+<l>Waer ben ick? wat is hier? waer toe al dit gheraes?</l>
+<l>Al weer een nieu ghespoock? Ay my! hoe'ck daer verbaes:</l>
+<l>In mijn ghevanghenis gaen altijt spoken dwalen,</l>
+<l>Altijts ick hoor 'tghemor, het veselen, het malen,</l>
+<l>'tGhepreutel, murmureer, de stemmen en 'tgheschrey,</l>
+<l>De visevasery van al der Drochgen rey.</l>
+<l>Sta'ich of ick ga, of sta, of sit, of legge neder,</l>
+<l>Het een is naulicx wech, of 'tander comt al wieder,</l>
+<l>Tis enckel toovery of Belzebubs ghespuys</l>
+<l>Bevreestheyt inden mensch is 'talderswaerste cruys:</l>
+<l>Wat zijn dit gheesten weer? of zijnt gheweyrde menschen?</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Mijn Heer comt tot u selfs, wy zijnt die stadich wenschen</l>
+<l>nu u geluc en heyl.</l>
+<l rend="speaker"><hi rend="i">Must.</hi></l>
+<l>Moort, moort, men soect mijn doot:</l>
+<l>Tghesicht verduystert was, 'twas paers, blau, groen en root,</l>
+<l>Nu sie ick al dit volck, sie wat sijn hier Soldaten,</l>
+<l>Ay mannen! wilt my doch mijn leven noch wat laten,</l>
+<l>Wat heb ick u misdaen?</l>
+<stage><hi rend="i">Hy valt op zijn knien.</hi></stage>
+<l rend="speaker"><hi rend="i">Dahout</hi></l>
+<l rend="; 1tab">Neen Heer ten is soo niet,</l>
+<l>Hier's niemant die begeert dat u yet leet gheschiet.</l>
+<l rend="speaker"><hi rend="i">Must.</hi></l>
+<l rend="; 1tab">Och Heer! nu ben ick doot, och Heer! nu moet ick sterven,</l>
+<l>Ghenaed', ick bid ghenaed', sal'ck gheen ghenaed' verwerven?</l>
+<stage><hi rend="i">Zy presenteren hem eene</hi>n<hi rend="i"> dranc van Honich, Water en Zuycker.</hi></stage>
+
+<pb ed="fol." n="Dijr"/>
+<l rend="speaker"><hi rend="i">Must.</hi></l>
+<l>Siet hier dit is 'tvergift, ay my! wat wilt ghy doen?</l>
+<l>Hoe dick hoe drabbich ist, mocht ickt niet wel vermoen?</l>
+<l>Zijt ghy noch niet te vreen dat ghy my wout vergheven,</l>
+<l>Doen Osman als een Prins int beste van sijn leven</l>
+<l>ten strijt na Polen trock? Ach! wilt ghy nu noch eens?</l>
+<l>Helaes! ghy hebt daer toe te weynich recht en reens.</l>
+<l>Ist niet ghenoch dat ghy de Croon my hebt benomen?</l>
+<l>Soo langh ghevanghen stelt, en moet ghy nu noch comen</l>
+<l>Berooven 'tleven van een armen mensch? o Goon!</l>
+<l rend="speaker"><hi rend="i">Boust.</hi></l>
+<l rend="; 1tab">Neen, 'tis om t'sterven niet, maer t'stellen op den Throon</l>
+<l>Ja om u Keyser nu, in Osmans plaets te kiesen.</l>
+<l rend="speaker"><hi rend="i">Must.</hi></l>
+<l rend="; 1tab">Hy my! ghenade, laet my 'tleven niet verliesen:</l>
+<l>Ick sta vrywillich af van Scepter, Rijck en Croon,</l>
+<l>Ay vrinden! spot ghy noch? en soeckt ghy my te doon?</l>
+<l>Het leven is soo soet, dat ick de hoochste staten</l>
+<l>des wer'lts als 'tKeyserrijck, seer geerne wil verlaten</l>
+<l>om dat te houden, ach! gaet wech met desen dranck,</l>
+<l>Ksal die niet drincken of 'twaer teghen mijnen danck.</l>
+<l>Maer gheeft my eenen dronck claer water dat sal maken,</l>
+<l>Dat ick een weynich we'er sal tot mijn selven raken.</l>
+<l>Mijn herss'nen zijn ontroert, mijn sinnen zijn ontstelt,</l>
+<l>De mymerende vrees, die heeft my sta'ich ghequelt.</l>
+<l>Ken heb in langhen tijt niet van my selfs gheweten,</l>
+<l>En mits ick in drie daech gants niet en heb gegeten,</l>
+<l>Soo ben ick zwack en flau, langht my wat water, ach?</l>
+<l>Laet my eens drincken doch, soo vele als ick mach,</l>
+<l>Op dat ick wederom mach tot my selven comen,</l>
+<l>En dat de flaute soo van my wert wech genomen.</l>
+<stage><hi rend="i">Hy drinct een teuch Water.</hi></stage>
+<l>Soo, dat verlicht mijn hert, soo, dat is my ghesont.</l>
+<l>O Goon! hoe goet is dit, dat'ck dit gheselschap vont.</l>
+<l>Daer sinckt het van mijn borst, dat sal my wat verlichten,</l>
+<l>Nu coom ick tot my selfs, nu wijcken de ghesichten</l>
+<l>vant schiemerent ghezwerm, wel, of ick die niet can?</l>
+<l>Vrint seght, wie zijt ghy doch?</l>
+<l rend="speaker"><hi rend="i">Dah.</hi></l>
+<l rend="; 1tab">V eyghen Susters Man.</l>
+<l>Tis Dahout Bassa, Heer, die ghy hier siet voor oghen.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Voort vrinden, 'tis ons tijt, wy niet vertoeven mogen</l>
+<l>Tsa vat mijn Heer Mustaeph', en draecht hem op den hals,</l>
+<l>Wy sullen gaen rontom, en maken veel gheschals.</l>
+<l>met roepen, dat hy is als Keyser nu vercoren,</l>
+<l>Soo gheeft dan Osman voort, den moet gheheel verloren.</l>
+<stage><hi rend="i">Zy vatten hem op de schouderen, ende gaen daer mede binnen ende buyten, altsamen roepende.</hi></stage>
+<l rend="; 1tab">Sultan Mustapha Coningh, Sultan Mustapha Keyser.</l>
+<stage><hi rend="i">Van binnen wert met groot gheschal gheroepen.</hi></stage>
+<l rend="; 1tab">Amen, Amen, Amen, langh moet zijn leven duyren.</l>
+
+<pb ed="fol." n="Dijv"/>
+<stage><hi rend="i">Zy setten hem eyndelijck neder.</hi></stage>
+<l rend="speaker"><hi rend="i">Must.</hi></l>
+<l rend="; 1tab">Den gheest die my tot noch ghenoechsaem was ontvloghen</l>
+<l>is weder nu her-stelt, is weder nu ghetoghen</l>
+<l>in dese Lichaems cas, is weder nu gheplant,</l>
+<l>Nu coom ick weder tot mijn reden en verstant.</l>
+<l>Mijn vrinden ick bedanck, 'kbedanck u altesamen,</l>
+<l>Die my ghevanghen man, soo trou ten dienste quamen:</l>
+<l>En hebt my weer verlost, ghestelt dus los en vry,</l>
+<l>En weer ghemaeckt dat ick soo grooten Keyser zy.</l>
+<l>Nu soeck ick eene beed', dewijl ick voormaels loofde,</l>
+<l>Soo uyt 'tgevanckenis dat my mijn vreuchde roofde</l>
+<l>Ick eenmael wiert verlost, dat ick van stonden aen,</l>
+<l>Al die ghevanghen lien, oock los sou laten gaen.</l>
+<l>t'Constantinopolen, en tot Galaten mede,</l>
+<l>Soot u gheliefte waer, 'kwou datmen dat nu dede:</l>
+<l>Ghy sult my weer bereet sta'ich t'uwen dienste sien.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Al wat mijn Heer begeert, dat sal terstont gheschien.</l>
+</lg>
+<stage><hi rend="i">binnen.</hi></stage>
+</div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Het derde Deel.</hi></head>
+<stage><hi rend="i">Van binnen slaet de Trom.</hi><lb/><hi rend="i">Capi Aga met een blat Pampiers inde handt, staende boven het Tonneel. Al de Personagien oock Burghers ende Ionghers comen opt Tonneel.</hi><lb/><hi rend="i">Hy roept eerst.</hi></stage>
+
+<lg type="poem">
+<l rend="; 1tab">Sultan Mustapha, Keyser van Turckijen.</l>
+<stage><hi rend="i">Hy leest.</hi></stage>
+<l><hi rend="i">D</hi>En Keyser Ottoman is van het Rijc verstoten,</l>
+<l>Door dien de Tyranny zijn Princen heeft verdroten:</l>
+<l>Hy is hooveerdich, wreet, een bloet-hont, een Tyran,</l>
+<l>Veel argher alsmen wel met woorden spreken can.</l>
+<l>Een gierigaert, een dieff, die onse schatten steelet,</l>
+<l>Een valschaert, die ons goet aen d'alderbooste deelet.</l>
+<l>Oock een Jaour een hont, een boosen hont een Chris,</l>
+<l>Die door zijn tyranny ons maeckt inwendich twist.</l>
+<l>Op dat daer door te bet een middel wert ghevonden,</l>
+<l>Te leveren het Rijck der Turcken aende honden</l>
+<l>De honden Christenen, daer me hy zich vereent,</l>
+<l>En soeckt een moordenaer te zijn van dees Gemeent.</l>
+<l>Dies is hy afghestelt, Mustapha nu vercoren,</l>
+<l>Osman die heeft het Rijck door tyranny verloren.</l>
+<stage><hi rend="i">Hy roept weder.</hi></stage>
+<l rend="; 1tab">Sultan Mustapha, Keyser van Turckijen.</l>
+<stage><hi rend="i">Osman seer bedroeft, met zijn Moeder Thiossem.</hi></stage>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l>Wat heb ic daer gehoort mijn moeder?</l>
+<l rend="speaker"><hi rend="i">Thi.</hi></l>
+<l>Kint.</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l>Helaes</l>
+<l rend="speaker"><hi rend="i">Thioss.</hi></l>
+<l rend="; 1tab">Hoe is het volck ontstelt, mijn soon hoor wat gheraes</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l>Verstoten van het Rijck?</l>
+<l rend="speaker"><hi rend="i">Thioss.</hi></l>
+<l rend="; 1tab">En voor een dief geropen?</l>
+
+<pb ed="fol." n="Diijr"/>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">En voor een wreet tyran, Ach Moeder lieff wat nopen</l>
+<l rend="speaker"><hi rend="i">Thioss.</hi></l>
+<l>En voor een valschaert me?</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">En voor een hont, o Goon!</l>
+<l rend="speaker"><hi rend="i">Thioss.</hi></l>
+<l rend="; 1tab">Voor een verrader oock?</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">O Moeder siet u soon,</l>
+<l>Vant alderhoochst tot 'tlaechst soo schielick is ghevallen.</l>
+<l rend="speaker"><hi rend="i">Thioss.</hi></l>
+<l rend="; 1tab">Mijn soon 'tbedroeft my noch het aldermeest van allen</l>
+<l>Dat u een Christen hont, en een verrader heet.</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Kverclaer by Mahometh, diet alles siet en weet,</l>
+<l>Datt't onwarachtich is, van dien die my verlaten</l>
+<l>is dat verziert, om my te meerder te doe haten.</l>
+<l rend="speaker"><hi rend="i">Thioss.</hi></l>
+<l rend="; 1tab">Ha soon is nu, is nu niet mijn voorsegghingh waer?</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l>Ach ja, hoe sy'ck benout: hoe droevich en hoe naer.</l>
+<l rend="speaker"><hi rend="i">Thioss.</hi></l>
+<l rend="; 1tab">Mijn alderliefste Kint, 'kheb dickwils u ghebeden</l>
+<l>uyt Moederlicke Lieffd, met claechelicke reden:</l>
+<l>Mijn soon doch daghelicx met yuer 'tspreeck-woort leest</l>
+<l>'<hi rend="i">Dat beter is, bemint te worden, dan ghevreest.</hi></l>
+<l>Ick seyd u dat de Deucht meer blinckt dan Phebi stralen,</l>
+<l>Wiens glants selfs int ghesicht gaet vande blinde dalen</l>
+<l>soo doet de Sonne niet, de Deucht is 'thoochste goet,</l>
+<l>Der Vrienden Deucht een Prins oock meest bewaren moet:</l>
+<l>En zyner Burg'ren gunst, en zijn voorsichtich laven,</l>
+<l>Der Onderdanen haet de Princen meest doet sneven.'</l>
+<l>Hoe Dionisius den ouden heeft ghedwaelt,</l>
+<l>Heeft ons gheleerdelick Plutarchus wel verhaelt.</l>
+<l>Hy seyde tot zijn soon, dat vrees, ghewelt, trawanten</l>
+<l>Met Barbarische macht, omringht aen allen canten,</l>
+<l>Voor Princ'-en Coninghen was d'aldersterckste wacht.</l>
+<l>Als Plato hem soo sach, heeft hy daerom ghelacht.</l>
+<l>En sey hem spots-ghewijs, wat is u doch ervaren?</l>
+<l>Wat quaet hebt ghy ghedaen, dat dees u soo bewaren?</l>
+<l>Veel beter waert (meend' hy) dat yeder onderdaen</l>
+<l>u lieffghetallich waer, en dat ghy vry mocht gaen.</l>
+<l>Dat is het hoochste goet, daer om men roem mach draghen:</l>
+<l>Derhalven my veel meer het ghene gaet behaghen,</l>
+<l>Dat op den Rijcx-dach is tot Worms voortijts gheschiet</l>
+<l>Die Keyser Maxmiljaen alsdoen daer houden liet.</l>
+<l>Elck Vorst die prees zijn Landt, Fredricus Vorst van Sassen</l>
+<l>zijn mijnen van Metael. Den Paltz-graef zijn ghewassen</l>
+<l>van Granen en van Wijn. Den Beyer-vorst zijn Ste'en.</l>
+<l>Ghelijck al d'and're oock na haer vermoghen de'en.</l>
+<l>Maer Hertoch Eberhard' van Wirtenberch doorluchtich,</l>
+<l>die sal al stil en zweech, liet d'ander al luytruchtich.</l>
+<l>Den Vorst van Saxen vraecht, wel Eberhard hoe nu?</l>
+<l>Een yeder prijst sijn Lant, wy hooren niet van u.</l>
+<l>Ick seyd hy, ben de minst, en heb gheen van die saken,</l>
+<l>Maer een dingh moet ick u mijn Heeren cont-baer maken,</l>
+<l>Da'ts dat'ck gherustelick mach slapen inden schoot</l>
+<l>van al mijn Onderdaens, onder den Hemel bloot</l>
+
+<pb ed="fol." n="Diijv"/>
+<l>Soo dickwils alst my lust, een yeder heeft ghezwegen</l>
+<l>En hy heeft al den roem en loff alleen vercreghen.</l>
+<l>O soon! der Burg'ren gunst is d'alderbeste stut,</l>
+<l>Maer tyranny en doet noch deen noch dander nut.</l>
+<l>Ghy waert te straf en wreet, ghy wout u wel doen vresen</l>
+<l>Maer ghy en trachten niet om wel bemint te wesen.</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Ach my! wat sal ick doen? een yeder my verlaet,</l>
+<l>De gantsche werelt vliet, een yder van my gaet.</l>
+<l>Tschijnt niemant my besoeckt, my niemant dorf beclaghen,</l>
+<l>Of is terstont in vrees te worden doot gheslaghen.</l>
+<l>Ick die noch gist'ren was, ghelijck een eyrtschen Godt,</l>
+<l>Wort van mijn eyghen volck, ja slaven nu bespot.</l>
+<l>Ick was den schrick van al de Coninghen der werelt,</l>
+<l>Mijn slaven zijn nu meer.</l>
+<l rend="speaker"><hi rend="i">Thi.</hi></l>
+<l rend="; 1tab">Mijn soon siet hoe bepeerelt</l>
+<l>mijn wanghen zijn vant vocht.</l>
+<stage><hi rend="i">binnen wert seer geroepen.</hi></stage>
+<l>Hoor wat is dat ghetier?</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Waer loop ick Moeder noch? 'ken blijff niet langher hier.</l>
+<l rend="speaker"><hi rend="i">Thioss.</hi></l>
+<l>Maer soon waer sult gy gae<hi rend="i">n</hi>?</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l>Waer hee<hi rend="i">n</hi>? 'ke<hi rend="i">n </hi>cant niet wete<hi rend="i">n</hi></l>
+<l>Janitzer Aga heeft mijn vrintschap niet vergheten,</l>
+<l>Tis best ick by hem ga, en blijf in zijn Paleys</l>
+<l>Ksal my gaen maken toe en tijen op de reys,</l>
+<l>Met een wit Harnas sal ick my onkenbaer maken,</l>
+<l>Om soo versekerder in zijn Paleys te raken.</l>
+<l>Adieu mijn moed<hi rend="i">er.</hi></l>
+<l rend="speaker"><hi rend="i">Thi.</hi></l>
+<l>Kint.</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l>Ic ga.</l>
+<l rend="speaker"><hi rend="i">Thi.</hi></l>
+<l>Mijn soo<hi rend="i">n</hi> ee<hi rend="i">n </hi>kus.</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Een kus, en noch een kus.</l>
+<l rend="speaker"><hi rend="i">Thi.</hi></l>
+<l>Hoe beeft mijn herte dus?</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Adieu voor 'tlest adieu.</l>
+<l rend="speaker"><hi rend="i">Thi.</hi></l>
+<l>O soon 'kvrees 'tlest sal wesen.</l>
+<l>Ken sal u niet meer sien.</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Nu moeder wilt niet vresen,</l>
+<l>Ksal my gaen maken ree, 'tis tijt, mijn moeder 'kga.</l>
+<stage><hi rend="i">binnen.</hi></stage>
+<l rend="speaker"><hi rend="i">Thioss.</hi></l>
+<l rend="; 1tab">Ha ooghen! siet u Kint noch eens voor 'tleste na.</l>
+<l>Ay my! ick vrees zijn doot, en hope noch zijn leven,</l>
+<l>Tis best dat ick my tot ghebeden ga begheven.</l>
+<stage><hi rend="i">binnen.</hi></stage>
+<l rend="speaker"><hi rend="i">Celia.</hi></l>
+<l rend="; 1tab">Wie isser die de Min de Lieffde can beteugh'len?</l>
+<l>Sy maeckt den traghen ras, sy gheeft int reysen vleugh'len,</l>
+<l>Sy maeckt den plompen vroet, ghelijckt aen Cymon bleeck,</l>
+<l>Sy maeckt den zwacken sterck, sy maect den stuyrssen weeck,</l>
+<l>Silactar ha om u, om u heb ick ghetreden</l>
+<l>soo men'ghen harden trat, 'khad anders gheene reden</l>
+<l>het soete Nederlant t'verlaten teenemael,</l>
+<l>Om u, om uwe Liefd', ick hier dus verre dwael.</l>
+<l>Ist niet een groot bestaen, door woeste bracke baren</l>
+<l>te zeylen? Voor een Vrou, soo verr' van huys te varen.</l>
+<l>En nu ick in het groot Constantinop'len ben,</l>
+<l>En hier te recht den staet van mijn Silactar ken</l>
+<l>Soo vind ick dat helaes; hy Flora heeft vercoren,</l>
+<l>En aen haer is verlooft, nu is mijn reys verloren.</l>
+<l>Maer even-wel, dewijl ick sta'ich hem heb bemint,</l>
+
+<pb ed="fol." n="Diiijr"/>
+<l>Soo moet ick sien dat ick een crachtich middel vint:</l>
+<l>Om zyne Lieffd en gonst van Flora af te trecken,</l>
+<l>En die op nieus tot my, tot Celia te wecken.</l>
+<l>De Reden zijn t'vergeefs: de Kruyden hebben macht</l>
+<l>Maer zijn in dese saeck te swack en slap van cracht.</l>
+<l>Dies ick mijn toevlucht neem tot myne tooverijen:</l>
+<l>En sal Silactars hert met spokery bestrijen.</l>
+<l>Want met een woort twee, drie, ick gheesten wecken can</l>
+<l>die Flora zijn ghelijck: verselt met eenen Man</l>
+<l>in boelschap: Daer ick me Silactar doe ghelooven,</l>
+<l>Dat Flora laet haer eer van eenen and'ren rooven.</l>
+<stage><hi rend="i">Silactar.</hi></stage>
+<l>Hier comt hy wel te pas, Silactar Heer hoe ist?</l>
+<l>Siet hier u trouste Lieff.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Hoe Celia? ghy mist.</l>
+<l rend="speaker"><hi rend="i">Celi.</hi></l>
+<l rend="; 1tab">Waerin mijn Heer?</l>
+<l rend="speaker"><hi rend="i">Sil.</hi></l>
+<l rend="; 1tab">Daerin; dat gy mijn lief gaet nome<hi rend="i">n</hi></l>
+<l>Want daer toe sult ghy nu noch nimmermeer niet comen</l>
+<l>Soo ick u corteling noch meermael heb gheseyt.</l>
+<l rend="speaker"><hi rend="i">Celi.</hi></l>
+<l rend="; 1tab">Verwint mijn Lieffde Lief, dan niet u hardicheyt?</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l>'Kseg neen; Nadien ick vast aen Flora ben verbonden.</l>
+<l rend="speaker"><hi rend="i">Celi.</hi></l>
+<l rend="; 1tab">Meer trouheyt g'hebt aen my als aen u Flora vonden.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l>Meer trouheyt, hoe waerom? 'ken wacht van u gheen trou.</l>
+<l rend="speaker"><hi rend="i">Celi.</hi></l>
+<l rend="; 1tab">Ick acht my in mijn hert voor u ghetroude Vrou.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l>Mijn Vrou? wel dats wat nieus; 'khad noyt na u ghedachten.</l>
+<l rend="speaker"><hi rend="i">Celi.</hi></l>
+<l rend="; 1tab">Te minder ick ghenoot voor al mijn langh verwachten.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l>Wat trouwicheyt ist dan die ghy aen my betoont?</l>
+<l rend="speaker"><hi rend="i">Celi.</hi></l>
+<l rend="; 1tab">Dats trouheyt, datmen Lieft dien, die de Liefd niet loont.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l>Tis meer een sotterny; want 'tis vergheefsche quelling.</l>
+<l rend="speaker"><hi rend="i">Celi.</hi></l>
+<l rend="; 1tab">Salt da<hi rend="i">n</hi> niet sijn?</l>
+<l rend="speaker"><hi rend="i">Sil</hi></l>
+<l rend="; 1tab"><hi rend="i">”K</hi>seg nee<hi rend="i">n</hi>;</l>
+<l rend="speaker"><hi rend="i">Cel.</hi></l>
+<l rend="; 1tab"><hi rend="i">M</hi>ijn Heer te meer o<hi rend="i">n</hi>tstelling</l>
+<l>Ick voel helaes int hert! dat ghy sulck een bemint</l>
+<l>die gants oneerlick is.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Nu word ic schier ontsint.</l>
+<l>Oneerlic?</l>
+<l rend="speaker"><hi rend="i">Cel.</hi></l>
+<l>Ia.</l>
+<l rend="speaker"><hi rend="i">Sil.</hi></l>
+<l rend="; 1tab">Segt wie;</l>
+<l rend="speaker"><hi rend="i">Cel.</hi></l>
+<l>V Flora.</l>
+<l rend="speaker"><hi rend="i">Sil.</hi></l>
+<l>Tis geloge<hi rend="i">n</hi></l>
+<l rend="speaker"><hi rend="i">Celi.</hi></l>
+<l rend="; 1tab">Die Hoer heeft u met haer schijn-eerlickheyt bedroghen.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l>Wat segt ghy Celia?</l>
+<l rend="speaker"><hi rend="i">Cel.</hi></l>
+<l rend="; 1tab">Dats' u bedroghen heeft.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Swijcht Celia ghy zijt niet weerdich dat ghy leeft.</l>
+<l rend="speaker"><hi rend="i">Celi.</hi></l>
+<l rend="; 1tab">V Flora die boeleert.</l>
+<l rend="speaker"><hi rend="i">Sil.</hi></l>
+<l>Met wie?</l>
+<l rend="speaker"><hi rend="i">Cel.</hi></l>
+<l>Met eene<hi rend="i">n</hi> Pagie.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Met eenen Pagie? hoe? 'tbeneemt my mijn couragie.</l>
+<l rend="speaker"><hi rend="i">Celi.</hi></l>
+<l>En evenwel ist waer;</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Ick seg 'kgeloof het niet.</l>
+<l rend="speaker"><hi rend="i">Celi.</hi></l>
+<l rend="; 1tab">Kweet dat ghy't niet ghelooft, voor dat ghy't selver siet.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l>Dats waer.</l>
+<l rend="speaker"><hi rend="i">Cel.</hi></l>
+<l>Gy sullet sien.</l>
+<l rend="speaker"><hi rend="i">Sil.</hi></l>
+<l>wanneer?</l>
+<l rend="speaker"><hi rend="i">Cel.</hi></l>
+<l>Min da<hi rend="i">n</hi> ee<hi rend="i">n</hi> ure.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Ha Flora is dat waer? soo sult ghy't noch besure.</l>
+<stage><hi rend="i">t'samen binnen.</hi><lb/><hi rend="i">Osman verandert, met een wit Harnasch aen. Ianitzer aende deur.</hi></stage>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l>Hier be<hi rend="i">n</hi> ic by 'tPalleys van Aga.</l>
+<stage><hi rend="i">(hy clopt.)</hi></stage>
+<l rend="speaker"><hi rend="i">Ian.</hi></l>
+<l rend="; 1tab">Wie is daer?</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Doet op, hier isser een oft Osman selver waer.</l>
+<l rend="speaker"><hi rend="i">Ianit.</hi></l>
+<l rend="; 1tab">Hoe Osman Keyser Heer, comt ghy alleen dus dwalen</l>
+<l>in onbekend gestalt?</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Ken hoeft u niet t'verhalen,</l>
+<l>Janitzer Aga vrint, de vrees deed my bestaen,</l>
+
+<pb ed="fol." n="Diiijv"/>
+<l>Dat ick om sekerheyt in u Paleys wou gaen.</l>
+<l rend="speaker"><hi rend="i">Ianit.</hi></l>
+<l rend="; 1tab">Ghy zijt my wilcom Heer, hier's Vssin Bassa mede</l>
+<l>met and're Princen noch, 'kversoeck op u een bede,</l>
+<l>Dat's dat ghy Vssin maeckt tot uwen groot Vezier:</l>
+<l>Tis d'and're aenghenaem, al die haer vinden hier.</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Kbegeert.</l>
+<stage><hi rend="i">binnen wert groot gerucht gemaect.</hi></stage>
+<l>Hoor wat gerucht;</l>
+<l rend="speaker"><hi rend="i">Ianit.</hi></l>
+<l>Tcomt herwaert Heer gaet binne<hi rend="i">n</hi>.</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Ach Aga! siet of ghy haer vrintschap cont ghewinnen</l>
+<l>met veel beloften groot: spreeckt Vssin Bassa Heer,</l>
+<l>En laet die met u gaen, soo achtens' u te meer.</l>
+<stage><hi rend="i">t'samen binnen.</hi><lb/><hi rend="i">Zy bestormen t'huys van Ianitzer Aga, brengen met een furie leeren aen, ende beclimmen dat. Van binnen wert eenen hoorn geblasen, en ee</hi>n<hi rend="i"> witte vrede-vae</hi>n<hi rend="i"> uyt gesteke</hi>n<hi rend="i">.</hi><lb/><hi rend="i">Ianitzer Aga comt uyt.</hi></stage>
+<l rend="; 1tab">Mijn vrinden 'kbid hout op, hout op, 'twort u ghebeden,</l>
+<l>Ick bid maeckt gheen gheraes; verstaet doch eerst mijn reden.</l>
+<l>Ick bid en weder bid dat gh u een weynich stilt,</l>
+<l>Dat ghy mijn woorden doch met rust aenhooren wilt.</l>
+<l>Heeft Osman u misdaen, hy wil seer geerne boeten.</l>
+<l>Een Prins zich stelt gheknielt voor d'Onderdanen voeten</l>
+<l>En wort ghy niet beweecht? toont noch een weynich eer.</l>
+<l>Tis immers uwen Vorst, u Keyser, en u Heer.</l>
+<l>V wettelicken Prins, die ghy moet eer bewijsen</l>
+<l>en goe ghehoorsaemheyt, of een'ghe twisten rijsen</l>
+<l>door haet of misverstant, soo zijt ghy niet ontlast</l>
+<l>van u ghedanen eet, want die gaet immer vast.</l>
+<l rend="speaker"><hi rend="i">Dah.</hi></l>
+<l rend="; 1tab">Tis waer Janitzer, maer een hooft moet oock bedencken,</l>
+<l>Op dat hy wel regeert, om niet sijn staet te krencken.</l>
+<l>'Drie saken, als voor eerst, dat Menschen hy regeert.</l>
+<l>Dat hy oock soo regeert ghelijck de Wet begeert.</l>
+<l>Ten derden, dat hy niet altijts en sal regeren.'</l>
+<l>Soo doende sou hy 'tboos en quaet-doen van hem weren.</l>
+<l>Maer Osman gheen van al, int minste heeft ghedaen.</l>
+<l rend="speaker"><hi rend="i">Boust.</hi></l>
+<l rend="; 1tab">Ianitzer, 'sKeysers Ampt moet hier in meest bestaen,</l>
+<l>Dat hy een yder mensch sachtsinnichlick moet horen.</l>
+<l>Tweedracht en twisten stilt, en haet en nijt doet smoren.</l>
+<l>Gheen Mensch verongelijckt met woorden of met daet.</l>
+<l>De Deuchde wel beloont, en straffe doet vant Quaet.</l>
+<l>Hy dan een Vader van het Vaderlant mach heten.</l>
+<l>Maer ghy Janitzer moet dit daer beneffens weten,</l>
+<l>Wat saken dat het zijn die d'Vorsten maken boos,</l>
+<l>Die d'alderbeste doch behoorden t'sijn altoos.</l>
+<l>'d'Alsulcke seven zijn. Te dapper onghebonden.</l>
+<l>Haer goed'ren ouervloet. Haer Vrinden boos bevonden.</l>
+<l>Trawanten schelms van aert. Haer Kamerlinghs besmet</l>
+<l>met groote giericheyt. Het seste hier op let,</l>
+
+<pb ed="fol." n="Eir"/>
+<l>Haer Hovelinghen sot, of boos in woort en wercken,</l>
+<l>Maer 'tmeeste dat sy niet gaen op 'sLants saken mercken.</l>
+<l>Zijn daer onwetend af, 'theeft Osman oock verleyt:'</l>
+<l>Dies Diocletiaen den Keyser treflick seyt,</l>
+<l>'Dat gheen dinck zwaerder is, dan wel een Lant te stieren.'</l>
+<l>Somwijlen vier of vijff, heel boos vol qua manieren</l>
+<l>slaen raet, hoe datmen best bedriecht den Keyser vroom:</l>
+<l>Sy segghen watmen doen en laten moet, gheen schroom</l>
+<l>voor yemant hebben zy. Den Keyser hoort haer spreken,</l>
+<l>Van als en is hem selfs de waerheyt niet ghebleken.</l>
+<l>Hy leeft na haren raet, dies hy tot Rechters maeckt</l>
+<l>die niet bequaem en zijn, maer weerdich zijn ghewraeckt:</l>
+<l>En uyt Regeering set, die hy behoort te houwen,</l>
+<l>Het welck in tijt en wijl hem dapper gaet berouwen.</l>
+<l>So ist met Osman ooc. </l>
+<l rend="speaker"><hi rend="i">Dah.</hi></l>
+<l rend="; 1tab">Voort segt den booswicht aen,</l>
+<l>Dat hy nu dese reys ons hant niet sal ontgaen.</l>
+<l>En packt u flocx van hier, of 'ksal u moris leeren.</l>
+<stage><hi rend="i">'tVolck maect gerucht. Ianitzer leyt de handen t'samen.</hi></stage>
+<l rend="speaker"><hi rend="i">Ianit.</hi></l>
+<l rend="; 1tab">Kbid stilt u, ghy sout ons hier lichtlick ouer-heeren.</l>
+<l>Hoort noch een woort, drie, vier, den Keyser sent ons hier:</l>
+<l>Dat ghy 'tgunt ghy begeert, sout seggen met manier.</l>
+<l>Hy sal goet-willich zijn om u te laten volghen</l>
+<l>al wat g'op hem versoeckt, 'kbid weest dus niet verbolghen,</l>
+<l>Elck tsestich gouw' Zecquijns ghy tot vereering crijcht,</l>
+<l>Indien ghy wel te vreen, van dees oproering swijcht.</l>
+<l>Twee hondert gulden ist, u solt hy sal verhoogen</l>
+<l>twee Asp'ren ellick 'sdaechs, sout ghy meer wenschen moghen</l>
+<l>Dies bid ic weest gestilt. </l>
+<l rend="speaker"><hi rend="i">Boust.</hi></l>
+<l>Hoe spreect gy meerder? segt:</l>
+<l>Wat meent ghy dat met gelt ter neder wort ghelegt</l>
+<l>ons rechte gramschap. Neen, ick zweyr ghy sult nu voelen</l>
+<l>Waer mede dat ons toorn alleenlick is te koelen.</l>
+<stage><hi rend="i">Zy slaen Ianitzer doot.</hi></stage>
+<l rend="speaker"><hi rend="i">Boust.</hi></l>
+<l rend="; 1tab">Voort, stormen wy terstont, en krijgen den Soudaen.</l>
+<l rend="speaker"><hi rend="i">Dahout.</hi></l>
+<l rend="; 1tab">Ick bid Boustangi laet ons eerstlick ons beraen</l>
+<l>met Heer Silactar.</l>
+<l rend="speaker"><hi rend="i">Boust.</hi></l>
+<l>Wel, wy sullen dan vertoeven</l>
+<l>En na ee<hi rend="i">n</hi> halve uyr, aent Hof ons trachte<hi rend="i">n </hi>proeve<hi rend="i">n</hi>.</l>
+<stage><hi rend="i">altsame</hi>n<hi rend="i"> binne</hi>n<hi rend="i">.</hi><lb/><hi rend="i">Celia met een Boeck, Keers, Bel, ende wit Roeyken.</hi></stage>
+<l rend="; 1tab">Silactar mits u hert is harder als de steenen,</l>
+<l>En dat het niet vermurwt doort water van mijn weenen</l>
+<l>Daer nochtans 'swaters drop, den harden steen versacht</l>
+<l>Dat oock u herte niet beweecht door myne clacht.</l>
+<l>Soo soeck ick eenen wech vergramt vol Jalousijen:</l>
+<l>Om dy te temmen noch met spoock en tooverijen.</l>
+<l>Een Keers van Robbe-vet, een Schrift van Mollen-bloet,</l>
+<l>Daer yder Tooveres haer consten sta'ich me doet.</l>
+<l>Mijn hayr besprengt met 'tvocht van Stygis zwarte stromen</l>
+<l>Een Bel van droef gheclanck die gheesten op doet comen</l>
+
+<pb ed="fol." n="Eiv"/>
+<l>stracx uyt de donck're hel, die heb ick alles hier.</l>
+<l>Nu kniel ick in het Oost, na Tooverijs manier,</l>
+<l>En clincke driemael stijf, en morrel in my selven,</l>
+<l>Daer me ickt alles weck, diep in des hels ghewelven.</l>
+<stage><hi rend="i">Zy knielt int Oosten, ende schelt driemael.</hi></stage>
+<l>Mamone Zuriel, Lybico Draguimel,</l>
+<l>Kbezweyr u, sent terstont Nicon, of Phasarel.</l>
+<l>Voort, voort, ick seg comt voort.</l>
+<stage><hi rend="i">Van binnen hoortmen mommelingh. Daer verschijnt eenen in Duyvels ghedaente.</hi></stage>
+<l rend="speaker"><hi rend="i">Phafa.</hi></l>
+<l rend="; 1tab">Beeft, wijckt, en scheurt, 'tmoet bersten</l>
+<l>al wat op d'eyrde is, als Phafarel maer knersten:</l>
+<l>Soo ick mijn macht ghebruyck, soo ruck ickt al van een,</l>
+<l>Kversmijt een heele Stadt al waert maer eenen steen.</l>
+<l rend="speaker"><hi rend="i">Celi.</hi></l>
+<l rend="; 1tab">Stil Phafarel, stil, stil, ghy zijt alhier verschenen</l>
+<l>tot mynen dienst, daerom soo gaet nu dad'lick henen:</l>
+<l>En doet my een vertoon, dat Flora inder daet,</l>
+<l>Haer van een Man soot schijnt oneerlick cussen laet.</l>
+<l>Bestelt my dat terstont.</l>
+<l rend="speaker"><hi rend="i">Phafa.</hi></l>
+<l rend="; 1tab">Tsal Celia gheschieden.</l>
+<stage><hi rend="i">Phaf. binnen.</hi></stage>
+<l rend="speaker"><hi rend="i">Celi.</hi></l>
+<l rend="; 1tab">Nu sal Silactar niet mijn' toover-const ontvlieden.</l>
+<l>Kbeguychel hem 'tghesicht, dat hy voorwaer ghelooft,</l>
+<l>Dat Floras eere, van een ander wert gerooft.</l>
+<stage><hi rend="i">Cel. binnen.</hi></stage>
+<stage><hi rend="i">Silactar uyt.</hi></stage>
+<l rend="; 1tab">Mijn Flora die boeleert; hoe can ick dat ghelooven</l>
+<l>Sou sy mijn waerde Lieff my mijn gheluck ontrooven?</l>
+<l>Mijn Flora is ontrou; ha Celia ghy liecht,</l>
+<l>En door u Jalousy my valschelick bedriecht.</l>
+<l>Mijn Flora mijn verlaet; eer dat dat waer can wesen,</l>
+<l>Veel eer sal aende Locht dees Eyrde zijn gheresen</l>
+<l>het welck onmog'lick is. Onmog'lick dat mijn Vrou</l>
+<l>een ander Boel verkiest: vervalscht en breeckt haer trou.</l>
+<l>Onmog'lick dat sy sou een ander Lieff beminnen.</l>
+<l>Onmog'lick dat van my sy trecken sou haer zinnen</l>
+<l>Maer hoe Silactar ach! niet lichter men oock vint</l>
+<l>dan Vrouwen sinlickheyt, s'is lichter als de wint.</l>
+<l>Veel lichter dan een pluym. Want al haer smeecken vleyen,</l>
+<l>Haer Lieff-lock-woorden soet, die 'tMannen hert verleyen.</l>
+<l>Haer suchten tranen, haer beloften, eeden zwaer</l>
+<l>onbreeck'lick inden schijn, vervlieghen allegaer</l>
+<l>g'lijck roock en lichten damp: als door haer geyle oghen</l>
+<l>Een ander Lieffd is in haer wanckel hert ghetoghen.</l>
+<l>Maer Flora is te trou, 'kghelooff het gantslick niet,</l>
+<l>Ten sy dit mijn ghesicht het claerlick seluer siet.</l>
+<stage><hi rend="i">Celia uyt.</hi></stage>
+<l>Wie daer? 'tis Celia.</l>
+<l rend="speaker"><hi rend="i">Cel.</hi></l>
+<l rend="; 1tab">Mijn Heer nu sult g'aenschouwen,</l>
+<l>Hoe dat u Flora Lieff is 'tpuyck van d'eerbaer Vrouwen</l>
+<l>Kmeen vande Hoeren, Heer: maer 'kbid u zedich dracht,</l>
+<l>Op dat u toornicheyt ghy namaels niet beclaecht.</l>
+
+<pb ed="fol." n="Eijr"/>
+<l>Blijft staen verroert u niet, wilt niet een woortgen spreken,</l>
+<l>Ghy sult u gramschap Heer, hier namaels noch wel wreken.</l>
+<l>Kwil dat ghy't mijn belooft, eer ickt u late sien.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Al 'tghene ghy begheert sal naer u wil gheschien.</l>
+<stage><hi rend="i">Zy trect de Gardijn open, Flora leyt met een Mans-persoon.</hi><lb/><hi rend="i">Silactar en Celia blyve</hi>n<hi rend="i"> stom stae</hi>n<hi rend="i">, Sy doet de Gardijne</hi>n<hi rend="i"> toe.</hi></stage>
+<l rend="speaker"><hi rend="i">Celi.</hi></l>
+<l rend="; 1tab">Wat segt ghy nu mijn Heer?</l>
+<l rend="speaker"><hi rend="i">Sil.</hi></l>
+<l rend="; 1tab">Ha Celia 'tis waerheyt</l>
+<l>Wel Flora, Flora ha, wel Flora, ach! wat zwaerheyt</l>
+<l>is dit voor my te sien. Ach Flora! wat ellent</l>
+<l>hangt ons noch ouer 'thooft: daer van ghy d'oorsaeck bent.</l>
+<stage><hi rend="i">beyde binnen.</hi><lb/><hi rend="i">Flora uyt.</hi></stage>
+<l rend="; 3tab">G'lijck 'tblosend Morghen-root</l>
+<l rend="; 2tab">verschijnt uyt Thitons schoot,</l>
+<l rend="; 2tab">Verheughend Vee en Menschen,</l>
+<l rend="; 2tab">Die stadich daer na wenschen.</l>
+<l rend="; 3tab">Soo doet Silactar my,</l>
+<l rend="; 2tab">Mijn Morghen-root is hy:</l>
+<l rend="; 2tab">Mijn Sonne, en mijn Leven</l>
+<l rend="; 2tab">Die 'tLeven my moet gheven.</l>
+<l rend="; 3tab">Gheen ding my meer verheucht,</l>
+<l rend="; 2tab">Niet dat mijn hert gheeft vreucht</l>
+<l rend="; 2tab">Dan mijn Silactars woorden,</l>
+<l rend="; 2tab">Wiens terch-lust my becoorden.</l>
+<l rend="; 3tab">Mijn Ooch dat siet op hem,</l>
+<l rend="; 2tab">Mijn Oor hoort na zijn stem,</l>
+<l rend="; 2tab">Mijn Mont tot Lieffdens teken</l>
+<l rend="; 2tab">Sta'ich va<hi rend="i">n</hi> zijn Liefd moet spreke<hi rend="i">n</hi>.</l>
+<l rend="; 3tab">Mijn Lipkens lust niet blust,</l>
+<l rend="; 2tab">Van hem te zijn ghekust:</l>
+<l rend="; 2tab">Mijn Hayr can niet vervelen</l>
+<l rend="; 2tab">zijn hand'len en zijn strelen.</l>
+<l rend="; 3tab">Mijn suyverlijcke Borst,</l>
+<l rend="; 2tab">Ach! dat naer wensch sy dorst</l>
+<l rend="; 2tab">Hoe sous' haer lusten coelen,</l>
+<l rend="; 2tab">Met zyne Hant te voelen.</l>
+<l rend="; 3tab">Tgunt daer hy voorts om vleyt</l>
+<l rend="; 2tab">Sou hem niet sijn ontseyt:</l>
+<l rend="; 2tab">Indien niet 'tschaem-root teken</l>
+<l rend="; 2tab">Twelck doet een blos uyt-breken:</l>
+<l rend="; 3tab">Op myne bleecke Wangh</l>
+<l rend="; 2tab">My hieldet in bedwangh:</l>
+<l rend="; 2tab">Mijn Knyen Lieffd oock tuyghen,</l>
+<l rend="; 2tab">Met haer eerbiedich buyghen.</l>
+<l rend="; 3tab">Mijn Voeten spoen ter vaert,</l>
+<l rend="; 2tab">Zich na Silactar waert:</l>
+<l rend="; 2tab">Mijn Ziel, mijn Hert, en Sinnen,</l>
+<l rend="; 2tab">Alt'saem Silactar minnen.</l>
+
+<pb ed="fol." n="Eijv"/>
+<l>O wonderlicke Lieffd', bewegingh boven al.</l>
+<l>Wie isser die u kracht bequaem verhalen sal?</l>
+<l>Wie can verhalen doch u duchten, dencken, hopen?</l>
+<l>V suchten vleyen me, u kermen en u nopen?</l>
+<l>Tis al in u bedeckt, al wat ghy slechts begeert,</l>
+<l>Met yuer zich terstont den Minnaer daer toe keert.</l>
+<l>Sta'ich denckt hy om zijn Lieff, in al zijn doen en laten,</l>
+<l>In sitten, gaen, of staen, in swyghen, of in praten.</l>
+<l>In somma al in al, want alles wat ick doe,</l>
+<l>Dat eyghen ick gheheel mijn Lieff Silactar toe.</l>
+<l rend="; 3tab">Als blosich comt Auroor'</l>
+<l rend="; 2tab">Aent Blauwe-rond hervoor</l>
+<l rend="; 2tab">En Phebi gulde stralen</l>
+<l rend="; 2tab">ons wecken altemalen.</l>
+<l rend="; 3tab">En ick treed van mijn Coets,</l>
+<l rend="; 2tab">Soo maeckt de Lieffd my broets,</l>
+<l rend="; 2tab">Soo ga ick ouer-legghen</l>
+<l rend="; 2tab">mijn Lieff Silactars seggen.</l>
+<l rend="; 3tab">Als 'tmiddach-mael men doet,</l>
+<l rend="; 2tab">Ick proef den wijn seer soet,</l>
+<l rend="; 2tab">My dunckt ick uyt de schalen</l>
+<l rend="; 2tab">Het vocht zijns mont ga halen.</l>
+<l rend="; 3tab">Als savonts daelt de Son</l>
+<l rend="; 2tab">Noyt Erebus en con</l>
+<l rend="; 2tab">mijn ooghen soo verblinden,</l>
+<l rend="; 2tab">Of ic en con hem vinden.</l>
+<l rend="; 3tab">Heel sichtbaer int ghedacht,</l>
+<l rend="; 2tab">En inden zwarten nacht,</l>
+<l rend="; 2tab">Wanneer ick meen te rusten,</l>
+<l rend="; 2tab">Dan wecken my mijn lusten.</l>
+<l rend="; 3tab">Als ick maer 'tkussen voel</l>
+<l rend="; 2tab">My dunckt den brant ick coel</l>
+<l rend="; 2tab">Ick meen in mijn ghepeysen,</l>
+<l rend="; 2tab">dat ick seer menich reysen</l>
+<l rend="; 2tab">met mijn Silactar boert:</l>
+<l rend="; 2tab">Tghedacht my laes! vervoert.</l>
+<stage><hi rend="i">Silactar uyt</hi></stage>
+<l>Wat hoor ick daer geen Mensch? 'tis mijn Silactar  Heere,</l>
+<l>Ja Heere van mijn hert, en Heere van mijn eere.</l>
+<l>Hoe dus bedroeft?</l>
+<l rend="speaker"><hi rend="i">Sil.</hi></l>
+<l>Ha Goon!</l>
+<l rend="speaker"><hi rend="i">Flo.</hi></l>
+<l>Mijn Heer wel hoe nu?</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Wat vraecht ghy?</l>
+<l rend="speaker"><hi rend="i">Flo.</hi></l>
+<l rend="; 1tab">Kvraech hoe dus?</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l>Door u.</l>
+<l rend="speaker"><hi rend="i">Flo.</hi></l>
+<l rend="; 1tab">Door my?</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Door u.</l>
+<l rend="speaker"><hi rend="i">Flo.</hi></l>
+<l rend="; 1tab">Mijn Heer door my? helaes! wat heb ick dan bedreven?</l>
+<l>Kheb u gheen oorsaeck Heer, mijn leven doch ghegheven.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Gee<hi rend="i">n</hi> oorsaec?</l>
+<l rend="speaker"><hi rend="i">Flo.</hi></l>
+<l>Nee<hi rend="i">n</hi> mijn Heer.</l>
+<l rend="speaker"><hi rend="i">Sil.</hi></l>
+<l>Gee<hi rend="i">n</hi> oorsaec valsche vrou?</l>
+<l rend="speaker"><hi rend="i">Flo.</hi></l>
+<l>Hoe valsche Vrou? mijn Heer ghy doet te cort mijn trou.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">V trou?</l>
+<l rend="speaker"><hi rend="i">Flo.</hi></l>
+<l>Mijn eere me.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l>V eer is langh vervlogen.</l>
+<l rend="speaker"><hi rend="i">Flo.</hi></l>
+<l>Mijn eer die heb ick noch;</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l>Swijcht. Flora 'tis gelogen.</l>
+
+<pb ed="fol." n="Eiijr"/>
+<l rend="speaker"><hi rend="i">Flora</hi></l>
+<l rend="; 1tab">Ach my! wats dat gheseyt? O dootsteeck aen mijn hert</l>
+<l>Wat doen dees woorden my bedroeftheyt pijn en smert.</l>
+<l>Dat sulcx een ander sey, 'twaer qualick om verdragen</l>
+<l>Maer ghy mijn Heer en Lieff, dat doet my meerder claghen.</l>
+<l>Wie heeft u opgeruyt?</l>
+<l rend="speaker"><hi rend="i">Sil.</hi></l>
+<l rend="; 1tab">Wie? niemant dan u doen.</l>
+<l rend="speaker"><hi rend="i">Flora</hi></l>
+<l rend="; 1tab">Mijn doen is eerlick Heer, al hebt ghy quaet vermoen.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Ia eerlick als een Hoer.</l>
+<l rend="speaker"><hi rend="i">Flo.</hi></l>
+<l rend="; 1tab">Ick by een Hoer geleken?</l>
+<l>Kbid met gheboghen knyen wie soo van my gaet spreken.</l>
+<l>Kseg datt't een Eer-dieff is, en soo ickt niet betoon,</l>
+<l>Wilt met u eyghen hant mijn Heer my dad'lick doon.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Swijcht Flora, wilt soo hooch van u schijn-eer niet romen.</l>
+<l>Ick weet wel beter.</l>
+<l rend="speaker"><hi rend="i">Flo.</hi></l>
+<l rend="; 1tab">Heer, 'kseg daer sal niemant comen</l>
+<l>die sulcx my ouer-tuycht, of yemant u bedriecht.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l>Bedriecht?</l>
+<l rend="speaker"><hi rend="i">Flo.</hi></l>
+<l>Bedriecht.</l>
+<l rend="speaker"><hi rend="i">Sil.</hi></l>
+<l>Bedriecht? het eyge<hi rend="i">n</hi> sie<hi rend="i">n</hi> n<hi rend="i">iet </hi>liecht</l>
+<l rend="speaker"><hi rend="i">Flora</hi></l>
+<l rend="; 1tab">Het eygen sien?</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Het sien, ick seg met dees mijn ogen</l>
+<l>heb ick het selfs ghesien, en ben ick noch bedroghen?</l>
+<l rend="speaker"><hi rend="i">Flora</hi></l>
+<l rend="; 1tab">Wat saecht ghy Heer, ic bid dat gy't my segt.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l>Ic sach</l>
+<l>dat Flora mackelick by eenen Pagie lach.</l>
+<l>Seer lieflick dicht by een, en wat sy vorder deden</l>
+<l>dat hebt gy wel geproeft.</l>
+<l rend="speaker"><hi rend="i">Flo.</hi></l>
+<l>Maer Heer aenhoort mijn rede<hi rend="i">n</hi>.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Swijcht Flora, swijcht van my, na dese tijt niet meer.</l>
+<l>Kvervloeck u Liefde nu, blijft eerlic by u Eer.</l>
+<stage><hi rend="i">Sil. binnen.</hi></stage>
+<l rend="speaker"><hi rend="i">Flora</hi></l>
+<l rend="; 1tab">Ay vals verraders hert, die my dit hebt besteken.</l>
+<l>Bedriechelicke schelm die dus u leet gaet wreken</l>
+<l>op my een arme maecht, die duysent dooden lijdt,</l>
+<l>Meyneedighe rabout, 'ken weet niet wie ghy zijt,</l>
+<l>Off Goddeloose vrou, die my mijn eer gaet schenden,</l>
+<l>De goedertieren Goon op u noch sullen senden</l>
+<l>de straf van dese daet. Silactar wat ghelooft</l>
+<l>ghy van u trouste Lieff? zijt ghy van re'en berooft?</l>
+<l>Zijt ghy betoovert laes! en sinneloos daer neven?</l>
+<l>Wat Tooveres heeft u dees dulheyt inghedreven?</l>
+<l>V Flora die u Lieff, meer dan haer Ziele mint,</l>
+<l>Die sonder u ghesicht gheen rust noch vreuchde vint:</l>
+<l>Sou die boeleren? fy, waer me? met eenen Pagie,</l>
+<l>Oneerelicke Tucht een treflijcke Boelagie.</l>
+<l>Ick die mijn eyghen hert niet meer bemin als hem</l>
+<l>hoor dat ick noch boeleer, ha! droeffelijcke stem.</l>
+<l>Nu wel 'kmoet by my selfs herhalen dit vermanen,</l>
+<l>Verdwijnen in mijn rou, versmelten in mijn tranen.</l>
+<stage><hi rend="i">binnen.</hi><lb/><hi rend="i">Van binnen is groot geraes. Boustangj, Dahout. en Capi hebbende Sultan Osman ghevanghen.</hi></stage>
+<l rend="speaker"><hi rend="i">Boust.</hi></l>
+<l rend="; 1tab">Bewaert den Osman wel. Vrint Dahout 'kbid gaet heen</l>
+<l>en vraecht Mustapha wat het best waer dat wy deen</l>
+<l>met desen zijnen Neeff, wy sullen u verwachten,</l>
+<l rend="speaker"><hi rend="i">Dahout</hi></l>
+<l rend="; 1tab">Ick ga, en sal in haest nae 'twedercomen trachten.</l>
+<stage><hi rend="i">Dahout aen d'eene zyde sy-lieden aen d'nder zyde binnen.</hi></stage>
+
+<pb ed="fol." n="Eiijv"/>
+<stage><hi rend="i">Mustapha alleen in zijn Kamer wandelende.</hi></stage>
+<l rend="; 1tab">Veranderlicke tijt, hoe gatet met den Mensch;</l>
+<l>D'een reys bedroeft ter doot, en d'ander reys na wensch.</l>
+<l>Hoe sollebolt 'tgheluck, hoe wanckel zijn de staten;</l>
+<l>Somwijls opt hoochste top, en dan weer heel verlaten.</l>
+<l>Die d'een tijt Coninck is, is d'ander tijt een slaeff,</l>
+<l>D'een bralt met glorijs roem, en d'ander daelt ten graeff.</l>
+<l>Ick hebt van beyts besocht. Den Throon heb ic betreden</l>
+<l>van 'tgroote Turcxe Rijck, sesthallef-jaer gheleden.</l>
+<l>Vijff Jaren slijt ick weer in vanghenis en quel,</l>
+<l>In droeve duysternis, ghelijck de nare Hel.</l>
+<l>Mustapha siet nu aen, siet aen des werelts kuyren,</l>
+<l>Verheft u niet te seer, 'tsal mog'lick niet lang duyren.</l>
+<l>Noch gist'ren sat ick vast, nu ben ick los en vry,</l>
+<l>Ick beefde voor de minst, nu vreest de meeste my.</l>
+<l>Noch gist'ren ging ick droeff in donck're holen dwalen</l>
+<l>Nu heb ick mijn logijs in schoon vergulde salen.</l>
+<l>Noch gist'ren vreesden ick all' uren duysent doon,</l>
+<l>Nu heb ick weer 'tbevel, en draech de Keysers Croon.</l>
+<l>Noch gist'ren seg ick, most ick bidden om mijn leven,</l>
+<l>Nu moet den grootsten Prins der werelt voor my beven.</l>
+<l>Maer hoe, ist droom, of waer? ist goochel-spel of niet?</l>
+<l>Ken weet niet of ickt droom, of dat het my gheschiet.</l>
+<l>Mijn sinnen blijven los, 'ksy sta'ick vol schroom en vreesen,</l>
+<l>Ken weet nau waer ick zy, 'ken weet nau watt't mach wesen.</l>
+<l>Altijt ick dwalen sie de Geesten om mijn lijff,</l>
+<l>Wat staet daer aende want, voor vremt uytheemsch geschrijff?</l>
+<stage><hi rend="i">Hy leest.</hi></stage>
+<l>Minos en Rhadamant, Asmodell' en Dymarche,</l>
+<l>Acteius, Ormenis, volvoert voor my n farche,</l>
+<l>Ghy Melobrancho die de droeve zielen brant,</l>
+<l>Ghy wreede furien, Bellon' en Rubicant.</l>
+<l>Ghy Dira helsch ghespuys, doet noch Mustapha smaken</l>
+<l>'t afgrijsselicke quaet daer in hy sal gheraken,</l>
+<l>Ay my dits toovery, siet daer in desen hoeck,</l>
+<l>Staen oock Caracteren uyt eenich toover-boeck.</l>
+<l>Daer hoor ick vremt gesnor, wat sweeft daer voor mijn ogen?</l>
+<l>Wast yemant? of heeft my mijn fantasy bedrogen?</l>
+<stage><hi rend="i">Dahout uyt</hi></stage>
+<l>Al weer een vremt ghedrocht, ach my! hoe beeft mijn hert.</l>
+<l rend="speaker"><hi rend="i">Dah.</hi></l>
+<l rend="; 1tab">Heer Keyser weest gegroet.</l>
+<l rend="speaker"><hi rend="i">Must.</hi></l>
+<l>Blijf van my sta van vert,</l>
+<l>Ick seg ghy van my staet.</l>
+<l rend="speaker"><hi rend="i">Dah.</hi></l>
+<l>Heer Keyser wilt bedaren,</l>
+<l>Kben Dahout Bassa Heer, en coom u openbaren,</l>
+<l>Dat Sultan Osman is ghevanghen rechtevoort,</l>
+<l>Men wacht niet anders dan alleenlick op u woort.</l>
+<l>Wat u beliefte sy, of ghy wilt Heer ghehenghen.</l>
+<l>Dat hy u Majesteyt men hem terstont sal brenghen,</l>
+<l>Te kussen u die hant, of watmen hem sal doen.</l>
+
+<pb ed="fol." n="Eiiijr"/>
+<l rend="speaker"><hi rend="i">Must.</hi></l>
+<l rend="; 1tab">Mijn Neeff ghevanghen ach! gaet henen wilt u spoen</l>
+<l>en brengt hem waer ghy wilt: Ken can hem sien noch spreken,</l>
+<l>Van droefheyt en van ancxt dunct my het hert te breken.</l>
+<l rend="speaker"><hi rend="i">Dah.</hi></l>
+<l rend="; 1tab">Kbid Heer weest wel gemoet.</l>
+<l rend="speaker"><hi rend="i">Must.</hi></l>
+<l>Mijn neef gevangen ach!</l>
+<l>Vant briesschende ghewoel ick hem niet vrijen mach.</l>
+<l>Al ist soo dat hy my ghevangen heeft doen setten.</l>
+<l>Nochtans soo sou ick geyrn zijn droeve doot beletten.</l>
+<l>Waer is mijn wetenschap nu my wort afghevraecht</l>
+<l>off ick hem spreken wil? Och 'twort van my beclaecht.</l>
+<l>Soo hy in mijn bescherm en schutting waer ghenomen,</l>
+<l>Soo sou hy voor gewis den wreeden doot ontcomen.</l>
+<l>Bedroefde Turcxe Rijck, dat d'een zijn ongheval,</l>
+<l>Den and'ren wederom aent heerschen stellen sal.</l>
+<l>Nochtans ist best voor ons, datm' hem doet daed'lick sterven,</l>
+<l>Of anders souden wy geen rust noch vreed' verwerven.</l>
+<l>Wel aen gaet heen terstont, ick gheeff u macht en last,</l>
+<l>Als datmen Osman sal verworghen met een bast.</l>
+<l>Volbrengt 'tgeen ick beveel, en laet het dad'lick schieden</l>
+<l>Ick segt noch andermael, laet u niet meer ghebieden.</l>
+<l rend="speaker"><hi rend="i">Dah.</hi></l>
+<l rend="; 1tab">Met u v<hi rend="i">er</hi>lof, ic ga.</l>
+<stage><hi rend="i">Dah. binne</hi>n<hi rend="i">.</hi></stage>
+<l rend="speaker"><hi rend="i">Must.</hi></l>
+<l rend="; 1tab">Mustapha wel hoe nu?</l>
+<l>Wat ist dat ghy beveelt? Wat last comt daer van u?</l>
+<l>Dat Ottoman u Neeff men met een koord' sal worghen</l>
+<l>En gheeft ghy hem gheen tijt voor zijn ghebet tot morghen?</l>
+<l>Wat tyranny is dat? een booswicht, moorder, dieff</l>
+<l>Men waerschout van te voor. Is u soo seer niet lieff</l>
+<l>het heyl van Osmans Ziel? En zijt ghy niet gheneghen,</l>
+<l>En can u Osmans clacht tot gheen ghenaed beweghen.</l>
+<l>Soudaen my dunct ghy raest. Denct dat u eer en staet</l>
+<l>in groot perijckel is, soo ghy hem 'tleven laet.</l>
+<l>Tis beter dat ghy hem u weer-party doet sterven,</l>
+<l>Dan dat ghy sout u selffs, en 'theele lant bederven.</l>
+<stage><hi rend="i">binnen.</hi><lb/><hi rend="i">Boustangj, Capi en dandre, ooc drie als beuls toegemaect hebbende Osman tussen haer, deen draghet doorsneden hooft vande Vezier op ee</hi>n<hi rend="i"> spies, dander ee</hi>n<hi rend="i"> arm. Osman met een wit Harnas aen, sonder Turbant, met een wit Mutsken op.</hi></stage>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Ach Hemel! cont ghy sien het leet dat Osman schiet;</l>
+<l>Ha blau lazuyrich velt, waerom en weent ghy niet?</l>
+<l>Ach aller Goden Godt! en sal u niet erbermen</l>
+<l>d'ellendich Ottomans versuchten, schreyen kermen?</l>
+<l rend="speaker"><hi rend="i">Boust.</hi></l>
+<l rend="; 1tab">Ho, ho, ghy schelm swijcht stil, datm' u niet meer en hoort,</l>
+<l>Ghy hebbet wel verdient, siet hier, dat met dees koort</l>
+<l>men dad'lick u verworcht, ghelijck een dieff der dieven</l>
+<l>die onse schatten steelt, siet hier 'tsal u ghelieven</l>
+<l>dat ghy het hooft terstont in dese koorde steeckt,</l>
+<l>Men rucket dan soo toe, dat ghy niet meer en spreect.</l>
+<l>Siet hier dit is u kraech die meester Beul sal binden,</l>
+<l>Dat d'Adem door u keel gheen tocht-wech meer sal vinden.</l>
+
+<pb ed="fol." n="Eiiijv"/>
+<stage><hi rend="i">Osman trect de langen doec af, die hy aen zynen riem had hangen, slaet die om zynen hals, steect d'eynden de Soldaten toe, die rontom hem loopen, ende roept al schreyende.</hi></stage>
+<l rend="; 1tab">Hou, hou, mijn vrinden hou, hou, hou, mijn broeders hou</l>
+<l>Off my noch yemant nu de vrintschap toonen wou</l>
+<l>dat hy my stranguleert, hout vast 'twort u ghebeden,</l>
+<l>En isser niemant niet die luystert na mijn reden?</l>
+<l>Hout vast vat desen doeck, ontsiet my niet met al</l>
+<l>Kbid yemant my verworcht, ick sterven moet, en sal.</l>
+<l>Kwil liever sterven vande hant der braeff Soldaten,</l>
+<l>Dan my oneerlick van een Beul te worghen laten.</l>
+<l>Vat aen, my worcht, treckt toe.</l>
+<l rend="speaker"><hi rend="i">Capi.</hi></l>
+<l rend="; 1tab">Ha Prins gheen wanhoop stelt,</l>
+<l>Osm' u ghevanghen leyt, en schrickelick nu quelt,</l>
+<l>'tKan wesen dat Fortuyn u sal meer joust betoonen</l>
+<l>en meerder uwen druck met dobbel vreuchde croonen</l>
+<l>als ghy noch selver waent, her-vat u hooghen moet,</l>
+<l>Toont dat ghy zijt een spruyt vant Ottomansse bloet.</l>
+<l>Hebt ghy in uwen tijt de werelt heel doen beven,</l>
+<l>Laet u die vromicheyt int eynt nu niet begeven.</l>
+<stage><hi rend="i">Dahout Bassa uyt.</hi></stage>
+<l rend="; 1tab">Helaes grootmoedich Prins! ick met leetwesen coom</l>
+<l>door last des Keysers, den Mustapha uwen Oom.</l>
+<l>Daer nu in uwe plaets de Croon is aen verbonden.</l>
+<l>Die seg ick, heeft my nu tot u Persoon ghesonden,</l>
+<l>Om u te dienen aen, de droeve uyr der doot.</l>
+<l>Weest daerom cloeck ghemoet in desen laetsten noot.</l>
+<l>Alsoo't besloten is, dat ghy, wilt niet bedroeven,</l>
+<l>Van lijff ter doot gebracht sult werden, sonder toeven.</l>
+<stage><hi rend="i">Osman roept over-luyt.</hi></stage>
+<l>Ay my! sal'ck sterven dan? Wel moet ick sterven? Ach!</l>
+<l>Soo laet ick sterven dan. Ken weet niet wat ick mach</l>
+<l>bedreven hebben; laes! dat ick verdien te sterven;</l>
+<l>Wel, sal voor ander Volck dit lyden ick verwerven?</l>
+<l>D'onschuldich mensch lijt die voor schuldighers doots pijn?</l>
+<l>Al 'tgunt bedreven is wijt ghy't alleenlick mijn?</l>
+<l>Kheb niet ghedaen int minst, met woorden of met daden</l>
+<l>Dan Koja, groot Vezier, en and're meer my raden.</l>
+<l>Ist die haer schult gheweest? ghy hebt haer omgebrocht;</l>
+<l>Zijt ghy noch niet te vre'en? Ick was niet wel bedocht</l>
+<l>Als ick u vast beloof, voorts van mijn reys te swijghen,</l>
+<l>Is dat noch niet ghenoch om mijn pardon te krijgen?</l>
+<l>Segt waerom wilt ghy my dan noch doen sterven man?</l>
+<l rend="speaker"><hi rend="i">Dah.</hi></l>
+<l rend="; 1tab">Hoort ghy moet sterven Prins.</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Ay! laet ick sterven dan.</l>
+<l>Nadien ick sterven moet, laet my met droeve woorden</l>
+<l>eerst storten mijn ghebet, en doet my dan vermoorden.</l>
+
+<pb ed="fol." n="Fir"/>
+<stage><hi rend="i">Hy valt op zijn knyen.</hi></stage>
+<stage><hi rend="i">Gebedt na het ghevoelen der Turcken.</hi></stage>
+<l rend="; 1tab">Ghy aller Goden Godt, groot Mahometis Heer,</l>
+<l>Geeft my ind' uyr mijns doots, dat ick tot uwer eer</l>
+<l>en myner Zielen heyl, mijn sonden mach bekennen,</l>
+<l>Daer ick my had behoort van Joncx aen, aff te wennen.</l>
+<l>Sy zijn my hert'lick leet, ick bid ghedenct die niet,</l>
+<l>Sy zijn meest in mijn Jeuchts onwetenheyt gheschiet.</l>
+<l>Laet voor dees schand'gen doot my weer dijn vreucht beerven</l>
+<l>Met dat betrouwen sal ick nu stantvastich sterven.</l>
+<l>Kverwacht int Paradijs mijns lijffs wellusticheyt,</l>
+<l>G'lijck Mahometh Propheet, ons vast heeft toegheseyt.</l>
+<l>Die ons dees plaetse heeft volcomelick beschreven,</l>
+<l>Die ghy groot Mahons Heer, ons wilt tot rust-plaets geven.</l>
+<l>Daer vlietend' beecxkens zijn van Mellick, Honich, Wijn,</l>
+<l>Aldaer der vromer Ziel sal eeuwich vrolick zijn.</l>
+<l>En eten goede vrucht, en drincken soete drancken,</l>
+<l>Ghecleet met Sanunet, Zy, en hooren soete clancken</l>
+<l>En bruycken tot zijn lust Joffrouwen seer verweent,</l>
+<l>Gheciert met schoon ghewaet, met blinckent eel ghesteent.</l>
+<l>Daer dienen aenden Disch veel hubsche Jonghe Knechten,</l>
+<l>Veel schoone Vrouwen oock, gheciert met gulde vlechten.</l>
+<l>Heer gheeft my dese plaets, laet my voor dese pijn,</l>
+<l>In uwen schoonen Throon, steets met u vrolick zijn.</l>
+<stage><hi rend="i">Hy staet op, ende roept.</hi></stage>
+<l rend="; 1tab">Wel Isser niemant niet, die om mijn doot te wreken</l>
+<l>my nu een Poengiaert geeft? Die ick dees Beuls mach steken</l>
+<l>en dreyen in haer borst. Ach; yeder my verlaet,</l>
+<l>Laes Osman! nu zijt ghy in d'alderdroefsten staet.</l>
+<l>Hoe sterven? sterven? Ja, hoe sterven? my vermoorden?</l>
+<l>Een Sultan moorden? ha! ha Goddeloose woorden.</l>
+<l>Hoort ghy moet sterven Prins. Hoe sterven, segt waerom?</l>
+<l>Waerom? om mijn vertreck, ha schelmen draecht vry rom!</l>
+<l>van dese cloecke daet. Door wien moet ick dit lyden?</l>
+<l>Door myne onderdaens? Hoe sullen nu verblyden</l>
+<l>mijn weerpartyen groot, den Pool en Persiaen,</l>
+<l>Cosinus den Florentijn, den grooten Mantuaan.</l>
+<l>En Ferdinand de tweed' den Keyser van Almaengien,</l>
+<l>Victor Dominicus-Philippus van Hispaengien.</l>
+<l>Den Paus Gregorius, en and're Vorsten meer</l>
+<l>Die my met schrick ontsien, als haren over-Heer.</l>
+<l>Wat Man heb ick gheweest? dat connen wel betuyghen</l>
+<l>veel hondert duysenden, die voor my mosten buyghen.</l>
+<l>Kwas gist'ren yeders schrick, nu ben ick yeders spot,</l>
+<l>Die op zijn staet betrout dat is een dobb'len sot.</l>
+<l>Ha Keysers Coninghen! en Princen hooch van weyrden</l>
+<l>wiens wil de werelt dwingt, en hebt 'tghebiet op eyrden,</l>
+<l>Hier, spieghelt u aen my, en leert uyt mynen noot,</l>
+
+<pb ed="fol." n="Fiv"/>
+<l><hi rend="i">Dat niemant hier en is gheluckich voor zijn doot.</hi></l>
+<l>Ghelijck als Solon seyt, al leeft ghy hondert jaren</l>
+<l>in eer en grooten roem, 'tkan schielick henen varen,</l>
+<l>Soo dat ghy eyntlick noch raect inder Beulen hant,</l>
+<l>Alsoot nu blijct aen my, den grootsten Prins vant lant.</l>
+<l>Ay sterven? neen, ick moet, 'ken sal, 'ksal nochtans moeten,</l>
+<l>Wel waerom smijt ick niet dees Beulen voor mijn voeten.</l>
+<l rend="speaker"><hi rend="i">Dah.</hi></l>
+<l rend="; 1tab">Bereyt u totter doot, al langh ghenoch, tast aen,</l>
+<l>Voldoet des Keysers last, worcht hem van stonden aen.</l>
+<stage><hi rend="i">Zy tasten hem met haer Vijff off Sessen aen, hy slaeter Twee oft Drie onder de Voet, met zijn Vuysten. Zy werpen hem een Zyden Snoer om den Hals, en worghen hem. Een ander slaet hem met een steel van Byl op zijn schouderen, dat hem 'tBloet ten Neus ende Mont uyt-loopt.</hi></stage>
+<l rend="speaker"><hi rend="i">Dah.</hi></l>
+<l rend="; 1tab">Boustangj langt een Mes, 'ksal hem zijn Oor aff-snyden, </l>
+<l>Brenghen Mustapha dat, die sal hem dan verblyden.</l>
+</lg>
+<stage><hi rend="i">binnen.</hi></stage>
+</div>
+<div type="chapter">
+<head rend="h3"><hi rend="i">Het Vierde Deel.</hi></head>
+<stage><hi rend="i">Mustapha wederom alleen in zijn Kamer.</hi></stage>
+
+<lg type="poem">
+<l><hi rend="b"><hi rend="i">W</hi></hi>At last is oock den schrick, de vrees en ancxt int hert,</l>
+<l>Daer staich ic meer en meer, noch me bevangen wert</l>
+<l>Want door langduyricheyt van myne droeve banden</l>
+<l>daerin mijn leven stont, altijts in Osmans handen,</l>
+<l>Ben ick melancolijck gheworden, dat by wijl,</l>
+<l>Mijn herss'nen zijn beroert, en schielick inder ijl.</l>
+<l>My swieren voor 'tghesicht, seer veel en vremde spoken,</l>
+<l>Stilswijghend' maeckt het my, mijn rust wort soo ghebroken</l>
+<l>dat sta'ich ick wand'len moet, soo schrickend' zy'ck daer by</l>
+<l>Dat somtijts heel vervremt ick van my selven zy.</l>
+<l>Kheb daerenboven noch in veel verscheyden hoecken</l>
+<l>van myne Camer, daer ick meen mijn rust te soecken,</l>
+<l>Vremt tooverijs gheschrijff ghevonden, daer ghestelt</l>
+<l>van Osmans Moeder, soo my meermael is vertelt.</l>
+<l>Hoor daer, al weer ghemor, daer sie ick weer wat sweven</l>
+<l>Sta vast, wel hoe? waer is die Joffrou daer ghebleven?</l>
+<l>Wat hoor ick stenen? Ach! wat mach dit alles zijn?</l>
+<l>Wijckt van my drochgen rey, waerom vervolcht ghy mijn?</l>
+<l>Mijn hayren rysen steyl, 'tsweet gaet my clam uytbreken,</l>
+<l>Mijn herte beeft van ancxt, mijn tong en can nau spreken</l>
+<l>Wijct van my bleecke vrees, vliet van my vremt ghespuys,</l>
+<l>Vliet van my wreet ghesicht, vliet van my vremt ghedruys.</l>
+<l>Mijn Croon mijn Keyserrijck, wou liever ick verliesen</l>
+<l>Waer ick hier van ontlast, dan desen staet te kiesen.</l>
+<l>Wat hoor ick voor ghekerm?</l>
+
+<pb ed="fol." n="Fijr"/>
+<stage><hi rend="i">Van binnen wort'claechlick gheseyt.</hi></stage>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Mustapha Oom ghenaet.</l>
+<l>Mustapha Oom genaet.</l>
+<l rend="speaker"><hi rend="i">Must.</hi></l>
+<l rend="; 1tab">Is dat niet Osman? Jaet.</l>
+<l>Voorwaer 'twas Osmans stem; het waren Osmans woorde<hi rend="i">n</hi>,</l>
+<l>Twas Osman die ghenaed ick claechlick bidden hoorden.</l>
+<l>Twas Osman die zijn Oom erbermelick versocht</l>
+<l>tot gracy en ghenaed, 'twas Osman die ghebrocht</l>
+<l>is in soo sob'ren staet, als een van d'alderminste,</l>
+<l>Laes! door des eenens val becomt den and'ren winste.</l>
+<l>Maer hoe can ick soo verr' nu hooren Osmans tael?</l>
+<l>Vant seven-toornich huys hier in mijn Keysers sael.</l>
+<l>Ach 'tis zijn bleecken Gheest! of 'tis natuyrlick roeren,</l>
+<l>Om in mijn wreedich hert, beweghentheyt te voeren.</l>
+<l>Wel Osman lieve Neeff, soo ghy int leven zijt,</l>
+<l>Soo raect ghy't nimmermeer door mynen toedoen quijt.</l>
+<l>Ick wil in alder haest mijn knechten gaen belasten.</l>
+<l>Dat niemant Osman sal int minst aent Lichaem tasten,</l>
+<l>Ick schenck hem 'tleven nu, en sal met grooter eer</l>
+<l>hem hand'len, g'lijckmen hoort te doen soo grooten Heer.</l>
+<l>Wat Volck is dit?</l>
+<stage><hi rend="i">Dahout en Boustangj.</hi></stage>
+<l rend="speaker"><hi rend="i">Dah.</hi></l>
+<l rend="; 1tab">Mijn Heer, het gunt ghy hadt gheboden,</l>
+<l>Dat wy met eene koord den Osman souden dooden</l>
+<l>is dad'lick nu gheschiet, hy heeft ontfaen zijn straff.</l>
+<l>Wy deden na den last die ons den Keyser gaff.</l>
+<l>Soo moeten varen al zijns Majesteyts rebellen,</l>
+<l>Die soecken dit u Lant in onrust noch te stellen.</l>
+<l>Tot kennis dat het is warachtelick gheschiet</l>
+<l>En dat zijn Majesteyt een seker teecken siet,</l>
+<l>Soo brenghen wy het Oor, van Osmans hooft ghesneden</l>
+<l>ten deele noch bebloet, mits wy't eerst dad'lick deden.</l>
+<l>Lang leef zijn Majesteyt.</l>
+<l rend="speaker"><hi rend="i">Must.</hi></l>
+<l rend="; 1tab">Hoe, Sultan Osmans Oor?</l>
+<l>Ha droeve tyding! die ic van mijn Neve hoor.</l>
+<l>hoe hielt hy he<hi rend="i">m </hi>doch al?</l>
+<l rend="speaker"><hi rend="i">Boust.</hi></l>
+<l>Mijn Heer, geheel grootmoedich</l>
+<l>Zijn ooghen flickerden ghelijck een Leeu verwoedich</l>
+<l>wiens Jong hem wort onthaelt met cracht en met ghewelt</l>
+<l>Soo heeft hem Osman oock int laest noch aengestelt.</l>
+<l>Hy claechde deyrlick eerst, dat hy soo moste sterven,</l>
+<l>En dat voor sulcken Prins gheen gracy was t'verwerven.</l>
+<l>Hy doet zijn droef ghebedt, en doe seer wreet begon</l>
+<l>te sien, ghelijckmen leest van Marischal Biron</l>
+<l>den Franssen Blicxem cloeck, en sprack met straffe woorden</l>
+<l>wie gheeftm' een Poengiaert nu, om dese Beuls te moorden</l>
+<l>De furieuse jeucht, en 'tConinclicke bloet,</l>
+<l>In syne ad'ren brocht een gramschaps hitt en gloet.</l>
+<l>Hy con zich selfs de doot int minste niet inbeelden,</l>
+<l>Daer door hy met de Beuls soo ongenadich speelden,</l>
+
+<pb ed="fol." n="Fijv"/>
+<l>Dat hyer twee off drie met vuysten neder sloech.</l>
+<l>Tot dat een Zyden Koord het Leven van hem joech.</l>
+<l>Daer mede zy met cracht int eynd hem noch verworchden.</l>
+<l rend="speaker"><hi rend="i">Must.</hi></l>
+<l rend="; 1tab">Verworchde<hi rend="i">n</hi>? ach! dat was 'tgunt daer ic staich voor sorchde<hi rend="i">n</hi></l>
+<l>Mijn meyningh was nu vast dat ick hem sparen sou,</l>
+<l>En tot dien selven eynd ick dad'lick senden wou</l>
+<l>om u te segghen aen dat ghy hem sout bewaren</l>
+<l>tot dat ick naerder sou mijn meyningh openbaren.</l>
+<l>Laet 'tis nu al te laet! Prins Osman ghy zijt heen,</l>
+<l>V Ziel in rust besit den Beemt der Elizeen.</l>
+<l>Voor uwen droeven staet besit ghy 'sHemels glory,</l>
+<l>En laet my heel bedroeft int mits van mijn victory.</l>
+<l>Och 'tis een zwaer ellent; dat d'een zijn vreucht bestaet,</l>
+<l>Hier in ons Turcxe Rijck, als d'ander 'tond'ren gaet.</l>
+<l>Nu sal de Prophecy in stael gheheughen blyven.</l>
+<l>Die eenen Spaengiaert ging voor hondert jaren schryven,</l>
+<l>Dat doe naer hondert Haer het Ottomansse Huys,</l>
+<l>Met onderling ghewelt zich selfs sou doen groot cruys.</l>
+<l>De gulde salen van dees Bloet-honts en tyrannen</l>
+<l>besoedelt sullen sijn met 'tbloet van hare mannen.</l>
+<l>Den Toom des Rijcx ontruct, die comt in veler hant,</l>
+<l>Den schrick des gantschen werlts vermorsselt aende want.</l>
+<l>En ist niet waer? niet waer? Ja, 'tis nu wel ghebleken</l>
+<l>aen Keyser Ottoman, die als ick recht sal spreken</l>
+<l>een schrick der Princen was, soo jong noyt zijns ghelijck,</l>
+<l>Om uyt te voeren 'tRecht vant Ottomansche Rijck.</l>
+<l>Die leyt, ja leyt nu in zijn bloet versmoort.</l>
+<l rend="speaker"><hi rend="i">Dah.</hi></l>
+<l rend="; 1tab">Mijn Heere</l>
+<l>'kbid stelt u doch gherust, ick bid ontfangt nu d'Eere</l>
+<l>die u is toebereyt, com Prins ontfangt de Croon</l>
+<l>van stonden aen, besit den Ottomanschen Throon.</l>
+<l rend="speaker"><hi rend="i">Must.</hi></l>
+<l rend="; 1tab">Is alles dan gereet?</l>
+<l rend="speaker"><hi rend="i">Boust.</hi></l>
+<l>Iaet Heer, de Princen wachten</l>
+<l>alt samen inde sael, sy naer u comste trachten.</l>
+<l>Elck even yv'rich is, om uwe Majesteyt</l>
+<l>in Keysers staet te sien met groot eerweerdicheyt.</l>
+<l>Dus alst mijn Heer belieft soo laet ons derwaerts wand'len</l>
+<l rend="speaker"><hi rend="i">Must.</hi></l>
+<l rend="; 1tab">Wy sulle<hi rend="i">n</hi> dan daer na, meer van ons sake<hi rend="i">n</hi> hand'len.</l>
+<stage><hi rend="i">binnen.</hi><lb/><hi rend="i">Silactar alleen uyt.</hi></stage>
+<l rend="; 3tab">Wat is de Lieffd een gril,</l>
+<l rend="; 2tab">Daer meed' wy hert en wil</l>
+<l rend="; 2tab">aen wulpse Vrouwen binden.</l>
+<l rend="; 2tab">Wiens lichtheyt is seer groot</l>
+<l rend="; 2tab">Soo dat ter nauwer noot,</l>
+<l rend="; 2tab">Gheen lichter goet wy vinden.</l>
+<l rend="; 3tab">Begheeft u tot de Min,</l>
+<l rend="; 2tab">Hangt daer aen Ziel en Zin,</l>
+<l rend="; 2tab">Laet u de Minne kuyren</l>
+<l rend="; 2tab">ws Joffrous heel vervuyren.</l>
+
+<pb ed="fol." n="Fiijr"/>
+<l rend="; 2tab">Doet al wat haer behaecht,</l>
+<l rend="; 2tab">Haer beelt inwendich draecht</l>
+<l rend="; 2tab">Verteert doort brandich voncken,</l>
+<l rend="; 2tab">Zijt heel in Lieffd versoncken.</l>
+<l rend="; 3tab">En crijcht dan weer 'tplaysier</l>
+<l rend="; 2tab">vant vriendelijcke dier,</l>
+<l rend="; 2tab">Laets' u met eedt beloven,</l>
+<l rend="; 2tab">Dat ghy zijt haren lust,</l>
+<l rend="; 2tab">Daer sta'ich haer Ziele rust,</l>
+<l rend="; 2tab">Datt't niemant sal ontroven.</l>
+<l rend="; 3tab">Ghy meent dan 'tis gewis.</l>
+<l rend="; 2tab">Maer dat soo seker is,</l>
+<l rend="; 2tab">G'lijck off ghy in het dromen,</l>
+<l rend="; 2tab">Veel Rijckdom had becomen:</l>
+<l rend="; 2tab">Die wert u quijt ghemaeckt,</l>
+<l rend="; 2tab">Soo haest ghy weer ontwaeckt.</l>
+<l rend="; 2tab">Soo is op Lieffd van Vrouwen,</l>
+<l rend="; 2tab">Int minst oock niet t'betrouwen.</l>
+<l>Ha wispeltuyrich dier, licht Vrouwelick gheslacht,</l>
+<l>Ken weet niet waerom dat ghy wert soo hooch gheacht,</l>
+<l>Alsm' u door groote moeyt al heeft na wensch gecregen,</l>
+<l>Voor een uyr vriend'lickheyt verwachtmen daerentegen</l>
+<l>veel daghen u ghekijff, u trotz en hooverdy,</l>
+<l>V eyghensinnicheyt, u over-heers voochdy,</l>
+<l>En duysent and're quaen, doch 'tschijnt wy zijn ghedronghen</l>
+<l>om u te lieven sta'ich daer zijn wy toe ghedwonghen</l>
+<l>door lust en door natuyr, dies ick te meerder rou,</l>
+<l>ghevoel, mits Flora my gheweest is dus ontrou.</l>
+<l>Maer wat ick daer bedenck, de Vrouwen die zijn listich,</l>
+<l>Cont Celia niet doen om ons te maken twistich</l>
+<l>door een'ghe spokery? g'lijckt hier te lant veel schiet,</l>
+<l>Dat yemant wel een spoock in plaets van waerheyt siet.</l>
+<l>Kweet Celia die gaet een Christen Priester spreken,</l>
+<l>Ghemeynlick op dees tijt, om bichten haer ghebreken</l>
+<l>die my seer wel ghelijckt, ick sal nu dad'lick gaen</l>
+<l>en crijghen sulck ghewaet, soo can ick dan verstaen</l>
+<l>uyt haren eyghen mont, oft waer is of gheloghen,</l>
+<l>Soo wiert dan Celia, gelijck zy deed bedroghen.</l>
+<stage><hi rend="i">binnen.</hi><lb/><hi rend="i">Celia uyt.</hi></stage>
+<l rend="; 1tab">Mijn const heeft wel gheluckt, Silactar vast gelooft,</l>
+<l>Dat van een Pagie wort zijn Floras eer gherooft.</l>
+<l>Nu hoop ick metter tijt zijn Lieffde wel te winnen</l>
+<l>Dat hy my sal in plaets van Flora gaen beminnen.</l>
+<l>Ick hoop mijn saeck gaet vast, 'kverwacht daertoe den tijt,</l>
+<l>Dat met Silactar ick sal werden seer verblijt.</l>
+<l>Kmach nu eens henen gaen by Pater Diocezen</l>
+<l>Die my seer dickwils sticht met bidden ende lesen,</l>
+<l>En oock met biechte hoort, ick zy daer nu ontrent.</l>
+
+<pb ed="fol." n="Fiijv"/>
+<stage><hi rend="i">Silactar met een Cap aen, ende Baert voor.</hi></stage>
+<l rend="speaker"><hi rend="i">Celi.</hi></l>
+<l>Daer comt hy, Pater Heer.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Wie daer?</l>
+<l rend="speaker"><hi rend="i">Cel.</hi></l>
+<l rend="; 1tab">Mijn Heer ick bent.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l>Wel dochter, waer wilt ghy alleen dus neerstich henen?</l>
+<l rend="speaker"><hi rend="i">Celi.</hi></l>
+<l rend="; 1tab">Heer Pater, in tien daech heb ick u niet verschenen.</l>
+<l>Tis al te lang ghetoeft, het wereltsche ghewoel,</l>
+<l>Maect dat ick groote strijt, in mijn ghewisse voel.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Ia dochter, die het quaet des werelts can bemercken,</l>
+<l>Wat datter al gheschiet, hoe vele boose wercken</l>
+<l>Door haet, nijt, giericheyt, hooveerdicheyt en meer</l>
+<l>van dierghelijcke aert, moet zich bedroeven seer.</l>
+<l rend="speaker"><hi rend="i">Celi.</hi></l>
+<l rend="; 1tab">Ia Pater dat is waer, God danck 'kheb gheen ghedachten,</l>
+<l>Door nijt of giericheyt na anders goet te trachten</l>
+<l>'kbehelp my met het mijn, ick doe een ander niet</l>
+<l>dan'ck wilde dat my weer van ander lien gheschiet.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Dats wel mijn Kint, so hoort een Christen mensch te leven,</l>
+<l>Maer dochter, ghy cont oock u eyghenselfs wel gheven</l>
+<l>te veel lofs in dit deel, nadien het boos en quaet,</l>
+<l>Al soetgens inden mensch eerst int begin ontstaet.</l>
+<l>En wast allencxkens oock, soo dat veel niet en voelen</l>
+<l>dees vlam, voor dats' int lest gants niet en is te coelen</l>
+<l>Soo cant oock wesen Kint, u selfs doch niet bedriecht.</l>
+<l rend="speaker"><hi rend="i">Celi.</hi></l>
+<l rend="; 1tab">Kdenck wel wat Pater Heer, maer dat terstont vervliecht</l>
+<l>Ten grijpt in my gheen plaets.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Mijn Kint ghy moet niet zwijghen,</l>
+<l>Of andersints en sout ghy gheen vergeving crijghen.</l>
+<l>Tis beter dat ghy hier u sonden claer belijt,</l>
+<l>En datmen door Gods macht u dan daer van bevrijt</l>
+<l>Dan dat ghy swijcht en hout.</l>
+<l rend="speaker"><hi rend="i">Celi.</hi></l>
+<l rend="; 1tab">Mijn Heer 'kweet niet te spreken:</l>
+<l>Dan van mijn fouten en mijn dag'licxe ghebreken.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Niet anders?</l>
+<l rend="speaker"><hi rend="i">Celi.</hi></l>
+<l rend="; 1tab">Neen.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Maer Kint, ghy zijt noch jongh en schoon,</l>
+<l>Cont ghy des vlees begeert oock in u hert wel doon?</l>
+<l rend="speaker"><hi rend="i">Celia</hi></l>
+<l rend="; 1tab">Heer, 'kmoey my daer niet me.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Kweet beter.</l>
+<l rend="speaker"><hi rend="i">Celi.</hi></l>
+<l rend="; 1tab">Tkan ghebeuren</l>
+<l>Dat somtijts my de Liefd het herte gaet versteuren</l>
+<l>Maer die'ck Min, Mint my niet, en daerom laet ickt me.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Wie ist?</l>
+<l rend="speaker"><hi rend="i">Celi.</hi></l>
+<l rend="; 1tab">Silactar.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Ia.</l>
+<l rend="speaker"><hi rend="i">Celia</hi></l>
+<l rend="; 1tab">Mijn Heer, wat ick oyt de</l>
+<l>om winnen zijne Lieffd, het was al moeyt verloren.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Waerom?</l>
+<l rend="speaker"><hi rend="i">Celi.</hi></l>
+<l rend="; 1tab">Vermits tot Lief hy Flora heeft vercore<hi rend="i">n</hi>.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l>Hebt ghy gheen quaet ghewenst dees Flora door die saeck?</l>
+<l rend="speaker"><hi rend="i">Celia.</hi></l>
+<l rend="; 1tab">Alleen gheen quaet ghewenst, maer ooc getracht na wraec.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l>Nae wraeck ghetracht, dats quaet.</l>
+<l rend="speaker"><hi rend="i">Celia</hi></l>
+<l rend="; 1tab">Na wraeck ghetracht mijn Heere.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l>Maer hoe in wat manier?</l>
+
+<pb ed="fol." n="Fiiijr"/>
+<l rend="speaker"><hi rend="i">Celi.</hi></l>
+<l rend="; 1tab">Tis weynich t'mijnder eere</l>
+<l>en daerom seg ickt niet.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Daerom ghy't segghen moet.</l>
+<l>Off andersints can u de Biechte doen gheen boet.</l>
+<l rend="speaker"><hi rend="i">Celi.</hi></l>
+<l rend="; 1tab">Ten is niet Goddelick.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l>Hoe dan?</l>
+<l rend="speaker"><hi rend="i">Cel.</hi></l>
+<l rend="; 1tab">Tzijn Duyvels saken.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Ay! daer door sou u Ziel in groot ghevaer gheraken.</l>
+<l>Ist Toovery?</l>
+<l rend="speaker"><hi rend="i">Celi.</hi></l>
+<l rend="; 1tab">Iaet Heer.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Hoe hebt ghy't dan bestaen?</l>
+<l rend="speaker"><hi rend="i">Celi.</hi></l>
+<l>Ick hebt tot weder-wraeck van groote Lieffd ghedaen.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Maer hoe, segt wat?</l>
+<l rend="speaker"><hi rend="i">Celi.</hi></l>
+<l rend="; 1tab">Ick sach Silactar Flora minde</l>
+<l>Dies ick van groote Lieffde bynaest gheheel ontsinde,</l>
+<l>Kquam by een Tooveres, die leerde my met ijl</l>
+<l>der Duyvelen bedwang, dies ick in corter wijl</l>
+<l>bezweyring dede, g'lijck of Flora vuyl boeleerde</l>
+<l>met eenen Pagie, en Silactar diet begeerde</l>
+<l>met ooghen selfs te sien, deed ickt aenschouwen doe.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Ist mog'lick?</l>
+<l rend="speaker"><hi rend="i">Celi.</hi></l>
+<l rend="; 1tab">Iaet.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Gheschiet?</l>
+<l rend="speaker"><hi rend="i">Celi.</hi></l>
+<l>Persoonlick.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Segt my hoe?</l>
+<l rend="speaker"><hi rend="i">Celi.</hi></l>
+<l rend="; 1tab">De gheesten inden schijn van Flora en haer Minnaer</l>
+<l>daer laghen dicht by een.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Ick sta off'k buyten zin waer,</l>
+<l>Wat sey Silactar doch?</l>
+<l rend="speaker"><hi rend="i">Celi.</hi></l>
+<l rend="; 1tab">Hy was gheheel verbaest</l>
+<l>En heeft verwoedelick op Flora seer gheraest.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Maer Kint dats groot bedroch.</l>
+<l rend="speaker"><hi rend="i">Celi.</hi></l>
+<l rend="; 1tab">Ia Heer ick most dat brouwen,</l>
+<l>Op dat Silactar mocht zijn Floras Liefd berouwen,</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Kghelooft niet, of ghy moet het vestighen met eet.</l>
+<l rend="speaker"><hi rend="i">Celi.</hi></l>
+<l>Kzweer by mijns Zielens heyl.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Sweyrt, Hoer, vry tot u leet.</l>
+<stage><hi rend="i">Hy werpet kleet af.</hi></stage>
+<l>Ha valsche Vrou; Serpent, gy Slang, ghy Spin, ghy Ader,</l>
+<l>De gheen die ghy bezwoert, soot schijnt, was uwen Vader.</l>
+<l>Heyloose Tooveres, vervloeckte Duyvelin,</l>
+<l>Meent ghy my met bedroch te trecken tot u Min?</l>
+<l>Wech, dat'ck u niet en sie.</l>
+<l rend="speaker"><hi rend="i">Celi.</hi></l>
+<l rend="; 1tab">Heer laet my doch eens spreken.</l>
+<l>Van hier, off 'ksal u stracx den kop aen stucken breken.</l>
+<l>Soo wech 'tis meer dan tijt.</l>
+<stage><hi rend="i">Celia binnen.</hi></stage>
+<l>Ha Flora 'tis my leet</l>
+<l>dat'ck t'onrecht was vergramt. Ick zweyr by hooghen Eedt,</l>
+<l>Noch sien, noch hooren, sal my meer tot quaet verwecken,</l>
+<l>Soo haest ick by u coom, sal ick mijn Trouw voltrecken.</l>
+<stage><hi rend="i">binnen.</hi></stage>
+
+<pb ed="fol." n="Fiiijv"/>
+<stage><hi rend="i">Flora seer bedroeft.</hi></stage>
+<l rend="; 3tab">O tranen beecxkens vloet,</l>
+<l rend="; 2tab">Ghy cont niet, doch ghy moet</l>
+<l rend="; 2tab">noch meerder vocht doen leken.</l>
+<l rend="; 2tab">O borst! loost sucht op sucht,</l>
+<l rend="; 2tab">Dat bangheyt daer uyt vlucht,</l>
+<l rend="; 2tab">Of siet mijn hert moet breken.</l>
+<l rend="; 3tab">Ghy armen wringt door een,</l>
+<l rend="; 2tab">Hant treckt dees hayren steen,</l>
+<l rend="; 2tab">Ruckt af dees blonde vlechten:</l>
+<l rend="; 2tab">Ha Flora! leeft ghy noch?</l>
+<l rend="; 2tab">En moet ghy hooren? och!</l>
+<l rend="; 2tab">Van ontucht met de knechten.</l>
+<l rend="; 3tab">Silactar my ghelooft,</l>
+<l rend="; 2tab">Mijn eer is niet ontrooft?</l>
+<l rend="; 2tab">Ick heb die noch behouwen:</l>
+<l rend="; 2tab">Ach! dat ghy my verlaet,</l>
+<l rend="; 2tab">En my dus bitter haet,</l>
+<l rend="; 2tab">Kweet 'tsal u noch berouwen.</l>
+<l rend="; 3tab">Mijn Peyrle mynen glans,</l>
+<l rend="; 2tab">Tcieraet mijns Maechden-crans,</l>
+<l rend="; 2tab">Dat wort my valsch ghestolen:</l>
+<l rend="; 2tab">Met leughens sonde doen</l>
+<l rend="; 2tab">Maer Godt behoet den goen,</l>
+<l rend="; 2tab">Het quaet blijft niet verholen.</l>
+<l rend="; 1tab">Hoe droevich ist wanneer een Maecht die nimmer had</l>
+<l>oncuysch ghedacht int hert, met oneer wort beclad.</l>
+<l>Wat lijt sy herten-leet, wat lijt sy veel ontstellingh,</l>
+<l>Hoe knaecht haer 'tdroef gemoet, hoe dicwils heeft sy quelling</l>
+<l>Hoe dicwils wort sy bleec, hoe dicwils crijchts een bloos,</l>
+<l>En wort van schaemte root, ghelijck een Morghen roos.</l>
+<l>hoe dicwils schiet haer 'tbloet lancx al de blauwe ad'ren</l>
+<l>Wanneer sy comt en siet de hoofden t'saem vergad'ren</l>
+<l>vant kakelende volck, dat haer siet snellick aen,</l>
+<l>Als sy somwylen comt, lancx straten zedich gaen.</l>
+<l>Een yder seyt het zijn, wat wort daer dan ghesproken?</l>
+<l>Hoe fier is sy noch daer haer eer soo leyt ghebroken.</l>
+<l>Helaes soo ben ick nu! en mijn Silactar meent</l>
+<l>dat ick een Pagie heb de vryicheyt verleent</l>
+<l>als Meester van mijn Eer, te rooven myne panden,</l>
+<l>Die'ck hoor alleen mijn Man te lev'ren in zijn handen.</l>
+<l>O goedertieren Heer! ick bid mijn onschult toont,</l>
+<l>En dees bedrieghery, rechtveerdelicken loont.</l>
+<l>Moet ick mijn Lieff, mijn Ziel, mijn Eenich-wesen derven,</l>
+<l>Kbid laet ick schan'lick dus in dees oneer niet sterven.</l>
+<l>Ach my! mijn cracht vergaet: wel, wat comt daer voor een?</l>
+<l>Het is Silactar, ach!</l>
+
+<pb ed="fol." n="Gir"/>
+<stage><hi rend="i">Silactar.</hi></stage>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Wel Flora dit gheween,</l>
+<l>Can dit u helpen yet?</l>
+<l rend="speaker"><hi rend="i">Flora.</hi></l>
+<l rend="; 1tab">Neen Heer 'tkan my niet helpen:</l>
+<l>Maer't tranen storten doet dat my niet ouer-stelpen</l>
+<l>de bangicheden zwaer, die dreyen om mijn hert:</l>
+<l>Door dien ick voor een Hoer helaes! ghescholden wert.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Wel denckt ghy daer noch om?</l>
+<l rend="speaker"><hi rend="i">Flora.</hi></l>
+<l rend="; 1tab">Soud ick daer niet om dencken?</l>
+<l>De quellingh sal my noch int lest mijn sinnen krencken,</l>
+<l>Ksy somtijts soo ontsint, dat ick my niet ontsaech</l>
+<l>Dat ick door moordery mijn Ziel ter hellen jaech.</l>
+<l>Ksou met een Poengiart my mijn herte selfs doorboren,</l>
+<l>Maer ach! ick denck, dan waer mijn arme Ziel verloren.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Maer Flora quelt g'u soo? had sulcx dan niet bestaen.</l>
+<l rend="speaker"><hi rend="i">Flora</hi></l>
+<l rend="; 1tab">Ach dood'lick woort!</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Wel hoe, hebt ghy't dan niet ghedaen?</l>
+<l rend="speaker"><hi rend="i">Flora.</hi></l>
+<l rend="; 1tab">Gedaen mijn Heer, gedaen? had'ck oyt tot sulcx gedachten</l>
+<l>Soo wil ick nemmermeer de eeuw'ghe vreucht verwachten.</l>
+<l>Veel minder oyt ghedaen, 'kseg niemant heeft ontrooft</l>
+<l>mijn Eeren-crans mijn Heer, ick bid sulcx vry ghelooft</l>
+<l>Datt't yemant had ghevraecht of tot oneere poochden,</l>
+<l>Ick nemmer sulcken man in mijn gheselschap doochden.</l>
+<l>Wou hy't met cracht bestaen, ghelijck een Tygerin</l>
+<l>wiens jong haer wort gherooft, sou ick hem vlieghen in.</l>
+<l>En weyren my ter doot. O schant, o groote schaemte!</l>
+<l>Mijn hert besluyt van rou door dese groote blaemte.</l>
+<l>Ick voor een Hoer gheacht?</l>
+<stage><hi rend="i">Zy wort een weynich flau.</hi></stage>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Lieff Flora waerde Vrou,</l>
+<l>Voor d'eerbaer Vrouwen puyck, ick u Princesse hou.</l>
+<l>Ick ken, ick ben misleyt, ick ken, ick ben bedroghen,</l>
+<l>Tis Celia die heeft u valslick ouer-loghen;</l>
+<l>Tis Celia die heeft uyt haet op onse Min</l>
+<l>ghetracht u oneer my, te prenten inden zin.</l>
+<l>Tis Celia die heeft mijn ooghen doen aenschouwen</l>
+<l>door Toovery, het gunt ick ging warachtich houwen.</l>
+<l rend="speaker"><hi rend="i">Flora.</hi></l>
+<l rend="; 1tab">Ist mog'lick hooghe Godt? is mijn ghebet verhoort?</l>
+<l>Silactar liefste Vrint wat blyschap brengt dit woort.</l>
+<l>Tis my soo heuch'lick niet, om mynes sellefs wille,</l>
+<l>Maer mits ick daer door Heer u droeve quelling stille.</l>
+<l>Hoe wert een Dochter oock gheschent en gants onteert;</l>
+<l>En eer den leughen is door waerheyt afghekeert</l>
+<l>soo vliecht de faem vast heen, door Landen ende Steden,</l>
+<l>Maer Heer hoe weet ghy't nu? segt my 'twort u ghebeden</l>
+<l>Hoe comt ghy aent bescheyt?</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab"><hi rend="i">W</hi>t haren eygen mont.</l>
+
+<pb ed="fol." n="Giv"/>
+<l>Ick maeckt Flora Lieff, dat ick een middel vont,</l>
+<l>Om my in vremt ghewaet heel onbekent te maken,</l>
+<l>Off'ck haer Bicht-vader waer, soo quam ick haer ter spraken,</l>
+<l>En heb uyt haren mont haer valsheyt selfs verstaen.</l>
+<l>Ick weet de waerheyt nu, en zweyr van nu voortaen</l>
+<l>u t'achten als mijn Vrou, en sal u dad'lick trouwen,</l>
+<l>Nu met belooft en woort, wilt ghy my Flora houwen</l>
+<l>voor uwen echten Man?</l>
+<l rend="speaker"><hi rend="i">Flo.</hi></l>
+<l rend="; 1tab">Seer geyrn Silactar Heer,</l>
+<l>Kheb langhen tijt verlangt, na dese vreucht in eer.</l>
+<l>Hy die de Nieren kent, die weer oock mijn ghedachten,</l>
+<l>Hoe dat ick altijt Heer na uwen dienst betrachten.</l>
+<l>Ghy waert sta'ich in mijn zin, ghy heersten soo mijn Ziel</l>
+<l>Dat ick van niemants Lieffd, als vande uwe hiel.</l>
+<l>En nu wy zijn vereent, hoop ick my soo te draghen,</l>
+<l>Dat ghy niet gheene reen van my sult connen claghen</l>
+<l>Mijn wil Silactar Heer ick inden uwen set</l>
+<l>Gheen saeck en sal my doen in uwen dienst belet</l>
+<l>Gheluckich zijn die twee, die soo door Lieffd versamen.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Tot onser Zielenheyl moet sulcx gheschieden</l>
+<stage><hi rend="i">Zy segghen beyde</hi></stage>
+<l>Amen.</l>
+<stage><hi rend="i">binnen.</hi><lb/><hi rend="i">Soltana Thiossem, met een Boeck, Bel, Pot, ende een wit Roeyken.</hi></stage>
+<l rend="; 1tab">Tsnelvlieghende gherucht heeft my gebracht ter oren</l>
+<l>Dat Osman mijnen Soon, zijn leven heeft verloren,</l>
+<l>Verloren door de Beuls, en is ghestranguleert,</l>
+<l>Ghestranguleert, helaes! wiens doot my bitter deert.</l>
+<l>Maer off my schier verdrenckt den vloet der heete tranen</l>
+<l>Off dat ick heel verwoet, my selven wil gaen banen</l>
+<l>den wech des wreeden doots, daer me is myne saeck</l>
+<l>int minst noch niet gherecht. Alleenlick door de wraeck,</l>
+<l>Ick seg door wreede wraeck, te recht men can beloonen,</l>
+<l>Die, die hen schelmelick, off heel moordadich toonen.</l>
+<l>Wel seyt d'Italiaen, dat heuchelijcker dach</l>
+<l>dan als hy wraeck mach doen, hy noyt zijn leven sach.</l>
+<l>Soo ick Thiossem ben, Thiossem die door woorden</l>
+<l>seer dick de burgery van 'thelsche huys verstoorden.</l>
+<l>Thiossem, die met macht den duyst'ren Coning dwingt,</l>
+<l>Thiossem, door wiens woort d'eyrt van malcand'ren springht.</l>
+<l>Soo zweyr ick dat ick sal dees moorderijen wreken,</l>
+<l>Eensdeels door toovery, en anderdeels doort spreken</l>
+<l>van oproer tot het Volck, dat nemmer het ghehengt,</l>
+<l>De heersching vanden geen' die moordich omme-brengt</l>
+<l>die beter was als hy, dies ick mijn tooveryen</l>
+<l>begin, om haer dees moort te doen vermaledyen.</l>
+<l>Ghy Pluto die den staff vant duyster Rijck beheert,</l>
+<l>Ick bid tot dit mijn doen u doch ghevoech'lick keert.</l>
+
+<pb ed="fol." n="Gijr"/>
+<l>Ick hebt al toebereet, mijn hayr heb ick bestreken</l>
+<l>drie reysen, met het vocht uyt Arons zwarte beken.</l>
+<l>Den riem heb ick om 'tlijff, van Prester vol fenijn,</l>
+<l>Het cruyt Achemenis most in mijn ooren zijn.</l>
+<l>Nu maeck ick eenen rinck, een cirkel ront ghetrocken,</l>
+<l>Kheb in dees pot ghecooct, mijn cruyt met bloet van Bocken.</l>
+<l>Thert van een Leeuw daer by, een Ezels long met sout</l>
+<l>Een Egedisse bruyn, 'tsmeyr van een Raven out.</l>
+<l>Ick moet my zegenen, met teekens en met cruyssen,</l>
+<l>Op dat der gheesten stem, haer brullen en haer bruyssen</l>
+<l>my niet verschrickt en maeckt, hier zijn noch in ghedaen</l>
+<l>de vleug'len van een Mug, drie eyers van een Haen.</l>
+<l>De tonge van een Hen, drie Baseliscus ooghen,</l>
+<l>Die ick haer met dees hant heb levent uytghetoghen.</l>
+<l>Een Coning-Byen hals, en eenes Nacht-uyls gal,</l>
+<l>Noch een Entvoghels blaes, en eenen Wlen-bal.</l>
+<l>Met d'ooghen van een Mol, het sieden deed ick coelen,</l>
+<l>Met Ysich-water cout uyt Acherontis poelen.</l>
+<l>Khebt alles nu by een, en aenden duym daer by,</l>
+<l>Op dat ick als ick wil gheheel onsienbaer zy</l>
+<l>den ringh van Gyges oock, nu moet ick luyde schellen</l>
+<l>Dat driemael dit gheclanck mach schitt'ren inder hellen.</l>
+<l>Nu wens ick my weer-aen stracx na het Oosten toe,</l>
+<l>Ick mymer, murmureer, en alles wat ick doe</l>
+<l>'tstreckt tot der gheesten dwangh, vliet al nu van my henen</l>
+<l>die beefden als haer oyt is spokery verschenen.</l>
+<l>Ick seg u vliet van hier die schrickent sijt verveert,</l>
+<l>Op dat u gheen mis-val off flauwicheyt en deert,</l>
+<l>Vrees wijckt gheheel van my, als ick begin te tieren</l>
+<l>En roep met groot ghekrijs de grouwelijcke dieren</l>
+<l>Minos en Rhadamant, Eacus, Thesephoon</l>
+<l>Alecto, Megara, en al ghy helsche Goon.</l>
+<l>Fatale Parken 'tsa, laet uyt Averno vlieten</l>
+<l>de gheesten, duyvels me, haer hoofden opwaerts schieten.</l>
+<l>Ghy dry-hoofts-Cerber-hont, comt drie-ghedaentich voort.</l>
+<l>Deen als mijn Osmans gheest, en d'ander wraeck van moort.</l>
+<l>De derde Phafarel, voort off ick sal soo vloecken,</l>
+<l>Datt't alles beven sal, int diepst' der helscher hoecken.</l>
+<stage><hi rend="i">Phafarel verschijnt.</hi></stage>
+<l rend="; 1tab">Wee, wee, vervloecte Eyrd, wee, wee, vervloecte Mensch,</l>
+<l>Wie isser die na my, na Phafarel heeft wensch?</l>
+<l>Mach ick int grouw'lick hol daer al de Monsters krielen</l>
+<l>en tormenteren sta'ich de snoo verdoemde Zielen?</l>
+<l>Kseg, mach ick daer mijn dienst niet aen Plutonem doen?</l>
+<l>En sta'ich den zwarten nijt met Slanghen-vleesch gaen voen?</l>
+<l>En kemmen tschrick-lick hayr Proserpina met haken?</l>
+<l>Wat sal ick in dit licht in desen dach me maken?</l>
+
+<pb ed="fol." n="Gijv"/>
+<l rend="speaker"><hi rend="i">Thioss.</hi></l>
+<l rend="; 1tab">Gaet henen Phafarel, gaet neemt noch twee tot u</l>
+<l>de wreetste die ghy weet, daert al voor vluchtet schu,</l>
+<l>De vremtste vant ghedroch die inde poelen sweven,</l>
+<l>Den eenen wilt d'ghedaent des gheests van Osman gheven,</l>
+<l>Een strop in zyne hant, den and'ren schrick'lijck wreet</l>
+<l>met een root bloedich Sweyrt off hy wou wreken 'tleet,</l>
+<l>Comt in Mustaphas Zael, wanneermen hem sal Croonen,</l>
+<l>En laet den gheest voor al afgrijslick zich betoonen,</l>
+<l>Maeckt dat het gantsche Hoff van onghedult schier raest.</l>
+<l rend="speaker"><hi rend="i">Phaf.</hi></l>
+<l rend="; 1tab">Al 'tgeen ghy my beveelt, voldoe ick metter haest.</l>
+<stage><hi rend="i">beyde binnen.</hi><lb/><hi rend="i">Mustapha, Silactar, Dahout, Boustangj en Capi.</hi><lb/><hi rend="i">Silactar en Boustangj setten Mustapha de Kroon opt hooft. Dahout gort hem de Zabel. En</hi>de <hi rend="i">seggen altemale.</hi></stage>
+<l rend="; 1tab">Lang leeff Mustapha, ja, lang moet Mustapha leven.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l>Den grooten Mahons Godt, wil u lang leven gheven.</l>
+<l rend="speaker"><hi rend="i">Dah.</hi></l>
+<l rend="; 1tab">Lang moet u Majesteyt regeren dit u rijck.</l>
+<l rend="speaker"><hi rend="i">Boust.</hi></l>
+<l>Lang dees u Onderdaens u dienen alghelijck.</l>
+<l rend="speaker"><hi rend="i">Capi.</hi></l>
+<l rend="; 1tab">Lang moet ghy met geluck den Keysers Throon betreden.</l>
+<l rend="speaker"><hi rend="i">Must.</hi></l>
+<l rend="; 1tab">Ick wensch de Heeren oock in als g'lijck zy my deden.</l>
+<stage><hi rend="i">Hy gaet sitten inden Throon.</hi></stage>
+<l>Tbetaemt my Princen nu sorchvuldich te bewaren</l>
+<l>de Landen daer ghy my gaet Coningh van verclaren:</l>
+<l>Op dat door slappicheyt, in dees oproerg' en tijt,</l>
+<l>Ick niet wort 'tmeestendeel vant groot Turckijen quijt.</l>
+<l>Voor eerst na Cayro moet ick dad'lick volck gaen senden</l>
+<l>Op dat zy daer niet 'thooft na and're Princen wenden.</l>
+<l>Mijn Conincrijcken oock, int Asiaensch ghebiet</l>
+<l>Die welck met eenen naem Natolia men hiet.</l>
+<l>De Landen diemen vint, wanneer de blauwe baren</l>
+<l>vant Hellespontsche Meyr men ouer is ghevaren</l>
+<l>naer Sonnen opganck toe, die zijn noch wel versien</l>
+<l>Ghelijck cleyn Asia, Cilicia Bethin',</l>
+<l>Paphlagon, Phrigia, en 'tmachtich Trapezonden,</l>
+<l>Die Keyserlicke Stadt op Capadoci gronden.</l>
+<l>Galatia, Paphil, oock Caria ghebult,</l>
+<l>Die Landen die de Zee aen alle hoecken vult.</l>
+<l><hi rend="i">AE</hi>oly, Jonia, Smirna en Mitilenen,</l>
+<l>Sent daer in alderhaest nieu Beglerbecken henen.</l>
+<l>Hier in Romania, dat in Europa leyt,</l>
+<l>Twelck 'tgroot Propontis Meyr vant Asiatisch scheyt,</l>
+<l>Daer 'tswarte Pont-Euxin, ghelijck Bosphory golven</l>
+<l>Een waterighe straet heeft tusschen beyd ghedolven,</l>
+<l>Hier seg ick sal ick haest en opter versscher daet</l>
+<l>bestellen datter gheen ontroeringh op en staet.</l>
+<l>Ick Thracia bewoon voorts sullent met my houwen,</l>
+
+<pb ed="fol." n="Giijr"/>
+<l>Het volck van Dacia, ick mach oock wel betrouwen</l>
+<l>Dardanus oude Rijck, Achajen en Epyr',</l>
+<l>Peloponnese me, en 'tAcarnaensch quartier.</l>
+<l>Den vromen Macedoon en sal my niet begheven,</l>
+<l>En 'tWindisch volck is sta'ich zijn Princen trou ghebleven.</l>
+<l>Meed moetmen draghen sorch, dat vast blijft het verbond</l>
+<l>met 'tChristen volck ghemaeckt, als met den Sigismond</l>
+<l>die 'tPoolsche Rijck besit, en met den Prins der Gallen</l>
+<l>den Fransschen Lodowijck, doch wil ick boven allen</l>
+<l>des vrientschaps onderhout, met Hollant wijt vermaert,</l>
+<l>Dat Hollant welckers Faem tot aende wolcken vaert.</l>
+<l>Dat Hollant dat soo lang ghestreden heeft met Spaengien,</l>
+<l>Met hulp Mauritij des Princen van Oraengien.</l>
+<l>Dien tweeden Hannibal, dien Blicxem inden crijch,</l>
+<l>Wiens daden ick alsnu om cortheyts wil verswijch.</l>
+<l>Dat Hollant seg ick, dat, dat wil ick vrintschap toonen,</l>
+<l>en al de lien van daer, die in Turckijen woonen,</l>
+<l>Maer Princen draech ick sorch voor Rijck, voor Lant en Ste,</l>
+<l>Ick hoor te draghen sorch, dan voor mijn selven me.</l>
+<l>Sta'ich ben ick gants ontrust, sta'ich doe ick niet dan dromen,</l>
+<l>Dies wil ick dat terstont de Musicijns hier comen,</l>
+<l>Dat mynen droeven gheest doort spelen wat verheucht,</l>
+<l>G'lijck Saul voortijts oock doort snaren-spel socht vreucht.</l>
+<stage><hi rend="i">De Musicijns spelen. Osmans Geest begint te neurien achter.</hi></stage>
+<l rend="speaker"><hi rend="i">Boust.</hi></l>
+<l rend="; 1tab">Hoor, wat Musijck is dat?</l>
+<l rend="speaker"><hi rend="i">Capi.</hi></l>
+<l rend="; 1tab">Tis binnen inde salen,</l>
+<stage><hi rend="i">Hy ziet eens binnen.</hi></stage>
+<l>wel 'ksie daer niema<hi rend="i">n</hi>t niet.</l>
+<l rend="speaker"><hi rend="i">Must.</hi></l>
+<l>Kdenc Phebus af comt dale<hi rend="i">n</hi></l>
+<stage><hi rend="i">Den Geest singt voort, Voyce: Cornette Musicael.</hi><lb/><hi rend="i">Een veers binne</hi>n<hi rend="i">, en</hi>de <hi rend="i">inde tweede comt hy uyt.</hi></stage>
+<l rend="; 2tab"><hi rend="b">A</hi>Y wreeden moort! aen my bedreven,</l>
+<l rend="; 2tab">Ay wreeden last! by u ghegheven:</l>
+<l rend="; 2tab">Ay schandelic bestaen!</l>
+<l rend="; 2tab">Tis noyt ghebleken:</l>
+<l rend="; 2tab">Noyt is 'sghelijcx ghedaen,</l>
+<l rend="; 2tab">Als ghy my dedet aen,</l>
+<l rend="; 2tab">Wel hoort nu mijn vermaen,</l>
+<l rend="; 2tab">'tVolck sal met veel ghetraen,</l>
+<l rend="; 2tab">Mijn doot, ja moort, noch schrick'lic wreken.</l>
+<l rend="; 3tab">Dus siet vry toe, ghy boose Menschen,</l>
+<l rend="; 2tab">Die door moet-wil het gaet na wenschen,</l>
+<l rend="; 2tab">De wraeck doch nimmer rust,</l>
+<l rend="; 2tab">Maer sta'ich sal woelen:</l>
+<l rend="; 2tab">Op dat u boose lust,</l>
+<l rend="; 2tab">Die ghy nu hebt gheblust,</l>
+<l rend="; 2tab">Door veel Soldaten wust,</l>
+<l rend="; 2tab">Sal stranden aen u cust.</l>
+<l rend="; 2tab">En rechte straff u doen ghevoelen.</l>
+
+<pb ed="fol." n="Giijv"/>
+<stage><hi rend="i">D'andere staen altesamen teghen malcanderen en praten, Mustapha sit in zijnen Throon en slaept. Den Gheest ghesonghen hebbende, roept over-luydt</hi></stage>
+<l rend="speaker"><hi rend="i">Must</hi></l>
+<l rend="; 1tab">Waec op, waec op, waec op, waec op, waec op, mijn Oom.</l>
+<stage><hi rend="i">Met dat spreken comt van onderen Vuyr, ende van boven Blicxem stralen. De wraeck met een bebloet sweert in d'een hant, ende een Fackel in dander hant, comen schielic op, De Wraec seyt anders niet dan opt pauseren vanden Gheest wraec, wraec, en</hi>de <hi rend="i">Phasarel hor, hor.</hi></stage>
+<l rend="speaker"><hi rend="i">Must.</hi></l>
+<l>Ay my, moort, moort, wats dit? hoe is mijn hert vol schroom</l>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Wee, wee, Mustapha wee, wee, dat ghy my deed moorden,</l>
+<l>Wee Dahout wee, dat ick mijn doots-woort van u hoorden.</l>
+<l>Wee, wee, Silactar wee, wee oorsaeck van dit quaet,</l>
+<l>Wee, wee, Silactar wee, ghy gaeft hier toe den raet.</l>
+<l>Wee, wee, Silactar wee, de daet die sal noch toonen,</l>
+<l><hi rend="i">Hoe dat den quaden Raedt sta'ich gaet zijn Meester loonen.</hi></l>
+<l>Beeft, 'kseg Mustapha beeft, ghy Dahout wort verworcht</l>
+<l>noch binnen Maenden acht, ha Schelm, daer vry voor sorcht.</l>
+<stage><hi rend="i">De Personagien wycken alt'samen binnen, behalven Mustapha, ende de Spoken.</hi></stage>
+<l rend="speaker"><hi rend="i">Osm.</hi></l>
+<l rend="; 1tab">Mustapha, ha mijn Oom! wat had ick doch bedreven?</l>
+<l>Bedreven? dat ghy my soo schand'lick brocht om 'tleven?</l>
+<l>Om 'tleven? was ghenaed dan uyt u hert ghevlucht?</l>
+<l>Ghevlucht? dat g'om mijn doot loost naulicx eenen sucht?</l>
+<l>Wee, wee, Mustapha wee, wraeck, wraeck, sal noch gebeuren.</l>
+<l>De wraeck sal noch dit Rijck geweldelick versteuren.</l>
+<l>Tghewoel, 'tgheraes, 'tghetier, noch drucken sal u hert,</l>
+<l>Siet toe, of ghy int laest oock niet vermoort en wert.</l>
+<stage><hi rend="i">De Gheesten verdwynen.</hi><lb/><hi rend="i">Mustapha de Gheesten langhe ontweken hebbende, is eyndlic in zynen Throon in flaute gevallen.</hi><lb/><hi rend="i">De Gheesten wech zynde, schiet hy haestich op.</hi></stage>
+<l rend="speaker"><hi rend="i">Must.</hi></l>
+<l rend="; 1tab">Neeff Osman, wel hoe nu? waer zijt ghy heen vervloghen?</l>
+<l>Ay my! wast Osman niet? off heeft my waen bedroghen?</l>
+<l>Ay my! vervloeckten dach, ay my! vervloeckte uyr,</l>
+<l>Ay my! vervloeckte stont, dat'ck u brocht int getruyr.</l>
+<l>Osman, waer gaet ghy heen? laes hoe waert ghy ontleken;</l>
+<l>Hoe was dijn aenschijn droef, strack na de doot ghestreken,</l>
+<l>Hoe was dijn hayr verwert, hoe bleeck was u coleur?</l>
+<l>Osman waer vliet ghy heen? wilt ghy soo haestich deur?</l>
+<l>Ay my! mijn hert besterft, 'ken cant niet langher draghen,</l>
+<l>Ay Osman, 'ksal u doot, tot in mijn doot beclaghen.</l>
+<stage><hi rend="i">Silactar, Dahout, Boustangj, en Capi.</hi></stage>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l rend="; 1tab">Mustapha, wel mijn Heer, hoe zijt ghy dus in flout?</l>
+<l rend="speaker"><hi rend="i">Must.</hi></l>
+<l>Ay my! soo heeft 'tvertoon der gheesten my benout.</l>
+<l rend="speaker"><hi rend="i">Dah.</hi></l>
+<l rend="; 1tab">Wat hebben zy mijn Heer, aen u persoon bedreven?</l>
+<l rend="speaker"><hi rend="i">Boust.</hi></l>
+<l>Sijn hert is soo verschrickt, hy can gheen antwoort gheven.</l>
+
+<pb ed="fol." n="Giiijr"/>
+<l rend="speaker"><hi rend="i">Capi.</hi></l>
+<l rend="; 1tab">Mijn Heer ick bid ons segt, of u yets is misschiet.</l>
+<l rend="speaker"><hi rend="i">Silact.</hi></l>
+<l>Ick bid mijn Heer verbercht voor ons int minste niet.</l>
+<l rend="speaker"><hi rend="i">Must</hi></l>
+<l rend="; 1tab">Helaes ghy Princen ach, wat dat mijn is ervaren,</l>
+<l>En can opt hondertst' deel ick nauwelicx verclaren.</l>
+<l>Sy zwierden om mijn Lijff, en riepen wreede wraeck</l>
+<l>Wraec, wraec, was al den roep, wraec, wraeck van dese saeck.</l>
+<l>Sy dreychden vreesselick, en met verwoede woorden</l>
+<l>soo riepen zy al wraec, wraec van het bloedich moorden.</l>
+<l>En eyndelick soo quam ick buyten mijn ghevoel,</l>
+<l>Soo dat ick niet meer weet vant ysselick ghewoel</l>
+<l>noch waert ghebleven is, 'tblijckt dat om my te pijnen,</l>
+<l>Veel spoken en ghedroch my stadelick verschijnen.</l>
+<l>Doch hoop ick door ghebe'en, en oock door goeden raet</l>
+<l>verlost te worden noch, vant dreyghelijcke quaet.</l>
+<l>Ick hoop mijn Onderdaens met redenen te stieren,</l>
+<l>En haer te Heerschen soo met Deucht en goe manieren,</l>
+<l>Want ick dit Woort altijt ghedachtich ben gheweest</l>
+<l><hi rend="i">Datt't beter is, bemint te worden, dan ghevreest.</hi></l>
+<l>Ick sal mijn beste doen, om allen haet te dempen,</l>
+<l>Want tege<hi rend="i">n</hi> tgroeyent quaet, steets ellic mensch moet kempen.</l>
+</lg>
+<p><hi rend="i">Elck Mensch moet Kempen. </hi></p>
+<p><hi rend="i">A.K.A.</hi></p>
+<p><hi rend="i">By de Kamer.</hi></p>
+<p><hi rend="i">Vernieuw't uyt Lieffden.</hi></p>
+<p><hi rend="i">Gorinchem.</hi></p>
+
+<pb rend="blank" ed="fol." n="Giiijv"/>
+
+</div>
+</body>
+</text>
+</TEI.2>

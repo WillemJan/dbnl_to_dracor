@@ -1,0 +1,1342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Eer-, zege- en lykplichten, ter gedachtenisse van wijlen den Ed. Heer M. Adr. de Ruiter</title>
+               <author>Govert Bidloo</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Eer-, zege- en lykplichten, ter gedachtenisse van wijlen den Ed. Heer M. Adr. de Ruiter</hi> van Govert Bidloo uit 1685.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>p. 18: de kop ‘Tweede deel’ is tussen vierkante haken toegevoegd.</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+        
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">bidl001eerz01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note></note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Theater Instituut Nederland, signatuur: TIN sign 5 L 9: 1</idno>
+               </bibl>
+               <p>Govert Bidloo, <hi rend="i">Eer-, zege- en lykplichten, ter gedachtenisse van wijlen den Ed. Heer M. Adr. de Ruiter</hi>. Erven Jacob Lescailje, Amsterdam 1685</p>
+               <p>&#160;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Eer-, zege- en lykplichten, ter gedachtenisse van wijlen den Ed. Heer M. Adr. de Ruiter</title>
+               <author>Govert Bidloo</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Eer-, zege- en lykplichten, ter gedachtenisse van wijlen den Ed. Heer M. Adr. de Ruiter</title>
+               <author>Govert Bidloo</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-08-24</date>
+               <respStmt>
+                   <name type="person">DH</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+<interpGrp>
+<interp type="secundair" value="ruyt002"/>
+</interpGrp>
+       <body><cf>
+<div type="chapter">
+
+<pb n="1"/>
+<p>Eer- Zege- en Lykplichten,</p>
+<p>TER GEDACHTENISSE</p>
+<p><hi rend="i">Van wijlen den Ed: Heer</hi></p>
+<p>M. A D<hi rend="sup">r</hi>. de RUITER,</p>
+<p>Hertog, Ridder, L<hi rend="sup">t</hi>. Admiraal Generaal van Holland en West-Vriesland.</p>
+<p>
+<figure>
+<p><xptr to="bidl001eerz01ill0002.gif"/></p></figure></p>
+<p>t' AMSTERDAM,</p>
+<p>By d'Erfg: van <hi rend="sc">Jacob Lescailje</hi>, op den Middeldam, naast de Vischmarkt, 1685.</p>
+<p>Met Privilegie.</p>
+</div></cf>
+<div type="chapter">
+<interpGrp>
+<interp type="primair" value="16850220"/>
+<interp type="primair" value="fage005"/>
+<interp type="primair" value="beau026"/>
+</interpGrp>
+<pb n="2"/>
+<head rend="h3">Copye Van de privilegie.</head>
+<p>DE Staten van Hollandt ende West-Vrieslandt doen te weten. Alsoo Ons vertoont is by de tegenwoordige Regenten van de Schouwburgh tot Amsterdam, dat sy Supplianten sedert eenige Jaren herwaarts met hunne goede vrinden hadden gemaakt en ten Toonele gevoert verscheyden Werken, soo van Treurspeelen. Blyspeelen als Kluchten, welke sy lieden nu geerne met den druk gemeen wilden maken: doch gemerkt dat dese werken door het nadrukken van anderen, veel van hun luyster, soo in Taal als Spelkonst souden komen te verliesen, en alsoo sy Supplianten hen berooft souden sien van hun bysonder ooghwit om de Nederduytsche Taal en de Dichtkonst voort te setten, soo vonden sy hen genoodsaakt, om daar inne te voorsien, onde hen te keeren tot Ons, onderdanig versoekende, dat Wy omme redenen voorsz. de Supplianten geliefden te verleenen Octroy ofte Privilegie, omme alle hunne Werken reedts gemaekt ende noch in 't licht te brengen, den tijdt van vijftien Jaren alleen te mogen drukken en verkoopen of doen drukken en verkoopen, met verbodt van alle anderen op seekeren hooge peene daar toe by Ons te stellen, ende voorts in communiforma. Soo is 't dat Wy de Sake en 't Versoek voorsz. overgemerkt hebbende, ende genegen wesende ter bede van de Supplianten, uyt Onse rechte wetenschap, Souveraine macht ende authoriteyt deselve Supplianten geconsenteert, geaccordeert ende geoctroyeert hebben, consenteren, accorderen ende octroyeren mitsdesen, dat sy geduurende den tijdt van vijftien eerft achter een volgende Jaren de voorsz. Werken die reeds gedrukt zijn, ende die van tijdt tot tijdt door haar gemaakt ende in 't ligt gebragt sullen werden, binnen den voorsz. Onsen Lande alleen sullen mogen drukken, nytgeven en verkoopen. Verbiedende daarom allen ende eenen ygelijken deselve Werken naar te drukken, ofte elders naargedrukt binnen den selve Onsen Lande te brengen, uyt te geven ofte te verkoopen, op de verbeorte van alle de naargedrukte, ingebragte ofte verkogte Exemplaren, ende een boete van drie
+hondert guldens daar en boven te verbeuren, te appliceren een derde part voor den Officier die de calange doen sal, een derde part voor den Armen der Plaatse daar het casus voorvallen sal, ende het resterende derde part voor den Supplianten. Alles in dien verstande, dat wy de Supplianten met desen Onsen Octroye alleen willende gratificeren tot verhoedinge van hare schade door het nadrukken van de voorsz. Werken, daar door in geenige deelen verstaan, den inhoude van dien te autheriseren ofte te advoueren, ende veel min de leive onder Onse protectie ende bescherminge eenig meerder credit, aensien ofte reputatie te geven, nemaer
+<pb n="3"/>de Supplianten in cas daar in yets onbehoorlyx soude mogen influeren, alle het selve tot haren lasten sullen gehouden wesen te verantwoorden; tot dien synde wel expresselijk begeerende, dat by aldien sy desen Onsen Octroye voor de [...]ve Werken sullen willen stellen, daar van gene geabrevieerde ofte gecontraheerde mentie sullen mogen maken, nemaar gehouden sullen wesen het selve Octroy in 't geheel ende sonder eenige Omissie daar voor te drukken ofte te doen drukken, ende dat sy gehouden sullen zijn een exemplaar van al de voorsz. werken, gebonden en wel geconditioneert te brengen in de Bibliotheecq van Onse Universiteyt tot Leyden, ende daer van behoorlyk te doen blyken. Alles op poene van het effect van dien te verliesen. Ende ten eynde de Supplianten desen Onsen consente Octroye mogen genieten als naar behooren: Lasten wy alle ende eenen ygelijken die 't aangaan mag, dat sy de Supplianten van den inhoude van desen doen, laten en gedogen, rustelijk en volkomentlijk genieten, en cesserende alle beletten ter contrarie. Gedaan in den Hage onder Onsen grooten Zegele hier aan doen hangen den <hi rend="sc">xix</hi> September, in 't Jaar onses Heeren en Zaligmakets duysent ses hondert vier en tachtigh.</p>
+<p>&#160;</p>
+<p>G. FAGEL.</p>
+<p>&#160;</p>
+<p>Ter Otdonnantie van de Staten</p>
+<p>&#160;</p>
+<p>SIMON van BEAUMONT.</p>
+<p>&#160;</p>
+<p>De tegenwoordige <hi rend="sc">Regenten</hi> van de <hi rend="sc">Schouburgh</hi>, hebben het Recht van de bovenstaende Privilegie, voor deze Eer-Zege- en Lijkplichten, ter gedachtenisse van den H<hi rend="sup">r</hi>. de <hi rend="sc">Ruiter</hi>, vergunt aan d'Erfgenamen van <hi rend="sc">Jacob Lescailje</hi>.</p>
+<p>&#160;</p>
+<p><hi rend="i">In Amsterdam, den</hi> 20 <hi rend="i">February</hi>, 1685.</p>
+</div>
+<div type="chapter">
+<pb n="4"/>
+<head rend="h3">Aan de leezers, of aanschouwers.</head>
+<p>WY brengen u, by wijze van Vertooningen, in drie Deelen geschikt, de waardige geheugenis des beroemden Admiraals M.A. de <hi rend="sc">Ruiter</hi> te voorschijn; niet dat wy daar door meerder verdienst van zijnen roem, als voor heen, zoo veel Dichters die hunne brave pennen daar op gestompt hebben behaalden, meenen te erlangen; maar om zijne daaden, en hunne schriften in eeuwiger gedachten te houden. Want heeft men voor eenige tijden Jaarspeelen, Jaarfeesten en Plechtigheden den grooten Mannen en Oversten, wier arm en wijsheid den Vaderlande ten dienste geweest waaren, ingeweyd, en aangesteld; zou 't geen ondankbaarheld voor de nakomelingen schijnen, zoo wy ingezetenen zoo veel weldaaden, dapperheden en krijgsgevallen, by den Staat met eertekenen erkent, en ten onzen voordeele van deezen onzen Manhaftigen Held beleid, aan de vadzege vergetelheid overgaaven? gewisselijk, ziet hier dan ons groote oogmerk en neemt dit voor een teken van <hi rend="i">Yver</hi> die <hi rend="i">in liefde</hi> tot deugd <hi rend="i">bloeyende</hi>, ook uyt zijn lof, eere voor de kunst zoekt te haalen.</p>
+<p>Tot onderrichtinge dient, dat wy de Zangen, waar onder wy op de raad van veele dies kunsts kundigste deezer Stad, eenige der bekende Italiaansche Zangmaaten gebruikt hebben, met deeze ‘tekenen, en de niet algemeen bekende Sieraaden der Perzoonen en Tooneelen op de behoorlijke plaatzen hebben aangeweezen.</p>
+</div>
+<div type="chapter">
+<pb n="5"/>
+<head rend="h3">Vertooners.</head>
+<list>
+<item><hi rend="sc">Neptunus</hi>.</item>
+<item><hi rend="sc">Triton</hi>.</item>
+<item><hi rend="sc">Mars</hi>.</item>
+<item><hi rend="sc">Hercules</hi>.</item>
+<item><hi rend="sc">Jason</hi>.</item>
+<item><hi rend="sc">Mercurius</hi>.</item>
+<item><hi rend="sc">Eölus</hi>.</item>
+<item>'s <hi rend="sc">Lands Zeemagt Of De Admiraliteit</hi>, <hi rend="i">verbeeld door een Vrouw, hebbende een kleed aan met baaren en water gesierd, een schepter met een zeegaffel boven uit in de eene, een lans met ankers en een vlag met het wapen der algemeene Staaten in de andere hand en een scheepskroon op't hoofd</hi>.</item>
+<item><hi rend="sc">Amsterdam</hi>.</item>
+<item><hi rend="sc">Saturnus</hi>.</item>
+<item><hi rend="sc">Clotho</hi>. } <hi rend="i">De drie Godinnen van 't Noodlet</hi>.</item>
+<item><hi rend="sc">Lachesis</hi>. } <hi rend="i">De drie Godinnen van 't Noodlet</hi>.</item>
+<item><hi rend="sc">Atropos</hi>. } <hi rend="i">De drie Godinnen van 't Noodlet</hi>.</item>
+<item><hi rend="sc">Bellona</hi>.</item>
+<item><hi rend="sc">Razernyen</hi>.</item></list>
+<div type="section">
+<head><hi rend="i">Rey van Geesten, eeniger groote Zeehoofden, waar van dry spreeken</hi>.</head>
+<list>
+<item><hi rend="sc">Xerxes</hi>, <hi rend="i">Koning van Persiën</hi>.</item>
+<item><hi rend="sc">Pompeus</hi>, <hi rend="i">Romeinsch Overste</hi>.</item>
+<item><hi rend="sc">Hiero</hi>, <hi rend="i">Koning van Syracusen</hi>.</item></list>
+</div>
+<div type="section">
+<head rend="h4">Zingende.</head>
+<list>
+<item><hi rend="sc">Zeevaard</hi>, <hi rend="i">Een Vrouw houdende een kompas in de eene, een graadboog in de andere hand, het hoofd is met sterren gesierd</hi>.</item>
+<item><hi rend="sc">Zeenymphen</hi>.</item>
+<item><hi rend="sc">Zee-Ridders</hi>.</item>
+<item><hi rend="sc">Eendragd</hi>.</item>
+<item><hi rend="sc">De Zeven Provincien</hi>, 7 <hi rend="i">Vrouwen, onderkennelijk aan haare wapenen, hoofdsieraaden en kleden. Zijnde</hi> Holland <hi rend="i">en</hi> Zeeland <hi rend="i">met steve</hi>-, Vriesland <hi rend="i">met een groene en koninglijke</hi>-, Groeningen <hi rend="i">met greente en een bloeme</hi>-, Uitrecht <hi rend="i">met een myter</hi>-, Gelderland <hi rend="i">met een muuren</hi> Overyzel <hi rend="i">met een lieze kroon versierd. Deeze zietmen alle in den rouw in 't 3de deel</hi>.</item>
+<pb n="6"/>
+<item><hi rend="sc">Het Krygsgeluk</hi>.</item></list>
+</div>
+<div type="section">
+<head rend="h4">Danzende.</head>
+<list>
+<item><hi rend="sc">Zeeridders</hi>.</item>
+<item><hi rend="sc">Razernyen</hi>.</item>
+<item><hi rend="sc">Vechtende Volkeren</hi>.</item>
+<item><hi rend="sc">Weenende Burgers</hi>.</item></list>
+</div>
+<div type="section">
+<head rend="h4">Zwygende.</head>
+<list>
+<item><hi rend="sc">Soldaaten</hi>, <hi rend="i">Bende van Mars</hi>.</item>
+<item><hi rend="sc">Ridders</hi>, <hi rend="i">Bende van Hercules</hi>.</item>
+<item><hi rend="sc">Meermannen</hi> en <hi rend="sc">Meerminnen</hi>.</item>
+<item><hi rend="sc">Stroom Goden</hi>.</item>
+<item><hi rend="sc">Priesters</hi>.</item>
+<item><hi rend="sc">Vrees</hi>.</item>
+<item><hi rend="sc">Schrik</hi>.</item>
+<item><hi rend="sc">Armoe</hi>.</item>
+<item><hi rend="sc">Zeehoofden</hi>.</item>
+<item><hi rend="sc">De Ruiter</hi>.</item></list>
+<div type="section">
+<head><hi rend="i">Eenige Perzoonen verbeeldende den staat van 't Land</hi>.</head>
+<list>
+<item><hi rend="sc">Inwoonders</hi> der <hi rend="sc">Provincien</hi>.</item>
+<item><hi rend="sc">Scheepsvolk</hi>.</item>
+<item><hi rend="sc">Verwonnene Soldaaten</hi> en <hi rend="sc">Scheepsvolk</hi>, <hi rend="i">van verscheide Volken</hi>.</item>
+<item><hi rend="sc">Verloste Slaaven</hi>.</item>
+<item><hi rend="sc">Turken</hi>.</item></list>
+</div>
+</div>
+</div>
+<div type="act">
+<pb n="7"/>
+<head rend="h2">Eer- zege- en lykplichten, ter gedachtenisse <hi rend="i">Van wijlen den Ed: Heer</hi> M. Ad<hi rend="sup">r</hi>. de Ruiter,
+<lb/>
+Hertog, Ridder, L<hi rend="sup">t</hi>. Admiraal Generaal van Holland en West-Vriesland.</head>
+<head rend="h3">Eerste deel.</head>
+<stage><hi rend="i">Het Tooneel verbeeld een stille Zee, omheint van Duinen, Bergen en Bosschen, aan de monden eeniger Rievieren leggen Strocm-Goden, ver in de zee ziet men Neptunus op een Wagen, getrokken van 2 Zeepaarden, rondom hem Zeegedrochten en Vissen, voor hem dobberen en drijven eenige Zeenymphen en Watergooden, in der zelver midden zit de Zeevaard op een Dolphijn, zingende onder 't geluid van speeltuig</hi>.</stage>
+<l>‘GEen Winden ontraaden,</l>
+<l rend="; 3tab">‘'t Gespeel van de vloeden,</l>
+<l rend="; 2tab">‘Geen buien beletten,</l>
+<l>‘Den klank der trompetten,</l>
+<l rend="; 1tab">‘Wijl Zeeman mag spoeden,</l>
+<l>‘En kielen belaaden.</l>
+<sp>
+<speaker><hi rend="i">Hier na zingt de zelve met een der</hi> <hi rend="sc">Zeenimphen</hi>.</speaker>
+<l>‘Gezusters wier oogen</l>
+<l rend="; 1tab">‘De Zon ook verduistren,</l>
+<l>‘Hoe krachtig in 't branden,</l>
+<l>‘Wy nad'ren de stranden,</l>
+<l rend="; 1tab">‘Neptunus zal luist'ren,</l>
+<l>‘Komt eert zijn vermoogen.</l></sp>
+<pb n="8"/>
+<sp>
+<speaker><hi rend="i">Hier op spreekt een der</hi> <hi rend="sc">Tritons</hi>.</speaker>
+<l rend="; 2tab">'t Gaat wel Godinnen van de vloed,</l>
+<l rend="; 3tab">Zingt dat van 't vrind'lijk golvend Water,</l>
+<l rend="; 2tab">Uw stem op Strand en Bosch herschaater,</l>
+<l rend="; 3tab">Wijl gy den grooten Vader groet.</l></sp>
+<sp>
+<speaker><hi rend="i">Hier op zingen alle de</hi> <hi rend="sc">Nimphen</hi>.</speaker>
+<l rend="; 3tab">‘Neptuun die de Golven kemt,</l>
+<l rend="; 2tab">‘En 't weer met uw drietand temt,</l>
+<l>‘Ay! luister naar de klank uit koraal, schelp en hooren,</l>
+<l>‘Uw groen en blaauw gevolg wil uwe gunst bekooren,</l>
+<l rend="; 1tab">‘Elk vlecht een krans van wier, daar hy woeld,</l>
+<l rend="; 4tab">‘Daar hy spoeld,</l>
+<l rend="; 4tab">‘Daar hy speeld,</l>
+<l rend="; 4tab">‘Daar hy queeld,</l>
+<l rend="; 4tab">‘Daar hy kemt,</l>
+<l rend="; 4tab">‘Daar hy zwemt.</l>
+<l rend="; 2tab">‘Neptuun die de golven kemt</l>
+<l rend="; 2tab">‘Elk laat nu uw waterzaalen,</l>
+<l rend="; 2tab">‘Wijl de kou geen baaren stremt,</l>
+<l rend="; 2tab">‘Stel alhier de lust geen paalen.</l>
+<l>‘Neptuun die &amp;c.</l>
+<l>‘En 't weer met &amp;c.</l></sp>
+<sp>
+<speaker><hi rend="sc">Triton</hi>.</speaker>
+<l rend="; 2tab">Schiet uit de kriftalijne kil,</l>
+<l rend="; 3tab">Vermaakt, wijl wy zijn hoofd bekranssen,</l>
+<l rend="; 3tab">Den grooten Zeegod door uw danssen,</l>
+<l rend="; 2tab">Voort watergoden, 't is zijn wil.</l></sp>
+<div type="scene">
+<head rend="h4">Dans van watergoden.</head>
+<sp>
+<speaker><hi rend="i">Na den dans zegt, na dat hy langzaam naar voren gevoerd, en op 't strand getreden is</hi>, <hi rend="sc">Neptunus</hi>.</speaker>
+<l>Houd stand, gy kloeke Waterheeren:</l>
+<l>Maar Nimphen, die mijn reis wilde eeren</l>
+<l>Met dans, gespel en maatgezang;</l>
+<l>Spoeid weêr te rugge en wacht zoo lang,</l>
+<pb n="9"/>
+<l>Tot Triton u weer op komt daagen.</l>
+<l rend="; 1tab"><hi rend="i">De Nimphen en 't gevolg verzinken</hi>.</l>
+<l>Gy Watergoden, die mijn waagen,</l>
+<l>Langs Vloeden, Stroomen, Meeren, Zeên</l>
+<l>Verzelden, geen aanloklijkheên</l>
+<l>Van schoone Nimphen of Godessen</l>
+<l>My, om mijn minnebrand te lesschen,</l>
+<l>Dus verre dreeven, 'k zal in schijn</l>
+<l>Van dier noch stroom, om vry te zijn</l>
+<l>In minnedriften, my versteeken,</l>
+<l>'k Zal u van grooter toeleg spreeken,</l>
+<l>Een heldewerk, noch nooit gehoort.</l></sp>
+<sp>
+<speaker><hi rend="sc">Triton</hi>.</speaker>
+<l>Waar zijn wy hier? hoe heet deeze oord.</l></sp>
+<sp>
+<speaker><hi rend="sc">Neptunus</hi>.</speaker>
+<l>Wy zijn aan de Europeesche stranden,</l>
+<l>Wy zijn voor Holland, daar de Landen</l>
+<l>Van daar het ongestuimig nat</l>
+<l>Des Oceaans te rugge spat,</l>
+<l>Tot daar de Noordbeer uit zijn kuilen,</l>
+<l>Van hongers nood en kou moet huilen.</l>
+<l>Met diep verwond'ren stil voor staan,</l>
+<l>En bieden schat en plichten aan.</l>
+<l>Wy zullen hier Alcides wachten;</l>
+<l>Met Jason, vol van moed, en krachten,</l>
+<l>Ter voorbeeld van een Held gedaagd,</l>
+<l>Wiens naam de mist van nijd verjaagd,</l>
+<l>En als een zon uit laager kimmen,</l>
+<l>Met zegen boven de Aard komt klimmen.</l>
+<l>Gy zult Gradivus hier te steê</l>
+<l>Ook zien verschijnen op mijn beê.</l>
+<l>Wy hebben voor....maar ziet hem koomen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mars</hi> <hi rend="i">verschijnt met een bende</hi> <hi rend="sc">Soldaten</hi>, <hi rend="i">onder geluid van Trommelen, Trompetten, en ander sterk geluidgeevend Speeltuig</hi>.</speaker>
+<l>Vlied niet, wilt voor de klank niet schroomen</l>
+<pb n="10"/>
+<l rend="; 1tab">Die uit trompet en van den trom,</l>
+<l rend="; 1tab">Door lucht en woud dreunt. Wellckom</l>
+<l rend="; 1tab">Doorluchtig hoofd der Oorlogsbenden,</l>
+<l rend="; 1tab">Die met geweer uw vuist, uw lenden</l>
+<l rend="; 1tab">En borst met glinstrend staal bekleed</l>
+<l rend="; 1tab">Zie wie vol lust ook herwaard treed.</l></sp>
+<sp>
+<speaker><hi rend="sc">Hercules</hi>, <hi rend="i">en</hi> <hi rend="sc">Jazon</hi>, <hi rend="i">met eenige Ridders uit</hi>. <hi rend="sc">Mars</hi>.</speaker>
+<l rend="; 1tab">De Leeuwenhuid doed elk hem kennen,</l>
+<l rend="; 2tab">Die van zijn wieg af, 't leewenhert</l>
+<l rend="; 1tab">Tot alle last en dienst wou wennen,</l>
+<l rend="; 2tab">En in den arbeid sterker werd.</l>
+<l rend="; 1tab">'t Gevolg van zijne braave Ridd'ren,</l>
+<l rend="; 2tab">Doed schendery en overlast,</l>
+<l rend="; 1tab">Voor de opslag hunner oogen sidd'ren,</l>
+<l rend="; 2tab">Elk heeft op zijne tijd gepast.</l></sp>
+<sp>
+<speaker><hi rend="sc">Hercules</hi>.</speaker>
+<l>Nu ik de grenzen zie van uw asuur Palcis,</l>
+<l>Zie ik het eind ook van mijn moeielijke reis.</l>
+<l>Wat heeft u Godhêen tot dees zamenkomst bewoogen?</l>
+<l>Men zag u zelden dus vernoegd en opgetoogen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Neptunus</hi>.</speaker>
+<l rend="; 1tab">Geen zege op Zee, of vloed verkreegen,</l>
+<l rend="; 1tab">Kon mijnen ernst zoo zeer beweegen,</l>
+<l rend="; 1tab">Mijn hert zoo diep met blijdschap slaan,</l>
+<l rend="; 1tab">Als nu ick u gereed zie staan</l>
+<l rend="; 1tab">Ter mijner hulp. 'k Heb voorgenoomen,</l>
+<l rend="; 1tab">Ten top daar niemand noch kon koomen,</l>
+<l rend="; 1tab">Een Held te voeren, die dit Land</l>
+<l rend="; 1tab">Zoo vaak in woedende Oorlogsbrand</l>
+<l rend="; 1tab">Beschermt heeft; en wien mijne vloeden,</l>
+<l rend="; 1tab">Naar Vrind en Vyand zagen spoeden;</l>
+<l rend="; 1tab">En t'elkens keeren met geluid</l>
+<l rend="; 1tab">Van zege en eer en winst en buid.</l>
+<l rend="; 1tab">De Ruiter moet, terwijl de twisten,</l>
+<l rend="; 1tab">Veroude wrok en vuile listen</l>
+<l rend="; 1tab">De Bondgebuuren onderling</l>
+<pb n="11"/>
+<l rend="; 1tab">Ontrusten, met zijn raad en kling</l>
+<l rend="; 1tab">Een onberispelijk voorbeeld geeven</l>
+<l rend="; 1tab">Van Heldedeugd; gy aangedreeven</l>
+<l rend="; 1tab">Van eed'le plicht, maal voor hem af,</l>
+<l rend="; 1tab">De proeven die uw sterkheid gaf:</l>
+<l rend="; 1tab">'t Zy gy een helhond op dorst haalen,</l>
+<l rend="; 1tab">Van daar noit Hemels licht quam straalen,</l>
+<l rend="; 1tab">Rievieren temde, of Monsters sloegd,</l>
+<l rend="; 1tab">Geweldenaars van 't Aardrijk joegd,</l>
+<l rend="; 1tab">Of booze list in 't schild dorst vaaren.</l>
+<l rend="; 1tab">En gy ô! Mavors, dek zijn hairen,</l>
+<l rend="; 1tab">Als met Achilles krijgshelmet.</l>
+<l rend="; 1tab">Dat hem geen ongeval belet,</l>
+<l rend="; 1tab">Zijn dapperheid in top te voeren,</l>
+<l rend="; 1tab">Met hem aan laage dienst te snoeren.</l>
+<l rend="; 1tab">Ik zelf zal, als hy met zijn Vloot,</l>
+<l rend="; 1tab">Of enkel Schip mijn nat doorstoot,</l>
+<l rend="; 1tab">Zijn Heldetocht en toeleg zeeg'nen,</l>
+<l rend="; 1tab">Met voor de wind en ty bejeeg'nen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mars</hi>.</speaker>
+<l rend="; 1tab">Gy zult mijn brandende yver merken,</l>
+<l rend="; 2tab">Wanneer geval en plaats en tijd,</l>
+<l rend="; 1tab">My gunnen 't opzet uit te werken,</l>
+<l rend="; 2tab">Waar toe gy thans geneegen zijt.</l>
+<l rend="; 1tab">Mijn zwaard en toorts alom aan 't woeden,</l>
+<l rend="; 2tab">Mijn wolvejagt in vollen draf,</l>
+<l rend="; 1tab">Zal de aard door mijn geweld doen bloeden,</l>
+<l rend="; 2tab">En huilen onder leet en straf.</l></sp>
+<sp>
+<speaker><hi rend="sc">Hercules</hi>.</speaker>
+<l>Wy helden, wien de moed tot hooge daaden port,</l>
+<l>Belooven, nu ons kans daar toe gebooden word,</l>
+<l>Te toonen dat geen slaap onze oogen heeft bevangen,</l>
+<l>Wanneer men kroon, of krans door diensten kan erlangen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Neptunus</hi>.</speaker>
+<l rend="; 1tab">Maar wie komt met zoo snelle vlucht,</l>
+<l rend="; 1tab">Ter neder strijken uit de lucht?</l>
+<l rend="; 1tab">'T is Majaas zoon.</l></sp>
+<pb n="12"/>
+<sp>
+<speaker><hi rend="sc">Mercurius</hi> <hi rend="i">daald op het aardrijk</hi>.</speaker>
+<l rend="; 2tab">Wat zijn 't voor maaren</l>
+<l>Die gy ons brengt?</l></sp>
+<sp>
+<speaker><hi rend="sc">Mercurius</hi>.</speaker>
+<l rend="; 1tab">Vol van bezwaaren.</l>
+<l>Van jammer, van elende en druk.</l>
+<l>Jupijn vermoeid, van met geluk,</l>
+<l>En zegen, 't menschdom plicht te leeren,</l>
+<l>Altaar en tempel te doen eeren,</l>
+<l>Zal 't volk 't welk dit en 't naaste strand</l>
+<l>Bewoont, door twist en oorlogsbrand</l>
+<l>Elkaâr doen gees'len en vermoeijen,</l>
+<l>Gy in hun straf en neêrlaag groeijen.</l>
+<l>Men zal eerlang en land en zee,</l>
+<l>Berooft van de oude rust en vreê</l>
+<l>Door traanen, zweet en bloed zien rooken,</l>
+<l>De bondgebuurschap legt verbrooken,</l>
+<l>Eik jankt reeds na des anders val.</l>
+<stage><hi rend="i">Alhier gaat achter een wolkverschiet op, waar door men vertooningen ziet, verbeeldende het aanstellen van de</hi> Ridder M.A. de <hi rend="sc">Ruiter</hi> <hi rend="i">tot Luitenand Admiraal</hi>; <hi rend="i">daar 's lands watermagt andere zeehoofden beveelen en ordres geeft: De vloot uitgerust en</hi> <hi rend="sc">Jupiter</hi> <hi rend="i">om bystand aangebeden werd</hi>.</stage>
+<l>Ziet hoe men hier de Hoofden al</l>
+<l>Ter waterkrijg bevel komt geeven.</l>
+<l>Doed zulk een toestel u niet leeven?</l></sp>
+<sp>
+<speaker><hi rend="sc">Mars</hi>.</speaker>
+<l>O! ja, nu zult gy wond'ren zien.</l></sp>
+<sp>
+<speaker><hi rend="sc">Neptunus</hi>.</speaker>
+<l>De Rurter 't heir ter zee gebiên.</l>
+<l>De zeven Staaten zullen merken,</l>
+<l>Wat onze toezicht uit kan werken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mercurius</hi>.</speaker>
+<l>Daar is men beezig met de Vloot</l>
+<pb n="13"/>
+<l rend="; 1tab">In zee te pressen, kruid en loot</l>
+<l rend="; 1tab">En manschap vaardig in te scheepen.</l>
+<l rend="; 1tab">De nooddruft binnen boord te sleepen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Hercules</hi>.</speaker>
+<l>Befaamde Held, die 't eerst door onbezeilde baaren,</l>
+<l>Om eer en buit met moed van land zijt afgevaaren,</l>
+<l>Heb ik als deelgenoot, van uw beroemde reis,</l>
+<l>Uw bruid en 't gulde Vlies, gebragt in uw paleis,</l>
+<l>Daar 't gantsche Griekenland met zege en feestgezangen,</l>
+<l>U heeft verwellekomt, gezeegend en ontfangen;</l>
+<l>Zoo volg ook op de wil der Gooden dees mijn beê;</l>
+<l>Ga met de Ruiter en uw reisgenoot nu t'zee.</l>
+<l>Deez heldentogt belooft een buit, waar by geen Vliezen</l>
+<l>Gelijken; laat ons eer voor loome rust verkiezen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Jason</hi>.</speaker>
+<l>Zag Colchos, Argoos hol bezwangerd van een tal</l>
+<l>Beroemde helden; nu uw wil my vordert, zal</l>
+<l>Ik Hollands Admiraal gestaâg voor de oogen zweeven,</l>
+<l>Zijn Hopliên, Scheepsvolk, ja hem zelve een voorbeeld geeven,</l>
+<l>Hoe hy zijn Vaderland moet redden uit den strijd.</l>
+<l>Daar 't werd bevochten van verkeerdgevoede nijd.</l>
+<l>Hoe hy de afgunstigheid, den hollen muil moet vullen.</l>
+<l>En lacchen, als hy hoort van toorn, zijn vyand brullen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Hercules</hi>.</speaker>
+<l>'T gaat wel, men bid Jupijn om zijnen zegen aan.</l>
+<l>Nu eens beraadslaagt hoe men hem ten dienst zal staan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mars</hi>.</speaker>
+<l rend="; 2tab">Ik zal my aan zijn zy begeeven,</l>
+<l rend="; 3tab">Wanneer hy uit zijn scheepen treet,</l>
+<stage><hi rend="i">Tegen Neptunus en Hercules</hi>.</stage>
+<l rend="; 2tab">Voer gy voor wind en stroom zijn steeven,</l>
+<l rend="; 3tab">Gy, maak u tot den togt zelf reed;</l>
+<l rend="; 2tab">Vecht in zijn schijn; doed vrees verbannen;</l>
+<l rend="; 3tab">Zoo zal zijn naam in laater dag,</l>
+<l rend="; 2tab">By de eerste staan der kloekste mannen,</l>
+<l rend="; 3tab">Wien Holland ooit te water zag.</l>
+<l rend="; 2tab">De nood vergunt geen langer spreeken,</l>
+<pb n="14"/>
+<l rend="; 2tab">De lucht betrekt en 't aardrijk beeft.</l>
+<l rend="; 1tab">Wat storm wil door dien nevel breeken!</l>
+<l rend="; 2tab">Dien wolk die aan de kimmen zweeft!</l></sp>
+<stage><hi rend="i">Hier zakt allengs een bruine gesloote en te met weerlicht, en donderuitwerpende wolk</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Triton</hi>.</speaker>
+<l rend="; 1tab">De schrik bevangt uw hofgezin.</l>
+<l rend="; 2tab">Nu Eölus en zijne zoonen,</l>
+<l rend="; 1tab">Zich boven uwe koets vertoonen,</l>
+<l rend="; 2tab">Ay vader, toom zijn gramschap in.</l></sp>
+<stage><hi rend="i">De wolk geopend zijnde, ziet men</hi> <hi rend="sc">Eölus</hi> <hi rend="i">met een kopre stafin de hand, aan een keten houdende eenige der winden</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Eölus</hi>.</speaker>
+<l>Ik hoor de hemel dreigt de ondankbaarheid met plaagen;</l>
+<l rend="; 3tab">En 's hemels koningin,</l>
+<l rend="; 3tab">Die ontrouw haat in min</l>
+<l>En de overvloed, die zy den menschen op quam dragen;</l>
+<l>Verwaarloost ziet, zal zich op 't felste aldus zien wreeken.</l>
+<l rend="; 3tab">Des bied ik mijn geweld,</l>
+<l rend="; 3tab">'T welk zee en land ontsteld,</l>
+<l>Den Zeegod aan; kan ik u dienst doen, wil nu spreeken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Neptunus</hi>.</speaker>
+<l rend="; 1tab">Als gy eerlang op 't golvend veld,</l>
+<l rend="; 1tab">Mijn Voesterling, den grooten Held</l>
+<l rend="; 1tab">De Ruiter in een vloot zult vinden,</l>
+<l rend="; 1tab">Zoo kluister, of ontboey de winden,</l>
+<l rend="; 1tab">Uw dolle dienaars, naar gy ziet</l>
+<l rend="; 1tab">Dat u 't geval een kans aanbied.</l>
+<l rend="; 1tab">Al die hier zijn, zijn hem geneegen,</l>
+<l rend="; 1tab">Wy kanten Jupiter niet teegen,</l>
+<l rend="; 1tab">Maar willen in een enkel man,</l>
+<l rend="; 1tab">Vertoonen wat de krijgsdeugd kan,</l>
+<l rend="; 1tab">En deeze is daar toe uitgekooren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Eölus</hi>.</speaker>
+<l rend="; 1tab">'T voegd my naar uw bevel te hooren.</l>
+<pb n="15"/>
+<l>Voort vlugge zoonen wacht u deezen last te breeken.</l>
+<l rend="; 3tab">Zijn vloot is reeds bemant.</l>
+<l rend="; 3tab">Gunt hem van haaven, strand</l>
+<l>En bank met veiligheid en spoed in zee te steeken.</l></sp>
+<stage><hi rend="i">Op deeze woorden vliegen eenige winden elk een byzonder oord heenen verdwijnd wederom de wolk</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Mars</hi>.</speaker>
+<l rend="; 1tab">De waereld zal eerlang beöogen,</l>
+<l rend="; 2tab">Wijl Neêrland in de handen klapt,</l>
+<l rend="; 1tab">Hoe hy door deftige eerenboogen</l>
+<l rend="; 2tab">En op zijn zegewaagen stapt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Neptunus</hi>.</speaker>
+<l rend="; 1tab">Ik ga hem wachten op de zee.</l></sp>
+<sp>
+<speaker><hi rend="sc">Hercules</hi>.</speaker>
+<l rend="; 1tab">Wy hem begroeten op de reê.</l></sp>
+<sp>
+<speaker><hi rend="sc">Triton</hi>.</speaker>
+<l rend="; 1tab">Op! op! gy stroom- en zeegodinnen,</l>
+<l rend="; 2tab">Die levende in de kouwe vloed.</l>
+<l rend="; 1tab">Uw schoonheid vuurig doed beminnen</l>
+<l rend="; 2tab">En kille herten zet in gloed.</l>
+<l rend="; 1tab">Geleid met zang den zeegod voort!</l>
+<l rend="; 1tab">Ik merk, zy hebben al gehoort;</l>
+<l rend="; 1tab">Wat onweêr de aard dreigt op te koomen,</l>
+<l rend="; 1tab">Zie hoe zy voor de stranden schroomen!</l></sp>
+<stage><hi rend="sc">Mars</hi> <hi rend="i">met zijn bende aan de een zy, van waar hy gekomen is</hi>, <hi rend="sc">Hercules</hi> <hi rend="i">met de zijne aan de andre binnen gaande</hi>; <hi rend="i">Hoort men de</hi> <hi rend="sc">Ridders</hi> <hi rend="i">en</hi> <hi rend="sc">Zeenymphen</hi>, <hi rend="i">welke</hi> <hi rend="sc">Neptunus</hi>, <hi rend="i">die weder op zijn waterkoets treed, geleiden, zingen</hi>.</stage>
+<sp>
+<speaker><hi rend="i">Zang van</hi> <hi rend="sc">Zeenymphen</hi> <hi rend="i">en</hi> <hi rend="sc">Zeeridders</hi>, <hi rend="i">opkoomende uit zee</hi>.</speaker>
+<l rend="; 1tab">‘Laat ons Neptunus volgen,</l>
+<l rend="; 2tab">‘Of duiken in zijn paarlemoere hof,</l>
+<pb n="16"/>
+<l rend="; 1tab">‘Een oorlogsstorm verbolgen</l>
+<l rend="; 2tab">‘Aan 't woeden, zal eerlang den menschen stof</l>
+<l rend="; 1tab">‘Den een tot droefheid geeven;</l>
+<l rend="; 2tab">‘Den ander bly doen leeven.</l></sp>
+<stage><hi rend="i">Alle de Nymphen en Zeegoden vertrekken met Neptunus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Mercurius</hi>.</speaker>
+<l rend="; 1tab">Ja zoete Nymphen wilt u spoeden,</l>
+<l rend="; 1tab">Zwemt dieper in de holle vloeden;</l>
+<l rend="; 1tab">Een vuile stank vervult de lucht,</l>
+<l rend="; 1tab">Hoort hoort! die holle en naare zucht.</l>
+<l rend="; 1tab">Bellona met de razernyen,</l>
+<l rend="; 1tab">Aan 't woeden zich alreeds verblyen.</l>
+<l rend="; 1tab">My walgt van haare afgrijslijkheên.</l>
+<l rend="; 1tab">Ik geef my spoedig van beneên.</l>
+<l rend="; 1tab">De vrees en schrik voor uit aan 't draven,</l>
+<l rend="; 1tab">Geeft plaats aan haar gezwoore slaaven,</l>
+<l rend="; 1tab">De moord en lastige arremoê.</l>
+<l rend="; 1tab">Beef! beef! ô! aarde voor haar roê.</l></sp>
+<stage><hi rend="sc">Mercurius</hi> <hi rend="i">vliegd weg</hi>; <hi rend="i">en verschijnt op 't tooneel, wijl</hi> <hi rend="sc">Vrees</hi> <hi rend="i">en</hi> <hi rend="sc">Schrik</hi> <hi rend="i">vlieden</hi>, <hi rend="sc">Bellona</hi> <hi rend="i">met de</hi> <hi rend="sc">Razernyen</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Bellona</hi>.</speaker>
+<l>Nu zal ik weêr de bloedstandaard</l>
+<l><note n="*" place="margin"><hi rend="i">Alhier verschijnt in de lucht een vuurig zwaard gelijk een staartstar</hi>.</note> Zie daar mijn voorboode; op der aard,</l>
+<l rend="; 1tab">Met lust gaan rechten,</l>
+<l rend="; 1tab">By 't bloedig vechten</l>
+<l rend="; 1tab">Noch staaplen ramp, op ramp!</l>
+<l rend="; 1tab">Gy Zusters, zult in damp</l>
+<l rend="; 1tab">Dier gruwelijken waaszem,</l>
+<l rend="; 1tab">Verquikken uwen aaszem.</l>
+<l>My dunkt dat de aarde al schud en beeft,</l>
+<l>De Zee eene angst bevangen heeft,</l>
+<pb n="17"/>
+<l rend="; 1tab">Laat geen ontfarmen</l>
+<l rend="; 1tab">Uw bloedige armen</l>
+<l>Weêrhouwen als de smert,</l>
+<l>Den menschen drukt op 't hert;</l>
+<l>Maar lacht, wanneer zy weenen,</l>
+<l>Staat onberoerd voor 't steenen.</l></sp>
+<sp>
+<speaker><hi rend="i">Een der</hi> <hi rend="sc">Razernyen</hi>.</speaker>
+<l>Godin, wien 't licht der oorlogsvonken,</l>
+<l>Met moedige oogen heeft beschonken,</l>
+<l>Wy zullen 't hert in 't quaad verstokt,</l>
+<l>Daar gy den aardboôm schud en schokt,</l>
+<l>Noch dees verwoestende arm doen rusten,</l>
+<l>Zoo lang u ons geweld zal lusten.</l>
+<l>De dolle Roof, de Schendery,</l>
+<l>In volle wellust, zal uw zy,</l>
+<l>Bekleeden, als uw dinaressen,</l>
+<l>En passen op uw wil en lessen.</l>
+<l>Waar heen zal de eerste togt geschiên?</l></sp>
+<sp>
+<speaker><hi rend="sc">Bellona</hi>.</speaker>
+<l>'t Lot staat u dubb'le kans te biên.</l>
+<l>Maar 't water zal onze eerste slagen,</l>
+<l>Het land de laatste en felste dragen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Razerny</hi>.</speaker>
+<l>Wat uitkomst wacht men in het end?</l></sp>
+<sp>
+<speaker><hi rend="sc">Bellona</hi>.</speaker>
+<l>Dat's noch den hemel maar bekend.</l>
+<l>Wacht niet, ik hoor de Waapens ram'len.</l>
+<l>Wy moeten hier niet langer sam'len.</l>
+<l>Mijn eerenstoet, kom voort, 't is tijd.</l>
+<l>Toon dat dees tijding u verblijd.</l>
+<l>Eer my, met yz're staf en kranssen,</l>
+<l>Verbrey mijn roem door woeste danssen.</l>
+<l>En wacht my weêr als deeze hand,</l>
+<l>Is moê van moord en roof en brand.</l>
+<stage><hi rend="i">Alle binnen</hi>.</stage></sp>
+<stage><hi rend="i">Dans van</hi> <hi rend="sc">Razernyen</hi>, <hi rend="i">schielijk uit het Tooneel opkomende</hi>.
+<lb/>
+<hi rend="i">Einde van 't Eerste Deel</hi>.</stage>
+</div>
+</div>
+<div type="act">
+<pb n="18"/>
+<head rend="h3">[Tweede deel]</head>
+<stage><hi rend="i">Met den opgang des Gordyns ziet men een Zegeboog, omvlochten met groente, behangen met Vaanen, Wimpelen, Vlaggen en veelderhande Scheeps en Lands Oorlogstuig. In 't midden een Schild met de letteren</hi> <hi rend="spat">SPQB</hi> <hi rend="i">de Raad en 't Volk van Bataviën. De zijde Pylers dragen overwonne Wapenen, Geschut, Pylen, Schilden en andere Zegetekenen, boven in de lijst des boogs staat met Goude Letteren</hi>.
+<lb/>
+Hic Virtutis Honor.
+<lb/>
+<hi rend="i">Dit is de eere der dapperheid</hi>.
+<lb/>
+<hi rend="i">Aan de rechter zy is een verschiet, beven 't welk men leest</hi>;
+<lb/>
+Ventis &amp; dis Venit ille Secundis.
+<lb/>
+<hi rend="i">Hy komt met zegen van den Hemel en Winden.
+<lb/>
+Aan de linker zijde vind men boven het verschiet</hi>.
+<lb/>
+Superat Praesentia Famam.
+<lb/>
+<hi rend="i">Zijn tegenwoordigheid overtreft zijn lof.
+<lb/>
+Aan de rechter zijde staan</hi> <hi rend="sc">Hercules</hi> <hi rend="i">en</hi> <hi rend="sc">Jason</hi> <hi rend="i">en
+<lb/>
+Aan de linker zijde ziet men</hi> <hi rend="sc">Mars</hi> <hi rend="i">ieder met hunne benden</hi>.
+<lb/>
+In 't midden
+<lb/>
+<hi rend="i">Voor de Zegenzetel daar de</hi> H<hi rend="sup">r</hi>. de <hi rend="sc">Ruiter</hi> <hi rend="i">op praald en waar by zijne voornaamste Zeehoofden zijn</hi>; <hi rend="i">Houd zich</hi> <hi rend="sc">Neptunus</hi> <hi rend="i">voor deeze de</hi> <hi rend="sc">Eendragt</hi>, <hi rend="i">geleidende de zeven</hi> <hi rend="sc">Provincien</hi>. <hi rend="i">Rondom en voor de Zegeboog leggen verwonne Turken en andere Natiën en staan verloste Slaaven den Held dankende. Op de zijde, voor op 't Toeneel, staat aan de eene de</hi> <hi rend="sc">Zeevaard</hi>, <hi rend="i">en 's</hi> <hi rend="sc">Lands Zeemagt</hi>, <hi rend="i">aan de andere</hi> <hi rend="sc">Mercurius</hi> <hi rend="i">en</hi> <hi rend="sc">Amsterdam</hi>. <hi rend="i">Geheel voor op staat een Eerspits met Wape</hi>-<pb n="19"/><hi rend="i">nen behangen, met het Opschrift</hi> Dankteken van den Staat der Batavieren aan den Held M.A. de <hi rend="sc">Ruiter</hi>, <hi rend="i">wiens naam</hi> zijnen roem genoeg bekend maakt. <hi rend="i">Na voorgaande geluid van Trommelen, en Trompetten en andere Blaasspeeltuigen zingt</hi></stage>
+<sp>
+<speaker><hi rend="sc">Eendragt</hi>.</speaker>
+<l rend="; 1tab">‘WElkom! welkom! eer der Helden,</l>
+<l rend="; 3tab">‘Die voor 't lieve Vaderland,</l>
+<l rend="; 1tab">‘Goed en naam en leeven stelden</l>
+<l rend="; 2tab">‘Tot een zeeker onderpand.</l>
+<l rend="; 1tab">‘Wilt ô! zeven zusters spreijen,</l>
+<l rend="; 1tab">‘Palm, Laurier en Zegemeijen!</l>
+<l rend="; 2tab">‘Dat elk blije toonen stel,</l>
+<l rend="; 2tab">‘Op de komst van Michaël,</l>
+<l rend="; 1tab">‘Michaël die onvertzaagd,</l>
+<l rend="; 1tab">‘'t Lijf heeft voor uw roem gewaagd.</l></sp>
+<sp>
+<speaker><hi rend="i">Hier op zegt</hi> <hi rend="sc">Mars</hi>.</speaker>
+<l rend="; 1tab">Dat zich der helden dapperheid,</l>
+<l rend="; 2tab">Die hunne vyanden doed vreezen,</l>
+<l rend="; 1tab">En 't loffelijke krijgsbeleid,</l>
+<l rend="; 2tab">Kom spieg'len in dit deftig weezen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Hercules</hi>.</speaker>
+<l>Wie zich ter arbeid ooit gehart vond, kom hier leeren,</l>
+<l>Hoe hoog men heldedeugd en groot beleid moet eeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Neptunus</hi>.</speaker>
+<l>Ja zingt dees zegezang ter zijner luister voort,</l>
+<l>Tot dat de weerzijdze as de blye toonen hoord.</l>
+<l>De winden woelen om met wimpelen en vlaggen</l>
+<l>Te speelen, zege en eer verstrekken u voor baggen</l>
+<l>Gesteente en paarlen om uw leeuwewapenschild</l>
+<l>Te sieren, kleene land, 't welk ruiterlijk getilt,</l>
+<l>Met eeren 't hoofd verheft. O! zeven bondgebuuren,</l>
+<l>Op zulke stutten zal 't gebouw uws Staats lang duuren.</l>
+<l>Wierd immer zeevoogd met triumphen ingehaald?</l>
+<l>Zet met uw dankbaarheid hem zijnen dienst betaald.</l>
+<l>Uw medeburger, vrind en hoofdman keert met zeegen,</l>
+<pb n="20"/>
+<l>Ziet waar zijn arm al buid en lauw'ren heeft verkreegen!</l>
+<l>De Theems spreekt van zijn deugd, zoo ver zijn stroom in zee</l>
+<l>Een kiel kan groeten, die wil ank'ren op zijn ree.</l>
+<l>De Fransche mogentheid wil hem met lof belaaden.</l>
+<l>'t West-Indiaansche strand, verteld zijn oorlogs daaden.</l>
+<l>Gantsch Barbarije beeft, als 't aan zijn naam gedenkt.</l>
+<l>De roovers vlieden als hy haar van verre wenkt.</l>
+<l>Een leger van verloste en vrygevochte Slaaven,</l>
+<l>Komt met de kluisters op haare armen loopen, draaven,</l>
+<l>En yv'ren, om den Held te danken voor het goed,</l>
+<l>Van vrije leden; maar, noch meêr van 't vry gemoed.</l>
+<l>Hy, treedende op 't geluid van yz're donderk looten,</l>
+<l>Dreef op dien dans de schrik uit zijne in 's vyands vlooten.</l>
+<l>En baarde een nederlaag, gemengt in naar geschreeuw.</l>
+<l>Der Turken halve maan moest duiken, toen de Leeuw</l>
+<l>Van Holland aangevoerd, als van Alcides krachten</l>
+<l>De vyanden gelijk als zeegedrochten slachten.</l>
+<l>De heete gloed van de aard, de halfgezengde lucht,</l>
+<l>Het woelend water en de nagalm van 't gezucht</l>
+<l>Der stervende, verteld den roem van zijne daaden.</l>
+<l>Men noem geen eene slag, waar uit met lauw're bladen</l>
+<l>Bekranst, hy 't Vaderland grootdaadig heeft begroet,</l>
+<l>Men noem hem met dees naam, <hi rend="i">Verwinnaar op de vloed</hi>.</l>
+<stage><hi rend="i">Alhier zietmen eenige Brandende, Zinkende en vliedende Scheepen, verbeeldende eene geslage Scheepsmagt</hi>.</stage>
+<l>Toch uit de twist, welke eer gebuuren kon verstooren,</l>
+<l>Werd een gewenschte vrede al juichende gebooren.</l>
+<l>Der Britten roode roos, der Schotten distelbloem,</l>
+<l>En Fransche lely wil ter zijner hooger roem,</l>
+<l>Gemengt in lauwerblaân, zijn grijze hoofd bekranssen.</l>
+<l>Wijl zeegoôn op 't geluid van Yrze harpen danssen.</l>
+<l>Zie daar een voorbeeld hoe zijn onverwonne hand</l>
+<l>Des vyands vloot verslaat, verjaagd, vernield, verbrand,</l>
+<l>Dat nu Duillius, ter lijkbusse uitgekoomen,</l>
+<l>Gelijk hy eertijds praalde in 't zegerijke Roomen,</l>
+<pb n="21"/>
+<l>Toen hy Karthago sloeg, te water nooit verheerd;</l>
+<l>Kom zien, hoe Michaël verdienst'lijk werd geëerd.</l>
+<l>Met eerepoorten en versierde wapenzuilen.</l>
+<l>Aan welker voet een heir van slaaven legt te huilen.</l></sp>
+<stage><hi rend="i">Hier worden eenige verwonnene Kasteelen en Stedemuuren vertoond</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Mars</hi>.</speaker>
+<l rend="; 1tab">Hoe ik aan hem mijn hulp quam toonen,</l>
+<l rend="; 2tab">Ziet elk ten deele in dit verschiet.</l>
+<l rend="; 1tab">Komt hem met alle groente kroonen,</l>
+<l rend="; 2tab">En kranssen die men helden bied.</l>
+<l rend="; 1tab">Gy hooggestelde mogentheeden,</l>
+<l rend="; 2tab">Gy vorsten die de deugd bemind,</l>
+<l rend="; 1tab">Woud aan zijn roem het merk besteeden,</l>
+<l rend="; 2tab">Waar in men uwen inborst vind.</l>
+<l rend="; 1tab">Zoo praald hy met een Hertoogs teeken</l>
+<l rend="; 2tab">En ridderlijken elephant.</l>
+<l rend="; 1tab">Zoo heeft uwe achting ook gebleeken,</l>
+<l rend="; 2tab">Aan gift van goud en diamant.</l>
+<l rend="; 1tab">Aan keeten, kling en kop en waapen,</l>
+<l rend="; 2tab">Aan eer en vord'ring van zijn bloed,</l>
+<l rend="; 1tab">Als schilden voor dit land geschaapen.</l>
+<l rend="; 2tab">Daar al 't geweld vergeefs op woed.</l></sp>
+<sp>
+<speaker><hi rend="sc">Hercules</hi>.</speaker>
+<l>Schoon stede en stevekroon in zijn lauwrieren dring,</l>
+<l>Eisch ik, dat ook zijn hoofd het ykengroen omring,</l>
+<l>De heldekrans geweid aan onbesprooke mannen,</l>
+<l>Die om de deugd, altijd voor deugd zijn ingespannen,</l>
+<l>Hy, wel gewoon den strijd op 't woedende element,</l>
+<l>Heeft echter mijne hulp voor goddelijk gekend,</l>
+<l>Toen de eedele Ridderschap der koninglijke vlooten,</l>
+<l>In arrenmoede op hem al schreeuwende aan quam stooten;</l>
+<l>En ik, hem leidsman van de Waterleeuw met kracht</l>
+<l>Verzag. hy rechte als ik, toen mijn gevreesde magt.</l>
+<l>Het Afrikaansche strand van 't rijke Spanje deelde,</l>
+<l>Nu ook twee suilen op. geen kunsttafreel verbeelde</l>
+<pb n="22"/>
+<l>Voortaan de dapperheid, dan door zijn beeltenis.</l>
+<l>Waar aan het krijgeluk zelf hoog verbonden is.</l>
+<l>Kon ik een hond met drie en andere gedrochten</l>
+<l>Met honderd koppen doôn; hy heeft op zijne togten,</l>
+<l>Met honderd Scheepen, wier moordaadige kanon</l>
+<l>Als duizend monden, lood en yzer spuwen kon,</l>
+<l>Gestreeden en hun keel zelf 't moordvenijn doen zwelgen,</l>
+<l>Alcides roemt zijn deugd, wie zal 't zig durven belgen,</l>
+<l>Dat hy rondom zijn Schild dees goude lett'ren vind?</l>
+<l><hi rend="i">Ik hoor den Ruiter toe, die komt en ziet en wind</hi>.</l></sp>
+<sp>
+<speaker><hi rend="sc">Jason</hi>.</speaker>
+<l>'k Sag Peleus, Telamon, 't gevlerkte zaad gesprooten</l>
+<l>Uit Boreas en meer manhafte togtgenooten;</l>
+<l>Maar nimmer zulk een held; des dank ik 't godendom,</l>
+<l>Daar ik den grooten Man eerbiedig wellekom,</l>
+<l>Dat ik gewaardigd ben, zijn wondere ooreloogen</l>
+<l>En krijgservarenheid te zien met eygene oogen.</l>
+<l>In hem leeft Typhrs weêr, Eneas staat verzet,</l>
+<l>Wanneer 't gerucht zijn naam op hooger toon trompet,</l>
+<l>Als ooit Mysenus de eer van Palinuur kon blaazen;</l>
+<l>Wiens Scheepskunde al het heir kon troosten of verbaazen.</l>
+<l>Ziet van des Hemels tinne ô! broederen wier licht,</l>
+<l>Den zeeman by Neptuun doed denken om zijn plicht,</l>
+<l>Zie hier gy Kastor en gy Pollux, wien de Gooden</l>
+<l>Des Oorlogs tot hunne arm op zee en strand ontbooden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mercurius</hi>.</speaker>
+<l rend="; 3tab">De neering zal bloeijen,</l>
+<l rend="; 3tab">De kunst weder groeijen,</l>
+<l rend="; 4tab">Het droeve krijgsgeklag,</l>
+<l rend="; 4tab">Verandert in gelach,</l>
+<l rend="; 3tab">Naardien wy de zeegen</l>
+<l rend="; 3tab">Alhier zien verkregen.</l></sp>
+<sp>
+<speaker><hi rend="sc">'s Lands Zeemagt</hi>.</speaker>
+<l rend="; 1tab">Nu mag mijn hoofd de stevekroon,</l>
+<l rend="; 2tab">Mijn hand het roer en de ankers dragen,</l>
+<l rend="; 1tab">Wijl ik mijn watermagt zoo schoon,</l>
+<l rend="; 2tab">Van zee en stranden op zie dagen.</l>
+<pb n="23"/>
+<l>Mijn goude Leeuw op 't roode Veld,</l>
+<l rend="; 1tab">Zal, door zijn oorlogshaftig brullen,</l>
+<l>Daar hy zijn vyanden ontstelt,</l>
+<l rend="; 1tab">Den aardboom met mijn roem vervullen.</l>
+<l>Vergeeft uw lot aan mijn belang,</l>
+<l rend="; 1tab">Gy helden, die voor my moest sneeven,</l>
+<l>Gy zult in dank- en lofgezang,</l>
+<l rend="; 1tab">Altijd op aller tongen leeven.</l>
+<l>O! Amsterdam mijn halsvrindin,</l>
+<l rend="; 1tab">Wy hebben stof om deezen te eeren,</l>
+<l>Kom haal hem ook met blijdschap in,</l>
+<l rend="; 1tab">Die heeft verdiend te triumpheeren.</l>
+<l>Gy, nu in minder krijgsbewind,</l>
+<l rend="; 1tab">Die tot dees top noch niet kond steig'ren,</l>
+<l>Maakt, datmen u verdienstig vind,</l>
+<l rend="; 1tab">Wilt aan uw land, uw plicht niet weig'ren,</l>
+<l>Zoo zal, naar staat en daad en tijd,</l>
+<l rend="; 1tab">Een hooger ampt uw deugd bekroonen,</l>
+<l>De traagheid en de vrees ter spijt,</l>
+<l rend="; 1tab">U; ja uw Kind en Neef, beloonen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Amsterdam</hi>.</speaker>
+<l>My past voor al den Held te groeten,</l>
+<l rend="; 1tab">En dit mijn Keizerlijke Schild,</l>
+<l>Uit plicht te leggen aan zijn voeten,</l>
+<l rend="; 1tab">Die zweet en bloed en yver spild</l>
+<l rend="; 1tab">Om mijnen roem in top te haalen.</l>
+<l rend="; 1tab">Zijt welkom eer der Admiraalen.</l>
+<l>&#160;</l>
+<l>Mijn Burgery aan u verbonden,</l>
+<l rend="; 1tab">Komt door mijn dankb're mond alleen</l>
+<l>Den lof uws zegetochts verkonden</l>
+<l rend="; 1tab">Aan landen, volken, stroomen, zeên.</l>
+<l>Ik kom voor haar uw dienst betaalen,</l>
+<l rend="; 1tab">Zijt welkom eer der Admiraalen.</l>
+<l>&#160;</l>
+<l>Ach! had ik nu de vlugge vleug'len</l>
+<l rend="; 1tab">Des dageraads, ik toog, ik vloog,</l>
+<pb n="24"/>
+<l>Geen zee, geen land zou my beteug'len</l>
+<l rend="; 1tab">Zoo diep, zoo ver, zoo wijd, zoo hoog,</l>
+<l rend="; 1tab">Als immer wiek, of schacht kon dwaalen,</l>
+<l rend="; 1tab">Zijt welkom eer der Admiraalen.</l>
+<l>&#160;</l>
+<l>Om daar te melden welk een zeegen</l>
+<l rend="; 1tab">'s Lands Zeevoogd heeft te huis gebragt,</l>
+<l>Komt mijn vrindinnen treed hem teegen,</l>
+<l rend="; 1tab">Verheft uw stem met alle kracht,</l>
+<l rend="; 1tab">Wilt zijn gedaante in eerzang maalen.</l>
+<l rend="; 1tab">Zingt, welkom de eer der Admiraalen.</l></sp>
+<sp>
+<speaker>De <hi rend="sc">Seven Provintien</hi> <hi rend="i">zingen</hi>.</speaker>
+<l>‘O! bl<figure rend="inline"><p><xptr to="bidl001eerz01fi0001.gif"/></p></figure>de dag! ‘gewen<figure rend="inline"><p><xptr to="bidl001eerz01fi0002.gif"/></p></figure>hte maaren!</l>
+<l>‘Gewo<figure rend="inline"><p><xptr to="bidl001eerz01fi0003.gif"/></p></figure>e slag! ‘geen kri<figure rend="inline"><p><xptr to="bidl001eerz01fi0004.gif"/></p></figure>sgevaaren</l>
+<l>‘Zijn ooit gelukkiger gekeert.</l>
+<l>‘Des vyands <figure rend="inline"><p><xptr to="bidl001eerz01fi0005.gif"/></p></figure> is overheert,</l>
+<l>‘De Ruiter komt hier zegepraalen.</l>
+<stage><hi rend="i">Alle te Zamen</hi>.</stage>
+<l>‘Al wie de zee bezeyld,</l>
+<l>‘De hoogte meet, de diepte peyld,</l>
+<l rend="; 1tab">‘Moet zijnen lof verhaalen,</l>
+<l>‘Komt uw vrind eer vyand bekranssen,</l>
+<l rend="; 1tab">‘Smoort uwe druk,</l>
+<l rend="; 1tab">‘Wenscht hem geluk,</l>
+<l>Turken, Sweeden, Britten en Franssen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mercurius</hi>.</speaker>
+<l rend="; 1tab">Jupijn bewoogen</l>
+<l rend="; 1tab">Stiert uit den hoogen,</l>
+<l rend="; 2tab">Saturnus af.</l>
+<l rend="; 2tab">Wat last hy gaf,</l>
+<l rend="; 1tab">Zal elk haast hooren</l>
+<l rend="; 1tab">Verleent uwe ooren.</l></sp>
+<pb n="25"/>
+<sp>
+<speaker><hi rend="sc">Saturnus</hi> <hi rend="i">daalende van ter zijden in een Wolk, spreekt het volgende</hi>.</speaker>
+<l rend="; 2tab">Na zoo veel ongeval en leet,</l>
+<l rend="; 2tab">Als u, ô! Neêrland lang bestreed,</l>
+<l rend="; 1tab">Zult gy een wenschelijke eeuw beleeven,</l>
+<l rend="; 2tab">Mijn goude Tijd,</l>
+<l rend="; 2tab">Vervremd van strijd,</l>
+<l rend="; 1tab">Zal u de blije vreede geeven.</l>
+<l rend="; 1tab">Draag zorg dat uwe onachtzaamheid,</l>
+<l rend="; 1tab">Geen Goden tempeleer ontzeid,</l>
+<l rend="; 1tab">Maak vreemd en buuren tot uw vrinden,</l>
+<l rend="; 2tab">Zoo zal uw staat,</l>
+<l rend="; 2tab">Een toeverlaat,</l>
+<l rend="; 1tab">Aan 's hemels sterke bystand vinden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Hercules</hi>.</speaker>
+<l>Gy helden die alhier tot mijn beveelen zijt.</l>
+<l>Toon op het eind des strijds, in dans een spiegelstrijd.</l>
+<stage><hi rend="i">Dans van</hi> <hi rend="sc">Strydende Volkeren</hi>.
+<lb/>
+<hi rend="i">Na den dans herhaalen de seven Provincien de Rey van de voorgaande zang, beginnende</hi></stage>
+<l rend="; 3tab">O blye dag, &amp;c.</l></sp>
+<sp>
+<speaker><hi rend="sc">Hercules</hi>.</speaker>
+<l>O! vrye Nederland, lang moet uw blijdschap duuren,</l>
+<l rend="; 2tab">Sla eeremunten, giet metaal</l>
+<l rend="; 2tab">En houw uit marmer de Admiraal</l>
+<l>Die dus geveiligt heeft de zee, uw eer en muuren.</l>
+<l>Vernoegde Burgery, begroet hem aan dees trappen,</l>
+<l rend="; 2tab">Boet zegevuuren, pleng de wijn,</l>
+<l rend="; 2tab">Laat nu geen druk u meester zijn,</l>
+<l>Maar wil ter zijner roem in uwe handen klappen.</l></sp>
+<stage><hi rend="i">Einde van 't Tweede Deel</hi>.</stage>
+</div>
+<div type="act">
+<pb n="26"/>
+<head rend="h3">Derde deel.</head>
+<stage><hi rend="i">Het tooneel verbeeldende des Helden lijk plicht, it geheel en al in rouw gestooken, en ziet men over al aan de wanden opgchange vaanen, wimpels, standaarden, curassen, zwaarden en krijgstuig. In 't midden praalt een tombe en op de zelve een grafnaald, op wiens top de beeldenis des dooden Held pronkt</hi>.
+<lb/>
+<hi rend="i">Op de Tombe staat</hi>
+<lb/>
+Hier op rust de groote <hi rend="sc">Michiel</hi> de <hi rend="sc">Ruiter</hi>.
+<lb/>
+<hi rend="i">De bovenlijst der grafstede is met brandende lijkbussen en in deeze, het midden met zijn Edit., de zijden met de waapenen der algemeene Staaten en dat van Amsterdam vereierd. Rendom staan leevende cypressen, ter zijden hangen de beeltensssen van verscheide Waterhelden. Voor op staan</hi> <hi rend="sc">Mars, Neptunus, Hercules, Zeevaard, Mercurius</hi>, <hi rend="i">'s Lands</hi> <hi rend="sc">Zeemagt</hi> <hi rend="i">en by haar leggen eenige Stroemgoden en Godinnen in de rouw gekleed. Voor deeze het</hi> <hi rend="sc">Krygsgeluk</hi>, <hi rend="i">by haar treuren</hi> <hi rend="sc">Eendragt</hi> <hi rend="i">en de</hi> <hi rend="sc">Zeven Provincien</hi>; <hi rend="i">voor op yder zy des Tooneels staan doffe lichten; met dat het gerdijn op is ziet men eenige perzoonen welke door gebaaren en stadelijken dans stom hun droefbeid uitdrukken. Waar op</hi></stage>
+<sp>
+<speaker><hi rend="i">Het</hi> <hi rend="sc">Krygsgeluk</hi> <hi rend="i">klaagende, zingt</hi>.</speaker>
+<l>‘WYk van hier! wijk van hier! ô! vreugd en weelde, ô! vreugd en weelde.</l>
+<l rend="; 1tab">‘Naare klachten, bange zuchten!</l>
+<l rend="; 1tab">‘Dootsche oneindige ongenuchten,</l>
+<l rend="; 1tab">‘Smoort de lust die my eer streelde.</l>
+<l>‘Zink, verzink, zink, verzink, ô! licht en luister, ô! licht en luister.</l>
+<l rend="; 1tab">‘Wind uw aanschijn in de wolken,</l>
+<l rend="; 1tab">‘Zee en land en lucht en volken,</l>
+<l>‘Zet de rouw het hert in 't duister.</l></sp>
+<pb n="27"/>
+<sp>
+<speaker><hi rend="i">Hier op spreekt</hi> 's <hi rend="sc">Lands Zeemagt</hi>.</speaker>
+<l>Dus uit de vreugd in rouw gedompelt,</l>
+<l rend="; 1tab">En met eene onvoorziene slag,</l>
+<l>Gelijk een blixem overrompelt,</l>
+<l rend="; 1tab">Loos ik mijn rouw in wee! en ach!</l>
+<l>Moet dan dat Licht der Admiraalen,</l>
+<l rend="; 1tab">In 't einde aldus zijn roem betaalen.</l>
+<l>Moest hy veel loot en staal ontkoomen,</l>
+<l rend="; 1tab">Zoo veel gevaar van zand en klip,</l>
+<l>Van kolken, wielingen en stroomen,</l>
+<l rend="; 1tab">Van breuk aan orden, 't zein en schip,</l>
+<l>Van oproer, ampt- en staatskrakeelen,</l>
+<l>Dus diep in Neêrlands rampen deelen</l>
+<l>Weegt gy, ô! krijgsgeluk, den zeegen,</l>
+<l rend="; 1tab">En 't goed 't welk gy mijn helden doed,</l>
+<l>In vroege of laate dag meest teegen</l>
+<l rend="; 1tab">Den laatsten druppel van hun bloed?</l>
+<l>Of noemt gy 't hooger eer verwerven,</l>
+<l>En op het bed van eere sterven?</l>
+<l>Gewisselijk: 't is zoo te noemen;</l>
+<l rend="; 1tab">Wy echter van dien Held ontbloot,</l>
+<l>Hoe wy zijn zege en diensten roemen,</l>
+<l rend="; 1tab">Zijn bleek van droefheid om zijn dood.</l>
+<l>Wie zal nu van zijn daaden spreeken?</l>
+<l>Ik voel mijn stem is reeds bezweeken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Amsterdam</hi>.</speaker>
+<l>Dees droeve stacy treft mijn hert,</l>
+<l>'t Verlies van zulk een Zechoofd smert,</l>
+<l>Geen huis, geen stad, geen zeven Staaten</l>
+<l>Alleen; de droefheid uitgelaaten,</l>
+<l>Slaat voort en huild dat aard en zee,</l>
+<l>Den weêrgalm melden van dit wee!</l>
+<l>Hy wind en doed zijn vyand vreezen,</l>
+<l>Hy keert, maar ach! niet als voor deezen,</l>
+<l>Toen hem des blijden burgers groet,</l>
+<l>Met lofgezangen heeft ontmoet,</l>
+<pb n="28"/>
+<l>Dit groote Licht, dit Waterwonder,</l>
+<l>Gaat by het Frans Messina onder,</l>
+<l>Terwijl hy voor het hooge recht,</l>
+<l>Der Spaanse kroon met zege vecht.</l>
+<l>Trinakrie zag hem verwinnen,</l>
+<l>Panormus 't helde lichaam binnen</l>
+<l>Zijn wal vernielen van de dood!</l>
+<l>O! groote slag, ô! haatlijk lood!</l>
+<l>Dat Holland in den schild dorst vaaren</l>
+<l>En deugd en dapperheid won spaaren,</l>
+<l>Gy sloegd den grootsten Admiraal,</l>
+<l>Dit 's de aldergrootste zegepraal,</l>
+<l>Die de oorlogsmoord ooit heeft gewonnen.</l>
+<l>Wie zal dees neêrlaag boeten konnen?</l>
+<l>Hy sneuvelde aan de droeve kust,</l>
+<l>Zoo vaak beoorloogt en ontrust,</l>
+<l>Als Karthagesen en Quirieten,</l>
+<l>Om 't zeegebied hun land verlieten.</l>
+<l>Marcel of Catulus om 't recht</l>
+<l>Der vrye vaard voor Rome vecht.</l>
+<l>O! Etna braak uit uw spelonken</l>
+<l>Den blaauwen vlam en roode vonken.</l>
+<l>O! Lipara spuw gloeden uit,</l>
+<l>En vier met dit verwoed geluid,</l>
+<l>Den lijkvaard van het hoofd der Helden,</l>
+<l>Die immer voet in scheepen stelden.</l>
+<l>Themistocles zie hier de man,</l>
+<l>Die duist're godsspraak vatten kan,</l>
+<l>En op uw spoor met houte wallen,</l>
+<l>Den Staat behoede in overvallen.</l>
+<l>Gy maagden die in rouw gekleed,</l>
+<l>Uwe yver aan dit graf besteed;</l>
+<l>Wilt met uw traanen 't lijk niet wassen.</l>
+<l>De wijde middelandsche plassen,</l>
+<l>'t Beroerde nat van de Oceaan,</l>
+<l>De Noordzee zelf zou 't teegenstaan,</l>
+<l>Die hem zoo vaak met bloedige armen.</l>
+<pb n="29"/>
+<l>Uw recht en glorie zag bescharmen.</l>
+<l>Neen! toon uw liefde en dankbaarheid,</l>
+<l>Aan 't graf daar 's mans gebeente in leid,</l>
+<l>Door uitgezochte lijkgezangen.</l>
+<l>Laat hy uw zegezucht ontfangen.</l></sp>
+<sp>
+<speaker><hi rend="i">Zang van</hi> <hi rend="sc">Holland</hi>.</speaker>
+<l rend="; 1tab">‘Rede en smerten bestryen,</l>
+<l rend="; 2tab">‘En wil, en hert ach! ach!</l>
+<l rend="; 1tab">‘Wie gevoelde ooit grooter lyen,</l>
+<l rend="; 2tab">‘Als wy door deeze slag?</l></sp>
+<sp>
+<speaker><hi rend="sc">Neptunus</hi>.</speaker>
+<l>Haar hert als 't mijn te veel gedrukt;</l>
+<l>Met moeite een woord ter keele uitrukt,</l>
+<l>'K zie wimpels, eer gewoon te zwieren,</l>
+<l>In een gerold zijne uitvaard vieren!</l>
+<l>Den lamfer slent'ren om de mast,</l>
+<l>O! Neêrland, dit 's te zwaaren last.</l>
+<l>Ach! ongelukkig wederkeeren.</l>
+<l>De vyand die zijn deugd kon eeren,</l>
+<l>Wenschte als het doode lijf zijn kust</l>
+<l>Voor by voer, zijn gebeente rust,</l>
+<l>En riep uit groetende kartouwen,</l>
+<l>Elk moet zijn naam in eeren houwen.</l>
+<l>Geëerde spits, gy grafsteênaald,</l>
+<l>Hoe heerlijk hier 's mans beeld ook praald,</l>
+<l>'t Welk op uw toppunt is verheeven,</l>
+<l>Gy kunt geen eer naar waarde geeven.</l>
+<l>Hy volgd in deugd en krijgsgevaar,</l>
+<l>Den grooten Heemskerk, Wassenaar,</l>
+<l>Held Tromp en Evertszoon, van Galen</l>
+<l>En Lonk en Hein, alle Admiraalen,</l>
+<l>Die vechtende voor 't Vaderland,</l>
+<l>Nooit nederlaag heeft overmand.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mars</hi>.</speaker>
+<l>Batavie, van ouds gewoon,</l>
+<l rend="; 1tab">Voor vryheid, eer en recht te waagen,</l>
+<pb n="30"/>
+<l>Al wat u ooit was aangeboôn;</l>
+<l rend="; 1tab">Leer nu een felle slag verdragen.</l>
+<l>Dit graft bewaard de waardige asch</l>
+<l rend="; 1tab">Als 't Mausolèum van groot Romen</l>
+<l>Des Helds die u een toevlucht was;</l>
+<l rend="; 1tab">Als krijgsstorm dreigde op zee te koomen.</l>
+<l>Mefsine uw muitery verstrekt,</l>
+<l rend="; 1tab">Na achtendertig waterslagen,</l>
+<l>Waar in de zee met bloed bevlekt,</l>
+<l rend="; 1tab">De Ruiter de eer heeft weggedragen;</l>
+<l>Een schrikklaaroen om uit alle oord,</l>
+<l rend="; 1tab">Den bloem der mannen t'zaam te trekken,</l>
+<l>By u Messine is hy vermoord,</l>
+<l rend="; 1tab">Die Helden kon tot voorbeeld strekken.</l>
+<l>Heel anders groete ik hem op 't strand</l>
+<l rend="; 1tab">Van oost en west daar hy op muuren</l>
+<l>En slibbige oevers, hand aan hand,</l>
+<l rend="; 1tab">Zijn vyand deed zijn kracht bezuuren.</l>
+<l>Zoo ooit mijn krijgsmoed schreijen mag,</l>
+<l rend="; 1tab">Nu wil ik schreijen en niet spreeken,</l>
+<l>Zijn dood is al te groot een slag,</l>
+<l rend="; 1tab">En komt in hem, mijn opzet breeken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Amstfrdam</hi>.</speaker>
+<l>Mijn hert wierd van een angst geraakt,</l>
+<l>Zoo dra de Held had zeil gemaakt.</l>
+<l>My ducht dat my zijn schim verscheên;</l>
+<l>Maar merklijk grooter dan voorheên,</l>
+<l>Verbleekt en koud; 't was of hy iet</l>
+<l>Wou zeggen; maar 'k verstond hem niet:</l>
+<l>'t Was ook als of mijn stevekroon,</l>
+<l>Verglijen wilde, ô! Watergoôn,</l>
+<l>Had gy my 't voorspook uitgeleid,</l>
+<l>Ik had zijn dood nu niet beschreid.</l></sp>
+<sp>
+<speaker><hi rend="sc">Hercules</hi>.</speaker>
+<l>Mijn heldenoog geen traan gewend,</l>
+<l>Den Ruiter voor gelukkig kend;</l>
+<pb n="31"/>
+<l rend="; 1tab">Wiens naam van dag tot dag vergroot,</l>
+<l rend="; 1tab">Hoogst is verheerlijkt in zijn dood.</l>
+<l>Wie dan dit graft ziet en om deeze schaade schreid,</l>
+<l>Zeg dat hier in een tweede Epaminondas leid.</l></sp>
+<sp>
+<speaker><hi rend="sc">Jason</hi>.</speaker>
+<l>Hy leid, maar niet zijn roem, die van veel dankb're tongen,</l>
+<l>Na duizend eeuwen noch zal werden opgezongen;</l>
+<l>En schoon zijn togt mijn reis alle eer en naam ontroof,</l>
+<l>Zijn heldedeugd verdient dat ik die 't meeste loof;</l>
+<l>Als kundig wat het zy, in ope zee te dwaalen,</l>
+<l>Van dub'le vyanden een krijgslauwrier te haalen.</l>
+<l>Maar welk een scheemering verspreid zich door de lucht!</l>
+<l>Wat zend het aardrijk op terwijl het barst en zucht?</l>
+<l>Ik zie een groot getal der ouder heldenschimmen,</l>
+<l>Uit graf en lijkbusse aard en zee naar boven klimmen.</l>
+<l>De krijgs eer, die noch om en by haar lijkasch zweefd,</l>
+<l>Geleid haar naar den held, waar in haar lof herleefd.</l></sp>
+<stage><hi rend="i">Alhier verschijnen eenige geesten van oude helden, waar onder ook</hi> <hi rend="sc">Xerxes, Pompejus</hi> <hi rend="i">en</hi> <hi rend="sc">Hiero</hi>, <hi rend="i">welke laatste spreeken</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Xerxes</hi>.</speaker>
+<l rend="; 1tab">Zoo valt dan eind'lijk ook dat wonder</l>
+<l rend="; 2tab">Der helden van zijne eeuw!</l>
+<l rend="; 1tab">Zijn minder magt, bragt grooter t'onder,</l>
+<l rend="; 2tab">O! fiere waterleeuw!</l>
+<l rend="; 1tab">Ik schrikte op 't hooren van uwe daaden;</l>
+<l rend="; 2tab">Maar wensch u eer te biên,</l>
+<l rend="; 1tab">Wien ik met sterflijkheid belaaden,</l>
+<l rend="; 2tab">Noch nooit vermogt te zien.</l>
+<l rend="; 1tab">'T is my genoeg, dat ik na 't leeven,</l>
+<l rend="; 2tab">In deeze schets u groet,</l>
+<l rend="; 1tab">Zoo stond hy ook, die my deed beeven</l>
+<l rend="; 2tab">En vlugten van de vloed.</l>
+<l rend="; 1tab">Ik ben voldaan van mijn begeeren,</l>
+<pb n="32"/>
+<l rend="; 2tab">Ik zag den grooten held,</l>
+<l rend="; 1tab">Nu zal ik willig wederkeeren,</l>
+<l rend="; 2tab">Daar 't lot mijn rustplaats steld.</l></sp>
+<sp>
+<speaker><hi rend="sc">Pompejus</hi>.</speaker>
+<l rend="; 1tab">Ik ben, na Caesar mijne magt,</l>
+<l rend="; 1tab">In 't vlakke veld ten onder bragt,</l>
+<l rend="; 1tab">Moordaadig op 't Egyptze strand</l>
+<l rend="; 1tab">Door vier verraaders aangerand.</l>
+<l rend="; 1tab">En kreeg, terwijl mijn vrouw gevangen,</l>
+<l rend="; 1tab">Van vyanden moest gunst erlangen,</l>
+<l rend="; 1tab">Voor 't goed 't welk ik Egypte eer bood</l>
+<l rend="; 1tab">En Rome in driepaar zegepraalen,</l>
+<l rend="; 1tab">In haare ondankbare arm deed daalen,</l>
+<l rend="; 1tab">Noch naauwlijks lijkvuur na mijn dood.</l>
+<l rend="; 1tab">Des zie ik met genoegen aan,</l>
+<l rend="; 1tab">Wat eer dees held werd aangedaan.</l>
+<l rend="; 1tab">O! dankbaar Land, waar in de deugd,</l>
+<l rend="; 1tab">Verheerlijkt werd, hervat uw vreugd,</l>
+<l rend="; 1tab">De Held dus grootsch gesturven,</l>
+<l rend="; 1tab">Heeft meêr dan ik verwurven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Hiero</hi>.</speaker>
+<l rend="; 1tab">Hem wien ik nooit in 't leeven zag,</l>
+<l rend="; 1tab">Begroet ik na zijn leevensdag,</l>
+<l>In de eerenstacy die zijn volk heeft toegestelt,</l>
+<l>Rust, rust in roem, gebeente en asch van deezen Held,</l>
+<l rend="; 3tab">'k Beny 't u niet!</l>
+<l rend="; 3tab">Maar, ô! verdriet!</l>
+<l rend="; 1tab">'t Lot was my wreeder, toen de kielen</l>
+<l rend="; 1tab">Van Claudius, my overvielen!</l>
+<l>'k Verloor den strijd, schoon ik met groote wijsheid streed,</l>
+<l>En kreeg in plaats van eer verachting, schaade en leed.</l>
+<l rend="; 1tab">Gy groote man, die sterft en wint,</l>
+<l rend="; 1tab">Ook na uw dood uw luister vind.</l>
+<l rend="; 1tab">Rust! rust! ô! eer der Admiraalen!</l>
+<l rend="; 1tab">Uw Vaderland komt u betaalen.</l>
+<pb n="33"/>
+<l rend="; 2tab">De mannen ook die kort voor u</l>
+<l rend="; 2tab">Gesneuveld zijn, verlangen nu,</l>
+<l rend="; 2tab">Om u, gelijk wel eer in 't leeven,</l>
+<l rend="; 2tab">Een merk van eer en plicht te geeven.</l>
+<l rend="; 2tab">Maar gaan wy Helden; want de tijd,</l>
+<l rend="; 2tab">Dat ons van de yz're slaap bevrijd,</l>
+<l rend="; 2tab">Vergunt is deeze plechtigheeden,</l>
+<l rend="; 2tab">'T aanschouwen is reeds heen gegleeden!</l>
+<l rend="; 2tab">Komt voort eer dat het licht ons quel,</l>
+<l rend="; 2tab">Zeg meê vaar wel.</l></sp>
+<sp>
+<speaker><hi rend="sc">Xerxes</hi>.</speaker>
+<l rend="; 3tab">Vaar wel.</l></sp>
+<sp>
+<speaker><hi rend="sc">Pompejus</hi>.</speaker>
+<l rend="; 4tab">Vaar wel.</l></sp>
+<stage><hi rend="i">De Geesten weder vertrokken zijnde</hi>, <hi rend="i">zegt</hi></stage>
+<sp>
+<speaker><hi rend="sc">Jason</hi>.</speaker>
+<l>Kan zulk een troost 't verlies niet eenigzints verzachten?</l>
+<l>Wat toevlugt leit'er in bedroefde nagedachten?</l>
+<l>Noch duizend Helden, als gy straks verschijnen zaagd,</l>
+<l>Zijn zonder eer en roem van zee en land gevaagd,</l>
+<l>Daar zy voor diensten dank behoorden weg te dragen;</l>
+<l>Vergeeten en veracht, in keetenen geslagen,</l>
+<l>Gebannen en vermoord. zag zijnen Geest dit aan,</l>
+<l>Hy zou zijn Vaderland de droefheid zelf ontraân.</l>
+<l>Toch vind uw zwakheid troost in klagen, kermen, schreyen,</l>
+<l>Het weenen licht den druk, laat u met treurzang vleyen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Amsterdam</hi>.</speaker>
+<l rend="; 1tab">Ja vleid mijn hert in deeze elend!</l>
+<l rend="; 1tab">De doffe droefheid neemt geen end!</l>
+<pb n="34"/>
+<l>Wilt zingende zijn dood betreuren.</l>
+<l>Van rouw als ik uw kleed'ren scheuren,</l>
+<l>Ach! bondgebuuren, ach! heft aan,</l>
+<l>Doed ieder onze rouw verstaan.</l></sp>
+<sp>
+<speaker><hi rend="i">Zang van de</hi> 7 <hi rend="sc">Provincien</hi> <hi rend="i">in Rouw, zijnde drie van de zelve geboeid en gesleurt en haarer alle Waapenen met Lamfer ten halve gedekt</hi>.</speaker>
+<stage><hi rend="i">Eerste</hi>.</stage>
+<l>‘Wie zal? wie zal de schaâ vergoeden!</l>
+<l rend="; 2tab">‘Die Neêrland lijd!</l>
+<stage><hi rend="i">Tweede</hi>.</stage>
+<l rend="; 2tab">‘O! ramp, ô! strijd!</l>
+<l>‘Kon zorg noch m̀agt zijn dood verhoeden?</l>
+<stage><hi rend="i">Derde</hi>.</stage>
+<l>‘O! droeve dood! ô! bange dag!</l>
+<stage><hi rend="i">Vierde</hi>.</stage>
+<l>‘Bebloede zege, ach! ach! ach! ach!</l>
+<stage><hi rend="i">Alle te zaamen</hi>.</stage>
+<l>‘Hy overwind, maar sterft in 't overwinnen.</l>
+<l>‘Laat ons een lijkgezang, een kreet beginnen,</l>
+<l rend="; 1tab">‘Ach! zusters, hy 's ontzielt!</l>
+<l rend="; 1tab">‘De dood heeft hem vernielt,</l>
+<l>‘Wie zal, wie zal de schaâ vergoeden?</l>
+<l rend="; 1tab">‘Die Neêrland lijd!</l>
+<l rend="; 1tab">‘O! ramp, ô! strijd.</l>
+<l>‘Kon zorg noch magt zijn dood verhoeden?</l></sp>
+<pb n="35"/>
+<stage><hi rend="i">De Godinnen van 't</hi> <hi rend="sc">Noodlot</hi> <hi rend="i">neder daalende in een welk</hi>, <hi rend="i">aan een keten houdende der Goden praaltekenen</hi>, <hi rend="i">als</hi> <hi rend="sc">Jupyns</hi> <hi rend="i">blixem</hi>, <hi rend="sc">Junoos</hi> <hi rend="i">Scepter</hi>, <hi rend="sc">Apollos</hi> <hi rend="i">Lier en andere</hi>; <hi rend="i">Toonen des Helden leevensdraad begennen</hi>, <hi rend="i">opgewonden en afgesneden</hi>, <hi rend="i">zijnde</hi> <hi rend="sc">Clotho</hi> <hi rend="i">in 't blaauw en wit</hi>, <hi rend="sc">Lachesis</hi> <hi rend="i">in 't rood en goud</hi>, <hi rend="sc">Atropos</hi> <hi rend="i">in 't zwart gekleed</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Atropos</hi>.</speaker>
+<l>O! neen, zijn leevensdraad volsponnen,</l>
+<l>Heeft tot dees tijd maar rekken konnen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Lachesis</hi>.</speaker>
+<l>Neptuun 't was niet meer in uw magt?</l>
+<l>Den Held te dekken voor de kracht</l>
+<l>Van 't noodgeval, 't welk alle leeven,</l>
+<l>Een zeker eind heeft voorgeschreeven,</l>
+<l>Neptunus en gy Mavors waak</l>
+<l>In zijnen zoon voor Neêrlands zaak.</l></sp>
+<sp>
+<speaker><hi rend="sc">Clotho</hi>.</speaker>
+<l>Ik die zijn leeven voort deed koomen,</l>
+<l>In frisse lucht der Zeeuwze stroomen,</l>
+<l>Deed, als een zon uit damp en nacht,</l>
+<l>Hem reizen, die zijn naam, geslagt,</l>
+<l>En nieuw beleid van ooreloogen;</l>
+<l>Aan al de waereld moest vertoogen:</l>
+<l>Die met een talrijke oorlogsmagt,</l>
+<l>Als was 't een enkel schip, de kracht,</l>
+<l>Zijns vyands watermagt zou keeren,</l>
+<l>Hy moest den zeeman koomen leeren,</l>
+<l>De scheepen, als een drom te veld,</l>
+<l>In schikking houden; ja hy steld</l>
+<pb n="36"/>
+<l>En meet by vloed en star zijn streeken,</l>
+<l>Als wiskunst nimmer valsch gebleeken.</l>
+<l>O! Neêrland sluit uw droeve taal,</l>
+<l>Gun rust aan uwen Admiraal,</l>
+<l>Uw klacht is hoog genoeg gekoomen,</l>
+<l>Het sterflot heeft hem weggenoomen.</l>
+<l>Die tot een proef van zijne tijd,</l>
+<l>De haat ontworstelde en de nijd.</l>
+<l>Die nederig in groote zeegen,</l>
+<l>In ongevallen niet verleegen,</l>
+<l>Met often moede zou bezien,</l>
+<l>Wat hem 't geval ook aan zou biên.</l>
+<l>'K bragt hem te voorschijn, wiens bedrijven,</l>
+<l>In eeuwige eer op aarde blijven.</l>
+<l>Waar toe ik hem heb opgewekt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Lachesis</hi>.</speaker>
+<l>Ik heb met magt den draad gerekt.</l>
+<l>'K heb hem zich drymaal zien verbinden</l>
+<l>Aan Egaas die hem trouw beminden,</l>
+<l>'K zag zoons en dochters uit zijn stam,</l>
+<l>In dienst en eere in Amsterdam.</l>
+<l>Een reeks heldhaftige bedrijven,</l>
+<l>In Hollands jaargetyboek schrijven;</l>
+<l>Hy had wat ooit de Waereld gaf.</l></sp>
+<sp>
+<speaker><hi rend="sc">Atropos</hi>.</speaker>
+<l>Ik snee den draad zijns leevens af.</l>
+<l>Toen 't dwangbestjer niet op te houwen,</l>
+<l>Zijn leevenseindstip quam ontvouwen.</l>
+<l>Des treurd niet nu hy heeft volleeft,</l>
+<l>Wien al wat leeft eene eernaam geeft.</l>
+<l>Stelt u gerust en 't hert te vrede,</l>
+<l>Vereert met pracht en eer dees stede,</l>
+<pb n="37"/>
+<l rend="; 1tab">Alwaar het lijk des zeehelds legt;</l>
+<l rend="; 1tab">Die won en sneuvelde in 't gevegt.</l></sp>
+<sp>
+<speaker><hi rend="i">Het</hi> <hi rend="sc">Krygsgeluk</hi> <hi rend="i">zingende</hi>.</speaker>
+<l rend="; 1tab">‘Batavieren laat uwe gedachten,</l>
+<l rend="; 2tab">‘In arbeid gaan, om door de glorie,</l>
+<l rend="; 2tab">‘Van uw gezegende victorie</l>
+<l rend="; 1tab">‘Dees uw groote scha wat te verzachten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Mercurius</hi>.</speaker>
+<l rend="; 1tab">Men voer zijn degen in de starren,</l>
+<l rend="; 2tab">Op dat hy voor een noordstar strek,</l>
+<l rend="; 1tab">Wanneer der flaauwen moed aan 't warren</l>
+<l rend="; 2tab">En keeren, op dit zien</l>
+<l rend="; 2tab">De vrees uit 't hert zal vliên,</l>
+<l rend="; 1tab">Op dat dit alle helden wek.</l></sp>
+<sp>
+<speaker><hi rend="sc">Neptunus</hi>.</speaker>
+<l rend="; 1tab">Nu moet zijn nazaad ons tot stof</l>
+<l rend="; 1tab">Verstrekken, om zijn groote lof,</l>
+<l rend="; 1tab">Noch verder door haar uit te breijen.</l>
+<l rend="; 1tab">Laat ons dien heldestam geleijen,</l>
+<l rend="; 1tab">Alwaar de nood haare arm verdaagd.</l>
+<l rend="; 1tab">Men heeft genoeg geschreid, geklaagd,</l>
+<l rend="; 1tab">O! Mavors en gy groote Helden,</l>
+<l rend="; 1tab">Die hem op zijne togt verzelden,</l>
+<l rend="; 1tab">Versiert voortaan uw praalgewaad,</l>
+<l rend="; 1tab">Met zijnen naam, wien nimmer maat</l>
+<l>Van glorie door de zee, of 't Land gestelt kon werden,</l>
+<l>Wilt in uw gunst, als ik, aan Nederland volherden.</l>
+<l rend="; 1tab">Gy zeven Landen zingt met bly geluid,</l>
+<l rend="; 1tab">Den lof des dooden Helds eeuw in eeuw uit.</l></sp>
+<pb n="38"/>
+<sp>
+<speaker><hi rend="i">Alle de</hi> <hi rend="sc">Provincien</hi> <hi rend="i">by wijze van Reyzang</hi>.</speaker>
+<l>‘Eeuwig moet de Ruiter leeven,</l>
+<l rend="; 1tab">‘In zijn pronkbeeld, schild en boog</l>
+<l>‘Wijl de ziel is rust gegeeven</l>
+<l rend="; 1tab">‘In het zaalig veld om hoog.</l>
+<l>‘Zeven zusters weest verblijd,</l>
+<l>‘Hy won ziel en lichaams strijd.</l></sp>
+<stage><hi rend="i">Einde van 't Darde Deel</hi>.
+<lb/>
+<hi rend="i">Mindere zaaken</hi>, <hi rend="i">gelijk zommige Hand- en Hoofd-fieraden</hi>, <hi rend="i">groenvlechtingen</hi>, <hi rend="i">Kinderkens welke praal- en rouwtekenen dragen en andere zwygende gevolgen</hi>, <hi rend="i">hebben wy niet noodig geacht hier by te voegen</hi>, <hi rend="i">alzoo die meer tot versiering voor den Aanschouwer des Tooneels</hi>, <hi rend="i">dan den Leezer deezer Beschrijving geschikt zijn</hi>.
+<lb/>
+Vertoond op de Amsterdamsche Schouwburg.</stage>
+<pb n="39"/>
+<p>
+<figure>
+<p><xptr to="bidl001eerz01ill0001.gif"/></p></figure></p>
+</div>
+</body>
+</text>
+
+</TEI.2>

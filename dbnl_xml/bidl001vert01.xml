@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Vertooningspel, op de vreede, geslooten den 10den van oegstmaand des jaars 1678.</title>
+               <author>Govert Bidloo</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Vertooningspel, op de vreede, geslooten den 10den van oegstmaand des jaars 1678</hi> van Govert Bidloo in de eerste druk uit 1678.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr></corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan type="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>16</empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">bidl001vert01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2012 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note>DSOLmetadata:yes</note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Theater Instituut Nederland, signatuur: 13 A 18: 1</idno>
+               </bibl>
+               <p>Govert Bidloo, <hi rend="i">Vertooningspel, op de vreede, geslooten den 10den van oegstmaand des jaars 1678.</hi> Anthony Lescailje, Amsterdam 1678</p>
+               <p>&#160;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Vertooningspel, op de vreede, geslooten den 10den van oegstmaand des jaars 1678.</title>
+               <author>Govert Bidloo</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Vertooningspel, op de vreede, geslooten den 10den van oegstmaand des jaars 1678.</title>
+               <author>Govert Bidloo</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2012-06-27</date>
+               <respStmt>
+                   <name type="person">LL</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+      <text>
+<body>
+<cf>
+<div type="chapter">
+    <interpGrp>
+        <interp type="secundair" value="16780810"/>
+        <interp type="primair" value="frank01"/>
+    </interpGrp>
+<pb n="1"/>
+<p>G. BIDLOOS</p>
+<p>VERTOONINGSPEL, Op de VREEDE,</p>
+<p>Geslooten den 10<hi rend="sup">den</hi> van Oegstmaant des Jaars 1678.</p>
+<p><hi rend="i">Tusschen</hi></p>
+<p>Zijn Alderchristelijkste Maj: den Koning van Vrankrijk, <hi rend="i">En</hi> De Hoog Mog. Heeren Staten der Vereenigde Nederlanden.</p>
+<p><hi rend="i">Nevens</hi></p>
+<p>Der selver getrouwe Bondgenoot, zijn Catholijke Majesteyt den Koning van Spanjen.</p>
+<p><hi rend="i">Gespeeldt op d' Amsterdamsche Schouwburg.</hi></p>
+<p><figure>
+    <p><xptr to="bidl001vert01ill0001.gif"/></p>
+</figure></p>
+<p>AMSTERDAM,</p>
+<p>By Anthony Lescailje, Boekverkooper, in de Gasthuys-moolen-steeg, 1678.</p>
+</div>
+</cf>
+<div type="act">
+<pb n="2"/>
+<head rend="h3"><hi rend="i">Spreekende vertooners.</hi></head>
+<list>
+<item>Tijd.</item>
+<item>Staatzucht.</item>
+<item>De 7 Provincien, <hi rend="i">voerende Holland het woord</hi>.</item>
+<item>Weelde.</item>
+<item>Zorgeloosheyd.</item>
+<item>Overvloed.</item>
+<item>Voorsigtigheid.</item>
+<item>Godvrughtigheid.</item>
+<item>Vreede.</item>
+<item>Welvaart.</item>
+<item>Oorlog.</item>
+<item>Twist.</item>
+<item>Roof.</item>
+<item>Verraad.</item>
+<item>Faam.</item>
+<item>Staatkunde.</item>
+<item>Vrankrijk.</item>
+<item>Spanje.</item>
+</list>
+</div>
+<div type="act">
+<pb n="3"/>
+<head rend="h3">Eerste deel.</head>
+<stage><hi rend="i">Tijd</hi> en <hi rend="i">Staatzugt</hi> voor 't Gordijn.</stage>
+<sp>
+<speaker><hi rend="i">Tijd.</hi></speaker>
+<l>NU zal de Wareld weer een wondre tijd beleven,</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Staatz.</hi></speaker>
+<l>Mijn drift zig in het hert der Koningen begeven,</l>
+<l>De volgende Eeuwen zig ontzetten op mijn naam.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Tijd.</hi></speaker>
+<l>Dit Staatelijk Tooneel verheffe uw Troon, en Faam.</l>
+</sp>
+    <interpGrp> <interp type="song" value="bidl001vert01_0001"/> </interpGrp>
+<stage><hi rend="i">Het Gordijn open.</hi></stage>
+<stage><hi rend="i">Holland</hi> legt in de schoot van de <hi rend="i">Weelde,</hi> die op een Troon zit. <hi rend="i">Overvloed</hi> staat aan haar slinker, <hi rend="i">Zorgeloosheid</hi> aan haar regter zijde, op de trappen vertoonen zig de 6 andere <hi rend="i">Provincien.</hi></stage>
+<sp>
+<speaker><hi rend="i">Holland.</hi></speaker>
+<l>HOe zacht legt sich mijn hooft te rust!</l>
+<l>Daar uwe wacht mijn zorgen blust,</l>
+<l>Daar <hi rend="i">Overvloed</hi> my zegeningen,</l>
+<l>En alle wellust op komt dringen.</l>
+<l>O! <hi rend="i">Weelde,</hi> ô! zoete Zorgeloosheid.</l>
+<l>'k Voel dat de slaap mijn leden vleit,</l>
+<l>Die, afgemat door al 't genoegen,</l>
+<l>Alleen om versche krachten swoegen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Weelde.</hi></speaker>
+<l>Gy zult niet slapen ongestreelt;</l>
+<l>Al wat uw oog, of oor verveelt,</l>
+<l>Zal zich alhier niet laten vinden,</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Zorg.</hi></speaker>
+<l>Weg zorgen die de vreugd verslinden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Overvl.</hi></speaker>
+<l>Laat zorgen die het qualijk gaat:</l>
+<l>'t Geluk verbonden aan uw staat,</l>
+<l>Kan macht, noch list, noch tijd verheren.</l>
+<l>Gy zult noch lust, noch schat ontberen,</l>
+<l>Al wat de wijde Wareld heeft</l>
+<l>Is billijk datze u overgeeft.</l>
+<pb n="4"/>
+<l rend="; 1tab">Al die de Zon in 't oost zien klimmen,</l>
+<l rend="; 1tab">Al die haer in de Wester kimmen</l>
+<l rend="; 1tab">Zien duijken, wien by Noorder strand</l>
+<l rend="; 1tab">De kou verstijft, of wien de brand</l>
+<l rend="; 1tab">Der Zuijder As het hoofd komt zengen,</l>
+<l rend="; 1tab">'t Komt al by u zijn gaven brengen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Weelde.</hi></speaker>
+<l>Wy waken voor uw staat, en eer:</l>
+<l rend="; 1tab">Leg zorg, en lichaam teffens neer:</l>
+<l rend="; 1tab">Zacht.....</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Voorzig.</hi></speaker>
+<l>Onbedachte Maagd.</l>
+</sp>
+<stage><hi rend="i">Uyt.</hi></stage>
+<sp>
+<speaker><hi rend="i">Weelde.</hi></speaker>
+<l>Wie komt ons hier verstooren?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Voorzt:</hi></speaker>
+<l><hi rend="i">Voorzichtigheid</hi> wil haar.....</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Holland.</hi></speaker>
+<l>My lust u niet te hooren.</l>
+<l>Mijn staat heeft uwe zorg, en toezicht niet van nôon;</l>
+<l>Haar Welstand wert van elk zijn dienst, en trouw ge nôon:</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Voorz.</hi></speaker>
+<l>Ach! denkt gy niet hoe licht dat ook verwisselingen....</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Holla</hi></speaker>
+<l>Swijg zotte Zorgster, ik kan al 't verand'ren dwingen.</l>
+<l>Mijn zetel wert van elk, hoe machtig, aangebêen,</l>
+<l>Ik kan wel ieder, maar mijn niemant neder trêen.</l>
+<l>'t Vloeit alles in mijn schoot, het denken doet my krijgen,</l>
+<l>Daar andere met moeite ook nimmermeer toe stijgen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Voorlig.</hi></speaker>
+<l>U dreigt een felle storm, waak op, eer 't ongeval,</l>
+<l>Dat u eerlang met list, en kracht bestooken zal,</l>
+<l>En hoop, en hooft verplet. Ach! ach! hoe kunt gy slapen!</l>
+<l>'k Zie na uwe ondergang de gantsche wareld gapen,</l>
+<l>En snakken; Ach! men deelt gelijk een Oorlogs buyt</l>
+<l>Uwschoonheit aan de moord, en brand al juychende uyt.</l>
+<l>Ach! hoor my doch, gy weet dat ik u altijt teder...</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Zorgel.</hi></speaker>
+<l>Van hier onrustige, lecht gy uw hoofd zlegs neder.</l>
+</sp>
+<pb n="5"/>
+<sp>
+<speaker><hi rend="i">Voorz.</hi></speaker>
+<l>Waak doch de welvaart is in 't uyterste gevaar<hi rend="i">!</hi></l>
+</sp>
+<sp>
+<speaker><hi rend="i">Zorgel.</hi></speaker>
+<l>Ha! ha! ha! ha<hi rend="i">!</hi> ha! ha!</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Holland.</hi></speaker>
+<l>Van waar komt deze maar?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Voorzig.</hi></speaker>
+<l>Van elk die minder is, en meer als gy wil wezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Holland.</hi></speaker>
+<l>Dreygt my geen nood als die! zoo slaap ik zonder vrezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Weelde.</hi></speaker>
+<l>Wats dit?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Godv.</hi></speaker>
+<l>Slaep in den arm die u na 't leven staat.</l>
+<l>Betrouw u op den raad die heimlijk u yerraad.</l>
+<l>Gy, die my weinich eer, en achting hebt gedragen,</l>
+<l>Zult afgepijnicht door vervarelijke plagen,</l>
+<l>Eerlang gevoelen wat de dartelheit misdoet,</l>
+<l>Als zy de Godsdienst schopt met achtelooze voet,</l>
+<l>Wanneer elende dan uw trotsheit heeft verbrooken,</l>
+<l>Zult gy weer vuren op vervuylde Altaren stooken,</l>
+<l>My zoeken, die gy nu maar met de nek bezier.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Holland.</hi></speaker>
+<l>Gunt gy my me't vermaak van deze rust dan niet?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Overvl.</hi></speaker>
+<l>Verkniesde troniën, wie heeft u hier ontbooden?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Voorz.</hi></speaker>
+<l>'t Aanparssende geweld van schrikkelijke nooden.<note place="margin">Vertooning</note></l>
+<l>Daar speelt de Nijt haar rol, zy boezemt haar venijn</l>
+<l>In 't hert der Vorsten, die uw welstand tegen zijn.<note place="margin">De Vrede en Welv. Gevlucht zijnde ziet men een nytbeelding van 't verval der Neering.</note></l>
+<l>Zy raad Vorst <hi rend="i">Karel</hi> u ter Zee in 't hert te steeken.</l>
+<l>Doet Koning <hi rend="i">Lodewijk</hi> te Lande uw macht verbreeken,</l>
+<l>Daar vlucht de vree....</l>
+</sp>
+<sp>
+<speaker><note place="margin">hebbende de welvaart aan haar hand.</note> <hi rend="i">Vreede.</hi></speaker>
+<l>Hy vlucht die 't leven bergen wil,</l>
+<l rend="; 1tab">Voort <hi rend="i">Welvaart,</hi> voort van hier, kom vlucht, sta doch niet stil.</l>
+<l rend="; 1tab">Ik Heb de krijg gezien, op zijn Metale wagen;</l>
+<l>Vlucht al met my, die in mijn by zijn schept behagen.</l>
+</sp>
+<stage><hi rend="i">Binnen.</hi></stage>
+<sp>
+<speaker><hi rend="i">Holland.</hi></speaker>
+<l>Wat onrust maakt....</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Zorgel.</hi></speaker>
+<l>Ai slaap, vertrouw op onze wacht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Voorz.</hi></speaker>
+<l>Ik ga, terwijl gy doch <hi rend="i">Voorzichtigheid</hi> vracht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Godvr.</hi></speaker>
+<l>En ik, om geen meer hoon, noch leet van u te lijen.</l>
+</sp>
+<pb n="6"/>
+<sp>
+<speaker><hi rend="i">Weelde.</hi></speaker>
+<l>Wie u verlaat of niet wy zullen voor u stryen.</l>
+<l rend="; 1tab">Lecht gy maar uw leedjens neder,</l>
+<l rend="; 2tab">Op de wacht van <hi rend="i">Overvloed,</hi></l>
+<l rend="; 1tab">Die u alle morgen weder</l>
+<l rend="; 2tab">Met een nieuwen aanwas groet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Overv.</hi></speaker>
+<l>Weest gerust, mijn Zuster <hi rend="i">Weelde</hi></l>
+<l rend="; 2tab">Heeft de Zorgen weg gejaagt,</l>
+<l rend="; 1tab">Al de stoet die u verveelde,</l>
+<l rend="; 2tab">Op een andre dach gedaagt.</l>
+<l>Maar welk een schrik gedrocht vertoont zich in 't verschiet?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Weelde.</hi></speaker>
+<l>Ik ken hem, 't is de Krijg, ik beef!</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Zorgel.</hi></speaker>
+<l>Nu schrik zoo niet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Weelde.</hi></speaker>
+<l>Wat vliechter vuur, en rook, uyt dissel, as, en rad'ren!</l>
+<l>Wien of dat gelden zal!</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Overvl.</hi></speaker>
+<l>'t Schijnt of hy ons wil nadren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Weelde.</hi></speaker>
+<l>O! ja, hy heeft het op dit rijk gewest gemunt.</l>
+<l>Ach Zuster! ach hy komt! vlucht zo gy vluchten kunt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Overvl.</hi></speaker>
+<l>Maar de Maagd.....</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Weelde.</hi></speaker>
+<l>Die moet haar zelve nu bewaren,</l>
+<l>Wy ons, en zy, kom voort, haar leven zien te sparen.</l>
+</sp>
+</div>
+<div type="act">
+<head rend="h3">Tweede deel.</head>
+<stage><hi rend="i">Mars op een wagen. Rontom hem gaan Twist. Verraad. Geweld. Moord. Roof. voor af gaat de Nijt. De 7. Provintien leggen in slaap.</hi></stage>
+<l>DAt schelle Krijgsmuzijk ontsteekt mijn grootsch gemoed,</l>
+<l>Daar my Jupijn de trots der menschen straffen doet.</l>
+<l>Nu zal dit stil gewest van brand, en nederlagen,</l>
+<l>Met haar de wareld, van mijn strenge geessel wagen.</l>
+<l>Ruk voort gy slaven, huyl dat de alderminste mensch,</l>
+<l>Uyt angst voor mijne Roe, aanstonts te sterven wensch.</l>
+<pb n="7"/>
+<l>Op mijn staffieren, toon de Vorsten uw vermogen.</l>
+<l>Gy <hi rend="i">Twist</hi> zult geen besluyt tot reddering gedogen.</l>
+<l><hi rend="i">Verraad, Geweld,</hi> en <hi rend="i">Moord,</hi> betoon uw heerschappy.</l>
+<l>Wat brandbaar is, dat brand, wat lijden kan, dat ly,</l>
+<l>De dierte, en armoe zal uw spoor van zelf wel volgen.</l>
+<l>Wie ons te stutten pleeg, daar hy ons nu verbolgen,</l>
+<l>En magtig ziet, is reetz uyt vrees al weg gevlucht.</l>
+<l>Gints sluymert <hi rend="i">Nederland,</hi> voor geen gevaar beducht.</l>
+<l>Treet toe, vernieltze nu, laat ons haar rijkdom deelen,</l>
+<l>En in haar ondergang ons hoog vermogen streelen.</l>
+<l>Val aan nu mijn getrouwe, een rijke schoonheit leit</l>
+<l>In zorgelooze slaap, zy is u toegezeit,</l>
+<l>Zoo gy uwe armen rept, verstrikt haar in uw lagen,</l>
+<l>Of dwingtze door u vuyst, zoo! zoo! ik hoor de slagen,</l>
+<l>En zie de blixem van het Buskruyd in zijn kracht.</l>
+<l>Dat onweer steurt haar rust.</l>
+<sp>
+<speaker><hi rend="i">Holland.</hi></speaker>
+<l>Wie wekt my onverwachd,</l>
+<l>Met zulk een naare kreet! wie durft my hier vervelen?</l>
+<l>Waar zijt gy <hi rend="i">Overvloed,</hi> en <hi rend="i">Weelde</hi> mijn gespelen?</l>
+<l>Op! Zusters op!</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mars.</hi></speaker>
+<l>Val aan.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Holland.</hi></speaker>
+<l>Wat schrikkelijk gerucht</l>
+<l>Vervult met stof, en rook mijne ogen, en de lucht!</l>
+<l>Help! help! <hi rend="i">Voorzichtigheid,</hi> de krijg wil my verkrachten,</l>
+<l>t <hi rend="i">Geweld</hi> steekt my na 't hert, ach! ach! ach! ach<hi rend="i">!</hi> mijn klachten</l>
+<l>Zijn eydel, en zy weg, waar berg ik my in nood<hi rend="i">!</hi></l>
+<l>Dat zich de Landsoldaat, dat zich mijn Oorlogsvloot</l>
+<l>Te weerstel, 'k zal....</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Geweld.</hi></speaker>
+<l>Die kan tot uw behoud niet helpen:</l>
+<l rend="; 1tab">Wy zullen....</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Voorzig.</hi></speaker>
+<l>Haar geheel nu noch niet overstelpen.</l>
+</sp>
+<stage>Uyt.</stage>
+<sp>
+<speaker><hi rend="i">Holland.</hi></speaker>
+<l>Ik wil....</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Voorlig.</hi></speaker>
+<l>Gy moet u eerst van vaster plaats voorzien.</l>
+</sp>
+<pb n="8"/>
+<sp>
+<speaker><hi rend="i">Mars.</hi></speaker>
+<l>Val aan! val aan!</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Voorzig.</hi></speaker>
+<l>Schep moed, wilt aars'lend weerstant bien.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mars.</hi></speaker>
+<l>Nu dient de Magt verdeelt om d'andre te onderdrukken.</l>
+<l><hi rend="i">Verraad,</hi> en gy <hi rend="i">Geweld</hi>. zult weer voor steden rukken,</l>
+<l>De vestingen met Gout, of staal vermeest'ren gaan.</l>
+<l>Gy, <hi rend="i">Twist,</hi> en <hi rend="i">Wantrouw</hi> val in heer, en onderdaan,</l>
+<l>Uw zuster <hi rend="i">Oproer</hi> zal u zeekre bystant bieden.</l>
+<l>Ik zie de bloode voor 't gekraay der haan al vlieden,</l>
+<l>De Waterleeuw vol schrik vergeefsche slagen doen,</l>
+<l>En aars'len op 't geschreeuw der Britsche griphioen.</l>
+<l>Vaar voort, volvoer mijn last, die 't meeste kan verwoesten,</l>
+<l>Zal meeste winst, en eer van zijnen arbeid oesten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Holland met de 3 Prov. Voorsigtigheit.</hi></speaker>
+<l>Wy zijn verloren, zoo zich ieder niet en weert,</l>
+<l>Ach! ach! wat is mijn staat, en zegen omgekeert.</l>
+<l>Op heer, en onderdaan, op land en waterhoofden!</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Voorz.</hi></speaker>
+<l>Daar ziet gy dat de <hi rend="i">Twist</hi> haar van verstant beroofde.</l>
+<l>Het Volk valt de Overigheidt in leven, eer, en goed,</l>
+<stage>Vertooning.</stage>
+<l>De wrok aan 't raazen, bant 't ontzach uyt elx gemoed:</l>
+<l>De <hi rend="i">Wantrouw</hi> boeit de hand van die haar eerlijk dien;</l>
+<l>Men kent zijn vyand niet, uyt ware hertevrienden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Holland.</hi></speaker>
+<l>Ik wil mijn havens met veel oorlogs volk, en 't land....</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Voorz.</hi></speaker>
+<l>Ach<hi rend="i">!</hi> ziet uw steden door verraadt, en schrik vermant.</l>
+<l>Gy roept uw macht hier niet, daar noodelooz te wapen;</l>
+<stage>Vertooning.</stage>
+<l>Gy waak ter Zee, en schijnt te lande als noch te slapen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Holland.</hi></speaker>
+<l>Mijn onderdanen toon dat u geen macht ontbreekt,</l>
+<l>Om....</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Voorz.</hi></speaker>
+<l>Ziet gy ginder niet, hoe zich 't geweld naar wreekt?</l>
+<pb n="9"/>
+<l>Hoe moord, en brand, en roof de landen overstroomen,</l>
+<l>Hoe dierte, en armoede al met dorst, en honger komen<hi rend="i">!</hi></l>
+<stage>Vertooning.</stage>
+<l>Wat vlucht men aan die kant! wat is men daar verbaast!</l>
+<l>Hoor hoe het water, dat ter dijken in bruyst, raast!</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Holland.</hi></speaker>
+<l>Ach<hi rend="i">!</hi> my<hi rend="i">!</hi></l>
+</sp>
+<sp>
+<speaker><hi rend="i">Voorz.</hi></speaker>
+<l>Schrik niet, gy zult door 't breken van uw dijken</l>
+<l>'t Gevaar van deze brand, in 't water wel ontwijken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Holland.</hi></speaker>
+<l>Ik wil in 't water my....</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Voorz.</hi></speaker>
+<l>Hoe zijt gy dus ontzint,</l>
+<l>Voor eerst is 't al genoech, dat gy wat tijt gewint.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Holland.</hi></speaker>
+<l>Zal stad, en land in 't wa....</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Voorz.</hi></speaker>
+<l>Het water moet u helpen.</l>
+<l>Het hulp u meermaals, 't zal u nu niet overstelpen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Holland.</hi></speaker>
+<l>Wat zal ik doen? ach<hi rend="i">!</hi> ach<hi rend="i">!</hi></l>
+</sp>
+<sp>
+<speaker><hi rend="i">Voorz.</hi></speaker>
+<l>My volgen, en mijn raad;</l>
+<l>Ik hoor gerucht, kom, wijk.</l>
+</sp>
+</div>
+<div type="act">
+<head rend="h3">Derde deel.</head>
+<sp>
+<speaker><hi rend="i">De Faam</hi>.</speaker>
+<l rend="; 1tab">Te water is de staat</l>
+<l>Van Nederland gered, de Koningen geslagen,</l>
+<l>Zien Held de Ruyter de eer der krijgskans met sich dragen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">De Provincie van Holland. Voorzichtigheyd.</hi></speaker>
+<l>Ik heb <hi rend="i">Godvrugtigheid,</hi> gelijk gy ziet, herstelt.</l>
+<l>De dart'le <hi rend="i">hoogmoed</hi> leit door wijsheit neer gevelt.</l>
+<stage>Vert.</stage>
+<l>Het volk bid yverigh om 's Hemels gunst te winnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Voorzig.</hi></speaker>
+<l>Eer kan men met geen nut iets aangaan, of beginnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Holland.</hi></speaker>
+<l>Toen greep ik moed, en nam een <hi rend="i">Opperveldheer</hi> aen.</l>
+</sp>
+<stage>Vertooning.</stage>
+<sp>
+<speaker><hi rend="i">Voorz.</hi></speaker>
+<l>Ik zie een Mannemoed hem in het aanzicht staan.</l>
+<l>De vaste Vestingen met Oorlogsvolk bezetten,</l>
+<l>En 's Vyands inval met beleid en kracht beletten.</l>
+<l>De Burgery gereet het Land veel dienst te doen.</l>
+</sp>
+<pb n="10"/>
+<sp>
+<speaker><hi rend="i">Holland.</hi></speaker>
+<l>'k Deed op u raad aanstonds Gezanten hene spoên</l>
+<l rend="; 1tab">Na <hi rend="i">Spanje</hi> en <hi rend="i">Duytsland,</hi> ziet zy hebben vast besloten,</l>
+<stage>Vertooning.</stage>
+<l rend="; 1tab">Mijn staat te stutten: als getrouwe Bondgenoten,</l>
+<l rend="; 1tab">Haar Leger zakt vast af, zy merken dat mijn val</l>
+<l rend="; 1tab">Indien dien God gehengt, haar ook verplettren zal.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Voorzig.</hi></speaker>
+<l>Maar zietge uw Vyand wel op uw gesusters woeden!</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Holland.</hi></speaker>
+<l>Ach! hoe aal ik de macht van mijn bescherming voeden!</l>
+<l rend="; 1tab">De Burgery wert arm, 's Lands schatkist uytgeput;</l>
+<l rend="; 1tab">En de <hi rend="i">Overvloed,</hi> die my voorheen heeft onderstut,</l>
+<l rend="; 1tab">Is met de <hi rend="i">Welvaart,</hi> en <hi rend="i">Vreede</hi> weg geweken!</l>
+<l rend="; 1tab">Hoe raaktmen uyt 't gevaar, daar wy ten hals in steken</l>
+<l rend="; 1tab"><hi rend="i">Dry</hi> van mijn <hi rend="i">Susters</hi> weg, <hi rend="i">twee</hi> deerlijk in de ly,</l>
+<stage>Vertooning.</stage>
+<l rend="; 1tab">De <hi rend="i">Seste</hi> vreest de vloot van England ieder Ty.</l>
+<l rend="; 1tab">Ik zit in Schanssen, en begravingen bedolven,</l>
+<l rend="; 1tab">En zie in plaatz van Land, een Zee te lande golven.</l>
+<l rend="; 1tab">Ach! dat den Hemel zich nu mijner doch erbarm!</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Voorz.</hi></speaker>
+<l>Nu maak geen vruchteloos noch moedeloos gekarm.</l>
+<l rend="; 1tab">'k Ging wijl gy bezich waart met u te weer te setten,</l>
+<l rend="; 1tab">Tot uw behoudenis, ook mijne sinnen wetten.</l>
+<l rend="; 1tab">Ik zach dat Engeland vast aarselde in 't Verbond,</l>
+<l rend="; 1tab">Dat tot uwe ondergang, voorheen gesloten stond;</l>
+<l rend="; 1tab">Toen stierde ik <hi rend="i">Staatkunde,</hi> en zijn Dochters vol van reden,</l>
+<l rend="; 1tab">Om 's Konings hartheid weer tot vrindschap te verkneden,</l>
+<l rend="; 1tab">De Liosde tot zijn bloed, en 't inzicht dat zijn troon</l>
+<l>Zou wag'len, zoo gy als een parel aan de kroon</l>
+<l>Van Vrankrijk wierd gehecht, ried hem met rijper oordeel</l>
+<l rend="; 1tab">'t Verbond voort te eyndigen, tot uw, en ook zijn voordeel;</l>
+<pb n="11"/>
+<l>Daar komt mijn Zoon nu zelf.</l>
+</sp>
+<stage><hi rend="i">Staatkunde uit.</hi></stage>
+<sp>
+<speaker><hi rend="i">Staatk.</hi></speaker>
+<l>'t Gaat wel doorluchte Maagd,</l>
+<l>Uw zegen die wat dook is weder opgedaagt;</l>
+<l>Uw Susters, 't staaffche juk ontdooken, u weer nadren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Holland.</hi></speaker>
+<l>Zijt welkom.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Voorz.</hi></speaker>
+<l>Wilt u voort tot tegenweer vergadren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Holland.</hi></speaker>
+<l>Dat ik u byde, en gy my weer in de armen druk.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Staatk.</hi></speaker>
+<l>Nu schrey de krop eens uyt, en dank uw hoog geluk.</l>
+<l>Sla herwaarts eens uw oog, en ziet uw <hi rend="i">Veldheer</hi> trouwen,</l>
+<stage>Vertooning.</stage>
+<l>Om door een Huwlijkx band, de vrindschap vast te houwen.</l>
+<l>Hoe <hi rend="i">Munster</hi> de Oorlog moe den Helm heeft afgelecht,</l>
+<l>En uwe Burgery de moed is opgerecht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Holland.</hi></speaker>
+<l>Mijn hert herleeft ah ik maar reddering durf hopen,</l>
+<l>Ik zie de heirbaan nu tot mijn verlossing open.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Holland.</hi></speaker>
+<l>Den Hemel vordere deze aanwas van geluk,</l>
+<l>En red mijn onderdaan doch eenmaal uyt den druk.</l>
+<l>Gy nu gezusters, die de klaauwen zijt ontsprongen,</l>
+<l>En 't juk ontdoken, dat u wierdop 't lijf gedrongen,</l>
+<l>Laat ons de band, die ons zoo lang verbonden hielt,</l>
+<l>Weer hechten, levende voortaan als eens gezielt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Voorz.</hi></speaker>
+<l>Kom volg my, om 't gewelt nu tegenstant te bieden,</l>
+<l>Nu moet gy vechten, daarje om bestwil eerst most vlieden.</l>
+</sp>
+</div>
+<div type="act">
+<head rend="h3">Vierde deel.</head>
+<stage><hi rend="i">Mars, Twist, Verraad.</hi></stage>
+<sp>
+<speaker><hi rend="i">Twist</hi></speaker>
+<l>'t WErd tijd dat men zich zelf voor overval verzorg.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mars.</hi></speaker>
+<l>Mijn dapperheid blijft voor uw liifsbehouwt te borg.</l>
+</sp>
+<pb n="12"/>
+<sp>
+<speaker><hi rend="i">Twist.</hi></speaker>
+<l>Ik wierd verbannen!</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Verraad.</hi></speaker>
+<l>Ik met kracht te ruch gedreven,</l>
+<l>En burg ter naauwer nood mijn half verlore leven:</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mars.</hi></speaker>
+<l>Zoo is 'er dan geen macht meer over, als geweld?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Verraad.</hi></speaker>
+<l>Die werd door wijsheid nu al me ter neer gevelt,</l>
+<l>En durft haar kloekheid niet als schromende genaken.</l>
+<l>De moord staat selfs verbaast, en tracht zich weg te maken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Twist.</hi></speaker>
+<l>De vlucht zou ons nu best....</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mars.</hi></speaker>
+<l>Hoe zou men vluchten! neen,</l>
+<l>Men moet met doller kragt haar onder de ogen trêen.</l>
+<l>Zou zulk een ryke Bruyd, en buyt onse arm ontspringen,</l>
+<l>Laat ons zoo moedeloos, den aftocht noch niet zingen,</l>
+<l>Dat weer de trom op nieu mijne optogt hooren laat.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Verraad.</hi></speaker>
+<l>Ziet hoe <hi rend="i">voorzigtigheyd</hi> elk een tot stilstandt raad;</l>
+<l>Hoe <hi rend="i">Staatkunde</hi> overal de Vorsten in gaat scherpen</l>
+<stage>Vert</stage>
+<l>De kryg te stutten, en de wapens weg te werpen.</l>
+<l>Hoe 't volk van wederzy, van bont gebuurschap spreekt,</l>
+<l>En hakende na rust, het hooft na Vrede steekt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mars.</hi></speaker>
+<l>De Vrede komen? neen, dat zal ik niet gehengen.</l>
+<l>Wy moeten by 't geweld de lift nu zien te brengen,</l>
+<l>Dat zich.... Daar komt zijn vrind, hoe gaat het?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Roof.</hi></speaker>
+<l>'t Is gedaan,</l>
+<stage><hi rend="i">Roof uyt.</hi></stage>
+<l>Ik vluchte om my niet in haar banden te zien slaan.</l>
+<l>Daar is niet meer te doen, gy moet de standert strijken</l>
+<l>Uw rijk, en 't onz is uit; Laat ons in tijts noch wijken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mars.</hi></speaker>
+<l>'k Had van uw stout gemoed een stouter taal verwacht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Roof.</hi></speaker>
+<l>Wat baat geweld, wanneer <hi rend="i">Voorzichtigheid</hi> haar kracht,</l>
+<l>Daar haar <hi rend="i">Godvrugtigheid</hi> en dappre deugd-geleien,</l>
+<l>Te werk willeggen, kom laat ons van hier maar scheien.</l>
+<l>Daar zijn veel rijken daar uw naam meer gelden zal,</l>
+<pb n="13"/>
+<l>Verlaatze hier, en bouw daar uwe legerwal.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mart.</hi></speaker>
+<l>Ik wil....</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Verraad.</hi></speaker>
+<l>Gy moet van hier.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mars.</hi></speaker>
+<l>Zal Nêerland dus ontspringen.</l>
+<l rend="; 1tab">De strik....</l>
+</sp>
+<stage>Vertooning.</stage>
+<sp>
+<speaker><hi rend="i">Roof.</hi></speaker>
+<l>Zie daar 't begin der Vreedehandelingen.</l>
+<l>'t Gezantschap arbeit vast. Kom volg mijn raad, vertrek</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Verraad.</hi></speaker>
+<l>In stilte, eer ons alhier <hi rend="i">Voorzigtigheid</hi> ontdek.</l>
+</sp>
+</div>
+<div type="act">
+    <interpGrp> <interp type="song" value="bidl001vert01_0002"/> </interpGrp>
+<head rend="h3">Vyfde deel.</head>
+<stage><hi rend="i">Vreede, en Welvaart dalen in een Wolk neder. Godtvruchtigheyd. Holland, en al de Provincien op het Tooneel.</hi></stage>
+<sp>
+<speaker><hi rend="i">Godv.</hi></speaker>
+<l>SChep moet, den Hemel is tot uwe hulp genegen.</l>
+<l>Daar opent zich een wolk, een voorbode uwer zegen.</l>
+<l>Nu schrey niet meer, wisch af uw raauwgekreete wang.</l>
+<l>Hoor, wat een lief geluyt zich mengelt in die zang.</l>
+<l rend="; 1tab"><note place="margin">Vreede en Welvaart zingen.</note> Droeve <hi rend="i">Maagd</hi> droog af uwe oogen:</l>
+<l rend="; 2tab"><hi rend="i">Vreede</hi> en <hi rend="i">Welvaart</hi> komt weerom;</l>
+<l rend="; 1tab">'s Hemels gunst met u bewogen,</l>
+<l rend="; 2tab">Dooft Trompet, en Oorlogs-trom.</l>
+<l rend="; 1tab">De <hi rend="i">Overvloed,</hi> nu weg geweken,</l>
+<l rend="; 2tab">Zal eerlang met grooter pracht,</l>
+<l rend="; 1tab">'t Hooft in uwe staat opsteken,</l>
+<l rend="; 2tab">En zich geven in uvv macht.</l>
+<l rend="; 1tab">Doch laat nimmer haar bestieren</l>
+<l rend="; 2tab">Door de <hi rend="i">Weelde,</hi> en <hi rend="i">Zorgeloosheid</hi>;</l>
+<l rend="; 1tab">Maat, en tucht moet teugel vieren</l>
+<l rend="; 2tab">Aan de schat uw toegeleit.</l>
+<l rend="; 1tab">Wilt dan voor ons beide waken,</l>
+<l rend="; 2tab">Gy zult u gehulpen zien,</l>
+<l rend="; 1tab">Wy u meer gelukkig maken,</l>
+<l rend="; 2tab">Gy met rust uw staat gebien.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Holland.</hi></speaker>
+<l>Ik kus eerbiediglijk u trouwe noodvrindinnen-</l>
+<pb n="14"/>
+<l>Die ik omzichtig voorts zal eeren, en beminnen.</l>
+<l>Gy ziet hoe ongetooit mijn hair, en kleeding hangt;</l>
+<l>Mijn ziel die hoopeloos heeft seven jaar verlangt</l>
+<l>Uw lieflijk aanschijn eens in vriendschap aan te schouwen,</l>
+<l>Had mind'len, noch vermaak, om pronk aan 't lijf te houwen.</l>
+<l>Ik ben gesleurt, getreen, geslagen, en veracht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Vrede.</hi></speaker>
+<l>Komt zet u weer te rust in uw voorgaande pracht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Welv.</hi></speaker>
+<l>Ik zal uw zetel elk doen eeren als voor dezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Holl.</hi></speaker>
+<l>Daar uwe hand my voert is geen gevaar te vrezen.</l>
+<l>Maar wat geschreeuw vervult....</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Godv.</hi></speaker>
+<l>Daar is <hi rend="i">Voorzightigheid</hi>;</l>
+<l>Zy staat de wreede <hi rend="i">Krijg,</hi> door schrander Staarsbeleit,</l>
+<l>Met al zijn aanhang, als verwonnene in een keten;</l>
+<stage>Vertooning.</stage>
+<l>Wijl <hi rend="i">Roof, Geweld</hi> en <hi rend="i">Moord</hi> zich niet te bergen weten.</l>
+<l>Haar dochter, wijsheit, breekt al 't doodelijk geweer.</l>
+<l><hi rend="i">Bedroch,</hi> en <hi rend="i">vuyle nijd</hi> valt voor haar voeten neer.</l>
+<l>Zy is vol drift, en ernst om ieder aan te manen,</l>
+<l>Op deze voet, zich ook de weg tot rust te banen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Holland.</hi></speaker>
+<l>De vreugd, die 't hert gevoelt, beneemt de mond de spraak.</l>
+<l>Daar komt....</l>
+<l rend="; 2tab"><note place="margin">Staatkunde met Spanje en Vrankrijk aan de hand uyt.</note> Ik voel met u een zelve ziel vermaak.</l>
+<l rend="; 1tab">Ontfrons het voorhooft, kom, erken elkaar als vrinden.</l>
+<l rend="; 1tab">Tre toe; laat vreede uw hert onscheidelijk verbinden.</l>
+<l rend="; 1tab">Kom voeg u alle tot dit God-geweide Altaar;</l>
+<l rend="; 1tab">Vergeet te wederzy, 't verledene gevaar.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Holland.</hi></speaker>
+<l>Dit uur heb ik gewenscht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Spanje.</hi></speaker>
+<l>Dien dach ik te beleven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Vrankrijk.</hi></speaker>
+<l>Ik mijn getrouw heit u met vrindschap, weer te geven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Vreede.</hi></speaker>
+<l>Zluyt dan eenstemmelijk een eeuwing vree verbond.</l>
+</sp>
+<pb n="15"/>
+<sp>
+<speaker><hi rend="i">Godv.</hi></speaker>
+<l>De waarheit zy in 't hert, en de uytspraak in de mond.</l>
+<l rend="; 1tab"><note place="margin">Hollandt, Spanjen, vrankrijk</note> Dit Altaar tuyge altijt, dat wy op heden sweeren,</l>
+<l rend="; 1tab"><note place="margin">Hollandt, Spanjen, vrankrijk</note> Elkander welstand: en gerustheid te vermeeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Vreede.</hi></speaker>
+<l>Den Hemel zy gedankt, dat ik weer ben herstelt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Godv.</hi></speaker>
+<l>Die hoede u w staat en rijk, voor onheil en geweld.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Welv.</hi></speaker>
+<l>Ik zal met <hi rend="i">Overvloed,</hi> uw schaarsheid weer verrijken,</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Staatk.</hi></speaker>
+<l>Vermetelheid noch ramp, doe u van 't opset wijken;</l>
+<l>Noyt zy u <hi rend="i">Oorlog</hi> lief, of liever noch de <hi rend="i">Vrêe</hi>.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Holla.</hi></speaker>
+<l>Dank zy de <hi rend="i">Vreede,</hi> die ons red uyt al dit wee.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Spanje,</hi></speaker>
+<l>Die 't vuur heeft uytgeblust dat seven jaren blaakte,</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Vrank.</hi></speaker>
+<l>Dat my zoo veel als u het hert met droef heid raakte.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Faam.</hi></speaker>
+<l>Wat hoor ik!</l>
+</sp>
+<stage><hi rend="i">de Faam komt vliegen.</hi></stage>
+<sp>
+<speaker><hi rend="i">Staatk.</hi></speaker>
+<l>Dat gy hoort, dien voort de wareld aan.</l>
+<l>Laat uw Bazuin geen klank, als die van <hi rend="i">Vreede</hi> staan.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Vreede.</hi></speaker>
+<l>De wareld leer voortaan de dolle <hi rend="i">Krijg</hi> verachten,</l>
+<l>En wat uyt mijne schoot al zegen is te wachten,</l>
+<l>Dat dan geen tweedracht weer dit bloeiend land verstoor.</l>
+<l>Men geef aan <hi rend="i">Wantrouw, nijt,</hi> noch <hi rend="i">eygenbaat</hi> gehoor.</l>
+<l><hi rend="i">Godvruchtigheid</hi> voor al moet de eerste plaats behouwen:</l>
+<l>Dan kuntge op 's Hemels gunst met zekerheit betrouwen.</l>
+<l>Hoor hoe de vreugd 't gemoed der menschen heeft geraakt</l>
+<l>Zie welk een zegevuur in alle steden blaakt.</l>
+</sp>
+<p><hi rend="spat">EYNDE</hi>.</p>
+</div>
+</body>
+</text>
+
+</TEI.2>

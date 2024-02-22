@@ -1,0 +1,3905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Salmoneus</title>
+               <author>Joost van den Vondel</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van de herdruk van <hi rend="i">Salmoneus</hi> van Joost van den Vondel uit 1685. De eerste druk dateert uit 1657.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>p. 14: accolades verspreid over meerdere regels kunnen in deze digitale versie niet weergegeven worden. Daarom wordt de accolade hier, met bijbehorende tekst, op iedere regel herhaald.</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent>84</extent>
+           <scandetails>
+               <scan type="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page><!-- specificeer de lege pagina's hier --></empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">vond001salm02_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note></note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Theater Instituut Nederland, signatuur: 29 A 31: 5</idno>
+               </bibl>
+               <p>Joost van den Vondel, <hi rend="i">Salmoneus</hi>. Jacob Lescailje (erven), Amsterdam 1685 (herdruk)</p>
+               <p>&#160;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Salmoneus</title>
+               <author>Joost van den Vondel</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Salmoneus</title>
+               <author>Joost van den Vondel</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-08-19</date>
+               <respStmt>
+                   <name type="person">SG</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+<interpGrp>
+<interp type="primair" value="itali01"/>
+</interpGrp>
+<body><cf>
+<div type="chapter">
+
+<pb n="1"/>
+<p>J.V. VONDELS</p>
+<p>SALMONEUS.</p>
+<p><hi rend="i">TREURSPEL.</hi></p>
+<p><hi rend="i">Versiert met een</hi> VOOR- TUSSCHEN- <hi rend="i">en</hi> NASPEL <hi rend="i">in Maatzang, verscheide Konstwerken, Danssen, sprekende, en stomme Perzoonen, en andere toestellen, ieder op hunne plaatzen beschreven, en aangewezen.</hi></p>
+<p><figure>
+<p><xptr to="vond001salm02ill0001.gif"/></p>
+</figure></p>
+<p>t'Amsterdam, by d'Erfg. van <hi rend="i">Jacob Lescailje</hi>, op den Middeldam, naast de Vischmarkt, 1685.</p>
+<p>Met Privilegie.</p>
+
+</div></cf>
+<div type="chapter">
+<pb n="2"/>
+<head rend="h3">Copye Van de privilegie.</head>
+<p>DE Staten van Hollandt ende West-Vrieslandt doen te weten. Alsoo Ons vertoont is by de tegenwoordige Regenten van de Schouwburgh tot Amsterdam, dat sy Supplianten sedert eenige Jaren herwaarts met hunne goede vrinden hadden gemaakt en ten Toonele gevoert verscheyden Werken, soo van Treurspeelen. Blyspeelen als Kluchten, welke sy lieden nu geerne met den druk gemeen wilden maken: doch gemerkt dat dese werken door het nadrukken van anderen, veel van hun luyster, soo in Taal als Spelkonst souden komen te verliesen, en alsoo sy Supplianten hen berooft souden sien van hun bysonder ooghwit om de Nederduytsche Taal en de Dichtkonst voort te setten, soo vonden sy hen genoodsaakt, om daar inne te voorsien, ende hen te keeren tot Ons, onderdanig versoekende, dat Wy omme redenen voorsz. de Supplianten geliefden te verleenen Octroy ofte Privilegie, omme alle hunne Werken reedts gemaakt onde noch in 't licht te brengen, den tijdt van vijfrien Jaren alleen te mogen drukken en verkoopen of doen drukken en verkoopen, met verbodt van alle anderen op seekeren hooge peene daar toe by Ons te stellen, ende voorts in communi forma. Soo is 't dat Wy de Sake en 't Versoek voorsz. overgemerkt hebbende, ende genegen wesende ter bede van de Supplianten, uyt Onse rechte wetenschap, Souveraine macht ende authoriteyt deselve Supplianten geconsenteert, geaccordeert ende geoctroyeert hebben, consenteren, accorderen ende octroyeren mitsdesen, dat sy geduurende den tijdt van vijftien eerst achter een volgende Jaren de voorsz. Werken die reeds gedrukt zijn, ende die van tijdt tot tijdt door haar gemaakt ende in 't ligt gebragt sullen werden, binnen den voorsz. Onsen Lande alleen sullen mogen drukken, doen drukken, uytgeven en verkoopen. Verbiedende daarom allen ende eenen ygelijken deselve Werken naar te drukken, ofte elders naargedrukt binnen den selve Onsen Lande te brengen, uyt te geven ofte te verkoopen, op de verbeurte van alle de naargedrukte, ingebragte ofte verkogte Exemplaren, ende een
+boete van drie hondert guldens daar en boven te verbeuren, te applieeren een derde part voor den Officier die de calange doen sal, een derde part voor den Atmen der Plaatse daar het casus voorvallen sal, ende het resterende derde part voor deur Supplianten. Alles in dien verstande, dat wy de Supplianten met desen Onsen Octroye alleen willende gratificeren tot verhoedinge van hare schade door het nadrukken van de voorsz. Werken, daar door in geenige deelen verstaan, den inhoude van dien te authoriseren ofte te advoueren, ende veel min de selve onder Onse protectie ende bescherminge eenig meerder credit, aensien ofte reputatie te geven, nemaer
+<pb n="3"/>de Sapplianten in cas daar in yets onbehoorlyk soude mogen influeren, alle het selve tot haren lasten sullen gehouden wesen te verantwoorden; tot dien eynde wel expresselijk begeerende, dat by aldien sy desen Onsen Octroye voor de selve werken sullen willen stellen, daar van gene geabrevieerde ofte gecontraheerde mentie sullen mogen maken, nemaar gehouden sullen wesen het selve Octroy in 't geheel ende sonder eenige Omissie daar voor te drukken ofte te doen drukken, ende dat sy gehouden sullen zijn een exemplaar van al de voorsz. werken, gebonden en wel gecondition neert te brengen in de Bibliotheecq van Onse Universiteyt tot Leyden, ende daer van behoorlyk te doen blyken. Alles op poene van het effect van dien te verliesen. Ende ten eynde de Supplianten desen Onsen consente Octroye mogen genieten als naar behooren: Lasten wy alle ende eenen ygelijken die 't aangaan mag, dat sy de Supplianten van den inhoude van desen doen, laten en gedogen, rustelijk en volkomentlijk genieten, en cesserende alle beletten ter contrarie. Gedaan in den Hage onder Onsen grooten Zegele hier aan doen hangen den <hi rend="sc">xix</hi> September, in't Jaar onses Heeren en Zaligmakers duysent ses hondert vier tachtig.</p>
+<p>G. FAGEL.</p>
+<p>&#160;</p>
+<p>Ter Ordonnantie van de Staten</p>
+<p>&#160;</p>
+<p>SIMON van BEAUMONT.</p>
+<p>&#160;</p>
+<p>De tegenwoordige <hi rend="sc">Regenten</hi> van de <hi rend="sc">Schouburgh</hi>, hebben het Recht van de bovenstaende Privilegie, voor dit Treurspel, vergunt aan d'Erfgenamen van <hi rend="sc">Jacob Lescailje</hi>.</p>
+<p>&#160;</p>
+<p><hi rend="i">In Amsterdam, den</hi> 20 <hi rend="i">May</hi>, 1685.</p>
+</div>
+<div type="chapter">
+<pb n="4"/>
+<head rend="h2">Voorspel aan J.V. Vondels Salmoneus.</head>
+<p><hi rend="i">Het Tooneel verbeeld het Tempelwoud van Jupiter te Pisa, zijnde het zelve alom met lichten aan de boomen versiert.</hi></p>
+
+<div type="section">
+<head rend="h3">Vertooners.</head>
+<list>
+<item><hi rend="sc">Rey</hi> van <hi rend="sc">Grieksche Herders</hi>, en <hi rend="sc">Herderinnen</hi>, <hi rend="i">waar van zommige spreeken, zommige zingen, en eenige danssen.</hi></item>
+<item><hi rend="sc">Rey</hi> van <hi rend="sc">Wichelaars</hi>, <hi rend="i">waar van een spreekt.</hi></item>
+<item><hi rend="sc">Priesters</hi> van <hi rend="sc">Jupiter</hi> <hi rend="i">stom.</hi></item>
+<item><hi rend="sc">Hierofant</hi>, <hi rend="i">Hofpriester.</hi></item>
+<item><hi rend="sc">Eurialus</hi> <hi rend="i">Medepriester, vrind van Hierofant.</hi></item>
+<item><hi rend="sc">Pizaner Maagden</hi>, <hi rend="i">zingende.</hi></item>
+<item><hi rend="sc">Jupiter</hi>, <hi rend="i">in 't Orakelbeeld.</hi></item>
+<item><hi rend="sc">Altaarknechten</hi>.</item>
+<item><hi rend="sc">Koraalen</hi>.</item>
+</list>
+</div></div>
+<div type="act">
+<pb n="5"/>
+<head rend="h3">Eerste tooneel.</head>
+<sp>
+<speaker><hi rend="i">Eerste</hi> <hi rend="sc">Herder</hi> <hi rend="i">uit de Rey.</hi></speaker>
+<l><hi rend="b">S</hi>Choon wy aan Ops, en Pan verplicht,</l>
+<l>Haar off'ren onder veldgedicht,</l>
+<l>Het reinste uit jonge geit, en lam,</l>
+<l>En vruchtb're koe, uit stier, en ram;</l>
+<l>Zoo laat ons echter aan Jupijn,</l>
+<l>Onze opperheer, gedachtig zijn;</l>
+<l>De kudde, welke ons by geval,</l>
+<l>Van 't groote spoor, in 't tempeldal</l>
+<l>Geleide, weelig zat gegraast,</l>
+<l>Zal met het vallend licht wel haast,</l>
+<l>De kooy, en stal op 't hondsgeblaf,</l>
+<l>En rietfluit die men 't voervolk gaf</l>
+<l>Genaaken. 'k Zee aan lamp, en vier,</l>
+<l>Men zal van deezen avond hier,</l>
+<l>Voor Jupiter ten offer gaan,</l>
+<l>Hef ook een dank- en bêzang aan,</l>
+<l>Terwijl wy in 't olyvegroen,</l>
+<l>Onze altaarwenschen zwijgend doen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Zang van eene der</hi> <hi rend="sc">Herderinnen</hi>.</speaker>
+<lg type="poem">
+<l>‘Heilige oude vette blaaren,</l>
+<l>‘Die geheimen hoort verklaaren,</l>
+<l>‘Als der Priest'ren bede blaaken,</l>
+<l>‘Om den uitslag hunner zaaken:</l>
+<l>‘Laat de weêrklank deezer velden,</l>
+<l>‘Aan Jupijn onze yver melden;</l>
+<l>‘Dat hy hoor, wat dank, en beden</l>
+<l>‘Wy aan zijne kerk besteden.</l>
+</lg>
+</sp>
+<sp>
+<speaker><hi rend="i">Eerst</hi> <hi rend="sc">Herderin</hi>.</speaker>
+<l>Ja Alphéus, die met droppen</l>
+<l>Van de Arcader heuveltoppen,</l>
+<pb n="6"/>
+<l rend="; 1tab">Langs Olympus neder vloeid,</l>
+<l rend="; 1tab">Beemd, en bosch, en veld besproeid,</l>
+<l>Wy genieten zoo veel zeegen,</l>
+<l>Warmte, koelte, droogte, en reegen.</l>
+<l rend="; 1tab">Zoo veel vruchten, zoo veel goed,</l>
+<l rend="; 1tab">Als gy blanke vissen voed,</l>
+<l>Door den grooten wijzen Vader,</l>
+<l>De oorsprong van uw ruischende ader,</l>
+<l rend="; 1tab">Door den Vader van de goôn,</l>
+<l rend="; 1tab">Die hier neêrdaald uit zijn troon.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Tweede</hi> <hi rend="sc">Herder</hi>.</speaker>
+<l>Wil in eeuwigheid getuigen,</l>
+<l>Hoe Pizaner herders buigen</l>
+<l rend="; 1tab">Voor Jupijn; en zijn altaar</l>
+<l rend="; 1tab">Eeren om het vijfde jaar,</l>
+<l>Met een feest, en offerdieren.</l>
+<l>Grieken, 't welk dit feest doed vieren,</l>
+<l rend="; 1tab">Met gevecht, en paarde draf,</l>
+<l rend="; 1tab">Meet hier jaar, en dag by af;</l>
+<l>En doed in hun 't jaarboek schrijven,</l>
+<l>De eer van haare krijgsbedrijven.</l>
+<l rend="; 1tab">Hoor, ô! Jupiter, de zucht,</l>
+<l rend="; 1tab">Die ons needrig hert ontvlugt,</l>
+<l>Hoed onze arme riete daaken,</l>
+<l>Wil voor vee, en hoeders waaken:</l>
+<l rend="; 1tab">Maar my dunkt ik zie van ver,</l>
+<l rend="; 1tab">Als de flonk'rende avondster,</l>
+<l>De eer der hoofsche priester reijen,</l>
+<l>Laat ons uit het kerkdal scheijen;</l>
+<l rend="; 1tab">Gaan wy buuren tot der rust;</l>
+<l rend="; 1tab">Of zoo imand 't blijven lust,</l>
+<l>Laat hem 't altaar achting draagen,</l>
+<l>Zich vervoegen by de haagen,</l>
+<l rend="; 1tab">Achter 't stêvolk, knecht of boom,</l>
+<l rend="; 1tab">Kleene past ontzag, en schroom.</l>
+<l>Die met my te rust wil gaan,</l>
+<l>Volg al danssende achter aan.</l>
+</sp>
+<pb n="7"/>
+<stage><hi rend="i">Dans van eenige uit de Herders, en Herderinnen.</hi></stage>
+</div>
+<div type="act">
+<head rend="h3">Tweede tooneel.</head>
+<sp>
+<speaker><hi rend="i">Een uit den rey van Priesters, zijnde Wichelaars.</hi></speaker>
+<l>CHaldêen, die van ontelbaare eeuwen,</l>
+<l>Naauw gaade sloegd op zang, en schreeuwen,</l>
+<l>Der voog'len; uit hun ingewand,</l>
+<l>Den zwaarnaspoorelijken stand,</l>
+<l>Der niet, of langgebeurde zaaken,</l>
+<l>Den menschen wist bekent te maaken,</l>
+<l>Uw tempelplicht werd wel geacht,</l>
+<l>Dien Cecrops eerst in Grieken bragt;</l>
+<l>Maar wijl in Elis vrucht, noch starren,</l>
+<l>Noch vogelvlugt, ons klaar ontwarren,</l>
+<l>Hoe 's Konings opzet zal vergaan,</l>
+<l>Die in der Goden rey wil staan,</l>
+<l>Den hemel wil 't ons klaar verkonden!</l>
+<l>Heeft hy zijn Priesters hier gezonden,</l>
+<l>Te Pise, om in dit kerkgewelf,</l>
+<l>'t Ontwijfelbaare Orakel zelf,</l>
+<l>Naar de uitslag van het stuk te vraagen,</l>
+<l>Het welk zijn Majesteit zal waagen,</l>
+<l>Daar treed, op staadig kerkgeluid,</l>
+<l>Den Hoogenpriester zelf voor uit.</l>
+</sp>
+</div>
+<div type="act">
+<head rend="h3">Derde tooneel.</head>
+<stage><hi rend="i">Reizang van Pizaaner maagden</hi>, <hi rend="sc">Hierofant</hi>, Rey van Priesters van <hi rend="sc">Jupyn. Eurialus</hi>, <hi rend="i">Rey van Pizaaner inwoonders. Altaarknechten dragende offertuig.</hi></stage>
+<sp>
+<speaker><hi rend="i">Zang van een uit de Rey.</hi></speaker>
+<lg type="poem">
+<l>‘JUpijn die op veel honderd steden</l>
+<l rend="; 2tab">‘Word aangebeden,</l>
+<l rend="; 1tab">‘O! onbepaalde Majesteit,</l>
+<l>‘Wil den Hoogenpriester zeeg'nen,</l>
+<l>‘Die uw Tempel komt bejeeg'nen,</l>
+<pb n="8"/>
+<l rend="; 1tab">‘Met zuivere godvruchtigheid.</l>
+<l>‘Laat uw Godspraak hem verklaaren,</l>
+<l>‘Wat uw volk zal wedervaaren.</l>
+<l><stage><hi rend="i">De Rey herhaald deze twee laatste vaarzen.</hi></stage></l>
+<l>‘Laat uw Godspraak hem verklaaren,</l>
+<l>‘Wat uw volk zal wedervaaren.</l>
+</lg>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>Kom laat ons eer de Maan verrijs,</l>
+<l>Met hooggeheiligde offerspijs,</l>
+<l>De olympische Jupijn begroeten,</l>
+<l>Met meelgebak, en vee ontmoeten:</l>
+<l>Jupijn die uit wit elpebeen,</l>
+<l>Uit goud, en erts in beeld gesneên,</l>
+<l>Om zijnen scheedel Schikgodinnen</l>
+<l>De oneindige uuren ziet beminnen.</l>
+<l>Gy, Offerknaap, begin vast werk,</l>
+<stage><hi rend="i">Een der altaarknechten dragende reizetakken binnen.</hi></stage>
+<l>Ga tegen 't westen by de kerk,</l>
+<l>Reik my het zout, en gy de gommen,</l>
+<l>Gy kruik, en wierook, gy de kommen,</l>
+<l>Gy bijl, en schaar en offermes,</l>
+<l>Ik zelf zal; naar de Atheensche les,</l>
+<l>Der dieren nek met wijn besproeijen,</l>
+<l>De hoor'nen vatten onder't loeijen.</l>
+<l>Gantsch Pisa nu getuigen zal,</l>
+<l>Wat ons weêrvaart in kerk, en dal.</l>
+<l>Verzelt elkaâr gy amptenaaren,</l>
+<l>Tot dat de vlam om hoog gevaaren,</l>
+<l>Van 't offervee Jupijn vernoeg',</l>
+<l>En ik my tot de vraag vervoeg.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eurialus</hi>.</speaker>
+<l>De Priester kom eerlang met zeegen</l>
+<l>Zijn Amptgenoot, en Koning teegen</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>Blijf tot mijn wederkomst, en waak</l>
+<l>Dat niemand onvoorziens my naak.</l>
+</sp>
+<stage><hi rend="i">Hierofant met de Offerknechten binnen.</hi></stage>
+</div>
+<div type="act">
+<pb n="9"/>
+<head rend="h3">Vierde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Eurialus</hi>, <hi rend="i">tegen de Reijen der Priesteren, en Pizaaners.</hi></speaker>
+<l>WY gaan als wy eene uitslag willen</l>
+<l>Verneemen, Delphos, noch Sybillen,</l>
+<l>Noch Dodoneër eikeboom,</l>
+<l>Noch drievoet, hol, noch helsche stroom,</l>
+<l>Met nachtgezang, noch tovervloeken,</l>
+<l>Maar Pizaas tempelwoud bezoeken.</l>
+<l>Wy bidden Haan, noch Serapis,</l>
+<l>En wat noch meer gewaardigd is,</l>
+<l>By Perssen of AEgyptenaaren,</l>
+<l>Der dingen toestand te openbaaren;</l>
+<l>Maar Jupiter om waarheid aan.</l>
+<l>Waar toe na mind're Goôn gegaan?</l>
+<l>Die Istmos, Ephesen, Lokrezen,</l>
+<l>Iconiën of Samos preezen,</l>
+<l>Die Liciën of Attica,</l>
+<l>Of Claros aanroept om genâ.</l>
+<l>De gouwe pyler, overlaaden</l>
+<l>Met 't opschrift zijner wonderdaaden,</l>
+<l>Door zijn vermoogen zelf gerecht,</l>
+<l>Ons ook alle and're plicht ontzegt.</l>
+<l>Wy volgen 's Vorsten wil, en wetten,</l>
+<l>Wee! die zich ooit hier teegen zetten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Een uit de Rey der</hi> <hi rend="sc">Wichelaaren</hi>.</speaker>
+<l>De Priester Theofrastus mort,</l>
+<l>Wat of den goeden Vader port,</l>
+<l>Terwijl wy niet als blijdschap hooren,</l>
+<l>Deeze algemeene vreugd te stooren?</l>
+<l>Hy gaat met ingetooge geest,</l>
+<l>Hy schud het hoofd, en schijnt bevreest;</l>
+<l>'k Zag, toen wy naar de Godspraak gingen,</l>
+<l>Dat onder juichen, danssen, zingen,</l>
+<l>Van 't hof, en 't volk, zijn hert, en mond,</l>
+<l>Dees vreugd noch reis geraaden vond.</l>
+</sp>
+<pb n="10"/>
+<sp>
+<speaker><hi rend="sc">Eurialus</hi>.</speaker>
+<l>Zijn suffende ouderdom verleegen,</l>
+<l>Zoo dra hy maar iets nieuws ziet pleegen,</l>
+<l>Wil straks.... maar zacht de Priester komt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Een uit de Rey der</hi> <hi rend="sc">Wichelaars</hi>.</speaker>
+<l>Hy staat, door aandacht, als verstomt.</l>
+</sp>
+</div>
+<div type="act">
+<head rend="h3">Vyfde tooneel.</head>
+<stage><hi rend="sc">Hierofant</hi> <hi rend="i">verschijnt ter zijden de Kerk met de Altaarknechten, hebbende in zijn hand 't hert, en eenige andere ingewanden van een offerdier, 't welk hy, na het bezichtigt te hebben, ter zijden op een brandend Altaar werpt.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Eurialus</hi>.</speaker>
+<l>DAar ziet hy 't hert, en ingewand,</l>
+<l>Hy werpt het in den altaarbrand,</l>
+<l>En schijnt vernoegd tot ons te komen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>Tot noch toe heeft men niets te schroomen,</l>
+<l>'t Gaat wel; want als dees kromme staf,</l>
+<l>Den hemel 't eerste deelmerk gaf,</l>
+<l>Vertoonde zîch in 't zwoele zuien,</l>
+<l>Dit quam ons nooit iets quaads beduien,</l>
+<l>Een duivevlugt, toen die vervloog,</l>
+<l>Verhief een Arend zich zoo hoog,</l>
+<l>Dat niemand hem meer naar kon spooren:</l>
+<l>Maar laat ons nu de Godspraak hooren,</l>
+<l>Zoo volgen wy gebod, en plicht;</l>
+<l>Zoo krijg de Koning klaar bericht.</l>
+<l>Gy, alle houd u van den drempel,</l>
+<l>Terwijl ik neêrkniel voor den tempel.</l>
+<l>Wekt met uw tempelzang, en beê,</l>
+<l>De groote Godheid van deez stê.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gezang van dry te zamen.</hi></speaker>
+<lg type="poem">
+<l>‘Daal neêr, daal neêr uit 's hemels trans,</l>
+<l>‘Vervul met ongenaakb're glans,</l>
+<pb n="11"/>
+<l rend="; 1tab">‘Uw geweide tempeldaken,</l>
+<l rend="; 1tab">‘Nu gy 't offervuur ziet blaaken,</l>
+<l>‘'t Geen de Priester van ons hof,</l>
+<l>‘Heeft ontstooken tot uw lof:</l>
+<l rend="; 1tab">‘Alvermoogende Jupijn,</l>
+<l>‘Doe ons merken ‘dat uw kerken,</l>
+<l>‘Altijd ons een toevlugt zijn.</l>
+</lg>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eurialus</hi>, <hi rend="i">Na de zang.</hi></speaker>
+<l>Daar gaat de deur des tempels open,</l>
+<l>Ik ben vol vreezen, en vol hoopen.</l>
+</sp>
+<stage><hi rend="i">Met het opgaan van de tempel ziet men 't beeld, van</hi> <hi rend="sc">Jupiter</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi> <hi rend="i">vraagd aan 't Orakelbeeld.</hi></speaker>
+<l>Salmoneus onzen Vorst, en Heer</l>
+<l>Wil dat men hem als god'lijk eer.</l>
+<l rend="; 1tab">Wy wenschen met zijn heil belaan</l>
+<l rend="; 1tab">Te weeten, hoe 't hem zal vergaan?</l>
+</sp>
+<stage><hi rend="i">Alhier werd op de speedtuigen een deftige maar gestelt, en gespeelt, tot dat het begint te donderen, en te blixemen in, en om de Kerk.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Eurialus</hi>.</speaker>
+<l>Jupijn ten kerkbeelde ingevaaren,</l>
+<l>Zal ons den uitslag haast verklaaten,</l>
+<l>De donder dreunt, de blixem blaakt,</l>
+<l>Een teeken dat hy ons genaakt.</l>
+<l>De kerk begind als de aard te beeven,</l>
+<l>Valt neêr, nu zal hy antwoord geven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Het Orakelbeeld spreekt.</hi></speaker>
+<lg type="poem">
+<l><hi rend="i">De Vorst zal door een Priesters raad,</hi></l>
+<l rend="; 1tab"><hi rend="i">Zoo by hem hoort, te nacht zich zien verstooten,</hi></l>
+<l><hi rend="i">Van leven, eer, en Konings staat</hi></l>
+<l rend="; 1tab"><hi rend="i">Door hem, van wien by meest heest hulp genooten.</hi></l>
+</lg>
+</sp>
+<pb n="12"/>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>De Tempel valt van zelve in 't slot,</l>
+<l>Men volge 't koninglijk gebod,</l>
+<l>En ga ten Hoof de tijding dragen,</l>
+<l>Die onzen Koning zal behaagen,</l>
+<l>En zijn bekoorlijke Echtgenoot,</l>
+<l>Wien deeze dag al lang verdroot,</l>
+<l>Het hert in blijdschap zal ontsteeken.</l>
+</sp>
+<stage><hi rend="sc">Eurialus</hi> <hi rend="i">met</hi> <hi rend="sc">Hierofant</hi> <hi rend="i">een weinig ter zijden tredende.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Eurialus</hi>.</speaker>
+<l>Is u 't geluk al klaar gebleeken?</l>
+<l>Hoe ik het antwoord keer of wend,</l>
+<l>'k Zie zwaarigheden zonder end.</l>
+<l>'k Vrees voor de nacht, die 'k zie genaaken,</l>
+<l>Den Goden zich gelijk te maaken,</l>
+<l>Is van te zorgelijk gewigt;</l>
+<l>Spoey niet, men vatte zelden licht</l>
+<l>Des Opperstens geheimenissen,</l>
+<l>Laat ons met stiller zinnen gissen,</l>
+<l>Wie 't is, die hem heeft hulp geboôn;</l>
+<l>Wie 't weezen kan, die hem zal doôn;</l>
+<l>Zoo hy een Priester komt te hooren.</l>
+<l>Wat Priester heeft zijn val beschooren?</l>
+<l>Want Theofrast lieft hem als wy.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>'t Zy met dit antwoord zoo als 't zy;</l>
+<l>Hoe 't ook vergaat, wat kan 't ons scheelen?</l>
+<l>Zoo wy niet in de rampen deelen.</l>
+<l>Dat elk maar op den uitslag pas,</l>
+<l>Want lukt het qualijk, dan slegs ras</l>
+<l>De zy van Theofrast genoomen,</l>
+<l>En lukt het; dan is de uur gekoomen,</l>
+<l>Waar in ons jonge priesterschap,</l>
+<l>De voet zal zetten op den trap,</l>
+<pb n="13"/>
+<l>Daar nu de Princen zijn gezeeten.</l>
+<l>Men moet den Koning voort doen weeten</l>
+<l>Dat hy alleen te vreezen heeft</l>
+<l>Een Priester, die zijn eer weêrstreeft.</l>
+<l>Dat, komt hy zijnen raad te hooren,</l>
+<l>Zijn kroon, en welstand is verlooren;</l>
+<l>Ja, dat hy sterven zal te nacht,</l>
+<l>Door, die hem 't meeste hulp toebragt.</l>
+<l>Maar eer het volk zich kome te uiten,</l>
+<l>Laat ons al 't quaad bedenken stuiten;</l>
+<l>De tijd zal u mijn wit doen zien.</l>
+<l>Doed uw bekommernissen vliên;</l>
+<l>Gy Reijen die ons woud verzellen,</l>
+<l>Wilt maat op keel, en speeltuig stellen,</l>
+<l>Waar uit gantsch Elis kan verstaan,</l>
+<l>Dat onze reis is wel vergaan.</l>
+<l>En gy, ô! Burgers, laat uw voeten</l>
+<l>Met blijden dans het Hof gemoeten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Zang van eenige der</hi> <hi rend="sc">Pizaaner Maagden</hi>.</speaker>
+<lg type="poem">
+<l>‘Nu mag Elis uitgelaaten,</l>
+<l rend="; 1tab">‘Mart, en straaten,</l>
+<l>‘Met stacy bereijen,</l>
+<l>‘En haar Koning als godlijk ter tempel leijen.</l>
+</lg>
+</sp>
+<stage><hi rend="i">Einde van't Voorspel.</hi></stage>
+</div>
+<div type="chapter">
+<pb n="14"/>
+<head rend="h3"><hi rend="i">Perzoonagien, tot het Treurspel.</hi></head>
+<list>
+<item><hi rend="sc">Archytas</hi>. } <hi rend="i">Pizaaners.</hi></item>
+<item><hi rend="sc">Zeno</hi>. } <hi rend="i">Pizaaners.</hi></item>
+<item><hi rend="sc">Epicharis</hi>. } <hi rend="i">Pizaaners.</hi></item>
+<item><hi rend="sc">Diodoor</hi>, <hi rend="i">Kerkwachter.</hi></item>
+<item><hi rend="sc">Theofrastus</hi>. } <hi rend="i">Priesters van Jupiter.</hi></item>
+<item><hi rend="sc">Eutimus</hi>. } <hi rend="i">Priesters van Jupiter.</hi></item>
+<item><hi rend="sc">Hirofant</hi>. } <hi rend="i">Hofpriesters.</hi></item>
+<item><hi rend="sc">Eurialus</hi>. } <hi rend="i">Hofpriesters.</hi></item>
+<item><hi rend="sc">Salmoneus</hi>, <hi rend="i">Koning } in Elis.</hi></item>
+<item><hi rend="sc">Filotimie</hi>, <hi rend="i">Koningin } in Elis.</hi></item>
+<item><hi rend="sc">Bazilides</hi>, <hi rend="i">Veldheer.</hi></item>
+<item><hi rend="sc">Orfiza</hi>, <hi rend="i">eerste Staatjuffer van Filotimie.</hi></item>
+<item><hi rend="sc">Jupiter</hi>.</item>
+<item><hi rend="i">Een Vrouw verbeeldende de Stad</hi> <hi rend="sc">Elis</hi>.</item>
+</list>
+<div type="section">
+<head rend="h4">Zingende</head>
+<list>
+<item><hi rend="sc">Maagden</hi>.</item>
+<item><hi rend="sc">Priesters</hi>.</item>
+<item><hi rend="sc">Koraalen</hi>.</item>
+<item><hi rend="sc">De Kerkmaagd van Elis</hi>.</item>
+<item><hi rend="sc">Hofjuffers</hi>.</item>
+</list>
+</div>
+<div type="section">
+<head rend="h4">Danssende.</head>
+<list>
+<item><hi rend="sc">Offerknechten</hi>.</item>
+<item><hi rend="sc">Goden en Godinnen</hi>.</item>
+<item><hi rend="sc">Burgers van Elis</hi>.</item>
+</list>
+<p>Na het Spel zingen en danssen wederom de boven genoemde.</p>
+</div>
+<div type="section">
+<head rend="h4">Zwygende.</head>
+<list>
+<item><hi rend="sc">Priesters</hi>.</item>
+<item><hi rend="sc">Reijen van Altaar Bedienders</hi>.</item>
+<item><hi rend="sc">Hofjuffers</hi>.</item>
+<item><hi rend="sc">Trouwanten</hi>.</item>
+</list>
+</div>
+</div>
+<div type="act">
+<pb n="15"/>
+<head rend="h2">Salmoneus.
+<lb/>
+<hi rend="i">Treurspel.</hi></head>
+<head rend="h3">Eerste bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="i">Vertoonende een straat met Huizen, Paleizen, en een Tempel, meerendeel met Konstwalken bekleed.</hi>
+<lb/>
+<hi rend="sc">Archytas. Zeno. Epicharis</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Architas</hi>.</speaker>
+<l><hi rend="b">D</hi>E volle maan komt op, en volgt den avondster,</l>
+<l>Wy hebben Pisa, daar de mond van Jupiter,</l>
+<l>De Priesters antwoord gaf, ter goeder tijd verlaaten,</l>
+<l>Om Elis, en het Hof, en Kerk, en Mart, en straaten</l>
+<l>t'Aanschouwen op 't gerucht, dit Landschap doorgespreid,</l>
+<l>Dat deeze stad te nacht al Pizaas Majesteit,</l>
+<l>En glans verdooven zal, en Hereles feest, en speelen,</l>
+<l>Door toestel van wat grootsch, en hemelsche tooneelen;</l>
+<l>En zeeker 't geen wy zien verminderd niet de faam,</l>
+<l>Die doorgaans is gewoon op eenen hollen naam</l>
+<l>Te stoffen, en met klank van ydele trompetten,</l>
+<l>De kleene dingen breed, en heerlijk uit te zetten:</l>
+<l>Want wat Pizaner ooit verkeerde hier omtrent,</l>
+<l>Niet een heeft Elis ooit in deezen schijn gekent:</l>
+<l>Zelf de ingezeten dwaald, en staat als opgetoogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Zeno</hi>.</speaker>
+<l>De menschen schijnen hier in sterrelichte boogen,</l>
+<l>Te drijven of te treên op wolken door de lucht,</l>
+<l>Langs de aarde in de lucht verkeert, geen loopende gerucht</l>
+<pb n="16"/>
+<l>Bedroog ons, nu wy hier verbaast, als ziende blinden,</l>
+<l>Noch twijf'len waar wy staan, en om den weg te vinden</l>
+<l>Een leidsman hoeven, die den nabuur met bescheid</l>
+<l>Berechte, en wijze, en toone al stads gelegenheid.</l>
+<l>Hier komen twee Gewijde in witte koorgewaaden,</l>
+<l>De een met een offerkruik, en de ander overlaaden</l>
+<l>Met eikekranssen. Wat of dit beduijen wil?</l>
+<l>Zy hebben ons in 't oog, daar staan zy buide stil.</l>
+</sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Diodoor. Altaarknaap. Archytas. Zeno. Epicharis</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Diodoor</hi>.</speaker>
+<l>WAt mannen komen hier van buiten opgedondert?</l>
+<l>By avond na dit feest. de vrou staat zeer verwondert</l>
+<l>Om dees verandering, zy staan verbaast, en stom.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Archytas</hi>.</speaker>
+<l>Het zy gy Priester zijt, of een die 't priesterdom</l>
+<l>De hand reikt, laat u niet verdrieten noch mishaagen,</l>
+<l>Dat wy Pizaaners u een luttel ondervraagen,</l>
+<l>Naar deeze nieuwigheên, voorheene nooit gezien,</l>
+<l>Wat wil de toestel van dees stacy toch bediên?</l>
+<l>En dat dees Stad, de Mart der omgelege volken,</l>
+<l>Een lucht vol luister schijnt, en met tapijt van wolken</l>
+<l>Behangen om, en om, waar door een buiten man</l>
+<l>Of landzaad naauwlijks kerk, en hofstraat kennen kan,</l>
+<l>Noch 't Hof, hoewel hy hier gewoon is alle jaaren</l>
+<l>Te trekken om gewin, te wisselen zijn Waaren,</l>
+<l>Aan geld of koopmanschap, hoe scherp men haar beziet,</l>
+<l>De hoofdstad Elis schijnt, noch lijkt zich zelve niet,</l>
+<l>Maar lucht, en hemel, daar Jupijn de hemelraaden</l>
+<l>Verdagvaard door de lucht, en starrelichte paden.</l>
+<l>Zoo dit een Schouwburg is; Athene, Pallas stad,</l>
+<l>Heeft zulk een Speeltooneel noch glori nooit gehad.</l>
+<l>Ay! staat een poos, gy zult den Tempel niet mishaagen,</l>
+<l>Zoo gy verd waalde leid, en antwoord op hun vraagen.</l>
+</sp>
+<pb n="17"/>
+<sp>
+<speaker><hi rend="sc">Epicharis</hi>.</speaker>
+<l>Wy volgden meê den stoet der Priest'ren, die Jupijn</l>
+<l>Gesprooken hebben, zeg wat mag'er gaande zijn?</l>
+<l>Zoo't weezen mag, ay! kom de nieuwsgier van de vrouwen</l>
+<l>Te hulp; wil de oirzaak van dees toestel wat ontvouwen!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Diodoor</hi>.</speaker>
+<l>Mijn Kerkgenoot, ga, breng dees offerkruik der Goôn</l>
+<l>In 't offerkoor: gy weet ik ben ten Hove ontboôn,</l>
+<l>En kan, al loopt de tijd, niet laaten ons gebuuren</l>
+<l>Te dienen op hun vraag, en wat te recht te stuuren.</l>
+<stage><hi rend="i">Altaarknecht binnen.</hi></stage>
+<l>Mijn naam is Diodoor, aan de oostzy van de kerk</l>
+<l>Mijn wooning, nu vermomd met dit geschilderd zwerk;</l>
+<l>Daar duizend kunstenaars, en geesten over zweeten,</l>
+<l>Dees kerk, recht voor u, werd Salmoneus kerk geheeten.</l>
+<l>Dees ruimte 't eereveld, geheiligd aan die zorg,</l>
+<l>En ginder rijst het Slot, men heet het Godenborg:</l>
+<l>Daar houd Salmoneus hof met onze Koninginne</l>
+<l>Filotomie, zijn bekoorende Godinne,</l>
+<l>Die meer op hem vermag, dan Juno by Jupijn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Zeno</hi>.</speaker>
+<l>Wat heeft de Koning voor? hy mikt in allen schijn</l>
+<l>Op een byzonder wit: want hoe men 't keere of wende,</l>
+<l>Zoo groot een toestel oogd op een doorluchtig ende.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Diodoor</hi>.</speaker>
+<l>Hy heeft verandering van kerkdienst in den zin.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Zeno</hi>.</speaker>
+<l>Een aanslag vol gevaars.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Diodoor</hi>.</speaker>
+<l rend="; 1tab">Indien de Koningin</l>
+<l>Hier zwaarigheid in vond, hy zou dees snaar niet roeren,</l>
+<l>Zy poogd den Koning als vergood in top te voeren:</l>
+<l>Gelijk een Jupiter te heffen op 't altaar,</l>
+<l>Door offerhande, en tiende, en kerkelijk gebaar,</l>
+<l>En wierook, en triumph, en beelden, en gezangen,</l>
+<l>Als eenen uit wiens schoot, en boezem wy ontfangen</l>
+<l>De zegeningen, daar dit Rijk van overvloeid.</l>
+<pb n="18"/>
+<l>Dat de aarde vruchten draagd, geboomte, en akker bloeid;</l>
+<l>Dat alles leeft, en is, en andre voort kan teelen,</l>
+<l>Het gantsche Rijk in rust, voor bloedige krakeelen,</l>
+<l>Geweld, en overlast, en sterfte, en zwaarigheên</l>
+<l>Beschut werd, eigend hy zijn wijsheid toe alleen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Archytas</hi>.</speaker>
+<l>Wat zegt hy van Jupijn? en mind're luchtgenooten?</l>
+<l>De aloude Godsdienst werd te schendig dus verstooten,</l>
+<l>En in haar plaats een nieuw verdichtzel aangebeên,</l>
+<l>Zich dus te noemen, is een laster, daar voorheen,</l>
+<l>Zoo meenige eeuwen, noch onze ouders ooit van hoorden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Diodoor</hi>.</speaker>
+<l>Gebruik bescheidenheid in yver in uw woorden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Epicharis</hi>.</speaker>
+<l>Wat roept men van zijn beeld, en trotze wagenpraal?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Diodoor</hi>.</speaker>
+<l>Als gy Penejus brug zult zien, uit geel metaal</l>
+<l>Gegooten, en met een den kostelijken waagen,</l>
+<l>Op goude raders, en de paarden hecht beslaagen</l>
+<l>Met blinkend staal, gereed langs 't brommende gewelf</l>
+<l>Der brugge, en over stroom te rennen, gy zult zelf</l>
+<l>Gelooven, dat Jupijn, dees toestel, best zou passen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Archytas</hi>.</speaker>
+<l>De trotsheid kent geen peil; zy wil al hooger wassen.</l>
+<l>Zoo word door overdaad 's Rijks schatkist uitgeput,</l>
+<l>De zenuw van den staat. Geen burgers trekken nut</l>
+<l>Uit lasterlijke pracht, gewoon de lucht te tergen.</l>
+<l>Gelijk wel eer het rot der Reuzen, niet dan Dwergen</l>
+<l>Gereekent by de magt van Jupiter, die 't al</l>
+<l>Wat zich te trots verheft, verweezen heeft ten val:</l>
+<l>En elke magt haar maat van niemand t'overschrijden,</l>
+<l>Door 't noodlot toegekeurt, heel stip voor alle tijden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Diodoor</hi>.</speaker>
+<l>Het is niet veilig hier te waaren deeze nacht,</l>
+<l>Omtrent het Hof, ten zy men geen gevaaren acht;</l>
+<l>Eene oirzaak, dat dees wijk, nu doods, en schier verlaaten,</l>
+<l>Niet grimmeld van een drang, gevloeid uit alle straaten,</l>
+<pb n="19"/>
+<l>Nieuwsgierig om te zien wat onweêr van geschil</l>
+<l>Hier tusschen Hof, en Kerk misschien oprijzen wil.</l>
+<l>Men heeft, om min het volk te ontrusten, en te stooren,</l>
+<l>De nacht, en duisternis voor dees triumph verkooren:</l>
+<l>Want wat zich schaamt by dag, en draait op veel gevaars,</l>
+<l>Word liever 's nachts gezien, als schoonder by de kaars.</l>
+<l>De Burgery gedeeld, en al een wijl aan 't mompelen,</l>
+<l>Word naauwlijks ingetoomt; men vreest voor overrompelen.</l>
+<l>De een droomt van nieuwigheên, door eigenbaat gestijft,</l>
+<l>En den ander eert al wat den ouden Godsdienst drijft.</l>
+<l>De hemel blusch by tijds dit smeulend vuur, dees vonken,</l>
+<l>Zoo niet, wy zien den staat in puin, en asch verzonken.</l>
+<l>Wat zegt'er Pisa toe?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Zeno</hi>.</speaker>
+<l rend="; 1tab">Die stad houd noch de zy</l>
+<l>Van Jupiter, en viert 't Olympisch jaargety,</l>
+<l>Om 't vijfde jaar, heel stip, en zonder te overtreden.</l>
+<l>Pizaaners volgen 't oude, en haaten nieuwigheden.</l>
+<l>Gantsch Elis loopt gevaar van staat- en kerk krakeel.</l>
+<l>Dees Stad gelijkt bykans een Schouwburg, een Tooneel,</l>
+<l>De Goden treden hier te voorschijn, met hun rollen.</l>
+<l>Zoo raakt Jupijn ten schimp, en zijn gemeente aan 't hollen.</l>
+<l>O! lasterlijke vond, de Tempel raast, en suft,</l>
+<l>Wanneerze dient tot spel van 't menschelijk vernuft.</l>
+<l>Men moet de weeligheid der herssenen besnoeijen,</l>
+<l>Het brein verdigt niets goeds; de staat vergeet te bloeijen,</l>
+<l>Daar nevels van misbruik, en ongetoornde drift,</l>
+<l>De telgen van de jeugd besmetten met vergift</l>
+<l>Van eigenzinnigheid, en dert'le hovaardijen.</l>
+<l>De hemel hoede ons voor al zulke guigchlerijen,</l>
+<l>Eene ongebondenheid te Pisa lang getemt;</l>
+<l>Dat stemt geen speelen, als de Kerk het tegenstemt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Diodoor</hi>.</speaker>
+<l>Wy willen ons gesprek bespaaren tegens morgen:</l>
+<l>Ik moet ten Hove gaan; maar ga niet zonder zorgen</l>
+<l>Naar Basilides, om te spreeken met dien heer.</l>
+<l>Te hooren 's Konings wil.</l>
+</sp>
+<pb n="20"/>
+<sp>
+<speaker><hi rend="sc">Epicharis</hi></speaker>
+<l rend="; 1tab">Des hemels Koning keer</l>
+<l>De oneenigheden van dees stad ten goeden ende!</l>
+<l>Want tweedragt is de bron, en springaâr van elende.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Architas.</hi></speaker>
+<l>De vader Jupiter bestraale ons met genâ!</l>
+<l>Dat niet deeze onrust in zijn tempelgevel sla,</l>
+<l>Te Pise: want die slag, kon Griek, en Ongriek treffen;</l>
+<l>Indien de Koningen zich tegens Goôn verheffen,</l>
+<l>En 't grijze hooftgezag van 't eeuwig Priesterdom</l>
+<l>Verdrukken ongestraft. Wy zien de Orakels stom,</l>
+<l>En elk den Vorsten naar den mond zien, en gelooven,</l>
+<l>Geraakt Salmoneus, en het Hof dien hoek te boven.</l>
+<l>Hier hangen wierookvat, en kroon in eene schaal:</l>
+<l>Maar gaanwe naar de brug, en trotze wagenpraal,</l>
+<l>Bezien waar 't veiligst is voor oploop ons te bergen.</l>
+<l>Men mag 't gevaar wel zien, maar wacht' zich dat te tergen.</l>
+</sp>
+<stage><hi rend="i">Alle binnen.</hi></stage>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="i">Rey van Priesters van</hi> <hi rend="sc">Jupiter</hi>, <hi rend="i">en Hofpriesters.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Eutimus</hi>.</speaker>
+<l>JUpijn, die alles naar uw wensch</l>
+<l>Beschikt, waarom is toch den mensch,</l>
+<l rend="; 1tab">Door uwe wijsheid in dit leeven,</l>
+<l rend="; 1tab">Den nabootzeerlust in gegeeven?</l>
+<l>Naardien hy vaak dien trek misbruikt,</l>
+<l>En niet alleen al wat'er duikt,</l>
+<l rend="; 1tab">Beneden u, wil nabootzeeren,</l>
+<l rend="; 1tab">Maar hooger vliegen op de veêren</l>
+<l>Van zijn vernuft, en al de schatten,</l>
+<l>Der endelooze eeuwigheid bevatten.</l>
+<l rend="; 1tab">De ondankb're staat naar hooger waarde,</l>
+<l rend="; 1tab">En wil vergood zijn hier op de aarde;</l>
+<pb n="21"/>
+<l>Zijn hoogmoed schept voor ons gezicht</l>
+<l>Een hemel uit een stad, het licht</l>
+<l rend="; 1tab">Uit duisternisse, en nacht, en dampen,</l>
+<l rend="; 1tab">Het aardrijk tot een lucht, vol lampen.</l>
+<l>Gestarnte, en glans, die 't oog verblind,</l>
+<l>Men durft hier hagel, regen, wind,</l>
+<l rend="; 1tab">En weêrlicht, blixem, vuur, en donder,</l>
+<l rend="; 1tab">Ook zelfs des hemels magt, en wonder</l>
+<l rend="; 1tab">Braveeren, op een pronkstellaadje,</l>
+<l rend="; 1tab">Een worm vertoont uw perzoonaadje.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eurialus</hi>.</speaker>
+<l>De hovaardy houd streek noch maat;</l>
+<l>Men kentze aan 't zwellende gelaat,</l>
+<l rend="; 1tab">De tong, en tekens der gepeinzen,</l>
+<l rend="; 1tab">Al wouze een poos haar wit ontveinzen,</l>
+<l>Vernissen, met wat glimps, en schijns,</l>
+<l>De wijze zietze door de grijns.</l>
+<l rend="; 1tab">De grooten speelen nu voor stommen,</l>
+<l rend="; 1tab">En zien dit lofgetuit, dit mommen</l>
+<l>Met hun hovaardige oogen aan.</l>
+<l>De huich'laars poogen wel te staan</l>
+<l rend="; 1tab">Ten hove, en oogen slechs op voordeel,</l>
+<l rend="; 1tab">De glimp van staat verblind het oordeel</l>
+<l>Der hovelingen, dat's hunne aard.</l>
+<l>Een kerkdienst daar men wel by vaard,</l>
+<l rend="; 1tab">Word van de menigte aangebeden.</l>
+<l rend="; 1tab">Hier duikt de waarheid, en de reden.</l>
+<l rend="; 1tab">Maar laat ons, schoon in dienst verscheiden,</l>
+<l rend="; 1tab">Het uiteind van dit stuk verbeiden.</l>
+<l rend="; 1tab">Ik ga ten hoof mijn ampt bekleeden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eutimus</hi>.</speaker>
+<l rend="; 1tab">Ik ongerust ten Kerke in treden.</l>
+</sp>
+<stage><hi rend="i">Einde van het eerste Bedrijf.</hi></stage>
+</div>
+</div>
+<div type="act">
+<pb n="22"/>
+<head rend="h3">Tweede bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Diodoor</hi>. <hi rend="i">Rey van Hofpriesters</hi>, <hi rend="sc">Koraalen</hi>. <hi rend="i">Altaarknechten, Hoftrouwanten, en edele Maagden van</hi> <hi rend="sc">Elis</hi>, <hi rend="i">geleidende het beeld van</hi> <hi rend="sc">Salmoneus</hi>.</stage>
+<sp>
+<speaker><hi rend="i">Zang van</hi> <hi rend="sc">Koraalen</hi>.</speaker>
+<lg type="poem">
+<l>‘DE pracht van 't nieuwe feest</l>
+<l>‘De hemel op der aard, verheugd liet hof,</l>
+<l>‘En onzer Priest'ren geest,</l>
+<l>‘Laat ons ook zingen tot des Konings lof,</l>
+<l>‘Hoe groot! hoe groot is de eer?</l>
+<l>‘Van onzen Vorst, en Heer.</l>
+</lg>
+</sp>
+<sp>
+<speaker><hi rend="i">Zingende</hi>, <hi rend="sc">Maagden</hi>.</speaker>
+<lg type="poem">
+<l>‘Grieksche, en Lybiaansche velden,</l>
+<l rend="; 1tab">‘Die der Goden opperhooft</l>
+<l rend="; 1tab">‘Dag op dag met zangen looft,</l>
+<l>‘Wien godvruchtige op u melden,</l>
+<l rend="; 1tab">‘Elis toont geen minder pracht,</l>
+<l rend="; 1tab">‘Daar het wierookt, brand, en slagt.</l>
+<l>‘Volgt Salmoneus hofgeboden,</l>
+<l>‘Priesters, stelt hem by de Goden.</l>
+</lg>
+<stage><hi rend="i">De Rey der Maagden herhaalt de twee laatste vaarzen.</hi></stage>
+<lg type="poem">
+<l>‘Volgt Salmoneus &amp;c.</l>
+<l>‘Priesters stelt &amp;c.</l>
+</lg>
+</sp>
+<stage><hi rend="i">Dans van Altaarknechten.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Diodoor</hi>.</speaker>
+<l>Trouwanten, zet dit beeld wat neder op den drempel</l>
+<l>Van Jupiter; nu, toeft een luttel voor den Tempel.</l>
+<l>De Aardspriester Theofrast met al het Priesterdom,</l>
+<l>Komt beevende uit het Koor, zoo grijs hy is, en krom,</l>
+<l>Geboogen, door de last der opgehoopte jaaren,</l>
+<l>Gesleeten op de wacht, voor Kerken, en Altaaren:</l>
+<l>Al is zijn lichaam zwak, noch flaauwt zijne yver niet.</l>
+</sp>
+<div type="scene">
+<pb n="23"/>
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Theofrastus</hi> <hi rend="i">uit de Kerk komende, Rey van Priesters van</hi> <hi rend="sc">Jupiter. Koraalen, Diodoor</hi>. <hi rend="i">Trouwanten. Rey van Priesters van't Hof. Altaarknechten.</hi> <hi rend="sc">Eutimus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>WAt of dit gulde beeld in 't kerkportaal bedied?</l>
+<l>Dit schijnt Salmoneus zelf, of na Jupijn te zweemen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Diodoor</hi>.</speaker>
+<l>De Vorst belaft u dit in 't heiligdom te neemen,</l>
+<l>Te planten op 't Altaar, in 't alderhoogste Koor,</l>
+<l>Met alle plechtigheên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l rend="; 3tab">Wat zegt gy, Diodoor?</l>
+<l>Aanvaart gy deezen last?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Diodoor</hi>.</speaker>
+<l rend="; 1tab">Aardspriester, hou me onschuldig;</l>
+<l>Ik spreek in 's Konings naam.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l rend="; 2tab">Wie kan die trots geduldig...</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Diodoor</hi>.</speaker>
+<l>Getroost de Aardpriester zich des Konings ongenâ</l>
+<l>Te laaden op den hals? zoo kan men my de schâ,</l>
+<l>Den krak des Priestordoms in eeuwigheid niet wijten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>O! Priesters, nu is 't tijd u voor Jupijn te quijten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Diodoor</hi>.</speaker>
+<l>Eerwaardste Vader, hou gemak. Gy Priesters houd</l>
+<l>Uw handen van dit beeld, mijn zorge toebetrouwt.</l>
+<l>De Koning gaf geen last my tegens u te kanten</l>
+<l>Met openbaar geweld; dus keert gy, Hoftrouwanten,</l>
+<l>En Altaarknaapen, zegt hoe ik de last van 't Hof</l>
+<l>De Kerk heb aangedient.</l>
+</sp>
+<stage><hi rend="i">Danssers, en Trouwanten binnen.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l rend="; 2tab">Wat word de Kerk al stof</l>
+<pb n="24"/>
+<l>Gegeven, om met magt hier tegens aan te werken!</l>
+<l>O! schennis! ô! Jupijn! ô! gruwel voor uw Kerken!</l>
+<l>Speelt nu een sterflijk mensch met aller goden lot?</l>
+<l>De aloude Kerkdienst word den Ongriek tot een spot,</l>
+<l>Door zulke vremdigheên, te spoorloos, en verwaaten,</l>
+<l>Ten toon gestelt. Hoe nu mijn kerklijke onderzaaten?</l>
+<l>Zal Elis zulk een stuk met lijdzaame oogen zien?</l>
+<l>De Juno van dit Hof wil 't Priesterdom gebiên:</l>
+<l>Hy heerscht door haaren heer, en durft ons wetten stellen.</l>
+<l>Nu zietge eerst wat voor goed ons de offervinders spellen,</l>
+<l>En waarom deezen dag het altaar raakte in brand.</l>
+<l>Hier draait dit nachtfeest op, dit word door Hierofant</l>
+<l>Beyvert om zijn klaauw te slaan in al 't gewijde;</l>
+<l>En hierom weifelt hy, en houd des Konings zijde.</l>
+<l>Maar niemand onder u zal zoo lichtvaardig zijn,</l>
+<l>Dat hy om aardich genot, ook de eere van Jupijn</l>
+<l>Verzaake; ik zweere by mijn heilige offerbanden,</l>
+<l>En hooft, geen witten stier noch smookende offerhanden</l>
+<l>Te wijden aan dit beeld, noch geur van 't wierookvat</l>
+<l>Te zwaaijen voor 't altaar, al zouden hof, en stad</l>
+<l>Met koningrijk met al in vuur, en bloed verzinken,</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eutimus</hi>.</speaker>
+<l>Eerwaarde Vader, zacht.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l rend="; 1tab">Ik meen mijn bloed te drinken</l>
+<l>Om dees verwatenheên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eutimus</hi>.</speaker>
+<l rend="; 2tab">Gewis uw reedlijkheid,</l>
+<l>Werd op de proef gestelt door zulk een onbescheid.</l>
+<l>Het hof, 't welk in de kerk bespreeken mag, noch stemmen,</l>
+<l>Belaagt de Myterkroon, en waant haar magt te temmen:</l>
+<l>Maar 't priesterdom 't welk u tot hooft heeft ingewijd,</l>
+<l>Zal 't helig tempelrecht, aan eeuwen, noch aan tijd,</l>
+<l>Noch waerelds hooftgezach gebonden, kloek verweeren,</l>
+<l>Al zou de waereld in haar ouden baiaard keeren.</l>
+<l>Maar aangezien dees storm zoo snel, en onverwacht</l>
+<l>Dus opsteekt, en het hof zijn opzet deezen nacht</l>
+<pb n="25"/>
+<l>Voltrekken wil, en zich om hoog noch laag laat hind'ren,</l>
+<l>Valt dit bedenken, of gy met wat zeils te mind'ren</l>
+<l>Niet veiliger door zee zult vaaren, voor een poos,</l>
+<l>Dan laaten volstaan, en den kerkdienst roekeloos</l>
+<l>Beveelen aan 't gevaar van zinken, of van stranden,</l>
+<l>In zulk een dwarreling, en buy van misverstanden.</l>
+<l>Men ga met overleg: het hangt aan uw besluit.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Hier valt geen middelen; hier heeft de kerkdienst uit,</l>
+<l>Indien wy weifelen, en gunst ten hoof gaan zoeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eutimus</hi>.</speaker>
+<l>Men kan behendiger de schalkheid dus verkloeken</l>
+<l>Om beters wil, de schâ gaat zomtijds voor de baat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Ik prijs uw oogmerk; maar 't gevolg is al te quaad.</l>
+<l>Het looze hof verleert niet licht zijn quaade luimen.</l>
+<l>Begintme om beters wil dien afgod in te ruimen,</l>
+<l>Zoo word de voet gelegt tot ongebondenheên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eutimus</hi>.</speaker>
+<l>Men ruimt, met eenen voet of twe te rug te treên</l>
+<l>Het veld niet, maar verliest wat velds, om 't veld te winnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Zoo wint het hof op ons, waar toe den vyand binnen</l>
+<l>Gelaaten, die zoo licht gekeert word voor de poort?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eutimus</hi>.</speaker>
+<l>Niet licht, maar met gevaar; het hof vaart echter voort.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Diodoor</hi>.</speaker>
+<l>De Vorst heeft by zijn hoofd, en kroon te hoog gezwooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>En ik by Jupiter; geen afgod zal zijn kooren</l>
+<l>Ontheiligen, geen magt van Vorsten, onze magt</l>
+<l>Verdrukken; liever hier gesturven op de wacht</l>
+<l>Des tempels, dan den toom van 't kerkgezach te missen.</l>
+<l>Wie zou dees lastervlek uit de altaarkleeden wissen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eutimus</hi>.</speaker>
+<l>Salmoneus heeft de magt der benden op zijn hand.</l>
+<l>Hy houd zich sterk genoeg het opgaan van dien brand</l>
+<pb n="26"/>
+<l>Te stuiten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l rend="; 1tab">Tempelbrand is niet zoo licht te blussen.</l>
+<l>Gantsch Grieken stemt met ons in kerkplicht.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eutimus</hi>.</speaker>
+<l rend="; 2tab">Ondertussen</l>
+<l>Verliezen wy 't genot van 't altaar, en zijn vrucht.</l>
+<l>Wy bouwen, zonder 't zwaard, kasteelen in de lucht,</l>
+<l>Indien we ons op den arm van 't priesterdom verlaaten.</l>
+<l>Hy kan de magtigen, en hoofden der soldaaten,</l>
+<l>Betaalen met uw erf, en zettenze in 't bezit.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Wie hoorde ooit onbescheid, wanschaapener dan dit?</l>
+<l>Der geestelijken erf aan 't waerelsvolk te brengen!</l>
+<l>Dat zal noch Jupiter, noch Theofrast gehengen.</l>
+<l>Ik stel mijn toeverlaat op Bazilides trouw.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eutimus</hi>.</speaker>
+<l>Een hoveling? helaas! een zwak, en krank gebouw.</l>
+<l>Die niets verhoopt als magt, en hoogbewind, en staaten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Die hoop zal, zonder my, hem luttel kunnen baaten.</l>
+<l>Wat brouwt de hovaardy van eenen Vorstal ramps!</l>
+<l>Een vrouw vol ydelheid, vol winds, vol rooks, vol damps,</l>
+<l>Kan zijn verstand zoo wijd misleiden, en vervoeren,</l>
+<l>Dat hy zich niet ontziet zijn rijken om te roeren,</l>
+<l>Te stellen in gevaar: men laate 't beeld hier staan.</l>
+<l>'k Hoor menschen, volgt, ik zal de kerkdeur toe doen slaan.</l>
+</sp>
+<stage><hi rend="i">Zy gaan alle in den Tempel.</hi></stage>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Basilides</hi>, <hi rend="i">met eenige Trouwanten en Hofgevolg.</hi></speaker>
+<l>HOud goede wacht;<note n="*" place="margin"><hi rend="i">Wachters, en Trouwanten binnen.</hi></note> de twist welke in dit rijk komt wroeten,</l>
+<l>Verbaast de waereld. Maar hoe raaktze eens op haar voeten?</l>
+<l>Zy twijfelt of zy dwars, of achter gaat, of voor;</l>
+<pb n="27"/>
+<l>De tempel, en het hof aan 't zwind'len, mist het spoor.</l>
+<l>De Koning zonder zoon, en manlijke erfgenaamen,</l>
+<l>Word van zijn vrouw beheerscht, die rokkend werk te zaamen,</l>
+<l>Rust nimmer nacht noch dag, en maakt het nu zoo grof,</l>
+<l>Dat zy den staat verwert, en tergt; de kerk, en 't hof</l>
+<l>Als in slagorden stelt, door 't broên van vyandschappen,</l>
+<l>Verhit om onderling elkaâr op 't hert te trappen.</l>
+<l>Mijn zwaard, aan 's Konings eed gebonden, suft, en dut</l>
+<l>Wat zy te kiezen sta, het eerlijk, of het nut:</l>
+<l>De waereld wijsheid raadme op eige nut te letten,</l>
+<l>En my, en mijn geslacht, en afkomst hoog te zetten,</l>
+<l>By dees gelegenheid: want uit de burgertwist,</l>
+<l>En kerkkraakeelen, weet de loffelijke list,</l>
+<l>In schijn van heelzaamheid, als 't euvel is aan 't rijpen,</l>
+<l>Met glimp een fluierkroon, en purp'ren rok te grijpen;</l>
+<l>Die Bazilides past, des rijks vertrouweling,</l>
+<l>En Opperveldheer. Ik verlaatme op deeze kling,</l>
+<l>Daar mijn geluk aan hangt, en wilze aan weerzy leenen,</l>
+<l>En kunstig weifelen, doch geen party vereenen.</l>
+<l>Zoo stuurt men best 't gezach des Konings naar 't bederf,</l>
+<l>Te bersten op den rots van tweedragd; heeft de verf</l>
+<l>Van een verniste grijns ooit iemands oog bedrogen,</l>
+<l>Zy dienme nu: zoo word een vos in 't net getogen,</l>
+<l>En valt de loosheid van een jaager tot een buit:</l>
+<l>Want gaat des Konings stam met 's levens uurglas uit;</l>
+<l>Dit koningrijk is mijn, al had een nader voordeel.</l>
+<l>De scepter hangd aan 't zwaard: de stomme spreekt het oordeel</l>
+<l>In spijt van Hierofant, hofpriester van mijn heer.</l>
+<l>De Koningin misbruikt zijn wulpsheid, om haar eer</l>
+<l>Ook boven Junoos troon op spinneweb te bouwen.</l>
+<l>Zy zet haar aard ten toon, en de ydelheid der vrouwen,</l>
+<l>Die 't aanschijn spieg'len, en mistrouwen zelf den schijn,</l>
+<l>Uit dwaaze hoovaardy, zy willen grooter zijn,</l>
+<l>Dan haar Vulkanus eerst bootzeerde om stof te spaaren.</l>
+<l>De deugd is slegt bewaard, daar zy de doos bewaaren,</l>
+<l>Vol deugd, en ondeugd, haar nieuwsgierigheid betrouwt.</l>
+<pb n="28"/>
+<l>Hoe ieder ook den zin van het orakel houwt,</l>
+<l>My dunkt ik zie mijn zon, en glorie is aan 't rijzen.</l>
+<l>Maar daar komt Hierofant (ik zal zijn yver prijzen</l>
+<l>En aanvoên) gantsch vergramt van weezen, en gelaat,</l>
+<l>Om dat het beeld ten schimp hier voor de kerk noch staat.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Hierofant</hi>, <hi rend="i">met eenige Hovelingen, en Priesters</hi>, <hi rend="sc">Bazilides</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>NOch staat het marm're beeld des Konings voor den drempel</l>
+<l>Ter schande van zijn wil; men weigert het den tempel</l>
+<l>De schaduw van 't gewelf, en hoog gewijde dak!</l>
+<l>Mag dit bestaan, zoo heeft het hofgezach een krak;</l>
+<l>Zoo legt ons nieuw ontwerp van godsdienst plat in de assen.</l>
+<l>Mag dit bestaan, wie zal op 's Konings kerkwet passen?</l>
+<l>Wy moeten hier met magt, en yver in voorzien.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l>Dat staat alleen aan hem, die mag, en moet gebiên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>Die last was u betrouwt: wat had gy hen geboden?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l>Zy zouden, in den naam des Konings van de goden,</l>
+<l>Dit heilig beeld in 't koor verheffen op 't altaar,</l>
+<l>Met priesterlijk geleide, en kerkelijk gebaar.</l>
+<l>Heeft Diodoor, die flus dien last heeft aangenoomen,</l>
+<l>Dit aangedient? en is 't bevel niet naargekoomen,</l>
+<l>Zoo loopt de kerk gevaar van 's Vorsten ongena.</l>
+<l>De tijd verloopt, en lijd geen uitstel.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l rend="; 1tab">Ik versta</l>
+<l>De zaak als gy. Men mag op zulk een stuk niet slaapen.</l>
+<l>Schoon Theofrastus hoog, en trots is in zijn waapen</l>
+<l>Hy moet 'er echter aan; hoe stout men dit belet';</l>
+<l>Een grijs gerimpeld hooft, als 't zijn, word traag verzet.</l>
+<l>Het afgesleeten kleed verlaat niet licht zijn plooijen.</l>
+<pb n="29"/>
+<l>Wat hooren we onder 't volk al lasteringen strooijen!</l>
+<l>Wat word het hof beticht, van wetteloozen dwang?</l>
+<l>Dit kan niet langer staan, en stilstaan spoed geen gang.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l>Hoe 't ga of niet, ik sta bekneld van wederzijden,</l>
+<l>De Koning dringt me hier, en daar de Kerkgewijden.</l>
+<l>Ik volgde 's Konings last, zoo dra ik dien ontfing;</l>
+<l>Noch roept men dit's de drift van zijn vertrouweling,</l>
+<l>En Bazilides word gelasterd voor vermeeten,</l>
+<l>Voor tempelschender, en loftuiter uitgekreeten,</l>
+<l>Die 't hof noch naar de oogen ziet, en goôn noch afgaôn</l>
+<l>Doch 't moet'er eens mê door: ik heb het hof met wacht</l>
+<l>By tijds bezorgt; al sloeg de stad, en't volk aan't muiten,</l>
+<l>Men vreeze geen gevaar, van binnen, noch van buiten:</l>
+<l>En schieten wy te kort in deeze razerny,</l>
+<l>Zoo schen ik den soldaat op stad, en burgery,</l>
+<l>En de oude Priesters aan: zy paaijen dan die tanden,</l>
+<l>Dat yzere gebit met loeijende offerhanden.</l>
+<l>Ik ken geen magten, dan den Koning, en Mevrouw:</l>
+<l>Laat weifelen wie wil; ik blijf de Kroon getrouw,</l>
+<l>En handhaaf 't hoog bevel.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l rend="; 1tab">Zoo spreeken al de braaven,</l>
+<l>Die op een zelven draf, en heirbaan heene draaven,</l>
+<l>Hoe steil zy opwaards rijz', de deugd is niet gewoon</l>
+<l>Te streeven op een bed van roozen naar de kroon;</l>
+<l>Maar langs een steilen weg: zy wil op 's volks behaagen</l>
+<l>Den prijs niet zoeken, noch den helm, en 't panser draagen</l>
+<l>Den meesten hoop ten dienst: zy weegd, waardeerd, en schat</l>
+<l>De dingen op hun waarde, en toetst voorzichtig, wat</l>
+<l>Haar voorgesteld word, dan besluitze, en wraakt ten leste,</l>
+<l>En kiest, en voert het uit, en geeft zich zelf ten beste</l>
+<l>Voor vaderland, en vorst, voor tempel, en altaar.</l>
+<l>Dus vallen haar, hoe 't loopt, geen zwaarigheden, zwaar.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l>Gewettigde, gy spreekt niet wulpsch, maar wel ervaaren,</l>
+<l>En uwe aandachtigheid, en wijsheid zijn uw jaaren</l>
+<pb n="30"/>
+<l>Gantsch ongelijk, en treên het grijze hair voorby.</l>
+<l>De Koning, zonder u, lag onder, en in ly.</l>
+<l>De aardspriester Theofrast, een onverzetbaar drijver,</l>
+<l>Staat stom voor uw vernuft, verschrikt voor uwen yver,</l>
+<l>En openbaaringen. Gy hoorde in 't kerkgeschil,</l>
+<l>Uit Pisaas tempelbeeld des hemels wijze wil;</l>
+<l>Gy hebt daar, mond aan mond met Jupiter gesprooken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>Het heeft my nooit aan moed of overleg ontbrooken,</l>
+<l>Om diep te gronden waar de wijsheid in bestaat,</l>
+<l>En wat de tempel eischt te schikken op zijn maat.</l>
+<l>Ik weet de vlekken van de dwaaling uit te schuuren,</l>
+<l>Te vaagen van den roest; ik raag de tempelmuuren</l>
+<l>Van spinneweb, en vuil, en kleedze in zuiver wit.</l>
+<l>Ik kies geen dop of bast voor kerne of voedzaam pit:</l>
+<l>Wat overtollig is, besnoey ik van zijn telgen.</l>
+<l>Geen wijze, die mijn wit kan vatten, zal zich belgen,</l>
+<l>Dat ik den ouden steil des tempeliers verzet.</l>
+<l>'t Orakel zeit....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l rend="; 1tab">Zie daar met yverigen tret</l>
+<l>Den grijzaard koomen, spreek, nu is uw tijd gebooren.</l>
+<l>Wy willen uw gesprek van wederzijde hooren.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Theofrastus</hi>, <hi rend="i">met eenige</hi> <hi rend="sc">Koraalen, Bazilides, Hierofant, Priesters, Hovelingen</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>WAt brengt ons, Hierofant, al weder uit het hof?</l>
+<l>Is 't vrede, en eenigheid, of moeite, en twistens stof?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>Die met den Koning stemt, bestelt geen stof tot twisten,</l>
+<l>Als Theofrasten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l rend="; 1tab">Zeg, gelijk de Salmonisten,</l>
+<pb n="31"/>
+<l>De Hierofanten, die het hof naar de oogen zien,</l>
+<l>En traag beseffen wat de goden ons bediên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>Gy meent de Koningen? verstaat gy zulke goden,</l>
+<l>Ik stel my onder hen, en eere hun geboden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Gy eertze, wyliên meê, doch boven al Jupijn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>Gy eert de Koningen, als 't pas geeft, met een schijn</l>
+<l>Van eere, en anderzints onteertze in hunne wetten;</l>
+<l>Wanneer ge in plaats van 't beeld op 't hoog altaar te zetten,</l>
+<l>Zijn grootheid voor de kerk, en al het volk onteert.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>De kerkwet heeft van ouds dit Elis nooit geleert:</l>
+<l>Dat de eens van hand tot hand ontfange kerkbeveelen,</l>
+<l>Gevolgt heeft, en Jupijn met hoog gewijde speelen</l>
+<l>Altaaren, tempelen, en tempel woud geviert.</l>
+<l>De wijde waereld word van Jupiter bestiert.</l>
+<l>'k Heb al gehoort wat u de godspraak quam ontvouwen;</l>
+<l>Gy zijt, wiens raad de Vorst, zoo hyze volgt, zal rouwen,</l>
+<l>Maar wie hem dooden zal, is Jupiter bekent;</l>
+<l>Misschien schuilt hy ten hove of houd zich hier omtrent.</l>
+<l>Gy ziet de tempel wien noch niemand eer ontleende,</l>
+<l>Wie dit vermoogen ooit ontheiligde of verkleende,</l>
+<l>Ontsloop niet straffeloos zoo roekeloos een daad.</l>
+<l>Die Majesteit verschoont veel boosheid toch geen smaat</l>
+<l>Noch altaarschendery, noch hemellasteringen.</l>
+<l>Hy is verwaant die hem den blixem tracht te ontwringen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>Hoe nu? heeft Kreete niet uw godheid uitgebroed?</l>
+<l>De Koribas dat kind met geitemelk gevoed?</l>
+<l>Geborgen in een hol voor 's vaders haat en tooren?</l>
+<l>Heeft Jupiter dat rijk, waar in hy was gebooren,</l>
+<l>Als Koning niet beheerscht met zijnen grooten staf?</l>
+<l>Gewaagd al 't eiland niet noch heden van zijn graf?</l>
+<l>Of is 't, een bloote naam waar van zich elk verwonderd?</l>
+<l>Aanbid gy slegs den naam? ik reken wel dry honderd</l>
+<pb n="32"/>
+<l>Jupijns de waereld door gedient, gevreest, geducht.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Hoort Jupiter dit aan! en straft hy uit de lucht</l>
+<l>Die lastermonden niet. Waar ik me wende, of draaije,</l>
+<l>Men dient dien magt in Kreete, op Ide, en in Achaaije,</l>
+<l>Pyrraeus, Homole, en ons Piza dienen hem.</l>
+<l>Gantsch Lybie is gewoon naar zijn orakelstem,</l>
+<l>En raad te luisteren. Wat wil ons hier gebeuren!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>Gy moogd u liever om gedroomde faab'len steuren,</l>
+<l>En dolle Poëzy, gespeeld op snaar, en lier;</l>
+<l>Hoe hy zich zelven kan vermommen als een stier,</l>
+<l>Om schoone Europe, in spijt van Sidons Kroon, te schaaken;</l>
+<l>Hoe hy om Danäe door hof, en koop're daken,</l>
+<l>Aan goude druppels smolt in haaren zuiv'ren schoot;</l>
+<l>Of Ledaas minne in schijn van eenen zwaan genoot;</l>
+<l>Of Semele in den gloed des blixemstraals verteerde;</l>
+<l>Of Ganimedes met het Schenkersdom vereerde,</l>
+<l>'k Versta heel wel wat ons de godspraak heeft beduid,</l>
+<l>Gy zijt de Priester die des Konings glorie stuit;</l>
+<l>Door wien hy veel genoot, maar staat een lijk te worden,</l>
+<l>Wat deerd de Vorst? dat hy niet staat in 's hemels orden?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>, <hi rend="i">ter zijden tegen de Hovelingen.</hi></speaker>
+<l>Wat zijn zy vinnig, als haar meening is verdeeld!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>Indien Lycaon lang uw droomgod had gekeeld</l>
+<l>Men mogt voor Jupiter, den waaren, wierook spaaren,</l>
+<l>Of voor Salmoneus, 't zout, en meelgebak bewaaren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Zoo smeed gy 't hof ten dienst een nieuwen oppergod?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>Gy stut den ouden slegts om 't aanzien, en 't genot.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Het wettige gebruik, bevestigt door de tyen,</l>
+<l>Enalle rijken, kan ons dekken, en bevryen,</l>
+<l>Voor alle lastering. Zal elk wat hy verdicht,</l>
+<l>Verbloemen met de naam van godsdienst? en zoo licht,</l>
+<pb n="33"/>
+<l>Een erfgewoonte, lang geviert, en aangebeden,</l>
+<l>Gesterkt met wonderen, in landen, en in steden,</l>
+<l>En koningrijken, ook zoo wijd men menschen vind,</l>
+<l>Verand'ren naar zijn brein, dan dus, dan zoo gezind?</l>
+<l>Zoo moet de tempelplicht ten schimp des volks gedijen,</l>
+<l>Gelijk een weêrhaan zich naar 's volleks razernijen,</l>
+<l>En driften draaijen: ja de wispeltuurigheid</l>
+<l>Aan geen gezach verknocht, noch wet, noch regel, leit</l>
+<l>Een voet, en baant den weg tot ongebondenheid.</l>
+<l>'k Zag dus de waereldkloot gedrongen uit zijn assen,</l>
+<l>Een Oceaan van bloed tot aan de starren wassen,</l>
+<l>Om zulk een lastersmet, dien niemand zuiv'ren kon,</l>
+<l>Te wassen, als in de eeuw van een Deucalion.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l>Gy heeren, maatigt u, en spreekt met koeler zinnen:</l>
+<l>Men kan met ondergaan elkank're beeter winnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>Een schrander vogel schrikt zoo licht niet voor den schijn,</l>
+<l>En Molok van uw kerk, uw slapenden Jupijn,</l>
+<l>Misschien in de armen van zijn boel, met kragt gedwongen,</l>
+<l>Daar Juno vast om pruilt: Wat duldze al geile sprongen,</l>
+<l>En zietze om laag 't gewelf des held'ren hemels aan,</l>
+<l>Zy ziet zijn bastaards zoons, en schoone boelen staan,</l>
+<l>(Quansuis, een eeuwige eer) in 't heir der sterren prijken:</l>
+<l>Ja in den hemel zelf Inachus hem gelijken,</l>
+<l>Gelijk zijn eige kroost. Hy ziet Alkmenes zoon,</l>
+<l>En kropt haar stiefmoêrschap, en onverzoenb'ren hoon.</l>
+<l>Ik zwijg van snoepen, en ontelbre zijde gangen,</l>
+<l>Van geen Vulkaan betrapt, noch in zijn net gevangen.</l>
+<l>Dit is uw Jupiter. Niet dien mijn hert door speelt;</l>
+<l>Dies yver zoo gy wilt, en keer Salmoneus beeld,</l>
+<l>Ik ga ten hove, en zal de Koning wel beleezen,</l>
+<l>Salmoneus zal 'er staan, of hier geen Koning weezen.</l>
+</sp>
+<stage><hi rend="i">Hierofant, en Hovelingen binnen.</hi></stage>
+</div>
+<div type="scene">
+<pb n="34"/>
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Bazilides, Theofrastus, Koraalen</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l>AArdspriester kan men dit aanhooren, zonder schuld</l>
+<l>Jupijn verschoon me! ik ben ten eynde van geduld.</l>
+<l>Mijn eed verplicht dit zwaard voor 't hofgezag te bukken,</l>
+<l>Maar zonder dat, ik hieuw hem 't bekkeneel aan stukken,</l>
+<l>En schonk de stukken van dat eerverwaaten lid</l>
+<l>Den disch van mijnen heer, die nu ter tafel zit,</l>
+<l>En banketteert, en drinkt den wijn uit nektarschaalen,</l>
+<l>Om in zijn Majesteit gelijk de Goôn te praalen,</l>
+<l>Met al den adeldom, een trots vermomden stoet</l>
+<l>Van Goden; moetmen 't Hof ten dienst staan op dien voet;</l>
+<l>Wy waaren nutter, och veel nutter ongebooren,</l>
+<l>Al heeft de hof bende ons, haar overste gezwooren,</l>
+<l>Wy staan gereed dit ampt te weig'ren, en deeze eer;</l>
+<l>Behaagd het u, in ernst, daar legt den degen nêer;</l>
+<l>Om geenen valschen dienst van goden te beschutten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Heer overste, om de kerk, en 't altaar t'onderstutten,</l>
+<l>Bewaar uw ampt, en waak ten minsten deeze nacht,</l>
+<l>Ten dienst van Jupiter, en 't priesterlijk geslacht.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l>Hoe kan ik Jupiter, en 's konings gruwel eeren?</l>
+<l>Hoe deeze dolle slag van onze halzen weeren?</l>
+<l>Twee Godhêen dienen, de een waaragtig, de ander valsch.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Ontziet gy 's konings vloek te haalen op den hals?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l>Geenzints, ik sta bereid voor uw altaar te sterven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Volhard, gy zult de gunst van 't volk, en ons verwerven.</l>
+<l>'T is schande dat de vorst durft staan naar zulk een lot,</l>
+<l>Weerstreef dan zijne wil.</l>
+</sp>
+<pb n="35"/>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l rend="; 2tab">Het koninglijk gebod</l>
+<l>Niet uit te voeren, stelt ons voort in ongenaade.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Wy gaan, zoo wel als 't hof, met Jupiter te raade.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l>Salmoneus is vol moed, het hof braveert de kerk,</l>
+<l>De waereldlijke magt is uwe magt te sterk.</l>
+<l>De Koning eigent zich het opperste vermoogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Der goden Koning ziet dit schouwspel uit den hoogen.</l>
+<l>Al komt zijn straffe hand den boozen langzaam by.</l>
+<l>De hemel weet zijn tijd, en ruim zoo wel als wy</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l>De nadruk van de straf leert wetten onderhouden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Door uitstel van den eisch geen schuld werd quyt geschouden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l>Hoe draagd zich mid'lerwijl een amptenaar van 't hof.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Vermomt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l rend="; 1tab">Hoe mag dit zijn?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l rend="; 2tab">Wy geeven u verlof.</l>
+<l>Filotimië zal den vorst eerlang verderven,</l>
+<l>Een balling maaken, of elendelijke doen sterven.</l>
+<l>De Koningin misbruikt den wulpschen Hierosant,</l>
+<l>Die brouwt dees nieuwigheên, en broeid een pest in 't land.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l>Zijn wulpsheid waant den weg te baanen naar de starren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Dat brein is recht gespitst op staaten te verwarren,</l>
+<l>Door dubbelzinnigheên; waar in de vorst verstrikt,</l>
+<l>Zijn gemalin gelooft; zijn overdwaalscheid mikt</l>
+<l>Op 't onbeschietbaar, en door zijne raad gesteeven,</l>
+<l>Weet hy een schijn van goed aan droom, en drift te geeven.</l>
+</sp>
+<pb n="36"/>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l>Zijn aanhang is noch kleen, waar op hy zich betrouwt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Is de aanhang kleen, hy is weêr loos, en boos, en stout.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l>Om wat te durven?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofratus</hi>.</speaker>
+<l rend="; 1tab">Dat heel Grieken door zou dond'ren.</l>
+<l>Den tempel van Jupijn, altaar, en beeld te plond'ren.</l>
+<l>Ons grijze priesterdom te zetten uit zijn erf,</l>
+<l>En voort al 't veerschot te deilen by versterf.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l>Men eischt alleen dit beeld ten tempel in te voeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Al 't ander smoort men, om het hooftpunt niet te roeren.</l>
+<l>Het luid te haatelijk; waar eerst den grond geleid,</l>
+<l>Gy zoud den nadruk zien van deeze nieuwigheid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l>Misschien hoe Hierofant bekleede uw kerkgestoelte.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Met reden, daar geen zon op 't hooft steekt in de koelte,</l>
+<l>En schaduw van 't gewelf. hy vlamt op 't kerkgenot;</l>
+<l>Wie zou Salmoneus wil voor Jupiters gebod,</l>
+<l>Nu niet verkiezen? en met offerhanden paaijen.</l>
+<l>Het voorspook van dien storm werd reê gehoort aan 't kraaijen</l>
+<l>Des weêrhaans van dit hof, die zijnen trotzen kam</l>
+<l>Vast opsteekt teegens ons.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l rend="; 2tab">Met welk een trotsheid nam</l>
+<l>Hy afscheid, en beloofde u weder op te komen!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Laat suffers, zonder hert, voor dreigementen schroomen:</l>
+<l>Ik wijk niet eenen voet voor dood noch dreigement.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l>Wie twijselt, die den moed van Theofrastus kent?</l>
+<l>Ey ga ten hove, om hun geen achterdocht te geeven.</l>
+<l>Eerwaardigste, volhard, mijn staat, en eer, en leeven</l>
+<pb n="37"/>
+<l>Te waagen is niet veel, indien het u behoê.</l>
+<l>Ik blijf mijn Vorst getrouw; maar tot het altaar toe.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Ik ga, en hier op moet gy Jupiter behaagen.</l>
+<l>Die waardig zijt het zwaard in 's Konings dienst te dragen.</l>
+<l>Een weif'laar houd ten hove alleen zijn heer te vriend,</l>
+<l>Om 't voordeel; en zoo lang 't geluk den meester dient.</l>
+<l>Doch Bazilides oogt op 't recht meêr dan op staaten.</l>
+<l>Op zulk een kerkheld mag dit volk zich vast verlaaten.</l>
+</sp>
+<stage><hi rend="i">Theofrastus binnen.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi> <hi rend="i">allen.</hi></speaker>
+<l>Geveinsde tempelier, ik zie door al 't gewoel,</l>
+<l>Ik yver naar den troon, gy naar den tempelstoel;</l>
+<l>Maar 'k zal my wachten u, of iemand te betrouwen.</l>
+<l>'t Werd laat, ik moet alom een waakend oog gaan houwen.</l>
+</sp>
+<stage><hi rend="i">Binnen.</hi></stage>
+<sp>
+<speaker><hi rend="i">Zang van inwoonderen van Elis.</hi></speaker>
+<lg type="poem">
+<head><hi rend="i">Eerste.</hi></head>
+<l rend="; 1tab">‘GElukkig is de heer,</l>
+<l rend="; 1tab">‘Die wel begrijpt hoe teêr</l>
+<l>‘De aloude kerkdienst, en haar wetten</l>
+<l rend="; 1tab">‘Uit hun natuuren zijn.</l>
+<l rend="; 1tab">‘Zoo datze ook zelf geen schijn,</l>
+<l>‘Geen lucht, noch glimpen van verzetten</l>
+<l rend="; 1tab">‘Verdraagen, min verwaatenheid</l>
+<l rend="; 1tab">‘Van laster, dat de Majesteit</l>
+<l>‘Van Jupiter geheel verduistert.</l>
+<l>‘De louterheid des tempels luistert</l>
+<l rend="; 1tab">‘Noch scherper dan de fikse tong</l>
+<l>‘Van Themis weegschaal, die rechtvaardig,</l>
+<l rend="; 1tab">‘Terwijl 't geschil in twijfel hong,</l>
+<l>‘Het waardig scheide van 't onwaardig.</l>
+</lg>
+<lg type="poem">
+<head><hi rend="i">Tweede.</hi></head>
+<l rend="; 1tab">‘De Priestren is de wagt</l>
+<l rend="; 1tab">‘Des tempels, dag en nacht</l>
+<l>‘Op 't hoogst bevoolen te bewaaren;</l>
+<pb n="38"/>
+<l rend="; 1tab">‘De tempel rust alleen</l>
+<l rend="; 1tab">‘Op geenen marmersteen,</l>
+<l>‘Maar meer op leevende pylaaren:</l>
+<l rend="; 1tab">‘Op 't onbewooge priesterdom,</l>
+<l rend="; 1tab">‘Dat met zijn schouderen alom</l>
+<l>‘De feesten stut, en plechtigheden.</l>
+<l>‘Zoo wijd de zon komt aangereeden.</l>
+</lg>
+<lg type="poem">
+<head><hi rend="i">Derde.</hi></head>
+<l>‘Wanneer de tempels, en de hoven</l>
+<l rend="; 1tab">‘Verwarren hun gezag,</l>
+<l rend="; 1tab">‘Dan gaat het niet als 't plag,</l>
+<l>‘Dan word de deugd verschooven.</l>
+<l rend="; 1tab">‘De schaduw schijnt het licht</l>
+<l rend="; 1tab">‘Te steuren in zijn plicht.</l>
+<l>‘Een ieder moet zijn beurt bekleeden,</l>
+<l rend="; 1tab">‘De eenstemmigheid van bey,</l>
+<l rend="; 1tab">‘Gaat lieflijk als een rey,</l>
+<l>‘Van zang, en dans, op maat van reden.</l>
+</lg>
+</sp>
+</div>
+</div>
+<div type="act">
+<pb n="39"/>
+<head rend="h3">Derde bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="i">Vertoonende een hoffelijke Galery.</hi>
+<lb/>
+<hi rend="sc">Archytas, Zeno, Epicharis, Bazilides</hi>, <hi rend="i">en Hofgevolg.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Architas</hi>.</speaker>
+<l>IS dit een stad van recht, of woestheid, en geweld?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l>Wat jaagd u herwaards aan? hoe hijgt gy dus ontsteld?</l>
+<l>Hoe dus verbaast?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Archytas</hi>.</speaker>
+<l rend="; 1tab">Jupijn ô! Vader van de Goden,</l>
+<l>En menschen, help, ach! help; waar heene best gevloden?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Epicharis</hi>.</speaker>
+<l>Waar bergen wy het lijf?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Zeno</hi>.</speaker>
+<l rend="; 2tab">Waar vinden wy een wijk?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l>Daar komt de Koning aan, de toevlugt van dit rijk,</l>
+<l>En alle vroomen; zijt goeds moeds, en wilt niet schromen.</l>
+</sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Salmoneus, Bazilides, Architas. Zeno, Epicharis</hi>, <hi rend="i">Hofgevolg, en Staffiers.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>WIe zijtge? van wat oord?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Archytas</hi>.</speaker>
+<l rend="; 1tab">Van Pize eerst aangekomen.</l>
+<l>In 't vallen van den dag.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l rend="; 2tab">Wat deerd u dat gy klaagt?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Zeno</hi>.</speaker>
+<l>Wy zoeken heul ten hove, en werden voortgejaagd</l>
+<pb n="40"/>
+<l>Van 't opgehitste graauw. Heer Koning, berg ons leeven!</l>
+<l>Jupijn heeft koningen op zijnen troon verbeeven.</l>
+<l>De onsterfelijke magt die klaar op 't voorhoofd straald,</l>
+<l>Der sterfelijken, heeft alle aardsche magt bepaalt,</l>
+<l>Uit stof in top gebeurt, met last aan zijn vertrouwden,</l>
+<l>Dat zy rechtvaardiglijk het regt handhaaven zouden.</l>
+<l>Wy onderzaaten van uw leenrijk, en gebied</l>
+<l>Te Pize, twijfelen aan uw genade niet,</l>
+<l>Als aan een zelve wet verbonden voor de altaaren:</l>
+<l>'t Is Vorsten eigen den ootmoedigen te spaaren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>Wie heul zoekt aan Jupijn, betrouw hy is niet ver.</l>
+<l>Hier is de Majesteit van koning Jupiter,</l>
+<l>Tot voorstand van oprechte, en onderdaane zielen,</l>
+<l>Die wierook off'ten, en voor zijne altaaren knielen.</l>
+<l>Maar hoe verstaalt wy dit, wat gloeid'er in uw hand?</l>
+<l>Dat als een roode gloed, van slingerstraalen brand?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Architas</hi>.</speaker>
+<l>De gloênde blixem, uit de vuist van 't beeld gesmeeten,</l>
+<l>Omtrent de koop're sluis, door 't vinnig graauw bezeeten</l>
+<l>Van helscheid, en verhit op beeldestormery.</l>
+<l>Wy bergden dit op 't straat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l rend="; 1tab">Geef hier, ô! razerny!</l>
+<l>Hoe ving het oproer aan? verhaal uw wedervaaren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Architas</hi>.</speaker>
+<l>Terwijl wy by de maan verwonderd staan, en staaren</l>
+<l>Op 't wonderwerk der brugge, uit erts, en klaar metaal,</l>
+<l>Zoo leevendig als ooit Korynthus tot een praal</l>
+<l>Aan eenig Koning schonk, en meesterlijk gegooten;</l>
+<l>Terwijl we 't heilig beeld, verbaast en onverdrooten.</l>
+<l>'t Vermoogen van Jupijn, den gouden adelaar</l>
+<l>Beschreijen zien om hoog, en op den boogpylaar</l>
+<l>Den blixem voeren, die de boosheid schijnt te dreigen,</l>
+<l>Waar op de burgers uit ontzag hun hoofden neigen,</l>
+<l>En buigen voor die magt, zoo word'er van de poort,</l>
+<l>In 't noorden, langs den vlied, een mompeling gehoort,</l>
+<pb n="41"/>
+<l>Een oproer; het gerucht van verre allengs wat nader,</l>
+<l>Wint aan, en heldert op, als beek by beek te gader,</l>
+<l>Naar eenen boezem bruischt, en, van de steenrots neêr</l>
+<l>Gestort, ten leste groeit, en aan wast tot een meer.</l>
+<l>Zoo groeide ook 't oproer aan, in menigte, en geluiden,</l>
+<l>Eer iemand vatte wat dit onweêr wouw beduiden.</l>
+<l>Ten leste dondrenze op, een tomeloos gespuis,</l>
+<l>Van alderhande slag, omtrent de koop're sluis,</l>
+<l>Daar schreeuwenze overluid: waar zijt gy Salmonisten?</l>
+<l>Met uwen Jupiter, gy zuivere godisten,</l>
+<l>Wy brengen wierook aan: bewierookt uwen heer;</l>
+<l>Wy brengen wierook, dit gedije tot zijne eer,</l>
+<l>Maar neen, wy zoeken hem, deeze afgod moet'er onder.</l>
+<l>Heeft nu zijn blixem vuur, en kan hy met zijn donder</l>
+<l>Zijn eer verdaadigen? het is verweerens tijd:</l>
+<l>Het haagelt steenen; noch gewijd, noch ongewijd</l>
+<l>Werd aangezien: en wie deeze onrust ondertussen</l>
+<l>Wil stillen, loopt gevaar: dit vuur is niet te blusschen;</l>
+<l>De steenen klinken vast op 's Konings bruggepraal,</l>
+<l>Tot dat een straatgerucht uit schrik hen alternaal</l>
+<l>Een wijl te rugge drijft, toen rusten al de steenen.</l>
+<l>Een roep ging op: vertrekt, het hof is op de beenen.</l>
+<l>Wy naderen, en zien het heilig beeld geschent.</l>
+<l>De hemel schenn' dien schelm van niemand noch gekent!</l>
+<l>Wy vinden dit geweer van Jupiter, vertoonen</l>
+<l>Dees schennis zommigen die by de praalbrug woonen.</l>
+<l>Het graauw omçingeld ons; een woest baldaadig gast</l>
+<l>Vliegt toe in al dien hoop, en schuift zijn schelmstuk vast,</l>
+<l>Helaas! op onzen hals, dit baard een strijd van monden.</l>
+<l>Geen onschuld baat; men schreeuwt: gy zijt op 't stuk bevonden,</l>
+<l>Op 't plonderen betrapt, in zulk een straatgeschrey</l>
+<l>Roept een; houd stil; dit zijn Pizaaners alle bey.</l>
+<l>Houd stil: verschoontze doch; het zijn ons ledemaaten.</l>
+<l>Zoo worden wy gebergt, en naauwlijks vry gelaaten,</l>
+<l>Ontslippen 's doods gevaar, eer iemand ons verrasch,</l>
+<l>Heer Koning, berg ons lijf!</l>
+</sp>
+<pb n="42"/>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l rend="; 1tab">Voort, Bazilides, pas</l>
+<l>Geweld te keeren, met een drommel hofsoldaaten.</l>
+<l>Trek heene, stil dien twist: men zal u niet verlaaten.</l>
+<l>Pizaners, volgt hem, nu zal 't blijken dat men schent</l>
+<l>Een Koning, die geen aards noch bluschbaar element</l>
+<l>Tot haaren scepter voert; maar eenen staf, die reuzen</l>
+<l>Bestormers van de lucht, het bekkeneel kan kneuzen;</l>
+<l>Bestulpen onder klip, en steenrots, en gebergt,</l>
+<l>De raadelooze magt, welke onzen scepter tergt.</l>
+<l>Vertrekt al t'zaam.</l>
+</sp>
+<stage><hi rend="i">Alle binnen behalven Salmoneus.</hi></stage>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi> <hi rend="i">alleen.</hi></speaker>
+<l rend="; 1tab">Ik dien dit opzet te overweegen.</l>
+<l>In zwaare zaaken staat den wijsten raad te pleegen.</l>
+<l>Maar hoe? met wien kan ik hier in te raade gaan?</l>
+<l>Met Hierofant? ô! neen, zijne yver dringt hem aan.</l>
+<l>Met Bazilides? neen, ik schrik voor zijnen degen:</l>
+<l>Want ziet hy my benart, ontrustigt, en verleegen,</l>
+<l>Zoo waagd zijn grootsheid ligt eene aanslag op mijn kroon.</l>
+<l>'t Is waar, hy heeft voor heen my zijne hulp geboôn,</l>
+<l>Gedient met moed, en magt; maar dit doed my ook vreezen,</l>
+<l>Dat hy 't, die naar mijn kroon, en leeven staat, mogt weezen.</l>
+<l>'t Orakel zegt my klaar, dat ik te schuwen heb</l>
+<l>Een Priester, en een man die my vaak diende, ô web</l>
+<l>Vol warringen! ô! draad vol vastgestrikte knoopen;</l>
+<l>O! rijksgezach, hoe duur moet ik uw stand bekoopen!</l>
+<l>Wie van de Priesters is 't, dien ik niet hooren moet?</l>
+<l>Spreekt klaarder Goden! 'k voel eene onrust in mijn bloed.</l>
+<l>Ik werd gejaagd, geplaagd, geport, gestuit, gedreeven,</l>
+<l>Om, hooger als ooit vorst, mijn naam te zien verheven.</l>
+<l>'k Zie alles vaardig tot mijn godenpraal, en feest;</l>
+<l>Wat maakt my angstig, wat bedremmeld, wat bevreest?</l>
+<l>Is Hierofant aan my door diensten niet verbonden?</l>
+<pb n="43"/>
+<l>Niet wijs? ooit weifelende in zijne trouw bevonden?</l>
+<l>Heeft Theofrastus my van jongs op niet bemind?</l>
+<l>Dient my de veldheer niet als vader, vorst, en vrind?</l>
+<l>O! ja; en eindelijk daar 't alles voor moet zwichten,</l>
+<l>Moet ik mijn gemalin hier mede niet verplichten?</l>
+<l>Haar wiens bekoorlijkheid mijn ziel gevangen houwd;</l>
+<l>Wie heeft ooit veiliger dan op zijn vrouw betrouwt?</l>
+<l>Toch vrouwen zien zomtijds de onrustige gevolgen</l>
+<l>Der zaaken niet, dat reeds de menigte verbolgen</l>
+<l>Mijn beeld durft nad'ren, is het beste voorspook niet!</l>
+<l>Dat ik het stuk noch staakte? ach! wat zou 't een verdriet</l>
+<l>Aan mijn Filotimie, en al mijn vrinden geeven?</l>
+<l>Wat zou men schimpen! maar het geld mijn kroon, en leeven;</l>
+<l>Ik zal de tempeliers, en al mijn hofgezin,</l>
+<l>Vooral, die my bemind, mijn schoone gemalin</l>
+<l>Wel paaijen, 'k zal den raad van geen der priest'ren hooren:</l>
+<l>Zoo blijf ik leeven, en zal goôn noch menschen stooren.</l>
+<l>Ach! dat de morgenzon, de naare nagt verdrijf,</l>
+<l>Eene angst bekruipt mijn hert, en stremt my 't bloed in 't lijf.</l>
+<l>Neen goden, 'k ben te vreên met mijn bepaald vermoogen,</l>
+<l>Een trotsheid had te hoog Salmoneus opgetogen.</l>
+<l>Ik wil van u.... maar zacht, daar komt de Koningin;</l>
+<l>Wat isze schoon! voorwaar, zy treet als een godin.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Filotimie, Orfira, Saloneus</hi>. <hi rend="i">Gevolg van Hofjufferen.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Orfira</hi>.</speaker>
+<l>ONtstel u niet, mevrouw, wil eerst den koning spreeken.</l>
+<l>Gy zult u aan het volk naar uw behangen wreeken.</l>
+<l>Steun op uw vrinden, en vermoogen op uw heer!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>'k Zal alles waagen tot de voorstand van mijn eer,</l>
+<stage><hi rend="i">Orfira binnen.</hi></stage>
+<l>Wat onraad hooren wy? men wederstreeft ons wetten?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>Men gaat de oplopentheid van 't volk wat neder zetten.</l>
+</sp>
+<pb n="44"/>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Het is geraaden dat zich ieder houd gerust.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>De brand van oproer werd in 't opgaan licht gebluscht.</l>
+<l>Maar zwaarlijk als de vlam ten dake is uitgeslaagen.</l>
+<l>Dat dit geen voorspook zy van ongemak, en plaagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Hoe nu toe? zwicht een Vorst zoo trots, en groot als gy?</l>
+<l>Wat vrees ontsteld uw brein? dit schijnt wel suffery.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>Getrouwe bedgenoot! gy zoud bedachtzaam spreeken,</l>
+<l>Indien uw wijsheid lette op dit rampzaalig teeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Wat teeken?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l rend="; 1tab">Wist men wie ons beeld heeft aangerand.</l>
+<l>Jupijn, mijn brugbeeld, is de blixem uit de hand</l>
+<l>Geklonken met een steen. Mijn pronkbeeld mist zijn waapen!</l>
+<l>Zie daar den blixemschicht. Hoe is 't met ons geschaapen!</l>
+<l>En 't rijk! wat brommen wy met eenen Hemelzwier!</l>
+<l>Mijn donder heeft geen kracht, mijn blixem vlam, noch vier.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Wy kennen deeze nuk; dit speelen ons die gasten;</l>
+<l>Dit oproer word gestookt door 't schuim der Theofrasten,</l>
+<l>Op dat men 't hoogtijd steure, ons opzet overschreeuw;</l>
+<l>Maar laatze toezien: want zy tergen geenen leeuw,</l>
+<l>Noch brullende leeuwin, door 't steuren van haar nesten,</l>
+<l>Maar onze mogentheên, die rechte burgerpesten!</l>
+<l>Zy dienen uitgevaagd, als vloeken van den staat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>Pizaaners raapten by geval dit op van straat.</l>
+<l>Men legt de schuld op hen. Wat zullen wy gelooven?</l>
+<l>De schuld word dikmaals op onschuldigen geschooven,</l>
+<l>In zulk een dwarreling van zinnen, en verstand.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Die stout zich tegens de eer van uw vermoogen kant,</l>
+<l>Heeft, zonder twijfel, dit door iemand loos besteeken:</l>
+<pb n="45"/>
+<l>Op dat het u aan hert, en yver zou ontbreeken,</l>
+<l>Om 't hooggeheiligd beeld te voeren op 't altaar,</l>
+<l>Uit schrik, en angst voor moeite, en oploop, en gevaar.</l>
+<l>Word dit gestuit, zoo leg den Scepter uit de handen,</l>
+<l>Met een den Blixemschicht. Zy wetten vast hun tanden</l>
+<l>Op uw laf hertigheid, die bouwt de sterke brug,</l>
+<l>Waar langs de wraak u dreigd. Men lacht u achter rug</l>
+<l>Wel schimpig na. Zie om: zy schuifelen, zy schimpen</l>
+<l>Met deezen Jupiter, om straatgerucht aan 't krimpen.</l>
+<l>Een vorst die 't spel begint, en 't spel ten halve staakt,</l>
+<l>Wat wonder is 't zoo hy om haave, en hals geraakt?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>In groote zaaken drijft een wijs regeerder zachter.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Zoo raakt men niet den stroom te boven. Hy raakt achter,</l>
+<l>Die niet zijne armen rept, daar 't water voor de boeg,</l>
+<l>Gestaadig ruischt, en bruischt: dan kan men niet genoeg</l>
+<l>Zijn krachten spannen, en zich reppen in het roeien.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>Liet Theofrastus na zich met dit stuk te moeien;</l>
+<l>Het gantsche priesterdom ging willig aan de hand.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Geloof, dit onweêr komt ons op van deeze kant.</l>
+<l>Men ziet hem naar den mond alleen, en niemand anders,</l>
+<l>Zijn lastertong ontsteekt al deeze stookebranders.</l>
+<l>De orakels staan vaak stom, op 't hooren van zijn stem.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>Wat raad in dit geschil? hoe wint? hoe stiltmen hem?</l>
+<l>De tempelier wil noô voor Majesteiten duiken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Volhart dit hoofd, zoo moet gy flux uw magt gebruiken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>Gebruiken? dat ziet ver: en zoo het ons mislukt?</l>
+<l>Eene ingewortelde aard werd langsaam onderdrukt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Hier geld geen langsaamheid: wy zijn te hoog geloopen.</l>
+<l>Hier geld geweld, dat zet de heirbaan voor ons open:</l>
+<pb n="46"/>
+<l>Indien gy deinst uit schrik, zoo wint uw vyand 't veld.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>Men wind door tusschenspraak, 't welk met geen aardsgeweld,</l>
+<l>En volle krachten word verwonnen, en verkreegen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Door tusschenspreeken krijgt hy magt op uwen degen.</l>
+<l>Hy vlamt op uw geweer, de luister van uw kroon;</l>
+<l>Dat winnende, zoo voert hy uw gezach ten toon,</l>
+<l>En speeld met zijnen Heer, gelijk met een gevangen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>Daar zouden wy de kroon, en 't gantsche rijk aan hangen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Wat rijk? wat kroon? dan zijtge een Koning zonder rijk.</l>
+<l>Dan stelt rechtvaardigheid u zelf in 't ongelijk,</l>
+<l>En doed u voor een slaaf, als voor uw Koning bukken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>Dan staan de wetten stom: dan springt den draad aan stukken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>En echter blijft den heer vermeestert van den knecht.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>Wat heet dan recht?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l rend="; 1tab">Al wat den Koning wil is recht.</l>
+<l>Dat lijd geen tegenspraak, besnoeijen, noch bedillen.</l>
+<l>Gezach kan met een slag den knoop van hooft geschillen</l>
+<l>Ontwarren, en zoo legt de waereld. neem vry acht.</l>
+<l>Op 't geen ik zeg: gebruik eene onbepaalde magt.</l>
+<l>Mijn liefde is uit (indien gy 't reeds niet kond beseffen)</l>
+<l>Om u tot zulk een staat van glorie op te heffen,</l>
+<l>Daar nooit geen Koning, geen Monarch toe steig'ren kon,</l>
+<l>Terwijl hy leefde, schoon hy al de waereld won.</l>
+<l>Wat glans van eere sta te winnen na dit leeven,</l>
+<l>Dat is van kleen belang. wat lust u heen te streeven</l>
+<l>Naar deeze onzek're eer? en wat vernuft verstaat</l>
+<l>De zekerheid, hoe 't met de naam, na 't sterven, gaat?</l>
+<l>Volg uwe glorie, dit's de hoofddeugd van de wijzen,</l>
+<l>Laat ooren jeuken om hun deugd te hooren prijzen;</l>
+<pb n="47"/>
+<l>Terwijl de doodbus rust, begraven in een naald,</l>
+<l>Of marmeren gewelf, ten hemel opgehaald:</l>
+<l>Volg gy mijn regelmaat, laat my het stuk bevoolen,</l>
+<l>Mijn min zy u een steun om hier in niet te doolen.</l>
+<l>Mistroutge aan min? berâ u vry met Hierofant:</l>
+<l>Natuur beschonk zijn jeugd met wonderlijk verstand.</l>
+<l>De wetenschap is niet in 't grijze hair gelegen:</l>
+<l>Want ouden suffen, door een stuk te zwaar te wegen.</l>
+<l>Spreek 't hoforakel aan, daar komt hy juist van pas.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Hierofant, Salmoneus, Filotimie</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>IK twijfelde waar of Jupijn, en Juno was;</l>
+<l>Om hun altaaren met gedienstigheên te volgen.</l>
+<l>Een storm van oploop stak zoo heftig, en verbolgen</l>
+<l>Omtrent Penejus op, van waar allengs 't gerucht,</l>
+<l>Dan luid, dan flaauwer, quam gebulderd door de lucht;</l>
+<l>Dat de oude toorenwacht om onheil te beletten</l>
+<l>Geraân vond, uit den trans, te waapen te trompetten,</l>
+<l>Daar hy zijn wacht bewaarde, om hoog in top van 't hof.</l>
+<l>Wie brand wil stichten is behulpen met dees slof.</l>
+<l>Een klein begin, om dus wat grooters uit te werken.</l>
+<l>Men kan hier aan den aard van Theofrastus merken,</l>
+<l>En zien naar welk een wit hy dus by donker schiet.</l>
+<l>Heer Koning, het word tijd dat gy hier in voorziet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Hofpriester, zie dien gloed van negen blixemstraalen</l>
+<l>Jupijn, ten spot gesteld, zal moedeloos zijn praalen</l>
+<l>Vergeeten; mag men zoo dit beeld der majesteit</l>
+<l>Ont waapenen? daar dient niet langer op gebeid.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>De plond'raar zal dit voor geen tempelschennis neemen;</l>
+<l>Om dat hy 't gulden beeld ziet naar Salmoneus zweemen.</l>
+<l>Wanneer uw aanzien word dus ongestraft veracht,</l>
+<l>Dan valt gy met uwe eer, de glorie volgt de magt.</l>
+<pb n="48"/>
+<l>Waar deeze blijkt, daar wordze ontzien, en aangebeden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>Men wint een hoogte allengs by trappen, en by treden.</l>
+<l>En raakt al stil op 't stoel, terwijl het niemand merkt.</l>
+<l>Hoe kan men zeggen, dat hy rust, die doorgaans werkt?</l>
+<l>De waterdrop wint traag, noch wintze op steen, en yzer.</l>
+<l>De schaduw gaat haar gang rondom den zonne wijzer;</l>
+<l>De sterren spoeden weg; en niemand merkt den vaard.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>Het oog bedriegd wanneer de toorens achterwaard,</l>
+<l>En onder 't vaaren berg, en oever zich beweegen,</l>
+<l>En deinzen: dan is schijn van reden, reden tegen:</l>
+<l>Toch een halfziende merkt, wat zich beweegd of niet.</l>
+<l>Die gaslaat welk van beide uit zijne plaats verschiet.</l>
+<l>Indien de Majesteit, na dat wy dit begonnen,</l>
+<l>Door toeven, in gezach, en aanzien had gewonnen,</l>
+<l>Het moest nu blijken; en wy zien het tegendeel.</l>
+<l>Uwe eer lijd afbreuk, en zy blijft niet in 't geheel.</l>
+<l>De tempel weigerd noch 't geëerde beeld te ontfangen.</l>
+<l>Het brugbeeld staat geschend, de meeste burgers hangen</l>
+<l>Aan Theofrastus: en zoo veele u gunstig zijn,</l>
+<l>Staan op de godspraak vast, of speelen met den schijn,</l>
+<l>En weifelen vermomd al stil van wederzijden:</l>
+<l>Om naar de beste kans van kerk of 't hof te glijden.</l>
+<l>Men dreef het stuk in 't eerst met kracht, en yver aan;</l>
+<l>Nu schijnen wy verbaast, (wat zeg ik stil te staan)</l>
+<l>Te deinzen, laat de Vorst de scepter hem ontrooven,</l>
+<l>Zoo werd het tijd dat wy veranderen van hoven.</l>
+<l>En naar een vaster wijk, en vryburg om gaan zien:</l>
+<l>Want durft men Theofrast niet eens de tanden biên;</l>
+<l>Zijn hovaardy, gewoon op geene magt te passen,</l>
+<l>Zal u met heilig, en onheilig haast verbassen,</l>
+<l>En zetten uit den troon. ik breng mijn inzicht in.</l>
+<l>Indien mijn oordeel dwaald, laat vry de Koningin</l>
+<l>Verbeeteren, waar in mijn kennis mogt ontbreeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>De Koning antwoorde u, dan is 't mijn beurt te spreeken.</l>
+</sp>
+<pb n="49"/>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>Dit stuk, gelijk gy zegt, werd heftig aangevat.</l>
+<l>Penejus koop're brug, en 't brugbeeld, om de stad,</l>
+<l>En 't rijk een heerlijkheid, en glorie te verleenen,</l>
+<l>Behaagden elk in 't eerste, en al de Priesters scheenen</l>
+<l>Vernoegd, zoo lang ons wit hen noch verhoolen bleef.</l>
+<l>Maar toen gy quaamt ten hove, uw aanzien boven dreef,</l>
+<l>En Theofrastus glans in 't licht stond aan mijn zijde;</l>
+<l>Viel elk aan 't mompelen, gewijde, en ongewijde;</l>
+<l>Noch heftiger, naardien wy, Theofrast ten trots,</l>
+<l>Ons zetten wouden, in den glans des hoogsten lots.</l>
+<l>Het wierook voor ons beeld, de plechtige offerhanden</l>
+<l>Ontsteeken, die men plag voor Jupiter te branden.</l>
+<l>Dit liep gelijk een vuur, wat bleef'er ongeroerd?</l>
+<l>Nu berst het teffens uit, terwijl men dit volvoerd,</l>
+<l>En wil volvoeren, en wy zien de donk're wolken,</l>
+<l>Ons hangen boven 't hoofd, wat raad om alle volken,</l>
+<l>Die Jupiter zijn eer ophouden, met geweld</l>
+<l>Den mond te stoppen? wat dees blixemstraal ons speld,</l>
+<l>Of niet; de godspraak quam ons ook geen heil bedieden.</l>
+<l>Dat wy wat nader ons op 't groote stuk berieden,</l>
+<l>Die tijd wint, is noch van zijn oogmerk niet verdwaald.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Mijn liefste heeft ons met dit antwoord niet betaald,</l>
+<l>Noch in het minst vernoegd, wie wijs is, en voorzichtig,</l>
+<l>Hef geenzints aan een zaak zoo zwaar, en zoo gewichtig,</l>
+<l>Ten zy hy eerst doorzie, en inzie dan, en dan,</l>
+<l>Wat tegensparteling hier over vallen kan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>De maan rijst hooger uit de kim, gelijk de starren:</l>
+<l>Wy dienen nacht, en dag niet onder een te warren,</l>
+<l>In dees verwarringen van raad, en daad, de spoed</l>
+<l>Is noodig, zal de staat op eenen vasten voet</l>
+<l>Geraaken, laat het stuk berusten, of besluiten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Indien dit stuit, het wil op onze borst afstuiten.</l>
+<l>En aldereerst op u: wy staan al even schoon,</l>
+<pb n="50"/>
+<l>En deelen in 't gemeen wat vast hangt aan de kroon.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>Heer Bazilides komt: laat hooren wat die wachter</l>
+<l>Van 't oproer brengt, en of wy voorwaards gaan of achter.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Bazilides, Hoftrouwanten, Salmoneus, Filotimie, Hierofant</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l>GElooft zy Jupiter, dat onweêr is bedaard.</l>
+<l>Gy Hoftrouwanten, trekt nu weder slootewaard,</l>
+<l>En past op uw geweer: het is geen tijd van slaapen.</l>
+<l>Een ieder houw zich rede, en vaardig by zijn waapen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>Wel, Bazilides, legt de razerny aan band?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l>Zoo vast niet, of men vreest aan eenen and'ren kant.</l>
+<l>De wacht bezet de brug.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l rend="; 1tab">Verhaal uw wedervaaren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l>De gantsche stad gewaagt, en dreunt van nieuwe maaren,</l>
+<l>Gestrooit tot laster, of tot glorie van uw hof.</l>
+<l>De logentaal gebreekt geen voedzel, noch geen stof,</l>
+<l>Met waarheid ondermengt, dit oproer was besteeken,</l>
+<l>(Gelooven wy de Faam) door een der woeste leeken;</l>
+<l>En wies zoo magtig aan, in stoutheid, en getal,</l>
+<l>Dat, zonder mijn ontzet, het heiligdom lag al</l>
+<l>In onzen stroom geplompt, alreê zat een geklommen</l>
+<l>Den boog op by het beeld, ontsteeke fakkels glommen</l>
+<l>Uit alle traliën, en lichten 't oproer toe,</l>
+<l>Als een rechtvaardig stuk, wanneer het volk den roê</l>
+<l>Der straffe ontwasschen schijnt, valt schennis noch godloosheit,</l>
+<l>Noch geen verwaatenheid te snoô voor hunne boosheid.</l>
+<l>Mijn bende bragt den schrik in dien verleiden hoop.</l>
+<l>De vrees verstrooit hen flux, de beeldestormer sloop</l>
+<pb n="51"/>
+<l>Behendig door den drang, die naar ons toe quam dringen.</l>
+<l>Dit voorspel dreigt uw vuist den scepterstaf te ontwringen</l>
+<l>En blijft dit haperen, ik zweer u, by Jupijn,</l>
+<l>Gy zult noch Jupiter, noch t'Elis koning zijn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Heer Bazilides heeft de zaak op 't hoofd getroffen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>Hy treft het op een hair: men mag niet langer sloffen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l>De hofaltaaren staan al vaardig by de brug.</l>
+<l>En hondert stieren om hun hals, en witte rug</l>
+<l>Met eikenloof bekranst, het goud verguld den hooren.</l>
+<l>De altaarbijl is gewet, en zout, noch offerkooren,</l>
+<l>Noch offerband ontbreekt uw Priester, die vast wacht</l>
+<l>Op de aankomst van Jupijn; om datelijk met pracht</l>
+<l>Met goden van uw hof, en reijen van godinnen,</l>
+<l>Op uw beveelen, dit triumphspel te beginnen.</l>
+<l>Zoo ras 't gesterrente uit de kimme ons hooftpunt raakt,</l>
+<l>'t Is noodig dat men spoei: de middernacht genaakt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>Is de offerstaatsy in 't geheel noch ongeschonden?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l>Uw amptenaars, die blank gewaapent om hen stonden,</l>
+<l>Beschermde het gewijde, en weeken niet een voet.</l>
+<l>Wy zaagen uwe komst met yver te gemoet,</l>
+<l>En wachten Hierofant, die tot een heerlijk teeken,</l>
+<l>Gelieft het hem, nu zelf den offer zal ontsteeken:</l>
+<l>Zoo dra men het geluid des koop'ren waagens hoort.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>Wy stonden lang gereed, alleen ontbreekt'er 't woord.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Kan al dees reden niet, laat u mijn min beweegen</l>
+<l>Om voort te vaaren, of de teerling loopt ons teegen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>Heer Bazilides, ga spreek Theofrastus aan,</l>
+<l>Terwijlwe op 't hof voor 't lest noch eens te raade gaan.</l>
+</sp>
+<pb n="52"/>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l>Hy zal op mijn verzoek misschien den wimpel strijken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>'t Is hem geraaden; want het past ons niet te wijken.</l>
+</sp>
+<stage><hi rend="i">Salmoneus, Filotimie, Hierofant binnen.</hi></stage>
+</div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<stage><hi rend="sc">Theofrastus. Bazilides</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>WAt brouwt men hier ten hoof? het priesterdom verlangt</l>
+<l>Naar de uitkomst van dit pleit, 't welk in de weegschaal hangt.</l>
+<l>Die twijfelt naar wat kant zy noch wil overhellen.</l>
+<l>Het schijnt haar tong bezwijkt, en durft geen vonnis vellen.</l>
+<l>Gewislijk de overslag wil treffen, door 't gewicht</l>
+<l>Van zulk een hooftzaak, valt de Majesteit te licht,</l>
+<l>De tempelraad zal haar dien hoogen sprong verleeren.</l>
+<l>Wy zien den gantschen staat het bovenste onder keeren.</l>
+<l>Bedriegd my 't oog niet by den held'ren maaneschijn</l>
+<l>En scheemering, dit zal een van de grooten zijn,</l>
+<l>Die heene en weder gaat daar alles is beslommert,</l>
+<l>En om dees Jupiter zich zelve vast bekommert:</l>
+<l>'t Lijkt Bazilides, ja het is die veldheer zelf.</l>
+<l>Het schijnt hy zoekt en waakt door 't gantsche hofgewelf.</l>
+<l>Daar treed hy op my toe.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l rend="; 2tab">Veel heil, eerwaardste Vader,</l>
+<l>Gy zijt het dien ik zocht.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l rend="; 1tab">Wel zoon, kom tree wat nader.</l>
+<l>Wat port u hier dus spa te mijmeren door 't hof?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l>O! vader is dit vremt? wat levert men al stof,</l>
+<l>Aan een kerkplichtig hert, tot zuchten, en tot treuren!</l>
+<l>Met deeze nieuwigheên, wat wil'er noch gebeuren?</l>
+<l>Zoo dit gebeure, daar gantsch Elis van gewaagd.</l>
+<pb n="53"/>
+<l>Misschien word heel Europe om zulk een stuk geplaagd.</l>
+<l>Het hof te dienen, daar de kerkdienst heeft te lijden,</l>
+<l>Valt lastig, hoe men 't stelle en schikke aan weder zijden:</l>
+<l>Toch hoe het ga of niet, in hof- en kerkkrakeel,</l>
+<l>Mijn raadslot is gesmeed, ik draag mijn wil geheel</l>
+<l>Den Tempelvad'ren op, die zonder eind van jaaren,</l>
+<l>Jupijn vereerden met hun kerken, en altaaren.</l>
+<l>Nu kom ik hier door wil, en last der Majesteit,</l>
+<l>Om Theofrastus, die den Vorst zijne eisch ontzeit,</l>
+<l>Te troonen, dat hy schik den Koning te believen,</l>
+<l>En met dien ondaad de eer van Jupiter te grieven:</l>
+<l>Maar 'k wensche eer duizendwerf dat my zijn gramschap sla,</l>
+<l>Eer 't jonge priesterdom den hemel kom te na.</l>
+<l>Vergeefme, ô Vader, dat ik uw verouderde ooren,</l>
+<l>Ontwije, nu zy dees mijn lasterboodschap hooren.</l>
+<l>Ja Bazilides mond, ô! kerkschandaal, ô! smart!</l>
+<l>Uit u des Konings wil; maar Vader kend zijn hart.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Zoo doen wy, zoon, gy strijd voor Jupiter standvastig.</l>
+<l>Men kend den stijl van 't hof, dat valt zijn dienaars lastig,</l>
+<l>En leertze weifelen tot zoo vervloekt een stuk.</l>
+<l>Jupijn heeft uit by alle aanbidders van 't geluk.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l>Wie hem den nek toekeer', wy zullen niet bezwijken.</l>
+<l>Men drijft zoo ligt geen goôn uit haar gewijde rijken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Dat zal Salmoneus zien, en dit hovaardig bloed;</l>
+<l>Zijn Juno, die verblind een nieuw tooneelspel broet,</l>
+<l>Om op den hoogsten trans van deeze trap te steig'ren.</l>
+<l>Al stond ook elk dit toe, noch durven wy het weig'ren.</l>
+<l>Dat's 't antwoord, eisch niet meer: voldoe hen, schoon 't u smert;</l>
+<l>Kom, zijt gerust, gy draagt 't altaar met al uw hert.</l>
+<l>Ga by de Koning, en vertel uw wedervaaren,</l>
+<l>Dat hy ontzach drage aan mijn voorstel, en mijn hairen.</l>
+</sp>
+<stage><hi rend="i">binnen.</hi></stage>
+<pb n="54"/>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi></speaker>
+<l>'k Zal zeggen, daar ik meest mijn wit, en wensch in vind.</l>
+<l>'k Houw u, de Koning, maar my zelve meest te vrind.</l>
+</sp>
+<stage><hi rend="i">binnen.</hi></stage>
+<sp>
+<speaker><hi rend="i">Zang van Priesteren.</hi></speaker>
+<lg type="poem">
+<head><hi rend="i">Eerste zang</hi></head>
+<l>‘WAar zullen wy belanden!</l>
+<l rend="; 2tab">‘Zoo scheuring van de kerk gedijd,</l>
+<l rend="; 2tab">‘Tot tweedragt in den staat.</l>
+<l>‘Zoo tweedragt haare handen,</l>
+<l rend="; 1tab">‘In 't bloed der burg'ren verft uit spijt,</l>
+<l rend="; 1tab">‘En onverzoenb'ren haat?</l>
+</lg>
+<lg type="poem">
+<head><hi rend="i">Eerste tegenzang.</hi></head>
+<l>‘Noch heilig, noch onheilig</l>
+<l rend="; 1tab">‘Werd van de menschen ooit ontzien,</l>
+<l rend="; 1tab">‘En nimmer min dan nu.</l>
+<l>‘De tempelstaat niet veilig,</l>
+<l rend="; 1tab">‘Men durftze trots de rugge biên,</l>
+<l rend="; 1tab">‘Van wierook wars, en schuw.</l>
+</lg>
+<lg type="poem">
+<head><hi rend="i">Tweede zang.</hi></head>
+<l>‘De tempel word gepreezen,</l>
+<l rend="; 1tab">‘Als de eerste plicht, en 't waardste lot</l>
+<l rend="; 1tab">‘Zoo lang zy ampten geeft,</l>
+<l>‘Aanbid elk een dat weezen,</l>
+<l rend="; 1tab">‘Maar geeft hy staaten noch genot,</l>
+<l rend="; 1tab">‘Daar 't weelig lijf by leeft,</l>
+<l>‘Vaar wel godsdienstigheden.</l>
+<l>‘Vaar wel dan altaarkleeden.</l>
+</lg>
+<lg type="poem">
+<head><hi rend="i">Tweede tegenzang</hi></head>
+<l>‘Al valt het hof ons lastig,</l>
+<l rend="; 1tab">‘Wy Priesters dienen evenwel</l>
+<l rend="; 1tab">‘Te strijden voor 't altaar,</l>
+<l>‘Geduldig, en standvastig,</l>
+<l rend="; 1tab">‘Al word de Vorst een kerkrebel,</l>
+<l rend="; 1tab">‘Men vreeze geen gevaar.</l>
+<l>‘De trotze mensch moet buigen:</l>
+<l>‘Laat de uitkomst dit getuigen.</l>
+</lg>
+</sp>
+</div>
+</div>
+<div type="act">
+<pb n="55"/>
+<head rend="h3">Vierde bedryf.</head>
+<head rend="h4">Eerste tooneel,</head>
+<stage><hi rend="i">Vertoonende een straat met huizen, alom met wolken, en tapijten behangen.</hi>
+<lb/>
+<hi rend="sc">Hierofant, Filotimie</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>NU Bazilides niets op Theofrastus wint,</l>
+<l>Die zijn hardnekkigheid te krachtig boos, en blind,</l>
+<l>Verdaadigt, staat ons eens het uiterste aan te vatten.</l>
+<l>Een werk, zoo zwaar als dit, loopt groot gevaar van spatten,</l>
+<l>Indien men 't ondermijne, en ramme slag op slag.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Wat middel dunkt u dan het uitterste?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l rend="; 3tab">Uw gezach</l>
+<l>In 't werk te stellen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l rend="; 1tab">Och! hoe ik den Vorst bejegen,</l>
+<l>Hy zwicht van achterdocht, en stemtme t'elkens tegen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>Gebruik zijn mogentheid, hy volge u met zijn stem,</l>
+<l>En scepter eene nacht.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l rend="; 2tab">Hoe overstem ik hem?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>U past het hem, die niet wil luisteren, te dwingen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Zoo moest ik verder dan mijn staat, en paalen springen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>Ja sleep hem, wil hy u niet volgen met gemak.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Dan gaf ik zijn gezach, en scepter de eerste krak.</l>
+<l>De kroon is eerst aan hem, en lest aan my bevoolen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>Wat tusschen, u en hem gesmoort word, blijft verhoolen.</l>
+<l>En of hy suffen blijft, en geen gevaar beseft?</l>
+</sp>
+<pb n="56"/>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Hy zal 't beseffen, maar te spaade als 't onheil treft.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>Dat treffen zult gy zwaarst bezuuren, en gevoelen.</l>
+<l>De oplopentheid van 't volk is hevig aan het woelen.</l>
+<l>Gy zijt by Theofrast te schendig in den haat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Die slijt wel, word hy slegs gehandhaaft by zijn staat.</l>
+<l>Zijn grimmigheid bedaard, indien het werk blijk steeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>Hy dreigt dit lasterstuk aan 't heele hof te wreeken.</l>
+<l>Men zoent het priesterdom met afstand niet zoo licht.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Het spring niet verder dan 't bestek van zijne plicht.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>Hier over kraait men, dat het hair te berge rijze.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>De kerkdienst blijft de zelve, al scheeld het in de wijze.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>Zach Theofrastus dit, ik zag den staat gered.</l>
+<l>Geen tong verzet hem, word hy door geen magt verzet.</l>
+<l>Dat is het eenig punt waar op deeze as moet draaijen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Ons dreigt een felle storm.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l rend="; 1tab">Die zal wel overwaaijen.</l>
+<l>Men steek maar rustig af in deeze baare zee.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>En waar in 't eind beland?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l rend="; 2tab">Op een geruste ree.</l>
+<l>Ik zie van ver de mond van een behouden haaven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Behouden, of ten gronde, en leevendig begraaven.</l>
+<l>Ik toetste u slegs, getroost al wat my wedervaard.</l>
+<l>Wie omziet, en noch vreest, is zulk een eer niet waard.</l>
+<l>Een hemelpracht op aard, die grootheid verre ons leeven</l>
+<pb n="57"/>
+<l>Opweegen: maar al wat ik naar mijn oog besteven,</l>
+<l>Bezeilt mijn moed, die zwicht voor wederspoed noch last,</l>
+<l>Noch dreigementen van 't orakel; Theofrast</l>
+<l>Kan tegen my niet op; ik sta naar hemel perken,</l>
+<l>Nu middelen beraamt om 't schielijk uit te werken.</l>
+<l>Salmoneus moet 'er aan ook tegen wil en zin.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>Daar komt hy, ik zal gaan, span nu uw krachten in.</l>
+</sp>
+<div type="scene">
+<head rend="h4">Tweede Tooneel.</head>
+<stage><hi rend="sc">Salmoneus, Filotimie</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>MEn draaft, en woeld vergeefs, geen middel van verdraagen,</l>
+<l>Nu Theofrast zoo los heeft in den wind geslaagen</l>
+<l>Wat Bazilides ried, en t'zaamen haalen kost.</l>
+<l>De Aardspriester onverwrikt, als een metaalen post,</l>
+<l>Door gunst, noch ongunst van zijn opzet is te brengen.</l>
+<l>Wy moeten voor een poos wat dulden, en gehengen,</l>
+<l>En stellen 't nachtfeest uit tot op een zachter luim;</l>
+<l>Schoon Bazilides dringt om al dit tempelschuim</l>
+<l>Te vaagen uit mijn Rijk, en moedig voort te vaaren;</l>
+<l>Een verreziende heer weet zijn gezach te spaaren,</l>
+<l>Gebruikt het op zijn tijd, en waagd het zonder nood,</l>
+<l>Zoo licht niet, neen gewis een tegenstand, een stoot</l>
+<l>Helpt al 't gezach in de asch. de Majesteit is teder.</l>
+<l>Zy lijd geen schimp, stortze eens in de asch, wie brengtze weder</l>
+<l>Tot haaren ouden glans, zoo heerelijk als ooit?</l>
+<l>Dat kon Athene zelf met al zijn Wijzen nooit.</l>
+<l>Het koninglijk gezach wast op als heilige eiken,</l>
+<l>Die hoeven jaaren om hun hoogte te bereiken;</l>
+<l>Dies laat ons 't zeekere, om 't onzeekere eergenot,</l>
+<l>Niet waagen zonder kans. Mevrouw, dit is het slot,</l>
+<l>En hier op afgetreên, eer wy dit paard berijden,</l>
+<l>Eer 't schichtig word, en ons den breidel kom' te ontglijden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Is dit uw wijsheid? waar heeft die zoo lang geschuilt?</l>
+<pb n="58"/>
+<l>Het eene beeld staat hier in 't kerkportaal, en pruilt,</l>
+<l>Het andere op de brug. de paarden voor den waagen,</l>
+<l>Staan reede om in triumph hun Koning om te draagen.</l>
+<l>De Priester, het gemeen, en al de toestel wacht,</l>
+<l>En rekhalst van verdriet, om met de middernacht,</l>
+<l>Dit hooggewijde feest door maagdelijke reijen,</l>
+<l>Te doen vereeren, ons ter hooger stand te leijen;</l>
+<l>U eindelijk te zien braveeren, en 't besluit</l>
+<l>Van al dien toestel komt ten leste op uitstel uit.</l>
+<l>Is dat uw Majesteit verzeek'ren, en bewaaren?</l>
+<l>'t Gebergte zweet van last, en arbeid om te baaren,</l>
+<l>En na dien arbeid komt een veltmuis voor den dag.</l>
+<l>Dat heet voorzichtigheid, en 't koninglijk gezach</l>
+<l>Bevestigen. 't gaat wel, waar blijven de offervieren?</l>
+<l>Brengt wierookvaten, flux: men slachte honderd stieren,</l>
+<l>Ter eere van mijn heer, die dus den blixem voert.</l>
+<l>O! liever duizendwerf dees koorde niet geroert,</l>
+<l>Dan zich, en zijnen stam in zoo veel smaads gedompeld.</l>
+<l>Indien dit haap'ren blijft, wy worden overrompeld</l>
+<l>Van rampen, zonder ende, en plotz'ling met een slag</l>
+<l>Getroffen, dat men nooit om opstaan denken mag.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>Mevrouw, gy kunt hier uit mijn groote min bespeuren.</l>
+<l>En hoe ik u in top van eere zocht te beuren;</l>
+<l>Te heffen aan mijn zijde, indien het lukken wou;</l>
+<l>Nu 't weifelend geluk des waerelds, luttel trouw</l>
+<l>Ons aanziet met den nek, en komt den spil te hind'ren,</l>
+<l>Door tegenspart'len, raad ons 't voorspook zeil te mind'ren,</l>
+<l>Te strijken, geenen storm te loopen in den mond;</l>
+<l>Dat's veiliger, dan 't schip te jaagen in den grond.</l>
+<l>En, tegens wind, en stroom door al die blinde rotzen,</l>
+<l>Het uiterste gevaar te tergen, en te trotzen.</l>
+<l>Vergeef het uwen heer, dat hy uw leeven bergt,</l>
+<l>En eer, en staat, en kroon.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l rend="; 1tab">Gy bergtze niet, maar tergt</l>
+<l>Een grondelooze poel, vol helsche razernijen,</l>
+<pb n="59"/>
+<l>Brengt teffens u, en my, en duizenden in lijen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>Uw oordeel, en het mijn staan tegens een gekant.</l>
+<l>Wanneer de glorie zit, gelijk een schip op 't strand:</l>
+<l>Dan zal het blijken, wie best oordeeld van ons beide.</l>
+<l>'k Bedacht noch straks het stuk, en 't was of my iets zeide</l>
+<l>Zie voor u; want gy loopt uw rampen in den mond.</l>
+<l>Bedenk de godspraak wel. toen was het of de grond</l>
+<l>Begon te daaveren, en alles zich ontroerde;</l>
+<l>'t Was of my eenig vuur omstraalde, en snel vervoerde.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Zoo zijn 'er helden vaak begroet, vereert, vergood,</l>
+<l>'t Gaat wel, mijn vorst, wy zijn voorzeker buiten nood.</l>
+<l>Dit voorspook zal gewis in vrolijkheid verdwijnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>'K vrees voor elenden, eer de zon begint te schijnen.</l>
+<l>Mijn hert getuigt geen heil: het onheil schijnt na by.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Laat vaaren deeze zorg.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l rend="; 2tab">Wat eischt, Mevrouw, van my?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Dat gy ons nachttriumph uitvoeren wilt met orden.</l>
+<l>Beveel dees nacht aan my; laat my 'er meê geworden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>Wat raad om Theofrast te zetten naar uw handt?</l>
+<l>Noch Bazilides, noch de kloeke Hierofant,</l>
+<l>Noch mijn gezach heeft hem het alderminst bewoogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Wie niet gewillig buigt, werd door geweld geboogen</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>En buigt hy niet?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l rend="; 1tab">Zoo gaat de handel echter voort.</l>
+<l>Men klamp dien admiraal met alle magt aan boort.</l>
+<l>Laat kraaken al wat kan: men zal hem zien verstommen,</l>
+<pb n="60"/>
+<l>Mijn tegenwoordigheid aan uwe zijde brommen.</l>
+<l>Bezat de stoutheid ooit des waerelds derde deel;</l>
+<l>Wy laaten al de rest nu ook niet in 't geheel.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>Ik ben het stuk getroost, om recht uw hert te winnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>'t Is meer dan tijd dat wy het heerlijk stuk beginnen;</l>
+<l>En 's rijks geheimraad nu verspreeken in het hof.</l>
+<l>Om met een Majesteit op de aangevange stof</l>
+<l>Te werken, en uw beeld gestuit voor deezen drempel</l>
+<l>Gewillig, of met dwang te voeren in den tempel:</l>
+<l>Dan, na een dans van eere, en zangen met de pracht</l>
+<l>Der Reijen voortgetreên, daar ons het volk verwacht.</l>
+</sp>
+<stage><hi rend="i">Alle binnen.</hi></stage>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Eutimus, Theofrastus</hi>, <hi rend="i">Rey van Priesteren, en Koraalen.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Eutimus</hi>.</speaker>
+<l>WY treden naar het hof, en bleven nutter buiten</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Gaaf Jupiter dat wy den Koning mochten stuiten.</l>
+<l>Het waar een parel aan de kroon van 't Priesterdom.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eutimus</hi>.</speaker>
+<l>De Koningin te trots, te moedig, ziet niet om.</l>
+<l>Naar hemel noch naar recht, om Junoos rol te speelen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>En zou men luisteren, naar 't hof, en zijn beveelen?</l>
+<l>Zou een verwaande vrouw haar wetten in de kerk</l>
+<l>Bekrachtigen? waarom verscheuren wy dit zwerk,</l>
+<l>Dees hemelschildery, en wolken niet aan stukken?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eutimus</hi>.</speaker>
+<l>Verschoon het deeze nacht alleen om ver te rukken.</l>
+<l>Wat deerd ons deeze praal, dit krank tooneeltapijt?</l>
+<l>Van deezen Jupiter, die met den hemel strijd,</l>
+<l>Zijn Juno ten geval. hoe laat hy zich misleijen!</l>
+<l>Men mogt zijn dolheid eer beklaagen, en beschreijen,</l>
+<pb n="61"/>
+<l>Dan lasteren; wanneer een vrouw de kerk regeerd,</l>
+<l>Dan draait de waereld om, dan staat haar hoofd verkeerd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>De vrouwen midd'lerwijl beschikken groote zaaken.</l>
+<l>Zy spooken door de lucht gelijk Medéas draaken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eutimus</hi>.</speaker>
+<l>Een heer houd best de hand aan 't roer van zijnen staat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>By wijlen heeft de heer de naam, mevrouw de daad.</l>
+<l>Den wulpschen Hierofant mag zich wel billijk schaamen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eutimus</hi>.</speaker>
+<l>De wulpen weeten minst wat reden hen betaamen.</l>
+<l>Zy willen dat men hen gelijk 't Orakel hoor.</l>
+<l>Zy vangen simpelen, en hangenze op by 't oor.</l>
+<l>Noch vind men deftigen, die voor die speelpop duiken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>In schijn, die weeten meê hun loosheid te gebruiken.</l>
+<l>Misbruiken zeide ik liefst als in een mommery,</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eutimus</hi>.</speaker>
+<l>Gebruik of misbruik 't hof zoek zijn geluk hier by.</l>
+<l>De Aardspriester sta maar vast, wy zullen niet bezwijken</l>
+<l>Voor 't autaar van Jupijn, noch ooit te rugge kijken.</l>
+<l>Met welk een aanzicht zal het hof dit spel bekleên?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Met vonden zonder grond, met dolle uitspoorigheên:</l>
+<l>Een reden lang erkaauwt, bevestigt door de tijen,</l>
+<l>Die op elkand're slaan, en die de proef kan lijen</l>
+<l>Behouwt haar waarde, als munt van 't louterste metaal;</l>
+<l>Ontziet noch vuur, noch toets, noch klank, noch wicht, noch schaal,</l>
+<l>Dat zult gy hooren, nu ik Jupiter ter eeren,</l>
+<l>Dien vuilen dienst ten schimp mijn zaaken ga verweeren.</l>
+<l>Daar treed het gantsche hof ons tegen. houd u vast</l>
+<l>Aan 't wettige oud altaar: zoo lijden wy geen last,</l>
+<l>Al ramdenze met kracht ons hooggewijde muuren.</l>
+<l>Wy zullen hun geweld in 't eind noch wel verduuren.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="62"/>
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Salmoneus, Filotimie, Hierofant, Bazilides</hi>, <hi rend="i">Juffers, Hofgevolg, Reijen van Priesteren, Koraalen</hi>, <hi rend="sc">Eurialus, Orfira, Theofrastus, Eutimus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>EErwaarde Vader, hoe? wat drift, wat onbescheid</l>
+<l>Is dit? zal 't Priesterdom Salmoneus Majesteit</l>
+<l>In 't licht staan? kan men u met reden niet beweegen?</l>
+<l>Gy staat alleen geen vorst, maar goôn op aarde tegen.</l>
+<l>Een wijze hoed zich wel dat hy geen Vorsten steurt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Zoo word onnoozelheid, die nergens in verbeurt,</l>
+<l>Beschuldigd? zonder blijk van schuld of iets te noemen!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Een onbeschaamde durft zijn schande noch verbloemen!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Verbloemen? niemand wijst ons schande of misdaad aan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>Ziet gy 't geheiligt beeld niet voor den tempel staan?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Zoo 't beeld een misdaad is, ik heb het niet gehouwen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>Gy keert het uit de kerk.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l rend="; 1tab">Men mag geen kerkgebouwen</l>
+<l>Ontwijen door een beeld, 't welk Jupiter ontwijd:</l>
+<l>Een rechter aan wiens eer gy zelf verbonden zijt;</l>
+<l>Dies wacht u dit altaar dees tempel te bestormen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>De minste Koning giet een beeld in zulke vormen,</l>
+<l>Daar zijne zinlijk heên op speelen; is 't niet waar?</l>
+<l>Scheep over Nijl, en zee, de schrand're Egyptenaar</l>
+<l>Schept Goden, zonder end, uit zijn gedroomde vonden,</l>
+<l>Bid koey, en kalvers aan, en krokodil, en honden,</l>
+<pb n="63"/>
+<l>Griffoen, en gans, en haan; ook zelf ajuin, en look,</l>
+<l>Gedient, geëert door vee, en geur, en offersmook.</l>
+<l>Dat leerfhem zonnestad, en zijn befaamde schoolen.</l>
+<l>Aan Isis priesterdom van overouds bevoolen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Wy keeren ons geenzints aan Ongriek nochte Nijl.</l>
+<l>Het wijze Grieken volgt, en houd den ouden stijl,</l>
+<l>Door Cecrops ingevoert t'Athene, en streng geboden:</l>
+<l>Hy leerde ons eerst Jupijn den Koning aller Goden,</l>
+<l>En menschen te gelijk aanbidden, vee, en stier,</l>
+<l>Brandoffer, wierookgeur, en zuiver offervier</l>
+<l>Opdraagen, en dien magt in marmerbeelden eeren.</l>
+<l>Wie nu in Elis ooit dien kerkwet om wil keeren,</l>
+<l>En 't beeld van Koningen op 't heilig autaar plant,</l>
+<l>'t Gebruik der ouderen, getrouw van hand tot hand</l>
+<l>Hun kind'ren toegereikt, veranderd in de steden,</l>
+<l>Word geenzints ingevolgt, met de aldergrootste reden.</l>
+<l>Wat wijs, en wet een Vorst in zijne rijken zet,</l>
+<l>De aloude kerkwet is, en blijft de hoogste wet,</l>
+<l>En hierom keeren wy dit nieuwe pronkbeeld buiten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Laat Cecrops heiligheên in zijne tempels fluiten,</l>
+<l>En buiten keeren, wat hy raadzaam vind, of nier:</l>
+<l>Salmoneus is een heer alleen, in zijn gebied.</l>
+<l>De landzaad houd zich stil: men vind, en stelt geen wetten.</l>
+<l>Wie dit mishaagd vertrekk', men zal 't hem niet beletten,</l>
+<l>Naar Cecrops stad, en zoek alleen by Cecrops prijs.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Geweldig heerschen, en met dwang, is geen bewijs</l>
+<l>Van wettigheid in 't stuk van 't altaar, en de kerken,</l>
+<l>By duizend duizenden gezaait op 't aardrijk, werken</l>
+<l>Van menschen handen niet, maar Goden opgebouwt.</l>
+<l>Den oppersten Jupijn heeft ons zijn eer betrouwt,</l>
+<l>Met dit beding van trouw voor zijn altaar te waaken.</l>
+<l>Dit wettige beroep verbied den dienst te staaken,</l>
+<l>Verbied een sterf'lijk mensch te stellen by de Goôn.</l>
+</sp>
+<pb n="64"/>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>Eert Herkles priesterdom dan tegens die geboôn</l>
+<l>Van Jupiter, zijn zoon, gewonnen by Alkmene?</l>
+<l>Waar is de wijsheid nu van Cecrops, en Athene?</l>
+<l>Was Herkules geen mensch met sterf'lijkheid bekleed?</l>
+<l>Toen dat venijnig hembd zoo schrikkelijk, en wreed</l>
+<l>Hem naar het lijkvuur dreef, daar hy tot asch verteerde.</l>
+<l>Wat plaats leed opspraak, die dien held met offer eerde?</l>
+<l>De zoon van Actor slagt den aldereersten stier,</l>
+<l>Ter eeren van zijn daân. de krans van populier</l>
+<l>Bekranst zijn priesterdom. Thebaner, en Arcader</l>
+<l>Tyrinte, Tybur, en de Gades deezen vader</l>
+<l>Gezangen zingen. hem ontbreekt noch kerk, noch feest.</l>
+<l>Nu loochen dat hy is een sterflijk mensch geweest.</l>
+<l>Zijn daaden dienen u tot onschuld, noch verschooning,</l>
+<l>Te min terwijl hy nooit een rijk beheerschte als Koning.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Alcides heeft men eerst geoffert na zijn dood.</l>
+<l>En als vergood gevierd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l rend="; 1tab">Dat onderscheid is groot!</l>
+<l>Het scheeld den lesten snik en doodsnik tusschen beiden,</l>
+<l>Dat kan hier godendom, en menschdom onderscheiden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Indien gy iets begeert, ga voer dit beeld in 't hof.</l>
+<l>Die glimpig mommen wil, die momme niet zoo grof.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Wierd niemand by zijn tijd dien luister toegeschreeven,</l>
+<l>Salmoneus zal dan eerst naar deezen eerpalm streeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Mevrou, al waaren wy den Koning onderdaan,</l>
+<l>Dees tempelschennis kan niet ongestraft vergaan.</l>
+<l>Geen goden lieten zich ooit ongestraft beschimpen.</l>
+<l>Verbloemen baat hier niet, noch verf, noch schijn, noch glimpen.</l>
+<l>Wie schent de hemel meer, dan die zijn eer hem steelt?</l>
+<l>Het zy door offersmaat, of een onheilig beeld.</l>
+<pb n="65"/>
+<l>Wie zich wil spiegelen, geen spiegels hem ontbreeken.</l>
+<l>De nacht verloopt te snel om breed hier af te spreeken.</l>
+<l>Waar bleef het reuzen rot? 't welk staande naar den stoel,</l>
+<l>Van Jupiter, zoo diep in Plutoos jammerpoel</l>
+<l>In eeuwigheid verzonk, van boven neêr geklonken?</l>
+<l>Prometheus, die de zon haar leevendige vonken,</l>
+<l>En straalen steelt, om 't beeld te ontvonken, strekt, helaas!</l>
+<l>Geketent aan ten rots den arend tot een aas.</l>
+<l>Geen Flegias vergeefs Apolloos tempel blaakte.</l>
+<l>Geen Pentheus Bacchus feest vergeefs beschimpte, en laakte.</l>
+<l>Mijn Koningin, zie toe! indien hier raaden geld,</l>
+<l>Ach! schen uw handen aan geen tempels met geweld.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>, <hi rend="i">ter zijden tegen de Koning.</hi></speaker>
+<l>Zoo word een lichte pluim, een rook, een damp verblaazen,</l>
+<l>Hy poogt uw Majesteit met dreigen te verbaazen;</l>
+<l>Vergeefs; wy troosten ons deeze ydele ongena.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Verleider van ons hof, des Vorsten gramschap sla</l>
+<l>Uw boosheid, het bederf, de pest der vroome heeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>De vloeken zijn gewoon in hunnen hoek te keeren,</l>
+<l>Van waar zy quamen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l rend="; 1tab">Wacht, de vloeken zijn niet wijd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>Krakeelen vordert niet, men staake deezen strijd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Indien het u behaag men stel den strijd ter zijden.</l>
+<l>Niet een der Priesteren zal 's Konings beeld ontwijden.</l>
+<l>Het ruste deezen nacht alleenig voor de poort;</l>
+<l>De Koning vaar terwijl met zijn triumphen voort,</l>
+<l>Getroost hy zich den slag van boven te verwachten,</l>
+<l>Wy zullen midlerwijl Jupijn een offer slachten,</l>
+<l>En wierooken: hy zal gewis dien hoon, en smaad</l>
+<l>Haast wreeken aan dit hoofd, een stookebrand van 't quaad?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>Aan my? dat vloeken kan my hinderen, noch deeren,</l>
+<pb n="66"/>
+<l>Maar moogt gy in dit beeld des Konings wil onteeren,</l>
+<l>En 't Koninglijk gezach? zoo blijkt het al te wis,</l>
+<l>Waar toe de moogentheid des rijks vervallen is.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Dan was de grond geleid tot wederspannigheden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Zie toe gy haald den vloek van al de Grieksche steden,</l>
+<l>En alle Ongrieken u te dartel op den hals.</l>
+<l>Nu staan de orakels stom; de Wichlery is valsch.</l>
+<l>Waar toe Jupijn gediend in honderd duizend kerken?</l>
+<l>Waar toe zijn beeld, de kroon van zeven wonderwerken,</l>
+<l>Zoo heerlijk opgerecht? waar toe 't olympisch feest,</l>
+<l>Te Pisa, ingevoerd, daar zich vernuft, en geest,</l>
+<l>En pracht van Koningen, en Vorsten vinden laaten.</l>
+<l>Als deeze stad, en die, om 't vijfde jaar hun straaten</l>
+<l>Van toeloop zien gepropt, en woelen naar hun wensch?</l>
+<l>Nu wijd deeze eer eens toe, een krank, een sterflijk mensch.</l>
+<l>En ziet wat opspraak, wat al laster dit zal draagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>Zoo dit Salmoneus, en zijn Ega kan behaagen,</l>
+<l>Wy keeren ons aan 's volks oplopentheid, noch haat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>In 't minste niet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus.</hi></speaker>
+<l rend="; 1tab">Jupijn! hoe word uw eer versmaad!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Hier geld geen weigeren; als 't hof het volk moet schroomen,</l>
+<l>En naar den mond zien, dan is 't al te ver gekomen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>Zoo doed het, zet dit beeld op 't outer; haast u, voort.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus.</hi></speaker>
+<l>Gy opent uw bederf een ontoesluitb're poort,</l>
+<l>Waar door de plaagen vast van alzints innetrekken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Trouwanten by der hand!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l rend="; 2tab">Geen water kan de vlekken</l>
+<pb n="67"/>
+<l>Van tempelschendery afwasschen, geene zee</l>
+<l>U zuiveren, helaas! wat naakt u ramp, en wee!</l>
+<l>Stijg op mijn rey, bezet dien langgewijden drempel.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Trouwanten, rept u, zet dit pronkbeeld in den tempel.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Ach! om Jupijn, vorstin, hou stil, verhaast u niet.</l>
+<l>Verblind uw oogen niet, met 't geen zoo heerlijk ziet.</l>
+<l>Denk om de Godsspraak!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l rend="; 1tab">Die komt ons uitdruklijk zeggen,</l>
+<l>Dat gy de grondslag tot onze ondergang wilt leggen.</l>
+<l>Maar niemand leent u 't oor.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l rend="; 2tab">Denk om de Koningin,</l>
+<l>Die niet ontzach, verwaant, en met een dollen zin</l>
+<l>Latonaas offerfeest te ontwijen, en te stooren;</l>
+<l>Op 't spoor van Tantalus, haar vader, die den tooren</l>
+<l>Des hemels had getergt, met hun geheimenis</l>
+<l>Te brengen aan den dag, waarom hy eeuwig is</l>
+<l>Ter waterstraf gedoemt, Latone aldus ontsteeken,</l>
+<l>Beweegd Diana, en Apollo met haar smeeken,</l>
+<l>Te straffen 's moeders hoon, van Niobe geleên,</l>
+<l>Wiens kind'ren niet zoo haast vergaderen by een,</l>
+<l>Voor Thebe, om in het perk haar paarden te berijen,</l>
+<l>Of 't hageld pijlen uit de lucht van alle zijen.</l>
+<l>De trotze Niobe, halfdood, aanschoud dees plaag;</l>
+<l>Bezuurt in al haar bloed, een droeve nederlaag.</l>
+<l>Een dochter wenschtze alleen in 't midden van het treuren,</l>
+<l>Te bergen in haar schoot; maar 't mag haar niet gebeuren.</l>
+<l>En zy die flus verwaant den hemel tergt zoo trots,</l>
+<l>Besterft zoo kil als ys, veranderd in een rots.</l>
+<l>Dat leere u wat het is, den Goden tegenkanten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>Nu, Bazilides, voort, vaart voort gy hoftrouwanten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eutimus</hi>.</speaker>
+<l>Jupijn, aanschoutge dit? aanschouw wie u onteerd!</l>
+<pb n="68"/>
+<l>Geweld, geweld, uw kerk word schand'lijk geschoffeert!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Verlege Priesters, rust: treed binnen, om in 't midden</l>
+<l>Der zwaarigheên, te koor voor Jupiter te bidden,</l>
+<l>Dat hy zijn heiligdom beschutte in dit gevaar.</l>
+</sp>
+<stage><hi rend="i">Theofrastus, Eutimus, met de Rey hunner Priesteren binnen.</hi></stage>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Salmoneus, Filotimie, Hierofant</hi>, <hi rend="i">Rey van zijn Priesters, Koraalen</hi>, <hi rend="sc">Bazilides, Eurialus, Orfiza</hi>, <hi rend="i">Hovelingen, Hofjuffers.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>HEt stuk is uitgevoerd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l rend="; 1tab">Uw beeld op 't hoog altaar.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi></speaker>
+<l>Nu 't hoogtijd met triumphe, en danssen, en gezangen,</l>
+<l>Ter eeren van ons rijk en grootheid aangevangen.</l>
+<l>Laat volstaan al wat kan. mijn Ganimedes, fier</l>
+<l>Op uw dischschenkersdom, en gy ô! kamenier</l>
+<l>Van Juno, Iris, breng ons nu de feestgewaaden.</l>
+<stage><hi rend="i">Alhier werden twee kleederen gebragt.</hi></stage>
+<l>My past dien mantel rijk van licht, en overlaaden</l>
+<l>Van starren. reik Mevrouw den sluijer van azuur.</l>
+<l>Alreê verand'ren wy van weezen; de natuur</l>
+<l>Der sterflijkheid begind iets grootscher aan te neemen,</l>
+<l>De leest der sterflijkheid onsterfelijk te zweemen.</l>
+<l>Nu heeft mijn Majesteit haar tooizel, en beslag.</l>
+<l>Wy zien de waereld aan uit eenen and'ren dag,</l>
+<l>En uit een ander oog. de velden, en waaranden,</l>
+<l>Gebergte, en zee, en stroom staan rede om offerhanden</l>
+<l>t'Ontsteeken op 't altaar. mijn bedgenoote, aanvaard</l>
+<l>Dien scepter, u alleen past deezen paauw en staart,</l>
+<l>Zoo rijk, en dicht bezaaid met Argus blinkende oogen.</l>
+<l>Daar daald een schoone wolk, en opent 's hemels boogen.</l>
+<stage><hi rend="i">Werd zagjens op de instrumenten gespeeld, en daald een wolk met eenige Goden, en Godinnen.</hi></stage>
+<pb n="69"/>
+<l>Apollo die het al verlicht met zijnen glans,</l>
+<l>Verschijnt hier op ons feest, verheerlijkt onzen dans,</l>
+<l>En staatsy. vader Mars die bloeijende ooreloogen</l>
+<l>Bestiert, verzelschapt ons. daar daald ook uit den hoogen</l>
+<l>Merkuur, die op de pen van hoed en hielen zweeft;</l>
+<l>Met zijne slangeroê verdagvaard al wat leeft,</l>
+<l>En niet en leeft, hy zal de blijdschap ook beginnen.</l>
+<l>De dochter van Jupijn, de moeder van het minnen,</l>
+<l>Verschijnt op ons banket met haaren vluggen zoon.</l>
+<l>De strijdb're Pallas daald om laag uit 's hemels troon</l>
+<l>Met helm, en beukelaar, en speer; godin Diane</l>
+<l>Met haaren jachtspriet daald in 't schijnen van de maane.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>De rey der Goden stijgt uit's hemels goude troon.</l>
+<l>Men zweefze te gemoet. zy buigen voor ons kroon;</l>
+<l>En eeren ons van verre als opperhemelgoden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>Zijt drymaal wellekom, die reede op ons geboden,</l>
+<l>Dit feest vereeren wilt, en elk uit zijnen trans,</l>
+<l>En hemelhoogte daalde om deezen offerdans</l>
+<l>Eendragtig te bekleên op schuiftrompet, op veêlen,</l>
+<l>Schalmeijen, en muzijk van eed'le maagdekeelen.</l>
+<l>Wy zullen uit dees troon, en wolken aan de zy</l>
+<l>Van onze Gemalin gezeeten, beide bly,</l>
+<l>Bestraalen uwen zwier, en letten op de zwaaijen,</l>
+<l>Van deezen dans, en trant, waar op de sterren draaijen.</l>
+</sp>
+<stage><hi rend="i">Dans van Goden, en Godinnen.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>Genoeg gedanst: uw dans vernoegd de Majesteit</l>
+<l>Van onzen Jupiter.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eurialus</hi>.</speaker>
+<l rend="; 1tab">De Priesters staan bereid</l>
+<l>Met fakk'len, offertuig, en geur van gommevaaten,</l>
+<l>U door den melkweg, en de starrelichte straaten,</l>
+<l>Op 't staatigst voor te treên, te leiden met de pracht</l>
+<l>Van uwe hofsleep naar de brug, daar ieder wacht</l>
+<pb n="70"/>
+<l>Op de aankomst van Jupijn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l rend="; 1tab">Mijn Juno, gaan wy binnen.</l>
+<l>Verwacht ons in het hof met deeze uw feestgodinnen,</l>
+<l>Terwijl ons't priesterdom zijn offer schuld betaalt.</l>
+<l>Dan met triumphe 't hoofd der Goden ingehaald;</l>
+<l>Dan moogt gy met uw sleep my zegenrijk ontmoeten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Het zal ons lusten, u, zoo groot gemaakt, te groeten.</l>
+</sp>
+<stage><hi rend="i">Alle binnen.</hi></stage>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Theofrastus, Eutimus</hi>, <hi rend="i">Rey van Priesteren, uit de tempel komende, ontmoetende een vrouw verbeeldende de</hi> <hi rend="sc">Kerkmaagd</hi> <hi rend="i">van Elis.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Kerkmaagd</hi>.</speaker>
+<l>O! Priesterlijke rey,</l>
+<l>Hef aan een droef geschrey!</l>
+<l>En pas de jammerzangen,</l>
+<l rend="; 1tab">Rondom den tempel heen,</l>
+<l rend="; 1tab">Op uw bedrukte treên,</l>
+<l>En deerlijke ommegangen.</l>
+<l rend="; 1tab">O! wee! ô! druk! ô! strijd!</l>
+<l rend="; 1tab">Ons outer is ontwijd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eutimus</hi>, <hi rend="i">voor de Rey der Priesteren.</hi></speaker>
+<l>Aardsvader, wou Jupijn u spaaren,</l>
+<l>En uwe grijze hairen</l>
+<l>Om, oud, en stram, te lijen</l>
+<l>De tempelschenderijen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kerkmaagd</hi>.</speaker>
+<l>O! priesterlijke rey,</l>
+<l>Vervolg dit nachtgeschrey,</l>
+<l>Vervolg uw jammerklachten,</l>
+<l rend="; 1tab">En klaag uw droefheid uit,</l>
+<l rend="; 1tab">Op hoop of dit geluid,</l>
+<l>Den hemel mogt verzachten!</l>
+<pb n="71"/>
+<l>O! wee, ô! ô druk, ô! strijd,</l>
+<l>Ons outer is ontwijd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Eutimus</hi>.</speaker>
+<l>Aardsvader, stut dit kermen!</l>
+<l>Daar ons geen Goôn beschermen,</l>
+<l>Zy vlieden die zy haaten,</l>
+<l>De tempel treurt, verlaaten</l>
+<l>Van zijne heiligdommen.</l>
+<l>De schennis zit geklommen</l>
+<l>In 't hoogste licht der kooren;</l>
+<l>'t Orakel sluit zijne ooren.</l>
+<l>De hemel blijft geslooten,</l>
+<l>Hy hoort geen kerkgenooten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Kerkmaagd</hi>.</speaker>
+<l>O! priesterlijke rey,</l>
+<l>Houd aan met nachtgeschrey,</l>
+<l rend="; 1tab">Volhard al stil, in 't midden</l>
+<l>Van 't binnekoor met my,</l>
+<l>En zet u zy aan zy,</l>
+<l rend="; 1tab">Bestorm de lucht met bidden.</l>
+<l>O! wee, ô! druk, ô! strijd,</l>
+<l>Ons outer is ontwijd.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Zang van</hi> <hi rend="sc">Elis</hi>, <hi rend="i">gevolgt van dies stads jufferen.</hi></speaker>
+<lg type="poem">
+<l>‘WElk een hovaardy vervoert,</l>
+<l rend="; 1tab">‘O! mijn Koning, uw gedachten?</l>
+<l>‘Welk een booze list beloert,</l>
+<l rend="; 1tab">‘Uwe rust, en eer, en krachten?</l>
+<l>‘Huizen, hoven, tempels, daaken,</l>
+<l>‘Alles schijnt in vuur te blaaken!</l>
+<l rend="; 1tab">‘Welk een hoogmoed, ô! verdriet,</l>
+<l rend="; 1tab">‘Elis kent haar zelve niet.</l>
+<l>‘Ach! Salmonens, sta noch af!</l>
+<l>‘Bouw u zelf geen schand'lijk graf.</l>
+<l><stage><hi rend="i">Hier na zingt de rey der jufferen.</hi></stage></l>
+<l>‘Hier helpt geen raaden meer;</l>
+<l>‘Hy wil dees godlijke eer.</l>
+</lg>
+</sp>
+</div>
+</div>
+<div type="act">
+<pb n="72"/>
+<head rend="h3">Vyfde bedryf,
+<lb/>
+of Tusschenspel van 't Vierde, en Vijfde Bedrijf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="i">Het Tooneel vertoond een straat met huizen, Paleizen, en tempels, ten meerendeele met wolken behangen; aan des zelfs einde ziet men een koop're brug over de rivier Penejus geslaagen.</hi>
+<lb/>
+<hi rend="sc">Salmoneus, Bazilides, Hierofant</hi>, <hi rend="i">dragende een wierookvat</hi>, <hi rend="sc">Eurialus</hi>, <hi rend="i">Koraalen, Hovelingen als Goden gekleed, Priesters, Altaarbedienden, Hofjuffers</hi>, <hi rend="sc">Architas, Zeno, Epicharis</hi>, <hi rend="i">'t gemeene vulk van</hi> <hi rend="sc">Elis</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Eurialus</hi>.</speaker>
+<l>ZIet Jupijn Salmoneus treden,</l>
+<l>Billijk werd hy aangebeden,</l>
+<l rend="; 1tab">Welk een Majesteit,</l>
+<l rend="; 1tab">Welk een glans verspreid,</l>
+<l>Zich uit zijne blinkende oogen,</l>
+<l>Niemand vreeze zijn vermoogen,</l>
+<l rend="; 1tab">Daar hy in triumph alom,</l>
+<l rend="; 1tab">Zegend mensch, en godendom</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Zang van</hi> <hi rend="sc">Eliders</hi>.</speaker>
+<lg type="poem">
+<l rend="; 1tab">‘Groote Koning van de Grieken,</l>
+<l>‘Wien de waereld valt te kleen,</l>
+<l rend="; 1tab">‘Hef u op met hemelwicken,</l>
+<l>‘Wil op uwen waagen treên:</l>
+<l rend="; 1tab">‘Nu gy door een wonderdaad</l>
+<l rend="; 1tab">‘Grootsch u zelf vergoden laat.</l>
+</lg>
+</sp>
+<stage><hi rend="i">Dans van</hi> <hi rend="sc">Eliders</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>Men steeke de trompet.</l>
+</sp>
+<stage><hi rend="i">Salmoneus binnen om op de wagen te gaan.</hi></stage>
+<pb n="73"/>
+<sp>
+<speaker><hi rend="sc">Hierofant</hi>.</speaker>
+<l>Val neêr, val neên val neêr!</l>
+<l>Aanbid, wel eer uw Vorst, maar nu uwe opperheer!</l>
+<l>Wy zwaaijen 't wierookvat ten roem van zijn vermoogen.</l>
+<l>Gy Goden, hier gedaald uit 's hemels blaauwe boogen,</l>
+<l>Die de eersleep van Jupijn Salmoneus, die hier zweeft,</l>
+<l>En dees zijn nachttriumph een tweede luister geeft;</l>
+<l>Gunt ons uw byzijn, wijl zijn magt ten hemelwaagen</l>
+<l>Gaat klimmen, om met glans, en majesteit te daagen,</l>
+<l>Voor de oogen van zijn volk, 't welk vol van angst geknield</l>
+<l>Aan weêrzy van dees brug verlangt, en dringd, en krield.</l>
+<l>Wat vloed, wat stad hoorde ooit zoo groot een blijdschap schaat'ren</l>
+<l>Als Elis, en dees stroom Penejus nu hoort klaat'ren?</l>
+<l>Peloponesus werd alom van vreugd geraakt,</l>
+<l>Nu haaren Vorst in 't licht van star, en blixem blaakt;</l>
+<l>En boven 't menschdom, door zijn Priesteren geheven,</l>
+<l>Eerlang een teeken van zijn mogentheid zal geeven.</l>
+<stage><hi rend="i">Salmoneus verschijnt op een konstigen koop'ren waagen op de brug, getrokken van twee paarden, slingerende vuur onder het gemeene volk.</hi></stage>
+<l>Daar komt zijn Majesteit in weerlicht voor den dag.</l>
+<stage><hi rend="i">Het begint te donderen.</hi></stage>
+<l>Hoort, hoort, de hemel beeft van deeze wederslag,</l>
+<l>Die 't schuddende aardrijk geeft; de dag verhaast te koomen.</l>
+<l>De nagt werd door dit vuur de duisterheid benoomen.</l>
+</sp>
+<stage><hi rend="i">Het begint in de hemel te blixemen.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Eurialus</hi>.</speaker>
+<l>Ach! Hierofant, wat's dit? de heelen hemel brand!</l>
+<stage><hi rend="i">Hier verschijnd Jupiter op een Arend, drijvende Salmoneus van de brug, en blixemt de zelve in stukken.</hi></stage>
+<l>Ach! Jupiter genaakt, en zijn vergramde hand</l>
+<l>Werpt vuur, en blixems af. ach! Hemelheer, verschoning.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Salmoneus</hi>.</speaker>
+<l>Vergeef, aanzie, genaâ.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Jupiter</hi>.</speaker>
+<l rend="; 1tab">Leg daar, vermeetle Koning.</l>
+<stage><hi rend="i">De brug valt in.</hi></stage>
+<pb n="74"/>
+<l>Zoo moet uw godenpraal ten spot der menschen staan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Architas</hi>.</speaker>
+<l>Waar bergen wy het lijf? wat gaat de hoofdstad aan?</l>
+<stage><hi rend="i">Jupiter vliegt weg.</hi></stage>
+<l>Men hoord na by, en ver een oproer, klaagen, zuchten,</l>
+<l>Elk vlied, elk beeft, en schreid, laat ons ten hove in vluchten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Epicharis</hi>.</speaker>
+<l>Komt laat ons in de kerk het oproer, en de dood</l>
+<l>Ontwijken; Elis ach! wy zijn met u in nood.</l>
+<l>Ach! had men Pisa niet zoo roekeloos verlaaten!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Architas</hi>.</speaker>
+<l>Vlied in het hof, hier kan geween, noch klaagen baaten.</l>
+</sp>
+<stage><hi rend="i">Alhier valt de gordijn.</hi></stage>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="i">Verbeeldende een Troonzaal.</hi>
+<lb/>
+<hi rend="sc">Filotimie, Orfiza</hi>, <hi rend="i">Hofjuffers.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Orfiza</hi>.</speaker>
+<l>JUpijn Salmoneus, nu gekend in zijne waarde,</l>
+<l>En volle Majesteit door offerhande op aarde,</l>
+<l>Zoo past zijn Juno mede aan haar godinnendom</l>
+<l>De Heerschappyen van haar Koningrijken om</l>
+<l>Te deelen, naarden eisch.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l rend="; 1tab">Getrouwe feestgenooten,</l>
+<l>Die nu de rijkste kroon des hemels ziet geslooten,</l>
+<l>Om mijn alwaardig hoofd, hoe? zoude ik in dees schijn</l>
+<l>Van eere zonder gade, u niet gedachtig zijn!</l>
+<l>Den grootsten voegd het eerst, gedienstigheên te erkennen.</l>
+<l>Gy Venus zult den duif voor uwe waagen mennen</l>
+<l>In Cyprus, uw gebied, daar elk uw toortzen voelt.</l>
+<l>Idalie, Amathunte, en Pafos zal 't gestoelt</l>
+<l>Van uw vermoogen zijn. Het Priesterdom met huiven,</l>
+<l>En roozen om het hoofd, u musch, en zwaan, en duiven</l>
+<l>Toewijen op 't altaar, ook magt van wierookgeur.</l>
+<l>Uw godheid werde ontzien de gantsche waereld deur.</l>
+<pb n="75"/>
+<l>Gy zult geslachten door hunne afkomst onderstutten.</l>
+<l>Gy Pallas zult de steên met speer, en schild beschutten.</l>
+<l>Waar in Medusaas hoofd van zwarte slangen krielt.</l>
+<l>Athene door geweld noch vyandschap vernield,</l>
+<l>Zal u in kerk, en koor met blonde olyven eeren.</l>
+<l>En onder uw gezach veele eeuwen triumpheren.</l>
+<l>Diane, ontfang te leen bosschaadje, en wildernis,</l>
+<l>En berg, en dal, en 't wild, 't welk u geheiligd is.</l>
+<l>Men zal het wuft gedierte, in net of pijl gevangen,</l>
+<l>Of windhond in uw kerk aan 't hoog gewelfzel hangen.</l>
+<l>En wijden hert, en hinde, en zwijn uw grootheid toe.</l>
+<l>Maar wie komt ginder, uit zijn adem mat, en moê</l>
+<l>Geronnen, en verbaast het zegenfeest verstooren?</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde Tooneel.</head>
+<stage><hi rend="sc">Archytas, Zeno, Ephicharis, Filotimie, Orfiza</hi>, <hi rend="i">Hofjuffers.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Archytas</hi>.</speaker>
+<l>OCh! Elis, Elis och! nu is uw ramp gebooren!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Orfiza</hi>.</speaker>
+<l>Het zijn Pizaaners. hoort wat jaagd u herwaards aan?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Zeno</hi>.</speaker>
+<l>Och Elis, Elis och! hoe wil dit feest vergaan!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Epicharis</hi>.</speaker>
+<l>Jupijn behoê de stad, en 't rijk, en alle vroomen!</l>
+<l>De hemel hoede uw hof, of 't is hier omgekomen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Wie zijt gy, die de vreugd der groote goden steurt?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Archytas</hi>.</speaker>
+<l>Wy boodschappen het hof wat daatlijk is gebeurt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Hoe Vorst Salmoneus bralt op zijnen hemelwaagen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Archytas</hi>.</speaker>
+<l>O! neen, maar hoe hy is van Jupiter geslaagen.</l>
+<l>De Koning is een lijk, Salmoneus legt 'er al.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Wat strooit men niet al uit, de boosheid ten gevald</l>
+</sp>
+<pb n="76"/>
+<sp>
+<speaker><hi rend="sc">Archytas</hi>.</speaker>
+<l>Wy wachten by de sluis, of pronkbrug, met verlangen,</l>
+<l>Daar Elis burgery om hunnen heer te ontfangen</l>
+<l>Gereed stond, en het volk krioelde; en zaamendrong,</l>
+<l>De een ingetoogener, en de ander los van tong.</l>
+<l>Tot dat het starrenheir aan 't hoofdpunt stond gesteegen,</l>
+<l>Tot dat een straatgerucht luidkeels van allerwegen,</l>
+<l>En wijken opstak: wijkt, wijkt op: de Koning komt:</l>
+<l>Hy trekt de wolken door. de meesten staan verstomt,</l>
+<l>Van angst, en vreezen vast voor oproer onder 't hoopen.</l>
+<l>Verbaasde vrouwen voort aan 't schreeuwen, dringen, loopen.</l>
+<l>Ten lange leste komt de sleep, en staatsy voort.</l>
+<l>De hofbende is hier de eerste om door de wolkepoort.</l>
+<l>Te trekken, en zy bralt met haaren blixemstandert,</l>
+<l>Gevolgt van Hierofant; toen 't hooge hof, veranderd</l>
+<l>In Goden, ieder voert zijn teken, en zijn dragd.</l>
+<l>Salmoneus treed gelijk Jupijn, na deeze pracht,</l>
+<l>Verdooftze in Majesteit, en eere, en glans, en luister.</l>
+<l>De blixem was zijn staf die schoonder straalde in 't duister.</l>
+<l>En Bazilides volgde op 't koninglijke spoor.</l>
+<l>De Hoftrouwant bestuwtze, een ieder geeft gehoor,</l>
+<l>En luisterde met stilte, om op 't gevolg te letten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>En hoe ging 't verder toe?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Archytas</hi>.</speaker>
+<l rend="; 1tab">De zilvere trompetten</l>
+<l>Verhieven een geluid, dat aan den hemel klonk,</l>
+<l>Wanneer de Koning trots te waagen steeg, en blonk</l>
+<l>Gelijk Jupijn. het licht der faklen gaf geflonker</l>
+<l>In 't kostelijk gewaad, dat schooner scheen by donker.</l>
+<l>De dert'le paarden staan, en knabbelen het goud</l>
+<l>Van 't knarssende gebit, en brieschen als verstout,</l>
+<l>En moedig op dien trots, als die hun meester kennen.</l>
+<l>Zy trappen van verdriet om eenmaal voort te rennen.</l>
+<l>Men blies ten derde maal, en roept; aanbid Jupijn.</l>
+<l>Een ieder knielt, of wijkt, de huichlaar met een schijn</l>
+<l>Van rechte eerbiedigheid. Men hoord de goude raden,</l>
+<pb n="77"/>
+<l>Met dien verwaatene in zijn nachttriumph belaaden.</l>
+<l>Vermengende een gedreun in al dit ongeluid.</l>
+<l>De magt van Jupiter ziet hem ten oogen uit.</l>
+<l>Hy weet met zijne vuist, en gloeiendige ving'ren,</l>
+<l>Den blixem in den drang van 't vreezend volk te sling'ren,</l>
+<l>Dat al de stad verschrikt, en siddert om hem heên.</l>
+<l>Maar wat gebeurt 'er? flux kom Jupiter beneên,</l>
+<l>Gedonderd uit een wolk, recht aan op 's Konings waagen,</l>
+<l>Die schrikt in zijn triumph gedoodverst, en verslagen.</l>
+<l>Hy treft hem met zijn vuur, en werpt hem van den brug</l>
+<l>Gezwind ter waagen uit, de paarden van de brug</l>
+<l>Aan 't hollen, rukken voort; de waagen door dit rukken</l>
+<l>Dit schokken langs de straat, breek als de brug, in stukken</l>
+<l>Verplettert wat hy raakt, tot hy aan gruizels spat.</l>
+<l>De Koning geeft den geest, geplet van 't gloeiend rat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Is 't waar, Pizaaners, ach! waar bleef mijn uitverkooren?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Archytas</hi>.</speaker>
+<l>Het volk geraakte voort aan 't hollen, heet van tooren.</l>
+<l>Apollo, Mars, Mercuur het nieuwe Godendom,</l>
+<l>De Hofsleep, elk verbaast zach naar zijn hielen om,</l>
+<l>Geborgen in dien drang, of hallef dood gedrongen,</l>
+<l>Gelastert, en gevloekt, van overal besprongen.</l>
+<l>De wraak des oploops rande om strijd den dooden aan.</l>
+<l>Had Bazilides niet het lijk den Onderdaan</l>
+<l>Ontrukt, de Koning waar als Hierofant gereeten;</l>
+<l>Verscheurt van lid tot lid, en in den stroom gesmeeten.</l>
+<l>Hy stilde 't oproer met zijn benden, hier gereed,</l>
+<l>En wond het warme lijk in 't pluimaluine kleed,</l>
+<l>Dat Etnaas gloed verduurt, en liet het, onder 't krijten</l>
+<l>Der woelende gemeente, op de offerstaap'len smijten.</l>
+<l>Toen stak de lijktoorts voort den brand in 't hout, gewijd</l>
+<l>Voor de offerstieren: maar de hemel scheurt, en splijt,</l>
+<l>En schiet den blixem in de lijkvlamme uit den hoogen:</l>
+<l>Ja toonde een ongenade in zijn getergt vermoogen.</l>
+<l>Men zach dat van het lijk in 't kort niets overschoot,</l>
+<l>Dan de assche, die men toen in eene doodbus sloot.</l>
+<pb n="78"/>
+<l>Door zulk een offer raakte al de oploop aan 't bedaaren.</l>
+<l>Zoo liep dit treurspel af: Jupijn wil u bewaaren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Filotimie</hi>.</speaker>
+<l>Waar berg ik 't leeven nu? Salmoneus, ach! mijn heer!</l>
+<l>De hoop is uit met u, mijn kroon, mijn staat, mijn eer,</l>
+<l>Mijn troost is in dien storm al teffens nu verlooren.</l>
+<l>Och! was ik nooit tot staat, en majesteit gebooren!</l>
+<l>Salmoneus ach! ik heb u roekeloos verraân,</l>
+<l>Vervoert, om naar de kroon van Jupiter te staan.</l>
+<l>Men wijte my uw ramp, ik, ik heb u bedurven.</l>
+<l>Waar nu in ballingschap de waereld door gezwurven?</l>
+<l>Hier is geen vryburg, noch geen toevlugt in de nood.</l>
+<l>Helaas! waar berg ik my? waar vlugt ik voor de dood?</l>
+<l>Wat hoor ik voor gerucht? wie bragt mijn heer om 't leeven?</l>
+<l>Want Jupiter heeft hem dat vuur niet toegedreeven;</l>
+<l>Een koningsmoorder, schuim van 't helsch, en nijdig volk</l>
+<l>Heeft ergens, uit een hoek van een gemaalde wolk,</l>
+<l>Hem met een slingervuur op 't bekkeneel geklonken:</l>
+<l>Nu schuift men 't op Jupijn. waar vinden wy spelonken,</l>
+<l>Een kuil, een schuilhoek naar, en droef genoeg voor my?</l>
+<l>Maar neen, Salmoneus leeft in volle heerschappy.</l>
+<l>Hy roept ons, hoort gy niet? uit zijnen troon naar boven.</l>
+<l>Mijn lief, ik kom, ik kom geen waereldlijke hoven</l>
+<l>Vermaaken my om laag. mijn vorst, mijn heer, ik koom.</l>
+<l>Waar zijnwe? suffen wy? is 't waarheid? of een droom?</l>
+<l>Wat baat my, nu de pracht van star, en paauwepluimen?</l>
+<l>Nu ben ik Juno niet, en moet dees rijken ruimen.</l>
+<l>Wat baat my deeze kroon? daar legtze, ô! schande in't stof.</l>
+<l>Men traptze met de voet: ô! Juno zonder lof.</l>
+<l>Leg af dien mantel, die wil nu geen weduw passen.</l>
+<l>De majesteit heeft uit. zy zijn 't gezach ontwassen.</l>
+<l>Men dagvaard ons ter straf; ô! onderaardsche goôn,</l>
+<l>Waar dwaald mijn heer? mijn lief, waar heene nu gevloôn?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Archytas</hi>.</speaker>
+<l>Staatjuffers, volgtze alom, het gaat haar aan de zinnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Orfiza</hi>.</speaker>
+<l>Laat ons betoonen dat wy haar in druk ook minnen.</l>
+</sp>
+<stage><hi rend="i">Alle binnen.</hi></stage>
+</div>
+<div type="scene">
+<pb n="79"/>
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Bazilides</hi> <hi rend="i">aan de eene</hi>, <hi rend="sc">Theofrastus</hi>, <hi rend="i">met</hi>
+<hi rend="sc">Diodoor</hi> <hi rend="i">aan de andere zijde uitkomende, zegt</hi></stage>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l>WAar vinde ik Theofrast? waar schuild de Priester nu?</l>
+<l>Daar komt hy aan. Jupijn de vader handhaaft u:</l>
+<l>Hy heeft ter goeder uure uw ongelijk gewrooken,</l>
+<l>Zijn oud altaar beschut. geen magt heeft hem ontbrooken.</l>
+<l>Een felle kerkstorm is u over 't hoofd gewaaid,</l>
+<l>Eer waardste Vader, hoe is dit tooneel gedraaid?</l>
+<l>Dat leert den hemel naar zijn altaarkroonen steeken,</l>
+<l>Wiens sterke handen kracht noch mogentheid ontbreeken.</l>
+<l>Ik breng de heilooze asch beslooten in dees bus.</l>
+<l>Salmoneus overschot, Salmoneus die noch flus</l>
+<l>Verwaaten heene trok om Jupiter te speelen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Diodoor</hi>.</speaker>
+<l>Groot! groot is Jupiter!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l rend="; 1tab">Hy handhaaft zijn beveelen.</l>
+<l>Orakels, offereer, en tempels hoog gebouwt.</l>
+<l>Hy eert het priesterdom 't welk hem in waarden houd.</l>
+<l>Hy eert zijn priesterdom, en kerken, en altaaren.</l>
+<l>Laat ons de burgery, en Elis nu bewaaren.</l>
+<l>Een Koning maaken in dit magtige gebied;</l>
+<l>Men dagvaarde ook 't gemeen, waar op dit 't meeste ziet.</l>
+</sp>
+<stage><hi rend="i">Een der Priesters binnen.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l>Waar nu met deeze bus, dit doodvat, best gebleeven?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Wie 't altaar schent, verdient geen eere na zijn leeven.</l>
+<l>Kom herwaards, Diodoor, aanvaard dien offervloek,</l>
+<l>Die heillooze asch, en stopze in een vergeeten hoek</l>
+<l>By 't noorder kerkportaal, en aan de flinker zijde</l>
+<l>Van 't kerkhof. dat dees bus den tempel niet ontwijde;</l>
+<l>Bestulpze met een zerk; wie Jupiter veracht,</l>
+<l>Verdient geen eer van 't volk, noch 't priesterlijk geslacht.</l>
+<pb n="80"/>
+<l>Zijne eerelooze ziel ten lichaame uitgedrongen,</l>
+<l>Met eenen sprong zoo diep in 's afgronds poel gesprongen,</l>
+<l>En voor den rechterstoel van Radamanth gedaagd,</l>
+<l>Deist t' elkens achterwaard, terwijl Megeer haar jaagd</l>
+<l>Ter vierschaar met de zweep, om haastig te verschijnen,</l>
+<l>Op 't jammerlijk gesteen van honderd duizend pijnen,</l>
+<l>Geknars, en ketenklank. het dolle reuzenrot</l>
+<l>Verwacht met smert een gaade in haar rampzaalig lot.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l>Wat wil dat hofgeschrey, dat bonzen, en dat kraaken?</l>
+<l>Hoe spreid die naare galm zich over zaal, en daaken.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Archytas, Zeno, Epicharis, Bazilides, Theofrastus, Hierofant, Diodoor</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Archytas</hi>.</speaker>
+<l>ACh! Theofrastus, ach! om Jupiter, om 't lot,</l>
+<l>Ach! berg dit rijksçieraad, het voorhof, en dit slot</l>
+<l>Word zelf van 't hofgezin van zijnen schat geplonderd.</l>
+<l>'t Gezach heeft uit: en wijl de Vorst is dood gedonderd,</l>
+<l>Verhing de Koningin zich aan een gouden strik.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Hoe lang Jupijn vertoeft, een eenig oogenblik,</l>
+<l>Betaald de schennissen, en tempelschenderijen.</l>
+<l>Dat leert de kerkwet, en haar heiligdom ontwijen.</l>
+<l>Hoe quam Filotimie aan dit rampzaalig end?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Archytas</hi>.</speaker>
+<l>Zy had den rouw beklaagd, en haare schuld bekend</l>
+<l>Voor Jupiter, en sloeg van druk, en schrik aan 't raazen.</l>
+<l>Men leidze in 't hof, of rust, en stilte haar genaazen,</l>
+<l>In 't eenzaam kabinet, op eene ledekant,</l>
+<l>En vindze flux verworgt, gestikt in deezen band.</l>
+<l>Geen geur, noch artzeny, noch kruid herbaarden 't leeven.</l>
+<l>Op deeze maare schijnt het gantsche hof te beeven.</l>
+<l>Te dreunen van 't gekerm. het troost'loos hofgezin</l>
+<l>Vliegd razende, en verbaast de zaalen uit en in,</l>
+<l>Niet anders of de stad, en 't hof in rouw gedompeld,</l>
+<pb n="81"/>
+<l>En van erfvyanden verweldigd, overrompeld,</l>
+<l>In brand stond, en de vlam door alle straaten ras</l>
+<l>Geslaagen, noch van goôn, noch mensch te blusschen was.</l>
+<l>Wat kon'er tegenstaan? daar was gezach, noch orden;</l>
+<l>Elk volgde zijnen lust, en moed wil, die hen porden.</l>
+<l>Een ieder vlamt op roof, en rooft, en grijpt, en vat.</l>
+<l>Kleenoodje, kostlijkheid, juweel, gesteente, en schat</l>
+<l>Word buit verklaard. men valt aan 't plonderen, aan 't stroopen,</l>
+<l>Men ramt de kamers op, de slooten springen open.</l>
+<l>Wy bergen naauwlijks noch den scepter, en de kroon,</l>
+<l>En 't koninglijk gewaad.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l rend="; 1tab">Dat u Jupijn beloon</l>
+<l>Voor dien getrouwen dienst; men moet hier order stellen,</l>
+<l>Of stad, en hof vervalt ten roof voor 's rijks rebellen.</l>
+<l>Heer Bazilides past den scepter van dit rijk.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l>Genaade, Aardspriester, och! verschoonme: met wat blijk</l>
+<l>Of glimp van wettigheid kan ik de kroon aanvaarden?</l>
+<l>Hoewel de Koningen van hunne stam veraarden,</l>
+<l>Noch mag geen onderdaan zich zetten in dien staat;</l>
+<l>Door onderkruipingen of roekeloozen raad:</l>
+<l>Men dient den breeden raad, en 't volk hier op te hooren.</l>
+<l>Ik heb den Koning, en het Rijk mijn trouw gezwooren,</l>
+<l>My met gestaafden eed verbonden aan den staf</l>
+<l>Van Elis, die dit volk veele eeuwen wetten gaf.</l>
+<l>Ik vlam op kroon, noch troon, maar wensche met mijne armen,</l>
+<l>Gelijk een vrijen staat de Eliders te beschermen.</l>
+<l>Dat voegd een oppervoogd des volks, en op dien voet</l>
+<l>Vernoeg ik alderbest de drift van mijn gemoed.</l>
+<l>Men stel den staat voortaan aan 't keurrecht, niet aan erven:</l>
+<l>Dewijl de deugd verhuist, en dikmaals by 't versterven,</l>
+<l>Tot onheil van 't gemeen, veranderingen baard.</l>
+<l>Zoo word het weesdom van dees heerschappy bewaard.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Gy spreekt verstandig; maar wat vorderd uw verschooning?</l>
+<l>Dees landaard eischt een hoofd, een opperhoofd, een koffing</l>
+</sp>
+<pb n="82"/>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l>Een eenig hoofd vervalt te licht tot dwinglandy.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>By 't koningsdom geld eer.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l rend="; 2tab">Een rechte slaverny.</l>
+<l>Het recht des volks werd best bewaard by veele mannen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Als die veraarden, dan gebieden veel tirannen,</l>
+<l>In plaats van een.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l rend="; 1tab">Is de een of de ander luttel vroom,</l>
+<l>Zoo houd de menigten den boosten in den toom.</l>
+<l>Want dwaald een enkel hoofd, zoo dwaalen al de leden.</l>
+<l>Een eenig voorbeeld is 't bederf van tucht, en zeden,</l>
+<l>Of de opgang van de deugd. men vraage ervaarentheid:</l>
+<l>Zy geeft van hand tot hand het zekerste bescheid:</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Dat Monarchijen ver den vryen staat verduuren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l>Men gunne my wat tijds, ten minsten weinige uuren.</l>
+<l>Eerwaardste Vader, kan uw heuscheid dit verstaan;</l>
+<l>Ik zal eens met my zelf hier op te raade gaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>De hooge nood eischt spoed, verbied dit uit te zetten.</l>
+<l>Wanneer 't de nood vereischt, dan zwijgen stijl, en wetten,</l>
+<l>Zoo gy dit weigerd nu dees storm van oproer bruld,</l>
+<l>En 't rijk verslinden wil, word u alleen de schuld</l>
+<l>Van 't algemeen bederf met reden toegeschreeven.</l>
+<l>Daar komt het volk, gewis om u den Staf te geeven.</l>
+<l>Daar volgt de priesterschap met stemmig bly gebaar.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zeste tooneel.</head>
+<stage><hi rend="i">Reijen van Priesters van Jupijn, Hofpriesters</hi>, <hi rend="sc">Eutimus, Eurialus</hi>, <hi rend="i">Reijen van Burgers van Elis</hi>, <hi rend="sc">Bazilides, Theofrastus, Diodoor, Archytas, Zeno, Epicharis</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l>EErwaardste Vader, ach! ik vrees voor veel gevaar!</l>
+<pb n="83"/>
+<l>Dien last is my te zwaar: nochtans op uw behaagen</l>
+<l>Ontzeg ik niet dit pak, tot heil des volks te draagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Zoo zweer dan heiliglijk den altaar, en Jupijn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Bazilides</hi>.</speaker>
+<l>Wy zweeren u, en 't volk, en 't rijk getrouw te zijn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Manhafte held, eer hoofd der hoffelijke benden.</l>
+<l>Hang om dit rijks gewaad, het past om uwe lenden;</l>
+<l>Het rijk is zonder oit: het kend geen trouwer vriend,</l>
+<l>Gy hebt Jupijn oprecht, dit volk getrouw gediend.</l>
+<l>Nu kniel: aanvaard dien staf, en handhaaf Elis wetten.</l>
+<l>Ontfang dees kroon op 't hoofd, en wacht u haar te smetten,</l>
+<l>Door onstandvastigheid, of wreede dwinglandy.</l>
+<stage><hi rend="i">Al het Volk te zamen zegt</hi></stage>
+<l>Leef lang, Heer Koning! heil in uwe heerschappy!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Theofrastus</hi>.</speaker>
+<l>Hoe kan Jupijn den staat der trotzen ommekeeren!</l>
+<l>Hy eerd ootmoedigen die zijne wetten eeren.</l>
+<l>Wat is Salmoneus nu? een bus, een hand vol stof,</l>
+<l>Filotimie een lijk, een stank van stad, en hof.</l>
+<l>Heer, Bazilides, werde op 's Konings troon geheven,</l>
+<l>Het kerkrecht triumpheert, wanneer de boozen sneeven.</l>
+</sp>
+<stage><hi rend="i">Einde van het Treurspel.</hi></stage>
+</div>
+</div>
+<div type="act">
+<head rend="h3">Na het Spel.</head>
+<sp>
+<speaker><hi rend="i">Zang van een Vrouw alleen, verbeeldende de Kerkmaagd van Elis.</hi></speaker>
+<lg type="poem">
+<l>‘DE morgenzon vol vreugde aan 't klimmen,</l>
+<l rend="; 1tab">‘Uit eene nacht vol razerny,</l>
+<l rend="; 1tab">‘Begroet dees nieuwe heerschappy;</l>
+<l>‘En heft mijn glans weêr uit de kimmen.</l>
+<l rend="; 1tab">‘Des hemels gramschap is gestilt.</l>
+<l rend="; 1tab">‘Een dapper man ten troon getilt,</l>
+<l>‘Zingt dan burgers op zijn krooning,</l>
+<l>‘Zege zy den nieuwen Koning!</l>
+</lg>
+</sp>
+<pb n="84"/>
+<sp>
+<speaker><hi rend="i">Zang van Eliders, en Koraalen.</hi></speaker>
+<lg>
+<l>‘Zege zy den nieuwen Koning!</l>
+<l rend="; 2tab">‘Al onze goed,</l>
+<l rend="; 2tab">‘Al ons bloed</l>
+<l rend="; 1tab">‘Zijne weldaad niet vergoed;</l>
+<l>‘Zoo men 't schatte als een belooning.</l>
+<l>&#160;</l>
+<l rend="; 1tab">‘Dat Vorst Bazilides leef,</l>
+<l rend="; 1tab">‘En aan Elis wetten geef,</l>
+<l rend="; 1tab">‘Tot zijn glorie tot zijn eer;</l>
+<l rend="; 1tab">‘En alle aardsche magt braveer.</l>
+</lg>
+</sp>
+<sp>
+<speaker><hi rend="sc">Rey</hi>.</speaker>
+<lg>
+<l>‘Laat ons dans, en zangen paaren,</l>
+<l>‘Op 't geluid van blye snaaren,</l>
+<l>‘Op de klank van fluit, en bom,</l>
+<l>‘Of maakt u de blijdschap stom?</l>
+</lg>
+</sp>
+<sp>
+<speaker><hi rend="i">ZANG, van alle.</hi></speaker>
+<lg>
+<l>‘Neen, al had men duizend monden,</l>
+<l rend="; 1tab">‘'T was onmoogelijk den lof</l>
+<l>‘Van den Koning te verkonden,</l>
+<l rend="; 1tab">‘Tempel, stad, en rijk, en hof</l>
+<l>‘Dreunt van blijdschap nu zy hooren,</l>
+<l>‘Dat hy is tot Vorst verkooren.</l>
+</lg>
+</sp>
+<stage><hi rend="i">Dans van voorstelende Slaaven.</hi>
+<lb/>
+Einde van 't geheele Spel.</stage>
+    <cf>
+<p><hi rend="i">Tot onderrichting voor den Leezer dient. Dat de veranderingen, by, en afdoeningen, welke my om de veelvuldige plaatzen met geen byzondere werktekenen hebben aangeweezen, tegen den bekenden druk van Salmoneus kunnen nagezien werden.</hi></p>
+<p><hi rend="i">Ten tweeden, dat de Zangmaaten geschikt op de woorden met deeze ‘tekenen aangeweezen, als mede de Speelstukken, welke voor, in, en na het Spel gespeelt werden gemaakt, en eerlang te bekomen zullen zijn by</hi> Fr. Fer. Prendcourt.</p></cf>
+</div>
+</body>
+</text>
+
+</TEI.2>

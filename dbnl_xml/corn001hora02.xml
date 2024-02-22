@@ -1,0 +1,3350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Horace en Curace</title>
+               <author>P. Corneille</author>
+               <editor role="translator">Johan de Witt</editor>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van de herdruk van <hi rend="i">Horace en Curace</hi> van P. Corneille, in een vertaling van Johan de Witt uit 1699. De eerste druk dateert van voor 1680.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr></corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan type="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>2</empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">corn001hora02_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note></note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Theater Instituut Nederland, signatuur: 1 B 8</idno>
+               </bibl>
+               <p>P. Corneille, <hi rend="i">Horace en Curace</hi> (vert. Johan de Witt). J. Lescailje (erven), Amsterdam 1699 (herdruk)</p>
+               <p>&#160;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Horace en Curace</title>
+               <author>P. Corneille</author>
+               <editor role="translator">Johan de Witt</editor>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Horace en Curace</title>
+               <author>P. Corneille</author>
+               <editor role="translator">Johan de Witt</editor>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-09-29</date>
+               <respStmt>
+                   <name type="person">SG</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+      <text>
+<body><cf>
+<div type="chapter">
+
+<pb n="1"/>
+<p>I.D.W.</p>
+<p>HORACE EN CURACE,</p>
+<p>TREURSPEL.</p>
+<p><hi rend="i">Tantae molis erat Romanam condere gentem.</hi></p>
+<p>Vertoond op de Amsterdamse Schouwburg.</p>
+<p>Den laatsten Druk, op nieuw overzien.</p>
+<p><figure>
+<p><xptr to="corn001hora02ill0001.gif"/></p>
+</figure></p>
+<p>Te AMSTELDAM,</p>
+<p>By de Erfg: van J: Lescailje, op de Middeldam, op de hoek van de Vischmarkt, 1699.</p>
+<p>Met Privilegie.</p>
+
+</div></cf>
+<div type="chapter">
+<pb n="3"/>
+<head rend="h3">Copije van de Privilegie.</head>
+<p>DE Staten van Holland ende Westvriesland doen te weten Alzo Ons vertoond is by de tegenwoordige Regenten van de Schouwburg, tot Amsterdam, Dat zy Supplianten zedert eenige Jaaren herwaarts met hunne goede vrienden hadden gemaakt en ten Tooneele gevoert verscheiden Werken, zo van Treurspeelen, Blyspeelen als Klugten, welke zy lieden nu geerne met den Druk gemeen wilde maken: doch gemerkt dat deze Werken door het nadrukken van andere, veel van hun luister, zo in Taal als Spelkonst zouden komen te verliezen, en alzo zy Supplianten hen berooft zouden zien van hun byzondere oogwit om de Nederduitschen Taal en de Digtkonst voort te zetten, zo vonden zy hen genootzaakt, om daar inne te voorzien, ende hen te keeren tot Ons, onderdanig verzoekende, dat Wy omme redenen voorsz. de Supplianten geliefden te verleenen Oktroy ofte Privilegie, omme alle hunne Werken reeds gemaakt, ende noch in 't ligt te brengen, den tyd van vyftien Jaaren alleen te mogen drukken en verkoopen of doen drukken en verkoopen, met verbod van alle anderen op zeekeren hooge peene daar toe by Ons te stellen, ende voorts Communi forma. Zo is 't dat Wy de Zaken en 't Verzoek voorsz. overgemerkt hebbende, ende genegen wezende ter bede van de Supplianten, uit Onze regte wetenschap, Souveraine magt in authoriteit dezelve Suppliant gekonzenteert, geaccordeert ende geoctroijeen hebben, conzenteeeren, accordeeten ende Octroijeren mitsdezen, dat zy geduurende den tyd van vyftien eerst achtereenvolgende Jaaren de voorsz. Werken die reeds gedrukt zyn, ende die van tyd tot tyd door haar gemaakt ende in 't ligt gebiagt zullen werden, binnen den voorsz. Onze Land alleen zullen mogen drukken, doen drukken, uitgeven en verkoopen. Verbiedende daarom allen ende eenen yegelyken dezelve Werken naar te drukken, ofte elders naargedrukt binnen den zelve Onzen Lande te brengen, uit te geven ofte te verkoopen, op de verbeurte van alle de naargedrukte, ingebragte ofte verkogte Exemplaaren, ende een boete van driehondert guldens
+daar en boven te verbeuren, te appliceren een darde part voor de Offecier die de calange doen zal, een darde part voor den Armen ter Plaatze daar het cazus voorvallen zal, ende het resterende darde part voor den Supplianten. Alles in dien verstande, dat wy de Supplianten met dezen Onzen Octroije alleen willende gratifieeren, tot verhoedinge van hare schaade door het nadrukken van de voorsz. Werken, daar door in geenige deelen verstaan, den inhoude van dien te authorizeeren ofte te avoneeren, ende veel min de zelve onder Onzeprotektie ende bescherminge eenig meerder kredit, aanzien ofte reputatie te geven, nemaar de Supplianten in kas daar in yets onbehoorlyk zoude mogen infiueeren, alle het zelve tot haren laste zullen gehouden wezen te verantwoorden; tot dien einde wel expresselyk begeerende, dat by aldien zy dezen Onzen Oktroije voor dezelve Werken zullen willen stellen daar van geene geabbrevieerde ofte gecontraheerde mentie zullen mogen maaken, nemaar gehouden zullen weezen het zelve Octroy in 't geheel ende zonder eenige Omissie daar voor te drukken
+<pb n="4"/>ofte te doen drukken. ende dat zy gehouden rullen zyn een exemplaar van alle de voorsa. Werken, gebonden ende wel geconditioneert te bregen in de Bibeliotheecq van Onze Univerziteit tot Deiden, ende daar van behootlyk te doen blyken. Alles op poene van het effekt van dien te verliezen. Ende ten einde de Supplianten dezen Onzen Conzent en Octroije mogen genieten als naar behooren: Lasten wy allen ende eenen ygelyken die 't aangaan mag, dat zy de Supplianten van den inhouden van dezen doen, laaten en gedogen rustelyk en volkomentlyk genieten, en cesserende alle beletten ter contrarie. Gedaan in den Haage onder Onzen grooten Zegele hier aan doen hangen den <hi rend="sc">xix</hi> September in 't Jaar onzes Heeren en Zaligmakers duizent zes honderd vier en tachtig.</p>
+<p>&#160;</p>
+<p>G. <hi rend="spat">FAGEL</hi>.</p>
+<p>&#160;</p>
+<p>Ter Ordonantie van de Staten</p>
+<p><hi rend="spat">SIMON</hi> van <hi rend="spat">BEAUMONT</hi>.</p>
+<p>&#160;</p>
+<p>De Regenten van de Schouwburg hebben het recht van de bovenstaande Privilegie, voor <hi rend="spat">HORACE</hi> <hi rend="sc">en</hi> <hi rend="spat">CURACE, TREURSPEL</hi>, vergund aan de Erfgenaamen van Jacob Lescailje,</p>
+<p>&#160;</p>
+<p><hi rend="i">den 3. Maart.</hi> 1699.</p>
+</div>
+<div type="chapter">
+<head rend="h3">Vertooners.</head>
+<list>
+<item><hi rend="sc">Tullis Hostilius</hi>, Koning in Romen.</item>
+<item><hi rend="sc">Horace</hi>, den ouden, Roomsch Edelman.</item>
+<item><hi rend="sc">Horace</hi>, zyn zoon, Roomsch Ridder.</item>
+<item><hi rend="sc">Curace</hi>, Albaansch Ridder, Bruigom van Camilla.</item>
+<item><hi rend="sc">Valerius</hi>, Roomsch Ridder, minnaar van Camilla.</item>
+<item><hi rend="sc">Sabina</hi>, vrouw van den jongen Horace, en zuster van Curace.</item>
+<item><hi rend="sc">Camilla</hi>, bruid van Curace, en zuster van Horace.</item>
+<item><hi rend="sc">Julia</hi>, Roomsche Juffer, vriendin van Sabina, en Camilla.</item>
+<item><hi rend="sc">Flaviaan</hi>, hopman in 't Albaansch leger.</item>
+<item><hi rend="sc">Proculus</hi>, een Ridder uit het leger der Romeinen.</item>
+</list>
+<p>&#160;</p>
+<p>Het Tooneel is binnen Romen, in een kamer van het huis van Horace.</p>
+<p>Het begind voor de middag, en eindig voor den avond.</p>
+</div>
+<div type="act">
+<pb n="5"/>
+<head rend="h2">Horace en Curace.</head>
+<head rend="h3">Eerste bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Sadina, Julia</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Sabina</hi>.</speaker>
+<l><hi rend="b">E</hi>i, vin myn droef heid goed, weêrspreek myn klagten niet,</l>
+<l>Zy zyn noch veel te klein in zulk een groot verdriet,</l>
+<l>Zou 't kunnen zyn, dat ik niet sidd'ren zou, noch schroomen,</l>
+<l>Daar ik van zulk een bui gedreigt werd, en zie komen</l>
+<l>Op my den grootsten slag die ooit op iemand viel?</l>
+<l>Door zulk een ongeval zou de allerk lock ste ziel</l>
+<l>Bewogen werden, en haar deugd nauw konnen toonen:</l>
+<l>Men zou in grooter hart die lafheid wel verschoonen.</l>
+<l>Doch of myn geest al is verbaast en 't hart onsteld,</l>
+<l>Myn traanen evenwel hou ik in myn geweld;</l>
+<l>Hoe klein my 't hart ook werd, en hoe 't ook is bewogen</l>
+<l>Myn kloekheid niettemin regeerd noch in myn oogen:</l>
+<l>Als ik tot daar toe, laas! myn zielsverdriet in houw;</l>
+<l>Doe 'k minder al een man, 'k doe meerder als een vrouw;</l>
+<l>Genoeg voor't vrouwvolk, ja genoeg is't voor ons lieden,</l>
+<l>Als wy in zulk een nood ons traanen noch gebieden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Julia</hi>.</speaker>
+<l>Genoeg is 't, en teveel voor een gemeen gemoed,</l>
+<l>Het welk een klein gevaar straks raakt, en schudden doed.</l>
+<l>Daar een uitsteekend hart zich wel weet voor te wachten;</l>
+<l>Al waar 't schoon tienmaal meêr, het zal 't gevaar verachten,</l>
+<l>Hoe groot 't ook weezen mag. De heiren beide staan</l>
+<l>Geen boogschoot van elkaâr, gereed den slag te slaan:</l>
+<l>En Romen heeft noch nooit haar benden zien verjaagen,</l>
+<l>Noch weet niet dat men ooit haar leger heeft verslagen,</l>
+<pb n="6"/>
+<l>In plaatze dat gy zoud om Romen zyn bedroefd,</l>
+<l>Most gy nu vrolyk zyn: door dien gy niet behoefd</l>
+<l>Voor haaren Staat te zyn bekommerd: neen, weest blyde,</l>
+<l>Want haare heerschappy is steeds vergroot door 't stryde:</l>
+<l>Verwerp deze yd'le vrees, en steld haar winning vast,</l>
+<l>Ei! spreek en hoop gelyk 't een Roomsche Juffer past.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Sabina</hi>.</speaker>
+<l>Ik ben, helaas! ik ben een van de Roomsche vroowen;</l>
+<l>Terwyl 't myn Ega is: toen ik myn man ging trouwen</l>
+<l>Toen troude ik Romen meê; 't is de echt wel die my doet</l>
+<l>Voor Romen zyn, en dat ik voor haar hoopen moet:</l>
+<l>Die wet is 't die my bind: maar 't zyn wel wreede wetten.</l>
+<l>Dien band ook slaafs zou zyn, die my nu zou beletten,</l>
+<l>Dat ik niet denken mogt op myn geboortestad.</l>
+<l>O Alba! waar ik heb het eerste licht gehad!</l>
+<l>O Alba! dat my heeft den eersten tocht gegeeven!</l>
+<l>O Alba! waar ik eerst begonnen heb te leeven!</l>
+<l>O Alba! dat ik eer dan Romen heb bemind!</l>
+<l>Myn lieve vaderland, zo dra als gy verblind</l>
+<l>Met ons in 't open veld in wap'nen zyt gekoomen,</l>
+<l>Begost ik onze winst als ons verlies te schroomen.</l>
+<l>O Romen! zo gy klaagd dat dit verraaden is,</l>
+<l>Zo maak uw vyanden, die 'k zonder ergernis</l>
+<l>Kan haaten: als ik zie van boven onze wallen</l>
+<l>De legers allebei, en zie daar, onder allen,</l>
+<l>In 't een myn driegebroêrs, in 't andere myn man,</l>
+<l>Wat zal ik bidden? zeg, zeg Romen, of ik kan</l>
+<l>Wel zonder zond en schand daar myn gebeden spreeken,</l>
+<l>En om verwinning voor uw heir den hemel smeeken?</l>
+<l>Ik weet wel dat uw staat, die jong is, allerbest</l>
+<l>Door de oorelog moet zyn en wapenen gevest;</l>
+<l>Dat die noch groeijen moet; dat zy haar moet vergrooten:</l>
+<l>En dat 'er eeuwig is van 't noodgeheim beslooten,</l>
+<l>Dat uw gezag en magt niet zou beslooten zyn</l>
+<l>Met de Italiaansche kust; en dat den god Jupyn</l>
+<l>U toezeid het gebied der waereld: 'k weet wel, Romen,</l>
+<l>Dat gy daar toe niet kund dan door den oorlog komen;</l>
+<pb n="7"/>
+<l>Neen! ik misprys noch straf zulk een begeerte niet,</l>
+<l>Die op de voorspraak gods, en op uw grootheid ziet;</l>
+<l>Ik wensch al, dat ik zag uw teikens en banieren,</l>
+<l>Op spaansch en fransch gebergt, op zegebogen zwieren;</l>
+<l>Als overwinnaars; ja, ga voer uw heir en zend</l>
+<l>Uw krygsvolk in het West; ga spand en Vecht uw tent</l>
+<l>Op de oevers van den Rhyn dat 't alles voor uw voeten</l>
+<l>Neêrval en kom u als haar overwinnaar groeten:</l>
+<l>Eer maar de stadt alleen die Romulus u geeft,</l>
+<l>Aan wien gy schuldig zyt die ugetimmerd heeft.</l>
+<l>Ondankb're, denk, dat van het bloed van haare Koningen,</l>
+<l>Gy hebt uw naam, uw wal, uw wetten en uw wooningen;</l>
+<l>Gy sproot uit Alben eerst, denk dat, ô groote schand!</l>
+<l>Gy uwe hande Haat in 's moeders ingewand;</l>
+<l>Keer elders uw geweld, uw spiets wil elders vellen,</l>
+<l>Op dat uw moeder mag met vreugd uw winst vertellen;</l>
+<l>Zo is zy steets met u, dies zy niet tegens haar;</l>
+<l>Zy bid voor u, waarom vervolgd ge 'er dan zo zwaar?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Julia</hi>.</speaker>
+<l>Voorvaar, 'k verwachte nooit van u deez' nieuwe reden,</l>
+<l>Om dat, zo lang ons volk heeft tegens hen gestreeden,</l>
+<l>Van dat den kryg begon, gy hen geen acht en sloegt;</l>
+<l>Noch dat gy, zo het scheen, tot haar geen zucht meêr</l>
+<l>Als of gy uit ons stad van stam waart en geboren: (droegr,</l>
+<l>Ik was verwondert van uw groote deugd te vooren,</l>
+<l>Als of gy uw vermaak, uw lust, uw vreugd, uw min.</l>
+<l>Had, daar uw man die had, en voegde u naar zyn zin.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Sabina</hi>.</speaker>
+<l>Zo lang men niet en vocht dan met kleine oorlogsbende,</l>
+<l>Te zwak om een van bei de Staaten heel te schenden,</l>
+<l>Zo lang men niet en deê dan op malkand'ren gaan</l>
+<l>Met dringen zonder dat het kwam op treffen aan;</l>
+<l>Zo lang een weinig hoop my open stond tot Vrede,</l>
+<l>Was ik ook voor deez' stad, en hiel 't met Romen mede,</l>
+<l>En zo ik Romens winst zag heim'lyk met verdriet,</l>
+<l>Verdoemdealk dien tocht die straks verdween tot niet.</l>
+<l>En als ik blyde was als Romen wierd geslagen,</l>
+<pb n="8"/>
+<l>En dat ik heb wat gunst myn broeders heit gedraagen,</l>
+<l>Riep ik myn reden t'huis, straks, om dien kwaden tocht</l>
+<l>Te dempen, was 't of ik niet meêr om broeders docht;</l>
+<l>Maar weenden als de winst en eer myn bloed vereerden,</l>
+<l>En als myn vaders huis op ons in glans vermeerden:</l>
+<l>Maar nu 't moet zyn dat de een of de ander valt van daag</l>
+<l>En dat 'er een van tweên gewis de nederlaag</l>
+<l>Verkrygen moet, en dat naar dezen slag zal komen,</l>
+<l>Dat 't een of 't ander heir van Alba of van Romen</l>
+<l>Verstrooit zal zyn uit 't veld, en dat men niet verwacht</l>
+<l>Of een van tweên zy straks ten ondergang gebragt,</l>
+<l>En dat 'er anders niet zal komen naar dit vechten,</l>
+<l>Dan dat men daatelyk de wallen zal gaan slechten</l>
+<l>Van een van bey de steên, en dat den Roomschen slaat,</l>
+<l>Of dat 't Albaansch gebied zo daat'lyk ondergaat.</l>
+<l>Ik had myn bloed, myn huis, myn stam dan wel verlaaten:</l>
+<l>Ik zou myn vaderland, wel gruuwelyk dan haaten</l>
+<l>Zo ik voor Romen nu kon t'eenemaal noch zyn,</l>
+<l>Zo ik voor zo veel bloeds, een bloedt het welke myn</l>
+<l>Zo waardig is, uw winst, ô Romen! zoude koopen;</l>
+<l>Hoe is 't my mogelyk dat ik voor u kan hoopen?</l>
+<l>Ik hou my nu verknocht wat minder aan een man,</l>
+<l>Ik ben voor Alba niet, en ik niet meêrder kan</l>
+<l>Voor Romen zyn, ik vrees en hoop nu voor hen beijen,</l>
+<l>Ik ben voor die 't verliest, en zal die 't meest besthreijen;</l>
+<l>Ik help hen alle beide en zal 't ook doen, tot dat</l>
+<l>Ons de uitkomst van deez' slag het wyst; en met die stad</l>
+<l>Ik 't houden zal, die in het ongeval zal komen;</l>
+<l>Totdat den tyd my toond voor wie dat ik moet schroomen:</l>
+<l>Zo lang ik niet verlies, hou ik terwyl voor de een</l>
+<l>Myn onverzoenb're haat, voor de ander myn geween.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Julia</hi>.</speaker>
+<l>De zelfde tegenspoed en zaak die 'k hier kanmerken,</l>
+<l>Kan in een ander hert heel and're tochten werken;</l>
+<l>Camille hier anders gaat, haar broeder is uw man,</l>
+<l>Haar bruigom is uw broêr, 't gevaar gaat haar ook an:</l>
+<l>Nochtans zy blyder ziet, wat scheelt gy van malk and'ren,</l>
+<pb n="9"/>
+<l>Haar lief in 't eene heir, en haar drie broêrs in 't and're:</l>
+<l>Als gy voor Romen streed weleer met uw gemoed,</l>
+<l>Was 't haar noch wankelbaar, onzeker, als de vloed</l>
+<l>En baaren van de zee; en op het minste stryden;</l>
+<l>Vervloekte zy de winst van een van bei de zyden;</l>
+<l>Bezuchtende terstont 's verliezers ongeluk,</l>
+<l>En voeden dus in 't hert gestaâg een zwaarder druk;</l>
+<l>Maar naar zy gisteren in 't leger had vernomen,</l>
+<l>Als dat het huiden op een hoofdslag aan zou komen,</l>
+<l>En dat het gantsch geschil van daag zou zyn geslicht,</l>
+<l>Zo las men schielyk weêr de vreugd uit haar gezicht.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Sabina</hi>.</speaker>
+<l>Ach! Julie, ach! ik vrees dit schielyke verand'ren.</l>
+<l>Valere en zy, dat uur, die praaten met malkand'ren:</l>
+<l>Zy had een vrolyk uur, ik hou het voor gewis</l>
+<l>Dat deze vrijer in myn broeders plaats nu is:</l>
+<l>Voorzeker is 't, haar ziel en zinnen zyn bewogen</l>
+<l>Door 't tegenwoordig lief, gy weet wel ver uit de oogen</l>
+<l>Is verre ook uit het hart, 't gaat nu in 't derde jaar,</l>
+<l>Dat zy myn broeder zag, of dat hy sprak met haar.</l>
+<l>Verschoont de liefde dien ik draage tot myn broeder</l>
+<l>De zorg die 'k voor hem heb, een zorg gelyk een moeder</l>
+<l>Draagt voor haar eigen kind, doet dat ik alles vrees,</l>
+<l>Ik weet myn achterdocht geen grond heeft. Dan op deez',</l>
+<l>Onthaaling, en 't gevlei van deze nieuwen vrijer,</l>
+<l>En dat zy gisteren haar toonden vry wat blijer:</l>
+<l>'t Is op een zwakke grond daar myn vermoên op bouwd;</l>
+<l>'t Is waar dat ons dien tyd, als yder even stout</l>
+<l>Staat met het zwaard in d' hand, om 't uitterste te waagen,</l>
+<l>Om 's vyands heir te slaan, of zelfs te zyn verslagen,</l>
+<l>Wat anders denken doet, dan om een nieuwe min,</l>
+<l>Dien onrust stierd ons wel wat anders in de zin,</l>
+<l>Maar dan en plag men ook zo vrolyk niet te weezen,</l>
+<l>Gelyk men uit haar doen, en aangezicht kon leezen;</l>
+<l>Deez' tyd vereischt het niet, zy was te wel vernoegd,</l>
+<l>Ik twyfel wat het is, en of'er dit ook voegd.</l>
+<l><hi rend="sc">Julia</hi>. Ik kan de redenen hier van ook niet bevioeden</l>
+<pb n="10"/>
+<l>En 't is my niet genoeg te staan op slecht vermoeden,</l>
+<l>'t waar, 't is kloek genoeg in zulk een groot gevaar</l>
+<l>In min getrouw te zyn, en wachten zo veel jaar:</l>
+<l>Maar 't was te grof om dan op 't lelt te laat en glijen,</l>
+<l>'t Was een lichtvaardigheid, zo schielyk te verblijen;</l>
+<l>Maar zou....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Sabina</hi>.</speaker>
+<l rend="; 1tab">Zwyg, wel te pas komt zy hier aangegaan,</l>
+<l>Al pratende zult gy wel van haar onderstaan</l>
+<l>De grond van deze zaak, zie iets uit haar te trekken,</l>
+<l>Zy heeft u al te lief om 't voor u te bedekken.</l>
+<l>Ik ga: myn zuster, ei. blyf Julia wat by;</l>
+<l>Ik schaam my dat men 't ziet dat ik zo droevig zy,</l>
+<l>Myn hert wert overstulpt van duizend ongenuchten,</l>
+<l>Ik zoeke nu de eenzaamheid om daar al stil te zuchten,</l>
+<l>Daar wil ik eens ter deeg myn traanen storten uit,</l>
+<l>Ik ga, op dat ik u niet in uw voorneem stuit.</l>
+</sp>
+<div type="scene">
+<head rend="h4">Twede tooneel.</head>
+<stage><hi rend="sc">Camilla, Julia</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>.</speaker>
+<l>WEI waarom gaat zy weg, en wilze dat ik blyve</l>
+<l>Met u; of meend zy dat ik minder rouw bedryve;</l>
+<l>En dat myn zielsverdriet veel kleinder is dan 't heur;</l>
+<l>Dat ik myn ongeval veel min dan zy betreur;</l>
+<l>Van de eigen schrik myn ziel ontroert is, ik moet schroomen</l>
+<l>Zo wel als zy 't verlies van Alba als van Romen.</l>
+<l>Als een van bei verliest ik ook verliezen moet.</l>
+<l>In 't een daar is myn liet, in 't ander is myn bloed;</l>
+<l>Ik moet myn waarste goed, ik moet myn lief myn Minner</l>
+<l>Zien sterven voor zyn land, of van myn land verwinner:</l>
+<l>Ik moet myn Bruigom zien gebragt tot zulk een staat,</l>
+<l>Of dat hy wert van my beweend, of wreed gehaat.</l>
+<l>Helaas, ik schrik voor bei!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Julia</hi>.</speaker>
+<l rend="; 2tab">Nochtans myn dunkt, Sabyne,</l>
+<l>Die is veel mêer in nood, haar smerten grooter schyne</l>
+<pb n="11"/>
+<l>Dan deuw', 't verdriet dat is haar zekerder, men kan</l>
+<l>Van vrijer wel, maar nooit veranderen van man!</l>
+<l>Men kan om 't eene lief het and're wel ontbere;</l>
+<l>Vergeet Curace slechts, verkiest in plaats Valere,</l>
+<l>Zo raakt gy buiten angst, dat een Romeinschen dolk</l>
+<l>Uw vrijer treffen mag ter dood by 's vyands volk:</l>
+<l>Dus werd u Alba vreemd, en werd geheel voor Romen,</l>
+<l>En hebt in 's vyands heir voor niemand meêr te schromen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>.</speaker>
+<l>Ei, geef my raad, die niet zo schandig is voor my,</l>
+<l>Op dat myn kwaal hier na noch niet veel kwader zy,</l>
+<l>Al is myn droefheid groot, al schynt die onverduldig,</l>
+<l>Ik ly die liever noch dan dat men my beschuldig.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Julia</hi>.</speaker>
+<l>Hoe, houd gy 't wysselyk verkiezen, dan voor kwaad?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>.</speaker>
+<l>Hoe, trouweloos te zyn, is dat een wyze daad?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Julia</hi>.</speaker>
+<l>Wat is 'er toch dat u kan met een vyand knoopen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>.</speaker>
+<l>Een vast gezwooren eed, wie kan die, zegt, ontsloopen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Julia</hi>.</speaker>
+<l>Dien eed is niet, hy is een vyand van den Staat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>.</speaker>
+<l>Nochtans hy blyft myn vriend, ik ben hem trouw, wat raad?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Julia</hi>.</speaker>
+<l>Vergeefs verbergt gy my, een zaak die my zo klaar is,</l>
+<l>Uw doen is my bekent, uw handel openbaar is</l>
+<l>Ik zag noch gisteren Valere by u staan,</l>
+<l>En zulk een goet onthaal als gy hem hebt gedaan,</l>
+<l>Maakt dat hy wederom wat goeds van u mag hoopen,</l>
+<l>En dat uw hert, uw min, en gunst zyn voor hem open.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>.</speaker>
+<l>Dat gist'ren ik met hem wat praaten, en dat hy</l>
+<l>Van my niet kwaalyk wierd onthaald, en bleef me by,</l>
+<l>En dat ik blyder was, wil daar niet uitbesluiten</l>
+<l>Dan tot zyn achterdeel, myn vreugd die kwam van buiten.</l>
+<pb n="12"/>
+<l>Een ander de oorzaak was van myne vrolykheid;</l>
+<l>Een ander in myn hert en in myn zinnen leit:</l>
+<l>Maar op dat gy het weet wat dat my heeft bewoogen,</l>
+<l>Ik zal 't u zeggen, hoor: zo lang als deez' myn oogen</l>
+<l>Noch open staan; zo lang als ik myn adem schep;</l>
+<l>Zo lang als ik myn ziel, myn magt, en zinnen heb,</l>
+<l>Zal ik Curaces, en voor niemand anders weezen,</l>
+<l>Hy zal 't geduurig zyn. gelyk hy 't was voor dezen;</l>
+<l>En myn genegentheid tot hem is veel tegroot,</l>
+<l>Dat ik gedoogen zouw dat men my met dat snood</l>
+<l>Verwyt belaaden zou dat ik myn eed niet achten,</l>
+<l>Veel min dat andere bezitten myn gedachten.</l>
+<l>Een maand of drie daar naar als broeder eerst door de echt,</l>
+<l>In volle vrengden, met zyn zuster wierd geheent,</l>
+<l>Gy weet dat, Julia. hy kreeg van myn heer vader</l>
+<l>Het woord dat ik zyn vrouw zou zyn; wy bei te gader</l>
+<l>Vast waren wel vernoegt; maar laas! dien eigen dag</l>
+<l>Ons beide in vrolykheid, en beide in traanen zag.</l>
+<l>Dien dag gelukkig was, en ongelukkig mede:</l>
+<l>Dien dag, verëenden ons, maar deelden onze steden:</l>
+<l>Gelyk beslooten wierd ons houwlyk, en den stryd:</l>
+<l>Zo dra ons hope kwam zo waaren wy die kwyt:</l>
+<l>Dien eigen stond, die ons kwam 't al in al belooven,</l>
+<l>Kwam op die zelve stond ons alles weder rooven,</l>
+<l>En maakte ons haaters en gelieven te gelyk:</l>
+<l>En van ons ongenugt zag yder een de blyk,</l>
+<l>Wat wierp hy niet al uit, wie ging hy niet vervloeken,</l>
+<l>En wat en wou hy niet uit ongeduld verzoeken,</l>
+<l>En wat een traanenvloed uit bei myn oogen kwam:</l>
+<l>Ik zwyg 't, gy weet hoe ik, en hy zyn afscheid nam:</l>
+<l>Gy hebt daar naa gezien de ontroering van myn zinnen.</l>
+<l>Gy weet myn wenschen tot de vrede, en die te minnen</l>
+<l>Is al myn lust en vreugd, en wat al traanen ik</l>
+<l>Gestort heb en gestrooit op yder oogenblik;</l>
+<l>Dan voor myn vaderland, en dan voor myn beminde:</l>
+<l>Ten lesten, als myn hoop geen uitkomst meêr kon vinden.</l>
+<l>Als ik was t' einden raad, nam ik myn toevlucht tot</l>
+<pb n="13"/>
+<l>'t Voorzeggen van een geest, of wel tot eenig god.</l>
+<l>Hoor, of 't geen gist'ren my voor godspraak is gegeven,</l>
+<l>Niet zo veel in zich heeft dat ik in hoop mag leeven?</l>
+<l>Dien Griek, die zo vermaard nu over zo veel jaar</l>
+<l>Woond aan de buitenpoort, die grooten konstenaar,</l>
+<l>Die nimmer menschenkind bevonden heeft op logen,</l>
+<l>En wien dat de inspraak gods noch nimmer heeft bedrogen,</l>
+<l>Hy, die 't schier alles weet, beloofden my het end,</l>
+<l>Door deze regelen, van alle myn ellend.</l>
+<lg type="poem">
+<l rend="; 1tab"><hi rend="i">De staat van Alba en van Romen</hi></l>
+<l rend="; 1tab"><hi rend="i">Wat onverwachts zal overkoomen;</hi></l>
+<l rend="; 1tab"><hi rend="i">De vrede staat al voor de poort</hi></l>
+<l rend="; 1tab"><hi rend="i">En uw gebeden zyn gehoort:</hi></l>
+<l rend="; 1tab"><hi rend="i">Gy zult met uwen uitgeleezen</hi></l>
+<l rend="; 1tab"><hi rend="i">Curace haast verenigd weezen,</hi></l>
+<l rend="; 1tab"><hi rend="i">Ja zo, dat in der eeuwigheid</hi></l>
+<l rend="; 1tab"><hi rend="i">Uniemand vun malkand'ren scheid.</hi></l>
+</lg>
+<l>Ik zetten vast op dit voorzeggen myn vertrouwen,</l>
+<l>En hoopten heden dat we in vreden komen zouwen,</l>
+<l>Door deez' beloften was myn bloed zo zeer ontroerd,</l>
+<l>En myn gedachten, en verstand zo wyt gevoerd</l>
+<l>Van myn gemoed, dat ik niet wist of al myn zinnen</l>
+<l>Die waaren op de loop, ja 'k twyffel of die binnen,</l>
+<l>Of buiten mogten zyn, ei, oordeel zelfs eens hoe,</l>
+<l>In deez' gelegentheid, ik weezen mogt te moê?</l>
+<l>Juist op dien zelfden tyd Valere my kwam plaagen,</l>
+<l>En, tegen zyn gewoonte, hy kon my niet mishaagen,</l>
+<l>Hy sprak my aan van min, en 't was my geen verdriet,</l>
+<l>'t Geen dat ik met hem sprak, dat wist ik zelver niet,</l>
+<l>En ik en kon hem niet mispryzen noch verachten,</l>
+<l>Curace was 't zo 'k docht, myn zinnen en gedachten</l>
+<l>Die zagen maar op hem; ik zag Valeer wel aan,</l>
+<l>Doch beelde me in ik zag Curace voor my staan,</l>
+<l>My docht 't was al van vreugd en liefden dat ik hoorden,</l>
+<l>Van min, en trouwigheid dat waaren al myn woorden.</l>
+<l>Van daag is 't vast gesteld, men zal een veldslag slaan,</l>
+<l>Men zei 't my gisteren, maar kon het niet verstaan,</l>
+<pb n="14"/>
+<l>Want zulk een bloed'ge maar en vond by my geen stede,</l>
+<l>Betoverd door 't gepeins van bruiloft en van vrede,</l>
+<l>Die hoope van die vreugd bezat my te eenemaal:</l>
+<l>Deez' nacht die heeft verjaagd dit aangenaam gedwaal,</l>
+<l>'k Heb anders niet gezien dan schrikkelyke droomen;</l>
+<l>Niets is my in den slaap dan bloedig voorgekoomen,</l>
+<l>Dit grouwelyk gedroom dat heeft my deze nacht</l>
+<l>Van vreugd beroofd, en wêer een nieuwe schrik gebragt.</l>
+<l>'k Heb niet dan bloed gezien, dan moorden, kryten, kermen;</l>
+<l>En alles overhoop, O goôn, wil ons erbermen!</l>
+<l>Een spook vertoonden zich dat daad'lyk nam de vlucht,</l>
+<l>En 't heeft verscheidemaal zeer deerelyk gezucht,</l>
+<l>Dat ik het hooren kost. Och hemel! wat wil 't zeggen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Julia</hi>.</speaker>
+<l>Men moet een kwaade droom steeds averechts uitleggen,</l>
+<l>En hoopen 't best daar van; want kwaad beduit hier goed.</l>
+<l>Den hemel toond u hulp; vertrouwt en hebt maar moed.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>.</speaker>
+<l>Ik zalze zo verstaan, gelyk ik 't gaeren zien zou,</l>
+<l>En hoopen of misschien den Hemel by stand biên wou,</l>
+<l>Maar of ik 't anders wensch, een yder spreekt van slaan.</l>
+<l>En niemand praat van vreê, myn hoopen is gedaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Julia</hi>.</speaker>
+<l>Een veldslag maakt wel vreê, dats 't eind veeltyds, van' t vechten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>.</speaker>
+<l>Dat eeuwig duur het kwaad, zo dit de twist moet slechten,</l>
+<l>Zo Romen onder leid of Alba, zo besluit,</l>
+<l>Dat gy myn bruigom nooit zult worden lief, uw bruit</l>
+<l>Haar ziel, hoe zeer ze ook is met liefden ingenomen,</l>
+<l>Geen overwinner ooit, of slaaf begeert van Romen.</l>
+<l>Maar wie of ginder komt? ik schrik wat is 't een spook?</l>
+<l>Zyt gy Curace of niet? bedriegt myn oog myn ook?</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="15"/>
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Curace, Camilla, Julia</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Curace</hi>.</speaker>
+<l>UW oog bedriegt u niet, Camilla, zie hier komen,</l>
+<l>Die noch verwinner, noch geen slaaf en is van Romen,</l>
+<l>En vreest niet van te zien verkleurt en rood myn hand,</l>
+<l>Of van het Roomsche bloed, of 't prangen van haar band;</l>
+<l>Ik wist wel dat gy de eer met Romen zoud beminnen,</l>
+<l>Myn jok verachten, of benyden my verwinnen;</l>
+<l>Ik docht wel, 't ging met u gelyk het ging met my,</l>
+<l>Ik vreesde voor de winst, en voor de slaaverny.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>.</speaker>
+<l>Curace 'k heb genoeg, houd op; ik raâ de reste</l>
+<l>Zeer licht, ik weet het wel, gy vlucht ten lange leste</l>
+<l>Uit zulk een zwaare stryd, die u den stryd aandoed,</l>
+<l>En gyontwykt den kryg, die krygt met uw gemoed.</l>
+<l>Uw hert my toegewyd, op dat gy 't my meugt hou we</l>
+<l>En om my trouw te zyn, zyn staat is ongetrouwe.</l>
+<l>Dat eigen minnend hert onsteeld zyn vaderland,</l>
+<l>De krachten van uw erm, en hulpe van uw hand.</l>
+<l>Laat and're zien op eer en naam, en dit mispryzen</l>
+<l>Dat gy te groot een min uw liefste woud bewyzen:</l>
+<l>Camilla moet nochtans al pryzen wat gy doet;</l>
+<l>Hoe meêr u liefden blykt, hoe mêer ze u minnen moet.</l>
+<l>Het vaderland is veel; maar moet nu voor my wyken:</l>
+<l>Hoe meêr ge om my verlaat, hoe meêr ge uw min doet blyken.</l>
+<l>Maar heeft myn vader u gezien? heeft hy geduld</l>
+<l>Dat gy u in zyn huis aldus verschuilen zult?</l>
+<l>En heeft myn Vader u ook in zyn huis zien komen?</l>
+<l>En toen hy u eerst zag, hoe heeft hy 't opgenoomen?</l>
+<l>Of hy den Staat niet meêr dan zyn geslacht bemind?</l>
+<l>En heeft hy Romen niet veel liever dan zyn kind;</l>
+<l>En gaat ons vreugd al vast? de hemel wil ons kroone.</l>
+<l>Hoe heeft hy u onthaald, als vyand of als zoone?</l>
+</sp>
+<pb n="16"/>
+<sp>
+<speaker><hi rend="sc">Curace</hi>.</speaker>
+<l>Hy heeft my blydelyk onthaald, gelyk zyn zoon,</l>
+<l>Hy hiet my wellekoom, heeft my de hand geboôn,</l>
+<l>En zyn genegen hart, gesprooken als een vader.</l>
+<l>Maar hy ontfing my niet gelyk een landverraader,</l>
+<l>Onwaardig van deeze eer, om in zyn huis te treên;</l>
+<l>Want ik heb Alba niet verhaten, neen, ô neen!</l>
+<l>Ik heb myn eer ook lief, al lief ik ook Camille,</l>
+<l>En ik myn leeven zouw veel eer verliezen wille</l>
+<l>Dan een van twee, want ik zo trouwen landzaad zy</l>
+<l>Als minnaar: 'k zucht voor u, als ik voor Alba stry.</l>
+<l>En duurde noch den kryg, 'k zou noch voor Alba vechten:</l>
+<l>Maar zuchten ook om u. 'k zou staan met onze knechten</l>
+<l>In 't heir, hoewel myn ziel 't heel anders wenst, indien</l>
+<l>'t Noch oorlog was, en zou het staal aan Romen biên;</l>
+<l>Maar de oorlog is ten eind, de steden hebben vreede,</l>
+<l>Waar door ik onbeschroomd vry in uw huis mag treeden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>.</speaker>
+<l>Is 't vreê? 'k geloof het niet, geef van u zeggen blyk.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Julia</hi>.</speaker>
+<l>Camilla geef geloof aan 't geen dat is, gelyk</l>
+<l>Degodspraak heeft gespeld. Maar zeg ons, door wat reden,</l>
+<l>In plaatze van te slaan, beslootenze de vrede?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Curace</hi>.</speaker>
+<l>O goôn! wie had't gelooft! het krygsvolk was aan't gaan,</l>
+<l>En waaren altemaal gereet een slag te slaan.</l>
+<l>De heiren allebei vast trokken even moedig;</l>
+<l>Men vreesde voor geen stryd, al scheen die wreed en bloedig.</l>
+<l>Elk een was even graag tot vechten; en bereid</l>
+<l>Tot sterven, liever als te wyken: men verbeid</l>
+<l>Maar op 't gebod, en 't woord des veldheers, om te treffen,</l>
+<l>Als juist ons overste dus kwam zyn stem verheffen</l>
+<l>In 't voorste lid, en roept den Roomsche Koning toe,</l>
+<l>Dat hy wat zeggen wou; men hoord hem straks; wel hoe!</l>
+<l>Hoe zyn wy dus ontzind, sprak hy, ô Roomsche mannen?</l>
+<l>Waartoe de spiets geveld? waar toe den boog gespannen?</l>
+<l>Waar toe het zwaard gebruikt? wat droes heeft ons verleid</l>
+<pb n="17"/>
+<l>Dat wy dus zyn verwoed, 't is enk'le dulligheid;</l>
+<l>Steek 't zwaard in zyne scheê, dit vechten zal ons rouwen</l>
+<l>Wy zyn maar een geslacht, ons dochters zyn uw vrouwen</l>
+<l>En de echt heeft ons gevoegt zo dik maals t'zaam, dat wy</l>
+<l>Geen kind'ren krygen schier, die niet uw neef en zy;</l>
+<l>En wy zyn ook een bloed, een volk, maar in twee steden,</l>
+<l>Waar toe met borgerkryg malkand'ren dan bestreden?</l>
+<l>Daar zelfs die overwind de nederlaag betreurd?</l>
+<l>Waarom ons ingewand, ons eigenzelfs verscheurd?</l>
+<l>Waar beide ons vyanden, gemeenen en byzond'ren?</l>
+<l>Om lachchen, en waar van ons buuren haar verwond'ren?</l>
+<l>Wy hebben vyanden die wachten naar den tyd</l>
+<l>Met vreugden, dat zy zien hoe uitvalt dezen stryd.</l>
+<l>Wie van ons boven leid, die zullen zy bevechten,</l>
+<l>En zullen dat gebied met haare wallen slechten;</l>
+<l>Als een maar van ons bei verflagen werd, dan is</l>
+<l>Den overwinnaar maar voor haar tot roof, gewis</l>
+<l>Zy sleepen die licht weg, die moede, en half geslagen,</l>
+<l>En zwak is, en van wie de winst heeft weggedraagen.</l>
+<l>Den bondgenood, de hulp, die trouw was in den nood,</l>
+<l>En 't kwaarst is, dat men zich daar zelfs heeft van ontbloot:</l>
+<l>Ons scheuring lang genoeg haar heeft gestrekt tot voordeel;</l>
+<l>Dat wy ons heir en kracht t'zaam voegen, want ik oordeel</l>
+<l>Dat het de tyd vereist, op dat we onz' vyand slaan,</l>
+<l>Veel liever dan dat wy dus op malkand'ren gaan;</l>
+<l>Versmooren wy 't geschil, en laten wy vergeeten</l>
+<l>Al 't geen 'er is geschied, 't zy al in 't vuur gesmeeten:</l>
+<l>Het geen ons bloed ontsteekt, 't is maar een beuzeling,</l>
+<l>Een yd'le kleinheid, en een stecht verganklyk ding,</l>
+<l>Dat ons eerst stryden deê: en dat nu bloedverwanten</l>
+<l>Zo braave krygers maakt, en tegens een doet kanten</l>
+<l>Wat dat van wederzyds word mann'lyk voortgebragt:</l>
+<l>De broêr vervolgd zyn broêr, en yder zyn geslacht.</l>
+<l>En wy1 nu de eerzucht 't hart van bei deze oorlogslieden</l>
+<l>Bezit, wie dat van tweên den and'ren zal gebieden,</l>
+<l>Zo kan men lichtelyk, waar toe dus zeer gewoed,</l>
+<l>'t Geschil verëenigen, door vry veel minder bloed</l>
+<pb n="18"/>
+<l>Te storren, laaten wy elk uit ons volk verkiezen</l>
+<l>Een troup, en wie dat zal in dit gevecht verliezen,</l>
+<l>Dat die het heel verliez'; laat maar een zeker tal</l>
+<l>Van beide zyden slaan. en wie dat winnen zal</l>
+<l>Behouden zal 't gebied; en wie zal zyn verslagen</l>
+<l>Dat hy gewilliglyk 't gebied des winners draage;</l>
+<l>Dat hy zyn onderdaan, maar nimmer werde slaaf;</l>
+<l>En dat men haar regeer en heerscht, gelyk zo braaf</l>
+<l>En wakk're krygers voegt, ook zonder haar te drukken</l>
+<l>Met schanden, smaad, of tol, of and're zwaarder stukken,</l>
+<l>Dan dat zy over al staan onder 's winner vaan,</l>
+<l>En dat zy neffens hem als medeborgers gaan,</l>
+<l>En dragen de eigen last, doch onder 's winners wetten,</l>
+<l>Daar zy gewilliglyk haar onder zullen zetten,</l>
+<l>Dus werden bei gelyk ons Staten een gebied.</l>
+<l>Hier zweeg hy, yder zucht van vreugden: en beziet</l>
+<l>Des vyands benden aan, men ziet een goede kennis,</l>
+<l>Een broêr, een neef een vriend,verbaast dat hy tot schennis</l>
+<l>En op zyn naaste bloed zyn zwaard getogen had,</l>
+<l>Een yder wraakt 't gevecht, en bid den hemel, dat</l>
+<l>Dien voorslag voortgang heb, men komt in naarder reder.</l>
+<l>Men neemt den voorslag aan: men sluit gewenscht de vreden:</l>
+<l>Doch onder dit besprek, dat drie van elke zy</l>
+<l>Men uitkiest om te slaan voor allen, elk is bly</l>
+<l>Dat de oorlog daar meê eind; ons Vorsten hebben beiden</l>
+<l>Genomen weinig tyds; en zyn van een gescheiden,</l>
+<l>Den uwen naar den Raadt, den onzen naar zyn tent.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Julia</hi>.</speaker>
+<l>Den hemel zy geloofd die ons deze uitkomst zend</l>
+<l>Dus onverwagt, hy heeft verhoord al ons gebeden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>.</speaker>
+<l>O goôn! wat vind ik al genoegen in uw reden?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Curace</hi>.</speaker>
+<l>Dit is 't gemeen besluit, dat in twee uuren tyd</l>
+<l>Ten langsten, drie van ons, met drie van u, den stryd</l>
+<l>Beginnen; drie en drie alkenig zullen vechten,</l>
+<pb n="19"/>
+<l>Diezullen onder haar 't geschil alleen beslechten:</l>
+<l>Haar lot zy 't ons, haar winst ons eenen Koning geeft:</l>
+<l>Terwyl men niemand noch uit 't heir verkooren heeft,</l>
+<l>Zo staat het yder vry by u of ons te komen:</l>
+<l>In Romen is ons heir, en in ons heir is Romen,</l>
+<l>Men mag nu vrijelyk tot bei de legers gaan,</l>
+<l>Een yder spreek zyn vriend of oude kennis aan,</l>
+<l>Vernieuw de maagschap weêr; wat my betreft, myn vlammen</l>
+<l>My nemen deê den weg die uw drie broeders nammen.</l>
+<l>En ik heb zulk geluk in myne min gehad,</l>
+<l>Dat uwen Vader my belooft heeft vast, als dat</l>
+<l>Ik morgen wettelyk u trouw tot myn genoegen:</l>
+<l>Ik hoop gy uwen wil naar 's vaders wil zult voegen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>.</speaker>
+<l>Een dochter het betaamd gehoorzaam zyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Curace</hi>.</speaker>
+<l rend="; 2tab">Dat 's wel</l>
+<l>Gezeid, kom zelfs, ontfang dit overzoet bevel,</l>
+<l>'t Welk 't oogmerk was van al myn wenschen en gebeden;</l>
+<l>Myn opperste vermaak.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>.</speaker>
+<l rend="; 1tab">'k Zal daad'lyk binnen treden:</l>
+<l>Doch om myn broêrs te zien, op dat ik uit haar mond,</l>
+<l>Noch een maal hoor het geen ik straks van u verstond.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Julia</hi>.</speaker>
+<l>Ga, ik ga onderwyl ter beêvaard en ter kerken,</l>
+<l>Eu dank de Gôon voor u, en voor deez' wonderwerken.</l>
+</sp>
+</div>
+</div>
+<div type="act">
+<pb n="20"/>
+<head rend="h3">Tweede bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Curace, Horace</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Curace</hi>.</speaker>
+<l>ZO neemt dan Romen haar drie kampers op een plaats?</l>
+<l>En buiten die, waar heeft haar Staat noch zulke maats,</l>
+<l>De hooge stad verkiest u met uw broêrs voor allen;</l>
+<l>Op dat u w zwaard bescherm 't gebied van haare wallen,</l>
+<l>Een eenig huisgezin trots 't beste van ons land.</l>
+<l>Wy stellen vast, als wy zien Romen in uw hand</l>
+<l>Alleen, en dat men kiest de krachten van uw ermen,</l>
+<l>Om 't Roomsch gebied daar door en Hoogheid te beschermen,</l>
+<l>Dat buiten deze drie zulk geen Romein meêr is,</l>
+<l>D'Horacens zyn 't alleen: die keur die kon gewis</l>
+<l>Drie stammen te gelyk met heerlykheid vervullen,</l>
+<l>Die de uwe nu alleen met zulk een glans gaat hullen;</l>
+<l>Ja de eer die uwen stam hier door verkregen heeft,</l>
+<l>Was waardig dat ze wierd van and're drie beleefd.</l>
+<l>Doch aangezien het is tot uwent, dat myn zinnen</l>
+<l>Al lang geplaatst zyn, waar my't luk, en waar myn minnen</l>
+<l>Een vrouw verkooren heeft, een zuster uitgetroud,</l>
+<l>Doet my het geen ik ben, en 't geen men van my houd,</l>
+<l>En 't gene dat ik haast hoop onder u te weezen,</l>
+<l>Deelachtig zyn deze eer: maar 'k heb een andre vreeze,</l>
+<l>Wat anders doet dat ik voor u niet weezen ken;</l>
+<l>En maakt dat ik die vreugd niet heel deelachtig ben,</l>
+<l>Dat ik haar neêrlaag zie; dus ik voor Alba beeve.</l>
+<l>Den oorlog heeft alreê u zulk een naam gegeeven,</l>
+<l>Dat ik my vast verbeel dat Alba het verliest,</l>
+<l>En dat den hemel u door zyn besluit verkiest,</l>
+<l>Ik zie het al voorheen. ô Alba, smelt in tranen!</l>
+<l>Ik tel my nu al reeds een van uw onderdanen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l>Ei, zorg voor Alba niet, maar Romen eêr beklaagd,</l>
+<pb n="21"/>
+<l>Wyl 't anderen verwerpt, en dat het haar behaagd</l>
+<l>Ons juist te kiezen, 't is een blindigheid van Romen:</l>
+<l>Het heeft veel keurs, en heeft het kwaatst daar uit genomen;</l>
+<l>Mits 't in haar Ridderschap wel duizend and'ren had,</l>
+<l>Die licht'lyk beter 't recht van haar beroemde stad</l>
+<l>Beschermen zouden dan deze armen, en deez' dijen,</l>
+<l>Zy heeft wel and'ren meêr, als wy juist met ons drijen,</l>
+<l>Maar of my dezen kamp dreigd met een wisse dood;</l>
+<l>Nochtans deez' keur en eer geeft aan myn ziel een groot</l>
+<l>Genoegen, blaast my op hoogmoedig, 'k laat my voorstaan,</l>
+<l>Ja, dat ik zal zeer licht, met de overwinning doorgaan,</l>
+<l>Nu Romen haar geluk ons toevertroud, 'k heb moed,</l>
+<l>Haar zaak is 't, die myn ziel wat goeds verhoopen doet;</l>
+<l>Al ben ik weinig kloek, myn handen en myn ermen</l>
+<l>Wat zwak, ik hoop nochtans zy zullen wel beschermen</l>
+<l>Haar staat en stad: want nu verzekerd zich myn ziel</l>
+<l>Van de overwinning vast: en of het anders viel</l>
+<l>Ik tel my nimmermeêr een van uw onderdanen,</l>
+<l>Ook hoe het gaat met my, ik zal noit Albaas vanen,</l>
+<l>Verwinners van de wal, van Romen waaijen zien,</l>
+<l>En uwen oppervoogd my nimmer zal gebiên,</l>
+<l>Heeft Romen ons vertrouwt uw heerschappy en slaaten,</l>
+<l>Ik zal haar hoop voldoen, of zal 'er 't leeven laaten,</l>
+<l>Die overwinnen wil of sterven, zelden werd</l>
+<l>Verwonnen, ik altans de hel en dood uittert,</l>
+<l>Het scheelt my niet, ik derf den krygsgod zelf uitdaageu,</l>
+<l>Een die wel sterven wil, en werd niet licht verslagen.</l>
+<l>Noit werd ge, ô Romen! slaaf: ten zy den lesten snik</l>
+<l>Verzekerd my 't verlies; zo lang een druppel ik</l>
+<l>Laau bloeds houde in myn lyf, zo lang behoeft gy, Romen</l>
+<l>Noch Albaas oversten, noch zyn gebied te schroomen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Curace</hi>.</speaker>
+<l>O goden! wat is dit? het geen myn vaderland</l>
+<l>Begeerd, myn vriend'schap vreest. Horace moet van kant.</l>
+<l>Myn neef, myn waarde vrind, myn zusters man, en broeder</l>
+<l>Van myn verkooren min, en 't maagschap van myn moeder,</l>
+<pb n="22"/>
+<l>Haar zusters zoon is straks zyn lyf en leeven kwyt,</l>
+<l>Of Alba haar gebied, en vryheid! harde stryd!</l>
+<l>O goden moet ons volk haar stad nu overgeeven.</l>
+<l>Zo dier, of koopen die voor zulk een waardig leven?</l>
+<l>Wat kan myn wenschen zyn? want hoe het ook zal gaan</l>
+<l>Gy of myn vaderland dat kost my meen'gen traan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l>Als ik voor 't vaderland, voor Romens hooge vesten</l>
+<l>Myn bloed verstorten ga, en geef dit lyf ten besten,</l>
+<l>En sterf zo voor myn stad, zoud gy dan noch myn dood</l>
+<l>Beschreijen? neen! een hert dat edel is, genoot</l>
+<l>Nooit meêr vermaak noch lust dan als het dus mogt sterven:</l>
+<l>Ik wil wel om deze eer het licht en 't leeven derven.</l>
+<l>Was glans volgt zulk een dood, en wat een heerlykheid!</l>
+<l>Dies zulk een sterven nooit met reên kan zyn beschreid.</l>
+<l>Wat my aangaat, ik wensch het waar zo ver gekomen,</l>
+<l>Dat ik zo sterven mogt, 'k zou bly zyn, was 't dat Romen,</l>
+<l>En onzen gantschen staat niet meêr gelegen was</l>
+<l>Aan myne dood, dan aan myn winst, gy zoud my ras</l>
+<l>Zien vliegen naar het graf.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Curace</hi>.</speaker>
+<l rend="; 1tab">Laat toe dat uwe magen</l>
+<l>(Al was 't schoon zo) uw dood en uw verlies bek laagen;</l>
+<l>Want schoon men sterft zo braaf, de droef heid blyft alleen</l>
+<l>De naaste vrienden by, zy blyven hier beneên</l>
+<l>Betreurend' haar valies, terwyl gy stygt naar boven,</l>
+<l>Daar al het hemels volk zal uwe sterfuur looven:</l>
+<l>En de eer is heel voor u, de droefheid is voor haar;</l>
+<l>Uw vrienden het verlies en smarten treft; voorwaar</l>
+<l>Als me een als gy verliest, het is te veel verlooren.</l>
+<l>Maar Flaviaan komt hier wat brengen, laat ons hooren:</l>
+<l>En Alba dat heeft ook verkooren! zeg my wie!</l>
+</sp>
+<div type="scene">
+<pb n="23"/>
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Flaviaan</hi>, <hi rend="sc">Curace</hi>, <hi rend="sc">Horace</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Flaviaan</hi>.</speaker>
+<l>IK kom u kundschap doen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Curace</hi>.</speaker>
+<l rend="; 2tab">Wie toch? welk zyn de drie?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Flaviaan</hi>.</speaker>
+<l>Uw broeders beide, en gy.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Curace</hi>.</speaker>
+<l rend="; 1tab">Wie?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Flaviaan</hi>.</speaker>
+<l rend="; 3tab">Drie: en uit uw ouders:</l>
+<l>Curace met zyn broêrs. Wel hoe! trekt gy uw schouders?</l>
+<l>En schud gy 't hooft, wat 's dit! haagt u de boodschap niet?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Curace</hi>.</speaker>
+<l>O ja! maar 'k wachten noit deze eer: dies ik verschiet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Flaviaan</hi>.</speaker>
+<l>Zal ik den Veldheer, die my heeft tot u gezonden;</l>
+<l>Gaan zeggen dat ik u heb koel en traag gevonden,</l>
+<l>Dat u deez' maar ontzet, en dat gy droevig ziet?</l>
+<l>Dit droef en flaau onthaal doet ook dat ik verschiet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Curace</hi>.</speaker>
+<l>Zeg hem, dat my noch bloed noch zwagerschap zal konnen</l>
+<l>Beletten, dat de drie Curaces ongeschonnen</l>
+<l>Verdedigen 't gebied van Alba; en haar stad</l>
+<l>Dus voor staan tegens drie Horaces; zeg hem dat.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Flaviaan</hi>.</speaker>
+<l>Ach! tegens die! gy zegt my veel met luttel woorden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Curace</hi>.</speaker>
+<l>Laat ons een weinig rust, doch zegt hem 't geen gy hoorden.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="24"/>
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Curace, Horace</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Curace</hi>.</speaker>
+<l>DAt hemel, aard, en hel, voortaan met al haar magt</l>
+<l>Uitwerpen vuur en vlam, en dat met alle kracht.</l>
+<l>De duivels en degoôn, de menschen en de heesten,</l>
+<l>En de afgrond met haar volk, al de onderaardsche geesten</l>
+<l>Ons komen op het lyf, en plaagen ons; ik zweer,</l>
+<l>'k Acht al haar doen maar wind, te reek'nen by deze eer,</l>
+<l>Diezeu, en my nu doen: hoe schrikkelyk, hoe yss'lyk,</l>
+<l>Hoe grouwelyk, hoe wreed, hoe straf en hoe afgrysslyk</l>
+<l>Dat de afgrond braaken kan haar gruw'len, 't is al niet</l>
+<l>Te reekenen by de eer die u, en my geschied.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi></speaker>
+<l>Het noodtlot, 't welk het perk van eere voor ons heden</l>
+<l>Ontslooten heeft, reikt stof voor ons stant vastigheden;</l>
+<l>En spand zyn krachten in, om zo een ongeval</l>
+<l>Te vormen waar 't de moet van ons aan toetsen zal,</l>
+<l>Gelyk het ons niet houd voor 't slechtste slag van lieden,</l>
+<l>Zo doet het niet met ons, gelyk men ziet geschieden</l>
+<l>Gemeenlyk aan 't gemeen: neen! 't ons wat grooters broud,</l>
+<l>En toond zo dat het ons voor grootze zielen houd.</l>
+<l>Te treeden in den stryd, tot welstant van een yder,</l>
+<l>Met die men nimmermeêr voor dezen zag, en wyder</l>
+<l>Zyn bloed en leeven op te geeven voor 't gemeen,</l>
+<l>Is wel een deugd, maar die men vind by yder een.</l>
+<l>Wel duizend en noch meêr die hebben 't lang voor dezen</l>
+<l>Gedaan, en aan haar land deez' trouwigheid bewezen:</l>
+<l>Voor 't vaderland zyn lyf te geeven en zyn bloed,</l>
+<l>En voor 't gemeenebest te sterven, is zo zoet,</l>
+<l>Dat yder een daar om zou loopen, kuipen, wenschen;</l>
+<l>Maar voor 't gemeene best op te offren zulke menschen,</l>
+<l>Die 'k als my zelfs bemin, en zoeken dood te slaan</l>
+<l>Een ander eigen zelfs; een volk te tasten aan,</l>
+<l>Dat zusters bruidegom, yrouws broêr en neef zal laaten</l>
+<pb n="25"/>
+<l>Voor haar in wapenen beschermen haare staaten:</l>
+<l>Ons voegden deze band te breek en maar alleen,</l>
+<l>Ons pasten maar dit doen, met niemand meer gemeen:</l>
+<l>Ons naam en gloory zal in eeuwigheid niet sterven.</l>
+<l>Ik kenden weinig die zo stout zyn, dat zy derven</l>
+<l>Naar zulk een eere staan; dies gy gelooven meugt,</l>
+<l>Dat yder een verbaast nu staröogd op onz' deugd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Curace</hi>.</speaker>
+<l>'t Is zeker, onzen naam en zal nooit zyn vergeeten:</l>
+<l>Zo lang de waereld staat zal yder van ons weeten.</l>
+<l>De zaak is al te braaf, wy moeten zyn verheugd.</l>
+<l>'t Is waar wy zullen zyn de spiegels van de deugd,</l>
+<l>Een wonder lyke deugd: maar de uw' dunkt my niet prys'lyk:</l>
+<l>Zy lykt my wat te strat en schynt my al te afgryss'lyk.</l>
+<l>Veel, zelfs het kloekste hert, verlieten zulk een pad</l>
+<l>En weg tot de eeuwigheid, hoe kost'lyk dat me ook schat</l>
+<l>Deze eer en dezen naam, het beter is in duister</l>
+<l>Te leeven, dan zo dier te koopen dezen luister.</l>
+<l>Ik twyffel of deze eer wel zulk een slag is waard.</l>
+<l>'t Is beter onbekend te zyn, dan dus vermaard.</l>
+<l>Wat my aangaat 't is zo, ik derf het zelfs wel zeggen,</l>
+<l>Gy hebt 't ook konnen zien, ik ging niet overleggen</l>
+<l>Wat dat my stond te doen, myn pligt die volgden ik,</l>
+<l>Myn maag noch zwagerschap, deê my geen oogenblik</l>
+<l>Bedenken; en terwyl my Alba heeft genomen,</l>
+<l>En dat ik werd van haar, zo veel als gy van Romen</l>
+<l>Geächt, ik zal zo 'k hoop zo veel voor Alba doen</l>
+<l>Als gy voor Romen zult; ik heb een hert zo koen</l>
+<l>En kloek als 't uw; en 't zal zo moedig immers stryden</l>
+<l>Als 't uwe, doch ik ben een mensch, ik moet 't belyden,</l>
+<l>Ik zie dat al uw eer in 't storten van myn bloed</l>
+<l>Bestaat, en al de myn' dat ik u dooden moet.</l>
+<l>Een vriend, van wien ik heb een zuster uitverkoren,</l>
+<l>Dat ik die moet verslaan; of dat ik ben verloren:</l>
+<l>Hoewel ik niet verschrik, myn hert nochtans dat beeft.</l>
+<l>En 't blyft noch even kloek, hoewel 't een grouwel heeft.</l>
+<l>Het haat zyn eigen deugd: 'k heb met my zelts meêdogen,</l>
+<pb n="26"/>
+<l>Als ik myn staat aanschou, ben ik terstont bewogen:</l>
+<l>Maar nimmer dat ik wensch om dezen stryd te ontgaan.</l>
+<l>Deez' keur behaagd my, schoon zy my verbaast doet staan.</l>
+<l>Ik min wel 't geen ik kryg, maar dat my werd benomen</l>
+<l>Beklaag ik. Zo der werd een groote deugd van Romen</l>
+<l>Begeerd, dank ik de goôn, ik geen Romein en zy,</l>
+<l>Op dat de mensch'lykheid my blyf gestadig by.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l>En gy zyt geen Romein, doch wilt voor my niet wyken,</l>
+<l>Zo gv my zyt gelyk, zo doet dat beter blyken.</l>
+<l>Weet een rechtschape deugd, daar ik meê herwaarts kom,</l>
+<l>Mengt geen flaauhertigheid met kloekheid, 'k zie niet om</l>
+<l>Als gy, op de eerste treê, in 't perk van roem en eere;</l>
+<l>Gy woud wel eer gy kwaamt, dat gy al waart aan 't keeren</l>
+<l>Het ongeval ons dreigd, 't is waar, met zwaar verdriet,</l>
+<l>Ik zie het komen, maar daarom verschrik ik niet.</l>
+<l>'t Zy tegens wie het zy, het vaderland myn degen</l>
+<l>My last te trekken, en ik ga het vrolyk tegen,</l>
+<l>Ja blindelings, en de eer van zulk gebod, dat moet</l>
+<l>Verdooven alle schrik en stremming in het bloed.</l>
+<l>Wanncer het vaderland heeft iemands hand van nooden.</l>
+<l>En die bepeinst dat eerst, doet wel zyn pligt, maar bloode;</l>
+<l>Al wenscht hy naar deze eer, hy krygtze, doch met schand,</l>
+<l>Dit heilig recht verschoond noch lief, noch bloedverwant.</l>
+<l>Ik overdenk nu niets, myn armen zyn van Romen</l>
+<l>Verkoren: met een vreugd, zo ernstig en volkomen;</l>
+<l>Als ik de zuster heb genomen tot een vrouw,</l>
+<l>Zal ik den broeder slaan, op dat ik u niet zouw</l>
+<l>Verdrietig vallen meêr; met alle deze reden,</l>
+<l>Die overtollig zyn, zo worden ze afgesneden.</l>
+<l>Nu Alba u verkiest, nu ken ik u niet meêr.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Curace</hi>.</speaker>
+<l>Curace kend u noch, dat doet hem dapper zeer,</l>
+<l>Dat snyd hem door het hert, maar nimmermeêr ik kenden</l>
+<l>Deez' ruuwe deugd in u noch niet: nu onze el lenden</l>
+<l>Staan op den hoogste trap, zo, bid ik, staâ my toe,</l>
+<l>Dat ik uw deugden loof, doch niet het zelfde doe.</l>
+</sp>
+<pb n="27"/>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l>Neen, pryst ged wonge niet, Albaner, myne deugden:</l>
+<l>En aangezien gy vind in 't klaagen meerder vreugden,</l>
+<l>Zo laat ik u... zie nu myn zuster komt daar aan,</l>
+<l>Op dat zy haar met u bek laagen mag; wy gaan</l>
+<l>Weêrom naar deuwe toe: en haar gemoed voorhouwe,</l>
+<l>Dat zy gedenkt wie ze is, en dat zy is myn vrouwe;</l>
+<l>En dat zy evenwel, al stierf ik door uw hand,</l>
+<l>U liefheb, dat zy niets uitwerkt tot Romens schand.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Horace, Camilla, Curace</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l>MEn acht Curace hoog, ô zuster! weet gy 't wel?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>.</speaker>
+<l>Myn hoop en myn geluk veranderd, laas! zo snel!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l>Ei! wapen u met deugd en met stantvastigheid;</l>
+<l>Toon dat gy zyt myn bloed. Ei, waarom doch geschreid?</l>
+<l>Zo hy naar myne dood weêrom keerd als verwinner,</l>
+<l>Ontfangt hem als uw neef, uw bloed verwant en minner,</l>
+<l>Niet als een moorder, die uw broeder heeft vermoord:</l>
+<l>Maar, als een Edelman, die doet al 't geen behoord:</l>
+<l>En die zyn vaderland wel diend, en weet te toonen</l>
+<l>Aan yder, dat hy wel verdiend by u te woonen,</l>
+<l>Om u wen man te zyn; en heet hem wellekom</l>
+<l>Als of ik by u was; doch uwen bruidegom</l>
+<l>Geen haat draagd, als hy my den doodsteek heeft gegeven.</l>
+<l>Voltrek uw houw'lyk vry als of ik was in 't leeven:</l>
+<l>Maar zo het ook gebeurd, dat hy komt door dit staal</l>
+<l>Te sneuvelen, doet ook myn winst het zelfde omhaal;</l>
+<l>Ontfang my dan weerom voor 's vaderlands verwinner,</l>
+<l>Noch nimmer my verwyt de dood van u wen minoner.</l>
+<l>Uw tranen rollen neer, uw hart zie 'k, is onzet,</l>
+<l>Uw ziel die is ontroerd, ga heenen, zuster, met</l>
+<l>Uw bruidegom uw lot en ongeval beklaagen;</l>
+<pb n="28"/>
+<l>Vervloekt het noodlot vry, en de uuren en deez' dagen:</l>
+<l>De hemel, aard, en hel, en goden meê vervloekt,</l>
+<l>Ja vloek vry vloek op vloek, op al daar gy 't op zoekt,</l>
+<l>Maar laat het eind der stryd het eind zyn van uw klaagen,</l>
+<l>Denkt dan geen meêr aan haar die zyn in't veld verslagen,</l>
+<l>'k Laat u een oogenblik, niet langer, by haar staan,</l>
+<l>Dan zullen wy, daar de eer ons roept, tezamen gaan.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyede tooneel.</head>
+<stage><hi rend="sc">Camilla, Curace</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>.</speaker>
+<l>ZUlt gy daar gaan, myn ziel, en deze bloedige eere</l>
+<l>Zoud gy die, met 't verlies van al uw heil, begeere?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Curace</hi>.</speaker>
+<l>Helaas! hoe dat het gaat, Curace moet van kant,</l>
+<l>Of sterven van verdriet, of van uw broeders hand.</l>
+<l>Ik gaâ, als of ik ging ter slachtbank, naar deze eere:</l>
+<l>'k Vervloeke duizendmaal men my zo groot waardeere.</l>
+<l>Ik haat die manlykheid die Alba ziet in my.</l>
+<l>Myn hoopelooze min, werd in een raazerny</l>
+<l>Verkeerd, zy schaamt zich niets, en groeid tot groote zonden.</l>
+<l>Ik ran de goden aan en laat niets ongeschonden.</l>
+<l>Dan d'hemel, dan de hel die hebben 't my gedaan,</l>
+<l>'k Beklaag u neffens my; nochtans ik moet 'er gaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Camilla</hi></speaker>
+<l>Ik ken u beter, neen, gy zult u laaten zeggen,</l>
+<l>Gy wilt zelfs dat ik bid, op dat gy dus meugt leggen</l>
+<l>De schult op myn gebod, en dat die werd verschoond</l>
+<l>Op myne min, want gy hebt menigmaal getoond</l>
+<l>Uw trouwheid aan uw land, waar door gy hebt verworven</l>
+<l>Een wyd beroemden naam, die noit zal zyn verstorven.</l>
+<l>Gy hebt voor Alba vaak, en voor haar staat gestaan,</l>
+<l>Gelyk gy schuldig waard, en hebt voor haar gedaan</l>
+<l>Dat helden schrik ken deê, en u zo kloek gedraagen</l>
+<l>Dat niemand onder u zo veel 'er heeft verslagen,</l>
+<l>Uw naam is zo vermaard dat daar niets aan ou tbreekt,</l>
+<pb n="29"/>
+<l>Duld dat een ander maakt ook dat men van hem spreekt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Curace</hi>.</speaker>
+<l>Hoe! zou ik aan staan zien, en zou ik dit gedoogen,</l>
+<l>Dat and're pronken met een eere voor myn oogen,</l>
+<l>Die my was toebereid? of dat my 't vaderland</l>
+<l>Verweet, zo 'k had gestreên wy waaren noit vermand?</l>
+<l>Dat ik met zulk een schand besluite zo veel daaden!</l>
+<l>En dat ik door de min my zelven heb verraaden?</l>
+<l>Neen, Alba, naar deze eer, het zy ook hoe het zy,</l>
+<l>Gy niet verliezen zult, noch winnen dan door my.</l>
+<l>Gy hebt al uw geluk gesteld in onze handen;</l>
+<l>Met eer ik leeven zal, of sterven zonder schanden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>.</speaker>
+<l>Wel, weet gy wel, myn lief, wanneer gy my verlaat,</l>
+<l>Dat gy zy: trouweloos, en dat gy my verraad?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Curace</hi>.</speaker>
+<l>De trouw die ik u zwoer, bewaar ik ongeschonden,</l>
+<l>Doch ik ben aan myn land, meêr dan aan u, verbonden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>.</speaker>
+<l>Maar zult gy om uw land, u zelf berooven van</l>
+<l>Een zwager die gy mind, uw zuster van een man?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Curace</hi>.</speaker>
+<l>Zulks wil ons ongeluk, die naamen straks verlooren</l>
+<l>Haar zoetigheid en smaak, zo dra wy zyn verkooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>.</speaker>
+<l>Gy gaat, op dat gy zoud myn lieve broeder doôn,</l>
+<l>Helaas! en eischt daar my, zyn zuster, voor tot loon.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Curace</hi>.</speaker>
+<l>Men moet dit altemaal nu stellen uit de zinnen.</l>
+<l>Al wat ik kan, dat is u zonder hoop beminnen.</l>
+<l>Gy weend, myn waarde ziel!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>.</speaker>
+<l rend="; 1tab">Zou 'k niet, 't hart my begeeft,</l>
+<l>Nu ge ongevoelig my de reên tot sterven geeft</l>
+<l>Den hemel, die my op een bruiloftsdag deê hoopen,</l>
+<l>Sluit haare gunst voor my, en doet een graf my open.</l>
+<l>Uw hert is al te wreed, dat na geen kermen hoord,</l>
+<pb n="30"/>
+<l>En zeid dat het my mind, terwyl het my vermoord.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Curace</hi>.</speaker>
+<l>De traanen van een lief, wat zyn die van vermoogen.</l>
+<l>Wat is 'er al gwelts in uw bekoorlyke oogen,</l>
+<l>Verzien met zulk een kracht myn hert, op dit gezicht,</l>
+<l>Werd klein en flaau, het denkt noch nauwlyks op zyn pligt.</l>
+<l>Ei, wil myn eer niet meêr met uw geween bestryden:</l>
+<l>Maak dat myn deugden doch, ik bid, geen schipbreuklyden</l>
+<l>Door uw geschrei, ik voel zy loopen al gevaar</l>
+<l>Ach! tegens zulk een min ik nau myn eer bewaar:</l>
+<l>Hoe meêr ik ben uw lief, hoe min ik ben Curace</l>
+<l>Hoe meêr ik uw bemin, hoe meêr ik schroom Horace.</l>
+<l>Ik ben verz wakt toen ik de vriendschap overwon,</l>
+<l>Doen maag noch zwagerschap my niet weêrhouden kon.</l>
+<l>Hoe kan ik nu bestaan. myn min en medelyden,</l>
+<l>Met u, gelykelyk, myn deugden komt bestryden.</l>
+<l>Ga, ga verlaat my nu, en my niet meêr voortaan</l>
+<l>Bemind, en stort niet meêr, om mynent wil, een traan,</l>
+<l>Op dat gy zwakker werd, zo wil ik u verstooren,</l>
+<l>Ik beter nu my zelfs, en zal, spyt u wen tooren,</l>
+<l>Beschermen dan uw min, op dat ik die verdien,</l>
+<l>Zo haat ik u voortaan, ik mag u niet meêr zien.</l>
+<l>Wreek u van zulk een man, en straft vry ongenaadig</l>
+<l>Die u ondankbaar is, dus licht en ongestadig.</l>
+<l>Gy haai noch niet, die u dat schelmstuk heeft gedaan,</l>
+<l>Ik mag u niet meêr zien, en gy ziet my noch aan?</l>
+<l>Ik zie u met verdriet, hoe kan ik u vermaken?</l>
+<l>Ei, wat ontbreekt 'er noch nu ik myn trouw verzaake?</l>
+<l>O straffe deugd in my gy kon geen weêrstand biên,</l>
+<l>Ten zy eerst tot uw hulp een schelmstuk most geschiên!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>.</speaker>
+<l>Ei doet geen schelmstuk meêr, het kan u toch niet baaten,</l>
+<l>Ik zweer u, by de goôn, in plaats van u te haaten,</l>
+<l>Zal ik u meêr en meêr beminnen, ja gy zult</l>
+<l>My liever zyn en waard, en om die zelve schuld:</l>
+<l>Dus trouwloos als gy zyt, dus wreed en ongenadig;</l>
+<pb n="31"/>
+<l>En dus ondankbaar, en dus licht en ongestadig,</l>
+<l>Zult gy de liefste zyn, en in myn herte staan,</l>
+<l>Zo gy niet meerder tracht myn broeder dood te slaan.</l>
+<l>Waarom zyn onze reên niet eenig, maar verscheiden?</l>
+<l>'k Zoude u aanvoeren in de plaats van af te leiden,</l>
+<l>Zo ik van Alba was, of gy van Romen waart:</l>
+<l>Ik zweer u dat ik zou u reiken zelfs het zwaard,</l>
+<l>Ik zou u porren zelfs, en u een moed inspreeken.</l>
+<l>Ik zou u handelen, gelyk het heeft gebleken,</l>
+<l>Als ik myu broeder deê; maar laes! och my! ik had</l>
+<l>Geen oordeel doen ik flus zo vierig voor hem bad,</l>
+<l>De wenschen dien ik flus zo yv' rig voor hem deden</l>
+<l>Die waren tegens u. 'k zie hem weêr herwaarts treeden.</l>
+<l>Wat droef heid, zo zyn vrouw niet meêr op hem vermag.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Curace, Sabina, Horace, Camillia</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Curace</hi>.</speaker>
+<l>ZAbina, volg hem naar, och ja! O goden! ach!</l>
+<l>Waar 't niet genoeg dat my Camille brak het harte,</l>
+<l>Moest gy, ô zuster! noch verdubbelen myn smarte?</l>
+<l>Haar traanen myn gemoed doorsnyden, en komt gy,</l>
+<l>Of haar noch iets gebrak, en voegt 'et uwe by?</l>
+<l>Gy breekt myn groots gemoed, en doet my angstig schroomen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Sabina</hi>.</speaker>
+<l>Myn broeder, neen, ik ben daar om niet hier gekomen,</l>
+<l>Maar kom om dat gy wierd noch eens van my gekust,</l>
+<l>En neem myn afscheid, stelt dus voorts uw hart gerust:</l>
+<l>Uw bloed is al te vroom, vreest niet dat niet betaamen</l>
+<l>En zou en schroom niet daar uw ziel zich af zou schaamen.</l>
+<l>Indien dat een van tween doet wanken deze ellend,</l>
+<l>Zo wierd gy noch voor man, noch gy voor broêr erkend.</l>
+<l>Maar mag ik evenwel iets van u beiden bidden,</l>
+<l>Gy weet wel dat ik vrouw of zuster da in 't midden,</l>
+<l>Verhoor toch wat ik bid, uw zuster, en uw vrouw,</l>
+<l>lk wil met eenen slag, ik wil met eenen houw</l>
+<l>Af kappen alle schand, verdriet en alle zonden,</l>
+<pb n="32"/>
+<l>Ik bid u, hoort my maar, ik heb een weg gevonden,</l>
+<l>Waar door gy lichtelyk malkanders haat verdiend,</l>
+<l>Waar door tot vyand wierd den allerbesten vriend</l>
+<l>Die iemand heeft gehad, dus kund gy beide uw naamen</l>
+<l>Doen klinken door het land, en zonder u te schaamen,</l>
+<l>Van dat een lieve vriend zyn zwager heeft vermoord,</l>
+<l>Zyn broeder heeft gedood, ik bid, dat gy me hoord.</l>
+<l>Zie hier den knoop alleen, en band, die u dus beiden</l>
+<l>Te zamen bind en knoopt, gy zyt dan straks gescheiden</l>
+<l>Als die niet meerder is; nu kom ontknoop dien strik,</l>
+<l>En kapt dien band aan twee, dien knoop en band ben ik,</l>
+<l>Dus krygt gy door myn dood een wettelyken tooren,</l>
+<l>En voert zo beter uit waar toe gy zyt verkooren:</l>
+<l>Gy zult, met meerder recht, na 't eereperk toe gaan,</l>
+<l>En zult met minder schand', malkanderen verslaan.</l>
+<l>Dus wil het yder een, daar help geen tegenspreeke,</l>
+<l>Slaat een van tween my dood, dat de ander my dan wreeke</l>
+<l>Dan zal 't zo vreemd niet zyn, dat gy elkâar bevecht,</l>
+<l>Ten minsten een van tween die stryd met dubbel recht,</l>
+<l>Om dat hy zal zyn vrouw of zyne zuster wreeken,</l>
+<l>Die van haar broeders hand of man is dood gesteeken,</l>
+<l>Maar hoe? gy zoud misschien bezoed'len dus uwe eer,</l>
+<l>Indien iets anders noch u trekken deê 't geweer,</l>
+<l>Dan de yver voor het land, nu zult gy licht'lyk denken</l>
+<l>Dat dit uw roem en eer en grooren naam zal krenken;</l>
+<l>Daar moet voor 't vaderland een zwager zyn geslacht;</l>
+<l>Begint terstond dan werk, waar toe dus lang gewacht?</l>
+<l>Begint gy hem zyn bloed te storte van zyn vrouwe,</l>
+<l>En van zyn zulter gy, hem in het lyf te houwen,</l>
+<l>En van Sabina zo begint deze offerhand,</l>
+<l>Van beide uw lyf en ziel op te offeren aan 't land,</l>
+<l>Want gy zyt vyanden door deze keur verscheiden:</l>
+<l>Van Alba gy, en gy van Romen, ik van beiden;</l>
+<l>Waar toe bewaard gy my, uw vyand? hoe, of moet</l>
+<l>Ik rooken zien myn man of broeder van een bloed</l>
+<l>Dat my zo waardig is? hoe zali tusschen beijen</l>
+<l>Myn ziel bestieren, en den overleên beschreijen;</l>
+<pb n="33"/>
+<l>Terwyl ik, die verwint, heet welkom, zeg my, hoe</l>
+<l>Dat ik de pligt van vrouw en zuster dan voldoe?</l>
+<l>Neen, neen, tot dezen tyd Sabina niet zal leeven,</l>
+<l>Myn dood die kom die voor van wie ze ook werd gegeeven,</l>
+<l>Zo gy 't my weigerd, dan zal ik myn zelven doôn,</l>
+<l>Wat let uw, helden, zeg, waarom van my gevloôn?</l>
+<l>Ik weet de middelen om u daar toe te dwingen,</l>
+<l>Als gy den stryd begint ik zal 'er tusschen springen,</l>
+<l>En, of gy 't wilt of niet, de kling van een van bei,</l>
+<l>Die raakt my dwars door 't lyf zo ik 't gevecht niet schei.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Curace</hi>.</speaker>
+<l>Myn zuster!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l rend="; 1tab">O myn vrouw!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>.</speaker>
+<l rend="; 3tab">Vaar voort, zy zyn bewogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Sabina</hi>.</speaker>
+<l>Gy zucht bei zucht op zucht, de dood slaat u in de oogen,</l>
+<l>Wat angst slaat u om 't hart, is dit het moedig paar,</l>
+<l>Dat Albe en Romen keurd?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Curace</hi>.</speaker>
+<l rend="; 2tab">'k Ben 't einde raads voorwaar?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l>Myn vrouw, wat deed ik u? wat is 't? in welke zaake</l>
+<l>Vertoorenden ik u, waarom gy zulk een wraake</l>
+<l>Begeert van uwen man? wat heeft hy doch gedaan</l>
+<l>Dat gy met al uw magt valt op zyn vroomheid aan?</l>
+<l>Ten minsten weest te vreên dat gy die hebt bewogen</l>
+<l>Ontzet en omgeroerd. en dat gy hebt vermogen</l>
+<l>Een zucht uit zyne borst te trekken: verder lyd</l>
+<l>Dat ik voltrekken mag dien overed'len stryd;</l>
+<l>Die 'k niet verwenschen kan, al moetze my berouwen,</l>
+<l>Gy maakt my wonderlyk. ô! overwaarde vrouwe,</l>
+<l>Bemind uw man gestaâg als't hoord maar nimmermeêr</l>
+<l>Belet noch haat zyn winst, zyn deugden en zyn eer.</l>
+<l>Ga weg, wil my 't geluk niet twyffelachtig maaken.</l>
+<l>Dit draalen jaagd my reeds de schaamte op bei de kaaken,</l>
+<pb n="34"/>
+<l>Ik bid, hou my niet op, dit staan strekt my tot schand,</l>
+<l>Ei, duld toch dat ik sterf met eer voor 't vaderland,</l>
+<l>Of dat ik eerlyk leef, gy kond my niet beletten.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Sabina</hi>.</speaker>
+<l>'t Is wel, maar vreest niet meêr, men komt u daar ontzetten.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<stage><hi rend="sc">Horace</hi> <hi rend="i">denvader</hi>, <hi rend="sc">Horace</hi> <hi rend="i">denzoon</hi>, <hi rend="sc">Curace, Sabina, Camilla</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Horace</hi> <hi rend="i">den ouden</hi>.</speaker>
+<l>WAt 's dit, myn kinderen! denkt gy om minnebrand?</l>
+<l>Verk wist gy dus uw tyd met vrouwen? wat een schand!</l>
+<l>Die straks zult zo veel bloed verplengen, staat verslaagen</l>
+<l>Op deze druppelen brak waters? wykt, laat klaagen,</l>
+<l>Laat weenen deze alleen, haar traanen, zie ik wel,</l>
+<l>Vermogen veel by u: ten lesten vrees ik. zel</l>
+<l>Het kermen van die twee uw vroomigheid verzwakken,</l>
+<l>En doen dien hoogen moed tot schanden nederzakken.</l>
+<l>Wykt, wykt. myn kinderen, ik ben met u beducht;</l>
+<l>Geen schild u voor deez' bui kan dekken: neemt de vlucht.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Sabina</hi>.</speaker>
+<l>Vreest niet van haar, zy zyn, in spyt van onze klagten</l>
+<l>En kermen, al het geen gy wenschen zoud, en wachten</l>
+<l>Van zwager of van zoon, indien dat ons geween</l>
+<l>Haar iets vermurwen kon, zo gingen wy niet heen.</l>
+<l>Kom, zuster laat ons gaan, stort niet vergeefs uw tranen,</l>
+<l>Daar hoop geen paaden kend daar moet de wanhoop baanen.</l>
+<l>En openen een weg alleen in zulk een nood.</l>
+<l>Gaat, wolven, gaat ten stryd, wy gaan dus naar de dood.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="35"/>
+<head rend="h4">Achtste tooneel.</head>
+<stage><hi rend="sc">Horace</hi> <hi rend="i">den ouden</hi>, <hi rend="sc">Horace</hi> <hi rend="i">den zoon</hi>, <hi rend="sc">Curace</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Horace</hi> <hi rend="i">de zoon</hi>.</speaker>
+<l>IK bid u, vader, hou die vrouwen, wil beletten</l>
+<l>Dat zy niet verder gaan, laat wel de poort bezetten,</l>
+<l>Want zo men haar liet gaan, zy mogten alle bei</l>
+<l>Ons komen steuren met haar kermen en geschrei,</l>
+<l>En 't geen zy by ons zyn, met recht zou doen vermoeden</l>
+<l>Dat zulks besteeken was: dies zyt wel op uw hoede;</l>
+<l>Want geen bedrog of list die twee ontbreeken zal.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi> <hi rend="i">den ouden</hi>.</speaker>
+<l>Die zorg neem ik op my, gaat been, men wagt u al.</l>
+<l>Uw broeders zyn al weg, en lang voor heen getreeden,</l>
+<l>Wat toeft gy bei, gaat voort.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Curace</hi>.</speaker>
+<l rend="; 1tab">Helaas! met wat voor reden</l>
+<l>Spreek ik u aan? en ach! wat asscheid neem ik nu?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi> <hi rend="i">den ouden</hi>.</speaker>
+<l>Ei, maak my niet bedroefd! Helaas! hoe kan ik u</l>
+<l>Vertroosten, daar myn tong my weigerd om te sprecken:</l>
+<l>Ach! als ik op u zie, myn hert in tween wil breeken.</l>
+<l>Dit afscheid perst my zelfs de traanen in 't gezicht</l>
+<l>Beveel uw zaak de goôn, maar gaat, en doet uw pligt,</l>
+<l>Treed naden kamp, en wacht daar de uit komst af van boven</l>
+<l>Den zegen komt alleen van daar, wy moeten 't loven,</l>
+<l>Wat van den hemel komt. ga heen, elk doe zyn best.</l>
+<l>Toon u als helden, en beveel de goôn de rest,</l>
+<l>'t Geen zy besluiten is onmooglyk om te ontvluchten.</l>
+<l>Zy gaan daar heen daar ik haar vol ge met myn zuchten.</l>
+</sp>
+</div>
+</div>
+<div type="act">
+<pb n="36"/>
+<head rend="h3">Derde bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Sabina, Julia</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Sabina</hi>.</speaker>
+<l>WEl, Julia, is 't reeds beschikt, wat komt ge ons brengen?</l>
+<l>De moord van broêrs of man? of wil 't geen god gehengen</l>
+<l>Dat iemant overblyft, spreek, zyn zy al vermoord?</l>
+<l>Ei zeg, wie leefd 'er noch? of zyn zy nu al voort?</l>
+<l>Wie wind 'er toch. of zyn zy alle zes al lyken?</l>
+<l>Zo zal ik met geen schrik den overwinner kyken,</l>
+<l>En gruw'len van zyn hand, geverwt van 't waarde bloed,</l>
+<l>Zeg op, wie is 'er dood? die ik beweenen moet,</l>
+<l>Betreuren haar verlies en staatig rou gaan draagen?</l>
+<l>O rou, die eeuwig duurd! het zyn myn naaste maagen!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Julia</hi>.</speaker>
+<l>Hoe, weet gy nergens van het geen 'er is geschied?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Sabina</hi>.</speaker>
+<l>Dat ik het niet en weet, verwonderd u des niet.</l>
+<l>U is licht onbewust, dat, als me ons niet kon stillen,</l>
+<l>Noch paaijen, van dit huis voor my, en voor Camille</l>
+<l>Een kerker is gemaakt, men sluit ons bei hier in,</l>
+<l>En men vertrouwt ons niet by iemant van 't gezin:</l>
+<l>O Julia! men vreest onz' traanen, en onz' weenen,</l>
+<l>Ten waar dat had geweest, wy waaren bei lang heenen</l>
+<l>In 't midden van 't gevecht, wy waaren tusschen bei</l>
+<l>Haar degens lang geweest, misschien of ons geschrei,</l>
+<l>En traanen had by 't volk, en heiren wat vermogen,</l>
+<l>En al de benden, en de krygers wat bewogen,</l>
+<l>Meêdoogentlyk een oog op ons verdriet te staan,</l>
+<l>Wie weet hoe dat het dan daar na had mogen gaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Julia</hi>.</speaker>
+<l>Zo een verdrietig doen en was 'er niet van nooden,</l>
+<pb n="37"/>
+<l>Het kampen wierd genoeg van haar belet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Sabina</hi>.</speaker>
+<l rend="; 1tab">O goden!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Julia</hi>.</speaker>
+<l>Zo haast verscheenen zy niet voor het volk in 't veld,</l>
+<l>Of 't een en 't ander heir was schrikkelyk ontsteld:</l>
+<l>Men hoorde eerlt een gedruis, de knechten straks beweezen,</l>
+<l>En ruiters, datze in 't minst deez' keure niet en preezen,</l>
+<l>Aanschouwende een geslacht gewapend voor haar staan,</l>
+<l>En broederen bereid malkand'ren te verslaan;</l>
+<l>De legers staan ontzet, een yder is be woogen,</l>
+<l>Die werd van schrik bevat, en die van mededogen;</l>
+<l>Die staat verbaast en kykt van zulk een raazerny,</l>
+<l>En yver tot zyn Staat, in twyfel of het zy.</l>
+<l>Of dulheid of beleid, die is 'er af verwonderd,</l>
+<l>Een ander wederom haar naam uitroept en donderd,</l>
+<l>En pryst tot aan de lucht haar deugd en vroomigheid;</l>
+<l>En looft dit stout bestaan, die weêr heel anders zeid,</l>
+<l>En noemtze gruuwelyk en wreeder noch als tygers,</l>
+<l>En dat geen mensch ooit zag afgrysselyker krygers.</l>
+<l>In alle dit gewoel men hoord maar eenen praat,</l>
+<l>Men spreekt alleens, dien kamp haar niet wel aan en slaat:</l>
+<l>Men geeft de hoosden schuld, een yder neemt mishaagen</l>
+<l>Dat zy verkooren zyn en niemand kan verdraagen,</l>
+    <l>Een stryd zo gruuwelyk, men schreeuwd, men roept ga voort</l>
+<l>Schei, schei, de broêrs, op dat haar vechten werd gehoort.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Sabina</hi>.</speaker>
+<l>O groote goôn! wat zal ik u ten offer brengen!</l>
+<l>Hoe zal ik stierenbloed straks in uw tempels plengen!</l>
+<l>Hoe groot is nu myn schuld, gy hebt my, goôn! verhoord.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Julia</hi>.</speaker>
+<l>Neen, neen, Sabina, neen gy hebt noch rechtevoort,</l>
+<l>Niet als gy 't gaeren had, maar hebt nu min te schroomen:</l>
+<l>En hoop dat meêr geluks na dit begin zal komen,</l>
+<l>Want daar blyft noch genoeg. dat gy bek laagen meugt</l>
+<l>En vreezen, neen! het is noch geen volkomen vreugt;</l>
+<l>Men wil haar, doch vergeefs, van dit gevaar bevryden,</l>
+<pb n="38"/>
+<l>Maar ziet, dat edel bloed wil tienmaal liever lyden</l>
+<l>Te sterven duizendmaal, als tot haar heil verstaan;</l>
+<l>Die eer en deze keur die staat haar hooger aan;</l>
+<l>En die betoverd zo haar hert, dat zy haar achten</l>
+<l>Verminderd, dat men haar beweend; met alle klagten</l>
+<l>En kermen lachchen zy, en neemen 't op voor smaat</l>
+<l>En spyt. als iemand hem met haar erbermen gaat.</l>
+<l>Dat d'heiren zyn onsteld daar over zy haar schaamen,</l>
+<l>De ontroernis van al 't volk bezoeteld haare namen.</l>
+<l>Zy zullen liever bei de legers tegen gaan,</l>
+<l>En liever tegens al de bende en ridders slaan,</l>
+<l>En sterven door die hand, die haar heeft willen scheiden,</l>
+<l>Als laaten al die eer, die haar dien stryd bereiden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Sabina</hi>.</speaker>
+<l>Haar hert van staal dat blyft hertnekkig noch daar naar.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Julia</hi>.</speaker>
+<l>Ja, maar aan de andre zy de legers beide gaar</l>
+<l>In oproer raaken, en men hoord van bei de zyden,</l>
+<l>Gelyk in eenen stond, haar roepen, laat ons stryden:</l>
+<l>t' Sa, mannen, aan 't geweer, of kiest ons and ren uit,</l>
+<l>Dit is te gruuwelyk, elk schreeuwt 'er overluit;</l>
+<l>Wy willen zelver slaan, zo deze moeten vechten,</l>
+<l>Me ontziet de hoofden niet, die kunnen dit niet rechten,</l>
+<l>Men hoord haar woorden niet, haar magt en heeft geen magt;</l>
+<l>Men noch haar dreigen noch haar smeeken niet en acht.</l>
+<l>Den Koning zelfs die staat verbaast, en doet zyn beste,</l>
+<l>Dat hy den operoer stil of neêrzet, en ten lesten</l>
+<l>Zo roept hy yverig; myn lieve vrienden. wilt</l>
+<l>Me een weinig hooren maar, ik bid u om wat stilt;</l>
+<l>Een yders bloed. zeid hy. ontsteekt en raakt aan 't kooken,</l>
+<l>De vreden is gemaakt, waarom die weêr gebrooken?</l>
+<l>Mishaagd u deze keur? kom laat ons gaan om raad</l>
+<l>By goden, vraagen haar wat haar behaagd, en laat</l>
+<l>Ons hooren of zy wel 't verand'ren zullen pryzen,</l>
+<l>En volgen wy dan naar het geen dat zy ons wyzen,</l>
+<l>Of door een voglevlucht, of in het ingewand</l>
+<pb n="39"/>
+<l>Van eenen offerstier, of naar een offerhand</l>
+<l>Door waare wiglery; kom, gaan wy tot de goden,</l>
+<l>En onderwerpen ons gewillig haar geboden;</l>
+<l>Kom hooren wy haar dan en houden ons voort stil</l>
+<l>Wie zal zo spoorloos zyn, die zich niet voor haar wil</l>
+<l>Zal buigen! en wie zal de hemelen bestrijen!</l>
+<l>Hy zweeg, en 't geen hy sprak dat scheenen toverijen.</l>
+<l>De kampers alle zes, die steeken haar geweer</l>
+<l>Gelykelyken op, dien dommen lust tot eer</l>
+<l>Hoe blind die ook mag zyn, ontziet noch haare goden,</l>
+<l>En volgd naar Tullus raad, en hoord naar zyn geboden,</l>
+<l>Het zy dan dat het was een inval van 't gemoed.</l>
+<l>Of een godzaal'gen schrik, of dat 't iets anders doet,</l>
+<l>De Albanen hooren hem gelyk de Roomsone benden,</l>
+<l>Als of zy beide alreê hem voor haar Koning kenden.</l>
+<l>Wat dat het weezen zal dat zal men eerst verstaan</l>
+<l>Als 't bidden eindigd, en het offer is gedaan.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Sabina</hi>.</speaker>
+<l>De goden zullen noit verstaan tot zulk een stryden.</l>
+<l>Het welk zo godioos is. 'k ben, Julia, wel blyde,</l>
+<l>Om dat gy my daar hebt die goede maar verteld;</l>
+<l>Ik hoop nu alles goeds terwyl 't is uitgesteld.</l>
+</sp>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Sabina, Camilla, Julia.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Sabina</hi>.</speaker>
+<l>MYn zuster, wat is daar een goede maar gekomen!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>.</speaker>
+<l>Ja, ik verstond het ook maar blyf noch al vol schroomen.</l>
+<l>Men zei het vader strak. daar ik stond aan zyn zy,</l>
+<l>Doch ik en hoorde niet tot troost voor u en my,</l>
+<l>En lichting onzer smart: deze uitstel onzer plaagen</l>
+<l>Doet. dat ik niet als vrees voor noch veel harder slaagen,</l>
+<l>Verlenging van onz' kwaad, en anders is het niet,</l>
+<l>Veel laater zal het zyn, doch zwaarder ons verdriet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Sabina</hi>.</speaker>
+<l>Neen, God heeft niet vergeefs het volk dit ingesteeken.</l>
+</sp>
+<pb n="40"/>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>.</speaker>
+<l>Zeg liever dat vergeefs men goôn om raad gaat smeeken.</l>
+<l>Zy hebben Tullus ingesteeken ook die keur,</l>
+<l>De stemme van het volk is altyd niet de heur.</l>
+<l>Zy komen minder neêr in hutten, en in stallen,</l>
+<l>Als in een Konings hof, de vorsten haar gevallen</l>
+<l>Veel meêr dan al 't gemeen, de vorsten zyn van haar</l>
+<l>Een leevend beeld op aard, een vorst die deild voorwaar.</l>
+<l>Veel deelen aan haar glans, en goddelyke straalen.</l>
+<l>Dies zy eer in een vorst dan in een borger daalen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Julia</hi>.</speaker>
+<l>Ik weet voorwaar niet wat van uw zwaar hoofdigheid</l>
+<l>Te denken is, daar u dus zeker is voorzeid,</l>
+<l>Het geen 'er komen zal, en wat den goden willen.</l>
+<l>Geloofd en weest gerust, ik bid het u, Camille</l>
+<l>Geloofd godts tolken, hoopt op de uitkomst, twyffel gy</l>
+<l>Aan godspraak meerder dan aan losse wichlery?</l>
+<l>Of meend gy dat gy zyt daar in veel meêr ervaaren,</l>
+<l>Dan die zich daar in heeft geoeffend zo veel jaaren?</l>
+<l>'t Zal u naar wenschen gaan, ik bid u, maar geloofd</l>
+<l>Het antwoord dat het u heeft gisteren beloofd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>.</speaker>
+<l>Een godspraak kan men noit, gy weet het, wel uitleggen,</l>
+<l>En zelden weet men wat den god daar meê wil zeggen,</l>
+<l>Ja, noit verstaat men recht de helleft van de zin;</l>
+<l>Wie 't meest meend te verstaan, verstaat het dikmaals min;</l>
+<l>Heel duister is de taal der goden, en verborgen</l>
+<l>Het geen haar spraak bedied, helaas! dit doet my zorgen</l>
+<l>Voor ongemak, ik vrees in deze duisternis,</l>
+<l>Voor 't geen daar weezen kan, en 't geen 'er niet en is.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Julia</hi>.</speaker>
+<l>Vergeefs werd voorgewend de duisternis in woorden,</l>
+<l>'t Spreekt duidelyk genoeg, het antwoord dat gy hoorden</l>
+<l>Dat sprak van vreede, en vreugd en uitkomst naar uw zin,</l>
+<l>Curace, en gy werd eens; zie hier alreeds 't begin.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Sabina</hi>.</speaker>
+<l>Laat ons watmeer op 't geen dat voor ons is vertrouwen,</l>
+<pb n="41"/>
+<l>En laat ons onze hoop op 's hemels goedheid bot wen;</l>
+<l>De schaduw van de gunst der goden haar vertoond,</l>
+<l>En zo men die verwerpt, haar godheid werd gehoond;</l>
+<l>En als den hemel maar doet halt zyn armen open,</l>
+<l>Is die geen gunste waard, die nimmer derft dan hoopen</l>
+<l>Veel meerder hulp en gunst, de wanhoop vaak belet</l>
+<l>Dat hy zyn armen dan niet meerder open zet.</l>
+<l>De goden zenden af haar hulp, men moet gelooven,</l>
+<l>En zo men ze verwerpt, men zend die weêr naar boven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>.</speaker>
+<l>Den hemel zonder ons, laas! werkt, gelyk gy ziet,</l>
+<l>En regeld haar in 't minst naar ons gevoelen niet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Julia</hi>.</speaker>
+<l>Den hemel deê geen vrees aan u dan om deez' reden,</l>
+<l>Dat zy haar gunst aan u zou toonen, uw gebeden</l>
+<l>Verhooren: maar ik ga verneemen hoe 't al gaat,</l>
+<l>Bedwing uw vreezen wat, 'k zal met geen andre praat</l>
+<l>Dan minnekoozery, als ik nu weer zal komen,</l>
+<l>U onderhouden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>,</speaker>
+<l rend="; 1tab">Daar derf ik niet eens van droomen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Sabina</hi>.</speaker>
+<l>'k Heb even wel noch moed dat god ons hoord in 't lest.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Julia</hi>.</speaker>
+<l>Wie best geraaden heeft, dat leerd ons de uitkomst best.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vierde tooneel.</head>
+<stage><hi rend="sc">Sabina, Camilla</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Sabina</hi>.</speaker>
+<l>LY, onder ons verdriet, dat ik u doen verachten.</l>
+<l>Ik kan niet pryzen dat gy hebt in uw gedachten</l>
+<l>Zo veel onsteltenis, wat zou het, zuster, zyn,</l>
+<l>Indien uw kwaad zo groot en zeker was dan 't myn?</l>
+<l>Wat zoud gy doen indien gy vreesde, van haar krygen,</l>
+<l>Een slag gelyk de myn?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>.</speaker>
+<l rend="; 2tab">Ik bid u, wil toch zwygen,</l>
+<pb n="42"/>
+<l>Of spreekt met meêr verstands van myn of uw verdriet:</l>
+<l>Men met een ander oog het zyn dan and'ren ziet,</l>
+<l>Maar ziet eens op het myn uw kwaad geen kwaadzal schynen,</l>
+<l>Indien dat gy het maar gelyken wil by 't myne</l>
+<l>Horacens doodsgevaar. daar komt uw vrees maar van,</l>
+<l>En broeders die zyn niet geleeken by een man</l>
+<l>Men volgt zyn man, en laat zyn bloedverwanten loopen.</l>
+<l>'t Gelykt niet met elkâar deez 'twee verscheide knoopen,</l>
+<l>Want de echt die ons verbind aan eenen and'ren stam,</l>
+<l>Ontknoopt ons van de geen van waar men eerst af kwam,</l>
+<l>Nu zynde in ondertrouw met hem, die eene vader,</l>
+<l>Ons toeschikt, die is vry ons als een vreemd wat nader,</l>
+<l>Niet minder, als een broêr: doch minder als een man;</l>
+<l>Van bruigom of van broêr ik geen verkiezen kan.</l>
+<l>De keur blyft tusschen bei ik ben aan bei verbonden,</l>
+<l>Aan bruigom en aan broêrs, maar gy kund zonder zonden</l>
+<l>Een zyde kiezen die maar aan uw man verknocht,</l>
+<l>Niet aan uw broeders zyt, zint dat gy zyt gebrogt</l>
+<l>Door 't trouwen aan de stam, daar ik in ben gebooren,</l>
+<l>En noch in blyven moet. Curac' heefr my verkooren,</l>
+<l>Hy is myn bruidegom, ik zit in ondertrouw,</l>
+<l>Ik ben zyn bruid van lang, doch echter niet zyn vrouw;</l>
+<l>En blyf dus noch aan broêrs, en 's vaders huis gebonden:</l>
+<l>Maar gy slechts aan myn broêrs, och! dat ik ook zo konde</l>
+<l>Verkiezen zo als gy; nu staan ik heel verzet</l>
+<l>Al is 't my in de weg; en niets uw keur belet.</l>
+<l>Geen uitkomst is voor my, voor u staat noch iets open,</l>
+<l>Voor my ik vrees het al, en hebbe niet te hoopen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Sabina</hi></speaker>
+<l>Indien dat de een moet zyn van de anderen gedood,</l>
+<l>Zo zyn de reden in uw redenen niet groot;</l>
+<l>En of, ô zuster, deez' verbintenissen scheelen</l>
+<l>Van broeders, of van man, zo kan ik doch niet veelen,</l>
+<l>Dat gy zo krachtig dryft dat, als me een ega neemt,</l>
+<l>Zyn broêrs verlaaten moet, en van zyn bloed vervreemd.</l>
+<l>Neen, de echt en wist niet uit dus diep geprente teikens,</l>
+<l>Die dieper in het hert dan in het aardryk de eikens</l>
+<pb n="43"/>
+<l>Haar wortels heeft gevest, neen, niemand is gezind</l>
+<l>Te haaten al zyn broêrs, om dat me een man bemind.</l>
+<l>Deze ingebooren zucht werd zo niet ingebonden,</l>
+<l>En door het trouwen werd geen maagschap ooit geschonden,</l>
+<l>En broeders zyn zo wel, ô zuster! als een man,</l>
+<l>Ons ander eigen zelf. Ik honde zo veel van</l>
+<l>Myn broeders als myn lief, hoe lief hy me ook mag weezen.</l>
+<l>Maar hem, die gy bemind. voor wien gy zyt in vreezen,</l>
+<l>Gy voor een ander lief heel licht verwis'len kund,</l>
+<l>Voor een die beter is, of wie den hemel gund</l>
+<l>Dat hy geen vyand is van broeders, or van Romen.</l>
+<l>Zou deez' verandring in u niet konnen komen?</l>
+<l>Ach. laas! een kwade luim, een spyt, een smaat, een klad,</l>
+<l>En lichtelyk een woord wat kwaalyk opgevat,</l>
+<l>Zyn machtig om het lief u uit den zin te dryven,</l>
+<l>Zo dat hy eeuwiglyk kan in vergeting blyven,</l>
+<l>'t Geen deze dik maals doen, dat zulks de reden doet.</l>
+<l>Die u niet meêr bestaat gelykt niet by uw bloed.</l>
+<l>'t Is schande dat gy meend, dat een die g'hebt verkooren</l>
+<l>Doch laaten kund, zo veel, als een die is gebooren,</l>
+<l>En naast in bloed, bestaat, 't gelyk doch niet met al.</l>
+<l>Ik weet, helaas! nu niet, wat dat ik wenschen zal,</l>
+<l>Zo d'hemel voort wil gaan, hoe dat het ook zal komen</l>
+<l>Ik niet te hoopen heb, maar 't altemaal te schroomen,</l>
+<l>Maar gy kond wenschen, en verkiezen onbevreest.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>.</speaker>
+<l>Ik zie wel, zuster, gy hebt nooit verliefd geweest,</l>
+<l>Gy kend de minne niet, zyn pylen noch zyn boogen:</l>
+<l>Men kan hem tegenstaan als hy eerst komt gevloogen;</l>
+<l>Doch als hy zich in 't hert maar eens geworteld heeft.</l>
+<l>Wie kan hem tegenstaan? geen mensche die 'er leefd.</l>
+<l>Men kan hem tegenstaan als hy begint te groeijen</l>
+<l>Maar als hy lyf en ziel gekluisterd houd in boeijen,</l>
+<l>Ga jaag hem dan eens weg. Myn vader stond het toe,</l>
+<l>Ik gaf myn trouwe weg, ei zeg me doch eens, hoe</l>
+<l>Dat ik verjaagen zal dien dwingeland en heere,</l>
+<l>Nu wettig, volgens myn en 't vaderlyk begeere?</l>
+<pb n="44"/>
+<l>Hy komt eerst zagjes aan maar dwingt met kragt'tgemoed</l>
+<l>En als de ziel hem eens gesmaakt heeft wat men doed</l>
+<l>Het is onmogelyk, men moet hem voorts gehengen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Horace</hi> <hi rend="i">den ouden</hi>, <hi rend="sc">Sabina, Camilla</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l>MYn dochters, ik kom u een droeve tyding brengen,</l>
+<l>Het waar vergeefs zo 'k die voor u verbergen wou,</l>
+<l>Dewyl men het niet lang voor u verz wygen zou,</l>
+<l>Uw broeders zyn aan een, de goden 't zo gebooden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Sabina</hi>.</speaker>
+<l>Ik schrik van deze maar, ik hoopten in de goden</l>
+<l>Wat minder onrecht en war meer meêdogentheid.</l>
+<l>Ik bid, vertroost ons nier, al wat de reden zeid</l>
+<l>Als zy zulk een verdriet verbloemd dat maakt ons moelyk,</l>
+<l>En zo een slag die maakt de menschen ongevoelyk.</l>
+<l>Wy hebben in ons hand het eind van ons verdriet.</l>
+<l>Een die tot sterven kan verstaan, en hoeft toch niet</l>
+<l>De goôn te ontzien hy kan het ongeva uittarten,</l>
+<l>Geen ongeluk hoe groot, en kan hem langer smarten,</l>
+<l>Zo hy maar moedig, en tot slerven is bereid</l>
+<l>Wy konnen licht dus in uw tegenwoordigheid,</l>
+<l>Van onze wanhoop straks een valsche kloek heid maaken,</l>
+<l>En door een korte dood uit onze droef heid raaken:</l>
+<l>Maar als men zonder schand mag zonder kloek heid zyn,</l>
+<l>Zich dan te veinzen stout is maar een deugd in schyn.</l>
+<l>Het werk van zulk een kunst dat laaten wy voor mannen,</l>
+<l>Wy zullen niet meêr doen als 't geene dat wy kannen,</l>
+<l>Wy willen niet meêr zyn dan 't gene dat wy zyn,</l>
+<l>Als vrouwen in de daad ook vrouwen in de schyn.</l>
+<l>Wy willen mede niet dat zulk een moed, als de uwe,</l>
+<l>Dus daalen komt als wy, en dus voorde uitkomst gruwe</l>
+<l>Van dezen slag, als wy beklaagen 't ongeluk.</l>
+<l>O neen, maar kyft ook niet, dat wy in dezen druk</l>
+<l>Wat kermen, zonder dat gy de uw daar meê zult mengen:</l>
+<pb n="45"/>
+<l>Zie onze traanen maar, en wil van ons gehengen</l>
+<l>Dat wy weemoedig zyn, en blyft gy by uw deugd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi> <hi rend="i">den ouden</hi></speaker>
+<l>Ik laak uw droefheid niet, want gy wel weenen meugt.</l>
+<l>Ver is 't dat ik bestraf 't geween in dezen rouwe:</l>
+<l>My dunkt ik weer my wel dat ik my kan onthouwen:</l>
+<l>En zo de zaak by my gelyk zy by u lag,</l>
+<l>'k Bezweek misschien wel meê voor dezen harden slag.</l>
+<l>Neen, Alba kon my niet, als het uw broêrs ging kiezen,</l>
+<l>De gunst die ik haar droeg, doen te eenemaal verliezen,</l>
+<l>Zy zyn my alie drie noch even lief en waard.</l>
+<l>Ik draag haar zo veel gunst als iemand mag op aard,</l>
+<l>Maar niet zo heftig als of 't bloed my trok, of minne.</l>
+<l>Ik hebber nader by en geen verliefde zinne</l>
+<l>Camilla daar haar lief, Sabyn haar broeders ziet</l>
+<l>Bestrijen van myn zoons, en zo zyn zy my niet.</l>
+<l>Ik kan haar van ons stad als vyanden aanschouwen</l>
+<l>Ik kan haar, als zy zyn, voor vreemdelingen, houwen.</l>
+<l>Ik wensche voor myn zoons, en 't doet my ook geen wee,</l>
+<l>Ik gun haar de overhand: Ach hemel gun hen 't meê!</l>
+<l>Zy zyn, de goôn zy lof, haar vaderland wel waardig:</l>
+<l>De keur die viel op haar, zy waaren reê en vaardig</l>
+<l>Te sterven voor den Staat: zy waren wel gemoed</l>
+<l>Haar neven te verslaan, of storten zelf haar bloed</l>
+<l>Geen schrik en heeft haar eer in 't minste wat verduisterd,</l>
+<l>Zy hebben naar 't geroep der legers niet geluisterd</l>
+<l>Doen wies haar roem veel meêr Indien door zwak kigheid,</l>
+<l>Na dat men haar op nieuw den stryd had aangezeid,</l>
+<l>Hun moed bez weeken waar, of zo haar 't mededoogen</l>
+<l>Van beide legers had tot flaauwigheid bewoogen,</l>
+<l>Indien haar hooge deugd niet fluks verworpen had</l>
+<l>De gunste van het volk, voor waar ik zweer u, dat,</l>
+<l>Indien zy andere dus in haar plaatzen leeden,</l>
+<l>Myn hand zou wreeken straks dien hoon die zy my deeden,</l>
+<l>Maar als men evenwel volhard en and're wou</l>
+<l>Dat tegens haaren wil, ja ik bekenne 't nou,</l>
+<l>Ik hoopte ook neffens u, en bad, met and're kooren</l>
+<pb n="46"/>
+<l>Indien den hemel had myn smeeken willen hooren;</l>
+<l>Ja. Alba zou voor lang genoodzaakt zyn geweest</l>
+<l>Een and're keur te doen, en gy dus onbevreest.</l>
+<l>Wy zouden blyder flus en vrolyker ontmoeten</l>
+<l>d' Horaces alle drie, en haar verwinners groeten,</l>
+<l>Zelfs zonder dat haar hand waar van het bloed besmet</l>
+<l>Der drie Curacen. Zo de goden myn gebed</l>
+<l>Verhoorden, daar en zou zo wreeden kryg niet komen.</l>
+<l>En van een and'ren stryd de eer t'hans ging van Romen:</l>
+<l>Maar nu voorzienigheid der goden 't anders wil.</l>
+<l>Op 't eeuwige besluit, houdanyn gemoed zich stil,</l>
+<l>En 't wapend zich met vreugd, en rekend zich ten lesten</l>
+<l>Gelukkig, zo 't geluk is voor 't gemeene besten:</l>
+<l>Dus ben ik wel gerust, myn lieve dochters, zie</l>
+<l>Of gy het ook kend doen tot troost van uw verdriet;</l>
+<l>Denkt dat gy allebei twee Juffers zyt in Romen,</l>
+<l>Gy zyt 'er noch niet uit, en gy 'er ingekomen,</l>
+<l>Dien naam van een Romein, is boven schatten waard,</l>
+<l>Dien dag eens komen zal, dat Romen zal op aard</l>
+<l>Veel meêr te schroomen zyn dan 't blixemen of donder,</l>
+<l>Wanneer de waereld, met haar koningen, leefd onder</l>
+<l>Haar wetten en geslacht: dit hebben al de goôn.</l>
+<l>Door godspraak, lang beloofd aan vorst Anchises zoon.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Horace</hi> <hi rend="i">den ouden</hi>, <hi rend="sc">Sabina, Camilla, Julia</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Horace</hi> <hi rend="i">den ouden</hi>.</speaker>
+<l>KOmt gy ons, Julia, een blyde tyding draagen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Julia</hi>.</speaker>
+<l>Ach! neen, helaas! ach! neen, uw zoonen zyn verslagen,</l>
+<l>Twee van de drie zyn dood, haar man alleen noch leefd.</l>
+<l>Nu Romen dienen moet, terwyl 't verlooren heeft.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l>Helaas! een kwaade maar, en uit komst van dit strijen,</l>
+<l>Nu Romen dienen moet, en om 't daar van te vrijen</l>
+<l>Heeft hy zyn leste bloed noch niet gestort? neen ik</l>
+<pb n="47"/>
+<l>Geloof het niet, zo hy noch niet den laatsten snik</l>
+<l>Daar voor gegeeven heeft, men heeft uw lief, bedrogen,</l>
+<l>Neen, Romen diend noch niet, 't is altemaal gelogen,</l>
+<l>'t Verliest noch niet, 't en zy myn zoon verlieze 't licht;</l>
+<l>Ik ken myn zoon te wel, en hy te wel zyn pligt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Julia</hi>.</speaker>
+<l>Wel duizend neffens my die hebben 't aangekeeken</l>
+<l>Van d'hooge wal, zo lang zyn broeders niet bez weeken</l>
+<l>Zo had hy hart, en heeft hier naar noch wat gestreên,</l>
+<l>Maar gaf zich op de vlucht, als hy zich zag alleen,</l>
+<l>Van drie schier heel omringt, hy is het noch ontloopen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l>Hoe heeft hy by ons heir lyn leeven derven hoopen?</l>
+<l>Ons volk versloeg hem niet toen hy begon te vliên?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Julia</hi>.</speaker>
+<l>Ik heb, na dit verlies, niet meerder willen zien.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>.</speaker>
+<l>Ach broeders!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l rend="; 1tab">Zwyg toch stil gy moet haar niet beschreijen,</l>
+<l>Zy hebben eer genoeg dewyl zy met hen beijen</l>
+<l>Haar hebben kloek getoond en wakker in den stryd,</l>
+<l>Ja de eer van zulk een dood geeft stoffe voor de nyd;</l>
+<l>Haar tombe zy gekroond niet eeu w'ge lau werieren,</l>
+<l>Men boud daar autaars by, daar me eeuwig op zal vieren,</l>
+<l>Die helden die haar lyf voor 't vaderland, en bloed</l>
+<l>En leeven offerden, haar onverwinb'ren moed</l>
+<l>Heeft Romen nooit gezien verwonnen, noch zy zaagen</l>
+<l>Haar vaderland ooit jok van vreemde Vorsten draagen.</l>
+<l>Zy hebben nooit gezien, dat Romen heeft gehoord</l>
+<l>Dan naar zyn Vorst, en nooit geschrikt een hooger woord,</l>
+<l>Of een uitheemse stem, en dat haar vaste muuren</l>
+<l>Omstorten, op 't gebod van een van haar gebuuren.</l>
+<l>Zo lang haar leeven heeft geduurd, zo heert haar stad</l>
+<l>Haar eigen Vorsten, en haar vrijigheid gehad</l>
+<l>Maar wilt gy weenen, weend, beschreid hem die zyn leeven</l>
+<l>Met schanden houden wou, veel liever dan het geeven</l>
+<pb n="48"/>
+<l>Voor die het eischt met recht, het waarde vaderland;</l>
+<l>Och ja, beween hem vry, beween die eeu w'ge schand,</l>
+<l>Die hy, met deze vlucht, uw heel geslacht aanzette:</l>
+<l>Beween hem, die de glans van onze naam besmette</l>
+<l>Door zyne bloodigheid, en brandmerkt onzen stam</l>
+<l>Met onuitwisb're schand toen hy de vlucht aannam.</l>
+<l>Beween de vloek vry, aan Horaces naam gegeeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Julia</hi>.</speaker>
+<l>Alleenig tegens drie maar overig gebleeven.</l>
+<l>Wat woud gy dat hy deê?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l rend="; 1tab">Altyd niet dat hy vlood,</l>
+<l>Maar dat hy lievet zich gewillig gaf ter dood:</l>
+<l>Of had noch wat gestreên voor Romens sterke vesten,</l>
+<l>Een hoopelooze hoop, die mogt hem noch, in 't lesten,</l>
+<l>Wat hebben onverwachts gebragt, altyd voor 't minst</l>
+<l>Zou Alba spader haar verheugen om haar winst,</l>
+<l>Had hy een oogenblik zich noch, te kwaatst genomen,</l>
+<l>Verweerd, zo was altyd zo dra de staat van Romen</l>
+<l>Niet te onderen geweest, hy had dit gryze haar</l>
+<l>Gelaaten zonder schaamt, gelyk 't te vooren waar.</l>
+<l>Hy was aan 't vaderland zyn bloed, zyn leeven schuldig,</l>
+<l>Dat hy een druppel spaar, dat lyde ik onverduldig:</l>
+<l>Elk oogenblik dat hy maar leeft, naar deze schand,</l>
+<l>Verdubbeld onze schaamte, ik help hem haast van kant,</l>
+<l>Gebruikende myn recht, als tegens een onwaardig</l>
+<l>Myn zoon te zyn, ik zal, myn toren is rechtvaardig,</l>
+<l>Doen zien aan yder een, hoe ik die schande haat,</l>
+<l>Hoe weinig dat ik hou van zulk een snoode haat:</l>
+<l>Gelyk men van zyn schand, en van zyn straf moet hooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Sabina</hi>.</speaker>
+<l>Ei! vader, luister niet zo zeer naar uwen tooren,</l>
+<l>Op dat gy te eenemaal ons niet ellendig maakt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l>Sabina, dit verdriet in 't minsten u niet raakt:</l>
+<l>Uw hart dat troost zich licht, en gy hebt niet te klaagen,</l>
+<l>Het kwaad is maar voor ons gy hoeft geen leed te draagen:</l>
+<pb n="49"/>
+<l>Want van dit zwaar verdriet daar draagd gy weinig van:</l>
+<l>Den hemel heeft gespaart uw broeders, en uw man.</l>
+<l>Wanneer wy te ond'ren zyn, en na wy zyn verslaagen,</l>
+<l>Zo heeft uw vaderland den zegen weggedraagen,</l>
+<l>Uw broeders wonnen, toen dien blooden ons verliet,</l>
+<l>Terwylge staat en sternt, en op haar eere ziet.</l>
+<l>Hoe hoog die ryst, zo ziet gy weinig op die schanden</l>
+<l>Die wy bekoomen, maar ik zweer u, dat myn handen</l>
+<l>'t Haast zullen wreeken, en uw min, gelooft dat vry,</l>
+<l>U stof zal geeven om te klaagen ook als wy:</l>
+<l>Dan meugt gy uwen man, als wy, zyn schand bekermen.</l>
+<l>Uw traanen zyn tezwak om deze te beschermen,</l>
+<l>Al weentge noch zo zeer, ja doet vry wat gy kant,</l>
+<l>Hy houw het leeven niet, of ik behouw de schand.</l>
+<l>Ik zweer by d'hemelen en al haar groote goden,</l>
+<l>Eer zonnen ondergang deez' hand hem zelfs zal dooden,</l>
+<l>En slachten voor den Staat, en wasschen met zyn bloed</l>
+<l>De schand die hy zyn huis en 't vaderland aandoet.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Sabina</hi>.</speaker>
+<l>Ei, volgen wy hem rasch, het bloed hem raakt aan 't kooken,</l>
+<l>De gramschap meester werd, noch eens hem aangesproken;</l>
+<l>Misschien of gy wat meêr, dan ik op hem vermogt.</l>
+<l>O goden! zullen wy noch meerder zyn bezocht,</l>
+<l>En zullen wy altyd staan schroomen harder slagen,</l>
+<l>En eeuwig vreezen voor de handen onzer maagen?</l>
+</sp>
+<stage><hi rend="i">Einde van 't derde Bedryf</hi>.</stage>
+</div>
+</div>
+<div type="act">
+<pb n="50"/>
+<head rend="h3">Vierde bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Horace</hi> <hi rend="i">den ouden</hi>, <hi rend="sc">Camilla</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l>EI, spreek my nooit meêr aan tot voordeel van een guit,</l>
+<l>Dat hy my vlied gelyk de broeders van zyn bruid,</l>
+<l>Op dat hy 't leeven houw, het geen hy zo bewaarde,</l>
+<l>En 't kostelyke bloed, het geen dat hy zo spaarde;</l>
+<l>Zyn vlieden is vergeefs, 't en zy hy my ook vlied.</l>
+<l>Sabina die mag zien hoe dat zy 't maakt, want ziet,</l>
+<l>Ik zweere wederom by al de grootste goden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>.</speaker>
+<l>Ach! vader, 'k bid aan u! wil ons niet alle dooden:</l>
+<l>Ei, neem het niet zo hoog: zelfs Romen zal zyn daad</l>
+<l>Verschoonen, alhoewel 't haar nu zo euvel gaat:</l>
+<l>'t Getal was hem te veel, zyn koenheid kon niet maaken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l>Wat Romen zeggen zal, kan my in 't minst niet raaken,</l>
+<l>Ik heb byzonder recht, ben ik zyn vader maar.</l>
+<l>Camille ik heb het myn, en Romen heeft het haar,</l>
+<l>Zwyg gy maar, laat ons zien wat dat ons brengt Valere.</l>
+</sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Valerius, Horace</hi> <hi rend="i">den ouden</hi>, <hi rend="sc">Camilla</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Valerius</hi>.</speaker>
+<l>GEzonden ben ik hier van onzen Vorst en Heere,</l>
+<l>Op dat ik troosten zou een vader, en met een....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l>Die moeiten is vergeefs, ik troost my wel alleen,</l>
+<l>Gy kund my geen meêr troost dan ik my zelven geeven,</l>
+<l>Ik zie hun liever dood, dan schandelyk in 't leeven:</l>
+<l>Zy sturven alle bei voor 't vaderland met eer,</l>
+<l>Dat 's my genoeg.</l>
+</sp>
+<pb n="51"/>
+<sp>
+<speaker><hi rend="sc">Valerius</hi>.</speaker>
+<l>Maar hoor, den and'ren deê noch meêr.</l>
+<l>Laat hem by u de gunst van de andre t' zaamen erven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l>Och! dat d'Horaces naam zo straks met hem mogt sterven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valerius</hi>.</speaker>
+<l>Dat hoê den hemel, neen, hy heeft te kloek gestreên.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l>Indien hy voor my stond, ik scheurden hem van een.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valerius</hi>.</speaker>
+<l>Ik hoor alleenig u dus kwaalyk vam hem spreeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l>Zo moet ik dan alleen zyn misdaad straffe en wreeken.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valerius</hi>.</speaker>
+<l>Wat misdaad kan'er zyn by zulk een goed beleid?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l>Wie zag oit in het vliên, of eer of vroomigheid?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valerius</hi>.</speaker>
+<l>Te vliên op dezen tyd, dat geeft hem roem en eere.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l>Dus kund gy lichtelyk het zwart in wit verkeeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valerius</hi>.</speaker>
+<l>Het is een wonderwerk, en nimmermeêr geschied.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l>Ja, dat men hooge roemt die heenen loopt en vlied.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valerius</hi></speaker>
+<l>Och ja, ik roeme hoog, dat wyken, en dat vlieden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l>Wat spyt, wat schand zal my, dit hoorende, geschieden?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valerius</hi>.</speaker>
+<l>Wat spyt, wat schand is dit, dat gy hebt opgevoed</l>
+<l>Een zoon, die door zyn deugd ons altemaal behoed?</l>
+<l>En Stad en Staat bewaard, ons alle kan bevrijen,</l>
+<l>En voor zyn vaderland wind heele heerschappijen,</l>
+<l>Wat eer is grooter die een vader wenschen kan?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l>Wat eer, wat winst is dit? 'k weet niets, waar spreekt gy van?</l>
+<pb n="52"/>
+<l>Terwyl dut Alba heeft op ons gekreegen 't voordeel.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valerius</hi>.</speaker>
+<l>Wat Alba? 't is zo niet, en naar dat ik 't nu oordeel,</l>
+<l>Gy weet de hellift naauw van 't geen 'er is geschied.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l>Wel, toen hy heenen liep, verloor 't toen Romen niet?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valerius</hi>.</speaker>
+<l>Ja, Alba langen tyd haar zelven dit verbeelden,</l>
+<l>Maar proefden naderhand hoe veel dit vluchten scheelden</l>
+<l>Van 't geen zy meenden dat uit bloôheid was gedaan.</l>
+<l>'t En wist niet dat men dus haar krygers kon verslaan;</l>
+<l>Dat Romen, door 't beleid uws zoons, aldus moest winnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l>Hoe! wind dan Romen?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valerius</hi>.</speaker>
+<l rend="; 1tab">Hoor, ei hoor, bid ik, met zinnen.</l>
+<l>De deugden van dien zoon, wien gy om niet verdoemt,</l>
+<l>En zonder reên veracht, die Romen loofd en roemd,</l>
+<l>Drie tegens hem alleen zag hy dat voor hem stonden,</l>
+<l>Doch alle drie gek wetst, en hy noch zonder wonden.</l>
+<l>Te sterk voor yder een, te zwak voor alle driên.</l>
+<l>Hy treed wat achter uit, en hy begind te vliên,</l>
+<l>Op dat hy hen daar naar, met meerder hoop tot winnen,</l>
+<l>Aanschouwen mogt, en dan den stryd weêrom beginnen.</l>
+<l>Dien aanslag lukt hem wel, en scheid de broêrs van een;</l>
+<l>Want yder volgt hem naar, met rasch of kleine schreên,</l>
+<l>Naar dat hy was gewond; haar yver, en haar hoopen</l>
+<l>Die was wel even eens, maar niet al eens haar loopen,</l>
+<l>Den eenen kwam voor uit, en de and're volgden naar,</l>
+<l>Als onzen held haar zag gescheiden van elkaâr,</l>
+<l>En dat hy voordeel zag het wederom te waagen,</l>
+<l>Zo keerd hy kort, en meend hy heeft haar half geslaagen,</l>
+<l>En wacht den eersten in, die was uw bruidegom,</l>
+<l>Die kwaad was dat hy noch naar hem dorst kyken om,</l>
+<l>Den stryd begind weêr fel, en Romen weêr te leven,</l>
+<l>Curace noch, hoewel zyn krachten hem begeeven,</l>
+<l>Die toond hem even kloek, het bloed ontloopt hem zeer,</l>
+<pb n="53"/>
+<l>Al ziet hy weinig kans bied wakker tegenweêr,</l>
+<l>Dus Alba op haare beurt begind voor kwaad te schroomen,</l>
+<l>Het roept den and'ren toe, om by zyn broêr te komen</l>
+<l>Met haast, op dat hy hem mogt helpen uit de nood:</l>
+<l>Maar eer hy by hem komt zo leid zyn broeder dood.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>,</speaker>
+<l>Helaas!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valerius</hi></speaker>
+<l rend="; 1tab">Hy was vermoeid zo zeer en komt, met hygen,</l>
+<l>Tot hy naauw meêr kon gaan, of zynen adem krygen:</l>
+<l>Hy zet zich evenwel voort in zijn broeders steê,</l>
+<l>En valt den uwen aan, en die verslaat hem meê,</l>
+<l>Voorts is uit dezen slag een groot gedruis gekomen,</l>
+<l>En Alba riep van schrik, van blydschap schreeuwden Romen,</l>
+<l>Als onzen held bezag hoe na hy had gedaan,</l>
+<l>Wou hy noch meerder doen, dan vyanden verslaan,</l>
+<l>Ik heb'er twee zo voor myn broederen verslaagen,</l>
+<l>Ik hoop deze offer hand haar zielen zal behaagen,</l>
+<l>Den derden zal ik nu voor Romen doen vergaan,</l>
+<l>Dit zeid hy, en men zag hem daad'lyk by hem stann:</l>
+<l>De winst was in zyn hand de Albaân kon hem niet deeren,</l>
+<l>En was zo zeer gek werst dat hy zich naauw kon keeren;</l>
+<l>En even, als een schaap, dat voor den slager staat,</l>
+<l>Schier zonder weêr te bien, Horace hem verslaar,</l>
+<l>En vest dus, met zyn dood, 't gebied en Staat van Romen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l>O zoon, ô deugd, ô eer! hoe kan ik my betoomen!</l>
+<l>O ongehoopte vreugd en uitkomst van dien stryd!</l>
+<l>O eer van uw geslacht en roem van uwen tyd!</l>
+<l>O onverwachte stut van ons bouwvallig Romen!</l>
+<l>O overwaarde Spruit uit onzen stam gekomen!</l>
+<l>O zuil myns ouderdoms! ik ken u voor myn bloed!</l>
+<l>Wanneer zal ik u zien? van vreugde ik schreijen moet.</l>
+<l>Wanneer omhels ik u? ik zal van blydschap smooren.</l>
+<l>Weg, dwaaling, die my eerst zo zeer ontstak tot tooren.</l>
+<l>Wanneer besproei ik met deez' traanen toch myn kind?</l>
+</sp>
+<pb n="54"/>
+<sp>
+<speaker><hi rend="sc">Valerius</hi>.</speaker>
+<l>Hy zal haast by u zyn, den Koning is gezind</l>
+<l>Hem straks te stuuren, en hy zal ook niet lang draalen:</l>
+<l>Gy kund hem dan met lust, en naar waardy onthaalen.</l>
+<l>Tot morgen is het groot gebed noch uit gezet:</l>
+<l>Men doet van daag niet meer dan slechts een kort gebed.</l>
+<l>Den Koning die heeft zelfs uw zoon daar willen leiden,</l>
+<l>En zond my herwaards aan, op dat ik tusschen beiden,</l>
+<l>Van zynent weegen zou, zyn droefheid en zyn vreugd</l>
+<l>U zeggen, en met een uw kind'ren dood en deugd.</l>
+<l>Hoe eerlyk dat haar doen van yder werd genomen;</l>
+<l>Maar dit 's hem niet genoeg, hy wil noch zelver koomen,</l>
+<l>Van avond lichtelyk, en dat in korten stond,</l>
+<l>Hier binnen in uw huis, en met zyn eigen mond</l>
+<l>U danken, dat gy hebt uw zoonen, en haar leeven</l>
+<l>Ten besten voor ons land, en voor zyn kroon gegeeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l>Zulk danken heeft voor my tegrooten glans en eer,</l>
+<l>Ik ben door u voldaan, en ik begeer niet meêr,</l>
+<l>Voor 't loon van dezen, noch voor't bloed van de andre beiden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valerius</hi>.</speaker>
+<l>De Koning weet zeer wel de daaden te onderscheiden,</l>
+<l>Hy weet wel wat dit doen verdiend, en wat voor loon.</l>
+<l>Het Rykgestut, den Staat gevest, en zyne kroon</l>
+<l>Gerukt uit's vyands hand, die doen den Koning de eere,</l>
+<l>De geen hy u wil doen, veel weiniger waardeeren</l>
+<l>Als wel verdiend deez' deugd van vader, en van zoon;</l>
+<l>Ik ga weêr na hem toe als hy my heeft geboôn,</l>
+<l>Betuigen hem met een wat edeler gevoelen</l>
+<l>De deugd u geeft, en wat gedachten in uw woelen:</l>
+<l>En hoe dat gy geen vreugd dan in de deugd en schept,</l>
+<l>Hoe hoog uw deugden zyn, en wat gemoed gy hebt;</l>
+<l>Hoe zeergy tot zyn dienst, en welvaart zyt geneegen.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l>Ik dank u voor die gunst, en dienst van u verkreegen.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="55"/>
+<head rend="h4">Erde tooneel</head>
+<stage><hi rend="sc">Horace</hi> <hi rend="i">den ouden</hi>, <hi rend="sc">Camilla</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l>MYn dochter, 't voegt u niet, dat gy deez' traan en stort,</l>
+<l>Wanneer men van de goôn aldus gezeegend word.</l>
+<l>Zo moet men blyde zyn, in't minst geen droefheid toonen</l>
+<l>Wat, houd u vroom, en wischt de traanen van uw koonen;</l>
+<l>'t Is schand te schreijen om 't verlies, en huisverdriet,</l>
+<l>Wanneer 't gemeenebest daar voordeel door geniet;</l>
+<l>Zie Romen, door de hand uw's broeders, heeft den zeegen</l>
+<l>En Alba haare magt, met haar gebied gekreegen,</l>
+<l>Dat is genoeg voor ons, en hierom al ons kwaad</l>
+<l>Ons aangenaam moet zyn, ter liefde van den Staat.</l>
+<l>Uw kwaad is niet zo groot, uw bruigom liet het leeven;</l>
+<l>Maar Romen kan u weêr in plaats een ander geeven.</l>
+<l>Naar dezen stryd zult gy in Romen niemand zien,</l>
+<l>Die 't niet voor glory acht om u de hand te biên,</l>
+<l>'k Gâ na Sabina, want deez' tyding zal haar smerten,</l>
+<l>En zonder twyfel raakt dien slag haar meêr aan 't herte,</l>
+<l>Haar broeders alle drie zo daadelyk gedood,</l>
+<l>En door haar eigen man, schynt haar een harder stoot,</l>
+<l>Dit geeft haar vry wat meêr rechtvaardigheid tot klaagen</l>
+<l>Doch even wel ik hoop dit onweêr te verjaagen,</l>
+<l>En dat haar wysheid, met haar heerelyk gemoed,</l>
+<l>En al de lessen daar zy in is opgevoed,</l>
+<l>Haar edel hart wel haast heel anders zal beweegen,</l>
+<l>Om te achten niet van wien, maar wat zy heeft verkreegen:</l>
+<l>Gy, ondertusschen ziet, hoe dat gy best versmoord</l>
+<l>Dit schandig treuren, noud u moedig als 't behoord,</l>
+<l>Toont gy zyn zuster zyt, denk dat hy is uw broeder,</l>
+<l>En bei van my geteelt van de eene en de eige moeder,</l>
+<l>En dat gy van een bloed, en lyf in't leeven kwaamt,</l>
+<l>Ontfang hem als by komt, gelyk het u betaamt.</l>
+</sp>
+</div>
+<div type="scene">
+<pb n="56"/>
+<head rend="h4">Vierde tooneel.</head>
+<sp>
+<speaker><hi rend="sc">Camilla</hi> <hi rend="i">alleen</hi>.</speaker>
+<l>JA, 'k zal hem straks doen zien, waar aan hy wel zal merken</l>
+<l>Wat liefde in my woont, en wat die uit kan werken,</l>
+<l>En dat die vry wat meêr vermag dan my geslacht:</l>
+<l>En hoe zy zelfs de dood durft trotsen en veracht:</l>
+<l>Noch dat zy in het minst' niet naar 't gebod wil hooren</l>
+<l>Van die, uit wien wy zyn door 't hoogbeschik gebooren.</l>
+<l>Myn droefheid werd gelaakt! en gy die schandig noemt:</l>
+<l>Ik lief die zo veel meêr hoe meêr gy die verdoemt.</l>
+<l>O straffen vader! 'k moet myn ongeval bek laagen,</l>
+<l>Het ga ook hoe het wil: wiezag van al zyn daagen</l>
+<l>In zulk een korten tyd zulk een verandering?</l>
+<l>Zo dra had ik geen troost, of straks die weêr verging:</l>
+<l>Dan was 'er weêr wat hoop, straks was die weêr verdweenen.</l>
+<l>Dan scheen 't ik bly mogt zyn, maar voort most ik weêr weenen</l>
+<l>Waar leeft 'er noch een ziel, die zo op eenen dag</l>
+<l>Meêr blydschap of verdriet of hoop of vreeze zag,</l>
+<l>Als waar dat heden wierd de myne van bestreeden?</l>
+<l>Wat kan 't geval, dat ik van daag niet heb geleeden?</l>
+<l>Een godspraak my vertroost, een droom my weêr verschrikt,</l>
+<l>Het slaan my angstig maakt de vreê my weêr verkwikt;</l>
+<l>Men maakt myn bruiloft toe, maar om'tgeschil te slechten,</l>
+<l>Myn bruigom kiest men uit om mer myn broêrs tevechten</l>
+<l>De legers alle bei oproerig op de been,</l>
+<l>Verworp en deze keur, men scheid haar fluks van een;</l>
+<l>En op der goden wil den stryd werd weêr begonnen,</l>
+<l>En naar het yder docht was Romen haast verwonnen,</l>
+<l>Zulks wierd aan my vertelt (en ik geloofden het,)</l>
+<l>Myn minnaar in ons bloed zyn hand niet had besmet,</l>
+<l>O goden! zo my toen het groot verlies van Romen,</l>
+<l>En 't leeven zo terstond van by myn broêrs genomen</l>
+<l>Te weinig trof aan 't hert, en dat myn ziele docht</l>
+<l>Dat ik noch zonder schand myn bruigom minnen mogt.</l>
+<pb n="57"/>
+<l>En voeden to wat hoops: zyn dood straft wel ter degen</l>
+<l>Het geen daar meê dat ik de boodschap heb gekreegen,</l>
+<l>Zyn medevryer is 't die my die tyding bragt,</l>
+<l>Daarom myn herte weent, en 't zyne staat en lacht,</l>
+<l>Zyn blydschap toonden hy, men las die uit zyn oogen,</l>
+<l>Heel vrolyk van gelaat, maar meêr daar toe bewoogen</l>
+<l>Door myn verlies, als wel door 't winnen van de stad,</l>
+<l>Dies hy nu in de lucht kasteelen bouwt, en dat</l>
+<l>Op anders ongeval, en juicht meê als myn broeder;</l>
+<l>Maar dit is niet met al, myn vader is verwoeder</l>
+<l>Ter liefde van den Staat, en valt my wreeder aan,</l>
+<l>En wil ik lachchen zal, en laaten 't klaagen staan,</l>
+<l>En dat ik vrolyk zal ontfangen dien verwinnaar,</l>
+<l>Die zo terstont versloeg myn bruidegom en minnaar:</l>
+<l>Hy wil dat ik de hand, die hem vermoorde, kus,</l>
+<l>Hy wil dat ik onthaal dien moordenaar, die flus</l>
+<l>My zulk een steek in 't hert zo schrik'lyk heeft gegeeven,</l>
+<l>En nam my 't leeven, toen hy nam Curaces leeven:</l>
+<l>Die zulk een reden heeft tot weenen, werd het schand</l>
+<l>Gerekent zo ze zucht. Men zeid, om 't vaderland</l>
+<l>Geen kwaad ons kwaad moet zyn; ja, alle zwaare plaagen,</l>
+<l>Die moet men niet alleen geduldiglyk verdraagen</l>
+<l>Ter liefde van den Staat, maar zelfs daar moeten wy</l>
+<l>Om wenschen, vrolyk zyn, nooit droevig altyd bly?</l>
+<l>Die felle wreedheid wil, dat wy haar wetten eeren.</l>
+<l>En't acht geen vroomheid, of men word eerst wolf ofbeere</l>
+<l>Ontaarden wy, myn hert, van zulk een vroom gemoed,</l>
+<l>Als vaders is, en broêrs verzaaken wy haar bloed.</l>
+<l>Het menschelyk en is by haar niet zy verbreek en 't.</l>
+<l>Alwaar men grouwelen voor hooge deugden reekent,</l>
+<l>En beestigheid zeer pryst is bloodigheid ook eer,</l>
+<l>Kom droefheid perst vry uit, bedwing u nu niet meêr,</l>
+<l>Indien ik veinsden: ach wat voordeel zou dat weezen?</l>
+<l>Voor wien toch zou men daar men 't al verliest toch vreezen?</l>
+<l>Ontziet dien tyger niet, verwyt hem nevenmoord,</l>
+<l>Spreek kwaalyk van zyn winst en maak hem dus gestoord,</l>
+<l>En schept een lust indien gy hem dus kunt mishaagen,</l>
+<pb n="58"/>
+<l>Hy komt daar aan, ik moet my kloek en moedig draagen,</l>
+<l>En treeden hem te moet, en toonen hem hoe groot</l>
+<l>De droef heid van een lief is om haar minnaars dood.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Vyfde tooneel.</head>
+<stage><hi rend="sc">Horace, Camilla</hi>.</stage>
+<stage><hi rend="sc">Proculus</hi> <hi rend="i">met noch twee andere soldaaten draagen elk een de gen, nevens't andere wapentuig van de drie Curaces</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l>DAar is de hand, die beide uw broeders heeft gewrooken,</l>
+<l>O zuster! en waar meê met eenen is gebrooken</l>
+<l>Den loop van 't ongeval dat over Romen hing,</l>
+<l>Dcez' hand ons meester maakt van Alba, deze kling,</l>
+<l>Die heeft voor dezen Staat noch een gebied verkreegen,</l>
+<l>Zie hier de tekenen van onzen roem en zeegen,</l>
+<l>Hier, toon u als vereischt by de uitkomst van den stryd.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>.</speaker>
+<l>Zy eischt myn traanen, die gy laakt en my verwyt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l>Naar zulk een groote winst zo laakt men dit in Romen,</l>
+<l>En beide uw broederen in 't stry den omgekomen,</l>
+<l>Die zyn te wel met bloet betaald als dat men zou</l>
+<l>Haar dood beweenen, en bedryven langen rou,</l>
+<l>Wanneer men wreekt 't verlies, dan men heeft niet vetlooren,</l>
+<l>Ik heb uw broed'ren dood gewrooken naar behooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>.</speaker>
+<l>Terwyl zy door het bloed het geen 'er is verstort</l>
+<l>Voldaan zyn, en voor haar niet meêr vereischt en word;</l>
+<l>Zo zal ik laaten dan om haaren 't wil te weenen,</l>
+<l>En om haar dood, die 'k ook vergeeten wil met eenen,</l>
+<l>Door dien zy door uw kling gewrooken zyn, en hand.</l>
+<l>Maar wie wreekt my de dood van die gy hielpt van kant;</l>
+<l>Om in een oogenblik myn liefde te vergeeten?</l>
+</sp>
+<pb n="59"/>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l>Wat zegt gy, snoode daar, hoe spreekt gy dus vermeeten?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>.</speaker>
+<l>O myn Curace lief!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l rend="; 1tab">Hoor wat een stoudigheid,</l>
+<l>Die naam haar op de tong, en min in 't herte leid</l>
+<l>Van eene vyand, die ik heb terstond verslaagen,</l>
+<l>Haar ziel die roept om wraak, hoe kan men dit verdraagen?</l>
+<l>Blusch uw begeerten en betoom u zelfs wat meêr,</l>
+<l>Vergeet die tochten vry, denk op uw eigen eer,</l>
+<l>Hoe schandig 't is dat wy ons vyanden beweenen,</l>
+<l>En maak my niet beschaamt van u te hooren steenen,</l>
+<l>En denkt niet om uw lief, verband van uw gemoed</l>
+<l>Dien minnetocht, verdoof die vlam en minnegloed,</l>
+<l>En denk voortaan niet meêr dan op 't geluk van Romen</l>
+<l>En winst, en eer, en roem, die wy daar door bekomen,</l>
+<l>Als ook onz'bloed, en huis, en toon voorts dat gy't kent</l>
+<l>Meê voor het uwe; en dat gy myne zuster bent.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>.</speaker>
+<l>Zo geeft my dan, gy wolf, een hert gelyk het uwe.</l>
+<l>Indien gy wilt dat ik niet van u byzyu gruuwe,</l>
+<l>Zo geeft my wederom Curace, of lyd myn vlam,</l>
+<l>Om hem verzaak ik huis, en land, en bloed, en stam.</l>
+<l>Ik reken 't voor een deugd, het geen gy houd voor zonden,</l>
+<l>Myn droefheid, en myn vreugd, was aan zyn lot gebonden,</l>
+<l>O ja! ik bad hem aan zo lang hy 't licht genoot,</l>
+<l>En ik beween hem ook, met recht, nu in zyn dood.</l>
+<l>Zoek hier uw zuster niet, want gy zult hier niet vinden</l>
+<l>Dan een, die woelt, en raast, om dat men haar beminde,</l>
+<l>Gedood heeft, en daarom op u zo is gestoort,</l>
+<l>U volgt, om dat zy u verwyten wil die moord.</l>
+<l>O bloedhond! die wel haast zal in het bloed verstikken,</l>
+<l>Die my verbied myn rou, myn traanen, en myn snikken,</l>
+<l>O tyger! die begeert dat ik een vreugde schep</l>
+<l>In zyne dood, daar van ik eeuwig droef heid heb,</l>
+<l>En wil dat ik uw daad verhei toe aan de goden,</l>
+<pb n="60"/>
+<l>En dat ik andermaal aldus myn minnaar doode.</l>
+<l>Ach! dat u zulk verdriet toch treffen mag, en spyt,</l>
+<l>En dat gy dus vervalt, dat gy my 't myn'benyd,</l>
+<l>Ach! dat gy haast besmet deze eer, en deze uwe handen,</l>
+<l>En gruwelyke deugd, met de een, of de andre schanden.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l>O goden! wie zag ooit meêr zulk een raazerny</l>
+<l>En dulheid? meend gy dat ik ongevoelyk zy?</l>
+<l>Of dat ik in myn bloed wil eeu wig schande lyden?</l>
+<l>Mind, mind dien dooden vry, om wien wy onsverblyden,</l>
+<l>Maar acht, ten minden, meêr uw pligt, en 't vaderland,</l>
+<l>En Romen dan een mensch, en wagt u voorts voor schand.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>.</speaker>
+<l>O Romen! 't eenig kwaad, en oorzaak van myn klaagen</l>
+<l>O Romen! waarom, laas! myn bruigom is verslaagen.</l>
+<l>O Romen! dat gy acht, waar uw geboorte uw bind.</l>
+<l>O Romen! dat ik haat, om dat het u bemind.</l>
+<l>Ach! dat een overval, van alle uw gebuuren,</l>
+<l>Den grond omwroeten kom van uwe nieuwe muuren:</l>
+<l>Zo heel Italiën daar toe te weinig is,</l>
+<l>Dat dan het oost en 't west maak een verbintenis</l>
+<l>Tot uw verderf, en dat de Mooren, Duitschen, Waalen</l>
+<l>U komen over zeên, en over berg, en daalen</l>
+<l>Bestormen in uw land, verdelgen uwen Staat:</l>
+<l>Dat alle volkeren, zo ver de zonne gaat,</l>
+<l>Te zaamen rotten om u gansch'lyk te verpletten;</l>
+<l>Of dat uw eigen volk groei boven alle wetten,</l>
+<l>Ge wapent tegens u, en met haar eigen hand</l>
+<l>Vernielen zelfs haar merg, en eigen ingewand.</l>
+<l>Dat broeders tegens broers, en vaders tegens kind'ren</l>
+<l>In 't harnas staan; of zou u dit noch weinig hind'ren,</l>
+<l>Zo geef den hemel dan, dat binnen uwe vest</l>
+<l>Een hongersnood ontsta, met dierentyd en pest,</l>
+<l>En tweedragt, muitery: op dat'er niets ontbreeke.</l>
+<l>Zo moet het hemels vuur uw daaken noch ontsteeken.</l>
+<l>Ach! dat ik maar mogt zien, dat u den bliksem sloeg,</l>
+<l>En dat op myn gebed, dan had ik vreugds genoeg:</l>
+<pb n="61"/>
+<l>Ach! mogt ik zulk een vloed van vuur zien nederkomen,</l>
+<l>Waar door verbranden mogt de heele stad van Romen,</l>
+<l>Zo dat men daar geen huis meêr zag, noch kerk, noch hof:</l>
+<l>Dan zag ik 't al in asch, en uw lauw'rier tot stof,</l>
+<l>En noch u schandelyk uit uwe stad verdreeven,</l>
+<l>En noch den laatsten held van Romen om het leeven,</l>
+<l>Hoe dat hy nederstort, en geeft den laatsten snik,</l>
+<l>En ik 'er oorzaak van alleen, en dan, dat ik</l>
+<l>Van vreugden sterven zou.</l>
+</sp>
+<stage><hi rend="i">Horace de baud aan't geweer slaande, hopende naar zyn zuster, die vlucht, en word van hem doorstooten.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l rend="; 2tab">Ik heb genoeg geleden,</l>
+<l>En myn geduld is weg, dat plaats maakt voor de reden,</l>
+<l>Ga, hou gezelschap aan uw vrijer, en uw vriend.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Camilla</hi>, <hi rend="i">achter de gordynen gekwetst.</hi></speaker>
+<l>Verraader, ach!</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l rend="; 1tab">Men strafgezwind, gelyk 't verdiend,</l>
+<l>Die zo bek laagen durft de vyanden van Romen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zesde tooneel.</head>
+<stage><hi rend="sc">Horace</hi>, <hi rend="sc">Proculus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Proculus</hi>.</speaker>
+<l>WAt hebt gy daar gedaan?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l rend="; 3tab">Recht, en heb straf genomen</l>
+<l>Van haar, gelyk haar schuld verdiend is zy gestraft.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Proculus</hi>.</speaker>
+<l>Denk eens wie dat zy is, men handeld die wel zaft,</l>
+<l>Al viel de misslag hart.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l rend="; 2tab">Gy hoeft my niet te zeggen</l>
+<l>Dat zy myn zuster was, ik wil 't niet wederleggen,</l>
+<l>Maar vader kan haar niet erkennen voor zyn bloed.</l>
+<pb n="62"/>
+<l>Zy, die haar stam verzaakt, en zulk een schand aandoed;</l>
+<l>Een die haar vaderland vervloekt met duizend plaagen;</l>
+<l>Een die een minnaar achtveel meêr dan al haar maagen;</l>
+<l>Een die 't maar denken durft, is te overgeven boos.</l>
+<l>Haar goddeloozen wensch, hoewel noch krachteloos,</l>
+<l>En 't gruwelyk gevloek, toond dat men haar moest snoeijen,</l>
+<l>Of liever smooren, eer dit hooger kwam te groeijen.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Zevende tooneel.</head>
+<stage><hi rend="sc">Horace</hi>, <hi rend="sc">Sabina</hi>, <hi rend="sc">Proculus</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Sabina</hi>.</speaker>
+<l>WAt, houd uw tooren op, kom, zie in vaders schoot</l>
+<l>Uw zuster sterven, en dien ouden man, half dood;</l>
+<l>Haar oogen luiken: kom. en zie uw braave daaden,</l>
+<l>En laat uw oogen aan dit schouwspel haar verzaaden:</l>
+<l>Want 't geen dat my bedroefd, behaagd aan uw gemoed;</l>
+<l>Dus kondgy. zo 't u lust, wel dooden al uw bloed,</l>
+<l>En zo het u behaagd, vermoorden al uw maagen;</l>
+<l>Zo slacht ook voor uw stad dit droevig overschot</l>
+<l>Van 't bloed van myne broêrs, en dryft Sabina tot</l>
+<l>Camilla biddeik, met uw zuster voegt uw vrouwe;</l>
+<l>Onz' misdaad is gelyk, gelyk is onzen rouwe;</l>
+<l>Ik zucht gelyk als zy, beween myn broeders meê.</l>
+<l>Hier in ik noch veel meêr uw wetten overtreê,</l>
+<l>Ik schrei om alle drie, en zy maar om den derden,</l>
+<l>En ik noch, na haar straf, wil in myn kwaad volherden,</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l>Sabina schrei niet meêr, of ga uit myn gezigt,</l>
+<l>En houd u als 't u past, en denk eens om uw pligt,</l>
+<l>En overlaad my niet, met klaagen, en met kermen,</l>
+<l>Om zo onwaardelyk my over u te ontfermen.</l>
+<l>Indieu een zuiv're vlam en onze kuische min</l>
+<l>Ons niet dan eene ziel en maakt; en eene zin,</l>
+<l>Zo moet uw ziel zo hoog, als myn gemoed is, stygen.</l>
+<pb n="63"/>
+<l>Want ik kan zonder schand tot u niet nederzygen.</l>
+<l>Ik ken uw droef heid, en gy werd van my bemind,</l>
+<l>Omhelst myn deugd, en dus uw zwakheid overwind,</l>
+<l>Neem deel aan myne glans, in plaats van diete dooven,</l>
+<l>Zoek u daar meê te kleên, doch my die niet te rooven.</l>
+<l>Zyt gy dan van myn eer zo grooten vyandin,</l>
+<l>Dat ik u meêr behaag, als ik in schande bin?</l>
+<l>Bedaar, bedaar u toch, waar toe toch al dit weenen?</l>
+<l>Meêr vrouw dan zuster zyt, en doet als ik met eenen</l>
+<l>Zie hoe uw man zich houd, en regelt u naar my.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Sabina</hi>.</speaker>
+<l>Zo ik u volgen zou, moest ik volmaakt'er zyn.</l>
+<l>Neen, ik ver wyt u niet het geen ik heb verlooren,</l>
+<l>Maar eer het ongeval: ik draag my naar behooren:</l>
+<l>Doch ik verzaak die deugd van Romen, zo ik moet,</l>
+<l>Om die te hebben, zyn onmenschlyk en verwoed.</l>
+<l>Ik kan in myn niet zien, noch kan my ook niet achten</l>
+<l>Des winnaars bruid, of straks zo komt my in gedachten</l>
+<l>Hoe dat ik zuster ben van die verwonnen zyn.</l>
+<l>Ik weet, gy raakt my nu maar zo zyn ze ook aan myn.</l>
+<l>Ik ben aan u door trouw, aan haar door 't bloed verbonden.</l>
+<l>Aan Romen, toonen bly by 't volk, mits dat gy niet</l>
+<l>Misprys, ik binnens huis beween ons huisverdriet;</l>
+<l>Wat wilt gy, wreede, meêr? dus moest gy met my treuren,</l>
+<l>Laat, als gy treed in huis, uw lauw'ren aan de deuren,</l>
+<l>En mengt uw traanen met de myne; maar hoe, kan</l>
+<l>Ik met deez' reden niet, vertoornen myne man.</l>
+<l>Wat had Camille meêr geluks? zy heeft u konnen</l>
+<l>Mishaagen, en daardoor al 't gene weêr gewonnen,</l>
+<l>Dat zy verlooren had, en zy is nu gerust</l>
+<l>Alwaar Curace haar ontfangt, vertroost, en kust,</l>
+<l>Ik bid u, lieve man, met smeeken en met kermen,</l>
+<l>Zo gy niet gram kond zyn, dat gy u wilt ontfermen:</l>
+<l>Strafstreng, gelyk't u voegt, uw zwakke en flaauwe vrouw</l>
+<l>Of, door meêdoogentheid, zo eindigd mynen rouw;</l>
+<l>Ik, bid de dood, tot straf van u, of tot genaade,</l>
+<pb n="64"/>
+<l>Slaâ slechts de hand aan 't zwaard, waar toe dus lang beraaden?</l>
+<l>Ei, waarom toeft gy noch, en waar toe deze keer,</l>
+<l>En is 'er in uw hart dan geen beweeging meêr?</l>
+<l>Hoe! is uw ziel ontbloot van toorn of mededoogen?</l>
+<l>Slaâ toe, zo myn gebeên noch iets op u vermoogen;</l>
+<l>Dien slag my lief zal zyn, ik wacht hem onbeschroomt,</l>
+<l>I erwyl! die van de hand van my nen bruigom koomt.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l>Wat onrechtvaardigheid, dat dus de zwakste lieden,</l>
+<l>En vrouwen, de edelsten van 't mannevolk gebieden,</l>
+<l>En dat men gaeren noch van haar verwonnen werd,</l>
+<l>En overgeeft zyn magt, zyn vrydom, en zyn hert!</l>
+<l>Waar toe vervalt myn deugd? ik kan ze niet beschermen,</l>
+<l>Dan dat ik van haar vlucht. Zo gy noch meêr wilt kermen,</l>
+<l>Zo volg my niet, vaar wel.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Sabina</hi>.</speaker>
+<l rend="; 1tab">Wat hardigheid is dit?</l>
+<l>Hy blyft gevoeleloos, of ik hem terg, of bid.</l>
+<l>Myn droefheid acht hy niet in 't minst, noch myn misdaaden,</l>
+<l>En ik verkryg van hem noch staffe noch genaade.</l>
+<l>Een aanval noch gedaan, en zo ik niet verwerf,</l>
+<l>Ik zal my zelve doôn, 't is billik dat ik sterf.</l>
+</sp>
+<stage><hi rend="i">Einde van 't vierde Bedryf</hi>.</stage>
+</div>
+</div>
+<div type="act">
+<pb n="65"/>
+<head rend="h3">Vyfde bedryf.</head>
+<head rend="h4">Eerste tooneel.</head>
+<stage><hi rend="sc">Horace</hi> <hi rend="i">den ouden</hi>, <hi rend="sc">Horace</hi> <hi rend="i">den zoon</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Horace</hi> <hi rend="i">den ouden.</hi></speaker>
+<l>KOm, gaan wy van deez' plaats, en laat ons op de blyken</l>
+<l>Van Godts rechtvaardigheid meêr zien, dan Op deez'</l>
+<l>lyken.</l>
+<l>Het hemelsche gerecht dat weet wanneer het moet</l>
+<l>Vernederen ons hart, en trapp'len met de voet.</l>
+<l>Dan als laatdunkentheid ons doet de borst opsteeken,</l>
+<l>En zwellen ons gemoed, het komt dien hoogmoed breeken</l>
+<l>'k Beklaag Camilla nooit, zy was niet zonder schuld,</l>
+<l>Maar u veel meêr, om zulk een schrikk'lyk ongeduld,</l>
+<l>En dat gy door haar dood besmet hebt uwe handen,</l>
+<l>En hebt uw vaders huis, en u gebragt tot schanden.</l>
+<l>Zy heeft, 't is waar, haar loon en welverdiende straf:</l>
+<l>Maar gy hebt hier geen eer, en niet dan schanden af.</l>
+<l>Haar schuld, hoewel die was de dood wel dubbeld waardig,</l>
+<l>Bleef beter ongestraft, dan door uw hand: rechtvaardig</l>
+<l>Is zy gestraft, maar gy verdiend ook straf hier door.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi> <hi rend="i">de jonge.</hi></speaker>
+<l>Ach, vader! doe met my, het geen gy wilt, ik hoor</l>
+<l>U eigen toe, gy zyt ook meester van myn leeven,</l>
+<l>De wetten hebben u die magt op my gegeeven.</l>
+<l>Ik dacht ik schuldig was dien slag aan myn geslacht;</l>
+<l>Indien ik u daar meê verstoort heb en veracht,</l>
+<l>En zo dien yver voor een misdaad werd genomen,</l>
+<l>En ik om deze daad een schand zou zyn in Romen,</l>
+<l>En zo ik heb myn hand besmet met deze daad,</l>
+<l>En dat ik schuldig ben en gy 't ook zo verstaat,</l>
+<l>Gy kund maar, met een woord beneemen my het leven;</l>
+<l>Kom, neem het bloed weêrom dat gy my hebt gegeeven,</l>
+<pb n="66"/>
+<l>Wiens zuiverheid ik heb bemorst al te onbedacht:</l>
+<l>Kom, wis die schandvlek uit van u of uw geslacht.</l>
+<l>Ik kon geen schande zien en laat en ongewrooken</l>
+<l>In uwen stam. en heb haar daarom dood gestooken.</l>
+<l>Ik bid u, lyd toch ook geen vlek in uwen stam;</l>
+<l>Neem my het leven meê gelyk ik 't haare nam.</l>
+<l>Gy hebt meêr recht op my, dan ik had op Camille:</l>
+<l>Gy zyt myn vader, en al 't geen dat gy zult wille</l>
+<l>Daar ben ik toe bereid, verschoon uw zoon toch niet:</l>
+<l>Als ik myn zuster deê, dat my ook zo geschied:</l>
+<l>Ja, vader, straf my vry, gy kund my niet verschoonen,</l>
+<l>Want als een vader hier een vaders hart wil toonen,</l>
+<l>En door de ving'ren zien de misdaad van zyn kind,</l>
+<l>En laaten ongestraft, 't geen hy niet goed en vind:</l>
+<l>Zo toond hy dat hy niet veel werks maakt van zyn eere,</l>
+<l>Noch van zyn eigen roem.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi> <hi rend="i">den ouden.</hi></speaker>
+<l rend="; 1tab">De vaders die begeeren</l>
+<l>Van d'haaren altemets de hoogste straffe niet,</l>
+<l>Men spaard om zynent wil zyn kind'ren, en ontziet</l>
+<l>Haar eenig leed te doen, om zelfs het niet te draagen:</l>
+<l>Men hoopt haar tot een stut en troost in de oude daagen,</l>
+<l>Ik weet... maar ziet, daar komt den Koning, daar's de wacht.</l>
+</sp>
+<div type="scene">
+<head rend="h4">Tweede tooneel.</head>
+<stage><hi rend="sc">Horace</hi> <hi rend="i">den ouden,</hi> <hi rend="sc">Tullus</hi>, <hi rend="i">Koning van Romen, vergezelschapt met een sleep Raadsheer en, Edellieden, Ridders en Lyfwackt, de Helbaardiers voor uitgaande.</hi></stage>
+<stage><hi rend="sc">Valerius</hi>, <hi rend="sc">Horace</hi> <hi rend="i">den jongen.</hi></stage>
+<sp>
+<speaker><hi rend="sc">Horace</hi> <hi rend="i">den ouden.</hi></speaker>
+<l>GRootmogend Vorst; deze eer voor my en myn geslacht</l>
+<l>Is al te groot! ik sprak noch groete ooit meêr myn Koning</l>
+<l>Dan in zyn praalend hof, nooit in myn slechte wooning;</l>
+<l>Ik ben van staat gering, leid dat ik op myn knie...</l>
+</sp>
+<pb n="67"/>
+<sp>
+<speaker><hi rend="sc">Tullus</hi>.</speaker>
+<l>Neen, vader, rys, rys op! ik weet wie ik, en wie</l>
+<l>Gy zyt, en wat voor eer een Vorst, als ik, moet geeven</l>
+<l>Aan zulk een ridder, die zyn kind'ren, bloed en leeven</l>
+<l>Veel minder achte dan zyn land, en myne kroon.</l>
+<l>Die zulke kind'ren heeft geteeld, en zulk een zoon,</l>
+<l>Die oorzaak is alleen, dat ik nu noch regeere:</l>
+<l>Een ongemeenen dienst men ongemeen moet eeren:</l>
+<l>Voor zulk een dienst kan u geen eer genoeg geschiên,</l>
+<l>Ik heb beslooten u die zelver aan te biên,</l>
+<l>En waar dat ik u zal, en de uwe, meê beschenken;</l>
+<l>En dat ik eeuwig wil om deez' verdiensten denken.</l>
+<l>Ik heb door hem verstaan, doen hy my antwoord btagt,</l>
+<l>Hoe gy u droegd, ik had van u dat wel verwacht,</l>
+<l>En van uw deugd, dat gy de dood van beide uw zoonen</l>
+<l>Zo neemen zou, en ook u zo kloekmoedig toonen</l>
+<l>Als uw drie kinderen; dus meen ik dat u myn</l>
+<l>Vertroosting tal vergeefs, en heel onnoodig zyn;</l>
+<l>Maar ik heb zo terstond, met droefheid, moeten hooren</l>
+<l>Het droevig ongeval van uwen eerstgebooren,</l>
+<l>Dat zyn te groot en zucht, en y ver tot zyn land,</l>
+<l>Zyn vader heeft ontrooft, en dat noch door zyn hand</l>
+<l>Een een'ge dochter, en zyn zuster heeft doorsteeken,</l>
+<l>Daar over zoude ik wel met troost uw hart toespreeken,</l>
+<l>Maar twyfel hoe dat gy dien slag verdraagen zult.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi> <hi rend="i">den ouden.</hi></speaker>
+<l>Voorwaar met grooten rouw, maar echter met geduld.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Tullus</hi>.</speaker>
+<l>Dit werk is van uw deugd, en van uw hooge jaaren.</l>
+<l>Gy zyt te groot van moed, en al te zeer ervaaren,</l>
+<l>Dan dat dit moedig hart zich niet zo toonen zou;</l>
+<l>Als een Romein betaamd, en maatigen zyn rou;</l>
+<l>Maar weinig echter zo als gy haar zoude toomen.</l>
+<l>Men moet den kloeksten held op zulk een slag verschoonen,</l>
+<l>Indien hem moogelyk een moedloos woord ontviel,</l>
+<l>En dat hy hem, als gy u houd, misschien niet hiel.</l>
+<l>Want als men werd te zwaar van 't ongeval bestreeden,</l>
+<pb n="68"/>
+<l>Dan luisterd men wel niet noch naar geduld, noch reden.</l>
+<l>En zo myn meêlyd' u tot troost verstrekken kan,</l>
+<l>Weest zeeker, dat ik u, niet min klaage, dan</l>
+<l>Bemin, en dat 't my deerd, dat in uw oude daagen</l>
+<l>Den hemel u zo zwaar bezoekt met zulke slaagen.</l>
+<l>Indien 'er noch iets is, dat wil ik dat geschied,</l>
+<l>Zo 't u verlichten kan, en 't is in myn gebied.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valerius</hi>.</speaker>
+<l>Grootmachtig Vorst. terwyl de groote goden zetten</l>
+<l>In 's Konings hand, het recht en krachten van de wetten;</l>
+<l>En misdoen straf verdiend, zo wel als weldoen loon,</l>
+<l>En dat gy niemand recht te weig'ren zyt gewoon,</l>
+<l>Ik bidde uw Majesteit, zy wil my niet verachten,</l>
+<l>Dat ik, uw onderdaan, haar breng in haar gedachten,</l>
+<l>Dat gy te veel beklaagd den geen gy straffen moet.</l>
+<l>Ik bid....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l rend="; 1tab">Hoe! dat men straf die Romen heerschen doet?</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Tullus</hi>.</speaker>
+<l>Laat hem vry spreeken, want ik kan geen recht hem wei|g'ren,</l>
+<l>Waar door de Vorsten tot der goden hoogheid steig'ren:</l>
+<l>Ik wil, tot aller uur, een yder overal</l>
+<l>Aanhooren, en ik ook een yder recht doen zal.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valerius</hi>.</speaker>
+<l>Ik bid ô groote Vorst! dat uw rechtvaardige ooren,</l>
+<l>Myn reden, als die zyn, genadig willen hooren:</l>
+<l>Terwyl 'er naauw een is die niet tot deze stond,</l>
+<l>Dien held verfoeid, en ook dus spreekt door myne mond.</l>
+<l>Niet dat wy hem dien roem benyden, en die eere,</l>
+<l>Wy wenschen liever dat gy hem die woud vermeeren,</l>
+<l>Dan iets verminderen, en wy, wy zyn te zaam</l>
+<l>Bereid, noch meêr zyn lof te roemen, en zyn naam,</l>
+<l>En hem niet minder toe te juychen als zyn vrienden:</l>
+<l>Wy weeten, dat zyn deugd en daaden die verdienden.</l>
+<l>Maar, aangezien hy hem zo zeer vergreepen heeft,</l>
+<l>En om die moord niet meêr is waardig dat hy leefd.</l>
+<pb n="69"/>
+<l>Dat hy inryden kom op zyn verwinnaars wagen:</l>
+<l>Doch laat hy van zyn schuld daar na de straf ook draagen.</l>
+<l>Belet zyn dulligheid, terwyl't noch kan gelchiên,</l>
+<l>Bewaard noch die hier zyn, zo kund gy noch gebiên;</l>
+<l>Want ons behoud alleen, is aan zyn straf gebonden:</l>
+<l>Om dat 'er zo veel zyn in dezen kryg verslonden,</l>
+<l>Waar van 'er weinig zyn, of elk had broêr of neef</l>
+<l>In Alba, of eene vriend, die onder 't vechten bleef,</l>
+<l>Terwyl het oorlog was, en nu haar dood beweenen,</l>
+<l>En droevig zyn, hoewel zy't wel met Romen meenen,</l>
+<l>Wiens winst haar 't hart verheugd al raakt haar 't huisverdriet.</l>
+<l>Indien dat Romen wat hier door te kort geschied.</l>
+<l>En dat hy ongestraft mag straften klagt, en kermen,</l>
+<l>En traanen, over wien zal hy hem toch erbermen?</l>
+<l>Wie zal hy spaaren, die zyn zuster zelfs niet heeft</l>
+<l>Gespaard? en wat verschoond hy noch, die niet vergeeft</l>
+<l>Het heftig hertewee. dat een. zo trouw in 't minnen,</l>
+<l>Heeft om haar bruigoms dood, die haar ontsteld de zinnen,</l>
+<l>Om dat zy hoop schiep van met hem in de echt te treên,</l>
+<l>In welkers plaats zy ziet zyn leeven afgesneên.</l>
+<l>Met dat hy Romen heeft van Albaas jok gaan vrijen,</l>
+<l>Zo heeft hy 't onder zich gebragt in slaavernije,</l>
+<l>En krygt een recht op ons, indien dit zo mag gaan,</l>
+<l>Van leeven, en van dood; want staat het hem niet aan</l>
+<l>Het geene dat wy doen: wie kan hem daar voor myden,</l>
+<l>Hy hoeft het langer niet dan als hy wil te lyden;</l>
+<l>Maar grypen slechts zyn zwaard, en zeggen meerder niet,</l>
+<l>Dan stooten 't ons in't lyf, gelyk hy haar doorstiet.</l>
+<l>Hier aan zo kan men zien hoe zeer dat nu gantsch Romen</l>
+<l>Moet naar zyn hand omzien, en voor zyn degen schroomen</l>
+<l>Het welk, alreeds verbaast, dit werk te aanschouwen staar,</l>
+<l>Dat beesten werk veel eer schynt dat een menschen daad,</l>
+<l>Verwonder of men zulk een mensch al meêr zou vinden.</l>
+<l>Men zag noit tygerdier zyn wedergaâ verslinden,</l>
+<l>En hoe een wolf ook woed, hy nochtans wol ven spaart.</l>
+<l>Geen wild gedierd ooit at een van zy neigen aard.</l>
+<l>Maar hy heeft wel gedaan, die held, en doet geen zonden</l>
+<pb n="70"/>
+<l>Nu hy zyn wedergaâ, Gods schepsel, heeft geschonden,</l>
+<l>En zo het leeven nam, die hem geen weêrstand bood,</l>
+<l>Maar liever, als een duif, voor de arendsk laauwen vlood.</l>
+<l>Indien het doode lyk gebragt wierd voor onze oogen</l>
+<l>Zo kon men zien wat dat zyn handen al vermoogen:</l>
+<l>Wat daaden dat hy deê, dien wolf, dien zag men licht,</l>
+<l>Hoe dat hem 't zusterbloed sprong in 't aangezigt;</l>
+<l>'t Welk hem die wreede moord dus schriklyk voor zou draagen;</l>
+<l>Haar schoonheid, en haar jeugd, doet ons noch alle klaagen</l>
+<l>En traanen parssen uit, als my nu rechte voort,</l>
+<l>Om dat zo jong een bloem zo deerlyk leid vermoord.</l>
+<l>Ach! hoord, rechtvaardig Vorst, ach! hoord de wetten spreeken</l>
+<l>Die alle misdaân met gelyke een loon moet wreeken,</l>
+<l>Die eischen weêr een arm van die een arrem roofd,</l>
+<l>En voor een oog een oog, en voor een lyf een hoofd.</l>
+<l>'t Geliett uw Majesteit niet te offeren voor morgen.</l>
+<l>Hoe zullen goden, die steets voor de onnoos'le zorgen,</l>
+<l>Onttangen offer vaneen hand met bloed beklad?</l>
+<l>Een plaag kwam over ons, en overal de stad.</l>
+<l>Gelooflyk is 't, dat hem de goden gruuw'lyk haaten,</l>
+<l>Terwyl hy van haar is, naar zulk een daad, verlaaten,</l>
+<l>Fn dat zo snoode een werk van haar niet wierd belet,</l>
+<l>Dat van hem niet en wierd zyn eer met moord besmet:</l>
+<l>Dus moet de zegen meêr zyn van 't geluk van Romen,</l>
+<l>Dan van zyn rechterhand, of van zyn deugd gekomen;</l>
+<l>En of ook zyn gevecht een grooten zeegen gaf,</l>
+<l>Zo heeft hy doch verdiend de dood, en grooter straf.</l>
+<l>Men mag wel winnaar hem, maar moordenaar ook noemen,</l>
+<l>Dus moet uw Majesteit hem tot de dood verdoemen,</l>
+<l>Ontzie de goden, en bewaar ons van zyn hand:</l>
+<l>En straft een moordenaar, en zuiver dus uw land.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Tullus</hi>.</speaker>
+<l>Gy meugt uw zaak, en ook uw zelven nu verweeren,</l>
+<l>Horace, zo gy wilt, en antwoord op Valere</l>
+<l>Zyn eisch, en op het geen daar hy u meê beticht.</l>
+</sp>
+<pb n="71"/>
+<sp>
+<speaker><hi rend="sc">Horace</hi>.</speaker>
+<l>'k Acht dat niet noodig, want men kan een zaak zeer licht</l>
+<l>Door opgepronkte reên, of dus of zo verdraaijen:</l>
+<l>Ik zag wel lichtelyk met woorden 't volk te paaijen,</l>
+<l>Maar een rechtschaape ziel behelpt hem daar niet meê;</l>
+<l>Myn daad is u bekend, uw Majesteit alreê</l>
+<l>Genoeg is onderrecht, hoe't daar meê is gelegen,</l>
+<l>En warze 'er van gevoelt, het zy my voor of tegen,</l>
+<l>Dat hou ik voor een wet; want als een onderdaan</l>
+<l>Wil, tegens 't oordeel van zyn Koning, blyven staan</l>
+<l>Op zyn onnozelheid, en onschuld. en door reden</l>
+<l>'t Heel anders wil doen zien met kracht zyn overheden</l>
+<l>Dan als 't die eerst begreep, die heeft alreeds misdaân.</l>
+<l>Al had me in 't minst geen schuld, als zy het zo verstaan,</l>
+<l>Men krygt die dan terstond: ons goed ons bloed, en leeven</l>
+<l>Dat hoord hen eigen toe: van God is 't hen gegeeven;</l>
+<l>Zy mogen daar meê doen wat haar gelieft, en wy</l>
+<l>Vertrouwen moeten, dat niet lichtelyken zy</l>
+<l>'t Ons neemen zullen voor zy rypelyk beraaden</l>
+<l>Haar hebben op haar recht, op ons, en onze daaden.</l>
+<l>Uw Majesteit die doemd, 'k zal onderdaanig zyn.</l>
+<l>Wie liefd zyn leeven niet? en ik, ik haat het myn';</l>
+<l>Doch ik misprys ook niet den yver van Valere,</l>
+<l>Die 's vrysters broeder, om dat hy haar moet ontbeeren,</l>
+<l>Eischt tot de dood: ô neen! ik eisch die ook als hy,</l>
+<l>Hier in is 't onderscheid maar tusschen hem en my,</l>
+<l>Dat ik myn eer daar door zoek eeu wiglyk te vesten;</l>
+<l>En hy, om dat hy die vertrapp'len mogt ten lesten.</l>
+<l>Wy doelen allebei naar 't eigen wit, myn hoofd;</l>
+<l>Hy, om aldus te zien, myn roem. en glans verdoofd;</l>
+<l>En ik, om die altyds in veiligheid te zetten,</l>
+<l>En om dat ik ze zou verzeekeren voor smetten.</l>
+<l>Men krygt zo licht weêr geen gelegentheid, waar an</l>
+<l>Een moedig herte mag beroonen wat het kan,</l>
+<l>En wat 'er in hem woond; 't werd dik maals aangekeeken,</l>
+<l>Voor kloek of voor verbaast, en al de lieden spreeken</l>
+<l>Staâg naar het hen gevald, of naar dat zy 't verstaan,</l>
+<pb n="72"/>
+<l>En oordeeld 't kwaatst van 't geen het beste was gedaan.</l>
+<l>Het volk, gemeenlyk, dat naar de scheê de zwaarden,</l>
+<l>En naar het kleed de man, en naar de toom de paarden,</l>
+<l>De daad naar de uitkomst acht, noch let op anders niet</l>
+<l>Dan 't geen haar komt in 't oog, en t geen het buiten ziet,</l>
+<l>Meent die iets groots ooit deê staâg gaan moet zulke gangen,</l>
+<l>En zo iets minders maar werd van hem aangevangen.</l>
+<l>Maakt dat m'hem minder acht; als of men altyds kost</l>
+<l>Het geene dat men wil; en dat men niet en most</l>
+<l>Zich voegen naar den tyd, gelegentheid, en voordeel</l>
+<l>Dat voorkomt: dus verkeerd is meest al't volk van oordeel.</l>
+<l>Indien den roem, en eer staat op de hoogste troon,</l>
+<l>Fn dat die grooter is, en meêr als me is gewoon,</l>
+<l>En hem dus houden wil, die moet ook niet met allen</l>
+<l>Meêr doen, op dat die niet komt weêr om leeg te vallen,</l>
+<l>'k Verhaal u nu niet eens het geen ik heb gedaan:</l>
+<l>Zelfs uwe Majesteit. die heeft my flus zien slaan,</l>
+<l>En weet al 't geen ik deê, en het en kan niet weezen</l>
+<l>Dat ik hier naar zal doen een daad gelyk als dezen,</l>
+<l>Indien ik nu begeer, dat yder een my roemt.</l>
+<l>En dat ik naar myn dood doorluchtig werd genoemt,</l>
+<l>Moet ik gaan sterven: ja, zo rasch als ik den zeegen</l>
+<l>Voor Romen had, en voor uw troon een Ryk verkreegen,</l>
+<l>Moest ik gestorven zyn, terwyl ik heb voorwaar</l>
+<l>Te lang geleefd, waar door myn eere loopt gevaar.</l>
+<l>Myn hand had evenwel hier van haar vrijen konnen.</l>
+<l>Voorwaar ik nimmermeêr deez' reden had begonnen,</l>
+<l>Of had eerst met dit staal doorregen deze borst,</l>
+<l>Ten waare dat myn bloed daar uit niet komen dorst,</l>
+<l>Ten zy dat gy 't gebied, of anders wilt gehengen;</l>
+<l>Het hoord u eigen toe; die 't anders wil verplengen,</l>
+<l>Ontsteeld het zynen Vorst, het mangeld Romen niet</l>
+<l>Aan helden, om in 't veld te treên voor haar gebied;</l>
+<l>Genoeg meêr, zonder my voor Tullus zullen vechten,</l>
+<l>Om aan uw kroon een tak, een Staat, een Stad te hechten.</l>
+<l>Uw Majesteit, geliefd my van die wet te ontslaan,</l>
+<l>Indien wat loons verdiend het geen ik heb gedaan,</l>
+<pb n="73"/>
+<l>Staa toe, ô groote Vorst; dat ik met dezen degen,</l>
+<l>Daar ik op huiden heb den zeege meê verkreegen,</l>
+<l>My offer aan myn roem, maar aan myn zuster niet.</l>
+</sp>
+</div>
+<div type="scene">
+<head rend="h4">Derde tooneel.</head>
+<stage><hi rend="sc">Tullus</hi>, <hi rend="sc">Valerius</hi>, <hi rend="sc">Horace</hi> <hi rend="i">den ouden,</hi> <hi rend="sc">Horace</hi>, <hi rend="sc">Sabina</hi>, <hi rend="sc">Julia</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Sabina</hi>.</speaker>
+<l>UW Majesteit, helaas! hoor eerst Sabine, en ziet,</l>
+<l>Hoe haar het herte klopt van droefheid en van rouwe,</l>
+<l>Wat smerte dat zy leid, als zuster, en als vrouwe,</l>
+<l>En voor uw voeten leid, beweend haar broêrs, en stam,</l>
+<l>En voor haar man bevreesd, die hen het leeven nam.</l>
+<l>Neen, ik en zoek hierdoor het recht niet te vermind'ren:</l>
+<l>Noch door myn traanen, of myn klagten te verhind'ren</l>
+<l>Dat uwe Majesteit niet straffen zou zo een,</l>
+<l>Die zo misdaadig is, en hem misging, ô neen!</l>
+<l>Neen, straf hem naar verdienst dien edelen misdaader,</l>
+<l>Maar straf hem hier in my, gy kond hem nergens nader</l>
+<l>Aan 't herte treffen, dan dat gy my 't leeven neemt,</l>
+<l>Wasch met myn bloed zyn schuld; hoe! dunkt u dit zo vreemd?</l>
+<l>Ik ben zyn ander helft: de banden die ons binden,</l>
+<l>En uittermaate min, daar hy my staag meê minden,</l>
+<l>En die genegentheid die hy tot my noch heeft,</l>
+<l>Maakt dat hy meer in my, dan in zyn zelven leeft:</l>
+<l>En zo het u beliefd dat ik mag voor hem sterven,</l>
+<l>Zal hy meêr 's leevenslust, dan of hy zelfs stierf; derven,</l>
+<l>De dood, die 'k eisch, en my niet kan geweigert zyn,</l>
+<l>Vermeed'ren zal zyn rouw, en eindigen de myn</l>
+<l>O schrikkelyk verdriet! waar ben ik toe vervallen,</l>
+<l>Wat de and'ren overkomt is, laas! doch niet met allen</l>
+<l>Te reekenen by 't myn. wat grouwel is 't. ik moet</l>
+<l>Een man omhelzen. die verdelgt heeft al myn bloed,</l>
+<l>En die myn stam verwoest en al myn broêrs vermoorden,</l>
+<l>Of haaten dat hy deê. het geen dat hy behoorden,</l>
+<l>En deê een goeden dienst u. en zyn vaderland,</l>
+<pb n="74"/>
+<l>Ach! met een korte dood verlost my van de schand</l>
+<l>Van hem te minnen, of van hem te moeten haaten.</l>
+<l>Ik sidder zo ik 't met hem houde of hem verlaate;</l>
+<l>Verdoemd my voor myn man, 't zal my een gunste zyn;</l>
+<l>Het geen ik van u eisch, dat heb ik wel in myn</l>
+<l>Geweld, en deze hand die kan het my straks geeven,</l>
+<l>Och ja, Sabina die is meester van haar leeven,</l>
+<l>Maar aangenaamer zal de dood my zyn, zo 'k kan</l>
+<l>Daar door van schand, en schuld bevryden myne man,</l>
+<l>En zo ik daar door kan der goden tooren stillen,</l>
+<l>En stellen ook in vreê de ziele van Camille,</l>
+<l>En spaaren zul k een man, van wie dat Romen heeft</l>
+<l>Haar hoogheid, ja. een held wiens weergaâ nergens leeft.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Horace</hi> <hi rend="i">den ouden.</hi></speaker>
+<l>My dunkt dat ik hier moet, grootmogend Vorst en heere,</l>
+<l>Weêrleggen het gepleit, en zeggen van Valere.</l>
+<l>Myn kinderen met hem die spannen t'zaamen op,</l>
+<l>Dat zy, door grooten rouw, haar vaders gryzen kop</l>
+<l>Ook dompelen in 't graf, en doen hem't herte breeken,</l>
+<l>Zo dat ik myn verdriet, helaas! naau uit kan spreeken.</l>
+<l>Wat reden is 't dat gy my dit verdriet aan doet,</l>
+<l>En dingt naar 't overschot, en naar dit weinig bloed,</l>
+<l>Dat van myn bloeijend huis noch over is gebleeven,</l>
+<l>En van myn kinderen alleen noch is in 't leeven?</l>
+<l>Gy, die niet overdenkt ter deeg by wie gy bent,</l>
+<l>En dus, door dit geween, uw pligt en eere schend,</l>
+<l>Gy, die verbaten wilt uw man, om zo te konnen</l>
+<l>By uw drie broeders zyn, die hy heeft overwounen.</l>
+<l>Om raad veel liever by die eed'le zielen gaat,</l>
+<l>Zy zyn gestorven, maar voor Albe, en voor haar Staat,</l>
+<l>En houden 't voor geluk, terwyl het dus hier boven</l>
+<l>Beslooten is geweest, zo moeten wy het looven,</l>
+<l>En troosten met het geen dat ons den hemel geeft:</l>
+<l>Indien men, naar men is gestorven, kennis heeft,</l>
+<l>Zo zal aan alle drie verdrieten meer uw steenen,</l>
+<l>Uw klagen, en getreur, uw zuchten en uw weenen,</l>
+<l>Dan haar verlies, en dat zy ongelukkig streên,</l>
+<pb n="75"/>
+<l>Door dien dat de eere komt op ons daar van alleen.</l>
+<l>Altyd ik zeeker ben, zy zullen nooit als pryzen</l>
+<l>De daaden van uw man, en van zyn deugd nooit yzen;</l>
+<l>Daar zy heel vroly k nu in d'hemelen misschien</l>
+<l>Staan praaten, en uw rouw met droevige oogen zien.</l>
+<l>Sabina klaagt daarom niet meêr, maar zyt geruster:</l>
+<l>Gedenkt toch op uw pligt, en dat gy bent haar zuster,</l>
+<l>Horaces echtgenood, en een Romeinsche vrouw:</l>
+<l>Dus houd u als 't betaamd, en maatig uwen rouw.</l>
+<l>Het geen waar meê dat van Valere werd bestreeden</l>
+<l>Uw waarden bruidegom, en heeft noch slot noch reden.</l>
+<l>Ik bidde gunstig 't oor van uwe Majesteit:</l>
+<l>Wie heeft ooit meêr gehoord dat een oploopentheid,</l>
+<l>Van dat hem 't edel bloed, door deugd ontroerd, gereezen</l>
+<l>Om hoog, dus heeft ontsteld, gestraft behoord te weezen?</l>
+<l>Daar die beweeging eer verdiend te zyn geloond,</l>
+<l>Terwyl die hier zyn deugd zo zeer als elders toond.</l>
+<l>Den vyand op de tong, en in het herte draagen,</l>
+<l>Zyn eigen vaderland te vloeken, en zyn maagen,</l>
+<l>En noch den ondergang te wenschen van den Staat,</l>
+<l>En over land en volk te roepen al het kwaad,</l>
+<l>Het geen een raazend mensch kan in gedachten komen,</l>
+<l>Dat is het geen men noemt een misdaad binnen Romen,</l>
+<l>En dat heeft hy gestraft. Alleenig wierd zyn hand</l>
+<l>Geroerd, door liefde tot het waarde vaderland;</l>
+<l>En zo hy 't minder had bemind, hy had zyn degen</l>
+<l>Bedwongen, en zyn roem had dus een vlak gekreegen.</l>
+<l>Hy waar gestraft geweest, ik zweer 't, van my, zo rasch</l>
+<l>Hy my voor oogen kwam, indien hy schuldig was:</l>
+<l>Ik had gebruikt het recht dat ik had op zyn leeven,</l>
+<l>Het welk de wet my heeft, en zyn geboott' gegeeven,</l>
+<l>Ik heb myn eer te lief, en ben te hoog van moed,</l>
+<l>Dan dat ik lyden zou een misdaad in myn bloed,</l>
+<l>Of datmen mynen stam verkleind, of zou onteere.</l>
+<l>Ik wil daar toe geen meêr getuigen, dan Valere.</l>
+<l>Hy heeft gezien, toen ik de helft maar had verstaan,</l>
+<l>En ik geloofden dat hy Romen had verraâu,</l>
+<pb n="76"/>
+<l>En meenden anders niet of hy was laf geloopen,</l>
+<l>Wat een onthaal hy had in zulk geval te hoopen.</l>
+<l>Wat of 't mag zyn, dat hem aldus bekommerd maakt,</l>
+<l>Met myn gezin, dat hem in 't minste zelfs niet raakt?</l>
+<l>Wat of 't mag zyn, dat hy zich zelfs hier in komt steeken?</l>
+<l>En, tegens mynen wil, wil myne dochter wreeken?</l>
+<l>Waarom mag aan haar dood hem meêr geleegen zyn;</l>
+<l>Dan zelfs haar vader? hoe! en hoortze niet aan myn?</l>
+<l>Kwanzuis men vreest, hy mogt aan and'ren slaan zyn handen;</l>
+<l>Maar hy en heeft geen deel dan aan ons eige schanden;</l>
+<l>Wat ook een ander doet, en hoe 't ook werd genaamd,</l>
+<l>Indien het ons niet raakt, het maakt ons niet beschaamd.</l>
+<l>Gy kund, Valere, wel staan vloeken schreijen, klaagen,</l>
+<l>Voor de oogen van myn zoon, hy zal u wel verdraagen:</l>
+<l>Want hy trekt hem niet aan de misdaân die gy doet,</l>
+<l>Terwy1 gy van zyn stam niet zyt, noch van zyn bloed:</l>
+<l>En die hem niet bestaat, die kan van zyn lauw'rieren,</l>
+<l>Die hem, tot eeuw'gen roem, om 't manlyk voorhoofd zwieren,</l>
+<l>Geen eenig blad alleen doen vallen van haar lof.</l>
+<l>Lauw'rieren die men zoekt te morzelen tot stof:</l>
+<l>Lauw'rieren eeuwig groen; en gy, gewyde blaâren,</l>
+<l>Die steeds dat heldenhoofd voor blikzem kan bewaaren,</l>
+<l>Gy zoud het van het zwaard des beuls af laaten slaan?</l>
+<l>Romeinen, zoud gy hem zien naar 't schavot toe gaan?</l>
+<l>Hem, zonder wien dat flus was Romen niet meêr Romen?</l>
+<l>Valerius zie, wat gy dryft: en schoon genoomen</l>
+<l>Het wierd alzo verstaan, en dat hy sterven most,</l>
+<l>Waar meent gy dat daar toe bek waam een plaats zyn kost,</l>
+<l>Hier binnen in de stad, waar dat in alle straaten,</l>
+<l>De lieden, tot zyn lof, by een noch staan te praaten,</l>
+<l>En daar me aan yder oord de weêrklank van 't geluit</l>
+<l>Der stemmen hoord, die hoog zyn glory roepen uit?</l>
+<l>Of zou die buiten zyn, daar hy flus heeft gestreeden</l>
+<l>In 't midden van het veld, waar hy voor Romen heden</l>
+<l>Veroverd heeft een Ryk, en haar het haar bewaard;</l>
+<pb n="77"/>
+<l>Waar hy die drie versloeg. en waar men nu noch de aard</l>
+<l>Ziet rooken van haar bloed, getuige van de zeege,</l>
+<l>En van zyn eer en roem, die hy daar heeft verkreegen?</l>
+<l>Waar wil gy dat men hem dan straf? daar elk hem roemd?</l>
+<l>En hem met eer en vreugd, en u met droef heid noemt,</l>
+<l>En schand, die slechts niet kund 't geflikker in uw oogen</l>
+<l>Van de overwinning, en van zulk een eer gedoogen,</l>
+<l>En die uw nydig hart zo graag ontluist'ren zag,</l>
+<l>Waar door gy met dit bloed zoekt zulk een grooten dag,</l>
+<l>Als immer Romen had, te ontzuiv'ren en te smetten,</l>
+<l>Het geen dat Alba zelfs zal zoeken te beletten.</l>
+<l>Zo wel als Romen, en bewaaren hem voor schand,</l>
+<l>Door wien het heden is zo mannelyk vermand,</l>
+<l>Wie zal niet weenen als men hem ter dood zal leijen?</l>
+<l>Wie, als den beul zal slaan, zal weezen zouder schreijen?</l>
+<l>Al 't volk, als 't ziet, hoe dat dien held zyn hals uitstrekt,</l>
+<l>Eer dat den slag noch gaat, in oproer raakt, hem trekt</l>
+<l>Uit handen van den beul, en scheld met laster woorden.</l>
+<l>'t Is veel zo 't daar by blyft, en zo 't niet raakt aan 't moor den,</l>
+<l>En 't plond'ren, want als 't graauw maar eenmaal is aan 't gaan,</l>
+<l>Daar is geen magt zo groot, die hen kan wederstaan,</l>
+<l>Uw Majesteit, dit wel zal weeten voor te komen.</l>
+<l>En spreeken vry dien held, en spaaren hem voor Romen</l>
+<l>Dat anders aan dien held te veel verliezen zal:</l>
+<l>Hy kan het noch wel eens beschutten voor zyn val,</l>
+<l>En op een andertyd, kan hy noch eens weêr vechten</l>
+<l>Voor Romen, 't geen hy heeft gedaan noch eens uitrechten</l>
+<l>Bewaar hem, op dat hy noch op een and're tyd</l>
+<l>Mag keeren, voor uw Staat, verwinnaar uit den stryd.</l>
+<l>Neen, wil hem niet om my, noch om myn hooge jaaren,</l>
+<l>En zwaaren ouderdom, maar wel om Romen spaaren.</l>
+<l>Ik heden vader van vier kind'ren was, de drie</l>
+<l>Zyn dood om Romens zaak, noch een, heb ik 'er, wie</l>
+<l>Men naar het leeven staat, bewaar die ook voor Romen,</l>
+<l>Wiens Staat, noch jong, niet diend zo sterk een stut ontnoomen.</l>
+<pb n="78"/>
+<l>Nu keer ik my tot hem. Horace, het veracht</l>
+<l>En domme graauw, en heeft op uwe roem geen magt!</l>
+<l>Van oordeel is het blind, 't zal wel een misslag roemen</l>
+<l>Voor goet beleid, en 't zal wel schande kloekheid noemen,</l>
+<l>De luister die het geeft aan onze naam, is ook</l>
+<l>Niet meêr als wind, en dat verdwynt als mist en rook,</l>
+<l>Eer dan men het geloofd, daarom zo wil verachten:</l>
+<l>De stem van 't botte volk, en haar geroep niet achten;</l>
+<l>Maar acht de Koningen, en de Overheden meest,</l>
+<l>Wat die gevoelen, en de uitstekenste van geest,</l>
+<l>Van haar alleenig komt den rechten naam en eere,</l>
+<l>Die by haar is beroemt, zal ooit geen roem ontbeere:</l>
+<l>Door haar, een rechten held zyn naam altyd bewaart:</l>
+<l>Leef voort, als gy begont, gy zult by haar vermaart,</l>
+<l>En staag doorluchtig zyn; uw naam zal eeuwig weezen,</l>
+<l>Al waar't ook schoon dat gy hier naar, noit als voor dezen,</l>
+<l>Door ongelegentheid, geen groote daad bedreeft,</l>
+<l>Daar uit een boozen zot mogt denken dat hy heeft</l>
+<l>Gelegentheid en reên, te last'ren uwe daaden.</l>
+<l>Haat noch uw leeven nu niet meêr, en laat u raaden</l>
+<l>Van uwen vader, leef, ten minsten dan, op dat</l>
+<l>Gy doch meugt diensten doen, uw Koning, en uw stad;</l>
+<l>En zo dit noch niet helpt, leef om dat ik 't begeere,</l>
+<l>Die uwen vader ben, en u niet wil ontbeeren.</l>
+<l>Ik maak het al te lang voor uwe Majesteit,</l>
+<l>Maar denkt, heel Romen heeft door myne mond gepleit.</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Valerius</hi>.</speaker>
+<l>Ik bid uw Maj....</l>
+</sp>
+<sp>
+<speaker><hi rend="sc">Tullus</hi>.</speaker>
+<l rend="; 1tab">Stil, stil, ik heb genoeg, uw zeggen,</l>
+<l>Valere, heb ik by my zelfs gaan overleggen,</l>
+<l>Uw redenen zyn my door d'haare niet ontgaan,</l>
+<l>Deez' schandelyke daad, schier voor myn oog gedaan,</l>
+<l>Stinkt, voor die op der aarde, en in den hemel woonen;</l>
+<l>En wat men zeggen mag, het kan hem niet verschoonen,</l>
+<l>Zelfs de allerzachtste wet verwyst hem tot de dood:</l>
+<l>Maar of zyn misoaad noch zo schandig is, en groot,</l>
+<pb n="79"/>
+<l>Zo komt die van de hand, en van dien eigen degen,</l>
+<l>Die heden voor my heeft noch eene Staat verkreegen:</l>
+<l>Twee kroonen op myn hoofd. Dat Alba 't laagste leid,</l>
+<l>En Romen heerscht, voorwaar, geweldig voor hem pleit.</l>
+<l>Ik zoude, zonder hem, een onderdaan nu wezen,</l>
+<l>Daar 'k tweemaal Koning ben: en and're wetten vreezen,</l>
+<l>Die 'k nu twee Ryken geef, gewonnen door zyn hand,</l>
+<l>Ik weet, daar zynder meêr, die tot het vaderland,</l>
+<l>En tot haar Koning, en zyn welvaart, zyn genegen;</l>
+<l>Maar weinig hebben van de goôn daar by verkreegen</l>
+<l>De weetenschap, van door een treffelyke daad</l>
+<l>Te vesten het gebied haars Konings, en zyn Staat,</l>
+<l>Veel minder van een Ryk, of noch een Kroon te winnen?</l>
+<l>En zulke dienaars mag een Koning wel beminnen:</l>
+<l>Terwyl die van zyn kroon de stutten zyn, en kracht,</l>
+<l>En op de zulke heeft de wet by ons geen magt:</l>
+<l>Haar deugd, haar boven 't volk, en boven wet doet stygen;</l>
+<l>Dus ik, voor dezen tyd, wil dat de wetten zwygen.</l>
+<l>En Romen zie in hem ook door de ving'ren, dat</l>
+<l>Zy zag in Romulus, in 't bouwen van de stad.</l>
+<l>Zy zal het zelfde in haar verlosser wel verschoonen,</l>
+<l>Het gene zy niet dorst in haaren bouwer hoonen,</l>
+<l>Leef dan, Horace, leef! ô al te stouten held!</l>
+<l>Gy werd door uwe deugd ver boven schuld gesteld:</l>
+<l>Uw mannelyk gemoed was wat al te onverduldig,</l>
+<l>Het mogt geen schande zien, en dat maakt u onschuldig,</l>
+<l>By die een manlyk hart in zy nen boezem heeft,</l>
+<l>Op dat gy Romen zoud meêr dienen konnen, leeft,</l>
+<l>Leef, om uw vaders wil, en wy, die 't ook begeere,</l>
+<l>Leef om u eigen zelfs, leef; maar bemind Valere;</l>
+<l>En hy u wederom met een oprecht gemoed,</l>
+<l>Dat geen van beiden ooit malkand'ren leet aandoet:</l>
+<l>Gy zult malkanderen, al 't geen 'er is bedreeven,</l>
+<l>Als 't waare vrienden voegt, met hart en zin vergeeven</l>
+<l>En weeren alle wrok van u; op dat ik wis</l>
+<l>Mag zien, of uw gemoed ook als myn meening is,</l>
+<l>Zo zult gy hier voor my elkanderen ontmoeten,</l>
+<pb n="80"/>
+<l>Omhelzen, en gelyk als rechte broeders groeten.</l>
+<l>En'gy, Sabina, die niet zonder reden schreid,</l>
+<l>Toon hier uw grootze ziel, en uw kloekmoedigheid,</l>
+<l>En wat gedachten in dat eed'le harte woonen:</l>
+<l>Staak deze tranen toch, daar zult gy meê betoonen</l>
+<l>Gy rechte zuster zyt, van diegy dus beweend.</l>
+<l>Dit groot gemoet toch met geen flaauwigheid verkleent.</l>
+<l>Maar morgen is 't bestemt, en vast gesteld de goden</l>
+<l>Te danken voor de winst, en op 't autaar te dooden</l>
+<l>Een heerlyke offerhand, die lichtelyk haar zal</l>
+<l>Zo aangenaam niet zyn, 't en zy hy eerst voor al</l>
+<l>Gereinigt zy, dat zal zyn vader doen en stille</l>
+<l>Met eene, als hy kan, de ziele van Camille;</l>
+<l>Die ik ook zeer beklaag. Het geen zy allermeest</l>
+<l>Gewenscht heeft, als zy noch in't leeven is geweest;</l>
+<l>Men voegd haar nevens die, door de eigen hand en reden,</l>
+<l>Is hun op eenen dag het leeven afgesneeden;</l>
+<l>Dus wil ik dat men haar een heerlyk graf bereid,</l>
+<l>En dat zy daar met haar Curace werd geleid.</l>
+</sp>
+<stage><hi rend="spat">EINDE</hi>.</stage>
+</div>
+</div>
+</body>
+</text>
+
+</TEI.2>

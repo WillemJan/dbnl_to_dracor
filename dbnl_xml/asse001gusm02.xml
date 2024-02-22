@@ -1,0 +1,1431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Gusman de Alfarache, of de doorsleepene bedelaars</title>
+               <author>Thomas Asselijn</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van een herdruk van <hi rend="i">Gusman de Alfarache, of de doorsleepene bedelaars</hi> van Thomas Asselijn uit 1693. De eerste druk dateert uit 1655.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>p. 4: accolades verspreid over meerdere regels kunnen in deze digitale versie niet weergegeven worden. Daarom wordt de accolade hier, met bijbehorende tekst, op iedere regel herhaald.</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan type="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>2, 44</empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">asse001gusm02_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note></note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Theater Instituut Nederland, signatuur: 1 B 28</idno>
+               </bibl>
+               <p>Thomas Asselijn, <hi rend="i">Gusman de Alfarache, of de doorsleepene bedelaars</hi>. Jacob Lescailje (erven), Amsterdam 1693 (herdruk)</p>
+               <p>&#160;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Gusman de Alfarache, of de doorsleepene bedelaars</title>
+               <author>Thomas Asselijn</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Gusman de Alfarache, of de doorsleepene bedelaars</title>
+               <author>Thomas Asselijn</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-09-13</date>
+               <respStmt>
+                   <name type="person">SG</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+   <text>
+<body>
+    <cf>
+<div type="chapter">
+
+<pb n="1"/>
+<p>Gusman de Alfarache,</p>
+<p>OF DE</p>
+<p>DOORSLEEPENE BEDELAARS.</p>
+<p><hi rend="i">BLYSPEL</hi>.</p>
+<p>Door T. Asselyn.</p>
+<p><figure>
+<p><xptr to="asse001gusm02ill0001.gif"/></p></figure></p>
+<p>t'Amsterdam,</p>
+<p>By d'Erfgenamen van Jacob Lescailje, op de Middeldam. 1693.</p>
+<p><hi rend="i">Met Privilegie</hi>.</p></div>
+    </cf>
+<div type="chapter">
+<pb n="3"/>
+<head rend="h3">Copye Van de privilegie.</head>
+<p>DE Staten van Holland ende Westvrieslandt doen te weten. Alsoo Ons vertoont is by de tegenwoordige Regenten van de Schouwburgh tot Amsterdam, Dat sy Supplianten sedert eenige Jaren herwaaris met hunne goede vrinden hadden gemaakt en ten Toonele gevoert verscheyden Werken, soo van Treurspeclen. Blyspeelen als Kluchten, welke sy lieden nu geerne met den druk gemeen wilden maken; doch gemerkt dat dese werken door het nadrukken van anderen, veel van hun luyster, soo in Taal als Spelkoost souden komen te verliesen, en alsoo sy Supplianten hen berooft souden sien van hun bysonder ooghwit om de Nederduytsche Taal en de Dichtkoost voort te setten, soo vonden sy hen genoodsaakt, om daar inne te voorsien, ende hen te keeren tot Ons, onderdanigh versoekende, dat Wy omme redenen voorsz. de supplianten geliefden te verleenen Octroy ofte Privilegie, omme alle hunne Werken reedts gomaekt ende noch in 't licht te brengen, den tijdt van vijftien Jaren alleen te mogen drukken en verkoopen of doen drukken en verkoopen, met verbodt van alle anderen op seekeren hoogen peene daar toe by ons te stellen ende voorts in communi forma. Soo is 't dat Wy de Sake en 't versoek voorsz. overgemerkt hebbende, ende genegen wesende ter bede van de Supplianten, uyt Onse rechte wetenschap. Souveraine macht ende authoriteyt deselve Supplianten geconseureert, geaccordeert ende geoctroyeert hebben, consenteren, accorderen ende octroyeren misdesen, dat sy geduurende den tijdt van vijftien eerst achtereen volgende Jaren de voorsz. Werken die reeds gedrukt zijn, ende die van tydt tot tydt door haat gemaakt ende in 't ligt gebragt snllen werden, binnen den voorsz. On sen Lande alleen sullen mogen drukken, doen drukken, uytgeven en verkoopen. Verbiedende daarom allen ende eenen ygely ken deselve Werken naar te drukken, ofte elders naargedrukt binnen den selve Onsen Lande te brengen, uyt te geven ofte te verkoopen, op de verbeurto van alle de naargedrukte, ingebragte ofte verkogte Exemplaren, ende een boete
+van drie hondert guldens daar en boven te verbeuren, te applieeren een derde part voor den Officier die de calange doen sal, een derde part voor den Armen der Plaatse daar het casus voorvallen sal, ende het resterende derde part voor den Supplianten. Alles in dien verstande, dat wy de Supplianten met desen Onsen Octroye alleen willende gratificeren tot verhoedinge van hatre schade door het nadrukken van de voorsz. werken, daar door in geenige deelen verstaan, den inhoude van dien te authoriseren ofte te advoueren, ende veel min de selve onder Onse prorectie ende bescherminge, eenig meerder credit, aensien ofte reputatie te geven, ne-<pb n="4"/>maer de Supplianten in cas daar in yets onbehoorlyx soude mogen influeren, alle het selve tot haren laste sullen gehouden wesen te verantwoorden; tot dien eynde wel expresselijk begerende, dat by aldien sy desen Onsen Octroye voor de selve Werken sullen willen stellen, daar van gene geabbrevieerde ofte gecontrabeerde mentie sullen mogen maken, nemaar gehouden sullen wesen het selve Octroy in 't geheel ende sonder eenige Omissie daar voor te drukken offe te doen drukken, ende dat sy gehouden sullen zijn een exemplaer van alle de voorsz. Werken, gebonden ende wel geconditioneert te brengen in de Bibliotheecq van Onse Universiteyt tot Leyden, ende daar van behoorlyk te doen blyken. Alles op poene van het effect van dien te verliesen. Ende ten eynde de supplianten desen Onsen consente Octroye mogen genieten als naar behooren: Lasten wy allen ende eenen ygelyken die 't aangaan mag, dat sy de Supplianten van den inhoude van desen doen, laten en gedogen, rustelyk en volkomentlyk genieten, en cesserende alle belerten ter contrarie. Gedaan in den Hage onder Onsen grooten Zegele hier aan doen hangen den <hi rend="sc">xix</hi> Septembr. in 't Jaar onses Heeren en Zaligmakers duysent ses hondert vier en tachtigh.</p>
+<p>G. <hi rend="spat">FAGEL</hi>.</p>
+<p>Ter Ordonnantie van de Staten <hi rend="spat">SIMON</hi> van <hi rend="spat">BEAUMONT</hi>.</p>
+<p>&#160;</p>
+<p>De tegenwoordige <hi rend="sc">Regenten</hi> van de <hi rend="sc">Schouwburgh</hi>, hebben het Recht van de bovenstaande Privilegie, voor dit Blyspel, vergunt aan d'Erfgen: van J. <hi rend="sc">Lescailje</hi>.</p></div>
+<div type="chapter">
+<head rend="h3">Vertooners.</head>
+<list>
+<item><hi rend="sc">Karlo</hi>, <hi rend="i">een waard</hi>.</item>
+<item><hi rend="sc">Charlotte</hi>, <hi rend="i">zyn wyf</hi>.</item>
+<item><hi rend="sc">Gusman</hi>, } <hi rend="i">beide verarmde eedelluiden</hi>, <hi rend="i">in bedelaars gewaad</hi>.</item>
+<item><hi rend="sc">Antonio</hi>, } <hi rend="i">beide verarmde eedelluiden</hi>, <hi rend="i">in bedelaars gewaad</hi>.</item>
+<item><hi rend="sc">Ariana</hi>, <hi rend="i">onder de naam van Garcias in bedelaars gewaad</hi>, <hi rend="i">beminde van Gusman</hi>.</item>
+<item><hi rend="sc">Ambrosius</hi>, } <hi rend="i">twee waereldlyke Heeren</hi>.</item>
+<item><hi rend="sc">Laurentio</hi>, } <hi rend="i">twee waereldlyke Heeren</hi>.</item>
+<item><hi rend="sc">Barnardi</hi>, <hi rend="i">kamerling van Matheo Dosorio</hi>.</item>
+<item><hi rend="sc">Matheo Dosorio</hi>, <hi rend="i">een Minister van Staat</hi>.</item>
+<item><hi rend="sc">Margo</hi>, <hi rend="i">Meid van Matheo Dosorio</hi>.</item>
+<item>Mr. <hi rend="sc">Stefanus</hi>, } <hi rend="i">twee Chirurgyns</hi>.</item>
+<item>Mr. <hi rend="sc">Joanni</hi>, } <hi rend="i">twee Chirurgyns</hi>.</item>
+<item><hi rend="sc">Kantel</hi>, <hi rend="i">een arbeider</hi>.</item></list>
+<p>&#160;</p>
+<p>Het tooneel is tot Romen.</p></div>
+<div type="act">
+<pb n="5"/>
+<head rend="h2">Gusman de Alfarache,</head>
+<head rend="h3">Eerste bedryf.</head>
+<head rend="h4"><hi rend="i">Eerste tooneel</hi>.</head>
+<stage><hi rend="sc">Karlo, Charlotte</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Karlo</hi>.</speaker>
+<l>HOe is 't, wyf, zel die baron, met dat ander kanailje, haast gang maaken?</l>
+<l rend="; 1tab">Jy moet 'er op passen, ik vertrouw ze niet veul, de handen van zulk volk dat zyn maar meshaaken.</l>
+<l>Hy mag dan een baron weezen of niet, al wat dat ze maar zien daar pretendeeren zy eigendom aan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Charlotte</hi>.</speaker>
+<l>Maar man! wat zegje, een baron! wel jy zelt een gat in den hemel slaan!</l>
+<l>Het zyn, geloof ik, een party schurken, om 'er hier in 't gild van de troggelaars te laaten promoveeren:</l>
+<l>Want na dat ik kan zien, zyn ze ontrent even veel miesters, en dat ze zo maar op de gemeene beurs teeren.</l>
+<l>Wel gistren, toen ze hier eerst kwaamen, inzonderheid de baron, toen leeken ze noch wat,</l>
+<l>Maar nou zien ze'er te byster uit, ja de besten van allen, geloofik, en heeft schier geen broek aan zyn gat.</l>
+<l>Nou hebben ze'er een als penningmeester gemaakt, die zel veur al betaalen.</l>
+<l>Maar heur esels, die hier staan, met noch een valies of twee, die zellen ze hier na haalen.</l>
+<l>Ik zegje man, als geplukte vinken, zo zien ze 'er nou uit.</l></sp>
+<sp>
+<speaker><hi rend="sc">Karlo</hi>.</speaker>
+<l rend="; 2tab">Ja de besten van allen, geloof ik, is een doorsleepen guit.</l>
+<l>Gelyk die gistren daar de mond zo roerden, en 't woord deed voor allen.</l>
+<pb n="6"/>
+<l>Wat wist hy al historytjes te verhaalen, van wonderlyke trouwgevallen:</l>
+<l>'t Was of hy de praat allien had, en de andren, speulden voor stom.</l>
+<l>En wat fwetsten hy op zyn gessacht? en wat weyden hy breed op zyn eedeldom:</l>
+<l>Gelyk dat volkjen dan gewoon zyn by ieder op te synen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Charlotte</hi>.</speaker>
+<l>Die, daar jy van spreekt, man, en de jongsten, meugen malkandren in 't byzonder wel lyen,</l>
+<l>Altyd hebben zy t'zamen even drok, ik weer niet wat ik 'er van zeggen zel,</l>
+<l>Altoos gist'ren heb ik 'er kuuren van gezien, die behaagden my gantsch niet wel,</l>
+<l>En die my al wonderlyke gedachten deeden hebben, door zeeker teeken,</l>
+<l>Dat 'er wel onder dat kleed, een ander schepzel, als een man, mogt steeken;</l>
+<l>Maar om dat te onderzoeken, daar toe kom ik verder niet an.</l></sp>
+<sp>
+<speaker><hi rend="sc">Karlo</hi>.</speaker>
+<l>Hoor, wyf, ik geloof, dat zulk volk de eene dag voor vrouw ageeren, en de ander dag voor man;</l>
+<l>En speulen slechts alle dingen gemeen, en loopen maar zo onder een, in 't honderd.</l>
+<l>Daarom, al waar 't zo, gelyk je daar zegt, zo ben ik 'er niet eens over verwonderd;</l>
+<l>Want dat volkje regeleeren haar maar na dat de weerhaan van 't geluk nu wend en dreyd.</l></sp>
+<sp>
+<speaker><hi rend="sc">Charlotte</hi>.</speaker>
+<l>Nou zyn ze vast beezig haar te prepareeren, en elk maakt hem vast tot den tochtbereid.</l>
+<l>Gistren al voort, hebben ze 'er een naar het naaste hospitaal, en verbandhuis gezonden,</l>
+<l>Om zo al die bemorste, en vuile doeken, van kwaadaardige, en onzuivre wonden,</l>
+<l>Hoe onhebbelyk, en ongezien dat ze ook zoude mogen zyn,</l>
+<l>Bedektelyk te bekoomen, om 'er kwanzuis onder dien schyn,</l>
+<l>Of zy 't lyf vol wonden hadden, haar daar van te bedienen,</l>
+<l>En door uiterlyk gebaar, wonderlyke gesten, en gemaakte mienen</l>
+<pb n="7"/>
+<l>Elk zo d'oogen te verblinden, en leggen 't 'er alzo op aan,</l>
+<l>Om de groote huisen aan te spreeken, en de kleinen niet verby te gaan,</l>
+<l>En alzo elk, door bedrog, tot medoogendheid te verwekken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Karlo</hi>.</speaker>
+<l>Hoor, wyf, als zy ons betaald hebben, mach ik wel lyen dat ze met haar eesels, en bagasie vertrekken,</l>
+<l>En in 't toekomende, als 't weer beurt, ons huis maar gaan voorby,</l>
+<l>Want dat zyn rechte filosofen, ervaren in de loenze kapraze filosophy.</l></sp>
+<sp>
+<speaker><hi rend="sc">Charlotte</hi>.</speaker>
+<l>Maar zacht, man, daar komt de penningmiester, wat dunk je 'er nou van, die zel geld schieten?</l></sp>
+<sp>
+<speaker><hi rend="sc">Karlo</hi>.</speaker>
+<l>Wel, ik geloof dat de wind met een hort, hem wel op het vaticaan zou zetten; wel zo een penningmiester zou men zeeker wel kennen swieten.</l></sp>
+<div type="scene">
+<head rend="h4"><hi rend="i">Tweede tooneel</hi>.</head>
+<stage><hi rend="sc">Karlo, Charlotte, Antonio</hi>, <hi rend="i">in bedelaars gewaad</hi>, <hi rend="i">met een knapzak op de rug</hi>, <hi rend="i">een stok</hi>, <hi rend="i">en houte kit in de hand</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l>A za, Sinjor Karlo, ik heb last om u te betaalen, voor 't goed logys dat wy hier hebben gehad,</l>
+<l>Wy meenen te vertrekken, ik wil verhoopen dat wy in deze volkryke stad,</l>
+<l>Menschen mogen vinden, die met verarmde edelluiden kompassy zullen draagen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Karlo</hi>.</speaker>
+<l>Hoe duivel zie je 'er nou dus uit, Antoni? en ben jy edelluiden? wel zeeker dan ben je met recht te beklaagen!</l>
+<l>Maar waarom je dan niet by de een of de ander Minister bekend gemaakt?</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l>O, Sinjor Karlo, hadden wy dat gedaan, wy waaren allang in het verdriet geraakt;</l>
+<pb n="8"/>
+<l>Den Koning, heeft den vader van Don Gusman, die hier by ons is, aan alle boven beschreeven,</l>
+<l>Om dat hy te Madrid, een ridder in Duel gebragt heeft om 't leeven,</l>
+<l>Zynde des Konings basterd, en daarom zeer hoog by hem geestimeerd,</l>
+<l>En daar op hem van al zyn ampten ontbloot, en des zelfs goederen gekonfiskeerd,</l>
+<l>Zo dat hy, en ik, wiens seconden ik was, het hof hebben moeten kwitteren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Charlotte</hi>.</speaker>
+<l>Maar wat is de jongsten voor een onder jou luiden?</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l rend="; 1tab">Dat is de zoon van een Marquis, die al zyn goedren. verbruid heeft met procedeeren,</l>
+<l>Wiens overgroot vaders bestevaars vader, groot kommandeur van Kastillien is geweest,</l>
+<l>Van welkers groote starkheid men noch in de oude Spaansche kronyken leest.</l>
+<l>Hy kon zonder pols, alleen slechts met een loop, over de dartig voet waaters springen,</l>
+<l>En in het stieren gevecht, zag men hem ordinaris zo een stier vyf zes de hoorens uit de kop wringen,</l>
+<l>En een honderd gevelde pieken of vier, kon hy met zyn sessen houden staan.</l>
+<l>Ja, hy dorst met een korporaalschap, tegen een heel regiment mooren aangaan;</l>
+<l>Hy was van het geslacht, en afkomstig, uit het doorluchtig huis van de Almanje.</l>
+<l>Den Koning maakten hem opperste marschalk, van al de marschalken van Spangje,</l>
+<l>En gouverneur van Peru, en de gantsche goudkust en strand:</l>
+<l>Hy hiel wel tien duizend slaaven, en zelfs reed hy op een witten olyfant;</l>
+<l>Buiten noch wel honderd duizend meer, die hem gewoon waaren dagelyks op te wachten.</l>
+<l>Hy had, ik weet niet wel hoe veel pakhuizen, altemaal gepropt vol, met stukken van achten,</l>
+<l>En ettelyke tonnetjes met halven, en kwaartjes, en dia-<pb n="9"/>manten als katskoppen, en ook goud, had hy dik enne bol,</l>
+<l>En als 'er dan zo een bedelaar kwam, wel die gaf hy dan maar zo by de roes een hiele hoed vol.</l>
+<l>En van vrouwen, dorst hy in getal, den groote Mogol, en den Turkzen Keyzer wel tarten,</l>
+<l>Die hy altemaal zolderden, elk byzonder, zo van blanken, als van swarten.</l>
+<l>Welk hy gedurig op geslooten hiel, en niemand als hy de sleutel daar van had.</l>
+<l>Ook dienden hem tien paar dwergjes over de maaltyd, dus hoog, die hem de schottels aanbrachten, als hy aan taafel zat.</l>
+<l>O bloed! Sinjor Karlo, dat wy nou zulken heerschop hadden, hoe schoon zouden wy het wel klaaren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Karlo</hi>.</speaker>
+<l>Wat, zo Antony, jy praat by get van 't zilver, goud, en diamanten, of het straatstienen waaren,</l>
+<l>En hakt 'er niet weinig onder, doch wat scheeld het jou, of het geloogen, of de waarheid, is,</l>
+<l>Maar ik geloof zeeker, dat het zilver en goud, toen vry wat beter koop moet zyn geweest, als 't nou wel is.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l>En van zyn moeders kant is hy van de Calcallas, die haar namaals de Alvares hebben laaten doopen,</l>
+<l>Ja zyn bestemoers, overgroot moeders moeder, heeft Keizer Karel aan de leybanden leeren loopen,</l>
+<l>En, jong zynde, als hy in de kakstoel zat, hem opgepast, gereinigt, jy weet wel, vatje de zin?</l>
+<l>En is zo lang by hem gebleeven, tot dat hy mondig was, dat ze hem daar na noch heeft gediend voor drooge min.</l>
+<l>Doch dezen zyn vader stervende, heeft hem onder de voogdy van eenen Don Kotaldo gelaaten,</l>
+<l>Die ook al des zelfs goed'ren heeft doorgebracht, maakende een bankerot van over de tweemaal honderd duizend ducaaten,</l>
+<l>En is ons nou al zo arm, en gelyk geworden, maar zacht, daar hoor ik myn kompagnons, zy zyn ligt vaardig om te gaan.</l></sp></div>
+<div type="scene">
+<pb n="10"/>
+<head rend="h4"><hi rend="i">Darde tooneel</hi>.</head>
+<stage><hi rend="sc">Karlo, Charlotte, Antonio, Gusman</hi> <hi rend="i">om 't hooft</hi>, <hi rend="i">armen en beenen met doeken bewonden</hi>. <hi rend="sc">Garcias</hi> <hi rend="i">met een korf</hi>, <hi rend="i">en stok in de hand</hi>, <hi rend="i">in bedelaars gewaad</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>.</speaker>
+<l>Sinjor Karlo, hebt gy uw geld?</l></sp>
+<sp>
+<speaker><hi rend="sc">Karlo</hi>.</speaker>
+<l rend="; 1tab">O ja, myn heer Baron, uw konfrater heeft my voldaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>.</speaker>
+<l>Ja baron zegdy, Sinjor Karlo, maar wat dunkt u van deez' verandering? ik weet gy hebt wonderlyke gedachten</l>
+<l>Over deze onze toestellinge, en wat u van ons staat af te wachten,</l>
+<l>Of wie wy mogen zyn, maar ik verzeeker u, die gy meend dat wy bennen, die en zyn wy niet.</l>
+<l>Doch om uw de waarheid te zeggen, zo is elk een speelkind van de fortuin, die gy hier ziet.</l>
+<l>En of ons schoon tienmaal meer kwaads is beschooren, als ons reeds is overgekoomen,</l>
+<l>Zo en is ons daarom de couragie, de couragie, Sinjor Karlo, noch niet benoomen.</l>
+<l>Alleen beklaag ik dezen onze jongsten, die mede die zelve fatiges heeft uit te staan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Garcias</hi>.</speaker>
+<l>Maar wat zydy tog met my verleegen, en dus begaan?</l>
+<l>Bekommerd u daar niet eens over, ik zal myn persoonagje zo wel als de beste speelen,</l>
+<l>Ook en hebt gy geen bedenkinge te hebben, dat my 't zelven in 't minsten zal verveelen.</l>
+<l>Wat dunkt u, moeder, van deze toetaakeling?</l></sp>
+<sp>
+<speaker><hi rend="sc">Charlotte</hi>.</speaker>
+<l rend="; 2tab">Dat kan zo heel wel gaan, jy bend zo wel gepersooneerd, als een van jou drien;</l>
+<l>Maar als ik jou raaden zou, zo wou ik me meer laaten hooren, als laaten zien,</l>
+<l>En daar was ook niet aan geleegen, al bedekten jy dat
+<pb n="11"/>troonytje, om reed'nen, en byzond're zaaken,</l>
+<l>Om zo alle speculatien te ontgaan, en min bedenkingen te maaken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>.</speaker>
+<l>Maar, moeder, wat dat gy ook al praat.</l></sp>
+<sp>
+<speaker><hi rend="sc">Charlotte</hi>.</speaker>
+<l rend="; 3tab">Wel het moest ook wel een bloed zyn, die dat niet merken en zou.</l></sp>
+<sp>
+<speaker><hi rend="sc">Karlo</hi>.</speaker>
+<l rend="; 4tab">Wyf, jy hebt dat al hiel wel af gespeculeerd.</l></sp>
+<sp>
+<speaker><hi rend="sc">Garcias</hi>.</speaker>
+<l>Het schynd, moeder, dat gy wonderlyke gedachten hebt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l rend="; 1tab">Za, maar waar toe doch hier langer over gedisputeerd?</l>
+<l>'t Is al over een uur of twee tyd geweest, dat wy behoorden te passeeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>.</speaker>
+<l>Wat dunk u, Sinjor Karlo, kan 't zo bestaan?</l></sp>
+<sp>
+<speaker><hi rend="sc">Karlo</hi>.</speaker>
+<l rend="; 5tab">Heel goed.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l rend="; 6tab">Maar zacht, hier aan 't hooft, zal ik het noch wat besmeeren.</l>
+<l>Kameraad, kryg my die twee potten eens uit onze korf.</l></sp>
+<sp>
+<speaker><hi rend="sc">Garcias</hi>.</speaker>
+<l rend="; 2tab">Hou daar.</l></sp>
+<stage><hi rend="i">Antonio, bestryks Gusman hier en daar noch wat aan 't hooft</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l rend="; 4tab">Ziet zo, nou is 't heel wel. wy moeten ons nu maar behelpen, met den schyn.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>.</speaker>
+<l>A, non force, Sinjor Karlo, gy weet de waereld wil doch bedroogen zyn.</l></sp>
+<sp>
+<speaker><hi rend="sc">Karlo</hi>.</speaker>
+<l>Zeeker, ter wyl gy eedelluiden zyt, zoo deerd my uw kwaade fortuin.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l rend="; 3tab">Of wy al worden beklaagd, Sinjor Karlo, wat kan ons dat al baaten,</l>
+<l>Wy hebben uw d'oorzaak gezegt, waarom dat wy ons va-<pb n="12"/>derland hebben moeten verlaaten.</l>
+<l>Vonden wy dien Kotaldo hier, wy zouden hem doen vatten. nou kom, het stroo en de mathier,</l></sp>
+<sp>
+<speaker><hi rend="sc">Karlo</hi>.</speaker>
+<l rend="; 4tab">Charlotte, hoorje wel?</l>
+<l>De mat, en het stroo by de werken, jou verbruide motkas, hoe menigmaals of men 't jou zeggen zel.</l></sp>
+<sp>
+<speaker><hi rend="sc">Charlotte</hi>.</speaker>
+<l>Wel doed altyd eerst jou mond oopen, jy speuld al braaf de baas, met jou kommandeeren.</l></sp>
+<stage><hi rend="i">Charlotte binnen</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l>Maar, Sinjor Karlo, wat kours neemen wy nou best?</l></sp>
+<sp>
+<speaker><hi rend="sc">Karlo</hi>.</speaker>
+<l rend="; 3tab">Hoor, Antonio, jy hebt jou maar aan het naaste paleis te adresseeren,</l>
+<l>'t Is een uitheemsch minister, Dosorio genaamd, daar hebt gy u maar neer te slaan,</l>
+<l>Gy zult 'er licht wel een party karossen, of draagstoelen voor de poort zien staan.</l>
+<l>Dat is een zeer mildaadig heer.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l rend="; 2tab">Nou kom, Charlotte, Charlotte, is alles gereet, dat 'er toe behoord, en in ordre?</l></sp>
+<stage><hi rend="i">Charlotte met een mat en stroo weer uit</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Charlotte</hi>.</speaker>
+<l>O ja, gelyk je hier ziet, daar en mankeerd niet aan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l rend="; 2tab">Nu, Gusman, vaardig op het stroo in de mat, 't is tyd ons werk te vord'ren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>.</speaker>
+<l>A, za, Sinjor Karlo, dat gaat'er dan zo op aan.</l></sp>
+<stage><hi rend="i">Gusman</hi>, <hi rend="i">begeeft zig op het stroo in de mat</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l rend="; 1tab">Nu kom, gaat zo op u zy leggen, en houd uw weezen gestadig zeer pynlyk, en gestrekt;</l>
+<l>En dit ouwe deekentje, van lap op lap te zamen gemaakt, is goed om daar mee te worden gedekt.</l>
+<l>Nu let wel, in 't by zyn van volk moet gy niet anders doen, als maar zuchten en steenen,</l>
+<pb n="13"/>
+<l>En heffen uw handen zo om hoog, en klaagen van gedurige pyn, in armen en in beenen,</l>
+<l>Ja, als of gy de dood gelaaden mocht hebben, en stervende laagt in de mat.</l></sp>
+<sp>
+<speaker><hi rend="sc">Karlo</hi>.</speaker>
+<l>Gy moogt ook zomtyts wel een schreeuw geeven, of gy inwendige trekkingen, of binnen stuipen had;</l>
+<l>En word gy aangesprooken, antwoord weinig, of liever niet, maar laat Antony het woord voeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l>Dat is heel goed, houd gy u maar stil, kwansuis om u niet te veel te ontroeren.</l>
+<l>En gy, kameraad, zult de hoed zo voor uit op uw handen, en 't lyf voor over wat gebogen houwen, let wel op myn bedryf,</l>
+<l>En zomtyts zo uw knien tegen malkand'ren slaan, met gebaar, als had gy de koorts op het lyf.</l>
+<l>Past 'er nu op, dit alles, gelyk ik uw gezegt heb, aldus te voltrekken,</l>
+<l>En dus doenden zult gy niet alleen dien heer, maar wie uw ook zal zien, tot mildaadigheid verwekken.</l>
+<l>Neemt gy nu dien korf aan den arm, en de knapzak op u rug. en ik met deez' houte kit, en stok, en doet even als ik u heb gezegt, en geraan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>.</speaker>
+<l>Nu kom, laat ons maar gang maaken,</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l rend="; 1tab">Charlotte, zegt de arbeiders dat ze binne koomen</l></sp>
+<sp>
+<speaker><hi rend="sc">Charlotte</hi>.</speaker>
+<l rend="; 2tab">Zeer wel.</l></sp>
+<stage><hi rend="i">De arbeiders</hi>, <hi rend="i">zetten Gusman in de mat</hi>, <hi rend="i">op de burri</hi>.</stage></div>
+<div type="scene">
+<pb n="14"/>
+<head rend="h4"><hi rend="i">Vierde tooneel</hi>.</head>
+<stage><hi rend="sc">Karlo, Charlotte, Gusman, Antonio, Garcias, Kantel</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Karlo</hi>.</speaker>
+<l rend="; 1tab">Dezen zieken zuldy voor 't paleis van den Heer Dosorio brengen, en dezen zullen daar nevens gaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kantel</hi>.</speaker>
+<l>Maar om ons te betalen, Sinjor Karlo, ordinary als wy gedaan hebben, meenen zy 't zo met een bang zien af te leggen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l>Doet gy maar uw werk, men zal uw voldoen dat gy niet en zuld hebben te zeggen.</l>
+<l>Nou, Sinjor Karlo, wy bedanken u voor 't goed logys dat wy by u hebben gehad.</l>
+<l>Adios, Charlotte.</l></sp>
+<stage><hi rend="i">Twee arbeiders dragen Gusman, op een burrie</hi>, <hi rend="i">in de mat</hi>, <hi rend="i">na 't paleis van Dosorio</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Karlo</hi>.</speaker>
+<l rend="; 1tab">Vaar wel, wy wenschen dat gy goede sortuin moogt maaken in deze stad.</l></sp>
+<stage><hi rend="i">Einde van het eerste Bedryf</hi>.</stage></div></div>
+<div type="act">
+<pb n="15"/>
+<head rend="h3">Tweede bedryf.</head>
+<head rend="h4"><hi rend="i">Eerste tooneel</hi>.</head>
+<stage><hi rend="sc">Gusman, Antonio, Garcias, Kantel</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l>Gaa voorzichtig, dat doch dien zieken geen ongemak mag lyden.</l></sp>
+<stage><hi rend="i">Zy laaten Gusman</hi>, <hi rend="i">leggende in de mat</hi>, <hi rend="i">met de burrie vallen</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>.</speaker>
+<l>Ach! ach! wat komt my over! ik sterf! ik sterf!</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l rend="; 1tab">Wel jou botte beesten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kantel</hi>.</speaker>
+<l rend="; 2tab">Maar zo als ik myn eene voet wil voort zetten, komt hy uit te glyden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>.</speaker>
+<l>Ay my! ik sterf! ik sterf! och, och! ik kan niet meer, ik ben overwonnen van pyn.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l>Zeg ik u niet daar noch zo eeven, dat gy doch voorzichtig zoud zyn?</l>
+<l>O gy tierannen! zal men zo een krank lichaam! ja tot 'er dood toe krank! tracteeren?</l>
+<l>Gy zyt waardig gerabraakt te worden, of dat men uw zo daadlyk doet harkebuzeeren,</l>
+<l>Gy hebt dien mensch gemartilizeerd! vermoord! en u eigen zelfs dien vloek verschaft,</l>
+<l>Om daar over door de justietje met de koord te worden gestraft.</l>
+<l>Gy hebt hier meer als een doodzonden aan begaan, die nie en is te vergeeven!</l></sp>
+<sp>
+<speaker><hi rend="sc">Garcias</hi>.</speaker>
+<l>Antoni, houd wat op, ziet gy niet dat die twee heeren op ons afkoomen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l rend="; 1tab">Goed, houd jou maar stil, och! hy kan niet een half uur meer leeyen.</l>
+<pb n="16"/>
+<l>Ik wil dat gy zo aanstonts in den ban word gedaan, en geexcommuceerd:</l>
+<l>En moet dit aldus in een stadt van rechten geleeden worden? dat men een arm mensch alzo tracteerd.</l>
+<l>Zo mishandeld! zo om den hals brengt!</l></sp>
+<sp>
+<speaker><hi rend="sc">Kantel</hi>.</speaker>
+<l rend="; 1tab">Wel maar kaerel je ziet immers dat het een ongeluk is, dat de beste kan beuren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l>Een zaak! ja een zaak, die een stad 't onderste boven zou helpen, en daar 't heele land om zou moeten treuren.</l></sp>
+<div type="scene">
+<head rend="h4"><hi rend="i">Tweede tooneel</hi>.</head>
+<stage><hi rend="sc">Gusman, Antonio, Garcias, Kantel, Ambrosius, Laurentius</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ambrosius</hi>.</speaker>
+<l>Maar hoe zydy zo verstoord, wat is 'er geschied? of de redenen daar van?</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l>Ach! daar leid hy en sterft! is 'er dan niemand die zo een elendig creatuur helpen kan?</l>
+<l>Gy mensche moorders! gy beulen! gy onbarmhartigen! die ik eeuwig zal haaten,</l>
+<l>Meend gy dat Sinte Rokus, onzen paatroon, dit ongewrooken zal laaten?</l>
+<l>Meend gy dat? hy zal 'er uw duizend jaar langer in 't vagevier om laten pynigen, gy barbaren als gy zyt.</l>
+<l>Gy turken, gy japonders, ja gy hottentotten, en gy monsters van onzen tyd,</l>
+<l>Is 't niet genoeg dat wy arm zyn?</l></sp>
+<sp>
+<speaker><hi rend="sc">Laurentio</hi>.</speaker>
+<l rend="; 1tab">Maar zacht, dat men u doch eens hooren mag.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l rend="; 2tab">Ja, gy hebt verdiend door uwe werken,</l>
+<l>Dat men u behoorden te vierendeelen, en daar na noch te gieselen en te brandmerken.</l>
+<l>Ach mon ami! zyt gy zo dood krank? och die jongen blom!</l></sp>
+<pb n="17"/>
+<sp>
+<speaker><hi rend="sc">Garcias</hi>.</speaker>
+<l rend="; 2tab">Kend gy my noch wel, myn lieve Gusman?</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l rend="; 4tab">Ach! het gezicht is hem al gebrooken,</l>
+<l>O! moord! moord! moord! och daar heeft hy even zo zyn oogen al gelooken!</l>
+<l>O gy verraaders!</l></sp>
+<sp>
+<speaker><hi rend="sc">Ambrosius</hi>.</speaker>
+<l rend="; 1tab">Maar swygd doch, 't is licht een flauwten daar hy in leid.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l rend="; 2tab">Dat gy zo een elendig schepzel om den hals brengd, door uw bedryf,</l>
+<l>Och ja hy is al dood, want hier onder is hy al hiel koud en styf.</l>
+<l>Wel wat zal ik dan! kon ik hier, in myn toorn, aan een slagswaard, of turkze saabel geraaken,</l>
+<l>Ik zou jou zo aanstonts, alle bey tot dubbelde arenden maaken,</l>
+<l>En hakken je tot huspot, jou bloedige tygers, en harpyen als jy bend.</l>
+<l>Hier meeleid al onze fortuin in de asch, en al onze hoop en troost is ten end.</l></sp>
+<sp>
+<speaker><hi rend="sc">Laurentio</hi>.</speaker>
+<l>Maar hoe gaat gy lieden zo bot te werk? wy zyn zelfs met de patient begaan, en verleegen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Kantel</hi>.</speaker>
+<l>Myn voet kwam uit te glippen, myn Heer, zo dat ik zelfs schier een ongeluk had gekreegen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Garcias</hi>.</speaker>
+<l>Ach Gusman! spreek doch, kend gy my noch wel?</l></sp>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>.</speaker>
+<l rend="; 1tab">Ay my, ay my, ach, ach.</l></sp>
+<sp>
+<speaker><hi rend="sc">Garcias</hi>.</speaker>
+<l rend="; 3tab">Antony! Antoon! ach Gusman die spreekt!</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l rend="; 6tab">Wat zegt gy! spreekt hy? wel dat geeft my weder moed.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ambrosius</hi>.</speaker>
+<l rend="; 5tab">Dat is dan noch geen teeken van de dood.</l></sp>
+<sp>
+<speaker><hi rend="sc">Laurentio</hi>.</speaker>
+<l>Dat hy krank is heb ik wel kennen oordeelen, maar van
+<pb n="18"/>sterven docht my en had hy noch geen nood.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l>Ach! wat verlicht my dat! ik had hem voor gewis al deur geschreeven:</l>
+<l>Ik geloof ook dat hy al dood geweest is, maar daar na hem weer heeft bedacht, om noch een poos te leeven.</l>
+<l>Ach! nou ben ik weer een heel ander mensch, en gryp weer moed.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ambrosius</hi>.</speaker>
+<l>Maar wat zydy voor volk, en waar van daan?</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l rend="; 1tab">Wy zyn, myn Heer, verarmde edelluiden, aan het Spaansche hof opgevoed.</l>
+<l>Maar in ongunst des Konings geraakt zynde, hebben wy alles, ook ampten en staaten,</l>
+<l>Goed'ren, en maagschappy, ja ook zelfs ons vaderland moeten verlaaten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Laurentio</hi>.</speaker>
+<l>Maar waar toe met zulk een kranken mensch, die men zou oordeelen dat de dood heeft gelaan,</l>
+<l>Zo een swaaren reis, van heel uit Spangien, hier tot Roomen toe, gedaan?</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l>De reed'nen, aller uitsteekenste Heer, zyn zeer gewigtig, die ons daar toe hebben bewoogen,</l>
+<l>Wy zoeken eenen Kotaldo, die de Vader van dezen jongsten, zeer schandelyk heeft bedroogen,</l>
+<l>Hebbende hem monber over dien jongen heer, en al des zelfs goed'ren gesteld,</l>
+<l>Waar door hy in bezitting is gekomen, van ik weet niet welhoe veel honderd tonnen met geld:</l>
+<l>Deez', in plaats van 't best te betrachten, en 't zelven getrouwlyk te administreeren,</l>
+<l>Heeft hy 't alles zoek gemaakt, met dobb'len en speelen, en bordeelen te frekenteeren.</l>
+<l>Dezen Kotaldo dan, gelyk men ons heeft onderrecht, en ook zeeker werd vertrouwd,</l>
+<l>Die zegt men voor gewis, dat hy zich alhier aan het Room sche hof onthoud.</l>
+<pb n="19"/>
+<l>Het welk dan wel 't voornaamste is, dat ons herwaarts heeft gedreeven, hier tot Roomen.</l>
+<l>En wy beiden zyn mede byna op een wys tot verval, en ar moede gekoomen,</l>
+<l>Zynde alvorens bekleed geweest met veel ampten, en waardigheeden van staat,</l>
+<l>Maar daar na door eenig misverstand, geraakt in des Konings allerbitterste haat.</l>
+<l>Zynde anders voortgekoomen uit de vermaardste, en adelykste looten,</l>
+<l>Dezen van de Cacallas, ik uit de Calcamanduras, en dien zieken, uit de Gusmans gesprooten;</l>
+<l>Maar nu in de alleruiterste mesery geraakt, gelyk gy ziet dat ons alles ontbreekt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ambrosius</hi>.</speaker>
+<l>Het komt hier maar op aan, of 'er geen bedrog onder en schuild, en of gy de waarheid al spreekt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Garcias</hi>.</speaker>
+<l>Genadigste Heer, ik wensten dat gy in onze harten mogt zien, ik wil op myn conscientie verklaaren,</l>
+<l>Gy zoud onze armoed noch veel grooter bevinden, dan wy die wel openbaaren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Laurentio</hi>.</speaker>
+<l>Maar hoe komt dat dien zieken, zo gedurig leid en kermd en schreid?</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l>Ik weet, myn Heer, dat hy tegenwoordig weer in een hevige, en brandende koorts leid.</l></sp>
+<sp>
+<speaker><hi rend="sc">Garcias</hi>.</speaker>
+<l>Och! alleruitneemenste Heer, dat gy doch innerlyk met barmhartigheid mogt worden bewoogen,</l>
+<l>Om over ons te hebben eenige kompassy of mededoogen,</l>
+<l>Van een aalmoes te geeven aan verarmde menschen, om haar hongersnood te voen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l>Ik verzeeker uw getrouwe Heeren, gy en kond nooit kostelyker offerhanden doen,</l>
+<l>Dan liberaalyk uw mildaadigheid aan ons te betoonen.</l></sp>
+<pb n="20"/>
+<sp>
+<speaker><hi rend="sc">Ambrosius</hi>.</speaker>
+<l>Hou daar.</l></sp>
+<sp>
+<speaker><hi rend="sc">Laurentio</hi>.</speaker>
+<l rend="; 1tab">Neem dit.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l rend="; 4tab">Een goede fortuin wil uw aalmoes met een dubb'le woeker beloonen.</l>
+<l>Ach! dat ik uw handen kus.</l></sp>
+<sp>
+<speaker><hi rend="sc">Garcias</hi>.</speaker>
+<l rend="; 2tab">Die zeegen u overvloedig, en maak u gelukkig, in all'uw overlegging, en beraân.</l></sp>
+<sp>
+<speaker><hi rend="sc">Laurentio</hi>.</speaker>
+<l>Werwaarts hebt gy 't nu heen gemunt, of waar meent gy u ter neer te slaan?</l></sp>
+<sp>
+<speaker><hi rend="sc">Ambrosius</hi>.</speaker>
+<l rend="; 5tab">Ik gis, na dien kours die zy hebben genoomen,</l>
+<l>Dat het naar 't paleis van Dosorio zal zyn.</l></sp>
+<sp>
+<speaker><hi rend="sc">Garcias</hi>.</speaker>
+<l rend="; 3tab">Zo doet het ook, uitsteekenste Heer.</l></sp>
+<sp>
+<speaker><hi rend="sc">Laurentio</hi>.</speaker>
+<l rend="; 4tab">Treft gy hem in een goed humeur, zo en zult gy niet te onpas koomen.</l>
+<l>Gaa dan voor, wy moeten daar ook zyn, en zullen hem in uw faveur ook spreeken, voegd uw daar slegts ter neer.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l>Ach! dat ik uwe voeten kus, mogt dat zyn, o! allergoedertierendsten Heer.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ambrosius</hi>.</speaker>
+<l>Ach! dat ik uwe voeten kus, mogt dat zyn, o! allergoedertierendsten Heer.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ambrosius</hi>.</speaker>
+<l>Hou daar, dat is voor uw moeiten, maar past doch dat gy dien kranken niet weer en vermoeid, met hem te draagen.</l></sp></div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Darde tooneel</hi>.</head>
+<stage><hi rend="sc">Gusman, Antonio, Garcias</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l>Wel gy botte beesten! toond gy geen meerder dankbaarheid? ja stokslaagen</l>
+<pb n="21"/>
+<l>In plaats van geld, had gy van ons gehad. nou zet hier neer, en gaat gy maar voort.</l>
+<l>Nu, Gusman, kom op.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>.</speaker>
+<l rend="; 1tab">Waar zyn wy, Antony? ziet gy ook iemand?</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l rend="; 4tab">Neen, recht op onze rendevous, voor de poort</l>
+<l>Des paleis, van dien Heer.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>, <hi rend="i">over end in de mat</hi>.</speaker>
+<l rend="; 3tab">Wat zo, nou moet ik my wat verlugten, al lang genoeg geleegen.</l>
+<l>Hoe hebben 't die twee Heeren gemaakt?</l></sp>
+<sp>
+<speaker><hi rend="sc">Garcias</hi>.</speaker>
+<l rend="; 2tab">Heel trefflyk, wy hebben elk een scudi gekreegen,</l>
+<l>En daar en boven hebben zy de arbeiders ook betaald.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>.</speaker>
+<l rend="; 2tab">Wat zeg je! ik had het my op verre na zo goed niet ingebeeld;</l>
+<l>Voor een begin gaat het hiel wel, en elk heeft zyn rol zeer vast, en wonder wel gespeeld;</l>
+<l>Maar nu zel 't 'er eerst op aankoomen, het verstand te scherpen, en elk zyn vyf zinnen</l>
+<l>Daar aan te kost te leggen, om door gelyk gebaar, ook de gunst van dien Heer te winnen.</l>
+<l>Dat wy maar onder zyn dak geraaken, gelyk het and ren gelukt is, om alsdan zonder eenig beraan,</l>
+<l>'t Zy wat van zilver of goud, ons voor mag komen, weg te neemen, zonder iet te laaten staan.</l>
+<l>En dat elk maar past zyn plicht te betrachten, zonder iet te excuzeeren.</l>
+<l>En na dat wy wel voorzien zynde, weer de chapade te maaken, en het paleis weder mogen kwiteeren,</l>
+<l>Gelyk ons onderling besprek leid. Maar gy, ach! Ariane, die zo adelyk zyt opgevoed,</l>
+<l>En in dezen verachtelyken staat, noch zo veel blyken van uw getrouwe liefde doet.</l>
+<l>U beklaag ik in myn hart.</l></sp>
+<sp>
+<speaker><hi rend="sc">Garcias</hi>.</speaker>
+<l rend="; 1tab">Ik weet niet, Gusman, wat gy al spreekt, ik zeg
+<pb n="22"/>als noch, dat ik u niet en zal begeeven,</l>
+<l>Myn liesden is bestendig, ik ben gezind, met u te sterven, en te leeven,</l>
+<l>En ook deel te hebben met uw, 't zy dan in voor of tegenspoed, ja zelfs in barning van de nood,</l>
+<l>En daar gy voor gaat, u te volgen, al waar 't ook tot in de dood.</l>
+<l>Daarom steld u maar gerust.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l rend="; 1tab">Gusman, Gusman, breek af, gy zoud u zelfs, en ons, met dit praaten wel incomodeeren.</l>
+<l>Kom, legt u wederom in postuur, daar ginder komen weer die zelve Heeren.</l></sp></div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Vierde tooneel</hi>.</head>
+<stage><hi rend="sc">Gusman, Antonio, Garcias, Ambrosius, Laurentio</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>.</speaker>
+<l>Ach! ach! ik elendig mensche! ay my! ay my!</l></sp>
+<sp>
+<speaker><hi rend="sc">Ambrosius</hi>.</speaker>
+<l rend="; 1tab">Hoe is het met den kranken nou?</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l rend="; 2tab">Och hy is hiel swak, en doet niet dan kryten en karmen,</l>
+<l>En dat van gedurige pyn deur 't hiele lyf, en in beenen, en armen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Laurentio</hi>.</speaker>
+<l>Nou gy moet wat verduldig zyn, men zal uw zaak recommandeeren; ik zie daar den kamerling in de deur staan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ambrosius</hi>.</speaker>
+<l>Het zal dan hoog tyd zyn hem te spreeken, licht dat den Heer Dosorio staat om uit te gaan,</l>
+<l>Om of 't mogelyk waar, eerst noch een half uurtje met hem in besprek te treeden.</l>
+<l>Salvo, mon Sinjor.</l></sp></div>
+<div type="scene">
+<pb n="23"/>
+<head rend="h4"><hi rend="i">Vyfde tooneel</hi>.</head>
+<stage><hi rend="sc">Gusman, Antonio, Garcias, Ambrosius, Laurentio, Barnardi</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Barnardi</hi>.</speaker>
+<l rend="; 1tab">Is 'er iet ten dienst van uw achtbaarheeden?</l></sp>
+<sp>
+<speaker><hi rend="sc">Ambrosius</hi>.</speaker>
+<l>Wy spraaken myn Heer wel eens garen, deeden wy hem geen belet.</l></sp>
+<sp>
+<speaker><hi rend="sc">Barnardi</hi>.</speaker>
+<l>Gy komt zo even van passe, want hy staat zo vaardig in zyn kabinet,</l>
+<l>Om hem zo aanstonts naar het paleis van den Veneetsiaanschen Minister te vervoegen,</l>
+<l>Derhalven noch even den tyd, om u met een korte audientie te vernoegen.</l>
+<stage><hi rend="i">Barnardi, tegen Antonio, on Garcias</hi>.</stage>
+<l>Maar wat doet gy lieden hier? ik gebied uw zo aanstonts te vertrekken, verstady dat,</l>
+<l>Waarom en adresseerd gy u niet aan de hospitaalen, die hier zo overvloedig zyn in de stad?</l>
+<l>Daar gy kond worden geholpen, en van uw kwaalen werden gecureerd.</l></sp>
+<sp>
+<speaker><hi rend="sc">Laurentio</hi>.</speaker>
+<l>Wy hebben haar, mon Sinjor, voor af al wat geëxamineert.</l>
+<l>Zy geeven voor, verarmde edelluiden te zyn, en uit adelyke looten,</l>
+<l>Gelyk my ook toeschynd, dat dien jongsten uit geen bedelaars is gesprooten.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ambrosius</hi>.</speaker>
+<l>En dat zy hier zyn gekoomen om zaaken van zeer groot belang.</l></sp>
+<sp>
+<speaker><hi rend="sc">Barnardi</hi>.</speaker>
+<l>Och, gy Heeren, dit moet gy al met discreetie aanneemen, dat is al den ouden zang,</l>
+<l>Myn Heer Dosorio doet zo veel karitaaten, en is met de armeliedens zeer bewoogen,</l>
+<l>Maar 't is niet om uit te spreeken zo als hy misleid word en bedroogen,</l>
+<pb n="24"/>
+<l>En echter kon het wel zyn dat zy de waarheid ook hadden gezegt.</l>
+<l>Voorwaar, het hart beweegd my zelfs te zien, hoe dien elendigen daar zo legt.</l>
+<l>Maar zacht, daar word gebeld, zo 't u geliest, gy kond maar binnen treeden,</l>
+<l>Terwyl myn Heer doch niet veel tyd over zal hebben, om met uw te besteeden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Laurentio</hi>.</speaker>
+<l>Met premisje, dan mon Sinjor.</l></sp>
+<sp>
+<speaker><hi rend="sc">Barnardi</hi>.</speaker>
+<l rend="; 1tab">Gaat gy liedens maar voor, met authoriteit.</l></sp></div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Zeste tooneel</hi>.</head>
+<stage><hi rend="sc">Gusman, Antonio, Garcias</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Gusman</hi> <hi rend="i">weder over end in de mat</hi>.</speaker>
+<l>Wel wat bruid men dezen mon Sinjor, hy kreund hem met ons doen niet veel.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l rend="; 1tab">Dat dunkt my ook, hy geeft maar lebbig, en norts bescheid.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>.</speaker>
+<l>Maar dat 's niemendal, wy moeten daarom, 't geen wy voor hebben, niet laaten steeken,</l>
+<l>En denken slegts, dat het beeter is het hoofd, als 't achterkwartier te spreeken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l>Zo begryp ik het ook, elk spitst zich maar op het scharpst.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>.</speaker>
+<l rend="; 1tab">'t Best is zich maar uit de borst, onbeschroomd te laaten hooren, en of 't gebeurden dat</l>
+<l>Den een wat beteuterd stond, zo moet het voort by een ander weer worden opgevat.</l>
+<l>Ook moet men niet staan, als of men om te antwoorden was verleegen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l>Gusman, kom voort, ik hoor daar iemand, zo, legt u weer in order, te deegen.</l></sp></div>
+<div type="scene">
+<pb n="25"/>
+<head rend="h4"><hi rend="i">Zeevende tooneel</hi>.</head>
+<stage><hi rend="sc">Gusman</hi> <hi rend="i">wederom in order in de mat</hi>, <hi rend="sc">Antonio, Garcias, Dosorio, Ambrosius, Laurentio Barnardi</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Ambrosius</hi>.</speaker>
+<l>Dit zyn ze daar wy van hebben gesprooken, uw doorluchtigheid gelieve op de zelve zynoogen te slaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>.</speaker>
+<l>Ach! ik elendige! en arme mensche, als ik ben!</l></sp>
+<sp>
+<speaker><hi rend="sc">Dosorio</hi>.</speaker>
+<l rend="; 2tab">Zegt my, van waar komt gy liedens van daan?</l>
+<l>En van wat landaard zydy?</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l rend="; 1tab">Achtbare Heer, wy zyn alle drie natuurlyke onderdaanen</l>
+<l>Des Spaanschen Konings, en hoofd voor hoofd, geboorne Seviljanen.</l>
+<l>Van geen geringe afkomste, en die wel eer hunne jeugd hebben besteed</l>
+<l>In ridderlyke oefeningen, en adelyke ampten hebben bekleed,</l>
+<l>Maar in armoeden vervallen, en uit hun vaderland gedreeven.</l>
+<l>Gelyk hier aan dezen elendigen blykt, die noch sterven kan, noch leeven,</l>
+<l>Van pyn en ziekten overwonnen, en hier tot een spektaakel dus elendig leid,</l>
+<l>Hebbende zich al over drie dagen gebiegt, en tot de dood bereid.</l>
+<l>Ach! aldergoedertierendste Heer, wild onze arme mensche te hulp koomen,</l>
+<l>Erbarm u doch over de zelve.</l></sp>
+<sp>
+<speaker><hi rend="sc">Dosorio</hi>.</speaker>
+<l rend="; 1tab">Maar wat doet gy lieden doch hier te Roomen?</l>
+<l>En dat met zulk een swakken mensch, die naar het schynt de dood heeft gelaan?</l>
+<l>En waarom en bleeft gy niet in uw land, in plaats van zo een swaaren reis uit te staan?</l>
+<pb n="26"/>
+<l>En gy, die noch jong zyt, waar toe u zelfs met hun in dit gevaar te steeken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Garcias</hi>.</speaker>
+<l>Allerverheevenste Heer, wy vervolgen een trouwlozen, die men zegt zich alhier houd versteeken,</l>
+<l>Welken ons verderf veroorzaakt heeft.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>.</speaker>
+<l rend="; 1tab">Ach! waar ik nooit gebooren, ay my, ay my, ay my.</l></sp>
+<sp>
+<speaker><hi rend="sc">Dosorio</hi>.</speaker>
+<l rend="; 3tab">Hoe jammerd dien kranken zo? en wat is het voornaamste doch dat hem deerd?</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l>Ach! dat duurd zo nacht en dag, nu schynd het is het lichaam wat gemateerd,</l>
+<l>Om dat wy daar zo eeven voor af hem hebben verbonden.</l>
+<l>Zyn gansche lichaam over, is bezet met gevaarlyke, en kwaadaardige wonden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Garcias</hi>.</speaker>
+<l>Ach! wie kan, zonder kompassy met hem te hebben, hem doch aanzien?</l></sp>
+<sp>
+<speaker><hi rend="sc">Dosorio</hi>.</speaker>
+<l rend="; 2tab">Een expeerd Chirurgyn waar hem wel nodig in dezen staat.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ambrosius</hi>.</speaker>
+<l>U genade oordeeld zeer wel, want op 't laatst te wachten, is 't licht veel te laat.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l>Ach komt hy onder meesters handen, dan is hy zeeker om den hals, die zellen hem maar snyen, en kerven;</l>
+<l>Zyn ziekten is ongenees'lyk, en niemand als ons bekend, gewis hy zou onder haar handen sterven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>.</speaker>
+<l>Ach! ach! geef my eens een teugje bier, myn hart is my zo flauw.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l>Ben jy zo flauw, myn kranken bloed? hoor je niet, doet wat bier in die houte nap, kom gauw.</l>
+<l>Hou daar, drink jy eens.</l></sp>
+<pb n="27"/>
+<sp>
+<speaker><hi rend="sc">Dosorio</hi>.</speaker>
+<l rend="; 1tab">Een dronksken wyn, dat hem wat verkwikten, zou hy licht beeter meugen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l>Ach! aldergenaadigste Heer, mogt dat zyn, gewis dat zou dat benauwd hart vry verheugen,</l></sp>
+<sp>
+<speaker><hi rend="sc">Dosorio</hi>.</speaker>
+<l>Margo, Margo.</l></sp></div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Achtste tooneel</hi>.</head>
+<stage><hi rend="sc">Gusman, Antonio, Garcias, Barnardi, Dosorio, Ambrosius, Laurentius, Margo</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Margo</hi>.</speaker>
+<l rend="; 2tab">Wat belief je, myn Heer?</l></sp>
+<sp>
+<speaker><hi rend="sc">Dosorio</hi>.</speaker>
+<l rend="; 3tab">Haald my dat botelleken wyn eens, dat daar by myn zitplaats staat.</l>
+<l>Met het roemerken daar by.</l></sp>
+<sp>
+<speaker><hi rend="sc">Margo</hi>.</speaker>
+<l rend="; 1tab">Wel myn Heer.</l>
+<stage><hi rend="i">Margo binnen en weer uit</hi>.</stage></sp>
+<sp>
+<speaker><hi rend="sc">Dosorio</hi>.</speaker>
+<l rend="; 2tab">Barnardi, schenkt dien zieken eens, ziet dat gy tog wat voorzichtig met hem te werk gaat.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ambrosius</hi>.</speaker>
+<l>Ach! ziet hoe dat hy zyn handen uitsteekt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Laurentio</hi>.</speaker>
+<l rend="; 2tab">Ongetwyfeld verkwikt hem dat, en versterkt het benaude hart.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l>Het moet u eeuwig wel gaan, goedertierne Heer, die dien elendigen dus te hulp komt in hunne smart.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>.</speaker>
+<l>Ach! wat verkwikt my dat!</l></sp>
+<sp>
+<speaker><hi rend="sc">Dosorio</hi>.</speaker>
+<l rend="; 2tab">Kom, kameraad, en gy, vat hem op, Barnardi, en Margo, met uw beiden,</l>
+<pb n="28"/>
+<l>Wild hun voorgaan, en te zaamen in het naaste salet geleiden,</l>
+<l>En zyt hun mede in alles behulpzaam, tot hun dienst, in het reiken van een hand.</l>
+<l>En doet dien kranken zo aanstonts leggen op het reedste ledekaat,</l>
+<l>En gebied den hofmeester, in mynen naam, hun van spys te verzorgen, en inzonderheid den patient, die tog wel te tracteeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Barnardi</hi>.</speaker>
+<l>'t Zal zo geschieden, myn Heer. Nu kom vat op.</l>
+<stage><hi rend="i">Antonio, en Gaercias, draagen Gusman in de mat binnen</hi>.</stage></sp>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>.</speaker>
+<l rend="; 1tab">Och! och! wat doet gy my pyn aan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Barnardi</hi>.</speaker>
+<l rend="; 3tab">O gy botte menschen, hoe moogt gy een lichaam, dus gesteld, zo matteeren.</l>
+<l>Hebt gy zelfs dan geen medelyden altoos met hem?</l></sp>
+<sp>
+<speaker><hi rend="sc">Dosorio</hi>.</speaker>
+<l rend="; 2tab">Nu passeerd maar, Margo, doet dan even als ik heb gezegt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Margo</hi>.</speaker>
+<l>Wel, myn Heer.</l></sp>
+<sp>
+<speaker><hi rend="sc">Dosorio</hi>.</speaker>
+<l rend="; 2tab">En dat gy hun alle wel accomodeerd, en dien kranken mensch zo aanstonts te ruste legt.</l></sp></div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Negende tooneel</hi>.</head>
+<stage><hi rend="sc">Dosorio, Ambrosius, Laurentio</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Dosorio</hi>.</speaker>
+<l>Barnardi, Barnardi.</l></sp>
+<sp>
+<speaker><hi rend="sc">Barnardi</hi> <hi rend="i">weder uitkomende</hi>.</speaker>
+<l rend="; 1tab">Wat gelieft myn Heer?</l></sp>
+<sp>
+<speaker><hi rend="sc">Dosorio</hi>.</speaker>
+<l rend="; 2tab">Gaa eens by meeester Stefanus myn Chirurgyn, hier naby, en zegt dat ik hem nodig heb te spreeken,</l>
+<l>En dat hy meester Joanni, zyn buurman, mede brengt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Barnardi</hi>.</speaker>
+<l rend="; 2tab">Ik zal zo gaan, myn Heer.</l></sp>
+<pb n="29"/>
+<sp>
+<speaker><hi rend="sc">Dosorio</hi>.</speaker>
+<l rend="; 1tab">Wat dunk u gy, Heeren, behoorden ons dit niet genoeg te zyn, te zien zo klaare blyk en teeken?</l>
+<l>Of dezen armen mensche is, gelyk hy lykt, vol mesery, smart en pyn?</l>
+<l>En echter, hoe zeeker ons dit toeschynd, zo kan men als noch daar in bedrogen zyn,</l>
+<l>Want de praktyken die by dit volkje werden onderleid, gelyk my zelfs wel is voorgekoomen,</l>
+<l>Zyn zo menigvuldig en studijeus, dat ik menigmaals wel by my heb voorgenoomen,</l>
+<l>Hun alle af te schaffen, en over een kam te scheeren, zo wel de goeden als de kwaân.</l></sp>
+<sp>
+<speaker><hi rend="sc">Laurentio</hi>.</speaker>
+<l>Zo waaren voorwaar die, die recht armen zyn, wel de alderkwalyksten daar aan,</l>
+<l>U Sinjoric gelieft te denken dat d'aalmoes niet en dwaald, maar tot allen tyen,</l>
+<l>Den gene die ze doet, tot zeegeninge, zo in het tydelyk, als het eeuwige, komt te gedyen;</l>
+<l>En te meer, terwyl den naam van u verheevene edelheid,</l>
+<l>Door de menigvuldige aalmoesen die gy doet, zoo wyd en zyd, en overal is verbreid.</l>
+<l>Ook zouden de noodruftigen, hun dit het meest dan wel hebben te beklaagen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Dosorio</hi>.</speaker>
+<l>Het gaat zomtyds alzo, dat in 't algemeen, de onschuldigen, ook de straf van de schuldigen moeten draagen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ambrosius</hi>.</speaker>
+<l>Het is zeer noodig, billyk en recht, dat zulke bedriegers, by welken dit bedrog werd gehanteerd,</l>
+<l>Door de justitie, op 't allerheevigst, en scherpst werden gecorigeerd.</l></sp>
+<sp>
+<speaker><hi rend="sc">Laurentio</hi>.</speaker>
+<l>Eens te Amsterdam zynde, wierd ik op een plaats gebragt, daar my vertoond werden wonderlyke zaaken,</l>
+<l>Alwaar men blinden ziende, stomme hoorende, en kreupelen gaande wist te maaken.</l>
+<pb n="30"/>
+<l>Ik stond verzet, ziende uitgevonden middelen tot voorkomingen van alle bedrog en kwaad.</l>
+<l>De veiligheid der weegen, en het schuimen van 't geboest, en bedelary langs de straat.</l>
+<l>Dat my wonder wel geviel. Voorwaar, de beste policie is, alle onderlegginge van bedriegerye af te schaffen,</l>
+<l>De goeden te beschermen, en de kwaaden op het alderrigoureust te straffen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ambrosius</hi>.</speaker>
+<l>Zo doet het, gelieft u dat wy gaan, myn Heer Laurentio? uw Serimssimo, wil onze zaak in gedachten houwen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Dosorio</hi>.</speaker>
+<l>En twyfeld daar niet aan, ik zal die vorderlyk zyn, wilt my dat maar toevertrouwen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Ambrosius</hi>.</speaker>
+<l>Wy blyven u, verheevene Sinorie, ootmoedige dienaars.</l></sp>
+<sp>
+<speaker><hi rend="sc">Dosorio</hi>.</speaker>
+<l rend="; 1tab">Verexcuseerd my vrinden, ik zie de meesters daar koomen; maar ik verzeeker u, verlaat u vry op my.</l></sp></div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Tiende tooneel</hi>.</head>
+<stage><hi rend="sc">Dosorio</hi>, M<hi rend="sup">r</hi>. <hi rend="sc">Steeanus</hi>, M<hi rend="sup">r</hi>. <hi rend="sc">Joanni, Barnardi</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Dosorio</hi>.</speaker>
+<l>Zydy daar, meester Stefanus, met uw kompagnon?</l></sp>
+<sp>
+<speaker>M<hi rend="sup">r</hi>. <hi rend="sc">Stefanus</hi>.</speaker>
+<l rend="; 1tab">Is 'er iet ten dienst van u Sinorie?</l></sp>
+<sp>
+<speaker><hi rend="sc">Dosorio</hi>.</speaker>
+<l rend="; 2tab">Ik heb daar pascienten binnen, daar onde: een van de dry</l>
+<l>Zeer misetabel gesteld schy nt te zyn, zynde des zelfs lichaany overal bezet met veel kwaadaardige wonden;</l>
+<l>En geheel van 't hoofd tot de voeten, byna met oude en morsige doeken omwonden.</l>
+<l>Dees wilden ik aan uw overleev'ren, terwyl-gy doch beiden voor experte meesters zyt gerenomeerd,</l>
+<pb n="31"/>
+<l>Op dat hy wederom door u mag hersteld worden, ende gekureerdt.</l>
+<l>Wil daar toe dan uw uiterste vlyt, en het beste betrachten.</l></sp>
+<sp>
+<speaker>M<hi rend="sup">r</hi>. <hi rend="sc">Joanni</hi>.</speaker>
+<l>Wanneer gelieft het u heerlykheid, dat wy hem komen visiteeren?</l></sp>
+<sp>
+<speaker><hi rend="sc">Dosorio</hi>.</speaker>
+<l rend="; 1tab">Wanneer, laat zien, hy zal ligt nu al te zeer vermoeid zyn, komt gy lieden morgen liefst ontrent ten achten.</l></sp>
+<sp>
+<speaker>M<hi rend="sup">r</hi>. <hi rend="sc">Stefanus</hi>.</speaker>
+<l>Zeer wel, wy zullen ons dan alhier laaten vinden, wheerlykheid laat het daar maar op staan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Dosorio</hi>.</speaker>
+<l>Doet zo, ik verwagt u dan. Barnardi, hebt gy den Hofmeester myn order aangezeid?</l></sp>
+<sp>
+<speaker><hi rend="sc">Barnardi</hi>.</speaker>
+<l rend="; 1tab">O ja, hy zal bezorgen, dat alles volgens order van u Sinjorie zal worden gedaan.</l>
+<stage><hi rend="i">Einde van het Tweede Bedryf</hi>.</stage></sp></div></div>
+<div type="act">
+<pb n="32"/>
+<head rend="h3">Darde bedryf.</head>
+<head rend="h4"><hi rend="i">Eerste tooneel</hi>.</head>
+<stage><hi rend="sc">Gusman</hi> <hi rend="i">op het Ledikant</hi>, <hi rend="sc">Antonio, Garcias</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>.</speaker>
+<l>Tot noch toe gaat het wel, ik leg hier als een prins, maar nu moeten wy voor alle zaaken,</l>
+<l>Hier eens beginnen rondom te zien, wat 'er wel is, om tot onze gading te maaken.</l>
+<stage><hi rend="i">Gusman van het Ledikant</hi>.</stage></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l>Die zilv're kandelaar stond my wel aan, die mon Sinjor gist'ren avond met ons hier in 't Salet bragt,</l>
+<l>Ik docht vrind, jy mengd die noch zo wat te leen houwen, maar heel lang en blyft hy niet in jou magt.</l>
+<l>En dan heb ik hier noch al meer in 't oog, daar ik geen vergeefsche hoop op meen te bouwen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Garcias</hi>.</speaker>
+<l>Maar waar toe zo haastig? laat ons dit hok noch al zo wat in houwen,</l>
+<l>Tot dat het ons noch wat schoonder voorkomt, en wy wat meer in credit, en wat min verdacht zyn,</l>
+<l>En past dan wat te raaken, en te speulen al wat ik zie dat is myn.</l>
+<l>Zulke voorbarigheid, zou zomtyds in ons doen groote verandering konnen veroorzaaken.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>.</speaker>
+<l>'t Is alzo, myn lieve Ariane, ook ben ik bedugt, dat ik u hier door noch ongelukkiger zou maaken,</l>
+<l>En brengen in het uiterste gevaar.</l></sp>
+<sp>
+<speaker><hi rend="sc">Garcias</hi>.</speaker>
+<l rend="; 1tab">Geenzints, Gusman, dit zy u noch eens voor al gezegt,</l>
+<l>Dat ik voor u, en voor niemand anders en ben, als ook in al 't gene gy, of te zamen onderlegt,</l>
+<pb n="33"/>
+<l>Schoon met hoe veel gevaar vermengd, dat ik my het zelven ook zal onderwerpen,</l>
+<l>En ook nevens u, in al 't geen gy voorneemt, te helpen bevord'ren, en myn zinnen zal scherpen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>.</speaker>
+<l>O getrouwe liefde!</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l rend="; 1tab">Maar, Gusman, toen Barnardi ons gist'ren hier in 't Salet bragt, lette jy op dat woord</l>
+<l>'t Geen hy sprak?</l></sp>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>.</speaker>
+<l rend="; 1tab">Jy meend van een Barbier te zenden, o ja! dat heb ik ook wel gehoord,</l>
+<l>En dat stond my ook al zo maar passelyk aan, wy moeten dat al hiel anders zien te draijen,</l>
+<l>Dat het daar niet toe en komt, het wouw 'er dan elderments op het land waijen,</l>
+<l>Wy waren dan alle, den een zo wel als de ander, te schendig in de ly.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l>Gusman, kom vaardig, wakker, wakker, weer op het Ledikant, ik hoor iemand hier al dichte by.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gusman</hi> <hi rend="i">op het Ledikant</hi>.</speaker>
+<l>Ach! ach! ik elendig mensche als ik ben.</l></sp>
+<div type="scene">
+<head rend="h4"><hi rend="i">Tweede tooneel</hi>.</head>
+<stage><hi rend="sc">Gusman, Antonio, Garcias, Barnardi, Margo</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Barnardi</hi>.</speaker>
+<l rend="; 1tab">Margo, Margo, brengt die pot met potagie eens hier. wel, hoe is 't met uw lieden hier al geschaapen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Margo</hi>, <hi rend="i">met een pot potagie, uit</hi>.</speaker>
+<l>Hou daar.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l>Ach! al dat gekerm heeft zo den ganschen nacht geduurd, niet een half uur en heeft hy geslaapen.</l></sp>
+<pb n="34"/>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>.</speaker>
+<l>Ach! ach! wat ben ik benauwd, ay my, ay my.</l></sp>
+<sp>
+<speaker><hi rend="sc">Garcias</hi>.</speaker>
+<l rend="; 1tab">En ook zo even is hy daar verbonden, en nu schynt het is hy geheel afgemat,</l>
+<l>Dat men hem nou niet roeren en derst.</l></sp>
+<sp>
+<speaker><hi rend="sc">Barnardi</hi>.</speaker>
+<l rend="; 1tab">Kom reik my elk uw nap, de potagie, en dit voedzaam nat</l>
+<l>Zal den zieken goed doen, en kracht by zetten, geeft hen maar ryklyk.</l>
+<stage><hi rend="i">Zy reiken elk hun nap, die Marge met potagie vult</hi>.</stage></sp>
+<sp>
+<speaker><hi rend="sc">Margo</hi>.</speaker>
+<l rend="; 1tab">Zo zeker! wel my dunkt dat het al wat is te zeggen!</l>
+<l>Die 'er zo drie kouwe kalkoenen, en byna noch twee patryzen in weeten te leggen,</l>
+<l>En daar de darden noch zo krank is, dunkt my kan zo heel wel gaan,</l>
+<l>Gelyk zy gist'ren avond, noch met hun drien, als 't is gebleeken, hebben gedaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Barnardi</hi>.</speaker>
+<l>Hebben zy dat alles zo geëxpiedejeerd?</l></sp>
+<sp>
+<speaker><hi rend="sc">Margo</hi>.</speaker>
+<l rend="; 1tab">Ja, tot op de beenen toe, de kalkoenen waaren noch niet aangeraakt, en de patryzen, even begonnen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Barnardi</hi>.</speaker>
+<l>Fiat, laat hun eeten, 't en zal hun hier aan geen kost mankeeren, zo veel maar als zy konnen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Margo</hi>.</speaker>
+<l>Dat komt 'er al hiel wel, dat het hier zo ruim geschotteld is.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l rend="; 2tab">Wel maar vrouwmensch, dat is ook al wonderderlyk gezeid,</l>
+<l>Had jy ook, als wy, in vyf of zes dagen niet gegeeten, jy had 'er noch wel een koppel kalkoenen moer ingeleid.</l>
+<l>Ik ken 't aan jou muts wel zien, jy zelt jou lekkere beetjes onder je neus niet van daan laaten haalen.</l></sp>
+<pb n="35"/>
+<sp>
+<speaker><hi rend="sc">Barnardi</hi>.</speaker>
+<l>Zo, Margo, dat is een goeije, die flink weet jou al zo straks met gereede munt te betaalen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Margo</hi>.</speaker>
+<l>Ja, 't is een gauwerd, als 't blykt, daar wat te eeren valt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>.</speaker>
+<l>Ay my, ay my, och, och!</l></sp>
+<sp>
+<speaker><hi rend="sc">Barnardi</hi>.</speaker>
+<l rend="; 1tab">Nu gy moet wat couragie hebben, en verdüldig weezen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Garcias</hi>.</speaker>
+<l rend="; 2tab">Dat is al zo t'elkens, als hy verbonden is, van vermoeidheid, en pyn.</l></sp>
+<sp>
+<speaker><hi rend="sc">Barnardi</hi>.</speaker>
+<l>Dien mensch moet anders gehandeld worden, uw verbinden is niets, hem mankeerd maar een goed Chirurgyn,</l>
+<l>Die zal hem met 'er haast wel weer op de been helpen, en kureeren.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l>Ach! komt hy in handen van die Sarazyns, dan is hy van nou af aan al dood, zo zellen ze hem martilizeeren.</l>
+<l>Ja zy zellen hem snyen, en kerven, als een visch, tot op de graat.</l></sp>
+<sp>
+<speaker><hi rend="sc">Garcias</hi>.</speaker>
+<l>Ach! mon Sinjor, zyn ziekten is ongeneeslyk, wy hebben zelfs by ons een geheimen raad,</l>
+<l>Daar wy ons wel by bevinden.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l rend="; 1tab">Hoe! Barbiers! wel dat zyn gepreviligeerde beulen; want komt 'er een aan de galg, of een ander, by gracy van het swaard te verwerven,</l>
+<l>Dat is met een oogenblik gedaan, maar die luiden doen de menschen zomtyds meer als duizend dooden sterven.</l>
+<l>Met die gedurig op de pynbank to houwen, zonder uitkomst te zien, or te weeten waneer, of hoe,</l>
+<l>Want dat zy in zes dagen zouwen konnen geneezen, daar neemen zy meer als zes maanden toe,</l>
+<l>Zo weeten zy met bytende midd len de wond open te houwen, om tot hun voorneemen te raaken.</l>
+<pb n="36"/>
+<l>Ja al zouwen ze, zonder dat het de nood vereischt, noch een oopening, of een deciesje daar by maaken,</l>
+<l>Al om de tyd te rekken. Ik weet geen beeter verblyf, na dit leeven, dan wel voor't aldernaatst,</l>
+<l>Als dat dis volkje, by die nieuwe pisbekykers, en de beurssnyers worden geplaatst.</l>
+<l>Want dat is al een soortement.</l></sp>
+<sp>
+<speaker><hi rend="sc">Barnardi</hi>.</speaker>
+<l rend="; 1tab">Hoor, daar is buiten u, al zorg voor gedraagen,</l>
+<l>Overzulks en bekommerd u daar niet mee, zo lang gy hier zyt en hebdy niet te klaagen,</l>
+<l>Al uw gesmeer en playsters, daar gy liedens mede te werk gaat, en acht men doch niet een zier.</l>
+<l>Gy zoud hem zelfs maar eerder bederven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>.</speaker>
+<l rend="; 1tab">Ach! ik arm en elendig schepzel, ach! ach! geen Barbier, geen Barbier!</l></sp>
+<sp>
+<speaker><hi rend="sc">Barnardi</hi>.</speaker>
+<l>Wat is 't dat hy doch roept? om een Barbier?</l></sp>
+<sp>
+<speaker><hi rend="sc">Garcias</hi>.</speaker>
+<l rend="; 1tab">O neen, mon Sinjor, maar van geen Barbier te laaten komen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Barnardi</hi>.</speaker>
+<l rend="; 2tab">Tut, tut, dat 's niet. Margo, gaa binnen, daar is zo even gebeld.</l>
+<l>Ik volg u straks, hoor, gy liedens moet maaken dat dien ziek en zo aanstonts van het Ledikant, weer in de mat werd besteld.</l>
+<l>De meesters zullen haast koomen.</l></sp></div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Darde tooneel</hi>.</head>
+<stage><hi rend="sc">Gusman, Antonio, Garcias</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>.</speaker>
+<l rend="; 1tab">Ackerment! dat is een sjouwtje! de meesters zullen haast koomen! wat zullen wy nu beginnen?</l>
+<l>Maar Antoni, jy bend nou doch zo over al t'huis, steld al jou verstand en zinnen</l>
+<l>Nou iens te werk, wat ons te doen staat. De meesters zul-<pb n="37"/>len haast koomen! wel wy hebben 'er zeeker wat aan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l>Wel wat duivel! ik sta 'er versteld van.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>.</speaker>
+<l rend="; 1tab">En aldermeest, Ariane, zo ben ik met u begaan.</l></sp>
+<sp>
+<speaker><hi rend="sc">Garcias</hi>.</speaker>
+<l>Met my! wat gy moet kouragie nemen, Gusman.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l>Zo is 't, laaten wy het besten noch hoopen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>.</speaker>
+<l>Wel! zo onnoosel! en dus blindelings in een fuik te loopen!</l>
+<l>De meesters zullen haast koomen! maar evenwel hoe stellen wy dit nou?</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l>Is hier geen oopening om de chapade te maaken?</l></sp>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>.</speaker>
+<l rend="; 1tab">O neen, wy zitten hier even als een voogel in een kouw.</l>
+<l>Ik ben 'er flus in het praaten met dien Heer al beducht voor geweest.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l rend="; 1tab">Maar ackerment, hoe bakken wy dit, of wat valt 'er nou te zeggen,</l>
+<l>Hadden wy nou een braave goudbeurs, om die Sarasyns elk een gouwe pleister op de oogen te leggen,</l>
+<l>Zo zag ik 'er deur, want dat volkje verswygt doch zo veel geheims tusschen vrouw en man.</l></sp>
+<sp>
+<speaker><hi rend="sc">Garcias</hi>.</speaker>
+<l>En ik zou 't op 't uiterst laaten aankomen, en houwen dien eigen voet, en als gy dan.</l>
+<l>Niet anders en kond, hun alles openbaren, en met een hun voordraagen,</l>
+<l>Dat gy nu, indien zy dit voor dien Heer wilden geheim houden, kans zaagt hun een brave stuiver in de beurs te jaagen.</l>
+<l>Alleen met dit werk maar sleepende te houwen, ik twyfel niet of zy zullen 'er toe verstaan,</l>
+<l>Te meer, om dat 'er voor haar niet anders zal vallen te verrichten, als maar vruchteloos weer heen te gaan.</l></sp>
+<pb n="38"/>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l>Dat besluit keur ik goed.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>.</speaker>
+<l rend="; 1tab">Zo doen ik ook, laaten wy het daar op maar laaten dryven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l>Gusman, vaardig, weer in de mat, in de mat, ik hoor daar iemand.</l>
+<stage><hi rend="i">Gusman weder in de mat</hi>.</stage></sp></div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Vierde tooneel</hi>.</head>
+<stage><hi rend="sc">Gusman, Antonio, Garcias, Barnardi, Margo</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Barnardi</hi>.</speaker>
+<l rend="; 1tab">Is den zieken al weer in de mat gelegt?</l></sp>
+<sp>
+<speaker><hi rend="sc">Garcias</hi>.</speaker>
+<l rend="; 2tab">Gelyk gy ziet, mon Sinjor.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>.</speaker>
+<l rend="; 3tab">Ach! ach! ach! ach! ik elendigen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l rend="; 4tab">Wy dachten dat hy onder onze handen zou dood blyven.</l>
+<l>Zo zwak, en asgemat, als hy is.</l></sp>
+<sp>
+<speaker><hi rend="sc">Barnardi</hi>.</speaker>
+<l rend="; 2tab">Dat is zo heel wel, de meesters die zyn 'er al. Margo zyn de windzels, en is het plukzel al klaar?</l></sp>
+<sp>
+<speaker><hi rend="sc">Margo</hi>.</speaker>
+<l>O ja, hier heb ik ze, zo eenige wel van vyftig, of zestig ellens.</l></sp>
+<sp>
+<speaker><hi rend="sc">Barnardi</hi>.</speaker>
+<l rend="; 2tab">Zo dat is goed, kom de tafel moet wat nader by, en legt het alles daar op by me kaar,</l>
+<l>En zet 'er noch een kaars of twee by.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l rend="; 2tab">Maar mon Sinjor, is 'er geen middel om deze actie uit te stellen, en hem noch een dag of twee te excufeeren?</l>
+<pb n="39"/>
+<l>Hy zal gewis onder hunne handen sterven.</l></sp>
+<sp>
+<speaker><hi rend="sc">Barnardi</hi>.</speaker>
+<l rend="; 1tab">Maar ik weet niet wat gy al praat, meent gy dat zy niet wys genoeg zyn, om zo een mensch te handteeren.</l>
+<l>Houd gy u maar gerust, daar hoor ik hun al.</l></sp></div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Vyfde tooneel</hi>.</head>
+<stage><hi rend="sc">Gusman, Antonio, Garcias, Barnardi</hi>, M<hi rend="sup">r</hi>. <hi rend="sc">Stefanus</hi>, M<hi rend="sup">r</hi>. <hi rend="sc">Joanni, Margo</hi>.</stage>
+<sp>
+<speaker>M<hi rend="sup">r</hi>. <hi rend="sc">Joanni</hi>.</speaker>
+<l rend="; 1tab">Hoe is 't, mon Sinjor, is de toestel klaar, en de pasient gereed?</l></sp>
+<sp>
+<speaker><hi rend="sc">Barnardi</hi>.</speaker>
+<l>Gelyk gy geordonneerd hebt, Magister, is 'er gedaan, zo dat ik niet en weet,</l>
+<l>Dat 'er iet mankeerd.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>.</speaker>
+<l rend="; 1tab">Ach! ach! dit is voor my niet uit te staan.</l></sp>
+<sp>
+<speaker>M<hi rend="sup">r</hi>. <hi rend="sc">Stefanus</hi>.</speaker>
+<l rend="; 2tab">Hoe kermt hy zo?</l></sp>
+<sp>
+<speaker><hi rend="sc">Garcias</hi>.</speaker>
+<l rend="; 3tab">Ach! Messieurs, wy hebben hem, noch geen half uur geleeden, zo verbonden,</l>
+<l>Zo dat by tegenwoordig noch in die smart leid, want zyn lichaam is bezet met gevaarlyke wonden,</l>
+<l>Ik weet dat hy tegenwoordig legt, en schut enne beeft van angst.</l></sp>
+<sp>
+<speaker>Mr. <hi rend="sc">Stefanus</hi>.</speaker>
+<l rend="; 1tab">Zo veel te noodzaaklyker diend hy gered.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l>Och! hy kan hier niet leevendig af komen! want ziet, hy heeft hem al tot sterven gezet.</l>
+<l>De rust was hem wel noodzaaklyk.</l></sp>
+<sp>
+<speaker><hi rend="sc">Barnardi</hi>.</speaker>
+<l rend="; 1tab">Laat gy hun maar begaan.</l></sp>
+<sp>
+<speaker>Mr. <hi rend="sc">Joanni</hi>.</speaker>
+<l rend="; 2tab">Dat hy hem maar stil houd, wy zullen 't wel zachjes klaaren.</l>
+<pb n="40"/>
+<l>Margo, brengt ons noch wat oud linnen, met een komfoor met vuur hier.</l></sp>
+<sp>
+<speaker><hi rend="sc">Margo</hi>.</speaker>
+<l rend="; 1tab">Wel, myn Heer.</l>
+<stage><hi rend="i">Margo binnen</hi>.</stage></sp>
+<sp>
+<speaker><hi rend="sc">Barnardi</hi>.</speaker>
+<l rend="; 2tab">Messieurs, daar word ik gebeld, gy hebt maar met uw werk voort te vaaren.</l></sp></div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Zesde tooneel</hi>.</head>
+<stage><hi rend="sc">Gusman, Antonio, Garcias</hi>, M<hi rend="sup">r</hi>. <hi rend="sc">Joanni</hi>, M<hi rend="sup">r</hi>. <hi rend="sc">Stefanus, Margo</hi> <hi rend="i">met noch eenige doeken en een konfoor met vuur</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Margo</hi>.</speaker>
+<l>Zie daar, myn Heer.</l></sp>
+<sp>
+<speaker>M<hi rend="sup">r</hi>. <hi rend="sc">Stefanus</hi>.</speaker>
+<l rend="; 2tab">Kom, breng den patient hier wat nader by, en zet hem zo dryvend op de tafel.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gusman</hi></speaker>
+<l rend="; 3tab">O moord! moord! moord!</l>
+<stage><hi rend="i">Zy zetten Gusman op de tafel</hi>.</stage></sp>
+<sp>
+<speaker>M<hi rend="sup">r</hi>. <hi rend="sc">Joanni</hi>.</speaker>
+<l rend="; 4tab">Nu wat schreeuwen is dat! men doet uw immer geen pyn.</l></sp>
+<sp>
+<speaker>M<hi rend="sup">r</hi>. <hi rend="sc">Stefanus</hi>.</speaker>
+<l>Nu de doeken van armen en beenen los, ziet zo.</l></sp>
+<sp>
+<speaker>M<hi rend="sup">r</hi>. <hi rend="sc">Joanni</hi>.</speaker>
+<l rend="; 1tab">En ik zal het hoofd ontblooten.</l></sp>
+<sp>
+<speaker>M<hi rend="sup">r</hi>. <hi rend="sc">Joanni</hi>, <hi rend="i">ter zyden, tegen Mr. Stefanus</hi>.</speaker>
+<l rend="; 2tab">‘Dit is een bedrieger, myn Heer, zyn vleesch is zo ‘fris, en gezond, als 't uw of het myn,</l>
+<l>‘Het zyn sielen onder een.</l></sp>
+<sp>
+<speaker><hi rend="sc">Gusman</hi>.</speaker>
+<l rend="; 2tab">Ach! myne Heeren, wy werpen ons hier voor uwe voeren, laat doch al 't geen hier is bedreeven,</l>
+<l>By u geheim zyn, want al onze fortuin, van sterven, of van leeven,</l>
+<l>Hangt nu te eenemaal in uwe magt, want al 't geen wy hier hebben onderleid, en gedaan,</l>
+<pb n="41"/>
+<l>Daar heeft de alderuiterste nood ons toe geparst, en de liefde toe geraan.</l>
+<l>Den jongsten, die gy hier ziet, en is geen bedelaar, maar een eedele dame, uit een verheeven stam gebooren,</l>
+<l>Die my haare liefde, gelyk ik de mynehaar getrouwelyk heb geswooren,</l>
+<l>Eerlyk, en adelyk, in alle deugden, en weetenschappen opgevoed.</l>
+<l>Die mede gelyke deel heeft willen hebben, in onze voor en tegenspoed,</l>
+<l>Om alzo in alle gevaaren, wonderlyke gevallen, haar zelfs ook te vermengen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Antonio</hi>.</speaker>
+<l>En terwyl tog, Messieurs, ons verderf, uw meer schaaden, als wel profyt kan toebrengen,</l>
+<l>Zo laat het daarom noch te meer by u bedekt blyven, want onder dien schyn, dat gy in uw doen continueerd,</l>
+<l>Zal dien heer niet anders denken, of gy zyt in actie, dat hy van u dagelyks word gecureerd.</l>
+<l>Dit dan, op deze wyze alzo sleepende te houden, noch een ruimen tyd na deezen,</l>
+<l>Kan u elk ongetwyfeld een braave goudbeurs waardig weezen,</l>
+<l>En te meer zo zult gy in uw kunst, en praktyk aangroeijen, en meer, en meer werden gesterkt,</l>
+<l>Van zo een swaare patient te hebben geneezen, en zo een wonderlyke kuur hebt uitgewerkt.</l>
+<l>Ay! myne Heeren, laat uw tog beweegen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Garcias</hi>.</speaker>
+<l rend="; 1tab">Ach! Messieurs, kond gy dit inschikken, zo zyn wy door u behouwen.</l></sp>
+<sp>
+<speaker>M<hi rend="sup">r</hi>. <hi rend="sc">Joanni</hi>.</speaker>
+<l>Wat staat ons met deze arme duivels nu te doen, hun voorslag konde ons zeer profytelyk zyn.</l></sp>
+<sp>
+<speaker>M<hi rend="sup">r</hi>. <hi rend="sc">Stefanus</hi>.</speaker>
+<l rend="; 1tab">Dat is waar, ik zou 'er wel toe verstaan, maar om hun te vertrouwen</l>
+<l>Dat zy ons zel's niet in lyden mochten brengen, hier in legt de swarigheid.</l></sp>
+<pb n="42"/>
+<sp>
+<speaker>Mr. <hi rend="sc">Joanni</hi>.</speaker>
+<l>Gy hebt het wel gevat, myn Heer, laat ons rond gaan, en openbaren alles, zo als het in de grond leid.</l>
+<l>Kom, begeeft uw wederom op de tafel, en bewind weder met die zelve doeken, uw hoofd, armen, en beenen,</l>
+<l>En maak een zelve gekerm en gebaar, van zuchten, en van steenen.</l>
+<stage><hi rend="i">Gusman</hi>, <hi rend="i">met doeken bewonden</hi>, <hi rend="i">wederom op de tafel</hi>.</stage>
+<l>Maar rept ons daar niet meer van, gy sielen, gy landloopers, gy bedriegers als gy zyt.</l></sp>
+<sp>
+<speaker><hi rend="sc">Garcias</hi>.</speaker>
+<l>Ach! laat ons zo veel op u verwinnen, dat wy dit faveur moogen genieten voor de ze tyd.</l></sp>
+<sp>
+<speaker>M<hi rend="sup">r</hi>. <hi rend="sc">Stefanus</hi>.</speaker>
+<l>Geenzints, meent gy dat wy dien Heer, in uw voordeel zouden te vooren liegen?</l>
+<l>En hem zo trouwloos, als gy, en schandelyk zouden bedriegen?</l>
+<l>Gelyk gy hier gedaan hebt? o neen, geenzints, dat waar uw bedrog gestemd, en gek eurd voor goed,</l>
+<l>Maar wy zullen veel eer bevorderen, dar hy daar over gerechte straffe doet.</l>
+<l>Zagt, daar hoor ik iemand, daar zal hy zyn.</l></sp></div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Zevende tooneel</hi>.</head>
+<stage><hi rend="sc">Gusman, Antonio, Garcias</hi>, M<hi rend="sup">r</hi>. <hi rend="sc">Stefanus</hi>, M<hi rend="sup">r</hi>. <hi rend="sc">Joanni, Dosorio, Barnardi</hi>.</stage>
+<sp>
+<speaker><hi rend="sc">Dosorio</hi>.</speaker>
+<l rend="; 1tab">Hoe is het met den pasient?</l></sp>
+<sp>
+<speaker>M<hi rend="sup">r</hi>. <hi rend="sc">Joanni</hi>.</speaker>
+<l rend="; 2tab">Gelyk ik u heerlykheid zal laaten zien, het bedrog voor uw oogen.</l>
+<l>Zie daar, hy is fris en gezond, u heerlykheid is weer schandelyk bedroogen,</l>
+<stage><hi rend="i">De meesters doen de doeken van armen en beenenlos, daar Gusman op de tafel zit</hi>.</stage></sp>
+<sp>
+<speaker><hi rend="sc">Dosorio</hi>.</speaker>
+<l>Hoe! en deert hem dan niets?</l></sp>
+<sp>
+<speaker>M<hi rend="sup">r</hi>. <hi rend="sc">Stefanus</hi>.</speaker>
+<l rend="; 1tab">Zie, daar en is geen de minste mangel aan zyn
+<pb n="43"/>lichaam, dat hy heeft,</l>
+<l>En is ook zo wel gedaan, en gesteld, als de gesondste mensch die 'er leeft.</l>
+<l>En hier hebt gy al die bemorste, en vuile doeken, daar hy om armen, en beenen, mede is geweest gebonden.</l>
+<l>Maar het lyf, over al glad enne gaaf, zonder ook de minste teekenen te hebben, van eenige wonden.</l>
+<l>En dezen jongsten van hun, is een vrouwmensch, dien zy, naar 't schynd, gehadhebben tot hun gemeen geryf.</l></sp>
+<sp>
+<speaker><hi rend="sc">Dosorio</hi>.</speaker>
+<l>O gy snoode sielen! gy doorsleepene boeven als gy zyt.</l>
+<stage><hi rend="i">Zy vallen alle dry voor hem te voet</hi>.</stage></sp>
+<sp>
+<speaker><hi rend="sc">Garcias</hi>.</speaker>
+<l rend="; 1tab">Ach! myn Heer.....</l></sp>
+<sp>
+<speaker><hi rend="sc">Dosorio</hi>.</speaker>
+<l rend="; 2tab">Swygt, ik wil u niet hooren spreeken, ik zal u wel een and're peen op de neus zetten, voor uw bedryf.</l>
+<l>Barnardi, gaat, en laat zo aanstonts een half roth zoldaaten komen, maar dat het zyn getrouwe mannen,</l>
+<l>Om hun alle dry in arest te neemen, die twee zal ik aanstonts op de galey doen bannen,</l>
+<l>Gaa zo ter vlugt heen, en wild u vaardig spoen,</l>
+<l>En dit jonge vrouwmensch, zuldy zo voort in dat nieuwgeboude klooster, opsluiten doen.</l></sp>
+<sp>
+<speaker><hi rend="sc">Barnardi</hi>.</speaker>
+<l>Ik zal zo uw heerlykheids order gaan voltrekken.</l>
+<stage><hi rend="i">Barnardi binnen</hi>.</stage></sp></div>
+<div type="scene">
+<head rend="h4"><hi rend="i">Achtste en laatste tooneel</hi>.</head>
+<stage><hi rend="sc">Gusman, Antonio, Garcias</hi>, M<hi rend="sup">r</hi>. <hi rend="sc">Stefanus</hi>, M<hi rend="sup">r</hi>. <hi rend="sc">Joanni, Dosorio</hi>,</stage>
+<sp>
+<speaker><hi rend="sc">Dosorio</hi>.</speaker>
+<l rend="; 1tab">En gy, Magistris, gaat gy met my, ik zal uw echter ryk'lyk vergelden,</l>
+<l>Om dat gy my zyt getrouw geweest, met dit bedrog te ontdekken, en my te melden.</l>
+<stage><hi rend="i">Einde van het darde, en laatste Bedryf</hi>.</stage></sp></div></div>
+</body>
+</text>
+
+</TEI.2>

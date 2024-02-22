@@ -1,0 +1,3863 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Lucifer</title>
+               <author>Joost van den Vondel</author>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Lucifer</hi> van Joost van den Vondel uit 1654.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>p. XVI: accolades verspreid over meerdere regels kunnen in deze digitale versie niet weergegeven worden. Daarom wordt de accolade hier, met bijbehorende tekst, op iedere regel herhaald.</corr>
+                       <corr>p. 11: veiigh → veiligh: ‘Buiten Godt is 't nergens veiigh.’.</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan type="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>80</empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">vond001luci01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note></note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Theater Instituut Nederland, signatuur: 3 C 60</idno>
+               </bibl>
+               <p>Joost van den Vondel, <hi rend="i">Lucifer</hi>. Abraham de Wees, Amsterdam 1654</p>
+               <p>&#160;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Lucifer</title>
+               <author>Joost van den Vondel</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Lucifer</title>
+               <author>Joost van den Vondel</author>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-10-04</date>
+               <respStmt>
+                   <name type="person">SG</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+         <text>
+<body><cf>
+<div type="chapter">
+
+<pb n="I"/>
+<p>J.V. VONDELS</p>
+<p>LUCIFER.</p>
+<p>TREURSPEL.</p>
+<p>PRAECIPITEMQUE IMMANI TURBINE ADEGIT.</p>
+<p><figure>
+<p><xptr to="vond001luci01ill0002.gif"/></p></figure></p>
+<p>t'AMSTERDAM,</p>
+<p>Voor Abraham de Wees, Boeckverkooper op den Middeldam, in 't Nieuwe Testament, in 't jaer 1654.</p>
+
+
+</div></cf>
+<div type="chapter">
+<pb n="III"/>
+<head rend="h3"><hi rend="i">Den onverwinnelijcksten</hi> vorst en heere, <hi rend="i">Den Heere</hi> Ferdinandus III.
+<lb/>
+Gekoren Roomschen keizer, <hi rend="i">Altijt Vermeerder des Rijcks.</hi></head>
+    <pb n="t.o. II"/>
+    <p><figure>
+        <p><xptr to="vond001luci01ill0001.gif"/></p></figure></p>
+<p><hi rend="b">G</hi>Elijck de Goddelijcke Majesteit in een ongenaeckbaer licht gezeten is; zoo zit oock de weereltsche Mogentheit, die haer licht uit Godt schept, en de Godtheit afbeelt, in haeren glans verheerlijckt: maer gelijck de Godtheit, of liever opperste Goetheit, den allerminsten en ootmoedigen met den toegank tot haren troon, begenadight; zoo gewaerdight de tijdelijcke Mogentheit ook den allerkleensten dat hy zich eerbiedigh voor haere voeten vernedere. Op deze hoop verstout zich mijne
+<pb n="IV"/>Zanggodin, van verre, aen uwe Keizerl: Majesteit op te offeren dit treurspel van Lucifer, wiens stijl wel rijckelijck de deftigheit en staetigheit vereischt, waer van de Poeet spreeckt:</p>
+<lg type="poem">
+<l><hi rend="i">Omne genus scripti gravitate Tragaedia vincit</hi>;</l>
+<l>&#160;</l>
+<l rend="; 1tab"><hi rend="i">Hoe hoogh men drave in stijl, en toon</hi>,</l>
+<l rend="; 1tab"><hi rend="i">Het Treurspel spant alleen de kroon</hi>;</l>
+</lg>
+<p>Doch wat aen de vereischte hoochdraventheit des stijls ontbreekt, dat zal de toneelstof, titel en naem en doorluchtigheit des persoons vergoeden, die hier, ten spiegel van alle ondanckbaere staetzuchtigen, zijn treurtooneel, den hemel, bekleet; waer uit hy, die zich vermat aen Godts zijde te zitten, en Gode gelijck te worden, verstooten, en rechtvaerdighlijck ter eeuwige duisternisse verdoemt wert. Op dit rampzalige voorbeelt van Lucifer, den Aertsengel, en eerst heerlijcksten boven alle Enge-<pb n="V"/>len, volghden sedert, bykans alle eeuwen door, de wederspannige geweldenaers, waer van oude en jonge historien getuigen, en toonen hoe gewelt, doortraptheit, en listige aenslagen der ongerechtigen, met glimp en schijn van wettigheit vermomt, ydel en krachteloos zijn, zo lang Godts Voorzienigheit de geheilighde Maghten en Stammen hanthaeft, tot rust en veiligheit van allerhande Staeten, die, zonder een wettigh Opperhooft, in geene burgerlijcke gemeenschap kunnen bestaen: waerom Godts orakel zelf, den menschelijcken geslachte ten beste, deze Mogentheit, als zijn eige, in eenen adem, bevestight, gebiedende Gode en den Keizer elck hun recht te geven. Christenrijck doorgaends, gelijck een schip in de wilde zee, aen alle kanten, en tegenwoordigh van Turck
+<pb n="VI"/>en Tarter, bestormt, en in noot van schipbreucke, vereischt ten hooghste deze eendrachtige eerbiedigheit tot het Keizerdom, om den algemeenen erfvyant des Christen naems te stuiten, en den Rijksbodem en zijne grenzen, tegens den inbreuck der woeste volcken te veiligen en te stercken; waerom Godt te danken is, dat het hem beliefde 't Gezagh en de Kroon des H. Roomschen Rijcx, voor 's Vaders overlijden, op den jongsten Rijxdagh, in den Zone <hi rend="i">Ferdinandus den IV</hi> te verzekeren; een zegen, waer op zoo vele volcken moet draegen, en de tooneeltrompet van onze Nederduitsche Zanggodinne te moediger, voor den troon van Hooghduitschlant, den overwonnen Lucifer, in Michaëls triomfstaetsie, ommevoert.</p>
+<p>Uwe Keizerlijcke Majesteits</p>
+<p><hi rend="i">allerootmoedighste dienaer</hi>,</p>
+<p>J.V. VONDEL.</p>
+</div>
+<div type="chapter">
+<pb n="VII"/>
+<head rend="h3">Op de afbeeldinge van Keizerlijcke Majesteit, Ferdinandus den Derden,</head>
+<head rend="h4">Toen <hi rend="i">Ioachimus Sandrart van Stockou</hi> my, uit Weenen in Oostenrijck, zijn Majesteits afbeeldinge, met haer loofwerck en cieraden, vereerde</head>
+<q rend="bq"><hi rend="spat">DEUS NOBIS HAEC OTIA FECIT</hi>.</q>
+<lg type="poem">
+<l>D<hi rend="i">E Zon van Oostenrijck verheft haer schoone straelen</hi>,</l>
+<l><hi rend="i">Uit schaduwen van kunst, veel schooner in elx oogh</hi>,</l>
+<l rend="; 1tab"><hi rend="i">Dewijlze, in haeren troon gestegen hemelhoogh</hi>,</l>
+<l><hi rend="i">Zich niet ontziet zoo laegh op ons gezicht te daelen.</hi></l>
+<l><hi rend="i">De derde</hi> <hi rend="spat">FERDINAND</hi>, <hi rend="i">geschapen tot regeeren</hi>,</l>
+<l rend="; 1tab"><hi rend="i">Gelijck een tweede August, en Vader van de pais</hi></l>
+<l rend="; 1tab"><hi rend="i">Zijn' Zoon de heirbaen wijst naer 't hemelsche palais</hi>,</l>
+<l><hi rend="i">En leert met wapenen van Vrede triomfeeren.</hi></l>
+<l><hi rend="i">Gezegent is het Rijck, gezegent zijn de volcken</hi></l>
+<l rend="; 1tab"><hi rend="i">Daer zijn voorzienigheit genadigh 't oogh op houdt</hi>,</l>
+<l rend="; 1tab"><hi rend="i">En hem de Weeghschael wort van 't heyligh Recht betrout</hi></l>
+<l><hi rend="i">Een Arent broght zijn zwaert en scepter uit de wolcken.</hi></l>
+<l rend="; 1tab"><hi rend="i">Een kroon verciert het hooft, ter heerschappy gewijt:</hi></l>
+<l rend="; 1tab"><hi rend="i">Dit Hooft verciert de Kroon, en schept een' gulden tijt.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="VIII"/>
+<head rend="h3">Berecht aen alle kunstgenooten, en Begunstigers der Toneelspelen.</head>
+<p><hi rend="b">H</hi><hi rend="i">Ier wort u, om uwen kunst-yver weder t'ontsteecken, en uwen geest teffens te stichten en te verquicken, het heiligh treurtooneel, dat den Hemel afbeelt, opgeschoven. De groote Aertsengelen, Lucifer, en Michaeël, elck met hunne aenhangelingen van wederzijde gesterckt, komen de stellaedje te stoffeeren, en hun rollen spelen. Het toneel en de personaedjen zijn zeker zoodanigh, en zoo heerlijck, datze eenen heerlijcker styl vereischen, en hooger laerzen dan ick haer weet aen te trecken. Niemant, die de spraeck van d'onfeilbaere orakelen des goddelijcken Geests verstaet, zal oordeelen dat wy een gedichtsel van Salmoneus bybrengen, die midden in Elis, op zynen wagen en metaele brugh, Iupijn braveerende, en met een brandende fackel den blixem en donder nabootsende, van den donder geslagen wert: nochte wy vernieuwen hier geen grijze fabel van den Reuzenstrijt, onder wiens schorsse de Poëzy hare toehoorders reuckelooze verwaentheit, en godtlooze kerckschenderyen zocht te verleeren, en natuurkennis in te boezemen; namelijck, dat lucht, en winden, in den hollen buick en het zwavelachtige ingewant der aerde, beslooten, by wylen ademtoght zoeckende, met gewelt van geborste steenrotsen, roock en smoock, en vlammen, en aerdtbevingen, en schrickelijck geluit, uitbersten, en hemelhoogh opgesteegen, in het neêrstorten, den gront van lant en zee met assche en steenen bestulpen, en ophoopen. Onder de Profeeten verzekeren ons van den afval des Aertsengels, en zynen aenhang, Izaias, en Ezechiel; by den Euangelist, Christus, het allerwaerachtighste orakel, ons met eene stem uyt den hemel bevolen te hooren; Sint Peter, de Prins der Apostelen, en endelijck Iudas Thaddeus, zyn getrouwe Apostel; welcker spreucken waerdigh zijn in eeuwigh dia</hi>-<pb n="IX"/><hi rend="i">mant, en waerdiger in onze harten geprint te worden. Izaias roept</hi>: O Lucifer, die vroegh opgingt, hoe zijtghe ter aerde geploft? die de volcken quetste, in uw
+harte spraeckt: Ick wil in den hemel stijgen, mijnen stoel boven Godts gestarnte verheffen, op den bergh des verbondts aen de noordtzijde zitten. Ick wil boven de hooge wolcken steigeren, den Allerhooghsten gelijck worden: maer ghy zult ter helle toe, in den poel des afgronts, vernedert worden. <hi rend="i">Godt spreeckt door Ezechiël aldus</hi>: Ghy zijt een uitgedruckte gelijckenis, vol wijsheit, en volkomen schoon. Ghy waert in de weelde van Godts paradijs, bekleet met allerhande kostelijcke steenen, sardis, en topazen, en jaspis, en chrizoliten, en onix, en beril, safier, en karbonkel, en smaragden: gout was uw cieraet. Op den dagh uwer scheppinge waren uwe schalmeien vaerdigh. Ghy breide u uit, gelijck een beschaduwende Cherubijn, en ick zette u op Godts bergh. Ghy wandelde midden onder de blaeckende steenen. Ghy waert volschapen in uwen tredt, van den dage uwer scheppinge aen, tot dat men u op boosheit betrapte. <hi rend="i">Beide deze spreucken slaen, naer den letterlijcken zin, d'eene op den Koning van Babilon, d'andere op den Koning van Tyrus, die, by Lucifer, in hunne heerlijckheit en hooghmoet, geleecken, bestraft en gedreight worden.</hi> <hi rend="sc">Jesus</hi> <hi rend="i">Christus ziet mede op den val van den weêrspannigen Lucifer, daar hy zeght</hi>: Ick zagh den Satan, gelijck eenen blixem, uit den hemel vallen; <hi rend="i">oock Sint Peter, zeggende</hi>: Godt heeft de Engelen, die zondighden, niet verschoont, maer, met de koorden der helle afgeruckt, in den afgront overgelevert, om gepijnight, en ten oordeele bewaert te worden; <hi rend="i">en Thaddeus ontvouwt den afval der Engelen, en hun misdaet, en de straf daer op gevolght, zonder eenige bewimpelinge, beknopt op deze wijze</hi>: Doch hy heeft de Engelen, die hunne hoogheit niet bewaerden, maer hun behuizinge verlieten, met eeuwige banden van duisternisse, tegens het oordeel des grooten Godts bewaert. <hi rend="i">Wy stuit en dan met deze goude spreucken, en inzonderheit met
+Sint Peter, en Iudas Thaddeus, afgezanten des Konings aller Koningen, gelijck op eenen diamanten schilt, alle de pylen der ongeloovigen, die de zekerheit</hi>
+<pb n="X"/><hi rend="i">van der Geesten afval zouden durven in twijfeltrecken.</hi> B<hi rend="i">ehalve dit onderstut ons ten overvloet doorgaends d'eendrachtige en eerwaerdighste aeloutheit der godtvruchtige Outvaderen, die inden gront dezer geschiedenisse overeenstemmen: doch om de Kunstgenooten niet op te houden, zullenwe ons met drie plaetzen genoegen; d'eerste getrocken uit den heiligen Cypriaen, Bisschop en Martelaer te Karthago, daer hy schrijft</hi>: Hy, die te vore door een Engelsche Majesteit ondersteunt, Gode aengenaem en waert was, borst, toen hy den mensch naer Godts beelt geschapen zagh, door eenen boosaerdigen naeryver uit, hem door ingeven van dien naeryver niet eer ten val brengende, voor dat hy zelf door dien naeryver ter neer gestort lagh, gevangen eer hy ving, bedorven was eer hy hem bedorf; terwijl hy, van Nijdigheit aengeprickelt, den mensche van de genade der onsterfelijckheit, hem geschoncken, beroofde, en zelf oock verloor het gene hy te vore hadde. <hi rend="i">De groote Gregorius bestelt ons de tweede spreuck</hi>: Dees afvallige Engel, geschapen om boven d'andere regementen der Engelen uit te blincken, is door zijn hoovaerdy zulx ter neder gestort, dat hy nu de heerschappye der stantvastige Engelen onderworpen blijft. <hi rend="i">Het derde en leste bewijs scheppen wy uit de predikatien van den honighvloey enden Bernardus</hi>: Schuwt de hoovaerdy: ick bidde u schuwtse toch. d' oirsprong van alle overtredinge is hoovaerdy, die Lucifer zelf, klaerder dan all starren uytblinckende, met een eeuwige duisternisse heeft verdonckert, zy heeft niet alleen eenen Engel, maer den oppersten van alle Engelen in eenen Duivel verandert. <hi rend="i">De Hoovaerdy en Nijdigheit, twee oir zaecken of aenstokers van dezen afgrijsselijcken brant van tweedraght en oorloge hebben wy uitgedruckt, onder het gespan van twee bestarnde dieren, den Leeuw, en den Draeck, die voor Lucifers oorloghs wagen gespannen, hem tegens Godt en Michaël aenvoeren;
+aengezien dese dieren twee zinnebeelden van deze hooftgebreken verstrecken: want de Leeuw, der dieren Koning, gemoedight door zijne krachten, acht uit verwaentheit niemant boven zich zelven; en de Nijdigheit quetst met haere tong den benijden van verre, gelijck de Draeck, met het schieten van zijn vergift, zijnen van verre quetst. Sint Augustijn, deze</hi>
+<pb n="XI"/><hi rend="i">twee hooftgebreken Lucifer toe-eigenende, maelt ons den aert der zelve levendigh af, en zeit dat de Hoovaerdy is een liefde tot zijn eige grootsheit; maer de Nydigheit een haetster van eens anders geluck: waer uit klaer genoegh blijckt wat hier uit geboren wort: want een iegelijck, zeit hy, die zyn eige grootsheit bemint, benijt zyns gelijcken, naer dienze met hem gelijck staen; of benijt zynen minder, op dat die hem niet gelijck werde; of die grooter zyn dan hy, om datze boven hem staen. Nu dewyl de dieren zelfs van verdoemde Geesten misbruickt en bezeten worden, gelijck in den aenvang de Paradijsslang, en in de heileeuwe de zwijnskudden, die met een groot gedruis in zee stortten; en dewyl de gestarnten aen den hemel zelfs by dieren afgetekent, oock by de Profeeten gedacht worden; gelijck de Pleiades of Zevenstar, en Arcturus, Orion, en Lucifer, zoo gelieve het u de weeligheit en leerzaemheit der tooneelpoëzye te vergeven, dat de rampzalige Geesten zich op ons tooneel hier mede wapenen, en verweeren: want den helschen gedroghten niets eigener is dan slimme treken, en het misbruick der schepselen en elementen, tot afbreuck van d'eere en naem des Allerhooghsten, zoo verre hy dit gehengt. Sint Ian, in zyne openbaringe, beelt de hemelsche geheimenissen, en den strijt in den hemel, door den Draeck uit, wiens staert nasleipte het derde deel der starren, by de Godtgeleerden op d'afvallige Engelen geduit; waerom men in Poëzye de gebloemde wijze van spreken niet al te neuswijs behoort te ziften, nochte naer de scherpzinnigheit der schoollessen te regelen. Oock moeten wy onderscheiden de tweederhande personaedjen, die dit tooneel betreden, namelijck quaetwillige en goede Engelen, die een ieder hun eige rol speelen; gelijck Cicero en de voeghelijckheit zelf ons elcke personaedje, naer heuren staet en aert, leeren uitbeelden. Ondertusschen ontkennen wy geensins dat heilige stof den tooneeldichter nauwer verbint, en intoomt dan
+weereltsche historien, of Heidensche verziersels; onaengesien d'oude en befaemde hantvest der Poëzye, by Horatius Flakkus, in zyne Dichtkunste, met deze vaerzen uitgedruckt</hi>:</p>
+<lg type="poem">
+<l>De Schilder en Poëet ontfingen beide een macht</l>
+<l>Van alles te bestaen wat elck zich dienstigh acht.</l>
+</lg>
+<p><hi rend="i">Doch hier dient inzonderheit aengetekent hoe wy; om den naeryver der hooghmoedige en nydige Geesten te heftiger t'ontsteken, den Engelen de</hi>
+<pb n="XII"/><hi rend="i">geheimenis van het toekomende menschworden des Woorts, door den Aertsëngel Gabriël, Gezant en Geheimenistolck der Godtheit, eenighzins ontdecken; hier in</hi> [<hi rend="i">onder verbeteringe</hi>] <hi rend="i">volgende, niet het gevoelen der meesten, maer zommiger Godtgeleerden, naerdien dit ons treurtafereel rijcker stof en luister by zet; zonder dat wy evenwel, in dit punt, noch in andere omstandigheden van oirzaken, tijt, plaetse, en wijze</hi>, [<hi rend="i">waer van wy ons dienden, om dit Treurspel krachtiger, heerlijcker, gevoeghlijcker en leerzamer uit te voeren</hi>;] <hi rend="i">de rechtzinnige waerheit opzettelijck willen in het licht staen, of iet, naer ons eige vonden, en goetduncken, vast stellen. Sint Pauwels, Godtsgeheimenisschrijver aen de Hebreen, verheft zelf, benydens waerdigh genoegh, tot afbreuck van het Rijck der logenen en verleidende Geesten, de heerlijckheit maght en Godtheit van het menschgeworden Woort, door zijn uitsteeckentheit boven alle Engelen, in naem, in zoonschap, en erfgenaemschap, in het aenbidden der Engelen, in zijne zalvinge, in zijne verheffinge aen Godts rechte hant, in de eeuwigheit zijner heerschappye, als een Koning over de toekomende weerelt, en de oirzaeck en het einde aller dingen, en een gekroont Hooft der menschen en Engelen, zijne aenbidders, Godts boden, en geesten, gezonden ten dienst der menschen, erfgenaemen der zaligheit, welcker natuur Godts Zoon, de Engelen voorbygaende, in het bloet van Abraham aenneemt. By gelegenheit van deze onschult achte ick niet ongerijmt hier ter loop iet aen te roeren tot onschult van tooneel en toneeldichteren, die Bybelstof voorstellen, naer dienze by wijlen opspraeck onderworpen zijn; gelijck trouwen 's menschen zinnelijckheit verscheiden is, en d'ongelijcke getempertheit der herssenen veroirzaeckt dat d'een treck tot een zelve zaeck heeft, die den anderen tegens het hart steeckt. Alle eerlijcke kunsten en oefeningen hebben haere
+be-yveraers, en tegenwrijters, oock haer recht gebruick, en misbruick. De heilige treurspeldichters hebben, onder de oude Hebreen, tot hun voorbeelt den Poeët Ezechiël, die den uittoght der twalef Stammen uit Egypten in Griex nagelaeten heeft: onder d'eerwaerdige Outvaders hebben zy het groote licht uit den Oosten, Gregorius Nazianzener, die zelfden Gekruisten Verlosser in Griecksche tooneelvaerzen uitbeelde; gelijck wy noch van wijlen den Koningklijcken Gezant, Hugo de Groot, dat groote licht der geleert</hi>-<pb n="XIII"/><hi rend="i">heit en vromigheit onzer eeuwe, Sint Gregorius spoor naerstrevende, voor zijn treurspel van den Gekruisten, in Latijn beschreven, en dien onvergangklijcken en stichtigen arbeit eer en danckbaerheit schuldigh blyven. Onder d'Engelsche Onroomschen heeft de geleerde pen van Richard Baker, Lucifer en al den handel der oproerige Geesten, oock vry breet in't rymeloos uitgestreecken. Wel is waer dat de Vaders der oude Kercke de gekristende tooneelspeelders buiten de gemeenschap der Kercke keerden, en het tooneelspel van dien tijt heftigh bestreden: maer let men'er wel op, de tijt en reden van dien was heel anders gelegen. De weerelt lagh toen noch diep, op veele plaetsen, in Heidensche afgoderye verzoncken. De gront des Christendoms was noch onbestorven, en de toneelspelen werden Cybele, der gedroomde Goden moeder, een groote afgodinne, ter eere gespeelt, en gehouden voor een verdienstig middel om hier door lantplaegen van den hals des volcx af te keeren. Sint Augustijn getuight, hoe de Heidensche Aertspriester, een bedienaer van Numaes instellingen en afgodendienst, te Rome, ter oirzaecke van een zwaere peste, de tooneelspelen eerst instelde, en door zijn gezagh bekrachtighde. Scaliger zelfbekent datze, om de gezontheit des volx te verwerven, door ingeven van de Sibille ingestelt waren; in voegen dat dit spelen eigentlijck streckte tot een krachtigh voedtsel van de blinde afgoderye des Heidendoms, en verheffinge der afgoden;
+een ingekankerde gruwel, wiens uitroien den eersten kruishelden, en de geduurigh worstelende Kercke op zoo veel zweet en bloet stont, maar nu lang uitgestorven, geene voetstappen in Europe laet. Dat dan de H. Outvaders die tooneelen hierom, en te gelijck om het bederf der zeden, en andere openbaere en schaemtelooze misbruicken van naeckte jongelingen, vrouwen en maeghden, en andere vailigheden, bestraften, was noodigh en loflijck, gelijck het in dien gevalle noch zoude zijn. Dit nu overgeslagen, laet ons het nut en den oirbaer van stichtelijcke en vermaeckelijcke spelen niet te licht wechworpen. Heilige en eerlijcke voorbeelden dienen ten spiegel, om deught en Godtvruchtigheit t'omhelzen; gebreken, en d'elenden, daer aen gehecht, te schuwen. Het wit en ooghmerck der wettige Treurspelen is de menschen te vermorwen door schrick, en medoogen. Scholieren, en opluickende jongkheit worden door spelen, in talen, welsprekentheit, wijsheit, tucht, en</hi>
+<pb n="XIV"/><hi rend="i">goede zeden, en manieren, geoeffent, en dit zet, in de teere gemoeden en zinnen, een ploy van voeghelijckheit en geschicktheit, die hun, tot in den ouderdom toe, byblyven, en aenhangen: ja het gebeurt by wijlen dat overvliegende vernuften, by gene gemene middelen te buigen noch te verzetten, door spitsvondigheden en hooghdravenden tooneelstyl geraeckt, en, buiten hun eigen vermoeden, getrocken worden: gelijck een edele luitsnaer geluit geeft, en antwoort, zoo dra heur weêrgade, van de zelve natuure en aert, en op eenen gelijcken toon, en andere luit gespannen, getokkelt wort van een geestige hant, die, alspeelende den tuimelgeest uit eenen bezeten en verstockten Saul dryven kan. De historien der eerste Kercke bezegelen dit met de gedenckwaerdige voorbeelden van Genesius en Ardaleo, beide toneelspeelders, in den Schouburgh door den Heiligen Geest verlicht, en bekeert; terwylze, onder het spelen, den Christenschen Godtsdienst willende beschimpen, overtuight wierden van de waerheit, dieze geleert hadden, uit hun deftige speelrollen, doorgaends beter gestoffeert met pit van wijsheit dan laffe redenen, uuren langh in den wint gestroit, en eer verdrietigh dan leerachtigh. Men worpt ons, ten opzichte van Bybelstoffe, voor, dat men geen spel met heilige zaecken behoorden te spelen; en zeker dit zou wat schyns hebben in onze taele, die juist het woort Spel mede brenght: maer wie slechts een woort of anderhalf Griecks kan uitstamelen, weet wel dat dit woort by Griecken en Latynen geen gebruick heeft in dien zin: want</hi> <hi rend="sc">Tragoedia</hi> <hi rend="i">is een koppelwoort, en betekent eigentlijck Bockezang, naer der herderen wedgezangen, ingestelt om met zingen eenen bock te winnen, uit welcke gewoonte de treurzangen, en sedert de toneelspelen, hunnen oirsprong namen: en wil men ons immers dus ongenadigh knuffelen om het woort Spel, waer blyvenwe dan met orgelspel, Davids harp- en zangspel', en het spel van tien snaren, en ander
+fluit- en snaerespel, by verscheidenheit van Onroomschen, in hunne vergaderingen ingevoert? Wie dan dit onderscheit vat, zal wel het misbruick der toneelkunste bestraffende, het rechtmaetigh gebruick niet ongenadigh vallen, en dezen heerlijcken ja goddelijcken vont, een eerlijcke uytspanninge, en honighzoete verquickinge van 's levens moeielijckheden, de jeught, en kunstbeminnende burgerye niet misgunnen; op dat wy, hier door gemoedight, Luci</hi>-<pb n="XV"/><hi rend="i">fer met meer yvers ten Treurtooneele voeren, daer hy endelijck, van Godts blixem getroffen, ter helle stort, ten klaeren spiegel van alle ondanckbaere staetzuchtigen, die zich stoutelijck tegens de geheilighde Maghten; en Majesteiten, en wettige Overheden durven verheffen.</hi></p>
+</div>
+<div type="chapter">
+<head rend="h3">Inhoudt.</head>
+<p>LUcifer, d'Aertsëngel, opperste, en doorluchtighste boven alle Engelen, hoovaerdigh en staetzuchtigh, uit blinde liefde tot zijn eige, benijde Godts onbepaelde grootheit, oock den mensch, naer Godts beelt geschapen, en in het weeligh Paradijs met de heerschappye des aerdtbodems begiftight. Hy benijde Godt en den mensch te meer, toen Gabriël, Godts Herout, alle Engelen voor dienstbare Geesten verklaerde, en de geheimenissen van Godts toekomende menschworden hun ontdeckte; waer door het Engelsdom voorbygegaen, de waerachtige menschelijcke natuur, met de Godtheit vereenight, een gelijcke maght en Majesteit te verwachten stont: waerom de hoovaerdige en nijdige Geest, poogende zich zelven Gode gelijck te stellen, en den mensch buiten den hemel te houden, door zijne medestanders, ontelbaere Engelen oprockende, wapende, en tegens Michaël, 's hemels Veltheer, en zijne heirkrachten, onaengezien Rafaëls waerschuwinge, aenvoerde; en afgestreden, na de neêrlaegh, uit wraecke den eersten mensch, en in hem alle zijne nakomelingen, ten val broght, en hy self met zijne weerspannelingen ter helle gestort, en eeuwigh verdoemt wert.</p>
+<p>&#160;</p>
+<p>Het toneel is in den hemel.</p>
+</div>
+<div type="chapter">
+<pb n="XVI"/>
+<head rend="h3">Personaedjen.</head>
+<list>
+<item><hi rend="sc">Bel<hi rend="i">s</hi>ebub</hi>, } <hi rend="i">wederspannige Oversten.</hi></item>
+<item><hi rend="sc">Belial</hi>, } <hi rend="i">wederspannige Oversten.</hi></item>
+<item><hi rend="sc">Apollion</hi>, } <hi rend="i">wederspannige Oversten.</hi></item>
+<item><hi rend="sc">Gabri</hi>ë<hi rend="sc">l</hi>, <hi rend="i">Godts Geheimenistolck.</hi></item>
+<item><hi rend="sc">Rey van Engelen</hi>.</item>
+<item><hi rend="sc">Lucifer</hi>, <hi rend="i">Stedehouder.</hi></item>
+<item><hi rend="sc">Luiciferisten</hi>, <hi rend="i">Oproerige Geesten.</hi></item>
+<item><hi rend="sc">Micha</hi>ë<hi rend="sc">l</hi>, <hi rend="i">Veltheer.</hi></item>
+<item><hi rend="sc">Rafa</hi>ë<hi rend="sc">l</hi>, <hi rend="i">Bescherm-engel.</hi></item>
+<item><hi rend="sc">Uri</hi>ë<hi rend="sc">l</hi>, <hi rend="i">Michaëls Schiltknaep.</hi></item>
+</list>
+</div>
+<div type="act">
+<pb n="1"/>
+<head rend="h2">Lucifer. Treurspel.</head>
+<head rend="h3">Het eerste bedryf.</head>
+<sp>
+<speaker><hi rend="i">Belzebub. Belial. Apollion.</hi></speaker>
+<l><hi rend="b">M</hi>Yn Belial ging heene op lucht en vleugels dryven,</l>
+<l>Om uit te zien waer ons Apollion magh blyven.</l>
+<l>Vorst Lucifer zondt hem, tot dezen toght bequaem,</l>
+<l>Naer 't aertrijck, op dat hy eens nader kennis naem'</l>
+<l>Van Adams heil en staet, waer in d'Almogentheden</l>
+<l>Hem stelden, het wort tyt om weder van beneden</l>
+<l>Te keeren hier te stede: ick gis hy is niet veer.</l>
+<l>Een wacker dienaer vlieght op 't wencken van zyn' Heer;</l>
+<l>En stut zyn meesters troon getrou met hals en schouder.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Beli.</hi></speaker>
+<l>Heer Belzebub, ghy Raet van 's hemels Stedehouder,</l>
+<l>Hy steigert steil, van kreits in kreits, op ons gezicht.</l>
+<l>Hy streeft den wint voorby, en laet een spoor van licht</l>
+<l>En glanssen achter zich, waer zyn gezwinde wiecken</l>
+<l>De wolcken breecken. hy begint ons lucht te riecken,</l>
+<l>In eenen andren dagh en schooner zonneschyn,</l>
+<l>Daer 't licht zich spiegelt in het blaeuwe kristalyn.</l>
+<l>De hemelklooten zien met hun gezicht, van onder,</l>
+<l>Terwyl hy ryst, hem na, een ieder in 't byzonder,</l>
+<l>Verwondert om dien vaert en goddelycken zwier,</l>
+<l>Die hun geen Engel schynt, maer eer een vliegend vier.</l>
+<l>Geen star verschiet zoo snel. hier komt hy aengesteegen,</l>
+<l>Met eenen gouden tack, en heeft de steile wegen</l>
+<l>Voorspoedigh afgeleit.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>Wat brengt Apollion?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>Heer Belzebub, ick heb, zoo vlytigh als ick kon,</l>
+<l>Het laegh gewest bespiet, en offere u de vruchten,</l>
+<l>Zoo diep beneden ons, in andre zon en luchten,</l>
+<pb n="2"/>
+<l>Gesprooten: oordeel, uit de vruchten, van het lant,</l>
+<l>En van den hof, door Godt gezegent, en geplant,</l>
+<l>Tot wellust van den mensch.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>ick zie de goude blaeden,</l>
+<l>Met perlen van de lucht, den zilvren dau, gelaeden.</l>
+<l>Hoe lieflijck rieckt dit loof, dat zijne verf behoudt!</l>
+<l>Hoe gloeit dit vrolijck ooft van karmozijn, en gout!</l>
+<l>'t Waer jammer zoo men dit ontwijde met de handen.</l>
+<l>'t Gezicht bekoort den mont. wie zou niet watertanden</l>
+<l>Naer aertsche leckerny? hy walght van onzen dagh,</l>
+<l>En hemelsch mann', die 't ooft der aerde plucken magh.</l>
+<l>Men zou ons Paradijs om Adams hof verwenschen.</l>
+<l>'t Geluck der Engelen moet wijcken voor de menschen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>Niet waer, heer Belzebub? al schijnt de hemel hoogh,</l>
+<l>Wy leggen veel te laegh. het geen ick met mijn oogh</l>
+<l>Gezien heb, mistme niet. 't vermaeck van 's weerelts hoven,</l>
+<l>Een eenigh Eden gaet ons Paradijs te boven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>Laet hooren watghe zaeght: wy luistren t'zamen toe.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>'k Verzwijgh mijn heenevaert, om niet te reppen hoe</l>
+<l>Gezwint ick nedersteegh, en zonck door negen boogen,</l>
+<l>Die, sneller dan een pijl, rontom hun midpunt vloogen.</l>
+<l>Het radt der zinnen kan zoo snel niet ommeslaen,</l>
+<l>In ons gedachten, als ick, laeger dan de maen</l>
+<l>En wolcken, afgegleên, bleef hangen op mijn pennen,</l>
+<l>Om 't Oostersche gewest en lantschap t'onderkennen,</l>
+<l>Op 't aenzicht van den kloot, daer d'Oceaen om spoelt,</l>
+<l>Waer in zoo menigh slagh van zeegedroghten woelt.</l>
+<l>Van verre zagh men hier een' hoogen bergh verschieten,</l>
+<l>Waer uit een waterval, de wortel van vier vlieten,</l>
+<l>Ten dale nederbruischt. wy streecken steil, en schuin</l>
+<l>Voorover met ons hooft, en rusten op de kruin</l>
+<l>Des berghs, van waer men vlack de zalige landouwen</l>
+<l>Der onderweerelt en haer weelde kon aenschouwen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>Nu schilder ons den hof, en zijn gestaltenis.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>De hof valt ront, gelijck de kloot der weerelt is.</l>
+<pb n="3"/>
+<l>In 't midden rijst de bergh, waer uit de hooftbron klatert,</l>
+<l>Die zich in vieren deelt, en al het lant bewatert,</l>
+<l>Geboomte en beemden laest, en levert beecken uit,</l>
+<l>Zoo klaer gelijck kristal, daer geen gezicht op stuit.</l>
+<l>De stroomen geven slib, en koesteren de gronden.</l>
+<l>Hier worden Onixsteen en Bdellion gevonden.</l>
+<l>Hoe klaer de hemel oock van starren blinckt, en barnt;</l>
+<l>Hier zaeide vrouw Natuur in steenen een gesternt,</l>
+<l>Dat onze starren dooft. hier blinckt het gout in d'aderen.</l>
+<l>Hier wou Natuur haer' schat in eenen schoot vergaderen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>Wat zweeft 'er voor een lucht, waer by dat schepzel leeft?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>Geen Engel, onder ons, zoo zoet een' adem heeft,</l>
+<l>Gelijck de frissche geest, die hier den mensch bejegent,</l>
+<l>Het aengezicht verquickt, en alles streelt, en zegent:</l>
+<l>Dan zwelt de boezem der landouw' van kruit, en kleur,</l>
+<l>En knop, en telgh, en bloem, en allerhanden geur.</l>
+<l>De dan ververschtze 's nachts. het rijzen en het daelen</l>
+<l>Der zonne weet zijn maet, en matight zoo haer straelen</l>
+<l>Naer eisch van elcke plant, dat allerhande groen</l>
+<l>En vrucht gevonden wort, in eenerley saizoen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>Nu maelme de gedaente en 't wezen van de menschen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ap.</hi></speaker>
+<l>Wie zou ons Engelsdom voor 't menschdom willen wenschẽ,</l>
+<l>Wanneer men schepzels ziet, die 't al te boven gaen,</l>
+<l>En onder wiens gezagh alle andre dieren staen.</l>
+<l>Ick zagh den ommegangh van hondertduizent dieren,</l>
+<l>Die op het aertrijck treen, of in de wolcken zwieren,</l>
+<l>Of zwemmen in den stroom, zoo ieder is gewent,</l>
+<l>En leven schept in zijn byzonder element.</l>
+<l>Wie sou een ieders aert en eigenschappen raemen</l>
+<l>Als Adam! want hy gafze op eene ry haer naemen.</l>
+<l>De berghleeuw quispelde hem aen met zijnen staert,</l>
+<l>En loegh den meester toe. de tiger ley zijn' aert</l>
+<l>Voor 's Konings voeten af. de lantstier boogh zijn' horen,</l>
+<l>En d'olifant zijn' snuit. de beer vergat zijn' toren.</l>
+<pb n="4"/>
+<l>Griffoen en adelaer quam luistren naer dien man,</l>
+<l>Oock draeck, en Behemoth, en zelf Leviatan.</l>
+<l>Noch zwygh ick welk een lof den mensch wort toegezongen</l>
+<l>En toegequinckeleert van 't lustpriëel, vol tongen;</l>
+<l>Terwyl de wint in 't loof, de beeck langs d'oevers speelt,</l>
+<l>En ruischt op een Muzyck, dat nimmer 't hart verveelt</l>
+<l>Had zich Apollion in zynen last gequeeten,</l>
+<l>Hy had ons hemelrijck in Adams Rijck vergeeten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>Wat dunckt u van het paer, dat ghy beneden zaeght?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>Geen schepsel heeft om hoog mijne oogen zoo behaeght</l>
+<l>Als deze twee om laegh. wie kon zoo geestigh strengelen</l>
+<l>Het lichaem, en de ziel, en scheppen dubbele Engelen,</l>
+<l>Uit klaiaerde, en uit been. het lichaem, schoon van leest,</l>
+<l>Getuight des Scheppers kunst, die blinckt in 't aenschijn meest,</l>
+<l>Den spiegel van 't gemoedt. wat lidt my kon verbazen;</l>
+<l>Ick zagh het beelt der ziele in 't aengezicht geblazen.</l>
+<l>Bezit het lijf iet schoons, dat vint men hier by een.</l>
+<l>Een Godtheit geeft haer' glans door 's menschen oogen heen.</l>
+<l>De redelijcke ziel komt uit zijn troni zwieren.</l>
+<l>Hy heft, terwijl de stomme en redenlooze dieren</l>
+<l>Naer hunne voeten zien, alleen en trots het hooft</l>
+<l>Ten hemel op naer Godt, zijn' Schepper, hoogh gelooft.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>Hy looft hem niet vergeefs voor zoo veel rycke gaven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>Hy heerscht, gelijck een Godt, om wien het al moet slaven.</l>
+<l>D'onzichtbre ziel bestaet uit geest, en niet uit stof.</l>
+<l>Z'is heel in ieder lidt. het brein verstreckt haer hof.</l>
+<l>Zy leeft in eeuwigheit, en vreest noch roest, noch schennis.</l>
+<l>Z'is onbegrypelijck. voorzichtigheit, en kennis,</l>
+<l>En deught, en vryen wil bezitze in eygendom.</l>
+<l>Voor hare majesteit staen alle Geesten stom.</l>
+<l>De wyde weerelt zal eer lang van menschen krielen.</l>
+<l>Zy wacht, uit luttel zaets, een rycken oegst van zielen;</l>
+<l>En hierom huwde Godt den man aen zyn mannin.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>Wat dunckt u van zyn ribbe, en lieve gemalin?</l>
+</sp>
+<pb n="5"/>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>Ick deckte mijn gezicht en oogen met mijn vleugelen,</l>
+<l>Om mijn gedachten en genegentheên te teugelen,</l>
+<l>Zoo dra zy my gemoete als Adam met der hant</l>
+<l>Haer leide door het groen, by wijlen hielt hy stant,</l>
+<l>Beschoudeze overzy, en onder dat beloncken</l>
+<l>Begon een heiligh vier zijn zuivre borst t'ontvoncken:</l>
+<l>Dan kuste hy zijn bruit, en zy den bruidegom:</l>
+<l>Dan ging de bruiloft in, met eenen wellekom</l>
+<l>En brant van liefde, niet te melden, maer te gissen;</l>
+<l>Een hooger zaligheit, die d'Engelen noch missen.</l>
+<l>Hoe arm is eenigheit! wy kennen geen gespan</l>
+<l>Van tweederhande kunne, een jongkvrouw, en een' man.</l>
+<l>Helaes! wy zijn misdeelt: wy weeten van geen trouwen,</l>
+<l>Van gade of gading, in een' hemel, zonder vrouwen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>Zoo wort 'er met der tijdt een weerelt aengeteelt?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>Door een genot van 't schoon, in 's menschen brein gebeelt,</l>
+<l>En ingedruckt met kracht van d'opgespanne zinnen.</l>
+<l>Dat houdt dit paer verknocht. hun leven is beminnen,</l>
+<l>En wederminnen met een' onderlingen lust,</l>
+<l>Onendelijck gelescht, en nimmer uitgebluscht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l rend="; 2tab">Nu pasme deze bruit naer 't leven af te maelen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>Dit eischt Natuurs penseel, geen verf, maer zonnestraelen.</l>
+<l>De man en vrou zijn bey volschapen, evenschoon,</l>
+<l>Van top tot teen. met recht spant Adam wel de kroon,</l>
+<l>Door kloeckheit van gedaente, en majesteit van 't wezen,</l>
+<l>Als een ter heerschappy des aerdtrijcx uitgelezen:</l>
+<l>Maer al wat Eva heeft vernoeght haer bruigoms eisch;</l>
+<l>Der leden tederheit, een zachter vel en vleisch,</l>
+<l>Een vriendelijcker verf, aenminnigheit der oogen,</l>
+<l>Een minnelijcke mont, een uitspraeck, wiens vermoogen</l>
+<l>Bestaet in eedler klanck; twee bronnen van yvoor,</l>
+<l>En wat men best verzwyge, eer dit een Geest bekoor'.</l>
+<l>Bejegent Engelen, hoe schoonze uw oogh behaeghden;</l>
+<l>Het zijn wanschapenheên by 't morgenlicht der maeghden.</l>
+</sp>
+<pb n="6"/>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>Het schijnt ghy blaeckt van minne om 't vrouwelijcke dier.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>Ick heb mijn slaghveêr in dat aengenaeme vier</l>
+<l>Gezengt. het vielme zwaer van onder op te stijgen,</l>
+<l>Te roeien, om den top van Engleburgh te krijgen.</l>
+<l>Ick scheide, doch met pijn, en zagh wel driewerf om.</l>
+<l>Nu blinckt geen Serafijn, in 't hemelsch heilighdom,</l>
+<l>Als deze, in 't hangend hair, een goude nis van straelen,</l>
+<l>Die schoon gewatert van den hoofde nederdaelen,</l>
+<l>En vloejen om den rugh. zoo komtze, als uit een licht,</l>
+<l>Te voorschijn, en verheught den dagh met haer gezicht.</l>
+<l>Laet perle en perlemoer u zuiverheit beloven;</l>
+<l>Haer blanckheit gaet de perle en perlemoer te boven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>Wat baet al's menschen roem, indien zijn schoonheit smelt,</l>
+<l>En endelijck verwelckt, gelijck een bloem op 't velt?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>Zoo lang die hof beneên niet op houde ooft te geven,</l>
+<l>Zal dit gezalight paer by zulck een' appel leven,</l>
+<l>Die daer in 't midden groeit, bevochtight van den stroom,</l>
+<l>Waer by de wortel leeft. dees wonderbaere boom</l>
+<l>Wort 's levens boom genoemt. zijn aert is onbederflijck.</l>
+<l>Hier door geniet de mensch het eeuwigh en onsterflijck,</l>
+<l>En wort den Engelen, zijn' broederen, gelijck,</l>
+<l>Ja overtreft ze in 't eindt; en zal zijn maght en Rijck</l>
+<l>Verbreiden overal. wie kan zijn vleugels korten?</l>
+<l>Geen Engel heeft de maght zijn wezen uit te storten</l>
+<l>In duizent duizenden, in een oneindigh tal.</l>
+<l>Nu overreken eens wat hier uit worden zal.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>De mensch is maghtigh dus ons over 't hooft te wassen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>Zijn wasdom zal ons haest verschricken, en verrassen.</l>
+<l>Al duickt zijn heerschappy nu laeger dan de maen;</l>
+<l>Al is die maght bepaelt; hy zal al hooger gaen,</l>
+<l>Om zijnen stoel in top der hemelen te zetten.</l>
+<l>Zoo Godt dit niet belet, hoe konnen wy 't beletten?</l>
+<l>Want God bezint den mensch, en schiep het al om hem.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>Wat hoor ick? een bazuin? gewis hier wil een stem</l>
+<pb n="7"/>
+<l>Op volgen: zie eens uit, terwijlwe hier verbeien.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>D'Aertsengel Gabriël, gevolght van 's hemels Reien,</l>
+<l>Genaeckt in 's Hooghsten naem, om uit den hoogen troon</l>
+<l>T'ontvouwen, als Herout, het geen hem wiert geboôn.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>Ons lust te hooren wat d'Aertsengel zal gebieden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gabriël. Rey van Engelen.</hi></speaker>
+<l>HOort toe, ghy Engelen: hoort toe, ghy hemellieden.</l>
+<l>De hooghste Goetheit, uit wiens boezem alles vloeit</l>
+<l>Wat goet, wat heiligh is; die nimmer wort vermoeit</l>
+<l>Door weldoen, noch verarmt van haer genadeschatten,</l>
+<l>Tot noch met geen begrijp der schepselen te vatten;</l>
+<l>Dees goetheit schiep den mensch haer eigen beelt gelijck,</l>
+<l>Oock d'Englen, op dat zy te zamen 't eeuwigh Rijck</l>
+<l>Het noit begrepen goet, na 'et vierigh onderhouden</l>
+<l>Der opgeleide wet, met Godt bezitten zouden.</l>
+<l>Zy boude 't wonderlijck en zienelijck Heelal</l>
+<l>Der weerelt Gode en oock den mensche te geval;</l>
+<l>Op dat hy in dit hof zou heerschen, en vermeeren;</l>
+<l>Met al zijne afkomst hem bekennen, dienen, eeren;</l>
+<l>En stijgen, langs den trap der weerelt, in den trans</l>
+<l>Van 't ongeschapen licht, den zaligenden glans.</l>
+<l>Al schijnt het Geestendom alle andren t'overtreffen;</l>
+<l>Godt sloot van eeuwigheit het Menschdom te verheffen,</l>
+<l>Oock boven 't Engelsdom, en op te voeren tot</l>
+<l>Een klaerheit en een licht, dat niet verschilt van Godt.</l>
+<l>Ghy zult het eeuwigh Woort, bekleet met been en aren,</l>
+<l>Gezalft tot Heer, en hooft, en rechter, al de schaeren</l>
+<l>Der Geesten, Engelen en menschen te gelijck,</l>
+<l>Zien rechten, uit zijn' troon, en onbeschaduwt Rijck;</l>
+<l>Daer staet de stoel alreê geheilight in het midden.</l>
+<l>Dat alle d'Engelen hem passen aen te bidden,</l>
+<l>Zoo ras hy innery, wien 't menschelijck gestalt,</l>
+<l>Oock boven ons natuur verheerelijckt, gevalt.</l>
+<pb n="8"/>
+<l>Dan schijnt de heldre vlam der Serafijnen duister,</l>
+<l>By 's menschen licht, en glans en goddelijcken luister.</l>
+<l>Genade dooft Natuur en al haer glansen uit.</l>
+<l>Dit 's nootlot: dit 's een onherroepelijck besluit.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey,</hi></speaker>
+<l>Al wat de hemel stemt, zal 't hemelsch heir behagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gab.</hi></speaker>
+<l>Zoo past u trou in Godts en 's menschen dienst te dragen:</l>
+<l>Naerdien de Godtheit zelf de menschen zoo bemint.</l>
+<l>Wie Adam eert, het hart van Adams vader wint.</l>
+<l>De mensch en Engel, beide uit eenen stam gesprooten,</l>
+<l>Zijn medebroeders; uitgekore lotgenooten,</l>
+<l>Des Allerhooghsten zoons en erven, zonder smet.</l>
+<l>Een ongedeelde wil en liefde zy uw wet.</l>
+<l>Ghy weet hoe 't Engelsdom moet onderscheiden worden</l>
+<l>In dryderhande ry, een negenvoudige orden;</l>
+<l>De hooghste in Serafijn, en Cherubijn, en Troon,</l>
+<l>Die zitten in Godts Raet, en stercken zijn geboôn.</l>
+<l>De middenry bestaet uit Heerschappyen, Krachten,</l>
+<l>En Maghten, die op 't woort van Godts Geheimraet wachten,</l>
+<l>Tot 's menschen nut, en heil, en hulp in 't algemeen.</l>
+<l>De derde en laeghste ry, gewijt uit Vorstenheên,</l>
+<l>En groote Aertsengelen, en Engelen, moet duicken</l>
+<l>Voor 't woort der middelrye, en laten zich gebruicken,</l>
+<l>Beneden het gewelf van zuiver kristalijn,</l>
+<l>In hun byzondren last, zoo wijt 't gesterrent schijn'</l>
+<l>Wanneer de weerelt koom' zich verder uit te spreiden,</l>
+<l>Wort elck van deze ry in zijn gewest bescheiden,</l>
+<l>Of weet zijn eige stadt, en huis, en wat persoon</l>
+<l>Zijn zorgh bevolen blijft, ter eere van Godts kroon.</l>
+<l>Getrouwen, gaet dan heene, onsterffelijcke Goden,</l>
+<l>Gehoorzaemt Lucifer, verknocht aen Godts geboden.</l>
+<l>Bevordert 's hemels eer, in 't menschelijck geslacht,</l>
+<l>Een ieder in zijn wijck, een ieder op zijn wacht.</l>
+<l>Laet zommigen voor Godt de schael vol wieroock branden,</l>
+<l>En brengen voor Godts troon der menschen offerhanden,</l>
+<pb n="9"/>
+<l>En wenschen, en gebeên, en zingen 's Godtheits lof,</l>
+<l>Dat zich de galm verspreie in 't eeuwigh juichend hof.</l>
+<l>Een ander draey' gestarnte en ronde hemelklooten,</l>
+<l>Of zett' den hemel op, of hou de lucht geslooten</l>
+<l>Met wolcken, om den bergh te zegenen om laegh,</l>
+<l>Met eenen zonneschijn, of versche regenvlaegh</l>
+<l>Van manne en honighdau, daer Godt wort aengebeden,</l>
+<l>Door d'eerste onnozelheit, de burgery van Eden.</l>
+<l>Wie door de lucht, en 't vier, en aerde, en water rent,</l>
+<l>Die maetige op zijn pas een ieder element,</l>
+<l>Naer Adams wensch, of legg' den blixemstrael aen banden,</l>
+<l>Of breidele den storm, of breeck' de zee op stranden.</l>
+<l>Een ander sla de treen des menschen gade op 't velt.</l>
+<l>De Godtheit heeft zijn hair tot op een hair getelt.</l>
+<l>Men draegh' hem op de hant, dat hy zijn voet niet stoote.</l>
+<l>Wort iemant, als gezant, gezonden van een' Groote</l>
+<l>Aen Adam, 's aertrijcks Vorst, dat hy zijn' last verricht'.</l>
+<l>Zoo luidt mijn last, waer aen de Godtheit u verplicht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey van Engelen.</hi></speaker>
+<lg type="poem">
+<head><hi rend="i">Zang.</hi></head>
+<l>WIe is het, die zoo hoogh gezeten,</l>
+<l rend="; 1tab">Zoo diep in 't grondelooze licht,</l>
+<l>Van tijt noch eeuwigheit gemeeten,</l>
+<l rend="; 1tab">Noch ronden, zonder tegenwight,</l>
+<l>By zich bestaet, geen steun van buiten</l>
+<l rend="; 1tab">Ontleent, maer op zich zelven rust,</l>
+<l>En in zijn wezen kan besluiten</l>
+<l rend="; 1tab">Wat om en in hem, onbewust</l>
+<l>Van wancken, draeit, en wort gedreven,</l>
+<l rend="; 1tab">Om 't een en eenigh middelpunt;</l>
+<l>Der zonnen zon, de geest, het leven;</l>
+<l rend="; 1tab">De ziel van alles wat ghy kunt</l>
+<pb n="10"/>
+<l>Bevroên, of nimmermeer bevroeden;</l>
+<l rend="; 1tab">Het hart, de bronaêr, d'oceaen</l>
+<l>En oirsprong van zoo veele goeden</l>
+<l rend="; 1tab">Als uit hem vloeien, en bestaen</l>
+<l>By zijn genade, en alvermoogen,</l>
+<l rend="; 1tab">En wijsheit, die hun 't wezen schonck</l>
+<l>Uit niet, eer dit in top voltoogen</l>
+<l rend="; 1tab">Palais, der heemlen hemel, blonck;</l>
+<l>Daer wy met vleuglen d'oogen decken,</l>
+<l rend="; 1tab">Voor aller glansen Majesteit;</l>
+<l>Terwijlwe 's hemels lofgalm wecken,</l>
+<l rend="; 1tab">En vallen, uit eerbiedigheit</l>
+<l>En vreeze, in zwijm op 't aenzicht neder?</l>
+<l rend="; 1tab">Wie is het? noemt, beschrijft ons hem,</l>
+<l>Met eene Serafijne veder.</l>
+<l rend="; 1tab">Of schort het aen begrijp en stem;</l>
+</lg>
+<lg type="poem">
+<head><hi rend="i">Tegenzang.</hi></head>
+<l>Dat 's <hi rend="sc">Godt</hi>. Oneindigh eeuwigh Wezen</l>
+<l rend="; 1tab">Van alle ding, dat wezen heeft,</l>
+<l>Vergeef het ons; ô noit volprezen</l>
+<l rend="; 1tab">Van al wat leeft, of niet en leeft,</l>
+<l>Noit uitgesproken, noch te spreecken,</l>
+<l rend="; 1tab">Vergeef het ons, en schel ons quijt</l>
+<l>Dat geen verbeelding, tong, noch teken</l>
+<l rend="; 1tab">U melden kan. ghy waert, ghy zijt,</l>
+<l>Ghy blijft de zelve. alle Englekennis</l>
+<l rend="; 1tab">En uitspraeck, zwack, en onbequaem,</l>
+<l>Is maer ontheiliging, en schennis:</l>
+<l rend="; 1tab">Want ieder draeght zijn' eigen naem,</l>
+<l>Behalve ghy. Wie kan u noemen</l>
+<l rend="; 1tab">By uwen Naem? wie wort gewijt</l>
+<l>Tot uw Orakel? wie durf roemen?</l>
+<l rend="; 1tab">Ghy zijt alleen dan die ghy zijt,</l>
+<pb n="11"/>
+<l>U zelf bekent en niemant nader.</l>
+<l rend="; 1tab">U zulx te kennen, als ghy waert</l>
+<l>Der eeuwigheden glans en ader;</l>
+<l rend="; 1tab">Wien is dat licht geopenbaert?</l>
+<l>Wien is der glansen glans verscheenen?</l>
+<l rend="; 1tab">Dat zien is noch een hooger heil</l>
+<l>Dan wy van uw genade ontleenen;</l>
+<l rend="; 1tab">Dat overschrijt het perck en peil</l>
+<l>Van ons vermogen. wy verouden</l>
+<l rend="; 1tab">In onzen duur; ghy nimmermeer.</l>
+<l>Uw wezen moet ons onderhouden.</l>
+<l rend="; 1tab">Verheft de Godtheit: zingt haer eer.</l>
+</lg>
+<lg type="poem">
+<head><hi rend="i">Toezang.</hi></head>
+<l>Heiligh, heiligh, noch eens heiligh,</l>
+<l rend="; 1tab">Driemael heiligh: eer zy Godt.</l>
+<l>Buiten Godt is 't nergens veiligh.</l>
+<l rend="; 1tab">Heiligh is het hoogh gebodt.</l>
+<l>Zijn geheimenis zy bondigh:</l>
+<l rend="; 1tab">Men aenbidde zijn bevel.</l>
+<l>Dat men overal verkondigh'</l>
+<l rend="; 1tab">Wat de trouwe Gabriël</l>
+<l>Ons met zijn bazuin quam leeren.</l>
+<l>Laet ons Godt in Adam eeren.</l>
+<l rend="; 1tab">Al wat Godt behaeght, is wel.</l>
+</lg>
+</sp>
+</div>
+<div type="act">
+<pb n="12"/>
+<head rend="h3">Het tweede bedryf.</head>
+<sp>
+<speaker><hi rend="i">Lucifer. Belzebub.</hi></speaker>
+<l>GHy snelle Geesten, hout nu stant met onzen wagen:</l>
+<l>Al hoogh genoegh in top Godts Morgenstar gedragen</l>
+<l>Al hoogh genoegh gevoert: 't is tijt dat Lucifer</l>
+<l>Nu duicke, voor de komst van deze dubble star</l>
+<l>Die van beneden rijst, en zoeckt den wegh naer boven,</l>
+<l>Om met een' aertschen glans den hemel te verdooven.</l>
+<l>Borduurt geen kroonen meer in Lucifers gewaet;</l>
+<l>Vergult zijn voorhooft niet met eenen dageraet</l>
+<l>Van morgenstarre en strael. waer voor d'Aertsenglen nijgen;</l>
+<l>Een andre klaerheit komt in 't licht der Godtheit stijgen,</l>
+<l>En schijnt ons glansen doot; gelijck de zon, by daegh,</l>
+<l>De starren dooft, voor 't oogh der schepselen, om laegh.</l>
+<l>'t Is nacht met Engelen, en alle hemelzonnen:</l>
+<l>De menschen hebben 't hart des Oppersten gewonnen,</l>
+<l>In 't nieuwe Paradijs: de mensch is 's hemels vrient:</l>
+<l>Ons slaverny gaet in. gaet heene, viert, en dient,</l>
+<l>En eert dit nieuw geslacht, als onderdaene knapen:</l>
+<l>De menschen zijn om Godt, en wy om hen geschapen.</l>
+<l>'t Is tijt dat 's Engels neck hun voeten onderschraegh',</l>
+<l>Dat ieder op hun passe, en op de handen draegh',</l>
+<l>Of op de vleugels voere, in d'allerhooghste troonen:</l>
+<l>Onze erfnis komt hun, als uitverkore zoonen.</l>
+<l>Onze eerstgeboorte leit nu achter, in dit Rijck.</l>
+<l>De zoon des zesten daghs, den Vader zoo gelijck</l>
+<l>Geschapen, strijckt de kroon. met recht is hem gegeven</l>
+<l>De groote staf, waer voor alle eerstgeboornen beven,</l>
+<l>En sidderen. hier gelt geen tegenspraeck: ghy hoort</l>
+<l>Wat Gabriël bazuint voor 's hemels goude poort.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>O Stedehouder van Godts opperheerschappyen,</l>
+<l>Wy hooren 't al te wel, en midden in 't verblyen</l>
+<pb n="13"/>
+<l>Der Reien, eenen klanck, die 't eeuwigh feest bedroeft.</l>
+<l>De last van Gabriël leit klaer: dat woort behoeft</l>
+<l>Geen Cherubijnetong om ons den zin t'ontvouwen.</l>
+<l>Men hoefde Apollion naer d'onderste landouwen</l>
+<l>Niet af te vaerdigen, om nader ga te slaen</l>
+<l>Wat Adam al bezit, zoo laegh beneên de maen:</l>
+<l>Het blijckt hoe heerlijck hem de Godtheit begenadight,</l>
+<l>Oock door een lijfwacht van veel duizenden verdadight,</l>
+<l>En hanthaeft in zijn' staet en aenzien, min noch meer</l>
+<l>Of hy gehuldight waer tot aller Geesten Heer.</l>
+<l>De poort des hemels staet voor Adams afkomst open.</l>
+<l>Een aerdtworm, uit een' klomp van aerde en klay gekroopen,</l>
+<l>Braveert uw mogentheit. ghy zult het Menschdom zien</l>
+<l>Zoo verre boven u, en, vallende op uw knien,</l>
+<l>Met nederslaghtigheit en neêrgeslagene oogen,</l>
+<l>Aenbidden zijne maght, en hoogheit, en vermogen.</l>
+<l>Het zal, verheerelijckt van d'allerhooghste maght,</l>
+<l>Zich zetten aen de zy der Godtheit, in zijn kracht,</l>
+<l>En heerschen, langer en noch wijder dan de ronden</l>
+<l>Der entlooze eeuwigheit, aen tijt noch plaets gebonden,</l>
+<l>Om Godt, haer middelpunt en omloop, te gelijck</l>
+<l>Zich draeien, zonder rust. wat hoeft men klaerder blijck</l>
+<l>Dat Godt de menschen wil verheffen, ons verneeren;</l>
+<l>Wy zijn ter dienstbaerheit, de menschen tot regeeren</l>
+<l>Geboren. legh voortaen den scepter uit der hant:</l>
+<l>Een laeger is 'er, die de kroon daer boven spant,</l>
+<l>Of spannen zal eer lang. legh af u morgenstraelen,</l>
+<l>En hulsel voor dees zon, of pas haer in te haelen</l>
+<l>Met zangen, en triomf, en goddelijck cieraet.</l>
+<l>Wy zien den hemel haest veranderen van staet.</l>
+<l>De starren zien vast uit, en wijcken met verlangen,</l>
+<l>Om met eerbiedigheit dit nieuwe licht t'ontfangen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Dat zal ick keeren, is het anders in mijn maght.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>Daer hoor ick Lucifer, en zie hem, die den nacht</l>
+<pb n="14"/>
+<l>Van 's hemels aengezicht verdrijven kan, en jaegen.</l>
+<l>Waer hy verschijnt, begint het heerlijck op te daegen.</l>
+<l>Zijn wassend licht, het eerste en allernaeste aen Godt,</l>
+<l>Vermindert nimmermeer. zijn woort is 't hoogh gebodt;</l>
+<l>Zijn wil en wenck een weet, van niemant t'overtreden.</l>
+<l>De Godtheit wort in hem gedient, en aengebeden,</l>
+<l>Bewieroockt, en geviert: en zou een laeger stem</l>
+<l>Nu dondren uit Godts troon? gebieden boven hem?</l>
+<l>Zou Godt een' jonger zoon, geteelt uit Adams lenden,</l>
+<l>Verheffen boven hem? dat waer het erfrecht schenden</l>
+<l>Van 't alleroutste kint, en zijn stadthoudery</l>
+<l>Ontluisteren. naest Godt is niemant groot als ghy.</l>
+<l>De Godtheit zette u eens in glorie aen haer voeten:</l>
+<l>Geen mensch verstoute zich onze orden om te wroeten,</l>
+<l>En dit bezworen Recht t'ontwyden tegens reên;</l>
+<l>Of al de hemel raeckt in 't harnas tegens een.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Ghy vat het recht. het past rechtschape heerschappyen</l>
+<l>Geensins haer wettigheit zoo los te laten glijen;</l>
+<l>Want d'oppermaght is d'eerste aen haere wet verplicht;</l>
+<l>Verandren voeght haer minst. ben ick een zoon van 't licht,</l>
+<l>Een heerscher over 't licht, ick zal mijn Recht bewaeren:</l>
+<l>Ick zwicht voor geen gewelt, noch aertsgeweldenaeren.</l>
+<l>Laet zwichten al wat wil: ick wijck niet eenen voet.</l>
+<l>Hier is mijn Vaderlant. noch ramp, noch tegenspoet,</l>
+<l>Noch vloecken zullen ons vervaeren, noch betoomen:</l>
+<l>Wy sullen sneven, of dien hoeck te boven komen.</l>
+<l>Is 't nootlot dat ick vall', van eere en staet berooft;</l>
+<l>Laet vallen, als ick vall' met deze kroone op 't hooft,</l>
+<l>Dien scepter in de vuist, dien eersleip van vertrouden,</l>
+<l>En zoo veel duizenden als onze zyde houden</l>
+<l>Dat vallen streckt tot eer, en onverwelckbren lof:</l>
+<l>En liever d'eerste Vorst in eenigh laeger hof,</l>
+<l>Dan in 't gezalight licht de tweede, of noch een minder.</l>
+<l>Zoo troost ick my de kans, en vrees nu leet noch hinder.</l>
+<pb n="15"/>
+<l>Maer hier komt 's hemels tolck en wackere Herout,</l>
+<l>Met Godts gheheimnis boeck, zijn zorge toebetrout.</l>
+<l>Het waer niet ongeraên hem nader t'ondervragen.</l>
+<l>Ick wil hem tegen treên, en aftreên van den wagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gabriël. Lucifer.</hi></speaker>
+<l>HEer Stedehouder, hoe? waer heene leit de reis?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Naer u, Herout en tolck van 't hemelsche palais.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gab.</hi></speaker>
+<l>My dunkt ick zoude uw wit aen 't voorhooft kunnen gissen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Ghy die den duistren gront van Godts geheimenissen</l>
+<l>Door 't licht van uw vernuft ontdeckt, en openbaert,</l>
+<l>Verlichtme met uw komst.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gab.</hi></speaker>
+<l>wat is 't dat u bezwaert?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Het raetslot en besluit der Godtheit, die de waerde</l>
+<l>Des hemels laeger schat dan 't element der aerde,</l>
+<l>Den hemel onderdruckt; het aertrijck uit een' poel</l>
+<l>Door alle starren voert; het menschdom op den stoel</l>
+<l>Der Englen zet; berooft hun 't Recht der eerste gaven;</l>
+<l>Gebietze om 's menschen nut te zweten, en te slaven.</l>
+<l>Het Geestendom, gewijt tot amptenaers van 't hof</l>
+<l>Des hemels, zal voortaen een' aertworm, uit het stof</l>
+<l>Gekroopen, en gegroeit, ten dienst staen, op hem passen,</l>
+<l>En, in getal en staet, ons over 't hooft zien wassen?</l>
+<l>Waer toe vernedert ons d'oneindige Gena</l>
+<l>Zoo vroegh? wat Engel paste op zijnen dienst te spa?</l>
+<l>En hoe waert mooghlijck dat de Godtheit zich zou mengelen</l>
+<l>Met menschen? de natuur der uitgekorene Engelen</l>
+<l>Voorbyslaen, en zijn' aert en wezen storten in</l>
+<l>Een lichaem? d'eeuwigheit verknoopen aen 't begin?</l>
+<l>Het hooghste aen' tallerlaegst? den Schepper aen 't geschapen?</l>
+<l>Wie kan uit dit besluit den zin te zamen raepen?</l>
+<l>Zal 't eeuwigh schijnend licht nu schuil gaen in den nacht</l>
+<l>Der weerelt? zullen wy, Stadthouders van Godts maght,</l>
+<l>Voor dit geleent gezagh, een wulpsch vermogen, knielen?</l>
+<l>Ontelbre lichaemlooze en godtgelijcke zielen</l>
+<pb n="16"/>
+<l>Zien buigen voor een grof en zackende element,</l>
+<l>Daer Godt zijn majesteit en wezen inneprent?</l>
+<l>Wy Geesten zijn te grof om dit geheim te vatten.</l>
+<l>Ghy, die het slot bewaert van Godts geheimnisschatten,</l>
+<l>Ontvou ons, magh het zijn, dit donckere geschil,</l>
+<l>Uit uw gezegelt boeck: ontvou ons 's hemels wil.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gab.</hi></speaker>
+<l>Zoo veel 't geoorloft zy te melden uit Godts bladen.</l>
+<l>Veel weeten kan altijt niet vordren, zomtijts schaden.</l>
+<l>De Hooghste ontdeckt ons slechts wat by geraden vint.</l>
+<l>Het al te stercke licht schijnt Serafijnen blint.</l>
+<l>De zuivre Wijsheyt wou ten deel' haer' wil bezegelen,</l>
+<l>Ten deele ontsluiten. zich te schicken en te regelen</l>
+<l>Naer heur gestelde wet, dat voeght den onderzaet,</l>
+<l>Die aen zijn meesters last en wil gebonden staet.</l>
+<l>De reden en het wit waerom wy namaels wachten,</l>
+<l>Na 'et overleven van een tafel erfgeslachten,</l>
+<l>Den Heer, die, Godt en mensch geworden in der tijt,</l>
+<l>Den scepter voeren zal, en breet en overwijt</l>
+<l>De starren, aerde, en zee, en al wat leest regeeren,</l>
+<l>Verberght de hemel u: de tijt wil d'oirzaeck leeren.</l>
+<l>Gehoorzaemt Godts bazuin: ghy hebt zijn' wil gehoort.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Zoo zal een vreemdeling, een worm, het hooghste woort</l>
+<l>Hier boven voeren, en een ingeboren zwichten</l>
+<l>Voor vreemde Heerschappy? de mensch een' zetel stichten,</l>
+<l>Zoo verre boven Godt?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gab.</hi></speaker>
+<l>genoegh u met uw lot,</l>
+<l>En staet en waerdigheit, u toegeleit van Godt.</l>
+<l>Hy hief u in den top van alle Hierarchijen:</l>
+<l>Doch niet om iemants glans en opgang te benijen.</l>
+<l>De wederspannigheit verplet haer hooft en kroon,</l>
+<l>Indienze wederstreef des Oppersten geboôn.</l>
+<l>Uw aenzien schept zijn licht alleen uit Godts vermogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Ick heb tot noch mijn kroon voor Godt alleen geboogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gab.</hi></speaker>
+<l>Zoo buighze oock voor 't besluit der Godtheit, die het al</l>
+<l>Wat wezen heeft uit niet, of namaels wezen zal,</l>
+<pb n="17"/>
+<l>Bestiert tot zeker eindt, hoewel wy 't niet beseffen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Den mensch in 't heiligh licht der Godtheit te verheffen,</l>
+<l>Den mensch, zoo hoogh met Godt vergodlijckt in zijn troon,</l>
+<l>Te zien het wieroockvat toezwaeien, op den toon</l>
+<l>Van duizentduizenden eenstemmige kooraelen;</l>
+<l>Verdooft de majesteit en diamante straelen</l>
+<l>Van onze morgenstar, die straelt nu langer niet;</l>
+<l>En 's hemels blyschap slaet aen 't quijnen van verdriet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gab.</hi></speaker>
+<l>De zaligheit bestaet in een gerust genoegen,</l>
+<l>In 't stemmen met Godts wil, en zich naer hem te voegen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>De majesteit van Godt en Godtheit wort verkleent,</l>
+<l>Indienze haer natuur met 's menschen bloet vereent,</l>
+<l>Vereenight, en verbint. wy Geesten grenzen nader</l>
+<l>Aen Godt, en zijn natuur, als zoons van eenen Vader</l>
+<l>Geteelt, en hem gelijck, indien 't geoorloft is</l>
+<l>Te stellen tegens een deze ongelijckenis</l>
+<l>Van een oneindigheit en 't eindigh; de bepaelde</l>
+<l>By d'onbepaelde maght, indien de zon verdwaelde</l>
+<l>Uit haere streecke, en zich bekleede met een' smoock,</l>
+<l>Om al den aerdtkloot toe te lichten, uit een roock,</l>
+<l>En zwarten damp; hoe zou de vreught der weerelt sterven!</l>
+<l>Wat zou het aertsch geslacht al glans en leven derven!</l>
+<l>De zon al majesteits ontbeeren, in haer' loop!</l>
+<l>Ick zaegh den hemel blint, de starren over hoop.</l>
+<l>Wanorden orden en geschicktheit overrompelen,</l>
+<l>Indien de bron van 't licht haer klaerheit quam te dompelen</l>
+<l>In 't graf van een moerasch. verschoonme, ô Gabriël,</l>
+<l>Indien ick uw bazuin, de wet van 't hoogh bevel,</l>
+<l>Een luttel wederstreve, of schijn te wederstreven.</l>
+<l>Wy yvren voor Godts eere: om Godt zijn Recht te geven,</l>
+<l>Verstout ick my, en dwael dus verre buiten 't spoor</l>
+<l>Van mijn gehoorzaemheit.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gab.</hi></speaker>
+<l>ghy yvert krachtigh voor</l>
+<l>De glori van Godts naem; doch zonder t'overwegen</l>
+<l>Dat Godt het punt, waer in zijn hoogheit is gelegen,</l>
+<pb n="18"/>
+<l>Veel beter kent dan wy; dies staeck uw onderzoeck.</l>
+<l>De menschgeworden Godt zal dit geheimnisboeck,</l>
+<l>Met zeven zegelen gesloten, zelf ontsluiten.</l>
+<l>Nu zmaecktghe niet het pit, maer ziet de schors van buiten.</l>
+<l>Dan zal men d'oirzaeck zien, de reden, den waerom</l>
+<l>Dan zijn verholentheên, en diep in 't heilighdom</l>
+<l>Der heilighdommen gaen. nu voeght het ons te duicken,</l>
+<l>En dezen dageraet t'aenbidden, te gebruicken</l>
+<l>Met danckbaerheit, tot dat de kennis in haer kracht</l>
+<l>De twijffeling verdrijf gelijck de zon den nacht.</l>
+<l>Nu leeren wy allengs Godts wijsheit tegenstappen,</l>
+<l>Eerbiedigh, en beschroomt. zy openbaert by trappen</l>
+<l>Het licht der wetenschappe en kennisse, en begeert</l>
+<l>Dat ieder, op zijn wacht, zich onder haer verneêrt.</l>
+<l>Heer Stedehouder, rust, en hanthaef d'eerste ons wetten:</l>
+<l>Ick ga, daer Godt my zent.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>men zal'er scherp op letten:</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belzebub. Lucifer.</hi></speaker>
+<l>DE Stedehouder hoort waer dit plakkaet op draeit,</l>
+<l>Dat Gabriëls bazuin zoo trots heeft uitgekraeit.</l>
+<l>Hy gaf Godts ooghmerck u, oock scherp genoegh, te ruicken.</l>
+<l>Men zal uw mogentheit aldus de vleugels snuicken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Zoo licht niet: neen gewis, men kan'er in voorzien.</l>
+<l>Geen minder droome hier zijn' meerder te gebiên.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>Hy dreight weêrspannigheit haer hooft en kroon te pletten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Nu zweer ick by mijn kroon het al op een te zetten,</l>
+<l>Te heffen mijnen stoel in aller heemlen trans,</l>
+<l>Door alle kreitzen heene, en starrelichten glans.</l>
+<l>Der heemlen hemel zal my een palais verstrecken,</l>
+<l>De regenboogh een troon; 't gestarrente bedecken</l>
+<l>Mijn zaelen; d'aertkloot blijft mijn steun, en voetschabel.</l>
+<l>Ick wil op een karos van wolcken, hoogh en snel</l>
+<l>Gevoert door lucht en licht, met blixemstrael en donder,</l>
+<l>Verbrijzelen tot stof wat boven, of van onder</l>
+<pb n="19"/>
+<l>Zich tegens ons verzet, alwaer 't den Veltheer zelf;</l>
+<l>Ja eerwe zwichten, zal dit hemelschblaeu gewelf,</l>
+<l>Zoo trots, zoo vast gebout, met zijn doorluchte boogen</l>
+<l>Te barsten springen, en verstuiven voor onze oogen;</l>
+<l>'t Gerabraeckt aertrijck zien als een wanschapen romp;</l>
+<l>Dit wonderlijck Heelal in zijnen mengelklomp,</l>
+<l>En wilde woestheit weêr verwarren, en verkeeren.</l>
+<l>Laet zien wie Lucifer durftrotsen, en braveeren.</l>
+<l>Men daege Apollion.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>hier treet hy voor den dagh.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apollion. Luicifer. Belzebub.</hi></speaker>
+<l>O Stedehouder van Godts onbepaelt gezagh,</l>
+<l>Orakel, in den Raet der onderdaene Goden,</l>
+<l>Ick offer u mijn' dienst, en wacht op uw geboden.</l>
+<l>Wat eischt de Majesteit van haren onderdaen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Het lust ons uwen zin en inzien te verstaen,</l>
+<l>Op een gewightigh stuck, dat zalme niet mislucken.</l>
+<l>Het wit is Michaël de slaghveer uit te rucken,</l>
+<l>Op dat ons toelegh niet op zijn vermoogen stuit'.</l>
+<l>Hy voert met zijnen arm zoo veele Orakels uit,</l>
+<l>Als oit de Godtheit heeft met haere hant gedreven</l>
+<l>In eeuwigh diamant: daer wort de mensch geheven</l>
+<l>In top der hemelen, door alle kreitsen heen,</l>
+<l>En ziet het Engelsdom zoo diep, zoo laegh, beneên</l>
+<l>Zijn voettapijt, in stof vast grimmelen, als wormen.</l>
+<l>Het lustme met gewelt dien zetel te bestormen,</l>
+<l>En op te zetten by dat opzet, in een' slagh,</l>
+<l>Al teffens wat mijn staet, en star, en kroon vermagh.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>Een loffelijck bestaen: dat uwe kroon vermeere,</l>
+<l>En aenwasse op dien voet. ick reken my tot eere</l>
+<l>Te raden, onder u, tot zulck een brave daet.</l>
+<l>Het zy die recht en wel, of averechts beslaet,</l>
+<l>De wil is prysselijck, al wou het niet gedyen.</l>
+<l>Maer om niet reuckeloos noch radeloos te stryen,</l>
+<pb n="20"/>
+<l>Hoe treet men allerbest tot zulck een stout bestaen?</l>
+<l>Hoe veilighst tegens 't punt van 't raetslot aengegaen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Men kante hier met list ons eigen raetslot tegen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>Dat zeggen heeft wat in. geleende maght te weegen</l>
+<l>In eene zelve schael met d'Almaght; haer gewicht</l>
+<l>Weeght over. wacht u kroon: wy vallen veel te licht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bel.</hi></speaker>
+<l>Zoo licht niet, of de kans zal eerst in twijffel hangen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>Van wien, of hoe, of waer dien aenslagh aengevangen?</l>
+<l>Het overpeinzen quest alree Godts majesteit.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Men hou haer ongequetst, en stappe met beleit</l>
+<l>Die steile steilten op, en noit gebaende rotsen.</l>
+<l>Beleit en moedt verwint, en durf gevaeren trotsen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>Geene Almaght, noch haer kroon: men koomze niet te na,</l>
+<l>Ten zy men leeren wil met naberou te spa.</l>
+<l>De minder moet gedwee voor zijnen meerder wijcken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Laet d'Almaght rusten: zet gelijckheit en gelijcken</l>
+<l>Te zamen. laet eens zien wiens wapen zwaerder weegh'.</l>
+<l>Ick zie ons vyanden gevlught, den hemel leegh</l>
+<l>Met eenen slingerslagh; ons heiren overladen</l>
+<l>Van heerelijcken roof: dan wyder zich beraeden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>Ghy weet wat Michaël, Godts Veltheer, al vermagh:</l>
+<l>Godts regementen staen verplicht aen zijn gezagh.</l>
+<l>Hy draeght den sleutel van het wapenhuis, hier boven.</l>
+<l>De wacht is hem betrout. hy houdt op alle hoven</l>
+<l>Getrou een waeckende oogh, zoo dat'er niet een star</l>
+<l>Van al het hemelsch heir, in 't minst, zich reppen dar.</l>
+<l>Noch op dien hemeltoght uit zijn gelit verroeren.</l>
+<l>Men vanght haest aen, maer zulck een oorlogh uit te voeren,</l>
+<l>Dat draeft ons maght voorby, en sleipt een' langen staert</l>
+<l>Van zwaricheden na. wat tuigh, wat stormgevaert</l>
+<l>Kan tegens hem bestaen, en d'opperbenden sloopen?</l>
+<l>Al zette 's hemels slot zijn diamantpoort open,</l>
+<l>Het vreesde list, noch laegh, noch overrompeling.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>Indien men ons besluit bekrachtigh' met de kling,</l>
+<pb n="21"/>
+<l>Ick zie den morgenstar op onzen hoogen standert</l>
+<l>Braveeren, 's hemels staet en heerschappy verandert.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>De Veltheer Michaël voert, ruim zoo trots en fier,</l>
+<l>Godts wonderlijcken Naem in 't velt van zijn banier,</l>
+<l>De Son in top.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>wat baet een naem met licht geschreven?</l>
+<l>Een heldenstuck, als dit, wort geensins doorgedreven</l>
+<l>Met tittelen, en pracht, maer dapperheit, en moedt,</l>
+<l>En treken, van vernuft en loosheit uitgebroet.</l>
+<l>Ghy zijt een meester, tuck om Geesten in te luien,</l>
+<l>Te rijgen aen uw snoer, te leiden, op te ruien.</l>
+<l>Ghy kunt bederven zelfs de vroomste van de wacht;</l>
+<l>En leeren weifelen wat noit op weiflen dacht.</l>
+<l>Begin, wy zien Godts heir gereeten aen twee deelen;</l>
+<l>De hoofden en de leên aen 't muiten, en krackeelen;</l>
+<l>De meeste maght alree geblintdoeckt, en verdooft,</l>
+<l>En Oversten en elck vast roepen om een hooft.</l>
+<l>Indienghe een vierde deel op onze zy kunt troonen,</l>
+<l>Men zal u kloeck beleit met eere en ampten kroonen.</l>
+<l>Ga hene, en overlegh dit stuck met Belial:</l>
+<l>Het moet'er duister zijn, daer hy verdoolen zal.</l>
+<l>Zijn troni, gladt vernist van veinzen en bedriegen,</l>
+<l>In 't mommen niemant kent, die haer voorby kan vliegen.</l>
+<l>Ick stijgh te wagen: legh het over met u twee.</l>
+<l>De Hofraet is vergaert, en wacht ons komst alree.</l>
+<l>Men zal, zoo dra ghy komt, u beide binnen roepen.</l>
+<l>Heer Overste, bewaeck de hofpoort met uw troepen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belial. Apollion.</hi></speaker>
+<l>GOdts Stedehouder dient zich van ons beide om hoogh.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>Wy vliegen te gelijck, als pijlen van zijn' boogh:</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Beli.</hi></speaker>
+<l>En doelen op een wit, doch hachelijck te raecken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>Sta vast, de hemel wil van desen aenslagh kraecken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Beli.</hi></speaker>
+<l>Laet kraecken al wat wil: het moet'er nu op staen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>Hoe grijpen wy dit stuck met kans en voordeel aen?</l>
+</sp>
+<pb n="22"/>
+<sp>
+<speaker><hi rend="i">Beli.</hi></speaker>
+<l>De wapens dienen ons: men moet van 't heir beginnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>De hoofden eerst, met een de stoutsten zien te winnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Beli.</hi></speaker>
+<l>Door iet wat glimpelijx, en met een' schijn verbloemt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>Zoo geef het dan een' naem: laet hooren hoe ghy 't noemt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Beli.</hi></speaker>
+<l>Men hanthaef 't Engelsdom, zijn hantvest, eer, en staeten.</l>
+<l>En kieze een hooft, waer op zich ieder magh verlaeten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>Dat hebtghe recht gevat: ick wensch geen schooner stof,</l>
+<l>Noch zaet tot muitery, om burgery en hof</l>
+<l>Te schennen tegens een, en schaeren tegens schaeren:</l>
+<l>Want ieder is gezint zijn' staet en eer te waeren,</l>
+<l>En wettigheit, waer toe d'Almogentheit hem riep,</l>
+<l>Eer zy de menschen vormde, en zoo veel spader schiep.</l>
+<l>Het hemelsche palais is ons tot erf gegeven.</l>
+<l>Den geesten, die dus hoogh op hunne vleugels zweven,</l>
+<l>En, vry van lichaemen, niet zacken naer om laegh,</l>
+<l>Past beter dit gewest dan 't aertsch geslacht, te traegh</l>
+<l>Om tegens zijn natuur te kiezen deze boogen.</l>
+<l>Hier valt de dagh te sterck, te krachtigh, en hunne oogen</l>
+<l>Verdraegen geensins 't licht, ons vroeger aengewent.</l>
+<l>De mensch bewaere dan zijn eigen element,</l>
+<l>Als andre dieren: hy genoegh' zich met de paelen</l>
+<l>Van zijnen rijcken hof. het rijzen en het daelen</l>
+<l>Van zon en maen verdeel' de maenden, en het jaer.</l>
+<l>Hy neem' den ronden loop der heldre starren waer.</l>
+<l>Hy nuttige zijn ooft, en al den geur der kruiden,</l>
+<l>En keer' zich oost, en west, ten noorden, en ten zuiden.</l>
+<l>Dat zy zijn tijtverdrijf; en wat behoeft hy meer?</l>
+<l>Wy kennen nimmer hier een' aertschen opperheer.</l>
+<l>Zoo sluit ick. kuntghe, help dien zin beknopter uiten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Beli.</hi></speaker>
+<l>Den mtensch in eeuwigheit ten hemel uit te sluiten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>Dat klinckt alle Engelen te wonder wel in 't oor.</l>
+<l>Dat vlieght, gelijck een vier, van 't een int ander koor,</l>
+<l>Door negen Ordens heene, en alle Hierarchijen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Beli.</hi></speaker>
+<l>Zoo zal men allerbest versufte traegheit mij en.</l>
+<pb n="23"/>
+<l>Ons heil en uitkomst hangt aen snelheit, en aen spoet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>Niet min aen kloeck beleit, en dapperheit, en moedt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Beli.</hi></speaker>
+<l>Die zal, door toeval van ontelbre vaenen, groejen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>Zy morren vast: men moet hier heimlijck onder roejen,</l>
+<l>Zich mengen in dien hoop, en voeden hun beklagh.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Beli.</hi></speaker>
+<l>Dan diende Belzebub, een Vorst van groot gezagh,</l>
+<l>Zijn wapen aen hun klaght en wettigheit te hangen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>Niet plotsling, maer allengs, en als door zijde gangen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Beli.</hi></speaker>
+<l>De Stedehouder met zijn tegenwoordigheit</l>
+<l>Bie zelf de stercke hant aen zulck een trots beleit.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>Wy zullen in den Raet zijn' zin en voorstel hooren:</l>
+<l>Hy veinze voor een poos, en geve in 't endt de spooren</l>
+<l>Aen 't opgeruide heir, verlegen om een hooft.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Beli.</hi></speaker>
+<l>Aen 't hooft hangt al de zaeck. hoe veel ghy hun belooft,</l>
+<l>Zy zullen zonder hooft dien optoght niet beginnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>Wat ree gewonnen is, behoeft men niet te winnen.</l>
+<l>Wie meest gequetst wort in zijn heerlijckheit, en staet,</l>
+<l>Dien gelt het eerst; die stapp' vooraen, en sla de maet</l>
+<l>In zoo veel duizenden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Beli.</hi></speaker>
+<l>De billijckheit en reden</l>
+<l>Vereeren hem dees kroon: doch eerwe dieper treden,</l>
+<l>Zoo laet ons al 't gevaer eerst weegen, niets bestaen,</l>
+<l>Of al de Hofraet steeck' hier zelf zijn zegel aen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey van Engelen.</hi></speaker>
+<lg type="poem">
+<head><hi rend="i">Zang.</hi></head>
+<l>HOe zien de hoffelijcke gevels</l>
+<l rend="; 1tab">Zoo root? hoe straelt het heiligh licht</l>
+<l rend="; 1tab">Zoo root op ons gezicht,</l>
+<l>Door wolcken en bedroefde nevels?</l>
+<l rend="; 1tab">Wat damp, wat mist betreckt</l>
+<l rend="; 1tab">Dat zuiver, noit bevleckt,</l>
+<l rend="; 1tab">En loutere saffier?</l>
+<l rend="; 1tab">Die vlam, dien glans, dat vier</l>
+<pb n="24"/>
+<l>Van 't heldere Alvermogen?</l>
+<l rend="; 1tab">Hoe schijnt ons nu de diepe gloet</l>
+<l rend="; 1tab">Der Godtheit toe, zoo zwart als bloet?</l>
+<l>Die flus zoo klaer alle oogen</l>
+<l rend="; 1tab">Verheughde? wie begrijpt, wie kent</l>
+<l>Deze oirzaeck, onder d'Engelsdommen,</l>
+<l rend="; 1tab">Die, boven Adams element,</l>
+<l>Noch flus op galm van keelen zwommen;</l>
+<l rend="; 1tab">Op lucht van Geesten, in den glans,</l>
+<l rend="; 1tab">Die Galery, en tin, en trans,</l>
+<l>Gewelf van koor en hof vergulde,</l>
+<l>En met een ziel van vreught vervulde</l>
+<l rend="; 1tab">Al wat hier boven leeft, en zweeft?</l>
+<l rend="; 1tab">Wie is'er, die ons reden geeft?</l>
+</lg>
+<lg type="poem">
+<head><hi rend="i">Tegenzang.</hi></head>
+<l>Toen wy, op Gabriëls bazuinen,</l>
+<l rend="; 1tab">Ontvonckten, en een nieuwe wijs</l>
+<l rend="; 1tab">Aenhieven, Godt ten prijs;</l>
+<l>De roozegaerden, en de tuinen</l>
+<l rend="; 1tab">Van 't hemelsch paradijs,</l>
+<l rend="; 1tab">Door zulck een' dau en spijs</l>
+<l>Van lof en zang verblijt,</l>
+<l rend="; 1tab">Ontloocken; scheen de Nijt</l>
+<l>Van onder in te sluipen.</l>
+<l rend="; 1tab">Een groot getal der Geesten stom,</l>
+<l rend="; 1tab">En bleeck, en dootsch, ging, drom by drom,</l>
+<l>Misnoegend heenedruipen.</l>
+<l rend="; 1tab">De winckbraeu hing verslenst op 't oogh.</l>
+<l>Het gladde voorhooft zette een rimpel.</l>
+<l rend="; 1tab">De hemelduiven, hier om hoogh,</l>
+<l>Onnoozel eerst, oprecht, en simpel,</l>
+<l rend="; 1tab">Aen 't zuchten sloegen, zoo het scheen;</l>
+<l rend="; 1tab">Als of de hemel viel te kleen</l>
+<pb n="25"/>
+<l rend="; 1tab">Voor haer, toen Adam wiert verkoren,</l>
+<l rend="; 1tab">En zulck een kroon den mensch beschoren.</l>
+<l rend="; 2tab">Dees smet ontstelt het oogh van 't Licht.</l>
+<l rend="; 2tab">Z'ontsteeckt die vlam in Godts gezicht.</l>
+<l>&#160;</l>
+<l>Wy willen ons uit liefde in 't midden van hun mengen,</l>
+<l>En deze oploopentheit weêr tot bedaeren brengen.</l>
+</lg>
+</sp>
+</div>
+<div type="act">
+<head rend="h3">Het derde bedryf.</head>
+<sp>
+<speaker><hi rend="i">Luiciferisten. Rey.</hi></speaker>
+<l>HOe kan men in zijn waen zoo vroegh bedrogen worden</l>
+<l>Hoe is 't alree verkeert! wy schatten niemants Orden</l>
+<l>Geluckiger dan d'onze, in dit opgaende Rijck,</l>
+<l>Ja achten onzen Staet den oppersten gelijck,</l>
+<l>En onveranderlijck, en boven 't aertsch gezegent;</l>
+<l>Wanneer ons Gabriël met Godts bazuin bejegent,</l>
+<l>En uit de goude poort verbaestmet dit gebodt,</l>
+<l>Het welck al 't Engelsdom versteeckt van 't hooghste lot,</l>
+<l>Hun uit den vollen schoot der Godtheit eerst geschoncken.</l>
+<l>Daer leggen wy te laegh, en zien de schoone voncken</l>
+<l>En straelen van onze eere en heerlijckheit geblust,</l>
+<l>De gansche Hierarchy des hemels ongerust,</l>
+<l>Den mensch, in top van Staet en maght, zoo trots verheven,</l>
+<l>Dat wy, als slaven voor zijn heerschappye beven.</l>
+<l>O onverwachte slagh, en staetverwisseling!</l>
+<l>Och treurgenooten, zet u hier in eenen ring</l>
+<l>In 't ronde: zet u hier te zamen: helpt ons treuren,</l>
+<l>En zuchten: het is tijt ons feestgewaet te scheuren,</l>
+<l>Te klaegen: niemant kan ten minste ons dit verbiên.</l>
+<l>De blyschap smilt, en zal nu d'eerste droefheit zien.</l>
+<l>Helaes, helaes, helaes, gebroeders, hemelreien,</l>
+<l>Leght af uw hooftcieraet; verandert uw lievreien,</l>
+<l>En vrolyckheit in rou; slaet neêr uw aengezicht.</l>
+<l>Zoeckt schaduwen, als wy. de droefheit schuwt het licht.</l>
+<pb n="26"/>
+<l>Een ieder volge ons stem, en bange jammerklaghten.</l>
+<l>Verdrinckt in jammer: zinckt in droevige gedachten.</l>
+<l>Het klaegen helpt, en zet de droefheit oock van 't hart.</l>
+<l>Nu schept in kermen lust: het kermen heelt de smart.</l>
+<l>Nu roept uit eenen mont, en volleght ons misbaeren.</l>
+<l>Helaes, helaes, helaes, waer is ons heil gevaeren!</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l>Wat weeklaght hoort men hier? onaengenamen toon,</l>
+<l>De hemel yst hier af. dees lucht is niet gewoon</l>
+<l>Te hooren een muzijck van druck op nooten galmen</l>
+<l>Door 't juichende gewelf. triomfen, kransen, palmen,</l>
+<l>En harpen passen ons, en snaeren. wat wil dit?</l>
+<l>Wie of hier hangends hoofts in een gekrompen zit,</l>
+<l>Verlaeten, en bedruckt, en zonder noot beladen?</l>
+<l>Wie geeft hun treurens stof? wie kan deze oirzaeck raden?</l>
+<l>Mijn Reigenooten, volght: 't is noodigh dat men vraegh'</l>
+<l>Naer d'oirzaeck van hun leet, en deze donckre vlaegh</l>
+<l>Van droefheit, die den glans van onze pracht ontluistert,</l>
+<l>Het licht van 't eeuwigh feest benevelt, en verduistert.</l>
+<l>De hemel is een hof van weelde en vreught en vree.</l>
+<l>Hier nestelt aen dit dack noch rou, noch hartewee.</l>
+<l>Mijn Reigenooten volght, en troostze in hun bezwaeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Helaes, helaes, helaes, waer is ons heil gevaeren!</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l>Genooten van ons heil en blyschap, broeders hoe?</l>
+<l>O zoons van 't vrolijck licht, hoe dus bedroeft te moe?</l>
+<l>Wie geeft u stof aldus te jammeren, te treuren?</l>
+<l>Ghy had begonnen 't hooft ten hemel op te beuren,</l>
+<l>Te bloeien in den dagh, die neêrstraelt van Godts glans.</l>
+<l>De hemel broght u voort, om vlugh, van trans in trans,</l>
+<l>Van 't een in 't ander hof, te steigeren, te zweven,</l>
+<l>In 't onbeschaduwt licht, vernoeght verzaet te leven,</l>
+<l>Op een geduurigh feest, te smaecken 't hemelsch mann'</l>
+<l>Van Godts onsterflijckheit, in een gerust gespan</l>
+<l>Van feestgenooten. hoe? dit voeght geen burgeryen</l>
+<l>Van Englestadt, ô neen: dit voeght geen Heerschappyen,</l>
+<pb n="27"/>
+<l>Geen Maghten, Troonen, noch geen heerschend Hemelsdom,</l>
+<l>Ghy kropt uw droefheit in, en zit versuft, en stom.</l>
+<l>Laet hooren wat u deert: ontdeckt het uw gespeelen</l>
+<l>Ontdeckt uw hartquetzuur, dat wy die mogen heelen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Och broeders, vraeghtghe noch met errenst wat ons let?</l>
+<l>Ghy hoort, zoo wel als wy, wat Gabriël trompet:</l>
+<l>Hoe wy, door 't nieuw bevel, van onzen staet vervielen</l>
+<l>In eene slaverny der aerde en zoo veel zielen</l>
+<l>Als uit een luttel bloets en zaets te spruiten staen.</l>
+<l>Wat is by ons alree mishandelt, of misdaen,</l>
+<l>Dat Godt een waterbel, vol wint en lucht geblazen,</l>
+<l>Verheft om d'Engelen, zijn zoonen, te verbazen?</l>
+<l>Een basterdy verheft, gevormt uit klay, en stof?</l>
+<l>Wy waren pas gewijt tot pylers van zijn hof,</l>
+<l>Bekleedden onzen plicht, als trouwe rijxgenooten,</l>
+<l>En worden op een' sprongh gebannen, en gestooten</l>
+<l>Uit deze waerdigheit, verdruckt te streng, en straf,</l>
+<l>De hantvest en het Recht, dat ons de Godtheit gaf,</l>
+<l>Wort ingetrocken, en, in stede van regeeren</l>
+<l>Met Godt, en onder Godt, zal Adam triomfeeren,</l>
+<l>En heerschen, in zijn bloet en afkomst, onbepaelt.</l>
+<l>De Zon der Geesten is te plotseling gedaelt.</l>
+<l>Och lotgenooten, volght ons droefheit, en misbaeren.</l>
+<l>Helaes, helaes, helaes, waer is ons heil gevaeren!</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l>Ontsteltghe u om den last van Godt en Gabriël?</l>
+<l>Dit schijnt een razerny. wie durf het hoogh bevel</l>
+<l>Berispen? wie verwaent de Godtheit wederstreven?</l>
+<l>Wy zijn gehouden Godt zijn Recht en eer te geven,</l>
+<l>Te rusten in zijn wet. wie treet hier in geschil</l>
+<l>Met Godts almogentheit? zijn wenck, en woort, en wil</l>
+<l>Verstrecke ons eene wet, en maet, en vaste regel.</l>
+<l>Wie tegenspreeckt, die breeckt des Alderhooghsten zegel.</l>
+<l>Gehoorzaemheit behaeght den Heerscher in dit Rijck</l>
+<l>Veel meer dan wieroockgeur, en goddelijck muzijck.</l>
+<pb n="28"/>
+<l>Ghy zijt [och, weest zoo trots en hoogh niet in uw wapen,]</l>
+<l>Tot onderdaenigheit, tot heerschen min, geschapen.</l>
+<l>Och medebroeders, staeckt dit kermen, en geklagh,</l>
+<l>En buight u onder 't juck van 't eenigh hooftgezagh.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Zeght liever, onder 't juck van grimmelende mieren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l>Wanneer het hem behaegh' moet ghy u laeten stieren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Wat hebben wy verbeurt? geeft reden, en bescheit.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l>Verbeurt? ghy quest Godts kroon door ongeduldigheit.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Wy klaegen van verdriet, en enckel ongenoegen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l>In ste van uwen wil gerust naer Godt te voegen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui</hi></speaker>
+<l>Wy steunen op het Recht, ons wettigh toegestaen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l>Uw Recht en hantvest blijf de Godtheit onderdaen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Hoe kan de meerder voor een minder zich verneêren?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l>Die zich gelaeten stelt. Godt dienen is regeeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Gewilligh, zoo de mensch regeere daer beneên.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l>De mensch leeft met zijn lot vernoeght, al is het kleen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Den mensch is boven dat een hooger lot beschoren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l>Na menige eeuwen wort zijn opgang eerst geboren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Een eeuw beneden is om hoogh een oogenblick.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l>Het ga zoo 't wil, zoo 't moet, zoo d'Oppermaght dit schick'.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Men had ons nutter dees geheimenis gezwegen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l>De Godtheit openbaert haer hart, tot u genegen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui</hi></speaker>
+<l>Noch milder tot den mensch: zy zet hem boven aen:</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l>Verknocht met Godts natuur, een wonderlijck bestaen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Och Engelsdom, wou Godt zich paeren met uw wezen!</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l>Wat Godt behaegt, en schickt, dat wort met recht geprezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Hoe heeft hy 's menschen peil alree zoo hoogh gemerckt!</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l>Het is al wel, al goedt, wat Godt bepaelt, en werckt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Hoe wil de mensch de kroon der Engelen verdooven!</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l>Alle Englen zullen Godt in 't lichaem zien, en loven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Zy zullen slijck en stof aenbidden in het stof?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l>Bewieroocken Godts naem, met geur, en prijs, en lof.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Den mensch bewieroocken, van hooger hant gedwongen?</l>
+</sp>
+<pb n="29"/>
+<sp>
+<speaker><hi rend="i">Apollion. Belial. Rey.</hi></speaker>
+<l>ZY mompelen alree? ghy hoort een strijt van tongen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Beli.</hi></speaker>
+<l>Wat schaeren treuren hier gedompelt in den rou,</l>
+<l>De sluiers om de borst, en lenden? niemant zou</l>
+<l>Begrijpen dat men dus, in 't midden van de Geesten,</l>
+<l>Op 't eeuwige bancket, en d'endelooze feesten,</l>
+<l>Kon treuren, zaegh men niet dit jammerlijck getal</l>
+<l>Verslensen van verdriet. wat ramp, wat ongeval</l>
+<l>Ontsteltze? Broeders, hoe? wat 's d'oirzaeck van dit kermen?</l>
+<l>Beledight iemant u? men zal uw Recht beschermen.</l>
+<l>Wat deert de Broeders? spreeckt: laet hooren wat u deert.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l>Zy klaegen dat de staet der menschen triomfeert,</l>
+<l>Door Gabriëls bazuin, en opstyght boven d'Engelen;</l>
+<l>Dat Godt zijn wezen wil met Adams wezen strengelen;</l>
+<l>De Geesten onderworpt het menschelijck gebiet.</l>
+<l>Daer hoort ghy kort en klaer den gront van hun verdriet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>Zoo groot een ongelijck valt lastigh te gedoogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Beli.</hi></speaker>
+<l>Het overtreft by-kans ons krachten, en vermogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l rend="; 1tab">Wy bidden dat ghy toch dien twist met ons beslecht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>Wat raet? hoe paeit men hen? zy steunen op hun Recht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l>Wat Recht? die wetten geeft vermagh de wet te breecken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>Hoe kan Rechtvaerdigheit een onrecht oordeel spreeckne?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l>Bestraf Godts oordeel eens, en schrijf hem wetten voor.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Beli.</hi></speaker>
+<l>De vader leer' het kint hem volgen op zijn spoor.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l>Zijn spoor te volgen is het zelve als hy te willen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>Verandringh van Godts wil veroirzaeckt dees geschillen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l>Hy zet den eenen van, den andren op den troon.</l>
+<l>De minder waertste wijck' voor eenen waerder zoon.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Beli.</hi></speaker>
+<l>Gelijckheit van gena de Godtheit best zou passen.</l>
+<l>Nu durf de duisternis het hemelsch licht ontwassen.</l>
+<l>De kinders van den nacht braveeren zelfs den dagh.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l>Wat adem haelt, met recht den Schepper dancken magh,</l>
+<pb n="30"/>
+<l>Die elck zijn wezen gaf, en mindre en meerder waerde:</l>
+<l>Wanneer het hem belieft zal 't element der aerde</l>
+<l>Veranderen in lucht, of water, of in vier;</l>
+<l>De hemel zelf in aerde; een Engel in een dier;</l>
+<l>Een mensch in Engleschijn, of onbegrepen wonder.</l>
+<l>Een maght regeert het al, en keert het bovenste onder.</l>
+<l>Wat d'allerminste ontfangt is loutere gena.</l>
+<l>Hier gelt geen willekeur. hier komt vernuft te spa.</l>
+<l>In d' ongelijckheit is Godts heerlijckheit gelegen.</l>
+<l>Zoo zienwe tegens 't lichtste het zwaerste zwaerder weegen.</l>
+<l>Dus steeckt het schooner af op 't schoon; de kleur op kleur;</l>
+<l>De diamantsteen op turkoisblaeu; geur op geur;</l>
+<l>Het stercke op flauwer licht; gestarrent tegens starren.</l>
+<l>Ons schicken is den Staet van dit Heelal verwarren,</l>
+<l>Misschicken al wat Godt geschickt heeft, en beleit;</l>
+<l>En wat het schepsel schickt, dat is wanschapenheit,</l>
+<l>In 't allerminste lidt. men staeck' dit murmureeren.</l>
+<l>De Godtheit kan den Staet van 't Engelsdom ontbeeren.</l>
+<l>Zy is met niemants dienst beholpen eeuwigh rijck,</l>
+<l>En heerelijck, behoeft zy wieroock, noch muzijck,</l>
+<l>Noch geur, haer toegezwaeit, noch lof, haer toegezongen.</l>
+<l>Ondanckbre Geesten, zwijght: betoomt u snoode tongen.</l>
+<l>Ghy weet Godts reden niet: genoeght u met uw lot,</l>
+<l>En onderworpt u Godts en Gabriëls gebodt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>Is dan de Staet en 't lot der Geesten onbestendigh?</l>
+<l>Zoo staenze glibberigh, zoo zijnze alreede ellendigh.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l>Om dat een minder zal regeeren in dit Rijck?</l>
+<l>Wy blijven diewe zijn: geschiet ons ongelijck?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Beli.</hi></speaker>
+<l>Zy zijnde naeste aen Godt, hun' toeverlaet, en vader,</l>
+<l>En lagen hem aen 't hart: nu leit een minder nader.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l>Zich over 's anders heil bedroeven, is gebreck</l>
+<l>Van liefde, en rieckt naer nijt, en hooghmoet. laet dees vleck</l>
+<l>Op Englezuiverheit en louterheit niet kleven.</l>
+<l>Eclkandre, in eendraght, liefde, en trou, voorby te streven,</l>
+<pb n="31"/>
+<l>Behaeght den Vader, die het al in orden schiep.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Beli.</hi></speaker>
+<l>Zy houden d' orden, daer de hemel hen toe riep;</l>
+<l>Maer kunnen traegh verstaen des menschen slaef te worden,</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l>Dat 's ongehoorzaemheit: zoo spattenze uit hun Orden.</l>
+<l>Ghy ziet hoe't hemelsch heir, geharrenast in 't gout,</l>
+<l>En in 't gelidt gestelt, zijn beurt en schiltwacht houdt;</l>
+<l>Hoe deze star gedaelt, en gene, in top daer boven,</l>
+<l>De klaerste een minder klaere in luister kan verdooven;</l>
+<l>Hoe d'eene een kleiner ronde, en d'andre een grooter schrijft,</l>
+<l>De laeghste hemel snelst, de hooghste langsaem drijft;</l>
+<l>En evenwel verneemtghe, in deze oneffenheden</l>
+<l>Van ampten licht en kreits en stant en trant en treden,</l>
+<l>Geen tweedraght, nijt, noch strijt: des Albestierders stem</l>
+<l>Geleit dit maetgezang, dat luistert scherp naer hem.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Beli.</hi></speaker>
+<l rend="; 1tab">'t Gestarnte blijft in staet, daer Godt het in wou scheppen.</l>
+<l>Behaeghde 't hem den Staet der Englen niet te reppen,</l>
+<l>Zy weecken geen gestarnte, in eendraght, noch in pais,</l>
+<l>Noch steurden met geklagh de rust van dit palais.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l>Zie toe, en wacht u wel deze ongenoeght te stijven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>Wy wenschen dat dees lucht en wolck magh overdrijven,</l>
+<l>Eerze uitberste, en 't gewest des hemels zette in vier.</l>
+<l>Zy groeien in getal. wie stiltze? wie komt hier?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luiciferisten. Belzebub. Rey.</hi></speaker>
+<l>HElaes, helaes, helaes, waer is ons heil gevaeren?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>'t Gaet wel, wy groeien aen: onze Engelen vergaeren,</l>
+<l>En steecken, vol misbaer, de hoofden vast by een.</l>
+<l>Wat port u Engleburgh met kermen en gesteen</l>
+<l>T'ontrusten? kan de bloem der zaligheit verslensen?</l>
+<l>Gerust bezitten al wat eenigh Geest kan wenschen</l>
+<l>Van Godt, den zegenaêr, vernoeght u dat noch niet?</l>
+<l>Zoo staetghe u zelfs in 't licht, en koestert een verdriet,</l>
+<l>Waer van ick d' oirzaeck noch beseffen kan, noch raeden.</l>
+<l>Houdt op van kermen: scheurt velttekens, en gewaeden</l>
+<pb n="32"/>
+<l>Niet langer, zonder reên, maer heldert uw gezicht,</l>
+<l>En voorhooft met een' strael, ô kinders van het licht!</l>
+<l>De schelle keelen, die met zangh de Godtheit dancken,</l>
+<l>Dien om, en belgen 't zich, om dat ghy valsche klancken</l>
+<l>En basterttoonen mengt, in 't goddelijck muzijck.</l>
+<l>Uw bittre weeklaght steurt de maet van 't hemelrijck.</l>
+<l>'t Gewellef huilt u na. den rougalm in den hoogen</l>
+<l>Gesteegen, rolt al voort, van d'eene in d'andre boogen:</l>
+<l>En zonder misdaet wort, door zulck een ongeluit,</l>
+<l>De wasdom van Godts naem en glori niet gestuit.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Heer Overste, op wiens wenck ontelbre keurebenden</l>
+<l>Zich wapenen, ghy komt van pas om onze elenden</l>
+<l>Te zalven, en den smaet en onverdienden hoon</l>
+<l>Te schutten door uw maght. zal Gabriël de kroon</l>
+<l>Der heilige Engelen op 't hooft van Adam zetten,</l>
+<l>Door Adams erfgenaem Godts eerstelingen pletten?</l>
+<l>Wy waren nutter niet geschapen, eer de zon</l>
+<l>Te wagen steegh, en licht den hemel geven kon.</l>
+<l>De Godtheit koos vergeefs de Geesten tot trouwanten</l>
+<l>Van 't onbeweeghbre hof, indienze zich wou kanten,</l>
+<l>En spitsen tegens 't Recht der geesten, zonder schult</l>
+<l>Tot wederstant geterght, uit noot, en ongedult.</l>
+<l>Wy juichten, in den lof der Godtheit opgetoogen,</l>
+<l>Aenbaden, wieroockten met schaelen, neighden, boogen</l>
+<l>Onze aengezichten neêr. de hemel gaf gehoor,</l>
+<l>Verslingert op den dans des galms, van koor in koor,</l>
+<l>Ja smolt van volle vreught op tongmuzijck, en harpen;</l>
+<l>Toen Gabriëls bazuin zich plotselingh quam werpen</l>
+<l>Met dezen donderslagh in 't midden van Godts eer:</l>
+<l>Daer lagen wy verbaest, verstroit, verdruckt ter neêr.</l>
+<l>De blyschap gaf den geest. de zwangre keelen zweegen.</l>
+<l>De jonghst geboren streeck de kroon, den staf, den zegen;</l>
+<l>En d'outste zoon, onterft by d'Oppermajesteit,</l>
+<l>Gemerckt bleef voor een' slaef. dat valt gehoorzaemheit,</l>
+<pb n="33"/>
+<l>Godtvruchtigheit, en liefde, en trouwe, uit Godts trezooren,</l>
+<l>Ten deele, dompelt haer in rouwe, ontvonckt den toren,</l>
+<l>En wraeckzucht, om den mensch, uit een' gerechten haet,</l>
+<l>Te smooren in zijn bloet, eer hy der Englen Staet</l>
+<l>Verplette, en zy geboeit, als snoode en arme slaven,</l>
+<l>Gedwongen worden naer zijn zweep en wil te draven;</l>
+<l>Gelijck hy daer beneên de dieren houdt in dwang.</l>
+<l>Heer Overste, ghy kunt der Geesten ondergang</l>
+<l>Verhinderen, en by hun hantvest hen bewaren:</l>
+<l>Beschutze door uw maght: wy staen gereet uw scharen,</l>
+<l>Uw' standert, en uw heir te volgen: treck maer aen.</l>
+<l>'t Is eerlijck voor zijn eere, en kroone, en Recht te staen,</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>My deert uw ongelijck. ô Koning aller Heeren,</l>
+<l>Verhoe dit liever. geef geen stof tot muiteneeren,</l>
+<l>Noch tweedraght. geef geen stof tot wederspannigheit.</l>
+<l>Wat raet? hoe stil ick u, en d'Oppermajesteit?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Zy quetst het heiligh Recht, aen d'Engelen geschoncken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>Het Recht te quetsen kan den onderzaet ontvoncken,</l>
+<l>Een vier ontsteken, daer de lucht afbranden zou.</l>
+<l>O averechtsen loon van onbevleckte trou!</l>
+<l>Hoe zullen wy ons best in dees vertwijfling draegen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Men trooste zich een kans, een' stouten sprong, te waegen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>Waer toe zich zelfs gewaeght? men ga een' zachter gangk.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Hier gelt alleen gewelt, en kracht, en wraeck, en dwangk.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>Men kon, waer 't mogelijck, een veilig middel kiezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Met uit stel zal men hier niet winnen, maer verliezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>Men geef zijn ongelijck met reden te verstaen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>De reden heeft hier uit: men zet ons onder aen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bel.</hi></speaker>
+<l>Met smeken moght ghy best en eerst uw' wensch verwerven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Het stuck ontdecken, is den handel gladt bederven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>Men kan dien aenslagh naeu ontveinzen voor het licht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Wy groeien maghtigh aen, en staen in evenwight.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>De kans begunstight hun, die met Gods Veltheer vechten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Hier is met sufferye en schrick niet uit te rechten.</l>
+</sp>
+<pb n="34"/>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>Wat zeit Apollion hier toe, en Belial?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Zy trouwen onze zijde, en stercken het ghetal.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>Hoe heeft men dit verhaest? het is nu ver gekomen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>De hemel vloeit ons toe van zelf met volle stroomen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>Betrout u op geen heir, vol lichte weifelaers.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Wy zien alree meer kans, en voordeel, min gevaers.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>Wie reuckeloos begint, beroem' zich van geen voordeel.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Aen d'uitkomst hangt het al, voor d'uitkomst dwaelt het oordeel.</l>
+<l>Dit gansche leger eischt u tot een opperhooft,</l>
+<l>En leitsman op dien toght.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>maer wie is zoo berooft</l>
+<l>Van zinnen, dat hy uw gerechtigheit verdadigh',</l>
+<l>En 's hemels heirkracht terge? ay, weest u zelfs genadigh.</l>
+<l>Verschoonme van dien last: ick kieze geene zy.</l>
+<l>Men legge met verdragh deze ongelijckheit by.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l>Gebroeders, geeft gehoor. houdt boven aen met smeecken</l>
+<l>By Godt, door middelaers: men wint met tusschenspreecken</l>
+<l>Gemackelijcker velt dan door dien steilen wegh</l>
+<l>Van oproer. handelt koel met raet, en overlegh.</l>
+<l>Wy willen te gelijck uw Recht om hoogh verweeren.</l>
+<l>Bedaert: ghy quetst de kroon van Godt, den Heer der Heeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>En ghy ons wettigheit: verstout u hooger niet.</l>
+<l>Heer Belzebub, aenvaert dit wettige gebiet,</l>
+<l>En zet de hairen schrap: wy volgen u te gader.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>O yveraers, bedenckt, bedenckt u liever nader.</l>
+<l>Ick wil u voortreên naer den troon van 't groot palais,</l>
+<l>En ons gerechtigheit bemiddelen door pais,</l>
+<l>En onderling verdragh, gewilligh, onbedwongen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey</hi></speaker>
+<l>Houdt stil: houdt stil: ghy wort van Michaël besprongen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Michaël. Belzebub. Luiciferisten.</hi></speaker>
+<l>WAer zijnwe? wat gedruis verneemt men hier alree?</l>
+<l>Dit schijnt een hof van twist en oproer, niet van vreê,</l>
+<l>Gehooorzaemheit, en trou. Prins Belzebub, wat reden</l>
+<l>Beweeght u, als een hooft van wederspannigheden,</l>
+<pb n="35"/>
+<l>Dien oploop, zwanger van een goddeloos verraet,</l>
+<l>Te styven tegens Godt, ons aller toeverlaet?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>Genade, ô Michaël, gewaerdigh ons te hooren,</l>
+<l>Eer ghy een vonnis velt, uit yverigen tooren,</l>
+<l>Ter eere van Godts Naem. belast ons met geen schult.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>Ick zal uw onschult dan aenhooren met gedult.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>De t'zamenrotting van zoo menigh duizent troepen,</l>
+<l>Gesteurt om 't hooghgebodt, ten rijxtroon uitgeroepen,</l>
+<l>Op Gabriëls bazuin, vereischte een tusschenspraeck,</l>
+<l>Tot slissing van dien brant; waerom ick van hun zaeck</l>
+<l>En klaghten kennis koom te nemen., om het muiten,</l>
+<l>By alle middelen en mooghlijckheên, te stuiten:</l>
+<l>Zy vaeren echter voort, al razende en ontzint</l>
+<l>Aen 't hollen, buiten spoor, en dringen 't klaghtbewint</l>
+<l>Met kraght ons op den hals. ick poogh de maght te scheien,</l>
+<l>[Laet tuigen van mijn trou dees Godtgetrouwe Reien,]</l>
+<l>Te raeden hunne klaght te storten voor Godts stoel;</l>
+<l>Maer yvre vruchteloos, in 't midden van 't gewoel,</l>
+<l>En oproer, als een zee ten hemel toe verbolgen.</l>
+<l>De Veltheer tre nu voor: wy staen gereet te volgen,</l>
+<l>Indien hy middel ziet tot slechting van 't geschil.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>Wie durf zich tegens Godt en zijnen heilgen wil</l>
+<l>Verzetten? wie dus stout den oorloghsstandert planten,</l>
+<l>In 't koningkrijck van pais? indienghe door gezanten</l>
+<l>Wilt handelen om hoogh, tot voorstant van uw lot;</l>
+<l>Wy willen uwen zoen bemiddelen by Godt,</l>
+<l>Of anders wacht uw hooft: dit zal u niet gelucken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Zoudt ghy met wapenen ons heiligh Recht verdrucken?</l>
+<l>Zy zijn den Veltheer niet tot zulck een eindt betrout.</l>
+<l>Wy steunen op ons Recht: Rechtvaerdigheit is stout.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>D'inspanner tegens Godt is allerminst rechtvaerdigh.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Wy dienen Godt: hy kenne ons tot zijn diensten waerdigh.</l>
+<l>De hemel blijve maer in zijnen eersten stant.</l>
+<l>Men stell' geene amptenaers van 't hemelsch Vaderlant</l>
+<pb n="36"/>
+<l>Beneden 't aertsch geslacht: dat staet de Hierarchyen,</l>
+<l>De Troonen, Maghten, hooge en lage Heerschappyen</l>
+<l>Der Geesten, Englen, en Aertsenglen nimmermeer</l>
+<l>Te lijden: neen geensins; al zoude uw blixemspeer</l>
+<l>Doorstooten borst aen borst, en d'allertrouste harten:</l>
+<l>Wy laten ons geensins van Adams afkomst tarten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>Ick wil dat elck vertrecke, op 't wencken met mijn hant.</l>
+<l>Hy kant zich tegens Godt, en Godtheit, wie zich kant</l>
+<l>Meineedigh tegens ons. vertreckt naer uwe vaenen.</l>
+<l>Dat past soldaten, en gehoorzaeme onderdaenen</l>
+<l>Des hemels. wat gewelt, wat moetwil drijft men hier!</l>
+<l>Wie anders oorelooght dan onder mijn banier,</l>
+<l>Beoorlooght Godt, en is een vyant van zijn Rijcken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Wie op zijn Recht staet, hoeft voor geen gewelt te wijcken.</l>
+<l>Natuurelijck is elck beschermer van zijn Recht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>'k Gebiede u datghe flux de wapens nederleght.</l>
+<l>Door t'zamenrotten wort uw eer' en eedt geschonden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Natuur heeft d'Engelen door eenen bant verbonden</l>
+<l>Elckandre by te staen: oock wort niet een alleen</l>
+<l>Geraeckt in dit geschil, maer 't raeckt ons in 't gemeen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>Zoudt ghy met wapenen den hemel dan beroeren?</l>
+<l>Die zijn u niet betrout om tegens Godt te voeren.</l>
+<l>Misbruicktge uw maght, zo vreest des Allerhooghsten maght.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>De Stedehouder wort alle oogenblick verwacht.</l>
+<l>Hy is in aller yl gedaghvaert, en ontboden.</l>
+<l>Wy willen al op een, en Goden tegens Goden</l>
+<l>Opzetten, liever dan van ons gerechtigheit</l>
+<l>Aftreden door gewelt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>zoo groot een onbescheit</l>
+<l>Verwacht ick nimmermeer van 's hemels Stedehouder.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Het zweemt naer onbescheit een' eersteling, een ouder</l>
+<l>Te stellen onder 't juck des jongsten, als een' knecht.</l>
+<l>Dat d'Engel de natuur der Engelen bevecht,</l>
+<l>En tegens zijnsgelijck, in staet, en aert, en wezen,</l>
+<l>De wapens voere, wort met onbescheit geprezen.</l>
+</sp>
+<pb n="37"/>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>Hardneckige aert, ghy zijt geen zoonen meer van 't licht,</l>
+<l>Maer eer een bastertslagh, dat voor geen Godtheit zwicht.</l>
+<l>Ghy terght den blixemstrael, en onverzoenbren toren:</l>
+<l>Volhartghe, wat een ramp en val is u beschoren!</l>
+<l>Ghy luistert naer geen' raet, noch onderwijs: laet zien</l>
+<l>Wat d'Allerhooghste stem ons boven zal gebiên.</l>
+<l>Wel aen, ick wil dat zich d' oprechte en vroome Reien</l>
+<l>En schaeren daetlijck van rebelle rotten scheien.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Laet scheiden al wat wil: wy houden ons by een.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>Getrouwe Reien, volght Gods Veltheer.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>trekt vry heen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belzebub. Lucifer. Luiciferisten.</hi></speaker>
+<l>DE Veltheer vaert naer Godt, om over u te klaegen</l>
+<l>Schept moedt: Vorst Lucifer, gesteegen op zijn' wagen,</l>
+<l>Wort herwaert aengevoert. ghy moet u kort beraên.</l>
+<l>Een heirkracht, zonder hooft, kan nimmermeer bestaen.</l>
+<l>Wat my belangt, die last valt my te zwaer te tillen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>De gansche hemel waeght en dreunt van uw geschillen.</l>
+<l>De keurebenden staen gereten en gedeelt,</l>
+<l>Het oproer slaet al voort. de hooge noot beveelt</l>
+<l>Hierinne te voorzien, en onheil voor te komen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Heer Stedehouder, wijck en toevlucht aller vroomen,</l>
+<l>Wy hoopen nimmermeer dat ghy, als Michaël,</l>
+<l>Den hals van 't Engelsdom tot eene voetschabel</l>
+<l>Van Adams afkomst zult verworpen, en verdoemen,</l>
+<l>En zulck een' smaet en hoon vergulden, en verbloemen</l>
+<l>Met schijn van billijckheit, en stijven door u maght</l>
+<l>Den opgang van den mensch, een grof een aertsch geslacht.</l>
+<l>Wat wier ook schenkt hy toch den schaers van hem gezienen?</l>
+<l>Waerom belast men ons een' snooden worm te dienen,</l>
+<l>Te draegen op de hant, te luistren naer zijn stem?</l>
+<l>Schiep Godt de hemelen en Englen slechts om hem;</l>
+<l>Wy waren nutter noit geschapen, noch geworden.</l>
+<l>Ontfarm u, Lucifer. gedoogh niet dat onze Orden</l>
+<pb n="38"/>
+<l>Zoo laegh vernedert werde, en zonder schult verzinck',</l>
+<l>De mensch, gelijck een hooft der Englen, straele, en blinck',</l>
+<l>In 't ongenaeckbre licht, waer voor de Serafijnen,</l>
+<l>Al bevende van angst, als schaduwen, verdwijnen.</l>
+<l>Indien ghy u verneert zoo groot een ongelijck,</l>
+<l>Tot voorstant van ons recht, te slechten in dit Rijck;</l>
+<l>Wy zweeren uwen arm eendraghtigh t'onderstutten.</l>
+<l>Aenvaert dees heirbyl: help, och help ons Recht beschutten.</l>
+<l>Wy zweeren u met kracht, in volle majesteit,</l>
+<l>Te zetten op den troon, aen Adam toegeleit.</l>
+<l>Wy zweeren uwen arm eendraghtigh t' onderstutten.</l>
+<l>Aenvaert dees heirbijl: help, och help ons Recht beschutten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Mijn zoonen, op wier trou geen vleck van ontrou hecht,</l>
+<l>Al wat de Godtheit wil, en van ons eischt is recht.</l>
+<l>Ick ken geen ander Recht; en stutte, als Stedehouder</l>
+<l>Der Godtheit, zijn besluit en raetslot met mijn schouder.</l>
+<l>Den scepter, dien ick voer, ontfingh mijn rechte hant</l>
+<l>Van zijn Almogentheit, als een genadepant</l>
+<l>En teken van Godts gunst en liefde tot ons allen.</l>
+<l>Is nu zijn hart en zin op Adam juist gevallen,</l>
+<l>En lust het hem den mensch, in volle heerschappy,</l>
+<l>Te zetten boven aen, en, boven u en my,</l>
+<l>Te kroonen, schoonwe noit in onzen plicht bezweecken;</l>
+<l>Wat raet hier toe? wie wil dat raetslot tegenspreecken?</l>
+<l>Indien hy Adam noch een zelve heerlijckheit,</l>
+<l>En d'Engelsche natuur gelijck, hadt toegeleit,</l>
+<l>Dat waer verdraeghelijck voor alle hemeltelgen,</l>
+<l>Gesprooten uit Godts stam: nu moghten zy 't zich belgen,</l>
+<l>Zoo belghzucht geene vleck om hoogh gerekent waer.</l>
+<l>Maer hoe men 't vat, dit loopt van wederzy gevaer,</l>
+<l>Het zy men zwichte uit schroomte, of moedigh wederstreve.</l>
+<l>Ick wensche dat hy u dees belleghzucht vergeve.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Heer Stedehouder, ay, aenvaert dien heirstaf toch,</l>
+<l>En hanthaef 't heiligh Recht: wy volgen in uw zogh.</l>
+<pb n="39"/>
+<l>Wy volgen, streef vooruit op uw gezwinde veeren.</l>
+<l>Wy willen sneuvlen, of zeeghaftigh triomfeeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Dit strijt met onzen eedt, en Gabriëls gebodt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Dat strijt met Godt, en zet het Menschdom boven Godt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Laet Godt zijn eer, en stoel, en majesteit bewaeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Bewaer uw' eigen stoel: wy willen, als pylaeren,</l>
+<l>U stutten, en den staet der Engelen met een.</l>
+<l>Geen mensch zal onze kroon, Godts kroon, met voeten treên.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>De Veltheer Michaël, gewapent onder 't zegenen</l>
+<l>Van boven, wil ons flux met al zijn heir bejegenen.</l>
+<l>Zijn heirkracht by uw maght, wat is 't een groot verscheel!</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Is 't geene helft, ghy sleipt een' staert van 't derde deel</l>
+<l>Der Geesten mede, indienghe u geeft op onze zijde.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Dan is de kans gewaeght, ons gunst verloren by de</l>
+<l>Verdruckers van uw Recht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>de moedt, de dapperheit,</l>
+<l>De hoon, de smaet, de spijt, de wanhoop, het beleit,</l>
+<l>De wraeck, het ongelijck, niet anders te beslechten,</l>
+<l>En wat hier aenhangt, zal ons stijven, onder 't vechten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>Wy hebben 't heiligh Rijck alleen in onze maght.</l>
+<l>Wat raetslot men besluit', de wapens geven 't kracht,</l>
+<l>En nadruck. zoo wy slechts ons in slaghorden stellen;</l>
+<l>Wat nu noch weifelt stracx op onze zy zal hellen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Ick troostme dan gewelt te keeren met gewelt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>Zoo stijgh de trappen op, ô allerbraefste Helt.</l>
+<l>Heer Stedehouder, stijgh dien troon op, datwe u zweeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Vorst Belzebub, getuigh, en ghy doorluchtste Herren,</l>
+<l>Apollion, getuigh, getuigh, Vorst Belial,</l>
+<l>Dat ick, uit noot en dwang, dien last aenvaerden zal,</l>
+<l>Tot voorstant van Godts Rijck, om ons bederf te keeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>Nu brengt den standert voort, dat wy den stander zweeren,</l>
+<l>Getrouwigheit aen Godt, en onze Morgenstar.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Wy zweeren te gelijck by Godt, en Lucifer.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>Nu brengt het wieroockvat, ghy Godtgetrouwe schaeren:</l>
+<l>Bewieroockt Lucifer met wieroockkandelaeren,</l>
+<pb n="40"/>
+<l>En schaelen, rijck van geur. verheerlijckt hem met licht,</l>
+<l>En glans van fackelen. verheft hem met gedicht,</l>
+<l>Gezangen, en muzijck, bazuinen, en schalmeien.</l>
+<l>Het voeght ons, hem aldus met staetsi te geleien.</l>
+<l>Heft op een' heldren toon,</l>
+<l>Ter eere van zijn kroon.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l rend="; 2tab">Op, treckt op, ô ghy Luiciferisten,</l>
+<l rend="; 3tab">Volght dees vaen.</l>
+<l rend="; 1tab">Ruckt te hoop al uw krachten, en listen.</l>
+<l rend="; 3tab">Treckt vry aen:</l>
+<l rend="; 1tab">Volght dezen Godt, op zijn trommel, en trant.</l>
+<l rend="; 3tab">Beschermt uw Recht, en Vaderlant.</l>
+<l rend="; 1tab">Helpt hem Michaëls heirkrachten stuiten.</l>
+<l rend="; 3tab">Houdt nu moedt.</l>
+<l rend="; 1tab">Helpt den hemel voor Adam nu sluiten,</l>
+<l rend="; 3tab">En zijn bloet.</l>
+<l rend="; 1tab">Volght dezen Helt, op zijn bazuin, en trom.</l>
+<l rend="; 3tab">Beschut de kroon van 't Engelsdom.</l>
+<l rend="; 1tab">Ziet, ay ziet nu de Morgenstar blincken.</l>
+<l rend="; 3tab">Voor die pracht</l>
+<l rend="; 1tab">Zal des vyants banier haest verzincken,</l>
+<l rend="; 3tab">In den nacht;</l>
+<l rend="; 1tab">Wy met triomf kroonen Godt Lucifer.</l>
+<l rend="; 3tab">Bewier oockt hem: aenbidt zijn Star.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey van Engelen.</hi></speaker>
+<lg type="poem">
+<head><hi rend="i">Zangk.</hi></head>
+<l>WAer zijnwe toe gekomen,</l>
+<l rend="; 1tab">Dat 's hemels burgertwist</l>
+<l rend="; 1tab">De regementen splist,</l>
+<l>En 't zwaert is opgenomen,</l>
+<l rend="; 1tab">Te zinneloos en blint?</l>
+<l>Wie 'er van ons benden,</l>
+<l rend="; 1tab">Hy sneuvelt, of verwint,</l>
+<l>Geluckigh? die d'elenden</l>
+<pb n="41"/>
+<l rend="; 1tab">Van hunne broedren zien,</l>
+<l>En Rijk en Reigenooten?</l>
+<l rend="; 1tab">Of die verwonnen vliên,</l>
+<l>In ballinghschap gestooten?</l>
+<l rend="; 1tab">O zoons van eenen Godt,</l>
+<l rend="; 1tab">Waer toe verdwaelt u lot?</l>
+</lg>
+<lg type="poem">
+<head><hi rend="i">Tegenzang.</hi></head>
+<l>Helaes! waer toe verdwaelen</l>
+<l rend="; 1tab">De Geesten? wat verleit</l>
+<l rend="; 1tab">Hen uit de zekerheit</l>
+<l>Van hunnen Staet en paelen</l>
+<l rend="; 1tab">Te spatten, zonder noot?</l>
+<l>Zich op het spits te waegen?</l>
+<l rend="; 1tab">Ons weelde was te groot,</l>
+<l>Te dertel om te draegen;</l>
+<l rend="; 1tab">De hemel niet genoegh</l>
+<l>Om Engelen te paejen:</l>
+<l rend="; 1tab">De Nijdigheit most vroegh</l>
+<l>Dit zaet van oorlogh zaejen,</l>
+<l rend="; 1tab">In 't vreedzaem Vaderlant.</l>
+<l rend="; 1tab">Wie leit dien twist aen bant?</l>
+</lg>
+<lg type="poem">
+<head><hi rend="i">Toezang.</hi></head>
+<l>Is dit krijghsvier niet te smooren,</l>
+<l rend="; 1tab">Door een maght van hooger hant,</l>
+<l rend="; 1tab">Wat wil blijven in zijn' stant?</l>
+<l>Staetzucht zal alle Orden stooren:</l>
+<l rend="; 1tab">Hemel, aerde, zee, en strant</l>
+<l rend="; 1tab">Zullen staen in lichten brant.</l>
+<l>Staetzucht, eens door triomfeeren</l>
+<l rend="; 1tab">Als gewettight, zal verwoet</l>
+<l>Godt en alle maght braveeren.</l>
+<l rend="; 1tab">Staetzucht kent noch Godt, noch bloet.</l>
+</lg>
+</sp>
+</div>
+<div type="act">
+<pb n="42"/>
+<head rend="h3">Het vierde bedryf.</head>
+<sp>
+<speaker><hi rend="i">Gabriël. Michaël.</hi></speaker>
+<l>DE gansche hemel gloeit, in eenen lichten brant</l>
+<l>Van oproer en verraet. 'k verdaegh u, als Gezant</l>
+<l>Van Godt en zijnen stoel, nu daetlijck op te trecken,</l>
+<l>Met eenen gloet van vier en yver deze vlecken</l>
+<l>Te branden uit Godts naem, en 't zuiver Hemelsdom.</l>
+<l>Vorst Lucifer braveert: hy roert trompet, en trom.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>Is Lucifer, helaes, in zijne trou verandert?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gab.</hi></speaker>
+<l>Des hemels derde deel heeft reede zijnen standert,</l>
+<l>Die valsche Morgenstar, gezworen, zijnen troon</l>
+<l>Bewieroockt, als een' Godt, en met een' lastertoon</l>
+<l>Van goddeloos muzijck hem eere toegezongen.</l>
+<l>Zy komen herwaert aen in volle kracht gedrongen,</l>
+<l>En dreigen schrickelijck de poort van 't wapenhuis</l>
+<l>Te rammen met gewelt. een woest een wilt gedruis</l>
+<l>Van onweêr buldert vast, van boven, en van onder.</l>
+<l>Het weêrlicht, stormt, en raest. de blixem, en de donder</l>
+<l>In arbeit, schudden vast de pijlers van ons hof.</l>
+<l>Men hoort geen Serafijns, noch wedergalm van lof.</l>
+<l>Een ieder zit in druck gedompelt over d'ooren.</l>
+<l>Dan zwijgen plotseling, dan huilen al de kooren</l>
+<l>Der Engelen, van druck, en medelijden, om</l>
+<l>Den blinden afval van 't gezalight Engelsdom,</l>
+<l>En d'Engelsche natuur. 't is meer dan tijt om heden</l>
+<l>Te quijten uwen plicht, en op uw heilige eeden,</l>
+<l>[Die ghy, als Veltheer, op het punt des blixems zwoert,</l>
+<l>By Godt en zijnen naem,] te passen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>wat vervoert</l>
+<l>Godts Stedehouder dus zich tegens Godt te kanten,</l>
+<l>Als een verwaeten hooft van dolle vloeckverwanten?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gab.</hi></speaker>
+<l rend="; 1tab">De hemel weet hoe noode ick Godts gerechte zaeck</l>
+<l>Verdadige, op dees wijs. hoe bitter wil de wraeck</l>
+<pb n="43"/>
+<l>Hem treffen! want men weet geen middelen te vinden,</l>
+<l>Om dit verdoolt geslacht rampzaligen en blinden</l>
+<l>Te leiden op de baen, de heirbaen van hun trou.</l>
+<l>Ick zagh Godts blyschap zelf zich met een wolck van rou</l>
+<l>Beschaduwen; in 't endt de wraeck een vlam ontsteecken</l>
+<l>In d'oogen van het licht; eer, om dien slagh te breecken,</l>
+<l>Het last gaf tot den toght. ick hoorde een wijl het pleit,</l>
+<l>Hoe d'opperste Genade, en Godts Gerechtigheit</l>
+<l>Elckandre in wederwight, met pit van reden, hielen.</l>
+<l>Ick zagh de Cherubijns, hoeze op hun aenzicht vielen,</l>
+<l>En riepen vast: gena, gena, ô Heer, geen Recht.</l>
+<l>Men had dit zwaer geschil gezoent, en schier geslecht;</l>
+<l>Zoo scheen de Godtheit tot genade en zoen genegen:</l>
+<l>Maer als de wieroockstanck in top komt opgesteegen,</l>
+<l>De smoock, die Lucifer om laegh wort toegezwaeit,</l>
+<l>Met wieroockvat, bazuin, en lofgezangen, draeit</l>
+<l>De hemel zijn gezicht van zulcke afgoderyen,</l>
+<l>Gevloeckt van Godt, en Geest, en alle Hierarchyen.</l>
+<l>Gena had uitgedient. waeck op, in 't harrenas.</l>
+<l>De Godtheit daghvaert u, eer 't oproer ons verrass'.</l>
+<l>Betem met uwen arm de woeste Behemotten,</l>
+<l>En Leviathans, die dus godtloos t'zamenrotten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>Uriël, schiltknaep flux, men breng' den blixem hier,</l>
+<l>Mijn harnas, helm, en schilt. breng herwaert Godts banier.</l>
+<l>Men blaze de bazuin. te wapen, flux te wapen.</l>
+<l>Ghy Maghten, Troonen, wat getrou is, en rechtschapen,</l>
+<l>Dat wapen' zich met ons. ghy regementen voort,</l>
+<l>Een ieder in 't gelidt: de hemel geeft het woort.</l>
+<l>Men blaze de bazuin: men sla de holle trommels,</l>
+<l>Verdaghvaerde in der yl ontelbre dicke drommels</l>
+<l>Gewapenden. blaest op: ick schiet de wapens aen.</l>
+<l>Het gelt Godts eer alleen. het moet'er nu op staen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gab.</hi></speaker>
+<l>Dit harnas past zoo braef, alwaer 't u aengeschapen.</l>
+<l>Hier komt de veltbanier, waer in Godts naem en wapen</l>
+<pb n="44"/>
+<l>U toestraelt, en de zon in top u heil belooft.</l>
+<l>Hier komen de Kornels u groeten, als het hooft</l>
+<l>Van 't heir der hemelen, die Godts baniere zwoeren.</l>
+<l>Schep moedt, Vorst Michaël: ghy zult Godts oorlogh voeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>Zoo zal ick. hou mijn woort om hoogh: wy trecken heen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gab.</hi></speaker>
+<l>Wy volgen uwen toght met wenschen, en gebeên.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lucifer. Belzebub. Luiciferisten.</hi></speaker>
+<l>HOe staet het met ons heir? hoe is 't 'er me gelegen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>Het heir verlangt, gereet, om onder uwen zegen,</l>
+<l>Te vliegen regelrecht op 't spits van Michaël.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lui.</hi></speaker>
+<l>Zoo doet het: ieder wachte op Lucifers bevel,</l>
+<l>Om teffens d'armen en hun vleugels eens te reppen,</l>
+<l>Dien grooten vyant lucht en winden t' onderscheppen,</l>
+<l>En, als hy leght in zwijm, te ketenen met kracht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Hoe talrijck is het heir? waer in bestaet ons maght?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>Die groeit alle oogenblick, en bruist uit alle transen</l>
+<l>Ons toe, gelijck een zee van vier en heldre glansen.</l>
+<l>'k Vertrou het derde deel des hemels houdt ons zy,</l>
+<l>Is 't niet de halve streeck: want Michalës gety</l>
+<l>Verloopt alle oogenblick, en ebt aen alle kanten.</l>
+<l>De helleft van de wacht en eerste hoftrouwanten,</l>
+<l>Uit ieder Orden, van een ieder Hierarchy,</l>
+<l>Verzweeren hunnen Heer, Vorst Michaël, als wy.</l>
+<l>Men ziet'er Cherubijns, Aertsenglen, Serafijnen</l>
+<l>De vaenen voeren. zelf het paradijs, aen 't quijnen</l>
+<l>Geslagen van verdriet, verschiet zijn groente, en verf;</l>
+<l>En waer men d'oogen keert, daer schijnt een wis bederf,</l>
+<l>En boven 't hooft een buy en donckre wolck te hangen.</l>
+<l>Dat voorspoock spelt ons heil: men heeft slechts aen te vangen.</l>
+<l>Ghy draeght alree de kroon des hemels op uw kruin.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Die klanck behaeghtme meer dan Gabriëls bazuin.</l>
+<l>Hoort toe, en geeft gehoor, beneden deze trappen.</l>
+<l>Hoort toe, ghy Oversten: hoort toe, ghy Ridderschappen,</l>
+<pb n="45"/>
+<l>En luistert wat wy u vermelden, klaer, en kort.</l>
+<l>Ghy weet hoe verre wy alree zijn uitgestort</l>
+<l>In wraeck zucht tegens 't Hooft der opperste palaizen,</l>
+<l>Dat het een dolheit waere, op hoop van zoen, te deizen;</l>
+<l>En niemant dencken durf deze onuitwischbre smet</l>
+<l>Te zuivren door gena: dies moet de noot een wet,</l>
+<l>Een wisse toevlught van te wancken noch te wijcken</l>
+<l>Verstrecken; ghy, met kracht en zonder om te kijcken,</l>
+<l>Dien standert en mijn star verdadigen, met een</l>
+<l>Den vrygeschapen Staet der Englen in 't gemeen.</l>
+<l>Het ga zoo 't wil: volhardt groothartigh, onverdrietigh:</l>
+<l>Geen almaght heeft de maght dat zy geheel vernietigh'</l>
+<l>Het wezen, dat ghy eens voor eeuwighlijck ontfingt.</l>
+<l>Indienghe fel en fors met uwe heirspits dringt</l>
+<l>In 't hart van 's vyants heir, en komt te triomfeeren,</l>
+<l>Zoo zal de tiranny der hemelen verkeeren</l>
+<l>In eenen vryen Staet, en Adams zoon, en bloet,</l>
+<l>Gekroont in top van eere, en met een' aertschen stoet</l>
+<l>Omcingelt, uwen hals niet boeien aen de keten</l>
+<l>Van slaefsche dienstbaerheit, om hem ten dienst te zweeten,</l>
+<l>En onder 't kooperen juck te hijgen, zonder endt.</l>
+<l>Indienghe my voor 't hooft van uwen vrydom kent,</l>
+<l>Gelijckghe uit eenen mont dien standert hebt gezworen;</l>
+<l>Zoe staeft den eedt noch eens eenstemmigh, dat wy 't hooren,</l>
+<l>En zweert getrouwicheit aen onze morgenstar,</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Wy zweeren te gelijck by Godt, en Lucifer.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Belz.</hi></speaker>
+<l>Maer zie hoe Rafaël, verbaest, en vol medoogen,</l>
+<l>Met zijnen vredetack van boven komt gevloogen,</l>
+<l>Om uwen hals, op hoop van stilstant, en verdragh.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rafaël. Lucifer.</hi></speaker>
+<l>OCh, Stedehouder, mont van 't goddelijck gezagh,</l>
+<l>Wat heeft u buiten 't spoor van uwen plicht gedreven?</l>
+<l>Zoudt ghy den Schepper van uw glori wederstreven?</l>
+<pb n="46"/>
+<l>Lichtvaerdigh weifelen, en wancklen in uw trou?</l>
+<l>Dat hoop ick nimmermeer. helaes, ick zwijm van rou,</l>
+<l>En blijve om uwen hals beklemt, bestorven hangen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Oprechte Rafaël.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Raf.</hi></speaker>
+<l>mijn blyschap, mijn verlangen,</l>
+<l>Ick bidde u hoorme.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>spreeck, zoo lang het u behaegh'.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Raf.</hi></speaker>
+<l>Genade, ô Lucifer. verschoon u zelven: draegh</l>
+<l>Geen harnas tegens my, die treurigh smilte, en quijne</l>
+<l>Van druck, om uwent wil. ick koom, met medecijne</l>
+<l>En balsem van gena, gesteegen uit den schoot</l>
+<l>Der Godtheit, die, gelijckze in haeren Raet besloot,</l>
+<l>U, boven duizenden gekroonde Heerschappyen,</l>
+<l>Gezalft heeft op den stoel van haer stadthouderyen.</l>
+<l>Wat dolheit is het, die uw zinnen dus verruckt?</l>
+<l>Zy had haer zegel en gelijckenis gedruckt</l>
+<l>Op uw geheilight hooft, en voorhooft, overgooten</l>
+<l>Met schoonheit, wijsheit, gunst, en wat'er komt gevlooten,</l>
+<l>En stroomen, zonder maet, uit aller schatten bron.</l>
+<l>Ghy blonckt in 't paradijs, voor 't aenschijn van de zon</l>
+<l>Der Godtheit, uit een wolck van dau en versche roozen.</l>
+<l>Uw feestgewaet stont stijf van perlen, en turkoozen,</l>
+<l>Smaragden, diamant, robijn, en louter gout.</l>
+<l>De zwaerste scepter wert uw rechte hant betrout,</l>
+<l>Zoo dra ghy steeght in 't licht, en, op bazuin en bommen,</l>
+<l>Door 't blakende gesternte en steenen quaemt te brommen:</l>
+<l>En zoudt ghy reuckeloos u storten uit dien troon?</l>
+<l>Verreuckeloozen al dat heerelijck, en schoon?</l>
+<l>Zoudt ghy uw glansen, die de hemelen vercieren,</l>
+<l>Ons licht verduisteren, in eenen knoop van dieren,</l>
+<l>En mengsel van gedierte en ondier onder een,</l>
+<l>Griffoensklaeu, draeckenhooft, an andre gruwzaem heên</l>
+<l>Misscheppen onbedacht? en zouden 's hemels oogen,</l>
+<l>De starren, u zoo laegh berooft zien van vermogen,</l>
+<l>En eere, en majesteit, door 't schenden van uw trou?</l>
+<l>Dat keer' de goede Godt, wiens aenschijn ick aenschou,</l>
+<pb n="47"/>
+<l>In 't zaligh licht, daer wy, geheilight alle zeven,</l>
+<l>Hem dienen voor zijn' troon, en sidderen, en beven</l>
+<l>Voor zulck een Majesteit, die op ons voorhooft straelt,</l>
+<l>Verquickt en leven geeft wat leeft, en adem haelt.</l>
+<l>Heer Stedehouder, magh mijn bede uw hart beweegen;</l>
+<l>Ghy kent mijn zuiver wit, en hart, met u verlegen.</l>
+<l>Ruck af dien trotsen kam: schud uit dit harrenas:</l>
+<l>Smijt neder uit dees hant de heirbijl, de rondas</l>
+<l>Uit d'andre. hooger niet: legh neder, och, legh neder,</l>
+<l>Legh neder, strijck van zelf den standert, en de veder</l>
+<l>Van uwe vleugelen, voor Godt, en zijnen glans;</l>
+<l>Eer hy u uit den troon, den allerhooghsten trans</l>
+<l>Van eere, nederklincke aen gruis, en stof te mortel,</l>
+<l>Ja zulx dat van den stam der Geesten tack, noch wortel,</l>
+<l>Noch geen gedachtenis, noch leven overschiet;</l>
+<l>'t En waere een leven van elende, van verdriet,</l>
+<l>De Doot, de Wanhoop, en een worm, een eeuwigh knaegen,</l>
+<l>En knersetanden moght den naem van leven draegen.</l>
+<l>Verneêr u: staeck dien toght: ick offere u gena</l>
+<l>Met dien olijftack: grijp, of echter 't is te spa.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Heer Rafel, ick verdien noch dreigement, noch toren.</l>
+<l>Mijn helden hebben Gode, en Lucifer gezworen,</l>
+<l>En, onder 's hemels eedt, dien standert opgerecht.</l>
+<l>Men stroie wat men wil den hemel door: ick vecht,</l>
+<l>En oorloge onder Godt, tot voorstant van zijn kooren,</l>
+<l>De hantvest, en het Recht, hun wettigh aengeboren,</l>
+<l>Eer Adam zijne zon zagh opgaen, eer de dagh</l>
+<l>Zijn paradijs bescheen. geen menschelijck gezagh,</l>
+<l>Geen juck van menschen zal den neck der Geesten plaegen;</l>
+<l>Geen Engelsdom den troon van Adam onderschraegen,</l>
+<l>Met zijnen vrijen hals, gelijck een dienstbaer slaef,</l>
+<l>'t En zy de hemel ons in eenen poel begraef',</l>
+<l>Met zoo veel scepteren, en kroonen, glans, en voncken,</l>
+<l>Als ons de Godtheit uit haer' boezem heeft geschoncken,</l>
+<pb n="48"/>
+<l>Voor eeuwigh, en altijt. laet bersten al wat berst:</l>
+<l>Ick hanthaef 't heiligh Recht, door hoogen noot geperst,</l>
+<l>En, na veel wederstants, my entlijck overdrongen,</l>
+<l>Op 't klaegen en gekerm van duizenden van tongen.</l>
+<l>Ga heene, bootschap dit den Vader, onder wien</l>
+<l>Ick dus, voor 't Vaderlant, den standert voere, en dien',</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Raf.</hi></speaker>
+<l>Och Stedehouder, wat verbloemt ghy uw gepeinzen</l>
+<l>Voor 't alziende oog? ghy kunt uw oogmerck niet ontveinzen.</l>
+<l>De strael van zijn gezicht ontdeckt de duisternis,</l>
+<l>De staetzucht, daer uw geest zoo grof van zwanger is,</l>
+<l>En reede in arbeit gaet, om dit gedroght te baeren.</l>
+<l>Waer bergh ick my van schrick! hoe ryzen al mijn haeren!</l>
+<l>Verdwaelde Morgenstar, verschoon u zelve toch.</l>
+<l>Ghy kunt d'Alwetentheit niet paeien met bedrogh.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Wat staetzucht? heeft mijn plicht in eenigh deel ontbroken?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Raf.</hi></speaker>
+<l>Wat hebt ghy in uw harte al heimelijck gesproken?</l>
+<l>Ick wil in 's hemels top, door alle wolcken heen,</l>
+<l>En boven Godts gestarnte opstijgen, van beneên,</l>
+<l>Godt zelf gelijck, geen maght bestraelen met genade,</l>
+<l>'t En zyze aen mijnen stoel het leen verheergewaede:</l>
+<l>Geen majesteit braveer' met schepter, nochte kroon,</l>
+<l>Ten zy ick haer beleene uit mijnen hoogen troon.</l>
+<l>Bedeckt uw aengezicht; valt neder: strijckt uw pennen,</l>
+<l>En wacht u, boven ons, een hooger maght te kennen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Hoe nu toe? ben ick dan Godts Stedehouder niet?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Raf.</hi></speaker>
+<l>Dat zijt ghy, en ontfingt van 't onbepaelt gebiet</l>
+<l>Bepaelde mogentheit, en heerscht uit zijnen naeme.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Helaes, hoe lang? tot dat Vorst Adam ons beschaeme,</l>
+<l>En, boven de natuur der Engelen, zijn lot</l>
+<l>Uit 's hemels schoot ontfange, en aenzitt' neffens Godt?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Raf.</hi></speaker>
+<l>Wil d'opperste Monarch zijn maght met mindren deelen;</l>
+<l>Ja d'eerste kroon den mensch opzetten, en beveelen,</l>
+<l>Hem wijden tot een hooft der Geesten, boven al</l>
+<l>Wat kroon en scepter voert, of namaels voeren zal;</l>
+<pb n="49"/>
+<l>Zoo leer ootmoedigh u Godts raetslot onderwerpen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Dat is de wetsteen om dees heirbyl op te scherpen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Raf.</hi></speaker>
+<l>Ghy scherptze reuckeloos voor uwen eigen neck.</l>
+<l>Bedenck eens waer wy staen. de hemel kan geen vleck</l>
+<l>Van afgunst haet en nijt noch hovaerdy verdraegen.</l>
+<l>De Wraeck des hemels dreight dees schantvleck uit te vaegen.</l>
+<l>Hier helpt geen veinzen. och, of voor d'alziende Zon,</l>
+<l>Het aldoordringende oogh, ick deze lastren kon</l>
+<l>Bedecken. Lucifer, waer is u glans gebleven?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Mijn glans is Adam en zijne afkomst lang gegeven.</l>
+<l>Men noem' my langer niet den eerstgewijden zoon,</l>
+<l>Den outsten erfgenaem.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Raf.</hi></speaker>
+<l>Vorst Lucifer, verschoon</l>
+<l>U zelven: onderworp u 't opperste behaegen.</l>
+<l>Gewaerdigh ons dat wy die blijde tijding draegen</l>
+<l>Naer boven: ieder ziet mijn weêrkomst te gemoet.</l>
+<l>Ick valle ootmoedigh dus uw heerlijckheit te voet.</l>
+<l>Om Godts wil, wacht u toch weêrspannigen te stijven,</l>
+<l>Die op uw' wil en wenck, als op hun aspunt, drijven.</l>
+<l>Zoudt ghy, in wederwil van 't hemelsche palais,</l>
+<l>Dees lucht, vol heiligheit, vol vrede, d'eerste reis,</l>
+<l>Met duizent duizenden in 't harrenas, beroeren?</l>
+<l>Op trommel en trompet den oorloghsstandert voeren,</l>
+<l>En kanten tegens Godt, den stercksten worstelaer?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Men kant zich tegens ons. was Adams afkomst maer</l>
+<l>Een' zelven staet en stoel, als d'Engelen, geschoncken,</l>
+<l>Dat scheen verdraeghelijck: nu vliegen vast de voncken</l>
+<l>Van dezen hemeltwist door alle daken heen.</l>
+<l>Zwijgh Engelsdom: verhef eerbiedighlijck het leen</l>
+<l>Van al wat ghy bezit aen Adam, en zijn neven.</l>
+<l>Den mensch weêrstreven, is de Godtheit wederstreven.</l>
+<l>Hoe magh het Godt van 't hart, dat hy zoo laegh, zoo diep</l>
+<l>Vernedert dien hy tot den grootsten scepter schiep?</l>
+<l>Een edelmoedigheit, geheilight tot regeeren,</l>
+<l>Voor eenen minder zich zoo zwaerlijck kan verneêren,</l>
+<pb n="50"/>
+<l>Van heerlijckheit ontkleên, en opstaen uit haer' staet,</l>
+<l>En stoel, dat zy vervloeckt den glans en dageraet</l>
+<l>Van haeren opgangk, en veel liever had gebleven</l>
+<l>Een schaduw, zonder verf, een niet, en zonder leven:</l>
+<l>Want niet zijn, overtreft verkleening duizentwerf.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Raf.</hi></speaker>
+<l>Geleende heerschappy staet los, en is geen erf.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>'k Misdanckme dan dit leen, als 't immers leen moet heeten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Raf.</hi></speaker>
+<l>Bewaer uw ampt: of is zijn ooghmerck u vergeten?</l>
+<l>De Stedehouderschap uw wijsheit wert betrout,</l>
+<l>Op dat ghy 't al in ruste en orden houden zoudt:</l>
+<l>En hebtghe tegens Godt het panser aengeschooten,</l>
+<l>Als een meineedigh hooft van blinde bondtgenooten?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Wy schoten slechts, uit noot en nootweer, 't panser aen;</l>
+<l>Zoo luttel wouden wy de Godtheit wederstaen.</l>
+<l>De reden spreeckt, al waer 't dat schilt en wapen zweege.</l>
+<l>Wy vrijen onzen Staet: benijt men ons die zege?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Raf.</hi></speaker>
+<l>Geen zege is heerelijck, daer, in een zelve Rijck,</l>
+<l>Slaghordens van een' Staet bestrijden haers gelijck:</l>
+<l>En deerlijck is het, zoo gebroeders van eene Orden</l>
+<l>Door hun gebroeders zelfs in 't endt verwonnen worden.</l>
+<l>Om onzent wil, om Godt, en zijn gedreighde straf,</l>
+<l>Och Stedehouder, voer uw regementen af:</l>
+<l>Voer af, en laet u toch vermorwen door gebeden.</l>
+<l>Ick hoor, 't is schrickelijck, alree de ketens smeden,</l>
+<l>Om, na de neêrlaegh, u, geketent door de lucht,</l>
+<l>Te voeren in triomf. ick hoor alree gerucht,</l>
+<l>En zie allengs het heir van Michaël genaecken.</l>
+<l>Het is hoogh tijt, hoogh tijt dien dollen toght te staecken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Wat baet het, schoon men zich op 't uiterste bera?</l>
+<l>Hier is geen hoop van pais.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Raf.</hi></speaker>
+<l>'k verzeker u gena,</l>
+<l>En stelme, als middelaer, om hoogh voor u te pande.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Mijn Star te dompelen in duisternisse, en schande:</l>
+<l>Mijn vyanden te zien braveeren op den stoel!</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Raf.</hi></speaker>
+<l>Och Lucifer, waeck op. ick zie den zwavelpoel,</l>
+<pb n="51"/>
+<l>Met opgespalckte keel, afgrijslijck naer u gapen.</l>
+<l>Zult ghy, het schoonst van al wat Godt oit heeft geschapen,</l>
+<l>Een aes verstrecken, voor het vraetige ingewant</l>
+<l>Des afgronts, nimmer zadt, en nimmer uitgebrant;</l>
+<l>Dat hoede Godt. och och, bewilligh onze bede.</l>
+<l>Ontfang dien tack van pais: wy offren u Godts vrede.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Of ergens schepsel zoo rampzaligh zwerft als ick?</l>
+<l>Aen d'een zy flaeuwe hoop, aen d'andre grooter schrick.</l>
+<l>De zege is hachelijck, de neerlaegh zwaer te mijden.</l>
+<l>Op 't onwis tegens Godt en Godts banier te strijden?</l>
+<l>Den eersten standert op te rechten tegens Godt,</l>
+<l>Zijn hemelsche bazuin, en openbaer gebodt?</l>
+<l>Zich op te worpen, als een hooft van Godts rebellen,</l>
+<l>En tegen 's hemels wet een wederwet te stellen?</l>
+<l>Te vallen in den vloeck der snootste ondanckbaerheit?</l>
+<l>Te quetsen de genade en liefde en majesteit</l>
+<l>Des rijcken Vaders, bron van alle zegeningen,</l>
+<l>Die noch t'ontfangen staen, en wat wy reede ontfingen?</l>
+<l>Hoe zijnwe nu zoo wijt verzeilt uit onzen plicht!</l>
+<l>Ick zwoer mijn' Schepper af. hoe kan ick voor dat licht</l>
+<l>Mijn lasterstucken, mijn verwatenheit vermommen?</l>
+<l>Hier baet geen deizen, neen, wy zijn te hoogh geklommen.</l>
+<l>Wat raet? wat best geraemt in dees vertwijfeltheên?</l>
+<l>De tijt geen uitstel lijdt. een oogenblick is geen</l>
+<l>Genoeghzaemheit van tijt; indien men tijt magh noemen</l>
+<l>Dees kortheit, tusschen heil en endeloos verdoemen.</l>
+<l>Maer 't is te spa, en hier geen boete voor ons smet.</l>
+<l>De hoop is uit. wat raedt? daer hoor ick Godts trompet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apollion. Lucifer. Rafaël.</hi></speaker>
+<l>HEer Stedehouder, op? het is geen tijt te marren:</l>
+<l>De Veltheer Michaël, in aentoght met zijn starren,</l>
+<l>En regementen, daeght u uit in 't vlacke velt.</l>
+<l>De tijt gebiet dat ghy u in slaghorden stelt.</l>
+<pb n="52"/>
+<l>Treck op, treck op met ons: wy zien den strijt gewonnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Gewonnen? dat 's te vroegh: de strijt is niet begonnen.</l>
+<l>Men weegh' dien zwaeren slagh en oorlogh niet te licht:</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>Ick zagh alree den schrick in Michaëls gezicht,</l>
+<l>En al zijn benden doots schier omzien naer de hielen.</l>
+<l>Wy willen, twijfel niet, haer sloopen, en vernielen.</l>
+<l>Hier komen d'Oversten met onzen standaert aen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>Een ieder in 't gelidt: een ieder kenn' zijn vaen.</l>
+<l>Nu rustigh de bazuin en krijghstrompet gesteecken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Apol.</hi></speaker>
+<l>Wy wachten op uw woort.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Luc.</hi></speaker>
+<l>zoo volgt ons op dit teken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Raf.</hi></speaker>
+<l>Helaes, hy stont alreede in twijfel, en beraet:</l>
+<l>Nu voert hem Wanhoop aen. helaes, in welck een' staet</l>
+<l>Van jammernissen stort d'Aertsengel al de zijnen!</l>
+<l>Nu magh hy nimmermeer in vreught om hoogh verschijnen,</l>
+<l>'t En zy de Godtheit dit mededoogende belett'.</l>
+<l>Ghy Hemelreien, komt, en geeft u in 't gebedt;</l>
+<l>Misschien of noch dien slagh te schutten waer met smeecken.</l>
+<l>Het bidden kan een hart van diamantsteen breecken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey van Engelen. Rafaël.</hi></speaker>
+<l rend="; 1tab">O Vader, die geen wieroockvat,</l>
+<l rend="; 1tab">Noch gout, noch lofzang waerder schat</l>
+<l rend="; 2tab">Dan godtgelatenheit en stilte</l>
+<l rend="; 3tab">Van 't schepzel, dat uit nedrigheit</l>
+<l rend="; 3tab">Behaegen schept aen uw beleit,</l>
+<l rend="; 1tab">En in uw' wil zich zelfversmilte;</l>
+<l rend="; 2tab">Ghy ziet, ô aller telgen stam,</l>
+<l rend="; 2tab">Hoe 't hooft der Geesten zijnen kam</l>
+<l rend="; 1tab">Durf kanten tegens uw behagen;</l>
+<l rend="; 2tab">Hoe hy trompet en trommel roert,</l>
+<l rend="; 2tab">En blint, van Staetzucht aengevoert,</l>
+<l rend="; 1tab">U terght op zijnen oorloghswagen.</l>
+<l rend="; 1tab">Ontferm u over 't lasterstuck,</l>
+<l rend="; 2tab">En keer, och, keer het ongeluck</l>
+<pb n="53"/>
+<l>Van duizentduizent lotgenooten,</l>
+<l rend="; 1tab">Die al te jamerlijck misleit,</l>
+<l rend="; 1tab">Met zulck een wederspannigheit</l>
+<l>Het harnas hebben aengeschoten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Raf.</hi></speaker>
+<l rend="; 1tab">Verschoon genadigh, och verschoon.</l>
+<l rend="; 1tab">Den Stedehouder, die de kroon</l>
+<l>Der kroonen op zijn hooft wil zetten,</l>
+<l rend="; 1tab">Om neffens u, en boven al</l>
+<l rend="; 1tab">Te triomfeeren. och, wie zal</l>
+<l>Hem zuiveren van zulcke smetten?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l rend="; 1tab">Gedoogh niet dat de schoonste ziel,</l>
+<l rend="; 1tab">Waer op uw oogh genadigh viel,</l>
+<l>Gedoogh niet dat d'Aertsengel sneve.</l>
+<l rend="; 1tab">Hy boete deze ondanckbre daet,</l>
+<l rend="; 1tab">En blijf' gehanthaeft by zijn' staet.</l>
+<l>Dat uw gena zijn schult vergeve.</l>
+</sp>
+</div>
+<div type="act">
+<head rend="h3">Het vyfde bedryf.</head>
+<sp>
+<speaker><hi rend="i">Rafaël. Uriël.</hi></speaker>
+<l>DE gansche hemel, van den gront op tot de kruin</l>
+<l>Der aertspalaizen, juicht op Michaëls bazuin,</l>
+<l>En zwaeiende banier. de veltslagh is gewonnen.</l>
+<l>Ons schilden schitteren, en scheppen nieuwe zonnen.</l>
+<l>Uit elcke schiltzon straelt een triomfanten dagh.</l>
+<l>Daer komt Uriël zelf, de Schiltknaep, uit den slagh,</l>
+<l>En zwaeit het vlammend zwaert, dat, scherp van wederzijden,</l>
+<l>Gewet van 's hemels wraecke en gramschap, onder 't strijden,</l>
+<l>Door schilt, en harrenas, en helm van diamant,</l>
+<l>Gevaeght heeft, slinx en rechts, al wat de horens kant</l>
+<l>En opsteeckt tegens Godts doordringende alvermogen.</l>
+<l>Gestrenge Schiltknaep, die het scherprecht uit den hoogen</l>
+<l>Bekleet, en 't ongelijck, dat tegens 't eeuwigh Recht</l>
+<l>Zich opworpt, met een' slagh rechtvaerdighlijck beslecht;</l>
+<pb n="54"/>
+<l>Gezegent is 't geweer, gezegent zijn uwe armen,</l>
+<l>Die d'eer van Englestadt hanthaven, en beschermen:</l>
+<l>Wat leghtghe al prijzen in, by d'Oppermajesteit!</l>
+<l>Verhael ons toch den strijt: ontvou ons al 't beleit,</l>
+<l>En 's hemels eersten toght: wy luistren met verlangen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Uri.</hi></speaker>
+<l>Uw lust ontvonckt mijn' geest om rustigh aen te vangen,</l>
+<l>Dien vreesselijcken storm t'ontvouwen op een ry.</l>
+<l>Geluckigh vecht het heir, dat Godt heeft op zijn zy.</l>
+<l rend="; 1tab">De Veltheer Michaël, [verwittight uit den hoogen,</l>
+<l>Door 's hemels afgezant, die neder quam gevlogen,</l>
+<l>Noch sneller dan een star, die door de lucht verschiet,</l>
+<l>Hoe Lucifer zoo trots zich tegens 't hoogh gebiedt</l>
+<l>Had opentlijck gekant, gereet hen aen te voeren,</l>
+<l>Die hem bewieroockten, zijn starre en standert zwoeren;]</l>
+<l>Schoot voort, op 't aenstaen van den trouwen Gabriël,</l>
+<l>Het schubbigh panser aen, en gaf terstont bevel</l>
+<l>Aen al zijne Oversten, en hoofden, en Kornellen,</l>
+<l>De heiren, in Godts naem, in hun geleên te stellen,</l>
+<l>Om met gemeene maght en kracht, op 't luchtigh ruim,</l>
+<l>Van 't zuivre hemelsblaeu al dit meineedigh schuim</l>
+<l>Te vaegen, al dit spoock in duisternis te dompelen,</l>
+<l>Eer zy op 't ongezienste ons moghten overrompelen.</l>
+<l>Op dezen last vergaêrt Gods' heirkracht in der yl</l>
+<l>Slaghordenswijs, zoo snel gelijck een vlugge pijl,</l>
+<l>Gedreven van de pees. men zagh ontelbre drommen,</l>
+<l>In een driekantigh heir, aen alle kanten brommen,</l>
+<l>Gelijck een driehoeck steeckt en straelt op ons gezicht.</l>
+<l>Men zagh een enckelheit in een driepuntigh licht,</l>
+<l>Zoo spiegelgladt, gelijck een diamant, geslepen;</l>
+<l>Een heirspits, eer van Godt dan eenigh Geest begreepen.</l>
+<l>De Veltheer, met den gloet des blixems in de hant,</l>
+<l>Hiel recht voor Godts baniere in 't hart van 't leger, stant.</l>
+<l>Wie moedt wil houden, en triomf en zege baeren,</l>
+<l>Die moet voor al het hart verzeekren, en bewaeren.</l>
+</sp>
+<pb n="55"/>
+<sp>
+<speaker><hi rend="i">Raf.</hi></speaker>
+<l>Waer bleef't verwaten heir, dat ons bestormen wou?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Uri.</hi></speaker>
+<l>Het quam vol moedts ter baene, en had zijn eerste trou</l>
+<l>Gehoorzaemheit en eer en eedt en al vergeeten,</l>
+<l>Te heiloos en verwaent op Godt en ons gebeeten.</l>
+<l>Het groeide snel, en wies, gelijck een halve maen.</l>
+<l>Het wet zijn punten, zet twee horens op ons aen;</l>
+<l>Gelijck 't gestarrent van den Stier de hemeldieren</l>
+<l>En andre monsters, die rontom hem heenezwieren</l>
+<l>Met goude hoornen dreight. de rechte horen wort</l>
+<l>Vorst Belzebub, op dat hy ons de vleugels kort',</l>
+<l>En zijne wacht betrout; Vorst Belial de slincken.</l>
+<l>Met ziet hen beide om strijt in hunne rusting blincken.</l>
+<l>De Stedehouder, nu Veltmaerschalck tegens Godt,</l>
+<l>Verzekerde den buick des legers, om het slot,</l>
+<l>Der regementen knoop, in 't midden te bewaeren.</l>
+<l>De trotse standert, daer de dagh scheen op te klaeren,</l>
+<l>Uit zijne morgenstar, wert van Apollion</l>
+<l>Gehanthaeft, achter hem, zoo moedigh als hy kon,</l>
+<l>In zijnen vollen krits, om hoogh ten toon gezeten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Raf.</hi></speaker>
+<l>Helaes, wat durf, wat durf d'Aertsengel zich vermeten!</l>
+<l>Och, of ick hem by tijts tot afstant had gebroght.</l>
+<l>Beschrijfme niettemin het aenzicht van dien toght,</l>
+<l>En in wat schijn de Vorst de benden quam geleien.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Uri.</hi></speaker>
+<l>Omringt van zijn staffiers, en groene lievereien,</l>
+<l>Hy, wrevligh aengevoert van onverzoenbren wrock,</l>
+<l>In 't gouden panser, dat, op zijnen wapenrock</l>
+<l>Van gloeiend purper blonck, en uitscheen, steegh te wagen,</l>
+<l>Met goude wielen, van robijnen dicht beslagen.</l>
+<l>De Leeuw, en felle Draeck, ter vlught gereet, en vlugh,</l>
+<l>Met starren overal bezaeit op hunnen rugh,</l>
+<l>In 't parrele gareel, gespannen voor de wielen,</l>
+<l>Verlangden naer den strijt, en vlamden op vernielen.</l>
+<l>De heirbijl in de vuist, de scheemrende rondas,</l>
+<l>Waer in de morgenstar met kunst gedreven was,</l>
+<pb n="56"/>
+<l>Hing aen den flincken arm, gereet de kans te wagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Raf.</hi></speaker>
+<l>O Lucifer, ghy zult dien hooghmoedt u beklagen.</l>
+<l>Ghy fenix, onder al wat Godt daer boven looft,</l>
+<l>Hoe steeckt ghy, onder 't heir, zoo fier met hals en hooft,</l>
+<l>En helm, en schoudren uit! hoe heerlijck past u 't wapen,</l>
+<l>Als waer 't natuurelijck uw wezen aengeschapen!</l>
+<l>O hooft der Engelen, niet hooger: keer weêrom.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Uri.</hi></speaker>
+<l>Zoo stonden zy gekant, en slaghree, drom by drom,</l>
+<l>Een ieder op zijn lucht, en hoefslagh, en by rijen</l>
+<l>Gesnoert aen hun gezagh, om 't schoonst van wederzyen;</l>
+<l>Wanneer de dolle trom en klinckende trompet</l>
+<l>Zich mengen, het geluit geweer en handen wet,</l>
+<l>En steigert in den trans van 't heiligh licht der lichten;</l>
+<l>Een klanck, waer op terstont een zwangre wolck van schichten</l>
+<l>Geborsten, slagh op slagh, een gloênden hagel baert,</l>
+<l>Een' storm en onweêr, dat de hemelen vervaert,</l>
+<l>De hofpijlaren schudt, de kreitsen, en de starren,</l>
+<l>Verbijstert in hun ronde en ommeloop, verwarren,</l>
+<l>Of zwijmen op de wacht, en weten niet waer heen</l>
+<l>Te drijven, oost of west, of boven of beneên.</l>
+<l>Al weêrlicht wat men ziet, al wat men hoort is donder.</l>
+<l>Wat blijft'er in zijn' stant? het bovenste raeckt onder.</l>
+<l>De heiren, na 'et gedreun van 't eerste schutgevaert,</l>
+<l>Geraecken hantgemeen met knods, en hellebaert,</l>
+<l>En sabel, speer, en dolck. het gaet'er op een kerven,</l>
+<l>En steecken. al wat kan, wat toeleit op bederven,</l>
+<l>Op schenden, rept zich nu, bederft, en treft, en schent.</l>
+<l>De broederschap heeft uit, en niemant ziet noch kent</l>
+<l>Zijn medeburger meer. men ziet 'er parle huiven,</l>
+<l>Gekrolde vlechten hairs, en pluim, en pennen stuiven,</l>
+<l>En schitteren, in 't vier der blixemen gezengt.</l>
+<l>Men ziet turkoisblau, gout, en diamant gemengt,</l>
+<l>En perlesnoer, en wat de hairlock kon vercieren.</l>
+<l>De vleugels, half geknot, gebroke pijlen zwieren</l>
+<pb n="57"/>
+<l>En zweven door de lucht. een gruwzaem veltgeschrey</l>
+<l>Verheft zich uit den stoet der groene lieverey;</l>
+<l>Daer lyt het kryghsheir last, geperst uit noot te deizen.</l>
+<l>De dolle Lucifer hervat den stryt drie reizen,</l>
+<l>En stut de flaeute van zyn regement zoo trots,</l>
+<l>Gelyck het zeegedruis al schuimende op een rots</l>
+<l>Gestuit wort, reis op reis, en meer niet uit kan rechten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Raf.</hi></speaker>
+<l>Gewis het heeft wat in de Wanhoop af te vechten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Uri.</hi></speaker>
+<l>De dappere Michaël laet blazen: Eer zy Godt.</l>
+<l>De regementen, op die leus en zyn gebodt,</l>
+<l>Gemoedight, te gelyck aen 't steigeren, en stygen</l>
+<l>Naer boven, om de loef van 's vyants heir te krygen;</l>
+<l>Dat styght met een om hoogh, maer met een' traeger vaert,</l>
+<l>En raeckt in 't ende in ly: als of men hemelwaert</l>
+<l>Een' valck zagh, van om laegh, op zyne wackre pennen</l>
+<l>Zich geven in de lucht, eer hem de reigers kennen;</l>
+<l>Die sidderen van schrick, in 't bosch, by eenen beemt,</l>
+<l>Zoo dra het hooge nest dien vyant daer verneemt.</l>
+<l>De reiger schreeut, en styght, en bang voor 's vyants pooten,</l>
+<l>Verwacht hem op den beck, om door de borst te stooten,</l>
+<l>Van onder, als hy ploft van boven op den buit.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Raf.</hi></speaker>
+<l>O Lucifer, wat raet! het ziet'er schricklyck uit.</l>
+<l>Ghy zweeft hier op een vlackte, en zonder poort, en wallen.</l>
+<l>Een gruwelycke Orkaen wil plotsling u bevallen,</l>
+<l>En zincken in een' poel, en afgront, zonder gront.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Uri.</hi></speaker>
+<l>Wat gaf't een schoon verschiet, om laegh een hallef ront,</l>
+<l>Of halve maen; om hoogh een driekant spits t'aenschouwen;</l>
+<l>De regementen, die zich sluiten, en ontvouwen,</l>
+<l>Op 't wencken van hun hooft, een ieder in zyn vaen,</l>
+<l>Te zien zoo pal, gelyck metaele muuren staen,</l>
+<l>Als op een wederwight van lucht en eige zwaerte,</l>
+<l>Met al hun slingertuigh, geschut, en stormgevaerte.</l>
+<l>Zy hangen even als men zich een wolck verbeelt,</l>
+<l>Een wolck, waer in de zon met heure straelen speelt;</l>
+<pb n="58"/>
+<l>En schildert en schakeert door luchte regenbogen.</l>
+<l>De hemelsche adelaer, zoo steil in top gevloogen,</l>
+<l>Bespiet Godts vyandin, de havicksvlught, beneên.</l>
+<l>Hy klapt van moedigheit zijn pennen tegens een,</l>
+<l>Misguntze 't weiden niet, en vruchteloos braveeren,</l>
+<l>Terwijl hy vlamt om haer te zitten in de veeren,</l>
+<l>Te plonderen eerlang van haere gladde pluim;</l>
+<l>Zoo ras de kromme beck en klaeu, op 't luchtigh ruim,</l>
+<l>Het aes bevalle, of drijf voorwint af, uit zijn oogen.</l>
+<l>Dus komenze afgestort, en stroomen uit den hoogen,</l>
+<l>Gelijck een binnenzee, of noortschen waterval,</l>
+<l>Die van de rotsen bruischt, en ruischt, met een geschal.</l>
+<l>Dat dier en ondier schrickt, in diepgezoncke daelen;</l>
+<l>Daer steenen, van de steilte, en dicke waterstraelen,</l>
+<l>En masten, zonder tal, verpletten, en vertreên</l>
+<l>Wat tegens woest gewelt van stroom en hout en steen</l>
+<l>Niet opgewassen is. de heirspits treft den navel</l>
+<l>Der halve maene fel met roode en blaeuwe zwavel,</l>
+<l>En vlammen, slagh op slagh, en donderkloot op kloot.</l>
+<l>Dat baert een lucht geschrey. het hart van 't heir in noot,</l>
+<l>Begint van langer hant den wrevelen t'ontzacken.</l>
+<l>De boogh der halve maene, aen 't kraecken, en aen 't knacken,</l>
+<l>Zoo stijf gespannen staet [want d'einden krommen vast]</l>
+<l>Dat hy in 't midden moet bezwijcken voor dien last,</l>
+<l>En springen, wort hem flux geen' ademtoght gegeven.</l>
+<l>De trotse Lucifer, dan hier dan daer gedreven,</l>
+<l>Schiet toe op dit geschrey, en geeft zich rustigh bloot,</l>
+<l>Om zijn groothartigheit, in 't nijpen van den noot,</l>
+<l>Te toonen voor de vuist, op zijnen oorloghswagen.</l>
+<l>Dat geeft den flaeuwen moedt. hy schut de wreetste slagen</l>
+<l>En scheuten op 't gebit van zijn verwoet gespan.</l>
+<l>De Leeuw en blaeuwe Draeck aen 't woeden, vliegen van</l>
+<l>Zijn hant, op elcken wenck, met vreeselijcke driften.</l>
+<l>d'Een brult, en bijt, en scheurt, en d'ander schiet vergiften,</l>
+<pb n="59"/>
+<l>Met zyn gesplitste tong, ontsteeckt een pest, en raest,</l>
+<l>En vult de lucht met smoock, dien hy te neuze uitblaest.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Raf.</hi></speaker>
+<l>Hier wil de barreningh van boven hem beknellen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Uri.</hi></speaker>
+<l>Hy zwaeit de heirbyl vast, om Godts banier te vellen,</l>
+<l>Die neêrstyght, en waer uit Godts naem een schooner licht</l>
+<l>En schooner straelen schiet in 't gloên van zyn gezicht.</l>
+<l>Men dencke eens na of hy dit voorspoock ons benyde.</l>
+<l>De heirbyl in zyn vuist, aen d'eene en d'andre zyde,</l>
+<l>Den toescheut stuit, en sloopt, of schutze op zyn rondas,</l>
+<l>Tot dat hem Michaël, in 't schittrend harrenas,</l>
+<l>Verschynt, gelyck een Godt, uit eenen kring van zonnen.</l>
+<l>Zit af, ô Lucifer, en geef het Godt gewonnen.</l>
+<l>Geef over uw geweer, en standert: stryck voor Godt.</l>
+<l>Voer af dit heiloos heir, dees goddelooze rot,</l>
+<l>Of anders wacht uw hooft. zoo roept hy uit den hoogen.</l>
+<l>D'Aertsvyant van Godts naem, hardneckigh, onbewogen,</l>
+<l>En trotser op dat woort, hervat in aller yl</l>
+<l>Den slagh, tot driewerf toe, om met zyn oorloghsbyl</l>
+<l>Den diamanten schilt, met een Godts naem' te kloven:</l>
+<l>Maer wie den hemel terght gevoelt de wraeck van boven.</l>
+<l>De heirbyl klinckt en springt op 't heiligh diamant</l>
+<l>Aen stucken. Michaël verheft zyn rechte hant,</l>
+<l>En klinckt den blixemstrael, gesterckt door 't alvermogen,</l>
+<l>Dien wrevelmoedigen, door helm en hooft, in d'oogen</l>
+<l>Al t'ongenadigh dat hy achterover stort,</l>
+<l>En uit den wagen schiet, die omgeslingert, kort</l>
+<l>Met Leeuw en Draeck en al, den meester volght in 't zincken.</l>
+<l>De standert van de star vergaet hier op het blincken,</l>
+<l>Zoo ras Apollion myn vlammend zwaert gevoelt,</l>
+<l>Den standert geeft ten roof, daer 't barrent en krioelt</l>
+<l>Van duizentduizenden, om 't hooft der helsche schaeren</l>
+<l>In 't vallen, voor den val en neêrsmack, te bewaeren.</l>
+<l>Hier yvert Belzebub: daer trotst ons Belial.</l>
+<l>Dus wort de maght ontsnoert, en met den zwaeren val</l>
+<pb n="60"/>
+<l>Des Stedehouders breeckt de boogh der halve maene</l>
+<l>In stucken. echter komt Apollion ter baene</l>
+<l>Met zoo veel monstren als de kloot des hemels draeght.</l>
+<l>De Reus Orion schreeut, dat al de lucht vertsaeght,</l>
+<l>En pooght met zyne knods ons heirspits 't hooft te kneuzen,</l>
+<l>Die op Orions past, noch knodzen, noch op Reuzen.</l>
+<l>De Noortsche Beeren op hun achterklaeuwen staen,</l>
+<l>Om met een dommekracht in 't hondert toe te slaen.</l>
+<l>De Hydra braeckt vergift, en gaept met vyftigh keelen.</l>
+<l>Ick zie een galery, vol oorloghs tafereelen,</l>
+<l>Geboren uit dien slagh, zoo wyt men af kan zien.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Raf.</hi></speaker>
+<l>Gelooft zy Godt: valt neêr: aenbidt hem op uw knien.</l>
+<l>Och Lucifer, helaes, waer blyft uw valsch betrouwen?</l>
+<l>Helaes, in welck een' schyn zal ick u lest aenschouwen?</l>
+<l>Waer is uw klaerheit nu, die allen glans braveert?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Uri.</hi></speaker>
+<l>Gelyck de klaere dagh in naeren nacht verkeert,</l>
+<l>Wanneer de zon verzinckt, vergeet met gout te brallen;</l>
+<l>Zoo wort zyn schoonheit oock, in 't zincken, onder 't vallen,</l>
+<l>In een wanschapenheit verandert, al te vuil;</l>
+<l>Dat helder aengezicht in eenen wreeden muil;</l>
+<l>De tanden in gebit, gewet om stael te knaeuwen;</l>
+<l>De voeten en de hant in vierderhande klaeuwen;</l>
+<l>Dat glinstrend parlemoer in eene zwarte huit.</l>
+<l>De rugh, vol borstlen, spreit twee draecke vleugels uit.</l>
+<l>In 't kort, d'Aertsengel, wien noch flus alle Englen vieren,</l>
+<l>Verwisselt zyn gedaente, en mengelt zeven dieren</l>
+<l>Afgryslyck onder een, naer uiterlycken schyn;</l>
+<l>Een' leeu, vol hoovaerdy, een vraetigh gulzigh zwyn,</l>
+<l>Een' traegen ezel, een rinoceros, van toren</l>
+<l>Ontsteecken, eene sim, van achter en van voren</l>
+<l>Al even schaemteloos, en geil en heet van aert,</l>
+<l>Een' draeck, vol nyts, een' wolf en vrecken gierigaert.</l>
+<l>Nu is die schoonheit maer een ondier, te verwenschen,</l>
+<l>Te vloecken, zelf van Godt, van Geesten, en van menschen.</l>
+<pb n="61"/>
+<l>Dat ondier yst, indien 't de blicken op zich slaet,</l>
+<l>En deckt met damp en mist zijn gruwelijck gelaet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Raf.</hi></speaker>
+<l>Dat leert de Staetzucht Godt naer zijne kroon te steeecken.</l>
+<l>Waer bleef Apollion?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Uri.</hi></speaker>
+<l>hy zach zijn ty verstreecken,</l>
+<l>Op 't ondergaen der sterre, en vloodt: een ieder vloodt.</l>
+<l>De hemelsche kortou van boven, schoot op schoot,</l>
+<l>Met weêrlicht blixemen en donderen aen 't rollen,</l>
+<l>De monsters, in het licht geklautert, holp aen 't hollen,</l>
+<l>En groeide in zulck een jaght. wat was 't een dwarreling</l>
+<l>Van buien ondereen! hoe ruischt 'et hier! wat ging,</l>
+<l>Wat ging'er een gety! ons maght, van Godt gezegent,</l>
+<l>Ruckt voort, en treft, en sloopt voor 's hants wat zy bejegent.</l>
+<l>Wat green hier overal, waer 't op een vlughten ging,</l>
+<l>Een wilde woestheit, een gestaltverwisseling,</l>
+<l>In leden, en in leest! men hoortze brullen, bassen.</l>
+<l>d'Een janckt, en d'ander huilt. wat zietmen al grimmassen</l>
+<l>In Engletronien nu zweemen naer de hel,</l>
+<l>En helsche gruwzaemheên. daer hoor ick Michaël,</l>
+<l>Om triomfant in 't licht met Engleroof te praelen.</l>
+<l>De Reien groeten hem met lofzang, en cimbaelen,</l>
+<l>Schalmeien, en tamboer. zy treden hier vooruit,</l>
+<l>En stroien lauwerloof, op 't hemelsche geluit.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey van Engelen. Michaël.</hi></speaker>
+<l rend="; 1tab">GDzegent zy de Helt,</l>
+<l rend="; 1tab">Die 't goddeloos gewelt,</l>
+<l rend="; 1tab">En zijn maght, en zijn kracht, en zijn standert</l>
+<l rend="; 2tab">Ter neder heeft gevelt.</l>
+<l rend="; 2tab">Die Godt stack naer zijn kroon,</l>
+<l rend="; 2tab">Is, uit den hoogen troon,</l>
+<l rend="; 1tab">Met zijn maght in den nacht neêrgezoncken.</l>
+<l rend="; 2tab">Hoe blinckt Godts Naem zoo schoon!</l>
+<l rend="; 2tab">Al brant het oproer fel,</l>
+<l rend="; 2tab">De dapp're Michaël</l>
+<l rend="; 1tab">Weet den brant met zijn hant uyt te blusschen,</l>
+<l rend="; 2tab">Te straffen dien rebel.</l>
+<pb n="62"/>
+<l rend="; 2tab">Hy hanthaeft Godts banier.</l>
+<l rend="; 2tab">Bekranst hem met laurier.</l>
+<l rend="; 1tab">Dit palais groeit in pais, en in vrede.</l>
+<l rend="; 2tab">Geen tweedraght hoort men hier.</l>
+<l rend="; 2tab">Nu zingt de Godtheit lof,</l>
+<l rend="; 2tab">In 't onverwinbaer hof.</l>
+<l rend="; 1tab">Prijs en eer zy den Heere aller Heeren.</l>
+<l rend="; 2tab">Hy geeft ons zingens stof.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>Gelooft zy Godt; de Staet hier boven is verandert.</l>
+<l>D'Aertsvyant leit 'er toe. hy laet ons zijnen standert,</l>
+<l>En Morgenstar, en helm, en vaenen, en rondas,</l>
+<l>Dien afgejaeghden roof, aen 's hemels heldere as,</l>
+<l>Met juichen, en triomf, en eere, en lofgezangen,</l>
+<l>Bazuinen, en trompet, ten klaeren spiegel hangen</l>
+<l>Van wederspannigheit, en Staetzucht, die den kam</l>
+<l>Verheffen tegens Godt, den onverzetbren stam,</l>
+<l>En oirsprong en de bron en Vader aller dingen,</l>
+<l>Die wezen en natuur en eygenschap ontfingen.</l>
+<l>Men zal niet meer den glans der Oppermajesteit</l>
+<l>Bezwalckt zien door den damp van snoode ondanckbaerheit.</l>
+<l>Zy zwerven in de lucht, en tuimelen, en woelen,</l>
+<l>Heel diep beneden ons gezicht' en deze stoelen,</l>
+<l>Benevelt, en verblint, en ysselijck misvormt.</l>
+<l>Zoo moet het gaen, die Godt, en zijnen stoel bestormt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l>Zoo moet het gaen, die Godt, en zijnen stoel bestryden,</l>
+<l>Den mensch, naer 't hemelsch beelt geschapen, 't licht benijden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gabriël. Michaël. Rey.</hi></speaker>
+<l>HElaes, helaes, helaes, hoe is de kans gekeert!</l>
+<l>Wat viert men hier? 't is nu vergeefs getriomfeert:</l>
+<l>Vergeefs met wapenroof en standerden te brallen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>Wat hoor ick, Gabriël?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gab.</hi></speaker>
+<l>och Adam is gevallen;</l>
+<l>De vader en de stam van 't menschelijck geslacht</l>
+<l>Te jammerlijck, te droef alree ten val gebraght.</l>
+<pb n="63"/>
+<l>Hy leit 'er toe.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>dat is een donderslagh in d' ooren.</l>
+<l>Al yze ick, my verlangt die nederlaegh te hooren.</l>
+<l>Heeft dan 't verwaten Hooft het aerdtryck oock bestreên?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gab.</hi></speaker>
+<l>Hy ruckte, na den slagh, 't verstroide heir by een,</l>
+<l>Doch eerst zyne Oversten, die voor elckandre gruwen;</l>
+<l>En zette zich, om 't licht van 't alziende oogh te schuwen,</l>
+<l>In eene holle wolck, een duistre moortspelonck</l>
+<l>Van nevlen, daer geen vier dan uit hun blicken blonck;</l>
+<l>En, midden in den ring des helschen Raets gezeten,</l>
+<l>Hief uit zyn' zetel aen, te helsch op Godt gebeeten:</l>
+<l>Ghy maghten, die zoo trots voor ons gerechte zaeck,</l>
+<l>Dien afbreuck hebt geleên; nu is het tyt om wraeck</l>
+<l>Te nemen van ons leet, en listigh, en verbolgen,</l>
+<l>Met onverzoenbren wrock den hemel te vervolgen,</l>
+<l>In zyn verkoren beelt, en 't menschelyck geslacht</l>
+<l>Te smooren in zyn wiegh, en opgang, eer het maght</l>
+<l>In zyne zenuw kryge, en aenwinne in zyne erven.</l>
+<l>Myn wit is Adam en zyn afkomst te bederven.</l>
+<l>Ick weet, door 't overtreên der eerstgestelde wet,</l>
+<l>Hem aen te wrijven zulck een onuitwischbre smet,</l>
+<l>Dat hy, naer lijf en ziel, met zijn nakomelingen</l>
+<l>Vergiftight, nimmer zal ten zetel innedringen,</l>
+<l>Waer uit men ons verstiet: edoch gebeurt het al</l>
+<l>Dat iemant bovenstijge, een kleen, een dun getal,</l>
+<l>En noch door duizent doôn, en arrebeit, en lijden,</l>
+<l>Zal steigren tot den Staet en kroon, dieze ons benijden.</l>
+<l>Elenden zullen zich terstont, op Adams spoor,</l>
+<l>Verspreiden zonder endt, de wijde weerelt door.</l>
+<l>Natuur zal van dien slagh getaistert, schier verteeren,</l>
+<l>En wenschen in een Niet of mengelklomp te keeren.</l>
+<l>Ick zie den mensch, die naer het beelt der Godtheit zweemt,</l>
+<l>Van Godts gelyckenis verbastert, en vervreemt,</l>
+<l>In wil, geheugenis, en zyn verstant ontluistert,</l>
+<l>Het ingeschapen licht benevelt, en verduistert,</l>
+<pb n="64"/>
+<l>En wat den dagh beschreit, in 's moeders bangen schoot,</l>
+<l>Gevallen in den muil der onvermybre Doot.</l>
+<l>Ick wil de tiranny verheffen, altijdt stouter,</l>
+<l>En u, mijn zoons, gewijt tot Godtheên, op het outer,</l>
+<l>In kercken, zonder tal, tot aen de lucht gebout,</l>
+<l>Vereeren offervee, en wieroockgeur, en gout,</l>
+<l>Oock zoo veel menschen, als geen tongh vermagh te noemen,</l>
+<l>En al wat Adam teelt in eeuwigheit verdoemen,</l>
+<l>Door gruwelstuck op stuck, Godts naem ten trots begaen.</l>
+<l>Zoo dier wil hem mijn kroon, en zijn triomffeest staen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>Verwaten vloeck, zoo trots de Godtheit noch braveeren!</l>
+<l>Wy willen u eer lang dat lasterstuck verleeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gab.</hi></speaker>
+<l>Aldus spreeckt Lucifer, en zent Vorst Belial,</l>
+<l>Op dat hy datelijck den menschen breng' ten val.</l>
+<l>Dees schiet de boosheit zelf, de listighste aller dieren,</l>
+<l>De slang aen, om met glimp van woorden te vercieren</l>
+<l>Het lockaes, 't welck aldus d'onnoosle schepzels ving,</l>
+<l>Daer zy geslingert om den tack der kennis hing.</l>
+<l>Heeft Godt, op halsstraf, u zoo dier, zoo streng, benomen</l>
+<l>Den vrydom van dit ooft, den smaeck van 't puick der boomẽ?</l>
+<l>Neen Eva, simple duif, geensins: ghy zyt verdwaelt.</l>
+<l>Aenschou eens, bid ick u, dien appel. ay, hoe straelt,</l>
+<l>Hoe gloeit dit ooft van gout en karmozyn te gader!</l>
+<l>Hoe noodt u dit bancket! ay dochter, tre wat nader:</l>
+<l>Hier nestelt geen venyn in dit onsterflyck loof.</l>
+<l>Hoe lockt dees vrucht! ay pluck: ay pluck vry: ick beloof</l>
+<l>U weetenschap, en licht. wat deistghe, bang voor schennis?</l>
+<l>Tast toe, en wordt Godt zelf, in wijsheit, en in kennis,</l>
+<l>En weetenschap gelyck, en eere, en majesteit,</l>
+<l>Hoe zeer hy 't u beny. zoo vat men 't onderscheit</l>
+<l>Het wezen en den aert en d'eigenschap der zaecken.</l>
+<l>Terstont begint het hart der schoone bruit te blaecken,</l>
+<l>T'ontvoncken, en zy vlamt op d'aengepreze vrucht.</l>
+<l>De vrucht bekoort het oogh, het oogh den mont, die zucht.</l>
+<pb n="65"/>
+<l>De lust beweeght de hant al bevende te plucken.</l>
+<l>Zoo plucktze, en proeft, en eet (dat wil haer afkomst drucken!)</l>
+<l>Met Adam, en zoo dra hunne oogen opengaen,</l>
+<l>En zy hun naecktheit zien, bedeckenze, met blaên,</l>
+<l>Met vijgenloof, hun schaemte, en schande, en erfgebreken,</l>
+<l>En gaen zich in geboomte en schaduwen versteecken,</l>
+<l>Versteecken, maer vergeefs, voor 't aldoordringende oogh.</l>
+<l>De lucht betreckt allengs. zy zien den regenboogh</l>
+<l>Gespannen, als een bode en voorspoock van Godts plaegen.</l>
+<l>De hemel treurt in rou. geen handenwringen, klaegen,</l>
+<l>Noch schreien helpt den mensch en zijne weêrgade. ach,</l>
+<l>Het weêrlicht, reis op reis: het dondert, slagh op slagh.</l>
+<l>Al wat men hoort en ziet is schriek, en angst, en zuchten:</l>
+<l>Zy vlughten voor hun schim, maer kunnen niet ontvlughten</l>
+<l>Den worm, die 't hart doorknaeght, het overtuight gemoedt.</l>
+<l>Zy knickebeenen beide, en struicklen, voet voor voet.</l>
+<l>Het aengezicht ziet doots, en d'oogen, diep verdroncken</l>
+<l>In traenen, zien geen licht. hoe is de moedt gezoncken!</l>
+<l>Hoe stack hy flus het hooft zoo moedigh in de lucht!</l>
+<l>Het ritslen van een bladt, of beeck, een klein gerucht</l>
+<l>Verbijstert hen; terwijl een zwangre wolck komt daelen,</l>
+<l>Die scheurt, en baert allengs een licht, en glans, en straelen,</l>
+<l>Daer d'Opperste uit verschijnt, in dien bedruckten staet,</l>
+<l>En dondert met zijn stem, die hen ter aerde slaet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l>Och och och och, de mensch waer nutter noit geschapen.</l>
+<l>Dat leert zich aen een vrucht, een' mont vol saps, vergaepen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Gab.</hi></speaker>
+<l>O Adam, dondert Godt, waer zijt ghy toe geraeckt.</l>
+<l>Vergeefme, ô Heer: ick vlught uw aenzicht, bloot, en naeckt.</l>
+<l>Wie leerde u, vraegt hem Godt, uw schaemte en naektheit kennen?</l>
+<l>Durft ghy uw lippen aen verbode vruchten schennen?</l>
+<l>Mijn gade, mijne bruit bekoorde my, helaes.</l>
+<l>Zy zeght: de slimme slang bedrooghme met dit aes.</l>
+<l>Dus schuift elck van den hals den oirsprong der gebreken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l>Gena. wat vonnis wort op dit vergrijp gestreecken?</l>
+</sp>
+<pb n="66"/>
+<sp>
+<speaker><hi rend="i">Gab.</hi></speaker>
+<l>De Godtheit dreight de vrou, die Adam heeft verleit,</l>
+<l>Met ween, en baerens noot, en onderworpenheit;</l>
+<l>Den man met arbeit, zweet, en zorge, en lastigh slaven;</l>
+<l>Den acker, die den mensch ten leste zal begraven,</l>
+<l>Met onkruit, en veel ramp; de Slang, om 't loos misbruick</l>
+<l>Van haer doortrapte tong, zal kruipen op den buick,</l>
+<l>Langs d'aerde heene, en slechts by stof en aerde leven.</l>
+<l>Maer om den armen mensch een' vasten troost te geven,</l>
+<l>In zulck een jammernis, belooft de Godtheit trou</l>
+<l>Te wecken, uit het zaet en bloet van d'eerste vrou,</l>
+<l>Den Stercken, die de Slang, den Draeck, het hooft zal pletten,</l>
+<l>Door erfhaet, van geen tijt noch eeuwen te verzetten.</l>
+<l>En schoon dat felle Dier hem naer de hielen bijt,</l>
+<l>Noch triomfeert de Helt met eere, na dien strijt.</l>
+<l>Ick koom uit 's Hooghsten naem dat onheil u ontvouwen.</l>
+<l>Stel daetlijck orden, eerze ons moeite op moeite brouwen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mich.</hi></speaker>
+<l>Uriël, Schiltknaep, die het heiligh Recht bewaert,</l>
+<l>En reuckeloosheit straft; grijp aen uw vlammend zwaert:</l>
+<l>Vliegh heene naer om laegh, en drijfze beide uit Eden,</l>
+<l>Die d'eerste wet zoo blint zoo reuckloos overtreden.</l>
+<l>Bewaeck den ingang van 't ontheilight paradijs,</l>
+<l>En keer de ballingen met kracht af van de spijs,</l>
+<l>Den boom, die 't leven reckt. gedoogh niet datze pluicken</l>
+<l>d'Onsterfelijcke vrucht, en 't hemelsch ooft misbruicken.</l>
+<l>Ghy wort op schiltwacht voor den hof en boom gestelt.</l>
+<l>Dat Adam buiten zwerve, en, vroegh en spade, velt</l>
+<l>En klaigront ommeploegh', waer uit hem Godt bootseerde.</l>
+<l>Ozias, aen wiens vuist de Godtheit zelf vereerde</l>
+<l>Den zwaren hamer van gekloncken diamant,</l>
+<l>En ketens van robijn, en krammen, spits van tant,</l>
+<l>Ga heene, vang en span het heir der helsche dieren,</l>
+<l>Den Leeu, en fellen Draeck, die tegens ons banieren</l>
+<l>Dus woeden: vaegh de lucht van dees vervloeckte jaght,</l>
+<l>En boeize aen neck en klaeu, en ketenze met kracht.</l>
+<pb n="67"/>
+<l>Dees sleutel van den put des afgronts en zijn holen</l>
+<l>Wort, Azarias, u en uwe zorgh bevolen.</l>
+<l>Ga heene, sluit in 't hol al wat ons maght bestrijt.</l>
+<l>Maceda, neem dees torts, die vlam is u gewijt.</l>
+<l>Ontsteeck den zwavelpoel, in 't middelpunt der aerde,</l>
+<l>En pijnigh Lucifer, die zoo veel gruwlen baerde,</l>
+<l>In 't eeuwighbrandend vier, gemengt met killen vorst;</l>
+<l>Daer droefheit, Gruwzaemheit, Versteentheit, Honger, Dorst,</l>
+<l>De Wanhoop, zonder troost, de prickel van 't geweeten,</l>
+<l>En onverzoenbaerheit, een straf van 't boos vermeeten,</l>
+<l>Versteecken van den glans der Godtheit, in dien roock,</l>
+<l>Getuigen 's hemels ban, gevelt op 't heiloos Spoock;</l>
+<l>Terwijl 't beloofde Zaet, verzoenende Godts toren,</l>
+<l>Herstelle uit liefde al wat in Adam wert verloren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Rey.</hi></speaker>
+<l>Verlosser, die de Slang het hooft verpletten zult,</l>
+<l>'t Vervallen Menschdom eens van Adams errefschult</l>
+<l>Verlossen t'zijner tijt, en weêr, voor Evaes spruiten,</l>
+<l>Een schooner paradijs hier boven opensluiten;</l>
+<l>Wy tellen d'eeuwen, en het jaer, en dagh, en uur,</l>
+<l>Dat u gena verschijn'; de quijnende Natuur</l>
+<l>Herstell', verheerelijcke in lichaemen, en zielen;</l>
+<l>Stoffeerende den troon, daer d'Engelen uitvielen.</l>
+<l>&#160;</l>
+<l rend="; 1tab"><hi rend="spat">UIT</hi>.</l>
+</sp>
+</div>
+<div type="chapter">
+<pb n="68"/>
+<head rend="h3">Moyses gezang.</head>
+<lg type="poem">
+<l>O Hemel, hoor naer mijne reden.</l>
+<l rend="; 1tab">Het aertrijck geef mijn stem gehoor.</l>
+<l rend="; 1tab">Mijn leering druipe in ieders oor,</l>
+<l>Gelijck de wolcken naer beneden.</l>
+<l>Ick wensche dat de woorden vloejen,</l>
+<l rend="; 1tab">Uit mijnen mont, als dau, en vocht;</l>
+<l rend="; 1tab">Gelijck de regen, uit de locht;</l>
+<l>Het kruit, en druppels 't gras besproejen:</l>
+<l>Dewijl mijn tong den naem des Heeren</l>
+<l rend="; 1tab">Verheffen wil, gelijck 't behoort.</l>
+<l rend="; 1tab">Geef Gode alleen den prijs: komt voort,</l>
+<l>En helpt zijn majesteit vermeêren.</l>
+<l>Godts wonderwercken zijn volkomen,</l>
+<l rend="; 1tab">En al zijn paden loopen recht.</l>
+<l rend="; 1tab">Godt is getrou: geen valscheit hecht</l>
+<l>Op dien rechtvaerdigen, en vroomen.</l>
+<l>Die zich geensins als kinders droegen,</l>
+<l rend="; 1tab">Maer schendigh, tegen 's hemels stem,</l>
+<l rend="; 1tab">Zich zelfs vergreepen, gaven hem</l>
+<l>Niet weinigh stof van ongenoegen.</l>
+<l>Verkeert geslacht, bedorve rancken,</l>
+<l rend="; 1tab">Onwetend volck, te dwaes en snoo,</l>
+<l rend="; 1tab">Bejegent ghy de Godtheit zoo?</l>
+<l>Is dit den Allerhooghsten dancken?</l>
+<l>Is hy dan niet uw rechte Vader,</l>
+<l rend="; 1tab">Uw eigen vooght, en wettigh Heer,</l>
+<l rend="; 1tab">Die u bootseerde tot zijne eer,</l>
+<l>En 't wezen gaf, en schiep te gader?</l>
+<l>Gedenck aen d'overoude dagen,</l>
+<l rend="; 1tab">En loop met uw gedachten vry</l>
+<pb n="69"/>
+<l rend="; 1tab">Door alle huizen op een ry:</l>
+<l>Ga heene, ga uw' vader vragen:</l>
+<l>Hy zal u al 't voorleden mellen,</l>
+<l rend="; 1tab">En wat 'er is gebeurt voorheên.</l>
+<l rend="; 1tab">Ga vraegh uwe ouders naer 't voorleên:</l>
+<l>Zy zullen 't u in 't lang vertellen.</l>
+<l>Toen d'Opperste elck zijn lant ging toonen,</l>
+<l rend="; 1tab">Toen Adams afkomst wiert verspreit,</l>
+<l rend="; 1tab">Hy elck zijn deel heeft toegeleit,</l>
+<l>Naer 't juist getal van Jakobs zoonen.</l>
+<l>Godts volck is 't eigendom des Heeren,</l>
+<l rend="; 1tab">En Jakob blijft zijn errefpant.</l>
+<l rend="; 1tab">Hy vont hem in verwildert lant,</l>
+<l>Daer Schrick en Eenzaemheit verkeeren.</l>
+<l>Hy voerde hem omher, bewogen</l>
+<l rend="; 1tab">Van liefde, en gaf dien zoone een wet;</l>
+<l rend="; 1tab">Bewaerde hem voor ramp en smet,</l>
+<l>Gelijck den appel van zijne oogen.</l>
+<l>Gelijck een arent vlugge vogels</l>
+<l rend="; 1tab">Tot vliegen port, rontom hen zweeft,</l>
+<l rend="; 1tab">Spreit Godt zijn pennen uit, en heeft</l>
+<l>Hem opgenomen op de vlogels.</l>
+<l>De waere Godt alleen geleide</l>
+<l rend="; 1tab">Hem op dien toght: geen heidensch godt,</l>
+<l rend="; 1tab">Of uitheemsch ongodt broght zijn lot</l>
+<l>En erfdeel door woestijn en heide.</l>
+<l>Hy zette het met zijne veder</l>
+<l rend="; 1tab">Op hooge landen, in een lucht,</l>
+<l rend="; 1tab">En velt, vol spijze en ackervrucht</l>
+<l>En weelige gewassen, neder.</l>
+<l>Daer zoogen d'uitgekore lippen</l>
+<l rend="; 1tab">Aen honighdau het hart gezont;</l>
+<l rend="; 1tab">Aen oli, die hun in den mont</l>
+<l>Quam vloejen, van de harde klippen;</l>
+<pb n="70"/>
+<l>Aen boter van de gladde koejen,</l>
+<l rend="; 1tab">De schaepemelck, 't gemeste lam,</l>
+<l rend="; 1tab">En Bazans bock, en vetten ram.</l>
+<l>De tarwe bloem, zoo schoon in 't bloejen.</l>
+<l>Godt schonck hem rustigh van den klaeren</l>
+<l rend="; 1tab">En rooden wijn: aldus gemest</l>
+<l rend="; 1tab">En zat, begon de zoon in 't lest</l>
+<l>Wêerspannigh achter uit te vaeren.</l>
+<l>De zoon wert gladt, en vet, en grover,</l>
+<l rend="; 1tab">Verliet de Godtheit, die hem schiep,</l>
+<l rend="; 1tab">Ontviel de Godtheit, die hem riep,</l>
+<l>En zette aen vruchtbre beemden over.</l>
+<l>Zy terghden Godt, door vreemde goden.</l>
+<l rend="; 1tab">Ontstaecken 's hemels Majesteit</l>
+<l rend="; 1tab">Tot gramschap, door de gruwzaemheit</l>
+<l>Der afgoôn, hun zoo streng verboden.</l>
+<l>Zy offerden den Goôn der beemden,</l>
+<l rend="; 1tab">En niet den Godt, die hen verbont.</l>
+<l rend="; 1tab">Zy dienden, los en zonder gront,</l>
+<l>Den onbekenden, en den vreemden;</l>
+<l>De nieuwe en onbekende altaeren,</l>
+<l rend="; 1tab">By uwe vaders noit ge-eert.</l>
+<l rend="; 1tab">Ghy lochent Godt, die u bootseert,</l>
+<l>En laet uw' Heer en Schepper vaeren.</l>
+<l>Dat zagh d'Almaghtige, uit zijn troonen,</l>
+<l rend="; 1tab">Ontsteecken van verbolgenheit,</l>
+<l rend="; 1tab">Geterght door 't schendigh onbescheit</l>
+<l>Van zijne dochteren, en zoonen.</l>
+<l>Hy sprack: ick wil voor deze boozen</l>
+<l rend="; 1tab">Mijn aenschijn decken met een wolck,</l>
+<l rend="; 1tab">En zien den uitgang van dit volck,</l>
+<l>Verkeerde kinders, trouweloozen.</l>
+<l>Men durf door ongoôn my vergrammen,</l>
+<l rend="; 1tab">My tergen door afgodery.</l>
+<pb n="71"/>
+<l rend="; 1tab">Ick wil een ander volck aen my</l>
+<l>Verbinden, buiten Jakobs stammen.</l>
+<l>Ick wil verwecken dwaze volcken,</l>
+<l rend="; 1tab">Ten trots van hunnen wrevlen moedt.</l>
+<l rend="; 1tab">Mijn gramschap zal, gelijck een gloet,</l>
+<l>Ontsteecken 's afgronts diepste kolcken;</l>
+<l>Al 't lant met zijne vruchten blaecken,</l>
+<l rend="; 1tab">Der bergen gront in asch vertreên,</l>
+<l rend="; 1tab">De rampen stapelen op een,</l>
+<l>En hen met al mijn pijlen raecken.</l>
+<l>De honger zal hun vleesch verzwelgen.</l>
+<l rend="; 1tab">'t Gevogelt om hen pickt en zwiert.</l>
+<l rend="; 1tab">De felle slang en wreet gediert</l>
+<l>Zal hen, in stof gesleipt, verdelgen.</l>
+<l>Het zwaert van binnen, schrick van buiten</l>
+<l rend="; 1tab">Zal t'effens al wat my mishaeght</l>
+<l rend="; 1tab">Bederven, jongeling, en maeght,</l>
+<l>Den ouden man, en teêre spruiten.</l>
+<l>Dan wil, dan wil ick schimpwijs vraegen:</l>
+<l rend="; 1tab">Waer zijnze nu in roock en wint?</l>
+<l rend="; 1tab">Ick wilze, waer men menschen vint,</l>
+<l>Uit elcks gedachtenisse vaegen.</l>
+<l>Doch om geen' vyant stof te geven</l>
+<l rend="; 1tab">Tot lastren, schortte ick deze straf,</l>
+<l rend="; 1tab">Eer zy hun haetren voedtsel gaf,</l>
+<l>Om trotser my te wederstreven.</l>
+<l>Zy moghten licht uit hooghmoedt stoffen</l>
+<l rend="; 1tab">Ons hant is sterck, daer 't al op stuit.</l>
+<l rend="; 1tab">Hun Godtheit voerde dit niet uit,</l>
+<l>Noch heeftze door haer maght getroffen.</l>
+<l>O raedelooze, en zinneloozen!</l>
+<l rend="; 1tab">Och, was dit volck toch wijs en vroet,</l>
+<l rend="; 1tab">En zaegh noch tijdigh te gemoet</l>
+<l>D'aenstaende straf. en plaegh der boozen!</l>
+<pb n="72"/>
+<l>Hoe kan een enkle, duizent jaegen,</l>
+<l rend="; 1tab">En twee, tien duizent op den toght?</l>
+<l rend="; 1tab">Is 't niet om dat hen Godt verkocht,</l>
+<l>En dreef in 't net, om hem te plaegen?</l>
+<l>Ons Godtheit slaghte noit de goden</l>
+<l rend="; 1tab">Der vyanden: dat boos geslacht</l>
+<l rend="; 1tab">Kan zelf getuigen van de maght,</l>
+<l>Waer voor alle afgoôn heenevlooden.</l>
+<l>De wijnstock, die ons haeters pooten,</l>
+<l rend="; 1tab">Is als der Sodomijten ranck.</l>
+<l rend="; 1tab">En Gomorreeschen ackerdranck;</l>
+<l>Een bittre wijn, vol gal gegooten.</l>
+<l>Hun wijn is gal van felle draecken,</l>
+<l rend="; 1tab">En doodlijck addrengift. En broet</l>
+<l rend="; 1tab">Dit niet al stil, in mijn gemoedt,</l>
+<l>Bezegelt, als een schat van wraecken?</l>
+<l>Ick hou de weêrwraeck voor mijn eigen,</l>
+<l rend="; 1tab">En wil 't vergelden, op zijn tijt,</l>
+<l rend="; 1tab">Op datze sneuvlen in den strijt.</l>
+<l>De dagen naecken, die hun dreigen.</l>
+<l>De tijt, beschoren tot hun schade,</l>
+<l rend="; 1tab">Is voor de hant. de hemel zal</l>
+<l rend="; 1tab">De boosheit brengen tot een' val,</l>
+<l>Zijn dienaers troosten, uit genade.</l>
+<l>Zy zullen zien hoe die hem haeten</l>
+<l rend="; 1tab">In kracht vermindren, en getal,</l>
+<l rend="; 1tab">En hoeze smilten, die op wal</l>
+<l>En stercke muren zich verlaeten.</l>
+<l>Dan roeptghe: waer zijn nu hun goden,</l>
+<l rend="; 1tab">Hun toevlught, en hun toeverlaet,</l>
+<l rend="; 1tab">Van welcker offer zy verzaet</l>
+<l>En vet geworden zijn, gevlooden?</l>
+<l>Van welcker offerwijn zy nutten?</l>
+<l rend="; 1tab">Zy geven nu zich zelfs eens bloot,</l>
+<pb n="73"/>
+<l rend="; 1tab">En redden u, in dezen noot.</l>
+<l>'t Is tijt, dat zy u nu beschutten.</l>
+<l>Nu merckt, aen 't geen 'er is bedreven,</l>
+<l rend="; 1tab">Dat ick alleen de Godtheit ben,</l>
+<l rend="; 1tab">En, neffens my, geene andre ken.</l>
+<l>Ick ben de Heer van doot, en leven.</l>
+<l>Ick quetse, en zalve, aen alle zijden,</l>
+<l rend="; 1tab">En geen gewelt, noch geene kracht</l>
+<l rend="; 1tab">Kan iemant rucken uit mijn maght,</l>
+<l>Noch voor mijn hant zich zelf bevrijden.</l>
+<l>Ick hef mijn rechte hant naer boven,</l>
+<l rend="; 1tab">En zweere by mijn Majesteit:</l>
+<l rend="; 1tab">Ick leef alleen in eeuwigheit,</l>
+<l>Die alle maghten kan verdooven.</l>
+<l>Indien ick koom' mijn zwaert te wetten,</l>
+<l rend="; 1tab">Tot dat het als een blixem strael,</l>
+<l rend="; 1tab">En mijne hant, met schitterend stael</l>
+<l>Gewapent, zich in 't recht ga zetten;</l>
+<l>Zoo wil ickme aen mijn haeters wreecken,</l>
+<l rend="; 1tab">Vergelden hunnen wrevlen moedt.</l>
+<l rend="; 1tab">Mijn pijlen zullen, root van bloet,</l>
+<l>En dronken, druppelen, en leken.</l>
+<l>Mijn zwaert zal 's vyants vleesch verslinden,</l>
+<l rend="; 1tab">En 't bloet der dooden, in den slagh;</l>
+<l rend="; 1tab">'s Gevangens vleesch, die met geklagh</l>
+<l>Bloots hoofts zich boejen liet, en binden.</l>
+<l>Dat allerhande volck, en tongen</l>
+<l rend="; 1tab">Godts volleck loven: want hy boet</l>
+<l rend="; 1tab">Zijn dienaers schade, en wreeckt hun bloet,</l>
+<l>Uit wraecke tot dees strafgedrongen.</l>
+<l>Hy zal het onrecht van zijn zoonen</l>
+<l rend="; 1tab">Uit yver wreecken, naer zijn maght,</l>
+<l rend="; 1tab">Maer Jakobs erfdeel en geslacht</l>
+<l>Genadigh vallen, en verschoonen.</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="74"/>
+<head rend="h3">Het geloofs-teken. der apostelen.</head>
+<lg type="poem">
+<l>ICk stut de hoop van mijn gemoedt</l>
+<l>Met mijn geloof in Godt den Vader,</l>
+<l rend="; 1tab">Almaghtigh, en volkomen goet,</l>
+<l>Die hemel, aerde, en zee te gader</l>
+<l rend="; 1tab">Hun wesen gaf, ick rust met een</l>
+<l>Op <hi rend="spat">JESUS</hi>, boven zijn genooten</l>
+<l rend="; 1tab">Gezalft, des Vaders zoon alleen,</l>
+<l>Van eeuwigheit uit hem gesprooten,</l>
+<l rend="; 1tab">Ons aller Priester, Vorst, en Heer,</l>
+<l rend="; 1tab">En Leeraer, waerdigh prijs en eer.</l>
+<l>&#160;</l>
+<l rend="; 1tab">Die, in der tijt oock, door de kracht</l>
+<l>Des Geests, die heiligh is, ontfangen</l>
+<l rend="; 1tab">Uit Davids Koningklijck geslacht.</l>
+<l>Na aller vaderen verlangen,</l>
+<l rend="; 1tab">Geboren wert uit eene Maeght,</l>
+<l>Maria: zonder schult most lijden,</l>
+<l rend="; 1tab">En voor Pilatus stoel gedaeght,</l>
+<l>In 't endt, benaeut van alle zijden,</l>
+<l rend="; 1tab">Aen 't kruis den bittren dootsnick gaf;</l>
+<l rend="; 1tab">Geslooten wert in 't naere graf;</l>
+<l>&#160;</l>
+<l rend="; 1tab">Ter helle daelde: wederom</l>
+<l>Ten derden dage, van 's doots keten</l>
+<l rend="; 1tab">Ontbonden, naer den hemel klom,</l>
+<l>Daer hy in glorie is gezeten,</l>
+<l rend="; 1tab">Aen 's Vaders rechte hant, wiens maght</l>
+<l rend="; 1tab">Het al bestiert door zijn vermogen:</l>
+<pb n="75"/>
+<l rend="; 1tab">Van waer men hem ten oordeel wacht,</l>
+<l>Als Rechter, in des hemels boogen;</l>
+<l rend="; 1tab">Om uit de wolcken, zijnen troon,</l>
+<l rend="; 1tab">Te scheiden levenden, en doôn.</l>
+<l>&#160;</l>
+<l rend="; 1tab">'k Geloof [waer in my Godt versterck']</l>
+<l>Oock in den Heilgen Geest, vol vrede:</l>
+<l rend="; 1tab">De heilge en Katholijcke Kerck;</l>
+<l>Der Heiligen gemeenschap mede:</l>
+<l rend="; 1tab">Vergiffenis van alle quaet:</l>
+<l>Verrijsenis van vleesch en âren:</l>
+<l rend="; 1tab">Het leven in volkomen Staet,</l>
+<l>En niet bepaelt van tijt of jaeren.</l>
+<l rend="; 1tab">Dit is 't Apostelijck geloof.</l>
+<l rend="; 1tab">Dat niemant ons hier van beroof.</l>
+</lg>
+</div>
+<div type="chapter">
+<head rend="h3">Het gebedt des Heeren.</head>
+<lg type="poem">
+<l>O Vader, die my naer uw beelt</l>
+<l>Bootseerde, na den val herteelde,</l>
+<l rend="; 1tab">En heilighde, en my mededeelt,</l>
+<l>Uit uwen rijcken schoot, vol weelde,</l>
+<l rend="; 1tab">Wat ziel en lichaem onderhoudt;</l>
+<l>En my mijn lusten leert betoomen;</l>
+<l rend="; 1tab">Mijn hoop, op uw gena gebout</l>
+<l>En liefde, ô Vader aller vromen,</l>
+<l rend="; 1tab">Ten hemel stijght, om, als een zoon,</l>
+<l rend="; 1tab">Te knielen voor uw' hoogen troon,</l>
+<pb n="76"/>
+<l rend="; 1tab">Uw groote naem, ô groote Godt,</l>
+<l>Van valsche godtheên afgescheiden,</l>
+<l rend="; 1tab">En wat verroest en haest verrot,</l>
+<l>Gedient wort by den blinden Heiden;</l>
+<l rend="; 1tab">Uw heiligheit, uw majesteit,</l>
+<l>Voozienigheit, en almaght blijven</l>
+<l rend="; 1tab">Zoo lang en wijder uitgebreit</l>
+<l>Als 't licht de schaduw zal verdrijven.</l>
+<l rend="; 1tab">Uw heerlijckheit en eere strael'</l>
+<l rend="; 1tab">Dat geen bepaeltheit haer bepael'.</l>
+<l>&#160;</l>
+<l rend="; 1tab">Uw Rijck, geen aertsch noch weereltsch Rijck,</l>
+<l>Verknocht aen plaets, en grens, en tijden,</l>
+<l rend="; 1tab">Maer uwe majesteit gelijck,</l>
+<l>In hun, die voor uw eere strijden,</l>
+<l rend="; 1tab">Op hoop, van eens met uwen Zoon</l>
+<l>In eeuwigheit te triomfeeren,</l>
+<l rend="; 1tab">Daer duizenden, voor uwen troon,</l>
+<l>Uw heerlijckheit en Godtheit eeren;</l>
+<l rend="; 1tab">Dat Rijck moet groeien, en volsta</l>
+<l rend="; 1tab">In heerlijckheit, als in gena.</l>
+<l>&#160;</l>
+<l rend="; 1tab">Uw wijze wil, en niet mijn wil,</l>
+<l>Gekrenckt door daeghlijx overtreden,</l>
+<l rend="; 1tab">En Adams heiloos erfgeschil,</l>
+<l>Neem' zijnen voortgang hier beneden,</l>
+<l rend="; 1tab">Als boven, in het hemelsch hof,</l>
+<l>Alle Englen, op uw' wenck, uw wetten</l>
+<l rend="; 1tab">Bestemmen, en uw' rijcken lof</l>
+<l>Eenstemmigh zingen, en trompetten.</l>
+<l rend="; 1tab">Mijn wil in uwen wille smilt',</l>
+<l rend="; 1tab">En wille al wat de hemel wilt.</l>
+<pb n="77"/>
+<l rend="; 1tab">Verleen ons, uit uw' vollen schoot,</l>
+<l>Uw woort, en 't voedtsel van genade;</l>
+<l rend="; 1tab">Voor al het Manne en hemelsch broot,</l>
+<l>Op dat dit onze ziel verzaede,</l>
+<l rend="; 1tab">En voede, en stercke, eer zy verreist.</l>
+<l>Verleen ons door uw' zegen, heden</l>
+<l rend="; 1tab">En daeghlijx, wat de nootdruft eischt,</l>
+<l>Tot onderhoudt van lijf en leden;</l>
+<l rend="; 1tab">Hoewel geensins voor my alleen,</l>
+<l rend="; 1tab">Maer alle menschen in 't gemeen.</l>
+<l>&#160;</l>
+<l rend="; 1tab">Naerdienwe, door verzuim van deught,</l>
+<l>Of boosheit, menighmael bedreven,</l>
+<l rend="; 1tab">Ons schuldigh vinden van der jeught,</l>
+<l>Zoo wil de schulden ons vergeven;</l>
+<l rend="; 1tab">Gelijckwe 's naesten reekning net,</l>
+<l>In 't schultboeck van ons harte, sluiten,</l>
+<l rend="; 1tab">Met weêrwraek haet noch wrock besmet,</l>
+<l>Uit liefde, om 's naesten leet te stuiten;</l>
+<l rend="; 1tab">Zoo boeten wy door kleen gedult</l>
+<l rend="; 1tab">Uw' grooten eisch, ons zwaere schult.</l>
+<l>&#160;</l>
+<l rend="; 1tab">Wanneer de Hel ons klampt aen boort,</l>
+<l>De lust der weerelt hart en zinnen</l>
+<l rend="; 1tab">Met eenen glimp van vreught bekoort,</l>
+<l>Het zy van buiten, of van binnen;</l>
+<l rend="; 1tab">Zoo troost en moedigh en versterck</l>
+<l>Den zwacken geest door uw genade,</l>
+<l rend="; 1tab">Om onbezweecken in dit perck,</l>
+<l>En onverwonnen, zonder schade,</l>
+<l>Z'ontworstelen dit zielgevaer.</l>
+<l rend="; 1tab">Och, dat geschiede: dat zy waer.</l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="78"/>
+<head rend="h3">Noodigh berecht over de nieuwe Nederduitsche misspellinge.</head>
+<p>SEdert eenige jaren herwaert had Nederduitschlant het geluck dat vernuftige Schrijvers en Letterkunstenaers loflijck hunnen yver besteedden in onze Spraeck te schuimen, te zuiveren, te verrijcken, en te regelen, door schriften, of letterkunstigh onderwijs; waerover wy tegenwoordigh niet voorneemen ons inzicht, onder verbeteringe van letterwijzen, te melden, dan alleen wat de misspellinge belangt, in het verdubbelen der klinckletteren, by weinigen begonnen in te voeren; gelyck [om een voorbeelt te stellen] voor <hi rend="i">Vader, Vaader</hi>; voor <hi rend="i">Vrede, Vreede</hi>; voor <hi rend="i">Koning, Kooning</hi>, en diergelijcke walgende verdubbelingen van klinckletteren meer; quansuis om de langkheit van den klanck der syllabe of lettergreepe uit te drucken, en niet te lezen <hi rend="i">Vadér, Vredé, Koning:</hi> welcke verdubbelinge ick, gelyck oock eertijts van wylen den hooghgeleerden Heere <hi rend="i">Vossius</hi> zelf, oordeele een gansch ongerijmde en overtollige misspellinge te wezen, tegens den voorgang van Hebreen, Griec-<pb n="79"/>ken, Latijnen, Italianen, Spanjaerden, Franschen, Hooghduitschen, en andere tongen: en schoon men dezen voet van verdubbelen al volghde, noch blijft evenwel de twijfelachtigheit der langkheit of kortheit des klaneks der syllabe of lettergreepe, in een ongelijck grooter getal van andere woorden, daer de klanck lang valt, op d'eerste of tweede of derde lettergreep, gelijck by deze voorbeelden blijckt, namelijck op d'eerste, in <hi rend="i">àfgaen</hi>; op de tweede, in <hi rend="i">beerín</hi>; op de derde, in <hi rend="i">koop̀vaerdy</hi>: het welck ick noodigh vondt aen te wyzen, om den inbreuck van deze wilde woestheit te stuiten, de Nederlantsche pennen voor d'aenstootelijcke klippe dezer misselijcke misspellinge te waerschuwen, en zulck een incktvlack uit onze boecken te wisschen.</p>
+<lg type="poem">
+<head>Horatius:</head>
+<l><hi rend="i">Leeflang: vaerwel. of slaet ghy beter gelt als dit</hi>,</l>
+<l><hi rend="i">Zoo deel het rustigh me: zoo niet, bestem mijn wit.</hi></l>
+</lg>
+</div>
+</body>
+</text>
+
+</TEI.2>

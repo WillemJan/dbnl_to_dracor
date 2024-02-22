@@ -1,0 +1,4516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+        <fileDesc>
+           <titleStmt>
+               <title type="main">Den dullen ammirael, of Stryt om d'eer</title>
+               <author>Lope de Vega</author>
+               <editor role="translator">Hendrik de Graef</editor>
+           </titleStmt>
+           <editionStmt>
+               <edition>
+                   Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een diplomatische weergave van <hi rend="i">Den dullen ammirael, of Stryt om d'eer</hi> van Lope de Vega, in een vertaling van Hendrik de Graef uit 1670.
+               </edition>
+               <respStmt>
+                   <resp>
+                       <corr>p. VIII: accolades verspreid over meerdere regels kunnen in deze digitale versie niet weergegeven worden. Daarom wordt de accolade hier, met bijbehorende tekst, op iedere regel herhaald.</corr>
+                   </resp>
+               </respStmt>
+           </editionStmt>
+           <extent><!-- aantal pagina's --></extent>
+           <scandetails>
+               <scan type="I">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>2</empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+               <scan type="1">
+                   <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                   <empty-page>62</empty-page>
+                   <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                   <insert after=""></insert>
+               </scan>
+           </scandetails>
+           <publicationStmt>
+               <idno type="titelcode">lope001dull01_01</idno>
+               <idno type="format">DBNL-TEI 1</idno>
+               <availability>
+                   <p>2011 dbnl</p>
+               </availability>
+           </publicationStmt>
+           <notesStmt>
+               <note></note>
+           </notesStmt>
+           <sourceDesc>
+               <bibl>
+                   <idno type="isbn"></idno>
+                   <idno type="usedcopy">exemplaar Theater Instituut Nederland, signatuur: 13 A 34: 3</idno>
+               </bibl>
+               <p>Lope de Vega, <hi rend="i">Den dullen ammirael, of Stryt om d'eer</hi> (vert. Hendrik de Graef). Jacob Lescailje, Amsterdam 1670</p>
+               <p>&#160;</p>
+           </sourceDesc>
+       </fileDesc>
+       <encodingDesc>
+           <projectDesc>
+               <p>Wijze van coderen: standaard</p>
+               <p></p>
+           </projectDesc>
+       </encodingDesc>
+       <profileDesc>
+           <langUsage>
+               <language id="nl">Nederlands</language>
+           </langUsage>
+       </profileDesc>
+       <ebook>
+           <bibl>
+               <title type="main">Den dullen ammirael, of Stryt om d'eer</title>
+               <author>Lope de Vega</author>
+               <editor role="translator">Hendrik de Graef</editor>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </ebook>
+       <pod>
+           <bibl>
+               <title type="main">Den dullen ammirael, of Stryt om d'eer</title>
+               <author>Lope de Vega</author>
+               <editor role="translator">Hendrik de Graef</editor>
+               <idno type="isbn"></idno>
+               <idno type="nur"></idno>
+               <imprint>
+                   <date></date>
+                   <publisher></publisher>
+                   <pubPlace></pubPlace>
+               </imprint>
+           </bibl>
+           <idno type="isbn"></idno>
+           <order>
+               <price curr="euro"></price>
+               <link></link>
+           </order>
+           <blurb><p></p></blurb>
+           <titlepage><p></p></titlepage>
+           <colofon><p></p></colofon>
+       </pod>
+       <revisionDesc>
+           <change>
+               <date>2011-09-29</date>
+               <respStmt>
+                   <name type="person">SG</name>
+               </respStmt>
+               <item>colofon toegevoegd</item>
+           </change>
+       </revisionDesc>
+   </teiHeader>
+         <text>
+<body><cf>
+<div type="chapter">
+
+<pb n="I"/>
+<p>DEN DULLEN</p>
+<p>AMMIRAEL, OF STRYT OM D'EER,</p>
+<p>BLY-EYND SPEL;</p>
+<p>Door M<hi rend="sup">r</hi>. H. DE GRAEF.</p>
+<p><hi rend="i">Vertoont op d' Amsterdamsche Schouwburg.</hi></p>
+<p><figure>
+<p><xptr to="lope001dull01ill0001.gif"/></p>
+</figure></p>
+<p>t' AMSTERDAM,</p>
+<p>By J<hi rend="i">acob Lescailje</hi>, Boekverkooper op de Middeldam, naast de Vismarkt, 1670.</p>
+
+</div></cf>
+<div type="chapter">
+<interpGrp>
+<interp type="primair" value="grae002"/>
+</interpGrp>
+<pb n="III"/>
+<head rend="h3">Opdracht aen mijn Heer, myn heer Fredrick van Heuvel.</head>
+<p><hi rend="b">M</hi>YN HEER,</p>
+<p>&#160;</p>
+<p>De wond're tegenspoeden, die de Dichters dezer eeuw onderworpen zijn, zullen nimmermeer getelt, veel min beschreven kunnen werden. Want wy klaerlijck zien, dat veele hare byeenkomst niet en is als een t'zamenrotting, ingenoomen met bitterheydt, daer ieder uytbraeckt zijn vergif en gal, niet (gelijck zy voorgeeven) om de kunst te voeden, de zelve te queecken, en d'onervarene aen te moedigen, om alzoo een spoor te banen, waer door een ieder mogt werden verlicht. O neen! maer eerder om die te verdrucken, den geest en het vuur in zommige alreede ontsteecken, te verdooven, de liefde te blussen, en alle oeffeningen, dus lange by veele tot hun vermaek gepleegt, walghelijck te maecken.</p>
+<p>Ten andren, zoo en is 't geen School daer de reede
+<pb n="IV"/>werdt geoeffendt, en de misgreepen der aenkomelingen matelijk werden berispt, en wat gangbaer is voor goedt gekeurdt, geensins; maar veel eer een ingespanne vierschaer, daer alles door d'onmaetigheyt van hunne driften, (by maniere van spreecken) ten galgh en radt werdt gedoemdt, even daer in volgende dien onervaeren rechter Vargas, voornaem lidt in Albaes bloedtraedt, die op al 't gene hem voor quam geen ander advijs en gaf, dan, ten viere, ten viere: zoo gaet het oock met dese banck, gespannen zijnde, wert alles wat niet en is geschoeyt op hunne leest, jae eer de dingen het licht hebben gezien, en oordeel onderworpen zijn, uytgekreeten voor vodden, vodden: en zoo de zelve ten behoeve der Armen ten Tooneel werden gekeurdt, den genen wien de bezorging der Schouwburg is toevertrouwt, af te schildren met alle aenstootelijcke en onlijdelijcke benaemingen. Wy laeten alle onpartijdige, zoo kenners als lief hebbers eens oordeelen, of, daer zoodanige passien regeeren, eenige nuttigheyt te haelen zy? daer niet anders en wert uytgewerckt, dan, zoo haest zy verstaen iet by der handt genoomen te zijn, het daed'lijk nae-rijmen, niet alleen tot kleinachting des Autheurs, maer tot mercklijcke schaede en hinder der beyder Godtshuysen, wiens voordeel men voor al behoorde te betraghten. Waer uyt dan klaerlijck blijckt, dat in plaetse van een toegang te geven tot de Poësy, dat het is de kunst getyranniseert, vervolgt en geweldt aengedaen, en gelijk wy hier boven hebben gezegt, het vuur der liefde, alreede in zommige ontsteecken, gedooft, en den aenkomeling in zijn yver gestuyt.</p>
+<p>Wy staen gaerne toe, dat wy in de kunst noch veel
+<pb n="V"/>swackheeden onderworpen zijn, en niet alleen dit, maer oock bereyt staen, aen te neemen zoodaenige lessen en vermaeningen waer door wy zouden mogen verlicht werden. Maer terwijl de Poësy is een werking van den geest, zoo en moet men de oefrenaers niet met gewelt, en dwang, te keer gaen; noch zy en willen door geen schelden, lasteren, noch and're verachtlijcke bejeegeningen gevoedt werden, gelijck de dagelijckse voorreedenen en opdragten doorgaans zijn vol gepropt, welcke (om te toonen dat zy in hun galachtige bitterheydt eens zijn) t'elkens met een bezondere naem uyt de voornaemste hunner leeden zijn onderteeckent, eerder streckende om een spoor te banen tot een geduurigen strijt, dan een inleyding gegeeven tot opbouwing van zoo een heylzaem werck.</p>
+<p>Den heer Vondel (wiens schaduw geen van hun alle en mach bereycken) in zijn Bericht aen de Kunstgenooten, toont een veel gevoeghlijcker toegang: den zelven zijn E. wijst minnelijck aen, wat te mijden en aen te neemen zy, en hoe men in een Blyspel matelijck, in een Treurspel hooger van toon moet draven, en doedt d'aenkomelingen de grontreegelen der kunst door braeve reedenen verstaen, zonder eenige verachtelijcke termen te gebruycken, of iet haetelijcks in 't aenzigt te vrijven, maer moedigt elck door vriendelijcke vermaeningen aen, om rustig ten renparck in te treeden, om alzoo den lauwer te winnen, verheffende hun yver, en zugt, tot d'overloflijcke Dichtkunst. Wie heeft ooyt zijn E. (dat licht dezer eeuw, die zoo veel ter liefde van de kunst heeft gedaen, waer door hy eeuwigh op alle tongen onsterflijck zal leeven) zoo den Hopman Roemer hooren speelen, gelijck
+<pb n="VI"/>men in hunne Opdrachten en Voorredens t'elckens bespeurt?</p>
+<p>Oock is de Schouwburg niet tegens haer, maer zy tegens de Schouwburg gekant; 't welck blijckt, dewijl zy, door hun na-rymen van verscheyde Speelen, niet anders toonen dan de grootste vyanden te zijn van de zelve. Doch niet tegenstaende al deze t' zamenspanningen, zoo groeyt de Schouwburg noch dagelijcks tegen deze distelen en doornen aen; en werden de armebussen met merckelijcke meerder somme van penningen dan eenige voorgaende jaeren verrijckt; of hun dit aengenaem is mogen zy zelfs weten: want zy niet en doen dan lasteren en schelden, daer by zy eerlijcke lieden, die tot hun vermaeck iet overzetten en berijmen, quetsen, dezelve voor al de weerelt in de couranten ten toon stellen, waer by wy ons in 't bezonder ten hooghsten vinden beleedigt. Zoo dat U.E. kunstkundige Heer, gelieve dit Spel voor zoodanigh aen te nemen als het U.E. zal behagen, om met den naem van Strijt om d'Eer te begroeten, en met alle danckbare mogelijcke vrindschap te verplichten, waer op ick blijve,</p>
+<p>&#160;</p>
+<p><hi rend="i">Kunstkundige Heer</hi>,</p>
+<p>&#160;</p>
+<p>U.E.</p>
+<p>&#160;</p>
+<p><hi rend="i">dienstverplichte</hi></p>
+<p>Den 18 van Oestmaent 1670, in Amsterdam.</p>
+<p>H.D. GRAEF.</p>
+</div>
+<div type="chapter">
+<pb n="VII"/>
+<head rend="h3">Inhoudt.</head>
+<lg type="poem">
+<l>G<hi rend="i">Ewaende min, en zucht tot Vrouwen eer, en Grooten,</hi></l>
+<l><hi rend="i">Die Strijt om d' Eer, en d' Eer om Strijt voor 't voorhooft stooten,</hi></l>
+<l><hi rend="i">Als spoor- en zinneloos, verschoppend het gebiet:</hi></l>
+<l><hi rend="i">Doch vreedige overlegh, een vreuchdige uytkomst ziet.</hi></l>
+<l><hi rend="i">Wat tracht dan Strijt om d' Eer zoo duddeloos te woeden?</hi></l>
+<l><hi rend="i">De felste gramschap wijckt voor d' eedelste gemoeden.</hi></l>
+</lg>
+</div>
+<div type="chapter">
+<pb n="VIII"/>
+<head rend="h3">Vertoonders.</head>
+<list>
+<item><hi rend="i">Henrick de Valoys</hi>, Koning van Vranckrijck.</item>
+<item><hi rend="i">Karel de Valoys</hi>, Ammirael van Vranckrijck.</item>
+<item><hi rend="i">Blanche</hi>, gemalin van Karel.</item>
+<item><hi rend="i">Louise</hi>, zuster van Karel.</item>
+<item><hi rend="i">Philippo</hi>, 's Konings gunsteling.</item>
+<item><hi rend="i">Leonello</hi>, } Eedelen van den Ammirael.</item>
+<item><hi rend="i">Dionisio</hi>, } Eedelen van den Ammirael.</item>
+<item><hi rend="i">Prudentio</hi>, } Eedelen van den Koning.</item>
+<item><hi rend="i">Theodoro</hi>, } Eedelen van den Koning.</item>
+<item><hi rend="i">Arnoldo</hi>, een Fransche Graef, verlieft op Louise.</item>
+<item><hi rend="i">Tancredo</hi>, Arnoldós dienaer.</item>
+<item><hi rend="i">Rusino</hi>, Hofmeester.</item>
+<item><hi rend="i">Lisida</hi>, } Staet-juffers van Blanche.</item>
+<item><hi rend="i">Filis</hi>, } Staet-juffers van Blanche.</item>
+<item><hi rend="i">Dampier</hi>, } dienaers van den Ammirael.</item>
+<item><hi rend="i">Marsal</hi>, } dienaers van den Ammirael.</item>
+</list>
+</div>
+<div type="act">
+<pb n="1"/>
+<head rend="h2">Stryt om d'eer.</head>
+<head rend="h3">Het eerste bedryf.</head>
+<sp>
+<speaker><hi rend="i">Henrick, met Philippo zijn gunsteling onder snaergespeel in de nacht uyt.</hi></speaker>
+<l><hi rend="b">D</hi>Oor 't spoor des ongevals, stap ick mijn doot te moet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>Hoe vreest zijn Majesteyt? die Vranckrijck sidd'ren doet?</l>
+<l>De konincklijcke kroon gevest op uwe haeren</l>
+<l>In uwe lentetijt, doet Karels ziel vervaren,</l>
+<l>Gy schijnt een wereltsdwang, en hebt het al naer wensch.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Die heerschappy had eer de aldereerste mensch,</l>
+<l>Waer voor dat adem schiep neêrslachtig neêr most bucken,</l>
+<l>Tot ongehoorzaemheydt hem dorst 't gezag ontrucken,</l>
+<l>Toen wiert die vreucht met druck, ja met de doot betaelt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>Gy die door vrouw natuur op uwe zeetel praelt</l>
+<l>Als wettig Rijx-oir, op het heerelijckst verheven.</l>
+<l>Het ongeval weêrstreeft, dat Vorsten durft weêrstreven,</l>
+<l>Gy schijnt te zijn een leeuw, van yder dier ontzien.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Ick ben een fiere leeuw, wie vreest niet mijn gebiên?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>Zoo laet medoogentheydt uw dapp're ziel verduuren,</l>
+<l>Barmhartigheydt verheert metael, en strijtb're muuren,</l>
+<l>Het konincklijck ontzag gebied den adeldom.</l>
+<l>Hier vreest men 's Vorsten haet, daer krijgt men gunst weêrom.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Hoe? zal een zwacke vrouw, voor haer een Vorst doen nijgen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>Indien genegentheydt de eerbaerheydt doet zwijgen,</l>
+<l>Zijn Majesteyt had reên, indien hy zulck een vrouw</l>
+<l>Beminde, die hem was als het behoort getrouw;</l>
+<l>Het is onmogelijck om Blanche te verwinnen,</l>
+<l>Het zal u schande zijn, ay! wilt zulx niet beginnen,</l>
+<l>Wijl Karel haer verheelt de goude morgenster</l>
+<l>De voorboô van Auroor, uw liefde loopt te ver.</l>
+<pb n="2"/>
+<l>Wilt van Louise, niet van Blanches schoonheydt roemen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Zult gy de liefde dan een losse dolheydt noemen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>Dat waer niet vreemt......</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Wanneer 't natuurlijck bloet ontstelt</l>
+<l>Door liefde, niet door haet, of gramschap, noch gewelt.</l>
+<l>'t Is Blanche die alleen dees ziele kan vervoeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>Maer waer toe dit verhael?......</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Koomt gy mijn hart ontroeren,</l>
+<l>Kent gy geen schoonheydt, en wat noch veel schoonder toont?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>De liefde die by u mijn Vorst tot Blanche woont</l>
+<l>Om Karel werpt die weg, mijn Prins bemin Louize</l>
+<l>De zuster van die gy tot Ammirael dorst kiezen,</l>
+<l>Zoo zult gy wel doen, mits dat Blanche door den echt</l>
+<l>Aen Karel is verknocht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>'k Versta niet wat gy zegt,</l>
+<l>Wijl door natuurs penceel, dat god'lijck beelt geciert is,</l>
+<l>Wat adelijcke vrouw als zy zoo gemaniert is:</l>
+<l>Ick min haer meerder als de Fransche Lelystaf.</l>
+<l>Zoo ver zy my verstoot, zoo dael ick in mijn graf.</l>
+<l>'k Verwacht den dageraet voor 't huys van mijn verkooren,</l>
+<l>Kunt gy gedoogen dat uw Koning gaet verlooren?</l>
+<l>Al eer god Febus rendt met zijne kar naer 't West,</l>
+<l>Vaer voort met uw gespeel, de nacht is nu op 't best.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>Zult gy in deze nacht u dus op straet begeven?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Wat zal ick doen die steets van min wert aengedreven?</l>
+<l>'k Moet zien of hare zon my zal beschijnen, of</l>
+<l>Door overwrede brant vermorzelen tot stof.</l>
+<l>Ha straffe Blanche, draegt gy dan geen zucht noch kennis.</l>
+<l>Men deed u noyt gewelt, noch zocht door eereschennis</l>
+<l>Te rooven uwe faem, versteende vyand in.</l>
+</sp>
+<stage>Wert gespeelt waer op den Ammirael uyt komt.</stage>
+<sp>
+<speaker><hi rend="i">Karel, Dionisio, Leonello, Henrick, Philippo.</hi></speaker>
+<l>VErschuyl u op dees plaets, gy heeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Dio.</hi></speaker>
+<l>Wel.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Ha min,</l>
+<pb n="3"/>
+<l>Die door uw dwang my voor de Vorst doet stadig duchten,</l>
+<l>Des Konings jonckheydt baert mijn ziele zorg, en zuchten,</l>
+<l>Niet om dat Blanche toont aen hem gengentheydt,</l>
+<l>O neen! mijn waerde vrouw leeft in verlegentheydt;</l>
+<l>Stantvastiger als klip, of steenrots, is mijn waerde.</l>
+<l>De stamme van Valoys verwelckt door dien ontaerde</l>
+<l>En trotze Koning die zijn vaders gloor verplet,</l>
+<l>Als een tyran heeft hy zig tegens my gezet.</l>
+<l>Hoe fel mijn gramschap blaeckt, noch moet ick eer bewijzen</l>
+<l>Aen die den scepter zwaeyt, wie zal zijn wreetheydt prijzen,</l>
+<l>Mijn hart moet tegens danck betoonen eer, en plicht</l>
+<l>Aen d'afschrick van mijn oog, wiens hatelijck gezicht</l>
+<l>Mijn Blanches ziel vervaert, die hy my poogt t'ontrucken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>'k Hoor ginder volck.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>'t Zal zijn een die zijn ongelucken</l>
+<l>In eenzaemheydt beweent, al dwalend langs de straet,</l>
+<l>Die, als zijn majesteyt, de zoete rust verlaet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Wilt gy dat ick hem voort van deze plaets doe vluchten?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>Den Ammirael zou licht ontwaecken door geruchten,</l>
+<l>Dies vind ick 't niet geraên.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Dat baet mijn liefde niet,</l>
+<l>Den Ammirael is meê al oorzaeck van 't verdriet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>Het waer zijn majesteyt een dwaesheydt hem t'ontwaecken,</l>
+<l>Haer echte bedgenoot, gy zoud, om 't leven raecken.</l>
+<l>De huwlijxbant ontziet geen konincklijcke macht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Wert boosheydt dan van u meer als ontzag geacht,</l>
+<l>Dat dees verwaten my zoo stout derft nader treden?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>Ay geeft mijn reên gehoor.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Ick hoor niet na uw reden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Wie daer?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Leo.</hi></speaker>
+<l>Maeck u bekent.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Wie daer?</l>
+</sp>
+<pb n="4"/>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>Wie zijt gy?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>'t Recht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Philippo.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>Heer.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Het is mijn Karel! wel gezegt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>Wie?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Blanches bedgenoot.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>Wat hoor ick?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Weest voorzichtig.</l>
+<l>Toont u geveynst, vermits de zaeck hier is gewichtig.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>De achterdochten niet als listen zijn mijn Heer.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Schoon hy voorzichtig is, 'k zal bieden tegenweer.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>Wat kunt gy doen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Noch eens, wilt u voor my ontdecken,</l>
+<l>Of 't zal u by de Vorst tot schade en nadeel strecken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Den adeldom men in Parijs by nacht verschoont.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Geen edelman verbergt voor my zijn naem.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>‘Vertoont</l>
+<l>O Henrick, wie gy zijt, hy zal den Koning vinden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>In Vranckrijck het gerecht derft alles onderwinden.</l>
+<l>Spreeck op, wie zijt gy? voort.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Die door dit kleet getuygt</l>
+<l>Dat zoo een, als ick ben, niet voor zijn minder buygt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Hier woont den Ammirael, zie voor u, laet u raden.</l>
+<l>Wanneer men door gewelr uw goet zocht, als verraden</l>
+<l>Uw wooning hielt bezet, zond gy geen weêrstant biên?</l>
+<l>Zoo doe ick oock, vertreck, en laet mijn wil geschiên.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Hoogmoedige, gy zijt......</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Voort, voort, waer na te wachten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Ha trotsen Rechter weet......</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>'k Zou zelfs den Koning achten</l>
+<l>Niet beeter in dees staet als u.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Het zal die zijn</l>
+<l>Die met Louize poogt te trouwen, een wiens pijn</l>
+<l>Hem doolen doet by nacht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Zoo wilt uw naem ontleeden.</l>
+</sp>
+<pb n="5"/>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Gy hebt gehoon mijn reên, dies gaet gerust in vreden.</l>
+<l>Weest geene hinderpael, noch terg geen groots gemoed,</l>
+<l>Laet af te hoonen een die u veel vriendschap doet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Van hier tegaen zal u ontdecken, en doen vrezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ken.</hi></speaker>
+<l>Wel zoo gy zulx vertrouwt, kunt gy 't gerecht niet wezen,</l>
+<l>Door dien de noot u parst, gehitst van achterdocht.</l>
+<l>Verblinde, wie heeft u 't gerecht in 't hooft gebrocht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Verblinde! neen! 'k ben steets geëert van Vorst, en heeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>De list, een dochter van de achterdocht, doet leeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Gy hebt uw leven, met uw wapens, al verbeurt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>O stoute deurwagt die zijn onheyl niet betreurt,</l>
+<l>Verblinde vrager, die door uw nieuwsgierigheden</l>
+<l>Hier speelt den wandelaer, en schaemteloos derft treden</l>
+<l>Tot my den Ammirael, die zoo eerst uyt den Raet</l>
+<l>Gescheyden is, en ga na mijne rustplaets, laet</l>
+<l>O onverstandige heer Karel onbesproogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Hoe gy den Ammirael?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Ick.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Gy?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Ia.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Asgedwongen.</l>
+<l>Wie heeft ter weerelt oyt van zulck een list gehoort?</l>
+<l>Hy noemt hem Karel daer die naem mijn naem is, voort</l>
+<l>Geef meerder zeeckerheyt, en antwoort op mijn vragen.</l>
+<l>‘Kom loosheyt helpt met my een loozen aanslag wagen,</l>
+<l>'k Verzoek den Ammirael dees stoutheyt my vergeeft.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Hy heeft mijn gunst wie dat mijn wil niet wederstreeft;</l>
+<l>De koning zelfs zal u dees daet naer waerde loonen</l>
+<l>Al eer de zon vertreckt op morgen, maer te toonen</l>
+<l>Genegentheydt aen u, zoo maeckt uw naem bekent</l>
+<l>Wijl gy draegt zorg voor my.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Zulx ben ick niet gewent.</l>
+<l>Geduchten Ammirael, den hemel gun u 't leven,</l>
+<l>Zorgvuldigheydt mijn hart hier toe heeft aengedreven.</l>
+<l>De koning zelfs die poogt te waecken voor mijn eer.</l>
+<l>Dit eedelen gebouw vervloeckt verraet, wat meer</l>
+<pb n="6"/>
+<l>Tot ongeval gedijd, en helpt d'elenden schutten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Geluckig is die man die gy zijn leet kunt stutten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Uw woort zy my een wet, als oft des konings waer.</l>
+<l>Mijn dienaers hou?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Dio.</hi></speaker>
+<l>Mijn heer.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Wy hebben geen gevaer,</l>
+<l>Dit is geen volck waer van men onheyl kan vermoeden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Leo.</hi></speaker>
+<l>Mijn heer, het waer niet recht in deze straet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Hoe woeden</l>
+<l>Mijn zinnen, daer dit lijf om d'eer geen sterven vreest.</l>
+<l>In Vranckrijck van uw tijt noyt kloecker heeft geweest.</l>
+<l>Dat het geluck u lang moet met dees eernaem kroonen.</l>
+<l>Gy heeren ick vertreck.</l>
+</sp>
+<stage>Kar. Leon. Dioa. binnen.</stage>
+<sp>
+<speaker><hi rend="i">Philippo, Henrick.</hi></speaker>
+<l>DEn Ammirael derft toonen</l>
+<l>Hoe zijn doorluchre ziel de goude eer betracht.</l>
+<l>Wy zijn by Karel meer, als hy by ons, verdacht.</l>
+<l>Voorzichtig heydt hebr gy, ô Koning, hier van nooden,</l>
+<l>Zijn wijsheyt is uw list al ver verby gevlooden:</l>
+<l>Hy zal niet rusten voor de wyde weerelr ziet</l>
+<l>Wat dat de Vorst had voor.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Gy vat mijn meening niet,</l>
+<l>Dat ick Louise min, is slechts maar uyt gevonden,</l>
+<l>De listigheydt mijn vrind heeft zulx al onderwonden,</l>
+<l>Medoogen in dees tijt geen Majesteit beweent.</l>
+<l>Mijn ziel mint Blanche, schoon zy straf blijft, en versteent.</l>
+<l>Het konincklijck ontzag haer trotsheydt zal doen dalen.</l>
+<l>Ick zie zijn Majesteyt vol glans al zegenpralen.</l>
+</sp>
+<stage>Hen. Phi. binnen.</stage>
+<sp>
+<speaker><hi rend="i">Louise, Blanche.</hi></speaker>
+<l>MOet Blanche zijn die vrouw, onwaerd te zijn bemint?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Mijn staets gelegentheydt my aen mijn staet verbint;</l>
+<l>Waer ick Louise, 'k zou oock staen naer 's Rijx vermogen,</l>
+<pb n="7"/>
+<l>De zon van Vranckrijck blinckt alleenig in uw oogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Gy weet wat dat ick ly, mijn hart verkropt mijn leet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Dien wreden Koning past op woorden, wet noch eed,</l>
+<l>Voor nimmer zijn gewelt zal op mijn kuysheydt hechten,</l>
+<l>Zijn dolligheydt weet niet wat weederstreest te slechten,</l>
+<l>Gy hebt zijn straf heydt niet van liefdes vlam gevoelt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Waer heeft de achterdocht een minnaers hart verkoelt?</l>
+<l>Zy doet de weerelt zien haer looze listigheeden,</l>
+<l>Wie dat zig toont vernoegt met weynig is te vreden.</l>
+<l>Een eedelmoedige zorgt voor zijn eer, Mevrouw</l>
+<l>Gy zijt mijn broeder, hy in alles u getrouw.</l>
+<l>Het is een sterk gemoedt dat d'achterdocht kan dwingen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Karel, Blanche, Louise.</hi></speaker>
+<l>KAn immer trotser macht mijn groote ziel bespringen,</l>
+<l>Nu dat den Koning, heel verbastert van natuur,</l>
+<l>Mijn Blanches eer vervolgt, en najaegt, zal de uur</l>
+<l>Noyt zijn gebooren die mijn droeve kan vermaecken.</l>
+<l>Hoe Blanche opgepronckt by nacht? ik schijn te blaecken</l>
+<l>Van gramschap die my prickt, 't is hier geen rustens tijt,</l>
+<l>Die mijne rust verschast, maeckt mijne rust my quijt.</l>
+<l>Vervloeckt vermoeden die my maeckt zoo schelms bedroogen,</l>
+<l>Dus laet gekleet verwacht gy Karel? kunt gy oogen</l>
+<l>Beöogen deze daet, koom voeten nadert haer,</l>
+<l>Mijn tranen acht haer niet, noch tranen, noch misbaer,</l>
+<l>O Vranckrijx Ammirael, wilt u nu eerlijck toonen.</l>
+<l>Wat duyvel speelt hier meê, is dit de overschoone</l>
+<l>Waer over Karel heerst, ô al te stouten daet!</l>
+<l>Mijn Blanche opgepronckt, de Koning op de straet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Mijn lief vertoeft te lang, waer mag mijn Karel wezen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>‘Mijn lief vertoeft te lang, gy zijt nu buyten vrezen</l>
+<l>Nu u een Koning streelt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Het wachten my verveelt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Nu dat u Henrick niet zijn liefde mededeelt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Den Ammirael wert licht van vrinden opgehouden?</l>
+</sp>
+<pb n="8"/>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>‘Daer had gy 't niet, hy ziet die hy te veel vertrouden</l>
+<l>Ontrouw, en eereloos, wie helpt ons uyt dees noot?</l>
+<l>Bedrog ay weest getrouw, getrouw tot in de doot:</l>
+<l>Koom List, doorzoeckt door list of Blanche is onschuldig.</l>
+<l>Hoe zijt gy Karel in dit lyden zoo verduldig,</l>
+<l>Dat gy uw leven van uw eer berooven laet,</l>
+<l>Mijn Blanche opgepronckt, de Koning op de straet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Verban zwaermoedigheydt voorbeeltster der elenden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Nu dat mijn vreucht niet komt is alle vreucht ten ende.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>‘Zeg achterdocht, zal ik haer nader treên? spreek op.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Zijn liefde is te groot te mywaerts, 'k ben ten top</l>
+<l>Door hem gesteegen, meer als gy wel zoud geloven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>‘Ha snoode tooveres! daer stijgt de brant na boven</l>
+<l>Die 't woelend breyn bedwelmt, en maeckt my razend dol.</l>
+</sp>
+<stage>Binnen.</stage>
+<sp>
+<speaker><hi rend="i">Blanche, Louise.</hi></speaker>
+<l>EYlaes! wat naerer stem, ick ben van angsten vol.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Gins stapt een uyt de zael.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Zoo schielijck weer verdweenen!</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Zou 't spoock, of schaduw zijn?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Wie weet het.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Mijne beenen</l>
+<l>Los trillen onder 't lijf, ach Blanche, 'k blijf hier niet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Ick volg Louise na waer dat zy vluchtend vliet.</l>
+</sp>
+<stage>Binnen.</stage>
+<sp>
+<speaker><hi rend="i">Henrich, Prudentie, Theodoro.</hi></speaker>
+<l>PRudentio, ick kan mijn pijn niet langer dragen,</l>
+<l>Vrint Theodoro, wilt my zwacke onderschragen,</l>
+<l>Waer blijft Philippo dat hy niet bier meê verschijnt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Pru.</hi></speaker>
+<l>Wat is het dat de Vorst zoo onmedoogend pijnt?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Mijn hartsgeheym kan ick, ô vrinden, niet meer zwijgen,</l>
+<l rend="; 1tab">Hier woont 't onsterflijck beelt tot wien mijn zinnen nijgen,</l>
+<l>'k Verwacht voor hare deur de stralen van Auroor.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">The.</hi></speaker>
+<l>Geest aen zijn Majesteyt dan Blanche geen gehoor?</l>
+<pb n="9"/>
+<l>Kan dan een Konings hart geen pratte vrouw bekooren?</l>
+<l>Wie dat zijn Vorst verstoort, diens welvaert gaet verloeren,</l>
+<l>Hy is geluckig die zijn eygen voordeel weet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Mijn Blanche is te stuurs, af keerig, nors, en wreet,</l>
+<l>Hoe lang zult gy mijn ziel, zeg wrede, noch meer plagen?</l>
+<l>Hoe lang zal mijn gedult uw schamperheyt verdragen?</l>
+<l>Zal ick voor nimmer dan uw godlijck aen schijn zien?</l>
+<l>Ga zoeckt of gy noch vond doorluchte schoonheydt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">The.</hi></speaker>
+<l>Vliên</l>
+<l>Wy op des Vorsten woort, om alles op re zoecken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Het zonnelicht zal u ondanckb're vrouw vervloecken.</l>
+<stage>Prud. Theod. binnen.</stage>
+<l>Nu gy de Majesteyt van Vranckrijck hebt vermoort,</l>
+<l>Spreeck op geslooten deur, hoe lang zal zy verstoort</l>
+<l>Op Henrix liefde zijn? 'k wil Blanche hier verbeyden</l>
+<l>Tot men den dageraet ziet van het duyster scheyden,</l>
+<l>En dat Apol ter vlucht tot Thetis neemt zijn wijck.</l>
+<l>Ach Blanche! maeckt gy dan uw Koning tot een lijck,</l>
+<l>Ia 'k sterf van ongedult, en liefde.</l>
+</sp>
+<stage>Prud. Theod. ayt.</stage>
+<sp>
+<speaker><hi rend="i">Prud.</hi></speaker>
+<l>'k Heb vernomen</l>
+<l>Een blancke hackeny heel wit.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Dees reên wilt toomen,</l>
+<l>Gy voelt niet mijn elend, dat my ter banen gaet.</l>
+<l>Hoe fel my liefde druckt, ze blijft mijn toeverlaet,</l>
+<l>Wat blanck is zal mijn ziel om Blanche eeuwig minnen.</l>
+<l>Philippo, in een nachttabbert uyt.</l>
+<l>Schoon 't konincklijck gebodt ontroeren doet mijd zinnen,</l>
+<l>Wil dat ick rusten zal, daer ick niet rusten kan.</l>
+<l>Een and're Koning jaegt mijn hart veel zorgen an,</l>
+<l>Ick schijn door ongedult mijn zelven te verliezen.</l>
+<l>Maer zagt? wat wil dit volck, voor 't huys van mijn Louise?</l>
+<l>Zou zijne Majesteyt oock minnen die ick min?</l>
+<l>In Blanches schijn, wat heeft de Fransche Vorst in 't zin.</l>
+<l>Zoeckt hy door moorden aen Philippo hem te wreeken.</l>
+</sp>
+<pb n="10"/>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Waer wacht gy na, vaer voort, koom wilt dees borst doorsteecken,</l>
+<l>Zoo zal ick leven na mijn leven, straffe vrouw,</l>
+<l>Blijft gy ondanckbaer, ick blijf danckbaer en getrouw;</l>
+<l>Zoo var gy my verlaet, verlaet ick Rijck, en Landen,</l>
+<l>Zal uw verteerend vuur dan onuytbluschlijck branden.</l>
+<l>Wat leli is zoo wit als 't wit daer ick op doel,</l>
+<l>De hagelwitte sneen verzinckt in eenen poel</l>
+<l>Van schaemte voor haer weg, de zilv're mane lichten</l>
+<l>Verduysteren haer glans, 't moet al voor Blanche zwichten,</l>
+<l>Als zy met parelsnoer, en diamant verciert.</l>
+<l>De Fransche Vorst belonckt, die 't Fransche Rijk bestiert.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">The.</hi></speaker>
+<l>Gy treurt vergeefs door dien haer Karel streckt een wapen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Zwijg helhont, nimmer ziet men engelinnen slapen</l>
+<l>By een die sterven kan, ick voel zelfs best mijn pijn.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">The.</hi></speaker>
+<l>Waer zy een engelin, zy mogt uw schiltwacht zijn.</l>
+<l>Blanche in haer venster.</l>
+<l>Wat ramp kan by mijn ramp, ô droef heydt, evenaeren,</l>
+<l>Nu my een dienaer heeft verwittigt 't wedervaeren</l>
+<l>Dat my geschiet is van mijn Karel d' Ammirael,</l>
+<l>Die vluchtend als een schim my heeft beluystert, prael</l>
+<l>O Blanche nu niet meer op Vranckrijx preutsen Adel,</l>
+<l>Nu dat mijn bedgenoot my plots werpt uyt den zadel:</l>
+<l>Voort, vlucht voort uyt Parys, ô helschen achterdocht,</l>
+<l>Door u is al dit leet my op den hals gebrocht;</l>
+<l>Zal uwe vriendschap dan voor nimmer my ontmoeten?</l>
+<l>Mijn waerde is van ys, de min woont in zijn voeten,</l>
+<l>Waer meê hy van my vlied, maer wat wil dit gezucht?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>O zon, wiens glans bestraelt een and'ren oort, en lucht,</l>
+<l>Maeckt door uw helderheydt dees duysterheydt behaeglijck,</l>
+<l>Hoe tintelt uw gestarnt? war mensch is zoo verdraeglijck</l>
+<l>Dat hy uw blixemen kan weêrstant biên? gy kunt</l>
+<l>De rampen keeren, zoo gy my het leven gunt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>‘Zou 't wel Philippo zijn, de minnaer van Louise?</l>
+<pb n="11"/>
+<l>'k Veyns, hola, eedelman.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Wie roept daer?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>'t Is Elise</l>
+<l>Vrouw Blanches staetjuffrouw.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Ga zegt hoe lijd zaemheydt</l>
+<l>Verzelt met hoop, en macht, en kracht begraven leyt</l>
+<l>Voor haer geslooten deur, hoe kan ick my regeeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Zijt gy zijn Majesteyt?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Wie kan haer anders eeren.</l>
+<l>Wie doet de Ooster-zon als ick ter kimme opgaen,</l>
+<l>Zegt Blanche dat de Vorst als eenen onderdaen</l>
+<l>Haer poogt een oogenblick te spreecken, en niet langer,</l>
+<l>Indien zy mijn verzoeck derst afslaen, 'k werd dan banger</l>
+<l>Als 't alderbangste hart, en zoo zy mijn gebeên</l>
+<l>Verwerpt, zal ick verwoed ontbloot van menschlijckheên</l>
+<l>Heel Vranckrijck branden doen, als eertijts Room en Troyen,</l>
+<l>Zoo zal men hare trots zien door mijn macht verstroyen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Uw brant die brant re fel: zy haet de Fransche Vorst,</l>
+<l>Die door zijn dartelheydt niet waerd is dat hy torst</l>
+<l>De konincklijche Kroon, uw glory niet ontluystert.</l>
+<l>Door overd waze min hebt gy uw roem verduystert.</l>
+<l>Schen uw vermogen niet, daer zijnder meer in 't hof</l>
+<l>Als Blanche die gy quelt, te eerloos uwe lof</l>
+<l>Met oneer wert bevlackt, bezwalckt, ontciert, verdoncdert.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Zeg heest wel schoonder zon in Vranckrijck oyt geflonckert?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Ick ken vrouw Blanche als my zelfs. zy haet uw min.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Waerom?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Om datze mint uw vrint, en vyant.</l>
+</sp>
+<stage>Bin.</stage>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>In</l>
+<l>Mijn ongedult ick smoor.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">The.</hi></speaker>
+<l>Het venster is geslooten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Derst gy een Koning dus zo stout van moed verstoren,</l>
+<l>Voor deze hoon zult gy gevoelen haest uw schult.</l>
+<pb n="12"/>
+<l>Zijt gy dan een leeuwin die voor mijn liefde brult.</l>
+<l>O Blanche, ick heb u noyt wrevel toegesproocken.</l>
+</sp>
+<stage>Bin.</stage>
+<sp>
+<speaker><hi rend="i">Karel, Dionisus, Leonello, Philippo.</hi></speaker>
+<l>LAet my begaen, laet los, leef ick noch ongewroocken.</l>
+<l>Weg reden, hulp, en raet, mijn eer die loopt gevaer,</l>
+<l>De Vorst stont voor haer deur, toen 'k voor haer deure waer,</l>
+<l>Hoe zal de lasteraer nu op mijn eernaem schelden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Leo.</hi></speaker>
+<l>De liefde, als gy weet, veracht het eerloos melden.</l>
+<l>De min een schaeckspel is, al waer die niet en speelt</l>
+<l>Het grootste voordeel heeft.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Mijn wonden ongeheelt</l>
+<l>Die pynigen zoo hard dat ick geen rust kan vinden,</l>
+<l>Want ben ick in mijn zael, ô Leonel, dan binden</l>
+<l>De zorgen my te vast, zoo dat ick moet op straet,</l>
+<l>Op straet hoor ick hoe elck van Karels oneer praet.</l>
+<l>Den Adel my bespot, ick kan niet langer leven,</l>
+<l>Mijn Dionisio.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Dio.</hi></speaker>
+<l>Wilt u tot rust begeven.</l>
+</sp>
+<stage>Bionen.</stage>
+<sp>
+<speaker><hi rend="i">Phil.</hi></speaker>
+<l>Bekende list, ay streck Philippo nu een baeck</l>
+<l>Die in dees naerheydt my koomt lichten, zal de wraeck</l>
+<l>Van Karel, Henrix ziel doen plots ter helle dalen,</l>
+<l>Hoe zoeckt den Ammrrael den Koning 't achterhalen?</l>
+<l>Zoo holt hy buyten 't spoor, en voelt re laet berouw,</l>
+<l>Louise blijft gy my, als ick u blijf, getrouw,</l>
+<l>Zoo heb ick van mijn min geen ongeval te wachten,</l>
+<l>Gy zijt op wien ick hoop, ô troost van mijn gedachten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theodoro, Henrick, Prudentio, Philippo.</hi></speaker>
+<l>EEn welgewapend man, mijn Vorst, koomt berwaerts treên.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Henr.</hi></speaker>
+<l>Geduuriglijck dees straet van spoocken wert doorreên.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phil.</hi></speaker>
+<l>Wie daer? maeckt u bekent.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Wie derft my tegenstreven?</l>
+<pb n="13"/>
+<l>Wie zijt gy?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>Het Gerecht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Wie heft u 't Recht gegeven?</l>
+<l>Ick heb noyt straet gezien rechtvaerdiger dan dees.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>‘Hoe qualijck kan ick hier bedecken angst, en vrees.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>'t Schijnt Karel, Theodoor.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Zoo daot hy heer, en echter</l>
+<l>Verleyt my zijn gewaed.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Spreeck op gy Vranckrijx Rechter,</l>
+<l>Wie dar gy zijt my meld, waer wacht gy na? nu voort.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>Een Konings gunsteling, maer eer dit stael doorboort</l>
+<l>Uw al te stoute borst, zoo laet Parys aenhooren,</l>
+<l>Wie dat haer Ammirael zoo wreevel dorst verstooren,</l>
+<l>Op dat neêrslachtigheydt verwint mijn ongena.</l>
+<l>Maer ach! het is de Vorst.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Zijt gy 't Philippo?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>Ia.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Wat doet u in dees nacht het leven reuck'loos wagen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>Verblinde liefde is de bronaêr van mijn plagen.</l>
+<l>Wat derft vermeetelheyt in hoven niet bestaen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Was niet mijn wil dat gy zoud naer uw rustplaets gaen.</l>
+<l>Gy kunt de lessen van den Ammirael heel aerdig?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>Toen ick vrouw Blanche, of Louise, ben ick 't waerdig,</l>
+<l>Zag voor haer venster staen, en gy ter aerde boog,</l>
+<l>Doe zag ick al re laet hoe dat ick klom te hoog;</l>
+<l>Doorluchte Vorst, wie kan van min 't gewenste lot zien?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Ick zweer Elise dat zy zal voor mijn gebot vliên,</l>
+<l>Die snoode rooveres is met haer eens in als;</l>
+<l>Want Blanche die is loos, en zy doortrapt en valsch.</l>
+<l>Zijt gy alleen, waer zijn uw trouwe t' zaemgezwooren?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>Ick koom alleen mijn Prins, om niemant te verstooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Begeeft gy zonder hulp u buytens tijt in noot?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>Weet Damon heeft geleest, en Phytias is door.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Wie zijnze dan die ons gins treden berwaerts nader?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>Vrouw Blanches bedgenoot, die Vranckrijck streckt een vader.</l>
+<pb n="14"/>
+<l>Mijn heer, laet hem in rust, begeef u zelven niet</l>
+<l>Dus buyten lijfs gevaer, in noot, en lijfs verdriet,</l>
+<l>Een koning moet hem meer als onderdanen wachten</l>
+<l>Voor opspraeck van het volck.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Hoor, wilt mijn wil betrachten,</l>
+<l>Roept overluyt, als dat uw hart Louize mint,</l>
+<l>Aen haer verbonden is dat meer is, als ontzint</l>
+<l>Zal ick vol gramschap u een trotsen antwoort geven</l>
+<l>Als dat zy my behoort, wy t'zamen dus gedreven</l>
+<l>Tot een gerechte zaeck, bedecken zoo ons list,</l>
+<l>Geveynsde degenstrijt zal middelen de twist,</l>
+<l>Want veynzery verzelt het aldermeest de Grooten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>Zoo Karels listigheydt uw list koomt om te stooten,</l>
+<l>Zoo zal de weerelt zijn in 't kort uw doen bekent.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Dan wert het roer van 't schip na d' and're zy gewent,</l>
+<l>Dan zal 't Arnoldo zijn die voor mijn stael most vluchten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>Ontbloot uw kling, 't is tijt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Verweer u.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Karel, Leonelle, Dionisio, Henrick, Philippo, Prudentio, Theodoro.</hi></speaker>
+<l>DEes geruchten</l>
+<l>Zijn oorzaeck van verschil.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Louize is voor my.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Leo.</hi></speaker>
+<l>Nu ziet gy waerlijck heer uw eer bedroogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Dio.</hi></speaker>
+<l>Gy</l>
+<l>Verweckt uw eygen leet, heb met u zelfs medoogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>Het is Louise die alleene voert 't vermogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Leo.</hi></speaker>
+<l>Ick hoor Louises naem weêr melden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Stil, ay stil,</l>
+<l>'t Zal om mijn zuster zijn dees heevigheydt, ick wil</l>
+<l>Dat uwe ooren als de mijne het aenhooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>'k Zal om den Ammirael, en Blanches eer mijn tooren</l>
+<l>Bematigen, schoon ick neem voor dees tijt de vlucht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>Mijn eedelmoedigheydt voor nimmer leest beducht.</l>
+<pb n="15"/>
+<l>Ick zal waer dat ick kan, ha laffe, u vervolgen.</l>
+<l>Mijn bloet in d'ad'ren zied, mijn gramschap heel verbolgen</l>
+<l>Zal waecken voor dees deur vermeet'len u ten spijt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Gy heeren weest gernst, leg af de degenstrijt,</l>
+<l>Laet de zachtmoedigheydt de heevigheydt verwinnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Hy stapt zijn doot te moet die mijn verstoorde zinnen</l>
+<l>Weêrstreven derft, ô spijt! vermoort hem.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>'k Zweer uw doot.</l>
+</sp>
+<stage>Phil. binnen.</stage>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Hy is vertrocken heer, waerom uw kling ontbloot?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Dat weet gy niet, ick wel.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Wat deed den ander wijcken?</l>
+<l>Ontleed my uw verschil, zoo zal 't verongelijcken</l>
+<l>Door my zijn neêrgeleyt, wie bood gy tegenweer?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Arnoldo, die my staet naer 't leven, goer, en eer,</l>
+<l>Dien opgeblazen mensch my eerloos aen dorst randen.</l>
+<l>Noch eens het was de Graef, die 't strecken zal tot schanden,</l>
+<l>Ga heene, zeg hem zelfs wat dat ick heb gezeyt.</l>
+</sp>
+<stage>Henr. Binnen.</stage>
+<sp>
+<speaker><hi rend="i">Karel, Dionisio, Leonello.</hi></speaker>
+<l>WAt dunckt u Leonel?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Leo.</hi></speaker>
+<l>Het was zijn Majesteyt,</l>
+<l>Ick stont verzet dat gy de Vorst niet beeter kende?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Vervloeckte achterdocht verzelt met zorg, my zenden</l>
+<l>Meer plagen als ick kan verdragen, ben ick blint,</l>
+<l>Wert mijn Louise niet van Henrick zelfs bemint?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Dio.</hi></speaker>
+<l>Dat tuygt den Koning zelfs, die 't lijf stelt voor haer leven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Van eene stam mijn vriend zijn wy als hy verheven,</l>
+<l>Hoe zal mijn zuster zijn der Franschen Koningin?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Leo.</hi></speaker>
+<l>Te meer nu het verdrag van Duytslant neemt begin.</l>
+<l>Zijn liefde holt te los, nu mint hy d'een, dan d'ander,</l>
+<l>De Roomsche kroon blinckt hem te heerlijck.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Zeg eens, kander</l>
+<l>Wel heeter minnaer zijn gevonden als hy is,</l>
+<l>Die om mijn zuster zwerft in nare duysternis?</l>
+</sp>
+<pb n="16"/>
+<sp>
+<speaker><hi rend="i">Leo.</hi></speaker>
+<l>Dat hy Louise zou beminnen, wilt niet loven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>O eer, gy zijt alleen die alles gaet te boven.</l>
+<l>Al wiertze van zijn lust, en dartelheydt verkracht,</l>
+<l>Ik zou verdragen 't leet, en kroppen 't in; maer tracht</l>
+<l>Hy na mijn Blanches eer, zoo zal ick hem doen sterven;</l>
+<l>Want Karel eer het lijf zal dan zijn eernaem derven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Louise</hi> roept haer broeder Karel, voor Philippo haer minnaer, aen.</speaker>
+<l>Philippo hoort gy niet, hou stant.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Die.</hi></speaker>
+<l>Wie daer?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Ay ziet</l>
+<l>Is dat Louise niet, de oorzaeck van 't verdriet,</l>
+<l>Nu zal ick zien of my den koning heeft bedroogen.</l>
+<l>‘'k Zal veynzen of ick waer Philippo: laer medoogen</l>
+<l>Begunstigen uw slaef, ô overwaerde vrouw!</l>
+<l>'k Mag u vrymoedigheydt wel spreecken aen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Hoe zou</l>
+<l>Een hooggebooren ziel niet spreecken, afgunst weygert;</l>
+<l>Uw liefde t' my waerts is tot in den top gesteygert.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Mijn hart wert zonder u zijn liefde en vreucht geblust.</l>
+<l>Uw broeder Karel, lief, zeg slaept die al gerust?</l>
+<l>Op dat hy ons niet hoort.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Ay zorg voor geen belagen</l>
+<l>Hy doet de ronde heer.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Hoe? eer 't begint te dagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Eergierigheydt ontstelt zijn moedigheydt te veel.</l>
+<l>Hy haet zijn Majesteyt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Wat is toch haer verscheel?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Om dat vrouw Blanche mint geen ander als mijn broeder.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Mint Karel haer oock niet?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Die is haer lijfs behoeder:</l>
+<l>Om wien haer droevig hart geduurig kermt, en weent.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Verlaet haer Karel dan dat hy een ander meent?</l>
+<l>Heeft hem den Ammirael oneerelijck gedragen?</l>
+<l>Wat is de oorzaeck? spreeck, of kan zy niet behagen</l>
+<l>Die eer dce dageraet was van zijn ziel en hart:</l>
+<pb n="17"/>
+<l>Is Blanche hem niet waerd, wat is het dat haer smart?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Mijn broeder als gy weet is korzel, en vermeetel,</l>
+<l>Wiens grootsheydt zou bekleên de konincklijcke zeetel</l>
+<l>Indien hy koning waer, daer tegen Blanche goet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>‘Nu Blanche is voldaen, moet ick eens zien hoe 't bloet</l>
+<l>Door hare ad'ren rolt, zoo zal mijn komst verveelen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Op u, en anders geen, mijn lief, mijn zinnen speelen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>En buyten my noch twee.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Hoe! wat is dat gezeydt?</l>
+<l>Mijn liefde is te groot, veracht kleenhartigheydt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Nochtans den koning derst op u Louise roemen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Ick sterf van toornigheydt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Zijn zelfs een minnaer noemen</l>
+<l>Heb ick vol leets gehoort, geveynsde, wilt gy meer?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Hoe ick den koning haet, weet gy als ick mijn heer:</l>
+<l>Wat waend gy dat hy my door loosheyt zou bedriegen?</l>
+<l>O neen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>'k Heb achterdocht zien strax ten hemel vliegen,</l>
+<l>Maer viel als Lucifer uyt dien verbeven troon;</l>
+<l>Want ongelijcke min is ydel, ja heur loon</l>
+<l>Bestaet in druck, en rouw, hoe kan ick my verblijden?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>De Fransche majesteyt poogt Karel te doen lijden,</l>
+<l>Wiens ooghwit Blanche is.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Wat zal Arnoldo dan?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Hoe mint Arnoldo my?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Gy weet al nergens van.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Gy weet al nergens van.</l>
+<l>Ha lichtgeloovige! wat staet my te verwachten</l>
+<l>Van u in 't Fransche Hof, als oneer, en verachten?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Verstoor u niet te vroegh.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Te vroeg niet, maer te laet.</l>
+<l>Uw dartelheydt verschopt Philippós goeden raet.</l>
+<l>Kan Koning, Graef, en ick gelijck Louise minnen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Niet hooger, of gy zult verstooren mijne zinnen,</l>
+<l>Schoon my al duyzende beminde, 't is al niet.</l>
+<l>Mijn liefde die verkout, gy zult uw zielsverdriet</l>
+<l>Gevoelen, als gy voelt hoe gy vergeet uw plichten.</l>
+<pb n="18"/>
+<l>Eer zal de zon, en maen, daer by de starre-lichten</l>
+<l>Neêrstorten hellewaerts, al eer ick wenschen zou</l>
+<l>Om uwe wedermin, veel min te zijn uw vrouw.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Princesse, luyster, hoor......</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Onweetende ga wandelen.</l>
+</sp>
+<stage>Sluyt haer venfter.</stage>
+<sp>
+<speaker><hi rend="i">Leo.</hi></speaker>
+<l>Gy hebt haer al te straf gehandelt in dit handelen,</l>
+<l>Nu zal Arnoldo met de Vorst rot Karels schant</l>
+<l>Gaen brouwen uw verderf, Philippós huw'lijxband</l>
+<l>Raeckt al te schandelijck door dit vergrijp aen 't breecken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>'k Won dat een Ernás brant had in de brant gesteecken</l>
+<l>Mijn huys, op dat ick zelfs daer zonck ten asgront meê,</l>
+<l>Mijn Dionisio, 'k ben nauwelijx te vreê,</l>
+<l>De zeeman lijd niet 't geen ick ly op woeste baren,</l>
+<l>Hem is niet dat my is al over 't hoost gevaren,</l>
+<l>Schoon een onstuymde golf met het gestarnte kant,</l>
+<l>Zoo dat men masten kerft, geduurig pompt, geen lant,</l>
+<l>Maer lucht, en water zier, zijn anckers moet verliezen</l>
+<l>De zeylen strijckt verbaest, noch zou ick graeg verkiezen</l>
+<l>Zijn noot voor myne noot, getrouwe Leonel.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Leo.</hi></speaker>
+<l>Begeeft u rot de rust, laet varen uw gequel.</l>
+<l>De nacht gelijck gy ziet is reets al aen 't vertrecken,</l>
+<l>In 't Oosten daegt het al, laet mijne voorzorg strecken</l>
+<l>Een trouwe toeverlaer, de komste van Auroor</l>
+<l>Van het gevogelt wert verwelkoomt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Lof, en gloor</l>
+<l>Te eerloos zijn bezwalckt door 't eereloos verraden.</l>
+<l>Ia by den hemel 'k zweer, het zal heel Vranckrijck schaden</l>
+<l>Zoo Blanche my verleyt, 'k zal toonen hoe mijn bloet</l>
+<l>Geen Koning Henrick vreest, hoe fors hy is van moer.</l>
+</sp>
+<stage>Alle binnen.</stage>
+</div>
+<div type="act">
+<pb n="19"/>
+<head rend="h3">Het tweede bedryf.</head>
+<sp>
+<speaker><hi rend="i">Arnoldo, Tancredo, met reysgewaed uyt.</hi></speaker>
+<l>IS alles vaerdig wat tot reyzen is van nooden?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Tan.</hi></speaker>
+<l>Ia heer.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>Waer 's Fabio?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Tan.</hi></speaker>
+<l>Die is voor uyt gevlooden,</l>
+<l>Om te volvoeren 't geen de Graef hem heeft belast.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>Zoo doet hy als 't behoort, hy is een vaerdig gast.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Leonello, Arnoldo, Tancredo.</hi></speaker>
+<l>MYn heer den Ammirael verzoeckt dar zijn Genade</l>
+<l>Een oogenblick vertoeft, hy sprack u graeg.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>Dus spade?</l>
+<l>Wat wil zijn Hoogheydt doch?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Leo.</hi></speaker>
+<l>Gins koomt hy zelver al.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Karel, Arnoldo, Tancredo, Leonello.</hi></speaker>
+<l>HEer Graef dus op de reys?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>Wat jaegt u ongeval</l>
+<l>Dat gy my ophoud heer? laet hooren my de reeden?</l>
+<l>Het is een loopend jaer, gelijck gy weer, geleeden</l>
+<l>Dat wy geheel vernoegt laetst scheyden van malkaêr.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Arnoldo, zeg my eens of 't loogen is, of waer,</l>
+<l>Ick weet mijn gramschap niet te dwingen, zeg de oor, zaeck</l>
+<l>Die u tot vechten dreef, weest nu uw eygen voorspraeck.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>Mijn deuchdelijck gemoed ontbreeckt stoutmoedigheydt,</l>
+<l>Gy zijt misleyd na 'k hoor, ick ken uw goedigheydt;</l>
+<l>Wat misverstant doet u dus over my verstooren?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Wilt gy mijn klachten wel verduldiglijck aenhooren?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>Hoe?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Nu bloohartigheyt draegt kennis van uw schult,</l>
+<l>Uw eereloos bezoeck weckt op mijn ongedult.</l>
+</sp>
+<pb n="20"/>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>Kan onze vrindschap niet uw gramschap needer leggen?</l>
+<l>Ick kan u niet verstaten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Zoo luyster, ick zal 't zeggen:</l>
+<l>Die om Louise stelt een straetgerucht verwoed</l>
+<l>In 't midden van de nacht, die tergt mijn eerlijck bloet,</l>
+<l>En voor mijn eygen deur, past schelmen, en geen mannen</l>
+<l>Uyt adelijck geslacht gesprooren, het verbannen</l>
+<l>Voegt zulcken uyt Parys.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>Dat ick uw zuster min,</l>
+<l>'k Heb zulx voor nooyt gedacht, noch had het in den zin;</l>
+<l>Gy ziet het zelfs mijn heer, als dat gy zijt bedroogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Nochtans gy haer bemint.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>Die zulx zeyt, heeft geloogen.</l>
+<l>Dit reysgewaed doet blijck, hoe ick door eygen lust</l>
+<l>Meen naer Italiën te trecken, om in rust</l>
+<l>Twee jaren achter een mijn dagen te verslijten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Zeg dat dit reysgewaed uw schelmstuck koomt verwijten,</l>
+<l>Die met zijn Majesteyt derft wezen hantgemeen,</l>
+<l>Heeft reên hy 's morgens vroeg, eer 't hof raeckt op de been,</l>
+<l>Parys verlaet, en gaet Italiën opspooren.</l>
+<l>'k Ben Karel de Valoys, Arnoldo, mijne tooren</l>
+<l>Geen Konings stoutheyt schroomt, ja 'k acht mijn zusters eer</l>
+<l>Zoo waerdig, als de eer van Blanche, wie niet meer</l>
+<l>Eerbiedigheydt betoont zal nimmer haer verwerven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>Mijn heer......</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Wie haer ontëert zal door dees handen sterven.</l>
+</sp>
+<stage>Karel binnen.</stage>
+<sp>
+<speaker><hi rend="i">Tancredo, Arnoldo.</hi></speaker>
+<l>VErweckt gy zelfs, mijn heer, dit schand'lijck straetgerucht?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>Ick sta om d' Ammirael verslagen, en beducht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Tan.</hi></speaker>
+<l>Gy toonde dan noyt min?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>Neen, ben ick niet loofwaerdig?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Tan.</hi></speaker>
+<l>Wat schelm heeft dit verdicht? ick moet aen u iets aerdig</l>
+<pb n="21"/>
+<l>Verhalen, van het geen my stadig speelt in 't hoost.</l>
+<l>Dit is besteecken werck, zoo my de Graef gelooft</l>
+<l>Zoo volgt Louis de meyt, die ziel, en hart gestelt had</l>
+<l>Op een goet rijckmans kint, die landen, goet, en gelt had.</l>
+<l>Zy spreekt haer biechtvaêr aen, hem klagende haer noot,</l>
+<l>Die by de Iongman gaet, vermaenende hoe groot</l>
+<l>Het onheyl was dar door haer doot hem stont beschooren.</l>
+<l>Is liesde in u doodt? sprack hy, wilt my wel hooren.</l>
+<l>Dees koelen van gemoed veranderden terstondt,</l>
+<l>Waer door hy met haer tradt in 't huwelijx verbondt,</l>
+<l>Toen Paters listigheydt een koppelaer verstreckte.</l>
+<l>Louise volgt dit spoor, schoon Karel dit bedeckte</l>
+<l>Met schendig straetgerucht, hoe dat den Koning zou</l>
+<l>Met Graef Arnoldo zijn geweest om zulck een vrouw,</l>
+<l>En voor zijn deur in een gevecht, ô! dat is loogen,</l>
+<l>De liefde die zy draegt te uwaerrs, doen haer oogen</l>
+<l>Steets vlammen op mijn heer, nu vrolijck niet gesuft.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>Ogoddelijck verstandt!</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Tan.</hi></speaker>
+<l>O ongemeen vernuft!</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>Heeft mijn bevalligheydt Louise overwonnen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Tan.</hi></speaker>
+<l>Hoe? twijftelt noch de Graef?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>'t Waer best dan niet begonnen;</l>
+<l>Veel min te vorderen mijn reys op deze wijs,</l>
+<l>'k Verlaet Italien, en blijf hier te Parijs.</l>
+<l>War weerelts deel verschaft oyt zulck een zielsbeminde.</l>
+<l>Wy moeten ons ten Hoof geduurig laten vinden.</l>
+<l>Voort treek mijn laerzen uyt, verandert uw livry;</l>
+<l>Volg haere dienaers nae in kleeding, op dat wy</l>
+<l>In kleeding als in liefd' malkanderen beminnen.</l>
+<l>Wat dunckt u van dees raet?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Tan.</hi></speaker>
+<l>Mijn heer heest rijpe zinnen,</l>
+<l>Gy doet voorzichtig dat gy u hier houd ten Hoof.</l>
+<l>Den Adel u bemint.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>Tancredo vry geloof</l>
+<l>Dat my den Ammirael begunsligt reets op heeden.</l>
+</sp>
+<pb n="22"/>
+<sp>
+<speaker><hi rend="i">Tan.</hi></speaker>
+<l>Te meer nu gy den naem van minnaer komt bekleedẽ.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ar.</hi></speaker>
+<l>Hy is mijn vrind, zwijg stil, gy kent hem noch nier wel.</l>
+</sp>
+<stage>Ar. Tan. binnen.</stage>
+<sp>
+<speaker><hi rend="i">Leonello, Karel.</hi></speaker>
+<l>'t ZAl niet geraeden zijn.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Hoe? boert gy Leonel,</l>
+<l>Daer ick deez' eere-strijdt beöog vol dapperheden,</l>
+<l>Met macht, en kracht verzelt, nu derven wy wel treden smart,</l>
+<l>De trotse toornigheydt op 't opgeblazen hart.</l>
+<l>'k Stae zelfs verwondert dat een mensch in zulck een</l>
+<l>Die zoo verward is, als ick leef, kan langer leven.</l>
+<l>Ick ben my zelfs een strijt, mijn eere aengedreven</l>
+<l>Die heeft de voortocht, ach! elendige wat raet.</l>
+<l>Wie sterckt dees zwacken arm, gins zie ick een soldaet</l>
+<l>Die my manmoedig maeckt, daer ginder noch een ander</l>
+<l>Wiens trouw my is bewust, zy nad'ren al, wie kander</l>
+<l>Nu tegen Karel op.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Dionisio, Karel, Rufino, Leonello.</hi></speaker>
+<l>HIer is Rufino nu.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Vervloekten schelm, zijt gy zelfs voor uw wreetheydt schuw.</l>
+<l>Zoo gy trouwloozen niet wilt door dees handen sterven.</l>
+<l>Zoo zegt my datelijck, wilt gy mijn gunst verwerven,</l>
+<l>Waerom op 's Konings disch mijn oneer afgebeelt,</l>
+<l>Het tafelkleet geruygt boe zijne geylheydt streelt.</l>
+<l>Hoe kan ick zulck een Vorst gedogen voor mijn oogen?</l>
+<l>O neen! her bloem-cieraet getuygt hoe licht vervloogen</l>
+<l>Genooren weldaet is, een kroon van lijngewaet</l>
+<l>Mijn achterdocht stoockt aen, mijn Blanche leeft versmaet.</l>
+<l>Den Ammirael, noch haer wert nimmer wijn gegeven,</l>
+<l>Wel water.....</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ruf.</hi></speaker>
+<l>Luyster.....</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Zwijg, de taerten hoog verheven</l>
+<l>In Henrix groote zael, met kroonen zijn bezaeyt,</l>
+<pb n="23"/>
+<l>Met lelien gepronckt tot vreughde, daer dees maeyt</l>
+<l>Een oeghst van rampen, voort, geef antwoort op mijn vragen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ruf.</hi></speaker>
+<l>Vrunt Dionisio, wie helpt dees man beklagen,</l>
+<l>Mijn Heer het broot.....</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Dat is met lelien gemerckt,</l>
+<l>Een ziels vergift voor my, nu 'k zie hoe yder werckt</l>
+<l>Tot haesting van mijn val, het water zy vergisten.</l>
+<l>Ick hoop dat mijn gezicht haer schelmstuck zal doorziften,</l>
+<l>Op dat ick razende den dullen hondt beöog</l>
+<l>Die my gebeeten heeft.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ruf.</hi></speaker>
+<l>Zie voor u, niet te hoog,</l>
+<l>De Vorst had my ontboôn, hoe zult gy schuldig houden</l>
+<l>Rufino, op wiens trouw u zeecker eer vertrouwde.</l>
+<l>Den Koning beeft door list uw Juffers op de handt,</l>
+<l>Uw eygen u verraet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>O snooden! vol van schandt.</l>
+<l>Wert dus den Ammirael bejegent?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ruf.</hi></speaker>
+<l>Buyten weeten</l>
+<l>Van uwe bed vriendin.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Wraeck, Hemel! wraeck.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ruf.</hi></speaker>
+<l>Versleeten</l>
+<l>Hebt gy de Prins t'onrecht; want Lisida zelfs hem</l>
+<l>Door een verhoolen plaers stil doorlaet op haer stem,</l>
+<l>Om Blanche waer hy kan geduurig na te spooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Waer het gezicht bereyckt, gaet zomtijts d'eer verlooren.</l>
+<l>Wie is al schuldig aen dit schelmstuck.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ruf.</hi></speaker>
+<l>Tweê.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Hoe na.....</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ruf.</hi></speaker>
+<l>De eene Filis, en de and're Lisida.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Spreeck my hier na, vertreck, ick zie mijn vrouw daer komen.</l>
+<l>Een groorer strijt heb ick, als ick wel dacht, vernomen,</l>
+<l>Wijl dees bespieder my des vyants list verhaelt.</l>
+<stage>Ruf. bin.</stage>
+<l>Hy zelfs getuygt haer schult, ô Hemelen! bestraelt</l>
+<l>My met lanckmoedigheydt, dit hoopt een bergh van schulden.</l>
+</sp>
+<pb n="24"/>
+<sp>
+<speaker><hi rend="i">Louise, Blanche, Karel, Dionisio, Leonello.</hi></speaker>
+<l>HY sprack u moedig aen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>O ja, ô! kost ick dulden</l>
+<l>Dat.....</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Karel koomt daer.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Ach, mijn lief!</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Getrouwe vrouw,</l>
+<l>Mijn eere loopt gevaer, en schipbrenck lijd uw trouw,</l>
+<l>De Fransche Majesteyt zoeckt Blanche te belagen.</l>
+<l>Waer leest zoo helschen Vorst?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Wat maeckt mijn lief verslagen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Twee aders moet ick voort doen openen, mijn bloet</l>
+<l>Is door de gal verhit.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Maer waer roe dus verwoet,</l>
+<l>Zal de eergierigheydt doen uwe staer vermind'ren?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Dat is de meening niet, mijn voorneem wilt niet hind'ren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Wat wilt gy?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Mijne schult betalen aen die geen</l>
+<l>Die mijn verraders zijn, voort Leonel gae heen</l>
+<l>Met Dionisio, wilt haer tot my geleyden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Wat wilt gy doen mijn lief?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Wy moeten eenmael scheyden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Leo.</hi></speaker>
+<l>Wy gaen met uw verlof.</l>
+</sp>
+<stage>Leo. Dio. binnen.</stage>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Wat hebt gy in den zin?</l>
+<l>Dat gy af keerig toont genooten liefd' en min.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Leonello, Dionisio, Karel, Filis, Lisida,
+Blanche, Louise.</hi></speaker>
+<l>HIer is nu Lisida, met Filis.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Wilt vertrecken</l>
+<l>Eer dar de kloek slaer twee, 't zou my tot nadeel strecken,</l>
+<l>Dat ick twee vyandins zou in mijn leger zien.</l>
+<l>Den Koning zal door u nier meer mijn heyr bespiên,</l>
+<l>Het is een dwaesheydt, een die trouwloos is, te houden.</l>
+<l>Daerom zoo wenste ick dat gy te zaemen trouwden</l>
+<pb n="25"/>
+<l>Met die mijn oogwit keurt, zo eyndigt eens mijn druck.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Fil.</hi></speaker>
+<l>Van uwe hant ick wacht, mijn voorspoet, en geluck.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Twee dienaers in mijn huys, oprechte geltzuchts vrinden,</l>
+<l>Zal ick door mijn ontzag wel haest aen haer verbinden.</l>
+<l>Want zoo mijn zieckte neemt een stercker overhant</l>
+<l>Is 't aderlaten quaet, ja doodelijck, de schant</l>
+<l>Moer uyt mijn huys geweert, waer wacht gy na, gae heenen,</l>
+<l>Roepr Marsal, en Dampier, ick wilze t' zaem vereenen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Leo.</hi></speaker>
+<l>Het huysgesin verschrickt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Dio.</hi></speaker>
+<l>Mijn heer, zy komen al.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Marsal, Karel, Dampier, Leonello, Dionisio, Blanche,
+Louise, Filis, Lisida.</hi></speaker>
+<l>WAt wil den Ammirael?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Dat gy my te geval</l>
+<l>Met Filis u vereent, mijn wille moet geschieden,</l>
+<l>Dampier.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Dam.</hi></speaker>
+<l>Mijn heer.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Hoor hier.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Dam.</hi></speaker>
+<l>Wat of dit wil bedieden?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Nu zult gy mijne gunst bespeuren door dees trouw,</l>
+<l>'k Geef Lisida aen u, maer eerr baer als uw vrouw.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lis.</hi></speaker>
+<l>Dat ick uw handen kus, lang moet heer Karel leven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Mijn penning meester laet die elck zijn bruytschat geven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Mar.</hi></speaker>
+<l>Zoo haestig.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Dat hy elck twee duyzent kroonen relt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Dam.</hi></speaker>
+<l>Dit is geen huwelijck, maer openbaer gewelt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Wilt gaen de poort van 'r Hof zoo datelijck uyt trecken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lis.</hi></speaker>
+<l>Mevrouw, 'k verhoop dees reys u tot geen druck zal strecken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Ick waer veel liever doodt, dan dat ick Karels smart</l>
+<l>Noch langer dragen zon, mijn ramp wert van mijn hart</l>
+<l>Geduurig opgekropr, mijn liefde moet hem volgen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Het schijnt als dat zy iets bemerckte.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>'k Zal verbolgen</l>
+<pb n="26"/>
+<l>Uyt dit mijn Paradijs (tot voorstant van mijn Eer,</l>
+<l>Op dat heel Vranckrijck ziet, hoe ick de deucht acht meer</l>
+<l>Als 't vorstelijck ontzag,) het kaf uyt 't kooren wannen,</l>
+<l>Twee Adams, en daer by twee Evaes voort verbannen.</l>
+</sp>
+<stage>Kar. Binnen.</stage>
+<sp>
+<speaker><hi rend="i">Blanche, Louise.</hi></speaker>
+<l>Myn Karel, gaet gy weg, dus stil?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Zeg heel ontroert.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Zijn eerelijck gemoed hem tot dees daet vervoert.</l>
+<l>'k Verhoop den hemel hem zal brengen tot bedaeren,</l>
+<l>En zijn bedwelmde breyn naer wensch weêr op doen klaren;</l>
+<l>Hy vreest geen Konings haet, te vroom is zijn gemoed:</l>
+<l>Wy lijden schipbreuck, 't zy 't geluck 't gevaer verhoed.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Philippo, Theodoro, Blanche, Louise.</hi></speaker>
+<l>ONs was geseyt men zou den Ammirael hier vindẽ.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Th.</hi></speaker>
+<l>Ten minsten gy beöogt uw ziel, en harts beminde.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Wat's dit?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phil.</hi></speaker>
+<l>Uyt 's Konings naem, wy komen herwaerts aen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>'t Zal niet geöorloft zijn hier lang te blijven staen.</l>
+</sp>
+<stage>Binn.</stage>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Zal ick verwachten die my door zijn trotse woorden</l>
+<l>Zoo trots bejegende.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phil.</hi></speaker>
+<l>Blijf staen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Toen ick aenhoorde</l>
+<l>Uw onverstandigheydt, toen was Philippo stout.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phil.</hi></speaker>
+<l>'k Sta om uw reên verzet, gelooft my, en vertrouwt</l>
+<l>Den wijzen Ammirael uw broeder, staeck uw vreezen,</l>
+<l>Kan een onnoozele aen misdaet schuldig wezen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Geveynsde, ick vervloeck uw boosheyt, derft gy noch</l>
+<l>Louise naderen, daer ick uw helsch bedroch</l>
+<l>Onweetend eeden zwoer, gy hebt uw heyl verlooren.</l>
+<l>Laet my gerust, en wilt mijn rust niet meer verstooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phil.</hi></speaker>
+<l>Mijn waerde, ach! wanneer, en waer is dit gezeydt?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>O onverstandige!</l>
+</sp>
+<pb n="27"/>
+<sp>
+<speaker><hi rend="i">Phil.</hi></speaker>
+<l>Mijn liefde voor my pleyt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>'k Draeg nu geen liefde meer, wilt vry van my vertrecken,</l>
+<l>Het schelden van dees nacht zal u tot nadeel strecken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phil.</hi></speaker>
+<l>Ick schelden? daer mijn hart u aen 't gestarnt verhest.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Gevoelt gy nu de smart, dieu, voor my, nu trest.</l>
+<l>Den Koning, en de Graef Arnoldo zijn mijn minnaers,</l>
+<l>Ick overwin mijn zelfs, en kenze voor geen winnaers.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phil.</hi></speaker>
+<l>Heb ick dees nacht met u gesproocken?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>En daer by</l>
+<l>My voor het Hof gestelt ten toon.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phil.</hi></speaker>
+<l>Bedriegery</l>
+<l>Bedriegt Mevrouw; ick bid acht waerheydt, en geen loogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Het is Philippo die alleen voert het vermogen.</l>
+<l>Mijn broeder koomt, ay gaet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phil.</hi></speaker>
+<l>Nu gy my hebt vervoert.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>'t Past beeter my als uw, wiens list my heel ontroert.</l>
+</sp>
+<stage>Lou. binnen.</stage>
+<sp>
+<speaker><hi rend="i">Karel, Philippo, Leonello, Dionisio, Theodoro.</hi></speaker>
+<l>PHilippo?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phil.</hi></speaker>
+<l>Heer?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>War jaegt u herwaerrs dus bly moedig?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phil.</hi></speaker>
+<l>Uw pralende geluck, den Koning toont hem goedig,</l>
+<l>Het Opperjagerschap hy d' Ammirael vereert.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Ick kus de voeten van zijn Majesteyt, verneêrt</l>
+<l>Buyg ick voor zulck een gunst, en houze oock in waerde.</l>
+<l>Voor uwe moeyten schenck ick u twee Spaense paerden,</l>
+<l>In schoonheydt ongemeen, maer wat ick aen de Votst,</l>
+<l>Die op zijn vaders troon de Lelyscepter torst,</l>
+<l>Zal schencken, eyst verstant, doch wijl wy daer van hand'len,</l>
+<l>Gaet zijne Majesteyt niet zom wijl 's nachts uyt wand'len</l>
+<l>Om luffers te bezien? zoo magh ick mijn rappier</l>
+<l>En goude beuckelaer aen hem vereeren, 't vier</l>
+<l>Van Vorsten brant te fel, zoo kan hy steeckvry wezen.</l>
+<l>Maer zeg my Eedelman, wat Eedelman is dezen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phil.</hi></speaker>
+<l>Een Jager, die u zal getrouwe by standt biên.</l>
+</sp>
+<pb n="28"/>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Uw komst mijn ziel verheucht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Mijn heer die zal haest zien</l>
+<l>Wat jager dat ick ben, 'k zal wat gy wilt volbrengen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>‘Dat hy te jagen tracht zal Karel noyt gehengen,</l>
+<l>Hy is op loosheydt uyt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Dees land tstreeck is bewust</l>
+<l>Wat Theodoor vermach, geen vogel hoe gerust,</l>
+<l>Noch woedend wilt gediert, is vry voor mijne lagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phil.</hi></speaker>
+<l>Mogt ick aen Blanche nu die blijde boodschap dragen,</l>
+<l>Wat zou my eer geschiên.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Treê in, zy blijft verplicht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Ick volgh Philippo na.</l>
+</sp>
+<stage>Phil. Theo. binnen.</stage>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Ja volg vry, 'k ben verlicht</l>
+<l>Van al die zwaerigheên die my gestadig drucken,</l>
+<l>Vrint Leonello, zal ick noch veel langer bucken</l>
+<l>Voor Henrix tyranny, nu by my heeft gemelt</l>
+<l>Door Theodoro, welck een dootstrick dat hy stelt</l>
+<l>Voor Vranckrijx Ammirael, om hem als 't wilt te vangen.</l>
+<l>Hy haeckt al na mijn doodt, zijn uytterste verlangen;</l>
+<l>Doch wie hy tot my zend zal missen goet en bloet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Leo.</hi></speaker>
+<l>Spreeck hem noch eens mijn heer, zie voor u wat gy doer.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Mijn oorlogsgeest verbant zijn goddelooze vreede.</l>
+<l>Wat Rijx-gezant tot my in 't leger komt getreden</l>
+<l>Zal ick vermoorden, want mijn gramschap heevig brant.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Dio.</hi></speaker>
+<l>Elendig die om d'Eer is spoor'loos het verstant.</l>
+</sp>
+<stage>Alle binnen.</stage>
+</div>
+<div type="act">
+<head rend="h3">Het darde bedryf.</head>
+<sp>
+<speaker><hi rend="i">Prudentio veebaest uyt, Henrick.</hi></speaker>
+<l>ZYn Majesteyt bedaer een oogenblick.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Bedaren?</l>
+<l>O neen Prudentio! in liefdes-zee de baren</l>
+<l>My rollen over 't hooft, kan ick genieten rust,</l>
+<l>Daer die ontsteltenis mijn roem en glory blust.</l>
+<l>Een gloênde Etnas brant verbrant dees borst van binnen,</l>
+<pb n="29"/>
+<l>Het kristalijne glas door hetten kan verwinnen</l>
+<l>De men schelijcke leên, door 't stralend zonnevuur:</l>
+<l>Zoo doet de liefde oock, ô wonder avontuur!</l>
+<l>Dat ick, een Koning, moet in zulck een hel versmooren.</l>
+<l>Ach! Blanche duld gy dat uw Koning gaet verlooren?</l>
+<l>Wijl hoop mijn hart bewaert, en pijn my niet verlicht.</l>
+<l>Gae haelt my voort een boeck.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Prud.</hi></speaker>
+<l>Welck?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Bembos treurgedicht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Prud.</hi></speaker>
+<l>Ick ga.....</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Blijf, want hy is niet minzaem om te leezen.</l>
+<l>Hael my Petrarcha, voort: zal onuytbluschlijck wezen</l>
+<l>Mijn al te wreden smart? ô duldelooze quael!</l>
+<l>Uw wreetheydt my verteert, als was ick heel van stael.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Prud.</hi></speaker>
+<l>Behaegt u niet mijn Vorst den Limozijnschen dichter.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Die schrijft te goddelijck, mijn heeten vlammenstichter</l>
+<l>Gebiet zulcks niet, ô neen! laet Nazo mijne geest</l>
+<l>Verlustigen, die eer in Rome heeft geweest</l>
+<l>De minne-schryver, toen hy most die stadt verlaten,</l>
+<l>En Vorst Augustus haet die waerde man dorst haten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Prud.</hi></speaker>
+<l>Ovidius leert zelfs te schuwen dat bedroch.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Zoo lacht hem daetlijck uyt, nu hy geen kruyden, noch</l>
+<l>Veel min verquicking weet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Prud.</hi></speaker>
+<l>Zoo is 't.....</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Laet voort verschijnen</l>
+<l>Mijn wapenmeester, ick zal zelfs, blijf hier, mijn pijnen</l>
+<l>Net stellen op papier, vertoonen al het leet</l>
+<l>Dat my wert aengedaen, en hoe de min my wreet</l>
+<l>Te schelms besprongen beeft, geeft my papier in handen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Prud.</hi></speaker>
+<l>Mijn Vorst, de vlam......</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>'t Is waer, zou het papier verbranden.</l>
+</sp>
+<stage>Binnen.</stage>
+<sp>
+<speaker><hi rend="i">Philippo, Theodoro.</hi></speaker>
+<l>IS dit dat beelt waerom een Koning hem ontstelt?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Philippo weer, als dat het slechtste loot meer gelt</l>
+<l>Als 't goud, wanneer de ziel verheert is, wie koomt ginder?</l>
+</sp>
+<pb n="30"/>
+<sp>
+<speaker><hi rend="i">Henrick, Theodoro, Philippo.</hi></speaker>
+<l>WEl Theodoro strekt uw komst tot heyl, of hinder.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Hoe grooter liefde heer, noch grooter af keer heeft</l>
+<l>Den Ammirael getoont, zijn loosheydt wederstreeft</l>
+<l>Het konincklijck ontzag, ick merckte aen zijn reden</l>
+<l>Dat hy waer dat hy kan archlistig na wil treden</l>
+<l>De Fransche Majesteyt, wie dwingt hem van u al?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Maer wat zeydt Blanche doch?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Die is, ô ongeval!</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Heel spraeckeloos, en stom, uyt ons gezigt verdweenen,</l>
+<l>Gelijck een Engel.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Weg?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>O ja?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Vliên wy oock heenen.</l>
+<l>Wat duyvel heeft zoo stout mijn engelin vervoert.</l>
+<l>'k Verlies mijn zinnen, nu geveynsde Karel loert</l>
+<l>Op Vranckrijx ondergang.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Zijn list staet u te duchten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Hoe zal een meerder dan voor zijne minder vluchten?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Dees kling verlaet my niet in 't uyterst van den noot,</l>
+<l>By hem te woonen was verhaesten zijne doot,</l>
+<l>Wiens aenhang Theodoor zou, eer hy 'r wist, verheeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Verban kleenmoedigheyt, gehoorzaemt mijn begeeren,</l>
+<l>Verbergh mijn liefde wel, zoo zult gy zijn bemint,</l>
+<l>Vervolg dat monsterdier, den snellen hazewint</l>
+<l>Kan door zijn snellen loop, het springend hart bespringen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Was hy een hart geweest, zo wist ick hem te dwingen,</l>
+<l>Nu schroom ick bet gezicht, en tanden van dien beer.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Wie dat mijn vrint wil zijn moet volgen mijn begeer.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Gehoorzaemheydt wil dat wy naer uw wetten leven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Waer wert een Koning niet door liefde toegedreven.</l>
+</sp>
+<pb n="31"/>
+<sp>
+<speaker><hi rend="i">Rufino, Henrick, Philippo, Theodoro, Prudentio.</hi></speaker>
+<l>WAer is zijn Majesteyt?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Wie daer?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ruf.</hi></speaker>
+<l>Kent gy niet meer</l>
+<l>Rufino, groote Vorst.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Rufino?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ruf.</hi></speaker>
+<l>'k Buyg my neêr,</l>
+<l>Want ick de vrindschap niet ben van een Koning waerdig.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Mijn vrind wat is 'er gaens?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ruf.</hi></speaker>
+<l>Den Ammirael heel vaerdig</l>
+<l>Heeft al u doen bespiet, ick ben voor u bedacht,</l>
+<l>Zijn schranderheyt die rieckt een and'ren oort, en lucht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Laet hooren my uw zorg.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ruf.</hi></speaker>
+<l>Soo luyster, zijne grootsheyt</l>
+<l>Rechtvaerdiglijck ontdeckt des Konings zorgeloosheyt.</l>
+<l>Hy weet van alles, wijl de schuldigen zijn weg</l>
+<l>Verbannen uyt het Hof, geloof vry 't geen ick zeg.</l>
+<l>Mits Lisida most voort, en Filis wiert verzonden,</l>
+<l>Geen mensch heeft dat hy heeft ter werelt onderwonden.</l>
+<l>Heeft yders ampt in huys verandert, en verzet.</l>
+<l>Daer dient voorzichtig op den Ammirael gelet,</l>
+<l>Hy is zoo ver dat by wil Blanche.....</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Wat?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ruf.</hi></speaker>
+<l>Vermoorden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Dat kan niet zijn, zy is die deze ziel doorboorde.</l>
+<l>Wiens leven 't leven is van Henrick, zou 't geweer</l>
+<l>Haer dooden, neen, de steeck nam tot de Vorst zijn keer.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ruf.</hi></speaker>
+<l>De thuyn een kercker streckt, daer hy haer houd gevangen,</l>
+<l>De bloemen schiltwacht zijn, ik hoop vast met verlangen</l>
+<l>Hoe dees verwarde strick ontstricken zal.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Hy sluyt</l>
+<l>De brant die my verteert, ô konincklijcke spruyt!</l>
+<l>Ick sterf indien gy sterft, wat kan ick beters erven</l>
+<l>Dan dat ick door uw doodt zou mijne doodt verwerven.</l>
+</sp>
+<pb n="32"/>
+<sp>
+<speaker><hi rend="i">Ruf.</hi></speaker>
+<l>Wilt gy iets stouts bestaen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Is Graef Arnoldo niet</l>
+<l>Zijn buurman dar gy weet? Prudentio, ga ziet</l>
+<l>Dat gy hem zelver spreekt, want ick de Graef moet spreken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Pru.</hi></speaker>
+<l>Zijn hoogheyt is terstont naer 't buytenhof geweken.</l>
+</sp>
+<stage>Prud. binnen.</stage>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>Wat is uw voorneem heer?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Een muur re rammen neêr.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>Dees dulle liefde stoot mijn goede kans omveer,</l>
+<l>Hoe zal dir, Theodoor, de Graef naer wensch behagen,</l>
+<l>Wijl Karels zuster is die hem doet daeg'lijx klagen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arnoldo, Prudentio, Henrick, Philippo, Theodoro, Rufino.</hi></speaker>
+<l>ICk zal dan op uw woort de Koning nader treên,</l>
+<l>Niet buyten angst en vrees.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Mijn harts genegentheên</l>
+<l>Tot uwaerts Graef, doer my zelfs zien, en oock geloven</l>
+<l>Dat uw getrouwigheydt ten Hoof gaet veel te boven.</l>
+<l>Gy weet hoe Karel is op my als u gekant,</l>
+<l>Zijn onbescheydend heydt de vrindschap heel verbant.</l>
+<l>Hy hout n schuldig, maer uw Koning u onschuldig.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>Wat Karel doet voor my ick blijf in als verduldig,</l>
+<l>Zoo blust mijn zachten aert zijn al te heeten vlam.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Zoo ziet men door uw deucht herleven uwe stam</l>
+<l>Waer uyt gy zijt geteelt, Arnoldo, 'k moet my wreken,</l>
+<l>Vergun my in uw buys een plaets om door te breken;</l>
+<l>Want ick de schelmery zelfs straffen wil, dees hoon</l>
+<l>Al t'opgeblazen steeckt heel Vranckrijck na de kroon.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>Is zijne Majesteyt door loogenen bedrogen?</l>
+<l>Weet dat den Ammirael heeft al te groot vermogen</l>
+<l>By bloet, en adeldom, wie roemt niet zijne lof?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Het zy daer meê zoo 't wil, voort volg my na in't Hof.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phi.</hi></speaker>
+<l>'k Ben op de Graef met haet, Louis' met nijt ontsteken,</l>
+<l>Hoe heeft den Koning dus zijn groot geluck verkeken</l>
+<l>Dat elck zijn liefde weet, Louise licht van aert,</l>
+<l>Als Blanche, schat den een zoo veel als d'ander waerd.</l>
+</sp>
+<stage>Binnen.</stage>
+<pb n="33"/>
+<sp>
+<speaker><hi rend="i">Blanthe, Louise.</hi></speaker>
+<l>O schoone planten, en vermaeckelijcke bloemen,</l>
+<l>Met cierlijck loof gedost, wie kan nae waerde roemen</l>
+<l>Uw mogentheydt, wiens macht beschaemt des Konings min.</l>
+<l>Die oorzaeck is dat my mijn Karel haet, zijn zin</l>
+<l>Blijft onveranderlijck, hy geeft mijn droef heydt reden;</l>
+<l>Schoon hy my dreygt, en schelt, ick ben, en blijf te vreden</l>
+<l>En zal te vreden zijn, ô zuster! tot ick sterf.</l>
+<l>Waerom verschuylt gy u gehate blaeuwe verf.</l>
+<l>O achterdocht! koomt gy onnozelheydt dus plagen,</l>
+<l>Stantvastigheydt zal u, hoe fel gy prangt, verdragen,</l>
+<l>Zy tart uw straf heydt uyt; en gy, ô maegd' lijck kruyt!</l>
+<l>Aenschouw dees fiere borst, wiens eerbaerheyt munt uyt</l>
+<l>Veel witter als Jasmin, de witheydt mijnder leden</l>
+<l>Die zijn met deucht verciert.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Hebt gy genoeg gebeden?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Blan.</hi></speaker>
+<l>Het geen ick niet volvoer, volvoert gy dat Mevrouw.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Al wie geen schult begaer, heeft van geen schult berouw,</l>
+<l>Gy weet hoe dat wy zijn bekerckert, en beschooten,</l>
+<l>De blaeuwe lely heeft zijn kleur geheel verschooten,</l>
+<l>Wijl vrees, en achterd ocht het alles onderwint,</l>
+<l>De Koning, door zijn drift, toont hem geheel verblint.</l>
+<l>De schrick, ô Blanche, doet ons steets te rugge treden,</l>
+<l>Het nabedencken is een pijnbanck, die ons heden</l>
+<l>De ziel beangstigt, waerom 't hart geduurig zucht.</l>
+</sp>
+<stage>Van binnen gerucht, als of een muur neêrstorten.</stage>
+<sp>
+<speaker><hi rend="i">Blanche, Louise, Henrick.</hi></speaker>
+<l>O hemel! wat is dit? wat schrickelijck gerucht</l>
+<l>Vervaerd ons, hemel ach! wat onheyl dreygt ons allen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>'k Zie gins Arnoldós muur ter aerde neêrgevallen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Blan.</hi></speaker>
+<l>Louise war is dit? 'k hoor yemant stappen, ach!</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Verberg u niet voor my.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Blan.</hi></speaker>
+<l>Dat ick u nimmer zach</l>
+<l>Waer.....</l>
+</sp>
+<pb n="34"/>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>'t Konincklijke bloet wil Blanche niet meer tergen.</l>
+<l>Waer toe het vluchten? daer gy u niet kunt verbergen</l>
+<l>Voor mijne oogen, want mijn glans het al bestraelt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Blan.</hi></speaker>
+<l>Wie zoeckt zijn Majesteyt?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Hoe ick hier ben gedaelt</l>
+<l>Dat weet ick zelver niet, voogdesse van mijn zinnen,</l>
+<l>Uw tintelend gestarnt mijn grootsheydt kan verwinnen.</l>
+<l>O zoete moorderes! uw zoete liefde is</l>
+<l>Den Ammirael zijn doodt, mijn ziels verderffenis.</l>
+<l>Uw Karel die moet voort, of Henrick kan niet leven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Blan.</hi></speaker>
+<l>Dat schut den hemel, ach! waer wert gy toe gedreven,</l>
+<l>Dat gy uw lusten volgt? spruyt dit uyt liefde? neen:</l>
+<l>Gy zijt op moorden uyt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Mijn ziel is met de reên</l>
+<l>Verlooren, echter kan ick u voor dwingelanden</l>
+<l>Door mijne mogen theydt beschermen, mijne banden</l>
+<l>Veel straffer knellen als de alderstrasste doot.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Blan.</hi></speaker>
+<l>Een Konincklijcke ziel buygt niet, ten zy door noot.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Wat heeft die noot, waer voor een Koning koomt te zorgen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Blan.</hi></speaker>
+<l>Die heden kroonen schenckt, en neemtze weder morgen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Zijn Majesteyt zie toe, 'k ben voor haer doot beducht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Karel, Henrick, Blanche, Louise.</hi></speaker>
+<l>DEn Koning hier, wat 's dit?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Gedoog ick dat zy vlucht?</l>
+<l>O neen! een oogenblik moet ick haer schoont' beoogen.</l>
+<l>Vermoort gy wreede my dan zonder mededoogen?</l>
+<l>Kent gy uw Vorst niet meer? ontzinnige ontwaeckt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>‘O Henrick! spreek, waer langs zijt gy hier ingeraekt.</l>
+<l>O snoode Graef! ô schelm! ô Sinon! ô verrader!</l>
+<l>Maeckt gy mijn oneer, en mijn schanden noch veel quader,</l>
+<l>Dat gy my dus onteert. ô god'loos Troysche paert!</l>
+<l>Dat mijne eer dus tergd, mijn gramschap niet bedaert,</l>
+<l>Maer brant veel heeviger als zy eer deed te vooren.</l>
+<pb n="35"/>
+<l>De tronwheydt raed my af om hem niet te doorbooten</l>
+<l>O al te harden daed! boe stry ick dus om d'eer,</l>
+<l>Den Koning kent helaes! genooten deugt niet meer.</l>
+<l>Nu dat ick hem verras, zoo zal en moet hy sterven.</l>
+<l>Zulx kan niet zijn, ô neen! zal ick mijn handen verven</l>
+<l>In het gezalfde bloet? 'k zat David zijn, die 't kleet</l>
+<l>Van Saul heeft geknipt door 't snijden, schoon hy wreet</l>
+<l>Staet na mijn ondergang, noch zal ik hem verschoonẽ.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Uw wil is willeloos, ay! wilt u Vorst'lijck toonen,</l>
+<l>O oorzaeck van mijn ramp! gy neêrgestorte muur,</l>
+<l>Uw val maeckt my slavin, uw val valt my te duur.</l>
+<l>Mijn Karel in dees borst voor eeuwig blijft beslooten,</l>
+<l>Van hem heb ick meer deugt als oyt van u genooten.</l>
+<l>'k Verloor veel liever bey dees oogen, dan als dat</l>
+<l>Ick baten zou, die geen, die ick veel meerder schat</l>
+<l>Als 't leven; wreede Vorst, wilt op de deucht vertrouwen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>‘O praelbeelt van mijn ziel! ô roem van alle vrouwen!</l>
+<l>'k Zal my verschuylen achter het geboomt, dat ick</l>
+<l>Mijn Blanche steets beoog, vervolgt van vrees, en schrick.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Zijt gy gevoeleloos, dat gy my straf bejegent?</l>
+<l>Is Blanche niet met staer, in 't Fransche Hof gezegent?</l>
+<l>Waer toe de Vorst getergt......</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Hoe hoort hier niemant, hou?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Ay my elendige! waer berg ick my van rouw.</l>
+<l>O Henrick! Karel koomt uw geylheyts drift bespieden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Het palmbosch my beschut voor hem.</l>
+</sp>
+<stage>Binnen.</stage>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Lief uw gebieden</l>
+<l>Is my een stale wet, mijn waerde, niet getreurt,</l>
+<l>Verlaet de een zaemheydt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Had uwe lust gekeurt</l>
+<l>Een nare kercker voor dees hatelijcke bloemen,</l>
+<l>Waer Zon, noch Maenlicht, licht, 'k zou my geluckig noemen.</l>
+<l>'t Is Karel die alleen zijn Blanches ziel verheucht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Hoe evenaert gy dus uw liefde met uw deucht?</l>
+<pb n="36"/>
+<l>Wiens glans ver overtreft het diamants gefloncker,</l>
+<l>Laet snode vrouwen gaen vol schaemte vry by doncker,</l>
+<l>Gebooren tot veel schants, verschuylen voor de eer.</l>
+<l>Schoon palm haer voorhoost ciert, uw deucht verciert veel meer</l>
+<l>Als groene lauwerblaên, cipres, of hofgewaden.</l>
+<l>Heldinne van mijn ziel, wanneer ick uwe daden</l>
+<l>Zou roemen, marmorsteen versleet, en niet uw lof,</l>
+<l>Stantvaste lief de woont stantvastig in dit Hof.</l>
+<l>Ay zie hoe Karel hem met Blanche heeft vermengelt,</l>
+<l>Om wien den Koning als een schender eerloos hengelt.</l>
+<l>Mijn eer gedoogt niet dat ick zulck een Vorst ontzie.</l>
+<l>Zy is een tygerin die jongen queeckt, want wie</l>
+<l>Vreest voor een oorlogsspeer, wanneer hy wert besprongen.</l>
+<l>Weg met de Fransche kroon, wiens punten eertijts drongen</l>
+<l>Door dees manhafte borst, ô Henrick! ga vry heen,</l>
+<l>Gy volgt geen oud'ren na, maer dwaelt, in korte reên.</l>
+<l>Louise zeg, hoe quam dees muur zoo plots gevallen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Instorting oorzaeck is zomtijts van ongevallen.</l>
+<l>Arnoldo timmert licht vertrecken in zijn zael.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Arnoldo timmert, recht? het geld den Ammirael.</l>
+<l>Zijn los gebouw te los zal eer hy 't weet neêrstorten.</l>
+<l>Mijn waeckend oog de list des Konings zal verkorten,</l>
+<l>Haer metselwerck is ruw, dees neêrgestorte muur</l>
+<l>Belet mijn vyandin haer voorneem, gaen wy, 't vuur</l>
+<l>Van weerwraek brant te fel, dat my een hulp zal streckẽ.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Ick hoop den hemel u met voorspoet zal bedecken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Geen last, hoe lastig, druckt een eerelijck gemoed.</l>
+<l>Ick ben my zelfs getroost, ô hemel! zie hoe 't bloet</l>
+<l>Tot wreken wert geperst, den Koning is mijn hoonder,</l>
+<l>En die hy hoont, in noot zijn trouwste lijfs verschoonder,</l>
+<l>'k Leg tusschen Scylla en Charybdis ingestort:</l>
+<l>Ay red my uyt 't gevaer, of maeck dit leven kort.</l>
+</sp>
+<stage>Binnen.</stage>
+</div>
+<div type="act">
+<pb n="37"/>
+<head rend="h3">Het vierde bedryf.</head>
+<sp>
+<speaker><hi rend="i">Arnoldo in de thuyn.</hi></speaker>
+<l>NU door mijn huys de Vorst tracht Blanche te beöogen,</l>
+<l>En door zijn mogentheyt voert over my vermoogen,</l>
+<l>Zoo neem ick in dees tijt, de tijt, en aenslag waer.</l>
+<l>Een die van harten mint moet vreezen geen gevaer.</l>
+<l>Louise die tracht my, Arnoldo haer te spreken,</l>
+<l>Wiens broeder zelfs getuygt haer liefde, dit 's een teken</l>
+<l>Dat alles gaet naer wensch, daer koomt zy, mijn godin.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Louise, Arnoldo.</hi></speaker>
+<l>SChoon my Philippo haer, en houd voor vyandin,</l>
+<l>Noch blijft hy voor altijt in deze borst beslooten,</l>
+<l>Wijl de genegen theydt de argwaen derft verstooren,</l>
+<l>Hoewel zijn gramschap trots genoote gunst verstier.</l>
+<l>Maer zacht, wie zie ick daer, of iemant my bespiet?</l>
+<l>Wie zijt gy die hier waerd?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>Een wachter om te waecken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Derft gy u op dees plaets vertrouwen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>‘Ach! hoe blaecken</l>
+<l>Haer lonckende oogen, ja Princes, ick ben veel meer</l>
+<l>Voor u, als voor my zelfs, uw slaef buygt vooru neêer.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Uw haet was niet vergeefs Philippo, mits mijn zinnen</l>
+<l>In 't minnen zijn verward, wat zult gy nu beginnen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>My onderdanig zijn.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Die wrevel was, en schuw.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>Doorluchte vrouw gy gaeft gelegentheydt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Aen uw?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>Gy gaeft uw broeder zelfs te kennen uwe liefde.</l>
+<l>Een morgenwecker was zijn straf heydt, het beliefde</l>
+<l>Heer Karel dat hy wou getuyge zijn van als.</l>
+<l>Men moet de de danckbaerheydt zijn danckbaer, en niet valsch.</l>
+<l>'k Zal aen den Koning zelfs ons huwelijck verzoecken.</l>
+<l>Den Ammirael zal dit niet stemmen af, verkloecken</l>
+<pb n="38"/>
+<l>Wy ons in deze staet, ick weet dat gy my mint.</l>
+<l>'t Is billick Hymens bant ons herten t' zamen bint.</l>
+<l>'k Ontsluyt mijn boezem, nu my liefde heeft ontsteecken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Ick u beminnen? hoe? waer heeft dat oyt gebleecken?</l>
+<l>Daer boven het verzoeck van bruydegom, gy dwaelt;</l>
+<l>Indien mijn broeder u van liefde heeft verhaelt.</l>
+<l>Zoo heeft hy wis geboert.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>‘Ick zie genegentheden</l>
+<l>Verachteren, en voel mijn dwaesheydt, mijn gebeden</l>
+<l>Die zijn verloeren, 'k merck mijn onverstant te laet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Verzoeck uw asscheyt heer, 't is tijt als dat gy gaet,</l>
+<l>Door dien ik niet en weet wie ginder aen koomt stappen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>'k Zal Karel om dees hoon zijn bloet uyt d'ad'ren tappen.</l>
+</sp>
+<stage>Binnen.</stage>
+<sp>
+<speaker><hi rend="i">Blanche, Louise.</hi></speaker>
+<l>SPraeckt gy met iemandt?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Ja.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Met wie?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Die door dees muur</l>
+<l>Gekomen, my ontdeckt zijn gloeyend minnevuur.</l>
+<l>De min heeft Graef Arnold verovert al de zinnen,</l>
+<l>In beel den de als dat Louise hem zou minnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Wat zegt gy?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>'t Geen gy hoort, een wijs verstandig man</l>
+<l>Zijn zelfs op liefd' niet roemt, schoon hy hem roemen kan;</l>
+<l>En klaerlijck ziet de zucht die hem een vrouw koomt dragen.</l>
+<l>'t Is groote wijsheyt, 't geen verderf weckt, te mishagen.</l>
+<l>De liefde hoop verplicht, daer het gewis genot</l>
+<l>Verandering verweekt, een herssenloozen zot</l>
+<l>Betoont zijn onverstant, en kan niet onderscheyden,</l>
+<l>Wiens domheyt zich door reên noch aenzien laet geleyden</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Mijn ongevallen doen, dat my de rust ontvliet,</l>
+<l>Ay laet my by dees beek, die ruyschend neêrwaerts schiet</l>
+<l>Zijn kristalijne stroom, in eenzaemheydt wat rusten,</l>
+<pb n="39"/>
+<l>Op dat mijn pijn verzacht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Wel aen voldoe uw lusten</l>
+<l>By 't vleyende gerucht der aengenaeme beeck.</l>
+<l>Gelegentheydt vergun dat ick Philippo spreeck.</l>
+</sp>
+<stage>Binnen.</stage>
+<sp>
+<speaker><hi rend="i">Blanche.</hi></speaker>
+<l>O lieffelijcke slaep! ô aengename droomen!</l>
+<l>Sluyt zoet dees oogen toe, en laet my tot u koomen.</l>
+<l>O beeltenis des doodts! dat yder oogenblick</l>
+<l>(Ick ben dit leven wars,) verzelt van smart, en schrick.</l>
+<l>Mijn rust bestaer in u, 'k begeef my in uw handen.</l>
+<l>Gedachten, die my doen aen d' and're werelt stranden</l>
+<l>Op 't ruyschende geluyt des waters, ay! weest stil,</l>
+<l>Mijn opgetoogen geest u nimmer hooren wil.</l>
+<l>O Slaepgodt! wilt de druk die my verdrukt verdrucken.</l>
+<l>Laet mijn bezwaertheydt niet u goede gunst ontrucken.</l>
+<l>Verley mijn rampen, die my knellen, tot de tijdt</l>
+<l>Bedroefde droomen schut, en 't treurig hart verblijdt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Karel, Blanche</hi>,</speaker>
+<l>ACh hemel! zal mijn ziel dan nimmermeer niet rusten.</l>
+<l>Louise seyde dat mijn lief haer hier verlusten.</l>
+<l>Hoe kan het daglicht zijn terwijl Aurora slaept?</l>
+<l>Het spraeckeloos geboomt aen Blanche baer vergaept,</l>
+<l>Die ick graeg spreecken wou. hoe zal ick my bestieren?</l>
+<l>Apol verschuylt g'u oock in schaduw van laurieren,</l>
+<l>Met Karel die zijn lief beöogt, tot zy ontwaeckt?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Henrick, Arnoldo, Karel, Blanche.</hi></speaker>
+<l>BEgeef u aen een zy Arnold, dat gy niet naeckt</l>
+<l>De slapende voogdes.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>Hoe streelt de wint die schoone?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Die druckt mijn meening uyt, nu 't springend nat koomt toonen</l>
+<l>Genegentheydt, waer door dat Blanche wert bewust</l>
+<l>De fiere aentocht van mijn zuchten, heel gerust</l>
+<pb n="40"/>
+<l>Verwacht zy Henrix komst, zy koomt mijn leven wecken</l>
+<l>Uyt een verdorven slaep.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>De liefde moet vaeck strecken</l>
+<l>Een minnaers toetsteen heer, die door verborgen kracht</l>
+<l>Uytwercken kan, het geen men nimmer had gedacht.</l>
+<l>Een sneedig breyn mijn Vorst, is hier voor al van nooden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Vertreck, laet my alleen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>Uw woorden zijn gebooden.</l>
+</sp>
+<stage>Binn.</stage>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Verheugt, en heel verwart maeckt uw stantvastigheyt,</l>
+<l>Nu dat ick uw beöog, mijn ziel, vol need'righeyt,</l>
+<l>Beweeging stille staet, de Zon zelfs opgetogen</l>
+<l>Aenschouwt haer schoon gelaet, vol aendacht; het vermogen</l>
+<l>Der Maen is oereloos, verzet het Starren-tal</l>
+<l>Het draeyende geval gebonden, ja ick zal</l>
+<l>Nu dat gy slaept, u voort af keerige omhelzen,</l>
+<l>Wijl gy geen weêrstant bied, in 't aenzien van dees Elzen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>‘Zoo gy zulx doet, ick zweer.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Wat naere stem verschrickt</l>
+<l>Die Vranckrijck schricken doet?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Bedenckt het wel.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Hoe wickt</l>
+<l>De min my in ge vaer? een minnaer moet niet schroomen.</l>
+<l>Bedenkt het wel, wat 's dit? wat stâ ick hier te droomen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Bedenckt het wel.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Meent gy de overzoete vreucht,</l>
+<l>Die ziel, en hart alhier op deze plaets verheucht,</l>
+<l>Te stooren, neen! ick kus haer meer dan hondert malen.</l>
+<l>Want die my weederstreeft zal 't met zijn hals betalen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Ick râ uw doet het nier.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Niet doen? bedenckt het wel?</l>
+<l>Is dit een geest, of spoock, of duyvel uyt de hel</l>
+<l>Die mijne vreugt belet? wie kan mijn wil beletten?</l>
+<l>Geen buldrend onweer kan mijn mannenhart verzetten.</l>
+<l>Wie zijt gy die my op dees plaetze antwoort geeft?</l>
+<l>Zijt gy uw leven moê, dat gy my tegenstreeft?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Haer echte man.</l>
+</sp>
+<pb n="41"/>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>'k Geloof Arnoldo is vol zotheydt,</l>
+<l>Die met zijn Koning boert, weet gy hoe liefdes lot leyt?</l>
+<l>Zeg stem die my verveelt, en vrolijckheydt belet,</l>
+<l>Wat raeckt dees schoonheydt u?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Wy zijn door Hymens wet</l>
+<l>Te vast aen een verknocht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>De stem die 'k daer weêr hoorde</l>
+<l>Verwekt mijn tegenspoet: gy die mijn voorneem stoorde</l>
+<l>Ick nader u, ô neen! 't mogt zijn den Ammirael</l>
+<l>Die op mijn leven loert, om door zijn heyloos stael</l>
+<l>Mijn draet te snijden af, wiens list hier schijnt te slapen.</l>
+<l>Zijn achterdocht heeft u verspiet, ô Koning! wapen</l>
+<l>U tegens Karel nu, die droomende doorziet,</l>
+<l>En naeckt en klaer ontdeckt uw naeckende verdriet.</l>
+<l>Het blijckt in alles, dat hy heeft gehoort uw reden,</l>
+<l>Zijn oogwit is de Vorst op hals en neck re treden.</l>
+<l>O liefdes tyranny! hoe voert gy my ten strijt.</l>
+<l>Uw wreetheydt Blanche, maeckt mijn gloor, en aenzien quijt.</l>
+<l>Voor die ik dwing, moet ik neêrbucken als verwonnen.</l>
+<l>Geluckig waer ick, waer dees liefde noyt begonnen.</l>
+<l>Want die my slapende waerschuwen derft, die toont</l>
+<l>Dat hy ontwaeckende mijn leven niet verschoont.</l>
+</sp>
+<stage>Binn.</stage>
+<sp>
+<speaker><hi rend="i">Blanche. Karel.</hi></speaker>
+<l>DE slaep is door gerucht, geen ruyschen, my benomen.</l>
+<l>Och! zou by Blanche oock wel iemant zijn gekomen,</l>
+<l>Die tusschen 't lauw're blat zijn lijf verschuylt, maer ach!</l>
+<l>'t Is Karel die hier rust, my waerder als den dach.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Ick bid u heer, ay! wilt ter degen overwegen.</l>
+<l>Hoom nimmer Eedelman, het streeft de reden tegen.</l>
+<l>Laet Blanche in haer eer; en ben ick u getrouw,</l>
+<l>Waerom my dan gehoont, door't hoonē van mijn vrouw?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Door my mijn lief? de slaep heeft hem geheel bevangen.</l>
+<l>Zoo dra als hy ontwaeckt, zal ick mijn ziels verlangen</l>
+<l>Voldoen, wanneer gy niet ontkent het geen gy zecht;</l>
+<l>En zoo gy het ontkent, zoo rouwt my dat de Echt</l>
+<pb n="42"/>
+<l>Ons 't zaem verbonden heeft, wilt uwe eer bewaeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>O Blanche! nu dat ick gevallen ben, beswaeren</l>
+<l>De ongelucken al de waerheydr, ja zoo, dat</l>
+<l>De zuyv're leeft besmet, daer 'k al mijn hoop op had.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Hoe twijffelt gy daer aen?.....</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Des Konings helsche listen</l>
+<l>Die moet gy weêrstant biên, want zijne geylheydt histen</l>
+<l>Hem tot dees dartelheydt, dit prachtige gewaed</l>
+<l>Verwerpt dat van u af, het streckt tot overdaet.</l>
+<l>Uw schoonheyt, en dit kleet maekt hem in wellust droncken,</l>
+<l>Het welck zijn eerloos hart geduurig doet ontvoncken.</l>
+<l>Een kleet gering van staet dooft Vorsten geylheydt uyt,</l>
+<l>De armoed eerlijck is, gehoorzaemt mijn besluyt.</l>
+<l>Want voor het vleyend oog, zijn goude en zijde kleeden</l>
+<l>Maer uythangborden, die aenlocken, rust, en vreeden</l>
+<l>Woont binnen mijn gemoed, ick spreeck als handelaer</l>
+<l>Van d'eerbaerheydt, ick speel met haer de wandelaer.</l>
+<l>Zy volgt waer dat ick gâ.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Wilt my niet meer bedisselen,</l>
+<l>Mijn lief ick zal om u, van kleên, en staet verwisselen.</l>
+<l>Als ick u slapende gehoorzaem, is 't dan wel?</l>
+<l>Ontwaeckende ontzie.</l>
+</sp>
+<stage>Binnen.</stage>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Een ander zijn gequel</l>
+<l>Weet door het veynzen, en stilzwijgen te verzachten,</l>
+<l>Daer ick slaep om mijn eer, die Henrick wil verkrachten.</l>
+<l>De eer geld meer als 't gout, die meenig schat als niet.</l>
+<l>Maer wat wil Theodoor, dat hy my dus bespiet?</l>
+<l>Hy koomt uyt 's Konings naem, duld Karel hem niet nader.</l>
+<l>Verschaf hem loon na waerd, zoo sterft hy een verrader.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theodoor, Karel.</hi></speaker>
+<l>DEn Koning my tot u gezonden heeft, om al</l>
+<l>Uw handel af te zien, uw doodt, en uwe val</l>
+<l>Staen reets beschooren, zoo meêlijden niet in deze</l>
+<l>Gelegentheydt aen uw trouwhartig wert bewezen,</l>
+<l>Ick wil de Vorst mijn heer, die u verraet, verraên.(</l>
+<pb n="43"/>
+<l>'k Zal u verwittigen, hoe 's vyants zaecken staen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Gy doet heel wel mijn vrint, dit prachtig hof van Eden</l>
+<l>Daer Adam leeft gerust met Eva wel te vreden,</l>
+<l>Daer speelt gy Theodoor de looze slang, dees trouw</l>
+<l>My aen uw deucht verbint, ick voel verlicht mijn rouw.</l>
+<l>Dees blijde artzeny verzacht mijn pijn en qualen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Weet dat den Koning heeft, zoo ik het derf verhalen,</l>
+<l>Uw wooning ondermijnt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Is 't ernst, of boert, verraet?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Ontstelt u niet te vroeg, ontstellen doet maer quaer.</l>
+<l>Een moedig Veltheer toont hem dapper en manmoedig.</l>
+<l>Een wacker Hopman in zijn wackerbeydt voorspoedig.</l>
+<l>Waert gy die nu ter tijdt, gy waert uyt uw verderf.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Voorzichtigheydt is hier zelfs onvoorzichtig, 'k sterf</l>
+<l>Dat ick gedoogen moet zoo laffen wulpzen Koning,</l>
+<l>Die my te eerloos schent, door 't schenden van mijn wooning.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Blanche, in slecht gewaed, Karel, Theodoro.</hi></speaker>
+<l>GEen beeter tijdt als nu.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Wat 's dit mijn Blanche? ach!</l>
+<l>Koomt gy my troosten, en verstercken, daer den dag</l>
+<l>My weygert haer vermaek, beween! beween de rampen</l>
+<l>Die 't ongeval my doet grooter op groote klampen.</l>
+<l>'k Verklaer, 'k werd zinloos en verblint, vergeeft het my</l>
+<l>Dat ick......</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Hy schreyt, wat 's dit?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Mijn Karel, schoon dat gy</l>
+<l>Wert van de Vorst verdruckt, om Blanche te beminnen.</l>
+<l>Het streckt u eer tot roem, den Koning zal noyt binnen</l>
+<l>Dees boezem zijn geplaetst, mijn moed herstelt uw eer.</l>
+<l>Maeckt van het kostlijckst kleet een vaendel, wreeckt u weer.</l>
+<l>Plant zulck een standaert, wilt helthaftig zegenpralen.</l>
+<l>Droog af de tranen, ay! verduystert niet de stralen</l>
+<l>Die my vervrolijcken, uw waerde neemt gedult:</l>
+<pb n="44"/>
+<l>Ick schroom geen dwingelant, hoe fel hy tiert, en brult.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Mijn hart, ay! ween toch niet, uw ziels genegentheden</l>
+<l>Die zullen het gewelt van dien Tyran vertreden.</l>
+<l>Mijn tranen swaerden zijn waer meê ick ga ten strijdt.</l>
+<l>'t Valt hart een eerlijck man, wanneer hy schipbreuk lijdt</l>
+<l>In eer en aenzien. Lief, wat voert gy groot vermogen</l>
+<l>Door 't kleden van dit kleet, hoe flick'ren Blanches oogen</l>
+<l>Die ick ter doodt toe min, waer tegens dat de Vorst</l>
+<l>Ons Konincklijcke bloet te eereloos bemorst.</l>
+<l>Dien snooden vos tracht u stantvaste te vervolgen.</l>
+<l>Volhart, schroomt dwang, noch vrees, hoe zeer hy is verbolgen.</l>
+<l>Geef geen gehoor, aen die geen wet, noch hemel acht,</l>
+<l>Want Theodoor heeft my ontdeckt heel onverwacht,</l>
+<l>Hoe hy den Ammirael door zijn gewelt wil dwingen.</l>
+<l>Wat staet ons al te doen in dees veranderingen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Henrick, Arnoldo, Karel, Blanche, Theodoor.</hi></speaker>
+<l>UW leet dat is my leet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>De schade is niet heel groot.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Zijn Majesteyt hier in mijn boogaert ongenoot?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Arnoldo heeft verhaelt naer veel omstandigheden,</l>
+<l>Het storten van dees muur, neêrstorten onbestreden;</l>
+<l>Derhalven ben ick hier gekomen om te zien,</l>
+<l>Of iemant eenig leet gekregen had, indien</l>
+<l>De zwaerigheydt waer zwaer, het zou my Blanche moeyen.</l>
+<l>Ons bloetverwantschaps plicht doet my te uwaerts spoeyen.</l>
+<l>Ick deed zeer qualijck dat ick naliet deze eer.</l>
+<l>Hoe gaet het al Mevrouw?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Heel wel, u oock mijn heer?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Wat pijn verdrukt uw vreugt dat gy u dus gaet kleden?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Hoe, staet my dat niet wel? ick ben daer meê te vreden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Gy schijnt een arme vrouw van een geringe staet,</l>
+<l>Niet gemalin van dien, waer Vranckrijck op verlaet.</l>
+<l>Mevrouw zijt gy een vrouw van vrouw Fortuyn verstooten?</l>
+</sp>
+<pb n="45"/>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Dit slecht gewaet mijn eer op 't heer lijckst koomt vergrooten,</l>
+<l>Verwonder u nier, neen! neem vry als ick gedult,</l>
+<l>Al 't geen de Vorst hier ziet daer draegt hy van de schult.</l>
+<l>Een Koning moet in noot van sterven zelfs bezoecken</l>
+<l>Getrouwe onderdaens, en koomt gy u verkloecken</l>
+<l>Dat gy die gunst betoont, zoo wert uw groote naem,</l>
+<l>De weerelt door verbreydt door 't blazen van de Faem.</l>
+<l>Gy zoud ons uwe komst doen door uw Adel hooren,</l>
+<l>Zoo waer ons op een tijt uw gunst en vreugt gebooren.</l>
+<l>Toen 't zonlicht Julia bestraelde in flickrend gout,</l>
+<l>Waer op dat Cezar had zijn liefde vast gebouwt,</l>
+<l>Doe wiert hy walg'lijck, en verachte het gesteente.</l>
+<l>Der Vorsten liefde, Vorst, doordringt rot in't gebeente,</l>
+<l>Waerom zy daegs daer aen, als ick in slecht gewaet</l>
+<l>De Roomsche Troonvoogt sprack, ontbloot van pracht, en staet,</l>
+<l>Nu koomt gy heel bevrijd van ziels af keerigheden,</l>
+<l>O Julia! nu kunt gy 's Keyzers boezem kneden.</l>
+<l>Op gist'ren waer ick beer mijn Karel zijn begeer,</l>
+<l>Maer nu, nu buyg ick als slavinne voor u neêr.</l>
+<l>Gy wraeckt dit slechte kleet, gy hoort my door mijn woorden,</l>
+<l>Ick haet uw Hoofse pracht, noyt Koning my bekoorde.</l>
+<l>Uw lust is my een last, dat ick u dus verschijn</l>
+<l>Zal strecken u tot schant, 't zal my tot eere zijn.</l>
+<l>'t Is Karel die alleen kan mijn gemoet verwinnen.</l>
+</sp>
+<stage>Binnen.</stage>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Haer haestiglijck vertreck ontroeren doet mijn zinnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Een zelfde af keer toont zy tegens my.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Wel aen,</l>
+<l>Zoo armoed eerlijck is, zoo moet zy oock verstaen</l>
+<l>Als dat een minder moet zijn meerder noyt braveeren.</l>
+<l>Wie Vorsten tergt ziet zijn geluck in druck verkeeren.</l>
+<l>Mijn grootsheydt duld geen hoon.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Hoe zoo?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Ick zie zy draegt</l>
+<pb n="46"/>
+<l>Uw liefde toe, het welck haer Koning meer mishaegt.</l>
+<l>Gy, en de achterdocht, die zullen 't Rijck bestieren.</l>
+<l>'t Is Karel die alleen bekranst wert met laurieren.</l>
+<l>Gy heeren zult voor 't Hof getuygen met uw mont,</l>
+<l>Hoe ick een scheyding maeck van 't Huwerlijxverbont.</l>
+<l>Philippo, zaegt gy haer niet met betraende oogen?</l>
+<l>Stont 't weezen niet bedroeft?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phil.</hi></speaker>
+<l>Gy prangt haer groot vermoogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Hebt gy, Arnoldo, haer niet slecht gezien gekleet?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>'t Geschiet door onlust, of verzuymenis naer 'k weet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Hoe, weygert gy al meê? zoo zullen strenge eeden</l>
+<l>Van uw weêrspannigheydt my stellen doen te vreden.</l>
+<l>'k Zal uw gedachten wel ontsluyten, Karel zal</l>
+<l>Mijn lijfs gevangen zijn.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phil.</hi></speaker>
+<l>Weckt niet verblint uw val.</l>
+<l>Een dullen raet zal u niet raden, maer verraden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Vertreck van hier, een vrouw verwekt mijn ongenade.</l>
+<l>Ick vind geen nytvlucht voor mijn duldelooze pijn.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phil.</hi></speaker>
+<l>Doet liefde dan de Vorst dus ongerustig zijn?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Ick raes, ick fterf, en werd van ongedult bevochten.</l>
+<l>Wat rotsen zijn zoo hart, als wreede minne-tochten?</l>
+<l>Zijn doodt mijn leven is, en daer op gâ ick aen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phil.</hi></speaker>
+<l>Gy zijt te heevig, zoo gy reden wilt verstaen,</l>
+<l>Zoo weet gy dat een steen verzachr wert, en bewoogen.</l>
+<l>Hebt met zijn zuchten doch meêlijden, laet medooen</l>
+<l>Uw hart bewegen heer, gy kent zijn vroom gemoet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Geen and're middel, als dees huw'lijxscheyding, 't bloet</l>
+<l>Zal koelen, dwinglandy zal my tot oogwit strecken.</l>
+<l>De Fransche kroon die zal mijn Blanches hooft bedeckê.</l>
+<l>De naem van Koningin die hoor ick al in't Hof.</l>
+</sp>
+<stage>Binnen.</stage>
+<sp>
+<speaker><hi rend="i">Phil.</hi></speaker>
+<l>Hoe groot is liefde uw vermogen.</l>
+</sp>
+<stage>Binnen.</stage>
+<sp>
+<speaker><hi rend="i">Theodoro, Karel.</hi></speaker>
+<l>SUst gy? of</l>
+<l>Is het verstant bedwelmt, uw eygen zaeck verdeedigt.</l>
+<l>'t Waer met den Koning best in alle ding bevreedigt.</l>
+<pb n="47"/>
+<l>Hoe, slaept gy Karel? spreeek, wat is het dat u schort?</l>
+<l>Of koomt uw vroomheydt nu aen vroomheydt noch te</l>
+<l>De stamme van Valoys noyt ruste. op doorluchte.</l>
+<l>Vermits trompetten klank in 't oor dreunt, kunt gy zuchkort.</l>
+<l>Op trommelen geluyt? op, dapp're oorlogshelt.</l>
+<l>Ontwaeck! noch eens ontwaeck! u zelfs strijtvaerdig stelt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Den hemel my behoed, wie daer?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Wat is 't?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Ontdeckt u.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Hoe droomt, en slaept gy? 't schijnt als dat de slaep begeckt u.</l>
+<l>Ten is geen dralens tijdt, de vyand is naby,</l>
+<l>Het vluchten noodig is, ontvlucht uw slaverny.</l>
+<l>'k Hoor hoeven kleppen, en oock stale wapens ram'len.</l>
+<l>Hoort gy niet nevens my de schilden? niet te sam'len,</l>
+<l>Vlucht wijl gy vlochten kunt, rend door de buytenpoort</l>
+<l>Parijs nyt, laet de Vorst, op schenden rechtevoort</l>
+<l>Verhit, zijn geyle lust verzaden, en vernoegen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Hoe kan ick hooren, en my na er uw wille voegen.</l>
+<l>Wijl ick geen ooren heb, noch zinnen nu ter tijt.</l>
+<l>Dees arm, gevreest wel eer, is vrees, en aenzien quijt.</l>
+<l>'t Gaet alles, als gy ziet, met het verstant verlooren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Wat wilt gy doen?</l>
+</sp>
+<stage>Karel ontkleet hem, en werpt zijn kleed'ren over het Tooneel.</stage>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Ay wilt my niet meer ringelooren.</l>
+<l>Hebt gy noyt in een huys gezien, alwaer de brant</l>
+<l>Geraeckt heel onverwacht, strax neemt de overhant,</l>
+<l>Hoe men het huysraet zoeckt ter venster uyt te bergen?</l>
+<l>Zoo doe ick oock, te lang heb ick geduld het tergen</l>
+<l>Van 's Konings dartelheydt, die mijne brant ontsteeckt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Zoo kiest de wapens, en ontkleet u niet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Gy spreeckt</l>
+<l>O Theodoor! zoo wel, geef my een paert, 'k zal rijden</l>
+<l>Met mijne Pegasus in 't leger om te strijden.</l>
+<l>Weest my getrouw, en schept met my een mannen moed.</l>
+<l>De steegelreep hou vast.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Zijn razerny verwoed</l>
+<pb n="48"/>
+<l>Quetst eer, en achtbaerheydt, wat wilt gy weêrstant bieden.</l>
+<l>Nu dat den Koning heeft tot hulp de Eedelieden.</l>
+<l>Zijn wapens zijn te sterck, 't waer beeter wat bedaert.</l>
+<l>‘Ick volg zijn dolheydt dan. mijn heer, hier is her paert.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Geef my het toom.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Spring op.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Zit ick nu al ter degen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Zoo vast gelijck een muur, die vry is van bewegen.</l>
+<l>Wie derf den Ammirael nu onder d'oogen zien?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>De Koning zelfs nier, die voor mijn gezag moet vliên.</l>
+<l>Mijn beenen kruysgewijs zal 't Ros met spooren pricken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Zo haestig niet, gy zout door 't hollen licht verschricken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Gy hebr gelijck, ick doe......</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Elendige; ay my!</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Waerom beklaegt gy u?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>'k Heb reden dat ick schrey.</l>
+<l>Uw Bucefal heeft my het been gequetst, ick vreeze</l>
+<l>Dat.....</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Wijck een half mijl af, zoo zult gy schootvry wezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Zoo doe ick.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Geef my voort een lans, of oorlogsspeer.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Daer hebt gy een, heel recht geschaeft.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Plant die tor eer.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Cornets gewijs? zal 't wit of zwart zijn, spreeck uw luymen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Ick sluyt mijn helm, maer zeg, wat slaender op voor pluymen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Van alderhande kleur, uw hooft verbeelt een thuyn.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Het blaeuw verbeelt de nijt des Konings, mijne kruyn</l>
+<l>Wert al heur glans verdooft, waer staet gy naer te toeven?</l>
+<l>Voort, kort de stegelreep, en wilt my niet bedroeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>'t Is alles wel beschickt nu gy gewapent zijt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Zoo treet een oorlogshelt helthastiglijck ten strijt.</l>
+<l>Mijn opperste Serjant is Adeldom, wiens krachten</l>
+<l>Het volck hout wijs by een, om vierkant af te wachten</l>
+<l>Des vyants oorlogs-troep.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Maer nu de pieckeniers?</l>
+</sp>
+<pb n="49"/>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Die haecken naer 't gevecht, zy branden al vol viers.</l>
+<l>Gy staet om 't geen ick zeg tot in uw geest verwondert.</l>
+<l>Elck lit is viermael thien, geheel ruyin zestien hondert.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Wie zijnze?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Zorgen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Maer wie leyt die trop te velt?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Beschroomtheyt, ongeacht, maer die zig dapper stelt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Manmoedig volck.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Geteelt van eer, en niet van schanden.</l>
+<l>Stelt voort de vaendels in geleeden, laet af branden</l>
+<l>De brantwacht het geschut, op dat de vyandt niet</l>
+<l>Ons leger overvalt, naer by ons heeft bespiet.</l>
+<l>Het befte oorlogsvolck verdeelt in vier geleden,</l>
+<l>Hoog duytsche musquettiers mijn zuchten, laet die treden</l>
+<l>Gezwind voor uyt, op dat zy het bezetten al,</l>
+<l>Wat Vranckrijx Ammirael wou brengen tot den val.</l>
+<l>De Faem steeckt de trompet, laet Mars slag u geleyden,</l>
+<l>Mijn veltheer eerelijck de vyand zal verbeyden.</l>
+<l>Gedachten, wagens die mijn druck en kommer laed,</l>
+<l>Treek voort voor uyt, ick weet dat my den Koning haet.</l>
+<l>Inbeelding, snelder dan de vaendelen in 't zwieren,</l>
+<l>Zijn als gy ziet piek zwart, om 't leger te bestieren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Waer, en wie zijnze?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Schaemt met eerbaerheyt verzelt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Wie voert de achtertocht?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Mijn Blanche, die 't gewelt</l>
+<l>Door haer stantvastigheydt stantvastig kan verduuren.</l>
+<l>Zy voert het paerdenvolk, dat 's achterdocht, die muuren</l>
+<l>Kan sloopen tot de gront, en wonder snel daer by,</l>
+<l>Van voer en als verzien, men stel de vrees ter zy.</l>
+<l>Aen lijfsverzorging zal 't ons nimmermeer ontbreecken.</l>
+<l>Zie hoe de vaendels uyt de yzeré koppen steecken.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Hou stant, men heeft meer dan vier mijlen al gereyst.</l>
+<l>Het is nu rustens tijt, het leger rust vereyst.</l>
+<l>Een welgevoederde kan dan te beerer slapen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Een schoone vrouw die doet, ô Theodoor! vergapen</l>
+<pb n="50"/>
+<l>Die goude staven torst, de weerelt volgt haer nâ.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Wat zegt gy?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Dit, als dat het strecken zou not schâ</l>
+<l>In dees gelegentheydt te drincken, of te eeten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Zoo wil ick voor mijn deel uw schoone graeg vergeeten,</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Dat alle vaendels haer voort stellen als 't behoort.</l>
+<l>Haer deelen wel verdeelt, waer toeft gy na? vaer voort.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Elck vaendel als gy ziet is wel verdeelt na orden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Een wachthuys maeckt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Hoe sterck?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Laet vijfentwintig worden</l>
+<l>Bezetten wacht vertrouwt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Hoe wijd wel van malkaer?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Ruym zestig stappen, zoo heeft niemant geen gevaer.</l>
+<l>De Veltheer die gebiedt men 't leger zat verzorgen</l>
+<l>Met brant en water, voort.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Van daeg, of tegens morgen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>De Generael heeft reets de naem gegeven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Wat?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Van tegenstant.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Heel wel, ick heb de zin gevat.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Men stel de schilwachr uyt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Wat naem zal men die geven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Verkijckers, want ick zie om 't leger ron de zweven</l>
+<l>De schiltwacht, schaemte dient het uytterst bygezet.</l>
+<l>Wie daer? het is de Vorst, daer dient op hem gelet.</l>
+<l>Mijn onderzaten houd nu stant, wilt niet vertzagen,</l>
+<l>Gy zult tot onzer eer heel anders het zien dagen,</l>
+<l>Als gy eer waerd gewoon, zoo strijtmen als 't behoort.</l>
+<l>Nu Blanche, 't is recht tijt, hebt gy geschooten, moort!</l>
+<l>Moort! moort! help hemel! help! 't is uyt met het verheffen,</l>
+<l>Den kogel weygerde den Koning aen te treffen.</l>
+<l>Nu is de eerestrijt, helaes! mer my gedaen,</l>
+<l>Mijn Theodoor geef raet, waer zalmen 't leger slaen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Na Blanches sterckte toe, dan zijt gy buyten vrezen.</l>
+</sp>
+<pb n="51"/>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Ick ben by haer niet vry, zeg waer ick vry zal wezen</l>
+<l>Voor tyrannye, kracht, macht, liefde en gewelt?</l>
+<l>Het zwangerend metael dat dondert heel ontstelt.</l>
+<l>Braeckt vour ter keelen uyt, zie hoe de kogels jagen</l>
+<l>Als hagel om ons hooft, gevoelt gy niet de slagen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Och! och! ick kan mijn been niet voelen, och! wat raet?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Voort na de meester toe.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Helaes!</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Wat is 't?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Te laet</l>
+<l>Ontwijck ick het gevaer, ô droevige ongevallen!</l>
+<l>Een heele bolwerck is.....</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Waer?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Op mijn hooft gevallen.</l>
+<l>Zier gy het bloet niet dat langs 't aenzicht nederstroomt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>O neen!</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>De vrees maeckt u dus woedende beschroomt.</l>
+<l>Mijn heer keer tot u zelfs, en laer dees dulheydt varen.</l>
+<l>De zee, hoe zeer ontstelt, raeckt eenmael aen 't bedaren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Hoe dul?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Van spijt, om dat den Koning u beoogt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Van hier laf hartige, mijn moedigheydt gedoogt</l>
+<l>Verwijfde suffers niet, gy kunt wilt gy vertrecken,</l>
+<l>Ick zal alleen Parijs een stut en vader strecken.</l>
+<l>Men klimt de ladders op, men stormt, op! op! 't is tijt</l>
+<l>Dat gy benevens my u in her uytterst quijt.</l>
+<l>Zy trecken in, ô spijt! waer moogt gy noch na wachten?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Na krucken om re gaen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Men hoort in noot geen klachten.</l>
+<l>Gewenste eere-strijt geef dat ick zegenprael.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Ick volg al binckend na den dullen Ammirael.</l>
+</sp>
+<stage>Kar. Theo. binnen.</stage>
+</div>
+<div type="act">
+<pb n="52"/>
+<head rend="h3">Het vyfde bedryf.</head>
+<sp>
+<speaker><hi rend="i">Philippo, Arnoldo.</hi></speaker>
+<l>MYn heer, die gunst had ick alleen van u te wachten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Ar.</hi></speaker>
+<l>Zoo 't my geoorloft waer, ick vraegde naer uw klachten.</l>
+<l>Gy zijt alleen, door wien men 's Konings gunst verkrijgt.</l>
+<l>Den dullen Ammirael, die na zijn adem hijgt,</l>
+<l>Wil, Wijl by zin'loos is, na raet of reden hooren,</l>
+<l>Waer door het huwelijck zijns zusters gaet verlooren.</l>
+<l>Ten zy den Koning haer de hant houd boven 't hooft.</l>
+<l>Mevrouw Louise is van Karel my belooft.</l>
+<l>'k Hoop naer mijn trouwdag stil met haer op 't landt te leven.</l>
+<l>'k Verhoop mijn heer zal my hier in niet tegenstreven;</l>
+<l>Veel min verhinderen mijn liefde.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phil.</hi></speaker>
+<l>‘Wat ick hoor.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>Wat zegt gy?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phil.</hi></speaker>
+<l>'k Sta verzelt, en heel verwondert, voor</l>
+<l>Arnoldo my verbaelt, gy hare weêrmin waerdig?</l>
+<l>Neen! neen! Louise zal noyt wezen zoo lichtvaerdig</l>
+<l>Dat zy haer Trouw verbreeckt, ick weet dat zy mint een</l>
+<l>Waer voor uw Adeldom moet zwichten, buyten reên</l>
+<l>Zou zy als zinneloos met u den Echt aenvaerden.</l>
+<l>Den hemel al voor lang haer met een ander paerden.</l>
+<l>Ick ben verzeeckert dat zy u niet heeft bezint,</l>
+<l>Wat zeeckerheydt hebt gy dat u Louise mint?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>'k Hoor uyt uw woorden heer, dat gy moet zijn dien minnaer.</l>
+<l>Uw hoop is by de Vorst te wezen haer verwinnaer.</l>
+<l>Mijn hoop is dar gy my wilt geven trouwe raet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phil.</hi></speaker>
+<l>Wie dat zijn liefde uyt aen and'ren, doet heel quaet.</l>
+<l>Een goede kans ginck vaeck door zulck een daet ver looren.</l>
+<l>De liefde, als gy weet, is wonder teer van ooren.</l>
+</sp>
+<pb n="53"/>
+<sp>
+<speaker><hi rend="i">Henrick, Philippo, Arnoldo, Prudentio.</hi></speaker>
+<l>VErzel naer het Paleys vrouw Blanche met uw stoet.</l>
+<l>Mijn voorneem leyt alzoo, mijn konincklijck gemoet</l>
+<l>Moet heerschen, en niet zijn van zoo een vrouw gedwongen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phil.</hi></speaker>
+<l>Het is den Koning.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>Die vergramt is.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Onbesprongen</l>
+<l>Mijn mogentheydt regeert.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Prud.</hi></speaker>
+<l>Za! Blanche zijn gebracht</l>
+<l>Geboeyt naer het Paleys? zulx koomt heel onverwacht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Het geestelijcke recht zal daer een middel vinden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>Nu gy om Blanche zend, ô Koning! mijn beminde</l>
+<l>Laet die verzellen voort heer Karels gemalin.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Arnoldo, zeg veel eer een wreede tygerin.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phil.</hi></speaker>
+<l>'k Verhoop zijn Majesteyt my zal zijn gunst betoonen,</l>
+<l>Daer u de Graef van spreekt die is voor my, die schoone</l>
+<l>Leeft met dees ziel vereent, doch, houdze beyd bewaert,</l>
+<l>Dan zal den Koning zien, van welck een vroomen aert</l>
+<l>Philippo is, en wien hy kan van druck ontbinden......</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theodoro, Henrick, Philippo, Arnoldo.</hi></speaker>
+<l>ONtzaghelijcke Vorst, verhoor doch een ontzinde</l>
+<l>Die 't leven loopt gevaer, ay! sluyt uw ooren niet,</l>
+<l>Betoon barmhartigheydt, wijl het de tijt gebiet.</l>
+<l>Mijn droeve woorden heer, die zullen u verhalen</l>
+<l>Hoe Vranckrijx Ammirael heel zinneloos loopt dwalen.</l>
+<l>Zijn herssens zijn ontstelt om 't kerckelijck besluyt,</l>
+<l>Waer door gy Blanche wilt aenvaerden tot uw bruyt.</l>
+<l>Een vuur van spijt heeft hem zijn eedel bloet ontsteecken.</l>
+<l>Inbeelding hem vervoert, de reden is geweecken,</l>
+<l>Een Nijl-stroom vliet ter vlucht langs droeve wangen neêr.</l>
+<l>Zijn dulheydt kent de Vorst, noch zijne vrouw niet meer.</l>
+<l>Al razende ontbloot zijn lichaem, om te springen</l>
+<l>In de revier, geen mensch dien dullen menich kan dwingen.</l>
+<pb n="54"/>
+<l>Vrouw Blanche, dienaers, noch Louise heeft de macht</l>
+<l>Die weenende zijn ramp beklagen, laet mijn klacht</l>
+<l>Beroemde Koning u tot mededoogen manen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Wat zegt gy Theodoor, is Karel dul?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Uw vanen</l>
+<l>Die moeten nimmer zijn verwonnen van die geen</l>
+<l>Die u benijden, dar uw kroon nooyt wert bestreên,</l>
+<l>Maer kroonen bucken doer; zoo moet den hemel sparen</l>
+<l>De Fransche Majesteyt, vermeerderen zijn jaren</l>
+<l>In voorspoet en geluck. ay! weest zijn toeverlaet,</l>
+<l>Op dat hy door dit quaet niet stort in arger quaet,</l>
+<l>Dat hem doen sterven zal, laet goetdoen u verwinnen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Mijn liefde is re wreet, hier woont een tyger binnen,</l>
+<l>Ick gun geen reden plaets, noch minder 't beylig recht.</l>
+<l>Mijn onrechtvaerdigheydt treet met my in 't gevecht.</l>
+<l>Wilt mijn verbolgentheydt niet langer ringelooren,</l>
+<l>Om uw rechtvaerdige gebeden aen te hooren.</l>
+<l>Wat dwingelant heeft oyt zoo goddeloos geplaegt</l>
+<l>Zijn onderdaen, als ick? Verdruckt, vertreên, mishaegt.</l>
+<l>Geen monsterdier zoo wreet als Henrick, wrede Koning!</l>
+<l>Tyran die d' Echt schoffeert, stoot Blanche uyt haer wooning,</l>
+<l>En onrechtvaerdig u van Karel heeft berooft</l>
+<l>Het halve leven, zulx deed noyt vroom opperhooft.</l>
+<l>Hoe ben ick. snoode, dus vervremt van mededoogen?</l>
+<l>Is dan barmhartigheydt voor eeuwig weghgevloogen?</l>
+<l>O neen! koom, ken u zelfs: weet dat geluckig is</l>
+<l>Een die zijn zelfs verwint, laet zulck een erffenis</l>
+<l>Uw eernaem zijn, zoo zult gy overwinnaers tarten.</l>
+<l>Het wijtver maerde Room, met het doorluchtig Sparten,</l>
+<l>Egypten, en Atheen verstomt staen, deze lof</l>
+<l>Zal door de vlugge Faem verbreyd zijn, 't Fransche Hof</l>
+<l>Zal leven, naer dat ick het leven heb verlaten.</l>
+<l>Laet ons de liefde dan beminnen, nimmer haten,</l>
+<l>En volgen 't deugdenspoor, daer deugden ons gebiên.</l>
+<l>Zal ick dan Blanche noyt voor mijne oogen zien?</l>
+<l>Kan ick vergeeten een die ick niet kan vergeeten?</l>
+<pb n="55"/>
+<l>Hoe werd ick van een golf in liefdes zee gesmeeten.</l>
+<l>Dan hier, dan gins, en schock meer dan den Ammirael.</l>
+<l>Breng Blanche weér ten Hoof, mijn grootste zegenprael,</l>
+<l>Wij ick mijn tyranny helthafrig heb verwonnen.</l>
+<l>'k Verberg mijn oogen voor haer waerde hemelzonnen.</l>
+<l>Zijn zelfs te dwingen valt een Konings hardt te hardt.</l>
+</sp>
+<stage>Bin.</stage>
+<sp>
+<speaker><hi rend="i">Philippo, Arnoldo, Theodoro.</hi></speaker>
+<l>HY scheen mistroostig.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>Men vervolg hem, eer de smart</l>
+<l>Zijn Majesteyt vervoert.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Laet nu mijn raet u raden</l>
+<l>Gy heeren, goede raet dempt Vorsten ongenade.</l>
+<l>Barmbartigbeydt maeckt vaeck tyrannen zacht en goet.</l>
+<l>Voorzichtigheydt weckt op het konincklijck gemoet.</l>
+<l>Zoo gy zijn driften stut, zal ick dees weldaet loven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phil.</hi></speaker>
+<l>Hy heeft mijn gunst, hoewel hy leven moet verschoven.</l>
+<l>De stamme van Valoys behout hier door haer eer.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>Gy hebt mijn gunst.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>'t Is tijt ick weder tot hem keer.</l>
+</sp>
+<stage>Binnen.</stage>
+<sp>
+<speaker><hi rend="i">Karel, Leonello, Dionisio.</hi></speaker>
+<stage>Die hem vast houden, willende zich zelfs in de Revier verdrincken.</stage>
+<l>WEêrboud my niet, sta af.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Leo.</hi></speaker>
+<l>U wederhoudt de reden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Noch eens, laet my begaen, mijn ziel is niet te vreden</l>
+<l>Dat Blanche, Leonel, zoo god'loos my verraet.</l>
+<l>Het schelmstuck is ontdeckt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Dio.</hi></speaker>
+<l>Van wie?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Leo.</hi></speaker>
+<l>Ick bid u haet</l>
+<l>Vervloeckte achterdocht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Zoo hoor my dan mijn vrinden.</l>
+<l>Van deze sterckte dorst zy eerloos onderwinden,</l>
+<l>Om mijne vyanden te geven in de hant</l>
+<l>De sleutels van mijn eer, 'k heb zelfs gezien mijn schant.</l>
+<l>Mijn voorstel zal het u doen zien, en oock gelooven.</l>
+</sp>
+<pb n="56"/>
+<sp>
+<speaker><hi rend="i">Leo.</hi></speaker>
+<l>Op staende voet?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Zeg stijgt inbeelding niet na boven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Dio.</hi></speaker>
+<l>O ja.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Daer uyt spruyt al mijn ziel, en harts verdriet,</l>
+<l>Nu dat ick leef berooft van 't Fransche Rijxgebiet.</l>
+<l>Den Koning beelt hem in hy Blanche heeft genooten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Leo.</hi></speaker>
+<l>Genomen 't waer alzoo?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Dan leef ick heel verstooten,</l>
+<l>Door dien inbeelding werckt veel wonderheden uyt,</l>
+<l>Wie dat zijn zelfs een zaeck inbeelt, diens breyn besluyt</l>
+<l>Een wit waer op verheugr de losse zinnen speelen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Leo.</hi></speaker>
+<l>Dat zou, ô eerlijck man! een eerlijck man verveelen</l>
+<l>Te volgen het besluyt van ydelbeydt, gy zijt</l>
+<l>Door uw inbeeldinge te jammerlijck in strijt.</l>
+<l>Wie zou hem in den Echt op zulck een gront verbinden?</l>
+<l>Want wat oneerlijck is, men nier zal eerlijck vinden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>'k Sta Dionisio daer op te vast gegront.</l>
+<l>Te los den Koning schent het heylig trouw verbont.</l>
+<l>Ick ben Actéon die de kristalijne leden</l>
+<l>Beöog van de godin Diana, want ick beden</l>
+<l>Verwissel in een hart.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Dio.</hi></speaker>
+<l>Wat dulheydt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Vrinden hoor,</l>
+<l>De bonden blaffen al, vervolgen wy het spoor.</l>
+<l>Waer wacht gy na verraêrs? kent gy uw heer nier langer,</l>
+<l>Die eer mijn broot genoot, gaet gy van boosheyt zwanger,</l>
+<l>Dat gy vermoorden en verscheuren wilt uw heer?</l>
+<l>Ja koom vernielt hem vry, hy bied geen tegenweer.</l>
+<l>Houd Leonel dien brack, laet hem u niet ontspringen.</l>
+<l>Kan Dionisio de hazewind nier dwingen</l>
+<l>Die my gebeeten heeft? help! hemel! help!</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Leo.</hi></speaker>
+<l>Maer waer</l>
+<l>Zijt gy geweest? wie brengt u Karel in gevaet?</l>
+<l>Weest niet meer zinneloos, ick bid, hoor raet en reden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Dat zijn die honden die my op het harte treden.</l>
+<l>Hoort gyze daer niet weer? 'k val machteloos ter aerd.</l>
+</sp>
+<pb n="57"/>
+<sp>
+<speaker><hi rend="i">Dio.</hi></speaker>
+<l>Gy zijt geen hart, een mensch.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Waer toe dan dus vervaert?</l>
+<l>Toont deze huyt niet klaer mijn oneer en mijn schanden?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Leo.</hi></speaker>
+<l>Gy zijt verdoolt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Zoo geeft een spiegel my in handen.</l>
+</sp>
+<stage>Zy geven hem een spiegel.</stage>
+<sp>
+<speaker><hi rend="i">Dio.</hi></speaker>
+<l>Hier hebt gy een.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Leo.</hi></speaker>
+<l>Voor al bespiegelt u niet lang.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Dus hebben Leonel de vrinden yder wang</l>
+<l>Gevleyr, en zien ons aen met dubb'le aengezichten,</l>
+<l>Die om 't genot ten dienst van ons haer steets verplichten,</l>
+<l>Tot het geluk keert dwars, wiens rat verdraeyt niet, of</l>
+<l>De vrindschap breeckt den hals. Met laster wert de lof</l>
+<l>Te goddeloos bevleckt, ondanckbare verstooten</l>
+<l>Genooten weldaet, eer uyt gulle gunst genooten.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Louise, Blanche, Karel, Leonello, Dionisio.</hi></speaker>
+<l>ZOud ick den Ammirael wel derven nader treên?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Zijn pijn zou ick daer door vermeerderen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>O neen!</l>
+<l>Hy spiegelt hem, en ziet zijn ongerustig weezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Hoe wilt staet zijn gezicht, wie zou daer niet voor vreezen?</l>
+<l>'k Zal achter hem eens staen, en zien hoe dat hy ziet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Den hemel my behoed! is dit mijn Blanche niet?</l>
+<l>Wat zoeckt gy vrinden hier, beweent gy d'ongevallen</l>
+<l>Daer ick elendige ben deerlijck ingevallen?</l>
+<l>Haer schoonheydt is vergaen, zwart is het blancke vel,</l>
+<l>Wiens tegenspoet mijn hart steets prangt met harts gequel.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Leo.</hi></speaker>
+<l>Mijn heer, en ziet gy niet dat Blanche hier staet achter?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Wat doet mijn waerde hier?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Mijn trouwe Vranckrijx wachter,</l>
+<l>Ziet gy hier niet die geen die 't zuyver harrebloet</l>
+<l>Wil stotren voor haer man, ay! schep een mannen moet.</l>
+<l>Laet mijn stantvastigheydt uw fiere ziel geleyden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Waer wacht gy Henrick na, om ons van een te scheyden?</l>
+</sp>
+<pb n="58"/>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Zijn blinde liefde maeckt hem als gy weet verblint.</l>
+<l>Dien wreeden is te wreet, boosaerdig en ontzint.</l>
+<l>Zijn tyrannye kan den Ammirael niet krencken.</l>
+<l>Stantvaste regenstant den Koning zal beschencken</l>
+<l>Met eenen donderslag van straf heên, dat hy zal</l>
+<l>Vervloecken zijn verzoeck, wiens naeckend ongeval</l>
+<l>Zal Karel op de troon van eere doen herleven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>De eer is al voor lang uyt hof en landt verdreven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Uw bedgenoot beschermt haer waerdigste in noot.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Ick blijf uw borg.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Kan die my vryden voor de doot?</l>
+<l>Laet my begaen, ick zie geen uytkomst in mijn rampen,</l>
+<l>Mijn eer geduurig moet met tegenspoeden kampen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theodoro, Leonello, Karel, Dionisio, Blanche, Louise.</hi></speaker>
+<l>MEn heeft, om Karel te doen leven, aengewent</l>
+<l>Een wonderlijcke zaeck, uw heeren onbekent.</l>
+<l>Om het voortloopend quaed in zijne loop te hinderen.</l>
+<l>Men ziet de groote brant van 's Konings min verminderen.</l>
+<l>Den Koning veynst dat hy Mevrouw Louise wraeckt.</l>
+<l>Het Vorstelijck gemoed is in 't gemoed geraeckt.</l>
+<l>De hoop is dat het al naer wensch wel uyt zal vallen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Leo.</hi></speaker>
+<l>Mijn heer.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Wat?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Leo.</hi></speaker>
+<l>Theodoor.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Die met my op de wallen</l>
+<l>In 't blancke harnas stont, gelijck een vroom soldaet.</l>
+<l>Weest welkoom Theodoor, gerrouwe toeverlaet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Den hemel geve u lang leven, in her stormen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Toen men veel levenden in lijcken zag hervormen.</l>
+<l>Toen zonder stoot of slag, quam niemant uyt den slag</l>
+<l>Waert gy benevens my geluckig op dien dag.</l>
+<l>De kogel die u trof zijt gy daet van genezen?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Ick ga noch wat verminkt, dat wil zoo dra niet wezen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Zoo veel vermag een strijt, wanneer men strijt om d'eer.</l>
+</sp>
+<pb n="59"/>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Hoor, luyster.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Neen, het uur van sterven naeckt van veer.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Den Koning zijnde op Louise heel ontsteecken.,</l>
+<l>Roemt op haer schoonheydt, en mijn heer om rond te spreecken,</l>
+<l>Hy wil voort straffen, die door loosheydt, en door list</l>
+<l>Hem op uw vroomheydt had te eerloos aengehist.</l>
+<l>Her Hof op zijn verzoeck bewilgend, heeft beslooten</l>
+<l>Dat op dees dag zal zijn, in 't byzijn van veel grooten,</l>
+<l>Het huwelijx besluyt. Zoo brouwt verradery</l>
+<l>Tot schennis van uw eer geen snooder schelmery.</l>
+<l>Uw zuster is mijn heer gebietster van zijn leven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Wat zegt gy?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>'t Geen gy hoort.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>De ziel wil my begeven</l>
+<l>Zal mijn Louise zijn der Franschen Koningin.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Tot voorstant van uw eer gedoog des Konings min.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Weg lichte ydelheydt, inbeeldinge vervaeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Het schijnt Louise, dat hy weer raeckt aen 't bedaeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Leo.</hi></speaker>
+<l>Gy hebt dit wel bedacht, wel veynsen is een kunst.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>O hemel! dat gy kost verwerven 's Konings gunst,</l>
+<l>Zoo leefden wy niet meer gehaet, gevloekt en schuwlijk.</l>
+<l>Den hemel! gun aen u zoo een gewensten huwlijck.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Dio.</hi></speaker>
+<l>Daer koomt zijn Majesteyt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Haelt my mijn nachtrock hier.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Den hemel zy gedanckt voor zulck een wijs bestier,</l>
+<l>Wiens goetheydt weêr herstelt, 't welck scheen te zijn vervlogen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Den Opperst' wil geen quaet als 't hem verdriet gedogen.</l>
+<l>Wat dunckt Louise nu?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Henrick, Philippo, Arnoldo, Theodoro, Leonello, Dionisio,
+Karel, Blanche, Louise, Prudentio.</hi></speaker>
+<l>WAer zijt gy dapp'ren helt?</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Dar ick de voeten kus die Vranckrijk wetten stelt.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Sta op, ô Karel! ick omhels u als mijn broeder.</l>
+</sp>
+<pb n="60"/>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Die eer ben ick niet waerd.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Mijn trouwe Rijxbehoeder,</l>
+<l>'t Is billick datmen deucht met groote staten loont.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Ick heb my voor dit Rijck dienstbaerig steets getoont.</l>
+<l>Noyt dacht ick zulck een eer van 's Konings hant t' ontfangen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Waer voor wy dancken u met ziel en harts verlangen.</l>
+<l>Wy zijn geheel verblijd dat gy ons gunt deez' eer</l>
+<l>Die wy niet waerdig zijn. De haet duyckt voor u neêr</l>
+<l>Parijs zal u de naem van godt Augustus geven,</l>
+<l>Of Alexander zelfs. Wy, tot den troon verheven,</l>
+<l>Ontzien geen lasteraer.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Louise hoor mijn klacht.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Lou.</hi></speaker>
+<l>Wier heeft oyt een slavin des Konings hant verwacht?</l>
+<l>Hoe, treet de Vorst tot my? ick wil hem nader treden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Hoe praelt mijn vredezon.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phil.</hi></speaker>
+<l>'t Schijnt Karel is te vreden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>O wonderlijcke list!</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Noyt meergehoorde daet.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phil.</hi></speaker>
+<l>Hy heeft door deze list 't verstant weêrom, ay laet</l>
+<l>Louise nu met my het huwelijck aenvaerden.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>Mijn Vorst.....</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phil.</hi></speaker>
+<l>Mijn heer.....</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>Ay hoor!.....</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phil.</hi></speaker>
+<l>Een woort.....</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>'k Hou u in waerde</l>
+<l>O minnaers! kan ik u haer geven, neen! ô neen!</l>
+<l>Doch wilt gy dat ick u mijn oordeel zal ontleên,</l>
+<l>Zoo luystert, dat uw zaeck zal voor noch achter keeren.</l>
+<l>Dat zonder ongelijck, zoo zult gy van my leeren</l>
+<l>Hoe dat een darde gaet met zulck een schoonheyt deur.</l>
+<l>Elck oor deel wat hy wil, hier in zoo leyt mijn keur.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phil.</hi></speaker>
+<l>Laet Vranckrijx Stedevoogt haer tot zijn bruyt verwerven.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>Geef haer den Hartog van Borgonje voor zijn sterven,</l>
+<l>Zoo mag den nazaet noch regeeren op uw stoel.</l>
+</sp>
+<pb n="61"/>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Zy is een grooter waerd, hoe, hebt gy geen gevoel?</l>
+<l>Wat edele Princes kan by haer evenaeren,</l>
+<l>Die oyt ten Hoof verscheen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phil.</hi></speaker>
+<l>Zoo red ons uyt beswaeren.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>Verschaf een uytkomst Vorst, ons beyder ziels begeer.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Hen.</hi></speaker>
+<l>Wel aen, buyg voort ter aerd voor mijn Louise neêr.</l>
+<l>Eert haer als Koningin, wie derft mijn wil verdoemen?</l>
+<l>Wat Prins, of Koning kan op zulck een schoonheyt roemen?</l>
+<l>Wie heeft ter weerelt oyt, 't geen ick bestâ, bestaen?</l>
+<l>Dees daed zal nimmermeer, schoon ick vergâ, vergaen.</l>
+<l>Waer door, die zin'loos was heeft zijn verstant gekregen.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Phil.</hi></speaker>
+<l>Dat ick uw handen kus.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Arn.</hi></speaker>
+<l>Den hemel geef u zegen</l>
+<l>Zoo lang het leven duurt, doorluchte Koningin.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Theo.</hi></speaker>
+<l>Geluckig is de Vorst die 't gaet naer wensch en zin.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Leo.</hi></speaker>
+<l>Het Rijk dat bloeyt in vreê, daer 't onheyl is ten ende.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Bla.</hi></speaker>
+<l>Dees blijdschap doet verheucht de jaren vol elende</l>
+<l>Vertrecken van ons af, wiens straf heydt viel te straf.</l>
+</sp>
+<sp>
+<speaker><hi rend="i">Kar.</hi></speaker>
+<l>Dus leyt de Eere-strijt de forsse wapens af,</l>
+<l>Vermits den Ammirael op 't heerlijckst koomt te pralen.</l>
+<l>Geen gout, hoe schoon, kan prijs by 's menschen eerprijs halen.</l>
+<l>Geluckig die de Strijt om d' Eer volend met vreucht.</l>
+<l>Mijn Blanche, gaen wy, wijl heel Vrankrijk is verheucht.</l>
+</sp>
+<stage><hi rend="spat">UYT</hi>.</stage>
+</div>
+</body>
+</text>
+
+</TEI.2>
