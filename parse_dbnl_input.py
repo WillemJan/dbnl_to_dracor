@@ -1,40 +1,73 @@
 #!/usr/bin/env python3
 
-import json
 import os
-from pprint import pprint
-
-from dracor_jinja2 import xml_template
-
+import json
 import lxml.html
 import pandas as pd
 import requests
-from lxml import etree as ET
+
 from jinja2 import Template
 
+from dracor_jinja2 import xml_template
+from pprint import pprint
 
-baseurl = f'https://www.dbnl.org/nieuws/xml.php?id=%s' # DBN download TEI-files.
-
+BASEURL = f'https://www.dbnl.org/nieuws/xml.php?id=%s' # DBN download TEI-files.
 DBNL_AANLEVER = 'Bibliografische metadata RiR gepubliceerd in 1500-1700.xlsx'
 LUCAS_AANLEVER = 'Inventarisatie_toneelstukken_DBNL.xlsx'
 
 if not os.path.isdir('dbnl_xml'):
     os.mkdir('dbnl_xml')
 
+def print_dracor_xml(dbnl_info: dict, lucas_info: dict) -> None:
+
+    pprint(dbnl_info)
+    pprint(lucas_info)
+
+    '''
+    generated_xml = Template(xml_template).render(
+                               title=data.get('maintitle'),
+                               subtitle=data.get('subtitle'),
+                               language="nl",
+                               source=data.get('id'))
+    print(generated_xml)
+    '''
 
 
-def print_dracor_xml(data: list[dict]):
-    for item in data:
-        generated_xml = Template(xml_template).render(
-                                   title="My Document",
-                                   language="en",
-                                   source="Sample Data")
+def parse_dbnl_aanlever() -> list[dict] | None:
+    if not os.path.isfile(DBNL_AANLEVER):
+        print(f"Could not read '%s', missing file?" % DBNL_AANLEVER)
+        return None
 
-        print(generated_xml)
-        break
+    try:
+        df = pd.read_excel(DBNL_AANLEVER)
+        wanted = json.loads(df.to_json())
+    except:
+        print(f"Error parsing %s, file corrupt?" % DBNL_AANLEVER)
+        return None
 
+    all_data = []
+    for nr in wanted.get('ti_id').keys():
+        data = {}
+        fn = 'dbnl_xml' + os.sep + str(wanted.get('ti_id').get(nr)) + '.xml'
+        if not os.path.isfile(fn):
+            res = requests.get(BASEURL % wanted.get('ti_id').get(nr))
+            if not res.status_code == 200:
+                print(f"Error getting %s" % fn)
+            with open(fn, 'w') as fh:
+                fh.write(res.content.decode('utf-8'))
 
-def parse_lucas_aanlever(data) -> dict | None:
+        for key in wanted.keys():
+            value = wanted.get(key).get(nr)
+            if value is None:
+                continue
+
+            if not key in data:
+                data[key] = value
+
+        all_data.append(data)
+    return all_data
+
+def parse_lucas_aanlever(data: list[dict]) -> dict | None:
     if not os.path.isfile(LUCAS_AANLEVER):
         print(f"Could not read '%s', missing file?" % LUCAS_AANLEVER)
         return None
@@ -70,40 +103,6 @@ def parse_lucas_aanlever(data) -> dict | None:
 
     return eratta
 
-def parse_dbnl_aanlever() -> list[dict] | None:
-    if not os.path.isfile(DBNL_AANLEVER):
-        print(f"Could not read '%s', missing file?" % DBNL_AANLEVER)
-        return None
-
-    try:
-        df = pd.read_excel(DBNL_AANLEVER)
-        wanted = json.loads(df.to_json())
-    except:
-        print(f"Error parsing %s, file corrupt?" % DBNL_AANLEVER)
-        return None
-
-    all_data = []
-    for nr in wanted.get('ti_id').keys():
-        data = {}
-        fn = 'dbnl_xml' + os.sep + str(wanted.get('ti_id').get(nr)) + '.xml'
-        if not os.path.isfile(fn):
-            res = requests.get(baseurl % wanted.get('ti_id').get(nr))
-            if not res.status_code == 200:
-                print(f"Error getting %s" % fn)
-            with open(fn, 'w') as fh:
-                fh.write(res.content.decode('utf-8'))
-
-        for key in wanted.keys():
-            value = wanted.get(key).get(nr)
-            if value is None:
-                continue
-
-            if not key in data:
-                data[key] = value
-
-        all_data.append(data)
-    return all_data
-
 
 
 
@@ -112,7 +111,6 @@ eratta = parse_lucas_aanlever(data)
 
 for item in data:
     if item.get('ti_id') in eratta:
-        print(item, eratta.get(item.get('ti_id')))
-
-#from pprint import pprint
-#pprint(eratta)
+        print_dracor_xml(item,
+                         eratta.get(item.get('ti_id')))
+        break
