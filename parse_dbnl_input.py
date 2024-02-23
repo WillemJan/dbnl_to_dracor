@@ -3,111 +3,93 @@
 import json
 import os
 from pprint import pprint
-from lxml import etree
+
+from dracor_jinja2 import xml_template
 
 import lxml.html
 import pandas as pd
 import requests
+from lxml import etree as ET
+from jinja2 import Template
+
 
 baseurl = f'https://www.dbnl.org/nieuws/xml.php?id=%s' # DBN download TEI-files.
-infile = 'Bibliografische metadata RiR gepubliceerd in 1500-1700.xlsx' # Input xls file.
+
+DBNL_AANLEVER = 'Bibliografische metadata RiR gepubliceerd in 1500-1700.xlsx'
+LUCAS_AANLEVER = 'Inventarisatie_toneelstukken_DBNL.xlsx'
 
 if not os.path.isdir('dbnl_xml'):
     os.mkdir('dbnl_xml')
 
 
+
 def print_dracor_xml(data: list[dict]):
     for item in data:
-        root = etree.Element("plays")
-        play = etree.SubElement(root, "play")
+        generated_xml = Template(xml_template).render(
+                                   title="My Document",
+                                   language="en",
+                                   source="Sample Data")
 
-        etree.SubElement(play, "title").text = item.get('titel', '')
-
-        author = etree.SubElement(play, "author")
-        etree.SubElement(author, "first_name").text = item.get('voornaam', '')
-        etree.SubElement(author, "last_name").text = item.get('achternaam', '')
-
-        etree.SubElement(play, "year").text = item.get('jaar', '')
-        etree.SubElement(play, "place_of_publication").text = item.get('plaats_van_uitgave', '')
-        etree.SubElement(play, "publisher").text = item.get('uitgever', '')
-        etree.SubElement(play, "library").text = item.get('bibliotheek', '')
-        etree.SubElement(play, "category").text = item.get('categorie', '')
-        etree.SubElement(play, "country").text = item.get('cc_land', '')
-
-        edition = etree.SubElement(play, "edition")
-
-        druk_value = item.get('druk', '')
-        if ' ' in druk_value:
-            edition_number, edition_type = druk_value.split(maxsplit=1)
-        else:
-            edition_number, edition_type = '', ''
+        print(generated_xml)
+        break
 
 
-        etree.SubElement(edition, "edition_number").text = edition_number
-        etree.SubElement(edition, "edition_type").text = edition_type
-
-        if item.get('vertaler.voornaam') or item.get('vertaler.achternaam'):
-            translator = etree.SubElement(play, "translator")
-            etree.SubElement(translator, "first_name").text = item.get('vertaler.voornaam', '')
-            etree.SubElement(translator, "last_name").text = item.get('vertaler.achternaam', '')
-
-        etree.SubElement(play, "link").text = item.get('link', '')
-        etree.SubElement(play, "shelfmark").text = item.get('signatuur', '')
-
-        xml_output = etree.tostring(root, pretty_print=True, encoding='utf-8').decode()
-        print(xml_output)
-
-
-def parse_metadata(infile: str, baseurl: str) -> list[dict] | None:
-    if not os.path.isfile(infile):
-        print(f"Could not read '%s', missing file?" % infile)
+def parse_lucas_aanlever(data) -> dict | None:
+    if not os.path.isfile(LUCAS_AANLEVER):
+        print(f"Could not read '%s', missing file?" % LUCAS_AANLEVER)
         return None
 
     try:
-        df = pd.read_excel(infile)
+        df = pd.read_excel(LUCAS_AANLEVER)
         wanted = json.loads(df.to_json())
     except:
-        print(f"Error parsing %s, file corrupt?" % infile)
+        print(f"Error parsing %s, file corrupt?" % LUCAS_AANLEVER)
         return None
 
+    all_rows = list(wanted.keys())
 
-    # convert row's into a nice python list with dicts.
-    '''
-        [{'achternaam': 'Coornhert',
-          'bibliotheek': 'Universiteitsbibliotheek Amsterdam',
-          'categorie': 'werk',
-          'cc_land': 'nl',
-          'druk': '1ste druk',
-          'geplaatst': 'coor001come04_01',
-          'jaar': '1590',
-          'link': 'https://www.dbnl.org/tekst/coor001come04_01',
-          'plaats_van_uitgave': 'Gouda',
-          'signatuur': 'OTM: OK 61-782 (2), scan van Google Books',
-          'subtitel': [],
-          'ti_id': 'coor001come04',
-          'titel': 'Comedie van Israel',
-          'uitgever': '[Jasper Tournay]',
-          'vertaler.achternaam': [],
-          'vertaler.voornaam': [],
-          'vertaler.voorvoegsel': [],
-          'voornaam': 'D.V.',
-          'voorvoegsel': []},
-         {'achternaam': 'Groot',
+    eratta = {}
 
-    '''
+    for nr in wanted.get('dbnl-ID').keys():
+
+        if not wanted.get('dbnl-ID').get(nr):
+            continue
+
+        cur_id = wanted.get('dbnl-ID').get(nr)
+        if cur_id in [i.get('ti_id') for i in data]:
+            eratta[cur_id] = {}
+            for k in all_rows:
+                if wanted.get(k).get(nr):
+                    eratta[cur_id][k] = wanted.get(k).get(nr)
+        else:
+            print(f"{cur_id} not found in {DBNL_AANLEVER}")
+
+    for item in data:
+        if not item.get('ti_id') in eratta:
+            print(f"{item.get('ti_id')} not in {LUCAS_AANLEVER}")
+
+    return eratta
+
+def parse_dbnl_aanlever() -> list[dict] | None:
+    if not os.path.isfile(DBNL_AANLEVER):
+        print(f"Could not read '%s', missing file?" % DBNL_AANLEVER)
+        return None
+
+    try:
+        df = pd.read_excel(DBNL_AANLEVER)
+        wanted = json.loads(df.to_json())
+    except:
+        print(f"Error parsing %s, file corrupt?" % DBNL_AANLEVER)
+        return None
 
     all_data = []
-
     for nr in wanted.get('ti_id').keys():
-
         data = {}
-
         fn = 'dbnl_xml' + os.sep + str(wanted.get('ti_id').get(nr)) + '.xml'
         if not os.path.isfile(fn):
             res = requests.get(baseurl % wanted.get('ti_id').get(nr))
             if not res.status_code == 200:
                 print(f"Error getting %s" % fn)
-
             with open(fn, 'w') as fh:
                 fh.write(res.content.decode('utf-8'))
 
@@ -120,12 +102,17 @@ def parse_metadata(infile: str, baseurl: str) -> list[dict] | None:
                 data[key] = value
 
         all_data.append(data)
-
-
     return all_data
 
 
-data = parse_metadata(infile, baseurl)
-pprint(data)
-print_dracor_xml(data)
 
+
+data = parse_dbnl_aanlever()
+eratta = parse_lucas_aanlever(data)
+
+for item in data:
+    if item.get('ti_id') in eratta:
+        print(item, eratta.get(item.get('ti_id')))
+
+#from pprint import pprint
+#pprint(eratta)
