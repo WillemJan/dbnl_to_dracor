@@ -11,26 +11,21 @@ from jinja2 import Template
 from dracor_jinja2 import xml_template
 from pprint import pprint
 
-BASEURL = f'https://www.dbnl.org/nieuws/xml.php?id=%s' # DBN download TEI-files.
+# DBN download TEI-files.
+BASEURL = f'https://www.dbnl.org/nieuws/xml.php?id=%s'
 DBNL_AANLEVER = 'Bibliografische metadata RiR gepubliceerd in 1500-1700.xlsx'
 LUCAS_AANLEVER = 'Inventarisatie_toneelstukken_DBNL.xlsx'
 
-if not os.path.isdir('dbnl_xml'):
-    os.mkdir('dbnl_xml')
+DBNL_DIR = 'dbnl_xml'
 
-def print_dracor_xml(dbnl_info: dict, lucas_info: dict) -> None:
+if not os.path.isdir(DBNL_DIR):
+    os.mkdir(DBNL_DIR)
 
-    pprint(dbnl_info)
-    pprint(lucas_info)
 
-    '''
-    generated_xml = Template(xml_template).render(
-                               title=data.get('maintitle'),
-                               subtitle=data.get('subtitle'),
-                               language="nl",
-                               source=data.get('id'))
+def print_dracor_xml(data: dict) -> None:
+    pprint(data)
+    generated_xml = Template(xml_template).render(data=data)
     print(generated_xml)
-    '''
 
 
 def parse_dbnl_aanlever() -> list[dict] | None:
@@ -50,6 +45,7 @@ def parse_dbnl_aanlever() -> list[dict] | None:
         data = {}
         fn = 'dbnl_xml' + os.sep + str(wanted.get('ti_id').get(nr)) + '.xml'
         if not os.path.isfile(fn):
+            # Fetch input xml from DBNL
             res = requests.get(BASEURL % wanted.get('ti_id').get(nr))
             if not res.status_code == 200:
                 print(f"Error getting %s" % fn)
@@ -66,6 +62,7 @@ def parse_dbnl_aanlever() -> list[dict] | None:
 
         all_data.append(data)
     return all_data
+
 
 def parse_lucas_aanlever(data: list[dict]) -> dict | None:
     if not os.path.isfile(LUCAS_AANLEVER):
@@ -104,13 +101,31 @@ def parse_lucas_aanlever(data: list[dict]) -> dict | None:
     return eratta
 
 
-
-
 data = parse_dbnl_aanlever()
 eratta = parse_lucas_aanlever(data)
 
 for item in data:
     if item.get('ti_id') in eratta:
-        print_dracor_xml(item,
-                         eratta.get(item.get('ti_id')))
-        break
+        merge = {}
+        ceratta = eratta.get(item.get('ti_id'))
+
+        for k in item:
+            merge[k] = item.get(k)
+
+        for k in ceratta:
+            if k.lower() in merge and merge[k.lower()] == ceratta.get(k):
+                pass
+                #print(k, 'same value, skipping')
+            else:
+                merge[k.lower()] = ceratta.get(k)
+
+        if 'titel' in merge and 'hoofdtitel' in merge:
+            if merge['titel'] == merge['hoofdtitel']:
+                merge['main_title'] = merge['titel']
+                merge['subtitle'] = ''
+            else:
+                merge['main_title'] = merge['titel']
+                start = len(merge['titel']) + 1
+                merge['subtitle'] = merge['hoofdtitel'][start:]
+
+        print_dracor_xml(merge)

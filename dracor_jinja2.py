@@ -5,12 +5,14 @@ xml_template = """<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="{xml_id}" xml:lang="nl">
   <fileDesc>
     <titleStmt>
-      <title type="main">{main_title}</title>
-      <title type="sub">{sub_title}</title>
+      <title type="main">{{data.get('main_title')}}</title>
+      {% if data.get('sub_title') %}
+          <title type="sub">{{data.get('sub_title')}}</title>
+      {% endif %}
       <author>
         <persName>
-          <forename>author name</forename>
-          <surname>author surname</surname>
+          <forename>{{data.get('voornaam', '')}}</forename>
+          <surname>{{data.get('achternaam', '')}}</surname>
         </persName>
         <idno type="wikidata">wikidata identifier</idno>
         <idno type="pnd">pnd identifier (optional)</idno>
@@ -28,13 +30,13 @@ xml_template = """<?xml version="1.0" encoding="utf-8"?>
     </publicationStmt>
     <sourceDesc>
       <bibl type="digitalSource">
-        <name>name of source here</name>
-        <idno type="URL">url here</idno>
+        <name>{{ data.get('signatuur') }}</name>
+        <idno type="URL">{{ data.get('ur;') }}</idno>
         <availability status="free">
           <p>In the public domain.</p>
         </availability>
         <bibl type="originalSource">
-          <title>Autor: Title. Place: Publisher, 0000.</title>
+          <title>{{ data.get('link') }}</title>
         </bibl>
       </bibl>
     </sourceDesc>
@@ -55,7 +57,7 @@ xml_template = """<?xml version="1.0" encoding="utf-8"?>
     </particDesc>
     <textClass>
       <keywords>
-        <term type="genreTitle">name of genre</term>
+        <term type="genreTitle">{{ data.get('dracor_genre', '') }}</term>
       </keywords>
     </textClass>
   </profileDesc>
@@ -66,7 +68,7 @@ xml_template = """<?xml version="1.0" encoding="utf-8"?>
   </revisionDesc>
   <standOff>
     <listEvent>
-      <event type="print" when="yyyy">
+      <event type="print" when="{{ data.get('jaar') }}">
         <desc/>
       </event>
       <event type="premiere" when="">
@@ -92,5 +94,3 @@ xml_template = """<?xml version="1.0" encoding="utf-8"?>
   </text>
 </TEI>
 """
-
-
