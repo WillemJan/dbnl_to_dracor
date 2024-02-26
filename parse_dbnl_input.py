@@ -120,12 +120,7 @@ for item in data:
                 merge[k.lower()] = ceratta.get(k)
 
         if 'titel' in merge and 'hoofdtitel' in merge:
-            if merge['titel'] == merge['hoofdtitel']:
-                merge['main_title'] = merge['titel']
-                merge['subtitle'] = ''
-            else:
-                merge['main_title'] = merge['titel']
-                start = len(merge['titel']) + 1
-                merge['subtitle'] = merge['hoofdtitel'][start:]
+            merge['main_title'] = merge['titel']
+            merge['subtitle'] = merge.get('subtitel', '')
 
         print_dracor_xml(merge)
