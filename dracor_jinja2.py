@@ -7,7 +7,7 @@ xml_template = """<?xml version="1.0" encoding="utf-8"?>
     <titleStmt>
       <title type="main">{{data.get('main_title')}}</title>
       {% if data.get('subtitle') %}
-          <title type="sub">{{data.get('subtitle')}}</title>
+          <title type="sub">{{ data.get('subtitle') }}</title>
       {% endif %}
       <author>
         <persName>
