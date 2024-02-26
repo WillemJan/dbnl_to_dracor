@@ -101,13 +101,36 @@ def parse_lucas_aanlever(data: list[dict]) -> dict | None:
     return eratta
 
 
+def parse_fulltext(data):
+    rec = False
+    chapters = ['']
+    for item in data.iter():
+        #print(item.tag, item.attrib, item.text)
+        if item.tag == 'div':
+            if item.attrib.get('type') == 'chapter':
+                rec = True
+                chapters += ['']
+        if rec and item.text:
+            chapters[-1] += item.text
+    return chapters
+
 data = parse_dbnl_aanlever()
 eratta = parse_lucas_aanlever(data)
-
+i=0
 for item in data:
     if item.get('ti_id') in eratta:
+        currid = item.get('ti_id')
         merge = {}
-        ceratta = eratta.get(item.get('ti_id'))
+        ceratta = eratta.get(currid)
+
+        fname = f"{DBNL_DIR}{os.sep}{currid}.xml"
+        if not os.path.isfile(fname):
+            print("Missing file:", fname)
+            continue
+
+        with open(fname, 'r') as fh:
+            fulltext = lxml.etree.fromstring(fh.read().encode('utf-8'))
+        merge['chapter'] = parse_fulltext(fulltext)
 
         for k in item:
             merge[k] = item.get(k)
@@ -124,3 +147,4 @@ for item in data:
             merge['subtitle'] = merge.get('subtitel', '')
 
         print_dracor_xml(merge)
+        break

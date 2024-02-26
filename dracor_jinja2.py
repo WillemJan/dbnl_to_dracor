@@ -84,13 +84,13 @@ xml_template = """<?xml version="1.0" encoding="utf-8"?>
   </standOff>
   <text>
     <front>
-      <head/>
-      <castList>
-	  </castList>
-      <set>
-        <p>Setting</p>
-      </set>
     </front>
+    <body>
+    {% for c in data.get('chapter') %}
+        {{ c }}
+
+    {% endfor %}
+    </body>
   </text>
 </TEI>
 """
