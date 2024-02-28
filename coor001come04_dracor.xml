@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="coor001come04" xml:lang="nl">
+  <fileDesc>
+    <titleStmt>
+      <title type="main">Comedie van Israel</title>
+      <author>
+        <persName>
+          <forename>Dirck Volckertsz.</forename>
+          <surname>Coornhert</surname>
+        </persName>
+        <idno type="wikidata">wikidata identifier</idno>
+        <idno type="pnd">pnd identifier (optional)</idno>
+      </author>
+    </titleStmt>
+    <publicationStmt>
+      <publisher xml:id="dracor">DraCor</publisher>
+      <idno type="URL">https://dracor.org</idno>
+      <availability>
+        <licence>
+          <ab>CC0 1.0</ab>
+          <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+        </licence>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl type="digitalSource">
+        <name>OTM: OK 61-782 (2), scan van Google Books</name>
+        <idno type="URL">None</idno>
+        <availability status="free">
+          <p>In the public domain.</p>
+        </availability>
+        <bibl type="originalSource">
+          <title>https://www.dbnl.org/tekst/coor001come04_01</title>
+        </bibl>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <particDesc>
+      <listPerson>
+        <person xml:id="Achazib." sex="m/f/u">
+          <persName>Achazib.</persName>
+        </person>
+        <person xml:id="Aristobolus." sex="m/f/u">
+          <persName>Aristobolus.</persName>
+        </person>
+        <person xml:id="Cogitatio." sex="m/f/u">
+          <persName>Cogitatio.</persName>
+        </person>
+        <person xml:id="Amassai." sex="m/f/u">
+          <persName>Amassai.</persName>
+        </person>
+        <person xml:id="Amal." sex="m/f/u">
+          <persName>Amal.</persName>
+        </person>
+        <person xml:id="Amal.       Marma." sex="m/f/u">
+          <persName>Amal.       Marma.</persName>
+        </person>
+        <person xml:id="Neregel." sex="m/f/u">
+          <persName>Neregel.</persName>
+        </person>
+        <person xml:id="Precatio." sex="m/f/u">
+          <persName>Precatio.</persName>
+        </person>
+        <person xml:id="Demophon." sex="m/f/u">
+          <persName>Demophon.</persName>
+        </person>
+        <person xml:id="Iohanna." sex="m/f/u">
+          <persName>Iohanna.</persName>
+        </person>
+        <person xml:id="Marma." sex="m/f/u">
+          <persName>Marma.</persName>
+        </person>
+        <person xml:id="Bode." sex="m/f/u">
+          <persName>Bode.</persName>
+        </person>
+        <person xml:id="Cognitio." sex="m/f/u">
+          <persName>Cognitio.</persName>
+        </person>
+        <person xml:id="Amal Marma te zamen." sex="m/f/u">
+          <persName>Amal Marma te zamen.</persName>
+        </person>
+        <person xml:id="Israel." sex="m/f/u">
+          <persName>Israel.</persName>
+        </person>
+        <person xml:id="Eubulus." sex="m/f/u">
+          <persName>Eubulus.</persName>
+        </person>
+        <listRelation type="type of relation">
+          <relation name="" active="pers_1" passive="pers_2"/>
+        </listRelation>
+      </listPerson>
+    </particDesc>
+    <textClass>
+      <keywords>
+        <term type="genreTitle">Comedy</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <listChange>
+      <change when="0000-00-00">who did what</change>
+    </listChange>
+  </revisionDesc>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1590">
+        <desc/>
+      </event>
+      <event type="premiere" when="">
+        <desc/>
+      </event>
+      <event type="written" when="">
+        <desc/>
+      </event>
+    </listEvent>
+    <listRelation>
+      <relation name="wikidata" active="https://dracor.org/entity/" passive="http://www.wikidata.org/entity/"/>
+    </listRelation>
+  </standOff>
+  <text>
+    <front>
+    </front>
+    <body>
+      <div type="scene">
+            Comedie van Israel.Vertonende Israels zonden, straffinghe, belydinghe, ghebedt, beteringhe ende verlossinghe, uyt het thiende capit. Iudicum: Als een klare spieghele der teghenwoordighen tydenGhemaackt Anno 1575. door D. V. Coornhert.Iob 34. 30.Om des volcx willennEsa. 3. 4.Ick zal huer kinderen gheven tot Vorsten, ende die verwijfde zullen huer regeren.Esa. 58. 3. 9.Zy zoecken my daghelijcx, ende willen mynendennEsa. 65. 24.Ende het zal wezen, dat ick hen eer zy roepenGhedruckt ter Goude, int Iaar 1590.
+        </div>
+      <div type="scene">
+            Personen.1Israel.}{ 1T'volck.2Aristobolus.}{ 2De beste Raadtsman.3Amal.}{ 3Boosheydt.4Marma.}{ 4Bedroch, of die zich verheft.5Neregel.}{ 5Onderzoeck. President.}6Achazib.}{ 6Loghen.}7Amassai.} beteeckent{ 7Vertredinghe des volcx.} raden.8Demophon.}{ 8Doder des volcx.}9Eubulus.}{ 9Welradende}10Precatio.}{ 10T'ghebedt.11Cogitatio vaga.}{ 11Zwervende ghedachten.12Iohanna.}{ 12Ghenade Godes.13Cognitio vera.}{ 13Ware kennisse.
+        </div>
+      <div type="scene">
+            Argvment.Iudic. 10.IDeed' quaad voor den Heer, zo dat hy afgodeerde,Ia den Heer verliet, en hem niet en eerde.Des wert de Heere gram. zo Israel heeft bevonden,Van God onderworpen den Heydenschen honden:Die hem zo hardtplaaghden, dat hy zich verneerde,Zijn zonden bekende een verlossing begheerde.God weyghert, antwoordt streng, met zijn weldaadts verkonden.Doe sprac Israel tot God: wy hebbennDoet ons dat u belieft: maar vande handt vervaarlijckDer wrede vyanden, verlost ons nu en beschermt.Dit zegghende wierpen zy uyt alle huer palenD'afgoden en dienden den Heere al tentmalen.Die doe ghenadelijck henluyder heeft ontfermt.
+        </div>
+      <div type="scene">
+            Eerste handeling. Wt ghetrouwe liefde des vrundtschaps moedere,Straft de verstandighe zijn dolende broedere.
+<speaker>Aristobolus.</speaker>
+ACh leyder hoe deerlijck doolt Israel mijn broederZonder enigh herder, zonder eenigh hoeder,Op zijn eyghen weghen by hem zelf verkoren.En niemandt en helpt dit schaapken verloren,Maar veel onthelpen hemHemnDit jammer te aanzien, zonder hulpe te bieden,Vermagh die liefde niet, die gheen moeyt wil vlieden,Om des naastens moeyten te bekeren in rustEn helpt elck daar zy magh. helpen is haar hooghste lust.Maar mijn lieve ruste, my voort helpen vervaart.Want luttel onderwints (zomen zeydt) veel rusten baartOock kost het vermaan tijdt tot broodtwinnens vergetenMaar tot snaastens voedtsel, laat lieft huer zelve eten.Of t'volck mijn doen achte voor roemzuchts begheren?Ick zoeck t'volcx eer niet, huer spot magh my niet deren.Maar wie weet of herder of Prins op my zal woeden?God zal my verstercken, of voor aanstoot behoeden.Die weet dat ick maar zoeck Israels eeuwigh verblyden.O mocht hem dat worden, ick acht gheen tijdtlijck lyden.Mijn onlust schijnt zeker, onzeker is zijn vrucht,Ist al wijsheydt dat ick diet leedt ghewis beducht,Om zijn onzeker lief, in onghemack gha lopen?Och jaat die wyze lieft, kant al dulden en hopen.Ick hoop noch zijn betring, dus wil ick hem spoedelijckZijns dolens vermanen, minlijck en zachtmoedelijckTusschen hem ende my, daar kome af dat magh.
+        </div>
+      <div type="scene">
+            Eerste handeling. Elck belijdt zijn zonden die hy niet en wil haten,Maar blijft daar in en zeydt men macht niet laten.Aristobolus.       Israel.DAar komt hy uyt. Broeder God geef u goeden dagh.Ghy kom
+<speaker>Israel.</speaker>
+Waar af dat doch broeder?
+<speaker>Aristobolus.</speaker>
+Van u zelfs ghebreken.
+<speaker>Israel.</speaker>
+Vann
+<speaker>Aristobolus.</speaker>
+Die doet mijn tonghe niet, die en is gheen lachter tap.
+<speaker>Israel.</speaker>
+Dat vandt ick noyt in u, maar wel tot my u jonsteInt wel raden. O God, of ick die volghen konste.Had icx altijdt ghevolght, het hadde my veel ghebaat.
+<speaker>Aristobolus.</speaker>
+Volght noch mijn goeden
+<speaker>Israel.</speaker>
+Waar in dat?
+<speaker>Aristobolus.</speaker>
+Int laten van u quade leven.
+<speaker>Israel.</speaker>
+Leef ick dan zo qualijck?
+<speaker>Aristobolus.</speaker>
+Ia ghy boven schreven.
+<speaker>Israel.</speaker>
+Dat zie ick niet. waar in, dunckt u mijn leven
+<speaker>Aristobolus.</speaker>
+Dat ghy d'oude zonden met alleen niet en laat,Maar nieuwen daar by voeght, met hoope bovenDit doedy, al schynet dat ghijt niet en verstaat.Ghy stopt moetwilligh t'oor voor Gods inspraack ghenadigh.Ghy en zucht niet droeflijck over u wandel misdadigh.Ghy veracht stoutelijck Godes rechtvaardigheydtDoor u herdtneckigheydt en styve onwaardigheydt.Mosten deze nieuwe verdoemelyke zondenDan noch by de oude (veel te groot) zij ghebonden?Ick meyn niet dat u luft, Goods goedtheydt te terghen:Maar wat doedy anders met dit zondigh vererghen?Om Goods langmoedigheydt t'ontsteken ter wrakenBehoefde gheen nieu quaadt: t'oude konft dat wel makenGhy spraackt beroemelijck zeer veel hoghe dinghen.Ghy roemde u Goods volck heyligh zonderlinghen,Nochtans zaghmen aan u veel oudt desems kleven.Hebdy dees valsche roem niet al langhe bedreven?
+<speaker>Israel.</speaker>
+Leyder ja ick.
+<speaker>Aristobolus.</speaker>
+Tis dan te recht een oude zonde,Wijckt dees ydele roem nu oock uyt u monde?Hoe ghy oock u broeder handelt gants onredelijckWeet ick. ghy vergheeft niet, maar plaaght hemT'viel te lang zoude ick al u oude zonden nomen,Die uyt blinde doling altsamen voortkomen.Dees oude doling, dees groote oneerlijckheydtIs noch niet wech, maar blijft met hare begheerlickheydtKrachtigh, doort hanteren van die oude paden.Ghy ontbeert het gheloof met haar loflijcke daden.Ghy tast metten handen, en vergheet zo gheheelDe ware zuyvering uwer oude zonden veel,Dat ghy meer ende meer nieuwen daar by gaat voeghen.Zoude God, lief broeder, hier mede ghenoeghen?Zulck verarghen lyden? u met zwaarlijck straffen?
+<speaker>Israel.</speaker>
+Hy straft mijn burenn
+<speaker>Aristobolus.</speaker>
+Die hebben alleenlijck den wet der naturen:Die hebt ghy oock en noch Moyses wet in schrifturen.Ende door u (van God voor zijn volck uytghescheyden)Werdt Gods naam ghelastert by d'onbesneden heyden.Oock heeft God u meest lief, zijn geliefden
+<speaker>Israel.</speaker>
+Maact dat my doch niet vroet, maar eenLieft doet den lieven lief, maar diemen haat doetmen leet.Maactmen lieft een strafster, zo maactmen liefde wreet.
+<speaker>Aristobolus.</speaker>
+Verstady dat noch niet? wel ick stelt nu ter zyden.Maar ghy zullet verstaan int verzoecken van lyden:Zo ghy dat niet en vermijdt door ware onschuldigheydt.Dit rade ick u: terght niet Goods lange gheduldigheydt,Die roept u ter dueghden uyt der zondaren percken.Maackt dees beroeping vast door dueghtlijcke wercken.Nemmermeer zuldy (doedy dit) meer zondighen.Nemmermeer zal God u zijn straf verkondighen.En nemmermeer zuldy onzaligh moghen wezen.
+<speaker>Israel.</speaker>
+V jonst, maar niet u raadt, werdt van my gheprezen.
+<speaker>Aristobolus.</speaker>
+Waarom?
+<speaker>Israel.</speaker>
+T'middel doogh niet. dat is onmoghelijck.Machmen gheen straf ontgaan (zo ghy zijt betoghelijck)Dan doort niet zondigenWat mennnnnnDoor eens naalden oghe: kroop veel eer een kemele:En zonder vloghelen vloogh ick eer ten Hemele:Dan dat hier een mensch na Goods wet zou wandelen.Blijckt dees raadt dan niet spot, by alle verstandelen?
+<speaker>Aristobolus.</speaker>
+Alle natuurlijck mensch vander joecht, in zondenMaar geennnDaar en leeft gheen mensche die niet gezondight en heeft:Maar daar leefter wel die zond' zo gants begheeft,Dat, zo hy in zonden vry was van gherechtigheydt,Hy in doeghden vry is, vander zonden knechtigheydt,Merckt doch lief broeder wel op dees onderscheydt.WiennnAl de ghedaan zonden wil God ghoedigh verghevenAls wy t'quade laten ende t'ghoedt beleven.Magh dit niemant met God zo ghy wilt bewyzen,Zo zijn Goods beloften, niet mijn raadt te mispryzen,Als een spot, een zotheydt, en ydel verlanghen.Wannn
+<speaker>Israel.</speaker>
+Nu maackt ghyt noch argher. doet dit niet stracx lopenDen rechten baan tot het vertwyfelde wanhopen:Want gheen mensch ter werelt maght quade geheel laten.Komt niemandt, dan zulcke, die beloften te baten,Magh oock yemandt hopen t'beloofde te erven?Moet dan niet elck mensch in vertwyfeltheydt sterven?
+<speaker>Aristobolus.</speaker>
+Neen, niet mijn, maar u gront, den mensch wanhopigh maackt,T'geloof krijght de belofte, ooc eermenT'geloof doet den zonden sterven.nDie zal (blijft hy levendt) int afsterven volherden.Onmoghelijck ist hem eenighzins te rustenVoor dat hy ghekruyst heeft t'vleesch met zynen lusten.Dees quaadt later verkrijght, t'beloofde met verblyden,Maar sterf een ghelovighe onder dit wel stryden,Hy is der beloften mede al ontfanckelijck.WannnmZo gheloofde Moyses dat het beloofde landtGhewonnenHy zaght met verlanghen, en gheniet dat gheestelijck.D'onghelovighe niet, die storven beestelijck.Die dan waarlijck ghelooft, en strydet vromelijckOm t'quaadt gants te doden, hem ist niet verdomelijck,Al starf hy voor de zeghe, want God hem bemint.Is hy gheen volmaackt man, hy is een volmaackt kindt.De kleyne kinderkens, kryghen oock t'beloofde ghoedt.Daar blijct klaar dat mijn gronnnGeen ongelovige vernZegt my: magh oock yemant het beloofde goedt ontfaen,Die onghelovigh is?
+<speaker>Israel.</speaker>
+Neen.
+<speaker>Aristobolus.</speaker>
+Waar dan tot u ghezeydt.Ick schencke u een stede maar met zulcken bescheytDat ghys niet zult hebben, ten zy dat ghy zelf betreedt.Den rechten smalen wegh, die alleen daar toe leedt.Scheen dan die wegh te smal in u duystere oghen,En onmoghelijck om gaan, zegt, zoudt ghy oock poghenDen wegh te betreden met betrouwen koenlijck?
+<speaker>Israel.</speaker>
+NeennnLoons hoop verzoet arbeydt. wie is zo zot dat hy looptTer plaatsen waart, daarmennn
+<speaker>Aristobolus.</speaker>
+Ghy zegt wel. maghmen oock teffens blijflijck wezen,Inde quade zonde en ghoede doecht gheprezen?Int doncker en int licht? inden doodt en int leven?
+<speaker>Israel.</speaker>
+Neen.
+<speaker>Aristobolus.</speaker>
+Zalmen int een ghaan, men moet t'ander begheven.
+<speaker>Israel.</speaker>
+Men moet.
+<speaker>Aristobolus.</speaker>
+Maghmen int quaadt blyven en wezen zaligh?
+<speaker>Israel.</speaker>
+Neen. t'quaat maact ellenn
+<speaker>Aristobolus.</speaker>
+NadienHoe mooghdy heyl hopen? moet ghy niet verstyven.In wanhoop vertwyfelt, doort onghelovigh swerven?Ghy ghelooft Goods woordt niet: hoe zoudy verwervenZijn beloften zaligh, zonder die te betrouwen?Ghy treet optennnZiet zo volght uyt u gront, dat de belover God,Int schencken vande stadt met alle menschen spot.Rechts of hy die ghave, door een wegh onghaanlijckOock blijckt u hope valsch, ydel en maar waanlijck,Die vant ghoedt worden klapt met een herteloze mondtMaar wanhoop vertwyfelt bezit uwer herten gront.
+        </div>
+      <div type="scene">
+            Eerste handeling. Het blijckt Gods wil datmennWt ghebodt, verkiezing en uyt beloften zoet.Achazib.       Aristobolus.       Israel.ICk hoorde Israel mijn schaapken deerlijck blaten,Zagh uyt en merckte hem ghants eenzaam verlatenAl diep inde kaken vanden wolve bloedigh.Dus noopte my de lieft en ghetrouheydt moedigh,V, verschorende wolf, vromelijck aan te randenOm dit schaap te trecken uyt u felle tanden.Zegt waarom bedroeft ghy, dien God niet wil hebben bedroeft?
+<speaker>Aristobolus.</speaker>
+Ick bedroef dennMet zalighe droefheydt die hem tot vroecht zal komen.
+<speaker>Achazib.</speaker>
+Met wanhopens droefheyd, die hem zoude verdomen.Ghy beswaart zijn schouders, met een last ondraghlijck.Wie magh onderhouden, Goods wet onbeklaghlijck?
+<speaker>Aristobolus.</speaker>
+Ofmen gods wet magh onderhouden
+<speaker>Achazib.</speaker>
+Wat is dan de ghenayen Messias van node:Maghmennm
+<speaker>Aristobolus.</speaker>
+MoetmenWat haat ons Messias en Godes ghenade?Werdt de mensch oock zaligh die altijdt blijft int quade?Daar toe is de ghenayen Messias ons noodtlijckOns te vryen vant quaadt, dats vande zonde doodtlijck,Ende ons te brenghen in onschults leven veyligh,Doort volbrennnSchijnt dit onmoghelijck byden zwacken menschen:T'valt Gods mogentheyt licht, die wercket na wenschen
+<speaker>Achazib.</speaker>
+Dat zulcx Goods wille zy, most ghy eerst doen blijcken.Maar om tot tijdtwinning, die moeyten te ontwijcken,Zal ick u doen mercken klaar vast en betoghelijck,Dat de ghehoorzaamheydt elck hier is onmoghelijck.Niet uyt Philosophi of Heydensche blinden,Maar uyt elcx ontwijflijck en zeker ondervinden:Oock me uyt de kranckheyd van ons vleesch verschoven.Zegt? wie maghmen boven t'ondervinden gheloven?Wat magh hy oock weten, die zelf niet en verzoeckt?Nu vindt zich alle vleesch, oock wy ons zelf zo vervloecktEn godloos van aardt, dat hier niemandt en maghGoods ghebodt volbrenghen na t'Godlyke behagh.Dit blijckt klaar als de zon. ja kinderen verstaant.Wat mooghdy hier teghen?
+<speaker>Aristobolus.</speaker>
+Ondervinden.Vint ghyt oock Israel, ondoenlijck int verzoecken?
+<speaker>Israel.</speaker>
+Ghewis ende zeker, zekerder dan uyt boecken.
+<speaker>Aristobolus.</speaker>
+Ghy spreeckt voorwaar niet recht. wanWille, opzet, aandacht, ende ernstighe grondtInt verzoeckenHoe mooghdy recht zeggenHoe veel jaren, maanden, daghen, ja hoe veel urenHebdy in dit verzoeck vlytelijck moghen duren?Ick houde wel niet een: hoe hebdy dan bevondenTgunt ghy met rechten ernst u noyt hebt onderwonden?Maar hebdy dit ghedaan, en u pondt recht besteedtHoe mooghdy lochenennWant dan weet ghy ghewis, dat hert ziel en ghedachtenNa Goods ghehoorzaamheydt stadelijck konnennWanZo God van niemandt eyscht boven zijn gave of macht.Om wel vast te bouwen most ghy al dieper delven.Daar valt nu Israel t'verzoecken in u zelven.Wat mooghdy dan weten van een anders verzoeck?Of is u, als Gode, elcx hert een open boeck?Of acht ghy u zelve van zo groter waardenDat ghy zijt de beste, stercxte en wijsste op aarden?WannDus vermaght oock niemant vannWaar dat niet een verwaant Luciferaansch goetdinckenOm uyten Hemel hoogh in d'afgront diep te zincken?Kranckheyd des vleeschs.Nu aan des vleeschs krancheyd. zegt oft vleesch niet en isV vyandt?
+<speaker>Israel.</speaker>
+Voorwaar ja, de quaatste en meest,Daar elck ghelovighe ter werlt altijdt voor vreest.Want hy verlaat ons niet voor den lijflyken doodt.
+<speaker>Aristobolus.</speaker>
+Ist vleesch sterck?
+<speaker>Israel.</speaker>
+Neen, maar kranck, ja zelf kranckheydt, dits de noodt.
+<speaker>Aristobolus.</speaker>
+V onbescheydenheydt wondert my hoghelijck.Is u vyandt kranck, hoe ist onmoghelijckOfte oock zwaar om doen, door Gods almogende handtGrondtlijck te vernielen een zo krancken vyandt?Ziedy niet Israel dat dees man spreeckt zottelijck?Wie hoorde oyt spotter spotten zo recht spottelijck?Bracht hy u noch teghen int vyandtlyke perckEen vyandt moghende, onverwinlijck en sterck,T'mocht wat schynenDoch waart niet. gheen kracht gheldt teghen Goods almoghenheydt.Zo nu een kranck vyandt den kamp tegen u komt slaan,Hoe magh die sterck quellen, of krachtigh wederstaan?
+<speaker>Achazib.</speaker>
+Ist spotlijck en zotlijck dat ick hebbe ghezeydt,Zo toont ons doch u ernst en hooghgheleerde wijsheydt.Doet ons blyken, mooghdy, dat de gheloovighe manEen uur, ik zwijgh altijdt, onderdanigh leven can.
+<speaker>Aristobolus.</speaker>
+Waar Gods wille blijckt, maghmenT'gunt wy ontwyselijck Goods wil te wezen zien?
+<speaker>Israel.</speaker>
+Neen. dat waar gelochent d'almachtigheydt van
+<speaker>Achazib.</speaker>
+Maar waar blijckt Goods wille?
+<speaker>Aristobolus.</speaker>
+God wil datmerVerkiezinghe, heyligh, en beloften milde.Zou God ons ghebieden t'ghunt hy niet en wildeDat wy in zijn kracht hier zouden volbringhen?Zou God ons verkiezen tot zodanighe dinghen,Die hy niet zou willen dat wy hier beleven?Zou God ons beloven t'gunt hy niet en wil gheven?
+<speaker>Achazib.</speaker>
+Dat en zegghe ick niet. maar wat ist dat God gebiedt?
+<speaker>Aristobolus.</speaker>
+God ghebiedt onderdanigheydt.Dat wy zijn wille doen ende den onzen niet,Zijn stem ghehoorzamen, hem dienen naacktelijck,Niet ten halven int deel, maar gheheel volmaacktelijck.Esa. 58. d. 13.       I. Reg. 15. e. 22.       Genes. 17. a. I. &amp;c.
+<speaker>Achazib.</speaker>
+Dat gebiedt God, ick kennMaar alleen om dat wy ons kranckheydt zoudenn
+<speaker>Aristobolus.</speaker>
+Dats wel des wets gevolgh, niet haar oorzaack of eyndt.Wilt God niet: zo spreect God recht anders danZo ist niet doen gheen zond', want dits dan zijn wille,Ia t'zondighen waar doecht, na t'ghezicht van u brille.En ghehoorzaamheydt zond', als tegen Goods behagen.Dus klapt ghy plompelijck tegen des schrifts gewagen.Daar zeydt God tot Israel, mijn wet te horen wilt spoen,Die ick u huyden leer, op dat ghy die zoudt doen.Ghy zultse onderhouden en volbrenghen metter daadt.Dit spreect Gods waarheydtnnDeut. 4. a. I, 6. 13, 5. 31, 6. I. 3, 7. II. &amp;c.God verkiest den zynen tot onderdanigheydt.God verkiest u huyden tot zijn volck byzondereOm te onderhouden alle zyne wetten.Dits Goods verkiezinge, wie magh die doch beletten?Deut. 26. d. 18. etc.       I. Thes. 2. b. 12, 4. b. 7, 2. Thes. 2. c. 13. I. Pet. I. a. 1. 2       Rom. 8. e. 29.       Eph. 1. a. 4, a. b. 10.God belooft den ghelovighen onderdanigheydt.Daar wil hy besnyden zijns volcx zondighe hertZo dat zy hem met hert, met ziel ende met zinnenAls huer Heer en God lieven en beminnen.Deut. 30. b. 6.       Eze 11. d. 19, 36. c. 25 26, 37. f. 23. Esa. 54. c. 5, 65. c. 17. 18, 60. d. 18. Zach. 13. a. 2. Zoph. 3. c. 13. Oze. 2. d. 17. Ioan. 8. e. 36, 17. c. 19.       2. Pet. 1. b. 10.       1. Pet. 2. d. 24, 3. d. 18. 1. Ioan. 3. a. 5.       Gal. 5. c. 16.       2. Thes. 3. a. 3.       1. Thes. 5. d. 23 Luc. 1. b. 17. g. 75.       Colos. 1. c. 22. &amp;c.Wat mensch zijn God bemint, die doet dat God hem beveelt.Dit belooft Goods waarheydt, diet denHet zijn bedrieghers valsch godloos en onmenschelijckDie zaken lochenen zo klaar en zo wenschelijck.Merckt nu O Israel, zo ghy dezen man hoortZydy onghelovigh vant Goddelyke woordtEn zult boze lasters van God moeten ghevoelen,Oock vry zonder wroeghen metter zonden boelen.Ist u dan niet beter, Goods woordt te gheloven?Met een Godlijck leven te pryzen God van boven?Ende een bitter wroeghen over den zonden te makenOm in ghehoorzaamheydt Gode te ghenaken?Dit rade ick, dit bidde ick, dit vermaan ick met trouwenGhelooft, wilt en begint, nemmermeer maght u rouwen.
+        </div>
+      <div type="scene">
+            Eerste handeling. De loghen treckt van God door ghedachten verkeertEn maackt valsche goden, die meest elck dient en eert.Israel.       Achazib.DAar gaet hy nu binnenDat hyt goet meynt weet ic, die dat dic heb beproeft.Zijn redenOock zie ick dat ghy zelf daar niet jegens mooght zeggen,Ancxt druct mijn druckigh hert twijflijck aannAch my is bang, en weet nerghens troost te zoecken.
+<speaker>Achazib.</speaker>
+Wijt dat u zelfs zotheydt zo blindt als lichtvaardigh
+<speaker>Israel.</speaker>
+Hoe dat?
+<speaker>Achazib.</speaker>
+Ghy betrout hem, en hy ist niet waardigh.Tis een schalck bedriegher, een vernuftigh snappaart,Een listigh verleyder, en doecht roement klappaart.Zegt doch: ist gheen zotheydt, dat ghy eens anders hooftBoven u, van u hert, dat hy niet en kent, ghelooft?
+<speaker>Israel.</speaker>
+Trouwen ja.
+<speaker>Achazib.</speaker>
+Dit doet ghy, ghy ghelooft zijn woorden blindtMeer dan de waarheydt klaar die ghy in u zelf bevint.Doch al klapt zo schoonnnDatter gheen God en is, zeyt hy me in s'herten gront.
+<speaker>Israel.</speaker>
+Wat zou dat?
+<speaker>Achazib.</speaker>
+Elck zeyt int hert datter gheenDie God minst acht, zal meest heerlijck vannDits des werelts zede: dit doen alle wyzen.Dus magh ick dees kloeckheydt in hem niet mispryzen.Tis wijsheydt voor den luyden zijn gront te verberghen.Want het naackt ontdecken, zou den slechten vererghen.Hier door, al was ghereedt d'antwoordt in mijnenBeantwoorde icx niet al, maar verbarghs in mijn gron
+<speaker>Israel.</speaker>
+Wat gront meyndy doch hier?
+<speaker>Achazib.</speaker>
+Dat de dinghen anders zijnDan het gemeenn
+<speaker>Israel.</speaker>
+Noch versta ick u niet, willet breder verklaren.
+<speaker>Achazib.</speaker>
+Gharen, en mijns herten gront grontlijck openbaren.Let met ernst op mijn woordt, ghy zult wonder horen.Maar maket niet ghemeen voor Ian allemans oren.
+<speaker>Israel.</speaker>
+Zorght niet. ick kannnn
+<speaker>Achazib.</speaker>
+Mijn grote lieft tot u heeft mijn hert zo ontlokenDat nu voor u oren zaken zullen komenDie noyt levenernZegt. hout elck metten
+<speaker>Israel.</speaker>
+Ghewis.
+<speaker>Achazib.</speaker>
+Dat gheschiedt al uyt dubbeltheydt aardigh.Maghmens rechtvaardigheydt te wezen toghenDatmen yemandt af eyscht boven zijn vermoghen?
+<speaker>Israel.</speaker>
+Gheenssins.
+<speaker>Achazib.</speaker>
+Ghy houwet dan oock voor ongherechtigheydt?
+<speaker>Israel.</speaker>
+Ia.
+<speaker>Achazib.</speaker>
+Vindy macht in u, om met trouwe knechtigheydtGod ghehoorzaam te zijn na al zijns wets eysche?
+<speaker>Israel.</speaker>
+Dat en is in my niet, noch in gheenen vleysche.
+<speaker>Achazib.</speaker>
+Nochtans eyscht dat God elck op een eeuwighe straf.God eyscht dan t'werck van elck, daar hy noyt doens macht toe gaf.Wat dunct u: gaat God hier al rechtvaardighe ganghen?
+<speaker>Israel.</speaker>
+Neen zo niet. wy hebbens in Adam al ontfanghen,Maar weer door zijn zonde in Adam verloren.Dus eyscht ons God het werck dat wy mochten
+<speaker>Achazib.</speaker>
+Zo strafs ons dannerDunct u dan
+<speaker>Israel.</speaker>
+Neen. t'was eyghen misdaat, wy waren in zijn lendenDaar door wy ons met hem van Gode oock afwenden.
+<speaker>Achazib.</speaker>
+T'sluyt niet. die niet en is, magh zich tot geennMaar mochtennnnIn Adam.
+<speaker>Israel.</speaker>
+Dat is waar.
+<speaker>Achazib.</speaker>
+Eer hy teelde, zo ick merckGeloofde hy en deed' boet, dit was een doechtlijck werck.LydenmGhy zijt dan geens quadenmLijdt ghy u vaders straf nu al rechtvaardelijck?Ick merck dat ghy dit hoort met gelaat onwaardelijckAltijdt is die waarheydt den onwyzen hatigh.Dat ick hier uytspreke zwyghen de wyzen statigh,Die de zuyvere leer uyten Hemele bringhen.Wildyt huer gront te zijn aanmercken gheringhen?Leest vlytigh huer schriftenDaar staat dat het God al (niet uytghenomen) zelf doet.Zo was dannIst nu rechtvaardigheydt dat God Adam daarom slaat?Lijdt Adam, ja oock wy, gheen straf om Gods wercken?Wie kan rechtvaardigheydt in dees handel mercken?
+<speaker>Israel.</speaker>
+Die reen is my te hoogh, t'magh oock niet voordelen.Gods rechtvaardigheydt is na d'ons niet te oordelen.Maar wel na Gods oordeel inde schrift beschrevenDaar staat dat hy elck menn
+<speaker>Achazib.</speaker>
+V deckmanvan zijn rechtvaardigheyt koom ick nu op zijn goedtheyt.Zegt doch: is hy oock goedt die zich laat verdrieten,Goedtheydt te voorderen, en zich te doen ghenieten?
+<speaker>Israel.</speaker>
+Neen.
+<speaker>Achazib.</speaker>
+Ist goedt datmen God met hert, ziel, en ghedachtGhestadelijck diene?
+<speaker>Israel.</speaker>
+Ia.
+<speaker>Achazib.</speaker>
+Gheeft hy u wil ende macht?
+<speaker>Israel.</speaker>
+Neen.
+<speaker>Achazib.</speaker>
+Heeft God ons danNadien hy t'meeste deel schept tot de eeuwighe pijn?Dits nochtans de grontfest van ons hemelsche leere.Gheeftmen God dan al recht, liefts en goedtheydts eere?
+<speaker>Israel.</speaker>
+Ghy wadet al te diep.
+<speaker>Achazib.</speaker>
+Daar voor wilt niet zorghen.Ick ontdeck u een gront voor t'ghemeyn volck verborgenZegt noch. diemen lievet en jonstigh heeft bezint:Gout en gheeftmen
+<speaker>Israel.</speaker>
+Trouwen ja.
+<speaker>Achazib.</speaker>
+Wat ghebiedt God doch allen menschen?T'gunt ons vannn
+<speaker>Israel.</speaker>
+Gheen
+<speaker>Achazib.</speaker>
+Is dat lieft, of ghoedtheyt, diemenHoe warachtigh en trou God oock is in zijn woorden:Meyn ick dat wy beyde terstondt rechts wel hoordenAls de listighe man Goods beloften voorthaalde.Wie krijght die doch van
+<speaker>Israel.</speaker>
+Die zal God eerst gheven na dit sterflyke leven.
+<speaker>Achazib.</speaker>
+Neen. God belooftse hier op aarden te gheven.Hier ter werelt, niet hier na, leestmenNu ziedy wat waarheydt en wat trou daar is by God,Oock wat rechtvaardigheyt en goedtheyt zonderlingen.
+<speaker>Israel.</speaker>
+Ghy kalt onghehoorde en wonderlyke dinghenDie nochtans waar schynen.
+<speaker>Achazib.</speaker>
+Zy zijn warachtigh.En oock zo verholen, dat zy gheheel krachtigh,In menigh mensche zijn, die haar vruchten etenZonder van dees wortel of gront zelf yet te weten.Valsch oordeel.Een oprechte brille, zo klaar zuyver en netDat zich alle dinghen zo zy zijn daar door toghenDie gants anders schynen int ghemeen volcx oghen.Al wist schoon deze man niet altoos van die brilleNoch most hy ghemeten inder herten stille.De zalighe vruchten van dat oprechte oordeel.Zo gheniet menigh mensch dit onwaardeerlijck voordeelAl kent hy dees gront niet als die maar in hem is.Hy oordeelt ghoedt en quaadt met een kennisse ghewis.Die snoer-recht anders is danHy vliet alst meeste quaadt t'mint elck alst best begheert.
+<speaker>Israel.</speaker>
+O had ick een brille van zo klaren ghezichte.
+<speaker>Achazib.</speaker>
+Begheerdy een? neemt daar. ziet of ick dit al dichte.
+<speaker>Israel.</speaker>
+Wat hou? droomDat terstont boven scheen. zie ick nu ondere.Dat licht scheen is duyster, dat schandt scheen is eerlijckT'goet is quaat t'quaat is goet, en t'hatigh is begeerlijc.Ongheloof.Te dienen en te eren een onzichtbaren God,Vande welcke niemandt zeker en magh wezenOf hy oock is. Ick zwijgh van zijn goedheydt gheprezen,Ic merck nu t'was voormaal ooc al in mijns hertennMaar buyten mijn weten, nu ist my met lusten kont.
+<speaker>Achazib.</speaker>
+Hola man, hoedt u mondt zulcke dinghen te klappen.uyt dat zure vaatgen moet ghy zoet wijntgen tappen.Tis zuyr int volcx oordeel, dat moet ghy verschonen,Wildy anders vreedzaam byden menschen wonen.Ghelaat u met woorden dat ghy alleen betroutOpten God des Hemels, den niemants oogh aanschout?Afval vanOm Goden te eren die Goden konnen strecken.Die waanGod loont zijn volck met armoede pijnlijckMet verachting spottelijck, ja metter doodt venijnlijck.En dat zou een God zijn ghoedt en rechtvaardigh?T'zijn toversche dromen. die Goden zijn eerwaardigh,Die huer dienaars ghoedt doenEn weeldigh doen leven in vroechden tallen tyen.
+<speaker>Israel.</speaker>
+Liever welcke zijn die?
+<speaker>Achazib.</speaker>
+Toeval tottenMaar meest werden ghedient Astaroth ende Baal.
+<speaker>Israel.</speaker>
+Wat loon gheeft elck den mensch, die trouwelijck dient zijn beelde?
+<speaker>Achazib.</speaker>
+Astaroth gheeft rijckdom met haar dochter weelde.Maar Baal macht en gebodt overt geslacht men
+<speaker>Israel.</speaker>
+Wat vintmen
+<speaker>Achazib.</speaker>
+Dit beloven zy niet (als de waanGod) na dees tijdtOf in een droom, die niet dan den slapenden verblijdt,Maar ghevent metter daat tastelijck en aanschouwelijc.T'beloofde gheven zy inder waarheydt trouwelijck,Om zaligh te maken niemandt huers ghelijck is.Is hy niet recht zaligh, die machtigh, weeldigh en rijc is?Is dat niet van een mensch een rechte God te maken?Die al magh dat hy wil heeft wensch van alle zaken.Die rijck is heeft den born van alle wellusten.Is dat gheen zaligheydt om heel in te rusten?
+<speaker>Israel.</speaker>
+Zo vuyrighen liefde baart dit schoon behaghenDat ick in mijn hert van al mijn voorleden daghenNoyt zo tochtighen lieft totten waangod en vandt.
+<speaker>Achazib.</speaker>
+Dats niet vreemdt.
+<speaker>Israel.</speaker>
+Waarom doch?
+<speaker>Achazib.</speaker>
+Te ghoedt was u verstandtDan dat ghy mocht lieven een ydel waan ende schijnT'welck al zijn dienaars loont met schandt, droefheydt ende pijne.
+<speaker>Israel.</speaker>
+Ick ghevoel niet alleen lieft tot dees nieuwe GodenMaar oock haat tot d'oude met al zijn gheboden.Want die zijn een hinder mijns begherens lustigh,Een ghequel en wroeghen mijns herten onrustigh.Waan komt dees verandering.
+<speaker>Achazib.</speaker>
+Door den kracht van mijn gheest,En dees brils nuttigheydt, die u oordeel zo gheneestOorzake vanWant watmen ghoedt oordeelt, wert gelieft en verkoren,En watmen quaadt oordeelt, moetmen haten en vlieden.Dits van lieft ende haat, d'oorspronck in alle lieden.Zo krachtigh is mijn gheest en des brils oordeleDat zy lieft en haat baart tot smenschen voordele.Die haat vliedt van alle dat inder waarheyd quaadt // is.Maar lieft bejaghet al, dat recht ghoedt en tot baat // is.Dat mijn gheest en oordeel recht zijn, weet u bevinden.Dus laat gheen tovergheest u zin meer zo verblinden,Datmen u rooft dees bril dan bevintlyker klaarheydt,En u een valsche opzet, onder schijn van waarheydt.Zo dat ghy weer als door verblint ende verzotWare Goden verlaat om een onbekende God,Ontrou, onghoedt, hatigh, ende onrechtvaardigh.Vwer noch gheens menschen edele liefde waardigh,Als die maar bedrieghlijck door waanEn met onzaligheydt, en ware ellenden plaaght.Want laat ghy dezen bril (u oordeel) veranderenIck, met ware goden zullen van u wanderen.Dan zuldy bedroghen den waan-god verkiezenEn t'warachtighe ghoedt ghehelyken verliezen.Zo veel is aant oordeel, aant oordeel gheleghen.Dat doet heel recht ghaan, of dolen op onweghen.Wie mijn gheest en oordeel door verwaantheydt verlaatKrijght flucx een valsche lieft ende oock een valsche haat?Zo dat hy den waan-God dan met herten moet minnen,En de ware Goden haten met alle zynen zinnen.
+<speaker>Israel.</speaker>
+Dats geennOm zeker en haast aan dees goden te komen.
+<speaker>Achazib.</speaker>
+Ick hebbe twee zonen, konstighe verstandenMiddelt ter valscher zaligheydt.Deze beyde goden zo gantselijck volmaackt,Dat ghy volkomentlijck tot u begheren raackt.Wat wildy meer? ghy zult niemandt derren moeyen.Ghy zelf werdt de borne daar u heyl uyt zal vloeyen.Ghy zelf zult dees goden naar u zinn makenGhy zelf zult door u zelf aan u wensche gheraken.
+<speaker>Israel.</speaker>
+Wanneer werdt dit? haast doch. bluscht mijn heet verlanghen.
+<speaker>Achazib.</speaker>
+Ick haal u mijn zonen met spoedighe ghanghen.Die zullen u van als grontlijck onderwyzen.Volghdy vlytigh haar raadt, elck zal u zaligh pryzen.Ick had huer al van zelfs van u dienst ghesproken.Ziet doch: dit spel wil voort, zy hebben ons gheroken.Ick zieze daar komen. ghy mooght met huer pratenBetrout en volght haar raat, ghy komt aan gelt en staren
+        </div>
+      <div type="scene">
+            Eerste handeling. Boosheyt met valsch bedrogh, helpenDaar de werelt wyze zot hert, lust en troost op stelt,Amal.       Marma.       Israel.
+<speaker>Amal Marma te zamen.</speaker>
+GHoeden dagh Heer.
+<speaker>Israel.</speaker>
+Zegt my zydy Achazibs zonen?
+<speaker>Amal.       Marma.</speaker>
+Ia wy Heer?
+<speaker>Israel.</speaker>
+Wildy bey met my komen wonenEn trouwelijck dienen? ick zal u eerlijck lonen.
+<speaker>Amal.       Marma.</speaker>
+Ghaarne.
+<speaker>Israel.</speaker>
+Wat kondy doen?
+<speaker>Amal.       Marma.</speaker>
+Wy zullent u tonenVeel meer metten wercken, dan met schone woorden.
+<speaker>Israel.</speaker>
+Nochtans waart my een lust, dat het mijn orenn
+<speaker>Amal.</speaker>
+Ghoede waar prijst haar zelf. dit dede ons zwyghen.Maar hoort (nu ghyt zo wilt) wat nut wy doen ghekryghen.Wy zijn bey Doctoren inde rijcke AlchemyeDats opt franchoys ghezeydt Vn art qui nest myeMaar in Neerlandtsche taal heet dees AlchemyEen konst die na wensch t'begheerde al gheeft my.Die kan zo veranderen alderley dinghen aart,Dat zy uyt snoey aarde gout maackt dierbaar en waart.Den boer maackt zy edel, den nederen verheeft // zyEn al des herten lust levert ende gheeft // zy.
+<speaker>Israel.</speaker>
+Zuldy my die leren? O dats een Godlyke konst.
+<speaker>Amal.</speaker>
+Ghewis. en dat alleen overmits de grote jonstDie daar is tusschen u en ons lief vadere.
+<speaker>Israel.</speaker>
+Hoe maactmennm
+<speaker>Amal.</speaker>
+Wy zullen u maken een born of fonteyneDie altijdt overvloeyt van gout outer en reyneDat zo bevallijck is en zo wonderlijck van krachtDat ghy na wil bekoomt ampteren eer ende macht.
+<speaker>Israel.</speaker>
+Hier toe behoeft reedtschap, stof en goey handeling,Waar krijgh ick dat?
+<speaker>Amal.</speaker>
+Zorght niet, volght maar ons wandeling.T'ghereetschap ende stof lever ick na begherenMaar des konsts handeling zal u mijn vroeder leren.Eerst moet daar zijn een klock vanGhenaamt Cor impium, verstelt voor wroeghenOm dees behoeven wy niet zeer verde te ghaan.Ghy hebtse al zo my u woorden doen verstaan.Cupiditas prava is haar oven ghereedt.Die brandt zeer lichtelijck wel gloedelyken heetDoor delectatio (inde verbeeldinghe zoet)Falsi boru, kolen heet als de helsche gloet.In die distilleer-klock lever ick dees kruyden,Tot een ghereedt ghebruyck, by alreley luyden:Falsi[t]as, by mate, by ellen, by ghewichte,Item duplicitas, zwaar int woordt, in daadt lichte,Hypochrisis schijnghoedt, en Asius behendigh,Die t'gout zijn rechte heer flucx maken afwendigh,En doen dat ons fonteyn alle mans gout verovert,Zomen de vette melck uyt vreemde koeyen tovert.Als mijn broeder dit stof konstelyken bereyt.Die zeg uu t'gunt hy doet. het mijn heb ick ghezeydt,
+<speaker>Marma.</speaker>
+Mijn broeder, Heer levert, maar ick ghebruyke t'gelt,Tot verkryging van eer, van wellust, en van ghewelt.Ten is gheen minder konst gout wel te ghebruykenDan dat te bejaghen in ons listighe buyken.
+<speaker>Israel.</speaker>
+Wat is dit recht ghebruyck?
+<speaker>Marma.</speaker>
+Milt zijn ende oock sparen.Dat is veel uytgheven, ende veel bewarenIck gheef rijckelijk uyt, doch veel min dan ick magh?
+<speaker>Israel.</speaker>
+Aanden armen?
+<speaker>Marma.</speaker>
+Somtijdts voort volck inden klaren dagh,Den rykennDoch zijn dees ghiften kleyn, ick gheef groter en meerDen moghenden rijcken heymelijck int donckere.Daar lijde schennnn
+<speaker>Israel.</speaker>
+Gheefdy den rijcken meest? dats water in zee gebracht.
+<speaker>Marma.</speaker>
+Elck wil int hoge.nnMerckt doch. al mijn doen streckt om te komenPracht in gebou, huysraat ende ghewade.Koop zyden ghewaden, ghesteenten, juwelen,Zilverwerck, tapyten, konstighe taferelen,Die t'volck doen verwonderenEn dit al om boven mijns ghelijck op te styghen,Om de hooghste te zijn in grootachtbaarheydt eerlijck.Pracht in maaltyden.Die ick dick zo prachtigh, als lecker toe ruste?Want behalven de vlijt tot de smakelyke lusteIn menighvuldigheydt van weeldighe spyzen,Doe ick mijn heer oock milt ende heerlijcken pryzen,Door des spijs chieraden, die noyt buyck en vulden.Want ick doe pasteyen prachtelijck vergulden,Den taarten wapenen, den vladen beschilderenDen sukaden verwen, en t'ghezicht zo verwilderenDat de hant twijflijck grijpt, en t'oogh twist mettenWiet wint, de diere pracht, of de leckere smake.Door zulcken ghaafrijcken ende heerlijcken levenDoe ick mijn meester snel in hoogheydt verheven.De hoghen trecken hem door otnfanghens konste,Van ondren schuyft hem op des ghemeenen mans jonste.Dats daar vant uyt gheven. hoort nu mijn verklaringVande voorzichtighe ende nutte bewaring.Alsmen ghesteghen is in enighen hoghen staatNutbare ampterenDe rechter kan vet merch uyt magher twisten zuyghen,T'hert om rechtvoordering, maar tis om trecht te buygenD'ontfangher is zijn zelfs, niet zijns heerenEn drijft metten ghelde zijns, niet zijns heren woecker.De Toller schijnt zijn heer over t'volck ghoedtdadighMaar tot zijn eyghen baat schat hy elck onghenadigh.
+<speaker>Israel.</speaker>
+Maar daar door wert de jonern
+<speaker>Marma.</speaker>
+Daar acht hy niet meer op, die gheeft hy nu te voren.T'volck moet hem wel eren, groot achten en ontzien,Ia oock (spijt hier herte) met smeecken ghaven bien.T'volck zelf behoeft de jonst der hanssen ondraghelijck.Die vergharen schatten, doort nemen ontraghelijck:Om hem zelf te vryen vant rechtvaardigh beklaghen.Of om eenen nieuwen hogher staat te bejaghen.Hier in dien ick ghetrou by nachten en by daghen.
+<speaker>Israel.</speaker>
+V beyder konst en dienst is my een groot behaghen.Tot rijckdom en machte porde my u vaders woort.Maar nu ick u beyden hier af hebbe ghehoortVoel ick t'begheerlijck hert veel vuyrigher branden.Want een ghereedt middel spoedight gherede handen.Nu vinde ick warachtigh onghelooflyke zakenHebbe ick niet zelve macht om zelve te makenMet mijn eyghen handen zo moghende GodenDat zy my verlossen uyt alle myne noden?Ia dat zy my gheven volkomelijck na wenschen,Rijckdom, macht en lust, een zaligheydt der menschen?Wat staannGheen werck magh eynden voor des wercx beghinnen.Maar die wacker beghint hebet al half ghewonnen.
+<speaker>Amal.       Marma..</speaker>
+Gaat voor heer, wy volgennChorus i.Stem Psal. 16.HElaas ick zie t'begin van troerigh leydtMits inde vroecht van Israels blyde tyden.Hy terght den Heer met nieuwe zondigheydt.Men raadt hem wel dat hy het quaadt zal myden.Hy acht des niet en volght de valsche loghen.Die hem ghelooft, wert jammerlijck bedroghen.Armoede kleyn onziet en vreest hy meerDant wroeghen fel vant zondigh quaadt gheweten,Oock dan den straf van zijn gherechte Heer.Der zielen heyl wert in zijn hert vergheten.Voort Hemelsch ghoedt heeft hy t'aardtsche verkoren.Zo werdt om schau het wezen zelf verloren.Noch roemt de zot dat hy den Heer betrout:Dat hy ghelooft en is van Goods gheslachte.Maar hoe magh een die troost en hope houtOp rijckdom quaadt, op weelde zat op machte.Den waren God met ghantser herten eren?Men kan gheenssins te pas dienen t'wee heren.Israel maack zelf met zijns vernuften handt,D'afgoykens broosch die waan zo schoon kan pronckenDat zy tot huer trecken al zijn verstant.Zijn herte brandt in liefde blindt zo dronckenDat hy aanbeedt het maacxel zijnder handenVoort hooghste ghoedt. Den waren God tot schanden.Noyt amoureux door Venus lust verdwaastZaghmen zo heet in boelderye woelen:Als Israel zot nu vuyrigh jaaght en raast,Na ghelt en macht zijn afgodische doelen.Hy denckt noch acht niet meer op Goods gheboden.Maar dagh en nacht dient hy zijn twee afgoden.Hy spoort na t'ghoudt met loghen onbeschaamt,Met arghelist met woeckers felle tanden,Met schoon bedrogh en valscheydt konst ghenaamtRecht of rijckdom hier in d'aadtsche warandenOneyndelijck zijn eyghendom zou blyven,En of zy mocht met zaligheydt gheryven.Elck styght int hoogh door pracht met spoedigheydtIn huysraadt, kleedt, kost en veel droncken wynenOock hoogh ghebou. want de hooghmoedigheydtMaackt dat niemandt die neerste hier wil schynen.Maar elck een pooght, om door zijn pomp misprezenBoven ander machtigh gheacht te wezen.Sodoms hooghmoedt en gheyle ghulzigheydt.En was zo hoogh voor God noch noyt gherezen:Als Israels pracht en zatte schuldigheydt.Die dit al pleecht zonder zijn God te vrezen.Zou Goods ghedult dit onghestraft aanschouwen,NeenDie strenghe wraack komt traaghlijck kruypen aan,Maar zy komt aan als wy daar minst op dincken.Israel en zal haar niet ontsluypen, dan.Maar den beker van Godes toorn uyt drincken.Hy laat den Heer, diens wet wil hy niet volghen,Dit grote quaadt maackt God op hem vervolghen.
+        </div>
+      <div type="scene">
+            Tweede handeling. Diet t'licht Goods verlaat moet int doncker zwerven,Doort blinde begheren voert loghen int bederven.
+<speaker>Achazib.</speaker>
+AL ist zo dat my der Philosophen noeswijsheydtSchendelyken lastert ick weet dat mijn prijs leydtByden vroeden diens gheest vernuftelyken ruyckt,Dat God mijn dienst loflijck zelve dickmaal ghebruyckt.Bruyct God mijn kloecke list niet doorgaannAant volck verwerpende door verhertheyt steenlijck,Die zuvere liefde vande Godlyke waarheydt?Ick bent door wienEn verwertse voorts in een verkeerden zinne.Dat ick oock ghaarne doe want tis tot mijn ghewinne.Tis oock recht dat loghen hem t'licht ga beroven.Die den trouwen waarheydt niet en wil gheloven.Valsche waan doet begherenEen verkeerden zinne zal ick hem schier in blazen:Zo behendigh dat hem grondelijck zal bederven,T'gunt daar hy weelde en macht door meynt te vernGod hevet nu gheschickt dat Israels zoon zal houwenAant Konincx kint der Philistijns vol ontrouwen.Die is eenzaam, dus zal hy daar wel na luysteren.Want des kroons hoop zal zijn oogh zo verduysteren,Dat hy geenEn zal vrezen voor zien, bedencken, noch bezorghen.Hy zal den Philistijns wanen te ghebieden,Maar zal dienen als slaaf die Goddeloze lieden.Doch moet ick hem gheenssins dit secreet bedieden.Tis Goods schicking, die zal lanmnT'vierken dat ick nu vrou, zal hy eerst recht proeven.Over tachtigh jaar dan zal zijn bitterheydt bedroeven.
+        </div>
+      <div type="scene">
+            Tweede handeling. Wie hoogh is stijght hogher, veel hebbenMaar niemanIsrael.       Achazib.HIer vinde ick Achazib mynen ghetrouwen raadt,Mynen jonstighen vrindt en hulper metter daadt.Waarde vader ick moet u dancken en pryzen,Van u hooghwyze raadt en bystants bewyzen.WanV raadts volghing maackt my zo rijck, weeldigh en machtigh,Dat ick niemant en wijck: niemant magh my krancken.Heb ick my dan uwer niet hooghlijck te bedancken?Door u heeft my t'kryghennnEn ben nu Hertogh van veel Hertoghdommen wijt.
+<speaker>Achazib.</speaker>
+Dat u mijn hulpe en raadt zo wel heeft doen ghedyen,Doet my uwenthalven oock hertelijck verblyen.Tis den wyzen raden een grote eer ende lust,Alsmen huer raadt wel volght en komt ter begeerder rust.Ghelijckt eer en lust is voor een ghoedt Medecijn,Dat de krancke raadt volght en verlost werdt van pijn.Nu ghy zo naarstigh zijdt om goey raadt te beleven,Als ick zorghvuldigh ben om ghoeden raadt te gheven:En vermaght mijn jonst niet dat icx hier by late,Maar wil u voorderen tot noch een hogher state.
+<speaker>Israel.</speaker>
+Waar toe?
+<speaker>Achazib.</speaker>
+Vraaghdy waar toe? tot de Konincklyke kroon.
+<speaker>Israel.</speaker>
+Door wat middelen doch?
+<speaker>Achazib.</speaker>
+Doort middel van u zoon.Die zal ick inder echt te besteden pynen,Aan des Konincx dochter vande Philistynen.Dees dochter is eenigh, huer ouders zijn ghestorven.Werdt deze u zoons bruyt, de krone is verworven.Schroemt het aanzoecken niet, al is u staat slechtere,Al is zy Koningin, ghy Hertogh of Rechtere.Want ghy zijt de meeste Hertogh opter aarden.Veel grote Koninghen wyken u in waarden,In rijckdom, in machte, in landen en in luyden.Ia Keyzer en Koning ontziet u machte huyden.Zoeckt aan, u zoon krijghtse, zo werdt hy een Koning.
+<speaker>Israel..</speaker>
+O wenschelyke raadt. O wat groter beloningBlint begheren.Kondy dat volbrenghen.
+<speaker>Achazib.</speaker>
+Laat het my bestellen.Ick ken al de Heeren, oock de Koninginne.V zoon zal ick beelden in huer hert en zinneZo schoon, wijs, eel, machtigh van landen en ghoeden,Dat zy al begheerlijck dees bruyloft zullen spoeden.
+<speaker>Israel.</speaker>
+Zydy niet eerens waart, boven allen menschen.Die my meer doet hebben, dan ick zou derren wenschen?V eerste beloften vant ick oprecht na behagh.Daar door is u gheloof by my zo veel meer dant plagh,Dat ghy geen zaack zo vreemOf ick moets gheloven uyt al mijns herten gront.Voordert daarom de zaack, ghy krijght na wille danck.
+<speaker>Achazib.</speaker>
+Ick ga dat bestellen, betrout my, het werdt eer lanck.
+        </div>
+      <div type="scene">
+            Tweede handeling. T'volck veracht wyzen raadt, elck wil ander ghebieden,Die hoogh klimt valt neder, de vrye dient vreemde lieden.Aristobolus.       Israel.ICk zocht u Israel, des heeft my t'vinden verhueghtOm u lust en nuts wil, niet om mijn baat of vrueght.Al zie ick meest by u mijn goeden raadt versmaadt,Als die ghemeenlyken het afgheraden bestaat,Zo ghy klaarlijck betoont int dienen der afgoden:Noch laat ick niet af, in u onbekende nodenV te strecken een vrundt warachtigh en ghetrou,Om u te voorhoeden van u aanstaande rou.Ick hoor, o waarde man, dat ghy u zoon hoogh geachtHuwen wilt aan een vreemt en hovaardigh gheslacht:Alleen om aanden kroon te moghen gheraken:En u moghende huyt noch moghender te maken.Ghy zijt van zelf machtigh ontzien eerlijck en rijck:Huwen aan zijn meerder.mWaart huwen niet beter aan bekende naburen?Wat zoeckt ghy een vreemt volck, van vreemder naturenVan een vreemde sprake en vanDien t'ghenoegh niet vernoeght blijft onvernoeght t'onvreden.Ick weet vast ghelooft my, dat u begheerts verwervenV huys ende afkomst grondelijck zal bederven.Dit voorhoedt doch wijslijck, strect u landt een goet heet.Ghy hebt nu wercx ghenoegh, al en zoect ghyt niet meer.Dit half is meer d'ant heel, bevooghdyt vlytigh en wel.Maart heel wert u te veel, u oock der landen ghequel.Verchiert dat ghy nu hebt wildy te veel verkiezenDat heel met oock dit deel zal u zotheydt verliezen.Dan zuldyt ick zegt u, veel te spade beklaghen,
+<speaker>Israel.</speaker>
+Den Philosophen zot, magh u raadt behaghen,Maar my niet, noch oock gheen polityke verstanden.
+<speaker>Aristobolus.</speaker>
+Der Philosophen wet zalight allen landen,T'ghaat oock wel als Princen
+<speaker>Israel.</speaker>
+T'zij dromen. de vroede hoort zijn goet te vermeren.Ick wil mijn macht meren, zo werde ick machtigher,Zegt nu: is u of mijn voortstel warachtigher?Ist u oft mijn nutter voor Prins en onderzaten?Zal machts vermeringhe my en mijn volck niet batenInt beschermen mijns lants, en temmen der vyanden?Ick zwyghe vant ontzich. wie zal wy aanranden?
+<speaker>Aristobolus.</speaker>
+Wie zijn macht te recht vermeert.By onderzaten en vreemt, zo dat hem elck mint en eert.Maar niet die vyandt maackt zijn vrunden lieftalligh,En onderdanen trou, oproerighen afvalligh.Dit zal u wis gheboeren om de veelheydt der volckenRoeckeloosheyt der PrincenndeWellustigh t'volck vergheet, en dennZo dat zijn persoon zelf, zijn volck niet magh gheryvenIn klachten te horen, en opt recht te waken.Dan zal hy onachtzaam al zijnder landen zakenDer vreemnnDie huurlinghen ghierigh zullen qualijck wandelenIustici verkopen, eeren-staten verpachten,T'volck schatten en scheren: welcx onverhoorde klachtenV zoon zal doen haten van kleynen ende grotenDie maackt hem te vyandt zijn eyghen huysghenoten.En zal dan vreemde macht met schanden behoevenTot zijn machts vernieling en zijns volcx bedroeven.De waghen ghetrocken van veel weeldighe paarden,Moet hollen en storten, tot pletteren ter aarden,Als de zotte voerman veyligh en slaperigh sluymt.Den paarden
+<speaker>Israel.</speaker>
+Datmagh zo gheschiedenDatmen veelal ndts teffens beheerschapt wel ende fijn.Doch meyn ick niet dat ghy dit zult wederspreken.Die meer vermn
+<speaker>Aristobolus.</speaker>
+Veel krygenZo in werp van veel houts veel grote vlammen blust.Begheerdy wereldennnIst dat ghy den palen, uwer landen vergroot.Te meer stercktenZo wel alst kleyn muschgennn
+<speaker>Israel.</speaker>
+Zegt dat u ghoedtdunck mijn weyde zal ruymen,Om weeldigh te rusten, alst my ghelieft ende past.
+<speaker>Aristobolus.</speaker>
+Dits wonder, ghy zoeckt rust in vermeringhe van last.Wel heer schappenZorghvuldigh het welvaart der landen te bezorghen.Die dan zijn landen meert, vermeert de zorgh onlustigh.Dits vermering van last, schijnt u dat licht en rustigh?
+<speaker>Israel.</speaker>
+T'schijnt het u een lust is, my met onlust te ladenDoor dit u onlustigh en hatelijck, afraden.Altijdt prijst ghy voor goet, t'gunt ic quaat moet scheldenDaarom volgh ick u raat nemmermeer of zelden.
+<speaker>Aristobolus.</speaker>
+Die geenn
+<speaker>Israel.</speaker>
+Die vreemde raadt volght, toont dat hy hem zelf niet verstaat.
+<speaker>Aristobolus.</speaker>
+Zulck waant hem heel raadt wijs, die zot is ende
+<speaker>Israel.</speaker>
+Zulck beschuldight ander met zijn eyghen ghebreck.Ghy zoudt my niet raden waande ghy u niet wijs.
+<speaker>Aristobolus.</speaker>
+Waande ghy u niet wijs, ghy volghde mijn advijs:Of ghy zoudt een ander, die wijs is om raadt vraghen.Dit doedy niet, en zult te spade beklaghenMet hopeloos, berou in onnutte beweening,Dat ghy boven mijn raadt volght u blinde mening.Mengschap met zijn moghender is zorghlijck.Merckt ghy niet wat ghy int werck bestaat te legghen?Ghy wilt met een moghender u zaken ghaan menghen.T'swaarste weeght altijdt meest, t'zal u te gronde brengenGhy zoect vreemde hoogheydt u eygen werdt verschovenGhelooft my goede man, t'verdrijft ghewislijck boven.Ist dat ghy aarden pot, metten koperen swemt,Ghy wert in d'eerste storm aan kleyn schaardenZou nu een Koningrijck u Hertoghdom wyken?Meyndy te heerschappen over zo veel ryken?Zoudy die doen dansen na u pypen of zinghen?Neen, u volck en landen zullen zy bedwinghen,En als arme slaven na huer pijpe doen dansen.Verwacht dan teghenheydts verderflyke cansen,Als de vreemdelinghen u volck legghen opten hals,Hovaardigh, fel, ghierigh, onkuysch, lecker en vals,Die u ellendigh volck ten been toe zullen knaghen.Des zullen de vroede nu rou caproenen draghen,En voor een oorzake den vraghers ghewaghen,Dat het is overt leedt vant landts aanstaande plaghen.
+<speaker>Israel.</speaker>
+Daar koom watter wille, magh ick maar ghebiedenOver dat Koningrijck. de plaagh maghmen ontvlieden.Komtse ick achtse niet. raadt ghy die u gaarne hoort,God bewaar u. ick ga met mijn voornemen voort.
+        </div>
+      <div type="scene">
+            Tweede handeling. Waar moedtwille heerschapt met felheydt bloedelijck,Stort zich de Tirannye int verderven spoedelijck.Neregel.       Eubulus.       Achazib.       Demophon.       Amassai.EVbulus is weer d'eerst na zijn ghewoonlijcke zee,Nu ghebreeckt hier niemanDe schalcke is verschalckt, de jagher is ghevanghenEn diet diennMoet ons ghebodt lyden ende draghen ons juck,Dat moghen wy dancken onzen lust en t'gheluck.Of strenghe dan zachte heerschappije zekerst zy.Dit volck in dwang houden vast ende bestendigh,Want zo wel leydt de dueght int zorchvuldigh bewaren,Als int kloeck verkryghen binnen listigheydts jaren.Ende want men bewaart mette strengheydt bloedigh,Of met vriendelickheydt zacht, zoet ende goedigh:Zo werdt hier nu gheleydt in beradinghe wijslijck,Welck van tween zekerst is, (want dat is meest prijslijck)Om dees (door huwelijck) aanghewonnen LandenEeuwelijck te houden in dit Coninckrijcx banden,Haar weeldighe rijckdom stadelijck te ghenieten,En t'vet van haar nering in ons teyl te doen vlieten.
+<speaker>Eubulus.</speaker>
+Met oorlof mijn heerenWaart quaadt dat de Koning zelf teghenOm zijn goet believen hier in oock te verstaan?
+<speaker>Neregel.</speaker>
+Ghy spreeckt wel Eubule, het waar oock alzo ghedaan,Onachtzaam Prince.Hem t'komen inden Raadt niet en ghing beletten,Maar of hy schoon hier waar, zo ist buytenHy is des onverzocht, en moeyt hem niet met het Landt,Waar van hy de zorghe gantselijck heeft bevolen,V wijsheydt mijn Heeren, daar aan hy niet magh dolen.De Koning zal willigh toestemmen, tekenen,En doen zeghelen, wat wy voor t'best zullen rekenen.
+<speaker>Demophon.</speaker>
+Der princen onachtzaamheydt is der RadenT'onzer eeren, oock tot onzer huyzen stichtinghe.
+<speaker>Eubulus.</speaker>
+T'mishaaght my, en ly dat, nu het mijn herenmaar is hier oock yemandt (dit acht ick nut ghevraaght)Die den aardt der landen en luyden te recht wel kent?Wy zijn daar alle vreemt. waart niet eennZonder die kennisse in een zake zo grootYet te willen sluyten?
+<speaker>Neregel.</speaker>
+Dat is van gheenen noodt.T'zijn menschennKent oock te recht den aart vanOock maghmenZegt nu op Achazib, wat zoudt ghy t'zekerst houwen?Prijst ghy de goedighe of strenghe heerschappye?
+<speaker>Achazib.</speaker>
+Ick zal (op verbetren) zegghen mijn fanthazye,Ghenomen uyt den aardt vande ghemeene man,Aart des ghemynenEerst is het Heromnes als de windt onstadigh,Schandelijck ondanckbaar van goedtheydt weldadigh,ancxtvluchtigh voor gevaar, gierigh na der winstenEn mint boven vryheydt den snoden dienst vandenZou nu Koning Adin wel vast willen bouwenOpt volcx onstade jonst, het most ter noodt berouwen.Het waar oock een zotheydt diemen dier zoude bekopen,Opt ondanckbare volcx danckbaarheydt te hopen.Dit bevannnDit volck wilde lonen met een harde doodt onschuldigh.Maar waart niet eenernAan and'ren te stellen, datmen zelf heeft in handen?Verstaat my/ de Koning heeft macht om (spijt huer herte)Dit volck te doen dienen, door vrees van straffe smerte.Wat behoeftmen dan doch met weldadighe treken,Ghehoorzaamheydt onwis den volcke af te smeken?Wat noodt ist te bidden die verachte lieden,Nu de Koning macht heeft om straflijck te ghebieden?Meer laat het volck t'quade om de straf te vrezen,Dant de dueght hanteert, om te zijn gheprezen.Des doots anDan des duechts beloning. om zich wel te schicken.Het ancxtighe ontzich baart dan ghehoorzaamhede.En die ghehoorzaamheydt baart weeldighe vrede.Alle dwang (hoe straf oock) zal t'volck duldelijck lyden,Alst maar magh in nering door t'ghewin verblyden,Grote sommen kryghen en weeldelijck teren.Zo willigh dient nu elck t'ghelt en buyck, huer twee herenDat zy d'arme vryheydt gheheel niet en achten.Dits t'ghemeen ghebruyck, oock by dees Ioodtsche gheslachtenDat vrye armoede min dan slavernye rijck,Gheacht werdt int herte van t'Heromnes alghelijck:Dus is door de strengheydt gantselijck niet te duchtenVoor wederspannighe en oproersche gheruchten.Oock maghmen niet twyflen aan de veyligheydt,Gheleghen in strengheydts ontsichlijcke heyligheydt.In somma, het staat gants buyten des Konincx machte,Recht bemint te werden in s'volcx hert en ghedachte,Ick swyghe van stadigh wel bemint te blyven:Maar ghevreest te werden, en t'volck in ancxt te styvenHandt niet aan den volcke, maar aan den Koning alleen.Ghemerckt nu doort ontsich of door die liefde ghemeen,T'volck beheerschapt werdt van d'overheydts tomen:En lieft onzeker is, maar zeker t'vreeslijck schromen,Zo moet ick die strenghe heerschappye pryzen,Tot dat ick beter huer met warachtigh bewyzen.
+<speaker>Neregel.</speaker>
+V, voorts Eubule voeght nu sprekens beghinne.Volghdy t'ghezeyde, of niet? laat horen uwen zinne.
+<speaker>Eubulus.</speaker>
+Hoort dan Heer President met mijn Heren altsamen,Al Achazibs zegghen is teghen het betamen,Teghen des Konincx eer, (die wy moeten bewaren)Teghen des IoodtschennnnEnde oock (hoe listigh alzulcx die schoon-spreker zeydt)Oorzake van nieugierigheydt des volcx.WanDie zal in des Konincx strenghe onghenadigheydtNiet min, maar meer wercken, dan in zijn goedigheydt.Ghemerckt niemannDer PrincennernZiecken, niet ghezonden, wenschen lijfs verandering.Maar t'volcx ondannDees en komt niet int volck, daar des Konincx wetenStadelijck weldoende (zonder vromen te krencken)Door nieuwe weldaden, die ouden zo doet herdencken,Dat al d'onderzaten altijdt zijn weldoen weten,Maar al wert weldaadt haast, misdaadt werdt niet vergetenInt volck danKomt gheennnZo dick, dat nieuwe misdaadt, d'oude ontsteeckt met vierigheydt,Wast een onverzoenlijcke en dolle wraackgierigheydt,Die vele quaadts bedrijft int heromnes verstoort.Ondanckbaarheydt quetst niet. maar wraack werckt aan Princen moordt.Des volcx ghevaarlickheydt is den Prince ghevaarlijck.Vluchten van huer Koning: wiens doen onghenadelijck,Alleen oorzake is van al huer ghevaarlickheydt.Ia dit drijft hun, alst past, met heelder eenpaarlickheydt,Tot eennOf het maacktse zo dol voor wanhopen duchtigh,Dat zy huer Koning zelf zo ancxtigh doen beven,Dat hy vlucht uyt zijn Rijck, of uyt zijn quade leven.Belanghende des volcx winstghierigheydt na t'goet,Weet elck wel dat zonder ghewelt in haef en bloedt,Gheen Tyran en heerschapt. daar wijckt danMet nering en welvaart des volcx meeste blyheydt.Magh winst (zo hy oock zeydt) denernHet moet oock boven al zulck verlies hatigh myden:Door muytersch opwerpen van een hooft in noden,Of door huer eyghen Heer te verjaghen of te doden.Te meer noch als daar is die honger scherp en wreedt,Dan werdt vryheydts verlies eerst recht bitterlijck leedt.Diemen dan zo begheert, dat elck liever wil sterven,Dan die zoete vryheydt een uur langher te derven.De ghevreesde Princen moeten zelf vreezen.Dan merckt de Prins te laat, zijn doling aldermeest,Als hem t'veelhoofdigh dier omringt met dolle zwaardenOm zijn ancxtigh leven te jaghen vander aarden,En dan blijckt dat het volck, die eerst den Coning makenOock macht heeft om hem kroon endeAncxtigh ontzich is eend'Ontzichlijcke vreeze te brenghen in s'volcx ghedacht,Maar niet de lieft minlijck: maghmennMen kannnnWant als de vreezer vreest, stadigh te moeten vreezen,Moet hyt vreeslijck pynen om van vrees verlost te wezendes volcx liefde tot huer Prins werdt licht verkreghen ende onderhouden.Maar lieft voedtmennt'Wilde ghediert temtmen door weldoen, naer wenschen,t'Onzen dienst: zoudt niet zijn in redelijcke menschen?Of maackt d'edel reden (ons natuyrs vercieren)Den redelijcken mensch argher dan wilde dieren?Weldaadt baart liefde zoet, maar misdaadt bitter haat.Wildy lief ghehadt zijn? hebt lief. ghewis is dees raadt.Doet menMiddel om lief ghehadt te werdenZo noodtlijck als elck haat, dien hy vyandt waant met leedtZo noodtlijck bemint elck, dien hy hem jonstigh weet.Want even zo veel rechts heeft het weldadighe liefTot liefde: als tot haat, van leedts misdoen t'ongherief.Het is onmoghelijck voor die menschelijcke kracht,Yemandt te beminnen die haar misdoet dagh en nacht.Oock ist onmoghelijck den weldoender te haten.Dus blijckt dat die liefde vanden onderzaten,Zo wel staat inde macht van des Conincx goetheydtAls des volcx vreze hangt aan des Conincx verwoetheydt.Hy magh hem doen lieven als een vader gheprezen.Hy magh hem doen ontzien als Tyran wtghelezen.Oock magh hy des volcx lieft vesten in stadigheydt,Door zijn lieft tot hunluy, moeder van goedtdadigheydt.De strenghe heerschappy blijckt danEn de zachte zeker, zo zy oock warachtigh is.Des neemt maar een voorbeeldt, voor veel vernZo lang die Egypsche goede ConinghenDit volck beheerschapten met zoetheydt goedelijck,Diende t'volck willigh, nutlijck en ootmoedelijck.Maar zo haast als Pharo t'volck strenghelijck de quellenEn dees Raadt Achazibs int werck began te stellen:Verloor hy al dit volck, (dat zich niet en liet dwinghen)Oock zich zelf met zijn met zijn volck, die indennDit zy ons een spieghel, tot waarschouwing huyden.T'was t'zelve aart van volck, ja de zelve luyden.Oock was dat heerschappen van Pharo van eender aartAls Achazib nu raadt voort stelt en verklaart.Zijn raadt is dan zeker, niet om lang heer te duren,Maar verjaaght of ghedoodt te zijn in korter uren.Daar teghen de Princen, zonder t'volcx bezwaren,Die goedighe heerschappe is zeker.Het goedigh regeren blijckt dan zeker en heyligh.
+<speaker>Achazib.</speaker>
+Zondernn
+<speaker>Eubulus.</speaker>
+Vrundtlijcke lieft veylight meer dan zwaarden
+<speaker>Achazib.</speaker>
+Verachting is ghezel vande zachtheydt goedigh.
+<speaker>Eubulus.</speaker>
+Eer verzelt altijdt dueght, de quade moet dueght loven.
+<speaker>Achazib.</speaker>
+StrenerEen Koning sterft liever dan hy t'volck zou smeken.
+<speaker>Eubulus.</speaker>
+Den volcke te helpen is een Koninglijck tekenDe Prins dient tot hulpe, niet tot verdruckinghe:Tot welvaarts voordering, niet tot roof en pluckinghe.
+<speaker>Achazib.</speaker>
+Wat baat den
+<speaker>Eubulus.</speaker>
+Een
+<speaker>Achazib.</speaker>
+De Koning magh wel t'volck, maar tvolck gheen
+<speaker>Eubulus.</speaker>
+Zonder onderzaten zijn Koninghen gheen Heren.T'volck blijft zonn
+<speaker>Achazib.</speaker>
+Zonder vreeslijck ontzich heeft de scepter gheen
+<speaker>Eubulus.</speaker>
+Dien veel vreeslijck ontsiennT'gaat wel, daart volc niet denn
+<speaker>Achazib.</speaker>
+Des Konincx eer en staat, wast doort zayen van bloedt.
+<speaker>Eubulus.</speaker>
+Zo des artzs eer en baat, doort sterven vann
+<speaker>Achazib.</speaker>
+Waarmennnn
+<speaker>Eubulus.</speaker>
+Waar niemandt zeker is voor s'Konincx felle beker,Daar is de Koning zelf oock nerghens recht zeker.
+<speaker>Neregel.</speaker>
+De zaak is haast ghenoech aan weerzyden ghekalt.Zegt ghy nu Demophon wat mening u best ghevalt.
+<speaker>Demophon.</speaker>
+Eubulus redene heeft wel een goede schijn.Maar Achazibs mening houde ick warachtigh te zijn.
+<speaker>Neregel.</speaker>
+Wat dunckt u Amassai van dezer zaken zwaarheydt?
+<speaker>Amassai.</speaker>
+Achazib spreeckt wijslijck, al zijn zegghen
+<speaker>Neregel.</speaker>
+Eubulus raadt schijnt my oock veel meer een wenschenDan moghelijck om doen metten verkeerden menschen.Verkeert is al dit volck en zo hardtneckigh vermaart,Wreede heerschappye.Dus besluyt ick uyt kracht vande meeste stemmen,Datmen dit volck met macht gheweldigh zal temmen.Men zalze heerschappen met een yzeren roede.Men zalze bedwinghen in ziel en ghemoede.Men zalze streng schatten in haaf ende goede,Schadelijck uytmelcken van allen overvloede,Ia zo heel arm maken, dat zy niet dencken en zullen,Om huer Godt of vryheydt, maar om den buyck te vullenEn om immers gheenssins voor oproer te schromen,Werden door Demophon tzijnder tijdt wegh ghenomen,Die grootste van dit volck, de meeste en die hoofden,Door wiennZich zelf te beschermen of te vryen van ons macht.Zo werdter gheen oproer onder dit muytersch gheslacht.Want niet huer, maar ons volck zal den staten van eeren,Bedienen, en weeldigh zich daar op erneeren.Dees wegh streckt tot vesting vande Koninglijcke staat,Van zijn grootheydt en eer, oock tot ons alder baat.Daar is niet meer te doen wy moghen nu scheyden.Elck ga na huys, ick ga deze zake beleyden.Chorus ii.Stem: Susanne ung Iour.ONzeker is d'uytgang van d'Aardtsche dinghenNiemandt en weet wat hem goedt zal wezen.Dan dat alleen elck mensch zijn wil gheringhenStelt in Gods wil, los van hoop en vrezen.Dit zoude ons al van droefheydt ghenezen.Daarom ons Godt dat zo hoogh heeft bevolen.Hy kent het goedt // daar in wy blinde dolenDiet zuyr voor t'zoet // achten en verkiezen.Zo lopen wy uyt die Godlijcke scholenDit doet ons al s'herten rust verliezen.Tis zotheydt groot, yet onbekents t'aanvaarden:Want dat doet dick venijn voor wijn drincken.Maar wijsheydt waart dat wy ons hert bewaardenVoort inslorpen vant venijns inschincken.Dat lust ons biedt int roeckeloos dincken,Daar ons begheert listelijck werdt ghevanghenDie doet ons dan na ons verderf verlanghen.Zo krachtigh kan t'valsch oordeel bedrieghen.Dan volght het hert willens met blinde ganghen,Den waanlust quaadt die flucx zal vervlieghen.Dit doet Israel met zijn verwaant aanklevenVan hoogheydt groot, de meeste wil hy werden.Hy heeft te veel, en benaarstight zijn sneven.Door meer begheerts, dat zal hem verwerden.Hy wil int hoogh men zal hem neer terden.Waart hem niet best met zijn te veel ghenoeghenEn in zijn nest hem schrickelijck te voeghen.Nu zal int lest zijn zotheydt hem schenden.Als hy zich vindt in druck en bitter wroeghenDoor lusten quaadt die zijn hert verblenden.Die Philistijns, gaan me de zelve weghenDie wanen oock haar macht te vergroten,Doort kleyn maken van Israel neer ghesleghenMaar dat zal hun van haar macht verstotenAls haar gheweldt lang t'volck heeft verdrotenMoet elck ander met doodtlijck oorlogh quellen.Die Koning zal door wreetheydt t'volck ontstellenMaar niet stillen. d'oproer zal hem scheynden.Oock loert die wraack, altijdt op den rebellenEn Tyranny moet met schanden eynden.Zo varenzy die goeden raadt versmaden,En haar quaay lust vermetel na treden.Die maackt dat men begheert dat noch zal schaden.T'goedt schynend quaadt werdt meest om ghebeden.Den dieren tijdt gaat elck dwaas bestedenAan t'gunt hy niet en weet oft hem zal batenNa t'ware goedt, dats een hert recht ghelaten,Waar best ghespoedt om ooghlijck t'aanschouwenNu zoeckt elck blindt het waangoedt waart om hatenDwelck ons bedrieght en verderft met rouwen.
+        </div>
+      <div type="scene">
+            Derde handeling. Als veel hoofden een hoofts lust moeten bezuyren.Komt haat met verachting, zulck rijck magh niet duyren.
+<speaker>Israel.</speaker>
+De bitterste ellende ist die uyt weelden komt.O ellendigh vermaan van mijn weeldighe juechde.O katyvigh verhaal van mijn beroofde vryheydt.Ach truerigheydt bitter uyt die zoete blyheydt(Die ick nu ontbere) gheboren in mijn herteIn mijn herte vervult met quelende smerte:Hoe queldy my dus hert zonder eenigh hopenDoor t'vluchten of weren u te moghen ontlopen?Langhe queeltmen pijnlijck eermen komt aant sterven.En ick zie gheen middel om vryheydt te verwerven.Wreede heerschappije.Die doet na lust en wil, niet na behoorlijck verstandt.Felheydt maackt den WettennnVerdruckinghe des volcx.Wie Godt vreest, en recht doet is der Heydenen roof.Die ghebieden in goedt, in lijf, ja int gheloof.Die bezitten d'erfnis vanden Heere der heren.Die verbieden den Godt des Hemels recht te eren.En dwinghen met gheweldt huer Afgoden te verheven,Op verbeurnis van haef, van lijf ende van leven.Zy bespiedent alles datter valt inden landen.Want ons huysghenoten zijn ons quaadtste vyandenDien't zo wel zou wroeghen zo men ons niet beklapteAls dees, zo huer wreetheydt ons bloedt niet en tapte.WannnnWie heeft oyt van felder en wreeder GodsdienZo wie met betrouwen den waren Godt ghelooftWerdt verbrandt, ghehanghen, ghesteent of onthooftBy hopen onder schijn van een rechtvaardigheydt.O Godt hoe lang lijdt ghy dees groote onwaardigheydt?Hoe lang zal u ghedult aanschouwen door de wolckeDit bloedigh vernielen van u verkoren volcke?
+        </div>
+      <div type="scene">
+            Derde handeling. God straft de boosheydt wreet vannnOock des volcx yver zot, en oproer wederspannigh.Aristobolus.       Israel.IA vind' ick u weer hier, ellendighe Israel?Och hadt ghy raadt ghevolght, zo waar u noch al wel.Die hebdt verlaten, maar het droevich verdriet:Van u onwijs opzet en verlaat u waarlijck niet.My deert de smertigheydt van u bittere wonden.
+<speaker>Israel.</speaker>
+Ick heb loon na mijn werckenZijn strenghe plaagh en zal oock gheenssins ophouwen,Zotte yver.Dees Afgoderyen, godloos en grouwelijck,Die de Heydens pleghen, dwinghende ontrouwelijckDie onwyze Ioden tot eering van huer beelden.Rechts of die huer eerders yet wat goedts uytdeelden.Zalmen Godlijcke eer doen, t'maacxel van albastere?Zalmen zien en lyden zulcken Godlastere?Zalmen zien verleyden zo veel onwyze zielen?Neen, ick niet, ick zal eer al d'Afgoden vernielen,Met al dieze eeren, daar koom af dat wil.Godt plaaght my om dat icx zie, lyde, en zwyghe stil.Maar zo ick dees laster uyten lande ga jaghen,Zal Godt (ick weets) van my, wech doen zijn plaghen,My weder beminnen als zijn lieve zone,En gheven my vryheydt met welvaren te lone.Godt heeft die menschen lief, die zijn eere beminnen.Bemin ick Gods eere, hoe moghen mijn zinnen,of tvolck den beelden rechtelijck mach vernielen.Mijn yver lijdt dat niet, en tzal Godt behaghen.Want die verbiedt hooghlijck dees Afgodische scholen,
+<speaker>Aristobolus.</speaker>
+Hola man. heeft Godt u t'beeldtstormen al bevolen?Dat de mensch van zelf doet, en staat Gode niet wel aan.
+<speaker>Israel.</speaker>
+Zonder Godes bevel heeft dat Moyzes ghedaan.
+<speaker>Aristobolus.</speaker>
+Die was Overheydt, die, niet het volck, heeft die macht.Ghy zijt nu zo verneert en gants t'onder ghebracht,Dat ghy gheen Vorst meer zijt, dus rade ick dat ghyt u wacht.
+<speaker>Israel.</speaker>
+Was Gedeon eennn
+<speaker>Aristobolus.</speaker>
+T'was hem uytdruckelijck van Gode gheheten.T'stormenNiet ghy, maar d'Overheyt heeft d'AfgodenWilt ghy den Afgoden recht uyt roeden na Gods Wet,Vernielt den Afgoden ghemaackt door u zelfs handen,Die ghy noch vuyrigh dient u Schepper tot schanden.
+<speaker>Israel.</speaker>
+Wat Afgoden zijn dat?
+<speaker>Aristobolus.</speaker>
+V hoogheydt eerzuchtigh?V troost opten rijckdom en u weelde kruysvluchtigh.Breeckt eerst dees u eyghen ghemaackte Afgoden,Die ghy boven Godt eert en betrout in noden.Dit Afgoden stormen is elck van Gode gheboden.Dit mooght ghy veyligh doen buyten ancxt van doden.Breeckt ghy dees Afgoden, Godt zal d'ander doenDoor zynen ghezandten en zelf zijn laster wreken.het inwennnOp dat daar door oock recht reyn werde het wtwendich.Wat baat dat ghy Tempels vannAls die wars Afgoden in u hert blyven altijdt?Als die u hert, ziel, moedt, lust, wil ende ghedachtBoven den Heer betrout, dient, eert, en voor helpers acht?Maar hoe magh u droomenGhy die Afgoden dient in u herte verblindt?Ghy, die hoogheydt, wellust, ja oock het snode gheltBoven Godt opt hooghste vant Altaar uws herten stelt?
+<speaker>Israel.</speaker>
+T'is al weder t'oude. ick meyn ghy hebt ghesworenAltijdt af te raden, t'gunt ick meest heb verkoren.
+<speaker>Aristobolus.</speaker>
+Hadt ghy mijn raadt gevolght, ghy waart noch vry en groot.Doort volghen van u lust, volght u jammer en noodt.Kondy dit (goede man) noch van zelfs niet verstaan?T'verzoecken leeret u: wat behoevet mijn vermaan?Ick zoeck met mijn raadt u, niet mijn zelfs baat.Ghy weet wel wie ick ben, oock mede in wat staat.Quaamt uyt, dat ick dit doe, de Hanssen verbolghenZouden my vernielen of vyandtlijck vervolghen.Tot mijn gevaarlickheyt en u nut streckt danT'zal u, niet my, baten, zo ghyt navolgigh hoort.
+<speaker>Israel.</speaker>
+Van u goedtjonstigheydt dancke ick u hoghelijck.Maar t'beeldtstormen int hert, is my heel onmoghelijck.Zoude ick de Kerckgoden noch zo langhe moeten lyden,Zy bleven daar wel staan ten eeuwighen tyden.Gods eer en s'menschen heyl, ghelden my hier inne meest.Gods woordt ghelt meer dant u. zo vuyrigh yuert mijn geestDat ick nu niet lannGodt bewaar u, ick haast, om den beelden te storen.
+<speaker>Aristobulus.</speaker>
+O Israel hoe haast ghy na u verderven grondigh.
+<speaker>Israel.</speaker>
+Na eeuwighe vryheydt. t'sekreet is u onkondigh.Dit voortstel is niet heel uyt my alleen ghesproten.Neen. t'komt bedecktelijck uyt eenighe groten.Diet listigh inblazen wackere RoerbinckenBelovende bystandt, meer dan ghy kondt dincken.Daar op verlaat ick my. ick bent alleen niet diet brout.
+<speaker>Aristobolus.</speaker>
+Vervloeckt is de mensche die opten mensche betrout.
+        </div>
+      <div type="scene">
+            Derde handeling. Volck en Prins werdt gheplaaght door oproerige handenAls tweedracht partydigh bederft luyden en landen.
+<speaker>Aristobolus.</speaker>
+WEet t'arme Iootsche lanerT'was t'landt van beloften, t'werdt nu t'landt van vloeckinghe.EenMaackt Godt eennEennnnnT'volck ten been toe knaghen, en treden tot het splyten.Die belaghende t'volck (doort Goddelijck schicken)Zelve zullen vallen in huer eyghen stricken.Zo wonderlijck heeft Godt al de zaken verwert.T'hooft haar opentlijck t'lijf: t'lijf haat zijn hooft binnent hert,Afgheslooft door verdriet, nu zo lanDat het nieu ghierighlijck na veranderinghe pooght.De grote Cadetten zijn oock nydelijck twistigh.Die elck tot zijn zyde t'blinde volck trecken listigh.Tweedracht verderft.nDe macht moet hier verDatter is tusschen t'hooft, lijf, kleyn en grote leden.O verderf van menschen, Landen ende Steden.
+        </div>
+      <div type="scene">
+            Derde handeling. Daar men t'schijn-quaadt verjaaght, en t'quaadt houdt in der herten,Baart een vluchtighe lust veel langduyrighe smerten.Aristobolus.       Bode.ZYt willekom Bode: hoe spoedy zo gheringhen?
+<speaker>Bode.</speaker>
+Zoud' ick niet spoedennnDoor bode gheboodtschapt, dan ick nu boodtschappe.
+<speaker>Aristobolus.</speaker>
+Vertellet my.
+<speaker>Bode.</speaker>
+Neen heer, houdt my niet metten clappe.Ick moets den Koning zelf mondeling verkondighen.
+<speaker>Aristobolus.</speaker>
+Verhalet my int kort, ghy en zult niet zondighen.Want al gady opt hof, ghy blijft buyten de murenVan s'Conincx kamer. die komt niet uyt voor elf uren,En t'zijn daar eerst terstondt, neghen uren gheslaghen.
+<speaker>Bode.</speaker>
+Ist noch zo vroegh heer, zo wil icx u ghewaghen,Doch zo ick kortst magh. want spoedt beraamt denHoe dat veel vermaarde en moghende IodenAan hunluyder Landtvooght eendrachtelijck haddenDatmennnMetten ghedwonghen eer, en dienst van onze goden,Beeldtstormen.Door een muytersch rumoer onder t'kaf vanden volcke,Schitterende zo snel, als blixem inden wolckeVan d'een plaats in d'ander: zo datman eer vernam,Dat het al gheschiedt was, dan van waar dat het quam.Weynigh ongheacht volcx (noyt argher exempele)Wierpen al ons Goden uyt henluyder tempele.Daar zy voorts by hoopen stoutelijck in vergaarden,Met ver-reyckent gheweer en met scherpe zwaarden:Om teghen s'Konincx wet, haar wet daar te horenVan oproersche schalcken: die t'volck al te vorenHeymlijck hadden ghelockt met waarschynende woordenAan huer partydighe en weerspannighe koorden.Ancxt was by den rijcken. stilheydt by den vroeden,By denernZo onverzienDaar hebdy de zake metten kortsten ghehoort.Nu wil ick gaan mijn heer en beveel u Gode.
+<speaker>Aristobolus.</speaker>
+T'zijn zeltsame dinghen. gaat in vreden Bode.
+        </div>
+      <div type="scene">
+            Derde handeling. Dan volght spade berou, na de haastighe daadt,Daar men den goeden straf, niet den quadenIsrael.       Aristobolus.spade berou uyt haastighe daadt.Ick val vant quaadt in argher, uyten ketel int vier.dat my eerst gewin docht valt my schade int verDaar ick ernstlijck om badt werdt my eenDaar ick meest op hoopte vrees ick nu voor met beven.Daar ick my op verliet heeft my trouloos begheven.Helas op een broosch riet stoende mijn handt verdoort,Het riet brack aan stucken en heeft mijn handt doorboort.Ach ick ben bedroghen door mijn blinde wenschen,Vervloeckt is de mensch die betrout op menschen.Dit was (zo my ghedenckt) tot my u laatste reen,O had icx recht verstaan, ick waar niet in dit gheween.Ach t'hadde behouden zo menigh goedt mans hooft.Boven u raadt ghetrou heb ick anderen ghelooft.Die beloofden wonder en maackten my veel wijs.maar bovennDie den hoofden van een, en t'volck vandennIa hoofden van lyven, en fellijck daar met speelde,Oock met een groot deel volcx. d'ander ghinghen dryven,Zonder slagh, zonder stoot, als vertzaaghde wyven.Zo blijckt de trou zeltzaam by veel groote Hanssen.En t'volck is onzeker als de mommeschanssen.Wee mijns, wat rijcker roof, wat moorden grouwelijck,En wat ancxtigh vluchten zien mijn ooghen rouwelijckAant arme Ioodtsche volck. O waart noyt begonnen.Nu zie ick gheen
+<speaker>Aristobolus.</speaker>
+Als menschenernDiet hem maar toe betrout, al waar hy vanden boosten,Vanden boosten zondaars, die oyt leefden op Aarden.WannnnMaar hy ziet op haar noodt, boetvaardigh berouwen,Recht ootmoedigh bidden, en verkryghens betrouwen.Daarom O Israel, zo ghy u zelf recht mistrout,En ghy u ootmoedigh aan Gods beloften houdt,Dat hy zijn volck ter noodt nemmermeer zal verlaten:Zo weet ick noch een raadt die u ghewis zal baten.
+<speaker>Israel.</speaker>
+O Ia. dats al in my: zegt doch wat weet ghy voor raadt?
+<speaker>Aristobolus.</speaker>
+Men zalt Ghebedt zendennRust ghy haar te recht uyt, ghy zult na wensch verWeet ghy hier oock raadt toe. ick merck neemnZegt wat doet u bidden?
+<speaker>Israel.</speaker>
+Mijn recht bekende noodt.
+<speaker>Aristobolus.</speaker>
+Welck is die noodt?
+<speaker>Israel.</speaker>
+T'ghequel van mijn vyanden groot.
+<speaker>Aristobolus.</speaker>
+Haat ghy u vyanden?
+<speaker>Israel.</speaker>
+Bitterder dan die doodt,
+<speaker>Aristobolus.</speaker>
+Wat vyanden? diet lijf, of die de ziele wonden.Zijnt de Philistynen? of zijnt uwe zonden.
+<speaker>Israel.</speaker>
+Ick haat den Philistyns, die quellen mijn lijf en goet.
+<speaker>Aristobolus.</speaker>
+qualijck bidden.Houdy dan noch vrundtschap met Godes vyanden?Zo zeydt daar t'ghebedt niet want het werdt tot schandenMaar zegt. is Gods straf niet goet en rechtvaardigh?
+<speaker>Israel.</speaker>
+Ia.
+<speaker>Aristobolus.</speaker>
+Zijn u zonden quaadt en recht straffens waardigh.
+<speaker>Israel.</speaker>
+Zy zijn.
+<speaker>Aristobolus.</speaker>
+T'ghebedt is dan averechts en verkeert,Want ghy niet vant quaadt waar vant goedt verlossing begheert.Ghy begheert verlossing van Godes goede straf,Niet van u zonde quaadt, die en biddet ghy niet af.Dat Godt u vyanden uyt den Lande zou jaghenBidt ghy, maar Gods vyandt wildy int herte draghen.Houdy dan noch vrundtschap met Godes vyandenZo zendt daar t'ghebedt niet want het werdt tot schandenZegt noch: weet ghy niet wel dat Godes straffinghe leert?
+<speaker>Israel.</speaker>
+Ghewis.
+<speaker>Aristobolus.</speaker>
+Ist niet zijn straf die u nu quellijck deert?
+<speaker>Israel.</speaker>
+Tis.
+<speaker>Aristobolus.</speaker>
+Hebdy die straf lief?
+<speaker>Israel.</speaker>
+Neen, maar leedt boven al.Mijn zonden zijn honich by straffens bittere gal.
+<speaker>Aristobolus.</speaker>
+O mensch, u zonden quaadt, zijn u een verblydinghe.En ghy haat truerighlijck Gods goede kastydinghe.Zodanighe bidders werden van Godt niet verhoort.Ghy bemint u quaatheyd en haat Gods heylzaamHoudy dan noch vrundtschap met Godes vyanden,Zo zendt daar t'ghebedt niet want het werdt tot schandenAntwoordt noch. vreest ghy niet schade in rijckdoms doornen?
+<speaker>Israel.</speaker>
+Ia.
+<speaker>Aristobolus.</speaker>
+Veel meer dan ghy vreest des lieven Gods vertoornen?
+<speaker>Israel.</speaker>
+Zo ist.
+<speaker>Aristobolus.</speaker>
+Moght ghy aan den Philistijns u leedt smertighNa lust wreken
+<speaker>Israel.</speaker>
+Neen.
+<speaker>Aristobolus.</speaker>
+Moght ghy verkryghennHoghe macht, vele ghelts, met wellust der buycken:Zoudt ghy u door alzulcx niet zaligher vermoeden,Dan doort verkryghenn
+<speaker>Israel.</speaker>
+Wat wildy dat ick zegghe?
+<speaker>Aristobolus.</speaker>
+Gheen loghen, maar waarheydt.Ghy vreest den Here niet, is dat een kleyne zwaarheydt?Dat ghy van Gode bidt, in s'herten onrustigheydt,Streckt om t'verkreghen te verdoen in wellustigheydt.Oock zijt ghy wraackghierigh ende betrout in node,Op Godes vyanden u Afgoden snode.Houdy dan noch vrundtschap met Godes vyanden,Zo zendt daar t'ghebedt niet, wann
+<speaker>Israel.</speaker>
+Wat schaadt het ghebedt doch tot eenigher stonde?
+<speaker>Aristobolus.</speaker>
+Een herteloos ghebedt spot met Godt en is zonde.Het bidt en begheert niet zijn beed' te verwerven.T'middel daar God door geeft, wildy niet, dat is stervenSterven van eyghen wil en van u blindt verkiezen.Ghy wilt dueghts loon winnen, maar t'quaadt zelf, niet verliezen.
+<speaker>Israel.</speaker>
+Is dit u zegghen recht, zo en zal niemandt beden.
+<speaker>Aristobolus.</speaker>
+Hoe dat?
+<speaker>Israel.</speaker>
+Eer wy goedt zijn, zijn wy al vól quaadtheden.Die vol quaadtheden is, is met Gods vyanden vrundt.NiemanDe vrundt der zondennnnOm van zynen vrunden te moghen zijn verlost.Is dit waar: zo moet ghy het beden oock af raden.En zegghen dat niemandt verlost werdt vande quaden.
+<speaker>Aristobolus.</speaker>
+Men magh t'quaadt hebben en minnennMen magh t'quaadt oock hebbenDie t'quaadt noch hebben en dat niet en haten,En komt verlossings beed, niet een hayrken te baten.Wel bidden.nMet betrouwen biddet volherdigh vroegh en laat,Om verlost te werden van Gods vyanden quaadt,Vrundt is met de straf Gods, vyannnDes lydens zuyvering nemmermeer en versmaadt,Alzo hyt den middel van zijn ghenezing verstaat,Deze noch quaadt zijnde, bidt om goedt te werden,Laat af van zijn zonden, pleeght dueght met volherden,Ende verkrijght altijdt vande mildtheydt des Heren,Na wensch het begheerde, ja meer dan zijn begheren.Want op Gods vyanden is hy vyandelijck verstoort,Dus werdt oock zijn ghebedt altijdt met eeren verhoort.Maar ghy die t'oude quaadt altijt vanerEn u lieve boosheydt nemmermeer recht af veeght,Houdt alsnoch vrundtschappe met Godes vyanden,Dus zendt daar t'ghebedt niet, wann
+<speaker>Israel.</speaker>
+Ick meyn dat deze man my noch eens dol zal maken.Hy valt my hart teghens in alle myne zaken.Bidde ick qualijck als ick mynen zonden belye?V raadt mishaaght my noch, die stel ick aan d'een zye,Van t'Ghebedt naar u zin, cierlijck toe te rusten.Ick wil hier inne doen zoot my zelve zal lusten.T'ghebedt zal ick zenden onghepronckt ende slecht,Met kennisse van zonden. want dat Ghebedt is recht.
+<speaker>Aristobolus.</speaker>
+Waarlijck neen Israel, ick wil u niet verdullen.Maar zaagh u gaarn door wel biddenernEn eens recht vry werden van zonde met zijn quaden,Maar ghy vernnnDat zal u grootelijck, maar my gheenssins schaden.Vaart wel, bedenckt u bet, ick wijck die my versmaden.
+        </div>
+      <div type="scene">
+            Derde handeling. [Al b]elijdtmen zijn schuldt zonder recht leedtwezen,[T']helpt niet, oock t'ghebedt, niet zonder Godt te vrezen.Cogitatio vaga.       Israel.Qualijck te bidden.Dus maackte ick t'Gebedt ree, om ondernte stygennn[Ig]norantia vroom, en Audacia Godsvruchtigh.[Wa]nt wy bidden meest al t'gunt wy kennen noch weten.[En] by grote Heren moetmen schaamte vergheten.[Als] zy antwoorde heeft zal zyt komen zegghen.[Ick] koom helpen beden.
+<speaker>Israel.</speaker>
+Twyfel van verhoort te werden.
+<speaker>Cogitatio.</speaker>
+Of Godt ons bidden ghenadigh zal verhoren?
+<speaker>Israel.</speaker>
+Wat schaadt dat eenern[O H]eer.
+<speaker>Cogitatio.</speaker>
+Waart ghy de Heer, zo behoefder gheen smeken.
+<speaker>Israel.</speaker>
+Moght ick my zelf helpen, ick liet al t'bidden steken.Maar aant beden. O Heer wy hebben ghezondight.
+<speaker>Cogitatio.</speaker>
+Twyfel of Godt de werelt oock beheerschapt.n[Du]nckt u wel dat ghy oyt den godloos zo speeldeAls de Philistijnen? die leven in weelde,[On]ghestraft in voorspoedt, op des ghelucx baan effen.[Mo]st u onzalighe t'ongheluck alleen treffen?
+<speaker>Israel.</speaker>
+Zoudt wel ongheluck zijn, en niet Godes schickinghe?
+<speaker>Cogitatio.</speaker>
+[A]cht ghy Godt rechtvaardigh?
+<speaker>Israel.</speaker>
+Ia met verschrickinghe.
+<speaker>Cogitatio.</speaker>
+[Wa]art Gods werc (zo ghy meynt) hy plaaghde denn[De]n Heydens, den vreemden, den rechten godlozen.[En] zou u zijn volcke van plaghen bevryen.
+<speaker>Israel.</speaker>
+T'schijnt daaromn[Da]ar teghen die quaden ghenoeghelijck verblyen,[Die] bloeyen in eeren, weeldigh t'allen tyen.[Laa]t ons beden. O Heer wy hebben misdaan voor u,[En]de ons Heer ons Godt trouloos verlaten nu,
+<speaker>Cogitatio.</speaker>
+Waan dat Godt denn
+<speaker>Israel.</speaker>
+Neen wy verlieten Godt, door zonden, waart om haten
+<speaker>Cogitatio.</speaker>
+Neen zo niet. hadde Godt met twyflijcker trouwenOns niet eerst verlaten, maar by der handt ghehouwen?Nemmermeer waren wy door zonden afghevallen.Ey hoe schendtlijck verliep dat spel met ons allen.Wraackghierigheydt.Hoe bitter zouden wyt den Philistijns verghelden?
+<speaker>Israel.</speaker>
+Wel ter kuer. dat is noch mijn hooghste verlanghen.Wie weet wiens hondt noch eens den Haes zal vanghen?Bidt voorts. ende
+<speaker>Cogitatio.</speaker>
+Hadden wy hem ghedient te recht ende wysselijck,Wy waren nu niet arm, verdruckt en in rouwen,Maar haddenn
+<speaker>Israel.</speaker>
+Twyfel aan Godes goetheydt endeEn ons ter noodt verlaat.
+<speaker>Cogitatio.</speaker>
+Of ons Godt al zeker is?Die (zo ghezeydt is) liet u, eer ghy hem verliet.Wat gaf hy u oock oyt dan ellendigh verdriet?Betrouwen op rijckdom endeWaar gheeft God zulcx? die gheeft voor goudt schuym, voor koren kaf.Die gheeft pijnlijck ghebreck, het vervolghende kruys,Met droeve benautheydt binnen en buytens huys.
+<speaker>Israel.</speaker>
+T'schijnt warachtigh alzo. maar men moets nu niet denckenOnder t'biddennMet u menighfuldigh en wijtlopigh zwerven.
+<speaker>Cogitatio.</speaker>
+Ick help u voorderen tot des Ghebedts verwerven.Want ick doe u t'Ghebedt rechtgrondelijck verstaan.Zonder mijn berichting waart verloren werck ghedaan.Nu hebdy ghebeden met vernuftighe aandacht.Zegt. meyndy dat het Godt al verhoort ofte acht?
+<speaker>Israel.</speaker>
+Dat weet ick trouwennDie zal ons al zegghen wat zy heeft vernomen.
+        </div>
+      <div type="scene">
+            Derde handeling. Wie noch vrundtschappe houdt met Godes vyanden,Diens biddennnPrecatio.       Israel.       Cogitatio vaga.Beschaamtheydt uyt qualijck bidden.Te doen voor zijn oghen zo schandtlijcken verthoning.Fy. zo eerlozen zaack voor die Heerlickheydt godtlijckTe brenghen zo haastigh, zo lichtvaardigh, zo spotlijck?Wast u een lust om my zo leelijck te beschamen?Hey. dat ick u dolheydt moste ghehoorzamen.Noyt was ick zo schaamroot, noyt zo ancxtigh verbaast,Als ick nu gheweest ben door u onbedachten haast.Mijn leden beven noch alleen doort herdincken.O dacht ick, die nu moght inden Afgrondt verzincken,Zo haast op my zaghen Gods doorzichtighe oghen,Daar glinstrende vlammen toornighlijck uyt vloghen,En diet teffens merckten van boven tot onderen.Hadt ghy zijn stem schricklijck tot u horen donderen,Met strenghe redenen, en met waarheydt spytigh:Zijn trou, aan u ghethoont, verhalende verwytigh,Oock u ontrou godloos, en ondanckbaarheydt groot:Ghy waart van verschricken ghestorven de gaa doodt.Wie zijt ghy doch Israel, dat ghy vermetel en stout,Die Godlijcke hoogheydt zo schandtlijck verachtenMy en zuldy niet meer zo met beschaamtheydt schenden.Hebdyer weer te doen, ghy moght een ander zenden.
+<speaker>Israel.</speaker>
+Wat heeft God gheantwoordt? dat laat my eens horen.
+<speaker>Precatio.</speaker>
+Met gelijckmoedigheydt smeert (kondy) hert en ooren.Want ghy zult vernemen dat u gants niet en lust:Maar wel dat u ontrust, u, die vant quaadt doenEerst als ick had verthoont u belyding van zonden,Was die stracx in Godes alziende oghen bevonden,Zo woest, zo mistrouwigh, zo onreyn, zo schoffierigh,Zo vermetel, zo blindt, zo zot, zo wraackghierigh,Zo godtloos, zo vervloeckt, ende zo hovaardigh.Dat zy afgryslijc was voor Gods aanzicht eerwaardigh.Dit bewees niet alleen zijn ghelate verthoornt,maar oock zijn anerDoch scheent eerst dat Godt niet en zoude antwoorden.Wantmer maar belyding, gheen bidding in hoorden.Met al dat wild gheklap (sprack God) is niet ghebedenHy heeft maar herteloos zijn misdaadt beleden.Hoe wel my zijn meening naacktelijck staat open.Die streckt om de roede, niet zijn zonden te ontlopen.Qualijck bidden.Dat is, om onghestraft in weelden wilt te zwerven.Hy bidt om verandring van mijn goede nature,Dat ick niet lieven zou mijn eyghen schepsel dure.Hy bidt als of een zoon dien de vader recht straft,Om dat hy lastering van zijn vader hadt ghebaft,Tot zynen vader riep, met een lasterlijck smeken:O schelm, O dief, O moorder, vergheeft mijn ghebreken.So lastert my Israel door zijn straffings smerte,Midts onder zijn bidden in zijn godloos herte.Daar twyfelt hy of ick de werelt oock bestiere:Daar gloeyt wraackgierigheydt als root staal indenDaar acht hy mijn straffing voor onrechtvaardigheydt:En daar verDat hy verde boven my, het snode ghelt betrout,En menschelijcke macht grooter dan de myne houdt.Al dit schiet bedecktelijck int hert van dees quade zot,Daar, maar niet mettennnZijn monWie zagh doch van bidden oyt zulcken exempele.S'menschen ondanDie hoord' hy te eeren als zijn Heer ende behoeder.Hadde hy mijn hulpe trou, noch noyt te recht gesmaackt,Kleynder waar de misdaadt daar inne hy nu gheraackt.Nu hebben d'Egypters, d'Amorrheen, Amons kindren,Oock de Philistynen hem dickmaal willen hindren.Ia dees met andere, hebben hem voormaals verdruckt:Hy riep tot my, ick heb hem uyt haar handt gheruckt,Al dit vergat hy flucx, mijn weldaadt moght niet baten,My, zijn trouwe hulper, heeft hy trouloos verlaten:En vreemde Afgoden tot mijn verachting ghedient:Daarom oock en ben ick niet meer dien spotter vriendt.Ick wil gheen nieuwe hulp meer tot d'oude voeghen,Zo hy zond tot zond voeght, tot mijn onghenoeghen.Hoe dickmaal heb ick hem ter noodt heerlijck verlost?Ick holp hem als d'Afgodt hem niet helpen en kost.Moght mijn bevonden trou u oock niet ghetrou maken?Moght d'Afgods ontrouheydt, u niet hem doen verS'menschen zotheydt.Mistrout hy, en betrout die niemandt helpen magh.Ia die hem onthelpet, vernielt ende verderft.Is dat niet dollijck en verkeerdelijck gheswerft?Met zulcke verkeerden ben ick oock rechts verkeert,Gheef antwoort verkeerdlijck op huer verkeerde begeert.En zeg dat hy ter noodt nu magh gaan aanropenZijn eyghen Afgoden daar op hy plagh te hopen.Laat deze hem helpen uyt zijn druckigh gheschille,Zo zy moghen, ick hebs wel maght, maar gheen wille.Dit sprack Godt zo straflijck dat icker noch af grille,Ick stonEn ick magh oock zwyghen. want nu heb ik volzeydt.
+<speaker>Israel.</speaker>
+O strenghe antwoorde, O wanhopigh bescheydt.Gheen schepsel en heeft macht om mijn kommer te stelpenGodt alleen vermaght wel, maar hy wil my niet helpen.T'lyden wast, ick heb macht ende verstandt verloren.Wee mijns ellendighe, wat deed ick ye gheboren.Hy zijght in onmaght ter aarden, twee draghen hem binnen.Chorus iii.Stem: Psalm. xiii.WIe hier der wyzen raadt versmaadt,Betroort te laat zijn zotheydt quaadt,Als valsche lust werdt ware rouwe.Maar die zijn zin te buyten gaat,Gheniet des wijsheydts trouwe.De zot werdt op d'Overheydt gram,En merckt niet hoe t'onnozel Lam,Zijn boosheydts tyranny moet lyden.Dat hy als een verwoede RamIn zich fel gaat bestryden.Die t'hert noch vol Afgoden draaght,Yverigh d'Afgoden schijn belaaght,En d'Afgods beeldt rasch gaat vernielen:Eert d'Afgodt zelf noch onverjaaghtOpt Altaar zijnder zielen.Zulck klaaght vant lichaams dienstbaarheydt,Diens ziel noch vast ghebonden leydt,In slaverny onder die zonde.Ter zonden dienst ist hert bereydt,En dient Godt metten monde.Bruyckt Godt uyt liefden dan zijn Roe,Die zijn zy eer dan boosheydt moe,En bidden af des strafs ghenezen.T'quaadt minnen zy, dat neemt vast toe,En haten t'goedt met vrezen.Ist wonder dat de lieve GodtT'verkeert bidden van zulcken zot,Tot zijn verderf niet wil verhoren.Zo werdt meest elcx Ghebedt een spot,Die t'quaadt noch heeft verkoren.
+        </div>
+      <div type="scene">
+            De vierde handeling. Noodt zoeckt broodt, die zich stoot, opent zijn duyster ghezicht,Mistrout den loghenIsrael.       Aristobolus.MEnschen troost te derven in verdrietelijck lydenValt zwaar, al waard' hoop, vanernMistrostigheyt.Zonder alle hope van troost te verwerven?Ick ontbeer hopeloos troost van Godt ende menschen,Daar door de doodt vreeslijck mijn hoop is en wenschen.Om door een korte pijn de langhe af te weren,Werdt het onzighlicxste mijn wenschelijck begheren.Ick had lydens te veel in mijn goedt ende bloedt,Most dees vertwyfeltheydt noch quellenMost Godt noch weygheren zo spytigh ende straf?Ach, waar mijn moeders lijf my gheworden een graf.
+<speaker>Aristobolus.</speaker>
+Godt weyghert recht en wel, want ghy badet qualijck.
+<speaker>Israel.</speaker>
+O Aristobole, t'qualijck bidden betaal ick,Met schaamten en droefheydt zo ghy my propheteerde.Had ick u raadt ghevolght, ick had nu al t'begheerde.
+<speaker>Aristobolus.</speaker>
+Volght noch raadt.
+<speaker>Israel.</speaker>
+Neen leyder, dats nu al veel te laat.
+<speaker>Aristobolus.</speaker>
+Of ick u neen bewees?
+<speaker>Israel.</speaker>
+Ick volghde uwen raadt.Maar dats niet. veel te groot zijn mijn zondennEn de strenghe Here is my veel te rechtvaardigh.
+<speaker>Aristobolus.</speaker>
+Wien Godt barmhertigh is.
+<speaker>Israel.</speaker>
+Den goeden.
+<speaker>Aristobolus.</speaker>
+Oock quaden, die t'quaadt met smertigh leydt,Bekennen, betrueren, en haten in s'herten grondt.
+<speaker>Israel.</speaker>
+Alzulcx is in my niet.
+<speaker>Aristobolus.</speaker>
+Ghy verkryghet terstondt,Wildy maar verlaten den bril vant valsche oordeel.
+<speaker>Israel.</speaker>
+Die bril en doets my niet, dus waar dat gheenT'komt aan de strennWat helpet my, als ick sta in onghenaden?Vergheeft hy barmhertigh al der werlt misdadigh,Wat baats my, blijft hy my streng en onghenadigh?
+<speaker>Aristobolus.</speaker>
+T'zy nu zo ghenomen. zegt, gheschiedt u onrecht?
+<speaker>Israel.</speaker>
+Neen.
+<speaker>Aristobolus.</speaker>
+Ist nu al recht dat u lamp teghen den zon vecht?geschiedt u recht: waaromn
+<speaker>Israel.</speaker>
+Bittere straf streckt tot zoete ghenezinghe.nnn
+<speaker>Aristobolus.</speaker>
+Ia voor een tijdt, recht als het smertighe korozijf,In vervuylde zeeren tot ghenezinghe vant lijf.Zo valt die scherpe straf der zielen vuyle wonden,Oock zuyvering bitter vande veroude zonden,Dit lijdt mensch troostelijck zonder doodt te vrezen.Godt straft niet om doden, maar om te ghenezen.
+<speaker>Israel.</speaker>
+Dat is u ghevoelen, maar ick houdts anders te zijn.
+<speaker>Aristobolus.</speaker>
+Dats om dat u oordeel recht anders is dant mijn.
+<speaker>Israel.</speaker>
+Verlossinghe vant valsche oordeel.
+<speaker>Aristobolus.</speaker>
+Wist ghy ghewis, door die zekere waarheydt,dat u oordeel valsch waar, en het mijn recht vol klaarheytZoudt ghy niet willighlijck met my hier in ghevoelen?
+<speaker>Israel.</speaker>
+Ia.
+<speaker>Aristobolus.</speaker>
+Ghy hebt int dienen van u Afgodsche boelenV oordeel naghevolght in allen tallen stonden.Zegt hebdyt warachtigh ofte valsch bevonden?
+<speaker>Israel.</speaker>
+Valsch in allenn
+<speaker>Aristobolus.</speaker>
+Is mijn oordeel altijdt teghen u oordeel gheweest?
+<speaker>Israel.</speaker>
+Tis. had ick dat gevolght, ick laagh dus niet vern
+<speaker>Aristobolus.</speaker>
+Wat let u nu dan mijn recht oordeel te gheloven.Werpt wech het valsch oordeel dat Godt u wil vernielen.Ghelooft dat hy zuyvert het onreyn uwer zielen.En dat hy doodt de zonde in u hert noch verheven,Om zijn heylighe dueght daar inne te doen leven.
+<speaker>Israel.</speaker>
+Zou dat wel moghen zijn?
+<speaker>Aristobolus.</speaker>
+Tis zo ick u vermaan.Wildyt zelf zeker zijn, zelf weten en zelf verstaan?Verlaat u valsch oordeel dat u stadelijck bedrieght:En krijght een recht oordeel dat nemmermeer en lieght.Hoe zal dat te werck gaan? wie zalt my indrucken?
+<speaker>Aristobolus.</speaker>
+Treckt den bril van u nues, treedtse in duyzent stuckenEn zet dees weder op.
+<speaker>Israel.</speaker>
+Neen. tis al te fynen bril,Dan dat ick die zo haast aan stucken breken wil.
+<speaker>Aristobolus.</speaker>
+De fijnheydt van die bril zuldy haast mispryzen,Als de klaarheydt vanStelt dees eens opten nues.
+<speaker>Israel.</speaker>
+Achtneminghe ons doenT'schijnt nu al weer anders dant my scheen te voren.My dunckt dees bril t'ghezicht grootelijck zal stercken,Heeft zy eenigh name.
+<speaker>Aristobolus.</speaker>
+Ia, Wacker op merckenOp al u ghedachten woorden ende wercken,En op Gods doen met u. dit maackt wyze klercken.Kennis komt doort lichte Gods ende des menschen opmercken.Gants gheennWederom zal niemandt de waarheydt kennen moghen,Al stonnAl zaagh oock een Doctor ernstlijck in een open boeck,Hy leeft noch en verstaat, ist in een doncker hoeck.Zo komt dan de kennis door Godt en mensch te gaar,De mensch aanmerckt vlytigh, Godt schenckt hem zijn lichte klaar.Dat zal Gods ghenade voor u ooghen doen blincken,En u alle noodtdurft overvloedelijck schincken.Als eerst het ghelove, dadigh ende krachtigh,Dan voorts kennisse ghewis en warachtigh,Van Godt, van u zelve, van al dat ghy behoeft,VannOock mede een nieu hert, nieu wil, en nieuwe gheest,Daar door Godt den mensche volkomentlijck gheneest.Zonder welcke dinghen niet en werdt recht ghebeden.Dan zuldy recht bidden in gheest en in waarheden,Dan zal Godt mildt gheven al dat ghy kondt wenschen,Dan zuldy zaligh zijn boven den ghemeen menschen,En dan zuldy mijns raadts wel moghen ontberen.Want dan zal v raden de wyze gheest des Heren.
+<speaker>Israel.</speaker>
+Zelfs kenMijn licht ghelovigheydt, en t'bedrogh vande loghen.Fy mijns. hoe blindelijck heeft my die bedroghen.Hoe heb ick zijn valscheydt zo lang gheloven moghen?Vandt ick niet ontwyflijck met smerten t'alder uren,dat mijn ziel met waar leedt zijn valsch lief most bezuren?Zijn leedt blijft stadelijck, zijn lief als een pijl vervliet.Hy beloofde my vrueghde en gaf bitter verdriet.Hy beloofde my weelde en gaf jammer ellendigh.Ongheloof vande loghennIn zijn strick bedrieghlijck door zijn arghe listigheydt.Van dit valsche oordeel, oorzaack van mijn twistigheydt.Zal my dan dit bedrogh noch langher verklicken?GheennEy godloos Achazib ghy bracht my in schanden,waardy, o schelm, nu hier, ick schuerde u met mijn tandenGhy schalcke verleyder, listighe bedrieghere,Dubbelde hypocrijt en zeer valsche lieghere,Ach in wat ellenden ben ick door u gheraackt.
+<speaker>Aristobolus.</speaker>
+Adieu Israel, ick ga, ziet dat ghy vlytigh waackt.
+<speaker>Israel.</speaker>
+O Aristobole, zoudy my nu verlaten?
+<speaker>Aristobolus.</speaker>
+Mijn blyven magh letten, en u gheenssins baten.Ick heb zulcke tekens in u al vernomen,Dat wyzer raadt dan ick, u haast by zal komen.Gods troost blijft buytennnvaart wel man
+        </div>
+      <div type="scene">
+            De vierde handeling. Die zijn quaatheydt recht weet en ghelovigh verstaat,Gods goedtheydt leert bidden om verlossing vanIsrael.       Iohanna. met een gulden zonne in d'een handt.       Cognitio vera.MOst die trouwe raadtsman my dan oock beswijckenIn deze hooghste noodt, nu ick ellendelijckenVan Godt ben verlatennZo gheheel machteloos zonder alle verstandt?Zeker zo ick, als voor, zijn raadt niet wilde volghen,T'moght schynenerMaar nu ben ick zijns raadts zo hertelijcken begherigh.Dit weet hy, en is noch van my zo heel afkerigh.Godt weyghert my bystandt, de mensch wil niet helpenEn ick magh zelf gants niet om mijn kommer te stelpen.Veroordelinghe zyns zelfs.Maar wat ist? Godt doet recht. ick verIck heb Godt verlaten en den mensch gheaankleeft:Ist dan onbehoorlijck dat my Godt en mensch begheeft?Kennisse zyns noodts.nerVoor wacht my t'leyde kruys, al mijnder lusten doodt.Mijns herten onghenoeghen lijdt niet dat ick hier ruste.En t'voortgaan is zwangher met doodtlijcker onluste.Of ick noch al met ernst bestondt voorwaarts te gaan.Kennisse vannBlijf ick staan, my honghert op dees verdorde weyden:Ga ick voort, ick dool meer, ick kan my zelf niet leyden.Blijf ick, de felle wolf zal my hier eenzaam verslinden,Ga ick dan voort, ick val inden grachte der blinden.Rondtsomme verschrickt my het ancxtigh beduchten,Daar toe ick niet kan doen dan met herten verzuchten.
+<speaker>Iohanna.</speaker>
+Even zo weynigh als die al-vervullende luchtHet ydel ledigh laat, maar vervult dat metter vlucht:Wien Gods ghenade werdt gheschonIn dorre droogheydt laat, maar bevochtighet al:Ende zo weynich als die stralen der zonnenEen open doncker huys, doncker laten konnen,Maar moetenernAls daar opening is, al waart maar door een spleet:So weynigh vermagh ick dat ick van troost ledigh laatDen mistroostighen mensch, leegh van quade toeverlaat.So weynigh vermagh ick, niet te bedouwen spoedigh,Metten hemelschen douw een dor herte ootmoedigh,En zo weynigh magh ick laten Gods licht te toghenDen recht armen van gheest blindt in huer zelfs oghen.Israel is leegh van waan, die heeft hy zo verschoven,Dat hy den loghen valsch niet meer en magh gheloven.Hy is recht ootmoedigh en by hem zelfs zo zot,Dat hy zich kan buyghen onder den hoogh wyzen Godt.Nu ick hem zo bequaam heb konnen bespieden,Moet ick hem mildelijck Gods gaven aanbieden,Wat gheldet hy zal die begheerlijck ontfanghen.Godt groet u Israel, Godt boet u verlanghenMet zijn troost, met zijn hulp, met zijn rijcke goedtheydt,
+<speaker>Israel.</speaker>
+Noyt mijn daghen voelde ick in mijn ziel zulcke zoetheydtAls die minlijcke groet, daar nu in heeft ghebaart.Wie zydy? waan komdy? zegt edel Princesse waart.Ick ken u niet altoos: wat doet u my verzoecken,Met u Hemelsch licht in dees duystere hoecken?
+<speaker>Iohanna.</speaker>
+Ghy zijt een Hebreeusch man, mijn naam is Iohanna,Nu weet ghy wie ick ben, des ick oock daar van // gaOm u te verklaren van waar ick ben ghekomen.Ick koom stracx van Gode met gaven uytghenomen,Om u hier ligghende int wanhopigh verdomen,Lieflijck te vertroosten van u ancxtigh schromen,En met dueght vervullen, na u quaadtheydts vernielen,
+<speaker>Israel.</speaker>
+O zoete Medecijn der ellendigher zielen.In my is doch niet goedts, hoe naamdy hier u ganghen?
+<speaker>Iohanna.</speaker>
+Ick koom om te gheven, niet om te ontfanghen.In u zagh ick maar zonde, en recht bekende noodt,En haaste my t'uwaarts, doe ghy van u zelven vloodt.Om u toevlucht te zijn, doe ghy niet wist waar vlieden.Zegt. wat bracht u in noodt?
+<speaker>Israel.</speaker>
+Verwaantheydt brengt in noodt.Maar meest mijn verwaantheyt, die de loghenT'welck mijns herten ooren ter waarheydt zo verDat ick my van niemandt, hoe wijs oock, en liet raden.
+<speaker>Iohanna.</speaker>
+Zoudt ghy nu de waarheydt oock willen versmaden.
+<speaker>Israel.</speaker>
+Neen.
+<speaker>Iohanna.</speaker>
+Godt is de waarheydt.
+<speaker>Israel.</speaker>
+Aankomste des gheloofs.
+<speaker>Iohanna.</speaker>
+Gheloofdyt?
+<speaker>Israel.</speaker>
+Ia.
+<speaker>Iohanna.</speaker>
+Waar by?
+<speaker>Israel.</speaker>
+Zo lang ick my had ghebuyghtVoor Godt, en hem diende als mijn Heer en mijn hooft,Gaf hy my veel meer goedts dan hy my hadde belooft.Oock heb ick hem te recht na t'pleghen van mijn zonden,In zijn ghedreyghde straf warachtigh bevonden.
+<speaker>Iohanna.</speaker>
+Wildy Godt wel weder ghelooven met betrouwen?Zijn zoete beloften zo wel warachtigh houwen,Als zijn straffe dreyghing? en alleen op hem bouwen?
+<speaker>Israel.</speaker>
+Godt zo te betrouwen is my gants onmoghelijck.
+<speaker>Iohanna.</speaker>
+Oft Godt wilde gheven?
+<speaker>Israel.</speaker>
+Ick dancke hem hoghelijck.O boodt Godt my dat aan, ick ontfingt begheerlijck.
+<speaker>Iohanna.</speaker>
+Daar ist. daar is zijn trou, des gheloofs gave heerlijck.Blijft Godt u Heer ghetrou ende dient hem eerlijck,Hy zal u bevryen van u jammeren deerlijck.
+<speaker>Israel.</speaker>
+Lof gaafrijcke miltheydt die my zonBegaaft met een kleynoodt zo dierbaar en waardigh.Dits een kostelijcke ring, zuyver en van louter goudt.
+<speaker>Iohanna.</speaker>
+Beschryving des gheloofs.ernDaar inne ist van aardt alst onverbrandelijck goudt.Oneyndtlijcke trouheydt beduydt des rincx rondigheydtHaar klare karbonckel dient tot wyze kondigheydt,In des nachts aanvechting duyster en vervaarlijck,Want zy licht int doncker als een sterre klaarlijck.Steeckt hem aan u vingher en wilt hem vlytigh wachtenHy is zo wonderlijck van wercking en krachten,Zo wel in dueght te doen als in verstandts betoghen,Dat ghy al t'verstaan goedt na wil wercken zult moghenNa dat ghy den quaden zult hebben verwonnen.Doch behoeft daar meer toe, dat Godt u al zal jonnen,Zo ghy hier in trou zijt en blijft in Godes Wet.
+<speaker>Israel.</speaker>
+Hoe zal icx al kryghen?
+<speaker>Iohanna.</speaker>
+Doort ghelovigh Ghebedt.Daar eyscht oock meer toe.
+<speaker>Israel.</speaker>
+Wat?
+<speaker>Iohanna.</speaker>
+Kennis in waarheydt beproeft.
+<speaker>Israel.</speaker>
+Kennis van ghever, bidder, ende behoeft, nodigh om wel te bidden
+<speaker>Iohanna.</speaker>
+Van ghever, van bidder, en van behoeft.
+<speaker>Israel.</speaker>
+Hoe zal ickt spoedelijcxt daar aan moghen raken?
+<speaker>Iohanna.</speaker>
+Hier staat Cognitio, die zalt u kondigh maken.
+<speaker>Israel.</speaker>
+Dat doet O vrundinne tot mynen voordeele.
+<speaker>Cognitio.</speaker>
+Gaarne. neemt die schalen van warachtigh oordeele.In d'een legt u zonden zwaar en menighfuldigh,Kennisse van onze quaadtheydt, oorzaack vanWant daar zy het quaadt zo strenghelijck verbiedt,Eyscht zy ware onschuldt, die hebdy gantselijck niet.En daar zijt goedt beveelt eyscht zy die edele dueght.Daar af ghy ydel zijt, maar vol quaadt al vander jueght,Dit doet dan diep zincken met nedre spoedigheydt,Kennisse ons ghebrecx, oorzaak vant begheren.Dan komt oock doort weten van alle dueghts ontberen,Onghenoeght en onrust, die baren t'goedts begheren,Meer danMet de wijsheydt heylzaam vannKennisse van onze quaadtheydt doet Gods goetheyt kennen.Dan zuldy klaar mercken, alst u zo voor oghen leydt,De heerlijcke glantse van Gods wijsheydt gheeert,Die u weyghert t'ghunt ghy tot u bederven begheert.Zijn minlijcke goedtheydt, die u zelf komt aanbiedenZijn heyl, die u zotheydt, als t'verderf, plagh te vlieden.Oock zijn macht oneyndtlijck, volbrenghende krachtighIn zijn volck, t'gunt daar toe zy zich kennen onmachtighGoedtwordennNamennnDit mooghdy onnnnT'verkryghen schaadt niemannWant het is een verlies van quaadtheydt schadelijck,Men zal biddenElck bidt dit voor hem zelf, oock voor zijn broedereWant dit verkryghen maackt elck verkrygher goedereDan hy eerst was. dit magh gheen mensch verquaden.Och of alle verlieten al t'ander blindt verkiezen,Welcx verkryghen meest arght en rust doet verliezen,Zy zouden alle tijdt het begheerde goedt verwerven,En Gods heylighe rust hier, en hier na beerven.Voor al Gods Rijck zoecken, wat.En zijn gherechtigheydt. Die huysvader wijs bedocht,Zoude u vant toewerpsel zo rijckelijck bezorghen:Dat onnodigh zou zijn te zorghen voor den morghen.Zo werptmen opten Heer de zorgh van alle zaken.Betrout zijn goetheydt wijs, die zal voor u waken.Die zalt al wel maken, u ghenoeghlijck voeden,En heel zorghvuldelijck voor alle quaadt behoeden.Dits de zalighe les, die wy u voorschryven.Dits Gods woordt. neemdyt aan, wildy daar in blyvenDaar mede een werden ende u maken ghewoen,Nemmermeer u eyghen, maar altijdt Gods wil te doen?
+<speaker>Israel.</speaker>
+O moght my dat werden, ick vindt boven mijn macht,Maar ghy eel maaghdekens Goddelijck van gheslacht,Hebt verstandt en macht, zo ick nu kan merckenMy dit te doen verstaan en dadelijck te wercken.GhelatenIck zal ledigh rusten, doet ghy in my u wille.Troost der zielenO zoete leringhen, zalighmakende zanghen,Die mijn ghewonde ziel met u zoetheydt minnighlijckZo lieflijck bedouwet, dat zy versmelt innighlijck,Door begheerten vuyrigh met zo hemelschen krachte,Dat mijn zin, mijn reden, mijn verstandt en ghedachte,Als nevel verdwynen voor der zonnen klaarheydt.Ia mijn leden zyghen door krachteloze swaarheydt.Ick moet.
+<speaker>Iohanna.</speaker>
+Wedergheboorte.Nu ist tijdt in zyn borst grondelijck te delven.Om hem te beroven van hem zelfs, t'zynder baten.Niet zonder zyn wille. want hy stondt ons ghelaten.Daar beneem ick hem met een ghenezende smerte,Zyn steenen hert, en gheef daar voor een vleeschen herte.D'eyghenwilligheydt hardt is nu uyt hem verloren.Een ghebooghzame wil is daar voor gheboren.Nu ist met dezen mensch al gheheel gewonnen,Al werdt zyn lijf oock stracx vander doodt verslonnen.Aart der kinderen Gods.Dien hy niet ancxtigh vreest, noch om zyn loon bemint.Maar hy lieft om goedtheydt zyn goedighe Vader,Met eennDoor ons beyder wercking in hem nu gheworden.Het waar nu al schier tijdt dat wy hem aanpordenOm den Heer te bidden, die bereydt is te ghevenDer zonden ware doodt, en een dueghden-rijck leven.
+<speaker>Israel.</speaker>
+Barmhertigh is o Godt met my u wanderinghe.Ick voel in mijn herte zulcken veranderinghe,Dat u Wet, dien ick eerst hate doort ontrusten,My nu zo wenschelijck is: dat myns herten lustenOnophoudelijck niet anders en bejaghen,Dan des Wets volbrenghenMaar om dat zy zo zoet is, licht en lustigh om draghen,Overmidts haar goedtheydts, en schoonheydts welbehaghen.
+<speaker>Cognitio.</speaker>
+Ghy zijt blyde Israel, zo waart ghy oock voortyden,Als Achazibs bedrogh u in droom dee verblyden.Waarheydt verzekert.
+<speaker>Israel.</speaker>
+Dat was enckel loghen, die magh men niet weten.Dits waarheydt diemen niet magh hebben met wanen.Ick waande des loghens bedrieghlijck vermanen,maar nu weet ick waarheydt doort ghevoel bevindelijck.
+<speaker>Cognitio.</speaker>
+Hebdyt van u zelve?
+<speaker>Israel.</speaker>
+O neen, zo blindelijckEn magh ick my zelve nu gheenssins meer beromen.VannnnVan u O lief Vader, u moet ick daar af dancken.Ghy vertroost den droeven, ghy gheneest den krancken,En ghy helpt den swacken u wille te volbringhen.Hadde ick macht na wil, ick dedet in allen dinghenNa u heylighe wil. maar nu aankleeft my t'quade.O waar ick daar af vry.
+<speaker>Cognitio.</speaker>
+Volght ghy onzen rade,Ghy krijght volkomen kracht om grondtlijck te verAl t'aanklevende quaadt, en swackheydt uwer zielen.T'quaadt hebdy van zelf, daar u ziel truerigh in sneeft.God is en heeft alleennMaar hy gheeft dat alleen diet recht bidt en begeerlijck.Wie recht bidt.In gheest en waarheydt bidt met verkryghennGod is geest en waarheyt. dit gheldt in zijn aanschouwenDoe ghy om verlossing baadt van u vleeschs vyanden,Badet ghy inden vleesch, t'Ghebedt werdt tot schanden.Ende door valsche waan, int oordeel bedroghen,Baadt ghy niet in waarheydt, maar in ontrouwe loghenMaar nu zalmennV hertelijck verzoeck voor zyn oghen doen draghen,Zo werdy na wensch van u Vader verhoort.
+<speaker>Israel.</speaker>
+Waar vind ick zulck Ghebedt? Zy komt hier rechte voort.Eer ghyt zelve verzint, zal zy u ghenaken,Zo haast u begheert zo vuyrigh zal blakenOm verlossing vant quaadt, dat in u ziel noch woont,Dat ghy u verdoemnis zo gants niet en verschoont,Dat ghy, bevrydt vant quaadt, eer dennDan dus quaadt blyvende den Hemele verwerven.Tot deze vuyrigheydt komdy eer en bequamer,Zo ghy gaat in u zelf, dats in u slaapkamer,Wtsluytende buyten al uwer zielen krachten,Alle tijtelijcke swervende ghedachten,Om met dees twee schalen aandachtigh toverweghen,Gods grote weldaden, en u ondanck daar teghen.Zo mooghdy schickelijck by gheschrifte stellen.T'verzoeck om verlossing van al dat u magh quellen.Mijn zuster zalt ghebedt totter zielen verquicken,Bequamelijck rusten, bereyden en schicken.Op dat eerwaardelijck v Ghebedts verthoning,Met vrucht magh gheschieden
+<speaker>Israel.</speaker>
+Zy is daar eens gheweest, maar werdt zo beschaamt,Dat ghyze zult vinden onwilligher dan ghyt raamt.
+<speaker>Cogitatio.</speaker>
+Zorght niet, zy werdt bereydt, zo eerlijck na t'betamenDat zy dees Legaatschap haar niet en zal schamen.
+<speaker>Israel.</speaker>
+Verkoren maaghdekenBelemmert mijn zin zo, dat ick nau zelf en weet,Hoe ende wat ick best aan den Heere zal beden.
+<speaker>Iohanna.</speaker>
+Mijn zuster Cognitio, zal met u binnen tredenEn t'Request bewerpen, niet en kan ontvluchtenHaar verstandighe pen, ghenaamt s'gheests verzuchten.Beschickt ghy haar t'papier van klare aandachtigheydt,Metten rouwighen inckt vander tranen klachtigheydt.Gaat te zamen binnen, ick zal t'Ghebedt hier beyden,Ende haar, als zy komt na t'betamen bereyden.
+        </div>
+      <div type="scene">
+            De vierde handeling. Vasten, Aalmis, met s'herten aandachtigheydt,Verzelschappen t'bidden in gheest en warachtigheydt.Precatio.       Iohanna.IBereydt zich tot bidden, en zal my weer als BodeSchicken, daar ick eenMaar want mijn eerbaarheydt voor nieuwe schaamte vreest.Zaagh ick gaarne voorhoedt. dat alleen zou vermoghenGods ghenade. die maackt jonstigh voor Gods oghen.O waar die te vinden.
+<speaker>Iohanna.</speaker>
+Den begheerlijcken voet.Loop ick begheerlijck eerst van zelf int ghemoedtZegt op Precatio wat is u begheren?
+<speaker>Precatio.</speaker>
+O Hemelsche Princes waardigh alder eren,Minlijcke troostersse der bedruckten menschenV te moghen spreken was mijns herten wenschen.
+<speaker>Iohanna.</speaker>
+Wat begheerdy?
+<speaker>Precatio.</speaker>
+De mensch die zich tot bidden bereydt,Zal my weder zenden voor die hoghe Maiesteyt.Daar heb ick noch onlancx zulcke schande behaalt,Dat ick vrees voor die reys.
+<speaker>Iohanna.</speaker>
+Neen vrundinne ghy dwaalt,Zulcke verandering is nu in Israels zaken,Dat ghy gheen zwarigheydt in die reys hoort te maken.Godes hooghwaardigheydt was hem voormaals onkondighOok zijn onwaardigheydt vol boosheyden zondigh:Dat maackte hem vermetel stout ende onbedacht.T'welck u onschuldelijck in die beschaamtheydt bracht.Des ghebedts toerustinghe.Hy kent oock ootmoedigh zijn zondelijck snootheydt.Dus zit neder by my. ick wil u zo toerusten,Dat ghy daar eerlijck komt en verwerft met lusten,Alle dat hy verzoeckt.
+<speaker>Precatio.</speaker>
+Al schickt ghy my schoon opt best,Dat en is niet ghenoegh. want een beter RequestMoster zijn dan
+<speaker>Iohanna.</speaker>
+Zorght niet. dat werdt ghestelt by mijn zuster Kennisse.Die bereydt oock voor u twee luchtighe wiecken,Het Vasten met Aalmis voor ghezonden en ziecken.Vasten.Maar oock doort heel leven tot ondueghts vertraghen.Niet van noodtdurftighe en ghezonde spyzen,Maar van zondenGod wil niet datmennMaar datmen de ziel sterckt, door quaey lusten te sterven.Daarom noemtmens vasten, dats in aanvechting vast, staat,Dit gheschiedt in stryders die manlijck onbelast, gaan,Of onghevelt blyven van beghering van hoogheydt,Rijckdom, eer, lijfs wellust, die smekelijck int oogh leydt.Zo datmen vrywilligh en standtvastigh kan vasten,Van overvloedt in spys of dranck (doodtlycke lasten)Oock van pracht in kleeding, in huysraadt, in woninghe,Die elck duyr bekostight tot hovaarts verthoninghe.Aalmis.Want zy deylt den armen, den overvloedt bespaart.Wie zyn buyck ydel vast om te vullen zyn kist,Is ghierigh en vast niet: maar die t'ghespaarde mist,En door liefden wtdeelt aan den rechten armen,Die vast. zulck ontfarmer zal Godt oock ontfarmen.Ende in zyn ghebreck beschencken rijckelijck.Deze twee wiecken, dan zullen ghelijckelijck,V licht ende snellijck voor den Heere draghen.
+<speaker>Precatio.</speaker>
+T'zyn wiecken die my badt, dan die eerste, behaghen.
+<speaker>Iohanna.</speaker>
+Voorts moet ick deze zack om u lichaam gorden.zacx omgorden, wat.In zyn eyghen ooghen en warachtigh oordeel.Als een ledighe zack magh hy t'zynen voordeel,Veel gaven ontfanghen vanden milden Gode,Die met dierbaar goeden vult zulcke zacken snode.Zonde hebben.nVan verleden zonden het ghestadigh aanschouwen.Die zal hem zyn snootheydt zo vast doen ghedincken,Dat hy zich niet verheft, maar stadigh neer moet zincken
+<speaker>Precatio.</speaker>
+Die rusting behaaght my, God gheef oock wieze begeckt.
+<speaker>Iohanna.</speaker>
+Asschen opt hooft wat.nMet kleyn verworpen stof en onnutte asschen.Zijn kleynheyt moet opt hooft tot vernT'vuyr vanernernDus dient d'asch opt voorhooft, tot ontdecking van zijn schanVerlating van quade ghewoonnWant zyn lusten dierlijck wilt hy stadigh vertreden.Zyn quade ghewoonerDe doode huyt is nut tot een nieu levens ghewoont.Een dode hondt zeydtmen dat niemandt meer en bijt.Ende des vyandts doodt heylight voor nieuwe strijdt.
+        </div>
+      <div type="scene">
+            De vierde handeling. Belyding van zonden, verwilliging inde straf,Met verkrijghens gheloof, bidden waarlijck dennCognitio.       Iohanna.       Israel.       Precatio.DE Request is ghemaackt, de wiecken zyn bereydt,T'ghebedt vinde ick vaardigh, nu dient niet lanDan dat wy de Request te zamen overlezen,Of daar in yet ghebreck of te veel moghte wezen.Believet u te doene?
+<speaker>Iohanna.</speaker>
+Neen. elck leest best zyn zelfs handt.
+<speaker>Cognitio.</speaker>
+Ick begin dan lezens, letter op met al t'verstandt.Request aan Gode.Der koninghen Koning der liefhebbers Vadere,Der bedroefden Trooster, der zonden verghevere.En der vernederden heerlijcke verhevere.Gheeft klaaghlijck te kennen met nedere ootmoedt,Met een ghebroken hert, met waar berou ende boet,Kennisse van onze quaadtheydt.Voormaals heyligh en goedt, daar na zondigh en quaadt:Quaadt door loghenMaar goedt door die schepping vanDie hem ghekroont hadde met loflijcke eerwaardigheyt,Die hy door onwyze en lustighe hooghvaardigheydt,Verschalckt zijnde verliet, in u ghebodts verachten,Daar door hy met al zijn (hem volghende) gheslachten,Ellendigh is gheraackt in s'doodts bedervenisse,Buyten u ghenade en rijcke ervenisse:Dat niet teghenstaande u milde goedigheydt,Kennisse vannBeloften ghenadigh hem hadde ghegheven,En hun (zo langhe zy u onderdanigh bleven)Voor allen jammeren trouwelijck heeft behoedt,Als Noe rechtvaardigh, voor d'al-smorende zondtvloedtDen gheliefden Iacob u ghehoorzaam jonghereMet zijn gheheele huys voor d'Egypsche honghere,Oock den Suppliant zelf voor des Meyrs verdrincken,Voor hongher, voor dorst, en voor t'vyandtlijck krincken,Dien ghy goedtlijck vergaaft veel grove mishandeling,Ondanckbaarlijck ghepleeght in zijn quade wandeling,Ia hem veyligh stelde als een vruchtbare plant,Inde vette weelde van dat beloofde Landt:Belydinghe van zonden.V heel verghetende metten Afgoden speelde,Waar door hy dan dickmaal u heylzaam straf lijdenDaar uyt hem u goetheydt, als hy maar riep, heeft verZo dat de Suppliant immers wel hadde behoortDanckbaarlijck te leven na u zalighmakend woordt,En gants te verlaten zijn zondighe weghen,Hy snode Suppliant, doende plat daar teghen,Zo gants weynigh dede dat u goedtheydt ghenoeghde,Dat hy tot de ouden oock nieuwe zonden voeghde,Verlatende zijn Godt, zijn trouwe hulp in noden,En vlytigh dienende onghetrouwe Afgoden,Zijnder handen maacxel, rechts of hy had ghezworen,V langmoedigheydt zacht, tot grouwelijcken toorn,Met vuyrigher hitten teghen hem te ontsteken.Veroordelinghe zijns zelves.Zo groot, zo lasterlijck, en zo menighfuldigh,Hem zelf te recht verstondt der verdoemenissen schuldigh.Den eeuwighen banne van u aanzicht rechtvaardigh,En allen ghenade ghehelijcken onwaardigh,Ia oock gants onwaardigh om immermeer te moghenMet Bede verschynen voor uwe goedtheydts oghen,Smertigh ghevoel.De bittere droefheydt en zware druck zijns herten,Doort ontberen uws woorts, der zielen verzoetsele,Die vander zonden draf en verkreegh gheen voedtsele,Maar honnnDaar de zondighe ziel gheenssins in magh rusten.Kennis vanndeZijn groot onvermoghen, zijn zotheydt, zijn behoeft,Oock zijn verkeert oordeel, oorzaak van al zijn quaden,Doort Hemelsche licht uwer milder ghenaden,Die met haar bracht kennis vannnOock vannKennis van Godes milde goedtheydt.V om hulp te bidden, al die hulpeloos dolen,Zonder u Majesteyts beloften te verzwyghen,Dat de ghelovigh bidder ghewis zal verkryghen,Vermaanndat voor open staat, en hem nu niet meer is doof:Als hy bidt naar u wil, die niet en wil bederven,Den bekeerden zondar, maar hem t'leven doen erven.overghevinghe onzes zelfs, onder Gods handt.Dat hy ghezondight heeft grouwelijck en zwaarlijck,T'welck hy voor u belijdt met zulck grondigh leedtwezenDat hy d'eeuwighe doodt veel min zoude vrezen,Dan langher te blyven een slave der zonden:Als die dit onrecht, de straf zo recht heeft bevonden,Dat hy zich vrywilligh met een lijdzaam ghedult,GhelatenerZegghende ghelaten met troostloos berouwen,Ghy zijt de Heer, doet dat goedt is in u aanschouwen,Macht, ghelaten herte, dat nu diep in ootmoedt is,V niet behaghen, doet dat in u oghen goedt is,Hy wilt willigh lyden, en ghelijckmoedigh draghen.Hate der zonden.Dat over u maacxel vreemde en quade HeerenWyze vanVerschijnt de Suppliant gheheel ootmoedelijck,Wt d'alder diepste noodt, begheerlijck, en spoedelijck,Voor u oghen Godtlijck, ghenadigh en open:Betrouwen van verhoort werden.Van verhoort te werden in zijn schamele bede,Door kondt van u miltheydt en zyn ellendighede.Die hem vast verzekert inder ghenaden klaarheydt,Dat u goedtheydt, u lieft, u zekere waarheydtNiet moghen weygheren het bidden met smerte,Wien God niet en weyghert.Dat met vast betrouwen u beloften aanschout,Al zijn eyghen vermoghen volkomentlijck mistrout,Zich zelf, en de zonde recht vyandelijck haat,Goedtwilligh na der dueght uyt rechter liefden staat,En lust heeft om leven na u Ghebodt eendrachtigh.Al t'welck de Suppliant in zich ziende warachtigh,Verzoeckt nu hertelijck zonder eenigh ophouwenWt gheheelder zielen, met ontwyfelijck betrouwen,En troostelijck vermaan van u beloften ghenadigh,Dat u doch ghelieve O Koning goedtdadigh,Barmhertigh, zoet, minlijck, verbiddelijck, goedigh,Goedertiere, vrundtlijck, mildt, vol goedts overvloedigh,Hope der troostlozen, toevlucht der armen,Dien t'straffen niet lust, maar t'ghenadigh ontfarmen,Begheerte om vanOm hem maar te vryen van zijnder vyanden handt.Op dat hy zonder vrees, alle zijns levens tijdt,V, o Heer magh dienen, in heyligheydt met vlijt,Lust om Godt te dienen.Tot u zalighe dienst. dit doende zult wel doen. etc.
+<speaker>Iohanna.</speaker>
+Wat dunckt u Precatio? hoe bevalt u die Request?
+<speaker>Precatio.</speaker>
+Die is goedt. opt gheloof vanDie ootmoedighe bede en zal my niet beschamen.Wy kryghen ghewislijck Fiat, ja ende Amen.
+<speaker>Israel.</speaker>
+Spoedt u rasch heen ghebedt. haast u tot Gode,Want spoedighe hulp heeft mijn ziel van node.
+<speaker>Precatio.</speaker>
+Een goedt Medecijn haast om t'verlanghenIck gha my oock haesten met twee snelle wiecken,Om Israels verlanghen, dien ick hoop gheringhenTyding vant verkryghen zijns begherens te bringhen.
+        </div>
+      <div type="scene">
+            De vierde handeling. Als de boetvaardighe zyn quaadtheyt pijnlijck uytspout,Zuyvert hem des Lams bloedt dat ghenadelijck bedout.Cognitio.       Israel.       Iohanna.BiddenOpgheheven, waart ghy O Israel niet ledigh:Maar ghy streedt dapperlijck en verwont u vyanden,Wildy nu int bidden ledigh zyn van handen?
+<speaker>Israel.</speaker>
+Wat zal ick doen? kleyn is mijn verstandt en krachte.
+<speaker>Iohanna.</speaker>
+Doet dat ghy nu goedt weet, en vindt in u machte.Doen het goedt datmen verstaat en vermagh.Den quaden ghewoontenIa dat ghyze al teffens grondtlijck zoudt vernielen:Die macht vindy noch niet inden grondt uwer zielen.Zulck bestaan tenemaal, waar u zwackheydt noch te veel.maar mooghdyt int heel niet, bestaat en doet dat int deel.Bestaatse vry int deel te vernielen en moorden.Dat werdt hem groot afbreck. let wel op mijn woorden.NiemanZo is noch t'oude quaadt niet al uyt u ghedreven.Neen. tis daar met een huy niet al in ghekomen.T'werdt daar oock zo niet al teffens uytghenomen.Vleesche herte.Die haar buyght onder Godt in ghelatenheydt stille.Steenen herte.erVanVan dit versteende herts hardtneckighe dadenZydy verlost, maar niet gheheel van alle quaden.Daar zijn veel Afgoden noch in u hert verborghen,Die ghy al moet breken, vernielen en verworghen.
+<speaker>Israel.</speaker>
+Welck zijn die?
+<speaker>Cognitio.</speaker>
+Innerlijcke Afgoden.(Merckt hier doch vlytigh op, tis van grote zaken t'slot)Noch goedt waant, bemint, wilt, en met lustenGoede wille int alghemeen.Dat ghyt eer zoudt willen (vant doenAl laten, danMaar dits noch maar kennis, lieft en wil int alghemeen,Ende niet van elck ding int byzonder alleen.Allencxk[en] neemtmenInt styghen uyt minder in een meerder klaarheydt.Wildy nu klaarlijck zien hoe veelderley Afgoden,Lusten, toeverlaten, en by-troosten in noden,Welck de innerlijcke AfgodenIn verholen winckels uws herten tempel steken:Zo onderzoeckt u grondt, met aandachtigh zwyghen,Wat u zou verblyden, zo ghyt moght verkryghen,Oock wat bedroeven zou, zo ghyt moste derven.Wtghenomen alleen, dueghde te verwerven,En zond te verliezen, te laten, te sterven.Welcke vrueght en droefheydt zaligheydt doen erven.Want wat ghy buyten Godt na hoopt of voor vreest,Dat is een Afgoyken in u hert ende gheest.Laat ons dit alghemeyn int byzonder beproeven,En dat niet inde vruecht, maar alleen int bedroeven.Zegt: hebdy niet een trou, bedienstigh, een vrolijck wijf?
+<speaker>Israel.</speaker>
+Ia.
+<speaker>Cognitio.</speaker>
+Sterf zy, zoudy niet trueren, om dat ongherijf?
+<speaker>Israel.</speaker>
+Hertelijck.
+<speaker>Cognitio.</speaker>
+Dits dan een van u Afgoden quaadt,Die ghy buyten Godt lieft, zo heel boven de maat:Dat u het gheschieden van Godes wille goedt,Zo zeer zou bedroeven, in u onwijs ghemoedt:Dat ghy wel zoudt willen, dat niet Gods ghebieden,Maar u wil en bevel daar in moght gheschieden.Zo ist oock met lieve Ouders, vrunden en kinderen.Want naamze Godt wech, u bedroefde het minderen.Als dieze liever zoudt teghens Gods wille houwen,(Waart in u vermoghen) om t'vermyden van rouwen.Zo ist oock met u gheldt, eer, ghezontheydt en leven,Daar u hert buyten Godt noch bedeckt gaat aankleven.Al hoe wel nu u hert int gheheel staat gheboghenOnder Godt: zo dat ghy den doodt liever zoudt doghen,Dan willens en wetens yet teghen zyn wille doen:Zo kondy nu nochtans hier by klaarlijcken bevroenDat elck deel noch ontbreeckt veel ghelaten stilligheydt,Door onverstandigheydt, niet door quaadtwilligheydt.Al magh u goede wil int gheheel niet vereelen,Daar ghebreeckt noch veel aan in elck vanden deelen.
+<speaker>Israel.</speaker>
+Mijn onverstandt (daar van my de Heer moet bevryen)Hielt die dinghen voorzeydt niet voor Afgoderyen,Maar voor gheneghenheydt, gants onverliezelijck.
+<speaker>Cognitio.</speaker>
+T'komt uyt onverstandt en valsch oordeel verkiezelijck.Twelck noch ghelaten heeft in u ghemoedt onverzocht,Veel valsche opinien, dien t'quaadt goedt heeft ghedocht.EndeDie t'goedt ghewaande quaadt, doen begherennEn t'quaadt ghewaande goedt, ancxtelijck doen vlieden:Waarheydt maackt vry van valsche wanen.Met al huer wortelen. want blyven die inde grondt,Nimmermeer werdt u hert reyn daar af en recht ghezon
+<speaker>Israel.</speaker>
+O waar mijn hert bevrijdt van al mijn blinde wanen,Zo waar mijn trueren wech met veel onnutte tranen.Valsche waan is droefheydts moeder.Hoe werdtmenn
+<speaker>Cognitio.</speaker>
+Mijn zuster Iohanna heeft in plaats van een tessche,Een dierbare drancke in een edele flessche:Hoe men van valsche wane verDien dranck zuldy terstondt begheerlijck inne drincken:Die door waarheydts kennisse vande dode werckenT'hert zuyvren zal: en tot dienst van Godt zo stercken,Dat ghy niet meer en leeft der menschen begheerlickheyt,Maar den wille Godes tot prijs van zijn heerlickheydt.Want zy drijft grondtlijck uyt al des herten boosheydt,Al de valsche wanen, ja de schalcke loosheydtVan alle de quade en smekende ghedachten.
+<speaker>Israel.</speaker>
+Dats voorwaar een dranck van wonderlijcke krachtenVan beter en heb ick nie mijn daghen ghelezen.Hoe is des drancx name?
+<speaker>Cognitio.</speaker>
+Der zielen ghenezen.
+<speaker>Israel.</speaker>
+Waar af is zy ghemaackt?
+<speaker>Cognitio.</speaker>
+T'bloedt Christi der zielen ghenezen.Onschuldigh ghevloten uyt een Lammeken zoet,Godtlijck, heyligh, lijdzaam, onnozel en onbevleckt,Een volkomen offer voor al dat den mensch ghebreckt.Als hy dat inne drinckt, waardighlijck zoot behoort,
+<speaker>Israel.</speaker>
+Hoe gaat dat te wercke?
+<speaker>Cognitio.</speaker>
+Aldus. let wel op mijn woort.Waardelijck het bloedt Christi drincken.nnAls hy zijn lusten sterft, en willennAls de menmmDanmnAls de mensch onnozel het quade stadelijck mijdt,Godes, en der menschen doen gheduldelijcken lijdt,Volght hyt Lam inden doodt en werdt ganVant quade, zo drincktmennEn zo komtmen te recht aan der zielen ghezondtheydt.Na diennnEn ghy nu middel hebt om die te verdryven:Zo spoedt u flucx aant werck, laatter niet een in blyven.Haast u die te breken, te stormen, te vernielen,Wt den Tempel Godes, t'inwendighe uwer zielen.Dit doet nu, dit mooghdy, doort behulpt van den dranckHy drinctnZullen uyt u ruymen al die quade humoren.Zuyverheydt zal komen binnen u s'herten doren.Dan zuldy uwen Godt inder waarheydt aanschouwen.Die zal zelve komen zyn waarschap in u houwen.En stadelijck wonen, tot elcx goedt exempele,Met alle zyn schatten, in u s'herten tempele.
+<speaker>Israel.</speaker>
+Moght dat ghebueren my, o moght dat ghebuerenZo waar ick ghenezen en van alle trueren, vry.Ick heb eenen goeden dronck begheerlijck in ghedronckenDie my u zustere vol in hadde gheschoncken.Inden mondt gaft een smaack lievelijck ende zoet,Maar binnen mijn herte vallet bitter als roet.Daar weilet, daar ziedet, het bijt, het schuymt, het wroet,En roert al t'herte om t'verstoort al mijn ghemoedt.Recht als werckende wijn, t'vat aan allen kanten perst.Die dranEen stanck stijght in mijn keel, daar af ick moet grouwenHelpt doch, en houdt my t'hooft, ick moet berstenn
+<speaker>Cognitio.</speaker>
+Hy braket.Ruymt hier doort ingaan van die reyne dranck pryzelijck.Ziet daar zyn gheheele, daar halve Afgoykens:Daar armen, daar beenen, en daar halzen met hoykens.Recht beeldtstormen.Fy wat kruypen hier al opinieuze wormen.Wonder ist, dat zy hem t'hert niet af en staken.Daar t'hert een woning is van fenynighe draken,De Godloze heeft gheen vrede.Hoe maght een oghenblick met ghenoeghen rusten.
+<speaker>Israel.</speaker>
+Och, och, hoe ban
+<speaker>Cognitio.</speaker>
+T'quade ruymt met pyne.nZyt ghetroost Israel: ick zie u zaack ghewonnen.Gheen medecijn en zoude beter wercken konnen,Dan dees dranck in u werckt. zo ghy zelf voor oghen ziet.Daar de mensch het zyn doet en verGhy hebt u best ghedaannEn door s'drancx innemen uyt al u s'herten palenAls de mensch t'zyn doet verzuymt God zyn werck niet.En wandelt zo doende in des Heren gheboden:Zo int laten vant quaadt, dats u zot begheren,Als int goedt doen, leven na den wil des Heren:Godt zal oock niet laten u goede wil te stercken,Om na wil het goede dadelijck te wercken.Al zydy nu noch swack, de krachte zal komen,Zo ghewis als ghy dees quaadt-ruyming hebt verValsche ghenezinghe.Ghestadelijck blyven, met zyn truerighe smerte:MakenDat zy ghenezen zyn, al blijft de zieckt inde grondt.Ware ghenezinghe.Die gheneest de ziele doort uytdryven der zonden:En versterckt den zwacken door zyn gheest warachtigh,Dat zy moghen na wil, int ghelove krachtigh.
+<speaker>Israel.</speaker>
+Mijn hert is slap, mijn mondt heeft een bittere smaack,mijn hooft draayt, t'oogh schemert, ick weet zelf nau wat ick maack.
+<speaker>Iohanna.</speaker>
+Zuyveringhe.Reynight ghy nu den mondt met die Alzem, wijn.
+<speaker>Israel.</speaker>
+Die wijn is zo bitter, rechts of zy al vol roet, hing.
+<speaker>Iohanna.</speaker>
+T'bitter zuyvert grondigh. neemt nu de verzoeting,Verzachtinghe.Dat Cristallynigh vliet uyt des levens fonteyn.Dit verzoet alle bitter, lieflijck in allen sticken,En doet het swacke hert zoetelijck verquicken.
+<speaker>Israel.</speaker>
+Ick danck u Princessen van u hulp gherievelijck,S'geests vertroostinghe.Zo edel, zo krachtigh, zo honich zoet, en zo klaar,En dranck ick mijn daghen, dat weet ick nu voorwaar.Het versterckt mijn herte, het verblijdt mijn zinnen,Het verzoet mondt en keel, en doet my waarlijck kinnen,dat al des vleesches wellust (oorzaack vanBy die zoetheydt Hemelsch, niet is dan bittere gal.Dus zalt my licht vallen, die moeder alder klachten,Die smekende wellust, nu voorts aan te verachten?maar zegt komt daar niet gaan, met snelligheyt spoedighHet Ghebedt? ja zy ist, vrolijck en blymoedigh.
+        </div>
+      <div type="scene">
+            De vierde handeling. Zo bidtmen na Gods wil, zo werdt men altijdt verhoort,En zo krijght elck zijn wensch na Gods mildt belovende woordt.
+<speaker>Precatio.</speaker>
+Verhooringhe des Ghebedts.Heeft Godt goedtlijck vernNiet alleen quijtschelding van u zonden verleden,Maar oock vryheydt, van die noch heerschen in u leden,Volkomen verlossing heeft ons de Heer toeghezeydt:Wiens goedtheydt ghenadigh nu ontfarmt over u leydt.Dees mare, Evangelisch, dees vrolijcke tydinghe,Breng ick u blydelijck tot uwe verblydinghe.Zendt my vry, als ghy wilt, met zulck verGhy krijght al u wensch, en ick verzoeckt gants eerlijck.Hoe minlijck neyghde Godt zijn ooren aandachtigh:Hoe goedtlijck merckte hy op mynen woorden klachtigh:Hoe lieflijck, hoe vrundtlijck, hoe recht ghenadelijckWischte hy u zonden uyt: hoe heel goedtdadelijckLoofde hy u te vryen met zijn moghende ermen,Van al u vyanden, en voorts veyligh te beschermen.Ende dit al met ghelaat zo troostlijck tot my ghehelt,Dat doort zoet herdencken mijn hert noch van vrueghden smelt.
+<speaker>Israel.</speaker>
+Ondervindtlijcke kennGroot is mijn quaadtheydt, maar zijn goedtheydt al veel meer // is.Mijn quaatheyt zal verHoe vrundelijck is Godt? looft hem t'alder uren.Mijn ziel is zo vrolijck, ick magh my niet bedwinghen,Den barmhertighen Heer een Lof-sang te zinghen.Stem: Psalm. iii.LOf, prijs, roem, danck en eer,Zingt nu den groten Heer,Mijn ziel met al haar krachten.Zijn hoghe goedigheydtDaalt op d'ootmoedigheydt,Die troost van hem wil wachten.Zijn liefde mildt en zoetHaer meer tot gheven spoedt,Dan wy ons tot begheren.Zo ons t'verkryghen rust,Is hem t'schencken een lust,Zijn mildtheydt moet ick eren.Zijn mildtheydt eeuwigh groeyt,Zijn goedtheydt overvloeyt,Om haar te doen ghenieten.Hy is des dueghdts fonteyn,En spoort na daalkens kleyn,Daar in hy neer magh vlieten.Van niemandt hy ontfangt,Maar die na hem verlangt,Krijght al zijns herten wensche.Gheen schepsel was hem noodt,Wt weldoens luste bloot,Schiep hy den goeden mensche.Die heeft zijn Godt veracht,Zo heeft oock zijn gheslacht,Die daarom mosten sterven.Ons misdaadt was zeer groot,Wy laghen inden doodt,Int voorburgh vant verderven:Wy waren Gods vyandt,Als hy uyt liefden zandt,Den troost van zijn ghenaden:Wy konden bidden niet,Zijn hulp hy ons aan biedt,Eer wy daar oyt om baden.Hy zagh op ons ellendt,En maackte ons die bekent,Oock zijn mildtheydt gheprezen.Die schenckt met volle maat,Elck die t'ghebreck verstaat,En wil beschoncken wezen.T'ghebedt.Gheeft hy t'ghebedts beveel,En looft (om op te bouwen)Dat hy wil gheven al,Daar elck om bidden zal,Na zyn wil met betrouwen.Wien Godt zyn gaven gheeft.Boven t'vernuft verdooft,En die zijn woordt aanhoren.Hy schenckt den armen meest,Oock die hem lieflijck vreest,En die in schulden smoren.Die d'armen troostlijck gheeft,Diens oogh droef nat aankleeft,Diens ziel verdruckt moet zwerven,Die bidt met recht ootmoedt,Die t'quadt laat en doet goedt,Zal vast zyn beed' verwerven.Wil dan de milde GodtGheven, zo zyn GhebodtEn beloften doen blijcken:Zo gaan wy armen // alTot die ontfarmen // zalBeden ootmoedelijcken.Hy zal in volder kracht,Ons gheven wil en macht,En hem ghetrou bewyzen.Betrout zyn ware woordt,En bidt zo dat behoort,Ghy zult zijn goedtheydt pryzen.Dat heb ick ghezonghen uyt vuyrigher herten,Door bevonden troost na langduyrigher smerten.Helpt die goede Godt zo d'onwaardighen uyt noden,Wiens hert zou niet lusten te doen na zyn Gheboden?Tis t'hooghste verlanghen inden grondt mijnder zielen.O zaagh ick daar gantselijck mijn vyanden vernielen,Dat ick Godt moghte dienen van al t'quade bevrydt.
+<speaker>Cognitio.</speaker>
+T'zal werden, komt binnen, waackt, bidt, benaarstight met vlyt,Te blyven in Gods woordt, en wacht met ghedult denVan u verlossinghe, zo werdy haast heel verblijdt.Eynde.
+        </div>
+    </body>
+  </text>
+</TEI>

@@ -6,9 +6,9 @@ import lxml.html
 import pandas as pd
 import requests
 
-from jinja2 import Template
-
 from dracor_jinja2 import xml_template
+from jinja2 import Template
+from Levenshtein import distance
 from pprint import pprint
 
 # DBN download TEI-files.
@@ -18,21 +18,34 @@ LUCAS_AANLEVER = 'Inventarisatie_toneelstukken_DBNL.xlsx'
 
 DBNL_DIR = 'dbnl_xml'
 
+LEVENSTEIN_SPEAKER = 3
+
 if not os.path.isdir(DBNL_DIR):
     os.mkdir(DBNL_DIR)
+
+
+def escape( str_xml: str ):
+    str_xml = str_xml.replace("&", "&amp;")
+    str_xml = str_xml.replace("<", "&lt;")
+    str_xml = str_xml.replace(">", "&gt;")
+    str_xml = str_xml.replace("\"", "&quot;")
+    str_xml = str_xml.replace("'", "&apos;")
+    return str_xml
 
 
 def print_dracor_xml(data: dict) -> None:
     pprint(data)
     generated_xml = Template(xml_template).render(data=data)
     print(generated_xml)
+    with open(data.get('ti_id') + '_dracor.xml', 'w') as fh:
+        fh.write(generated_xml)
+
 
 
 def parse_dbnl_aanlever() -> list[dict] | None:
     if not os.path.isfile(DBNL_AANLEVER):
         print(f"Could not read '%s', missing file?" % DBNL_AANLEVER)
         return None
-
     try:
         df = pd.read_excel(DBNL_AANLEVER)
         wanted = json.loads(df.to_json())
@@ -101,22 +114,47 @@ def parse_lucas_aanlever(data: list[dict]) -> dict | None:
     return eratta
 
 
+
+def speaker_filter(speakerlist: set, newspeaker) -> set | tuple:
+    newspeaker = newspeaker.strip()
+    newspeaker = escape(newspeaker)
+    for speaker in speakerlist:
+        if distance(speaker, newspeaker) < 3:
+            print(f"Fusing '{newspeaker}' to '{speaker}'")
+            return newspeaker, speaker
+    speakerlist.add(newspeaker)
+    return speakerlist
+
+
 def parse_fulltext(data):
     rec = False
-    chapters = ['']
+    speakerlist = set()
+    chapters = []
+    alias = {}
     for item in data.iter():
         #print(item.tag, item.attrib, item.text)
+        if item.attrib.get('rend', '') == 'speaker':
+            if not escape(item.text.strip()) in speakerlist:
+                speakerinfo = speaker_filter(speakerlist, item.text)
+                if type(speakerinfo) == tuple:
+                    alias[speakerinfo[0]] = speakerinfo[1]
+                else:
+                    speakerlist = speakerinfo
         if item.tag == 'div':
             if item.attrib.get('type') == 'chapter':
                 rec = True
-                chapters += ['']
-        if rec and item.text:
-            chapters[-1] += item.text
-    return chapters
+                chapters.append('') 
+        if rec and item.text and item.text.strip():
+            if item.attrib.get('rend', '') == 'speaker':
+                chapters[-1] += '\n<speaker>' + escape(item.text) + '</speaker>\n'
+            else:
+                chapters[-1] += escape(item.text)
+    return chapters, speakerlist, alias
 
 data = parse_dbnl_aanlever()
 eratta = parse_lucas_aanlever(data)
 i=0
+
 for item in data:
     if item.get('ti_id') in eratta:
         currid = item.get('ti_id')
@@ -130,7 +168,7 @@ for item in data:
 
         with open(fname, 'r') as fh:
             fulltext = lxml.etree.fromstring(fh.read().encode('utf-8'))
-        merge['chapter'] = parse_fulltext(fulltext)
+        merge['chapter'], merge['speakerlist'], merge['alias'] = parse_fulltext(fulltext)
 
         for k in item:
             merge[k] = item.get(k)

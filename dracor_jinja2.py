@@ -2,7 +2,8 @@
 # https://jinja.palletsprojects.com/en/3.1.x/templates/
 
 xml_template = """<?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="{xml_id}" xml:lang="nl">
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="{{ data.get('ti_id') }}" xml:lang="nl">
   <fileDesc>
     <titleStmt>
       <title type="main">{{data.get('main_title')}}</title>
@@ -44,12 +45,11 @@ xml_template = """<?xml version="1.0" encoding="utf-8"?>
   <profileDesc>
     <particDesc>
       <listPerson>
-        <person xml:id="person-id" sex="m/f/u">
-          <persName>character name</persName>
+        {% for speaker in data.get('speakerlist') %}
+        <person xml:id="{{ speaker }}" sex="m/f/u">
+          <persName>{{ speaker }}</persName>
         </person>
-        <personGrp xml:id="group-id" sex="m/f/u">
-          <name>group name</name>
-        </personGrp>
+        {% endfor %}
         <listRelation type="type of relation">
           <relation name="" active="pers_1" passive="pers_2"/>
         </listRelation>
@@ -87,8 +87,9 @@ xml_template = """<?xml version="1.0" encoding="utf-8"?>
     </front>
     <body>
     {% for c in data.get('chapter') %}
-        {{ c }}
-
+        <div type="scene">
+            {{ c }}
+        </div>
     {% endfor %}
     </body>
   </text>
