@@ -125,7 +125,10 @@ def speaker_filter(speakerlist: set, newspeaker) -> set | tuple:
 
 
 def parse_fulltext(data):
+
     rec = False
+    srec = False
+
     speakerlist = set()
 
     chapters = []
@@ -136,7 +139,7 @@ def parse_fulltext(data):
 
     alias = {}
     ctype = ''
-    srec = False
+    nexupspeaker = False
 
 
     for item in data.iter():
@@ -159,13 +162,6 @@ def parse_fulltext(data):
                 else:
                     speakerlist = speakerinfo
 
-            '''
-            <l rend="speaker">
-            <hi rend="i">Rogier.</hi>
-            </l>
-
-            '''
-
         if item.tag == 'div':
             if item.attrib.get('type') == 'act':
                 rec = True
@@ -186,8 +182,8 @@ def parse_fulltext(data):
                 ctype = 'play'
                 plays = ['']
 
-        if rec and item.text and item.text.strip():
-            if item.attrib.get('rend', '') == 'speaker' and item.text:
+        if rec:
+            if item.text and item.attrib.get('rend', '') == 'speaker' and item.text.strip():
                 speak_xml = '\n<speaker>' + escape(item.text) + '</speaker>\n'
                 if ctype == 'chapter':
                    chapters[-1] += speak_xml
@@ -195,13 +191,20 @@ def parse_fulltext(data):
                    acts[-1] += speak_xml
                 if ctype == 'play':
                    plays[-1] += speak_xml
+            elif item.attrib.get('rend', '') == 'speaker':
+                nexupspeaker = True
+            elif nexupspeaker and item.text:
+                speak_xml = '\n<speaker>' + escape(item.text) + '</speaker>\n'
+                nexupspeaker = False
+
             else:
-                if ctype == 'chapter':
-                   chapters[-1] += escape(item.text)
-                if ctype == 'act':
-                   acts[-1] += escape(item.text)
-                if ctype == 'play':
-                   plays[-1] += escape(item.text)
+                if item.text:
+                    if ctype == 'chapter':
+                       chapters[-1] += escape(item.text)
+                    if ctype == 'act':
+                       acts[-1] += escape(item.text)
+                    if ctype == 'play':
+                       plays[-1] += escape(item.text)
 
 
     pprint(read_order)
