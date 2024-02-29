@@ -136,6 +136,7 @@ def parse_fulltext(data):
 
     alias = {}
     ctype = ''
+    srec = False
 
 
     for item in data.iter():
@@ -147,6 +148,23 @@ def parse_fulltext(data):
                     alias[speakerinfo[0]] = speakerinfo[1]
                 else:
                     speakerlist = speakerinfo
+        if item.attrib.get('rend', '') == 'speaker':
+            srec = True
+        if srec and item.text:
+            srec = False
+            if not escape(item.text.strip()) in speakerlist:
+                speakerinfo = speaker_filter(speakerlist, item.text)
+                if type(speakerinfo) == tuple:
+                    alias[speakerinfo[0]] = speakerinfo[1]
+                else:
+                    speakerlist = speakerinfo
+
+            '''
+            <l rend="speaker">
+            <hi rend="i">Rogier.</hi>
+            </l>
+
+            '''
 
         if item.tag == 'div':
             if item.attrib.get('type') == 'act':
@@ -169,7 +187,7 @@ def parse_fulltext(data):
                 plays = ['']
 
         if rec and item.text and item.text.strip():
-            if item.attrib.get('rend', '') == 'speaker':
+            if item.attrib.get('rend', '') == 'speaker' and item.text:
                 speak_xml = '\n<speaker>' + escape(item.text) + '</speaker>\n'
                 if ctype == 'chapter':
                    chapters[-1] += speak_xml
