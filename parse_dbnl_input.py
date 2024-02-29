@@ -1,15 +1,17 @@
 #!/usr/bin/env python3
 
-import os
 import json
+import os
+from pprint import pprint
+
 import lxml.html
 import pandas as pd
 import requests
-
-from dracor_jinja2 import xml_template
 from jinja2 import Template
 from Levenshtein import distance
-from pprint import pprint
+
+from dracor_jinja2 import xml_template
+from dracor_utils import escape
 
 # DBN download TEI-files.
 BASEURL = f'https://www.dbnl.org/nieuws/xml.php?id=%s'
@@ -27,26 +29,16 @@ if not os.path.isdir(DBNL_DIR):
 if not os.path.isdir(DRACOR_DIR):
     os.mkdir(DRACOR_DIR)
 
-def escape( str_xml: str ):
-    str_xml = str_xml.replace("&", "&amp;")
-    str_xml = str_xml.replace("<", "&lt;")
-    str_xml = str_xml.replace(">", "&gt;")
-    str_xml = str_xml.replace("\"", "&quot;")
-    str_xml = str_xml.replace("'", "&apos;")
-    return str_xml
-
 
 def print_dracor_xml(data: dict) -> None:
     pprint(data)
     generated_xml = Template(xml_template).render(data=data)
-
 
     # Output directory.
     fname = os.path.join(DRACOR_DIR, data.get('ti_id') + '_dracor.xml')
 
     with open(fname, 'w') as fh:
         fh.write(generated_xml)
-
 
 
 def parse_dbnl_aanlever() -> list[dict] | None:
@@ -121,7 +113,6 @@ def parse_lucas_aanlever(data: list[dict]) -> dict | None:
     return eratta
 
 
-
 def speaker_filter(speakerlist: set, newspeaker) -> set | tuple:
     newspeaker = newspeaker.strip()
     newspeaker = escape(newspeaker)
@@ -136,10 +127,19 @@ def speaker_filter(speakerlist: set, newspeaker) -> set | tuple:
 def parse_fulltext(data):
     rec = False
     speakerlist = set()
+
     chapters = []
+    acts = []
+    plays = []
+
+    read_order = []
+
     alias = {}
+    ctype = ''
+
+
     for item in data.iter():
-        #print(item.tag, item.attrib, item.text)
+
         if item.attrib.get('rend', '') == 'speaker' and item.text:
             if not escape(item.text.strip()) in speakerlist:
                 speakerinfo = speaker_filter(speakerlist, item.text)
@@ -147,26 +147,54 @@ def parse_fulltext(data):
                     alias[speakerinfo[0]] = speakerinfo[1]
                 else:
                     speakerlist = speakerinfo
+
         if item.tag == 'div':
             if item.attrib.get('type') == 'act':
                 rec = True
-                chapters.append('') 
+                if acts:
+                    read_order.append({'act': acts})
+                acts = ['']
+                ctype = 'act'
             if item.attrib.get('type') == 'chapter':
                 rec = True
-                chapters.append('') 
+                if chapters:
+                    read_order.append({'chapter': chapters})
+                chapters = ['']
+                ctype =  'chapter'
             if item.attrib.get('type') == 'play':
                 rec = True
-                chapters.append('') 
+                if plays:
+                    read_order.append({'play': plays})
+                ctype = 'play'
+                plays = ['']
+
         if rec and item.text and item.text.strip():
             if item.attrib.get('rend', '') == 'speaker':
-                chapters[-1] += '\n<speaker>' + escape(item.text) + '</speaker>\n'
+                speak_xml = '\n<speaker>' + escape(item.text) + '</speaker>\n'
+                if ctype == 'chapter':
+                   chapters[-1] += speak_xml
+                if ctype == 'act':
+                   acts[-1] += speak_xml
+                if ctype == 'play':
+                   plays[-1] += speak_xml
             else:
-                chapters[-1] += escape(item.text)
+                if ctype == 'chapter':
+                   chapters[-1] += escape(item.text)
+                if ctype == 'act':
+                   acts[-1] += escape(item.text)
+                if ctype == 'play':
+                   plays[-1] += escape(item.text)
+
+
+    pprint(read_order)
+    os.exit(-1)
+
     return chapters, speakerlist, alias
+
 
 data = parse_dbnl_aanlever()
 eratta = parse_lucas_aanlever(data)
-i=0
+i = 0
 
 for item in data:
     if item.get('ti_id') in eratta:
@@ -181,7 +209,8 @@ for item in data:
 
         with open(fname, 'r') as fh:
             fulltext = lxml.etree.fromstring(fh.read().encode('utf-8'))
-        merge['chapter'], merge['speakerlist'], merge['alias'] = parse_fulltext(fulltext)
+        merge['chapter'], merge['speakerlist'], merge['alias'] = parse_fulltext(
+            fulltext)
 
         for k in item:
             merge[k] = item.get(k)
@@ -189,7 +218,7 @@ for item in data:
         for k in ceratta:
             if k.lower() in merge and merge[k.lower()] == ceratta.get(k):
                 pass
-                #print(k, 'same value, skipping')
+                # print(k, 'same value, skipping')
             else:
                 merge[k.lower()] = ceratta.get(k)
 
