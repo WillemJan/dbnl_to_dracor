@@ -1,0 +1,855 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bred001chak02" xml:lang="nl">
+  <fileDesc>
+    <titleStmt>
+      <title type="main">Stommen ridder</title>
+      
+      <author>
+        <persName>
+          <forename>Gerbrand Adriaensz.</forename>
+          <surname>Bredero</surname>
+        </persName>
+        <idno type="wikidata">wikidata identifier</idno>
+        <idno type="pnd">pnd identifier (optional)</idno>
+      </author>
+    </titleStmt>
+    <publicationStmt>
+      <publisher xml:id="dracor">DraCor</publisher>
+      <idno type="URL">https://dracor.org</idno>
+      <availability>
+        <licence>
+          <ab>CC0 1.0</ab>
+          <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+        </licence>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl type="digitalSource">
+        <name>OTM: O 63-7263 (6), scans van Google Books</name>
+        <idno type="URL">None</idno>
+        <availability status="free">
+          <p>In the public domain.</p>
+        </availability>
+        <bibl type="originalSource">
+          <title>https://www.dbnl.org/tekst/bred001chak02_01</title>
+        </bibl>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <particDesc>
+      <listPerson>
+        
+        <person xml:id="Chooren." sex="m/f/u">
+          <persName>Chooren.</persName>
+        </person>
+        
+        <person xml:id="Phille." sex="m/f/u">
+          <persName>Phille.</persName>
+        </person>
+        
+        <person xml:id="Aardighe." sex="m/f/u">
+          <persName>Aardighe.</persName>
+        </person>
+        
+        <person xml:id="Keyzer." sex="m/f/u">
+          <persName>Keyzer.</persName>
+        </person>
+        
+        <person xml:id="Alder." sex="m/f/u">
+          <persName>Alder.</persName>
+        </person>
+        
+        <person xml:id="Lymius." sex="m/f/u">
+          <persName>Lymius.</persName>
+        </person>
+        
+        <person xml:id="Aartsche." sex="m/f/u">
+          <persName>Aartsche.</persName>
+        </person>
+        
+        <person xml:id="Brad." sex="m/f/u">
+          <persName>Brad.</persName>
+        </person>
+        
+        <person xml:id="Coster." sex="m/f/u">
+          <persName>Coster.</persName>
+        </person>
+        
+        <person xml:id="Twee Iagers." sex="m/f/u">
+          <persName>Twee Iagers.</persName>
+        </person>
+        
+        <person xml:id="Amera." sex="m/f/u">
+          <persName>Amera.</persName>
+        </person>
+        
+        <person xml:id="Moersg." sex="m/f/u">
+          <persName>Moersg.</persName>
+        </person>
+        
+        <person xml:id="A." sex="m/f/u">
+          <persName>A.</persName>
+        </person>
+        
+        <person xml:id="1. Choor." sex="m/f/u">
+          <persName>1. Choor.</persName>
+        </person>
+        
+        <person xml:id="Soud." sex="m/f/u">
+          <persName>Soud.</persName>
+        </person>
+        
+        <person xml:id="Tvvee Turcksche Iagerinnetjes." sex="m/f/u">
+          <persName>Tvvee Turcksche Iagerinnetjes.</persName>
+        </person>
+        
+        <person xml:id="Arch." sex="m/f/u">
+          <persName>Arch.</persName>
+        </person>
+        
+        <person xml:id="Edelen" sex="m/f/u">
+          <persName>Edelen</persName>
+        </person>
+        
+        <person xml:id="Zeege." sex="m/f/u">
+          <persName>Zeege.</persName>
+        </person>
+        
+        <person xml:id="Aart." sex="m/f/u">
+          <persName>Aart.</persName>
+        </person>
+        
+        <person xml:id="Alderecht, Aardiges Broeder." sex="m/f/u">
+          <persName>Alderecht, Aardiges Broeder.</persName>
+        </person>
+        
+        <person xml:id="VVare." sex="m/f/u">
+          <persName>VVare.</persName>
+        </person>
+        
+        <person xml:id="Sijn Broeder Vrederijck." sex="m/f/u">
+          <persName>Sijn Broeder Vrederijck.</persName>
+        </person>
+        
+        <person xml:id="Wandel." sex="m/f/u">
+          <persName>Wandel.</persName>
+        </person>
+        
+        <person xml:id="Romul." sex="m/f/u">
+          <persName>Romul.</persName>
+        </person>
+        
+        <person xml:id="Amoureusje. Manshooft." sex="m/f/u">
+          <persName>Amoureusje. Manshooft.</persName>
+        </person>
+        
+        <person xml:id="Gratia." sex="m/f/u">
+          <persName>Gratia.</persName>
+        </person>
+        
+        <person xml:id="De Keyzer." sex="m/f/u">
+          <persName>De Keyzer.</persName>
+        </person>
+        
+        <person xml:id="Heer." sex="m/f/u">
+          <persName>Heer.</persName>
+        </person>
+        
+        <person xml:id="Amou." sex="m/f/u">
+          <persName>Amou.</persName>
+        </person>
+        
+        <person xml:id="Doctoor." sex="m/f/u">
+          <persName>Doctoor.</persName>
+        </person>
+        
+        <person xml:id="Mansh." sex="m/f/u">
+          <persName>Mansh.</persName>
+        </person>
+        
+        <person xml:id="Aartsche Diane ghevveldich versteurt." sex="m/f/u">
+          <persName>Aartsche Diane ghevveldich versteurt.</persName>
+        </person>
+        
+        <person xml:id="Vrede." sex="m/f/u">
+          <persName>Vrede.</persName>
+        </person>
+        
+        <person xml:id="Lethea." sex="m/f/u">
+          <persName>Lethea.</persName>
+        </person>
+        
+        <person xml:id="Aartsche Diana." sex="m/f/u">
+          <persName>Aartsche Diana.</persName>
+        </person>
+        
+        <person xml:id="Alderecht, Hereman, Manshooft, Amereusje, en al de" sex="m/f/u">
+          <persName>Alderecht, Hereman, Manshooft, Amereusje, en al de</persName>
+        </person>
+        
+        <person xml:id="Modde." sex="m/f/u">
+          <persName>Modde.</persName>
+        </person>
+        
+        <listRelation type="type of relation">
+          <relation name="" active="pers_1" passive="pers_2"/>
+        </listRelation>
+      </listPerson>
+    </particDesc>
+    <textClass>
+      <keywords>
+        <term type="genreTitle"></term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <listChange>
+      <change when="0000-00-00">who did what</change>
+    </listChange>
+  </revisionDesc>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1619">
+        <desc/>
+      </event>
+      <event type="premiere" when="">
+        <desc/>
+      </event>
+      <event type="written" when="">
+        <desc/>
+      </event>
+    </listEvent>
+    <listRelation>
+      <relation name="wikidata" active="https://dracor.org/entity/" passive="http://www.wikidata.org/entity/"/>
+    </listRelation>
+  </standOff>
+  <text>
+    <front>
+    </front>
+    <body>
+    
+        <div type="scene">
+            G.A. BREDEROODSStommen Ridder.Ghespeelt op de Nederduytsche Academie,in&apos;t Iaar ons Heeren 1618.t&apos;Amsterdam.Voor Cornelis Lodowijcksz. vander Plassen, Boekverkooper, aande Beurs, inden Italiaenschen Bybel. 1619.
+        </div>
+    
+        <div type="scene">
+            Tot de konst-beminnende Lesers.Gvnstighe Lesers, also my dit Spel ter handt ghekomen is nae den doodt des eervveerdighen Poeets G.A. Brederode, salig gedachten, soo en hebbe ick u. l. den inhoudt van dit Spel hier voor niet konnen by-voeghen: Ter eender zyde dat ick en eenighe andere de Historie van Palmerijn niet en hebben ghelesen; ten anderen, dat vvy oock niet geerne onse handen souden vvillen steecken in zijn vverck. Ende alsoo&apos;t de vvreede Doodt hem niet en heeft vvillen toe-laten, de verklaringe op dit ziin volmaackte ende volspeelde spel te doen, so heb ick nochtans uyt liefde niet connen nalaten alle beminders der Redenkonste, ende liefhebbers der Duytsche Academie, nTragedi-Commedieuvven dienstvvillighenC.L. vander Plassen.
+        </div>
+    
+        <div type="scene">
+            Klinck-dicht.Ghelijck een Arent hooch doorsweeft des Hemels tenten,En door zijn scharp gesicht beoocht de lage aart,Zo sweeft u vlugge geest (o BrederoWiens scharp verstandt uytbeeldt het dichtsel van u prenten.De zuyverheyt van spraack ghy hebt ghesocht de entenDoor bloeyend&apos; soete rijm in ons Neerduytsche taal,En gheeft ons &apos;trechte spoor van reden wickincx schaal,Waar door ghy onsterflijck blijft bloeyend&apos; in u lenten.De waarheyt van deez&apos; zaack, de stomme sal&apos;t u segghen,Doorleeft en wel herknaut, het werck zijn meester prijst,Ghy vint de nutticheyt die uyt zijn spreucke rijst.Zo dat het PlautusDies kan geen traghe tong de roem van deez&apos; PoeetNa waart wtspreken &apos;tloon, &apos;tgheen aan hem is besteet.T. Hartoch. Yvert na &apos;trecht.
+        </div>
+    
+        <div type="scene">
+            Op G.A. Brederoods stomme Ridder.De Doodt in&apos;t leven.Fy doodt! bittere doodt! deur uwe gruwelhedenIs wel ons braaf Poeet Brederood&apos;Met&apos;t lichaam, dat verrot (eylaas!) nu leyt tot aardt,Maar niet versturven; neen, te machteloos ghy waart.Zijn spreuck is t&apos; kan verkeeren.Gaat hy ons tijdtlijck eeuw&apos; om eeuwichlijck te leven.En ghy, die Werelts hem doodt achtet voor de lien,Aanvat dit Spieghel-boek, en gaat hem leven sien.Hier speelt hy met zijn rijm en soete vryeryen.Hier doet hy tot vermaack ons droeve zin verblyenMet lieve boertery. Hier teelt zijn Byen zoet.Hier sterft de een deur min, daar liefd&apos; de ander voet.Hier krijcht het quaat zijn loon. Hier gaat de deucht verheffen.De een die werpt de steen en doet hem sellefs treffen.Kan wensch meer wenschen gaan? behalven al het geenGhedicht, ghespeelt, ghedruckt van Garbrand&apos; Moeten wy sulcke niet ons leven lang ghedencken?Zullen NajadenNectarIa, NimphensMusenWant&apos;t geen hy had noch meer de doodt hem heeft ghedooft.Wats nu ons lust alleen? dat bly-ich wy verheughenIn zijn ghebleven rijm, en dat wy&apos;t lesen meughen,Ghelijck het blyven moet. De FaamAl is ons Breed&apos;roLa mort en vié.A. v. Mildert. VVeest mildt.
+        </div>
+    
+        <div type="scene">
+            Sonnet.Om kryghen eenen naam onsterflijck, ziin veel vvegen,Den een aanvaardende d&apos;oeff&apos;ning van&apos;t blauvve staal,En d&apos;ander raackter toe door vvelsprekende taal:Maar Breed&apos;ro So yemant vraacht vvaar door? door natuurs milde zegen,Door d&apos;aardt der Poësi, gheprent vast in zijn gheest.Zo ghy my niet ghelooft, komt hier, komt hier en leestDe defticheyt, om boert en is hy niet verleghen.Ziet hier gheevenaart tvvee Princesjes in schoonheyt,Die alle beyd&apos; verzot ziin op een Keysers kindt,Onkunbaar, die ziin tong met riip berading bindt.Ziet den Phrigesen De beeltenis ziins Liefs, vvat hy om haar bestaat.De doot heeft haar, rooft hem: Natuurs pronckI.I. Scheepmaker.Van vreuchde singt met Zege-heer,Die zich stom veynsend&apos; spraack krijcht weer.En des Schryvers gheest bromt uyt.O AerdigheDat ghy hem, die u leven doet,By u in&apos;t graf wel vast besluyt.I.I. Scheepmaker.
+        </div>
+    
+        <div type="scene">
+            Sonnet.De nutte wetenschap geacht van hooghe sinnen,Heeft onder haar natuurlijcke beweeglijckheenSo sonderlingen treck van werking ongemeen,Dat zy de zielen haar onsterff&apos;lijck dwingt te minnen.Met sulcke krachten sloechse BrederoSijn groote ziele, die voldraghen vande reen,De blyde Werelt schenckt (gelijck de Musen d&apos;eenWt d&apos;hoefslachs-born) nu uyt zijn volle speennDanckbarende Ghemeent&apos;, die immer hebt ghenotenDe eerste, komt geniet het lest&apos; en beste vanHem, die u beter noch gheen ander gheven kan.Want met dees&apos; stomme is hem oock de mont gesloten.Leest met aandacht, en van zijn wetenschap ghewis,Krijgdy volkomen en rechte ghetuyghenis.L. EBA. S.
+        </div>
+    
+        <div type="scene">
+            Vierling aan den Leser.Den dichter van dit Spel die kon noch veur zijn doodtEen stommen Ridder braaf voor elck een sprekend&apos; maken,Zo haast wast niet beschickt, of hy quam zelf in noodt,En most al stommeling de wreede Doodt hier smaken.C. Biestkens.Te volghen ick begheer:Maar zeght, Wie weet wanneer?
+        </div>
+    
+        <div type="scene">
+            [Stommen ridder]Personagien.Keyser of Soudaan.Lethea Keyserin.Aartsche Diana, Keysers Dochter.Aardighe, Keysers Nicht.Palmeriin de stomme Ridder, of Zege-heer.Den Moorschen Ridder.Dominus Gratianus.Brandemant.Ammatan met ziin vier Broeders.Een Schilt-knecht.Philebart.      } Edel-lieden.Hereman.      } Edel-lieden.Alderecht      } Edel-lieden.VVarenaer.   } Edel-lieden.Limius.Tvvee Turcksche Iagerinnetjens.Chooren.Amoreusje de knecht.Manshooft.Moersgoelick.Modde van gompe.Tvvee Iaghers.
+        </div>
+    
+        <div type="scene">
+            &apos;t Eerste VVtkomen.Palmerijn zich stom veynsende.Ghelijck een Vogel is tot vlieghen uytverkoren,Soo schijnt den armen mensch tot ongheluck geboren,Dat heb ick wel versocht, en dat ick nu versoeck,Dat lees ick alle daagh in mijnder herten Boeck.Ick mijmer waer ick gaa, want in dit eensaem levenSoo moet ick mijn helaes! nu taal en antwoort gheven.O lust te seer ghesocht door &apos;t vluchtich soet behaghen,Soo ben ick leyder nu ach in een eeuwich klaghen.O lust te seer ghesocht met reuckeloos ghemoet!Sulcx dattet mijn deur&apos;t aertsch van&apos;t Hemels twijff&apos;len doet.Onsal&apos;ghe Ionghelingh de midd&apos;len zijn vervloghen,Waer door te rechten ick souw weder komen moghen.Wat is de oorsaeck doch? ick selfs? oneen, de Valck.De Valck? O neen. De vrouw&apos;? De vrouw&apos;. De Hoere schalck.De Toveres vervloeckt, verdoemt, en hoogh verswooren,Waar door ick heb mijn selfs en alles goets verloren.Nachtmery! groote kol, weermaeckster, boose gheest,Die my in lichaems schijn soo langh zijt by gheweest,Nu sydy voor den droes, of by zijn qua ghesellenDie met u willich gaan in d&apos;afgront vander Hellen.Ick ben te laet ontwaackt, eer ick mijn doolingh wist,Was ick de rechte wech den Heere baan ghemist,Waer door dat ick ontbeer de alderbeste menschen,En al het ghene dat een groote ziel kan wenschen.O Vogel die mijn quam van d&apos;aldersnootste hant,Ghy sult de boete doen aan dese harde wandt,Had ick dat Vercken oock soo by haar langhe beenen,Ick klonck haer lichte kop tot morsel aande steenen.Daar leyt mijn tijdt verdrijf mijn kostelijcke lust,Mijn hart is dol en droef, mijn ziele die zoeckt rust.&apos;k Heb al de nacht ghezocht, ghekreten en gheronnen:Mijn dorst ick gaa te laan daer ginder ander bronnen.Ach! zoo een koele drop is lieflijcker voor mijn,Als d&apos;armste Bedelaar de muskadel mach zijn.Hier is de schaduw grootst. Om best de ramp te schouwen,Zal ick my van het volck en van de spraack onthouwen.
+<speaker>Tvvee Turcksche Iagerinnetjes.</speaker>
+Het Zonnitje steeckt zijn hoofjen op,En bestraalt der Bergen topMet zijn lichjens: Wat ghezichtes,Wat verschietjes vert en flaeuw,Dommelter tusschen&apos;t graeuw en blaeuw.&apos;t Vochtighe boomje blinckt verciert.&apos;t Vrolijck Vinckque tiereliertOp zijn tackjes, wilt en mackjes,En weer strackjes op een aar,Hippeltet met zijn wederpaar.d&apos;Hemelen werden meer begroet,Van die Diertjes kleyn en zoet,Als van menschen die maar wenschenNa het aerts en&apos;t helsche goet,Datmen hier toch al laten moet.Hemeltjes wijs en wel gheleert,Meer met reden ghestoffeert,Als de lieden, die&apos;t ghebieden,Van een Werelt, noch verdriet:Zy hebben u vernoeghen niet.&apos;t Herdertje met zijn woelich Vee,Schrolt op&apos;t volckje vande Stee,Daar zijn Knaapjes, van zijn Schaapjes,In zijn slaapjes zacht en stil,Willich vol doen haars Heeren wil.Menscheltjes Godt gheeft elck zijn deel,Maar elck doet zijn best om veelTe vergaren, dan&apos;t bewaren,Voor de Iaren is een kunst,Danckt de Gooden van haar gunst.Gheen dingetjes zijn zoo slecht zoo teer,Of zy gheven ons een leer,Wilt maar mercken, op de werckenVande Goden wonderbaar,Niet en vindy zonder haar.O redelijcke Beesjes dwaas,Het onvernuftich Vee, helaas!Is veel nyver, en veel styver,In den yver tot Gods lof,Als de mensch van&apos;t beste stof.
+<speaker>Aartsche Diana.</speaker>
+Wel waarde lieve Nicht, u stichtich lieff&apos;lijck zinghenDat treckt mijn harte tot veel leerelijcke dinghen,Die ick wel eer voor kints onwaardich heb gheacht,DIe voel ick zijn verzien met Goddelijcke kracht.En heymelijckheyt verweent van eyghen heylicheyden,Die ons van trap tot trap ten hooghen Hemel leyden,Wie&apos;t maar aandachtich na met wijsen yver speurt,En het bekroosen hooft maar vander aarden beurt.Aanschout de blonde Son, de Maan met al haar starren,Ghy zult in&apos;t wonderwerck als grondeloos verwarren,Hoe beurtswijs elcker dinghs op tijdt en mate went,En ommeloopt het padt van zijn besteecken ent.De dinghen zijn zoo hooch, onmogh&apos;lijck te noemenMet menschelijcke mont, aanschout de schoone Bloemen,Voor-beelden vanden mensch, hoe lustich datse staan,Hoe onseecker, hoe kort zy weer ter aarden gaan.Een yverighe ziel in ernst opghehevenSal naa dit rechtsnoer hem tot alle deughd&apos; begheven,Want na dien dat de tijdt ons ontschiet zoo ghezwintNiet anders als een roock, of als de vlugghe wint,Soo ist ons aldernutst te konnen sterven leeren,Eer wy van daar wy zijn ghekomen wederkeeren.O sterff&apos;lijck gheslacht, als ghy dees dinghen ziet,Merckt doch u kortheyt aan, u tijdt is min als niet.
+<speaker>Aardighe.</speaker>
+VVie boven al zijn Godt bemindt,Zijn Godt in alle dinghen vindt,Wie yet meer wil verkiesen,Sal Godt in al verliesen.Wie wijs&apos;lijck doen wil woecker-winstDie mint Godt meest, zijn zelven minst,Die hem tot God kan neyghen,Die maackt van Godt zijn eyghen.Min ick een mensch dat seecker is,Dat hy my mint is t&apos;onghewis,Dus wil ick Godt mijn leven,Mijn ziel en alles gheven.Want God is trouw, die trouw oock hout,Maar die hem op den mensch betrouwt,Vertrouwt hem oock den looghen,En is vervloeckt bedroghen.Hy is wel dol, wel zot, wel blindt,Die yet meer als zijn Godt bemindt,Het zijn verlooren menschen,Die oock yet anders wenschen.Want alles watmen zichtbaar ziet,Dat is een zichtb&apos;re groote niet,Daer niet is op te bouwen,Maar Godt is te vertrouwen.
+<speaker>Aartsche Diana.</speaker>
+Dat Lietjen heeft wat in,Ick let meer op de zinAls op de schoone woorden,Die &apos;k toch met lust aanhoorden.&apos;t Is met een zeeghbaarheyt,Ghezonghen en ghezeyt,De stijl is uytghelesen,En &apos;t hoort oock zoo te wezen.Ofter wel yemandt leeft,Die Gode zoo lief heeft?Veel kunntn &apos;t moytjes zegghen,Die&apos;t lelijck laten legghen.Ofmen&apos;t al fraytjes praat,Datmen zijn zelven haat,En Godt heeft uytverkoren,Noch is het al verlorenSoo daar de liefd&apos; ontbreeckt.Ofmen al deghelijck spreeckt,Van Goddelijcke zaecken,Dat kan niet beter maecken.De tongh is somtijdts goet,En boos is het ghemoet,De deucht is best te merckenAan deuchdelijcke wercken.Veel dinghen hebben schijn,Van&apos;t gheen zy niet en zijn.Die&apos;t aldermeeste weten,Haar aldermeest verghetenAan&apos;t een of&apos;t ander dingh,De mensch&apos; is zonderlinghVaack anders als hy uytert,Na dat hy rust of ruytert.Den eenen die zit stil,En zondicht met zijn wil,En d&apos;ander is ghelaten,Al schijnt hy mal te praaten,Zoo is hy in zijn gheestNoch voor het quaat vervreest.Dan&apos;t zijn de hooghste zinnen,Die God zoo konnen minnen,Maar ick heb zulcke lien,Mijn leven niet ghezien,Hoe heylich datse spreecken,Zy hebben haer ghebreecken,En ick heb oock de mijn,Godt weet hoe ickse vijn.&apos;k Wou ickse mocht verwenschen,&apos;t Ghebreck is inde menschen.Den een zoeckt eer en staat,Al waart met groot verraat,Van Landen en van Lieden,Een ander wilt ghebieden.Al kosten&apos;t goet en bloedt,Het heerschen is te zoet.Het vet wilt altijdt boven,In Kercken en in Hoven,Niemant zit garen lest,Dus ellick doet zijn best,Om die gheen te bekladden,Dieser niet garen hadden.En zoo ist over al,Dat is zoo&apos;t blyven zal.Dan die hem wil begheven,Tot een wel zalich leven,Die doet na Gods Ghebodt,En gaat uyt hem in Godt,En legghe af zijn zonden,Dat werdt zoo swaar bevonden.Men scheyter nauw&apos;lijckx af,Int naare doncker graf.Zy gaan de mensch verzellen,Tot inde mondt der Hellen,Soo ist oock met de deught,Want wie hem van zijn jeught,En van zijn kintse bienen,De zelve went te dienen,In vreughden en in rouwDie zijn zy zoo ghetrouw,Dat zy om doodt noch sterven,Hem niet en willen derven.Sy bringhen door de doon,Tot boven voor den throon,Der Hemelen verheven,Daar zy vol blyschap sweven.
+<speaker>Aardighe.</speaker>
+Salighe zieltjes die zoo verblijdt,Voor de Goden werdt ghedronghen,Alwaar Gods lof ghebenedijt,Vande Sangerttjes werdt ghezonghen,Daar ghy&apos;t Godd&apos;lijck aanschijn ziet,En zijn ghezelschap steets gheniet,En alles goets gheschiet.Heylighe Gheesjes der goede Goon,Komt mijn zieltje oock zoo trecken,Maackt de deught mijn zoo ghewoonDat mijn zinnetjes daer na strecken.Komt af, komt af, ay lieve daalt,Eer mijn hartje zich versmaalt,En na wat anders taalt.Goedighe Goden wat is de mensch,Haast verkeerlijck en lichtvaardich,Ghelijck een lichte wint of wenschIs hy nietich en quaat aardich,Want het groote goede goet,Dat ghy hem ghestadich doet,Dat stoot hy met de voet.
+<speaker>Aartsche Diana.</speaker>
+Waarlijck Nicht ick ben verwonnen,Och ghy hebt zoo wel begonnen,Ick wensch u steets zoo voort te gaanDat ghy eeuwich mooght bestaan.Maar de menschen die best kallen,Sietmen zomtijdts eerst vervallen.Hoemen leeft in wat ghestalt,Een yeder ziet dat hy niet valt.Voor de Werelt goet te schynen,Doet hy licht die&apos;t hem wil pynen,Maar&apos;t vergaat ten heeft gheen duur,Elck is gheneyght na zijn natuur.Die de rampen en de slaghen,Des avontuurs kan duldich draghen,En even neemt zijn Lief als leyt,Doet proef van zijn ghestadicheyt.Ick hebber selver een gheweten,Die gheluckich hem mocht heten,Door de deughden van zijn ziel,Die int lest noch lelijck viel.
+<speaker>Aardige.</speaker>
+En hoor ick niet de hooren?Komt gaan wy door het kooren.
+<speaker>Aart.</speaker>
+Hoe rasen de wayd-lien.Zy hebben &apos;t wilt ghezien.De netten zijn ghehanghen,Bequaam om wel te vanghen.De handen zijn ontdaan,Komt laat ons derwaarts gaan.
+<speaker>Twee Iagers.</speaker>
+Men kon gheen beter wech noch middel oock ghebruycken,De bracken nauw van lucht met snoffelen en ruyckenDe deden met ghekef ons&apos;t eerste wilt-draat op.Voort sprongher met een vlucht daar yewers uyt een grop,Een heele hoope goets van knynen en van Hazen,De winden stracx gelost, en daar op ging het blazen,&apos;t Gheraas en het krioel, van&apos;t jancken en &apos;t ghebas.Daar liep de Hart, de Hindt, de Bors, de Beer, de Das,De Bock, de Geyt, de Vos, de Luypaart en de Leeuwen,Wat was daar een ghejach, van gillen en van schreeuwen,Van vloecken, van ghebaar, van hu, hu, huw, loop, loop, loop.Iget daar kreger een zulcken neep uytten hoopDie ghewis was. O bloedt, noch al de Karel baarde,Een party vielder doot, twee raacktender ter aarden,Get gaar was zulcken spul, die sloech, die stack, die smeet,Die gongh, die sprongh, die drongh, die hongh, die riep, die kreet,Zoo zeer ick weet niet hoe. Het wilt was zoo verleghen,Wy hebben zulcken vanghst ons leven niet ghekreghen.
+<speaker>Mansh.</speaker>
+Dat&apos;s waar Broershart, dat&apos;s waar, zy ginghender me voort,s&apos;Ontweydent na den eysch ghelijck als dat behoort.Het jaghen is een lust, vert boven alle dinghen,Daar komt den Adel aan met zinghen en met springhen.
+<speaker>Alderecht, Hereman, Manshooft, Amereusje, en al de</speaker>
+nAl ben ick schoon Liefje niet machtich rijck,Ick ben ten minsten als mijns ghelijck,Wat gheef ick om &apos;t goet? Wat gheef ick om &apos;t goet?De beste Rijckdommen legghen int ghemoet.Ick laat den gierigaart na schatten sien,En den staat-zuchtighen na het ghebien,Ick gheer o mijn schoon. Ick gheer o mijn schoon,Gheen Konincx scepter noch Keyzers kroon.Want de rust en opperste wellust leyt,In een onbekommerde vernoeghelijckheyt,En niet in het ghelt, en niet in het gheltDat staagh zijn meester met zorghen quelt.Daarom Prinsesje zoo acht ick aldermeestDe gaven van u doorluchtighen gheest,En u hoogh vernuft, en u groot vernuft,Dat alle de werelt braveert en puft.
+<speaker>Edelen</speaker>
+Wel of dees droncken bloedt niet eens en zal ontwaacken,
+<speaker>Aer.</speaker>
+&apos;k Moet hem op mijn manier eens aardich wacker maacken,Blaas op fraytjes, zo houwt.
+<speaker>Amou.</speaker>
+An ist, gants is dat mis.Hier vechten zy, eenighe vallen.
+<speaker>Amour.</speaker>
+Ick zegh werentich dat, dat het zulcken dollen duyvel is,Het is my hier te hiet, ick wil mijn vrouw gaan halen.
+<speaker>Moersg.</speaker>
+Ghy zult dien Eelmans doot met u leven betalen,
+<speaker>Mansh.</speaker>
+Becingelt en bezet den straatschender int ront.
+<speaker>Amour.</speaker>
+Och Princes komt doch stracx: Ay lieve komt terstont,Of al de Edellien die worden doot gheslaghen.
+<speaker>Alder.</speaker>
+V beenen zullen u van deze plaats niet draghen.
+<speaker>Amour.</speaker>
+Och komt Me-vrouw &apos;t is tijdt.Sy te paart met Ardemiere, en Staat-dochters volghen.
+<speaker>Aart.</speaker>
+Maar ist zoo, als ghy zeght?Nu Ridders houwt toch stil, waar toe al dit ghevecht?
+<speaker>Heer.</speaker>
+Aanziet Ed&apos;le Princes hoe dat dees wreede moorderV volck heeft vernielt.
+<speaker>Aarts.</speaker>
+Hout op en vecht niet voorder,Op peene vanden hals ghebiedt ick u weest stil,Want ick de waarom van dit vechten weten wil.Hy knielt en biedt haar den appel van zijn swaart stommeling.Maar schoone Iongheling, volmaackt in als gheschapen,&apos;k Verseecker u u lijf, en danck u voor dit wapen,Ick weet niet vriendt of ghy zijt Ridder ofte niet.Ghy zijt dan wat ghy zijt na dat ghy mijn aanbiedt,V leven en u dienst zoo zal ick u bewaren,&apos;t Zy teghen wien &apos;t oock is, daarom wilt mijn verklarenWie dat u teghen danck ghewelt deed of besprongh.Ach jammer arme man! hy is beroert van tong,De Goon doen u te kort, want zeecker kondy spreken,Ghy zout ter werelt voor een wonderwerck uytsteeckenIn schoonheyt en in kracht, en in weerbare daan,Dan niet te min, ghy moet wel in haar gunste staan,Nadien dat ghy alleen dees menicht&apos; hebt bevochten,Die u ghelijckerhant ter doodt te brenghen zochten.Komt hier eens AlderechtDe zaacken wonderlijck toch zijn ghekomen toe.
+<speaker>Alder.</speaker>
+Ghenadighe Princes, zoo wy al zinghend quamenOntrent dese fonteyn, al waar dat wy vernamenEen slaperighen man, den eersten die hem zachDie gaf hem om den deun een styve starcke slach,Den vreemdeling rijst op, vertoornt van dat groeten,Hy slaet hem dat den kop quam rollen voor zijn voeten,Doen schooten wy hem toe om wreecken dese moort.
+<speaker>Aart.</speaker>
+Zeecker den stommen heeft ghedaan als hy behoort,Om dat zijn Edelheyt zoo wel weet te kastyenDe zotheyt vande zots, zoo zal ick hem bevryen.Ick maack hem Edelman van mijn huys en van mijn,Ick ra niemant zoo stout die hem misdoet, ten zyDat hy myn gunst en&apos;t hooft gelijckelijck wil derven,De dooden draaght van hier tot by haar naaste erven.Onstlaat mijn groote tent daar achter in het groen,Want ick ben daar van zin een onbyten te doen.Komt hier o schoonste man die&apos;k immer zach met ooghen,Neemt daar u swaart &apos;t is u.Hy vvil haar voeten kussen.&apos;k Zalt nimmermeer ghedooghen:Blijft altoos dicht by my op dat u niet misschiet.
+<speaker>Seeg.</speaker>
+Mijn God hoe wel ghelijckt de Princes mij Margriet
+<speaker>Aart.</speaker>
+Wel hoe mijn vriendt, wel hoe, ghy meught u wel vertrouwen,Wie u maar raackt zal ick in stucken stracx doen houwen.
+<speaker>Kar.</speaker>
+Het eten is ghereet, komt gaan wy lieve Nicht,Noyt quam mijn schoonder man mijn leven int ghezicht.
+<speaker>Amoureusje. Manshooft.</speaker>
+Hoe vaarje Manshooft, krijghje oock gien hongher?
+<speaker>Mansh.</speaker>
+Neen of ja Amoureusje ick seltje segghen, ick wrongherVlusjes een hachjen in, goelickjes van dardalf pongt,En voort vong ick een Ionckers vles die zetten ic aan mijn mongtEn ick haaldender een tooch uyt die niet swack was.
+<speaker>Amour.</speaker>
+Komt gaan wy naar de tent, &apos;k wou &apos;k me al by de back was,&apos;k Heb zulcken Varckens dorst als de droes is dat niet fraeyManshooft? het eten smaackt nerghens beter als inde waey.Seecker de Prins heur Nicht is een moy meysjen,Datset noch schuldich was farrilahay ick wouse wel een reysjen.Wat het de smallen adel kromme spronghen inde kop.Nou Manshooft muts of, zoo, fraaytjes, nou ghelijck op.Hoe staat dit goore goed, nou mackelijcke vaar gaat wat pop,Datsje veur Mangshooft, de lest een voet int gat.I gut krijgh ick een Venezoen yewers in een hoeck of horren,&apos;k Wil een schelm wezen zoo ick hem niet na zijn gat torren,En haal hem zijn inghewant van binnen uyt zijn lijf,Ten minsten zoo klaar ick wel een beetje van een pondt vier of vijf.Aartsche en Aardighe, en de Keyser met het Hof komt uyt.Waarlijck waarde Nicht mijn dunckt dat deze stommeEen brave Ridder is, ter Werelt komen brommen,Tot een verwonderingh van d&apos;aldergrootste lien,Die ster-ooghend&apos; gheen endt aan al zijn deuchden zien.
+<speaker>Aardige.</speaker>
+Van lichaem schoonheyts stal is hy zoo uytghenomen,Als nimmer Man die oyt van Moeder is ghekomen.
+<speaker>Aartsche.</speaker>
+Natuere heeft met kunst zijn edel beeldt ghemaeckt,
+<speaker>Aardige.</speaker>
+Die schortingh isser laas! dat hy niet is bespraackt.
+<speaker>Aartsche.</speaker>
+Zeer zelden dat de Goon een schepsel zoo bestortenMet heerlijckheyt en glants, oft daar zal yets aen schorten.&apos;t Zy voegh&apos;lijckheyt of kracht, of dapperheyt van moet,Of aardicheyt des geests, of bocxscheyt grof van bloedt.
+<speaker>Aardige.</speaker>
+Wel Nichte, waar ist? Haalt de Wayliens en de Honden,
+<speaker>Aartsche.</speaker>
+Ick hebse al voor heen ten hovewaarts ghezondenAan mijn Heer Vader heen, de welcke dat ick acht,Keyzer uyt.Dat my met zijn ghezin met groot verlanghen wacht,Wt vrees oft op de jacht yets quaats mijn mocht ontmoeten,Daar is zijn Majesteyt, dat wy zijn hoocheyt groeten.
+<speaker>Keyzer.</speaker>
+Och dochter wellekom, mijn hart borst mijn van anghst,Doch nu ist weer ontset, hoe gaettet met de vanghst?
+<speaker>Aartsche.</speaker>
+Gheluckich zoo ghewenst, meer als-ick kon bedencken,&apos;t Ghelieft zijn Majesteyt de selve mijn te schencken.
+<speaker>Keyzer.</speaker>
+Z&apos;is vereert mijn kint, al waert noch vry wat meer.
+<speaker>Aartsche.</speaker>
+Och! dat verghelde u des Hemels Opper-heer.Brenght mijn de stomme helt, ghy Ridders en ghy Graven.Ziet Heer dit is mijn vanghst, en uwe milde gaven.
+<speaker>Keyzer.</speaker>
+Noyt docht ick dochter dat ghy waande dese stom.
+<speaker>Aartsche.</speaker>
+Het is wel waar dat hy van uwe edeldomZes Ridders heeft ghedoot, dat ghy hem zult vergheven,Want ziet zy stonden hem moordadelijck na &apos;t leven.
+<speaker>Keyzer.</speaker>
+Maar hoe zal ick mijn doch ontschulden met bescheyt,By haar lie vrienden die&apos;k al ree heb toegheseytTe straffen met de doot, door stillingh&apos; van haar schreeuwen,Ick heb hem al ghedoemt te sterven door mijn Leeuwen.
+<speaker>Aartsche.</speaker>
+Zijn Majesteyt dunckt mijn gaat al te spoedich voort,Met zijn rechts vordering eer hy de onschult hoort,Maar indien dat hy sterft zoo staat mijn eer te vreezen,Dat het zal aan haar kroon een groote schant-vleck wezen,Want ick de Ridder heb verseeckert van zijn lijf,Wie zal hem dan voortaan vertrouwen aan een wijf.
+<speaker>Keyzer.</speaker>
+Neen dochter niemants eer en lijf, noch scha noch schanden,Zoo hy belofte breeckt van yemants hooghers handen,Het stont niet in zijn macht, mijn kint bedenckt eens nu,Wiens woort behoort hier in te ghelden &apos;t mijns oft u.
+<speaker>Chooren.</speaker>
+Wie dat zoo dol als onbedachtZijn lusten wil najaghen,Die werdt int lest als onverwachtVan Godes hant gheslaghen,Wt alle weelden onbewaant,Waar door de mensch vaak werdt vermaant,Dat hy met goet opmercken,Moet matighen zijn wercken.Het is een zalighende deughtVan Goddelijcke krachten,Datmen van in zijn jonghe jeughtZent opwaarts zyn ghedachten,Na den volmaackten hooghen throon,Daar alle dinghen zyn zoo schoon,Van binnen en van buyten,Als wy niet kunnen uyten.Ghy moet o sterffelycke lien,Aan&apos;t aartsch, u niet vergapen,Maar zelfs de groote Schepper zien,In&apos;t gheen hy heeft gheschapen,Zoo en vindy ter Werelt niet,Daar ghy gheen Godheyt in en ziet,Zoo zalt u al bevallen,Want Godt ist al in allen.Maar menich spreeckt wel met de mont,Van Godvruchtighe zaecken,Die hem niet eensjes aen de grontDer zielen zelfs en raacken.Maar die bedrieghelycke gheest,Bedriecht zyn zelven aldermeest,Hoe heylich datse schynen,De Heer die kan de zynen.De vromen komt wel tot een val,En diet noch houden staande,Die weet niet of hy vallen zal,De duyvel is nagaande.Een yeghelijck die heeft zijn strijt,Wy kunnen in een kleene tijdtZoo menichmaal verkeeren,Ghelijck wy daghelijcks leeren.Maar die hem reuckeloos vergheet,In eenen slaap der zonden,Die zent God een schynent leet,Dat na werdt lief bevonden.Het schranckel wanckel avontuur,Dat went zijn raden alle uur,God laat om best de vromen,Veel ramps en drucks opkomen.Maar den ghetroosten hoop op Godt,Hem kan gheen quaat doen zuffen,Daar is gheen so rampsalich lotDat hy niet kan verbluffen.&apos;t Ghemoet is onbeweeght en vast,Het draaght zijn Lief ghelijck zijn last,Het ziet altijdt een open,Om &apos;t beste te verhopen.
+<speaker>Aart.</speaker>
+Ick heb soo wel u woordt als d&apos;ander Edellieden,Als ick hem aan u schonck was hy uyt mijn ghebieden,Want ick had hem vereert en vast&apos;lijck toe ghezechtAan een Princesse die men noemt het heylich recht,Die meerder aansiens heeft als al de PotentatenDes wereldts hoe beroemt, hoe hooch en groot van staten,Indiens ghebiedt is hy, van dien sal hy ontfaanDe straffe vande moort dien hy hier heeft begaan.Tsa vat den Moorder aan, en brenght hem in ghenadeDer Leeuwen, op dat sy een weynich haar versaden.Sy grypen hem, en nemen svvaart en mantel.
+<speaker>Aart.</speaker>
+Ach Vader! Vader lief, betemt u streng ghemoet,Wat zijt ghy doch verkuyst, laas met een handt vol bloedt!
+<speaker>Keyzer.</speaker>
+Vaart hoort met het gherecht men sal hem leeren moorden,
+<speaker>Aart.</speaker>
+De stomme kan hem niet vertalen noch verwoorden,
+<speaker>Keyzer.</speaker>
+Gaat ghyder voort mee deur.
+<speaker>Aart.</speaker>
+Hoe straf sijt ghy van aart,Laat hem ten minsten dan zijn mantel en sijn swaart,Want soo de Goden hem om zyne misdaat haten,Zoo sal hem dat gheweer in gheener wyse baten.
+<speaker>Keyzer.</speaker>
+Maar ist dat hem zijn God daar kennelijck bevrijt,Zoo scheld ick hem zijn schult van harten garen quijt.Ick zal by Machomet Gods wille niet weer streven.Doet des Princessen zin.
+<speaker>Aerts.</speaker>
+Vaart wel mijn lief, mijn leven,Leyt den misdadige eert volck hier om hem schreyt,En brenght my dan de mie hoe hy&apos;t of heeft gheleydt.Zoudaan binnen, zy lien met hem den trappen af na beneen.
+<speaker>Aart.</speaker>
+Wat mach den dollen mensch den loop der aartsche dinghenBetrouwen, daar hy ziet zoo veel veranderinghenVan tijttelijck gheval, die gist&apos;ren weeld&apos;rich zatAls Koning op het wiel van &apos;t wispelturich radt,Wert in een ommezien in &apos;t onderste ghesmeten,En van &apos;t verachte volck veracht en gants vergheten.O drayend&apos; avontuur, die gist&apos;ren lach int slijck,Zit morghen inde troon van &apos;t Keyzerlijcke rijck,Het schielijck vlug gheval aanziet noch staat noch waardt,En &apos;t werpt de kansen voor de kinderen der aard.Aartsche Dyana,De schoonste Edelman laas die ghy nu ontbeert!Ach heden werdt zijn vlees vermorsselt vande tanden!Dat tansjes deed met lust de grootste vrouwe branden,Die vlusjens int ghevecht was alder Ridders schrick,Och die wert nu vermaalt in eenen ooghenblick.Dat tansjes was mijn vreucht, en al mijn welbehaghen,Och dat is heden nu de oorzaack van mijn klaghen.D&apos;oorzaack die my nu tans aanbracht een blijdtschap groot,Is nu de oorzaack laas van zijn onrype doot.De oorzaack die mijn doet mijn waartste lief verkiezen,Is d&apos;oorzaack die mijn doet mijn waartste lief verliezen.Nu ick mach binnen gaan en storten een ghebedt,Misschien hoe d&apos;goede God den Edeling ontzet.Binnen.Aardighe komende vanden Soudaan.Ach ongheluckighe! noyt is yemandt gheghevenEen sterven zonder doot, een leven zonder levenAls ick heb nu ter tijdt, ach ick verstont, mijn HeerAan &apos;t stuursche antwoort laas! dat &apos;s werelts bodem eerOpdringhende met kracht ten Hemel hooch zal steygh&apos;ren,Eer ick verkryghen zal dat u nu lust te weygh&apos;ren.Ach &apos;t is mijn ongheluck dat mijn dus wrevel plaacht!En niet u heusheyts schult die &apos;t wel doen steets behaaght.V Ridderlijck ghemoet, en flucxse rapsche krachtenBeweechden zich wel eer door vrouwelijcke klachten.Dan nu hebt ghy helaas! een zo bevroozen hardt,Dat hem niet eens ontdoyt in zulcken bitt&apos;ren smart.Dat de Barbaarsten swart, met d&apos;alderfeltste ooghen,Ghemeuckt zouwt barsten uyt van innerlijck&apos; medooghen.Wel wat zal ick dan doen? ach hopeloze vrouw!Als deze traanen blanck, als deze groote rouw,Die d&apos;hooghe bergen hart, de marbers en de steenenZouw leenich kneden, en beroeren zelfs tot weenen,V gheest ontsteecken niet tot zijn ghenadicheen.Wat hoop doet hem dan op, dat ick met mijn ghebeenEen onverbidd&apos;lijck man beleezen zal de ooren,Hoe welze een Tyran melylijck zouw verhooren.Wel wat zal ick dan doen? of warwaarts treck ick heen?Laas met de zoete hoop die my int eerst verscheen!Wanneer ick hadd&apos; de eer, met u mijn Oom te spreken,Ach! ick beloofde my, dat my niet zou ghebreken.Maar nu ick op de proef verzoeck u Majesteyt,Nu wert mijn laas een man, een stommen man ontzeyt!Ach waar hy my ghegunt! mijn Vader zouw erkennenDie weldaat, en daar voor u een groot Leger zennen.Wech hopen vol bedroch, lichtvaardich dol en blindt,Vertreckt u doch van my, vertreckt u doch geswint,En tot verghelding van dat ick u immer achten,Zoo doet mijn zoo veel goets, en ruckt uyt mijn ghedachtenDe heughenisse van u smeeck-lief-kozery,Vol loghens zonder tal die ghy beloofden my,Maar doch u weyg&apos;ring Oom bescheld&apos; ick niet zo leydelijck,Als ick, ken weet wat ramp, die aan mijn lief onscheydelijckGhehecht is en ghelast. Ach stomme Ridder ach!Mijn breyn wiert my vergheckt als ick u kloeckheyt zach.V schoonheyt quam my stracx betov&apos;ren en verblinden,Zulcx dat ick onbekent u vreemdeling beminde.Mijn jammerden u staat, mijn deerden uwe noot,En d&apos;oorzaack van u winst is d&apos;oorsaack van u doot.Ick hoopten van&apos;t gheluck eens zoo veel jonsts te winnen,Dat ick u door den tijdt beweghen zou tot minnen,Maar ay bedrooghen hoop, die my zo zoet beviel,Zoo bitter plaaghdy nu dees afghematte ziel.Den Edelman is doot, ick kan hem niet verwerven,Als door een onvertzaacht en overmoedich sterven.Ick puf der Leeuwen kracht, en fiere felheyt groots,Ick volch mijn nieuwe lief tot inde wech des doots.Aartsche Diana ontmoet op de trappen Palmerijn die uyt de kuyl opghebrocht wordt.Wat&apos;s dit? Mijn hart, wat&apos;s dit? Hier komt zijn geest an spoken,Het is mijn lief, hy ist, och mocht ick hem wat stroken!Wat is de schaamt oock een zonderlinghe kracht,Zy doet dat ick de eer meer als mijn liefden achtVeroveraar, gheluck, danck zy des Hemels schickingVan u behoudenis, en deze mijn verquicking.Ach onverwachte troost.
+<speaker>Lymius.</speaker>
+Mevrou hout ons niet staan.Zoudaan. Aartsche Dyana met al&apos;t Hof.
+<speaker>Soud.</speaker>
+Ach Goden! welcken vreucht, maar is den held int leven,
+<speaker>Aart.</speaker>
+Den Hemel heeft ghehoor aan mijn ghebedt ghegheven?Zijt welckoom vande doot.
+<speaker>Zoud.</speaker>
+Ghezeghent zydy zoon.Maar hoe is hy de macht der Leeuwen doch ontvloon?
+<speaker>Limius.</speaker>
+Als wy hem inde kuyl (naar u ghebieden) brachtenDaar wy hem stracx verscheurt, vernielt te werden dachten,Hy gaat en treckt zijn sweert, en trat voort moedich totDe wreede beesten aan tot midden in het kot.De Leeuwen ryzen, en zy grimmen, maar int moetenZy snoffelen aan hem en vielen voor zijn voetenMet wispelstaarten, en met erkenningh&apos; van eer,Daar na zo voechden zich elck in zijn Leger neer.Hy wend hem om, en ziet de Luyperts met haar allen,Die quamen gantsch verwoedt ghelijck hem aane vallen.Een stoot hy inde borst den deghen dat hy viel,En spille voetende verliet hem voort de ziel.Terwijl de andere twee zijn kleedt en mantel scheuren,Dwinghen hem benauwt gints in een hoeck te peuren,Daar hy het eene dier zoo wis en zeecker treft,Dat hy hem druckt het zwaart in&apos;t lichaam tot aan&apos;t hecht.Doen is hy als verhitst den lesten toegevlogen,Tot dat hy met zijn bloedt de gheest heeft uyt ghespoghen.Wy hielden hem gheen mensch, maar een ghedrocht te zijn,Het welck zich zelven had ghekleedt in menschen schijn:Want &apos;t was te vreemt om zien hoe dat hy haar afrechten.Voort zach hy om en tom geen oorzaack om te vechten.Hy veechden &apos;t bloedich swaart aan een ghespickelt vel,Hy wees laat mijn hier uyt; wy volchden zijn bevel.
+<speaker>Soud.</speaker>
+O Goden wat ick hoor.
+<speaker>Aarts.</speaker>
+Maar Hemel is het meug&apos;lijck,
+<speaker>Lethea.</speaker>
+&apos;t Is boven mijn verstant.
+<speaker>Aarts.</speaker>
+Voorwaar het is wel heug&apos;lijck.
+<speaker>Soud.</speaker>
+De Leeuwen vielen hem eerbiedelijck te voet,
+<speaker>Lethea.</speaker>
+Zoo moet hy zijn ghewis van hooch of Konincx bloedt.Want waar hy van ghemeen en slechten stam gherezen,Die dieren hadden hem geen groote feest bewezen.
+<speaker>Soud.</speaker>
+&apos;t Is tegen haar natuur.
+<speaker>Lethea.</speaker>
+O heldelijck ghemoet,
+<speaker>Soud.</speaker>
+Ick wil dat ghy mijn kindt hem zoo veel eers aandoetAls d&apos;alderrijckste Prins des Turcksche Monarchie,Want hy is mijn zoo lief als &apos;s wereldts heerschappye.Zoudaan binnen.
+<speaker>Aart.</speaker>
+Wel Vader u ghebodt zal ick ghewillich doen.
+<speaker>Aard.</speaker>
+Gheluck boven gheluck, en boven mijn vermoen.
+<speaker>Aart.</speaker>
+O wat ghewenschter zaack, ghy Vorsten en ghy Heeren,Ghy sult den stommen helt meer als mijn Broeders eeren,Ghewaardicht u alt&apos;saam te volghen zijn ghebien,Wel dat wy nu den Heer na onse macht versien.De verkleede Palmerijn alleen.Al ben ick schoon verdost met dese Turcxsche kleeren,Zoo ben ick toch mijn zelf in gheenerwijs verkeeren,Ick blijf de selfde man, ick blijf vast die ick ben,Dat is; de droefste mensch die ick op aarden ken.Ach ongheluckich mensch! wat zuldy nu beginnenBy dit ongodlijck volck, vol van verkeerde zinnen?Haar Godsdienst ommeslaan? verlooch&apos;nen uwen Godt?En volghen het gheloof van Machomet den sot?Neen, nu noch nimmermeer ick zal volstandich bouwen,Op u die my altoos ghenadich hebt behouwen,Van alle ongheval, O alder wond&apos;ren Heer,Brenght my (zoo&apos;t u ghevalt) doch uyt dit Eylandt weer,Daar ick te seer belust om &apos;t wild-braat op te spooren,Mijn waarde selschap en mijn zelven heb verlooren.Ach ongheluckighe stont! die&apos;k wel beklaghen mach,Dat ick met mijnen Valck zoo tooch om mijn bejach,Want daar door is mijn volck en vrienden my benomen,En ick ben hier, o spijt! gantsch teghen danck ghekomen.Nu, &apos;t kan niet anders zijn, &apos;t is best dat my ghenoechtAan s&apos;Hemels willekeur die &apos;t al ten besten voecht,En die mijn ongheluck ten lesten zal verdrieten,En doen my voor dit suur het s&apos;Hemels zoet ghenieten.Maar waarde Margareet, al zijdy doot en vartVan mijn ghezicht, ghy zijt doch nimmer uyt mijn hart.Daar is u stoel, u troon, daar komen mijn ghedachtenGhedienstich en vol vyers u een off&apos;rhande slachtenVan &apos;t beste van mijn ziel, en van het inghewant,Mijns opghetogenheyts en heymelijck verstant,Daar wordy alle uurs ghestadich aanghebeden,Gheviert, ghedient, ghestroockt van al mijn zinlijckheden.Maar houwt ick hoor ghewach! ziet hier, hier komt, maar wie?Me-vrouwe met haar Nicht die ick zoo garen zie.Aardige is haar naam, voorwaar dat wel rechtvaardich,Want zy is lieffelijck, bevallich, schoon en aardich,Hoe wel ghelijckt zy haar daar ick het meest om peyns,&apos;t Is best dat ick my noch de stomme wat gheveyns.Aartsche Diana en Aardige, Palmerijn zittende.
+<speaker>Aartsche.</speaker>
+De min is voor de jeucht het lieffelijcxst vermaken,Dewijl haar lenten plant de roozen op haar kaken,En op haar lippen zoet de karssen als kouraal,En in haar ooghen schoon een flonckerich ghestraal,Het aanschijn barst van lust, de aderen van hetten,De wille van&apos;t ghewelt dat haar nature zetten.
+<speaker>Aardige.</speaker>
+Ghelijckerwijs het licht des schitterende Zons,De droeve duysternis en naarheydt jaacht van ons,En brenght den blyen dach, alzo voert ons de minne,In plaats van bitterheyt de zoetheyt inde zinne.Al de gheneuch&apos;lijckheyt die men ter werelt vindt,Is loutere ydelheyt, en niet als roock en windtBy de vernoech&apos;lijckheyt van twee vereende menschen,Want zy ghenieten meer als wy hier konnen wenschen,Ghelijcke zinlijckheyt van harten en ghedacht,V macht te spreken uyt was noyt in s&apos;menschen macht.Ghy doet ons in een uur meer zoets, meer lust, meer weelden,Als yemant hem in eeuw van Iaren in kan beelden.
+<speaker>Aartsche.</speaker>
+Van al d&apos;Harts-tochten die wy onderworpen zijn,Is geen beroerlijcker als vande min (dunckt mijn)En daarom zijnse oock te reeckenen ellendich,Die om schijnbare vreucht die zich vertoont wtwendich,Haar laten voeren van haar vals en zo ghevoel,Aan dinghen zonder gheest, van leven kout en koel,Die om, &apos;k en weet niet wat voor flucxsche schijn van reden,Versuymen onghegront haar goe ghelegentheden.
+<speaker>Aardige.</speaker>
+De wijse liens voorwaar, die pluycken steets met vlijt,De aanghenaamste kost van hare levens tijdt.En zeecker zy zijn dwaas die om neuswijse grillen,De varsche vangh haars jeught zoo reuckeloos verspillen,Slechts om de losse naam van achtbaarheyt en eer,Want als die over is zoo komt zy nimmer weer.Wat is de eer voor goet?
+<speaker>Aart.</speaker>
+Een reed&apos;lijck betoonen.
+<speaker>Aard.</speaker>
+Ghy doolt, het is een schim van wesentlijcke droomen,Een Echo van wat goets, een schaduw&apos; die wat schijnt,Die door de minste wint van ons ghezicht verdwijnt,En laat &apos;t versuft ghemoet gantsch swack en afgestreden,In eenen noot des strijts van s&apos;werelts minnelijckheden.Wanneermen by zich zelfs gaat overlegghen vry,De schoone zaken die zoo slibberend&apos; verby,Door slofheyt zijn ghegaan, en die ter ander malen,Te bet&apos;ren niet en zijn, noch echter te herhalen,Want als de schoonheyt ens verschiet haar verwen fris,De min verstervet die door haar gheboren is.
+<speaker>Aart.</speaker>
+Zoo komtet dat wy vaack ons opsichtich hooch draghen,En dreutsheyt trots te laat, met na berouw beklaghen.Aardighe. Palmerijn. Aartsche Diana.
+<speaker>Aard.</speaker>
+Maar die beweechelijck en buychsaam is van sin,
+<speaker>Aart.</speaker>
+Die stelt zijn hoochste lust in &apos;t oeff&apos;nen vande min.
+<speaker>Aard.</speaker>
+Isser wel soeters yet voor jeuchdelijcke sinnen?
+<speaker>Aart.</speaker>
+Neen seecker daar en gaat niet voor de brandt der minnen,Die d&apos;ontfonckte ghemoen doet blak&apos;ren van een vlam,Die van ghelijcke wil haar vyer en oorspronck nam.
+<speaker>Aard.</speaker>
+Zy kan de doode gheest wel levendich verwecken,En uyt de aartsche dreck ten Hemel hooch optreckenInde beschouwing van yet treffelijcx en vermaarts,Dat wel ghesuyvert en ghescheyden is van&apos;t aarts,Dat&apos;s schoonheyt in haar kracht de braafste jonghelinghen,Die leenen aldermeest de alderschoonste dinghen.
+<speaker>Aart.</speaker>
+Zoo doen de maachden oock, want alle schoon baart lust,
+<speaker>Aard.</speaker>
+En diens verkryging teelt oock buyten twijffel rust.Ghelijck het derven maackt een onophoud&apos;lijck wroeghen,Zoo maackt het hebben oock een troostelijck vernoeghen.
+<speaker>Aart.</speaker>
+Daarom slooft yder een en woelt in sorgh en pijn,
+<speaker>Aard.</speaker>
+Om end&apos;lijck met het gheen hy wenscht vernoecht te zijn,Hier op so gaan wy, drijft met domme moet de baren,Der balstuurighe Zee van onse tijdt bevaren.Al smackt ons &apos;t ongheluck van backboordt over zy,Wy loeven soetjens aan en gheven ons in lyEn hopen &apos;talderbest, alwaar de hoop benomen,Noch trachtmen tot de plaats van ons opset te komen.
+<speaker>Aart.</speaker>
+Wie maar der minne vreucht eenmaal schiet int ghedacht,Die weet ick dat &apos;t ghevaar en alle ding veracht.Al waar de mensch ghequelt met duysterleye pijnenDoor een voorbeelding soet, soo moeten sy verdwynen.
+<speaker>Aard.</speaker>
+De wellust vande min is een middel of raatTot een versachting van al &apos;t menschelijcke quaadt.Want alsmen die ghebruyckt soo werden uytghedrevenDe qualijckheden van dit kort en pijnlijck leven,Kort is het door de vreucht die men alhier gheniet,Doch pijnlijck en lang door &apos;t stadighe verdriet.En zijnse dan niet kleyn van oordeel en van kennis,Die niet in tijdts versien in haar blijckbare schennis,En nemen tot haar heyl het wenschelijckste zoetDer minnen, datmen doch voor Godlijck houden moet?
+<speaker>Aart.</speaker>
+Men mach de minne in de billijckheden noemenEen eeuwich yveraar, dat ons van fruyt en bloemen,Alleen niet en versorcht, maar onderhout en voet,Inde beslooten vorst van ons beknelt ghemoet,Want sy op voorraat baart veel lieve winter-tering.
+<speaker>Aard.</speaker>
+En is de schoonheydt niet de rijcklijckste vereeringDie ons de Goden doen? Het is haar liefste kindt,Dat vande ooghen wil ghevolcht zijn en bemindt,Ia aanghebeden zelfs. De jeucht is ons ghegeven,Om toe te heylighen aan de schoonste van ons leven.
+<speaker>Aart.</speaker>
+Van daar zo komtet haar dat wy uyt eyghen aartEn neyging des natuurs zo tochten derrewaart,Daar &apos;t schoon hem &apos;t klaartst vertoont, daar stichten wy altarenVol wieroocks en vol vets van &apos;t merchrich onzer jaren,Daar off&apos;ren wy verweent zoo innich als vol pracht,De uytghekleynsde gheest van al ons levens kracht.En wy behooren oock met een demoedich knielenTe storten voor de min het binnenst&apos; onzer zielen,Want zy is &apos;t leven van ons leven, ja zoo groot,Dat zy ons leven doet int midden vande doot.Amoureusje haar lang ghehoort hebbende, zeght:Poep, en ick was liever lelijck als moy gheschapen,Want &apos;t is ick weet niet wat, datmen schoon is en volmaackt,Ick prijs de waardighe lelijckheyt die elck een laackt,Daar is toch niet volmaackt in als,Iannetje het een schoon aanschijn, maar zy het een slimme hals.Niemant zeyter teghen, &apos;t is een frat knecht Zieuwert Luyten,Want hy het twee rechter beenen en twee slincker kuyten,En hy het een moye platte buyck, met een kamuysde rugh,Die zoo ronckt en ghebochelt is als Wlenburchs bruch,En hy het een paar oogjes als ciffiertjes, wat wil ie&apos;t u bewimp&apos;lenEn een monckje als een spaens beursje met duysent rimp&apos;len.En wel gheluckich zijnse die niet alleen int deelDes lichaams zijn mismaackt, maar die &apos;t zijn int gheheel.Want overlecht dit wel met zinnen rijp en radelijck,De schoonheyt is de mensch op &apos;t alderhoochste schadelijck,Want zy teelt ontschakingh&apos;, krackelen, dootslaan en ghewelt.De lelijckheyt is als een schut voor de kuyscheyt hestelt,De lelijckheyt is een deucht, want zy bewaart de vrouwenHaar eer, en zy doet de maachden haar maachdom houwen.Had Paris en Helena lelijck gheweest,Troyen waar niet vergaan ghelijckmen daar af leest.Meest al de schoone luy seer arm van gheest en reen zijn.Gheluckich zijnze dan die lelijck en lam van leen zijn,Want de lelijcke luy zijn ghemeenelijck meestBegaaft met goet verstant en aardicheyt van gheest.Is hy dan niet dubbelt gheluckich die yslijck lelijck is?Want de moye luy weten niet meer als twee stommen zegghen dat relijck is.Veel vanDat zijn maar nufjes en weet nieten, en malle dingen in haar gat.Ick loof de lelijckheyt die zoo reyn, als eerlijck is.Ick kent dat de schoonheyt wel wat begheerlijck is.Maar wat ist? &apos;t Is maar wint voor die&apos;t wel besiet,Het lijckt wat te wesen, en &apos;t is lijck wel niet.De lelijckheyt is waart om hooch daar af te roemen,De schoonheyt die vergaat ghelijck de schoon bloemen.Iofvrouwen siedy niet wanneer ghy&apos;t wel bedenckt,Dat schoonheyt aldermeest het s&apos;menschen leven krenckt?Want een rustich schoon man en kan niet eerlijck blyven,Zoo seer wordt hy versocht van weeuwen en van wyven,Die veel aensoecks het, die gaat oock dickwils an,En die dickwils aangaat krijcht een leghe huyt daar vanDie uytghemarghelt is van de bequaamste krachten.Ay lieve, wat&apos;s schoonheyt (sonder je weet wel) te achten?Een lelijck man en loopt gheen perijckel van zijn eer,De moye meysjes die en soecken hem niet seer,En wert hy niet versocht &apos;t sal hem te minder locken,Zijn kracht en werdt hem niet ontrogghelt noch ontrocken.Dus blijft hy dien hy was, dat&apos;s krachtich kloeck en fris,De man is wel salich, die lelijck en mismaackt is.Maar wat sal ickje segghen van dese malle vroutjes,Die duysent kopies, duysent sopies, duysent souwtjes, duysent smoutjes,Duysent loogjes, duysent droogjes,Duytsent kruytjes, duysent fruytjes,Duysent vruchjes duysent kluchjes,Duysent paters, duysent saters, duysent suyvel, duysent duyvel,Schier ghebruycken en besighen met pynen,Om datse moyer als sy zijn ten minsten souden schynen.
+<speaker>Aard.</speaker>
+Ick kruys en zeghen my om al dit goore goet,Maar Nichte wat een mensch somtijdts oock hooren moet.
+<speaker>Romul.</speaker>
+Het is wel waar dat de schoonheyt wel staatMaar &apos;t is weer een ding dat in een ooghenblick vergaat.Een schoone vrou werdt lelijck, O dat en is gheen roy,En een lelijcke vrou die wert nimmermeer moy,Maar sy werdt hoe langher hoe lelijcker dat acht ick groot,En heur lelijckheyt blijft heur ghetrou by totter doot.Bedenckt dan eens, wat ongheschickte schelmeryen,De vrouwen en de mans om de schoonheyt moeten lyen.Want een schoone dochter is onderworpen kracht en ghewelt,En een moy knecht werdt staach vande meysjens ghequelt.Dan de lelijcke luy die leven kuysch en rustich,Want niemant is na een lelijck mensch toch lustich,Behalven een Burger vande treffelijcke stadtVan Amsterdam, die selfs het schoonste vroutje hadt,Datmen met ooghen mocht besien, dees liet hem soo vervoeren,Dat hy zijn wijf liet en socht de lebbichste hoeren.Dat is een sinnelijckheyt ghelijck als ickje sey,Is dan de lelijckheyt niet uytghenomen frey,En de lelijcke luy die hebben een schoone reynicheytOnder een mottige grijns, Ioffrouwen dat&apos;s geen kleynicheyt.Wat gafjer wel om dat ghy oock lelijck waart?O ghy kaal kinnetjes had ghy zulcken baart.Hoort eens met wat spreec-woort Keesje Loeven my laetst geriefde,Een lelijcke vrou zeyt hy is een remedie voor de liefde.O goede raedt teghen de bekooringhe des vleys.O aanghename mismaacktheyt ghy zijt wat freys.O wel beminde dochter des suyverheyts! O zonderlingheBolwerck en starcke schans die niemant zal bespringhen.Een lelijcke vrou neemt wech alle jalousy,Haar men en denckt gheen arch, al is zy noch soo vry,Zy wordt niet naghegaan noch niemant zal haar schaken,Noch zy zal van haar men gheen hooren-drager maken.Want haar onder aansicht wort beschermt door haar lelijcke grijns.O eerb&apos;re! onbedrieg&apos;lijcke wanschapenheyt des aanschijns,Dat ick moy was ick zou doch ghelijck in ouwe tyen,Een schoone dochter deed&apos; die door veel vryeryen,Van hovelingen geyl verdacht wiert van veer,Het welck haar achtbaarheydt en edelheydt dee zo zeer,Dat zy met een mes haar aansicht stack vol stippen,Zulcx dat sy kreech duysent monden en twee duysent lippen.Wat komt van een moy wijf anders dan hovardy?Drentsche stijfkoppicheyt en overdadicheyt, maar vry,Een lelijcke vrou, die is ned&apos;rich en bescheyden,Beleeft, heus, en ghewillich, en vol ghediensticheyden,Zoo past zy op haar man. Een schoon is groots en trots,Hoochdragent van ghelaat, opsichtich snar en schots,Van ommegang en taal. Zecht zelve, zijn de mannenNiet in een diensbaarheyt, of in een hel ghebannen,Die wyven hebben die kribbich zijn en stuur,Die men niet toe spreken mach, anders als uyt tablatuur?Want somen een toontje te hooch of te laach laat slippen,Zo zellense een heele tijdt knorren en lippen.Daarom ra ic jou kol-kuyckens, laf-becken, melck-muylen voor al,Datje gien moye jonghe merritjes en zet op u stal,Want&apos;t is een weelich goet wordese niet wel waar ghenomen,Zoo zouwender stracxouwe spring-heynsten after komen.En ick ra jou moye meysje, datje neemt een lelijcke loer,Zoo en werdt hy jou niet ontvrijt van de duyvel noch zijn moer.En ick ra jou ouwe vryers datje trout lebbighe wyven,Hoe lelijcker hoe liever, want die zelle jou trou blyven,En zy zijn altoos vriendelijcker en wyser dat&apos;s wis.Ick zegh noch, dattet beter lelijck dan moy te wesen is.Fy schoonheyt, schijt schoonheyt, wat leyter aan bedreven?Ick prijs de lelijckheyt die zuyver is van leven.
+<speaker>Aart.</speaker>
+Maar Nichte wie heeft oyt een zulcken klap ghehoort?
+<speaker>Aard.</speaker>
+Een gheck die spreeckt oock wel een wijs of gheestich woordt,Elck oogh dat ghy op mijn O vromen Ridder slaet,My door de boezem in het teder hartje gaat.Helaas hoe zuchtje dus? Waarom slady zoo hoochjesV ooghen als ick zie mijn ooghjens in u ooghjes.
+<speaker>Aart.</speaker>
+Wat praat ghy binnens monts?
+<speaker>Aard.</speaker>
+Ick spreeck immers gants niet,Mijn hart danst in mijn lijf als my den helt aanziet.O vriendelijck ghezicht! O minnelijcke treecken!Hoe wel kundy u wil en zoete meening spreken,Ick ziet wel wat ghy wilt, u hartje zeyt aan &apos;t mijn,Dat het met my alleen veel liever wilde zijn.
+<speaker>Aart.</speaker>
+Wat revel kal is dit? Wat laat ghy u ontslippen,Ghy martelt en ghy moort u woortjes met u lippen.
+<speaker>Aard.</speaker>
+Nichte laat my begaan, ick spreeck in mijn ghemoet,Van een zaack die mijn wel aan ziel en lichaam doet.
+<speaker>Aart.</speaker>
+Doet wat u wel behaacht, ick zal t&apos;wijl overlegghenDe schoonheyt die mijn tong niet machtich is te zegghen.Ay heldelijck ghezicht, ghy gluurt vast over zy,En nauwelijcx ter noot en ziedy eens op my,Op my die u bemindt met zulcken grooten hetten,Dat ick om lief noch leet mijn zin niet zal verzetten.O alderschoonste man, u standen vast van stal,V lichaam wel ghedaan, u hooghe ghesten al,Wat ick aan u beschouw dat is mijn zoo behaeghlijck,Dat mijn u af zijn valt onlyd&apos;lijck en ondraeg&apos;lijck.
+<speaker>Aard.</speaker>
+Ach helt! ach waarde helt! ach liefste lief indienMen kon in &apos;s menschen hart als in een spiegel zien,Zo zoudy sien vol jonst al mijn verliefde sinnen,Die u vertwijffelijck en boven maat beminnen,Zulcx dat ick lich&apos;lijck eens lof hartich zouw&apos; bestaan,Een zaack die beter waar ghelaten dan ghedaan.Maar wie kan steets met raat zijn zinlijckheyt betemmen?Ick weet wel het waar best die zotheydt af te stemmen,Dan &apos;t is niet in mijn macht, en of ick my ontging,Waar dat voor een Princes, als ick, zo grooten ding?Neen zeeckers, want mijn jeucht en is zoo niet besneden,Of ick ghevoel oock wel natuurs ghevoechlijckheden,Daar kome af wat mach, ick zal mijn lusjes gaylGhenieten, &apos;t gaat hoe &apos;t gaat, vind ick de plaats maar vayl.
+<speaker>Aart.</speaker>
+Ach wat een zoetheyt vloeyt door al mijn lichaams krachten,Wanneer het beeltenis mijns liefs in mijn ghedachten,Met lieve troeteling en minne kusjes stooft,Met zoete hoop die mijn de hooghste vreucht belooft,Die ick tot zijnder tijt int werrick meen te legghen.Maar hoe? wanneer en waar en voeght mijn niet te zegghen.Komt gaan wy brave man,mijn nieuwe zon, maar ach!Hoe komtet dat ick niet mijn lust ghebruycken mach?
+<speaker>Aard.</speaker>
+Wel op moedighe helt, mijn ziel zal u gheleyden,Alst lichaam uyterlijck van u zal moeten scheyden.
+<speaker>Aart.</speaker>
+Ach Koning van mijn hart!
+<speaker>Aard.</speaker>
+Ach Keyser van mijn zin!
+<speaker>Aart.</speaker>
+Ick moet teghen mijn danck u heelen noch mijn min.
+<speaker>Aard.</speaker>
+En zydy niet mijn troost, de gunst van mijn ghenegentheyt.Die anders niet en wenscht als tijdt en goe ghelegentheyt?Binnen.
+<speaker>Choor.</speaker>
+Wat wissel van leven wat grooter strijt,Heeft hier een Christen Ridder altijdt,Wat aanvechtinghe van zinnen,Als hy de Duyvels, de Luypers loos,Moet mannelijck verwinnen.Maar zijn stantvastich moedich hart,En past op wonden noch op smart,Noch op de helsche krachten.Hy strijt tot dat hy meester werdtVan zijn woeste ghedachten.Wanneer hy die heeft in zijn dwang,Zo helpt hem Godt wel op (eer lang)Tot Staten hooch verheven,Dan komt de werelt ten aengang,Om nieuwe strijt te gheven.De lieve zoete schoon int oogh,Verheft en mint haar minnaar hooch,Doch met bedeckt vermommen,De liefde doet oock goet betooch,Doch spelen bey de stommen.Elck doet zijn best, om &apos;t gheen hy vrijt,Beknopt te winnen door de tijdt,De goe gheleghentheden,Of elck hem voor den ander mijt,Zy zijn noch niet te vreden.De wereldt neemt een hooghen raat,Om haren Ridder met lusten quaat,Te trecken en te troonen,De liefde oock lieffelijck bestaat,Hem &apos;t zoetste zoet te toonen.
+        </div>
+    
+        <div type="scene">
+            Het derde Bedrijf. De Zoudaan met zijn voornaamste Heeren.Van al mijn zalicheen daar ick in ben gheset,Danck ick de hooge Goon, en haar knecht Machumet,Wiens dienaar dat ick ben, hoe wel dat ick TurckyeEn &apos;t meerendeel des werelts heb onder mijn voogdye,Zoo leef ick nochtans zoo Godvreesend&apos; en ghedwee,Dat ick mijn Keyzerrijck bezit in rust en vree.Het oorloogh dat wel eer mijn staet in twijffel stelden,Dat heb ik wt ghejaaght, want ick en wil mijn veldenEn ackers groot en groen niet meer om hooghe moetVet mesten met de bry, van menschen vlees en bloedt.Het daghelijcx kermen van mijn eyghen onderdanen,Het jammerlijck ghekrijt, de ziel-snyende tranenDer weeuwen, manneloos en zuyghelinghen naackt,Dat heeft mijn menichmaal een wont in &apos;t hart ghemaackt,Daar ben ick nu of vry, en zal&apos;t my eeuwich houwen,Indien men op den stant des rijcx yet mach vertrouwen,&apos;t Gheluck is allerley, dies ick het niet en varch.Een Moorsche Ridder, met tvvee Schilt-knapen.Alder-vermaarste en Groot-machtichste Monarch,Den Koning van China, en Dwingelant der Mooren,Vader van Brandement mijn Heere wel ghebooren,Wt wiens naam dat ick nu met alle ned&apos;richeyt,De handen kusse van u hooge Majesteyt,Die inde ouderdom van tweentachtich IarenZich zelven vant onnut om langher te bewaren,De zetel en de staf des Konincklijck ghewout,En heeft het rijck mijn Heer zijn zone toe vertrout,Die Goddelijck van aart alle benaude troosten,En daar toe zo vermaart door wapens dat int OostenGheen Koning noch gheen Vorst hoe groot hy was, of hyEn wenschten hem gheluck in zijne heerschappy.Na deze groetenis zoo quamen daar ghesantenMet treffelijcken staat, al rijcx en bloedtverwanten,Van wijdt en zijdt den Moor, zo blanck, zo gheel als swart,Arabers, Ethophier, de Pars, de Part, de Tart,En ontallijck veel meer die hem gheschencken brochten,En neffens dien mijn Heer ten houwelijck verzochtenVoor hare dochters jong, het welck den ouden Helt,Om zijne jonckheyt heeft beleefd&apos;lijck uytghestelt.Waarom de jonghe en weelighe KoninginneVan Tharsen, die ghelijck een blinckende GoddinneWt stack in schoonheyt schoon, want men en vant aldaar,Gheen orgentaalsche vrou die yet gheleeck op haar.Dees heeft bedacht een vont, en heeft mijn Heer ghezondenVereeringhe zoo rijck alsmen niet schatten konde,En deed&apos; hem neffens dien voort bidden dat mijn Heer,Haar te verzoecken eens zouw&apos; willen doen die eer.Het welck uyt heusheyt hy niet af en dorste weeren,Maar volghde korts daar op, daar hy met aller eerenGhedient wiert en onthaalt. Want ziet mijn Heer ghevielZoo uyttermaten wel de vrouwelijcke ziel,Dat zy in plaatse van te weygheren afkeerlijck,De jonghe Prince zelfs verzocht tot min oneerlijck.Dit verzoeckt haar schoonheyt, en zijne heete jeucht,Die wrochten in mijn Heer ghelijck ghy dencken meucht,In voeghen dat hy haar goetwillich zacht liet rustenOnder zijn schaduw, tot verkoeling van haar lusten.Dewijl dat dit gheschach en repten zy gantsch niet,Van houw&apos;lijcksche voorwaard, van trouw&apos; of anders yet,Want ziet zy docht den Prins waar vast ghenoech beslaghenIn minnen ghelijck sy, maar &apos;t beurden na thien daghen,Dat hy om oorlof met droeve woorden badt,Zegghende: dat hy &apos;t huys yets te verrichten hadtDaar groot verlang aan was, zy dorst hem niet ophouwen,Midts hy haar loofden op zijn wederkomst te trouwen.Maar wat? zoo haast als hy by zijn Heer vader quam,De Griecksche Zeraphin hy stracx ten wyve nam,De Tarsche Koningin heeft dit wel haast vernomen,En deed ghestoort voor haar een seer out Ridder komen,Die hem de swarte kunst zoo meesterlijck verstont,Zulcx datmen zijns ghelijck op aarden niet en vont.Dees looft zy hooghen staat; indien hy met zijn treeckenHaar onghelijck en spijt ten wille wist te wreecken,Den Toveraar die eyscht hier toe haars Vaders kroon,Die hy besweert en vloeckt afgrijsselijcke doon:De schimmen akelicx, de geesten en de zielen,De duyvels die verschrickt voor zijn karacters vielen.Wt had hy: en hy gaf de kroon haar wederom.Schenckt zeyt hy, dit Princes den nieuwen Bruydegom,En doet hem bidden dat om uwent wil te draghenOp zijne Bruylofts-feest de alder-eerste daghen:Het welck hy niet en zal weygeren noch afslaan,Waar uyt hem zal terstont een zulcken smart ontstaan,Die alzoo groot zal zijn, dat d&apos;aldergrootste pynenDes werelts hem al licht en lyd&apos;lijck zullen schynen,En dese smart en zal van hem niet zijn vervreemt,Ten sy de kroon van hem de troutste minnaar neemt.Hy had volseyt, voldaan, doen werdt aan hem ghegeven,Daar hy zijn daghen mocht wel rijckelijck op leven.De spytighe Princes met lieflijck smeken zant,De so beswooren kroon den blyde Bradamant,Dies&apos; op zijn jeuchdich hooft stracx reuckeloos ging setten,De reden kon hem niet zijn ongheval beletten.In eenen ooghenblick zo borst daar uyt een vlam,Hy kreet, hy riep om hulp, maar laci! wie daar quamHet was al vruchteloos, ten mocht de Prins niet baten,Zy moeten met verdriet en onghetroost hem laten,Want wie hem onderstont behulpelijck te zijn,Die deed&apos; niet dan dat hy verdubbelde zijn pijn.D&apos;ondraghelijcke kroon deed&apos; Brandemant den branderGantsch leven in het vyer, ghelijck als de Salmander,&apos;t Ghemeene volck treurde met onghemeene druck,En droech met harten rouw&apos; haars Princen ongheluck.De Raat die schickten heen twee treffelijcke Heeren,Die heel ootmoedich heyl voor haren Prins begeeren,Zy bidden de Princes, zy hebbe doch ghedult,Vermidts de Brandemant bekennende zijn schult,Dat hy zijn Princ&apos;lijck woort niet wel en heeft gehouwen,Nu waarlijck is ghezint haar tot een vrouw&apos; te trouwen.Daar op zeyt de Princes, en gaf haar dit bescheyt,Ghy Heeren als ick denck op zijn ontrouwicheyt,En hy op het verdriet dat hy deur my moet lyen,Hoe zoude zulcken echt toch kunnen wel ghedyen?Wat zou daar anders uyt ontstaan als alle quaadt,En weet dat ick de Prins nu tot der doot toe haat.Ziet daarom is voor hem geen beterschap te hopen,Ten zy door AsiaAfrica EuropenHy heene treckt en zoeckt zoo langhe tot hy vindt,De troutste minnaar die ghetroutst op aarden mint,Die hem de kroon van &apos;t hooft zal nemen met zijn handen,En hier mee maackt u voort uyt mijn ghebiedt en Landen,Want die onwaardicheyt die u Prins heeft begaanIs zoo groot, dat daarom zijn volck te haten staan,Dus heeft mijn Heere, Heer, de wereldt gaan bekijcken,En alles schier bezocht tot zelfs de KoninckrijckenVan uwe Majesteyt, hoe wel hy nieuwers vant,Verlichting voor zijn wreet en noyt ghehoorde brandt,Om welcke oorzaack Alder-Grootmachtichste Heere,Ick uyt mijns Princen naam nu vry geley begeere.Gunt hem verzeeckering in u hof, &apos;t welck is vermaart,Dat daar de stapel is des Ridderschaps vergaart,Op dat hy zijn gheluck aan haar lie mach beproeven.
+<speaker>Keyzer.</speaker>
+Ick geve hem mijn woordt dat hy komt zonder toeven,Datmen na zijn waardy hem stracx een plaatse maack,Ick ben belust te zien zoo wonderlijcken zaack.Den moorschen Bradamant met zijn brandende Kroone.Aartsche Dianaas vryer, Aardiges vryer, en Zeege-Heer.Wat dat een sterflijck menschen vleys en bloedt kan lyenZiet ghy O mensch in mijne droeve schilderyen.Ach ick ellendighe! ick draach voor man en vrou,&apos;t Brant-teken op mijn hooft van mijn verlaten trou.Een spieghel voor de gheen die met verswooren edenOp Hel noch Hemel past, en met zijn valsche reden,Het vrouwelijck ghemoet beweeghelijck verdoort,En tot zijn zotte lust onkuyschelijck bekoort,En zijnde wars of beu des byslaaps zoeticheden,Zo scheurt hy vaak de trouw die hy voor Gode dede.Ach menschen! die met my echt-breucken daghelijcx schaft,Laat af in tijdts eer u den rechten Rechter straft.Heylige Majesteyt, den Hemel wil u zeeg&apos;nen,En laat voorspoedelijck op u zijn gunste reeg&apos;nen.Ziet met medoghentheyt, de alderdroefste man,Die inde werelt laas! gheen hullip vinden kan.&apos;k Heb Oost en West verzocht, in&apos;t Noorden en het zuyden,En ick en vind helaas! niet dan ontrouwe luyden,De luyt-ruchtighe faam die zeyt dat in u hof,De schepsels zijn oprecht, en van bequamer stof.Dus bid ick dat ghy wilt de beste Edellieden,En Minnaars tot een proef uytroepen en ghebieden.
+<speaker>Keyzer.</speaker>
+Liefhebbers wie ghy zijt, die &apos;t hartelijck bemindtWt suyverheyt des ziels, en niet uyt gaylheyt blindt,Die &apos;t lodderlijcke vleys hoe teder kunt verachten,En niet dan schoonheyt zoeckt van heldere ghedachten,Die gherooft en ghelucht zijn op des Hemels niest,Ghy die zoo heylichlijck wt reyne liefd&apos; verkiest.Ghy die om lief noch leet de jonst van u vriendinne,Noyt valschelijck hebt ghevalscht met yemants anders minne,Komt hier, en aan de kroon u deeg&apos;lijckheyt beproeft,En helpt de Prince die met reden is bedroeft.
+<speaker>Alderecht, Aardiges Broeder.</speaker>
+Ach schoone Zonne! die met u mangneete stralen,Mijn ziele kunt de ziel van al zijn kracht onthalen.Ghy zijt het waartste lief, mijn uytverkoren beeldt,Die in mijn zinnen zijt op &apos;t hoochste ghetaf&apos;reelt,Voor wien mijn harte buyght en offert met zijn tranen,Eenvoudighe Godsdienst voor u Aartsche Diana.Brandende Brademant, mijn Heere van die tijdt,Dat ick de Keyzerin mijns ziels eerst heb ghevrijt,En heb ick my tot noch in gheenerwijs vergheten,In minne buyten haar, in &apos;t minste by mijn weten,Op mijn oprechticheyt tast ick de kroone aan.
+<speaker>Brad.</speaker>
+Heer Ridder, ey laat af, laat af, en laat toch staan,Want by aldien dat ick door ontrouw&apos; kan ghenesen,Zoo soudy (ick ghelooft) mijn helper konnen wesen.Ach door ghewelt en kracht en brengdy niet tot niet,Mijn lyden noch de vlam die ghy nu flonck&apos;ren ziet!Ick ben te troosten, maar niet onbevleckte trouweEn met ghediensticheyt, en naarstich steets aanhouweMet vriendelijcke jonst, met woorden zuycker zoet,Met ghelegentheyt des tijdts die men waarnemen moet,Ende ander dinghen meer die in de reyne minneDie eyghenschappen zijn om lieff&apos;lijck te verwinnen.
+<speaker>Amour.</speaker>
+Laat legghen dat haghje, ay lieve lanst gaat deur,Ghy hebt buyten de pot ghepost, dat ziemen wel mijn breur.Komt weer kacken op den haart, ay ziet hem eens gaan druylen,Hy weet niet in wat gat hy best hem zal verschuylen.
+<speaker>Heere.</speaker>
+Goddin die u ghesicht zoo Godlijck open doet,Dat het een Sonne-schijn verstreckt in mijn ghemoet.Ick sweer u by het licht, ick sweer u by de stralenDes overgulden Zons, dat ick de vaste palenDes juyste zuyverheyts te buyten noyt en ging,&apos;t Zint ick door s&apos;Hemels gunst de kennisse ontgingVan u volmaackte deucht die niet is om verfrissen,Nadien ick noyt en heb ontheylicht mijn ghewissen,Met dorperheyt onkuys, na dien ick onbesmetEn onbezondicht ben aan yemants Bruylofts-bedt.Nadien dan dat ick noyt beminde, bedreef onminne gurich,Heb ick mijn lief ghelieft met liefden eeuwich durich:Zoo koom ick Brademant, zoo koom ick Prince hierBeproeven myne trouw aan dit betoovert vyer.
+<speaker>Brad.</speaker>
+Ach Edel Heer! staat stil, staat stil, en hout u handen,Want hoe ghy meerder woelt hoe dat ghy meer doet brandenMijn vyerich hooft helaas! hoe dat ghy styver treckt,Hoe dat ghy my meer pijns en lasters u verweckt.Ach Ridder &apos;t is om niet! wat mooghdy u vermeten?
+<speaker>Amour.</speaker>
+Hy kackt de kooten uyt, hy schijt, hy het lever e geten,Hoe dick is hy om zijn kop, &apos;t is best gaat deur als een man,Datser goet veur, komt Melis malmongt wilt ghyder an?Of ghy ouwe testements aansicht? Of ghy Klaasje kroonen?Of ghy Pietje Babelbeck? Hoor hier ghy haperde boonen,Die u trouwicheyt by al de wereldt schier uytghestamert hebt,Om dat ghy Lijsje met een oor de Stijfster ghekamert hebt.Komt hier ghy wyven en ghy weeuwen die garen broeckt,Komt hier daar aan de kroon, u eerbaarheyt versoeckt:Ghy weet wel wie ick mien al swijghje nou stil,Houtet mijn ten besten dat ick niemandt noemen wil.Komt hier ghy vrijsters, ghy giet-looghens die u verstant tot bedroch met ghekrabbel scherpt,Dat ghy u beloften en eden acht als u snottebellen die ghy te grabbel werpt.De werelt is vol valscheyt, daar is gheen trou by oudt of jong,Ick gheloof gheen menschen of zy hebben hayr op haar tong.
+<speaker>Brad.</speaker>
+Ach! goedertierentheyt des Hemels kundy dooghenNoch langher myne smart met onbeweeghde ooghen?Is al de werelt nu, dus onghetrouwen vals?Ach! schuyfdy mijn de straf alleen dan op de hals?Is dat rechtvaardicheyt? k En heb gheen mensch ghevonden,Of hy is schuldich oock aan mijn ghemeene zonden:Doch ist dat u de wraack aan mijn te doen behaaght,Zoo ist u best (mijn ziel) dat ghy&apos;t verduldich draaght,En toont u inde noot ist moog&apos;lijck noch blyelijck.Vertrout de goe Iupijn, hy zal u eer lang lyelijckAanschouwen, en beroert van zijn ghenadicheenAfnemen &apos;t swaare jock, by u verdient gheleen.
+<speaker>Zeege.</speaker>
+Ach Prince Brademant! het moyt my uyter maten,Dat ick u blaker ende onghetroost moet laten,Al-weter, Hemel-voocht, die&apos;t alles ziet en weet,Ghy weet dat ick te kort de kuyscheyt noyt en deet.Ghy weet, hoe dat ick my in alles heb onthouwe,Laat blijcken deur de kroon de schoonheyt van mijn trouwe.
+<speaker>Amour.</speaker>
+Los is de panneboeck, wel dat is seer goet,Wat feckzeert my die vreemdelinck zoo op staande voet,Wat ficksen duyvel is dat, hy weetze te belezen,Meester Ian smeerten borst en zou zoo knap niet ghenezen.
+<speaker>Brad.</speaker>
+Ach alderedelste Ridder ghebenedijt,Zoo zy de ure daar ghy in gheboren zijt!Mijn Heer, verzeeckert u dat ghy nu mooght ghebiedenMijn zelf, mijn schat, mijn rijck, mijn landen en mijn lieden,In zulcker voeghen Heer, en Minnaar hoogh van aart,Als of ghy wettelijck daar eyghen Vorst of waart,Want zonder u en waar mijn pyne niet te slancken.Palmerijn neemt hem op, en doet hem zitten, staan, en biedt stommelling de Kroon de Keyzer.
+<speaker>Keyzer.</speaker>
+Heer Ridder vande gift, wy u van harten dancken,Ick sweert op s&apos;Princen woort,ick zal de goude kroon,By mijn juwelen en dierbaren legghen schoon,Doen stellen tot een pronck, voornam&apos;lijck om de waardenDes troutste Minnaars van den ommeloop der aarden,Wiens heusheyt in mijn hof zoo Godlijck heeft verkeert,Dat hy&apos;t onsterflijck ghemaackt heeft en gheeert,Door zijne waardicheyt, het welck ick wil ghedencken,Dies wy u dese Stadt met zijn behooren schencken.Op morghen zullen wy u stellen int bezit,En ernstachtich ick den God des Hemels bidt,Dat hem ghelieve u te zeeg&apos;nen en bespraken,Ick sweert u by zijn naam u alzoo groot te makenAls d&apos;alderhoochste Heer van mijn gheheele rijck.Hy bedanckt hem stommeling, en vveyghert.
+<speaker>Bradem.</speaker>
+Grootmoedich Edelman, het waar onbillichlijck,Dat ick de hooghe deucht die ghy aan my bethoonde,Niet met erkenninghe van danckbaarheyt beloonde,Hoe wel zy met mijn macht niet te verghelden is,Zoo bid ick neemt van my tot een ghedachtenis,Van uwe weldaat groot, vier hondert hackeneyen,En duysent wapens schoon, en zeventhien galleyen,En vijfenveertich kleen van de Chineesche kunst,Neemt die tot tuyghen van mijn onvermoghen gunst.Ick bid u vriendelijck, indien ick&apos;t mach begheeren,En wilt dees gaven kleyn toch niet te rugghe keeren.
+<speaker>Keyzer.</speaker>
+Den helt is te beleeft om u te weyg&apos;ren die,Ghelooft dat ick mijn lust aan u verlossing zie.Verheughde Brademant, ick ben zo vol vernoegen,Komt gaan wy ons tot vreught en alle blijdtschap voeghen.
+        </div>
+    
+        <div type="scene">
+            Het vierde Bedrijf. De murmuratie vande Edellieden.Phillebaart. Heereman. Alderecht. VVarenaar.
+<speaker>Phille.</speaker>
+Ick zie ter werelt toch gheen grooter onghenoeghen,Als dat hem deze stom zoo stout zich darf vervoeghenAan der Princessen zy, &apos;t zy waar zy gaat of staat,Een vreemdeling op &apos;t naast hem by haar vinden laat.
+<speaker>Heere.</speaker>
+Het gantsche hofghezin dat is ghesteurt met reden,Om de ondrag&apos;lijckheyt zijns dreutscher vryicheden.
+<speaker>VVare.</speaker>
+De dinghen zijn te groot voor een uytheemsche gast,Die schrickelijck ontzach en gene grootsheyt past,Dees komt met koenheyt driest den drang der scharen scheyden,En door de Vorsten trots d&apos;Infante fier gheleydenTot een kleyn achting van de Princen van dit rijck,Wiens achtbaarhe&apos;en gheschiet te schotzen onghelijck.
+<speaker>Phille.</speaker>
+Wat zotterny is dit de Koningen te smaden,En doen een Bedelaar zoo over veel ghenaden,Datmen zijn schouders kiest tot harer handen rustEn d&apos;ooghen dat hy die na zijn behaghen kust,Dit maackt den nar zoo bouwt: dat hy zo dreutsch als prachtichZijn kleynheyt noch zijn selfs in &apos;t minst niet is gedachtich.
+<speaker>Heere.</speaker>
+Met wat hoogh-draghentheyt en weseloosheyt prat,Zo treet hy over dwars grootmoedich door de stadt,Hy barst van barsicheyt, en van pompeusheyt statich.
+<speaker>VVare.</speaker>
+Wat zouw&apos; den malle gheck, hy is te wanghelatich,Ick kan niet in hem sien dat my int minst bekoort,Als zijn alfachticheyt van gheck&apos;lijckheyt verdoort,Verwaantheyt onghegront: de zot is zo hovaardich,Dat hy zijn selven acht de grootste staten waardich.
+<speaker>Phille.</speaker>
+Voorwaar de vrouwen zijn te grillich van ghemoet,Zy kiesen voor de braafst vaack d&apos;alderslechste bloedt,Die niet een edel woordt noch reden weet te spreken,En achten zo de gheen die haar ootmoedich smeecken.
+<speaker>Alder.</speaker>
+Zijn wesen heeft mijn moyt noch nesk of kindts gheweest,Maar hy dunckt my zo heus, zo aardich en zo abelAls d&apos;aldergrootste Vorst in &apos;t machtich rijck van Babel.Ghy lieden spreeckt uyt nijt en bitterheyt des gals,Of wt verholen haat, of wt u oordeel vals,Dat van stijfsinnicheyt zoo kroes haar laat verleyen,Dat het der dinghen aart niet recht kan onderscheyen:Na de behoorlijckheyt en eerbaarheyt vereyscht.&apos;k Heb in mijn jonghe jeucht ghewandelt en ghereyst,En heb schier al besocht wat datmen kan besoecken,In Heeren hoven, en in menschen, en in boecken:Al ben ick wtterlijck wat slechtjes inde schijn,Daar aan ist niet te zien hoe wy van binnen zijn.De Goddelijcke ziel met zijn hemelsche krachtenDie blinckt van klaarheyt inde suyverste ghedachtenDes innerlijcke mensch: daar spreyt s&apos;haar om en tom,En gheeft haar selven wt, dat blijckt aan desen stom,Die soo gheluckich als volmaackt in allen deelenDes lichaams sprakeloos de herten weet te steelen,Van d&apos;alderhoochste lien die best zijn opghevoet,En dringht hem soetjes in het Keyserlijck ghemoet,&apos;t Welck hy niet en bepraat met hoofd en ydel klappenEn swetseryen licht, maar met de wetenschappenDie hem de goe natuur bequaem&apos;lijck heeft gheplant,Niet in zijn school gheleert, maar Goddelijck verstant.Besiet de schoone man, van boven en van ond&apos;ren,Ghy sult van lit tot lit ten hoochsten u verwond&apos;ren.Ziet zijn ghekruysde kop, zijn voorhooft, zijn ghezicht,Wat is daar achtbaarheyt en soetheyt int ghesicht,Wat defticheyt verweent, wat lieflijckheyt, wat vreughden,En wat een grooten sleep van hondert duysent deughden,Van aansienlijckheyt en van heerlijckheden eel,Waar van ick gheen een noem om datse zijn zoo veel,Dat&apos;s al onnoemlijck zijn, want zoo&apos;k maar een&apos;ghe roemden,Ick deed&apos; groot onghelijck zo ick dan niet en noemden.Ziet zijn strijtbare borst, zijn armen grof en swaar,Zijn leden hoe ghevoet, hoe helder en hoe klaar:En wat gheswindicheyt van beenen en van handen,Wat maxcel mannelijck, en wat strijtbare standen,Wat vasticheyt van tret, onwinnelijck en trots,Waar hem den krygher zet daar staat hy als een rots.Dat hy wel werdt ghewilt by Ioffers en by Vrouwen,Dat kan ick haar voorwaar seer wel ten besten houwen,Want hoe wel dat ick heb gheweest by zoo veel lien,Zoo heb ick zijns ghelijck mijn leven noyt ghesien.
+<speaker>VVaren.</speaker>
+Hy zy dan zoo hy is in schoonheyt uytghenomen,Ten staat noch &apos;t past hem niet zo stout en vry te komenBy d&apos;alderhoochste vrou.
+<speaker>Phillib.</speaker>
+Dat komt den grooten toe,De Koningen ghekroont, de Princen vanden bloe.De Vorsten van het Rijck. De hoogh gheboren Heeren.
+<speaker>Heere.</speaker>
+En gheen wtlander die met statelijcker eeren,En adellijcker pracht noch erentfest onthaal,Zich niet t&apos;erneeren weet met teeckens noch met taal,Daar toe zijn opghequeeckt de Hartogen en Graven.
+<speaker>Adel.</speaker>
+&apos;t Gheslacht en acht ick niet, maar wel de schoone gaven,Het is een Koning die een Koninglijcke WetZich zelven int ghemoet met goude letters zet,Wiens Princelijcke ziel de deught zoo heeft verkoren,Dat hy by &apos;t vollick blijckt een Prins van God gheboren.Die Hertoch prijs ick meest, die zijn Harts-tochten snoot,Zoo breydelt en berijt dat hyse dwingt of doot.En dat&apos;s de beste Graaf die zijn Graaff&apos;lijcke zinnenGraveert, en graaft de lust tot goedt en weldoen inne.De voorste Vorst of Heer en spruyt niet uyt het hof,Maar die komt waarelijck ons vanden Hemel of.Daarom ghy edellien, die man is eerst recht adelijck,Die mijt het gunt zijn ziel is schandelijck en schadelijck.Ghy spreeckt te lasterlijck van dien wel wysen Heer,Die inde stijl des hofs en wereltlijcke eerGhenoech ervaren is: Al spreeckt hy schoon gheen talen,Men zal hem weder niet op looghen-taal behalen.Noch hy en sondicht niet godlooslijck met de mont,Zijn woorden dien hy spreeckt die gaan hem van de gront,En van de tong zijns ziels. Hy mompelt inder harten,&apos;t Gheen ander rallen uyt zoo broodt-droncken als darten:En kuyf&apos;len met de beck de reen zoo wilt en hoogh,Al waart met een rancket: zo met een sluym&apos;rich ooghEn geylheyt van ghebaar, met diep en swaar versuchtenDes adems, doch ghemaeckt: waar van de droeve vruchten,Het welck het maachdelijck en vrouwelijck gheslacht,Heeft leyder te veel ramps en onheyls toeghebracht.
+<speaker>VVare.</speaker>
+Het mach dan wat het wil, hy hoordent hem te schamen,De dinghen die hy doet hem alderminst betamen.
+<speaker>Philib.</speaker>
+De gheck is zeecker zot.
+<speaker>Ald.</speaker>
+Ghewislijck hy dunckt mijn
+<speaker>Heere.</speaker>
+Een man van hooghen staat, ja zelfs een God te zijn.Het vijfde Bedrijf, de tvveede Handeling.Aartsche Diana met haar Staat-dochters op de galderye.Hier op de galdery moet ick my wat verluchten,En zonnen &apos;t hartje van de dampen van mijn zuchten.Het wedertjen is zoet, anminnich zacht en swoel,Hoe naar by s&apos;Hemels vloer, hoe meer dat ick ghevoelDe hetten vanden dach, en niettemin ick zidderAls ick ben by mijn Son, mijn nieuwe lief mijn Ridder,Die heymelijck op mijn zijn jonst zoo heeft gheleyt,Dat hy verkreegh tot eer de kroon der trouwicheyt.Ach alderkuyste helt! indien my waar ghegevenZoo veel schoonheyts als u, ick trotsten al die levenIn ghelijck aardicheyt in zinlijckheyt, in min,Waar in ick mijns ghelijck op aarden niet en vin.De Zon sal nimmermeer geen trouwer twee beschynen,Noch reyner liefde in de Wereldt moghen vynen.Maar een ding quelt my, troost! dat&apos;s dat ghy u gezichtAfkeerich van mijn treckt, en slater op mijn Nicht,Die breyneloos vergeckt haar niet en weet te dragen,Maar wttert ongheveynst daar af haar wel behaghen,Tot mijn leetwesen ach! ick sach het lestmaal an,Ick voelden &apos;k weet niet wat, dat ick niet segghen kan,Die kranckheyt is by mijn, &apos;k mach om mijn bloedt niet lyenDat yemant my mijn lief zou diefs ghewijs ontvryen.Neen aardighe dat&apos;s niet, dat zal niet meer gheschien,Ick moet daar in in tijdts voorsichtichlijck versien&apos;t Ghewoonelijck ghelaat van mijne gunst verleden,Dat heb ick zints verruylt aan dreutsche mydentheden:Ick sal u vallen hart en moeyelijck, ick sweert,Tot dat ghy vol van spijt na u Heer Vader keert,Zoo mach ick vry en vranck en onbekommert wesen.Lucretia brenght mijn boeck, ick ben belust om lesen.
+<speaker>Aard.</speaker>
+Alwaar ick zoo bemint van d&apos;algoedighe Goon,Dat zy aan my te schenck, o schoone Ridder boon!De scepter en de kroon van Hemel en van Aart,Zy waren zonder mijn gheen spoogh-water waardt.Al waart dat d&apos;Opper-vooght van &apos;t hoogh en heylich rijck,My in zijn grootheyt hem wou maken gantsch ghelijck,En ick u moest mijn lief hier laten in&apos;t ghequel,Wat sou den Hemel my zijn anders als een hel.En waart dat ick alhier moght dwinghen met ghebodt,En heerschappyen al de volcken dol en zot,Doch sonder u, ick souw het wereltlijck ghebien,Groothartich van ter zy niet willen eens aansien.Al wat een redelijck mensch met oogh of hart oyt zagh,Of wat zijn rijck verstant bedenckt of wenschen machOm te besitten hier, of namaals uyter tijdt,Dat acht ick sonder u veel min als nietten mijdt,Maar als ick mach mijn Prins by u zijn onbevreest,Zoo voel ick mijn zoo rijck, en wel vernoecht van gheest,Dat ick versmijt en puf de doot en &apos;t wreet gheval,Want in u zieltjen is mijn hemeltien en al.Maar of u schoon mijn zinnen,Oneyndelijck beminnen,Zoo heeft de jalousy,Een wreede wrock op my.Mijn Nicht die my voor desen,Zo vrientlijck plach te wesen,Die thoont my inder daad,Nu niet dan alle quaadt.Met woorden en met wercken,Dan ick en wilt niet mercken,Als zy mijn al wat zeydtIck gheef haar gheen bescheydt.Want beter ist ghesweghen,Als ergher noch ghekreghen,Zy maken&apos;t vaak zoo grof,Dat ick my wt het hof,Wel dickwils denck te gheven,Maar wat? ick kan niet leven,O Ridder zonder u!&apos;t Is om ghekomen nu.&apos;t Roer van mijn zinlijckheden,En luystert na gheen reden,Ick gheef my vande ree,Laas in een dolle Zee.Wiens zorghelijcke baren,Zijn ancxstich te bewaren,Zoo &apos;t scheepje strant oft stoot,Mijn voor-landt is de doot.Ick ben ten eynde rade,Ick pas op schand&apos; noch schade,En of mijn Nicht met spijt,Mijn liefde my benijdt.Noch heb ick voorghenomen,Tot mijn opset te komen,Dus ga ick andermaal,De Keyserlijcke zaalMet droefheyt nu bewand&apos;ren,Ach mocht mijn zin verand&apos;ren,Princesje u beraat,Bedenckt dat ghy bestaat.Zoo schandelijcke dinghen,Ick kan my niet bedwinghen,Met wijsheyts toom noch wet,Ick moet my op het bedtEen weynich neder zetten,Och kon ick toch beletten,Mijn zotheyt en de lust,Die mijn zoo seer ontrust.
+<speaker>Amour.</speaker>
+De vrou ging na haar kamer de Lantsknecht volghde na.Dat&apos;s braaf, ick wet by mijn Ian Oom dat zy t&apos;samen zullen spelen pick oli graaf,Of Symen de liever de laver de bock,Hoe veel hoorens staander achter op.Wat ghebrabbel heb ick hier, spelen dit de rijcken?Ick wil aan dit spel een paartje wel verkijcken.
+<speaker>Aard.</speaker>
+Mijn kleene vrientjen, ach mijn waerdich wel behaghenMijns ziels! wilt desen ring tot mijner eeren dragen,Op dat ick u mijn hart daar aan in &apos;t zeecker ken,Dat ick de dienares van uwe hoocheyt ben.En zijt verseeckert Heer, dat ick beneffens desenZoo zeer den uwen ben als ick mijn plach te wesen.Zoo u ghenade my die deught en wellust doet,Dat ghy met mijn vertreckt mijn alderhoochste goedt,In mijn Heer Vaders hof en Princelijck ghebouwen,Ick zal gheen ander man van al mijn daghen trouwen,En ick die zal u doen de diensten en de eer,Die yder schuldich is zoo deughdelijcken Heer:Die meer te lieven zijt als &apos;t gheen wy liefden heeten,En die wt liefden my, mijn plicht my doen vergheten.Helaas! ick ben te stout, de jonst die ick u draagh,Die maackt my dat ick laas! na eer noch schant en vraagh.In dier manieren lijf dat ick u moet verklarenYets, dat ick nau in &apos;t vry mijn selfs derf openbaren,Daerom mijn soeticheyt hebt deerenis met my,En met den brandt die ick om uwen&apos;t wille ly.
+<speaker>Amour.</speaker>
+He wel wat rijt my de meyt, zy steeckt hem aan de hant,
+<speaker>Moersg.</speaker>
+Met alle lieffelijckheyt een schoone diamant.Ach Moersgoelick ick ben zoo verlieft! dat ick van smart swiet.Ach vaar bijntet beneen jou kousebant zoo slatet om u hart niet.De liefde is een eungier ding, het loopter een deur zijn bloedtGhelijck als de popelcy, of als quicksilver in een hoet.
+<speaker>Amour.</speaker>
+Ach mijn lenden! is dat gicht? Ick soumen wel root kryten.
+<speaker>Moersg.</speaker>
+Ia kijnts, als een mensch veegh is een luys zou hem doot byten.
+<speaker>Amour.</speaker>
+Och mijn Iaapickje! gaat van mijn hartjen of ick swijm,Nou ick verlieft bin Moersgoelick nou die ick alle ding op rijm.Ic eet op rijm, ic drinck op rijm, ick slaap op rijm, ick droom op rijm, zeper buysjeIck pis op rijm, ick kack op rijm, drie dreuteltjes netjes in een peper huysje.Ick snuijt op rijm, ick vijst op rijm, perfeckjes met een snaars,Zommetjes, trompetjes, en klinkertjens, en stinckertjens met mijn naars,Deluy verwongd&apos;ren heur dat ick zoo op rijm snacken kan.
+<speaker>Moersg.</speaker>
+Ten is niet vreemt, de liefde en die kunst comennWy hebben een dienstmeyt, een ammeraaltje in onse buurt,Ia die rijmt alle lietjes van afteren als sy staat en schuurt,Zoo propertjes, zoo fijntjes, schijt Dichters, schijt Druckers, schijt setters,Zy schijt incarnatien, kreeft-dichten, al zonder letters,Maar met Hebreeusche karacters, heur hempt is zo dicht vermaaltMet eylannDat&apos;s wat mier als men mient, wat zack is dat? Zy slacht Ian bruynen neus.
+<speaker>Amour.</speaker>
+Zy mocht de duyvel, wat sac is dat?
+<speaker>Moer.</speaker>
+Ia maar s&apos;is AmoureusEn als die mallicheyt wat heftich in een moye vrijster is,Zo dichten zy nacht en dach zo lydich dattet te bijster is:En als ghy&apos;t van haar hoort ofgaan, &apos;t gaat offer een goddin spreect.
+<speaker>Amour.</speaker>
+Wel dat is tovery, wie duyventer of het heur in steeckt?Heyntje man met zijn peck-stock is toch zo veel mans niet.Dat moet werentich een veugel wesen die Hans niet,Want die Hansen en die Francen die dichten als de droes.Ach! ick ben zoo Amoreus op een excellente kroesMet nieuwe rijnsche wijn, so besucht dattet wongder is,En op een goet lecker bancket dat wel helfte ghesongder isAls een pongt schot-spijckers en laskysers in mijn maach,En zo duysent duyvels verlief ick alle dommelijcke daach.Ick segget by mijn manne waarheyt dat de liefde een groote last is,Want mijn darmen kryten als mag&apos;re verckes alsmen backes niet te gast is,En mijn zinnen rasen en werden lancx hoe woesters,Zoo ben ick verlieft op raf, op rekeling, op kavyaar, op oesters,Op sweeserickes, maer &apos;t gheen my meest bekoortDat is een kapoen zo hy rijt en zaylt, ghelaarst en ghespoort.
+<speaker>Moersg.</speaker>
+Zo moet ghy hier niet wesen, gaat daar vry eten
+<speaker>Amour.</speaker>
+Of hier gheen ouwe Hoender eters onder den hoop zijn?Neen, zy zijn al inde kroegh met de neus int nat, of inde kaatsbaan.Och ick ben so verlieft Moersgoelick, ick can niet vande plaats gaan.Neen moer &apos;t is hier een vaan, die gaat die gaat,
+<speaker>Moersg.</speaker>
+Ick beveel hem de wacht, niet te verlossen, die staat die staat.
+<speaker>Zeege.</speaker>
+Ach waarde Margareete!Ick can u niet vergheten,Mijn hart is te ghetrou,Ick min een doode vrou:En zalse eeuwich minneMet hart, met ziel en zinne.
+<speaker>Amour.</speaker>
+Datsen geck, hy loopt met den Aap zo waar as ick hier sta,Een doo vrouw&apos;, ick wouse niet hebben al liep zy mijn naDrie maal om de Heylige-stee, en eens op het Kerck-hof:Ick ben mee wel een poosje Amoreus, maar ic heb daar geen werc of.Ghy zijt al doot gheweestDrie Iaar maar in mijn gheest,Zoo zult ghy eeuwich leven,Hoe zoud&apos; ick haar begheven,Die steets in mijn ghemoetHaar aanschijn toont zoo zoet?Dat ick in mijn ghedachten,Gheen mensch die leeft can achten:&apos;k En hebt oock noyt ghedaan,Noch zal niet licht bestaanEen ander lief te trouwen.Hoe wel Dochters en VrouwenMy (onberoemt) doen zien,Meer jonst als ick verdien,Of immer can verdienen.
+<speaker>Amour.</speaker>
+Gants lyden speciaal ghy mocht mijn jou backis wel wat lienen,Want ick heb een aanzicht en een graci as Hazemoers kijnt,Want als my de mallemerocken en vrijsters zien zoo loopense inde wijnt.
+<speaker>Zeege.</speaker>
+Nu zal ick stommeling groeten,En vallen voor de voetenVan s&apos;Keysers liefste kindt,Die my zoo &apos;t schijnt bemindt:Die mijn wel zou behaghen,Indien ick min kon draghen,Maar zeeckerlijck haar Nicht,Die doet mijn door&apos;t ghezicht,En lieffelijcke werckenNoch hoogher dinghen mercken,Hoe wel &apos;t mijn noyt beviel,Want &apos;t zedert dat mijn ziel,Margreta heeft verkooren,En heb ick noyt verloorenHaar lieve beeltenis,Dat mijn zoo weerdich is,Dat ick om harent wil grootmoedich zou versmaden,Goddinnen zose my tot haarder minnen baden.
+<speaker>Aart.</speaker>
+Staat-dochters gaat ter zy,Wat zoo nu ben ick vry,Ick ben al wars van &apos;t lesen,Maar immers wat macht wesen?Ick kan&apos;t niet wel verstaan,Mijn Nicht is voorghegaan,En hy volght op haar hielen,Dit raackt my totter zielen,Ick krijgh een quaadt vermoen,Ick moet zien wat zy doen.Ick zal my hier verduyst&apos;ren,Om alles te beluyst&apos;ren.
+<speaker>Aard.</speaker>
+Och eenich onderhout en zieltje van mijn leven,Nadien de Goden ons tijdt en bequaamheyt gheven,Om vryelijck de gunst te thoonen van &apos;t ghemoet,Zoo bid ick dat ghy my maar die genade doet,Dat ghy mijn, o mijn vreucht! die weldaat laat ghenieten,Waar zonder dat mijn ziel het leven moet verdrieten.
+<speaker>Aart.</speaker>
+Wat onbeschaamtheyt ach! zy kust hem aan de wang.
+<speaker>Amour.</speaker>
+Alzoo mijn moer, raak wat, wel dat duurt vry wat lang,Waar ick as ghy Princes ick zouwer niet uyt scheyenIn een maant vijf ses, en mijn stirredom tusschen beyen.Hy loopt e wech, ten lijckt niet, wat Ioseph is dat?Ick zout warachtich niet weygheren datse my eens badt.
+<speaker>Zeege.</speaker>
+Ach mijn Margareete! ach mijn trouheyt is zoo groot!Dat ick d&apos;onkuysheyt haat ghelijck de felle doot.
+<speaker>Arch.</speaker>
+Hoe reyne Ridder hoort.
+<speaker>Zeeg.</speaker>
+Waar toe ben ick ghekomen?
+<speaker>Aart.</speaker>
+Niet zonder oorsaack Heer, zoo hebdy afghenomenDe kroon van Brademant, want u oprechte trouIs grooter als de lust van dese gheyle vrou.Maar schaamteloose maaght, ick sweert ick zal&apos;t zoo maken,Datmen u straffe na gheleghentheyt der zaken:Want ick zal openbaar doen kundighen door&apos;t lantDe oneer schandelijck daar ick u op bevant.Hy knielt en bidt voor Aardige.Zulcx datmen nimmermeer zal u aensien en houwen,Als voor de vuylste Hoer van d&apos;alderlichste vrouwen.Ach edel Ridder rijst! ick sweert u op mijn eedt,Dat ick mijn Nicht om u zal doen het minste leet.Hy bedanckt en gaat.
+<speaker>Amour.</speaker>
+Gaat heen ghy laffe guyl, gaat heen ghy bloote Iorden,Zou ghy&apos;t wel weygheren vryer dattet jou ghevraacht worden?Datset my verghden ick zeghje dat, al ben ick van dat evel niet zieck,Ick zou dat Casteel bestormen al had ick maar een halve pieck.
+<speaker>Aart.</speaker>
+Maar wilde woeste bles, wat hebdy derren peysen,Dat desen Ridder zou om uwe schoonheyt reysenWt ons groot machtich hof in u Vaders ghebiedt?Ach arme sottinne! wel wat en denckt ghy niet?Van waar is u &apos;t ghedacht zoo over dwars gheresen?Daar toe zoo hebben wy den helt te veel bewesenDat hy u volghen zou, u hoop en heeft gheen schijn,Doch zoo ghy&apos;t waant ghy zult verr&apos; van u gissing zijn:Want al ist dat ghy hem schoon tot uwent zoeckt te throonen,Om met een staat van eer zijn waardicheyt te loonen,Zoo can ick in een dach hem doen wel zoo veel deughtAls ghy in duysent Iaar in &apos;t minste niet vermeught.Ick hadde noyt ghedocht dat in een borst hoogh-aardichKon zijn zoo onbeschaamt een stoutheyt zoo lichtveerdichDat my grouwelt. O schant! een maaght, een ted&apos;re maaght,Een man, O lelijckheyt! tot vuyle minnen vraaght.Hay! o! &apos;t is te eereloos! ick achten u de vroomsteIonckvrou. O &apos;t is een smet in u hooghe afcoomsteDie ghy niet waardich zijt, en denckt niet dat ick lien,Van die baldadicheyt mach in mijn selschap zien.Daarom verziet u stracx, en wilt te rugghe tyen,Want ick sodanighe niet langher hier mach lyen.Zo ghy zulcx had in t&apos;zin waarom bleefdy niet t&apos;huys,En blusten met u knechts u weeld&apos;richeyt onkuys?Of waardy meer belust de Keyserlijcke zalenTe verontreyn&apos;ghen hier met u snoode schandalen?Ghy hebt u zelfs helaas! toch al te cleyn gheacht,En al te weynich oock het doorluchtich gheslachtVan u maachschap en bloedt daar ghy aan zijt verwant:Noyt quam die grofheyt my eens vallen in &apos;t verstant,Dat een Edele maaght van Koninglijcken zadenAlzo beyv&apos;ren zou haar eyghen schant en schaden.O dit&apos;s te tuchteloos voor een Princes van staat!&apos;t Waar quaadt ghenoech waart ghy een vodde vande straat,Of een ghemeene vrou van onghebonden zinne.Verziet u en vertreckt. Wel aan ick ga na binnen.
+<speaker>Aard.</speaker>
+O Goden dat&apos;s een spijt! &apos;t is wonder dat mijn hartNiet uyt het lichaam barst zo pynicht mijn die smart.Nu ick mach inden hof een weynich my vermaken,Zoo&apos;t moghelijck is dat ick aan lichtmis can raken.
+<speaker>Amour.</speaker>
+Gaat heen Lijf-drijts, gaat heen, ghy hebje gat welle schraapt,Nou ick mach oock gaan, ick heb hier lang ghenoech egaapt.
+<speaker>Heere.</speaker>
+O wonderlijcke Goon! wat aartsch vernuft sal ramenV onbegryp&apos;lijckheyt de Hemelsche lichamen?Die zijn zoo sonderling van krachten en van aart,Ghelijck de scheps&apos;len zijn die ghy zoo seltsaam baart,Datter van duysenden gheen twee zoo lijck ghelijcken,Of daar sal hier of daar wat onghelijckheyts blijcken.&apos;t Zy in ghedaant of form van lichaam, en van gheest,Verscheelen al ghelijck meest alle menschen meest.Want d&apos;een is wilt en woest, en d&apos;ander is ghelaten,Even en alleleens zoo gater met de StatenDes werelts, d&apos;eene mensch die rijst van staat tot staten,Daar d&apos;ander inde dreck van arremoet vergaat.Den een die leeft in vreught, vernoeght en wel te vreden,Daar d&apos;ander stadich sucht om zijn rampsalicheden.Ghelijckerwijs als ick doe in mijn druck en pijn,Maar alst u zoo ghelieft ist best lijdsaam te zijn,En met gheduldicheyt u wille te verdraghen,Tot dat u goetheydt zal mijn droefheyt eens wanhaghen,En sachten eens mijns smart met een onsegg&apos;lijck goedt,Dat is dat ghy beweeght mijn Aardiges ghemoetDat het toch buychsaam zy, en dat sy met melyenEens noosselijck aansiet mijn over droevich vryen,Dat sy tot noch helaas! afwysich heeft versmaatAan Hereman, ziet op: Ziet waar zy ginder staat.Aardige en Heereman.Hoe prangt mijn het verdriet, de spijt en het beschamenVan mijn vervloeckt versoeck: dees Moorders stooten t&apos;samenMy vanden top des achtbaarheyts daar ick op stontNoch stracx. Nu leydt mijn eer, ach! in een helschen gront,Laas in een ooghenlick begaan my zo veel snevensAls niet te beteren is met hondert duysent levens.Ach! had ick wel bedacht het endt eer ick begon.
+<speaker>Heere.</speaker>
+Wat sware nevel deckt het schijnsel van mijn Zon?Wat wollick mach zoo drist wijt luftich hem verdwalen,Dat hy belemmert lief de klaarheyt van u stralen?Mijn jammert dat ick u mijn silver schoone Maan,Zoo dampich en bedompt van droefheyt moet zien staan.Wat is de oorsaack doch? Hoe wendy zoo u stantjenst?Wat draaghdy Troosje zeght, in u snee witte hangtjens?
+<speaker>Aard.</speaker>
+Beleefden Edelman, het is de schildery,En het afbeeltsel van het ghene dat ick ly,Want zoo de sachte zy zeer streng&apos;lijck hout ghebonden,Dees bloemjens die&apos;ck met lust heb inden hof ghevonden,Zoo houwt den bandt des mins behaag&apos;lijck zoet in mijn,Verstrickt en dicht ghevoecht de smerten die daar zijn.
+<speaker>Heere.</speaker>
+Maar dese bloemjens lief seer schielijck licht verdwynen,En eeuwich duuren, laas! d&apos;oprechte Minnaars pynen.
+<speaker>Aard.</speaker>
+Dat&apos;s waar sy dorren haast, maar d&apos;aarde brenght vol gloor,Zeer weeld&apos;rich alle daagh daar varsche nieuwe voor.Zoo ist oock in de min, komt een smertje te sterven,De vruchtb&apos;re liefde doet u thien daar door verwerven.
+<speaker>Heere.</speaker>
+Maar die voorteeling daar ghy zo beknoft of roemt,Die is niet inden brandt die ghy my hebt ghenoemt.
+<speaker>Aard.</speaker>
+Ghelijck als dese bandt dit bos hout by men kander,Zoo kan zy anderen oock wel houden aan den ander,Alzo hout oock den bandt der minnen streng en kort,Die nieuwe droefheyt die door haar gheboren wordt.
+<speaker>Heere.</speaker>
+Ach edele Princes! u lust van &apos;t spoor te wijcken,Want hoe kundy een bloem by yemants smart ghelijcken?Daar alle bloempjens zijn behaghelijck en soet,En alle quellen die zijn lusten voort ghemoet.
+<speaker>Aard.</speaker>
+De dinghen quaadt of goedt die van beminde komen,Die werden al voor zoet in &apos;t zuycker opghenomenBy ware bevertjes die d&apos;aldergrootste pijn,Veel aanghenamer is als dese bloemjens zijn.Mijn Maachden zydy daar? gaat wilt mijn bedde spreden,Want ick ghevoele my seer qualijck in mijn leden.Met oorelof mijn Heer, ick ben niet wel te pas.
+<speaker>Heere.</speaker>
+Princes het is mijn leet, ick wilden&apos;t beter was.Sy gaat binnen, en komt daar na vveder uyt.
+<speaker>Aard.</speaker>
+Godlijcke rymery, die met den May der Iaren,Mijns jeughdelijcken tijdts zijt steelwijs wech ghevaren:Laat nu my herrest toe dat zy in vaarsen zinghtHet parsent herten-leet dat ziel en lijf bespringht:Mijn nakent eynde komt met groote schreede stappen,Waar toe zo las ick oyt de Griecksche wetenschappen,Ende gheleertheyt vanden kloecken Arabees?En al de kunsten van de schand&apos;re Chinees,Om praatjes yl? O neen, maar om dat ick doorlesenHeb mijns selfs nut, en een ander sticht&apos;lijck mocht wesen.O SaphoEn &apos;t juytert mijn de galm van desen inhout in.Sy zinght dit volghende Liedeken.O Maachden die met wond&apos;ren zietMijn verdriet,Mijn woorden&apos;t martelend&apos; lyen,Dat nu pynicht mijn ghemoetIs mijn zoet,Door mijn ongheluckich vryen.Ghelijck de wilde witte ZwaanDoet verstaan,Hare doot met droevich zinghen,Zoo queel ick nu oock uyt noytVan mijn doot,Door zijn dreutsche weygheringhen.Het quaadt dat my steets knelt en knaaghtEn dus plaaght,Is van zijn schoonheydt ghecomen,Doch de quelling van mijn zinHeeft begin,Wt mijn trouwicheydt ghenomen.De lust tot zijn ghekroonde deughtDrong mijn jeught,Om zijn vroomheyt te beminnen,Die mijn toch zoo wel bevielMaar zijn ziel,Is te koel en kout van zinnen.Wat ick hem treck, wat ick hem troontuych en toon,Met ghezichten en met zuchten,Hoe dat hem mijn hart bemindt&apos;t Is al windt,Hy doet niet dan van my vluchten.Ongheluckighe als ick benIck en ken,Hem niet volghen noch begheven,Dies moet ick met pynen wreetEn met leet,Eynden laas! mijn druckich leven.Wat can op aarden swaarder zijnAls met pijn,Het gheliefde lief te derven,En dat is met strengicheytMijn ontzeyt,Daarom wensch ick om mijn sterven!Want het leven is dunckt mijnMaar eens chijn,En een staghe doot te achten,Nu gaat heen mijn lusjens zotIck wil Godt,En mijns levens eyndt verwachten.Erbarmt u wreede doot, houwt op van &apos;t ziel kastyen,En endicht te ghelijck mijn lyen.Ach!
+<speaker>Herem.</speaker>
+Helaas! wat hoor ick? Ay ziet het schoon kouraalWerd deluw, en &apos;t verlept, haar wanghen werden vaal:Z&apos;is doot, z&apos;is niet, zy rept, hoe spalckt zy op haar ooghen?
+<speaker>Aard.</speaker>
+Neen ick kan langher niet u tyranny ghedooghen,Ick zal mijn smart met list een voordeel winnen af,En brenghen voor mijn tijdt mijn lichaam in het graf.Hereman grijpt naar &apos;t mes, zy valt en sterft.O Goon het is ghedaan! mijn lief is overleden,Zy heeft haar loop volbracht, zy heeft haar strijt ghestreden.Maar ick helaas! blijf hier een weenaar van mijn vrouw&apos;,En erfghenaam van hare naghelaten rouw&apos;:Al ben ick niet van &apos;t bloedt noch vande naaste bedden,Maar &apos;t sterf-huys is helaas onmoghelijck te redden!Den inboel isser uyt: &apos;t is leegh van &apos;t beste goedt,Het kisjen isser maar van &apos;t zieltjen en &apos;t ghemoet.Ha wreede Hemel fel, ghy maackt door u beweghenDe tochten vande mensch wel tot de min gheneghen.Waarom maackt ghy niet zoo melylijck het gheluck,Dat het met deerenis aanschout mijn droeve druck?O licht van mijn ghezicht! o Ed&apos;le gheest doorluchtich!Waarom ontsweefdy my zo schielijck en zo vluchtich?Wel aan ick zal u stracx int hemelsche ghebouNavolghen met de kracht en wiecken van mijn trou.Heyloose ooghen, ach, wel zalich zijn die dwalenIn duysternissen dicht: gheluckich die de stralenDer Sonnen niet en zien. Maar heylich ist gheslachtDat hier ghezeghent is met een eeuwighe nacht:Want zijnde steken blindt door d&apos;akelighe dampen,En zien zy nimmermeer de wereltlijcke rampen,En de lichtvaardicheyt des spoets zo scheef als schuyn,Dat zijn ghevallen smackt plots op des schepsels kruyn.Ziet hier het beeldt, waar met natuure plach te brallen,Ach dat is door de nijt des avontuurs vervallenVan zijn hoochwaardicheyt, dies dult mijn hart een pijn,Die wel de Beule mocht van alle Beulen zijn:Ia die de wreetheyt zelfs zou pynighen tot spart&apos;len,En als een hencker straf van lit tot lit toe mart&apos;len,Die roep ick om de doot. Komt wenschelijcke doot,En verlicht desen romp in u gheruste schoot.Komt doot! o zoete doot! komt have der bedruckten:En helle van de gheen die &apos;t al na wensch gheluckten,Doorstoot den ballich van den hoopeloosen helt,Die troosteloos zijn heul in u ghenaden stelt:Want daar en is gheen raat dan dat ick met het ghevenMijns ziels een eynde maack van my te leyde leven.Hy doorsteeckt hem.
+<speaker>1. Choor.</speaker>
+De koets is al ghereet. Wat&apos;s dit? Ach! wapen! moort!
+<speaker>Aart.</speaker>
+Wel wat ghegalp is dat?
+<speaker>2. Choor.</speaker>
+Wie heeft oyt zulcx gehoort?
+<speaker>Keyzer.</speaker>
+Wel wat is hier te doen?
+<speaker>1. Choor.</speaker>
+Och wapen moort! och wapen
+<speaker>Lethe.</speaker>
+Maar wat gherucht is hier?
+<speaker>Alder.</speaker>
+Aardighe is ontslapen.
+<speaker>Brad.</speaker>
+Hoe nu? Wat ist? En waar?
+<speaker>Zeege.</speaker>
+Zy zijn al overleen.
+<speaker>Moersg.</speaker>
+Hoe drinckt dit vollick dus?
+<speaker>Amour.</speaker>
+Waar wil de jonghen heen?
+<speaker>Lethe.</speaker>
+Och de Princes is doot!
+<speaker>Keyz.</speaker>
+Neen lief s&apos;is niet verscheyden.
+<speaker>1. Choor.</speaker>
+Daar is noch Azem in.
+<speaker>2. Choor.</speaker>
+Ofmen voor &apos;t vyer haar leyden.
+<speaker>Lethe.</speaker>
+Staat-dochters brengt azijn.
+<speaker>Moersg.</speaker>
+Ay melckt haar vingers wat.
+<speaker>Amour.</speaker>
+Moersgoelick steeckter iens een moye spelt int gat.
+<speaker>1. Choor.</speaker>
+Ontrijcht haer borstlijf wat.
+<speaker>2. Choor.</speaker>
+Ontdoet haar doch de schoenen
+<speaker>Amour.</speaker>
+De duyvel, zy is doot, gants bloet komt dat van &apos;t soenen?Ick soen mijn leven niet.
+<speaker>Lethe.</speaker>
+Gaat brengter inde zaal.
+<speaker>Keyzer.</speaker>
+Datmen van stonden aan de beste Doctoor haal,Op dat wy na de kunst daar van eens hooren spreken.
+<speaker>Aart.</speaker>
+Den Eelman is mors doot.
+<speaker>Keyz.</speaker>
+&apos;t Hart is hem afghesteken.
+<speaker>Zeege.</speaker>
+Wat droever schouspel laas!
+<speaker>1. Choor.</speaker>
+O wonderlijck bedrijf!
+<speaker>Lethe.</speaker>
+Mijn hart verdrinckt (helaas!) zoo ick hier langher blijf.
+<speaker>Alder.</speaker>
+Mijn ooghen die zijn zat van droefheyt en medooghen,
+<speaker>Keyzer.</speaker>
+Gaat brenght den hovelinck oock datelijck uyt mijn ooghen,Ick kan met mijn vernuft int minst besluyten niet,Hoe dat dit misval is ghekomen en gheschiet.Binnen.
+<speaker>Zeege.</speaker>
+Daar leyt de edele maacht, laas! in haar bloedt versopen,Ach! waarom deed ick haar zo op een bof wanhopen?Ey had ick met bedroch van veynsen om ghegaan,Tot dat zy wel bedaart haar zelven had beraan,Zo waar sy tot den val o jammer niet ghekomen,Nu heeft zy haar uyt spyt het leven zelfs ghenomen.Mijn onbescheydenheyt en boersheyt grof en groot,Die zijn de oorsaack, ach! van haar onrype doot.O vrouwelijck gheslacht! vervreemt van alle reden,Hoe vast zydy ghelijmt aan uwe zinlijckheden,Steets gheefdy volle macht u lusten quaadt en goedt,Tot dat zy eyndeling vermeest&apos;ren u ghemoet.Insonderheyt als ghy u selven laat verwinnenVan u begheerlijckheen en &apos;t al te dartel minnen:Want dan kan schaamt noch eer, noch quelling noch verdriet,Noch vreught, noch vrees, noch doot u zotheyt doen te niet.Dat tuyghen Phedria, Dianira Mirrha,Oenone, Salmacis, HyperminestraThisbe, Dido, Hero, Veel eerelijcker is ghesweghen dan gheseyt.O hooghe Hemel-Heer! die &apos;t alles zijt in allen,Na dient u heeft behaaght dat ick heb moeten vallenIn die ellendicheyt van dit rampsalich stuck,Behoet my voortaan doch voor swaarder ongheluck,Dewijl &apos;t u heeft ghelieft het beeldt van my te scheyden,Waar in mijn zinlijckheyt zoo speelwijs haar vermeyden,Als ick het aanschijn zach dat wel mijn lief gheleeck,Dat my zoo vierich en zoo neerstich weer an keeck,Met ooghen die onkuys en al te vonckent waren.Ick ziet nu o mijn Godt! dat ghy om mijn welvarenDit quaat hebt toe gestuurt. Bedwinckt doch mijn genegentheyt,Op dat ick my o Heer! in zulck een gheleghentheydtMy wyder niet verloop.Binnen.Doctoor en Amoureus.Amoureusje, Doctor gratianus, een oudt wijf Moersgoelick, en Modde van gompen.
+<speaker>Amour.</speaker>
+Want ghy verstatet jou Dominus Doctoor gratianus,
+<speaker>Dort.</speaker>
+Echo habio Elperiencia Soli Deo gloria, homo bulle.Niet mier as een wijnt, of als een lichte bel, of als een ouwe bal.Echo sumas practicam, hoc est fabricando fabricimes,Non omnia posuminus omnes. Nignit omnes,Vixtus Vicerus Tryomphat. Sic est vero Proverbiorum médax, amor vincit omnia.
+<speaker>A.</speaker>
+De Doctor is mal.Dan dat gebreck hebbese allegaar, maar als zy wat latijns spreken,Zoo schijnen&apos;t gheleerde mannen voor de slechte Leken.Dese vent die preutelt hier een goet dat hy van buytene kan,En om zijn statich backus zoo houwense hem voor een wijs man:Maat ziet eens te deghen an het beleyt van zijn zaken,Zoo zout de grootste geck niet argher kunnen maken.
+<speaker>Gratia.</speaker>
+Echo sum illustrum clarissimo grandissimo, reverendissimo dator,
+<speaker>Amour.</speaker>
+Wil ickje wat zegghen DomineDie gheringe luy belooft tot groote staat te doen raken,Daar hy zelf zijn zelfs van groot tot kleyn gaat maken:Nochtans zoo gheeft hy trots de alderrijckste mens,En den armen Kramer het in zijn mars niet een lens.
+<speaker>Gratian.</speaker>
+Me est Autoricatem honoram Devine medicinam,Bona contra partem ad Malum dyabelis ho vinninam,Hoc est patient. 
+<speaker>Amour.</speaker>
+ElementschenDattet niet te seggen is, wy weten niet of zy levent of doot is,Ick weet niet watter schort, offet heur moer offet heur malloot is,En daer leyt een edelman by die dwars deur en weer deur gestekenEn hy het een gat as nabben naars dat niet te spreken is,Het heele hofghezin is zo bedroeft, want sy weten niet waarom.
+<speaker>Doctoor.</speaker>
+Komt leytmen fijn man, zoo neem ick in specibe kularum.Modde van gompen, en Moersgoelijck.Een Doctoor is een geck int stuck vande Miestery,Malle dinghen &apos;t is zotticheyt, haalter dat goore goedt niet by.Ick en mijns ghelijck die weten op een hayr hoe een vrou te moet is,Waarter deert, watter let, en wat heur quaadt of goedt isVeur heur borsten, voor haar buyck, voor haar navel, of voor haar knien,Want ick kan dat goet, al had icket van stickje tot beetjen e sien.Ick genees pest, brant, scheursels, en al wat ons mach letten.Barbiers, schijt Barbiers, zy hebben gheen saves van een klisteri te settenwy wetenDan dat daar een man zal gaan over een vrouw mensch en lijf.
+<speaker>Moersg.</speaker>
+Neen kijnts dat gat en booren zy niet, de vrouwe luy gane zeker,Ick zou dat niet velen mogen van een snotveger, of van eenDie als Cornelis Tamesz. van
+<speaker>Modde.</speaker>
+De vroutjes zijn swacke vaatjes, en die zijn lichtelijck versuymt,Ick wilder mal om worden dat de luy dus kliecken met de Doctoren,Daarse wel zien datser gesontheyt en gelt verquisten en versmoren:As een mensch een reys een veest averechts voor de naars weyt,Roept al de Doctoren van &apos;tlant daar eens over om bescheyt,Ick weet dat het antwoort van elck besonder van reen is,D&apos;een houtet met paracelcis, die met die, en die met galeenis:Ghenomen of de beste van alle jou pols voelt of sy jaacht of slaat,Zo ist noch lock raack boter inde as, of hy raat of niet en raat,Het zijn maar raatseltjes die zy de luy an-smeeren,En daar op gaan zy uyt een goet hart op de wilde bof ordonneeren:Locktet wel zoo is het wel, locktet qualijck &apos;t is ghedaan,Die mensche moorders doen zoo zijt willen en verstaan.
+<speaker>Moersg.</speaker>
+Ay misteris ghy mocht wel wat voortgaan met jou klompen.Hoe is jou naam met oorlof?
+<speaker>Mod.</speaker>
+Mijn naam is modde van
+<speaker>Moers.</speaker>
+Modde van gompen? dat krayden noyt Haan op een preeck-stoel.Ic lach dat ic barst, och modde! mijn dunckt dat ick zulckenIn mijn rechter zy: O mijn buyck!
+<speaker>Mod.</speaker>
+Dat&apos;s niemendallenKomt moer &apos;t zal wel vergaan, &apos;t is maar een misselijcke wijnt,En zo &apos;t langher duurt ick zelder jou sulcken raat veur ghevenDatje dierghelijcke niet ghehadt hebt van al jou hiele leven.
+<speaker>Moersg.</speaker>
+Ick wort zo qualijck.
+<speaker>Mod.</speaker>
+Eeter dat voor, dat helpt dat weet ick.
+<speaker>Mod.</speaker>
+Hoe hiet ghy susje?
+<speaker>Moersg.</speaker>
+Maar ick hiet Moersgoelick.
+<speaker>Mod.</speaker>
+Moersgoelick dat&apos;s wel, dat en is gheen doove gheseyt.
+<speaker>Moersg.</speaker>
+Komt en bezichticht de Princes die van haar zelven leyt.Kon ghy de oorsaack van haar mis val bewysen,Zoo zalmen u versochtheyt betalen en prysen.De Keyzer. Lethea. Aartsche. Zeege-Heer. met al de stout.Hay mijn! wat leyder maar? En &apos;t is wel te ghelooven,Dat haar de Prince heeft de maachdom willen roovenMet kracht en met ghewelt, want ick acht voor ghewis,Dat door de schending haar hart-aar gheborsten isVan spijt, om de moetwil van zijn schoffiering schand&apos;lijck,Dat by haar kleyne kracht gheweest is onweerstand&apos;lijck:Dan of ghy door u doot verraar my hebt verrast,Zoo zult ghy niet ontgaan de straffe die u past,Datmen de schender stracx doet dooden met veel slaghen,Ten verwyt&apos;lijcke hoon van alle zijn na-maghen,Ten love van mijn rijck, ter eeren van het recht,Zijn romp int openbaar voor al de werelt lecht.Medooghelijcke doot, Princesse van Armeenen,Ghy doet mijn droeve ziel bloedighe tranen weenen.
+<speaker>Lethea.</speaker>
+Ach mijn benaude hart! van droefheyt klemt en sluytMijn enghe borst, die laat nauwelijcx een suchtjen uyt.
+<speaker>Keyzer.</speaker>
+Belemmert is &apos;t ghemoet door &apos;t ongheval en laster,Datmen van stonden aan een Tombe van AlbasterIn ronde forme maack. Ick wil oock dat ghy &apos;t boutVan schoonen Marmersteen, en &apos;t verwullift ciert met gout:De pylaars stelt tot een, en neemtse zoo vol slaghen,Dat zy het boven werck volkomen kunnen draghen.Het maacxsel zy van stal uytmuntend&apos; na den stantDes eersten Konincx van het machtich Griecken-landt,Met kostelijcke reuck van balzem doet versterven,De dampen en de domp die licht&apos;lijck mocht verderven&apos;t Verweende lieve ingheweyde loose lijck,De schoonste Phenix van mijn Keyserlijcke rijck,&apos;t Zal in een loode kist wel best verseeckert blyven,Nu mach ick voort den dach en d&apos;uytvaart laten schryven.Binnen.
+<speaker>Zeege.</speaker>
+Ach rampsalighe Prins! ghy komter slecht met toe,
+<speaker>Aard.</speaker>
+De oorzaack van haar doot is wat anders &apos;k vermoe,Dat zy door groote spijt ter zielen is ghevaren,De zaack en voeght my niet aan yemant te verklaren.Nu moet ick als de lien bedruckt en droevich zijn,En ist niet inder daat &apos;t is uytwendich in schijn.Binnen alt&apos;samen.
+        </div>
+    
+        <div type="scene">
+            Het vijfde Bedrijf. Aartsche Diane, Seege-Heer, voor de ledekant.Ach mijn ghetrouwe vriendt! wat een verradery,Dorst mijn zaligher Nicht ghebruycken teghens my,Mijn tweede lieve ziel! Mijn ander ick beminde,Ach! of de goede Goon u tong wilden ontbinden,Wat vreughde zout my zijn? Mijn kleyn hartje, waaromZydy zoo sprakeloos, zo stock-stil en zoo stom?Ghy hoort mijn menichmaal mijn liefde wel ontdecken,Maar wat ist? Ick en kan gheen antwoort van u treckenGhelijck ick wel begheer. Ghedenckt u niet het goedtEn die weldaden die u off&apos;ren mijn ghemoet?Inzonderheyt mijn jonst die ick zoo vierich stelden,Ach! zult ghy dan de deught en heusheyt niet verghelden?Dat waar teghen den aart van een beleefde ziel,Daar noyt de smette van ondanckbaarheyt op viel.O pronck vande natuur! o staal der Edellieden,Ziet wat gheleghentheyt u tijdt en plaatse bieden:Ghebruycktse tot u nut, u zelven wat verkloeckt,Bestraft u traacheyt groot, aanziet wie u verzoeckt.
+<speaker>Zeeg.</speaker>
+Ach wat bekooring ach! ontzet my Heer der Heeren.Hy vviist met ziin tvvee vingers, met ziin voeten, daar na met een slappe hanghende handt.
+<speaker>Aart.</speaker>
+Ick mach by den Propheet, by Machomet wel sweeren,Dat deze stommen droes een mensche is in schijn,Om weder waardelijck mijn temteerder te zijn.Nadien dat hy versmaat met hovaardighe zinnen,&apos;t Gheen dat veel Princen groots wanhopelijck beminnen.Arabische Vorsten, ziet hier mijn rechte loon,Ick weygher u, hy mijn, dat doet mijn duysent doon.Sy gaat legghen op de koetse.
+<speaker>Zeeg.</speaker>
+V zy veel grooter danck als ick kan maken kondich,Ghy doetet groote God dat ick my niet bezondichAan de wellusten van het weelich dertel vleys,Dat mijn menschelijckheyt bespringt van reys op reys.Ghewoone tockeling maackt mijn ghemoet stantvastich,Dies dult ick oock mijn strijt ghewillich en onlastich.D&apos;Infante is ghesteurt, &apos;t is best dat ick vertreck,Eer ick haar gramschap meer tot toornicheyt verweck.Gheterchde razery maackt dolle menschen heftich,Maar hoe? ist moghelijck dat een Princes zoo deftich,En Goddelijck bedeelt, dat Asia daar op bromt,Tot zulcken stouticheyt van onbeschaamtheyt komt,Dat zy met onvertzaacht en al te dert&apos;le zinnenEen vreemdeling verzoeckt tot onghebonde minnen:Daar de nature heeft het vrouwelijck gheslacht,Tot alle eerbaarheyt en kuysheyt voort ghebracht?De zonneloose lust die wy ons inne beelden,Die is van grooter kracht als zelfs de vlugghe weeldeDie schielijck van ons vliet wanneer zy is ghetemt,Waar zy&apos;t verstant beweeght wert reden over-stemt:Die God zy danck, die mijn zo wel heeft begh&apos;nadicht,Dat ick volkomen ben ghetuchticht en bezadicht.
+<speaker>Aartsche Diane.</speaker>
+Wat grooter smaat is dit? Mijn bloedt koockt in mijn borst,Ick hing den trotsert op dat ick van schaamten dorst.Versmader, ben ick dan zo lelijck en onaardich,Dat ghy mijn niet en acht u troetelinghen waardich?Ellendighe! nu ghy ghekomen zijt tot yetDoor mijn, nu acht ghy mijn noch al mijn wel doen niet.Door wien zydy, o bloedt! tot hoogheyt doch gherezen?Wat zoudy arme mensch zonder mijn hulp doch wezen?Wie een landtlooper helpt, een hanghe-bast verschoont,Die wert end&apos;lijck van haar met alle quaadt gheloont.Ach almachtighe Goon! hoe mooghdy doch toe latenD&apos;ondanckbaarheyt, die ghy als grouw&apos;lijck plach te haten?Vervloeckte stommen boef, ghedenckt u niet o siel,Dat ick u leven met mijn voor-bidden behiel.Ghedenckt u niet, o guyt, dat ick u heb doen vindenGhenade, heul en heyl, by Vader en by Vrinden?Ghedenckt u niet, o schudd&apos;, dat ick u heb ghebrachtIn zulcken weerdicheyt, datmen u meerder achtAls zelfs mijn eyghen Broer? Ick zal u wel doen heughen,Wat onbekenzaamheyt en vrouwe haat vermeughen.O schuymzel der schepsels, u beestich snoot ghemoet,Erkent de eere niet diemen uyt heusheyt doet:Ick zal de bittere spijt van &apos;t schotsche weyg&apos;ren wreeckenZoo dapper, datmen daar zal weten af te spreken.Hoe macht u van &apos;t hart, Aartsche Diane, datGhy dus schamper beschelt, die ghy lief hebt gheacht?Die ghy lief hebt ghehadt niet als de lichte vrouwen,Die yder lieven en gheen zinlijckheyt en trouwen.Maar als een schoone ziel in welcken blijft gheprintDe liefde van het beeldt die het onentlijck mint,Want minne diemen haast en licht veranderen kan,Die houd ick voor gheveynst en niet oprecht begonnen.Alderbraafste man, al schijn ick nu zoo quaadt,Ick gun u meerder goets als ick u mercken laat:Mijn brallert, &apos;t was mijn schult, ick was te wanghelatich,V deg&apos;lijckheyt vernoecht veel meer een aanschijn statich,Dan wuftheyt weeseloos, dan ooghen propte volVan ritsche geylicheyt en heete luste dol.O goude maticheyt! t&apos;zints ick u heb begheven,Verloor ick laas de kunst van wel te konnen leven.Wanneer de red&apos;lijckheyt des ziels verbannen werdt,Zoo loopt voor balling-slants de eerbaarheyt van &apos;t hart.O toomeloos ghemoet! hoe komt my staach op steyg&apos;renDe bitterheyt des smaats van &apos;t alte dreutsich weyg&apos;ren:Wtheemsche laffe mens, duur zal de hooghmoet staan,Die ghy hebt aan een vrou een groote vrouw&apos; begaan.Maar hoe? zoud&apos; hem mijn ziel doch immer konnen haten?&apos;t Is my niet mog&apos;lijck om gram my te ghelaten.Maar ick beklaagh ghelijck u zotheyt en de mijn,Hy wil niet daar hy mach zoo groot en machtich zijn.O blootheyt zonder gront! u meerder komt u vryen,&apos;k Heb met u slapheyt en mijn dwaasheyt medelyen,Hoe dat hy mijn meer hoons, meer trots en quaadts aandoet,Hoe ick hem liever wil, en wensch in mijn ghemoet.Binnen.De Keyzer. De Negreensche Bode. En dan Amaran. Prince met zijn vier Broeders ghewapent, uytghenomen de helmen en hantschoenen.Amaran Prince van Nigreen, komende onderuyt van &apos;t graf van Aardige, en gaat na de Keyzer.Daar leyt mijn hoop, helaas! daar leyt mijn uytghelesen,Daar ick int leven noyt eens op heb meughen wesen.Betreurelijcke doot te luttel ist gheluytMijns lichaams, om mijn druck te recht te brommen uyt.O Hemel! wat de mensch voor vast hem gaat voorsetten,Dat kunt ghy met een winck een ooghenblick verletten.Ach mijn beloofde Bruyt! wat laat ghy mijn al druck,Ach door u! en door mijn t&apos;onverwacht ongheluck.Lichtvaardighe Fortuyn, hoe hebdy niet ghegeven,Dat ick haar eensjens zach int waarde lieve leven?Ach schoonheyt wonderbaar! een zond&apos; meer als ghemeen,Heeft hy begaan door nijdt van uwe Godlijckheen,Die onverdient en wreet u &apos;t leven heeft ghenomen,Dan dat vertroost mijn wat dat ick hier ben ghekomenIn zoo bequamen tijdt, dat ick de schelmsche daatVan haar zal straffen met het aldergrootste quaadt.Aan haar en hem zegh ick, die staande maar wil houwenDe gheweldighe moort bedreven aan mijn vrouwe.
+<speaker>Sijn Broeder Vrederijck.</speaker>
+Wel Broeder wel hoe dus mistroostich en bedruckt,Misschien is zy versuymt of snel verongheluckt:Ten voeght zo groot een Prins zulck wesen niet te dryven,Laat die kleynmoedicheyt de moedeloose wyven,Die om het minste ding stracx thoonen &apos;t meeste leedt.Gaat stelt de wraack in &apos;t werck ghelijck ghy u vermeet,De klachten die ghy doet zijn vruchteloos begonnen.
+<speaker>Amara.</speaker>
+Ick ben van schaamt en spijt tot in mijn ziel verwonnen.
+<speaker>Vrede.</speaker>
+Daar komt de Keyzer met zijn Heeren altemaal,
+<speaker>Amera.</speaker>
+En gaan wy door dees poort tot midden inde zaal.De Keyzer met al zyn staet zit in zyn Troon.Wat mach de veemde Prins, O Vorsten herwaarts jaghen,Dat zoo ghewichtich is om hier te komen klaghen?Daar&apos;t Eylant van Kalfa zo ver van Phrygi leyt,Daar komt den grooten helt, laat hooren wat hy zeyt.Amaran na een groote eerbiedinghe zeght heel glorieuselijck dese volghende regelen.Heer Mogenste Opper-Heer van&apos;t Aziaansche Rijcke,Vermaart voor goedt en recht, ja also deughdelijcke,Dat ghy een yder een zijn billijckheden doet,Al waart teghen u zelfs of yemant van u bloedt,Ick twijffel niet dat ghy te straffen zoudet schuwen,Al waart schoon dattet waar de naaste van den uwen,Als hy met laster van verraderye boos,V kroon of u persoon yets maeckten eereloos,Op het vertrouwen van u deuchden uytghenomenVerliet ick mijn ghebiedt en ben hier aan ghekomen,Met die vrymoedicheyt, om voor u MajesteytV dochter van verraat en van moordadicheydtTe overtuyghen stracx indient my mach gheschieden,Dat u ghelieve die hier dart&apos;lijck te ontbieden,Want zy heeft valschelijck met wreetheyt onghehoort,Haar Nichte de Princes onmenschelijck vermoort,En overmidts de zaack zoo heymelijck is bedreven,Datmen daar kunt noch ken, noch blijck daar af kan gheven:Zoo ben ick hier bereydt om met de wapens stout,De Ridder die haar zy of haar onschuldich hout,Int open ruyme velt stoutmoedich te bevechtenTot d&apos;uytgang vande strijt ons eyndelijck zal rechtenVan mijn antichting vals, of van haar grouwel snoot,Dat is door &apos;t vonnis van een schandelijcke doot.
+<speaker>De Keyzer.</speaker>
+By al de Goden, Prins, daar wy lien onderschuylen,Gheloof ick nimmermeer dat een zoo overvuylen,En hel-waardighe daat oyt in mijn Dochters gheest,Gheherberght of ghehuysvest is gheweest.Maar na dien dat ick moet door het ghebodt van reden,Za ick hanthaven u, in u gherechticheden.Zoo sweer ick u op trou, en op het heylich recht,Zoo ick haar schuldich vijn aan &apos;t ghene dat ghy zeght:Het zy in raat of daat, ick zal in zulcker voeghenHaar straffen, dat ghy u volkomen zult vernoeghen.Gaat haaltse my al voort.Aartsche Diane uyt, en ghezet by haar Vader.Ziet Prince hier de gheen,Die ghy betydet met de snootst der lelijckheen,Stelt nu u voorslach voor, en kundy&apos;t ons bediedenMet waarheyt alst behoort, u eysch zal u gheschieden.
+<speaker>Amara.</speaker>
+Ick dencke niet Me-vrou, Aartsche Diane, ofDe ghene die u zien in u Heer Vaders hof,Met dusken waardicheyt en schoonheyt uytghesondert,Of zy zullen met mijn ten hoochsten zijn verwondert,Als met verradery van eyghene vrienden doot,Dat zulcke gaven hooch verzelschapt zijn zoo snoot:Om dieswil dat het stuck zo lelijck als mispresen,Zoo onghelooff&apos;lijck is als swaar betuyght kan wesen:Zo zal ick niettemin met krachte houden staan,Dat ghy u schoone Nicht vermoort hebt en verraan:Of dat ghy d&apos;oorzaack zijt waar door zy moest verliesenHet leven en de ziel: Ghy mooght voor u verkiesenWat Ridder dat ghy wilt, met dien beding; al zaft,Zoo ick hem overwin dat ghy zult zijn ghestraftMet eer: langzame doot, en koom ick te beswijcken,Zoo wil ick datmen my doet sterven van ghelijcken.Ick achtet lichaam niet, daar leyt mijn weynich an,Want ick doch zonder haar duuren noch leven kan.
+<speaker>Keyzer.</speaker>
+Dochter ghy hebt ghehoort wat u werdt opghedreven,Bedenckt u wis en wel om antwoort voort te gheven,Want wien van beyden heeft misdaan teghen mijn kroon,Die zal ick strenghelijck al levendich doen doon.
+<speaker>Aartsche Diane ghevveldich versteurt.</speaker>
+O onbeschoften bloet! o alder-onbesuysten!Die u verstant en deught draaght in u lompe vuysten.O goet-dunckende geck! wiens zot en ydel hooft,Van alle red&apos;lijckheyt verwaand&apos;lijck is berooft:Wiens logge lodzich lijf met al zijn grove deelen,Is nutter om een Boer, als om een Prins te spelen.Druystighe grootsche nar, vol opgeblasentheyt,Van waar komt u o zot also veel onbescheyt?Dat ghy durft nemen voor te tergen de gheduldenDer Princen: en het kint eens Keysers te beschuldenIn zijn by-wesen zelfs, dat in zijn eygen zaal,Met reuckeloose reen, en valsche loogen-taal.O zotheyt overdwaals! de mensch is zoo vermetel,Dat by mijn dreyght, o Goon! dat voor mijn Vaders zetel,V woorden en u doen bedocht en wel verstaan,Bethoonen dat ghy moet van neskheyt swanger gaan.Ghy komt hier toegherust met Ruyters en met KnechtenGhewapent, om alleen een Ioffrou te bevechten:Een Ioffrou die noch u, noch uwen heeft ghedaan,Noch ongheneucht noch leet daar teghen heeft ontfaan.Mijn Nichte (die ghy zeght) dat ick hebbe doen sterven,Zo veel eeren en dienst als yemant mach verwerven,En had ghy maar een deel van die stoutharticheydt,Die u oneyghentlijck met lof wert na gheseyt:Ghy zout, o blooten guyl! ghelijck een man van harten,Een Helt, een Heer, een Vorst, en ghene vrouwe tartenOm teghen u te slaan. Ick ben een swacke Maacht,Onnoozel en niet vals, maar also onvertsaaghtDat ick, waar ick als ghy, ghy ginckt niet uytter zalen,Of ick zou u dicke kop doen van zijn romp af dalen,Tot een bewijse van u malle zotticheen.Ick ben noch die ick ben, komt an, ick ben te vreenZoo&apos;t u mijn Heer ghelieft, met een stock uyt de kokenTe thoonen, dat ghy hebt vals en onwaar ghesproken,Dat ick zou schuldich zijn aan het verraat of moort,Komt hier en brenght ons eens yet wat waarschijnlijcx voort:Waar uyt zoud&apos; ick het doen? om wat oorzaack of reden?&apos;t Is waar zy was heel schoon. Danck zy de goedichedenDes Hemels, ick en ben noch zoo wanschapich niet,Dat ick haar schoonheyt oyt benyde met verdriet.Of zou haar rijckdom my zoo groff&apos;lijck doen vergissen?Dat heeft geen schijn vaan reen: Want ziet, de erffenissenMijns Vaders die zijn meer: dies waar ick meer begheertAls zy van Vorsten groot, en Princen hoogh gheeert:Dus weet ick nu gheen ding te dencken noch versieren,Daar ick&apos;t om zouw&apos; bestaan in eenigher manieren.Maar waarom dient my doch dat ick u dit vertel?V, die dees helden fors, ken ickse anders wel,Die lossen botten bol van &apos;t lichaam zullen smytenVoor u hovaardicheyt en schandelijck verwyten.Amaran kreuntet hem niet, en seydt teghen de Keyzer.Zire ten voecht niet dat een Vorst of machtich Heer,Hem steurt, of kreunt, of stoot aan vrouwe woorden teer,Die zonder overlegh met gramschap meer ontsteecken,Als met de kracht des deuchts onwaardich weder-spreecken.De waarheyt vande ticht met fierheyt trots en koen,En loch&apos;nen aldermeest de dinghen die zy doen.Doet my een Ridder hier nu datelijck verschynen,Die hare zaken derf aannemen als de zynen:Met wien ick door &apos;t ghevecht zal thoonen naackt en klaar,Dat mijn beklachten, ach! is meer als al te waar.Indien ick hem versla met dese kloecke handen,Zoo wil ick dat ghy hem en u dochter doet branden,Ghelijck de waardicheyt vereyscht in zulcken zaack,En zo mijn ong&apos;luck wil dat ick te onder raack,Ick geer gheen ander recht, noch straffe noch ghenaden,Als uwe Majesteyt zult vinden best gheraden.
+<speaker>Keyzer.</speaker>
+Hoe swaarlijck ist o Goon! te zitten aan &apos;t ghebiedt,Ick mach mijn eyghen kindt, helaas! verschoonen niet.Wat is de kroon een last, waar icker van ontslaghen,Ick zou dat lastich pack niet weder willen draghen:Maar ick zou kleynelijck my gheven inde rust,En off&apos;ren willich op de zotte heerschens lust,Van menich mensch ghewenscht diese gheluckich waanen,Ick moet, ick wil of niet, mijn kindt Aartscht Dyane,V zegghen dat ghy krijcht een Ridder alzoo stout,Dat hy u recht van daagh kloeckmoedich staande hout,Op de voorwaarde die de Prince stracx hier bescheyde,Dat is, wien dat verliest dat die hem moet bereydenOm inde doot te gaan, ja selfs tot inden vlam,Ghy zijt des wel ghetroost of het u over quam.Ghy Ridders hoogh van moet, van onverwonnen zinnen,Wie den Rygische Prins manhaftich kan verwinnenVan &apos;t harssen-becken klooft, van dat zoo vleesich lijf,Die krijght mijn eyghen kindt, mijn dochter tot een wijf:Hy zy oock wie hy zy, of oock van wat ghesintheyt.Sy svvyghen. Schricken van vreze.
+<speaker>Aart.</speaker>
+Ach Goden wat ick zie! mijn ooghen slaat met blindtheyt,Hoe seer is hy verdoort die op een zant gront bouwt:Vervloeckt zoo is de mensch die op de mensch vertrout.O hoofsche guytery, beloften zonder meenen,Ach! u gheveynsde trou is in een blick verdweenen:Van al de Ridders, laas! en isser ach niet een!Die voor mijn jonghe lijf nu inde strijt wilt treen.Seghe-Heer vverdt sprekende door&apos;t zien vander groote noot van Aartsche Diana.O blooters kleyn van hart! O ghy verwijfde loeren!Onwaardich om de naam des Ridderschaps te voeren.O Pochers, snorckers, blaas-ballighen by de wijn,Die vrome Helden op de beste tafels zijn.Die daar slach orden stelt met roemers en met glasen,En daar kunt vande krijgh en vande vyandt rasen,Daar ghy u hoogh beroemt en op het braafst verheft.Swijght reeckels, blafferts, swijght, nu hebdy uyt ghekeft,Waar is u koenheyt nu? V preutsche ed&apos;le zeden,V woorden zoo ghevoeght op juyste maat en stede.Nu zijn u krachten dof, nu zijn u kunsten doot,Nu u Princesje leyt in haren hooghten nootAncxt-vallich en verschrickt ter aarden plat gheslaghen.O zielen vroom en vroet, hoe kundy dit verdraghenDat een ondrach&apos;lijck mensch u moeden zoo braveert,Dat hy in spijt van u des Keysers kindt onteert?En dat slechts op &apos;t vermoen van zijn dolle ghedachten.Dat lydy, fy u al by de Hemelsche krachten,Ghy zijt te bijster schuw, de adel en de eerOnteedelt en onteert ghy immers al te seer.O schrobbers, stijf van vrees, men hoort u dus te groeten,En breecken u &apos;t gheweer als schelmen voor de voeten,En dryven in een drift als beesten u te hoop,En brenghen op de marckt voor slaven u te koop.&apos;k En weet niet Amaran wat dat u heeft bewoghenTot die afgrijs&apos;lijckheyt van u versierde looghen,Die ghy zoo schellems als ongheluckich en vals,Zult trecken noch van daagh in u vervloeckten hals.O lasteraar! O droch! dees handt zal u vernielen,En stieren uwen gheest by de verdoemde zielen,Die in bewaring heeft de Meester vande Hel:Op dat hy u een straf na u verdienste stel.Gheswinde loghenaar van duyvelsche afkoomste,Herroept de vuyle smaat die ghy spuwt op de vroomsteEn deughdelijckste vrou, en klopt op uwen mont,En lijdt de schult van u vermaledyde vont:Of ick zal u dien kop van &apos;t groote lichaam hacken,En het gheschonden rif den beesten voort toe smacken.Nu, kiest of deylt, &apos;t is tijdt, laat zien wat komter uyt?Den Ezel swijght, o doot! hy blijft by zijn besluyt,Daar leydt mijn hantschoen eel, nu schijnt den bloedt te suffenDie al de wereldt stracx met dreyghen ging verbluffen.&apos;t Ghelieft zijn Majesteyt dat ick de kamp-slach doe.Keyzer vervvondert om den Zeegeheer.Wel droom ick? Ist bedroch mijn vriendt? Hoe gaat dit toe?Lof zy u Machomet voor zoo veel goede dadenBy al de hooghe Goon, ick ben zoo overladenVan blyschap en van vreught als yemandt die daar leeft,Om dat u de Katar alsoo begheven heeft.Nu is mijn hart gherust, nu zal mijn kindt niet lyenHet schrickelijck versoeck van zijn bedriegheryen.
+<speaker>Aart.</speaker>
+Mijn ziel is opghevult met onghemeten vreught,Den Hemel zy ghedanckt voor dese groote deught.
+<speaker>Seege.</speaker>
+Heylighe Majesteyt, wilt toch in yl ghebiedenDatmen hier plaatse maack daar het ghevecht zal schieden,Mijn hart hier hongh&apos;rich snackt na een gherechte wraack.
+<speaker>Amar.</speaker>
+Ick ben verwondert in de glorioose spraackVan desen stommen bock, ygut koom ick in &apos;t grypen,Ick duw u &apos;t lijf an twee, en &apos;t merrich uyt de pypen,Ghy weecke halve vrou van kinderlijcke kracht.Maar holla, is hy niet van Koninglijck gheslachtVan Vorsten oor of bloedt, zoo stiert hem zyner vaarden,Want d&apos;oorsaack van &apos;t verschil dat is van grooter waarden.
+<speaker>Keyzer.</speaker>
+Hy is dan wie hy is, alwaar hy lomp of grof,Ghy hebt alleen gheeyst een Ridder van mijn hof.
+<speaker>Amar.</speaker>
+Is hy gheen Konincx kindt hy werdt niet aanghenomen,Zoo is den strijt alreets ten eynde al ghecomen.
+<speaker>Keyzer.</speaker>
+Wel wederroeptse dan, want u uytvlucht is slecht,Die tuyghen dat ghy zijt beancxsticht voor &apos;t ghevecht.Een Schilt-knaap met de blancke helm knielt.Prins Amaran, mijn vrouw de Koningin van Tharsen,Die raat u desen slach te setten uyt u harsen:Want ziet, den stommen Heer die ghy beroept ten strijt,Die is van hoogher zaat een stercker als ghy zijt:En &apos;t recht is op zijn zyd&apos;, dies zoud&apos; ghy onderlegghen.
+<speaker>Amar.</speaker>
+Ghy mooght de Koningin van mynent weghen segghen,Haar raat komt al te laat en dat ick niet en stelBetrouwen noch gheloof int vollick vande hel.En is de Ridder zulcx als ghy hier komt verklaren,Te liever is hy mijn, ick wacht de uytkompst garen.Schilt-knaap schenckt Seege-Heer de helm.Edele jonghe Heer, mijn vrou u desen schenckt,Op dat ghy haar daar na tot zijnder tijdt ghedenckt.
+<speaker>Zeege.</speaker>
+Me-vrouw&apos;, de Koningin komt my meer goets verlienen,Als ick nu niet en kan, maar hope te verdienen.De jonge gaat binnen.
+<speaker>Keyzer.</speaker>
+Komt herwaarts (Vrederijck) komt herrewaarts by mijn,En ghy Heer Olymaal ghy zult de Rechters zijn:Gaat zeght de Keyserin wil zy &apos;t ghevecht aanschouwen,Dat zy ter venster gaat met al haar staat Ioffrouwen.Zeege-heer comt gewapent uyt.Daar komt de Wapen-Heer, nu krijcht de Prins de rest,Wel aan steeckt de trompet dat elleck doe zijn best.Hier &apos;t ghevecht, hy doot hem en brengtet hooft voor de Heeren.
+<speaker>Zeeg.</speaker>
+Lecht daar o boosen schalck, die stoutlijck dorst verdichtenEen helsche Duyvels vont, en die een maacht antichten.Me-vrouw&apos; daar is de kop, ghelieft u anders yet?
+<speaker>Aart.</speaker>
+Neen Helt, ick ben voldaan, my is ghenoegh gheschiet.
+<speaker>Keyzer.</speaker>
+Grootmoedich jongheling, mijn woordt zal ick u houwen,En doen u tot een Bruydt u zelfs ghewonnen trouwen.Mijn Heeren wat dunckt u, lach dese Prins ter neer,Waar ick op huyden niet de alderarmste Heer?En waar ick niet gheweest bedwonghen te kastyen,Mijn dochter zou de doot onschuldich moeten lyen:De Goden hebben danck, en u heldich bestaan,Die van mijn droevich hart de zorghen hebt ghedaan.Ten gheve u niet vreemt ghy Koningen en HeerenZoo ick boven ghewoont den edelling wil eeren,Want sodanigen volck die maken haar gheachtDe gantsche werelt door, door deughden ende kracht:Haar komt de eere toe, en niet die haar beghevenIn yd&apos;le feesten groots, noch in een vroomlijck leven,Van luye ledicheydt en and&apos;re macklijckheen,Wat eer dat ick bedenck zy is my noch te kleen,Om dieswil dat hy heeft beschermt met zijn handenHet leven van mijn kint, en het rijck vande schandenVerlost: En daar toe noch den vyandt selfs ghedoot,Dat my en u alt&apos;saam bereydt een blijdtschap groot.Maar overluckighe, hoe varen doch u wonden?Komt gaan wy, o mijn zoon! zoo werden zy verbonden.Aartsche Diana en Seege-Heer, sittende in een flouwelen stoel.Ick bidde u mijn vriendt om &apos;t gheloof vande Goon,En om de liefde daar ghy mede naamt de kroonVan Brandemantes hooft dat ghy my wilt verklarenV naam en u gheslacht, en wie u ouders waren,En van waar dat ghy zijt, u sweerend&apos; op mijn eedt,Dat ick u loonen zal met &apos;t dierste dat ick weet.Dat&apos;s met mijn eyghen hart dat ghy te vreen sult stellenMet de begeerten die &apos;t met lust om weten quellen:Met dien bedinghe dat ghy sult voort zijn ghelijckDe Meester van mijns zelfs, en van mijns Vaders rijck,En voort van al het zijns: Vertrout ick zal&apos;t u maken.Ick zegh u dinghen die mijn op het naaste rakenMet ongheveynsde mont: daarom mijn ziel, indienGhy teghenwoordich my niet stracx wilt sterven zien,Zo doet als ghy behoort, en wilt eens overlegghen,Wat stercke liefde my tot andermaal doet segghenDe jonsten van mijn hart, so vry als onbequaam,Met groot perijckel van mijn eerelijcke naam.De min heeft mijn vervoert mijn schreumhartighe vreesen,En mijn natuur en is niet zoo sy plach te wesen.Met wat een lijdtsaamheyt verdroech ick stil by my,De bitterheyts des smaats van uwe weyghery:Als ick oock by u quam en sprack u vande saackDoor feyl van u ghehoor, en manghel van u spraack.Maar nu u alles is ten vollen weer-ghegeven,En nu ghy voor u ziet de gheen die zelfs haar levenZou off&apos;ren voor u op, so bid ick u, en weestZoo halstarrich of zoo hart noch onbedacht van gheest,Dat ghy afslaat het goedt dat u werdt aanghebodenVan &apos;t luck, van min, van my, en vande goede GodenTot loon, om dat ghy my beschermt hebt mijn lijf.Ontfangt my u vriendin, en tot u wettich wijf.De leste VVtkomste.
+<speaker>Seege.</speaker>
+Doorluchtighe Princes en groot vermoghen Vrouwe,De machtichste Monarch sou hem gheluckich houwen,Die u verwerven mocht ten aanzien van u jeught,En rijcke rijckdom groot, en u volmaackte deught.Hoe veel te meer dan ick doolende arme Ridder,Die niet meer goets en heeft als een beroyden bidderDie ghy behouwen hebt, en zoo vert hebt ghebracht,Dat ick de grootste my van al de werelde acht.Ghy heft my op den top des eerst op &apos;t onvoorsienste.Daarom mijn waarde vrou, heb ick eenighe diensteMijn leven u ghetoont sy quamen u recht toe,En &apos;t is mijn leet dat ick gheen meerder u en doe.Maar na dat u belieft mijn staat en naam te weten,Zoo weet dan dat ick ben den vondeling geheten:Zo mijn de Koningin van Tarssen deet verstaan,Van mijn gheslacht heeft sy mijn noch geen kunt gedaan.Dus overdenckt met raat, o Vorstin aller vrouwen,Oft u al nut zal zijn dat ghy zoo laach zout trouwen.Indient u wel ghevalt zoo sweer ick u mijn trou,En neemt u daat&apos;lijck tot mijn ghetroude vrou.
+<speaker>Aard.</speaker>
+En ick u tot mijn man.
+<speaker>Seeg.</speaker>
+Ick heb niet durven denckenOp &apos;t geen dat u gelieft aan my zoo heus te schencken.
+<speaker>Aart.</speaker>
+Komt gaan wy, o mijn troost! op dat wy voort de feestBestellen alst betaamt.
+<speaker>Amour.</speaker>
+Ghy hebt wel uyt geweest,Ghy hebje vrydach wel e vast, doeje niet propertje?Ick moetje laten uytschild&apos;ren frays ghewijs op een koopertje,En dragen jou als de Weesmannetjes op mijn verweende borst,In plaats van een suflet. Elementen &apos;k heb sulcken dorst.Hoort volckje, blijft wat staan, ick moet jou allegaar wat vraghen,Zel ghy jou ghelt of tijdt uytgaande oock beklaghen?Maar statet jou wel an zo doet my lustich na,En klapt eens in u hant, en roept eenstemmich ja.Anno&apos;t Kan verkeeren.G.A. Bredero.Lijck-dichten,Over&apos;t afsterven des aardigen ende vermaarden Poeets,GARBRANT ADRIAENSZ.BREDERODE.&apos;t kan verkeeren us
+        </div>
+    
+        <div type="scene">
+            Epitaphivm. De snelvluchtige FaamEn maackt door haar gheschal my &apos;thert in&apos;t lijf verbaast.Wat komter voor gherucht nu klincken in mijn ooren?&apos;k Woud&apos; ick doof waar geweest doen ick zullicx most hoorenMen zeyt dat Atrop&apos;Breed&apos;roo En de zieloose romp ter aarden is ghestort.De felle Doodt, die doch niemanden niet wil vieren,Deez&apos; heeft hem oock ghetreft, door ad&apos;ren, ze&apos;en en spieren.Zeght my eens hels gedrocht, wasser geen meer als deez&apos;Daar ghy op lossen mocht uw&apos; wtghereckte peez&apos;?Van zo veel duysenden, most ghy deez&apos; juyst wtkiesen,En doen ons zo een licht in duysternis verliesen?Of quam u inden sin (te weten) dat den helt,Altijdt voor zijn devijs, het kan verkeerenGhy wilden dat hy zelf inder daat zouw&apos; bevindenHet geen daar hy zijn werck altijt mee plach te binden.O ghy leer-gier&apos;ghe jeucht! treckt aan het rouw&apos;-gewaat:Ghy mannen Redenrijck toont mee een droef ghelaat;Ziet ghy de MusenHoe trecken zy haar hayr, hoe zy haar kleed&apos;ren scheuren?Ziet ghy ApolloDoor duyst&apos;re swarte mist, van &apos;t klaar schijnsel berooft?Om PhaëtonAls hy is om Breed&apos;roAmstel-goddinnen alNymphenTyVerbiedt dat-men als nu u blauw veldt niet bery.Ghy oorloochs-schepen groot wilt nu nergens heen vluchten:Maar wt u holle buyck wilt nu eens hert&apos;lijck suchten:Toont nu u grof geluyt, gheeft dat voor een gheschrey,Ende tot by CharonNeemt in u vanen al, laat geen wimpels meer drayen,Maar laat in plaats van dien al swarte vanen wayen.Oock zeg ick dat-men noch de speel-plaats heel en al,Met treuren droevich swart al-om behanghen zal.Wech jockerny, en boert, wech alle sotticheden,Datmen den tijdt nu niet in&apos;t bly-dicht gaat besteden.Ter plaatsen daar te voor de blijdtschap heeft gewoont,Dat daar nu niet en wordt dan treurieheyd ghetoont.(Ick zeg) ter plaats men plach te speelen bly CommedyDatmen daar speel, als nu, een droevighe TragedyWant men ten vollen niet beklaghen kan den Man:En vraacht ghy wie het is? zijn werck &apos;t ghetuygen kan,Hoewel de schrale doodt hem niet wilde verschoonen,Zo zal nochtans zijn lof onsterflijck by ons woonen.O schranckelaar ghy docht het al ghewonnen was,Doen ghy de ziel verjoecht, en liet ons d&apos;ydel kas.O neen, hy is nu al, dat meucht ghy vry wel weten,In&apos;t zoet ElesyNiet verre van HomeerVirgielEn heel dicht by Ovijd&apos;Dat ick Cumaens Sybil En als den Troysch EnéeWat treffelijcker woort, wat sinnerijcker praat,Wat stichtelijcker reen dat daar wel omme gaat.d&apos;Aanlockende SyreenGrieckMy zouden met haar sanck (als deez&apos;) zo niet bekooren.Leeft daar gheswinde heldt, leeft daar wt alle nijt,V vrienden tot een vreucht, u vyandt tot een spijt;Hoe-wel de kille doodt u ziel wt &apos;t lijf ging dringhen,Zo zalmen t&apos;alder tijdt u lof noch hooren singhen.Ick woud&apos; men alle jaar, met een ghesette straf,Met lof-sanck en gedicht most knielen aan u graf,Dat yeder om het frayst dat selfde most verschierenMet bloemen, loof en kruyt, en groene EglentierenAls ons van kints kindt dan zou worden afgevraacht,Waarom men voor dat graf alsulcke zorge draacht?Men zou hun seggen dan, vertellen oock te deghen,Breed-roodsDit graf besluyt &apos;tlichaam, &apos;twelck scheen te korten schijn:Doch zijn dicht, lof en naam onsterffelijck zal zijn.O heldt! zijt niet bedroeft, wilt u met NectarWant ghy noch levend&apos; zijt, al zydy schoon begraven.O onbekenden vrient, ick wensch mijn leste wens,Dat is, u glory niet in eeuwicheyt verslens.En al die eenichsins de PoësiZullen in u ghedicht altijdt vermaken vinnen.Roemt u leven alijnd.Ziet onzen Breed&apos;roIn vaste aarde is, zijn gheest by ons huys-vestDoor Rymeryen veel, die d&apos;onse mensch seer stichten.I. Visscher. Men moet daar aan.AnacreontaGraeciaPetronivmqve Italia.Dulcia qui blandis miscebat scommata verbis,Queis lepidè in risus ScenaHunc Batavi Sed nimium fatis occubuit propetis.N.I. à W.Treurt niet, maar lieft ghy hem, zo gunt hemHy blijft toch Breed&apos;roHy leeft al rot zijn lijf, daar leyt niet aan bedreven,By Gode rust zijn ziel, hier sweeft zijn groote Gheest.Vraacht ghy wat Breed&apos;roDe Gheest die was het lijf te groot:Nu hebben met hem Spel en Kluyt,En alle zoete deuntjens uyt.H.C. H.Dat niet door leer alleen dan Aard&apos; der PoëisenOntspringht in ons: maar door natuur oock werd&apos; gheteelt:In Gerbrant Breed&apos;ro Zijn geestighe natuur in eeuwich lof verbeelt.P.S.Half dooden die verquickte Breed&apos;roDat leed&apos; de doodt niet, die hem doode met zijn schicht.T.C.De Schaver onses taals, wiens roem niet zal versterven,Laat ons zijn Dicht, &apos;t Lijf d&apos;Aard, de Ziel den Hemel erven.Nostra damus laeti.Wat schuldicht men de doodt die Breed&apos;rood Te jong, daar sy hem sach zo out en grijs vanEen PlautusCiceroZy meend&apos; hy meed&apos; in tijdt een NestorWanneer zy oock Griaan, Roddrick, Lucell&apos; Bekleden zach&apos;t Toonneel, die zy te leven dacht,Des vreesich of hy noch meer zielen deed&apos; verwand&apos;ren,Scheen immer meer als recht dat zy hem t&apos;onderbracht.Ach doodt die ons ontneemt &apos;tgheen noyt ghy weer kunt geven,Die stout&apos;lijck mayt ter neer zo jong en groenen plant:Doch hy is doodt: zijn naam en schriften eeuwich leven,Die&apos;t gantsche Neerlandt door zijn yeder voor de hant.Ama chi t&apos;ama.Selfstandich BreedroWant zijn Poeets vernuft doet hem selfstandich leven.Hier herbercht &apos;tlijf, wiens geest in schertsen muntenEn met veel boertery steeds swanger ging vannWien CharonVermits de zieltjens droef noch lachten om zijn farcen.I. v. V.Aerd&apos; zijt ghy eerst geweest, nu weer tot aard verschenenRoemruchtighe Poeet! u lichaam dyd&apos; tot aardt:Ghy laat hier vriendt en maach, en sleept ten grave waartEen wit ghecierde kleet om u ys-koude beenen.V woonplaats rust by God, eeuwich gaat ghy vereenen,De schrompelighe aard, o Phoenicx hooch vermaart!Bleef hier een korte tijdt, vlucht op veel langer vaart,Wy u naevolghers zijn nae&apos;t strecken onser meenen.O pronck van Amsterdam! der eenigher Poëten,Ghy zult in geener Eeuw&apos; by yemant zijn vergheten;Maar u lof-rijckich werck zal groeyen door de lucht.Al leght ghy afgheslooft met aarde vast besloten,V naam, u roem, u lof, zal meerder noch vergrooten,Roepen volmondich wt, dit&apos;s BreederoodsEen in&apos;t hart.In Effigiem.Ha Goddelijcke konst! die nae zijn doodt het levenZo wesich hebt gemaalt, ach waar dit voor gedaan!Licht had de doodt ghedoolt, op&apos;t beelt haar schicht geheven,Wy hadden ons Poeet, en ghy meer eer begaan.Non nobis.O Zonne van ons roem, hoe zijt ghy zo verdweenen,Dat ghy u glinst&apos;rich ooch nu schuylende bedeckt?Waar door de Duytsche taal zo helder heeft gescheenenDoor kloecke rijms ghedicht, dat yeder daar van spreckt.De waarheyt van deez&apos; saack heeft klarelijck beschrevenV handt, de welck u gheest by ons noch hier doet leven.Rethorica die treurt met suchten en met steenen:De Musen al ghelijck met droefheyt zijn bekleet.d&apos;Amstelsche Maechden al seer bitterlijcken weenen,Teghen het ongeval van dit bedruckte leet.De Rymers weten niet ghenoechsaam wt te spreken,De wreetheyt van AtroopVersteken, ach! eylaas! u geeft zoo&apos;t schijnt moet rustenVan soete rymery: &apos;tgeen ghy zo vloeyend&apos; gootTot yeder zijn vermaack, tot yeder zijn wellustenDat ghy Rethorica vervulde dick haar schoot.V lichaam leyt nu wel in d&apos;aarde bleeck besturven,Maar ghy hebt door u gheest een eeuwich log verwurven.Een lof, wiens roem men niet genoechsaam kan wtbrallen:Een lof die steets by ons in overvloet noch sweeft,Hoewel u lichaam swack ontydich is ontvallen,Zo achten wy dat ghy in u ghedichten leeft.Dies schreeft ghy wel te recht, Breedero, &apos;tkan verkeeren.De waarheydt van deez&apos; spreuck wy door u zelver leeren.T.H. Yver&apos;t naa&apos;t recht.De vreeselijcke doodt die ons ruckt uyt der aarden,En voert de zieltjens heen, een yeder op zijn stee,Die quam lest onversiens, en nam den Breed&apos;roDie, tot haar trots en spijt, veel oeff&apos;naars weder baarden.Als hy begaaft met gheest ziin schrand&apos;re herssens snaarden,En queelde hooch en laach ghelijck Oryan dee,Ia gaarden by malkaar de oeff&apos;naars op een Ree,Die hy door boertery haar grootsicheyt verklaarden.Den selven BrederoNa-bootser der natuur, de peerle vanden Ghever,Eylaas! die is ghevelt, zijn lichaam zijn wy quijt.Maar zyne Musa leeft, spijt mag&apos;re meuch-al spijt,Die komt ons alle daach in zijns gheests Bogaart nooden;Hoe-wel ghy&apos;t al verwint, gheen rymer kont ghy dooden.Vraacht yemant wie hier leyt?&apos;t Is Breed&apos;roWist op ghedicht en maar te schryven.Dit is de stede van&apos;t lichaam;Maar zijn onsterffelijcke naamDie zal hier eeuwen by ons blyven.I.I. Scheepmaker.Groot was u gheest, te recht dies oock is groot u naam:De felle doodt u &apos;tlijf alleen hier kan bederven,Wiens ziel heeft God: u onvergancklijckheyt, u faamZal met TereusPlaut&apos;Vraacht yemant wie dat hier leyt in dit graf begraven?&apos;t Is BrederoDie ons zo rijck beschonck met zijn konst-rijcke gaven;Al is zijn lichaam doodt, zijn geest bralt wijt en breet.Zijn spelen treurich, bly, en lietjes deftich, kluchtich,Die hy ons staal-ghedenck wtmuntich heeft vereert:Doen dat zijn groote geest noch levend&apos; leeft wijtluftich,Waar door zijn loflijck lof staach meerder wort vermeert.Besoeck in orbaar elck sin.
+        </div>
+    
+        <div type="scene">
+            Lijck-klacht Indien u, groote Goon! de droeve klachten rakenVan&apos;t Wereltsche gheslacht, zo guntme toe te maken,Tot laeste eere van den gheestighen Poeet,Een rede die vermomt gaat in een treurich kleet,Op dat hy by de schaar der afgeleefder helden,Welcker groot-geesticheyt een ouwer eeuw&apos; vermelden,G&apos;lijck by ghelijcke zy, noch dat zy sonder dienstZijn wtvaart, die ons (laas!) verviel op&apos;t onversienst,En zo mach zijn vernoecht, g&apos;lijck eertijts door het blaken,En off&apos;ren &apos;t Griecksche heyr, haar Vorst te vreen kon maken;Maar &apos;tschijnt &apos;tgeen ons misnoecht de groote Goon niet kreunt,Hoewel hy steets op Goon heeft van zijn konst ghesteunt:Want anders souw die God, van wien de God der sanghenIs hebben doen zijn tijdt, en levens loop verlanghen,By &apos;tselschap smakelijck, by vrienden en by maghen,En die zijn groote gheest zo goeden jonst toe-draghen,Het goddeloos ghebroet der susters, die de draanDoor nydicheyt verkort, had hem wel laten staan.Nu ken hy genichsins door list en noch door laghen,Of kloecke kunst, zijn hooft weerom te rugghe draghenWt de vergetelheyt, en &apos;tperck daar ghelt noch gout,Noch geene mogentheyt zijn oude kracht behout.Ay! benje noch zo, Goon! gh&apos;lijck asje placht te wesen,Datmen u door ghedicht noch soetheyt ken belesen,Zo duncktme benje hart, g&apos;lijck als het eertijdts dochtDie konstenaar, die tot het stilstaan heeft ghebrochtHet schuwe Wilt, de snel afvallende Rievieren,De veughelen des luchts, en al de water dieren.Maar benje wat versacht door het verloop van tijt,Zo toont nu datje al zo goedertieren zijtAls d&apos;onder-aartse Goon, die om de cierlijckheyt,Van wel-gestichte reen, hem hebben toe-gheseytAl &apos;t gheen hy vyerich badt: zo dat hy daar zijn Vrouw&apos;Herkreghen heeft, tot troost van d&apos;onghemete rouw&apos;.Maar hoe? de opper-Goon die met haar blyde scharenDe salen van cristal en diamant bewaren,En oordeelen al&apos;t geen dat hier beneen gheschiet,En lieten achtme toe dit sonder reden niet.Apollo heeft misschien door soete vleyeryenDe Dochters vande nacht beweecht om af te snyenDe al te langhen draat, in zijn sin; of misschienDat Iupiter gheport van hem, &apos;t haar ging gebien.De plaatse die hem komt laat ghy hem wel ghenieten:Dan laat het u doch door medogentheyt verdrieten,Dat ghy hem ons ontruckt ontyd&apos;lijck, en vereertOns zijn gheselschap, dat ghy licht noch wat ontbeert.Dan ist hem lief (gelijck hy walchde vander aarde,En &apos;tslecht onkundich volck) zo hout hem daar in waarde,Vereert zijn hooft een krans, Iupijn ken hem zijn zoon,En vier hem minder niet als yemant vande Goon.H.C.H.Verslaghen en bedroeft zo is MelpomeneOm datse heeft ghedoodt die haar het leven de.ThaliaOns BrederoDe Werelt zeydt ick wil u alle troosten gaan,Met dat ons GarbrantsA. v. Mildert. VVeest mildt.Amstellandtsche volck, treurt, klaacht, weent ende sucht,Om u Poët Breed&apos;roD&apos;wijl dat hy niet meer kan staach meeren u ghenucht,Door zijn chier-boertich dicht; ja leeren ende vromen.P.A. Elck raapt vvat.Breed&apos;roZijn boert en stichtich dicht wy u vertoonen noch,Waar in hy leeft en blijft in zielens wesen doch:Hy GarbrandP.A. Elck raapt vvat.
+        </div>
+    
+        <div type="scene">
+            Lijck-dicht, Het leven baart de doot, de doot baart weder &apos;t leven,Geen leven dat vergaat, maar dat steets eewig duurt:Gheluckich die den tijdt zijns levens zo bestuurtDat hy alleen in&apos;t graf zijn suchten en zijn beven(De vruchten deses eeuws) &apos;tgewormt doet overgheven:En dat zijn groote gheest blijft versch en even jong,Door-brallende de lucht, op aller menschen tong:Van konst-lievers bemint, ten Hemel hooch verheven.O waarde BreederoO roem van Amsterdam! o pronck onser Holland&apos;ren!Zo lang des Werelts kloot blijft aan het Centrum vastOm dat ghy onse taal zoo heerlijck ginckt verrijckenWel treftich braaf beleydt, en kluchtich desghelijcken.Al rot u lijf in&apos;t graf, u lof noch meer aanwast.I.H. Bloemendaal.
+        </div>
+    
+        <div type="scene">
+            Graf-dicht, Leght af u bly ghewaat, treckt aan u treur&apos;ge kleeden,Hollantsche Burgery, wanneer ghy dit beschout,Denckt dan op BrederoOns oude Duytsche Taal seer lieflijck heeft ontfout.Hy voerden wel met recht zijn spreuck-woort, &apos;tkan verkeeren&apos;t Was wel van hem bedacht, &apos;t was wel van hem beleyt;&apos;t Verkeerden wel met hem, want hy moest sterven leeren.Voor&apos;t sterven rust zijn ziel nu inder eeuwicheyt.A. van Salingen. VVt stof gheresen.Hoe wel &apos;tversturven rif onder der aarden rot,En u gheruste ziel leeft eeuwichlijck by Godt,Zo zal nochtans u geest, o BrederoMaar alle lof en eer van vele hier beerven.Gheen sonder strijdt.Al heeft de loose doodt ons BrederoDie&apos;t leerelijck met vreucht afbeelden voor ons al,Aan zijn eerwaarde naam en zal hy doch niet komen:Want die in ons ghemoet geduurich woonen zal.H.L. Roghman.
+<speaker>Wandel.</speaker>
+Wie is besloten en ghekerckert in dit graf?
+<speaker>Coster.</speaker>
+Vraagt niet, &apos;tis Breed&apos;ron
+<speaker>Wandel.</speaker>
+Vergat hy oock zijn zelfs?
+<speaker>Coster.</speaker>
+Neen, hooch noch laghe staten:Hoe deftich, geyl, of bot, &apos;tmost van zijn veeren laten,Door een zo schrand&apos;ren gheest, met boerten overlaan,Wees yder een zijn wech, dies moochdy oock wel gaan.D.P. ab Embda.
+        </div>
+    
+        <div type="scene">
+            Dese fauten aldus te beteren.Int Grafdicht van P.S. in d&apos;eerste reghel staat Poeisen, leest Poesien.Int Grafdicht van Een in&apos;t hartInt Grafdicht van I.I. ScheepmakerGhelijck een lelie onder de doornen. So is mijn vriendinne onder de dochteren Cant.2.2t&apos;Amsterdam.By Nicolaas Biestkens, inde Lelie onder de Doornen. 1619.
+        </div>
+    
+    </body>
+  </text>
+</TEI>

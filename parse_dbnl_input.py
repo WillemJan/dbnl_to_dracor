@@ -17,12 +17,15 @@ DBNL_AANLEVER = 'Bibliografische metadata RiR gepubliceerd in 1500-1700.xlsx'
 LUCAS_AANLEVER = 'Inventarisatie_toneelstukken_DBNL.xlsx'
 
 DBNL_DIR = 'dbnl_xml'
+DRACOR_DIR = 'dracor_xml'
 
 LEVENSTEIN_SPEAKER = 3
 
 if not os.path.isdir(DBNL_DIR):
     os.mkdir(DBNL_DIR)
 
+if not os.path.isdir(DRACOR_DIR):
+    os.mkdir(DRACOR_DIR)
 
 def escape( str_xml: str ):
     str_xml = str_xml.replace("&", "&amp;")
@@ -36,8 +39,12 @@ def escape( str_xml: str ):
 def print_dracor_xml(data: dict) -> None:
     pprint(data)
     generated_xml = Template(xml_template).render(data=data)
-    print(generated_xml)
-    with open(data.get('ti_id') + '_dracor.xml', 'w') as fh:
+
+
+    # Output directory.
+    fname = os.path.join(DRACOR_DIR, data.get('ti_id') + '_dracor.xml')
+
+    with open(fname, 'w') as fh:
         fh.write(generated_xml)
 
 
@@ -133,7 +140,7 @@ def parse_fulltext(data):
     alias = {}
     for item in data.iter():
         #print(item.tag, item.attrib, item.text)
-        if item.attrib.get('rend', '') == 'speaker':
+        if item.attrib.get('rend', '') == 'speaker' and item.text:
             if not escape(item.text.strip()) in speakerlist:
                 speakerinfo = speaker_filter(speakerlist, item.text)
                 if type(speakerinfo) == tuple:
@@ -141,7 +148,13 @@ def parse_fulltext(data):
                 else:
                     speakerlist = speakerinfo
         if item.tag == 'div':
+            if item.attrib.get('type') == 'act':
+                rec = True
+                chapters.append('') 
             if item.attrib.get('type') == 'chapter':
+                rec = True
+                chapters.append('') 
+            if item.attrib.get('type') == 'play':
                 rec = True
                 chapters.append('') 
         if rec and item.text and item.text.strip():
@@ -185,4 +198,3 @@ for item in data:
             merge['subtitle'] = merge.get('subtitel', '')
 
         print_dracor_xml(merge)
-        break
