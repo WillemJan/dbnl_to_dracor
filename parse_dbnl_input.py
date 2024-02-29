@@ -187,9 +187,7 @@ def parse_fulltext(data):
 
 
     pprint(read_order)
-    os.exit(-1)
-
-    return chapters, speakerlist, alias
+    return read_order, speakerlist, alias
 
 
 data = parse_dbnl_aanlever()
@@ -209,7 +207,7 @@ for item in data:
 
         with open(fname, 'r') as fh:
             fulltext = lxml.etree.fromstring(fh.read().encode('utf-8'))
-        merge['chapter'], merge['speakerlist'], merge['alias'] = parse_fulltext(
+        merge['readingorder'], merge['speakerlist'], merge['alias'] = parse_fulltext(
             fulltext)
 
         for k in item:

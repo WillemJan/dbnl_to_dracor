@@ -86,10 +86,12 @@ xml_template = """<?xml version="1.0" encoding="utf-8"?>
     <front>
     </front>
     <body>
-    {% for c in data.get('chapter') %}
-        <div type="scene">
-            {{ c }}
-        </div>
+    {% for block in data.get('readingorder') %}
+    {% for key, value in block.items() %}
+            <div type="{{ key }}">
+               {{ value }}
+            </div>
+    {% endfor %}
     {% endfor %}
     </body>
   </text>
