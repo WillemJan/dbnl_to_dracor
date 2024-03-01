@@ -11,7 +11,7 @@ from jinja2 import Template
 from Levenshtein import distance
 
 from dracor_jinja2 import xml_template
-from dracor_utils import escape
+from dracor_utils import escape, unescape
 
 # DBN download TEI-files.
 BASEURL = f'https://www.dbnl.org/nieuws/xml.php?id=%s'
@@ -23,6 +23,8 @@ DRACOR_DIR = 'dracor_xml'
 
 LEVENSTEIN_SPEAKER = 3
 
+OUTDIR = 'playlist_per_work'
+
 if not os.path.isdir(DBNL_DIR):
     os.mkdir(DBNL_DIR)
 
@@ -31,7 +33,7 @@ if not os.path.isdir(DRACOR_DIR):
 
 
 def print_dracor_xml(data: dict) -> None:
-    pprint(data)
+    #pprint(data)
     generated_xml = Template(xml_template).render(data=data)
 
     # Output directory.
@@ -113,19 +115,25 @@ def parse_lucas_aanlever(data: list[dict]) -> dict | None:
     return eratta
 
 
-def speaker_filter(speakerlist: set, newspeaker) -> set | tuple:
-    newspeaker = newspeaker.strip()
+def speaker_filter(speakerlist: set, newspeaker: str) -> set | tuple:
     newspeaker = escape(newspeaker)
+
+    if len(newspeaker) < 2:
+        return speakerlist
+    
+    if newspeaker in speakerlist:
+        for speaker in speakerlist:
+            if newspeaker == speaker:
+                return speakerlist
+
     for speaker in speakerlist:
-        if distance(speaker, newspeaker) < 3:
-            print(f"Fusing '{newspeaker}' to '{speaker}'")
+        if distance(speaker, newspeaker) < LEVENSTEIN_SPEAKER:
             return newspeaker, speaker
     speakerlist.add(newspeaker)
     return speakerlist
 
 
 def parse_fulltext(data):
-
     rec = False
     srec = False
 
@@ -140,27 +148,53 @@ def parse_fulltext(data):
     alias = {}
     ctype = ''
     nexupspeaker = False
+    srec1 = False
 
 
     for item in data.iter():
 
         if item.attrib.get('rend', '') == 'speaker' and item.text:
-            if not escape(item.text.strip()) in speakerlist:
-                speakerinfo = speaker_filter(speakerlist, item.text)
+            target = item.text.strip()
+            if target.endswith('.'):
+                target = target[:-1]
+            if not escape(target) in speakerlist:
+                speakerinfo = speaker_filter(speakerlist, target)
                 if type(speakerinfo) == tuple:
                     alias[speakerinfo[0]] = speakerinfo[1]
                 else:
                     speakerlist = speakerinfo
         if item.attrib.get('rend', '') == 'speaker':
             srec = True
-        if srec and item.text:
-            srec = False
-            if not escape(item.text.strip()) in speakerlist:
-                speakerinfo = speaker_filter(speakerlist, item.text)
+
+        if item.tag == 'speaker':
+            srec1 = True
+
+        if srec1 and item.tag == 'hi':
+            srec1 = False
+            target = item.text.strip()
+            if target.endswith('.'):
+                target = target[:-1]
+            if not escape(target) in speakerlist:
+                speakerinfo = speaker_filter(speakerlist, target)
                 if type(speakerinfo) == tuple:
                     alias[speakerinfo[0]] = speakerinfo[1]
                 else:
                     speakerlist = speakerinfo
+
+
+
+        if srec and item.text:
+            srec = False
+            if not escape(item.text.strip()) in speakerlist:
+                target = item.text.strip()
+                if target.endswith('.'):
+                    target = target[:-1]
+                speakerinfo = speaker_filter(speakerlist, target)
+                if type(speakerinfo) == tuple:
+                    alias[speakerinfo[0]] = speakerinfo[1]
+                else:
+                    speakerlist = speakerinfo
+
 
         if item.tag == 'div':
             if item.attrib.get('type') == 'act':
@@ -207,7 +241,6 @@ def parse_fulltext(data):
                        plays[-1] += escape(item.text)
 
 
-    pprint(read_order)
     return read_order, speakerlist, alias
 
 
@@ -230,6 +263,31 @@ for item in data:
             fulltext = lxml.etree.fromstring(fh.read().encode('utf-8'))
         merge['readingorder'], merge['speakerlist'], merge['alias'] = parse_fulltext(
             fulltext)
+
+      
+        # Dumping out playlist here, in .xlsx format.
+        id_list = ['#' + unescape(i.lower()).replace(' ', '-') for i in merge.get('speakerlist')]
+        spv = [unescape(i) for i in merge.get('speakerlist')]
+        outdata = {'URL': [ceratta.get('URL') for i in range(len(spv))] , 'id': id_list, 'speaker_variant': spv, 'is_prefered': ['x' for i in range(len(spv)) ], 'is_new': ['' for i in range(len(spv))],
+                   'is_error': ['' for i in range(len(spv))], 'gender (Male/Female/Unknown/Other)' : ['' for i in range(len(spv))], 'comments' : ['' for i in range(len(spv))]} 
+                #, 'is_error': [], 'gender (Male/Female/Unknown/Other)': [], 'comments':[]}
+
+        for alias in merge['alias']:
+            nid = '#' + unescape(merge['alias'].get(alias).lower()).replace(' ', '-')
+            alias = escape(alias)
+            outdata['URL'].append(ceratta.get('URL'))
+            outdata['id'].append(nid)
+            outdata['speaker_variant'].append(alias)
+            outdata['is_prefered'].append('')
+            outdata['is_new'].append('')
+            outdata['is_error'].append('')
+            outdata['gender (Male/Female/Unknown/Other)'].append('')
+            outdata['comments'].append('')
+
+        df = pd.DataFrame(outdata)
+
+        fname = OUTDIR + os.sep + currid + '.xlsx'
+        df.to_excel(fname, index=False)
 
         for k in item:
             merge[k] = item.get(k)
