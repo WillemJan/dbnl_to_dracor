@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="leeu004tove02" xml:lang="nl">
+  <fileDesc>
+    <titleStmt>
+      <title type="main">De toveres Circe</title>
+      
+      <author>
+        <persName>
+          <forename>Adriaen Bastiaensz</forename>
+          <surname>Leeuw</surname>
+        </persName>
+        <idno type="wikidata">wikidata identifier</idno>
+        <idno type="pnd">pnd identifier (optional)</idno>
+      </author>
+    </titleStmt>
+    <publicationStmt>
+      <publisher xml:id="dracor">DraCor</publisher>
+      <idno type="URL">https://dracor.org</idno>
+      <availability>
+        <licence>
+          <ab>CC0 1.0</ab>
+          <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+        </licence>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl type="digitalSource">
+        <name>29 A 31: 3</name>
+        <idno type="URL">None</idno>
+        <availability status="free">
+          <p>In the public domain.</p>
+        </availability>
+        <bibl type="originalSource">
+          <title>https://www.dbnl.org/tekst/leeu004tove02_01</title>
+        </bibl>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <particDesc>
+      <listPerson>
+        
+        <person xml:id="Lebrel" sex="m/f/u">
+          <persName>Lebrel</persName>
+        </person>
+        
+        <person xml:id="Lebr él" sex="m/f/u">
+          <persName>Lebr él</persName>
+        </person>
+        
+        <person xml:id="Jager" sex="m/f/u">
+          <persName>Jager</persName>
+        </person>
+        
+        <person xml:id="Arsidas" sex="m/f/u">
+          <persName>Arsidas</persName>
+        </person>
+        
+        <person xml:id="De Zangsters" sex="m/f/u">
+          <persName>De Zangsters</persName>
+        </person>
+        
+        <person xml:id="Iris" sex="m/f/u">
+          <persName>Iris</persName>
+        </person>
+        
+        <person xml:id="Syrena" sex="m/f/u">
+          <persName>Syrena</persName>
+        </person>
+        
+        <person xml:id="De Maagden" sex="m/f/u">
+          <persName>De Maagden</persName>
+        </person>
+        
+        <person xml:id="Astréa" sex="m/f/u">
+          <persName>Astréa</persName>
+        </person>
+        
+        <person xml:id="Klaryn" sex="m/f/u">
+          <persName>Klaryn</persName>
+        </person>
+        
+        <person xml:id="Timantes" sex="m/f/u">
+          <persName>Timantes</persName>
+        </person>
+        
+        <person xml:id="Clorisbe" sex="m/f/u">
+          <persName>Clorisbe</persName>
+        </person>
+        
+        <person xml:id="Brianda" sex="m/f/u">
+          <persName>Brianda</persName>
+        </person>
+        
+        <person xml:id="Brunél" sex="m/f/u">
+          <persName>Brunél</persName>
+        </person>
+        
+        <person xml:id="Lycidas" sex="m/f/u">
+          <persName>Lycidas</persName>
+        </person>
+        
+        <person xml:id="Archelaus" sex="m/f/u">
+          <persName>Archelaus</persName>
+        </person>
+        
+        <person xml:id="Lebrél" sex="m/f/u">
+          <persName>Lebrél</persName>
+        </person>
+        
+        <person xml:id="Astrea" sex="m/f/u">
+          <persName>Astrea</persName>
+        </person>
+        
+        <person xml:id="Brunel" sex="m/f/u">
+          <persName>Brunel</persName>
+        </person>
+        
+        <person xml:id="Syrene" sex="m/f/u">
+          <persName>Syrene</persName>
+        </person>
+        
+        <person xml:id="Antistes" sex="m/f/u">
+          <persName>Antistes</persName>
+        </person>
+        
+        <person xml:id="Brutamont" sex="m/f/u">
+          <persName>Brutamont</persName>
+        </person>
+        
+        <person xml:id="Polydoor" sex="m/f/u">
+          <persName>Polydoor</persName>
+        </person>
+        
+        <person xml:id="Circe" sex="m/f/u">
+          <persName>Circe</persName>
+        </person>
+        
+        <person xml:id="Utysses" sex="m/f/u">
+          <persName>Utysses</persName>
+        </person>
+        
+        <person xml:id="circe" sex="m/f/u">
+          <persName>circe</persName>
+        </person>
+        
+        <person xml:id="Thisbe" sex="m/f/u">
+          <persName>Thisbe</persName>
+        </person>
+        
+        <person xml:id="Grieken" sex="m/f/u">
+          <persName>Grieken</persName>
+        </person>
+        
+        <person xml:id="Ulysses" sex="m/f/u">
+          <persName>Ulysses</persName>
+        </person>
+        
+        <person xml:id="Achilles Geest" sex="m/f/u">
+          <persName>Achilles Geest</persName>
+        </person>
+        
+        <person xml:id="Florinden" sex="m/f/u">
+          <persName>Florinden</persName>
+        </person>
+        
+        <person xml:id="De Grieken" sex="m/f/u">
+          <persName>De Grieken</persName>
+        </person>
+        
+        <person xml:id="Florus" sex="m/f/u">
+          <persName>Florus</persName>
+        </person>
+        
+        <person xml:id="Dianira" sex="m/f/u">
+          <persName>Dianira</persName>
+        </person>
+        
+        <person xml:id="Florinde" sex="m/f/u">
+          <persName>Florinde</persName>
+        </person>
+        
+        <person xml:id="Aantistes" sex="m/f/u">
+          <persName>Aantistes</persName>
+        </person>
+        
+        <person xml:id="Lybia" sex="m/f/u">
+          <persName>Lybia</persName>
+        </person>
+        
+        <listRelation type="type of relation">
+          <relation name="" active="pers_1" passive="pers_2"/>
+        </listRelation>
+      </listPerson>
+    </particDesc>
+    <textClass>
+      <keywords>
+        <term type="genreTitle">Tragedy</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <listChange>
+      <change when="0000-00-00">who did what</change>
+    </listChange>
+  </revisionDesc>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1690">
+        <desc/>
+      </event>
+      <event type="premiere" when="">
+        <desc/>
+      </event>
+      <event type="written" when="">
+        <desc/>
+      </event>
+    </listEvent>
+    <listRelation>
+      <relation name="wikidata" active="https://dracor.org/entity/" passive="http://www.wikidata.org/entity/"/>
+    </listRelation>
+  </standOff>
+  <text>
+    <front>
+    </front>
+    <body>
+    
+    
+            <div type="chapter">
+                
+                    
+
+DE TOVERÉS CIRCE,TREURSPÉL;Mét Kunst én Vliegwérken, Nieuw Muzyk én Balétten, énz.DoorA. LEEUW.
+TE AMSTERDAM,By d&apos;Erfg: van Jacob Lescailje, op de Middeldam, naast de Vischmarkt. 1690.Met Privilegie.
+                
+            </div>
+    
+    
+    
+            <div type="chapter">
+                
+                    
+Aan den leezer.DIt Treurspel, uit de Spaansche Taale, van den Beroemden Dichter Don Pedro de Calderon, getrokken, en door A. LeeuwDe gelukkige uitslag, die Medea, van Jan Vos, voor eenige maanden gehad heeft, is een groote beweegreden geweest, om een Werk van zo moeijelyken omslag met lust by der hand te neemen, en met yver uit te voeren.Om lóf, nóch dánk, heeft men die moeiten op zich genomen: want de ervaarendheid doet daaglyks zien, dat met hoe goeden inzigt, iemand iets van deeze Natuur, by gebrek van ander, en stiller slag, goede Tooneelstukken voor den dag brengt, dat hy het eene, nóch het andere heeft te verwagten: het zal, indien &apos;t al wel gelukt, voor eene groote gunst gerekend worden, dat men maar scheutvry van Laster blyve, over zo eene stoutmoedige onderneeminge. Vaar wel.
+                
+            </div>
+    
+    
+    
+            <div type="chapter">
+                
+                    
+Op de toverés Circe, treurspél.
+DE aaloutheid der EgiptenaarenEn Grieken, schrander en ervaaren,Bedekten dikwils &apos;t nutte zaadVan diepe wysheid, met SieraadVan Bloemen, om hier door de zinnenDes Volks te neigen en te winnen.Al wie leergierig onderzocht,Wat in die schaaduw schuilen mogt,Kon door de schors der Fabel dringenTót kennisse van grooter dingen.Op deeze wyz&apos; vólgtden voetDer Ouden, nu hydoetTer Schouwburg daveren en donderen,Dat zich een ieder moet verwonderen:Want de aarde siddert op haar wenk:Wat weezen heeft, word met een zwenkHerschapen, door haar Toverkrachten:De Dieren wis&apos;len van geslachten.Maar dit &apos;s de Schorss&apos;, men merk den zin:Geen grooter Tovery als Min. J.S.
+                
+            </div>
+    
+    
+    
+            <div type="chapter">
+                
+                    
+Copye Van de privilegie.DE Staten van Holland ende Westvriesland, doen te weten. Also Ons vertoont is by de tegenwoordige Regenten van de Schouwburgh tot Amsterdam. Dat sy Supplianten sedert eenige Jaren herwaerts met hunne goede vrinden hadden gemaakt en ten Toonele gevoert verscheiden Wercken, soo van Treurspelen, Blyspelen als Kluchten, welcke sy lieden nu geerne mer den druck gemeen wilden maecken, doch gemerckt dat dese wercken door het nadrucken van anderen, veel van haer luyster, soo in Tael als Spelkonst souden komen te verliesen, ende alsoo sy Supplianten hen berooft souden sien van hun bysonder oogwit om de Nederduytsche Tael en de Dichtkonst voort te setten, soo vonden sy hen genootsaekt, om daer inne te voorsien, ende hen te keeren tot Ons, onderdanigh versoeckende, dat wy omme redenen voorsz. de Supplianten geliefden te verlenen Octroy ofte Privilegie, omme alle hunne wercken reets gemaeckt ende noch in &apos;t licht te brengen, den tyt van vyftien Jaren alleen te mogen drucken en verkopen of doen drucken en verkopen, met verbot van alle anderen op seeckere hooge peene daer toe by Ons te stellen ende voorts in communi forma. SOO IS &apos;t, dat Wy, de Zake en &apos;t Versoek voorsz. overgemerkt hebbende, ende genegen wesende ter bede van de Supplianten, uyt Onse rechte wetenschap, Souveraine Magt ende authoriteyt deselve Supplianten geconsenteert, geaccordeert ende geoctroyeert hebben, consenteren, accorderen ende octroyeren mitsdesen, dat sy geduurende den tyt van vystien eerst achtereenvolgende Jaren de voorsz. werken die reeds gedrukt zyn, ende die van tyt tot tyt door haer gemackt ende in &apos;t ligt gebragt sullen werden, Binnen den voorsz. Onsen Landen alleen sullen mogen drukken, doen drukken, uytgeven en verkopen. Verbiedende daarom allen ende eenen yegelyken de selve werken naer te drukken ofte elders naer gedruckt binnen den selve Onsen Lande te brengen, uyt te geven ofte te verkopen, op de verbeurte van alle de naargedrukte, ingebrachte ofte verkogte Exemplaren, ende een
+boete van drie hondert guldens daer en boven te verbeuren, te appliceren een derde part voor den Officier die de calange doen sal, een derde-part voor den Armen der plaetse daer het casus voorvallen sal, ende het resterende derde part voor de Supplianten. Alles in dien verstande, dat Wy de Supplianten met desen Onsen Octroye alleen willende gratificeren tot verhoedinge van hare schade door het nadrucken van de voorsz. werken, daer door in geenige deele verstaan, den Inhoude van dien te Authoriseren, ofte
+xix g. fagel Ter Ordonnantie van de Staten simonbeaumont De tegenwoordige RegentenSchouwburgToverés CirceJacob Lescailje In Amsterdam, denDecember
+                
+            </div>
+    
+    
+    
+            <div type="act">
+                
+                    
+De toverés Circe,
+treurspélEerste bedryf.Eerste tooneel.Het Tooneel verbeeld een woeste bosschagie, daar in &apos;t verschiet Bergen en Rotsen gezien worden, en een ontstelde zee, daar &apos;t Schip van Ulysses op dobberdt.Ulysses, Klaryn. LycidasFlorindeyder een Boom
+UlyssesWAt Landschap mag dit zyn?
+KlarynWie kan u dat verklaaren?Wy hebben langen tyd gezwurven op de baarenVan de ongemeete zee, ons vreemd en onbekend.
+UlyssesIk zorg ons ongeluk heeft hier meê noch geen end,Vermits al dit gebergt, dat wy hier zien voor oogen,Heel onbewoond gelykt, om &apos;t woest en wild vertoogenVan &apos;t warrig kreupelbosch.
+KlarynDeez&apos; naare wildernisVertoond ons, dat dit maar een dorre landstreek is.
+UlyssesMen speurt hier heen en weêr een deel bemoschte plassen.Wier kanten heel en al met onkruid zyn bewassen.
+KlarynIk vrees wy zullen hier, in deeze herberg, daar &apos;tDus dor en maager is, ontmoeten snooder waerdAls Polyphemus was.
+UlyssesMen hoort hier niet als tieren,En schreeuwen en gebrul van ongetemde dieren.
+KlarynIn &apos;t naar geboomte zit niet anders als gespuisVan Uil, en Aap, en Kat, en Raaf, en Vled muis.
+UlyssesDe takken hangen vol van allerleije ledenDer beesten wild en wreed, na &apos;s jaagers wyze en zedenEn zegepraal der jagt.
+Klaryn&apos;t Geest alles hier een schrik,
+Ulysses&apos;t Geeft alles hier een schroom.
+Klaryn&apos;t Is alles ysselik.
+Ulysses&apos;k Zal met myn zwaerd de dichte, en wyd verspreide takken,Van deezen Eik, om plaats te maaken, neder hakken.
+Lycidasin de BoomEi my ellendige! wat gaat my aan? ach, ach!
+KlarynO Goôn! wat zal dit zyn? de Boom is door den slagVoorwaar gewond, en heeft gelyk een mensch gesproken.Ik heb het klaar gehoord.
+UlyssesHet zyn maar yd&apos;le spooken.Kom, langs deeze and&apos;re kant maak ik een open baân.Wat hinderpaalen dat nu voor myn voeten staan,Die moeten alle omver, en door dit staal ter aarden.
+Florindein de BoomAch, ach! men kapt in my, heb meêly, ô vermaardenOnwinnelyken Held, met myn verdriet en wee:En steek uw blinkend zwaard tóch weder in de scheê,Dus te onrecht tegen eene ellendige uitgetrokken.
+UlyssesIk sta voor &apos;t wonder stom.
+KlarynIk ben van angst verschrokken.
+UlyssesDit &apos;s voor &apos;t gehoor geen droom.
+KlarynNoch voor &apos;t gezicht geen waan,Noch spookery.
+Ulysses&apos;t Is zo, ik laat het hakken staan,Want deeze blaad&apos;ren zich nu rood op de aard vertoogen,Die straks nóch aan de tak groen hingen voor onze oogen.Onsterffelyke Goôn, wat bosch is dit tóch, daarDe boomen menss&apos;lyk zyn?
+KlarynHet zal hier nóch al kwaârEn arger met ons gaan, vermits ik, door de boomenVan deze wildernis, recht op ons aan zie koomen,Een troep van wild gedierd, die alle wreed en koenGewiss&apos;lyk op ons beide een aanval zullen doen:Hier verschynen eenige Dieren van verscheide gestalte.
+UlyssesKom, laat om mannelyk en edel moedig stryden,Wy zullen licht elkaâr wel voorde dood bévryden.Zie daar een wonderwerk! wat óf dit weezen wil?&apos;t Gediert houd zich alleen niet vreedzaam, tam en stil,Tot teken dat zy ons niet dreigen te overvallen,Maar hebben even als verwonnen, met hen allen,Geboogen, weêreloos, en vol ootmoedigheid,Zich met de borsten op der aarden neêrgeleid.Zie den gekroonden Leeuw, den Koning aller dieren,Neigt zich ter neder niet gedienstige manieren;Daar recht hy zich weêr op, aanminnig en gedwee,Nu ziende landwaard in, en dan weêr naar de zee;Hy schynt beleefdelyk, met dus recht op te ryzen,En &apos;t kyken heen en weêr, iet aan te willen wyzen.O edelmoedig Dier! hoe zal ik dit verstaan?Wat wyst gy, door dit na de strand te kyken, aan?Wat wilt gy my door deze aanduidenis ondekken?Wilt gy dat ik dit woud niet verder in zal trekken,Daar gy, als Oppervorst en Koning, hebt gebied,Op dat ik door dit staal geen meerder bloed vergiet,Van dit verwoest geboomt, daar menschen binnen leeven?Hy heeft op elke vraag zyn antwoord my gegeeven,En met zyn knikkend hoofd, en vriendelyk gelaat,Op alles my getoond dat hy myn reên verstaat.Wel, laaten wy dan, door het onderrecht van deezenVerkondigbaren Leeuw, het Lot gehoorzaam weezen?Vermits dit stomme dier gewis van ons begeerd,&apos;t Geen hem door inspraak van het Noodlot is geleerd.Za! lustig dan Klarin, laat uw geroep doorboorenDit naar afschuw&apos;lyk Bosch, op dat ons volk mag hoorenDat ik in aller yl wil vlugten hier van daan,Om &apos;t naakende gevaar by tyds op zee te ontgaan.&apos;t Schynt dat ons Jupiter wil redden en bewaaren.Flus koozen wy het land, nu kiezen wy de baaren.
+KlarynoverluydHoort, Medebroeders van Ulysses, die nu stoutEn moedig heenen loopt door dit getoverd woud,Verlaat dit naar gewest, en wilde en woeste plekken,Koomt weder ras te scheep, Ulysses wil vertrekken.
+UlyssesZie daar al weêr op nieuw een wonderteken, ja,Een aanbeduidenis daar ik verstelt voor sta.Terwyl gy bezig waard uw stem te laaten hooren,En die liet klinken in ons Medemakkers ooren,Heeft al dit wild gediert, met brullend naar gerucht,Als of &apos;t iets klaagen wou, weemoedelyk gezucht.
+KlarynZy zyn al vlugtende te zaamen doorgesloopen,En met een zacht gedruis ten boschwaard ingeloopen.
+UlyssesIk sta hierom, voorwaar, in groote ontsteltenis.
+Klaryn&apos;k Meen dat myn bange vrees noch al veel grooter is.
+Tweede tooneel,Antistes, Ulysses, Klaryn
+AntistesO Goôn! wat Land is dit?
+UlyssesAntistes, om wat redenKeerd gy zo zeer verbaalt?
+AntistesHoor met opmerkenhedenHier tóch eens de oorzaak van, die ik u zal verslaan.Wy trokken, op uw woord, manmoedig hier van daan,En hakten met ons zwaard het kreupelbosch ter nederDaar &apos;t ons den doorgang sloot, en dwaalden heen en wederMet moeiten en met kracht, om ernstig te bespiênWat voordeel dat ons van dit Landschap mógt geschiên:Maar midlerwyl wy aan deeze opgedaane kusten,In schaâuw van bosch en berg, ons dachten te verlusten,Wierd alles yd&apos;le waan, en deerlyk misverstand,Vermits ons &apos;t ongeval haar magt zo wel op &apos;t land,Als op de zee vertoond: want koomende te doolenDoor veel verscheidene Speelgaarden, heggen, holen,Belommerd en doorwrocht heel overkonstig, raarEn sierlyk, door dien groote ervaaren Konstenaar,Den wyzen gryzen Tyd, vol goddelyk vermoogen,Zo is, testont hier na, verschenen voor onze oogen,In &apos;t hoog en diep gebergt, een wonder prachtig Hof,Zo hemelhoog gebouwd, van onwaardeerbre stof.Dat haar verhevenheid, voor &apos;t keurig oog, verwekte,Dat zy de lucht een wolk, &apos;t gebergte een rots verstrekte.Zo dra de wedergalm van ons verblyd gerucht,Tot voor haar poorten toe gegaan was door de lucht.Terwyl dat berg en bosch van onze konst gewaagden,Zie daar, een braave Rei wel opgetooide MaagdenTer Hofpoort koomen uit, wier vleijende gelaat,En vriendelyk onthaal, ons zo ter herten gaat,Dat wy door dit vertoog niet anders denken konden,Of hadden hier een troon voor onze smart gevonden,Een haaven vol van rust na zo veel ongemak,En voor ons ramp en wee een heilzaam veilig dak.Hier op, na deze schaar van zeer beleefde vrouwen.Verscheen een Beeld, zo schoon, dat wy, door haar te aanschouwen,Ons beelden in, dat zy, vol goddelyke kracht,In weêrwil van Diaan, hier daag&apos;lyks ging ter jagt;Haar glans had ons verrukt, en geen van ons kon gissen,Of &apos;t was de Boschgodin van deeze wildernissen,Wie zyt gyEn zynde al ietwes nu op haare vraag bericht,Terwyl ik bezig was, om vorder te verhaalenOns ongemak op zee, en langgeleede kwaalen,Liet zy, met veinzende meêdogenheid, heur stoet,Tot een verfrissing van ons afgemat gemoed,Een kostelyken drank aan onze Makkers langen;Maar naauw&apos;lyks had de borst het giftig nat ontfangen,Of &apos;t liep hen in der yl, met een benaaude smert,In duld&apos;loos ongeduld gezaamentlyk naar &apos;t hert;Hunne ogen wurpen vier als opgezwolle padden:Kort, al de gene die hier van gedronken hadden,Zyn, door die dronkenschap, niet voort geborsten uitAlleen in wild getier, en yss&apos;lyk dol geluid,Maar wierden ook vervormd van lichchaam en van leden,Het lyf verloor zyn stal van boven tot benedenHun menschelyke vorm wierd beestelyk. wie heeftZo ongemenen zaak en wonder ooit beleefd?Wie immermeer gezien zo vreemde toveryen?Zo een herschepping ooit gehoord voor onze tyen?Nu zult gy, ô verwaande en laffe Grieken zien,(Zo sprak de Toveres) waar benen, en tot wienGy heden zyt geland: en hoe dat Circes toorenDen stouten Reizeger kan straffen na behooren,Die met hoog moedigheid durft naderen dit Ryk,En deez&apos; verboode plaats, myn wooning, en myn wyk.Ik, die van &apos;t giftig nat, gelyk ons Metgezellen,(Vermits ik bezig was ons onheil te vertellen)Juist niet gedronken had, nu ziende &apos;t groot gevaarDat my te wachten stond, gaf my ter vlugt van daar,Met zulk een haastigheid dat Circe &apos;t niet kon merken;Want hy is niet alleen voorzichtig in zyn werken,Die &apos;t nakende gevaar by tyds den rugge bied,Maar die de tovery der Schoonheid zelf ontvlied,Die, streelende &apos;t gezicht, vervoerende de zinnen,Der mannen herten kan betov&apos;ren en verwinnen.Dit &apos;s &apos;t geen my wedervoer, en doe u dit verstaan,Op dat wy vlugtende ons van deeze Sphinx ontslaan.
+UlyssesZal &apos;s Hemels toornigheid dan nimmer eens bedaaren?Moet Griekenland altoos, ô Venus! wedervaarenUw ongerechte wraak?
+AntistesZien wy, dat ons den tyd,Door eene onnutte klagt, niet vruchteloos ontglyd,Waar door wy mogten ons gelegenheid verliezen;Vertrekken wy van hier, laat ons de zeekant kiezen.
+UlyssesHoe! zullen wy dan, met een onbarmhertig herte,Ons Medebroeders dus verlaten in hun smert?
+KlarynWat raad? wy kunnen tóch met in gevaar te raaken,Hun beestelyke vorm niet weder mensch&apos;lyk maaken.
+UlyssesO Juno! nademaal dat Venus, tot uw smaad,Der Grieken hoonster is, en brouwt ons al dit kwaad,Waarom komt gy uw leed met weêrwraak niet vergelden,Als een Beschutster van uw onderdrukte Helden?Gedenk, ten aanzien gy van Paris waard gehoont,Hoe gy u, door ons staal, bloeddorstig hebt getoontOp [...]ium; gedenk, hoe wy wraakgierig staakenHet blak&apos;rend Grieksche vier in Troyens hooge daken;Wiens ongeblusten brand, op heuvelen van rook,Noch door de lucht verspreid zyn vonken en gesmook,Ach! moeten wy, om uw gelede hoon te wreeken,Staâg lyden zo veel ramp, van hemelhulp versteeken?Volschoone Schatgodin, kom, redder onzen stand,En ruk ons uit de magt van Venus wreede handIris. op &apos;t geluid van heel zacht Snaarenspel, daald neder op haar Boog staande in een lucht van wolken.
+Derde tooneel.Iris, Ulysses, Antistes, Klaryn
+IrisIK kom, gehoorzaam, met myn Reijen,Myn wieken door de wolken spreijen.
+UlyssesEi zie! den uitgestrekte en geschakeerden boog,Van purper, groen, en geel, vertoond zich, van om hoog,In een bewolkte lucht, wiens glans en hellen luisterBeflikkert ons gezicht, en maakt onze oogen duister.
+AntistesDat wy nóch in de gunst der hoge Gooden staan,Wyst ons den Hemel, door dit vredeteken, aan.
+UlyssesWaar op men ziet gevest die schoone Nimph, boodinneVan Juno. By aldien gy my, ô KoninginneVan wolken en van wind, schoone Iris, waardig acht,Dat gy van boven komt verschynen op myn klagt,Zo wilt my nu, in al deez&apos; wederwaardigheden,Uw goddelyke troost, en hemelspraak, ontleeden.
+De Koninginne van de Goôn,Voorziende, van den Oppertroon,Uwe al te droevige ongelukken,&gt;Die u hier dreigen te onderdrukken,Zend my van &apos;t hooge starrendak,Op dat gy op haar gunst moogt roemen,Met dezen waarden hemeltak,Gesierd met allerleije bloemen,Die Circes konst en vuil fenynGeheel en al zal kracht&apos;loos maaken,En u een tegengift zal zyn,Als gy haar Drank hier meê zult raaken;Maar wacht u wel voor al, dat gyUw kloeke en overwyze zinnen,Door kracht van Minnetovery,Nocht zoet gelonk, laat overwinnen.Gy weet myn last nu en uw plicht,Dies ga ik weder met myn Reijen,Myn wieken door de wolken spreijen,Mits myn Gezantschap is verricht.
+UlyssesDienstvaardige Iris, mond van Iuno, trek uw glanssenZo haastig niet weêr op, naar &apos;s hemels hooge transsen;Vertoef een weinig tóch, op dat u werd getoondDe groote dankbaarheid die in myn boezem woond.
+AntistesZy heeft heur licht en glans en helderheid, onze oogen,In &apos;t veld van de open lucht al te eenemaal ontoogen.
+UlyssesNu vrees ik voor de magt van Circe niet met al,Mits &apos;t Noodlot zich erbarmd in dit ons ongeval.Wel aan, zien wy nu voort, in aller yl, te koomen,Daar deeze Toveres haar wooning heeft genoomen;Gy zult ons Medemaats, door &apos;t ondersteund geweldVan myne dapperheid, weêr daadlyk zien hersteld.
+AntistesNa dat ik hooren kan, komt zy ons daar ontfangen,Met aardig snaargespel en zoete maatgezangen;Heur Maagdenrei gaat voor, zy volgt alleen op &apos;t lest,Gelyk een Aardsgodin van dit, vervloekt Gewest.
+Vierde tooneel.Circe, Lybia, Astrea, Clorisbe, Dianira, Thisbe, Syrenaby haar hebbende Kruik, Kelk, en HanddoekUlysses, Antistes, Klaryn
+Gezang.TEr goeder uur komt hierIn Circes blyde laanen,Ulysses, kloek en fier,De geessel der Trojaanen:Ter goeder uur komt hier,Ulysses, kloek, en fier,Hy zy vry buiten schroomen,En heel met ons verblyd,Mits hy hier is gekoomenTer goeder uur en tyd.
+CirceO zalig uur! waar in, aan deeze strand, verdwaalden,Den allereêlsten Griek, die ooit de Zon bestraalden,Als overwinner, van de woeste onstuimigheidDer bulderende zee, nóch niet ter neêr geleid,Vol storm en onweêr, en verderffelyke Orkaanen:Derhalven kom ik u een weg van vreugde baanen,Tot myn vermaak&apos;lyk Hof, gelyk zo waard een Gast,En koninklyken Held, de wyze Ulysses past.Dan nademaal den dorst is een der grootste plaagen,Die vaak, den Reiziger moet lyden en verdraagen,Vertraag ik niet, om u, tot lichting van uw smert,En tot een tuige van myn edelmoedig hert,Deez&apos; waarde godendrank en néctar toe te brengen;Aanvaartze dan, om voort wilvaardig toe te plengen.Aan d&apos;oppermoogendheid van Jovis, aan de prachtEn groote weetenschap van Juno, aan de magtEn strenge wapenen van Mavors, aan de hairenEn wondre schonigheên van Venus, aan de baarenEn wyde stroomen van Neptunus, aan &apos;t beroemdEn kuische leeven van Diana, aan &apos;t gebloemdEn lieffelyk gebloos van Flora, aan de glanssenEn straalen van Apól, die hem het hoofd bekranssen,Ja! in het kort, vat aan, en pleng het aan de MinDen God der Liefde zelfs.
+UlyssesO schoone Jaagerin!Die, als een tweede Auroor, deeze eeuwig duist&apos;re DaalenEn Bergen, door uw glans en Godheid doet bestraalen,Dien Reizeger ter zee, dien &apos;t kwellende verdrietBarmhertig, en &apos;t Geval steeds tegenspoedig ziet;Dat naaubehouden schip, &apos;t geen dorstig komt doorvaarenHet grondelooze nat; dien Dolfyn, die de baarenDoorvloogen heeft, gelyk een vogel &apos;t wyde veldVan d&apos;ongemeete lucht, die, zeg ik, ondersteld,En acht zich in der daad gelukkig, nu zyn lyden,Door onverwachten troost, veranderd in verblyden:En juist, als hem de dood veel aangenaamer was,Als &apos;t lieve leeven zelfs, dewyl hy, noch dit pas,Ootmoedig óffer, voor uw Altaars wou verstrekken.De Néctar, die gy, met uw gunst aan my te ondekken,My aanbied, en waar meê my uwe godd&apos;lykheidVerwelkoomt, in &apos;t onthaal dat myn geluk voorzeid,Aanvaarde ik dank baarlyk, hoewel uw groot vermoogenMy brengt ontzach en vrees, en maakt als opgetoogen,Ja zo, dat ik uw gunst my gansch on waardig acht,&apos;t En zy eerst rechten dank aan u zy toegebragtDoor and&apos;re lippen, die met dank baarhedenBetoon en, dat de Goôn, geen menschen hier beneden,Zo waarden gift als dit allenig waardig zyn:Derhalven, op dat ik my in der daad, noch schyn;Verwaaten draag, zal ik voor eerst, in dit ontmoeten,Dit kostelyke nat met dezen Bloemtak groeten.Vlysses steckt den bloementak in den Kelk, en uit de zelve verryst een Vlam.
+LybiaIk schrik! wat &apos;s dit?
+AstreaHy heeft uit water vlam verwekt.
+ClorisbeWat wonder ziet myn oog!
+CirceHier werd myn list ontdekt.Vergramde Hemelgoôn, wiens magt komt my beroovenVan myn beroemde Konst?
+UlyssesEen Godheid van daar boven,Die al uw tovery heeft krachteloos gemaakt:En door wiens hemelheul ik herwaards ben geraakt,Tot heil der geen, die hier hun mensch&apos;lyk weezen derven;Dies zult gy, Toverés, door myne handen sterven,Opdat de diepe Hél uw booze ziel verzwelgd.
+CirceSchoon ik wel heb verdiend dat my uw staal verdelgd,Zo is het voor een Held, ja een der aardsche Goden,Geen roem, noch zegenpraal, een zwakke vrouw te dooden;Vermits de dapperheid van eenig oorlogsman,Op een verwonnene geen eer, behaalen kan;Noch minder op een vrouw; dies moet gy overweegen,Dat ik tot tweemaal toe bevryd ben voor uw degen.
+UlyssesAls een verwonne vrouw, verkrygt gy licht van myDat ik u &apos;t leeven schenk, al is het schoon dat gyGeen eens, maar duizendmaal, door uwe arglistigheden,Het sterven hebt verdiend: maar &apos;t heeft ook meê zyn reden,Dat gy myn zwaard niet eer gekeerd ziet in zyn plaats,Voor gy te voorschyn brengt al myne Medemaats.
+CirceDie voorslag, en nóch meer, kan ik in geen manierenU weig&apos;ren. Hoort, hoort toe, gy redelyke Dieren,Gy Metgezellen van Ulysses, fluks, verscheptUw weezen, dat gy door myn konst verwisselt hebt.
+Vyfde tooneel.Timantes, Polydoor, Archelaus, Florus, Lebrelveranderd van beesten in menschen, yder uit een byzondere plaatsUlysses, Antistes, Klaryn, Circe, Lybia, Astrea, Clorisbe, Dianira, Thisbe, Syrena
+TimantesWat zag ik my in een boos Tygerdier herschapen.
+PolydoorVeranderd in een Leeuw, heb ik een wyl geslaapen.
+ArchelausIk zag my als een Draak, die vuur en vlamme spoog.
+FlorusIk was een Beer, die dol door bosch en bergen vloog.
+LebrelIk was een Zwyn, en heb nóch van dien aart behouwen.
+CirceNu moogt gy al uw volk in vryheid weêr aanschouwen.
+UlyssesMyn waarde vrienden, nu zyt gy weêr uit uw druk.
+TimantesWy kussen alle uw knien van wegen zulk geluk.
+CirceHoewel uw volk terstont my ietwes van u zeiden,Wie dat gy zyt, en wat uw herwaart heenen leiden,Ik luister evenwel nóch echter met verstand.
+UlyssesHet vruchtbaar Grieken is myn lieve Vaderland,Daar ik myn eigen naam Ulysses heb gekreegen;En alhoewel staâg tot de Letterkonst geneegen,Nóchtans ik in den Kryg zo zeer geoeffend ben,Dat ik het zwaard zo wel kan hand&apos;len als de pen.&apos;k Heb Trojens oorlog meê van vooren aan begonnen,Ja, &apos;k mag wel zeggen, ik heb Trojen overwonnen;&apos;k Ben echter niet gezind, dat ik vernieuwen zalHet jammerlyk verhaal van haaren droeven val,Dat Venus die, zo lang als zy begeerd, beklaage,&apos;t Is my genoeg dat ik Achilles wapens draage,En is haar Eigenaar nu niet zo kloek als hy,Ten minsten dat hy wel zo arriglistig zy.Ik heb zes jaaren lang gekruist Neptunus baaren,En op een houte kiel den Aardkloot omgevaaren.Ik heb een slaaf geweest van Polyphemus hant,Die ik (na dat hy zich had met het vlees verzaadVan zes van myn gevolg) om my van hem te wreken,Door listigheid en kracht, het oog heb uitgesteken,Dat hem recht in den stam van &apos;t voorhoofd stond gevest.Toen zeilden wy van daar naar Eölus gewest,Daar deezen Vorst, mits hem ons onheil heeft verdrooten,De winden t&apos;zaam heeft in een ossenhuit beslooten,Die ons, door Venus haat, steeds plaagden als onzind,Behalven maar alleen de zwoele wede wind,Dewelk ons dienstig was om naar ons Land te vaaren:Maar als wy in &apos;t gezicht van Ithaca nu waaren,Terwyl ik my wat had begeeven tot de rust,Wierd een van ons, wat in den zak mogt zyn, belust,Te zien, en meinend&apos; daar een Rykdom in te vindenSneed hy den zelven op; daar vloogen al de WindenAls uitgelaaten dol en raazend weder heen,En hebben ons op nieuw, met zulk geweld, bestreên;Dat wy in korten tyd ons zelven weder vonden,Daar Eölus de Wind had in den zak gebonden:En hoe ik sedert weêr by hem om bystand bad,Eöol heeft met myn kwaal geen deernis meer gehad.Wy lichten &apos;t anker weêr, schoon tegen winden wolken;En kwaamen eind&apos;lyk by de Lestrigoner volken,Wier Koningin zo wel heel schrikk&apos;lik was in &apos;t oog,Wanneer men haar bezag, als dat zy berreghoogVan lyfsgestalte was; hier wierden al myn scheepenVerzonk en, en myn maats, voor mondkost, aangegreepen;Zo dat my van myn volk en vloot niet overschiet,Als deeze liên, en &apos;t schip, dat gy daar leggen ziet.Dus afgesólt door &apos;t lot, en van de dolle winden,Aandeeden wy dit Land, om hier ons heil te vinden;Maar &apos;t gaat hier anders toe, als ons vermoeden was;Gy handeld ysselyk; dat kunnen nóch dit pas,Behalven wy al t&apos;zaam, deeze eikeboomen tuigen,En al de Dieren, die gy zuchtende doet buigenVoor uw bezweeringen, en wreede onmensch&apos;lykheên.Dóch nademaal ik vanden Hemel heb gebeên,Dat ik verzekerd sla voor uwe toveryen,Zal ik my door de vlugt van uwe strafbevryen,Om weder op een nieuw, de baaren, fel en strang,Van kronkelend kristal (die zo veel jaaren langMy hebben als vergast) kloekmoedig door te peilen.Ontwind dan andermaal uwe ingetrokke zeilen,Gy vluggen Dolfyn, snyd, en krult het zilv&apos;rig natAl weder met uw kiel, myn Medebroeders, datOns schip de vrye zee weêr kieze, zonder beiden,Om na der Goden wil ons alle te geleiden.
+CirceO welbespraakten Griek, aan wien dit veld van glas,En deeze rots van sneeuw, zo lang een woonplaats was,Wil u zo haast niet weêr, door schrik, of iet gedreeven,In nood en zwaarigheid van zeegevaar begeeven;Te meer vermits gy u, voor ramp en ongemakHier vry verzeek&apos;ren moogt, door uwen Bloementak,Die als een tegengift, de krachten der fenynen,En alle tovery, doet vlugten en verdwynen.Dóch op dat gy verstaat, wat jammerlyken drukGy overwonnen hebt, door &apos;t heil van uw geluk,Zal ik deshalven u eens alle myn bedryven,Zo bondig als ik kan, en wie ik ben, beschryven.Die blaakerende Toorts, wiens glans het al verlicht,&apos;t Geen wy van hier beneên bereiken door &apos;t gezicht;Die ziel van yders geest, die zuiv&apos;re leevens ader;Die alverk wikbre Zon, is myn doorluchte Vader.Myn Moeder Hecaté my in Thessaaljen wan,Daar myne Nicht Medee en ik, twee wond&apos;ren vanDe Schoolen zyn geweest; mits wy, door een ervaarenEn grooten Konstenaar in alle konsten waarenHeel uitgeleerd; zo wel in Wapenoeffening,Als in de Letterkonst, ja, ons geleertheid gingZo vere, dat wy bei derhalven, allerwegen,De naam van wond&apos;ren der volmaakte wysheid kreegen;Door dien, wanneer een Vrouw, met yver en begeert,Zich tot de lett&apos;ren of tot wapenkunde keerd,Gemeenlyk of altyd de Man zal overtreffen:Waarom ook dit geslacht, dat meê wel kon bezeffenDat hunne glans zou zyn door onze glans verdoofd,Ons heeft verbannen, en van dit gebruik beroofd.Ik heb my, door myn lust en oogmerk aangedreeven,Hier op dit Eiland van Trinacriâ begeeven,Daar ik, in Ethnas oog, en Lilybees gezicht,Deez&apos; marm&apos;re zuilen, en lustgaarden heb gesticht;Daar ik dit groote bosch, deeze allerleije boomen,Dit onbetreên gebergt, heb, door myn konst, doen koomen.Nu weet gy wie ik ben. maar schoon de Zon, de Maan,En Sterren, op myn woord, my strak, ten dienste staan;Schoon ik de Zee ontstel, Gebouselen doe beeven,Het Aardryk open splyt, Gebergt en Rots doe leeven,De Menschen,van gedaant verwissel, en verkeer&apos;,Zo buig ik nochtans nu voor uwe voeten neêr:En smeek u als een vrouw, gebiê als Keizerinne,Verzoek als wyze, ja begeer als Aardsgodinne,Dat gy toch niet vertrekt; voor gy des noodlots straf,Die u zo veel gevaar en tegenstribb&apos;ling gaf,Geheel verwonnen hebt; verblyf, op myn behaagen,Hier eene zek&apos;ren tyd, óf maar een weinig daagen,Gy zult myn straffigheên, al t&apos;zaam, op uw gebien,In goedertierenheid, en gunst veranderd zien;Dies band alle achterdócht van onrust uit uw zinnen,En leer straks, door een eisch, hoe trouw wy u beminnen.
+UlyssesZo eisch ik, dat gy my eens duidelyk vertrekt,Wie die twee Zielen zyn met schorssen overdekt,En om wat reên gy hen veranderd hebt in Boomen;En laat ze dan herschept weêrom te voorschyn koomen.
+CirceDie Boom besluit in zich de Godd&apos;lyk schoone ziel,Van die ik tot Vriendin en hertonsluitster hiel.In deezen is de ziel eens Jongelings gezeeten,Door schipbreuk hier geland, Prins Lycidas geheeten,De moedige Erf heer van Toskaanen, deeze tweeZyn door myn konst geraakt in dit verdriet en wee,Om dat zy wulps en stout, van minlust overwonnen,Bêi hebben &apos;t hoog ontzach van myn Paleis geschonnen;Want alhoewel ik steeds na alle wreedheid tracht,De minnezucht voor al ik straffens waardig acht:Ja zo, dat Arsidas, dien dapperen, lofwaarden,Beleefden Jongeling, en edelen, vermaardenTrinacriaanschen Prins, uit wiens beroemd gebiedDoor my ontweldigd zyn de Bergen, die gy ziet,Al wist ik schoon dat hy hier herwaart was gekoomen,Om dat hy heel was van myn schoonheid in genoomen,Van my geen grooter gunst noch weldaad is betoond,Als dat ik hem tót nóch zyn leeven heb verschoond.Dóch nademaal dit is den eersten eisch van allen,Die gy dusdanig eischt, laat ik ze my gevallen.Wel aan dan, dat Florinde, en Lycidas &apos;t gezichtWeêrom genieten van &apos;t aanlokkend Hemels licht.
+Zesde tooneel.Lycidas, Florindevan Boomen in Menschen veranderdCirce, Ulysses, Antistes, Timantes, Polydoor, Archelaus, Florus, Klaryn, Lebrel, Lybia, Astrea, Clorisbe, Dianira, Thisbe, Syrena
+LycidasBEneveld in &apos;t gedacht; by na ontbloot van reden;De geest verdrukt; de ziel vol reedloosheden;Het hert beklemt; de stem gelyk aan band;Schier zonder wil, geheugen, en verstand,Ben ik een wyl geweest met eene schors omtoogen:En was ik als ontzind, door uw gevreesd vermoogen,Waarom naamt gy &apos;t gevoel my niet met een?De straf die ik heb van uw hand geleên,Om dat ik liefde droeg tot deeze Maagd Florinde,Was niet als vrucht&apos;lôos onderwinde;De Boomen minnen staâg; en daarom, schoon of gyMy in een Boom verschept, blyft my de min&apos;lust by;Ook myn Geboortestar, die niet is te overwinnen,Parst my gedurig, tot het minnen.
+FlorindeDe Mensch ontfing, door &apos;s Hemels wys beleid.Een ziel begaafd met reên, gevoel, en groeizaamheid;Het Stomgediert wierd eene ziel gegeevenVan minder aart, dat is: gevoel, en groeizaam leeven;&apos;t Gewas ontfing een ziel van groeizaamheid alleen.Drie zielen zyn &apos;t, in drie hoedanigheên.Zo lang ik dan heb reden en gevoelen,Tracht gy vergeefs myn min tot Lycidas te koelen;Want of gy my verschapt in zulk een staatDaar gy my in een schors een groeizaam leeven laat;Dat &apos;s dat gy my doet in een Boom verkeeren,Om door die straf het minnen te verleeren,Zo gy my &apos;t leeven niet ontroofd.Ziet gy myn&apos; min nooit uitgedoofd.
+CirceDat gy nu bêi weêr zyt als van de dood verreezen,Daar moet gy deezen Held, myn Gast, voor dankbaar weezen.Maar wacht een grooter straf, indien gy weêr ontvlamd.In stoute minnelust, en my op nieuw vergramd.
+LycidasIk ben, o dapp&apos;ren Held, door u, gelyk herbooren!
+FlorindeIk zie, door u, den dag, gelyk als van te vooren.
+CirceWel, op dat hu voortaan, de Zee, Gebergte, en Dal,Van vreugde nagalm geeft, zoo laat het bly geschalVan snaarenspel, en zang der Maagden, weêr beginnen.Ik volg u, met myn Gast, en welvernoegde zinnen.Gezang:Ter goeder uur komt hier....Einde van het Eerste Bedryf.
+                
+            </div>
+    
+    
+    
+            <div type="act">
+                
+                    
+Twede bedryf.Eerste tooneel.Het Tooneel verbeeld een Lusthof, daar in &apos;t verschiet het Paleis van Circe gezien word.Circe, Lybia, Astrfa, Florinde, Clorisbe, Dianira, Thisbe, Syrena
+LybiaMEvrouw, hoe dus bedrukt?
+AstreaWat ramp komt u verzellen?
+ClorisbeWat brengt u deeze smert?
+DianiraWat mag u dus ontstellen?
+ThisbeWat is de reden dat uw hert dus is bezwaard?
+SyrenaDe pyn werd vaak verlicht wanneer menze openbaard.
+CirceWat groote misslag is &apos;t, om over zyne plaagen,In &apos;t midden van zyn smert, te kermen en te klaagen!Vermits het storten van de traanen al de pynEn al de smert zeer zoet en aangenaam doed zyn:En daarom tracht ik ook myn kwaalen te verzwygen,Om van myn droef heid geen verlichtenis te krygen.Dies laat my hier in stilte, en gaat alt&apos;zaamen heen;Dóch uitgezonderd gy, Florinde, blyf alleen.
+Twede tooneel.Circe, Florinde
+FlorindeZYwil my grooter straf doen lyden, zoude ik vreezen,Als die ik in de schors geleeden heb voor deezen,‘Mits ik met Lycidas gesprooken heb van daag.
+CirceNu luister na de smert en kwelling die ik draag.Die dapp&apos;ren Griek, die wis de zee als in zyn&apos; kuuwenHadde opgezwolgen, om hem hier aan land te spuuwen;Die ter genade van de baaren en de wind,Door stórm gedreeven, zich by my ter herberg vind;Die tot zyn onderstand geniet des Hemels gunsten,Mits hy zich paalen zet aan myne toverkunsten.Deez&apos;, die beleefd ontfangt den dienst aan hem besteed,En hier, door myn onthaal, zyn Vaderland vergeet;Deez&apos;, zeg ik, heeft in my zo grooten vuur doen koomen,Als was ik van den brand van Trojen ingenoomen;Zo dat ik, zonder hulp, daar is geen twyfel aan,Door deeze heete vlam moet heel tot asch vergaan;Vermits een stille gloed zo gloeid myne ingewanden,Dat elke zucht my als een Ethnaschynt te branden.Ik woude dan! maar hoe! wat zeg ik? neen! ik misIn &apos;t zeggen; want nadien de wil een nooddwang is,En ik alreede wil, niet namaals willen zoude,Heb ik een misslag in myn zeggen, dat ik woude.Ik min dan, maar ik ben zo keurig op myne eer,Dat ik Ulysses min, en echter niet, begeerDat hy het merkt, noch weet, noch zal te weeten koomeNu vindt gy u licht in verwond&apos;ring opgenoomen,Dat ik, die uwe min, een zeek&apos;ren tyd, zo zwaar,Hoogmoedig, heb gestraft, myn&apos; min u openbaar.Dan doch, gy zult niet lang in die verwond&apos;ring blyven;Ik kan die met een woord uit uw gedachten dryven;Vermits men meesten tyd zich zelve schuldig maaktAan schulden, die men heeft voorheenen &apos;t meest gelaakt.En mits men allerbest zyn schande derft verkonden,Aan een die meede is in de zelve schuld bevonden,Zo keur ik u, die ook verviel tot zulk een kwaadAls myne ziel bezit, nu tot myn toeverlaat.Ik min, ja myn Florinde, ik min, myn aad&apos;ren kookenVan hitte, en gy zyt nu van al uw hoon gewrooken.Ik zoude u danken, zo gy my, door uw verstand,Verscheppen konde in een gevoelelooze plant,En zo ik had voorheen geweeten van beminnen,Ik bad veel liever u, met hoog verliefde zinnen,Gezien in &apos;t leeven, om u des te meerder noodEn lyden aan te doen, dan, om uw min, als dood.Ik kom hier dan by u in min&apos;lust opgetoogen,En mits gy weet wat dat mins krachten al vermoogen,Zo heb ik n een list te ontdekken, daar gy myDoor kund behulpzaam zyn in &apos;t geene dat ik ly.Gy zult myn Minnaar dan by daag liefkoozen streelen,En, als op hem verliefd uw minnelonkjens deelen,En zeggen dat hy u derhalven meê by nachtTe woord sta: daar ik dan, al heim&apos;lyk, stil en zacht,En, zonder dat hy weet van deeze looze treken,Met uwe naam vermomd, zal koomen met hem spreeken.Op dat ik door die list, myn hoogmoed, myn gezag,En eer, en achtbaarheid voor schipbreuk hoeden mag.
+FlorindeHelaas! ik bid, Mevrouw, te luist&apos;ren en vertoeven;Gy wilt my uit doen staan twee altezwaare proeven;Ik minne Lycidas, en gy verbied aan my,O wreede! dat ik zulk hem klaarelyk bely:En dat ik veinzen zou Ulysses te beminnen,Die ik niet minnen kan, ten zy het plaagt myn&apos; zinnen.Waarom is &apos;t dat gy my met twee hertstóchten staat?Te haaten die ik min, te minnen die ik haat.Gy hebt meer Maagden die gy uw verdriet kund klaagen.Myn ziel heeft last genoeg aan eene last te draagen.
+CirceDie zelve reên heeft my gedwongen, dat ik uHier in tot hulp verkies, en ben voor and&apos;re schuuw;Door dien ik weet dat een verliefde hert nóch zinnenEn laat beweegen, om een ander te beminnen.Een Minnares heeft dies een wisse en vaste bórg,Indien dat zy vertrouwd haar yverzieke zorg,Een, die zy weet dat op haar Lief niet zal verlieven.Een ander zou my &apos;t hert met achterdócht doorgrieven,Daar ik nu vry voor ben, schoon gy op myn begeerUlysses vleid en smeekt; dies wederstreef niet meer.
+Derde tooneel.Astréa, Circe, Florinde
+AstréaULysses komt, Mevrouw, met zyne Reisgezellen,Naar deezen Lusthof toe, zal zyne komst u kwellen?
+CirceGeenzins, verlét hem niet. ‘Hier neemt nu een begin,‘Den allerzwaarsten stryd van Eerzucht en van Min:Vermits ik niet begeer dat die zal overwinnen,Die de overhand reeds heeft in myn verliefde zinnen.
+Vierde tooneel.Ulysses, Antistes, Timantes, Polydoor, Archelaus, Florus, Circe, Florinde, Lybia, Astréa, Clorisbe, Dianira, Thisbe, Syrena
+Ulysses‘IK kom vol vrees de wyze en schoone Circe zien;Mits ik haar wysheyd met verwond&apos;ring eer en dien,En in haar schoonheid ben gelyk als opgetoogen.Myn wil, om hier van daan te vlieden, is vervloogen:Dewyl my haar verstand zo aanlókt en bekoord,Als my haar schoon gelaat het herte gloeid en gloord.
+CirceHier in dit Lustprieel, waar zo veel schoone bloemenVergaaderd zyn, als daar de Bloemmaand op mag roemen,Om zo de roos, in &apos;t bloed der Moeder van de minGeverfd te huldigen voor haare Koningin;Hier zal &apos;t ons pligt zyn u zo lang wat te vermaaken;Tot dat wy &apos;t uur, bestemt ten Vederspel, genaaken.
+UlyssesO allerschoonste Nimph, van wie te twyff&apos;len staatOf schoon - of wysheid heeft in u meest de overmaat!Het zou niet reed&apos;lyk zyn, dat ik uw vleijeryen,Daar gy een pligt van maakt, gewilliglyk zou lyên,Want voor uw voeten ik eerbiedelyk beken,Dat ik uw schoonheid pas te aanbidden waerdig ben.
+CirceHou op, Ulysses; die beleefde need&apos;righedenZyn my te vleijende, en te grootlyks tegen reden.Mits gy daar meede schend myn eer en myn gezach;Want u gelyk een Gast te onthalen, als men plag,Scheeld veel van streelende lief koozery te hooren.
+UlyssesIk zou zulks ook, Mevrouw, niet derven voor uw oorenUitdrukken. maar een heusche eerbiedigheid, dunkt my,Heeft zeer veel onderscheid van minnekoozery.
+Circe‘Ach, kwaamt gy my maar slechs liefkoozende te naaderen!Elk zet zich neder in de schaaduw deezer blaad&apos;ren.Gy beide, neemt uw plaats hier aan myn hogerhand.
+UlyssesMevrouw, zo grooten eer gaat boven myn verstand.
+Circeter zyden tegen FlorindeFlorinde, kom begin nu ietwes te verdichten,Aangaande uw veinzery, om my des te verplichten.
+FlorindeIk wilde, Ulysses u, dus ter bek waamer tyd,Wel ietwes vergen, daar gy my op schuldig zyt....
+Vyfde tooneel.Licidas, Circe, Ulysses, Antistes, Florinde, Timantes, Polydoor, Archelaus, Florus, Libia, Astréa, Clorisbe
+LycidasWAt zie ik! myn Florinde, Ulysses zy bekleeden,En met hem spreeken? Goôn! Geef my geduldigheden.
+AntistesHoe vallen wy van &apos;t een in &apos;t ander droevig lót!Nu zich Ulysses laat verleiden, t&apos;zyner spót,Door minnekoozery, zo zullen wy, gy Heeren,In langen tyd, of nooit in Grieken wederkeeren.
+Zesde tooneel.Arsidas, Circe, Ulysses, Licidas, Florinde, Libia, Astréa, Clorisbe
+ArsidasZEg, schoone Circe, sints wanneer hebt gy bedacht,Met zulk een goed onthaal, met zo een blyde pracht,Dus heus den Reizeger en Vreemdeling te onthaalen,En dat gy van een Rots hem niet in zee doet daalen,Of in een harde schors, of Tyger, Leeuw, of Beer,Of Zwyn, óf Draak herschept, gelyk gy deed wel eer?Ik ben op deeze plaats niet door &apos;t geval gedreeven,Maar ben tót Erfprins van Trinakria verheeven;Ik ben door schipbreuk niet geraakt aan deeze kust,Maar door genegenheid van eigen minnelust:En binnen al den tyd dat ik my heb onthouwenIn deeze Bergen, om uw schoonheid aan te schouwen,Hebt gy my nimmermeer zo veel aan u verpligt.Dat ik u geeven kon een dank baar bly gezicht.Ja, uwe Toverkonst heeft my maar willen spaareEn laat my nergens toe door deeze Bosschen waaren,Als dat ik in myn ramp, myn ongeneugt, en rouw,Uw straffe wreedheên des te meer gevoelen zou.Daar nevens, doet gy my nóch nieuwe smaadheid lyên,Mits gy &apos;er twee behoed voor uwe Toveryen,Ulysses, om dat hy uw gunsten zoude ontfaân,En Arsidas, om dat hy treurig heen zou gaan.Verwonder u dan niet, dat ik, vol yverzuchten,Die vryigheid nu neem, en, van myn ongenuchtenStreng aangedreeven, om myn smert dicht by te zyn,Hier in uw Lustprieel, voor uw gezicht, verschyn.
+CirceIk wil u niet voldoen met woorden, maar met werken,En ik verheug my dat gy die nu kund bemerken,Op dat ik door myn doen uw yverzucht vermeer.
+ArsidasWel, dat zo zynde, en dat Ulysses zo veel eerAlreê van u geniet, dat gy, om my te kwellen,Hem gund uw hoogerhand, zal ik my nederstellenAan uwe laager zy.
+CirceVermits men hier verwacht,Ter tyd toe, dat de Zon haar hitte wat verzacht,Zal &apos;t noodig zyn, dat wy wat tydverdryf beginnen,Tót oeff&apos;ning des verstands, en scherping van de zinnen.Stel dan iets voor, Florinde, en help ons op de gang;Op dat men oordeel geef, en wederom ontfang.
+Florinde‘Ik zal iet voorslaan, op het geen my komt te vooren,‘Waar door ik Lycidas myn hertsgeheim doe hooren.De schoone Lyzis, van Danthelis zeer geliefd,Gebied Dantheüs te verzwygen &apos;t geen hem geriefd.Silvanus steld de Nimph Klorinda uit zyn zinnen,En zy beveeld dat hy haar veinzen zal te minnen.Dantheüs, minnende, moet zwygen zyne smert.Silvaan, niet minnende, moet veinzen tegen &apos;t hert.Nu vraag ik eens, aan uw doorluchtige gepeinzen,Wat gy het zwaaste schat, het zwygen, of het veinzen?
+UlyssesIk schat het zwygen zwaarst, in waare minnegloed.
+ArsidasEn ik het veinzen zwaard, wanneer men minnen moet.
+UlyssesIk hou myn oordeel best.
+ArsidasIk hou den prys gewonnen.
+UlyssesWie zal in heete min zyn liefde zwygen konnen?
+UlyssesEn wie zal veinzen te beminnen, &apos;t geen hy haat?
+UlyssesHet zwygen is het meest.
+ArsidasHet minsten in der daad.
+UlyssesEen Minnaar, die recht brand in minsgenegenheden,Word stadig zonder rust van minnezórg bestreeden:Daar een die veinzen zal, gerust en veilig leefd,Tót dat de nood en tyd hem stóf tót veinzen geeft.Waar door het blykt, dat die de zwaarste pyn moet draagen,Die staâg verzwygen moet het geen hem port tót klaagen.
+ArsidasDie zelve reden toond dat ik u overwin;Want zo een Minnaar door de k welling van de Min,Gestaâg verzeld is met het geen dat hy moet weeten,Kan hy zich zelve nooit vergissen nóch vergeeten:Daar een die veinzen moet, in tegendeel, niet heeftHet geen geduurig hem zyn pligt te kennen geeft.Zo dat het lichter is te zwygen, als te veinzen.
+UlyssesDe Veinzer moet niet meer als eene zórg bepeinzen,Het is een hertestryd heel zonder vyand; daarEen Minnaar zich bevind in allerlei gevaar;Een Minnaar moet van veel herts tochten zegepraalen,Een Veinzer maar van een. dies is geen prys te haalenDoor &apos;t veinzen; hy die zwygt behaald hier lof en prys.
+ArsidasEen Veinzer moet zyn zaak op de allerzwaarste wysUirwerken; want hy heeft veel ongelyker krygenEn stryden aan te gaan, als die zyn smert moet zwygen.Dit werd ons duidelyk op een Tooneel verbeeld,Door een Bedryver, die een ról van liefde speeld,En daar al veinzende zo kondig meê, moet leeven,Dar hy geheel en al door ernst schynt aangedreeven.
+UlyssesIk hou myn oordeel goed, en voort myn staal zal u...
+ArsidasIk hou myn oordeel best, en deeze kling zal nu...
+CirceWaar word gy toe vervoerd? hoe! wat is dit te zeggen?Men moet geen redenstryd door &apos;t scherpe daal weêrleggen.Dies, op dat dit verschil ten besten mag bestaan,Laat ik het oordeel nu aan de ondervinding staan.Ulysses, die niet mind, houd stand, dat mingepeinzenTe zwygen, meerder is, dan minnebrand te veinzen.En Arsidas, die mind, geeft weêr getuigenis,Dat minneveinzery meer als verzwygen is.Nu wil ik, door een proef, dit werk eens ondertasten,En alle beiden u met deeze zaak belasten.Ulysses van nu af zal veinzen zich verliefd,En Arsidas voortaan zal zwygen &apos;t geen hem griefd;En die dit stuk aan my op &apos;t beste zal vertoonen,Zal ik met een juweel, van groote waarde, loonen.
+ArsidasMyn&apos; min neemt dit verdrag niet aan op deezen voet,Nu zy de vlam, die zy ontsteekt, verbergen moet:Ulysses zal ook meê niet veinzen te beminnen.Mits hy alreê op u ontsteeken is van binnen.
+CirceUw booze minnenyd is vol van kwaad vermoên.Ik wil gy zult my beide op myn gebod voldoen.
+UlyssesIk veins my van nu aan in uwe min te blaaken.
+Circe‘Ik zal my langs dit pad een spoorweg zien te maaken,Waar door myn Min geraakt tot haaren rechten doel.
+ArsidasIk zal verzwygen dan de liefde die ik voel.En zie hoe ver ik my kan na uw wil gewennen.
+Circe‘Dus geef ik bei te gaâr myn harten wensch te kennen.
+Florinden‘Nu gy maar eene zorg aan hen hebt toegepast,O Hemel, waarom my met meer als een belast!
+Arsidas‘De ondankbre Circe gaat, en schoon ik moet belydenDat my haar afzyn smert, nochtans zal ik nu mydenHaar na te gaan: en dus zal ik aan haar myn minVerzwygen, volgens haar onmenschelyken zin.
+Ulysses‘Nu Circe gaat, zal ik haar volgen, om te tonen,Dat haare schonigheên myn hert en ziel bewoonen.
+CirceWaar wil, Ulysses, heen?
+UlyssesIk volg u na, Mevrouw,Vermits gy zyt de Zon waar door ik &apos;t leeven hou.
+CirceVolg, Arsidas
+ArsidasIk heb iet anders te verrichten,En kan niet doen na myn behoorelyke pligten.
+Circe‘Hoe wel bespeur ik, dat zy bêi te gaâr myn woord,Nu in deeze eerste proef, navolgen als &apos;t behoord!Ach! dat ik de eene dus kon tot myn Minnaar krygen,En de andere daar door zyn liefde leerde zwygen.
+Zevende tooneel.Florinde Ulysses
+FlorindeUlysses te rug houdendeULysses, luister eens.
+UlyssesFlorinde, wat &apos;s uw wil?
+FlorindeMyn dankbaar hert is staâg in rusteloos verschil;Om dat het u niet heeft haar vollen dank beweezen,Dewyl ik ben door u als van de dood verreezen:Vermits de dankbaarheid zodanig is van aart,Dat zy in waare pligt haar zelven openbaard.
+UlyssesEer my den oorsprong van uw ramp was voorgedraagen,Had my uw pyn al met meêdoogenheld geslaagen;Derhalven heb ik u daar meê geen dienst gedaan,Toen gy door my het licht des Hemels hebt ontfaân:En daarom hebt gy my geen dank pligt aan te bieden,Voor &apos;t geen aan u in myne onkundigheid geschiedden.Maar zo uw dankbaarheid na reên wil gaan en pligt,Is &apos;t reden dat zy nu dank aan myn wensch verricht,Vermits ik heden wensch, met hert en zielsverlangen,Om u, in spyt der dood, voor een wig dus te omvangen.
+FlorindeAl is &apos;t een minnestreek, daar gy my meede vleid;Dat ik u echter nu myn hertsgenegenheidOmhelzende vertoon: schoon ik door dit vermoogenBen om my zelven in verwond&apos;ring opgetoogen.
+Achtste tooneel.Licidas, Circeelk van een byzondere kantUlysses, Florinde
+Lycidas‘WAt &apos;s dit, o Hemelen! Wat zie ik hier geschiên?
+Circe‘Is &apos;t mogelyk, o Goôn! het geen myne oogen zien?
+Lycidas‘De Griek Ulysses, die my &apos;t licht heeft weêr gegeeven.Is oorzaak van myn dood, zo wel als van myn leeven.
+Circe‘Ik wou dat zy haar min tor hemwaards veinzen zou,Maar zei niet dat ik die zo ernstig hebben wou.
+Lycidas‘Dat nu myn yverzucht my tref met doodsche slaagen!
+Circe‘Maar evenwel, waar van heb ik my te beklaagen?
+Lycidas‘Hy brengt my weêr ter dood, die my het leeven gaf.Geef, Hemel, my geduld in deeze wreede straf!Mits ik het leeven, dat in yverzucht onsteekenEn aangevlamd is, vol van wreede doodstraf reken.
+FlorindeIk wacht u dan by nacht, gelyk ik heb gezeid,In &apos;t schoone Lustprieel, dat aan de zeekant leid,Op dat die maar alleen getuige zy dier pligten,Die myn genegenheid daar zal met u verrichten.
+UlyssesScheld my, Florinde; niet voor boersch, in dit geval,Schoon dat ik u geenzins gehoorzaam weezen zal:&apos;k Moet my een Minnaar van de schoone Circe veinzen:&apos;t Welk ik niet veinzen zou, als ik uw mingepeinzenMy zelven overgaf. verwonder u dan niet&apos;t Geen gy van wegen uw verschils ontknooping ziet;Want nademaal myn wensch, en voorneem, Veel verscheerlen,Zo neem, dat ik myn min verzwyg op uw beveelen;Vermits het zwygen van myn waare minnepyn,Nu in myn ziel allen zal een getuige zyn;Vaar wel, ik ben te lang uit Circes dienst gebleeven.
+Negende tooneel.Florinde, Licidas, Circe
+FlorindeHYkon my na myn zin geen beter antwoord geeven.Door dien ik de eerste vrouw van alle vrouwen ben,Die met versmaad te zyn zich vergenoegen ken.
+LycidasIk nader; maar, Helaas! &apos;k zie Circe daar genaakenDies wacht ik, om myn klagt daar na bekend te maaken.
+FlorindeHoe, zyt gy hier, Mevrouw?
+CirceHier ben ik.
+FlorindeZo hebt gyMy uit zien voeren &apos;t werk van minneveinzery?
+CirceO ja, en sterker als ik zelf van u verwachten.
+FlorindeIk heb het uitgevoerd met al myn&apos; grootste krachten.
+CirceIk had u wel geboôn te veinzen, maar ik wou.Niet liebben dat uw min na ernst gelyken zou.En mits op de eerste proef &apos;t verstand my is ontoogen,Wil ik geen veinzery na deezen meer gedongen,Die any het minnend hert met minnenyd doorgriefd.Laat af dan van geveinst zo hoog te zyn verliefd,Door welker straffigheid ik heden kom te leerenMyn pyn te zwygen, om myn ramp niet te vermeeren.
+Tiende tooneel.Florinde, Lycidas
+FlorindeWIe heeft &apos;er ooit gehoord van dwaazer onbescheid?Kan my wel iemant nóch, in deez&apos; gelegenheid,Opkoomen om myn ziel niet meerder smert te plaagen?
+LycidasJa, ik ontbreek &apos;er nóch, die reden heb tot klaagen.Dóch ik wil anders niet, om dit te gaan voorby,Dan dat stilzwygentheid alleen getuige zyVan &apos;t geene dat ik hier te zien kwam en te hooren.
+FlorindeVermits gy, Lycidas, hebt weeten na te spoorenHet werk, dat ik hier met Ulysses heb begaan,Hebt gy de reden ook van Circe wel verstaan,Wees tóch geen Lynceus om uw kwellingen te ondekken,En zyt niet blind in &apos;t geen u kan tot vreugde strekken;Want heeft myn veinzery veroorzaakt uw gek lag,De waarheid zal &apos;t bedróg haast brengen aan den dag.
+LycidasEen hoogbedroefde zal het goede staâg weêrstreeven,Mits hy aan &apos;t kwaade altyd te licht geloofwilgeeven,Schoon dat het goede en &apos;t kwaade al even wichtig zyn;Zy baaren my ook beide een doodelyke pyn.Dies Wil ik my, Florinde, uit dit Gebergte bannen,Voor myn verdriet veel te eng, hoe wyd en uitgespannen.
+FlorindealleenHoor, bid ik, luister tóch. ô Hemel, ach! geen zucht,Nóch oógvol traanen, stut hem in zyn snelle vlugt.Helaas! het is vergeefs voor my hem te achterhaalen,En vruchteloos dat ik my aandoe duizend kwaalen,Nu hy van van myn verdriet, en rouw, en hertenleed,En alles wat ik in myn borst verberg, niet weet,
+Elfde tooneel.Circe, Florinde, Lebrél, Klaryn
+Circe‘GEduld, Florinde, en zien wy eens wat deeze knechtenVan held Ulysses hier by ons aan zullen rechten.
+FlorindeNa ik bemerken kan zyn zy in redenstryd,Vermits hen ieder woord in heftigheid ontglyd.
+CirceVerschuilen wy hier wat, ik moet myn oor eens leggenTe luister, óf zy tót myn achterdeel iet zeggen.
+LebrélIk zeg dat ik nooit zo een leeven heb beleefd.
+KlarynDat zegje, doeje?
+LebrélJa, dat zeg ik, want men heeftHier alles wat men denkt; in al des Waerelds paalenEn is geen Land dat by Trinacrie mag haalen.Daar nevens zeg ik, dat Vrouw Circe lóf en prysMoet hebben; want ze is mild, goedaardig, schoon en wys.
+KlarynMaar zyt gy niet heel dol?
+LebrélMaar moet gy meê niet zeggen,Dat wy als Keuninkjes by haar ter Herberg leggen?
+Klaryn&apos;t Is waar, maar liever wenste ik my, na myn verstand,In &apos;t slimste Wynhuis van ons heele Griekenland,Als dat ik langer hier verbleef aan deze Kusten.
+LebrélMaar, hebben wy &apos;t hier niet zo als &apos;t ons hert mag lusten?
+KlarynWel neen, wanschapen Gek; want zeg my eens, zeg, zynWy niet gestaâg beducht te worden in een ZwynVeranderd? en die schrik kan al te zeker maaken,Dat de allerbeste saus en kost niet wel zal smaaken.
+LebrélHo, Maat! om in een Zwyns gestaltenis te gaan,Is juist zo kwaad niet eens als jy jou voor laat staan;Toen ik zodanig was, heb ik my, op die stonden,In die herschepping, zo heel kwaalyk niet bevonden.Een Zwyn heeft vry verlóf, om, zonder onderscheid,Te snuff&apos;len alles deur, en na zyn zin&apos;lykheid,Het zy dan dat het tracht na schoone óf vuile hoeken,Een Rustbed, zachter als van pluimen, op te zoeken.
+KlarynDe rust bestaat niet in de zachtheid van het bed;Want als men dronken is en vol, zie daar, ik wedMen slaapt al evenwel, óf men zich neder plantenOp harde banken, óf op zachte Ledekanten.
+LebrélWaar vind men Tuinen zo als deeze, ja bygut,Waar zulke Bogaarden?
+KlarynMaar, waar toe zynze ons nut?
+LebrélNu heb ik Jou; om daar, van zulke braave TassenAls Lybia en als Astré zyn, twee MatrassenTe maaken.
+KlarynHo! beginje op zulk een rouwe smaarTe speelen, zo moet ik bekennen, datje daarGelyk in hebt, en ik laat nou iens louter bóllenMyn waffelkaak, en zeg: dat Circe by de KóllenEen Heks en Kol is, en by Spook en spookenspelEen Spookster, en zelfs by de Dulvels van de HelEen rechte Duivelin.
+Circe‘Nu kan ik meer myne oorenNiet langer leenen, om myn hoon en leed te hooren.
+FlorindeLaat hem uw toórnigheid niet blyken, toom u in.
+KlarynEn Circe, zeg ik, is...
+CirceWel wat dóch?
+KlarynEen Godin.En wie dat anders zeid, die zal ik dat verleeren,Ia voor zyn leugenen rechtschapen bastonneeren.En om &apos;t kwaadspreeken u van Circes JufferschapTe ontwennen, zo zult gy door my om uw kwaâ snap...
+LebrélIk weet van geen kwaâ snap, als die gy zelf begaan ‘hebt.
+KlarynHoe, dat komt schoon! verwyt gy my, dat gy gedaan ‘hebt?
+LebrelWie, ik?
+Circe&apos;t Is al genoeg.
+Klaryn‘Heeft zy van &apos;t ander maarSlechs niemendal gehoord, zo vrees ik geen gevaar.
+LebrélDat gy zo lichtelyk geloof geeft aan een loogen!
+CirceIk weet de waarheid wel, men heeft my niet bedroogen.Gaat, gy maar heen, ik zal die tong, haast, met gemak,Vergelden na verdienst, die kwaalyk van my sprak.
+KlarynEn &apos;t zal ook billyk zyn.
+Lebr él‘Wat is myn hert vol schroomen!Dat dit zo onverwacht my juist moest overkomen.
+Twaalfde tooneel.Circe, Klaryn, Florinde
+CirceAAn u, die dus den Eerophouder zyt van my,Wil ik een groote schat vereeren, waar meê gyZeer heerelyk en ryk na Griekenland moogt keeren.Ga heen, begeef u dan terstond, op myn begeeren,Gins na dien hoogen Berg, daar gy, zo luid gy kond,Tot driemaal achter een, zult roepen Brutamont!Van wien gy zult verstaan wat dat gy doen zult moeten,
+KlarynIk kusse duizendmaal de zoolen van uw voeten.Hoewel toond gy aan my uw edelmoedigheid!&apos;t Welspreeken kan nooit schaân, hy liegt die anders zeid.
+Dertiende Tooneel.Florinde, Circe
+FlorindeMEvrouw, hoe kund gy, die uw eer beschut, dus hoonen;En weêr in tegendeel, die u veracht, beloonen?
+CirceEi! kweld u niet, gy zult wel t&apos;zyner tyd verstaan,Wat loon den Snappert heeft, na zyn verdienst, ontfaan.Einde van het Twede Bedryf.
+                
+            </div>
+    
+    
+    
+            <div type="act">
+                
+                    
+Derde bedryf.Eerste tooneel.Het Tooneel verbeeld een sierlyk Bosch, daar in &apos;t verschiet Bergen en Hoolen gezien worden.
+KlarynDE schoone Circe, vol van wysheid en vermoogen,Die ik zo aardig flus verleid heb en bedroogen,Heeft my belast dat ik na deezen Berg zou treên,En roepen Brutamont, tot driemaal achter een;En dat die Brutamont dan zonder tyd verlengenMy een zeer groote schat aanwyzen zou, óf brengen.Ik ty aan &apos;t roepen dan zo luitkeels als ik mag.Hou, holla! Brotamont! ik hoor nóch geen gewag.Hou, holla! Brutamont! ik kan nóch niets beschouwen.Daar meê; de derdemaal gewis zal kabel houwen.Hou, holla! Brutamont!
+Twede tooneel.Brutamont, Klaryn
+BrutamontWAt wilt gy?
+KlarynNiemendal;Want ik van u in &apos;t minst&apos; nooit iet begeeren zal.
+BrutamontIk weet al wat u let, al houd gy &apos;t my verhoolen,En doe, op uw geroep, wat my is aanbevolen.Twee Dieren met een Kist.
+KlarynMaar heeft vrouw Circe juist geen minder Dienaar dan,Tot zo een kleine zaak, als zulken grooten Man?Ik zegje dit, Heer Reus, ik maakte my gemeinderMet jou, indien je waard een ellen vyf zes kleinder,
+BrutamontWeet, dat zy my voor haar getrouwe Dienaar ken;My, die van de af komst der Cyklópsche Reuzen ben;Die, eerde Grieken zyn van deeze Strand geweeken,Nóch hoop aan hen de dood van Polypheem&apos; te wreeken.
+KlarynMyn waerde Brutamont, laat my tôch buiten nood,Mits ik niet schuldig ben aan Pholyphemus dood?Want my is zulken schrik van hem op &apos;t lyf gekomen,Toen ik hem zag, als nu toen ik u heb vernomen.Ik zweer, het geen ik zeg, zeg ik uit &apos;s herten grond.
+BrutamontKom hier, neem deeze Kist.
+KlarynZeer wel, heer Brutamont.
+BrutamontEn dankt Trouw Circe, die my herwaard heeft gezonden,En aan haar hooge magt myne armen vast gebonden,Dat ik u daatlyk, in een ommezien van tyd,Tot heel aan de and&apos;re zy der brakke Zee niet smyt.
+KlarynO Bloed, dat waar een sprong! zo ver van deeze plaatsen!Maar zeg, heer Brutamont, wie my weêrom zou kaatsen?
+BrutamontZo ik dat ook niet deê, zou ik, geheel verstoord,Wel licht wat anders doen.
+KlarynWel, wat dóch?
+BrutamontU, zo voortOpeeten met een beet:
+KlarynDat was een sober smullenVoor u, gy zoud met my uw kleinste Kies pas vullen.
+BrutamontO! kwam die blyden en gewenden dag eens aan.Dat ik my mogt met zulk een schelmsche Griek verzaân
+KlarynDie dag hoeft nimmermeer te komen, seleweeken!Of hy mag onderweeg wel hals en beenen breeken.
+BrutamontAanvaartme deeze Kist, gy zult &apos;er binnen inMeer vinden als u lust.
+KlarynIk wou wel na myn zinEen middel vinden, om u hier van daan te krygen.
+BrutamontIk ga dan.
+KlarynGa, het hert zou anders my ontzygen.Ik ben uw praat en u tien dubbeld loof en wars.De Reuzen, hier te Land, zyn magtig bits en bars.
+BrutamontwederkerendeHoor dit noch eerst, zo dra ik hebben zal vernomenDat gy myn naam noemt....
+KlarynWel?
+BrutamontZal ik voort wederkomen.
+Derde tooneel.
+KlarynIK zal jou, meen ik, van die moeite wel onslaan.Is hy al weg? ja, &apos;t schynt hy is hier al van daan,Hoewel ik zyn vertrek nóch naauwlyks kan gelooven.Hy is al deur, ik ben die zwaarigheid te booven.En kryg ik deeze schat met vreemde eerbiedenis,Wat brust het my wie dat de brenger daar van is.&apos;k Ontsluit de Kist, waar inde Sleutel schynt te steeken.Ik wed dat my daar meê geen paerelen ontbreekenAls Okkerneuten, nóch geen Diamanten ookZo groot als vuisten. maar, wat zie ik! is het spook?
+Vierde tooneel.Briandauit de KistKlaryn
+BriandaGY ziet arme Dienstbodinne, die &apos;t begeeren.Van Circe moet voldoen in deeze Juffer kleêren;Die u staâg overal moet volgen, met geduld,En klappen al wat gy van Circe zeggen zult,Dewylze my tót een Verklikster heeft verkooren.
+KlarynMy komt een schoone schat van loogentaal te vooren:Een Reus brengt my een Kist, net opgevuld en fraaiMet zo een oude Heks, een hoofsche Papegaai.Nu moest me Circe slechts nóch met een Dwerg verryken,Op dat ik heel mogt een nieuw doolend Ridder lyken.
+BriandaGy zult hem hebben, om uw lust volmaakt te zien.Brunél.
+Vyfde tooneel.Brunéluit de KistKlaryn, Brianda
+BrunélWAt wil, Madam Brianda, my gebiên?
+KlarynEi! zee my tóch, van waar hebt gy uw weg genoomen,Gy klein en leevendig Wanschepsel?
+Brunél&apos;k Ben gekomenUit deeze Kist, myn huis: waar in gy, van nu af,My op uw schouderen moet hebben, tot een straf.
+KlarynHoe kan die Kist een Dwergen Labbekak gedoogen,Nu geen van béi meer op de Waereld plaatsen moogen?
+BriandaBrunél, ik hoor daar vólk: wy hadden ons vergist,Zo wy ons lieten zien. hoor, steek ons in de kist,En sluitze dan weêr toe.
+BrunelGy moet, op &apos;t welbehaagenVan Circe met de Kist, ons op uw schoud&apos;ren draagen,Op dat wy hooren wat gy van haar zeggen moogt.
+BriandaZie toe, en let &apos;er op dat gy dien last gedoogd.
+Zevende tooneel.
+KlarynWAt vreemder werk is dit! &apos;k mogt wel op schatten hoopen!Daar zynze bêi te gaâr weêr in de Kist gekroopen;Hier schuild bedróg, dat wil ik wedden. neen, ô neen!De Kist is romdom toe, zy kunnen nergens heen.Wat Drommel zel ik in dit voorval nou bedryven?Wil ik gaan schampen, ende Kist hier laaten blyven?Neen, neen, ik mogt de straf, die my is opgeleid,Uit Circes naam en last, door ongehoorzaamheidNóch zwaarder maaken; dies vinde ik voor best geraadenDat ik myn schoud&apos;ren ga met deeze Kist belaaden.Nu merk ik eerst, waarom door zulken sterk Gedierd,En doorzo grooten Reus, de Kist my is gestierd;&apos;t Is, mits het draagen van een Labbekak geen werk ‘is,Voor iemand als die meê gelyk een Reus zo sterk ‘is.Wie koopt &apos;er Dwergen? wie? wie óf &apos;er geld voor bied?Wie Labbekakken? heel goed koop, ja half om niet.
+Zesde tooneel.Lebrél, Klaryn
+LebrélIk kom al vlugtende na dit Geberete loopen,Om hier de straf te ontgaan, die &apos;k vreeze te bekoopen,Dewyl Vrouw Circe zo veel kwaads van my vertrouwd,En &apos;t liegen van Klaryn voor klaare waarheid houd.Ik wil wel wedden, op het geen my staat te vreezen,Dat ik nu haast een Slang óf Schorpioen zal weezen.Maar zie, daar Klaryn. Ik wreek my, ô wat schépIk vreugd, dat ik u hier aldus gevonden héb!
+Klaryn‘Uw vreugd op veer na kan myn druk niet evenaaren.
+LebrélIk kom hier om u te vermoorden.
+KlarynLaat dat vaaren!Gy komt hier om dat gy uw leeven vinden zoud.
+LebrélHoe! door wat middel?
+KlarynHoor: Vrouw Circe, die haar houd,Geheel aan my verpligt, en aan haar gunst verbonden,Heeft my in deeze Kist een groote schat gezonden,Nu wil ik u hier meê vereeren, tot verzoen,En uw welspreeken daar vergelding mede doen,Want ik en kan aan u geen grooter vriendschap toonen,Als u geheel en al met deeze te beloonen.
+LebrélIk wil het alles niet, wy moeten even veelAls Broeders deelen.
+KlarynWel, zo neem dan voor uw deel,Mejuffer Labbekak, en ik zal my toeleggenDen grooten Dwerg.
+LebrélHoe nu! wat wilje daar meê zeggen?
+KlarynDat weet ik zelf niet; maar doe op de Kist, ik meenGy zult het wel haast zien.
+LebrélKom aan, ik ben tevreên.Ze is op. Wat kóstelyke en aardige Juweelen!Dat is een braave Schat!
+KlarynDaar moet de droes meê speelen!Wat zegje daar, Lebrél?
+LebrélDat ik voor my behouw,Die goude kettingkjens. dien Ring laat ik veur jou.
+KlarynWel, droomje?
+Lebrél&apos;k Laat jou ook die Keten, en Pendanten.Ik neem die Feniksveer, bezet met Diamanten.
+Klaryn‘&apos;t Lykt óf het ongeluk my overal ontmoet;Ik vinde rook en wind, en hy vind kóstlyk goed!Maar &apos;k loof het niet, en &apos;t is te duchten nóch te vreezenDat by een Labbekak Juwelen kunnen weezen.
+LebrélZeg jy vry watje wilt, maar loof het geenje ziet.
+KlarynIk loof dat dit op &apos;t lest zal zyn een groote Niet.
+LebrélWaarom?
+KlarynOm dat ik vrees dat wy haast zullen leeren,Dat al dit spookend goed in koolen zel verkeeren.
+LebrélWeg, Hekse sprookjes! dat ik jou niet wyzer ken!Maar op dat ik niet toon dat ik schatgierig ben,Staat my nu door dit goed ten hoogsten te bedenken,Dat ik myn Lybia hier meê moet gaan beschenken.
+Achtste tooneel.
+KlarynIK ben bekólt, of gek; &apos;k weet niet hoet &apos;t metme leit;Of ik heb vastelyk van Circe kwaad geleid;Om dat hy in de kist vind kôstelyke dingen,Daar my maar Labbekaks en Dwergen ult bespringen,En evenwel ik zag &apos;t met bêi myne oogen aan.Ik ty nóch eens te werk, en proef hoe &apos;t zal vergaan.
+Negende tooneel.BriandaenBrunélde een na de ander uit de KistKlaryn
+BriandaMYn Heer. Brunél die kweltme, en wil zyn les niet danssen.
+BrunélZe ontsnoeptme myn ontbyt.
+KlarynGants honderd duizend Franssen;Jou Dwergje, dans ereis, &apos;k geef jou myn middagmaal.Terwyl Klaryn met groote opmerking na het danssen van Brunél ziet, gaat Brianda, stilletjes in de Kist, en blyft met het hoofd daar uitkyken, tót dat Brunél, gedanst hebbende, daar schielyk inspringt, haar omarmd, ende Kist van zelfs toevalt.
+KlarynBrunél! Wat Spookery is dit? &apos;k sta als een paal!O groote Brutamont, hoe heb je me bedroogen!
+Tiende tooneel.Brutamont, Klaryn
+BrutamontWat is &apos;er?
+Klaryn‘O gants kracht, hy komt zich weêr vertoogen.Hoe haastig en hoe gaauw is al dit vólk te bien!Heer Brutamont, ik heb de Kist en Schat bezien;En ik verzoek, dat gy, tot dankbaarheid wil denken,Omze aan een grooter Heer, als myn persoon, te schenken;Mits ik geen lust met al in eenig huisraad schep;Nóch Kommesaalen, zoek, daar &apos;k geen profyt van heb.
+BrutamontHoe! zo een Man als my, om die geringe zaaken,Te roepen? ô warspyt! ik zou terstont wel maaken...
+KlarynWel, wat tóch?
+BrutamontDat uw Oor het grootste lit zou zynVan uw geheele lyf; ja &apos;k zweer u, by Jupyn,Zo gy me nóch eens roept.
+KlarynIk zel het wel vergeeten.
+BrutamontDat gy van my zo hoog word in de lucht gesmeeten,Dat gy eer dat uw vaart nóch weezen zal gedaan,Van honger en van dorst zult smachten en vergaan:Op dat uw romp, eer zy weêr valt in deeze plekken,De Raavens tot een Aas, en tót banket, zal strekken.
+KlarynalleenWat schrikkelyker gooi, zou dat zyn! ô wat zalIk nou beginnen, in dit wonderlyk geval?
+Elfde tooneel.Lebrél, Astrea, Lybia, Klaryn
+LebrélIK heb hem onlangs hier, nóch zelf in deeze hoekenGelaaten met de Schat.
+AstréaWy moeten hem dan zoekenZyn rykdom heeft my reeds tót heblust aangeport.
+LybiaHier is Klaryn wel hoe! wat is &apos;er dat u schort?
+LebrélHoe staat gy dus versteld? zeg op, wat doet u zuchten?
+AstreaWat let u? zeg wie brengt u in deeze ongenuchten?
+KlarynEen Reus, een Dwerg, een Heks.
+AstreaWaarom? waar door? en hoe?
+KlarynEen Heks myn Pynbank is, een Dwerg myn Geesselroê,Een Reus een rechten Beul, die my doet suizebollen.
+AstreaHoe! zyt gy dol?
+KlarynNeen, maar myn zinnen zyn aan &apos;t hollen.
+AstreaHoe praat gy dus? terwyl de schoone LybiaWerd van Lebrél gestreeld en aangebeden, jaBeschonken met een schat van aardige Juweelen.Komt gy my niet met al van de uwe mededeelen.
+KlarynA stré laat my in rust, óf wil voor vast vermoên,Zo gy van schatten spreekt, zal ik myn zelf verdoen.
+Twaalfde tooneel.Jagers, Circe, Astrea, Lybia, Klaryn, Lebrél
+JagerLAngs dit Gebergt zal hy gewis zyn heen gevloogen.
+Circevan binnenGy vlugge Reiger, klim, begeef u uit hunne oogen,Maak u tót een gepluimde en leevendige Star.
+Astrea&apos;t Is Circe, die ons hier al jaagende van verBegint te naderen. Kom, laaten wy vertrekken.Het was niet raadzaam datwe ons lieten hier ontdekken.
+Dertiende tooneel.Circe, Klaryn
+CirceOM eens te zien óf Held Ulysses na my taald,Ben ik al willens van myn Jaagers afgedwaald:En midlerwyl myn Paerd, waar meê ik ben verzwondenUit ieders oogen, aan een Olmboom vast gebonden,Myn wederkomst verwacht, zal ik, in deeze schaauwDer Lindeboomen, daar de zonnestraalen flaauwDoor heenen schitteren, myn Minnaars komst verbeidenMaar wie ontmoet my hier, van ieder afgescheiden?
+KlarynEen Gek, een Zót, een Nar, een Babok, Vuilbek, enEen Kwibus, ja, al &apos;t geen dat ik niet noemen ken.Ik bid, hoogwaerde Vrouw, ik zeg het zonder jokken,Verlosme toch, mag &apos;t zyn, van Dwergen, lange Rókken,En groote Reuzen; al zoud gy, op uw gebien,My vormen tot een Aap.
+CirceWel aan, het zal geschiên.
+KlarynZo haast niet.
+CirceNeen, &apos;t moet zyn.
+KlarynDe Pikken! ô gants kranken!
+CirceEn op dat gy my meer als and&apos;re zult bedanken,Die ik verschept heb in een Aap of Bavlaan,Zal uw verstand en spraak u nimmermeer vergaan.
+KlarynVerstaat gy &apos;t zo, zo moet ik my dan doen beleezen;Maar &apos;k zei het daar om niet.
+CirceGy zult uw eerste weezenOok daatlyk weder zien, zo dra het maar geschied,Dat gy u zelven in een Spiegel wel beziet.
+KlarynGeliefme dan, Godin, zo my uw Roe moet raaken,Tóch tót geen duttige Aap,maar vrolyke Aap, te maaken.
+CirceHet zal zo weezen, maar voor al uw schimp en spót.Treê in deez&apos; Kist.
+KlarynO help!
+CirceVerdwyn op myn gebod.De Kist verzinkt met Klaryn.
+Veertiende tooneel.Ulysses, Circe
+UlyssesHOe vlugtig ik u heb gevolgt door Berg en Dalen,&apos;k Heb echter u, Mevrouw, nier konnen achterhaalen,Schoon óf my, tót een Baak verstrekte, &apos;t held&apos;re lichtVan uw vergodeglans, daar zelf de Zon voor zwicht.
+Circe&apos;k Heb, van de Jagt vermoeid, my hier na toe begeeven.Wat hebt gy tóch gevaân!
+UlyssesEen lust, te hoog verheeven;Dewyl zy heeft gepoogd, door een zeer stoute vlugt,Te schuilen onder &apos;t dak van een bewolkte lucht,Daar zy, al zwierende, door hoogmoed opgetoogen,Zelfs eindelyk tot aan de vuurkring is gevloogen,En zich zo, als een Mugge in &apos;t Kaarslicht, leeft verbrand.
+CirceIk vraag dat niet. Zeg my, met onbeveinst verstand,Wat vingt gy op de jagt?
+UlyssesEen zorg, my bygebleeven.
+CirceGaat gy my andermaal zulk duister antwoord geeven?
+UlyssesGy weet, dat voor myn schuld myne onschuld staat gereet.
+CirceDe voor&apos;ge redenstryd doet dat ik zulks vergeet,En maakt my dwaas.
+UlyssesMy ook.
+CirceU ook! hoe kan dat komen?
+UlyssesVermits ik daar door ben met stoutheid ingenomen.
+CirceZo is zy de oorzaak dat gy dus hoogmoedig zyt?
+UlyssesDat is zy in der daad?
+CirceVervloekte Redenstryd!Maar mits dit alles zyn geveinsde minnetreeken,Laat ons eens van de jagt met ongeveinstheid spreeken.
+UlyssesWel aan; het zy dan zo. Na dat gy waard al veerGeweeken van ons af, is, uit een liezig Meer,Met een verbaasde vlugt, heel dicht voorby onze oogenEen Spiegel van de Lente, een Reiger, opgevloogen,De welk allengs zo hoog uit ons gezicht verdween,Dat hy op eene tyd een wolk en vogel scheen,En zo gelykelyk zich stelde tusschen beide,Van lucht en vuur, dat hy, waar hy zyn wieken spreidde,Of waar hy heenen zwierde, om hoog óf laag, daar doorDan wierd verbrand van hitte, en dan van kouw bevroor.Zo dat den Reiger, in die afgebeelde stonden,En tusschen deeze twe hoofdstóffen als gebonden,Een aardig voorbeeld was van die, die menigfoutDan zyn van fierheid heet, dan wéér van lafheid koud.
+CirceDit raakt de Jagt geenzins.
+Ulysses&apos;t Zal dan myn&apos; smert geraaken,Die stukswys meê de naam kan van een jagt uit maak en.
+CirceIk achte my gehoond, zo my niet was bewustDat die geveinstheid is.
+UlyssesDat wenschte ik tót myn rust.
+CirceMits gy verlangt, om my te ondekken uw gepeinzen,En wy hier zyn alleen, vaar voor dan, zonder veinzen,
+UlyssesIk zal, Mevrouw: terwyl nu deezen Reiger vloog,Tót boven in de lucht, byna heel uit ons oog,Heb ik een snelle Valk (die beezig was te pikkenMet hongerige maag, de harde en gladde blikkenDer Bellen die hy droeg) doen vliegen van myn hand:De welke, toen ny zich in vryheid voelde en vand,Ging, door de wolken heen met eene Sperwer, brallen,Om op het onverzienst den Reiger te overvallen,Die (even als een snel en voortgedreeven Schip,Dat nu genaakt een Bank, en dan genaakt een Klip)Om in zyn dreigende gevaaren niet te slaauwen,Toen maakte, tot zyn heil, Roeiriemen van zyn&apos; klaauwen;Hy maakte Zeilen van zyn wieken, in zyn vaart,Een steeven van zyn borst, een roer van zyne staart;O armen Reiger, gy komt ons te kennen geeven,Dat gy my strekt een klaar afbeeldsel van myn leeven;Mits my twe Vyanden staâg brengen in gevaar,Gelyk als u, hoe wel gelyken wy elkaâr.
+CirceDit is geen veinzen; dies moet gy uw schuld belyên,Of gy zyt heel verdoold in uwe veinzeryen.
+UlyssesIndien het was, dat ik uw Minnaar konde zyn,Zou ik niet veinzen, nóch in waarheid, nóch in schyn;Uw wil wierd dan van my vrywillig aangenomen.Maar om eens tót het eind van myn verhaal te komen,Den Reiger, fel bestreên van de eene en de and&apos;re kant,Wist anders niet te doen, mits hy was overmand,Als van vermoeidheid bêi zyn vleugels in te haalen,En tuimelende zo, van boven neêr te daalen,Waar door in &apos;t eind de Valk en Sperwer, als verwoed,Wraakgierig beide zich verzaaden met zyn bloed.Dies derf ik hoopeloos my aan geen hoop meer binden,Om, in myn hoop misleid, my niet misleid te vinden.
+CirceAl is &apos;t geveinst, nóchtans ik reken &apos;t my tot hoon;Derhalven schoon ik u voor deezen heb ge boônTe veinzen uwe smert, nu wil ik daarentegenDat gy niet veinzen zult.
+UlyssesIk kan wel overweegen,&apos;t Zy dat ik veins, Mevrouw, óf laat van veinzen af,Dat ik van u tóch niet te wachten heb dan straf;Dieshalven straft my voor myn ongeveinst beminnen,Schoon dit maar veinzen is.
+CirceZyt gy niet by uwe zinnen?Hoe antwoord gy my dus?
+UlyssesDoor wanhoop die my drukt.
+CirceHoe zyt gy dus van &apos;t spoor, uit hoogmoed, weggerukt?
+UlyssesDoor myn verlies.
+CirceHoe komt gy toch in die gepeinzen!
+UlyssesDoor myn geveinsde min.
+CirceZo is dit noch al veinzen?
+UlyssesO neen Mevrouw! het is nu langer geen meer tydDat ik noch veinzen zou.
+Circe‘Lófwaarde tegenstryd!Hoewel, Ulysses, dat de billikheid en redenVereisschen, dat u, om uwe opgeblaazenheden,Een overzwaare straf van my diend opgeleid,Nóchtans is &apos;t nodig, dat we in deez&apos; gelegenheid,Mits ons gevólg ons hier begint in &apos;t oog te krygen,Om best wilshalven, daar voor deez&apos; tyd nu van zwygen.
+Vyftiende tooneel.Ulysses, Circe, Arsidas, Antistes, Timantes, Polydoor, Lebrél, Florinde, Astréa, Clorisbe, Dianira, Thisbe, Archelaus, Florusenz.
+ArsidasWY hebben u, Mevrouw, met een gezwinde streek,Langs die gebloemde Laan, en kristalyne Beek,Van verre nagevolgt, tot dat wy zyn gekomenBy u, in deeze plaats, daar dichtgevlochte Boomen,Niet lyden, dat de Zon haar helle straalen zend.
+CirceIk heb na deezen kant my willens heen gewend,Om hier een Avondmaal te houden na behooren.
+LebrélEen Avondmaal! hoe braaf klinkt dat Lebrél in de Ooren!Maar ik bemerk hier noch waar dat ik heenen zie,Door tak, en telgen, geen gezwinde Dienstboôn, dieMet Taaffel, Schotelen, en diergelyke zaaken,Zich bézig houden, om de maaltyd klaar te maaken.
+CirceZet u hier in het rond ter neder, want u zalFluks in dit groene Bosch en aangenaame Dal,Een Dis zyn voorgesteld, daarge u aan zult verzaaden.Hola! een Taaffel, wel met alles overlaaden.
+LebrélMevrouw, aan wie hebt gy toch dat gebód gedaan?
+CirceAan die, die myn begeerte al hebben klaar verstaan.Daar ryst onder een betoverlyk geluid van Zang en Snaarenspel, allengs van onderen opwaarts een Taaffel met veelerhande Spyze; Ulysses, Arsidas, Circe, Florinde, enz. blyven daarom heenen zitten, en de overige daarom staan, tot &apos;er tyd datze door Trompet en Trommelgê luid gestoord worden. Terwylze aan Taaffel zyn, word &apos;er een Kunstig en sierlyk Ballet gedanst, Welkers verbeeldinge de zinnen van Ulysses en zyn volk tot vreugde en wellust, verwekt.
+UtyssesWat onverwacht gedruis!
+ArsidasWat willen die geluiden?
+FlorindeO Goon! wat zal dit zyn?
+CirceWat of dit wil beduiden?Wat Orelógsgetier vervuld zo dra de luchtMet bulderend gebaar, en ysselyk gerucht?
+Zestiende tooneel.Lybia, Circe, Ulysses, Arsidas, Antistes, Timantes, Polydoor, Archelaus, Florus, Lebrél, Florinde Astréa, Thisbe, Dianira, Clorisbe
+LybiaDE wreeden Brutamont, die gy u kwaamt erweelenTót een Bewaarder van uw schoone lustprieelen;Die Reus, Mevrouw, die gy hier houd gelyk gevaân,Zich achtende gehoond, vermits hy heeft verstaan,Dat gy de Grieken (die wel eer de moordenaarenDes grooten Polypheem, den schrik der menschen, waren)Hier door een bly onthaal, en zoete ledigheid.En aangenaame jagt, en zachte rust verleid,Vergeeten doed hun Land; verlet doet weg te reizen;En open zet uw hóf, Lustgaarden, en Paleizen;Die Brutamont, heeft met een ysselyk misbaar,Uit Lilybees Gebergt, een ruuwe en dolleschaarVan Monsters voortgehaald, en schrikkelyke Reuzen,Om zich te wreeken, met u t&apos;zaam de kóp te kneuzen.Dit is &apos;t gedruis het welk u dreigt met wee en sinert,En daar de Zon voor schrikt, de Lucht van duister werd.
+CirceHelaas! wat voel ik my met angst en vrees bevangen!
+UlyssesIk zal u voorstaan. sa! wilt my myn wapens langen.Al dat Gespuis zal ik alleenig tegen gaan,En met manmoerdigheid dien dollen hoop verslaan.
+ArsidasVrees niet, Mevrouw, ik zal uw zyde niet begeeven;Maar zal, om u te hoên, opzetten lyf en leeven;Want ik geen leeven acht, daar gy my sterven ziet.
+CirceHou stand Ulysses; want dit is tóch anders nietAls maar een proef, om klaar te konnen onderschelden,In een baarblykelyk gevaar, wie van u beiden,Door edelmoedigheid geprikkelt, onbevreest,Zyn groote dapperheid, en zucht wel allermeestAan my betoonen zou, dies heb ik deeze schaarenVan Spook en voortgehaald, en door de lucht doen waaren.
+ArsidasIs dit een proef geweest, wel aan, de LauwerkroonKomt my dan daar voor toe, myn moedigheên ten loon;Ik mag, o Koningin! op uwe gunsten hoopen.Ulysses heeft, met naar zyn wapenen te loopenGeen Minnaars blyk getoond: in &apos;t nypen van de noodVerliet hy zyn Meestresse, uit vreeze voor de dood.
+Ulysses&apos;k Ontken niet dat ik na myn&apos; wapens heb gekeeken;Maar &apos;k zeg daar tegens weêr, dat zulks het grootste teekenIs van myn&apos; min geweest. ik toonde naakt en klaarDat ik daar door Mevrouw wou hoeden voor gevaar.
+ArsidasDie snedigheid kwam nooit een mensch in zyn gedachten,Om in een voorval twee oogmerken te betrachten,&apos;t Verstant kan niet als maar op eene zelve tydEen wit bereiken, dies zyt gy den Lauwer kwyt.
+UlyssesDoor zulken redenstryd zult gy die ook niet winnen.Beschuldigd gy my van te weinig te beminnen,Om dat ik van de zy van Circe ben gevloôn,Gy hebt, op haar verbód, uw hulp haar aangeboôn,En door die daad hebtge u als Minnaar willen toonen;Derhalven kan dit werk u geen verwinner kroonen.
+ArsidasIndien men op de wet der Ridderschap wil zien,Zo moet men in der nood de Juffers bystand bien:Ik wou voor Circe niet als Minnaar iet beslechten,Maar &apos;k heb voor haar, gelyk een Ridder, willen vechten.
+UlyssesIn de oorlog is een wet, die ons gebied ter vlugtNa wapens om te zien, op &apos;t minste krygsgerucht.Dies heb ik &apos;t alles op een tyd, en buiten schroomen,Als Krygsman, Ridder, en als Minnaar waargenomen.
+ArsidasIk weet heel wel, dat gy, met listigheid vervuld,Door uw bespraakte tong, staâg overwinnen zult;Maar gy had door uw doen, noch uitwerk van uw Degen,De goude wapens van Achilles nooit verkreegen,Die Ajax Telamon, reeds waaren toegeleid.
+UlyssesDie won ik door myn deugd, en heldendapperheid;En nu zult gy eerlang, by Jupiter, aanschouwen,Hoe ik u met myn Dolk ook zal in stukken houwen.
+ArsidasVeel eer zult gy vergaan door &apos;t vuur van myn gezicht.
+CirceTrektge in myn byzyn, dus hoogmoedig, bêi zo lichtUw zwaarden uit de scheë? waar word gy toegedreeven?
+ArsidasUw groot gezach, Mevrouw, wil my die daad vergeeven.
+UlyssesMyn doen, kwytschelding, van uw achtbaarheid begeerd.
+ArsidasWant daar is geen gezach, daar yverzucht regeerd.
+UlyssesNoch achtbaarheid by hoon.
+LebrélDe drommel mag het haalen.Ik heb myn leeven nooit geweest in avondmaalen,Ofze eindigden altyd met kyven of met slaan.
+UlyssesKom herwaart, Grieken, sa! wilt my ten dienste staan.
+ArsidasKomt voort, Trinakria; schoon of ik schyn verlaaten,Ik heb een menigte van vaerdige Onderzaaten.Komt, Dieren van dit Woud, komt, Boomen ry aan ry,En doet my onderstand, staat uwen Koning by.De Grieken voegen ben aan de zyde van Ulysses, en een hoop van veelerleije Dieren aan de zyde van Arsidas.
+UlyssesAl is &apos;t dat zy zo wel op uw geroep vergaaren,Als op het zoet geluid van Orpheus zang en snaaren,&apos;k Zal nochtans al &apos;t Gediert, met eenen al &apos;t geboomtVerdelgen, tot deez&apos; plaats met bloed zy overstroomd.
+Zeventiende tooneel.Klarynin Aaps gestalteCirce, Ulysses, Arsidas, Antistes, Timantes, Polydoor, Florus, Archelaus, Lebrél Florinde, Lybia, Astréa, Clorisbe
+Klaryn&apos;k ZIe tusschen &apos;t Grieksche vólk, aan deeze kust geweeken,En Dieren van dit Land een fellen twist ontsteeken.Ik weet niet welke zy dat my te kiezen staat,Mits ik aan elke kant verpligt ben. ô! wat raad?Als Griek moet ik &apos;t by de eene, als Aap by de ander houden.
+CirceIndien men hier myn&apos; konst. vermetele, ooit aanschouden,Zal ik u nu doen zien haar overgroote kracht.Kom, dikke duisternis, maak hier een twede nacht.Kom, gloênde bliksemen, kom, dolle donderstagen,Barst uit de lucht, tot schrik van die my dus mishaagen.Terwyl dat het Bliksemt en donderd, werd het Tooneel ter yl zo duister, dat zy by de tast in &apos;t honderd vechten.
+ArsidasWaar zytge, Ulysses? hou!
+UlyssesIk zal u met myn dolkAntwoorden.
+FlorindeAch! &apos;t word hier gelyk een afgronds kolk.
+LybiaWie zou niet yzen!
+AstréaWie niet schrikken!
+KlarynWie kan kyken,Of wy nu Grieken t&apos;zaam, of Tovenaars gelyken?
+LebrélTerwyl men vecht om stryd...
+KlarynTerwyl het duister is.
+LebrélWende ik my Taaffel waard.
+KlarynZet ik my aan den dis.Ze springen beide op de Taaffel, en vatten elkander.
+LebrélSaturnus, wat is dit? een Leeuw heeft my besprongen!
+KlarynEn Reus heeft my gevat! gants leveren en longen!
+CirceDat Spys en Taaffel voort verzinkt, op myn bevel.
+LebrélWy zakken naar om laeg.
+KlarynWy daalen naar de Hel.De Taaffel met Klaryn en Lebrél daar op, verzonken zynde, scheiden de andere door de duisternis allengs hen zelven.Einde van het Derde Bedryf.
+                
+            </div>
+    
+    
+    
+            <div type="act">
+                
+                    
+Vierde bedryf.Eerste tooneel.Het Tooaeel verbeeld een Bloemenhof, daar in &apos;t verschiet lucht en zee gezien word.Antistes, Timantes, Polydoor, Florus, Archelaus, Lebrél
+AantistesAL is u t&apos;zaam bewust het geen ik zal verhaalen,Gunt echter my gehoor; vermits men menigmaalen,In &apos;t uiterste ongeval, een anders oordeel meerDan eigen kennis acht, en aanneemt als een leer:Op eigen driften mag men nooit geen vonnis vellen,Men moet altyd een zaak meê aan een ander stellen.Wy zyn, na groot gevaar, daar &apos;t Noodtlót ons meê plaagd,Door storm en onweêr, hier aan deeze strand gejaagd;Hier heeft ons Iuno zelf, ter welbek waamer stonden,Door Iris haar Bodln, een Bloemtak toegezonden,Die voor het vuil vergift van deeze snoode vrouwEen tegengift zou zyn, en ons behoeden zou,En toen wy daar door ook geraakt zyn als by &apos;t leeven,En dat Ulysses zich weêr wou te scheep begeeven,Heeft Circe, door haar schoon en streelende gelaat,Den Koninglyke Held bewogen en bepraat,En heeft alzo betoond, als ieder moet belyên,Dat min en schoonheid zyn de grootste Toveryen;Want sedert gisteren, toen door een twede nachtDen opgereezen twist ten einde wiert gebragt,Is hunne min zo klaar ons voor het oog verscheenen,Dat Arsidas, vol spyt en droefenis, met eenenGeparst van achterdocht en raazende yverzucht,Naar zyn beroemde Hof vertrokken is ter vlugt,Om zich daar lichtelyk wraakgierig toe te rusten,Terwyl Ulysses leid verzoopen ih zyn&apos; lusten,En onbeschroomd niet denkt wat onheil hem kan slaan;Dies merkende dat wy allengs verlooren gaan,Heb ik een vond bedacht, die hem zal doen ontwaakenUit deezen dut, met een zyn roem indachtig maaken.Gy weet, zo dra als hy Trompét en Trommel hoord,Dat dan (als onlangs bleek) zyn min word uitgesmoord:Laat ons hem dan een wyl, en zonder tyd verlengen,Trómpét en Tromgeluid zien voor &apos;t gehoor te brengen,Van boven uit ons Schip, &apos;t geen stil leid op de Reê,Als óf men zulks tót lóf van hem en Circe deê;Het zal hem in de ziel een mórgenwekker weezen,Die van de minnesmert zyn&apos; zinnen zal geneezen.
+PolydoorUw redenen zyn goed, ik wil, in dit geval,Den eerste zyn die daar een proef van neemen zal.
+TimantesWy treffen tyd en stond, mits hy zich nu laat streelenOmtrent het Strand, in &apos;t schoonst van deeze Lustprieelen.
+ArchelausIk voeg my nevens u, en zal voort met&apos;er daadBezórgen in ons Schip wat ons te werken staat.Antistes midlerwyl zal dienen hier te blyven,En melden Circe, dat ons Bootsvólk zulks bedryvenTer eeren van hun Vorst, en lóf van haar gezag.
+LebrélIndien den raad hier van een Gek iet gelden mag,Zo zweer ik, by Iupyn, dat gy lui al te zaamenZeer magtig kwaalyk doet dit middel te beraamen.
+FlorusWaarom?
+LebrélWaarom? om dat vrouw Circe, van nu aan,Zo wel weet als wy zelfs wat hier is omgegaan.Vreest voor haar wraak, en om u daar toe op te wekken,Zo laat Klaryn hier in ons tót een Spiegel strekken,Die met zyn lange tong, waar mee hy onbeleoftEn kwaalyk van haar sprak, haar zo vertoorend heeft,Dat hy nu straf gevoeld voor &apos;t geen hy heeft misdreeven:Want niemant langer weet waar hy mag zyn gebleeven.
+FlorusDat is maar bloote vrees.
+Lebrél&apos;t Is waarheid die gy hoord.
+ArchelausEi, laat de Gek met vreên, en gaan wy slechts maar voort.
+Twede tooneel.
+LebrélJA, ja ga jy maar deur, ik zal alleenig blyven,Om hier een zaak van meer belangen te bedryven;Want uit dit wonderlyk en zelzaam vreemd Gediert&apos;,Het welk hier overal door Bosch en Bergen zwierd,Moet ik&apos;er een van zien arglistig te beloeren.Om hem, op ons vertrek, na Grieken heen te voeren,Als ons den Hemel uit Sicilien verlóst,En dan, door zek&apos;re winst, heb ik gewis de kóst,Vermits heel Griekenland zal op de been geraaken,Om &apos;t wonder Schepsel, dat een ieder zal vermaaken.Ik heb onlangs het oog op zek&apos;ren Aap geleid,Die my heel wel bevalt om al zyn geestigheid,En my gestadig vólgt met aartige grimassen,Ik moet hem met een snap eens trachten te verrassen:Ik maakte daarom ook van deeze koord een stróp;Maar zacht! ik zie hem guns, wel aan, ik pas dan op
+Derde tooneel.Klarynin Aaps gestalteLebrél
+KlarynDIt heenen, by aldien dat ik niet ben bedroogen,Zag ik myn Makkers flus nóch zwieren voor myne oogen:Al is &apos;t dat ik sints ik een Aap wierd, hier en daar,Waar ik my heb gekeerd, veel Makkers wierd gewaar.Ik wil door tekenen verzoeken, dat zy maakenBy Circe, dat ik tót myn eerste stant mag ranken,Deeze Aaps gestaltenis verveeld my reê in als.
+LebrélDaar is hy, nu het Dier de strópkoord om den halsGeworpen metter vaert. sa lustig. zonder draalen,Het langer wachten kon den aanslag my doen faalen.Ik nader. hy is vast, en zal my niet ontgaan.
+KlarynLebrél, je wurgt myn keel, ik bid je, laat&apos;et staan.
+LebrélGrim zo veel als gy wilt, gy zult my niet ontspringen.
+KlarynIk ben &apos;t, Lebrél, waar toe de króp my toe te wringen?Is &apos;t niet een vreemde zaak? ô duldeloos verdriet!Ik spreek met goed verstand, en hy verstaatme niet.Och armen bloed Klaryn, wat moet gy al bezuuren!
+LebrélHoe danst hy heen en weêr, wat maakt hy al postuuren!Het is het fraaiste Dier, dat ik, na myn verstand,Zou konnen brengen in &apos;t nieusgierig GriekenlandHoor, Monsieur Aap, gy hebt van nu af niet te vreezen,Wy zullen met menkaar twe braave Makkers weezen.
+KlarynDat hy my niet verstaat!
+LebrélGrimassemaaker, sa,Wees jy maar vry gerust, en vólg my achter na.
+Vierde tooneel.Lybia, Astréa, Lebrél, Klaryn
+LybiaLEbrél, waar hebt gy u den heelen dag versteeken?Men heeft u niet gezien. Waar waart gy heen geweeken?
+LebrélIk was, tót myn vermaak, op de Apejagt gegaan,En kyk eens óf ik heb geen braave vangst gedaan.
+LybiaDat is een mooyen Aap! laat ons wat met heem speelen.
+LebrélKom hier myn Beesje, kom, laat jou van haar wat streelen.
+LybiaMaar waar toe hem zo vast gestrikt met deezen band?
+LebrélIk meen hem hier van daan te voeren na ons Land,En doen hem, tót vermaak van groote en kleine Hanssen,Braaf speelen op de Luit, en op de Koorde danssen.
+KlarynHoe, speelen op de Luit, en danssen op de Koord!Klaryn, waar komt gy toe! wie heeft zulks ooit gehoord?
+AstréaMaar zeg my eens, Lebrél, waar is Klaryn gebleeven?
+KlarynHier is hy.
+LebrélSints ik u te kennen kwam te geeven,Dat hy die kóst&apos;lykheên en pronksieraaden had,Heb ik hem niet gezien.
+KlarynDat liegje, vatje dat?
+LebrélNoch weet in &apos;t minste niet waar hy al heen mag doolen.
+KlarynIk wil.
+AstréaHy heeft zich wis uit gierigheid verschoolen.
+KlarynIk raas van ongeduld.
+LybiaVrouw Circe komt daar aan.
+LebrélNu durf ik met den Aap niet langer blyven staan,Zy mogt licht kwaad zyn om dat ik hem heb gevangen.Kom, Marte.
+KlarynTrek zo niet.
+LebrélKom, gaan wy onze gangen.
+Vyfde tooneel.Circe, Ulysses, Lybia, Astréa, Thisbe, Dianira, Clorisbe
+CirceHIer in dit groene Dal, van wiens bloemryken kantHet oog zo wel op Zee kan spelen als op &apos;t Land;Daar deeze Velden zich beide even schoon vertoogen,Hoe tegenstrydig zy elkand&apos;ren weezen moogen,Vermits op Zee een Bosch van Esmerauden vliet,En dat men hier op &apos;t Land een Zee van bloemen ziet;Hier, held Ulysses, moogtge u zelven wat verlusten,En, van de jagt vermoeid als in myn armen rusten.
+UlyssesGy zegt heel wel, Mevrouw, vermits myn ziel alleenIn haar een rustplaats vind, en anders nergens geen.
+CirceAl is &apos;t dat ik u speur verliefd op my te weezen.Ik heb, Ulysses, nóch staâg uw bedróg te vreezen.
+UlyssesWaarom tóch?
+CirceNademaal ik ben beducht dat gyNóch huisvest in uw borst de voor&apos;ge veinzery.
+UlyssesIK hebbe nooit geveinst.
+CirceWie zeid my dat voor waarheid?
+UlyssesMyn zuchten zeggen &apos;t u.
+CirceIk twyffel aan de klaarheid.
+UlyssesMyn&apos; lusten stellen u de klaare waarheid voor.
+CirceDat ik dit weeten kon,
+UlyssesGy zult het weeten, hoor:Ondankb&apos;re Venus, die wraakgierig, onverbeden,Zelfs tegens Jupiter en Juno zyt gekant;Die my met onspoed hebt zo langen tyd bestreeden;Zo lang gehouden uyt myn lieve Vaderland,Die my zo lang deed zwerven op de Baaren;Die al myn onheil hebt gewracht;Die my, om zelf myn leeven niet te spaaren,Hier hebt aan deeze strand gebragt;Hier, daar den Hemel my kwam troosten in myn lyên,En zuiveren myn hoopelooze kwaal;Hier, hier Mevrouw, daar ik verwon uw Toveryen,Maar niet uw zoete tovertaal;Dies is&apos;er, mits de Min my t&apos; allermeeste griefde,Geen grooter Tovery als Liefde.
+CirceAl is &apos;t dat gy uw min dus krachtig my betoond,Myn min, die krachtiger in deeze boezem woond,Houd zo veel krachtiger u aan myn gunst verbonden.
+UlyssesUit welke reden?
+CirceHoor, ik zalze aan u verkonden.Ik, die wraakgierig, wreed, en fel,Ten tróts van Hemel en van Hel,My zelven hier een Zetel bouwden,Daar ik, op dat gy schrikt en beeft,Gelyk een Koningin der Dieren deezer Wouden,En als een Hoofdvoogdes der Mannen heb geleefd.Ja, op dat gy my moogt, tót myner schanden,Vry schelden voor barbaarisch, en verwaand,Al die uit Zee hier kwamen aan te stranden,Zyn door myn Tovery veranderd van gedaant&apos;:En toen ik deeze konst ook meende aan u te pleegen,Wierd zy van u bespót, myn ziel tot u geneegen.Dies ik, dus van de Min betoverd, nu bevinGeen grooter Tovery als Min.
+Zesde tooneel.Syrena, Circe, Ulysses, Lybia, Astréa, Thisbe, Dianira, Clorisbe
+SyrenaMEvrouw, de Zangsters zyn gereed op uw beveelen,Om, volgens hunne&apos;pligt, te zingen en te speelen.
+CirceIk wil nu zang nóch spel, vermits Ulysses leidGevallen in de magt van Morfeus mogenheid,Waar door hy zich nu schier, in deeze koele lommer,Betoverd van de Min, steld buiten alle kommer:Inmiddels dat hy werd, als tusschen weelde en schroom,Gestreeld van zoete rust, verschrikt van bange droom.Dat nu het zanggeluit der vog&apos;len hem niet stooren.Dat hy geen bladge ruis der Bloemen koom&apos; te hooren.Dat nu de kristalyne en snelle WaterbeekZich houde stil en zacht, in de afloop van haar streek.Dat alle dingen nu, tot stilheid aangedreeven,Terwyl hy leid in slaap, myn&apos; min te kennen geeven.
+Polydoorvan binnen, of Trompet en TromgeluidOp, wapen, wapen, op!
+CirceWie maakt dit Krygsgeschal,Daar ik dus straf gebiê dat alles zwygen zal?
+UlyssesontwaakendeDie wapenroep, die klank van Trommel en Trompetten,Beduiden niet als Kryg, en komen my ontzetten.O Goden! wat is dit? zal nu de traage rustVerdrukken &apos;t eêl gemoed, en dooven de ôorlogslust?Ik ben de geen niet die ik plag voor heen te weezen,Nu ik zo laf my van de wellust laat beleezen.Wel aan, wat houd my dan, dat ik met volle vlugtMy niet begeef by dit opwekkend Krygsgerucht?vaar wel, Mevrouw, vaar wel, ik ga my derwaart spoeijen,Want nu&apos;er Oorlog is moet my de min niet boeijen.
+CirceHou stand, hoe dus? wie maakt hier deeze wapenklankDus buiten myn verlóf, en tegen mynen dank?
+Zevende tooneel.Antistes, Ulysses, Circe, Lybia, Astréa, Thisbe, Syrena, Dianira, Clorisbe
+AntistesONs Bootsvólk, dat u als een Thetis dus komt groeten,Ten aanzien gy hen kwaamt zo dicht aan Zee ontmoeten.
+UlyssesHier valt geen wachten meer, de Kryg heeft my ontwaakt,Een Orelogssyreen heeft my de ziel geraakt.
+CirceDat nu de Zangsters, om zyn Krygslust te bedwingen,Met overzoeten toon, van min en liefde zingen.
+Waar wil Ulysses heen? Ei luister, blyf ons by;De Liefde is de allerzoetste en grootste Tovery.
+UlyssesWat aangenaam geluid! zou dit myn hert niet trekken?Daar &apos;t zelfs een zoete nyd moet aan de Vog&apos;len strekken.Hoe gaat die lieff&apos;lykheid, die vleijery der min,Zo ver in myn gemoed, zo diep myne ooren in!Myn geeft, nu weêr bedaard, is zo tot min gedreeven,O Circe! dat zy wenscht nauw geboôn te leeven.
+TimantesKryg, wapen, wapen, kryg!
+UlyssesWaarom blyf ik noch staan?Men roept my tot den Kryg, ik moet ten Oorlog gaan.
+De ZangstersDe Liefde zeid: sta stil.
+Antistes‘Ik zal myn hert uitspreeken,Al zoude ik voort van lyf en leeven zyn versteeken.Ulysses, wat is dit, beroemden Griekschen Held,Daar u de Krygstrompet niet als van Oorlog meid,Hoe komt het, dat gy dus, van laf heid overrompeld,Gerustig, dof en doof, in wellust legt gedompeld?Gy weet niet, na het schynt, wat misslag hy begaat,Die volgen wil het geen dat hem de Liefde raad,En onder wyl zyn naam door laster laat besmetten.Ei, luister na die klank van Trommel en Trompetten.
+De GriekenKryg, wapen, wapen, kryg!
+UlyssesUw les is goed; myn geest,Antistes, is voorheen heel blind en doof geweest:Maar nu dit Krygsgeschal, tot in myn ziel gegleeden,Een mórgenwekker werd van myn manhaftigheeden.Zal ik my van dien band en minneboei onslaan.
+CirceHeeft dan myn minneboei zo weinig dank begaan?Zeg op, U lysses? daar myn armen bêi te zaamenDe banden zyn geweest, die u omhelzen kwaamen?Verbreektmen die zo licht? is dit oprechte loonVoor zo veel gunsten, door myn min u aangeboôn?Hoor na dat bly geluid, die lieve Maagdekeelen,Wier aangename galm bêi hert en ooren streelen.
+De ZangstersO zoete minnery!
+AntistesMen laat het schel geruchtVan Mars geduurig aan nu brommen door de lucht.
+De GriekenKryg, oorlog, oorlog, kryg!
+CirceMen laat nu Aarde en Wat&apos;renGeduurig Minnetoon, met volle weêrgalm, schat&apos;ren.
+De ZangstersO zoete minnery!
+UlyssesWaar keer ik hert en zin?
+De GriekenKryg, oorlog, oorlog, kryg!
+De ZangstersMin, liefde, liefde, min!
+UlyssesHier hoor ik oorlogstoon, en daar van liefde zingen,Terwyl my beide, liefde, en oorlogslust, bespringen.
+AntistesBy &apos;t Oorlog haaltmen roem.
+UlyssesGy hebt zeer wel gezeid.
+CirceBy liefde haaltmen vreugd, gunst en wellustigheid.
+UlyssesAch! schoone Circe, gy hebt ook zeer wel gesprooken.
+CirceLiefde is het zoetste dat het herte kan bestooken.
+UlyssesZo is &apos;t gy hebt gelyk.
+AntistesDe moedigheid des Mans,Door Oorlogszegepraal, behaald een Lauwerkrans.
+UlyssesGy hebt al meê gelyk.
+AntistesHersteld uw fiere zinnen.En rooit uit uw gemoed het laf en dertel minnen.
+De GriekenKryg, oorlog!
+De ZangstersLiefde, min
+De GriekenKryg, oorlog!
+De ZangstersMinnery!
+CirceWie heeft &apos;t end uw hert nu overwonnen?
+UlyssesGy.Zoude ik my laaten van een and&apos;re drift beweegen,Daar my uw schoonheid is zo na aan &apos;t hert gelegen?O neen! ik ben uw Slaaf; geen roem, behaagd my meerDan die, die ik behaal als ik u diene en eer.Daar is geen grooter lof, daar ik heb na te trachten,Als dat ik sta en blyf alleen in uw gedachten.Gelukkig duizendmaal is my die stond geweest,Toen myn genegenheid geplaatst wierd in uw geest.
+CirceMyn Maagdenrei, treê voor, en zingt op dit belyên,Geen grooter Tovery als minnetoveryen;En gy, Grieken! tergt niet langer myn geduld,Of weet dat gy uw doen te spa beklaagen zult.
+AntistesHelaas! nu zalmen ons, als Ballingen en Slaaven,Voorzeker, tot ons leet, aan deeze Kust begraaven.
+De MaagdenDe zegen is aan ond, Ulysses blyft ons by,De Liefde is de allersterkste en grootste Tovery.
+Achtste tooneel.
+AntistesO Spyt, myn overleg kon deeze smaad niet weeren.Ik moet met schande en schaamd weêr na myn Makkers keeren.
+De MaagdenDe Zegen is aan ons, Ulysses blyft ons by,De liefde is enz.
+Negende tooneel.Circe, Florinde, Lybia, Astre&apos;a, Thisbe, Syrena, Dianira, Clorisbe
+circeWAt &apos;s dit? daar ik noch straks&apos; met overstrenge wetten,Den Griek verboden heb zich tegen my te zetten,Wie of met dit gerucht dan myne gramschap tergt?
+FlorindeDit krygeschal, &apos;t geen dreunt door Bosschen en Gebergt&apos;Komt van geen Griek, ô neen, het zyn veel zwaarder rampen,Daar wy door &apos;s hemels wil, meê zullen moeten kampen.Prins Arsidas, dien u, als Minnaar, langen tyd,Heeft aangebeên, gevleid gelief koost en gevryd,Is vol van yverzucht, en zeer ontstelde zinnen,Mits gy bestond voor hem Ulysses te beminnen,Vertrokken na zyn Hof, van waar hy, met &apos;er vaart,Om zich te wreeken komt zo moedig herrewaart,Gelyk als of hy zelf den Hemel wou vernielen,Na dat hy met een Vloot ontzachchelyke kielen,Vol van gewapende Soldaten, deeze strandHeeft aangedaan, en hier in stilheid is geland,Verzeld met Lycidas, die vol argwaanighedenMeê deeze plaats verliet, en om die kleine reden,Van maar te zien dat ik met held Ulysses sprak,Zich inbeeld, dat ik hem my trouwe liefde brak.Ik die verzekerd ben dit alles wel te weeten,Mits ik, tót myn vermaak, aan Zee was neêrgezeten,Heb hen gewapend bêi zien springen op het land,En, in een ogenblik, al &apos;t omgelegen strandBedekken, met een schaar ontelbaare Oorlógshelden,Zelf Arfidas van ver deez&apos; woorden hooren melden:
+Nu moet, Kloekmoedig Heir, door ons manhaft bestaanDe Toverés met al haar Toverwerk vergaanOp dat wy dit Gebergte ons met geweld ontnomenZo aan de Kroon weêr van Trinacria doen komenDierhalven, mits u dreigt een merkelyk gevaar,Kom ik hier vlugtig heen, en breng u deeze maar.Wil u dan, zo gy kunst en magt hebt, fluks verweerenOm twee wraakzuchtige Krygshelden af te keeren.
+CirceAl zacht, het is genoeg, dóch eer nóch dit geschalUlysses ooren raakt hier in dit Bloemendal,Of eer hy weder werd tót Oorlóg aangedreeven,Is &apos;t nodig, dat wy hem den Slaapgód overgeeven;Dan wil ik, zonder hem, met u te zaam&apos; verzeld,Dien wrevelmoedigen &apos;t hoofd bieden in het veld.Gy zult my Krygsheir zyn; wy hebben niet te vreezenDat wy niet sterk genoeg nóch magtig zullen wezen;Al is ons Leger klein, myn kunst zal met&apos;er vlugtEen Heir van Spooken doen verschynen uit de lucht,Als Voet, en Paerdevólk, dewelke aan alle zyden,Na oogenschyn, voor ons manhaftig zullen stryden.Gaat heenen aan, en tracht dat gy u altemaal,Ontbloot van hoofdsieraad, en alle Venuspraal;Om met gepluimde helm uw hairen te overtrekken,En met gevoerden schild uwe armen te bedekken.
+LybiaMevrouw, ik zal dit lyf voor u ten offer biên.
+AstréaGy zult my in den stryd gelyk een Pallas zien.
+ThisbeIk, als een Venus, zal den grooten Mars doen buigen.
+SyreneDe zon zal van myn moed en dapperheid getuigen.
+CirceOp zulk vermoên zal ik de Krygstoon laaten slaan.
+DianiraDat heel Sicilje in vlam en oproer schyn&apos; te staan.
+ClorisbeDat onze wapenmagt het alles schyn&apos; te tergen.
+FlorindeDat Circe lang, na wensch, regeer in deeze Bergen.
+LybiaDat zy vol liefde, na een zegenryken slag,Den held Ulysses weêr in de armen komen mag.Einde van het Vierde Bedryf
+                
+            </div>
+    
+    
+    </body>
+  </text>
+</TEI>

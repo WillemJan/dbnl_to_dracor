@@ -2,6 +2,8 @@
 
 import json
 import os
+import datetime
+
 from pprint import pprint
 
 import lxml.html
@@ -24,6 +26,10 @@ DRACOR_DIR = 'dracor_xml'
 LEVENSTEIN_SPEAKER = 3
 
 OUTDIR = 'playlist_per_work'
+
+import datetime
+
+print("Running parse_dbnl_input.py on %s" % datetime.datetime.now().strftime("%Y-%m-%d %H:%M"))
 
 if not os.path.isdir(DBNL_DIR):
     os.mkdir(DBNL_DIR)
@@ -118,17 +124,23 @@ def parse_lucas_aanlever(data: list[dict]) -> dict | None:
 def speaker_filter(speakerlist: set, newspeaker: str) -> set | tuple:
     newspeaker = escape(newspeaker)
 
+    '''
+    #Realy small speakernames are allowed.
     if len(newspeaker) < 2:
         return speakerlist
+    '''
     
     if newspeaker in speakerlist:
         for speaker in speakerlist:
             if newspeaker == speaker:
                 return speakerlist
 
+    '''
+    #Disable Levenshtein for now.
     for speaker in speakerlist:
         if distance(speaker, newspeaker) < LEVENSTEIN_SPEAKER:
             return newspeaker, speaker
+    '''
     speakerlist.add(newspeaker)
     return speakerlist
 
@@ -264,11 +276,11 @@ for item in data:
         merge['readingorder'], merge['speakerlist'], merge['alias'] = parse_fulltext(
             fulltext)
 
-      
+
         # Dumping out playlist here, in .xlsx format.
         id_list = ['#' + unescape(i.lower()).replace(' ', '-') for i in merge.get('speakerlist')]
         spv = [unescape(i) for i in merge.get('speakerlist')]
-        outdata = {'URL': [ceratta.get('URL') for i in range(len(spv))] , 'id': id_list, 'speaker_variant': spv, 'is_prefered': ['x' for i in range(len(spv)) ], 'is_new': ['' for i in range(len(spv))],
+        outdata = {'URL': [ceratta.get('URL') for i in range(len(spv))] , 'id': id_list, 'new_id': ['' for i in range(len(id_list))] ,'speaker_variant': spv, 'is_prefered': ['' for i in range(len(spv)) ], 'is_new': ['' for i in range(len(spv))],
                    'is_error': ['' for i in range(len(spv))], 'gender (Male/Female/Unknown/Other)' : ['' for i in range(len(spv))], 'comments' : ['' for i in range(len(spv))]} 
                 #, 'is_error': [], 'gender (Male/Female/Unknown/Other)': [], 'comments':[]}
 
@@ -277,6 +289,7 @@ for item in data:
             alias = escape(alias)
             outdata['URL'].append(ceratta.get('URL'))
             outdata['id'].append(nid)
+            outdata['new_id'].append('')
             outdata['speaker_variant'].append(alias)
             outdata['is_prefered'].append('')
             outdata['is_new'].append('')
@@ -287,6 +300,9 @@ for item in data:
         df = pd.DataFrame(outdata)
 
         fname = OUTDIR + os.sep + currid + '.xlsx'
+
+        print("Writing out %s with %i speakers" % (fname, len(outdata.get('comments'))))
+
         df.to_excel(fname, index=False)
 
         for k in item:
@@ -295,7 +311,6 @@ for item in data:
         for k in ceratta:
             if k.lower() in merge and merge[k.lower()] == ceratta.get(k):
                 pass
-                # print(k, 'same value, skipping')
             else:
                 merge[k.lower()] = ceratta.get(k)
 
