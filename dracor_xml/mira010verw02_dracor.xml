@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mira010verw02" xml:lang="nl">
+  <fileDesc>
+    <titleStmt>
+      <title type="main">Verwarde hof</title>
+      
+      <author>
+        <persName>
+          <forename>Antonio</forename>
+          <surname>Mira de Amescua</surname>
+        </persName>
+        <idno type="wikidata">wikidata identifier</idno>
+        <idno type="pnd">pnd identifier (optional)</idno>
+      </author>
+    </titleStmt>
+    <publicationStmt>
+      <publisher xml:id="dracor">DraCor</publisher>
+      <idno type="URL">https://dracor.org</idno>
+      <availability>
+        <licence>
+          <ab>CC0 1.0</ab>
+          <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+        </licence>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl type="digitalSource">
+        <name>29 A 39: 3</name>
+        <idno type="URL">None</idno>
+        <availability status="free">
+          <p>In the public domain.</p>
+        </availability>
+        <bibl type="originalSource">
+          <title>https://www.dbnl.org/tekst/mira010verw02_01</title>
+        </bibl>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <particDesc>
+      <listPerson>
+        
+        <person xml:id="Ploro" sex="m/f/u">
+          <persName>Ploro</persName>
+        </person>
+        
+        <person xml:id="Pagio" sex="m/f/u">
+          <persName>Pagio</persName>
+        </person>
+        
+        <person xml:id="Arnest" sex="m/f/u">
+          <persName>Arnest</persName>
+        </person>
+        
+        <person xml:id="Flo" sex="m/f/u">
+          <persName>Flo</persName>
+        </person>
+        
+        <person xml:id="Flor" sex="m/f/u">
+          <persName>Flor</persName>
+        </person>
+        
+        <person xml:id="Bar" sex="m/f/u">
+          <persName>Bar</persName>
+        </person>
+        
+        <person xml:id="Den Hertog Frederico alleen" sex="m/f/u">
+          <persName>Den Hertog Frederico alleen</persName>
+        </person>
+        
+        <person xml:id="Pomp" sex="m/f/u">
+          <persName>Pomp</persName>
+        </person>
+        
+        <person xml:id="Karel" sex="m/f/u">
+          <persName>Karel</persName>
+        </person>
+        
+        <person xml:id="Kar" sex="m/f/u">
+          <persName>Kar</persName>
+        </person>
+        
+        <person xml:id="Oct" sex="m/f/u">
+          <persName>Oct</persName>
+        </person>
+        
+        <person xml:id="Karol" sex="m/f/u">
+          <persName>Karol</persName>
+        </person>
+        
+        <person xml:id="Pag" sex="m/f/u">
+          <persName>Pag</persName>
+        </person>
+        
+        <person xml:id="Pors" sex="m/f/u">
+          <persName>Pors</persName>
+        </person>
+        
+        <person xml:id="Karel alleen" sex="m/f/u">
+          <persName>Karel alleen</persName>
+        </person>
+        
+        <person xml:id="Lis" sex="m/f/u">
+          <persName>Lis</persName>
+        </person>
+        
+        <person xml:id="Fabr" sex="m/f/u">
+          <persName>Fabr</persName>
+        </person>
+        
+        <person xml:id="Octav" sex="m/f/u">
+          <persName>Octav</persName>
+        </person>
+        
+        <person xml:id="Helen" sex="m/f/u">
+          <persName>Helen</persName>
+        </person>
+        
+        <person xml:id="Floro" sex="m/f/u">
+          <persName>Floro</persName>
+        </person>
+        
+        <person xml:id="Matil" sex="m/f/u">
+          <persName>Matil</persName>
+        </person>
+        
+        <person xml:id="Porsia" sex="m/f/u">
+          <persName>Porsia</persName>
+        </person>
+        
+        <person xml:id="Lisar" sex="m/f/u">
+          <persName>Lisar</persName>
+        </person>
+        
+        <person xml:id="Matild" sex="m/f/u">
+          <persName>Matild</persName>
+        </person>
+        
+        <person xml:id="Lib" sex="m/f/u">
+          <persName>Lib</persName>
+        </person>
+        
+        <person xml:id="Libio" sex="m/f/u">
+          <persName>Libio</persName>
+        </person>
+        
+        <person xml:id="Ludov" sex="m/f/u">
+          <persName>Ludov</persName>
+        </person>
+        
+        <person xml:id="Hel" sex="m/f/u">
+          <persName>Hel</persName>
+        </person>
+        
+        <person xml:id="Claud" sex="m/f/u">
+          <persName>Claud</persName>
+        </person>
+        
+        <person xml:id="Arn" sex="m/f/u">
+          <persName>Arn</persName>
+        </person>
+        
+        <person xml:id="Lud" sex="m/f/u">
+          <persName>Lud</persName>
+        </person>
+        
+        <person xml:id="Hend" sex="m/f/u">
+          <persName>Hend</persName>
+        </person>
+        
+        <person xml:id="Maril" sex="m/f/u">
+          <persName>Maril</persName>
+        </person>
+        
+        <person xml:id="Fab" sex="m/f/u">
+          <persName>Fab</persName>
+        </person>
+        
+        <person xml:id="Liar" sex="m/f/u">
+          <persName>Liar</persName>
+        </person>
+        
+        <person xml:id="Pompeo uyt op de knyen" sex="m/f/u">
+          <persName>Pompeo uyt op de knyen</persName>
+        </person>
+        
+        <person xml:id="Marild" sex="m/f/u">
+          <persName>Marild</persName>
+        </person>
+        
+        <person xml:id="Barl" sex="m/f/u">
+          <persName>Barl</persName>
+        </person>
+        
+        <person xml:id="Heraut" sex="m/f/u">
+          <persName>Heraut</persName>
+        </person>
+        
+        <person xml:id="Karel met een open brief" sex="m/f/u">
+          <persName>Karel met een open brief</persName>
+        </person>
+        
+        <person xml:id="Karet alleen" sex="m/f/u">
+          <persName>Karet alleen</persName>
+        </person>
+        
+        <person xml:id="Oilav" sex="m/f/u">
+          <persName>Oilav</persName>
+        </person>
+        
+        <person xml:id="Fred" sex="m/f/u">
+          <persName>Fred</persName>
+        </person>
+        
+        <person xml:id="Den Grave Pompeo" sex="m/f/u">
+          <persName>Den Grave Pompeo</persName>
+        </person>
+        
+        <person xml:id="Octa" sex="m/f/u">
+          <persName>Octa</persName>
+        </person>
+        
+        <person xml:id="Floro met eenige Helbardiers. Barlovento, en een Herout uyt" sex="m/f/u">
+          <persName>Floro met eenige Helbardiers. Barlovento, en een Herout uyt</persName>
+        </person>
+        
+        <person xml:id="Barlo" sex="m/f/u">
+          <persName>Barlo</persName>
+        </person>
+        
+        <person xml:id="Mat" sex="m/f/u">
+          <persName>Mat</persName>
+        </person>
+        
+        <person xml:id="Freder" sex="m/f/u">
+          <persName>Freder</persName>
+        </person>
+        
+        <listRelation type="type of relation">
+          <relation name="" active="pers_1" passive="pers_2"/>
+        </listRelation>
+      </listPerson>
+    </particDesc>
+    <textClass>
+      <keywords>
+        <term type="genreTitle"></term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <listChange>
+      <change when="0000-00-00">who did what</change>
+    </listChange>
+  </revisionDesc>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1671">
+        <desc/>
+      </event>
+      <event type="premiere" when="">
+        <desc/>
+      </event>
+      <event type="written" when="">
+        <desc/>
+      </event>
+    </listEvent>
+    <listRelation>
+      <relation name="wikidata" active="https://dracor.org/entity/" passive="http://www.wikidata.org/entity/"/>
+    </listRelation>
+  </standOff>
+  <text>
+    <front>
+    </front>
+    <body>
+    
+    
+            <div type="chapter">
+                
+                    
+
+LOPE DE VEGACARPIOOSVERWARDE HOF,doorL.D. FUYTER.Den jongsten Druk, overzien en verbetert.Vertoont op d&apos;Amsterdamse Schouwburg.
+t&apos; AMSTERDAM,By Jacob Lescailje
+                
+            </div>
+    
+    
+    
+            <div type="chapter">
+                
+                    
+Aan den Konst-voedende SrMYn Heer en Vrient Den doorluchtigen PlutarchusTerentiusZoekt niet meer te bemachtigen, als gykunt bejagenTitus QuintiusOverweegt uwe zaaken rijpelijk, op dat gy niet en doet, het gene gy namaals niet en zond wenschen gedaan te hebbenVerzint, eer gy begint.Dit overwogen hebbende, zullen wy U.E. met ongedekte hoofden dissen, op den Dis van reeden (daar U.E. wel waardig zijt de voorzittende plaatse te bekleeden) de eelste vruchten der harssenen van den grooten Spaanschen Poëet Lope de Vega CarpioBarokusApolloU.E. verbonden vrient Leonard de Fuyter t&apos; Amsterdam, in den jare 1656.
+                
+            </div>
+    
+    
+    
+            <div type="act">
+                
+                    
+&apos;t Verwarde hof.Eerste deel.Eerste tooneel.
+LibioFloro&apos;k BVriendt Floro, of ik zie Palermo ingenomenMet ongemeene vreugt; ja schijnt dat deze StadAlleen de blijdtschap van de heele werelt vat.Indien ik iets vermach, wilt my doch kondbaar makenDe oorzaak van dees vreugt, die elk het hart doet blaken;Verhaalt my hoe, en wat, en waarom, op dat ikMy meê na deze vreugt, als andre burgren, schik.
+Floro.Wel luystert met voordacht, ik zal aan u verhalenD&apos;oorspronkelijke gront. De laatste die de palenVan dit al-oude rijk verheerelijkten, vrient,Was Edowardo; zelfs van &apos;t noodtgeval gedient,Mits hy voordachtzaam was, in oorlog en in vreede,Noyt zig Siciliën zoo&apos;n vorst haar stoel bekleede.Dien Konings egemaal, had uyt haar vruchtb&apos;re schootTwee zoonen voortgebracht op eenen tijt, ô! grootEen onbedachtzaamheyt; zy, vrezend&apos; voor den toorenHaars mans, heeft &apos;t eene kind de ballingschap beschooren.En gaf, door moeder-zucht, het in bewaring vanEen haar vertroude vrundt, en &apos;t ander heeftz&apos; haar manGeoffert na behoor. Hy, door nieusgierighedenGeprikkelt, en verblindt, bestont &apos;t geheym t&apos;ontledenDer Goden, uyt de loop des hemels, hoe zijn zoon(O onverzichtigheydt!) berooft van staat en kroon,Ja, als een wreet tyran het rijk zouw moeten derven,En als een balling uyt zijn vaders palen swerven,Den Koning gantsch ontaart van menscheydt, en van plichtVan vader, heeft verwoedt dit kleyn onnozel wichtIn zijne razerny in eenen bus geslooten,En offerden &apos;t de zee, dus levend&apos; van zijn lootenEn erfgenaams ontbloot, is hy ten graf gedaaltBinnen Messina, als voor dees my is verhaalt.Zins zijne doodt, zoo is dees gulden troon betreedenVan zijne nicht Matild&apos;, die naar vooroudren zeedenEn overoudt gebruyk, de Staaten heeft vergaârtEn burg&apos;ren van dit rijk, in deugdt en moedt vermaart,Uyt welkers rey Matild&apos; een man zal moeten keurenTot schraging van de kroon, en dit zal nu gebeuren.Dit &apos;s d&apos;oor zaak van de vreugt.
+Libio.Wie heeft &apos;er oyt gehoortVan zulk een wreede wet: vrund Floro, noch een woort,Waarom &apos;t gemeene volk meê voor haar stoel doen dagen?
+Floro.Tot vordring van haar keur.
+Libio.Hoe! om de kroon te dragen?Siciliën, met reên heeft u &apos;t gerucht beschultVoor wreê barbaren: ja met recht zijt gy gehultMet vier&apos;ge bergen die u ommetrek vergiffen.Wat Montebelse borst voedt zulken wet? wie griffenZulks in u keuren doch? dat een oneedel hooftDe kroon zou torssen, Goôn!
+Floro.Is u &apos;t verstandt berooftVrandt Libio! zeg op, of dooien uwe zinnen?Hoe trekt gy deeze zaak nu zoo ter hart? &apos;t beginnenVan zulks is niet van nu, ô neen, het is een wetBy &apos;t Noordtsche volk voorheen in volle kracht gezet,Die eertijts deze plaats door hun gewelt bezaten.&apos;t Is billik, de gemeent&apos; dees eer is toegelatenTe komen voor de stoel haars konings, schoon de keur,Door &apos;t keuren van een vrouw, haar hope stelt te leur;Ik sta &apos;t u toe, ô ja! dat d&apos;Adel door hun dadenDe scepters passen, maar Matilde, als beradenEn een voorzicht&apos;ge vrouw, mijns oordeels, heeft al eenIn &apos;t hart gekeurt, met wie zy op dees troon wil treên.
+Lib.Wie meent gy hier zoo hoog in luk te zijn gerezen,Vrunt Floro, die haar man, en onzen Vorst zou wezen?
+Flo.Om wel te kiezen na mijn oordeel, is &apos;er geenIn heel Siciljen, die tot voordeel van &apos;t gemeenDen naam van koning, en den scepter past te dragenAls hartog Frederik, een vorst die in de vlagenDes oorlogs is zoo kloek, dat hy dit rijk verstrektEen wonder: &apos;k weet haar gonst hier door is opgewekt.Daar is den hartog zelfs, ô welgestelde ledenGebooren tot &apos;t gezag, om op dees troon te treden.Noyt heeft Siciliën een zijns gelijk gebaart.
+Libio.Gelijk mijn oogen zien.
+Floro.In moedt en deugt vermaart.
+Tweede tooneel.Den hartog Frederik en Octavio uyt.
+Octav.EEn yder stelt den Vorst volkomentlijk voor oogenZijn goe genegentheyt, en van hoe groot vermoogenElks zucht tot u waarts is, ja zoo, dat in hun hartU reets met deze kroon geluk geboden wardt,Voortzeggende u heyl, &apos;t welk schijnt ten top gereezen,Wat my belangt, ik leef beyd&apos; tusschen hoop en vreezen,Door dien ik twijffelend&apos; niet wel gelooven kanU luk, waar op ik hoop.
+Fred.Ziet mijn vermogen an.Weet gy niet dat de stem van &apos;t volk, Gods wil, wil spellen?Fortuyn, al is &apos;t een vrouw, verhoop ik, zal haar stellenAan mijne zy, en my in &apos;t minst niet tegen zijn.&apos;k Ben d&apos;eerste van dit Rijk, Matilde heeft door mijnDe diensten aan de kroon, my doen de kroon betrachten:Haar oogen (ja te recht uytbeelsters der gedachten,Die hebben Frederik al blijks genoeg betoontWat hart tot mywaarts in Matildens boezem woont)Door dienze tongen zijn Octavi van de zelvenDie sprakeloos &apos;t geheym uyt onze boezems delven.Porsiaas liefde moet my slaaken van mijn plicht.De kroon, die is &apos;t alleen die deze scheyding slicht:Die tot den scepter raakt, die moet geheel verlatenZijn menschelijk&apos; gedaant&apos;; want koninklijke staten,Verevenaren zich by d&apos;opper-godlijkheên.
+Octav.Daar komt de koningin.
+Fred.Zegt dat daar komt die geenDie door haar oogen zouw de starren doen ontlichten,Zeg dat daar komt die geen, die vuur&apos;ge vlammen slichtenIn dees gezengde borst, zeg dat daar komt een beelt,Een proefstuk van natuur, uyt Goden bloedt geteelt.O engellijke vrouw! beroofster van mijn zinnen,Die deze ziel beheerst, en dwingt my tot u minnen.
+Octav.Ik zie hoe Porsia, Matildens zy bekleet.
+Fred.Octaaf gy bant mijn vreugt, zwijgt stil; verbergt mijn leet.Ik vliê voor haar gezicht, midts ik geen dief wil wezen,Noch roover van een schat die &apos;k niet en zoek.
+Derde tooneel.Matilde, Porsia, Helena, den Grave Pompeo, Fabritio, Karel, Floro, Barlovento, Libio, Ernesto, en al de Hof staat.
+Pomp.A An deze,En gy aan d&apos;and&apos;re zy, gy Heeren neemt uw plaats.
+Barl.En ik na de gemeent&apos;, als zijnd&apos; een man vol raats.
+Matil.Pompeo, &apos;k mach met reên wel voor Barbaris scheldenDees wet, hoe zal een vrouw hier de geheymen meldenHaar &apos;s boezems? hooge goôn! welke onbehoorlijkheên?Natura spreekt my vry, en kant met zulke zeên,Voorwaar heer Graaf, zoo&apos;n keur was ons noyt aangebooren.
+Pomp.Mevrouw, uw Ouderen, en al die van te voorenDees plaats bezaten, en vermeerden uw gebiet,Hebben dees wet in kracht verdubbelt, schelt doch nietOp dit aloudt gebruyk, &apos;t welk niet alleen geschrevenStaat in uw keuren, maar in d&apos;harten van die leven.Doch om haar Majesteyt van schaamte te ontslaan,Zal deze tak u woort verstrekken, neemtze aan,En wie in u gedacht zoo lukkig is gerezen,Die deze gift geniet, zal onzen Koning wezen,Bekrachtigt uwe wet en der vooroud&apos;ren zeên.
+Matil.Gy Heeren, neemt uw plaats.
+Freder.Met alle dienstbaarheênZijn wy verschuldigt aan haar Majesteyts begeeren.
+Pomp.Soldaat aan d&apos;and&apos;re zy, dees plaats bekleên dees Heeren.
+Karel.Wel Graaf, en weet gy niet dat wie zoo wordt genaamt,Dees adelijke plaats, zoo wel als u betaamt?
+Freder.Weg gy vermetele, wilt niet hartnekkig wezen,Noch werkt uw eygen straf.
+Pomp.Zijn hoogmoedt is gerezenUyt zijn onwetenheydt.
+Freder.Van hier verwaande zot.
+Karel.Die, daar gy my voor scheldt en was ik noyt: ô spot!Mijn vroomheydt wordt gehoont, en strandt op afgunst klippen,Onkunde blaast dien smaat uyt u verwaande lippen;Die meerder derf bestaan als gy met uw geweerZoud staande houden; doch mijn onverwelkb&apos;re eerLeyt my op d&apos;hoogste trap, en maakt dees plaats my waardighTen spijt uw&apos;s Adeldoms, mijn moedt tot straffen vaardigh,Door d&apos;aangedane hoon, verwijt u uwe schult,Door &apos;t dulden, &apos;t welk u noodt dat gy my dulden zult.Mijn vroomheyt maakt my eêl, mijn werken, mijn betrachting.Ziet na mijn af komst niet, neemt mijn gemoet in achting.
+Barl.Ik Barlovento, en de eerst uyt mijn geslachtDie na de hoogheyt staat, getuyg mijn Meesters kracht.Zijt zeker en gewis, dat onze dapperhedenDen gantsen aardboôm, met ontzag en schrik, bekleden,Door dien ik altijts aan mijn Jonker gaf de luchtOm t&apos;overwinnen als een Atila, &apos;t geruchtOns moedts most elk ontzien.
+Karel.Zwijgt gy, wat zal dit wezen?
+Barl.O bloet! dat &apos;s een gezicht.
+Matil.Pompeo wat wil dezen?
+Pomp.Mevrou dees jongeling door hoogmoet derf bestaanTe trachten na dees plaats.
+Karel.Ik ben die geen; die aanHaar Hoogheyt, noch aan u, met na dees plaats te trachtenMisdoe, of werk daar door u oneer, of verachten,O neen, in &apos;t minste niet; doch oogt eens op al &apos;t geen&apos;t Welk oyt Natura schiep in wezen, &apos;t zy voorheenOf nu, wechgevende, zoo worden die door &apos;t geven,Te niet; behalven d&apos;eer, die blijft door &apos;t geven levenIn haare volheyt, niet alleenig met die geenDie haar ontfangt, maar ook met dieze geeft, dees reênGetuygen, dat die geen, die niemant eer wil geven,Zeer weynig heeft, door dien de eer noyt wordt verdreven,Noch en vermindert door &apos;t wechgeven, noch vermeertDoor het behouden; gy dan door mijn eer geeert,Uw eere niet vergroot met my dees eer te weygeren.
+Barl.Dat is de rechte kaats, om op de bank te steygeren.
+Matil.Ik ken hem, Porsia, dees man dat is die geenDaar &apos;k u heb van gezeyt, zijn welgegronde reênDie dwingen my, om hem gelijk my zelfs te minnen.
+Pors.Wel hoe Mevrouw! gy doolt, wat wilt gy gaan beginnen?
+Karel.&apos;k Zal u verhalen &apos;t geen my van hem is bewust;&apos;k Ben door barmhertigheyt eens vissers van dees kustGekorstert, en gequeekt, en &apos;k heb noyt konnen hoorenWie dat mijn vader was, of waar ik ben gebooren.Zoo ik een af komst noem, ik noemze met die geen,Die eer in parlemoer op Cypers strant quam treên;En noem ik ouders, &apos;t zijn de golven en de rotsen;Indien ik was Barbaar, &apos;k zou Alexander trotsen,En meenen dat Iupijn mijn vader was geweest;Ik ben als Romulus gebooren; &apos;k heb my meestOntrent de netten en de schuyten opgehouwen,Doorzwemmende de zee, &apos;k dorst my zoo veel vertrouwen,Ten laatsten, dat ik my na &apos;t grondelooze diepBegaf, en door mijn stem de Dolfijns t&apos;zamen riep,En maakte een vreed&apos; met hun, schoon of zy twistig waren:Doch end&apos;lijk is mijn moedt vergroot met mijne jaren,Dat het onmoog&apos;lijk scheen in &apos;t schelliprijk gewestDie te verberrigen, my gevende ten lestIn d&apos;oorlog, als een toets van moedige gedachten.&apos;k Heb Edowardos heyr, en vaanen door mijn krachtenVerrijkt en nagevolgt, toen den NapolitaanEn heel Calabria hem most ten dienste staan.Ik zal hier voor u al volkomentlijk ontleedenHoe heerlijk ik mijn jeugt in uwen dienst besteeden,Waar door u vyandt my geroemt heeft, en gevreestAls oorzaak van zijn val; ik ben die geen geweestDie klimmend&apos; langs een piek, een roode standart plantenOp d&apos;hooge vesten van Kassano, en dorst kantenAlleenig tegen al, toen &apos;s vyandts moedt verzonk,En d&apos;onze, als de zon, in hare volheyt blonk.Ik heb dien Kalabrees, die &apos;t heele leeger hoonde,Ontzielt, en toonden hem wat hart dees borst bewoonde;Ik reedt hem te gemoet, my zettende op een paart,Een tweeden Pegazus in snelheyt, en ter vaartMy gevend&apos; daar ik vondt dien Hercules gezeetenOp een gemoedigt ros, op moort en roof gebeeten,Mijn yver vloog zijn toorn gelijk een schicht te moet,Hy brulde en zag my aan, met oogen, die in gloetEen Etna scheenen, die zijn gramschap my vertoondenOok zag ik hoe de doodt in zijne armen woonden,De straf in zijn gebit, de schrik in zijne stem,Waar door de aart beweegd&apos;, dit gaf mijn yver klem.Wy loopend&apos; op malkaâr met euv&apos;len moedt en tooren,De steegelreep en toom, en zinnen beyd&apos; verlooren.Weêr komend&apos; tot ons zelfs, door dien een duyzelingHem &apos;t hert zoo wel als my benevelt hadt, zoo ging&apos;k Hem wederom te keer, en heb den toom gesneedenVan zijn gemoedigt paart, een elefant in leedenEn grootheyt, overmits het op zijn schoudren droegEen hoogh gepluymt kasteel, &apos;t welk ik den degen joegDwars door de ribben, dat een vloedt van roode straalenDe aart bevochte, en zijns heeren endt ging maalen.Wy smeedent op malkaar heel dapper, b&apos;houdens eerMijns Konings, door zijn doodt zijn hellem en geweer.Van deze, en andre daân, waar door mijn faam gaat steyg&apos;renTen hemel, zijn getuyg&apos; die deze plaats my weyg&apos;ren.Maar ik onlukkige (verwachtende het loonVan mijn verdiensten uyt de hant mijns Konings) goôn!Is met zijn doodt mijn hoop als hopeloos vervlogen.Nu weet gy wie ik ben, en wie staat voor u oogen,Dit is mijn oorsprong, en hier ziet gy mijnen schat:De werelt noemt my met de naam van Karel, watMeer is, de hooveling gaat my den bynaam gevenVan den Voorzichtigen, uw oorloogsvolk, mijn levenEen wonder noemen, en zie deze zien my anVoor een gemeenen en een ongeachten man;En ik derf my den naam van uwen dienaar geven.
+Barl.Wat droely gaat u aan? wel wie heeft van zijn levenVan zulk een waterig en vocht geslacht gehoort?O bloedt dat komt te slecht; mijn heer audi, een woort;Kondt gy niet zeggen dat u af komst is gesprootenUyt Vorsten, Heeren, ja uyt d&apos;aldergrootste Grooten?Kondt gy niet zeggen, dat Adam een bastaartzoonBy Eva heeft geteelt, met namen Pharaoon.En hoe de vader was van Kakus, hoe hy teeldeDen grooten Tambuerlaan, dat lekker kindt van weelde,En hoe dat Tambuerlaan by zijn beminde wanPontius Pilatus, en Pilatus won Paap-jan;Paap-jan, jou bestevaêr, wan Soliman de groote,Segt dat uyt Soliman u vader is gesprooten,En dat u moeder was de groote Koningin,Die eer Kartago sticht, neemt hier van u begin.Wie zal&apos;er, ô gans bloet, gaan na dees af komst vragen?
+Fred.Wat wil den vreemdeling?
+Matil.De ziel wordt my ontdragenLaas Porsia! &apos;t gedacht loopt snel na Karel toe,Ik ben ten endt helaas! ô hooge Goden.
+Pors.Hoe!
+Matil.Helaas! wat zal ik doen?
+Pors.Mevrouw u zelfs verwinnen,Gy zijt een Koningin, wat wiltge gaan beginnen?Siciljen uyt u keur een Koning wachten moet,Dies dooft die vlam Mevrouw, die reets uw boezem voed.Vorstin, ey wilt u niet, door oogenlust gedrevenEn min, als onbedacht dees vremd&apos;ling overgeven.
+Matil.Zit neder Karel, want &apos;k maak u gelijk die geenMet wien ik, hooge Goôn! meen op den troon te treên.&apos;t Is reeden dat de deugt naa waarde wort verhevenMet staat, ik zal u loon naa uw verdiensten geven.
+Karel.Dat hare Majesteyt veel langer leven moetAls d&apos;Arábiersen Phoenix.
+Pomp.O gy vermeet&apos;len bloet!Schoon hare Majesteyt belast heeft deze steedeAan u, ten spijt van ons, onaad&apos;lijk te bekleede:Nochtans die plaats, die u haar Hoogheyt heeft gewijt,En droeg noyt een als gy, gy zijt dan diege zijt.
+Kar.Dees plaats waar door my heeft haar Majesteit verheven,Zal ik om d&apos;eerens wil nu om een beter geven,Nu zit ik op mijn eer; want d&apos;eerelijken manZat nimmer op een plaats als die toegeven kan,&apos;t Welk die verharde bank, vol onbeweeg lijkhedenNiet doen en kan, noch die, die deze bank bekleden.Maar deze, die my torst, mits hy van laaken is,Is reklijk, milt en zacht, gy Heeren houdt gewisDat dezen mantel, en dees kling my ging bekledenMet eer, die &apos;k nu verdeel, en zit op d&apos;helft; en hedenZal ik hier voor u al stant houden, dat dees steêVeel adelijker is als d&apos;uwe.
+Fred.Zooge in vreêU Rijk regeeren wilt, zoo wilt ons eer betrachten,In &apos;t straffen van die geen, die reukloos derft verachtenU Ridderschap en volk; ons grootheyt ging tot niet,Indien haar Majesteyt dees lastering toeliet.
+Matil.Schoon dat ik met de kroon, door Edowardoos sterven,Niet en behoef de schult van mijnen oom te erven;Nochtans zoo dunkt my recht, en reden, dat ik die,Die hy liet onbeloont, met eer en staat verzie;Want by aldien mijn oom in &apos;t leven was gebleven,Zijn dapperheyt gewis was naa waardy verheven;Nu zal &apos;t van my geschiên, want ik u heden maakMarquies, dies neemt uw plaats.
+Barl.O bloedt! dat is een zaak,Marquies, en noemt geen plaats, wie heeft ooyt zulks gelezen?Doch &apos;k denk dat hy Marquies zel van zijn mantel wezen.Wel dat komt zeker fray. Marquies, en zonder goet.
+Fred.&apos;t Is wonder wat wy zien, en wat men dulden moet.
+Matil.Don Karel neemt uw plaats, &apos;k zal u den weg gaan banenTot hoogheyt, want ik maak u Marquies van Catanen.
+Karel.&apos;k Mach u hoogwaarde vrouw wel lijken by die geenIn miltheyt, voor wiens moed de werelt scheen tekleen.Ik kus u voeten tot vergelding: tza gy HeerenRuym plaats, vermits zulks is haar Majesteyts begeeren.
+Pors.Ik zeg noch eens Mevrouw, zie voor u watge doet,Ey stoot uw groote naam niet reukloos met de voet.Ik vrees en ben beducht, dat gy hem dus verheven,Tot hoon uw &apos;s adels, licht dijn bloementak zult geven.
+Matil.Laas Porsia! &apos;k en kan het vuur en minnegloetNiet langer bergen, (ach!) in &apos;t lievende gemoedtWort Karel meer met staat, en heerlijkheyt verheven:En raat my niet, want zo &apos;k dees bloemen quam te gevenAan hem, ik weet gewis, dat ik alleenig zouwBeheerschen deze kroon, ach! of &apos;t den hemel wouw.Nu vrees ik licht een Heer door deze keur te treffen,Die d&apos;hoogmoet boven my en mijnen stant mocht heffen.
+Pors.En weetge niet Mevrouw, dat, wie van niet geraaktTot staat, zich licht vergeet? ziet wie gy heerscher maakt.
+Matil.Neen Porsia, ô neen, ik zouw alleen gebieden:Want Karel is beleeft, mijn wille zouw geschieden:Hy zouw my eeren, doch al spreek ik zulke reênUyt vryheyt tegen u, denk, ik &apos;t wel anders meen.
+Fred.U komst tot hier, Marquies, heeft u al hoog verheven.
+Karel.&apos;k Zal d&apos;eer die &apos;k nu bezit, eens ruyme aamtocht geven,En met gegronde reen verstarken mijn onschult.Mijn yver dreef my hier, &apos;k en was noyt opgevultNoch dorstig na &apos;t gezach als gy, mijn needrighedenVerzochten deze plaats, die d&apos;eer my doet bekleden;Zijt zeker, en gewis dat ik geen FaëtonNoch voerman wezen wil van dees vergoode zon,Al is &apos;t schoon dat haar gonst my in gelijkheyt brachteVan u, om neffens u na haar bezit te trachte&apos;.Aanschout eens van een berg, of diepte, &apos;t blauw gewelf,&apos;k Weet gy bevinden zult, en speuren, schoon g&apos;u zelfOp zulken hoogt bevindt, dat d&apos;een zoo na als d&apos;anderDen gulden hemel is.
+Fred.Zijn reên zijn loos, en schrander.
+Karel.Hier meê ik zeggen wil dat hare MajestytDen gulden hemel is, en gy de heuvel zijt.En ik de laagte, doch om deze te genaken,Ben ik zoo na als gy.
+Matild.Wat zou Don Fredrik makenWanneer hy koning was; Porsia, ziet gy nietHoe yvrig dat hy doelt na &apos;t opperste gebiedt?
+Porsia.Ons liefd&apos; bedriegt ons zelfs, en vordert ons betrachtingTot &apos;t geen ons eerlijk dunkt; Mevrouw neemt doch in achtingWat vorst den hartog is, en in hoe groot bewint&apos;t Betrachten eerlijk is, na &apos;t gene dat men mint.
+Matild.Mijn waarde nicht, ken ik niet u genegentheden,En hoe gy Fredrik mint.
+Porsia.Mevrouw, en is &apos;t geen redenIk u ten besten raâ? al is &apos;t ik door die raadtMijn groote liefde smoor, en werk mijn eygen quaat.
+Matild.Gy zijt geen vrouw (ô neen!) nu gy door reên u minnenKundt dooven, en u zelfs kloekmoedig overwinnen.
+Fred.&apos;k Zal op u voor&apos;ge reên, u Karel, antwoort biên.
+Karel.Dat is onnoodig, Heer, al zeg ik zulks, &apos;k weet wienDees bloemen waardig zijn, en wie ik die zou geven,Indien ik tot dees keur, en eere werdt verheven.&apos;k Weet wie den schepter voegt, doch heb ik u gedultDoor mijne reên getergt, zulks is mijn tongens schult.
+Fred.Pompeo, &apos;t groots gemoet begint hem te begeven,Mits d&apos;oogen zien dat ik tot Vorst zal zijn verheven.
+Pomp.&apos;t Is tijdt Mevrouw, u van dees bladeren t&apos;ontslaanDoor &apos;t kiezen van een vorst.
+Matild.Ik mach met recht wel aanDien koning, die dees wet en keur eerst heeft geschrevë,Den bynaam van Barbaar, en van onreed&apos;lijk geven,Don Karel, hoor een woordt.
+Karel.Wat wil haar Majesteyt?
+Matild.Gy zegt dat by aldien &apos;t waar in u keur geleyt,Dat gy die gene weet, wiens moedt en brave zeeden,Wel waardig zijn mijn zy als koning te bekleeden.Aanvaart gy dezen tak, op dat godt Hymen maaktGelukkig, die door u tot deze kroon geraakt,
+Fred.Haar Hoogheyt doet zeer wel, dat zy hem gaat betrouwenDe keur, en Majesteyt, &apos;k mach my verzekert houwenDat hy my kiezen zal; want ik alreedts bespeurDat hy mijn vriendtschap zoekt.
+Karel.De bloemen en dees keurWerden van my, u slaaf, ootmoedig aangenomen,&apos;k Dank u mildadigheyt, en kus de waarde zoomenVan u vergoode kleên, zal hare MajesteytHaar heyl&apos;ge handt aan hem die mijne reed&apos;lijkheytDees waarde blad&apos;ren schenkt, als koning overgeven?
+Matild.Zulks zal van my geschiên.
+Karel.Zoo wordt tot Vorst verhevenOp heden den Marquis.
+FredWel hoe! wat wil dit zijn?Wie &apos;s deze?
+Karel.Die ben ik, ik schenk dees gaaf aan mijn,Mijn diensten tot een loon; want waardiger te kiezenWas yd&apos;le moeyte, en maar vruchtloos rijdt verliezen.Mevrouw, reykt my u handt, op dat Seciljen weetDat met u op den troon een schrik des werelts treet.&apos;k En ben niet zonder reên onder de witte schuymenGekoestert, &apos;t schijnt de goôn dees zeetel my inruymen.
+Fred.Dit &apos;s een doorsteeken, en een lang verdicht verraadt,Hoe! een gemeene man tot koninklijken staat?&apos;k Sweer dat hy sterven zal, men hoeft geen woordt te houwenVerdichte listen noch vetradery.
+Barlo.Ja trouwenStelt dat maar eens in &apos;t werk, hoo, hoo, mijn lieve man,Komt u mijn Heer op &apos;t lijf, zoo raakrge in de pan.&apos;t Gemeen is eerelijk, d&apos;eer kan geen eer vermind&apos;ren:Daar is geen onderscheyt, wy zijn al Adams kind&apos;ren.
+Floro.Hoe mannen lijdt gy dit, dat hare MajesteytGehoont wordt, door &apos;t gewelt der Adel ons ontzeydt,Dees aangedane eer, neen, neen, wy moeten toonenDat het noyt veylig was &apos;t gemeen aldus te hoonen.Men stuyt hun moed, wie &apos;t zy, dan met gewelt of recht.Gy Heeren houdt gemak, eer gy u zelven hechtAan onze ongunst, hoe, wy willen dat dees krooningZoo datelijk geschiet aan Karel onzen koning:Indien &apos;t Mevrouw gelieft, wy zullen toonen, datU d&apos;adel tegens reên met zulk een blaam bekladt.
+Claud.Verwaande, neen, ô neen! u redeloos verkiezenEn geldt hier niet, waar door den Adel zou verliezenZijn oudt en wettig recht: wat waant gy dat u wilZy scheytsman van dees twist en ridderlijk verschil:Voorwaar gy zijt verdwaalt, dit redeloos krioelenZal u bedriegen, &apos;t geen gy licht te spaâ zult voelen.Staat af vermetele, eer gy u zelven brantAan &apos;t vuur van onze macht, die hier de vierschaar spant.
+Floro.En nu &apos;t zoo is geschiet, zoo wordt by ons verstaanDat Karel met de kroon als koning door zal gaan.
+Fabr.Lang leef Fredrico, ja lang moet den koning leven.
+Libio.De goôn hun zeegen aan Matilde en Karel geven.
+Fabr.Alhier gy Heeren wreekt, uw eer raakt in de ly.
+Libio.Alhier Gemeente kom, vervoegt u aan mijn zy;Hebt gy de vrede lief, zoo helpt Don Karel strijdenHier voor den scepter.
+Octa.Hoe! zult gy u niet vermijdenTe kanten tegen ons? lang leve Frederik.
+Floro.Lang leve Karel, u, en d&apos;uwe tot een schrik.
+Pors.Ach! wat hebt gy gedaan?
+Matild.Het schijnt &apos;t besluyt der goden,Die Karel tot de kroon, my tot d&apos;aanneming nooden.
+Pors.Zeg liever een bedrog.
+Mat.Ziet, de Gemeente spantZich tegens d&apos;Adel, en dit dier heeft geen verstandt,&apos;t Is nijdig, plomp en bot, en trapt met domme zinne&apos;De reden op de nek.
+Libio.Dat hem de KoninginneTerstondt de handt reyk, en betaal alzoo haar schult.
+Matil.Gy Heeren, schoon de wraak u &apos;t harte heeft vervultDie mijn beschulden derft, ofze de nijdt tot voordeelAls haar gezuster heeft, dees keur na reedens oordeel,Die moet u billik zijn, is u gezach misschiet,Men wijt het de gemeent&apos;, maar mijn verkiezing niet.Zy toonen zich gereet op d&apos;adel haar te wreeken,Zoo ik besta dees keur, en hunne wil te breeken.&apos;t Schijnt &apos;t goddelijk besluyt, dat Karel wert gehult,En nu het wezen moet, is &apos;t reden dat gy &apos;t dult.
+Fred.Ik zeg haar Majesteyt den Adel en heur rechtenOp &apos;t hoogste heeft gehoont: ons wraaklust zal &apos;t beslechten&apos;t Geen gy den hemel wijt, wat hemel: uwe zuchtHeeft u zoo var gevoert, die werkt ons ongenucht,Ik zweer, ons aller macht zal u uw loon verschaffen.
+Karel.Verwaanden, duykt, en zwicht, onthoudt uw tong van blaffenIn tegenwoordigheyt uw &apos;s Koninks, spreekt met eerVan hare Majesteyt, en my uw Opperheer,Of ik zal met dees kling dien hoogen moet bepalen,En uw vervloekte ziel naa Acheron doen dalen.
+Fred.Eer ziet gy &apos;t machtig Rijk het onderst opgekeert,Eer u den Adel eedt van trouw of Koning zweert.
+Karel.&apos;t Is wel gezeyt, gy zult, &apos;k zal u die wieken snuyken;En zien of voor mijn wil uw wille niet zal duyken.
+Pomp.Zoo &apos;t de gemeente stemt, zoo is &apos;t met ons gedaan.Gedult: Siciliën neemt u voor Koning aan.
+Karel.De reên u zulks gebiên.
+Libio.Uw onderdanen zweerenU altijts voor hun Vorst, en Opper hooft te eeren.
+Fred.Is &apos;t mooglijk, (hooge Goôn!) dat mijne oogen zien,En moet ik dulden &apos;t geen dat recht en reên verbiên?Mijn zinnen zijn verwart, ik kan naauwlijks geloovenHet geen mijn oogen zien mijn Adeldom verschooven?
+Floro.Den Adel zich vervoegt om kussen uwe handt.
+Fabr.Gy Heeren laat ons gaan.
+Fred.&apos;t Is al te grooten schant.
+Karel.En wie heeft u gezeyt dat gy de eerst zoudt wezen?
+Pomp.&apos;t Is &apos;t overout gebruyk.
+Karel.Uw Koning heeft met dezeOf diergelijk gebruyk in &apos;t minste niet te doen;&apos;k Wil de gemeente komt.
+Matil.O hemel! wilt behoênMijn landen, hoe! mijn Heer, wat doetge?
+Karel.Zulks moet volgen?Met u verlof, Mevrouw.
+Pors.Den Koning schijnt verbolgenIn zijne razery. Ach! wat hebt gy gedaan?
+Matil.&apos;k Moet dulden &apos;t geen ik niet met kracht kan wederstaan.
+Libio.Wy kussen uwe handt met alle dienstbaarheden,Als dankbaar, voor de gonst waar meê gy ons bekleede.
+Matil.Den Adel u verwacht.
+Karel.Ik moet hun trotse zeedenWat temmen, dan is &apos;t tijdt.
+Pomp.Mijn Heer.
+Karel.En spreekt niet, hedenMy zulks niet en gelieft, zwijgt van verzoeken stil,En vergenoegt u met mijn koninklijke wil.bin.
+Fred.Is &apos;t mooglijk, kan &apos;t geschiên? gy Heeren helpt my wreken.Onlukkig Rijk, ik zie een vloet van plagen leekenOp uw aloude kruyn: ô hemel! dempt de vlamZijns hoogmoets, en verschoont de Seciljaanse stam.Binnen.VERTOONING
+                
+            </div>
+    
+    
+    
+            <div type="act">
+                
+                    
+Tweede bedryf.Eerste tooneel.
+Den Hertog Frederico alleen.O hemel! heeft uw raadt dit over my beslooten?Waarom my van den Troon en hoogste trap gestooten,Van macht en mogentheyt? waarom door tegenspoetZoo onverziens mijn hoop geworpen voor mijn voet?Vervoerde vrouw, door u is al mijn glans verdweenen.(O helsche lusten! zeg, waar voert gy d&apos;nerten heenen?)Mijn hoop die viel te zwak, en kost niet langer staan,Matilde, toen uw zucht, door oogenlust, zich aanDe hoogmoet overgaf, &apos;t welk my met spaâ berouwenNiet meer te hopen leert op schijngonst van de vrouwen:Doch echter speelt my staag in &apos;t woelende gedachtDees ongerechte keur, en hoe zoo onverwachtEen vreemd&apos;ling tot gezag van Koning wort verheven,Wat pen heeft op &apos;t papier oyt zulken stuk geschreven?Mijn zinnen doolen door dees noytgehoorde daat.
+Tweede tooneel.
+Porsia.&apos;t IS my zeer leedt, mijn Heer, dat ik in dezen staatVoor &apos;t wenschen van geluk, u onluk moer betreuren,(Door een vervloekte, en al te reukeloos een keuren)Mijn hert van minnenijt, en ingekropten haatOntbloot en gants ontleegt, zijn van mijn goeden raatGetuygen, hoe ik my in &apos;t raden heb gedragen,Om &apos;t kroonen van uw kruyn, schoon minnes hinderlagenMijn voorstel stutten: &apos;k hoop den hemel zal &apos;t verzien.
+Fred.O eedle minnares! de troost die gy kont biênAan mijn elende, zal mijn qualen wat versussen,En d&apos;AEtna in dees borst verminderen, en blussen.Niet om dat gy my nu van Koninklijke machtOntbloot ziet, en berooft door hare keur, &apos;t gedachtSpeelt op wat anders, &apos;t welk Matilde derft verwijtenHaar los bestaan, mijn hoon en reukeloos versmijten.
+Pors.&apos;t Is tijt, mijn waarde Heer, dat uwe borst versmaatDe qualen dieze huyst: en mijne min in laat,Aanvaart dees offerhant, dien ik uw Hoogheyt offerUyt een oprecht gemoet en zuyv&apos;re hertens koffer.
+Derde tooneel.
+Floro met eenige Helbardiers. Barlovento, en een Herout uyt.DIt &apos;s wel een groote zaak, een zaak die onverwachtTot schand&apos; en oneer brengt het Adelijk geslacht.
+Heraut.Zijn Majesteyt gebiet op lijfstraf, dat voor &apos;t dalenDer zon, den Adel ruymt de Seciljaanse palen,Op peen van lijf en goet, dies zy een yder eenGewaarschuwt, hy zich hoede, op straffen als voorheen.
+Fred.Laas! Porsia, dit &apos;s loon van de fortuyne.
+Barl.HeedenBen ik veel beter als die &apos;t Ridders ampt bekleeden.Ik blijve, en zy gaan; mits ik bewijzen kan,Dat ik gekomen ben van een geringen man;Iaa dat ik ben van outs uyt het gemeen gesprooten:Laat zien mijn bestevaâr, die brocht wel eer de krootenIn &apos;t koninklijke Hof, mijn oom dat was een schreur,En mijn vaâr een schoenlapper, of aârs een reperateurVan laarzen, muylen, of van diergelijke zaaken:En om van zulk een staat, tot hooger staat te raaken,Zoo wiert door voorloop van een zijner beste vrient,Hem &apos;t stilleveegers ampt binnen Madril verlient;En mijn moêr, dat mach ik u met de waarheyt toesnakken,Ontsloot de Koningin haar achterpoort als ze zou gaan kakken:En ik bediende voorts het luyzigh ampt, ô bloedt!Daar leeft geen grooter vyandt als ik ben van dat goet,Als ikze betrappen kan, zal mijn nier een ontslippen,Daar beginnenze al weêr, ik moet terstont aan &apos;t knippen;Mijn gevoelen moet heel anders wezen, als Franciscus die hey lige man,Die uyt devocy heele legers van luyzen fokten an:En achtenze kostelijke juwelen, zoo ik in zijn Legende heb gelezen:En zoo dat waar was, bloedt! wat zou ik een groot juwelier wezen?&apos;k Wed men mijns gelijk op de werelt niet en vant;Want het schijnt datze mijn quellen als deze Sant,Die uyt hey ligheyt zoo veel van dit goet aanfokte met hoopen,Dat, hadden &apos;t soldaten geweest, men badd&apos; daar duyzent werelden meê ofgeloopen.
+Flor.Dat men terstondt het Hof rondtom met wacht bezet,Op dat men &apos;s Konings last uytvoere onverlet.
+Fred.Waar mede zullen, Goôn! zulke beginsels enden?
+Pors.Met mijne tranen (ach!) waar mede ik uw ellendenBeweenen zal met smart, ik vreesde op dien daghU te verliezen, toen &apos;t gedacht u Koning zagh.Maar op dien dagh wiert eerst mijn ongeluk gebooren,En &apos;t uwe: wat &apos;s ons min een ongeval beschooren?
+Fred.Men ziet dat naa de nacht, den dagh haar beurt bekomt,Na &apos;t goet het quaat, (mijn lief) schoon ons de nijt verdomt,Ik zie de tijdt alreets van ons geluk gebooren.Ik gaa, vaart wel, ey geeft de moedt zoo niet verlooren.Vaart wel met deze kus, droogt uwe tranen af,Beveelt de wraak de Goôn, aan my de aartsche straf.
+FlorMijn Heer, ik volg mijn last, uw Hoogheyt moet vergevenMy dit begrijp (ô Vorst,) ik word &apos;er toe gedrevenDoor last des Konings, die &apos;t wel halsstark heeft geboôn.binnen.
+Pors.Wat lijdt den Adel door dees ballingschap al hoon?
+Barl.Heliogabalus, schoon hy van dagen nachten,Van nachten dagen, door zijn dwalende gedachtenBestont te maaken, heeft noyt zulk een stuk bestaanGelijk ik hier bespeur, ik mach na binnen gaan,En snuflen &apos;t alles deur; wat ziet men niet gebeuren?binnen.
+Vierde tooneel.Matilde. Porsia.
+Matil.WAar zijtge Porsia, ik kom met u betreurenDit bitter ongeval, my dunkt my &apos;t herre barstIn deze boezem, als &apos;t gedacht dees ramp vervarst.My zy alleen de schult, Seciliën, dat hedenVan een tyran u troon door hoogmoet wordt betreden;Ik heb, tot eygen leet, in mijne borst gevoedtDees Hydra, die my &apos;t hert en ingewandt doorwroet.Goôn, ziet ons lijden aan, &apos;k vloek die genegenthedenDie dwers en strijdig gaan tegens de wet van reden.
+Pors.Uw reên beschulden u, vermits mijn goeden raatBy u niet gelden mocht: daar komt de Graaf, ik laatHaar Majesteyt alleen, zijn oude en wijze radenDie zullen uwe borst ten deel van zorg ontladen,Midts hy ervaren is, ik ga mijn ongelukEn &apos;t u betreuren, ach!binnen.
+Vyfde tooneel.
+Den Grave Pompeo.HOe! leeft gy onder &apos;t juk&apos;t Welk ons zoo lastig drukt, dus zorgeloos? daar hedenUw Ridderschap den wegh der ballingen moet tredenDoor last des Konings, die hun ampten heeft verdeeltOnder &apos;t gemeene volk.
+Matil.Dit manen my verveelt.Wat wiltge dat ik doe? helaas! wat zal ik zeggen?Ik heb gezagh noch kracht zijn wil te wederleggen.Pompeo, geef my raat; want raat in tegenspoetVerstrekt een sterken arts voor &apos;t quijnende gemoet.
+Pomp.&apos;k Toon my schultplichtig aan haar Majesteyts begeeren,Ik heb, om zeek&apos;re reên, met my ten hoof doen keerenEen jongen herder, die in weezen en gelaatDen Koning zoo gelijkt, dat d&apos;alderwijsten raatZou feylen in de keur, ja &apos;t aldergaanste oordeel,&apos;t En zy &apos;t hem was bericht, zou hebben weynig voordeelIn &apos;t onderscheyden, en met dees zal ik bestaanEen stuk, dat u en ons van onlust zal ontslaan.
+Matil.Toon my dien jongeling.
+Pomp.Ik zal hem u vertoonen.bin.
+Matil.O herder! zoo by u zoo veele gaven woonenVan loffelijk verstant, als uw&apos; gelijkheyt lijktDen Koning, zoo die gaaf uyt uwe reeden blijkt;Zoo zal ik, door mijn list, in &apos;t hof bestaan te maakenEen warring, &apos;t is te laat om mijn gedane zaakenTe vloeken; &apos;k neem de list als raatsvrouw nu te baat,Tot redding van mijn volk, en onderdrukten staat.
+Zeste tooneel.Pompeo, en Hendricus in herders kleeren.
+Pomp.DIt is den herder.
+Maril.Goôn! wat zie ik voor mijn oogen?Dit is een wondre zaak; natuur van wat vermoogenZijn uwe gaven, ô! welk een gelijkenis,Ik heylig uwen raat, en zijn geboorte, wisZal dees mijn pijnen en bedroefde qualen stelpen.Zegt herder, hebje &apos;t hert?
+Hend.Om u in als te helpen.
+Matil.Hoe nu! gy antwoort my te greetig, zonder weetWat dat ik zeggen wil.
+Hend.Al schijnt dit boerenkleedMy van aanzienlijkheyt en eere te ontblooten,&apos;k Heb moedt om als te doen, schoon vrouw Naturaas looten,En telgen, zijn mijn wiegh en baakermat geweest;Gobiedt my wat u lust, ziet of ik ben bevreest?
+Matil.Hoe is u naam?
+Hend.Mevrouw, &apos;k wort Hendrik hier geheeten,Een onderzaat des Graafs.
+Matil.Kent gy den Vorst?
+Hend.Mijns weetenHeb ik zijn Majesteyt met oogen nooyt gezien.
+Matil.Ik ben verwondert Graaf, ô hemel! laat geschiênMijn voorneem en begeer, leent my, tot troost der vroomen,U hulp, toont hoe &apos;t verstant kan alle krachten toornen.Treet met my in &apos;t vertrek. Pompeo heeft ook eenVan &apos;t hof dees knecht gezien?
+Pomp.Mevrouwe, neen, ô neen,Hy is bedekt met my in mijn vertrek getreden,Om zeek&apos;re reên, die ik u met gelegentheden,Wel zal verbalen.
+Hend.Ik treê in met uw verlof.
+Matil.O hemel!geeft my rust door &apos;t warren van mijn hof.binnen.
+Zevende tooneel.Matilde, en Hendricus in Koninklijk gewaadt.
+Matil.DOet zoo ik u belast, en om u t&apos; onderscheyden,Zal deze pluym mijn oog ten rechten doel geleyden.
+Hend.Is &apos;t mogelijk, Mevrouw, dat ik hem zoo gelijk?
+Maril.Is zoo, Hendricus, dar zonder dit merk&apos;lijk blijkIk u te zamen zag, my zelfs wel zou bedriegenIn &apos;t keuren, &apos;t gauwst vernuft zou in dar oordeel liegen;Ik moer door listigheyt mijn raden, de natuur,Zelfs overwinnen, en het al te schaad&apos;lijk vuurZijns hoogmoets dempen, en door mijn verdichte listenDit monster temmen, &apos;t welk &apos;s Rijks eendracht banden splisten.Wie zoude zeggen, dat den reyger, die de zonEen schaduw&apos; op der aart wil strekken, immer konDoor &apos;s jagers listigheên, tot eenen val geraaken?En wie zou zeggen, dat als &apos;t noordt bestaat te braakenEen uyrgelaten storm, zoo dat het rookt en barntOp &apos;t strant, en &apos;t brakke schuym bevocht het hoog gestarnt,En dat de golleven de duynen, rotsen, bergenBeklimmen, en de lucht in steyle hoogte tergen.Hoe dat het moog&apos;lijk was het spoorelooze spoorTe banen, daar het schip zijn eerste haven koor;En wie zou zeggen hoe het mooglijk was die dierenTe temmen, die met klaauw, met tant, en gifte vieren,Ten borst gewapent zijn: zonder de listigheydtDes menschs, die &apos;t al verwint; hier meê zy u gezeyt,O Hendrik, dat dit Rijk door nootdwang moet geduldenEen Reyger, die de zon door hoogmoet zou onthulden,Indien &apos;t hem moog&apos;liik was, een zee die altijt dreygtMet onweêr, en een dier &apos;t welk als vergiftig heygtNa zijnen adem, dees moet, door ons listigheden,Zijn wreetheyt tot een trots, zijn op den kop getreden.
+Hend.Al wat de wreede koude en guere winter schent,Wort weêr herbooren door een aangename Lent,Die &apos;t velt zijn eerste verf, en groente doet bekomen,De vogelen haar zang, de looverlooze boomenHaar vruchten, bloemen, kruyt; al wat de noortvorst heeftGeplondert, en verdelgt, de zoete Lente geeft,Hoogwaardige Vorstin, hier meê wil ik betoonen,Dat, alzoo lang dees list uw boezem zal bewoonen,Seciliën voortaan twee Konings voeren moet,Den eenen tot bederf, den andren tot behoedtHaar &apos;s levens, nu voortaan, al wat dees Vorst zal binden,Zal ik, op u bevel, te niet doen en ontwinden;Op dat door dit bedrogh zijn al te hoogen moedt,Door zulken warring, komt te vallen voor uw voet.
+Mat.Schoon gy twee beelden zijt, gevorremt na elkander,Nochtans moet uw bevel, en &apos;t zijne van den anderGeheel verscheyden zijn, midts gy voortaan te nietMoet maaken, al &apos;t geen dees hoovaardige gebiedt:Zoo lang den Koning slaapt, zoo zult gy van beveelenU niet onthouden, om een Konings rol te speelen.&apos;k Zal uw beboedster zijn, Helena.Helena uyt.
+Helen.Wat &apos;s u wil?
+Matil.Gaat zegt aan Floro, dat zijn Majesteyt hem stilAlleenig spreken wil, van zwaar en groote zaken.
+Helen.Mevrouw, &apos;k volbreng uw last.bin.
+Matil.O hemel! wilt ontslakenDe banden mijns verdriets.
+Hend.Ik ben in &apos;t hert geraakt.
+Matil.Hendricus, ik vertrek.
+Hend.&apos;t Is reden dat men waakt.
+Matil.Ik ga, volbreng uw last.
+Hend.De Oppermacht wil geven,Datge door deze vondt het ov&apos;rig deel uw&apos;s levenGelukkig einden moogt.
+Matil.Den hemel u behoedt.bin.
+Hend.Ik was noch gisteren een herder, opgevoedtIn velden, bossen, waar verachte lieden woonen,En nu staan ik alhier, om yder te vertoonenDe grootheyt en &apos;t ontzagh eens Konings, by aldienWanneer het lichaam slaapt, de ziele &apos;t gaat ontvliên;Zal ik, terwijl hy rust, zijn schaauw en ziele wezen,Ik zal zijn groot gewelt verbreken, en door dezeMijne gelijkheydt, aan Seciliën doen zienDat d&apos;hoogmoet voor &apos;t bedrogh, en haar gewelt moet vliên.Wy zullen als Castor en Pollux &apos;t licht verdeden;&apos;t Licht deelen van zijn macht: &apos;k begin mijn rol te speelen.
+Helen.Floro zal datelijk hier by u Hoog heydt zijn.
+Hend.O hemel! wie is dees? wat held&apos;re zonneschijnOmnevelt mijn gezicht? en met u waardighedenKomt Flora voor godes in d&apos;oudtheyt aangebeden;De Griekse schoonheyt die zich aan uw naam verplicht,Maar niet aan uwe leên, komt met u, uw gezichtZou klemmen doen de mont van die goddin, die &apos;t roemenHaar &apos;s lofs, u ziende, straks verachten zou, en doemen:Helena blijf, ey blijf, laat my &apos;t volmaakt gebouw&apos;t Welk uw gezicht verrijkt) aanschouwen, ach! wie zouwNiet dwalen in zoo veel verscheyde schoonighedenVan schoonheyt, ô! volmaakte en juystgestelde leden:Denkt niet vergoode maagt, dat dees mijn doente strektTot vleijen, neen, ô neen: mijn ziel won opgewektDoor de nieuwsgierigheydt der oogen, die &apos;t beveelenDoor &apos;t zien volbrengen aan d&apos;onzichtbaarlijke deelen.
+Hel.Indien uw Majesteyt met voorbedachten raatAanschouwen wil Mevrouw de Koningin, &apos;t gelaatHaar &apos;s weezen, zal &apos;t gezicht uw &apos;s oogs een wonder strekken.
+Hend.Een nieuwe schoonheydt kan bey d&apos;hert en oogen
+Hel.De omtrek die Natuur dees mijne leden gaf,En zijn niet waardig die te roemen; ey laat afVan vleijen, met verlof, wilt my ten besten houwenMijn Heer; wie hoorden oyt, dat een, die de gebouwenDes hoogen hemels ziet, zal kiezen voor die keurDe aartsche, deze reên uw vleijen stelt te leur:Wie zal, aanschouwende de helle StaatgoddessenVan Phaebe; zijn gezicht, en grooten yver lessen,Om die t&apos; aanschouwen in de kristalijne vloedtVan Tetis, &apos;t zy by reên en reden schoppen moet?Ik acht zijn Majesteyt den inhoudt van mijn redenTen vollen heeft verstaan; met uw verlof, want hedenMy &apos;t blijven niet betaamt, indien haar Hoogheydt quam.binnen.
+Hend.De schoonheyt voert &apos;t gebiedt over de ziel, de vlamDer zelleve berooft de zinnen hare krachten.Flora uyt.Mijn Heer, de Gouverneur, en Kapiteyn verwachtenMet ernst na uw bevel.
+Hend.Men doetze binnen staan.binnen in weêr uyt.
+Achtste tooneel.Libio, Arnesto, en Floro uyt,
+Hend.FLoro, ik wil zoo straks den Adel weêr ontslaanVan hunne balling schap, en voorts ten Hoof doen keeren.&apos;k En mach d&apos;eerwaardige zoo reukloos niet onteeren:Zoo iemant van hun al, voor dees bewezen eerOns komt bedanken, zoo zult gy &apos;t gebodt uw &apos;s Heer,Schoon hy zich toornig veynst, volbrengen noch nakomen;Om zek&apos;re reên wort zulks by ons ter handt genomen.En gy, schoon of mijn toorn u tot aan &apos;t leven tast,Zoo dult, en geeft geen reên, als dat ik &apos;t heb belast.Arnesto, of ik u beveel de stadt te mannenMet borg&apos;ren die verwoedt nu tegens d&apos;Adel spannen,Zult gy tegens &apos;t gebodt uw &apos;s Konings voor die tijtAannemen &apos;t eerloos schilt van ongehoorzaamheyt.Dit strijdige bevel, is strekkend om mijn landenTe vrijden van &apos;t gewelt der hatende vyanden:Dit moet zoo volgen, voort, slaat mijn beveelen gaê;Dat gy niet werkt uw schant, noch &apos;s Konings ongenaê.
+Arn.Wy volgen uw bevel.
+Hend.Gy Heeren, ik zal heedenU met meer ampten als voorhenen gaan bekleeden;Want ik Octavio, nu heden overgeefUwe papieren, en Pompeo uwen neefDe garde, Frederik zal slot en stadt gebieden:Ik wil met eerder eer verheerlijken u lieden.
+Libio.Wy zijn u dienaars, en met u verlof wy gaan.
+Hend.Volvoert u last, u Vorst vindt heden zulks geraân.Voorwaar &apos;k had noyt gedacht, dat ons gelijkenisseZoo veele oogen doen in keur, en oordeel misse.Met welke angsten gaf mijn ziel de woorden aanDe tong, hoe was mijn borst zoo met de vrees belaân.
+Negende tooneel.Matilde uyt.
+Hend.HOe gaat het?Noch toe wel.
+Marild.Den koning is voorhanden,Hendricus, Karel komt, verschuylt u, &apos;k zal mijn landenZoo lang dees aanslag duurt, van &apos;t dreygend&apos; ongelukBevrijden, en met list weêrstaan dit lastig juk.Ik luyster, daar &apos;s de Vorst.binnen.
+Tiende tooneel.
+Karel met een open brief.POrsia met wat woorden,Met welk een wreetheydt om mijn ziele te vermoorden,Beantwoort gy mijn brief? doch wat volmaaktheyt leeftHier zonder hoogmoedt? en wat schoonheyt, daar niet sweeftDe strenge wreetheyt? (ach!) maar in wat naberouwen,En knaging raakt die geen, die op die schoonheyt bouwen?O! brief, tyran mijns hoop, die mijne quaal vergroot,En in u omtrek huyst het vonnis van mijn doodt;&apos;k Herlees u andermaal: maar waar &apos;s &apos;er een geboorenDie tweemaal d&apos;uytspraak van zijn sterven tracht te hooren?&apos;k Min u met zulken min ondankb&apos;re, dat &apos;t gedacht,(Wanneer de ziel wanhoopt van uwe gonst) de krachtVan reên en reden breekt, zoo dat ik in mijn minne,Alleen geen min, maar een verharde hartheyt vinne.Maar hier van al genoeg, mits d&apos;ongelegentheytVan hare komst.Matilde uyt.Mevrouw, ziet de genegentheytEn liefde van die geen, die u volmaakte ledenAl lange heeft geviert, met vierige gebedenIn &apos;t middelpunt zijns herts (goôn!) hoe de ziele haaktNa uwe spraak, ey spreekt, en &apos;t nortse swijgen staakt.
+Matil.De twijfel boeyt mijn tong met reden om te spreken,Mits d&apos;ongewoonheyt van u vleyery.Frederik uyt.Tot tekenVan plicht en dankbaarheyt kus ik u hand, mijn Heer,De blijdtschap grooter is, terwijl ik wederkeer,Als eer de droef heydt om als balling te vertrekken.&apos;k Blijf u verbonden slaaf.
+Kar.Hoe! zoekt men my te wekkenTot toorne, wat is dit?
+Elfde tooneel.
+Pompeo uyt op de knyen.GEnoegzaam loon genietMijn trouw, terwijl het oog u straf en wreetheyt zietIn gonst veranderen.
+Karol.Wat zal ons hier ontmoeten?
+Twaalfde tooneel.Octavio uyt op de knyen.IK kus genadig Heer, u waarde en heyl&apos;ge voeten,En treê met dankbaarheyt in d&apos;hemel van uw macht,Op dat u voor &apos;t gezicht mijn trouwheyt zy gebracht.Uw dienaar hoopt voortaan in de vergoode stralenUw &apos;s gonsts, een zoete lucht, gelijk voorheen, te halen.
+Dertiende tooneel.Floro uyt.
+Karel.HOe! Floro gaat mijn hof met schelmery vermast?
+Floro.Neen Heer, &apos;t geen hier gebeurt, grijpt oorsprong uyt uw last.
+Karel.Zult gy aan my, u Heer, zoo dwazen antwoordt geven?En laat mijn tooren u noch in haar gramschap leven?Is mijn gedult zoo groot? ik vraag u andermaal,Of door mijn last dees drie verschijnen in mijn zaal?
+Floro.Hoe is dit veynzen, Heer, het schijnt u ernst te wezen?
+Karel.De doodt en is zoo niet te duchten, noch te vrezen?Als mijne toornigheyt, die als een AEtna brant.Ziet wie zich tegens my en mijne grootheyt kant;Wat wilt gy arreme, en weerelooze wormenMijn groot heyt (welkers kracht noyt Tifon kon bestormenDoch ondergraven, goôn! hou, hola, Kapiteyn.
+Veertiende tooneel.Libio uytWAt wil zijn Majesteyt?
+KarDees, die zich tegens mijnDoor hoogmoedt zetten, en door eygenbaat belonkenMijn kroon, dat gy die sleept naar d&apos; uyterste spelonkenVan &apos;t Montebels gebergt, zoo wort de wraak voldaanAan schelmen, die door list hun Vorst en Heer verraân.Siciliën, gy zult door mijne gramschap weten,Dat uwen troon niet van een koning wordt bezeten,Maar van een helsen droes, die staâg na wreetheyt dorst.
+LibioWel hoe! mijn Heer, gy spreekt niet als een reedlijk Vorst,Voor wien den Oceaan met zijn yvoore schuymenGantsch onderdanig buygt, laat uwe borst inruymenDe reden (groote Vorst) uw hevigheydt bepaalt;Mijn Heer, de gulde Zon het aardtrijk niet bestraaltMet een gelijke warmt, noch door zijn glans te bergenVeroorzaakt hy het ys, noch gaat de noortvorst tergen,O neen! in &apos;t minste niet, mits hy om d&apos;aardtkloot gaatGezatig, en houdt streck, juyst op de middelmaat.
+KarelIk zeg u andermaal dat gyze neemt gevangen.
+LibioMijn Heer, &apos;t en kan niet zijn.
+KarelVerft schaamte niet u wangenOntrouwe? neen, ô neen! dees al te hooge moedtAls aamtocht van &apos;t verraat, is by u niet gevoedt,Maar wel by n Vorstin, die &apos;t schelmstuk gaat verzellen,Door dien de maan, alleen door hoogmoet, zich derft stellenTegens de gulde zon, maar hare hoogmoedt zinktEn duykt, zoo dra de glans haars broeders haar omringt.&apos;t Is waar, het machtig rijk is u geweest voor dezen,Maar nu is &apos;t mijn. ô neen! &apos;k ben door u niet gerezen,Noch door uw keur en tak, geraakte ik tot de kroon;Mijn onverwinlijk hert, en moedt, heeft my dees troonRechtvaardig ingeruymt; maar re geringe kustenBezit ik, in wiens schoot de werelt hoort te rusten.Arnestus.
+Vyftiende tooneel.Arnestus, Karel, Matilde.
+Kar.WEl wat is zijn Majesteyts begeer?Zegt de Gemeente aan dat zy ren dienst baars HeerZich waap&apos;nen met geweer, om zoo met kracht van mannenDen Adel uyt mijn hof, en koninkrijk te wannen.Gaat heen volvoert u last dat uw getrouwheyt blijkt.
+Arnest.&apos;t Is recht, noch reên mijn Heer, gy zulken vonnis strijkt,Gy dempt, en dooft den glans van u vergode oudersDoor deze daadt, en torst elks haat op uwe schouders.
+KarelHoe! voert gy ook &apos;t gebiedt.
+Arnest.&apos;k Volvoer u last met schrik.binnen.
+Karel.&apos;k En twijffel niet of &apos;t is het hemelsche beschik.
+Matil.&apos;t Is &apos;t hemelse beschik, door dien wy moeten leeren,Uyt zijn voorschikking hier gezatig te regeeren;Want d&apos;hoogen hemel stelt ten toon voor ons gezicht,Altijdts op eene maat het goddelijke licht.Waaromze ook heeft gemaakt onder haar gulde merkenEen schaal, om dit gebodt met meerder kracht te sterken;Waar meeze scheyt het licht van &apos;t duyster: deze wetHeeft Godt met eygen handt in &apos;t reed&apos;lijk breyn gezet.&apos;t Welk leert gezatig zijn, dit &apos;s uyt hun niet gesprooten,Maar wel nyt mijn; want als de reên bun zien verstoten.Gekrenkt, en neêrgestort, beurenze met meer kracht,Als voor hun heyl ge kruyn, waar doorze zijn geachtVoord&apos;andere Natuur by &apos;t vrye volk, die wettenIn plaats van Vorsten op hun gulde zeetels zetten.Ey zegtme doch waar door de ziel wort onderscheytVan andere schepselen, als door de reed&apos;lijkheyt?Toen in &apos;t begin den mensch most deze schoonheydt derven,Brak d&apos;eendrachts knoop, en al de zeden samen sterven.&apos;t Gemeen gaf u de kroon, in haar ontbrak de trouw;In u de reden, dies ik vast en zeker houwDat door tyranse kracht geen kroon mach zijn genoten,Hier door gy kennen moet dat gy u zelfs vergrooten,En plaatsten u met kracht in &apos;t opperste gezach.Ik heb u niet gekroont, dies blijf ik van dees dagRegente van het rijk, gy, die gy waart voor dezen.bin.
+Kar.Vertoeft, vertoeft Mevrouw.
+Fred.Arnestus, wat zal &apos;t wezen?Waarom bracht gy ons hier terwijl de tooren brandtDes Konings?
+Arnest.&apos;t Is geveynst, en zonder mening, wantZijn Majesteyt my zulks belasten, die om reden,U met de stadtsvoogdy op heden wil bekleden.
+Libio.&apos;k Acht my gelukkig, wijl ik zulken last beleef.
+Floro.Den Koning wil dat ik mijne papieren geefOok van Octavio.
+Libio.Tot betring van uw schanden,Stelt hy de garde. Graaf, in u genadens handen.
+Fred.Laat ik, ô groote Vorst! voor dees gedane eerUw handen kussen.
+Pomp.Zulks is echter ons begeer.binnen.
+Kar.Mijn ziele neemt gedult, blus uyt de vier&apos;ge hettenUw &apos;s toorens, wilt de wraak bestekte palen zetten;Gebruykt in deze zaak de raden uw &apos;s verstandt,Terwijl zich rijk en volk tegens u voorwerp kant.Komt huwt u aan de list, om onder schijn van reden,Dees wederwaardigen onder u voet te treden.Ontrimpelt my het breyn, gy, die met deugt vermomtDe ondeugt toyt, en &apos;t goedt door uwe schijn-gonst domt.Ik zal de toorts mijns wraaks, die my het hert doet branden,Bloedtplengende Belloon, u leveren in handen,Tot schraging van mijn kroon: &apos;k zal onder d&apos;oorlogsschijnMet Napels, aan dit rijk doen slurpen het fenijn,Waar mede ik zwanger ga, en hier door zal ik royenDen Adel, en het werk van mijne wraak voltoyen.&apos;t Welk daatlijk moet geschiên, eer dit oproerig rijkMijn macht ontwast, en maakt my levendig een lijk,&apos;t Welk licht voor het verricht aannemen zou den yver.Mijn pagie gaat terstondt, zegt mijn geheymeschrijverDat hy alhier verschijnt, met d&apos;hooftman van mijn wachtEn stadtvoogt; voort ga been, neemt mijn bevel in acht.
+Zestiende tooneel.Pagie, Octavio, Frederico, Pompeo, en Floro uyt.
+Kar.WAt duyvel zal dit zijn, wel hoe! wat zullen dezen?O hemel! wat gedult kander zoo krachtig wezen,Die mijn getergde wraak in redens kreyts bepaalt?Ten waar mijn eer.
+Fred.De Vorst schijnt van de reên verdwaalt?&apos;t Geen gy voor oogen ziet, is uyt uw&apos; last gesprooten.
+Kar.Zegt schelmen, wie u met dees ampten ging vergrooten?De wraak springt uyt den bandt, en holdt met wijde schreênIn &apos;t koninklijke breyn, &apos;t en kan niet zijn geleên.Ik vraag u andermaal, verraders, wie dat dezeBedieningen u gaf?
+Pomp.Wy zijn door u gerezenTot deze staat.
+Kar.Door my, gy liegt het alle drie,Gy schelmen, daar ik trouw, noch dienftbaarheyt in zie,
+Flor.Uwe vergetenheyt en moet niet zijn geboorenUyt uwe veynzery, als u geveynsde tooren.Mijn Vorst, ik bidd&apos; dat gy dees hevig heyt verzet,Het koninklijke woort is voor &apos;t gemeen een wet;Men ducht met reên voor een beveynsde Konings tooren.
+Kar.O schelm! uyt u alleen is al dit werk gebooren.&apos;k Sweer ik u straffen zal. Fredrico, &apos;t is geen recht,Dat d&apos;oorlog door &apos;t verzuym mijns traagheydts blijft geslecht,Waar door Siciliën zijn adem plach te halen,Als het uytbreyden zou zijn welbezette palen.Gaat heen, verzaamt het volk, &apos;t welk eertijdts de banierMijns voorzaats heeft gevolgt, ik wil door &apos;t oorlogsvierTot niet vermorsselen &apos;t rijk der Napolitanen,En mengen d&apos;as met bloedt, en uytgestorte tranen,Op dat de werelt voelt dat hier een Tethis zoonOp haar vier deelen slaat den strengen oorlogstoon.
+Fred.Met alle vlijtigheyt zal men uw last volvoeren.
+Kar.En ik met ernst mijn wraak, tza doet de trommels roeren.Octavio.
+Octav.Mijn Heer.
+Kar.Verzeker dezen gast.
+Flor.Verwacht ik zulken loon; ô al te strengen last.Mijn Heer, gy hadt gezeydt uw toorn geveynst te wezen.
+Kar.Wel beelt gy u zulks in, zoo hoeft gy niet te vrezen.
+Barl.Recht, recht, Heer Koning, recht.
+Kar.Wie derft mijn tooren breeken;En vordert recht, wie is &apos;t, wie wil den Koning spreeken?
+Barl.Niet mijne gierigheyt, maar wel een zak vol klacht,Heeft my onder &apos;t gezicht van u, mijn Heer, gebracht.Ik bid ootmoedelijk, dat gy doch aan wilt hoorenHet ongelijk het welk uw dienaar is beschoorenVan een ondankb&apos;ren Heer, die hem zeer heeft verstoort.
+Kar.Wat is &apos;t voor een? zeg op.
+Barl.&apos;t Is Karel, met een woortZal hy my wel verstaan.
+Kar.Die kent u gantsch niet schuldig.
+Barl.Ia die ontkent genoeg die niet betaalt, zorgvuldigHeb ik hem steets gedient, en als ik zulks verhaalZoo is hy doof, dies ik hem met het woort betaalIn d&apos;ooren blaazen moet.
+Kar.Hy zal u wel betaalen.
+Barl.Hy zal, maar zeg wanneer, of waar zal ik het haalen?
+Kar.&apos;k Blijf borge voor zijn schult, gaat heen, en zijt te vreên.
+Barl.Zoo gy hem kent mijn Heer, betaalt voor hem, de reênGebieden zulks mijn Prins.
+Kar.Ik laat u.
+Barl.O waarachtig,&apos;t Woort laten groote Vorst, dat luyt te sterrefachtig,&apos;k Loof niet gy sterven wilt, ô dat &apos;s zoo braaf gezeyt,Daar Barlovento dat schenkt u mijn mildigheyt;Dat luyt veel beter als &apos;t woort laten in de ooren;Als gy van laten spreekt, gaat al mijn moet verlooren.
+Kar.Ik zegh u, dat gy gaat zonder gespreek of eys.
+Barl.Ik sterf, och, och, ik sterf, zegt gy dat noch een reys.
+Kar.Ik zeg u, gaat van hier, wilt gy mijn toorn ontslippen.
+Barl.Waar duy vel zou ik heen, aan d&apos;oever by de klippenGaan moslen zoeken? hoe, wijst gy my zoo van kant,En onbeloont mijn Heer, dit is te grooten schant?
+Kar.Gaat heen, haalt pen en inkt, &apos;k zal my mildadig toonëAan u; want ik u schenk tot loon twee duyzent kroonen.
+Barl.Ik kus u handt, maar neen, wech handt, ik kus u niet,Voor dat mijn oog dees gift, van u gegeven, ziet.Tza wakker dat is gang; maar wat heb ik vergeten?Is &apos;t jaarlijks, of voor eens? dat dien ik wel te weten.
+Kar.&apos;t Is jarelijks, gaat heen.
+Bar.Wel dat komt zeeker fijn,Van nu zoo zal mijn naam, Don Barlovento zijn.Porsia uyt.Ik keer weêrom, vermidts ik gins den Konink zie.
+Kar.Porsia blijft, ey toeft, dat ik u vrage wieOyt hoorden, dat den dagh met haar vergoode stralenZich bergde voor het oog haars minnaars? ey laat dalenDees wreetheyt, mijn goddin, de zon keert noyt de rugNoch deyst: hoe welft uw haat mijn min zoo&apos;n steylen brug,Ach! laat ik door mijn klacht uw snelle vlucht verletten.
+Pors.De schaduw, Heer, en kan zich tegens &apos;t licht niet zetten;Vermits men by de zon een Konings macht gelijkt,Ik by u maar een schaâuw, &apos;t is reên de schaduw wijkt:Uw tong wijdt in het tal der hemelsche Goddinnen,Daar zijnder waardiger in &apos;t machtig Hof te vinnen,Om zulke vleyery te hooren, boven alHelena, die men stelt in &apos;t goddelijke tal.
+Kar.Ik bid u Porsia doch u gedult te lengen,Ey wilt uw schoonheyt niet met uwe wreetheyt mengen,Toont u gezatiger, zie wie hier smeekt en kermtOm uwe min, erbarmt die om uw liefde zwermt.De schoonheyt van mijn Hof, moet voor uw schoonheyt wijken,Gelijk de schaâu voor &apos;t licht, &apos;k zal &apos;t met &apos;er daat doen blijken,Gy overwintze al, gelijk den diamantDe kroon van al &apos;t gesteent in waard&apos; en luyster spant.En wat belangt Heleen.
+Zeventiende tooneel.Helena uyt, luysterende.HAar oogen zijn een schaduwVan d&apos;uwe, die &apos;k noyt prees of minde oyt: ja uw,Uw schoonheyt heeft geen ga, al gaf aan my de zeeHaar schatten, en de aart haar scepters, dat mijn reeVan dees tijdt blijft vervloekt, indien ik haar beminne,Een vrouw die...
+Hel.Houdt mijn Heer, laat reden u verwinnen.Ben ik die geen (ô Vorst!) wiens wangeschapen leênU zoo mishagen? ja nochtans toen uw gebeênMy offerden de zucht uw &apos;s vleyery, toen warenOnschatbaar deze leen, vergult dees blonde haren,Toen was ik een Goddin, een Flora; maar ik zie,Dat gy uw schijngonst glimpt met woorden, hemel, dieIk altijdt danken zal met vierige gebeden,En looven, mits gy my zijn vleyery ontleden.
+Kar.Helena, zeg wanneer ik u de bynaam gafVan Flora? zeg wanneer zoo sprak ik n? laar afVan zulke reên, gewis gy hebt u zelfs bedroogenDoor &apos;t droomen, en verschijnt voor ons met slapende oogen.
+Hel.Gewis mijn slaap is met uw vleyery ontwaakt.bin.
+Pors.&apos;t Is reên zijn Majesteyt voor my zijn vleyen staakt.Waarom bedriegt gy my met woorden zonder meenen?Het is my lief, dat hier Helena is verscheenen,Noch liever u te zien veranderlijk in min.
+Kar.Ey toeft, mijn waarde, toeft, verzet dien wrev&apos;len zin,Die my mijn ziele moort, moet ik mijn hartje derven?
+Pors.Wel blijft gy zonder hart, zo zijtge vry voor &apos;t sterven.
+Kar.Waar vlucht gy mijn Goddin?
+Pors.Die naam aan Flora geeft,Waar die is een Heleen, geen darde schoonheyt heeftVan noode.
+Kar.Ach waar heen?
+Pors.Om uwe vrucht te vesten,Vertrek ik. Laatme los, het is uw min ten besten.
+Kar.Helena liegt, mijn lief.
+Pors.Wanneer de zonne licht,Is &apos;t billik dat Diaan met haar gezelschap zwicht.
+Kar.Hoe! is uw borst, mijn lief, met minnenijt bezeten?
+Pors.&apos;t Hert &apos;t welk noyt liefd&apos; bezat, en heeftze noyt doorbeten.
+Kar.Zijt gy ondankbaar dan darge geen liefd&apos; beloont?
+Porsia.Neen, eerelijk en kuys, &apos;k bid mijn vertrek verschoont.binnen.
+Kar.Z&apos;is wegh, ô hartenwee. wat brouwen uwe lagenHelena, in dees borst onlijdelijke plagen?Zeg valsche vrouw, waarom heeft uw vervloekte list,Tot Karels leet dees vondt uyt Acheron gevist?O schichtige ommezway, ô duyvelse gedachten,Uw vierschaar zy gevloekt, uw werking en betrachten.O! onverwachte slag. Helena, &apos;s hemels strafDreygt uw vervloekte kruyn, haar haat, en Karels graf.binnen.
+                
+            </div>
+    
+    
+    
+            <div type="act">
+                
+                    
+Derde bedryf.Eerste tooneel.Matilde, en Henderikus.WIlt nu, ô Henderik, mijn last en wil ontrouwen,Ik ondertusschen, zal gaan Karel onderbouwen;Die door tyranse kracht, mijn oudt en wettig erf,Te brengen tracht (ô spijt!) tot &apos;t uyterste bederf.Gy zijt de noort en &apos;t licht, waar ik het schip van redenNa stuer, en wederstaâ zijn trotse moedigheden.Gy zijt de stem en tong, door welkers aamtocht, ikDe zaaken van dit Rijk, ontvoogt, als voogt beschik.
+Hend.Indien ik met mijn bloed uw kroon en staat kon vesten,Uw dienaar gaf &apos;t Mevrouw gewilliglijk ten besten;Gebiet my wat u lust, &apos;k ben willig en bereytTe doen, wat my van u zal werden opgeleyt,&apos;k En kan de goê natuur niet danks genoeg betoonenVoor de gelijkheyt die in my en Karel woonen,Als strekkend&apos; tot u heyl.
+Mat.Vaart wel, en zijt gerust,Zoo lang ik voor u waak, blijft uwe zorg gebluft.
+Hend.Ik heb de vrees al lang uyt deze borst gestooten,Mevrouw, in uwe zorg is mijne zorg geslooten.Mat. bin.
+Tweede tooneel.Helena uyt.HOe lichtlijk wort een vrouw bedroogen, die het oorLeent aan de vleyery eens Minnaars, en gehoorGeeft aan hun yl geklap: maar waar is die te vinde,Die haar inbeelt, te zijn een lukkige beminde?Nu &apos;t leven is bedrog, een strik daar elk in valt,Gelukkig is die geen, die over haar gestaltEn schoonheyt zich niet roemt. Ziet zich den Vorst vertoonenGins in de zaal, &apos;k vertrek.
+Hend.Wel zijt gy daar, mijn schoone?
+Hel.Hier ben ik, maar niet schoon.
+Hend.Gy doet u ongelijk,Dat gy u zelfs misprijst, wijl ik een oordeel strijkOp redens grondt gevest; waarom wilt gy bedelvenUw schoonheyt met dit floers? waarom toont gy u zelvenOndankbaar? en ontkent &apos;t geen u den hemel gaf,Zoo gy hem niet bedankt, zelfs voor u zelfs, de strafDie d&apos;hemel altijts pleeg d&apos;ondankbare te wyen,Zal, tot u eygen leet, Helena, op u glyen.Looft, die u loven doet, de gaven een voor een,Waar meê gy zijt geciert, zijn waardig aangebeên.Uw welgestelde leên, en schoonheên, elk byzonder,Zijn meer als menschelijk, en voor elks oog een wonder,U oog beneemt en geeft het blaauw gewelf zijn licht;De zon houdt zelf te leen zijn glans van u gezicht.Iaa dat den donderaar uw schoonheyt quam te naaken,Ik weet hy d&apos;hemel liet, en zou zijn woonplaats maakenIn dit albast gebergt, op welkers kruynen staanTwee kaarsen, die robijn in gloet te boven gaan.De gadelooze glans uw &apos;s schoonheyts, doet my grievenHet hert, &apos;t welk lust verwerpt, en plaatst voor lust de liefde.
+Hel.&apos;t Is wonder dat uw tong &apos;t geprezen dus misprijst:En weêr &apos;t misprezen nu zoo grooten eer bewijst.Gaa heen naa Porsia, ik ken uw listig vleyen,Hoe! meent gy door uw tong my verder te verleyen?Neen Heer, &apos;t is al te laat, gaa keert u na die vrouw,Na die goddin, die zon die u verlicht, hoe zouwEen slapende, als ik, een Konings hert ontsteeken?Neen, gaat na die Sireen, hier &apos;s vruchteloos u smeeken,Die schoonheyt die gy flus zoo boven and&apos;ren prees,Laat die de arts uw &apos;s quaal vertrekken, nu voor deesTijdt al genoeg: ik gaa.
+Hend.Helena, door dees woordenZult gy uw Konings hert vernietigen, en moorden.Ik zweer u by mijn hooft, dat u geprezen schoonNoyt door dees losse tong geplaarst is uyt haar troon,Porsia moet voor u, gelijk een wolk, verdwijnen,Uw minnaar kent geen schoon, als daar uw fakkels schijnen;Ik zweer &apos;t u andermaal, dat, die &apos;t u heeft bericht,Tot breeking onzer min, het valschlijk heeft verdicht.Porsia uyt, luysterende.Den hemel wil mijn Rijk met eeuw&apos;ge plagen straffen,En my, zoo &apos;k haar bemin, rechtvaarde loon verschaffen.
+Hel.O hemel! wat ik hoor, &apos;t is vruchteloos gekermt.
+Hend.Ik merk dat hier ontrent den Koning heeft gezwermt.
+Pors.Nu mach voortaan de zon, en al de and&apos;re dingenWaar gy my by geleekt, triomf en vreugde zingen,Over de rust die haar u wisseling bereyt;Dank zy den hemel, dat gy weêr genezen zijtVan deze ziekt. Princes Helena, zijne reden,Hebben aan ons in &apos;t kort veel wonders doen ontleden.
+Hel.&apos;t Is waar, met u verlof, dat ik zijn tooren vliê.Hel. bin.
+Hend.Helena blijft, ey blijft.
+Pors.&apos;t Is wonder wat ik zie.
+Hend.Zoo ik Porsia min wil my den hemel straffen,En na waardy mijn Rijk rechtvaarde straf verschaffen.
+Pors.O hemel, zijtge zoo stantvastig in uw min!
+Hend.Wat ik toen heb gezeyt neemt heden noch begin,&apos;k Heb uwe trouw beproeft; om zulks geloof te geven,Zult gy van dezen nacht, het wit uw &apos;s wil beleven,En trouwen Frederik, die &apos;k weet dat u bezint.
+Pors.&apos;k Heb u te danken, nu bevindt ik gy my mint.Den hemel wil de Vorst deze mildadighedenVergelden: dat uw naam van elk wort aangebeden.Porsia binnen.Barlorvente met pen en inkt uyt.Kent gy &apos;t groot A.B.C. ô grooten Alexander!Zoo schrijft op dit papier, vervolgens na malkander,Eens zeven letteren met deze mijn penseel,Die uyt een ganzewiek mijn vroomheyt viel ten deel,Tot vordring van mijn staar.
+Hend.Wie derft zich hier vertoonenMet dit Notaris tuyg?
+Barl.De oudst&apos; van Momus zoonen;Wel dat komt zeker schoon, dat ik hier by u kom,Is om mijn rente, hoe mijn Heerschap, benje krom?Of zoekt gy Barlovent door praat in slaap te wiegen,Een Koning moet zijn knecht door woorden niet bedriegen:En spot niet met uw slaaf, door dien een Koning moetAan groot of kleyn, het zy in &apos;t quade, of in &apos;t goet,Met welgegronde reên, na tijts voorvalling spreken,Hier door de Majesteyt by &apos;t godd&apos;lijk wort geleken,Ook goddelijk ontzien; en gy, wiens mont &apos;t gebiedtVan reden kracht, en hier als goddelijk bezitDe opperst&apos; heerschappy, kunt met een pen betalenTienjaar&apos;ge dienst, men Heer, verrijk my met de stralenVan uw mildadigheyt, teykent, mijn Prins en Heer,Een al te kleynen gift noch voor uw grootheyt, d&apos;eerDie gy my daar door doet, zal ik met lettren grievenIn &apos;t getafreelde boek van dankbaarheyt, ey lieve!
+Hend.Ik weet hier gantsch niet af: dat &apos;s al uyt mijn gedacht.
+Barl.Ik ga dan heen.
+Hend.Waar heen?
+Barl.Al zoetjens, zacht, zacht, zacht,En vragen d&apos;Edelen, die straks daar buyten stonden,Of een van allen uw gedachten heeft gevonden.
+Hend.Ga voort uyt ons gezicht.
+Barl.My dunkt ik wort betaaltHier met vergetelheyt, ondankbre handt, komt maaltHier &apos;t loon van mijn verdienst.
+Hend.Lang hier papier.
+Barl.Met eerenKondt gy van uwen slaaf de rechte miltheyt leeren,Die yverig volbrengt het geen gy hem gebiedt.Hendrik scheurt het papier.
+Hend.Zie zoo betaal ik &apos;t geen dat u niet toekomt: zietHet Koninklijke erf zal zulk een schult nooyt kennenVoor eygen schult; ga heen.
+Barl.De pokken moet je schennen,Dat gy mijn trouwe dienst met zulk kleyn gelt betaalt,Nu dat u &apos;t gantsche Rijk voor een tyran vermaalt.Zijt gy dan, zoo gy zegt, alleen voor my rechtvaardig?En is mijn trouwe dienst zulk een belooning waardig?Wort mijn gedienstigheyt met zulk een loon beloont?Maar nu bevind&apos; ik &apos;t geen gy ellek hebt betoont.
+Hend.Mijn Pagies! holla houdt.Twee Pagies uyt.
+Pag.Wat wil zijn Majesteyt?
+Hend.Ga henen, brengt dees boef daar de hertnekkigheytDoor water, vuur, en wicht wort uyt haar plaats gedreven.
+Barl.Ik heb zulks nooyt verdient. wel hebt gy van uw leven?
+Hend.Al wat een Vorst gebiedt in &apos;t quade of in &apos;t goet,Dat moet een onderdaan voor lief in zijn gemoetEn boezem kroppen; voorts moet hy geen rechter wezenVan &apos;t Koninklijk gebodt dat men behoort te vreezen.&apos;t Geen dikmaals by &apos;t gemeen onrecht geoordeelt wortIs by ons recht, als uyt den Hemel neêrgestort.De Koninklijke macht, hun wetten, en gebodenVertoonen hier op d&apos;aardt d&apos;afbeeldsels van de Goden,Mits in de zelve zoo onkunbre wegen zijn,Als in de Godtheyt, voorts.
+Barl.Is &apos;t waarheyt of is &apos;t schijn?
+Hend.Gaat leydt dien booswicht nu zoo daatlijk uyt mijn oogen,Ik kan zijn yd&apos;le klap hier langer niet gedoogen.
+Barl.Wel hoe springt gy zoo hoog? voor eerst van een soldaat,Naar een Marquies, en weêr van die verheven staatTot &apos;t Koninklijk gezag, en nouw weêr omgesprongen,Tot &apos;t ampt eens Predikers, of Farheer, nu een jonge,O bloet! dat sinnen beuls.
+Hend.Ga voort, en wilt u spoên.
+Barl.Wat zouw een bruynvis, of een waterkoning doen,De zeehaan niet gewoon als &apos;t brakke nat te gulpen.Maar meent gy &apos;t?
+Hend.Voort van hier.
+Barl.Ik kruyp schiet in de schulpen,Och, och! daar gy voorheen tot mijn bederf uyt kroop.En is er geen genaê, och! zoo verdwijnt mijn hoop.
+Hend.Hy tergt ons goet gedult, zegt den gevangenhoederDat hy hem straft na waard.
+Barl.Wie zagh oyt iet verwoeder?
+Pag.Voort, voort, al lang genoeg.
+Barl.Hoe stootje zoo, zeg guyt.
+Pag.Ga voort jou lompen bloet, of &apos;k touje op de huyt.
+Derde tooneel.Den Hertog Frederiko uyt.IK heb uw last volbracht, en al het volk verzaamt:Voorts tot bezolding heeft voor eerst het Rijk beraamtTien duyzent kroonen, die zijn Majesteyt kan lichtenWanneer het u belieft.
+Hend.Zoo onrecht eer kon slichten,Of dat door onrecht wiert een Konings naam verheert,Ik ving den oorlog aan, maar wijlze d&apos;eer verteert,En doet vernietigen een Konings naam, zoo willenWy in onrechtigheyt noch goet noch eer verspillen.Door dien den Hemel zelfs de zegenkransen hechtAan de rechtvaardige, en scheyt &apos;t onrecht van &apos;t recht.Wy willen, Frederik, ons zelfs van opspraak myen,En onrechtvaardigheyt, ik laat dat opzet glyen,En vier na billikheyt den toom van reden bodt,Dat ik onstrafbaar blijf van onrecht voor mijn Godt.Ontslaatze van hun dienst, ga zegt, mijn wijze Heeren,Dat zy &apos;t gegeven gelt weêr aan hun gevers keeren.Want ik schel Napolis, en haar den oorlog quijt.
+Fred.Gy maakt u, door dees daat, een Numa van dees tijt.
+Hend.Ik zal ô Frederik! het yverig verlangenUw &apos;s liefd&apos; bevesten, mits gy zult van my ontfangen,Voor echte gemalin, mijn nichte; tot een gaafVan mijne gonst.
+Fred.Ik blijf uw dienaar en uw slaaf.Octavio uyt.
+Oct.Ik heb zijn Majesteyts begeerte (doch met schromen)Volbracht, en al de eer van Floro afgenomenDoor zijn gevangenis.
+Hend.Zijn banden zijn my leet,Ontboeyt hem, en hoort toe, gy vrome Heeren, weetOctavio binnen en weêr uyt.Dat uwen Koning met de ziekte van vergeten(Schoon hy gezontheyt trotst) besmet is en bezeten,Dees grijpt zijn oorsprong uyt de zwakheyt mijns gedacht,En deze zwakheyt heeft my mijn verderf gewracht,Zoo dikmaals my de mist haar &apos;s dampen heeft betogenDe harssens, is my gantsch en al &apos;t geheug ontvlogen,Ia &apos;t geen mijn mogentheyt in d&apos;eene uur gebiedt,Maakt dees vergeet&apos;le ziekt&apos; in d&apos;and&apos;re weêr te niet,O Creetse doolhof, ô verwarring, die &apos;t vervarssenVan het geheugen rooyt, en rooft uyt mijne harssen;Mijn oneer queekt uw eer, mijn ontrouw baart uw trouw,Mijn val verquikt uw hert gelijk een beemdt den douw,Mijn onbequaamheyt gaat uw slaverny ontkleeden,Die vryheyt wisslen gaat voor ongastvryigheden.Hier brengt den Hemel zelfs mijn tyranny te pas,Haar welverdiende loon, die elk een vyandt was.Kom breydelt hem de macht, wiens voorzaat d&apos;oude ryenVerknocht hield aan zijn wet, en stelden heerschappyen.Treurt met d&apos;elendige, die eer door wijs bestierSloeg &apos;s Rijks welvaren ga, en Staten hielp uyt &apos;t vyer.Ga eer d&apos;eerwaardige, waar door ik was verheven,Wilt my d&apos;onlukk&apos;ge naam niet meer van Koning geven,Naam, die my meerder rust en vryigheyt benam,Als ik vermaak of eer, door haar bezit, bequam.&apos;t Schijnt dat den Hemel aan mijn hoogmoet zich wil wreekenDoor dees vergeet&apos;le ziekt, zelfs aan my zelfs , tot teekenVan mijn onwaardigheyt, stel ik voortaan de stafWeér in de handt van die, die my de zelve gaf.
+Fred.&apos;t Is wonder &apos;t geen wy zien, mijn Heer, door deze redenStelt gy voor ons ten toon uwe voorzichtigheden:Ik hoop den Hemel zal mijn Koning hulpzaam zijn,En strekken zelfs den arts in uwe groote pijn.
+Oilav.Men zal den Hoogenraadt ontleden deze zaaken,En aan &apos;t gemeen zoo straks uw wille kenbaar maaken.Octavio binnen.
+Vierde tooneel.Marilde, Parsia, Helena, den Graaf Pompeo uyt.
+Matil.NU kan zijn Majesteyt, eer hem de ziekt&apos; benart,Zich geven in de rust.
+Hend.&apos;k Ben-d&apos;eerste, die een hartOotmoedig en vol dienst, haar Hoogheyt wil betoonen.Ik ga, wilt mijn vergrijp en voor&apos;ge fout verschoonen.Ziet hoe een Koning hier een levend&apos; voorbeelt strektVan de gehoorzaamheyt.
+Matil.&apos;t Is tijt, mijn Heer, vertrekt.
+Pomp.Hy speelt zijn rol bequaam, en schijnt in all&apos;s zorgvuldig.
+Matil.Wat zijn wy, Graaf, hem eer en dankbaarheden schuldig.
+Fred.O heyl&apos;ge wisseling, Mevrouw; nu zal voortaanDen Tabbert van de wet uw Majesteyt ontfaân;In welker omtrek gy, bezet van alle kanten,Zult zijn,van ons, wiens waard&apos; verstrekken diamantenAan uw verheven Kroon.
+Matil.O groote droeffenis!Hier komt den Koning weêr, &apos;k loof hy bezeten is.Ik spreek van Karel, Graaf.
+Pomp.&apos;t Is my bekent, Mevrouwe.
+Vyfde tooneel.Karel uyt.HErtog, ik heb verlangt u weder te aanschouwen,Hoe gaat het met het heyr, en lichtinge van &apos;t gelt?
+Fred.Die heb ik uyt haar dienst door uw bevel gestelt;Door dien gy zelfs (ô Vorst!) uw ongerechtighedenAan my bekenden, en met welgegronde redenVerhaalde, hoe dat zelfs den Hemel noyt die geenBegonstigde met heyl, die t&apos;onrecht had gestreên.Dies gy u vondt bezwaart om uw gevreesde armenTe steeken in de schoot uw &apos;s nabuurs, en alarmenTe queeken, in een verr&apos; of nagelegen Rijk,Dat uwen scepter noyt in &apos;t minst deed&apos; ongelijk.Hoe! is zijn Majesteyt zoo dra zijn last vergeten?
+Karel.Goôn! lijdt gy dat de macht eens Konings wordt versmeten,Of dat de moogende voert moogend&apos; heerschappy,Die mijne moogentheyt durft werpen in de ly?Meyneedige, gy moogt my mijne macht bemuerenOf stuyten, maar heur glans zal uwe glans verdueren.
+Fred.O ongelukkige, my deert uw ongeluk.
+Pomp.Zijn schouders torssen (ach!) een al te lastig juk.
+Karel.Hoovaardige, ik zweer &apos;t gy zult uw wieken zengenAan &apos;t vuur van mijne macht: hoe kan ik dit gehengen?
+Zeste tooneel.Floro en Octavio uyt.
+Ploro.IK kus (ô groote Vorst!) de waarde heyl&apos;ge treênVan uwe voeten, ach! laat ik met dankbaarheênOmringen uwe schaauw, wijl gy de wraak laat hellen.
+Karel.Heb ik u niet geboeyt?
+Flor.Nu weder vry doen stellen.
+Hel.&apos;k En zag noyt, Porsia, zulk een vergetenheyt.
+Pors.O Hemel! scheldt de Vorst eenmaal uw gramschap quijt.
+Fred.Mijn schoone Porsia, ik wil de last volbrengenDes Konings, en voortaan mijn wil&apos;ge ziel vermengenMet d&apos;uwe; daar mijn lief, tot trouheyts onderpandtGeef ik aan u mijn hert, mijn ziele, en mijn handt.
+Pors.Tot binding onzer trouw, en tot uw minsbelooning,Zoo geef ik u de mijn&apos;, door ordre van den Koning.
+Karel.Is mijn gedult zoo groot? ô hemel kan &apos;t geschiên?En moet ik deze smaat met eygen oogen zien.&apos;t Zal nimmermeer geschiên, dat zweer ik, wilt wat beyõ,Zijn uwe zielen eens, ik zal de lichaams scheyen.Laat los, laat my begaan.
+Matil.Ach! wat een ongeluk?
+Karel.Weermaakster, gy alleen zijt oorzaak van mijn druk.
+Pomp.Bedaar, mijn Heer, bedaar.
+Karel.Hoe! kan ik dit gedoogen?
+Pomp.Onlukkige, zijn u de zinnen gantsch ontoogen?
+Fred.Die &apos;s Konings last volvoert is veylig voor de straf.
+Karel.Zegt gy, dat ik Mevrouw aan u ten huw&apos;lijk gaf?
+Fred.Gy zelfs.
+Karel.Ik zelfs?
+Fred.O ja.
+Karel.Ontrouwe, &apos;t is geloogen.
+Pors.De oorsprong onzer trouw grijpt plaats uyt u vermogen,En koninklijk gebodt, wat hoef ik klaarder blijk.Mevrouw, en is &apos;t niet waar?
+Helen.Mijn I leer, zy heeft gelijk.
+Pors.Is uwe wil misschiet, of eenigsins misdreven,Dat zy niet ons, maar uwe ziekte toegeschreven.
+Matild.Uwe vergetenheydt is oorsprong van het quaat,&apos;t Welk u misnoegen werkt, en ondergraaft mijn staat.Barlovento schreyende uyt.Laat Barlovento deur, dat hy zijn afscheyt nemeVan u wraakgier&apos;ge Vorst, ik wil mijn gaan vervreemenVan u gebiedt; en gaan weêr na mijn Vaderlandt,Alwaar de Koningen met een veel milder handtBegonstigen &apos;t gemeen, ô! al te felle slagenVoor mijne zorg en vlijt, die &apos;k voor u heb gedragen.
+Kar.Komt nader mijn getrouwe; want gy zijt maar alleen,Die ik met deze naam rechtvaardig mach bekleên.Door dien gy my uw trouw betoont in vreugt en lyen,Zegt gy waarom dit Rijk van Vorst zich wil bevryen,En hem benamen met de schandelijke naamVan dol; zeg op mijn vrient, of staat gy &apos;t ook te zaam.
+Barl.Door dien zy nevens my u groote dolheyt proeven.
+Kar.Wat zegt gy? &apos;k voel mijn hart weêr rot de doodt bedroevenDoor deze reên, ô goôn!
+Barl.Valsch en ondankb&apos;re Vorst,Ziet hier de tekens, op mijn armen en mijn borst,Van uwe dolheyt, dien u razerny verkonden,Och, och, mijn pijn, och, och, hoe smarten my dees wonden.Wat meent gy? dat mijn vlees ondankbaar was van steen?Gelijk u hart, ô pijn, en denkt dat niet, ô! neen,Foey u ondankbare.
+Kar.Heb ik zulks doen gebieden?
+Barl.Gy zelfs, en woud dat zulks zouw aan u knecht geschieden,Gy scheurde het papier, en u begon een koorsTe quellen, die in hit beschaamt Meduzaas toors.bin.
+Kar.&apos;k En weet niet wat ik zal, mijn hart en zinnen twisten,Het schijnt de Koningin, door haar Ulysses listenMy mijn verstandt beneemt, en maakt &apos;t oproerig RijkOnwillig tot mijn wil, willig haar wil gelijk.Wat Circe is zoo stout, die door haar gifts vervormenBereykt mijn Majesteyt, en durft mijn troon bestormen?Ach! &apos;t is met my gedaan, ik voel dat al mijn leênHaar kracht verliezen, en veranderen in steen,Door het aanschouwen van u nikkerlijke vlechten.Van hier Meduza, voort, ik wil mijn wraakrecht slechten.Van hier, noch eens van hier.
+Pomp.Het Seciljaanse Hooft,O hemel, wordt geheel van zijn verstandt berooft.
+Kar.Ik ben Orphé gelijk, die aan de waterkantenVan Hebrus, was omheynt met woedende Bachanten.Giftmengster, weg, van hier: neen, reykt my u fenijn,Die kracht zal dan de kracht van mijn vermoogen zijn.Gunt my onlukkige, geheel van &apos;t luk verwurpen,Ik eeuwig op dees steê de vrucht&apos;bre dauw mach slurpenDes dageraats, (ô goôn!) tot teken van de vloedtVan plagen; die u haat mijn grootheyt zendt te moet.Kom Myterbergse schaar, wilt mijne leên bekranssenMet kranssen, en vol rouw mijn laatste uytvaart danssen,Tot tuygen van mijn val.
+Fred.Wel hoe! mijn Heer, bedaart.
+Kar.Hoe! is den nevel daar zoo schielijk opgeklaartVan mijn verdriet: wat is &apos;t, wie wil den Koning spreken?
+Pors.Hy flauwt, helaas! hy sterft.
+Pomp.Zijn krachten zijn geweken.
+Matild.Hoe is het al mijn Heer?
+Kar.Ziet hoe den hemel straftD&apos;hoogmoedige, en elk rechtvaarde loon verschaft.Hoe ben ik zoo gelijk, door deze mijn vertooning,In wezen &apos;t voorbeelt van den Baby loonsen koning,Die op &apos;t begraasde veldt zoo lang ten wey most gaanGelijk een beest, tot hy den hemel had voldaan.Ik zal zoo lang mijn kroon, mijn stoel en scepter laten,Zoo lang den hemel my verlaten zal en haten.Vaart wel Vorstin, vaart wel: den hemel maakt dit Rijk,&apos;t Welk my mijn Kroon ontzeydt, op aarden geen gelijk.En gy, ô Frederik, u zy van my gegevenMijn nicht, den hemel laat u lang te zamen leven:Ik razende, blijf steets beswangert met een quelVan eereloos verdriet, het welk my mijne helHier op der aarden strekt.
+Fred.Wie hoorden oyt voor dezenVan zulken vreemden ziekt&apos;?
+Octav.Die elk behoort te vrezen.
+Kar.Blus uyt Siciliën a eeuwigvlammendt vyer;Want grooter brandt bezit mijn boezem, goden stierMy weder op het pad van reden, doet my teekenVan u mildadigheyt, daar elk een af moet spreeken.Alle binnen.
+                
+            </div>
+    
+    
+    
+            <div type="act">
+                
+                    
+Vierde bedryf.Eerste tooneel.Matilde en Porsia uyt.
+Matil.LAas Porsia, ik voel dat dees ontsteken gloetMy langs hoe meer verteert het lievende gemoedt;Schoon ik het met een mist van veynzen wil bedekkenVoor Karels oogen, die &apos;t vermoogen my onttrekken.De warring van dit Rijk, en Karels dolheyt, spruytAlleen uyt mijn vernuft, en overwijs besluytDes ouden Graaf. Princes hier is in &apos;t minst geen vrezen,Mijn Karel is noch die, die dien hy placht te wezen.Al &apos;t geen der is geschiet, heb ik tot nat van &apos;t landtEn koninkrijk volvoert. ach! geeft my raadt nu; wantGoe raad en bystant strekt in noot een toets der vrinden,Ach! was hem kenbaar, hoe Matilde hem beminden:Ik weet hy dankbaarlijk, schultplichtig met ootmoet,Mijn min bedanken zou, en vallen my te voet.
+Pors.Indien haar Majesteyt is yvrig, en begeerigTe weten of hy mint, zoo toont u zelfs af keerigVan zijn persoon, en doet door daden hem de weet,Dat gy zijn trots veracht, hem gantschelijk vergeet.Schiet op d&apos;ondankb&apos;re borst, die uwe borst deed vonken,Noyt blijde draalen van u goddelijke lonken;Veracht zijn moogentheyt, verwerpt zijn lossen raadt:Scheurt zijne wetten, toont hem voor uw min uw haat.Dees raadt my eerbaar dunkt, om zoo uyt Karel zelven,&apos;t Geheym zijns boezems klaar, en naaktlijk op te delven.Hoe steektge zoo vol vuur, eerwaardige Vorstin?De schets uw&apos;s liefd&apos; is teer, en in zijn eerst begin.
+Matild.Men zag dik waarde gonst, onwaardelijk versmeten,Vernietigen door smaat, te niet gaan door vergeten.Een die zich in de min hulpzaam, gezatig toont,Verwint in &apos;t laatst de koelt, en word met min beloont.De grootste kracht der min, bestaat in deze deelen:In doen, in laten, in volbrengen en beveelen,In schijngonst, in bedrog, in jaloezy, in haat,In arge achterdocht, in radelooze raadt.Porsia, neen, ô neen! men moet hun teugel vieren,Dat menze vierend&apos; blijft, door wijsselijk bestieren:Gy moet my hulpzaam zijn, en Karel zeggen, datHy zich te nacht vervoegt voor u Paleys; en watMeer is, gy zult hem voor my om weêrliefde smeken.
+Pors.En zal ik my hier door in geen oneere steken?
+Matil.O neen! in &apos;t minde deel, &apos;t ontkennen gelt hier nietVan mijne min die &apos;k hem toedragendt ben: doch ietMy daar te vooren komt, door welken kracht ik hedenZijn hoogmoedt dempen zal, en t&apos;eenemaal vertreden.&apos;k Zal in zijn byzijn al de zaken van het RijkVerrichten, en aan elk gehoor vergunnen, &apos;k wijkVan mijn voorgaande list, en looze minnenyver.Karel luystert.Mijn pagie ga, en zegt aan mijn geheymeschrijverDat hy straks hier verschijn.
+Pagio.Ik ga, genaad&apos;ge vrouw.bin.
+Tweede tooneel.
+Matild.VErgeef my hemel, &apos;t geen ik door dees warring brouw.
+Karel.O hemel! welk gerucht ontfang ik in dees ooren?O! ongestaad&apos;ge vrouw, waar toe ben ik gebooren!Ziet hoe de lukkige, die &apos;t was naar wensch gelukt,En wil, onlukkig wordt van al zijn macht geplukt.Mijn zinnen swieren als de tomelooze windenDoor &apos;t swevendt swerk , helaas! zal ik geen uytkomst vinden?Bedaart u Karel, sta, en stelt u zinnen schrap:Beraadt u en grijpt moedt, zoo krijgt u wraak een trap.
+Derde tooneel.Ludovicus uyt met eenige papieren.
+Matild.VOlvoert u ampt terstondt, en wilt &apos;s Rijks nodighedenVoor ons vertoogen, en volkomentlijk ontleden.
+Pors.Mevrouw, ziet wat gy doet, de Vorst is in de zaal.
+Matild.&apos;k Ben voor zijn klachten doof, voor zijn verzoek van staal.
+Ludov.De posten van Lions, van Napels en van Roomen,Vertrekken, dies Mevrou, om Karels macht te toomen,Zoo teykent deze brief die van u buw&apos;lijk melt,Op dar zijn Heyligheyt hier goede ordre stelt.Hier in beklaagt zich &apos;t Rijk in veel gedane zakenVan Karel, en verzoekt zijn Heyligheyt wil makenTe niete uwen echt; dat Karel wordt verklaartOnwettig tot de kroon, tot uwe min onwaart.
+Kar.Gedult, gedult mijn ziel, op datge in uw toorenNiet wraak loos zonder wraak, ellendig komt te smooren
+Lud.In dit geschrift verzoekt eendrachtig het Gemeen,Dat gy hun keuren, eer door Karels macht vertreên,Weêr wilt bevestigen, en met meer kracht versterken.
+Mat.Zulks moet niet vollegen; want hy in zulke werkenBuyten ons orderen, in &apos;t minste heeft gedaan.
+Kar.Is &apos;t moog&apos;lijk &apos;t geen ik hoor, hoe zal &apos;t noch met my gaan?O pijn! ô hartewee, met recht vervloekte woorden,Die Karels grootse ziel door uwe prikkels moorden.
+Lud.In deze wort verzocht, dat zy van nu voortaanDe naam van Karel gants en al te niet gedaan,Zoo wel in schriften als in openbare zaaken,Op dat dees staat weêr in haar voor&apos;ge stant mach raaken.
+Mat.Dat staa ik toe, want ik geen Karel meer en ken.
+Kar.Ach! wat heb ik geweest, by dat ik heden ben.
+Lud.Is &apos;er noch iemant die haar Majesteyt wil spreeken?Die wort gehoor vergunt.
+Kar.Mijn harte schijnt te breekenVan spijt, vermits mijn Rijk won &apos;t Rijk eens Amazoon,Wijl vrouwen heerschen, en berichten volk, en kroon.Frederico uyt.
+Fred.Mevrouw, het Koninkrijk doet u door my vermanen,Of men aan Karel nu, den Marquis van Catanen,Inwilgen zal het gelt tot d&apos;oorelog beraamt.
+Mat.Ik wederroep zijn wil, vermidts het niet betaamtDat men den toom des Rijks een dollen stelt in handen:De Slot-voogt kan dees last verkondigen de Standen.Binnen.
+Kar.&apos;t Is reden dat men kiest van twee het minste quaat;Want zonder kroon en macht my &apos;t leven eerloos staat.Pompeo uyt.Ik was wel eer Mevrouw, ten aanzien van mijn jaaren,En deught, uw Voedster-heer en Opper-rader, daaren-Tegen heeft Karel my uyt mijnen staat gezet,En mijn doorluchte naam met lastering besmet.
+Mat.Uw deught houdt ons verplicht, Pompeo Graaf, van dezenTijt, blijft u waard&apos; by ons gelijkze plach te wezen.
+Barl.Hier kom ik wel te pas, terwijl het is een daghDat yder wijs of zot hier recht verzoeken magh;Zoo kom ik, ô Vorstin, hier voor u neder buygenDie dit van beyd&apos;s bezit, mijn reden zullen tuygenDat ik rechtvaardig kniel voor hare Majesteyt.
+Mat.Wel wat is u verzoek?
+Barl.Dat gy d&apos;ondankbaarheytVan Karel straffen zult, ey wilt hem doen betalenMijn lang verdiende loon, vergult my met de stralenVan uw goetaardigheyt.
+Mat.Ik zal hem dwingen, datHy u ter banden stelt die lang beloofden schat,Zoo gy my schriftelijk hier kunt zijn hant vertoonen.
+Barl.O neen! ik heb den bras van diergelijk beloonen,&apos;t Welk my mijn rug, ô ramp! aan stukken heeft gerekt.
+Pag.Van hier gy lompen bloet; &apos;t is tijdt dat gy vertrekt.
+Barl.Dat roert u niet schavuyt, ik zal den dagh noch leven,Dat gy zult voor &apos;t gebodt van Barlovento beven.bin.
+Kar.Fortuyn u drayend&apos; radt zy eeuwiglijk gevloekt.
+Lud.Is &apos;er noch iemant die gehoor, of recht verzoekt?Die kome voor den dagh.
+Kar.Mijn onheyl derft u smeekenOm recht, terwijl ik zie &apos;t hier veylig is te spreeken.
+Mat.Van hier gy razenden, en ongebonden zot.Onlijdelijke, gaat uyt ons gezicht, wat lotOf onluk voert u hier: het rouwt my, ik oyt eerdenUw&apos; dwaze zeên, die my mijn mogentheyt verteerden.
+Kar.&apos;k Ben zulken straf wel waart.
+Mat.Lafharte, dit verliesIs uyt uw haat gebaart.
+Pors.Met u verlof, Marquies,&apos;k Verwacht u t&apos;avont voor mijn veynster.
+Kar.Ik zal blijvenUw dienaar, en dees eer doen aan Mevrouw beklijven.Mevrouw, met u verlof.
+Mat.Eer spreekt niet, maar vertrektGy razende.
+Kar.Helaas!
+Mat.Eer gy mijn toorn verwekt.Binnen behalven Karel.
+Karel alleen.Karel, kan u gemoet verdragen of gedoogen,Dat het zich ziet ontleegt van Koninklijk vermoogen?En zijtge niet de geen, die van een slecht soldaatStaakt na de heerschappy, en Koninklijke staat.Wel op mijn moedig hart, gy zult de Kroon verwerven,Of manlijk en vol moedt voor haar betrachting sterven.En gy mijn gezellin, die dorstig en verwoetVeel boezemen ontsloot, &apos;t is over tijdt, gy moetU slurrepende tong, en holle bloetdorst lavenIn &apos;t deughtverbastert bloet mijns machts ontglipte slaven.Mijn zorg rust met de nacht, verlaatme t&apos; wijl ik schrijfDen doodt mijns haters, en mijn hinderpalen drijfDe ziel ten boezem uyt, op dat de toom der landenMy zy gelijk voorheen gestelt in dees&apos; mijn handen.Gelukkig is die geen die op der aarden leeftZonder eergierigheyt, of staatzucht: maar daar zwee.My iets in net gedacht, &apos;t welk vordert mijn betracting,Dat &apos;s Porsiaas verzoek, mijn ziele neem in achtingUw welvaart, rooyrt de vrees, dat u dooriuchte naamDe koopre mont ontsluyt van de gewiekte faam.Den Hartoogh moet van kant, wil ik haar min verwerven,Dies ik zijn vonnis vel, en schrijve, hy moet sterven.Maar zacht, noch zwiert my iets in &apos;t woelende verstant,Dat is Matikles doodt: mijn hart de vierschaar spantVan de rechtvaardigheyt; wil ik de Kroon verwerven,En echten Porsia, zoo moet Matilde sterven:Te meer, vermits dit Rijk my voor baar Koning koor.
+Vierde tooneel.Karel, Hendricus met de handt op de deegen.MAar hoe! wat wil dit zijn, my dunkt ik iemant hoor.O hemel! wat &apos;t zal zijn? bedriegen my mijn oogen:Is &apos;t droom of spookery? wat komt zich hier vertoogen?Zou &apos;t wel d&apos;inbeelding zijn van mijn bezwalkre geest?Of is &apos;t de schaduw van mijn dolheyt, dik gevreestVan mijne haters? (ach!) ik voel mijn hart bedelvenMet vreze, in wat vloet beschouw ik zelfs my zelven.Wie zijtge?
+Hend.&apos;k Ben u zelfs.
+Kar.Wat zoekt gy, zeg, waar heen?
+Hend.Ik zoek mijn graf.
+Kar.Waar door?
+Hend.Door ongerechtigheên.
+Kar.Hoe! zijtge dan al doodt?
+Hend.Des doodts onzaadb&apos;re kakenMijn afgesturven geest weder bestaan te braaken,Om u te maaken kond u ongeboorzaamheytDiege hebt gepleegt.
+Kar.Aan wien?
+Hend.Aan hare Majesteyt.Hendrik binnen.
+Kar.Toeft gy snelvluchte schaauw, en spiegel daar mijn ledenIn afgebeelt haar zelfs bezagen, hoort mijn beden:Maar waarom of ik volg? terwijl het is een rook,Een niet, een yd&apos;le wint, misschien de damp of smookVan mijn bedwelmde geeft: &apos;k wil mijn ondankbaarhedenBerispen, en van nu mijn hoogmoet gants vertreden,Ik wil my dankbaarlijk, schultplichtig, vol berouwGaan werpen voor de voet van mijn hooghwaarde vrouw,Ik blijf haar dienstb&apos;re slaaf, terwijl dat deze bodeMy zulks belast, gewis een voorschik van de Gode.Porsia, schoon uw min in &apos;t venster my verwacht,Ik offer mijne schult Matilde, heyl&apos;ge nachtWeest mijn behullepzaam, wilt met a floers bestelpenMijn qualen, en mijn ziel uyt deze warring helpen,bin.
+                
+            </div>
+    
+    
+    </body>
+  </text>
+</TEI>

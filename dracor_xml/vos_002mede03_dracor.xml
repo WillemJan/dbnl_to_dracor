@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://dracor.org/schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="vos_002mede03" xml:lang="nl">
+  <fileDesc>
+    <titleStmt>
+      <title type="main">Medea</title>
+      
+      <author>
+        <persName>
+          <forename>Jan</forename>
+          <surname>Vos</surname>
+        </persName>
+        <idno type="wikidata">wikidata identifier</idno>
+        <idno type="pnd">pnd identifier (optional)</idno>
+      </author>
+    </titleStmt>
+    <publicationStmt>
+      <publisher xml:id="dracor">DraCor</publisher>
+      <idno type="URL">https://dracor.org</idno>
+      <availability>
+        <licence>
+          <ab>CC0 1.0</ab>
+          <ref target="https://creativecommons.org/publicdomain/zero/1.0/">Licence</ref>
+        </licence>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl type="digitalSource">
+        <name>13 A 19: 2</name>
+        <idno type="URL">None</idno>
+        <availability status="free">
+          <p>In the public domain.</p>
+        </availability>
+        <bibl type="originalSource">
+          <title>https://www.dbnl.org/tekst/vos_002mede03_01</title>
+        </bibl>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <profileDesc>
+    <particDesc>
+      <listPerson>
+        
+        <person xml:id="Priester, Kreuza, Jazon" sex="m/f/u">
+          <persName>Priester, Kreuza, Jazon</persName>
+        </person>
+        
+        <person xml:id="Iris" sex="m/f/u">
+          <persName>Iris</persName>
+        </person>
+        
+        <person xml:id="Kreon" sex="m/f/u">
+          <persName>Kreon</persName>
+        </person>
+        
+        <person xml:id="Hoofdman" sex="m/f/u">
+          <persName>Hoofdman</persName>
+        </person>
+        
+        <person xml:id="Medea" sex="m/f/u">
+          <persName>Medea</persName>
+        </person>
+        
+        <person xml:id="Minos" sex="m/f/u">
+          <persName>Minos</persName>
+        </person>
+        
+        <person xml:id="Juno" sex="m/f/u">
+          <persName>Juno</persName>
+        </person>
+        
+        <person xml:id="Jazon, Kreuza" sex="m/f/u">
+          <persName>Jazon, Kreuza</persName>
+        </person>
+        
+        <person xml:id="Jazon" sex="m/f/u">
+          <persName>Jazon</persName>
+        </person>
+        
+        <person xml:id="Charon" sex="m/f/u">
+          <persName>Charon</persName>
+        </person>
+        
+        <person xml:id="Merkuur" sex="m/f/u">
+          <persName>Merkuur</persName>
+        </person>
+        
+        <person xml:id="Venus" sex="m/f/u">
+          <persName>Venus</persName>
+        </person>
+        
+        <person xml:id="Proserpina" sex="m/f/u">
+          <persName>Proserpina</persName>
+        </person>
+        
+        <person xml:id="Kreuza" sex="m/f/u">
+          <persName>Kreuza</persName>
+        </person>
+        
+        <person xml:id="Voester" sex="m/f/u">
+          <persName>Voester</persName>
+        </person>
+        
+        <person xml:id="Jupiter" sex="m/f/u">
+          <persName>Jupiter</persName>
+        </person>
+        
+        <person xml:id="Priester" sex="m/f/u">
+          <persName>Priester</persName>
+        </person>
+        
+        <person xml:id="Hypsipyle" sex="m/f/u">
+          <persName>Hypsipyle</persName>
+        </person>
+        
+        <person xml:id="Twede Hofwacht" sex="m/f/u">
+          <persName>Twede Hofwacht</persName>
+        </person>
+        
+        <person xml:id="Radamand" sex="m/f/u">
+          <persName>Radamand</persName>
+        </person>
+        
+        <person xml:id="Eerste Hofwacht" sex="m/f/u">
+          <persName>Eerste Hofwacht</persName>
+        </person>
+        
+        <person xml:id="Priesteres" sex="m/f/u">
+          <persName>Priesteres</persName>
+        </person>
+        
+        <person xml:id="Boomkind" sex="m/f/u">
+          <persName>Boomkind</persName>
+        </person>
+        
+        <person xml:id="Kreuza, Jazon, Hoofdman" sex="m/f/u">
+          <persName>Kreuza, Jazon, Hoofdman</persName>
+        </person>
+        
+        <listRelation type="type of relation">
+          <relation name="" active="pers_1" passive="pers_2"/>
+        </listRelation>
+      </listPerson>
+    </particDesc>
+    <textClass>
+      <keywords>
+        <term type="genreTitle">Tragedy</term>
+      </keywords>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <listChange>
+      <change when="0000-00-00">who did what</change>
+    </listChange>
+  </revisionDesc>
+  <standOff>
+    <listEvent>
+      <event type="print" when="1698">
+        <desc/>
+      </event>
+      <event type="premiere" when="">
+        <desc/>
+      </event>
+      <event type="written" when="">
+        <desc/>
+      </event>
+    </listEvent>
+    <listRelation>
+      <relation name="wikidata" active="https://dracor.org/entity/" passive="http://www.wikidata.org/entity/"/>
+    </listRelation>
+  </standOff>
+  <text>
+    <front>
+    </front>
+    <body>
+    
+    
+            <div type="chapter">
+                
+                    
+
+MEDEA,TREURSPEL.DOOR.Jan Vos.Met verscheidene Kunst en Vliegwerken, nieuwe Baletten, Zang en Vertooningen.Nooit voor dezen zo vertoond.
+Te AMSTELDAM,By de Erfg: van J: Lescailje, op de Middeldam, op de hoek van de Vischmarkt, 1698.Met Privilegie.
+                
+            </div>
+    
+    
+    
+            <div type="chapter">
+                
+                    
+Copye van de Privilegie.DE Staten van Holland ende Westvriesland doen te weten, alsoo ons vertoont is by de Regenten van het Burger Weeshuys ende Oude Mannenhuys der Stad Amsterdam, en, in die qualiteyt, te samen eygenaers, mitsgaders Regenten van den Schouburg aldaer, dat sy, Supplianten, sedert eenige Jaren hebbende gejouisseert van onsen Octroye of Privilegie van dato den 19, September 1684. waer by wy aen de Regenten van den selven Schouburg, in die tyt, hadden gelieven te consenteren, accorderen ende octroijeren, dat sy, geduurende den tyt van vyftien eerst achter een volgende Jaren, de Wercken, die doenmaels ten dienste van het Tooneel reets gedruckt waren, ende, van tyt tot tyt, nog vorder in het ligt gebracht, ende ten Toneele gevoert soude werden, alleen soude mogen drucken, uytgeeven en verkopen, nu ondervonden, dat de jaren, by het voorgemelde onse Octroy of Privilegie genaemt, op den 19. September 1699. souden komen te expireren; ende de wyl de upplianten ten meesten dienste van de Schouburg, waer van hunne respective Godshuysen onder andere mede moesten werden gesubcenteert, de voorgemelde Wercken, soo van Treurspellen, Blyspellen als Kluchten, als anders, die reets gedruckt en ten Toneele gevoert waren, of in het toekomende gedruckt, en ten Toneele gevoert souden mogen werden, geerne alleen, gelyk voorheenen, souden blyven drucken, doen drucken, uytgeeven en verkoopen, ten eynde de selve Wercken, door het nadrucken van anderen, haer luyster, soo in tael, als spelkonst, niet mogten komen te verliesen, dog dat sulcx aen haer, na de expiratie van het bovengemelde ons Octroy, en sulcx na den 19. September 1699. niet gepermiteert soude wesen, soo vonden de supplianten hun genootsaekt sig te keeren tot ons, onderdanig versoekende, dat wy aen de supplianten, in hare bovengemelde qualiteyt, geliefden te verleenen prolongatie van het voorsz. Octroy of Privilegie, omme alsoo de voorsz. Werken, soo van Treurspellen, Blyspellen, Kluchten, als andere, reets gemaeckt en ten Tooneele
+gevoert, en als nog in het ligt te brengen, den tyt van vyftien eerst achter een volgende Jaren, alleen te mogen drucken en verkopen, of doen drucken en verkopen, met verbod aen allen andere op seeckere hoge penen, by U Ed. Groot Mog. daer toe te stellen, en voorts in communi forma; so is &apos;t dat wy de saecke, ende &apos;t versock voorsz. overgemerkt hebbende, ende geneegen wesende, ter bede van de supplianten, uyt onse rechte wetenschap, souveraine magt en authoriteyt, deselve supplianten geconsenteert, geaccordeert ende geoctroyeert hebben, consenteren, accorderen ende octroyeren, mits desen, dat sy, by continuatie, de voorsz. Wercken, soo van Treurspellen, Blyspellen, Klugten als andere, reets gemaekt en ten Tooneele gevoert, en als nog in het licht te brengen, den tyt van vyftien eerst achter een volgende Jaren, alleen binnen onsen landen, sullen mogen drucken, doen drucken, uytgeven en verkopen, verbiedende daerom allen en
+ A. HEINSIUSTer ordonnantie van de StatenSIMONBEAUMONT De Regenten van het Wees- en Oude Mannenhuis hebben, in haar voorsz. qualiteit, het recht van deze Privilegie vergund aan de Erfgenaamen van J. Lescailje In Amsteldam, denSeptember
+                
+            </div>
+    
+    
+    
+            <div type="chapter">
+                
+                    
+De drukker
+Aan de bescheideneZ
+Eerste vertooning voor het Spel.
+DIe van Tessaliën en Colchos opgetoogen,Zien vrouw Medeaas konst en wonderlyk vermoogen,Zy staat gereed om hen de krachten van haar kruidTe toonen, en de winst van Colchos ryke buit;Waar door zy Vaderland en Vader durft verraaden,Om zich in weelde met haar minnaar te verzaaden;Maar zy zal haare straf meê krygen op haar beurt,Die steets, met naberouw, ellendig word betreurdt.
+Twede vertooning voor het Spel.
+DAar zien de Aanschouweren verbaast het eerste wonder;&apos;t Volk van Tessaliën speeld met hun gunst hier onder,Dat geeft Held Jazon moed, die zaaidt den draaketandt,Uit zynen koop&apos;ren helm, in &apos;t omgeploegde landt,&apos;t Welk, met een sap gemengt, dit zaadt begint te weeken,En nieuwe lichchaamen verwekkende aan kan kweeken.De Grieken zien ontsteld, dit nieuw gebooren zaadtDe speeren vellen naar Emoniërs Soldaat.Wat helpt het of men is in wapentucht bedreeven,Wanneer dat Broederen elkander staan na &apos;t leeven.Hoe groote legers zelf een Vorst gebieden mag,Hoe zeer zyn rykdom groeid, zyn aanzien en gezag;Noch rykdom, aanzien, noch gezag zal staande blyven,Wanneer de Twist zyn volk door Tweedracht komt te styven;Door Tweedracht, die den staat der eenigheden splitst;Terwyl de wraak het bloed zelfs tegens bloed ophitst.
+Derde vertooning voor het Spel.
+GInts hangt dat schit&apos;rend goud op groene en zilv&apos;re blad&apos;ren,&apos;t Geen, zonder doodsgevaar, van niemant is te nad&apos;ren.De Stier en Draak, die nacht en dag op schildwacht staan,Zien, al die daar verschynt met dreigende oogen aan;Zy snuiven vuur en vlam, en damp, en mist, en waasemTen keel uit, dat al de aard stinkt van dien helschen aasem.Den dap&apos;ren Jazon, die weêrgadeloozen Held,Krygt, door Medeaas kunst, het vlies in zyn geweld.Daar ziet men Sciron, die, omsollende onversleeten,Zyn naam draagd in de klip, waar in hy wierd gesmeeten.Den Ouden Ezon krygt weêr nieuwe kracht en moed,En voeld zich zelfverjongt en vol van jeugdig bloed.Hier na werd een dans vanKrygsheldenvertoond.
+                
+            </div>
+    
+    
+    
+            <div type="act">
+                
+                    
+Medea,
+treurspel.Eerste bedryf.Eerste tooneel.Het Tooneel verbeeld een Lusthof.
+MedeaOZal Jazon, myn Gemaal, tot afschrik van het huuwen,Kreüzaas koets bekleên? ô snoode trouwloosheid!Geen boozer Schelm dan die zich van zyn Ega scheid.Noch is hy boozer zo hy and&apos;re durft beminnen.Is dit het loon dat ik hem &apos;t Gulde Vlies deed winnen?O onverdraagb&apos;re spyt! o ongeneesb&apos;re wond!Trouwbreeker, Vrouwepest, en Vloek van &apos;t kuis verbond,Om welk een reden hebt gy de echte band geschonden?De Trouw word slechts door Dood of Overspel ontbonden.O Huuwelykstieran! weet gy wel wie gy hoond?Het is Medea, die, als zy haar kracht betoond,De Winden, Starren, Zon. Hoofdstoffen, Bliksemstraalen,En Donderklooten, door haar kunsten, kan bepaalen,&apos;k Hits de Elementen, en wat schrikk&apos;lyk is, aan een.Hoe! zal ik lyden dat gy weêr zult huuwen? neen!Ik heb myn Broeder, om met u door trouw te paaren,Van een gereeten, en de stukken in de baaren,Half leevendig gestrooid, dies zie wat dat gy doet:Dorst ik de zwarte Zee rood verwen met zyn bloed,Om u te trouwen in &apos;t gedrang der Priestereijen?Ik zal, nu ik u haat, om Broeders geest te peijen,U doen gevoelen wat ik Broeder heb gedaan:Wat min aan hem bestond, zal haat aan u bestaan.Ik heb te wreed een moord, ô Schelm! om u bedreeven:Alleen de min kan my dit gruuw&apos;lyk stuk vergeeven.Ik zelf vergeef myn hart die snoode boosheid niet;Of ik zal, door myn hand, die hem de borst doorstiet,De moordvlak van myn hand in Jazons broed uitspoelen:Ik moet, ik wil, en zal myn hevigheid verkoelen:Want zy begeerd dat ik u naad&apos;ren zal met straf:Maar wacht niet dat ik u zal dompelen in &apos;t graf.Het graf is &apos;t rustbed van al die ellendig leeven.Wie lang wil wreeken moet geen korte moordsteek geeven.Dies zal myn bitt&apos;re haat, die staâg om weêrwraak brult,De wreede Zusters, die met slangen zyn gehuld,Met pynboomtoortzen in haar scherp geklaauwde handen,Tot hulpe roepen, om u nacht en dag te aanranden.Wie groot van magt is lyd zich met geen kleene wraak,Of is dit noch te zwak, tot redding van myn zaak?Zo zal ik al &apos;t Gedrogt gelyk te voorschyn vloeken,En schenden &apos;t op u aan, om u, in alle hoekenVan de Aard te volgen, in een gruuwelyke schyn.De Wanhoop, boos van aard, die rust zoekt door fenyn;Het knaagende Gemoed, een geessel der gedachten:En de yselyke Schrik, ontzach&apos;lyk door haar krachten,Zyn u ten straf gesteld, tot zoen van onze hoon.Wie langzaam word gedood sterft meêr dan duizend doôn.Kreüza zal myn haat hier tusschen niet verpoozen;Zy sierd haar bruiloftsbed met purperverfde roozen;Maar ik zal haar, ik zweer &apos;t, de doornen in het hartOp &apos;t diepst doen steeken: want ik word tot wraak getart.Een felle wederwraak is kwaalyk te bepaalen.Uw Ledikant verwacht geen klank van Nachtegaalen,Doormengt met maatgezang van Maagden, schel van keel;Want uwe nachtkoets; neen! uw geile lustpriëel,Zal gruuwzaam grimmelen van Gieren, Kraaijen, Uilen,En zwarte Ravens, die, met schreeuwen, gillen, huilenEn krassen, uw gehoor, als gy in wellust zyt,Verschrikken zullen; zo zal ik myn hart vol spyt,Een vuur dat vinnig blaakt, ontlasten van myn koortzen.Weg, blyde Hymen, weg, met uw gewyde toortzen,De wreedst van &apos;t boos gedrogt zal, voor dit bruiloftsbed,Haar ongewyde toorts, van leevend mensche vet,Bespat van traanen, klam van brein en bloed, ontsteeken.Ik wil my aan dit Paar op &apos;t allerfelste wreeken.De wraakzucht van een Vrouw is scherper dan een schicht.Hier komtze die myn hart, door dienst, aan zich verpligt.
+Twede tooneel.Voester, Medea
+VoesterMYn Voesterkind, hoe dus? hoe zyt gy dus aan &apos;t woeden?
+MedeaMyn boezem word bestreên van bitt&apos;re tegenspoeden:
+VoesterDe rampspoed zwicht voor een die alles temmen kan.
+MedeaEen edel hart gedoogt geen Byzit van haar Man.
+VoesterWie hoon en spyt verwind ontmoet een heilzaam leeven.
+MedeaEen hooggeboore ziel verdraagt geen tegenstreeven.
+VoesterDe huuwlyksnektar vind men meest doormengd met gal.
+MedeaEen koninklyk gemoed verkropt geen ongeval.
+VoesterKan deez&apos; Oranje noch Citroen u niet verluchten?
+MedeaHet lot is my te wrang, dies haat ik wrange vruchten.
+VoesterSlauw gezicht eens op dit roosryk Lustprieel.
+MedeaIk wraak de roozen, want ik vindze scherp van steel.
+VoesterVerkoel u by deez&apos; Bron, zo zult gy aassem haalen.
+MedeaKon ik het Water, dat uit deze Bron komt straalen,En al de Beeken, die in Kreons Oorden zyn,Door kracht van toov&apos;ren, veranderen in fenyn,Ik zou ze in zwelgen, en, al zou ik zelver gruuwen,Prins Jazon en zyn Bruid verwoed in &apos;t aanzicht spuuwen,En barste ik aan &apos;t vergif, zo stierf ik zegenryk.
+VoesterMen wreekt zich allerbest door &apos;t zien van &apos;s vyands lyk.Maar uwe Toverkunst begint allengs te flaauwen.
+MedeaHeb ik de Stieren, met gespleete koop&apos;re klaauwen,Met yz&apos;re hoorenen, en gloeijend ingewand,In &apos;t Juk gespannen, en het veld langs Facis strand,Al druipende van zweet, in wederwil, doen ploegen,Ik zal hem lichter, om myn wraaklust te vernoegen,Voor my doen zwichten, dan die dieren groot van kracht.Al waar hy roem op draagd heeft hy door my volbragt.Heeft hy het land bezaaid met scherpe draake tanden,Daar Krygs-liên, heet op moord, met sabels in hun handenEn heel in &apos;t harrenas uitwiessen tot zyn leed,Ik heb die Menschenoegst, die broeders, bars en wreedElkaâr doen doden, eer zy hem verwoed besprongen.Wie sloot de Draak zyn bek, die drie gesplitste tongenEn zo veel reegelen van tand en kiezen had,Noch dik van groene gal en heet vergif beklad,Daar &apos;t bloedig menschen vleesch by spieren in bleefhangen,Was &apos;t Jazons sabel? neen: ik kwam dat Schrikdier prangen.Ondankbere, gy zult met uwe Bywyf bloên.De Wraak moet Blind zyn of zy is te laf in &apos;t woên.
+VoesterHoe! staat gy naar de dood van die uw hart doorgriefde?
+MedeaDe hartstocht van de wraak is sterker dan de liefde,Zy moeten door geweld, of kunst verwonnen zyn.De Wraak gebruikt of strop of sabel of fenyn.
+Derde tooneel.Medea, Voester, Twee Hofwachten
+Eerste HofwachtHOu stant, wie dat gy zyt, of &apos;t kost u daad&apos;lyk &apos;t leeven.
+MedeaIk wil, in tegen wil van u, ten Hof instreeven.
+Eerste HofwachtZo gy my naad&apos;ren durft ontmoet ik u met kracht.
+MedeaIk wil dat aanstonds werd verplet dit boos Geslacht.
+Twede HofwachtUw wond&apos;ren zyn te kleen, of hebt gy meêr vermoogen?
+MedeaIk zal meêr wonderen maar tot uw schaâ vertoogen,Gy zult voortaan, gelyk een Rots, hier blyven staan.Een ander spiegel zich hoe u dit is vergaan.Deez&apos; Roê heeft kracht om u tot harde steen te scheppen.
+Eerste HofwachtHelaas! och, wat is dit? ik weet my niet te reppen,Myn leden worden hard. Ik zal my aan u wree....Hy veranderd in een Pylaar.
+MedeaUw wreeken is vergeefs, ik maak uw kracht gedwee.Blyf hier op schildwacht staan, om and&apos;ren uit te houwen.
+Twede HofwachtHerschep myn Wachtbroêr, of ik zweer het zal u rouwen.
+MedeaHet zal my rouwen zo ik u niet voort betoom.
+Twede HofwachtIk schrik niet meêr voor u dan voor een Eikeboom.
+MedeaVerander in een Eik voor uw vermeetelheden.
+Twede HofwachtIk voel myn lichchaam van een harde schors bekleeden;Myn armen zyn alreê in telgen vol van blaâ....Hy veranderd in een Boom.
+MedeaAl wie Medea hoond vervalt in ongenaâ.Wykt, trouwe Dienaars, wykt, of ik zal u bezweeren.
+VoesterMevrouw, ik hoor gerucht, ik bid u, laat ons keeren.
+MedeaHoe! keeren zonder wraak? &apos;t zal zo niet overgaan....
+VoesterMyn Dochter, schuil, ei, schuil!
+MedeaWie vrees heeft mag wel gaan.Knield.O schrand&apos;re veinzery! pylaar der wyste Staaten,O hart in gal deursult! en mond vol honingraaten!Bestier myn bitt&apos;re tong en geef ze een zoete klank;Maak dat ik Jazon smeek met een Sireene zank.Staat op.Hoe! is &apos;t geen lafheid? neen! de wysheid komt my raaden.Knield.O eed&apos;le Dapperheid! gehuld met lauwerblaaden,Die u in &apos;t harrenas op &apos;t Dagtooneel laat zien,Vergeef myn veinzery, de nood komt my gebiên.
+Vierde tooneel.Jazon, Kreuza, Medea
+JazonTOen ik het Gulde Vlies te Kolchos had gekreegen,Was heel Thessalien hovaardig op de zegen:Maar nu ik u verkryg is de eer van &apos;t Vlies verdoofd.Een schoon en wyze Maagd word nooit te hoog geloofd.Uw gaaven blinken meêr dan duizend gulde Vliezen.
+KreuzaUw Faam, die in geen eeuw haar luister zal verliezen,Alwaarde Bruidegom, is prikkel van myn min:Maar uw Kreüza vreest.
+JazonWat vreest, myn Koningin?
+MedeaTer zyden.‘Myn boezem barst van spyt: de wraak deurkruipt myn aad&apos;ren.
+JazonWie komt hier op ons aan?
+KreuzaIk zie Medea naad&apos;ren.
+JazonIk zal myn blanke kling rood verwen in haar bloed.
+MedeaKreüza, schoone Bruid, Prins Jazon, vol van moed,De groote Juno moet u in haar kerk ontfangen.Nooit moet de droevige Uil uw oor met lykgezangen,Op &apos;t echte Ledekant, verstooren uwe rust.Uw Bruiloftstoorts zy nooit in traanen uitgebluscht.Ik wensch u, in uw trouw, een stroom van alle zeeg&apos;nen.
+JazonIk, dat u deze dag mag alle ramp bejeeg&apos;nen.
+MedeaIk wensch het vorst&apos;lyk Huis een onverwrikb&apos;re stand.
+JazonIk wensch om u tot asch, eerlang, te zien verbrand.
+Medea&apos;k Wensch dat uw Zaad nooit sterft door overval van moorden.
+JazonVertrek, ik zeg vertrek, uit Kreons Stad en Oorden.
+MedeaIk zal niet roemen dat gy &apos;t Vlies door my genoot.Ik klaag ook niet dat gy my, om Kreüz&apos;, verstoot.Ik heb geen deel aan u, myn voorrecht is vervallen.Ik zoek slechts voor een nacht huisvesting in uw wallen.
+JazonUw mond is vol van zoet, uw boezem vol fenyn.
+MedeaAch! Jazon, laat dit Hof een nacht myn huisvest zyn.Wie vreemdelingen bergt kan vyanden beweegen.Een Ryk, dat gastvry is, verkrygt de rykste zegen.Een zegenryk gewest behoud een vaste stand.Ontzegt gy Ballingen te bergen in uw Land?
+JazonEen Broedermoorster lyd men in geen Hofgebouwen.
+MedeaIk heb myn Broêr alleen verdelgt om u te trouwen.Oprechte liefde toond zich onverzaagd van aard.Een Bruidegom is meêr dan duizend Broeders waard.
+JazonO veinzende Gedrogt! die elk in list doet zwichten.
+MedeaKnield.O schitterende Zon! wiens straalen &apos;t al verlichten,Die, door uw licht, doed zien wat diep verborgen leid,U roep ik tot getuig van myn oprechtigheid:Gy weet dat deze borst geen veinzery kan zetten:Gedoog ook niet, ô Zon! dat zy my komt besmetten;Ik haat haar dubbelheid, die kwaalyk is te ontgaan.
+JazonWaarom is Pelias, gelyk uw Broêr, verraân?
+MedeaZyn Dochters hebben hem in &apos;t laauwe bloed doen baaden.
+JazonGy hebt haar, door uw raad, te schandelyk verraden;Want gy beloofd&apos; hem jong te vormen na het bloên.Geen snooder kwaad dan kwaad in schyn van deugd te doen.Wie raad tot moorden geest heeft de eerste moord bedreeven;Want hy heeft met zyn wil de steek in &apos;t hart gegeevenEer dat de Moorder &apos;t zwaard gesleepen heeft op &apos;t hart.Het werktuig is veel min dan de oorzaak van de smart.Begeef u naar het Noord met uw gehaate vonden.
+MedeaDe Faam heeft duizendmaal met duizend koop&apos;re monden,In &apos;t Noord geblaazen &apos;t lof der deugd van Griekenland,Dies laat my hier in &apos;t West, daar gy de kroon in spand,De deugd der Grieken zien die wy in &apos;t Noorden hooren.De waarheid weet men eer door de oogen dan door de ooren.Het zien heeft groter kracht dan &apos;t zeggen van de Faam.Is uw genadigheid zo groot, gelyk uw naam,Dan zult gy my, geloof ik vast, niet laaten dwaalen,&apos;t Is prinsselyk zyn magt in &apos;t straffen te bepaalen.
+JazonNoch Prinsselyker dat men &apos;t Ryk voor kwaân behoed.
+MedeaEen Prins die oordeel heeft betoond zich zacht van moed.
+JazonWie veilig heerschen wil moet wys en wakker weezen.
+MedeaEen wapenlooze Vrouw behoefd men niet te vreezen.
+JazonMedea, terg my niet.
+MedeaVergun my toch een beê.
+JazonWat is &apos;t verzoek? zeg op, eer ik na &apos;t Autaar treê.
+MedeaDat gy myn Zoons, eer ik vertrek, aan my doet geeven.De zucht tot eigen Zaad kan niemand tegenstreeven.Zelf in geen ongediert, dat redelykheid ontbreekt.De Kind&apos;ren worden van de Moeder best gekweekt.De Vaderlyke zorg bestaat in hoofsche zaakenWie volk beheerschen moet kan voor geen kind&apos;ren waaken.Het Hof vereischt een man die buiten huiszorg gaat.Dies bid ik u, ô Prins! om myn verleede staat,Ach! om uw Stamhuis, dat nooit bystand plag te weig&apos;renEn om uw Daaden, die steil door de starren steig&apos;ren,Dat gy myn beê verhoord, eer ik dit Ryk verlaat.
+JazonVerwacht van my geen Zoons: want gy zoud hen, tot smaad,Doen zitten op uw koets, om hun van vlugge Draaken;Terwyl zy vuur en vlam ten keel en snuit uitbraaken,In &apos;t Noord te brengen, waar dat Taurus zich vertoond:Want dit gehaat Gebergt, van ongediert bewoond,Is &apos;t school van Toveraars en jonge Toveressen,Hier zouden zy, door kracht van uwe toverlessen,Met Wolven, Tygeren, met Leeuwen, scherp van tand,En Beeren speelen, en hun balg met ingewand,Met etter en vuil bloed van rotte lyken vullen:Elk zou zich met een pruik van zwarte slangen hullen,En Winden, Stroomen, Zeên doen luist&apos;ren naar hun wet.My dunkt ik zie hen al beklad van brein en vet,Behangen met een kleed van raauwe menschen huiden,En van een darm omgord, gevuld met toverkruiden,Om, als het Zonlicht zinkt in Thetis Zeespelonk,Heel naar te toeten op een mergelooze schonk:Zy zouden, in de nacht, by Putten, Graven, Galgen,Schavotten, Mikken, Raân, en al wat ons doet walgen,Een snoode bevaard doen, tot schrik van &apos;t aardsch geslagt.De Kind&apos;ren die gy eischt zyn dier van my geächt.
+MedeaIk bid, beweeg de Prins, dat ik myn Zoons mag houwen.
+KreuzaIk heb myn harteleed, o boost&apos; van alle Vrouwen!Tot barstens toe verkropt, om uwe redenstryd:Ik ben getergt, getreên, en overvol van spyt:Zou ik u helpen? neen! ik zoek u fel te hoonen.
+MedeaUw deugden, geest en glans, elk waardig om te kroonen,Zyn starker dan de kracht van &apos;t allergrootst geweld:Gy hebt, Prins Jazon zelfs, die zeêgbaar Oorlogsheld,Die dolle Stieren, Draak, en Krygsvolk kon verpletten,Door uwe krachten, stip doen luist&apos;ren naar uw wetten:Maar dit ontbreekt uw kracht, hoe krachtig dat gy zyt,Dat gy my noch door smaad, noch bitterheid, noch spytKund hoonen, want ik wil uw hoôn gewillig draagen,&apos;k Wil elk mishaagen als ik u slegts kan behaagen.Span al uw krachten t&apos;zaam, en nader my met pyn,Gy zult veel eer vermoeid van my te straffen zyn,Dan ik door last van &apos;t Juk, dat gy myn nek doed draagen.Wie alles lyden kan is starker dan de plaagen.De lasten zyn my licht zo ik u dienst kan doen.
+Kreuza&apos;t Is tyd, ja over tyd om u naar &apos;t Noord te spoên.
+MedeaGeef Jazons Zoons toch meê zo zal ik Noord waars keeren.
+KreuzaHoe! Jazons Zoonen? neen, neen! Dochter van Megeere,De wrêde Cerbrus, die de nooitverzaadb&apos;re PoortVan &apos;t duistre Ryk bewaard, heeft u in Plutoos OordBezwangerd, op dat gy twe Gruuw&apos;len voort zoud brengen;Dit noemd gy Jazons Zoons, de spyt wil &apos;t niet gehengen.&apos;t Is wonder dat de Prins uw lippen niet bedwong.
+Medea‘O Veinzery! gedoog dat ik haar bitt&apos;re tong,‘Met een verwoede hand, uit haare keel mag ryten,‘Ik zalze Jazon, rood van bloed, in &apos;t aanzicht smyten;‘Ja spyk&apos;ren voor zyn mond, zo kan myn wraak bestaan.
+JazonWat spreekt gy aan een zy?
+MedeaDat ik u heb misdaanDoor &apos;t lastig bidden, om myn Zoonen weêr te krygen.De redelykheid gebied, dat ik voor u moet zwygen;Maar, och! Natuur gebied dat ik myn Zoons hier wensch.Het voorrecht van Natuur is starker dan den mensch.De zucht tot kinderen is van Natuur gekoomen.Noch zal ik myn natuur, om dat gy &apos;t wil, betoomen:Ik wil al wat gy wilt: want gy wilt niet dan goed;Of dunkt my kwaad te zien in &apos;t pit van uw gemoed,Zo zal ik myn gezicht noch oordeel niet betrouwen;En is het zeker dat men u voor kwaad moet houwen,Zo zal ik my nochtans heel voegen naar uw wil.
+Kreuza&apos;k Vervloek uw veinzery.
+JazonMedé, zwyg vaardig stil.
+MedeaIk zal stilzwygen om uw ooren niet te krenken;Maar ik zal dag en nacht niet anders doen dan denken:Prins Jazon heeft groot recht dat hy my bitter haat;Kreüza heeft groot recht dat zy my dreigd met smaad,Om dat ik hem en haar verhinder door myn klaagen:Dit denken, hoop ik, zal uw ooren niet mishaagen.Het denken staat elk vry in &apos;t Hof van een Tieran;Maar zo het denken u in &apos;t minst verletten kan,Zal ik myn denken in &apos;t vergetelnat versmooren,En zyn gelyk ik was eer dat ik wierd gebooren,Ja worden dat ik was eer dat ik wierd geteeld.Wat eischt gy meêr van my?
+JazonDat gy my niet verveeld.
+MedeaZie wie hier knield en bid.
+JazonUw tong heeft geen vermoogen.
+MedeaZo zal ik &apos;t heele lyfveranderen in oogen,En storten beeken, vloên, ja golleven, en zeênVan traanen, om uw hart van marmer, week te kneên,En &apos;t vuur te blusschen dat de gramschap heeft ontsteeken.
+JazonLaat los, ik zeg, laat los!
+MedeaLaat my niet langer smeeken.
+JazonUw Kind&apos;ren worden van myn Kamerwacht bewaard.
+MedeaIk zal ze haalen: want ik wyk hier voor geen zwaard.Noch voor geen hekel van wachtspietsen, wreed in &apos;t schennen,Ik zal &apos;er met myn borst, vol moed, op aan gaan rennen,En sterf ik door &apos;t geweer, zo weet ik dat myn bloedMyn oogen luiken zal.
+JazonHoe zyt gy dus verwoed?
+MedeaWaar zyn myn Kinderen, waar zyn zy? in wat hoeken?
+KreuzaEen zaak heb ik aan u, ô Jazon! te verzoeken.
+JazonGy moogt gebieden. dies laat hooren wat gy eischt.
+KreuzaMaak dat Medea met haar Zoons naar &apos;t Noorde reist,Zo zal de twist zich nooit naa onze drempel wenden.Stiefkind&apos;ren weeten Man en Vrouw aan een te schenden.Twedrachtigheid in Trouw is wreeder dan de dood.Ik zweer u andermaal, zo gy haar t&apos;zaam verstoot,Dat gy ons huuwelyk met nektar zult verëeren.
+JazonIk zweer nu dat gy zweert, om niet te laf te zweeren,By &apos;t duister Styx, ik zweer by &apos;t flibb&apos;rig Acheron,By &apos;t bloedige Kocyt, en &apos;t gloeijend Flegeton,Dat ik uw wil zal doen.
+MedeaHoe zal ik u bedanken?
+JazonVerwacht uw Kinderen in &apos;t bosch van popelranken.Wy gaan naar &apos;t Echtautaar. Kom, Oorzaak van myn vuur.
+Vyfde tooneel.
+MedeaZAl dit de trouw uur zyn? ô driemaal heiloos uur!Zal &apos;t eerste trouw verbond voor &apos;t laatste moeten zwichten?O Huuwelyks Voogdes! waar zyn, waar zyn uw schichtenOf is het vuur uws wraaks voor deze Twee te koel?Zo zal ik &apos;t gruuwzaam vuur uit Plutoos JammerpoelVerwoed doen steig&apos;ren, tot schrik van Kreons Muuren.Barst Aarde; barst van een, en braak de felle vuuren,Daar gy het booze Volk al zaamen meê bestryd,Op deeze Twee alleen, nu is &apos;t de rechte tyd:Zo hy &apos;t ontslipt zo moet Krëuz&apos; myn gramschap peijen.Hoe! zal hy lachchen, en Medea, deerlyk schreijen?Neen! dat gedoog ik niet, dat waar te groot een pyn!Zal zy staâg zingen, en ik staâg aan &apos;t zuchten zyn?Neen! &apos;t zou den slaatschen mensch op &apos;t allerheetst vertoornen.Zal hy langs Roozen gaan, en ik langs scherpe Doornen?Neen! een die magt heeft staat naar wraak door loos beleid.Zal zy vol vreugde zyn, en ik vol droevigheid?Neen! want de spyt komt my op &apos;t wreedst tot wraak aan maanen.Zál zy wyn plengen, en Medeäas oogen traanen?Neen! want ik zal haar noch voor nacht in &apos;t graf doen gaan.Zo dit niet vast kan staan, zal ik noch meêr bestaan;Ik zal Proserpina in Acheron opzoeken,En dringen door &apos;t gedrang der Geesten, Spooken, Vloeken,En alle gruuwelen, en bidden haar om raad:Nooit komt hem hulp te laat die zich op haar verlaat.
+Eerste HofwachtWie helpt my uit myn angst?
+MedeaIk heb myn wraak genoomen.Van hem. &apos;k wil, dat gy; als een Sater, hier zult koomen.De eerste Hofwacht veranderd in een Sater.Vertrek uit myn gezicht.Tegen de Tweede Hofwacht.&apos;k Wil dat gy voort verzinkt,En in een droeve zee van jammeren verdrinkt.De Boom zinkt.Nu zullen zy myn kracht aan Jazon niet ontdekken;Mogt ik myn kunst aan hem en zyn Kreüz&apos; voltrekken,Ik stelden my te werk; maar &apos;t Noodlot toont hen gunst.Het Noodlot laat zich niet verzetten van de Konst.Waar blyft de vlugge Boô, die op myn wenk moet passen?Kom, neem my vaardig op, ik moet dit Paar verrassen,Breng my in Plutoos Ryk, zo klimt myn wraak in top.Voort, snelle Nachtboô, voort, voort neem my vaardig op.Medea vliegt met een Geest op.Megera
+Eerste Vertooning voor het twede Bedryf.
+PRins Jazon, met zyn volk, door onweêr aan de stranden,Van Vrouw Hypsyphile, komt daar gelukkig landen:Zy heet hem wellekom uit de ongestuime Zee,Ontfangt hem vrind&apos;lyk, met zyn Helden, op haar Ree,En werd, uit liefde, met zyn ongeval bewoogen;Terwyle zuigt hy vast de vonken uit haare oogen,Zich zelve voelende van zulk een vuur vermandt,Geeft hy zyn hart haar met het geeven van zyn hand.
+Twede Vertooning voor het twede Bedryf.
+HOe ver de spyt en wrok vervoerd gehoonde Vrouwen,Zal deez&apos; Vertooning klaar den Volkeren ontvouwen.Staatzuchtige Amazoons, in byst&apos;ren overmoed.Doen Man en Slaaf, en Kind, hier went&apos;len in hun bloed.Vergramde Hypsiphile, door wraaklust aangedreeven,Staat onversaagd, in &apos;t spits, naar Jazons dierbaar leeven.Zy, een verlaatene, vol wanhoop, druk en smart,Vertoondt hier in een vrouw een dapper mannehart;En zal, al zou zy slaat, gezach, en leeven derven,Niet rusten voor zy is gewrooken door zyn sterven.Men leer&apos;, men kenn&apos; hier uit, wat onheil al geschiedt,Wanneer een vrouw haar man dus buitenspoorig ziet.
+                
+            </div>
+    
+    
+    
+            <div type="act">
+                
+                    
+Twede bedryf.Eerste tooneel.Het Tooneel verbeeld een Stad en Tenten.Hypsipyle, PriestersVrouwen Leger.
+HypsipyleO Vrouwen, groot van roem! ja meêr dan dapp&apos;re mannen,Die uwe Tenten voor Korinthen hebt gespannen,Om u te wreeken aan Prins Jazons trouwloosheên,Nu is &apos;t de rechte tyd om hem op &apos;t hart te treên:Laat ons niet minder zyn dan strydbaare Amezoonen,Die zich in &apos;t Oorlogsveld met speer en boog vertoonen,Om haare vyanden te dompelen in &apos;t bloed.Een zaamgespanne magtbestaat in fiere moed.De fiere moedigheid is moeder van de zeege.Hebt gy de Mannen, door de punt van uwe deegen,Na dat zy zich, tot spyt van u, vermengde metUitheemsche Vrouwen, op ons wettig huuw&apos;lyksbed,Doen baaden in hun bloed, hier zyn de zelfde reden.Ik zal gewapend naar de wal van Kreon treeden,En eisschen Jazon, eer hy met Kreüza paard:Ontzeid hy myn verzoek zo moeten wy, door &apos;t zwaard,De wallen in der yl op &apos;t allerfelst bestryden.Een overwoogen wraak kan kwaalyk uitstel lyden.Kom, Priesteres van &apos;t Heir, bevorder onze zaak:Wy knielen voor &apos;t Autaar van de onverzoenb&apos;re Wraak.Hier word gezongen voor &apos;t Autaar.Uw Zang, met Spel doormengd, baard dappere Heldinnen.
+PriesteresO Nemezis! het heul van al die wraak beminnen.O onvezoenberste! die staâg in Raadhuis, HofEn Tempels toegang hebt, ontsteekt ons offerstof;Waar dat uw vuur verschynt begeerd met kracht te toonen.De Dieren die de Lucht, de Zee en Aard bewoonen,Gevoelen, als haar leed ontmoet, uw vuurigheên.Gy schend de Kinderen, en Ouders tegen een,En mengd de Zee en Aard met vrindebloed en traanen:Ontsteek &apos;t gewyde hout, laat ons niet langer maanen.Wie iet door smeeken krygt betaald eer hy verkrygt.Het Autaar werd van onderen aangestooken.
+HypsipyleIk dank de Wraak nu dat de vlam reeds opwaards stygt.
+PriesteresWaar is het bloed van &apos;t Kind, dat gy, in spyt van &apos;t karmen,Der Moeder, van haar borst, en uit de klem van de armenGerukt hebt? geef het hier; voort, vorder ons gebod:Ik heb het met dit mes de knobbelige strotGeopend, om het bloed tot weêrwraak in te zwelgen.
+HypsipyleO Wraak! ik vang dit nat: het zap van Bacchus telgenBehaagd my minder dan de smaak van &apos;t Grieksche bloed.
+PriesteresMen drinkt het lustig in, om, met een hart vol moed,Terwyl &apos;t de tyd gebied, naar &apos;t wreede kwaad te streeven.
+HypsipyleVoort zweert op myn geweer, tot voorstand van het leeven,Dat gy uw Koningin zult redden uit de nood.
+PriesteresWy zweeren haar met magt, in &apos;t aanzien van de dood,Te volgen of de wraak moet onze hoofden plaagen.
+HypsipyleWie zweert, en de eed vergeet, zal alle rampen draagen.De Wraakvoogdes is streng in &apos;t pleegen van haar recht.Elk maak zich vaardig tot een zegenbaar gevecht.
+PriesteresGelyk gy my dit vuur, o luister der Prinsessen!Door &apos;t overschot van &apos;t bloed, op &apos;t wraakautaar ziet lessen,Moet gy de hetten van uw wraak, door Jazons bloed,Uitblusschen; want de wraak is niet dan enk&apos;le gloed.
+HypsipyleHet Leger is gereed om Lemnos troon te stutten.
+Twede tooneel.Hoofdmanop de WalHypsipyleVrouwen Leger.
+HoofdmanWAt onheil zie ik hier? de wallen zyn van huttenEn oorlogsvolk omheind: ik vrees voor slinks geval:Op, Krygsvolk! Krygsvolk, op! bezet de leege wal.De wallen zyn niet dan door wapens te bewaaren.
+Derde tooneel.Jazon, Hoofdman, HysipyleVrouwen Leger.
+Jazonvan binnen.WIe roept hier dus verbaast?
+HoofdmanIk zie geheele schaarenVan vrouwen naderen, met sceeren in haar hand.
+Jazonvan binnen.Indien het vrouwen zyn zo koomen zy van &apos;t land,Tot eer van onze trouw.
+HoofdmanIk zie haar oogen blaaken.
+Jazonvan binnen.Wie met vorstinnen trouwd zal niet dan heil genaaken.
+HoofdmanZy naad&apos;ren, vol van moed: ik bid u, kom om hoog.
+JazonVoort wapen al de Stad op &apos;t onverwacht vertoog.Verwaande, treê te rug, of gy verliest het leeven.
+HypsipyleWie in een Stad wil zyn, ontziet geen tegenstreeven.
+JazonWat zoekt gy voor Korint, of is u &apos;t brein ontroofd?
+HypsipyleWy eisschen, en &apos;t heeft recht, Prins Jazon of zyn hoofd.
+JazonPrins Jazon! of zyn hoofd! wie durft dus vinnig spreeken?
+HypsipyleWy zyn geharrenast om ons aan u te wreeken.Ik heb myn standers voor Vorst Kreons wal geplant,Om u de taaije huid, met een verwoede hand,Al leevendig van &apos;t vlees, vol heiloosheid, te stroopen;Dan zal ik ze uw Kreüs, in dartelheid verzoopen,Om &apos;t lyf doen hangen, in de plaats van praalgewaad:Ik zal haar hals en borst, voor dierbaar bruidssieraad,Op &apos;t schrikkelykst&apos; pronken met uw uitgerukte darmen:Myn Heir zal vrolyk zyn als zy om u zal karmen,Ja lachchen als zy weend, en zingen als zy zucht.Een die zyn vyand temd, bevind zich vol genucht.Noch weet dit wreed bedryf myn wraak lust niet te stillen;Ik zal de spieren van uw groove schonken schillen,En maaken van &apos;t geraamt een zetel voor uw bruid,Wy zullen &apos;t middelrift, met onze tanden, uitUw boezem scheuren, om haar balg hier meê te vullen.Dan zal ik, schrikt gy niet? al zou het alles brullen,Uw bloed vergaderen, en in uw herssen vatAl bruizend schenken niet om dit gehaaten natMet smaak te zwelgen; neen! wy walgen van die vlieten;Ik zal het uwe Bruid door haare keel in gieten,Zo zal zy proeven wat zich in uw hart verbergt.
+JazonWat zyt gy voor een vrouw dat gy de mannen tergt?
+HypsipyleIk ben de nicht van die de Reuzen heeft doen vallen;Die met zyn staatcykoets, om zegenryk te brallen,Van Panters, Tygers, Beer, en Leeuwen, scherp van tand,Wierd door &apos;t gewelf gevoerd, daar hy zyn zetel plant,Op een Turkooize vloer, vol vuuren die staâg blaaken;Of daverd dit te dof, om my bekend te maaken?Ik, ik ben Bacchus Nicht; nu weet gy wie hier staat.
+JazonDat gy van Bacchus komt, betoond gy met der daad,Want uwe herssens zyn verzoopen in zyn oesten.
+HypsipyleGy geeft my stof om &apos;t ryk van Kreon te verwoesten.
+JazonVoort, zeg my uwe naam, eer &apos;t staal uw borst doorstoot.
+HypsipyleGy ziet Hypsipyle, wel eer uw bedgenoot.Ik ben, in spyt der zee, van Lemnos hier gekoomen:Een die zich wreeken wil, ontziet noch wind, noch stroomen,Noch &apos;t slagz waard van de moord.
+JazonVertrek uit dit Gewest.Want gy word hier gehaat, gelyk de veege pest.
+HypsipyleWierd Jazon, toen hy eerst op Lemnos kwam, verdreeven.Neen, Eerelooze, neen! gy bad my om de steevenVan Argos; &apos;t eerste schip, dat door een harde slootOp &apos;t strand geborsten was, te stoppen, om geen noodTe lyden, als gy &apos;t spoor langs Facis stroom zoud baanen;Jagy verdronkt, op &apos;t land, in &apos;t water van uw traanen,Op dat gy niet by nacht in &apos;t water van de zee,Vol zand, verdrinken zoud: ik toonde my gereê,En heb u in myn stad, ja zelfs, ik zal &apos;t niet schroomenTe zeggen, op uw trouw tot in myn bed genoomen:Ja al de vrouwen zyn met uwe mans gepaart.Ten lesten reisde gy naar Kolchos, wreed van aard,En keerde met Medé, die gy ook durfde trouwen:Maar gy hebt uwe trouw met haar, als my, gehouwen.Nu staat gy naar Kreüs, waarom word ik versmaad?
+JazonGy zyt van my noch van myn volk, uit nyd noch haat,Verlaaten, maar men heeft uw Stad uit schrik begeeven;Want uwe Mans, die gy de moordsteek hebt gegeeven,Verscheenen ons by nacht, met fakkels in de hand:Hun moordwond toonde aan ons het lillend ingewand:Men hoorden anders niet dan klaagen, kermen, zuchten,Doormengd met wee en wraak, dat ons voor ramp deê duchten;Het hair rees ons te berg, en &apos;t hart ontzonk de moed;Wy waaren alzo nat van zweet als zy van bloed.De schrik voor nachtspook kan de stoutste man verzaagen.
+HypsipyleHebt gy de Stieren, en de felle Draak verslaagen,En vreesd gy Geesten? neen! &apos;t is loogen wat gy zegt.
+JazonWy vreesden voor geen Geest, wy hadden grooter rechtOm u te wyken, want zy hadden ons doen hooren,Dat gy uw tweede mans, als hen, in &apos;t bloed zou smooren.Een die men kwaad voorzegt behoord het kwaad te ontgaan.
+HypsipyleEen moedig Krysheld laat zich van geen Nachtspook raân.
+JazonDe raad der Geesten is by wylen goed bevonden.
+HypsipyleEen hart vol moed&apos;loosheid is licht door vrees te wonden.
+JazonEen die voorzichtig vreesd betoond zyn schranderheid.
+HypsipyleWie zonder oordeel vreesd word van zich zelf verleid.
+JazonWie &apos;t eerste kwaad gelukt is noit in top gereezen.
+HypsipyleWie stand houd in zyn trouw behoefd geen kwaad te vreezen.
+JazonEen vrouw die dertel is veranderd licht van lust.
+HypsipyleMogt ik myn lust voldoen, myn vuur wierd draa geblust.
+JazonWat eischt gy?
+HypsipyleDat ik mag na wensch myn wraak verzaden,Verwaandste en lafste Griek, ja, kwaadst van alle kwaaden,Ik zoek myn heete lust te blusschen in uw bloed.Gy zyt niet dan een vat vol alzem, gal en roet.Gehaate mensch: hoe! mensch? ô neen! ik heb misdreeven,Hy is verdwaald; die u de naam van mensch durft geeven:Gy zyt in &apos;t Noorden van een Sneeuwbeer voortgebragt,En op een Ysklip, in een naare duist&apos;re nacht,Van ongediert gezoogt, tot schrik van Land en Steeden,De afbeelding maakt geen mensch; de mensch bestaat in reedenWie zonder reeden leefd betoond zich als een beest.Gy hebt niet dat een mensch gelykt dan uwe leest.De leest is als een schors van vruchtelooze planten.
+JazonVoort, Nicht van Bacchus, voort, met al uw Nachtbacchanten,Zo woest als vol van wyn, vertrek van Kreons wal.
+HypsipyleZou &apos;t Heir vertrekken? neen! Hypsipyle houd stal.
+JazonHoe durft een Vrouwen heir een Stad vol mannen tarten?
+Hypsipyle&apos;t Zyn vrouwe lichchaamen, maar vol van mannen harten.De dapperheid bestaat in eene strydb&apos;re hand.
+JazonWaarom zyt gy niet eer gekoomen in dit Land?
+HypsipyleWie streng wil wreeken eischt eerst tyd om reed te weezen.
+JazonEen die zyn starker tergt heeft alle kwaat te vreezen.
+HypsipyleMyn wraaklust staat zo vast, gelyk een koop&apos;re muur.Kon ik het vrouwen Heir veranderen in vuur,In Toortzen; Fakkelen, in gloende Zwaveldroppen,In Spietzen, Sabelen, in Pylen scherp van doppen;In al wat volk vermoord, en starke steên verslind;Wy zouden van de lucht neerstorten op Korint,En zo lang woeden tot dat alles wierd verslonnen;Zo wierd myn Vyanden zyn geile Bruid verwonnen:Maar zo dit wreeken aan myn wraak geviel te laf,Dan zou ik bidden dat &apos;t Heelal uw ramp verschaf,Zo groot, dat gy geen heil, by iemand, wist te vinden,
+JazonDe gramschap van een vrouw is dolder dan de winden,Die van hun ketenen losbarsten, en door de aardVerwoed uitbreken, dat een gruuwzaam onheil baard.Voor Bosschen, Bergen, en voor scheepen op de Vloeden.Wyk Mannenmoordster, wyk, gy zyt te fel aan &apos;t woeden.
+HypsipyleIk heb myn Man gedood om huuwlyks schendery.
+JazonGy hebt het lyf verbeurd om uwe tieranny.
+HypsipyleIk heb de dood verdiend, dit kan ik niet ontkennen:Vraagt Jazon, om wat kwaad, dat my de dood mag schennen?Om dat ik u, ô spyt! het leeven heb gegund:Want had ik u by nacht, op &apos;t bruiloftsbed, de puntVan &apos;t zwaard in &apos;t hart gedrukt, dan zou ik heilzaam leeven.Een Huuw&apos;lyksschender, mag men, eer hy &apos;t denkt, doen sneeven.Myn bruiloftsdag, ô ramp! verschept zich in een nacht.
+JazonNooit is zo boos een vrouw, als gy, in &apos;t licht gebragt.
+HypsipyleIk ben heel boos, &apos;t is waar, maar &apos;t zyn ook booze tyden;&apos;k Ben op myn zelve boos, hier helpt geen tegenstryden,Om dat ik my op u niet boos genoeg betoon.Een vorstelyke Vrouw verdraagt geen huuwlykshoon.
+JazonGy hebt voorheen gezegt, ô wreedst&apos; van alle wyven!Wy hadden slechts een ziel in twee verscheide lyven,Nu dreigd uw zwaerd myn hart. Hoe! draaid Fortuin haar wiel!
+HypsipyleHad ik &apos;t geluk dat wy niet dan een enk&apos;le zielTe zaamen hadden, dan zou ik my daadlyk wreeken;Want ik zou deze punt dwars door myn hart heen steeken,Zo braakte gy met my uw leeven in een stond;Ik vrees geen dood, zo gy kund sterven door myn wond:Dies wacht ik u in &apos;t veld, in spyt van alle rampen.
+JazonIk ruk het volk by een, om in het veld te kampen.Jazon van binnen.
+HypsipyleO Juno! Trouwvoogdes, begeef u tot de straf:Vergun dat ik Korint, door krygstuig, tot een grafVan gloeijend puin, met bloed doormengd, voor hem mag maaken,&apos;t Begin van wederwraak behoord men niet te staaken.Wie half wil wreeken geeft zyn vyand heele kracht.Slauw gezicht op &apos;t Heir, wy steunen op uw magt.
+Vierde tooneel.Irisop een PaauwHypsipyle, PriesteresVrouwen Leger.
+PriesteresDE lucht ontsluit zich; welk een luister zien onze oogen!Wie daald hier op een Paauw, omheint van reegenboogen?&apos;t Is Iris, de Bodin van Juno, tot ons heil.
+IrisHypsipyle, ik kom, op uw gebeên, van &apos;t steilGewelfzel daalen, om uw ongeval te ontvouwen:Gy zult, zo gy hier blyft, ô Koningin der vrouwen,Door &apos;t krygsvolk sneuvelen in &apos;t heetste van &apos;t gevecht.Dat gy naar weêr wraak tracht bestaat in wettig recht;Maar uwe Mannemoord heeft Junoos wraak doen branden,Een vrouw heeft nimmer recht om mannen aan te randen.Begeef u weder scheep eer Jazon u verrast.Iris vliegt op.
+HypsipyleHoe! zou ik wyken? neen, myn gramschap staat te vast.De dood van Jazon is met onze dood beschooren:Laat my vry sterven als ik in zyn bloed mag smooren;Nooit sterft men liever dan van &apos;s vyands bloed bespat.
+Vyfde tooneel.KreonKreuzaop de WalHypsipyle, PriesteresVrouwen Leger.
+KreonVAn deze Tooren, die de noordzy van de StadVoor borst weêr diend, zien wy het Leger van de Vrouwen.
+KreuzaIk hoop myn Jazon in het harrenas te aanschouwen.
+HypsipyleIk zie het Hofgezin verschynen op de Wal.
+PriesteresMen wacht het krygsvolk best in &apos;t naast gelege Dal.
+KreuzaHier komt myn Bruidegom, gewapend met zyn deegen.En glinsterende schild, ik wensch aan hem de zeegenZo werd myn bruiloftsdag heel Grieken door bemind.
+Zesde tooneel.Kreon, Kreuzaop de WalJazonLeger.
+JazonBEroemde Burgers, van het magtige Korint,&apos;t Schynt schandelyk dat wy een Vrouwen Heir aanrannen:Maar &apos;t zyn Moordressen, en van wie? van haare Mannen.Wie eigen Mans vermoord zal vreemde niet ontzien.Laat ons de Hoofdmoordres het punt van &apos;t lemmer biên,Eer dat zy bystand krygt van haare bondgebuuren.Wy moeten haar, in &apos;t oog van de opgesteege muuren,In &apos;t Dal verdelgen tot een luister van de Stad.Het veld moet deze dag, door &apos;t oorlogszwaard, zo natVan &apos;t bloed der Vrouwen zyn, als &apos;t hof van bruilofswynen.Dat wy in &apos;t harrenas, in &apos;t open veld, verschynen,Is niet uit boosheid, maar door &apos;t parssen van de nood.Ik zie haar Heir alreê op de oever van de dood,En wy op de eerste trap van &apos;t stervelooze leeven.Wie recht en magt heeft diend geen vyand tyd te geev en,Of hy verliest zyn recht, zyn magt en tyd gelyk.Laat ons dan vaardig zyn, om &apos;t Heir in deze wykIn &apos;t bloed te smooren, dat men door &apos;t gevecht zal plengen.Ik wil myn huuw&apos;lyk myrt met krygslauwrier doormengen.Men steek de veldtrompet, op dat ik &apos;t Heir verniel.
+KreuzaHou stand, myn Bruidegom, hou stand, myn halve Ziel,Ik wil met u ten stryd, om my met u te waagen:Zult gy een staale helm op uwe hairen draagen,En ik een roozekrans? dat ly ik nimmer, neen!Zo u een vyandin, als dol, te moet komt treên,Om sabel, speer en pyl, op uwe borst te vellen,Ik zal my, vol van moed, voor uwe boezem stellen,En keeren wat u dreigd, als een getrouwe bruid.
+KreonKreüza, hou u stil, en draag u als een SpruitVan Koning Kreon: laat uw Jazon haar bespringen.
+KreuzaIk zie de Legers op elkanderen indringen.
+KreonHet schrikk&apos;lyk veldgeschrei en stof vervuld de lucht.
+Hypsipylevan binnen.Sta, Hoofdmanninnen, sta! of &apos;t heele Leger vlugt;Ik sta hier op een berg van mann&apos; en vrouwe lyken.
+Jazonvan binnen.Voort, steek de Vloot aan brand, eer zy na strand toe wyken;Zy vechten zonder hoop, de zeege lacht ons aan.
+Hypsipylevan binnen.Hou moed, myn Heir, hou moed! op hoop van lauwerblaân.
+KreuzaO Vader Mars, versterk de pronk van alle Grieken.Kom, vlugge Mingod, kom en leen my uwe wieken,Zo vlieg ik by de Prins, in &apos;t aanzien van de moord.
+KreonHet Leger wend zich na de groote Zuiderpoort.
+Jazonin &apos;t Veld.De scheepen branden, want ik zie de vlamme blaaken:De rook, vol vonken, spreid zich langs de blaauwe daaken:Gelyk toen Faëton, als dol, aan&apos;t hollen was.Het Leger is vergeefs in &apos;t blanke harrenas,Ja &apos;t hoeft van nu af op geen vrije vlugt te denken;Het zal op &apos;t land in bloed, of in de zee verdrenken:Het heeft geen middelpad, het wyken is gedaan.
+KreonMyn Dochter, laat ons naar de haaventooren gaan,Daar kan men &apos;t Leger het dan van deez&apos; poort beöogen.
+Hoofdmanvan binnen.Pimool en Pilades, betoon uw krygs vermoogen;Doorsteekt Hypsipyle, zo word het Heir vertreên.
+JazonHou! zou Hypsipyle door &apos;t lemmer sterven? neen?Toef, toef, myn Hoofdman, toef! betoom uw wreede vlaagen;Haar sterven zou myn hart tot in myn ziel doorknaagen;En zoo ze in &apos;t leeven blyft word ik van haar doorboord:&apos;t Een raad my tot genaâ, en &apos;t ander tot de moord.Wie wys en magtig is moet buiten vreeze leeven.Op, op, myn Hoofdman, op! Hypsipyle moet sneeven.Het vonnis is geveld. Hoe! zal zy sneuv&apos;len? neen;&apos;k Ben meêr aan haar verpligt, al heeft zy my bestreên,Dan aan myn Vader, zy gaf my, uit teed&apos;re liefde,Het leeven, toen myn ramp &apos;t meêdoogend hart doorgriefde,&apos;t Is billyk dan dat ik my voege tot genaâ.Toef, toef, myn Hoofdman, toef! zy zal dan leeven? ja:Waar blyft Kreüza dan, van &apos;t huuwelyk versteeken?Zal ik myn eed met haar, om de eerste trouwëed, breeken?Een die zyn eeden breekt word van elk een gehaat.Maar die een kwaaden eed wil houden, pleegt meêr kwaad,Dan die zyn eeden breekt. Met wie zal ik het houwen?Hier naderd my Kreüze, en maand my aan tot trouwen;Daar komt Hypsipyle, die ik te schelms bevecht:Voor deze pleit de min, voor die de band van de echt:Zo ik de min verstoot verval ik in ellenden:Zo ik myn echt vergeet zal my de straffe schenden.O nood! die vaardig raad, span uwe vierschaar aan:Zal ik Hypsipyle, door &apos;t zwaard, in &apos;t graf doen gaan,Of vluchten voor Kreüz? men moet geen liefde vluchten.Wie dat zyn vyand dood heeft voor geen kwaad te duchten.De nooddwang raad my best. Op, op, myn Hoofdman, op!Verdelg Hypsipyle.
+Hypsipylevan binnen.Wie staat hier na myn kop?
+JazonIk stop myn ooren, of myn boezem wierd bewoogen.Het kermen van een vrouw heeft overgroot vermoogen.Zy moet, spyt eer, spyt eed, spyt trouw naar de afgrond gaan.
+Zevende tooneel.Jazon, Hoofdmanmet het Hoofd van Hypsipyle.
+HoofdmanIK wensch de Prins geluk, dies zwaai de Zegevaân.
+JazonWat hebt gy voor bewys om op uw woord te bouwen?
+HoofdmanIk heb Hypsipyle het hoofd van &apos;t lyf gehouwen,Gelyk gy daar kund zien. Daar legt die oorlogsbuit.
+JazonIs dat Hypsipyle, myn altereerste Bruid?
+HoofdmanDat is zy, die zo stout op Kreons Krygsvolk woede.
+JazonIs dat Hypsipyle, die my in nood behoede!
+HoofdmanIk heb de vonken van haar wraak in bloed gedoofd.
+JazonOch! och! Hypsipyle! helaas! het is haar hoofd;Zyn dat de lippen, daar, ik nektar uit kwam haalen?Ik zie uw oogen: maar ik vind geen held&apos;re straalen.De roos en lely zyn op uwe kaak verdord.Uw hair, daar gy myn hart aan &apos;t u meê had gegord,Hangt vol geronne bloed, doormengd met vuile zanden.Gy hebt geen schuld, ik zelf heb haar, door uwe handen,De gorgel afgesneên. O lydeloos bedryf!Kom, stoot uw zwaard, dat rood van bloed is, door myn lyf,Ik heb met haar geleefd, en wil ook met haar sterven.
+HoofdmanMind gy een Schepzel dat haar man het licht deed derven?
+JazonHaar Man had zulks verdiend, want hy was valsch van aard;Zy heeft haar Vader, dat geen ander deed bewaard.
+HoofdmanEen Vrouw behoord haar Man voor Vader te beschermen.
+JazonIk hoor, helaas! ik hoor, ik hoor haar deerlyk kermen!Voort, haal haar lichchaam, voort, en voeg het by haar hoofd.
+HoofdmanHet Lichchaam is vertreên en heel van glans beroofd.
+JazonZo haal haar schim, of is &apos;er meêr dan schim te vinden,Zo voeg het by elkaâr, ik zal my onderwindenNatuur te dwingen, dat zy haar het leeven geefd.
+HoofdmanBegeerd gy dat een Vrouw....
+JazonIk wil dat zy weêr leefd;En wie hier tegenspreekt word van myn hand geschonnen.
+HoofdmanDie gy in &apos;t leeven door uw lemmer hebt verwonnen,Verwind die u, nu zy door &apos;t zwaard verslaagen leid?
+JazonOp, Leger, Hoofdman, op! en krab uw borst, ja schreid,En ruk uw hairen uit, om Jazons aâm te smooren,Ik wil niet leeven nu zy &apos;t leeven heeft verlooren:Ik heb het zwaard gewet, gy gaaft niet dan de slag.O trouwe Bedgenood! ik heb de staale dag,Op &apos;t aanbeeld van de Moord, tot uw bederf doen smeeden;Het staal heeft door uw hals tot in myn hart gesneeden,Twee moorden met een slag! wie heeft dit ooit gehoord?O dubb&apos;le Moordenaar! ik heb myn Vrouw vermoord.Een die zyn Vrouw vermoord heeft gruuwelen bedreeven.Een die zich zelfs vermoord is vyand van het leeven.Wie &apos;t leeven tegenstreefd betoond zyn heilloosheid.Hoe zal dit klinken als de Faam dit kwaad verbreid;Prins Jazon, heeft het Veld door zyn geweer behouwen:Maar hy verwon een Heir van weerelooze Vrouwen.O schand! ô smaad! ô spyt! en boven dit gemoed,Heeft hy zyn Vrouw, &apos;t is schelms, doen smooren in haar bloed.Al wat ooit wreedheid was moet voor myn wreedheid zwichten.
+HoofdmanWie vyanden verdelgd, bewyst niet meêr dan pligten.Gy hebt uw pligt voldaan.
+JazonO Hoofd! dat vrouw NatuurVan Roozen, Lelien, Robynen, Paerlen, Vuur,Yvoor en Gontdraad, op het konstigst&apos;, wist te vormen....
+HoofdmanIk zie Kreüz van veer, dies spreek van &apos;t zeegbaar stormen.
+JazonOch! waar ik met myn Schip gezonken by uw Strand,Zo leed gy, tot myn leed, geen schipbreuk op dit Land:Maar gy hebt my gered, op dat ik niet zou sneeven;En zelf ben ik de klip daar &apos;t schip van uwe leevenZich op te barsten stoot, ja, gy zyt in de zeeVerdronken van uw bloed: weê my ontmenschte, weê!
+HoofdmanHoe! mind gy die u haat, en scheld als een ontzinde?
+JazonDit is een teken dat zy my oprecht beminde.Voort, haal het gulde Vlies, heel Griek en door geloofd,Ik zal &apos;er dit Juweel, dit kostelyke hoofdOpzetten, als de Zon in zyne goude zaalen.Een held&apos;re diamant behoord in goud te praalen.
+HoofdmanGy weet dat de eerste min door de andre wort verzet.
+JazonVoort, vlieg na Hyble, zelf naar Pindus en Hymet,Drie Bergen die de Lent beschilderd heeft met Bloemen;En pluk de schoonste van al die men schoon moet roemen,En vlechtze tot een krans, om op dit hoofd te staan,Maar breng noch lelien noch versche roozeblaân;Want zy verstrekt de Roos en Lely aller vrouwen.
+HoofdmanO allergrootste Griek!
+JazonStaaf, of &apos;t zal u rouwen.
+HoofdmanIk laat u hier, ô Prins! nu gy &apos;t begeerd alleen.
+JazonVruchtbaarende Aarde, zinkt gy niet voor Jazons schreên?Ik ben veel zwaarder van vervloekte afgryslykheeden,Dan uwe Lichchaam vol van Bosschen, Bergen, Steeden.Voort spalk uw kaaken en verslin my in uw borst:Het Aardryk schrikt voor my, om dat ik schelms bemorstEn dronken ben van &apos;t bloed, dat ik langs &apos;t veld deê bruissen.Gestarnde Wonderen, ontsluit uw wapenhuizen,En lost uw wraakgeschut op Jazons heilloos hoofd.Hoe! is dan alle wraak, en &apos;t schrikk&apos;lyk vuur gedoofd?&apos;t Schuuwt alles my, het licht verduistert door de dampen.Onmeetelyke Zee, die my aan boort dorst klampen,Toen ik naar Kolchos voer, span al de kragten aanDie gy te zaamen bragt, toen gy, o groot bestaan!De Waereld in uw schoot van golleven kwam domp&apos;len;Uw zoute vloed moet my alleenig overromp&apos;len:Want ik ben boozer dan al &apos;t Aardryk zaamen was:De Zee vertrekt van angst, zy vreest haar zoute plas,Zo zy my overstelpt, voor eeuwig te besmetten.Wil de Aard, noch Hemel, noch de Zee dit lyfverpletten,Zo zal ik, door vergif, of strop, of staal, het padVan Pluto zoeken: neen! want in zyn gloênde StadZou my Hypsipyle by Radamant aanklaagen.Waar dat ik my begeef ontmoet ik niet dan plaagen.
+HoofdmanIk bid ontveins uw min, of gy ontdekt uw hart.
+JazonZo ik myn min ontveins verdubbel ik myn smart.
+HoofdmanKreüza zal uw smart verzachten door het trouwen.
+JazonDe mannen, ik beken &apos;t, zyn slaaven van de vrouwen.Ik doe, zo ik ontveins, myn eerste min geweld.
+Achtste tooneel.
+Kreuza, Jazon, HoofdmanMYn Jazon, leefd gy noch? hoe is &apos;t in &apos;t oorlogsveld?
+JazonWie vol van moed begind zal endelyk verwinnen.Hier ziet gy &apos;t bloedig hoofd, van &apos;t Hoofd der vyandinnen:Dat haatelyke hoofd, dat hoofd, gelyk een gryns;Het hair is, als een trots van slangen, vol fenyns;Dit hoofd is afgerukt op &apos;t bakkes van Meduze,Ontfang deze offerhande, alwaardige Kreüze,Tot zegenteken van myn overwinnend zwaard.
+KreuzaLandloopster, Steedeplaag, die niet dan onheil baard,Gy hebt geen enk&apos;le trek die Jazons hart kon trekken:Ik zal uw aangezigt met slym en gal bedekken,En krabben uwe kaak met scherpe nagels op;Ja booren de oogen met myn vingers uit uw kop:Het lust my met uw tong op &apos;t allerfelst te stryden:O bits en bitt&apos;re tong! &apos;k zal u ten keel uitsnyden,En prikk&apos;len met een priem, en zo &apos;t uw geest gevoeld,Zo word myn heete wraak, tot in het hart verkoeld.Een die zyn wraaklust koeld kan loff&apos;lyk zegevieren.
+Negende tooneel.Kreon, Kreuza, Jazon, Hoofdman
+KreonO Overdapp&apos;re Held! gy hebt de Lauwerieren,Gelyk Kreüz&apos;, verdiend door uwe strydbaarheid.Ik wil dat uw bedryf door Grieken word verbreid,En zo men dit verzwygt zo zal &apos;t de Faam vertolken.Een loffelyke daad verspreid zich door de wolken.
+JazonWy hebben &apos;t Heir verdelgd tot luister van uw Staf.
+KreonGaan wy na de offerkerk en danken die dit gaf.Dans van de Gevolge vanFlora
+Vertooning voor het derde Bedryf.
+DAar ziet men Plutoos Hof, ruim in zyn ommegangen,&apos;t Geen duizend poorten teld, om duizende te ontfangen,De booze Helhond steekt drie hoofden uit zyn hol,En bast geduurig met drie keelen luid en dol.De steen van Sisifus roldt eeuwig op en neder;Ixion werd aan &apos;t radt gewenteld heen en weder;En Tantalus ontzakt den stroom in dezen grond,En de appels boven &apos;t hooft ontglippen zynen mond.Daar ziet men Tisifon, door endelooze wrokken,Zyn hairen schudden, vol van kronk&apos;lende adderlokken.Gints staat Prometheus, die oneindig werd geplaagd,Om dat zyn lever groeid terwyl zy word geknaagd.Medea, die door wraak en wanhoop is ontsteeken,Soekt, uit een euv&apos;len moed, van echtbreuk zich te wreeken;Zy roept de Hel tot hulp, daar ze onversaagd in daald;Waar door zy Jazon, in zyn kwaad doen, achterhaald.Hier word een Dans vanFurienVertoond.
+                
+            </div>
+    
+    
+    
+            <div type="act">
+                
+                    
+Derde bedryf.Eerste tooneel.Het Tooneel verbeeld de Hel.
+MedeaHIer zyn wy in &apos;t gezicht van Plutoos yz&apos;re muuren,Omheint van Stroomen, die doormengd met zwavelvuuren,De lucht benevelen van &apos;t onderaardsche Ryk:De vlam en rook vertoond hier nacht en dag gelyk,Twee Vyandinnen die elkander fel bestooken:Het grimmeld overal van yzelyke spooken,Gehuld met Slangen, en met fakkels in de hand.Ik zie, waar dat ik kom, een gruuwelyke stand;De Poel is magtig om afgryslykheên te teelen.Ik treê maar onverzaagt, op lyken, bekkeneelen,Doodshoofden, schinkels, en geraamte, vuil beklad.Het dorre strandbosch is van brein en bloed bespat,Doormengd met traanen, merg, en woedende fenynen.Laat and&apos;re schrikken waar dat gruuwelen verschynen,Ik ben, door dit gezicht, tot in myn ziel, te vreên.Wie Tovery bemind heeft zucht tot gruuwlykheên.Kom, gaan wy naar de poort vol grendelen en krammen,Die Herkles met zyn knots, spyt Cerbrus op kwam rammen,En streefde verder tot daar hy het heiligdomVan Pluto heeft ontdekt: ik zie een dichte dromVan Spooken naad&apos;ren, om te koomen in deze Oorden:De staale poort deur is heel rood van mensche moorden.Hier woond de bitze Nyd, die niemand zeege gund;Daar &apos;t yzer Oorelog, dat door de scherpe puntVan haare sabel &apos;t bloed der Volken weet te zwelgen.Gints woont de Tweedracht, heet op steeden te verdelgen,Gewapend van de Twist: in dit gehaat GewestVerschynd de koude Dood, en overheete Pest,Haar veegste Dochter, die haar schicht wel laat verroesten,Maar als &apos;t haar moordlust wil meêr lyken weet te oestenIn eene dag, dan al haar Zusters in een jaar.Al wat den mensch bestormd verschynt hier by elkaâr.Het Lusthof van de Poel heeft lust in heilloosheden.
+Twede tooneel.Medea, Charon
+Charonvan binnen.WIe naderd Plutoos poort: om in zyn Ryk te treeden?
+MedeaIk ben een sterflyk mensch, en zoek na Charons boot.
+Charonvan binnen.Sta af, ik zeg, sta af, hier woont de felle Dood.
+MedeaZo ben ik niet verdwaald; dies laat my binnen streeven.
+Charonvan binnen.Wie brein heeft zal zich niet in Plutoos Ryk begeeven;Hier binnen worden niet dan heilloosheên verbreid.
+MedeaWie hulp in de Afgrond zoekt ontziet geen heilloosheid.
+Charonvan binnen.Hier hoord men anders niet dan schrik&apos;lyke geruchten.
+MedeaHet jammerend geween, het overnaare zuchten,En &apos;t gruuwzaam tandgeknars is my een schelle klank,Al wat vervaarlyk klinkt dient my voor maatgezang.
+Charonvan binnen.Wat zyt gy voor een mensch dat gy ons komt bezoeken?
+MedeaIk ben Medea, die de spooken op kan vloeken.
+CharonNu kom ik uit myn hol: wat hebt gy te gebiên?
+MedeaStamp met uw Riem op de aard, zo zult gy wond&apos;ren zien.
+CharonDaar stamp ik dat het kraakt van binnen en van buiten.Charons Riem draagt Roozen.
+MedeaZiet gy uit uwe Riem geen versche roozen spruiten?
+CharonHeeft uwe kunst meêr kracht, zo doe my meêr bewys?
+MedeaIk zal deez&apos; dorre boom, door &apos;t raaken van een rys,Verscheppen in een mensch. Nu ziet gy rappe leeden.Hier veranderd de boom in een naakt kind.
+Derde tooneel.Boomkind, Medea, Charon
+BoomkindWAar ben ik in wat Oord? ei! moeder, geef my reden.
+MedeaGy zyt hier voor de poort: verzink, eer ik u dwing.Het Kindverzinkt.
+CharonAl wat gy hier vertoond acht ik noch voor gering.
+MedeaNu staat gy met uw voet op Ida, ryk van boomen.Op &apos;t stampen van haar voet, veranderd de Hel in een Bosch.
+CharonO vreemde wonderen! wie durft hier nader koomen?
+MedeaHier ziet gy Venus, heel omheint van minnegoôn,Daar toond zich Pallas, die een helm, in plaats van kroon,Op &apos;t hulzel heeft; zy is verzeld met Zanggodinnen:Gints naderd Juno daar men schatten door kan winnen,Zy heeft de Rykdom, en haar Iris aan haar zy;En dit is Paris, die de schoonste van de dryDen gouden Appel geest, daar Trooijen door verbranden.Dans van Paris oordeel.
+CharonIk wraak de glans van &apos;t licht, dies toon my Plutoos stranden.
+MedeaNu hebt gy, naar uw wensch, de Poel weêr in &apos;t gezigt,Medea veranderd het Bosch in de Hel.
+CharonO groote Toveres! ik ben aan u verpligt:Ik zal u voeren daar de zwarte Spooken krielen:Zelf daar Hypsipyle, gevolgt van vrouwe Zielen,Die ik in de Afgrond bragt, voor Radamant zal staan.
+MedeaLaat my van &apos;t gloeijend strand in uwe Veerboot gaan.Medea treed, met Charon, in de boot.
+CharonNu zyt gy in myn boot, om over Styx te landen:De baaren, die gy om de steeven heen ziet branden,Zyn vol van zwavel, harst, salpeeter, pik, en teer.Medea, hou u stil, ons naakt onstuimig weer.
+MedeaWy nad&apos;ren Plutoos Stad, ik zie de poort verschynen.Hier vertoond zich Cerberus, die vuur braakt.
+CharonZie Cerberus, die stout zyn koppen, vol fenynen,Afgryzelyk verheft, tot noodweer van de poort:Zyn oogen zyn vol vuur, zyn klaauwen graag naar moord:De hairen grimmelen vol Slangen, scherp van tanden:Hy braakt, nu gy hier komt, zyn gloeijende ingewanden,Door zyn drie keelen, om dat gy te rug zult gaan.
+MedeaIk durf, op hoop van hulp, het allerstoutst bestaan.
+Vierde tooneel.Radamand, Hypsipyles Geest, Minostwee Spooken.
+RadamandWAt zyt gy voor een Vrouw, dat gy aan Styx komt stranden?
+HypsipyleIk kom uit Grieken, een der trouwelooste Landen.
+MinosHoe komt gy dus bebloed in de onderaardsche Kolk?
+HypsipyleIk ben om hals gebragt van Jazons Oorlogsvolk.
+RadamandWat reden gaaft gy hen, dat zy zich zo verstoorden?
+HypsipyleNooit heeft men reden om de vrouwen te vermoorden.
+MinosEen Vrouw die zich vergrypt heeft tegens &apos;t recht misdaan.
+HypsipyleWaar mannen Rechters zyn kan &apos;t vrouw volk niet bestaan.
+MinosKom, nader, om uw naam en uw bedryf te ontvouwen.
+HypsipyleIk ben Hypsipyle, de Koningin der vrouwen,Die de opperryk staf van heel Lemnos heb gezweid;Een Eiland dat Euroop van Azien afscheid,In &apos;t oog van Athos en de harde Tracer stranden,Waar dat Vulkaan zyn smits, die Etna tart in &apos;t branden,Zyn aanbeelden van staal en gloeijende ovens steld:Het Landschap schud en kraakt, en daverd door &apos;t geweldDer mookerslaagen van zyn grofgeschonkte Reuzen:Als Vader Jupiter, om &apos;t boos geslagt te kneuzen,Zyn stompe schichten, vol vuurstraalen, vlam, vol staalEn moord laat smeeden, komt hy uit zyn hooge Zaal,Tot roem van &apos;t Eiland, in Vulkanus smitsberg daalen.Laat Kreeten met het graf van Jupiter trots praalen,Wy pronken, met groot recht, met onze gloende kolk.Veel landen zyn bekend, door de ondergang van &apos;t volk;Maar Lemnos heeft haar saam, door kracht van kunst, genooten.De poort van de Afgrond word door ons met grendelslootenEn ketenen bezorgt voor Herk&apos;les trots geweld.Dies mag ik gaan, met recht, in uw gelukkig Veld.
+RadamandGy moet ons reeden van uw gruuwzaam moorden geeven.
+HypsipyleIk heb nooit moord gedaan: maar al wie and&apos;ren &apos;t leevenBeroofden, heb ik fel doen straffen door het staal.
+RadamandGy hebt uw echte Man; in &apos;t midden van de zaal,En al de Vrouwen die uit and&apos;re GewestenOp Lemnos kwaamen, eer gy uwe bloeddorst lesten!Met haare zoons vermoord! wat maakte u zo verwoed?
+HypsipyleToen &apos;t steenig Traciën, zo schelms als wreed van moed,Ons volk, met grooter winst dan &apos;t haar door zee zag vaaren,Begon &apos;t myn scheepen, die vol ryken Waaren waaren,In spyt van &apos;t vreêverboud, te rooven door gevecht.Een heiloos Land ontziet noch Zee noch Havenrecht.Wie zucht tot rooven heeft verbind zich aan geen eeden.Ons volk hier door getergt, en hart op &apos;t hart getreeden,Begafzich endelyk, door nooddwang, in &apos;t geweer.Minerve greep noch nooit zo vaardig na haar speer,Noch Mars naar &apos;t oorlogszwaard, noch Jupiter, ervaarenIn &apos;t schichten werpen, toen zy al gedwongen waarenTestryden met het heir der Reuzen, grof van leên.Wy hehben &apos;t zwalped Nat al bruizende door sneên,En Traciën, met magt van wapens, overvallen:De roovers wierden diep in &apos;t puin van haare wallenBegraaven, tot een schrik van al die zeên bevecht.Een die rechtvaardig woed, bediend getrouw het Recht.Ten lesten keerd de vloot, vermoeid van mannen moorden,Met roof van vrouw en kind, tot ramp van Lemnos Oorden;Want deze vrouwen, haar slaavinnen, maakten alDe mannen van ons Land, ô yinnig ongeval!Tot slaaven van haar lust, en teelden end&apos;lyk kind&apos;ren,Toen hebben wy de mans, om &apos;t overspel te hind&apos;ren,Met hun by wyven en de zoons, dat haat&apos;lyk zaad,Op eene nacht verdelgd. Nu weet gy &apos;t noodig kwaad.
+RadamandHoe! staat gy &apos;t moorden toe, daar gy straks tegen, blasten.
+HypsipyleNeen, ik beken dat wy al de overspeelders sraften.
+RadamandDe straf op overspel mag slechts by &apos;t Recht bestaan.
+HypsipyleIk was het hoofd van &apos;t Recht, en heb hen recht gedaan.
+RadamandEchtbreekers staan ten straf, maar niet van eigen vrouwen.
+HypsipyleWie overspeelders straft behoefd geen maat te houwen.
+RadamandWie zonder oordeel straft vervalt in &apos;t zelfde kwaad.
+HypsipyleDe hand van een Vorstin gebruikt haar eigen raad.
+RadamandWie wreekt in schyn van straf word zelf tot straf verweezen.
+HypsipyleVorstinnen hebben voor geen hooger magt te vreezen.
+MinosWie &apos;t volk aan wet verpligt, verpligt zich zelf aan wet.
+HypsipyleEen Koningin word nooit zo naauw een park gezet.
+MinosHet past geen vrouw haar man de gorgel af te snyden.
+HypsipyleWie fier is kan geen vreemd op haare bedkoets lyden.
+MinosDe bylust van een Vorst heeft in het Hof groot recht.
+HypsipyleWie buiten &apos;t huuw&apos;lyk mind vergrypt zich tegens de echt.
+RadamandEen die haar man vermoord schend huuwelyk en leeven.
+HypsipyleWie Schelmen &apos;t licht beroofd, heeft geen geweld bedreeven.
+RadamandGehoorzaam ons gebod; hier mag geen twisten zyn.
+HypsipyleDaar &apos;t Recht gêen reden lyd is &apos;t Recht geen meêr dan schyn.
+MinosEen die beschuldigd word behoord niet stout te spreeken.
+HypsipyleEen die zich vry bevind behoord ook niet te smeeken.
+MinosWeet gy wel wie hier zit?
+HypsipyleWeet gy wel wie hier staat?
+RadamandEen die haar eigen man deed sneuv&apos;len door verraad.
+MinosWaarom hebt gy de zoons, dat kind&apos;ren zyn, doorsteeken?
+HypsipyleDe kind&apos;ren zyn gezind hun vaders dood te wreeken.
+RadamandEer kind&apos;ren mannen zyn is al de staat hersteld.
+HypsipyleEen die zyn wraak ontveinst is starker dan &apos;t Geweld.
+RadamandDe Wraak is door vernuft en tyd gedwee te maaken.
+HypsipyleWie jong zyn leed verkropt zal oud aan &apos;t wreeken raaken.
+RadamandVerjaarde hevigheid verkrygt een koele moed.
+HypsipyleDe ontvonkte doovekool is overheet van gloed.
+RadamandGy word hier aangeklaagd, en zoekt ons op te houwen.
+HypsipyleEen wyze Rechtbank zal de zwakke en brosse vrouwenAltyd verschoonen, om haar tedere natuur.De vrouwen zyn te laf om &apos;t blaakerende vuur,Dat in haar boezem leid, door eigen kracht te lesschen:Noch heeft het vuur meêr kracht in heerschende Princessen.De Grooten zyn versterkt, door &apos;t voorrecht van hun staat.Een vrouw is heet of koel, zy houd geen middelmaat.Een aangebooren aard is qualyk te verzetten.De wetten van Natuur zyn de allerstarkste wetten.Zo gy myn zwakheid straft zo word Natuur bestreên.Al wie Natuur bevecht betoond zyn heevigheên.Een heevig Rechter, moet men &apos;t Rechterampt ontzeggen.
+RadamandZou een, die haar geweld Natuur te last durft leggenDe straf ontkoomen? zo zal een boosaardig WyfZich zinloos veinzen voor &apos;t bestaan van &apos;t boos bedryf.De straf verstrekt de deugd een overzeegbaar wapen.Natuur is goed zo zich een mensch maar droeg rechtschaapen,Zo eigenzinnigheid Natuur niet had verkragt.
+HypsipyleGy steunt op uw geweld, en ik op myn Geslacht.
+RadamandHoe wilt gy datmen u na uw bedryf zal hand&apos;len?
+Hypsipyle&apos;k Wil in &apos;t gelukkig Dal, vol Myrtebossen, wand&apos;len,By Prinssen, Koningen, Vorstinnen, groot van magt,En Helden, vol van moed, waar dat men danst en lacht.
+RadamandGy moet u naar ons Recht, de wil van &apos;t Noodlot, voegen.
+HypsipyleIk heb doorgaans getracht om &apos;t Noodlot te vernoegen,En heb het sterk bevel daar van altoos volbragt.
+RadamandVoort, breng haar in &apos;t Vertrek, maar hou aan de uitgang wacht.Hypsipyle binnen.Hypsipyle betoond zich overwys te weezen;Wy hebben voor haar Geest het allerkwaadst te vreezen;Want zo zy al &apos;t geheim van &apos;t Noodlot aan de schaarDer Zielen eens ontdekt, is de Afgrond in gevaar:Zy zullen ons, om vry te raaken, fel bestryden.&apos;t Zou best zyn dat men haar, om oproer te vermyden,In &apos;t vrolyk Veld deed gaan, zo vreesd zy voor geen pyn.Wie wys wil Rechten moet by wylen reklyk zyn.
+MinosWie vrees laat blyken word zyn achtbaarheid benoomen.
+RadamandIk vrees niet, maar ik zorg, om niet tot vrees te koomen.Wie mêer wil dan hy kan gaat buiten zyn bestek.
+Minos&apos;t Is raadzaam dat men haar ontbied uit ons Vertrek,En van &apos;t Vergeetelnat in allerhaast laat proeven.
+RadamandVoort, haal Hypsipyle, de tyd lyd geen vertoeven.
+Vyfde tooneel.Hypsipyle, Radamand, Minos
+HypsipyleIK kom, op uw gebod; hoe hebt gy u beraân?
+RadamandDat gy voor avond in &apos;t gelukkig Veld zult gaan.Wy willen u van daag, uit gunst, genâ bewyzen.
+HypsipyleLaat my voor deze dag, door de Aard, in Grieken ryzen,Om Jazons bruiloft te versteuren door myn schim;Vergun my dit verzoek, op dat ik vaardig klim.
+MinosHet word u toegestaan, om uw verleede Staaten.
+HypsipyleNu zal ik Jazon, die my trouw&apos;loos heeft verlaaten,Bestooken op zyn feest, met een verstoord gemoed,En jaagen zulk een angst, door de ad&apos;ren, in zyn bloed,Dat naberouw zyn hart afgrys&apos;lyk bits zal knaagen.Een schelms geweeten kan men lichtlyk doen verzaagen.Indien myn dit gelukt, dan is myn wraak voldaan.
+Zesde tooneel.Medea, Hysipyle
+MedeaWAt zyt gy voor een vrouw, dat ik u hier zie staan?
+HypsipyleHet is Hypsipyle, die gy hier kund beschouwen,De rechte Koningin van Lemnos, ryk van vrouwen.Maar zeg my wie gy zyt, die hier in &apos;t vleesch verschynd?
+MedeaGy ziet Medea, die van enk&apos;le spyt verkwynd,Om dat Kreüz van daag met Jazon poogt te huuwen.Ik kom om Proserpyn, daar andere voor gruuwen,Te bidden dat zy dit helpt stuiten door haar raad.
+HypsipyleIk ga na Jazon, die Medé, als my, verlaat,Om hem zyn boos bedryf tot in het hart te drukken.
+MedeaMedea wenscht dat u deez&apos; aanslag mag gelukken.
+HypsipyleHy zal verzaagen als ik my by hem laat zien.
+MedeaHier komt Proserpina, ik zal haar op myn kniênOntmoeten, want ik heb haar zo wel meêr bewoogen.Haar Staatsy waagen word van Spooken voortgetoogen;Zy heeft haar kroon op &apos;t hoofd en ryksstaf in de hand.
+Zevende tooneel.Proserpinaop een WagenMedea
+ProserpinaWY zyn hier veer genoeg, dies hond voor &apos;t eerste stand.Hier zwaai ik met myn oog door de onderaardsche Kolken.Laat Juno langs een vloet van blaauw turkooische wolken,Vol held&apos;re starren treen, ik wyk haar niet in magt:Zy is niet dan een Lid van &apos;t opperste Geslagt:Ik mag het heiloos volk naar myn gevoelen plaagen.
+MedeaO groote Koningin! ik kniel voor uwe wagen.
+ProserpinaMedea, wat is dit! wat jaagd u in ons Ryk?
+MedeaDe nood; de groote nood!
+ProserpinaGeef reden, of toon blyk.
+MedeaMyn uitgemergeld vel, myn natbetraande wangen,En hairen, die gy heel door een verward ziet hangen,Zyn blyken van myn nood, en &apos;t nypen van de smart.
+ProserpinaLaat een die &apos;t wreedst gemoed, en &apos;t allerhardste hartDoet sidd&apos;ren, die de knots zou Herkules ontwringen,En dwingt door Tovery, zich van een ander dwingen?Voort, zeg my wie het is daar gy vol pyn door leefd.
+MedeaGy weet dat Jazon my al lang verlaaten heeft,Nu zoekt hy, door de trouw, zich by Kreüz te zetten.
+ProserpinaKund gy dit Huuw&apos;lyk door uw kunsten niet beletten?Voort span uw krachten in, zo volgt gy onze wet.
+MedeaIk heb al wat ik kon gelyk te werk gezet:Maar alles was vergeefs op zyn verharde zinnen.
+ProserpinaDaar kunst vergeefs is moet men met geweld beginnen.
+MedeaWie met zyn starker stryd word end&apos;lyk neêr geleid.
+ProserpinaWie kunst en kracht ontbreekt zoekt heil aan listigheid.
+MedeaWie heil door list begeerd moet vyanden genaaken.
+ProserpinaDoor veinzen kan men met zyn vyand vriendschap maaken.
+MedeaGeveinsde vriendschap is by vyanden verdacht.
+ProserpinaWie wys kan veinzen heeft een ongemeene kracht.
+MedeaWie eens bedroogen heeft is kwaalyk te betrouwen.
+ProserpinaMen wantrouwt slecht van mans: maar niet van zwakke vrouwen.
+MedeaHet veinzen van een vrouw heeft meenig man verraân.
+ProserpinaWat wilt gy dat ik doe?
+MedeaDat gy my by komt staan.Wie iemand helpt uit nood, kan hem aan zich verpligten.Ik zweer by uwe staf, daar duizenden voor zwichten,By uw getakte kroon, met paerelen vereerd,Zelf by die naare Vloed daar Jupiter by zweerd,Dat ik, zo gy my helpt, al stond ik in het middenVan alle rampen, u niet meêr om hulp zal bidden;Vorstin Proserpina, verhoor myn droef geklag.
+ProserpinaIk zal, o Voesterkind! ik zal op deze dagU helpen, eer Kreüz op &apos;t bruiloftsbed zal treeden.
+MedeaWie roem door hulp begeerd, betoond zyn mogentheden.Medea barst van spyt, zo zy geen hulp verwacht.
+ProserpinaIk heb drie stoffen van een overgroote kracht;Ja scherpe stoffen met geen tongen uit te schreeuwen,Die, na &apos;t verloopen van ruim zes en twintig eeuwen,Met yzer, staal en loot, in &apos;t woeste legerveldZo woeden zullen, dat de menschen, door &apos;t geweldDer lichte bliksemen, en zwaare donderslaagen,Zelfs &apos;t brullende ongediert, in bosschen, en in haagenVerschuilen moeten, om hun ongeval te ontgaan:De bergen zullen door dit stof in stukken slaan,De Hooven morsselen, en Tempeldaaken scheuren;Ja &apos;t zal de Wallen uit haar diepe grondvest beuren,En voeren, heel doormengd met menschen, door de lucht,Dat Hemel, Aard en Zee, door &apos;t daverend gerucht,Verschudden zullen, spyt haar onverwrikb&apos;re spillen;Jupyn zal, op &apos;t geluit van huilen, schreeuwen, gillen,En donderen, verbaast van zyne zetel zien,En vraagen of &apos;er, om de Waereld te gebiên,Een nieuwe Jupiter ten trots hem komt braveeren:Dan geeft men deze stof, daar &apos;t oorlog by zal zweeren,De naam van bussekruit, ja booskruit in de stryd.
+MedeaHoe dien ik my hier van? eizeg! en op wat tyd.
+ProserpinaDit zal geschieden dat geen oog &apos;t geheim kan merken:Ik heb het; om myn kunst op &apos;t krachtigst uit te werken,Geslooten in een kroon, die ik voor u opsluit:Toen vloekte ik driemaal met zo hees en schor geluid,Dat my de hairen zelfs, door &apos;t gruuwzaam vloeken, reezen,De bitze Cerbrus, die voor onheil scheen te vreezen,Heeft driemaal, op myn vloek, door zyn drie keelen, naarEn ysselyk geblaft, de lyvelooze Schaar,Begon te sidderen, en Pluto te bezwyken.Gy zult Kreüza, om uw gunsten te doen blyken,De kroon toestieren, en doen zetten op haar hoofd;Zo word haar leeven, als het goud haar raakt, beroofd:Want dit verburge vuur zal op haar pruik ontsteeken.Een die zich wreeken wil moet zich op &apos;t zekerst wreeken.
+MedeaMet welk een dankbaarheid zal ik uw groote gunstGenaaken? o Godin! waar blyft de kroon vol kunst?Myn zinnen schynen door &apos;t vertoeven te verwarren.
+ProserpinaMyn vlugge Kamerboô, het is geen tyd van marren,Ga in myn Kunstvertrek en haal myn koop&apos;re doos.
+MedeaEen enkel oogenblik schynt my een lange poos.Waar blyft de kroon? waar is.....
+ProserpinaStaak, staak uw heet verlangen.Kom, volg my; want gy zult de kroon van my ontfangen,En zeegevuuren eer de zon de lucht verlaat.
+MedeaMyn heil beslaat alleen in &apos;t vord&apos;ren van de daad.
+Vertooning na het derde Bedryf.
+NEptuin, Saturnus zoon, met wit besneeuwde haaren,Stookt met zyn drietandt op de onmeetelyke baaren,Hy staat by Amfitriet&apos;, het doelwit van zyn min,Die met haar Dolfyn hem geduurig legt in &apos;t zin;Terwyl de Tritons met Kinkhoorenen trompetten,Om zyn gevreest gezag in hoogen top te zetten;Najaden juichen op dat schaterend geluid,Waar van de galm op rots, en berg en stranden stuit.Eöol, de Grootvorst van de worstelende Winden,Laat zich met zyn Gevolg by deez&apos; byeenkomst vinden.Al de Elementen staan, op vrouw Medeaas beê,Dienstvaardig; zy beweegd, en Aarde en Wind en Zee,Om Kreons hof, door vuur, uit de onderaardsche hoolen,Door Eölus geweld, te zien in gloênde koolen.De rustelooze Wraak, die staal en steen verteerdt,Is nooit verzaadigd, voor zy &apos;t al ziet omgekeerd.Hier word een Dans vanWindenVertoond.
+                
+            </div>
+    
+    
+    
+            <div type="act">
+                
+                    
+Vierde bedryf.Eerste tooneel.Het Tooneel verbeeld een Tempelzaal.
+MedeaO Groote Hecate! Vorstin der naare Kolken,Die op uw yz&apos;re troon, omheint met zwarte volken,Uw koop&apos;re Ryksstaf zwaaid, bestier uw toverkracht,Ik zal, tot dankbaarheid, in &apos;t naarste van de nacht,Recht op een driesprong, een driekante steen oprechten,En naad&apos;ren dit Autaar met ongevlochte vlechten;Met merk van wolleven, en slibb&apos;rig ingewandVan jonge kind&apos;ren, dat ik, met deze hand,Gerukt heb uit haar borst, om u te vreên te stellen:Dan zal ik, met een boek, bereid van maagdevellen,Gezangen zingen, die met bloed geschreeven zyn;De hooren van een stier, gevuld met scherp fenynVan een verwoede draad, voor offerkelk gebruiken;En &apos;t doodshoofd van een leeuw, vol brandende ybestruiken.Voor zwaaijend wierook vat, dies sterk my in myn wrok:&apos;k Zal Jazons bekkeneel uithollen tot een klok,En Kreons mergschonk in het hol voor klepel hechten,Kreüzaas zenuwen en darmen zaamen vlechten,Om de opgehange klok te kleppen met die koord:Ik wacht op deze klank de roodgeverfde Moord,De rustelooze Twist, een pest voor volk en Staaten;Het toomeloos Geweld, gegespt in harnasplaaten;De looze Veinzery, en Wraak, vol bloed en gal:Dan zal ik driemaal, met dit schrikkelyk getal,Om &apos;t blaakend Autaar gaan, vol menschen ongeltoortzen;Ja driemaal knielen, met een siddering van koortzen,En driemaal schreeuwen, met zo overgroot een kracht,Dat Hemel, Aard, en Zee, tot schrik van &apos;t aardsch geslacht,Weêrgalmen zullen; dies versterk my in myn lijen,Laat uwe Dochteren, de felle Razernijen,Door de aard&apos; heen breeken, om Medea hulp te biên;Ik hoor de kroon alreê by Jazons Bruid te zien.
+Twede tooneel.Voester, Medea
+VoesterO Overblyde stond! o overdroefbeveelen!
+MedeaHoe! blyde en droef gelyk, hoe kund gy dit verdeelen?
+VoesterIk heb uw kinderen gekreegen uit het Hof.
+MedeaO Voester! ik beken, dit is een blyde stof:Maar laat my hooren wat tot droefheid kan verstrekken.
+VoesterKreüza wil dat gy, o droefheid! zult vertrekken.
+MedeaDat is een order die my niet dan blydschap baard:Korinten noch dit Ryk zyn myn verblyf nier waard.Hebt gy de kroon besteld, om Jazons Bruid te smooren?
+VoesterDat zal zo voort geschiên, de tyd is eerst gebooren:Want Jazon en Kreüz zyn vaardig om te gaanNaar &apos;t huuwelyks Autaar: u kan geen wraak onstaan.
+Medeaknield.O Vader Jupiter! beschermer aller Grooten;O Juno Schatvoogdes! en band der Echtgenooten;En gy, ô Venus! die het hardste hart doorwond;O gy, Getuigen van ons huuwelyksverbond!Vergun dat ik Kreüz, door list, in de aard doe duiken.Wie zwak en wys is moet bedekt geweld gebruiken.Het sterven van Kreüz zal my een leeven zyn:&apos;t Verbranden van het Hof een held&apos;re zonneschyn:Ja Jazons kermen zal Medé tot vreugd gedijen.O Huuw&apos;lyks Voogden en Voogdessen! help my strijen:Vergeef Medea zo zy zich niet vinnig wreekt.
+VoesterHier komt het Hof, &apos;t is best, dat gy u voort versteekt.
+Derde tooneel.Priester, Kreuza, Jazon, Voester, Offerdienaarsbeelden van Juno, Pallas en Venus.
+PriesterHIer staan drie troonen, om uw huuwelyk te vieren,Elk draagd een Autaar, rood van &apos;t bloed der Offerdieren:Dat pronkt voor Juno, die de Huiszorg gâ leerd slaan:Dat blaakt voor Venus, daar de Liefde voor moet staan;En dat voor Pallas, die de Wysheid voor komt draagen,Drie Zuilen, die &apos;t Gewelf van &apos;t huuw&apos;lyk onderschraagen:Want zonder zulk een steun vervalt het Echtgebouw.Voort, breng de duiven tot een voorbeeld van de trouw.Getrouwde moeten als gepaarde duiven weezen.Men offer hier geen gal, of u stond twist te vreezen;&apos;t Is heilloos als de Twist in &apos;t huis van &apos;t huuw&apos;lyk brult.Geef my de goude Kelk, met zoete mee gevuld,Doormengd met zerpe wyn, om &apos;t walgen te verhoeden.Zo mengd men in de trouw de voor met tegenspoeden.
+KreuzaNu vrees ik geen Medé.
+JazonDie is al lang in &apos;t schip.
+KreuzaIk wensch dat zy haar kiel mag mors&apos;len op een klip.
+VoesterAch! ach! Medea, ach!
+JazonWat heeft Medé bedreeven?
+VoesterZy heeft haar geest, helaas! zo daadelyk gegeeven.
+KreuzaHoe! is Medea dood? zo leef ik buiten druk.
+JazonHoe kwam zy aan haar dood? verhaal ons &apos;t heele stuk.
+VoesterMet dat myn Voesterkind haar kind&apos;ren had ontfangen,Heeft zy haar voort omhelst, en kusten mond en wangen.Het moederlyke hart heeft zucht tot eigen zaad.Zy schonk u deze kroon, haar moeders hoofdsieraad:Maar toen zy docht dat zy moest zwerven op de baaren,Sloeg zy de vingers, dol van gramschap, in haar hairen,De vuisten voor haar borst, en nagels in &apos;t gezicht;Ten lesten greepze een zwaard, zo scherp gelyk een schicht,Dat zy tot driemaal op haar bloote boezem zetten:Tot driemaal toe kwam ik haar wreede hand beletten:Maar end&apos;lyk dompeld&apos; zy het snydend zwaard, ô smart!Tot aan &apos;t gevest toe in de bloedbron van haar hart.In &apos;t vallen scheenz&apos; haar Zaad erbarmlyk te beöogen;De Dood is dwars door &apos;t bloed ten moordwond ingevloogen,En dreef&apos;er leeven, dat het hart bewoond, weêr uit.Haar Kind&apos;ren schreiden, met een deerelyk geluit,En mengden &apos;t schuimend bloed met biggelende traanen.
+JazonWaar is het koude Lyk?
+VoesterHet leid in de ype laanen.
+JazonVoort, breng de kind&apos;ren hier, en berg het Lyk op &apos;t land.
+VoesterOntfang de kroon, ô Bruid! van de oude Voesters hand.Dit was haar laatste wil, voor de uitgang van haar leeven.De wil van een die sterft behoord men plaats te geeven.
+KreuzaIk zet de kroon op &apos;t hoofd, vol flonk&apos;rend Diamant.
+Voester&apos;t Gesteent verwacht op &apos;t hoofd een leevendiger brand.
+Priestergeknield.O Juno! Echtvoogdin, verschyn ons met uw reijen;Laat Hymen, Bruiloftsgod, zyn held&apos;re fakkel zweijen.Hier werd gezongen.
+Voester&apos;t Is tyd dat ik vertrek eer &apos;t vuur zich openbaard.
+Priester, Kreuza, Jazonknielen.O Huuw&apos;lyks Vorsten, en Vorstinnen! mild van aard,Begunstigd deze trouw met uwe ryke zeegen.Wie met &apos;t Autaar begind, betreed geen slinkze weegen.
+JazonVrouw Junoos Pronkbeeld lacht met de oogen vol van glans.
+PriesterOp, wakk&apos;re Dansschaar, op, vertoon de Bruiloftsdans.
+JazonIk zie hier daald een Kloot, met wolken overtoogen.
+PriesterDe Geesten van Korint betoonen hun vermoogen,Om Jazons huwelyk te looven na waardy.Daar opend zich de Kloot en toond een SchilderyVan zeven Starren, die door &apos;t blaauw gewelfzel zweeven:De gunst van dit Gestarnt betekend heilzaam leeven.Komt een Kloot af, daar de zeeven Planeeten in zitten; en, na dat zy gedanst hebben, weêr om hoog verdwynd.
+JazonHier is noch kunst, noch zweet in deze Dans gespaard.
+Priester, Kreuza, Jazonknielen.O Huuwlyks Voogden, en Voogdessen! mild van aard&apos;,Begunstigd deze trouw met uwe ryke zeeken.Wie met &apos;t Autaar begint betreed geen slinkze weegen.
+Jazon, KreuzaWy danken de Offeraar voor &apos;t vieren van de trouw.Donder en bliksem.
+PriesterWat hoor ik voor gedruis? het kerkelyk gebouwBegint te dreunen, ja te kraaken en te scheuren:De slooten, ketens en de grendels, die de deurenVan Junoos Hoofdkapel bezorgen, slaan geluit.De Geest van Hypsipyle blust het offervuur.
+JazonWat Spook, helaas! wat Spook! doofd de offerhanden uit?De Wolken barsten op, en braaken bliksemstraalenEn donderklooten: sluit, ô Lucht! ei! sluit uw zaalen.
+Vierde tooneel.Hoofdman, Jazon, Kreuza, Priester
+HoofdmanOCh! huuuw&apos;lyks Priester, och!
+PriesterHoe zyt gy dus ontsteld?
+HoofdmanIk zie een zee van bloed: de lucht is vol geweld:De marm&apos;re Beelden ziet men warme traanen weenen:Men hoord de Kind&apos;ren in haar moeders lichchaam steenen;De Honden janken naar, en barsten schichtig los:De Wolven koomen uit het naast geleege bosch,En raak en op de markt afgryzelyk aan &apos;t huylen:Het grimmeld in de lucht van havikken en uilen:De grond heeft, driemaal na elkaâr, van angst, gezucht,En scheurde wyt van een met onverwacht gerucht,En braakte spooken, die met adders zyn behangen:Het krield door al de stad van kronkelende Slangen,Die gruuwzaam bliezen in het oor van de onderdaân:Men ziet in de ope lucht veel wondertekens staan:De bange Burgers hoord men zuchten, kermen klaagen.In deze ontsteltenis vertoonde zich een WaagenMet draaken in de lucht, waar dat Medé op zat:In haare slinke hand had zy de toom gevat,En in de rechte een roê: &apos;t was schrikk&apos;lyk in &apos;t vertoogen.
+JazonDe Voester, heeft, ô spyt! het heele Hof bedroogen.
+KreuzaMen knield op de aarde op dat het onheil weêr bedaard.Zy knielen en spreeken te gelyk.O Huuwlyks Vorsten, en Vorstinnen! mild van aard,Begunstigd deze trouw met uwe ryke zeegen.Wie met &apos;t Autaar begind betreed geen slinkze weegen.De Kroon die Kreüza op &apos;t hoofd heeft raakt in brand.
+KreuzaHelp, Jazon, Jazon, help! ik ben in droeve stant.
+JazonWat deerd, myn waarde Bruid?
+KreuzaMyn Vlechten zyn aan brand.Betoon, dat bid ik u, betoon aan my uw pligten.
+JazonIk zal de goude kroon van uwe hairen lichten.
+KreuzaLaat staan, ik bid! laat staan, de kroon is veel te vast:Gy doed my, nu gy trekt, een dood&apos;lyk over last.
+PriesterWat Wonder ziet men hier! de kroon begint te ontvonken.Medea heeft het vuur, uit Plutoos nachtspelonken,Ik deze kroon gebragt, tot weerwraak van haar leed.
+KreuzaOch! berg my in &apos;t Vertrek, om &apos;t vuur, zo fel als heet,Door kunst, te lesschen, eer de vlammen hooger blaaken.
+Vyfde tooneel.Geest van Hypsipyle, Jazon, Priester, Offerdienaars
+HypsipyleGEhaate Griek, hou stand.
+JazonWie komt my hier genaaken?
+HypsipyleVerraader, valsche Schelm, die elk in boosheid tart,Draai uw gezichtstraal om, en zie tot in uw hart,Daar zult gy leezen, dat ik hier om wraak kom zweeven.Elk mensch vind zyn bedryf in &apos;t blad van &apos;t hart geschreeven:&apos;t Geweeten houd &apos;er boek, van alle kwaad bemorst.Voort open de gordyn van uw verwoede borst.Dat heilloos moordhol, vol van bloedige tooneelen,Gy zult &apos;er &apos;t boos Bedrog haar valsche rol zien speelen,Gevolgt van Trouwloosheid, en &apos;t afgebrand gemoed.Gy zyt, als uw Kreüz, smoordronken van myn bloed,En haakt noch om uw balg vol bruilofts wyn te zwelgen.Hoe! schrikt gy voor myn schim, en dorst gy &apos;t lyf verdelgen?Gy zoekt uw heil vergeefs in schaduuw van dit dak.Myn fakkel, die ik aan het vuur der wraak ontstak,Zal u een bruiloftstoorts, die vinnig blaakt, verstrekken,De vlam die uw Kreüz het hoofd begind te lekken,Is &apos;t lykvuur dat haar heel tot asch verteeren zal.
+JazonWaar berg ik my van angst? o onverwacht geval!
+HypsipyleGy vind geen zekerheid al gingt gy u verschuilenOp hemelhoog gebergt in diep gezonken kuilen,Langs golven zonder strand, en bosschen dicht van blaân.De gramschap van de Wraak is door geen vlugt te ontgaan.Ik zal uw ziel, als zy het lichchaam heeft begeeven,Met myn ontsteken toorts tot in de Poel naarstreeven,En daagen u daar voor de Vierschaar van dat Ryk.Wee, Trouwelooze, wee! dat ik dit Hof ontwyk,Is om Medea, die naar wraak staat, plaats te maaken.
+Zesde tooneel.Kreon, Jazon, Priester
+KreonWAt moordgeschreeuw vervuld de koninglyke daaken?Ik ly geen onheil in de Tempel van myn Hof.Een blyde Bruiloftsdag gedoogt geen droeve stof.Wat is &apos;er gaans? zeg op: wat ramp komt u verdrukken?
+JazonMedea heeft, ô ramp! o gruuwlyk ongelukken....
+KreonWat heeft Medea, zeg, wat heeft zy hier bestaan?
+JazonMyn Bruid is door de kroon, die zy haar schonk, verraân:Want al de takken zyn vol heete toverijen.
+Kreuzavan binnen.Help! Vader, Vader, help! uw Dochter is in lijen:De vlam verteerd myn bloed, en knaagd naar &apos;t ingewand.
+Hoofdmanvan binnen.Help! Kreon, Kreon, help! Kreüza is vol brand,En &apos;t vuur dat haar verslind verspreid zich door de zaalen.
+KreonVoort, laat ons &apos;t ongeval door wakkerheid bepaalen.
+PriesterIk sluit de Tempel voor een grooter ongeluk.
+JazonOp! Lyftrouwanten, op! en helpt my uit myn druk;Begeeft u in der yl gewapend naar de scheepen,Eer dat de Voester vlucht, gy moet haar herwaards sleepen,Maar houd haar streng geboeid. Wie een doodschuldig manLaat slippen uit zyn hand, als hy hem houden kan,Verdiend geen minder straf dan die de straf ontloopen.
+Zevende tooneel.Medeaop een Waagen van twee draaken voortgetrokken.Jazontwee Spooken.
+MedeaVErwaande Griek, hou stand, gy hoeft niet eens te hoopenDat uwe Vyandin met ketens word geprangd:Sla uw gezicht om hoog, Medeaas waagen hangtIn &apos;t midden van de lucht: hier daald zy met haar kind&apos;ren.De Spooken weêrhouden Jazon.
+JazonIk zal u met myn Zwaard....
+MedeaSta, af, of&apos;t zal u hinderen;Zo gy my dreigen durft zo zyt gy roereloos.Dat ik geweeken ben was voor een korte poos.Wie wis wil wreeken eischt eerst tyd om reed te weezen.Een die zyn Ega wraakt heeft alle kwaad te vreezen.Uw trouwelooze trouw verwacht geen and&apos;re zaak.
+JazonIk bid u om genaâ.
+MedeaIk ben te heet naar wraak.
+JazonIk bid, ô groote Vrouw! ik bid u, om myn zoonen.
+MedeaUw bidden diend om my op &apos;t schandelykst te hoonen;Zo lang als gy my bid pleeg ik geen weder wraak:Dit is voor my, ik zweer &apos;t een haatelyke zaak.Wie wraak wil pleegen moet zyn vyand fel bezoeken.Gy bid my; maar als gy my vinnig zult vervloeken:Zal ik gelooven dat myn wraak zich wyt verspreid:Nu vloek ik vinnig op myn eige laffigheid.
+JazonWeen! Grieken, Grieken, ween! Kreüza is verslonnen.
+MedeaLach! Kolchos, Kolchos, lach! myn weêrwraak is begonnen,Ik heb door moorden van myn allerjongste Broêr,Op Pontus meir geleerd, dat ik op Kreons vloer,Uw haatelyke zoons, al lachend, durf verdelgen.
+JazonZo gy, o wreede Vrouw! uw balg vol bloed wil zwelgen,Zo open deze borst daar manlyk bloed in zit.
+MedeaIk wil niet dat gy sterft; ik heb een ander wit:Ik wil dat gy noch lang in myn gezicht zult leeven.Ja die uw leeven dreigd zal ik de doodsteek geeven:Doch &apos;t leeven word u niet van my uit zucht gegund:Maar om dat gy zult zien, hoe deze hand, de puntVan &apos;t lemmer stooten zal in uwe kind&apos;ren harten.Dit leeven zal u meêr dan duizend dooden smarten,Om dat gy uwe zoons meêr dan u zelfs bemindMaar had gy uwe zoons zo vuurig niet bezind.Dan zou ik u in &apos;t oog van uwe zoons doorsteeken.Een die zich wreeken wil moet zich op &apos;t felste wreeken.
+JazonUw boezem word, o schrik! van wreed gedrogt bewoond.
+MedeaMy past zo wreed een aard, want ik word wreed gehoond.
+JazonDe Faam is krachteloos om uw bedryfte mellen.
+MedeaIndien de Faam myn wraak niet hoog ten toon wil stellen,Zal ik myn eigen gal doormengen met het bloedVan dit vervloekte Paar, en schryven hoe verwoedIk my gewrooken heb aan Jazons trouwloosheden;Zo zal nooit man zyn Vrouw zo tegens &apos;t recht vertreedenDe Uitheemsche worden in Korinten recht ontzeid.
+JazonWord u het hart niet week nu dat uw Jazon schreid?
+MedeaDoor traanen word het week al waar &apos;t omheint van steenen;Maar gy verhard myn hart: neen! ik lach om uw weenen.
+JazonHoe! lacht gy nu ik ween? ô smaad! o smart! o pyn!
+MedeaZo gy aan &apos;t lachchen raakt, zal ik aan &apos;t weenen zyn;Want tusschen u en my kan geen verzoening weezen:Zo ik met u verzoen zo schyn ik u te vreezen.Bevreesd te heeten is een lydelooze hoon:Ik zou, om deze naam te ontgaan, my zelve doôn.
+JazonAch! al myn luister word hier op een tyd verslonnen.
+MedeaAls uwe roem, door my, op &apos;t Aardryk is verwonnen,Zo klim ik verder op, door al de starren heen,Langs &apos;t spoor dat Herkules zeeghaftig heeft betreên,Om Argos, uwe Schip, vol tintelende starren,Geduurig in een wolk van nachten te verwarren;Zo word uw roem om hoog als hier om laag verdoofd:Dan zal ik, dit staat vast, schoon &apos;t Jazon niet gelooft,Myn vlotte Wagen in de plaats van Argos planten,En dicht bezaaijen met gestarnde diamanten,Die heller flonkeren, dan &apos;t zonlicht zich laat zien:Indien de Hemelleeuw myn toeleg wil verbiên,Zal hy myn krachten, spyt zyn klaauw en tanden, voelen;En poogt de Waterman myn krachten te verkoelen,Zo domp&apos;len wy hem in zyn eigen watervloên.Ik zal, zo &apos;t noodig is, het scherpe Scorpioen,De Steenbok, Ram en Stier, afgryzelyk in &apos;t stooten,En schaaren van de Kreeft, op &apos;t allerfelst onslooten,Stomp maaken, door de kracht van schrander Toverdicht.De Schutter moet zyn boog ontspannen, en zyn schichtVerbranden in het vuur dat my van wraak doet blaaken.Wie dapper weêrstand bied kan zich ontzachlyk maaken.De Visschen, Twelingen, de Schaal en Maagd, vol pracht,Bezwyken voor myn komst: zo worden, door myn kracht,De Twaalef Teekenen op &apos;t Zonnespoor gebonden.Ik zal de halzen van de flikkerende HondenEn bitze Beeren, die by &apos;t Noorder aspunt staan,Aan ketens sluiten, en heel kort aan band doen gaan.Orion zal zyn zwaard vergeefs tot woeden wetten.Ik leef alleen om uw vermoogen te verpletten;Dat dit de waarheid is zal ik u voort doen zien.
+JazonDe spyt doorsnyd myn hart. Laat reden u gebiên.
+MedeaUw spyt is veel te kleen; dies moet ik hooger draaven.Ik zal, om u meêr spyt te doen, een van uw SlaavenVerkiezen tot myn Boel, en op uw ledikantDoen hoonen, dat gy &apos;t ziet: in &apos;t blussen van myn brand,Zal ik, tot spyt van u, uw trouwloosheid verwyten:Ik schroom geen vuil bedryf, als ik u al de spyten,Die al de menschen t&apos;zaam bestormen, weet te doen;En zo myn overspel u spyt weet aan te voên;Zo spyt my dat ik u niet eer met spyt kwam kwellen.
+JazonIk zweer dat ik my weêr by u als man zal stellen.
+MedeaVerwaand en boos Gedrocht, verkropt van schelmery,Ik zweer dat ik my zelf verfoei, zo ik dit ly:Myn ooren zyn besmet door u te hooren smeeken:Myn mond heeft straf verdiend dat zy met u durft spreeken;Myn oogen zyn verbeurd dat zy u durven zien,Zo my de Wraak niet straft, nu zy dit ziet geschiên,Behoord men haar, als een die pligt vergeet, te straffen.
+JazonIk bid, Medé, ik bid...
+MedeaDe Moord zal ze u beschaffen.
+JazonAch! geef myn kinderen: hoor hoe uw Jazon vleid.
+MedeaDaar zyn uw kind&apos;ren: is Jazon nu gepeid?Zy smyt de Kinderen uit de Waagen, en vliegt weg; de twee Spooken verzinken.
+JazonIk hoor, helaas! ik hoor haar bekkeneelen kraaken.
+MedeaNu vlieg ik met myn koets, die van twee vlugge draakenWord door de lucht gevoerd, naar een gewenscht &apos;er land.
+Achtste tooneel.
+Jazonalleen.WIe zag ooit kind&apos;ren van haar eigen moeders hand,O gadelooze moord! zo onverzoenlyk kneuzen?O Groote Jupiter! hebt gy het heir der Reuzen,Om hun vermetelheid, met bergen overdekt,Gy word door dit bedryf, tot straffen opgewekt:Of weet gy tot dit kwaad geen straftuig uit te vinden,Zo ruk de bliksemen, moorddonders, woeste winden,Slagregens, haagelen, aardbeevingen, en alWat schenden kan, by een, en stormen overval.Medea, waar zy vlucht met haare helsche waagen.Een die zyn zoons vermoord verdiend de zwaarste plaagen.
+Negende tooneel.Hoofdman, Jazon
+HoofdmanVErzet uw ongeval, ô Prins! zo wyt vermaard.
+JazonOch! och! myn Zoonen, och! gy storten hier op de aard;Maar ploften op myn borst, om &apos;t hart tot wraak te wetten:Dit zyn, o schrik! dit zyn Likaöns moordbanketten.Gy brakt uw leeden door de val, o bitt&apos;re smart!Maar &apos;t breeken van uw leên brak vaders moedig hart.Gy zwemd in rookend bloed, en ik in brakke plassen.Wat voor een winterstroom durft uwe lent verrassen?Zo word het ooft, eer dat het ryp is, afgeplukt;Medé heeft my met u gelyk in &apos;t graf gerukt.Daar wyn moest vloeijen, zie ik bloed en traanen leeken:Ik wensch myn leeven te verdrinken in de beeken,Om by de schimmen van myn kinderen te gaan.De kind&apos;re zucht heeft magt om alles uit te staan.Waar zag het aardryk ooit het bloed van kind&apos;ren plengen?Ik zal uw bloed, o Zoons! met Vaders bloed doormengen;Myn boezem is gereed, waar is het scherpe zwaard?
+HoofdmanGrootmoedig Prins, hou stand, en toon een dappere aard.
+JazonWie &apos;t lieve leeven mind, ik moet de dood beminnen.
+HoofdmanEen die zich zelf vermoord betoond zich zonder zinnen.
+JazonIk walg van &apos;t leeven: want ik zwem in tegenspoed.
+HoofdmanWie zich om rampspoed dood ontbreekt een heldemoed.
+JazonEen hart dat sterven kan behoefd geen ramp te wachten.
+HoofdmanEen die zyn ramp verzet heeft ongemeene krachten.
+JazonHier zyn myn kind&apos;ren van Medeaas hand gedood.
+HoofdmanWat gruuwel zie ik hier? op, Jazon, op! doorstootMedea, zo zult gy u op het vaardigst wreeken.Men mag zyn vyand, maar zich zelve niet doorsteeken.Een die zyn vyand dood word leevendig verbreid.
+Tiende tooneel.Priester, Jazon, HoofdmanHier ziet men, na &apos;t openen van een gordyn, in een Rouwkamer; daar zich het Lykhed van Kreüza, onder boogen vol toortzen, door zwart floers, vertoond.
+PriesterZIe hier, ô Prins! zie hier, waar uw Kreüza leid:Haar lykbed hoefd niet voor haar bruiloftsbed te zwichten.
+JazonGy hebt haar bed versierd met tallelooze lichten:Maar &apos;t licht van haare glans is van de dood beroofd.Zy plukt in haare lent te wrang een herrefst ooft.Ik vind hier lyksipres in plaats van bruilofts roozen.Men dist hier bitt&apos;re gal voor nektar en ambrooze.Uw trouw-en sterf uur zyn te dicht by een gesteld.O ongenadig lot! ô doodelyk geweld!Medé heeft u te wreed, door haar geweld, doen sneeven!Haar gift was vol vergift, haar geeven was vergeeven.Het vuur dat u ontstak ontsteekt my hart tot wraak,
+HoofdmanBedroefde Bruidegom, wy zullen uwezaak....
+JazonWeen! Zoonen, Zoonen, ween! stort duizend oceaanen,Nu dat uw Vader weent, van ziedend heete traanen,En laat ons bruisschen, door de zwallepende vloên,Naar &apos;t Elizeesche Veld; ik vrees geen tegenspoên:Wy zullen ons in &apos;t schip van Goedehoop begeeven:De zeilen, zyn, door Min, van zuchten t&apos;zaam geweeven:De Zorg zal &apos;t dieploot zyn, en Wakkerheid &apos;t kompas,De Liefde staat by &apos;t roer, om &apos;t Schip naar &apos;t hels MoerasTe stieren, door de zeen, die uit onze oogen leeken:De balglast die het voerd, zyn klagten, kermen, smeeken,En zuchten, om op zee niet om te kunnen slaan:Kreüza is de Star daar &apos;t Schip op aan moet gaan:Ik wil, met haar, van daag, by Pluto bruiloft houwen.Waar heen? wy zyn te veer, stryk &apos;t zeil of &apos;t zal u rouwen;Maar blus Kreüzaas vuur, zo red gy haar uit nood.
+HoofdmanBedaar, ô Prins! bedaar! want uw Kreüze is dood.Wie hoog wil klimmen zal veel ongeval genaaken.De rampen dringen meest in koninglyke daaken.Fortuin vernoegd zich niet in huizen laag van stant.
+JazonMaak plaats! ik zeg, maak plaats! of gy zult van myn hand....Wat hoor ik voor geluid? ach! ach! het zyn myn zoonen.Hoe! roept gy my tot hulp? ik zal uw hulp betoonen;Myn krachten zyn gereed. Wie riep my daar van var?Zyt gy &apos;t, myn fiere Bruid? ik kom, myn Morgenstar;Ik kom, myn Middagzon, ik zal u daad&apos;lyk trouwen.
+Priestervan binnen.Op, Hovelingen, op! en help de Koning houwen:Hy trekt zyn hairen uit van enkel ongenucht.
+Kreonvan binnen.Laat los, noch eens, laat los! eer dat Medea vlucht.
+Elfde tooneel.Jazon, Kreon, Hoofdman
+JazonWIe komt hier naderen?
+KreonWie dwingd my hier te spreeken?
+JazonDe Groote Jupiter.
+KreonZo heb ik stof tot wreeken:Want myn Kreüza is te schandelyk verraân.
+HoofdmanMyn Koning, zyt gerust, zo gy na wraak wilt staan,Hier ziet gy Jazon zelfs, en heel tot wraak geneegen.
+JazonZyt gy tot wraak gezind? ik ben om hulp verleegen.
+KreonVoort, wys de Toveres, zo heeft myn gramschap werk.
+JazonZy is met haar Karros gereeden door het zwerk.
+KreonLaat ons de heuvelen, steenklippen, bergen, duinenEn toorens, zwaar van stof, met hemelhooge kruinen,Voort op elkanderen gaan staap&apos;len naar de lucht,En steig&apos;ren door &apos;t gestarnt, zo stuit men ze in haar vlugt.
+JazonIk zal het slagzwaard van de wederwraak aanbinden,En vaardig vliegen, met de vleugels van de Winden,Tot binnen in de Maan, om in de Waereldkloot;Die zich, tot noch toe, in haar waterige schoot,Voor ons gezigt verschuild, Medea te achterhaalen,En zo die Waereldkloot, vol bosschen, bergen, daalen,Hoofdsteeden, stroom, en zeên, zich tegens my aankant,Zal ik haar, door het vuur, dat my van gramschap brand,Ontsteeken, om Medé tot asch te doen verteeren.Voort, starke Winden, voort, en neemd my op uw veeren.
+Twaalfde tooneel.Medeain de LuchtJazon, Kreon, Hoofdman
+MedeaHA, ha, ha, ha, ha, ha.
+JazonIk hoor Medeaas stem.
+MedeaHa, ha, ha, ha, ha, ha.
+KreonZo is zy in de klem.
+JazonWaar is myn Vyandin?
+MedeaIn &apos;t hoogste van de Wolken.
+KreonWaar zyt gy, in wat Oord?
+MedeaIn &apos;t diepst der naare Kolken.
+JazonEerst boven in de lucht? nu in het helsche Dal.
+MedeaMedea, die gy zoekt, vertoond zich overal.
+KreonIk zal u overal, gewapend, tegentreeden.
+MedeaMedeaas Toverkunst belacht uw moedigheden.Wie volgen wil die volg, ik wyk uit deze Wyk:Ik vlieg na boven en beneden te gelyk.
+KreonIk klim voort opwaarts, om dit Schrikdier na te speuren.
+JazonIk zal het Aardryk, door myn stampen, op doen scheuren,En ylen, als Alcid, naar de Afgrond van de dood,En stappen, vol van moed, in spyt van Charons boot,Dwars over al de Vloên, van de eeuwig duistere Oorden:Hier zal ik in &apos;t gezicht van Cerbrus, heet op moorden,De helsche poorten voort oprammen met myn knots,Zo zal ik, vol van wraak, in de onderaardsche Rots,Door spooken, zielen, vuur en zwavel vlammen streeven.Wie overwinnen wil moet zich in nood begeeven.Scheur, Aardryk, scheur van een door &apos;t stampen van myn voet.Nu zal ik haar, want de aard ontsluit, uit de afgronds Vloed,Geketent sleepen, om aan &apos;t Grieksche volk te geeven.
+PriesterHoe lang, helaas! zal noch Medé Korint doen beeven?Ik volg de Vorsten, tot een steun voor ongeval.Door hulp van &apos;t Priesterdom behoud men &apos;t langste stal.Hier word een Dans vanSchreijersover de Dood van Kreüza, Vertoond.
+                
+            </div>
+    
+    
+    </body>
+  </text>
+</TEI>
