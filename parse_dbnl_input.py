@@ -280,7 +280,7 @@ for item in data:
         # Dumping out playlist here, in .xlsx format.
         id_list = ['#' + unescape(i.lower()).replace(' ', '-') for i in merge.get('speakerlist')]
         spv = [unescape(i) for i in merge.get('speakerlist')]
-        outdata = {'URL': [ceratta.get('URL') for i in range(len(spv))] , 'id': id_list, 'speaker_variant': spv, 'is_prefered': ['' for i in range(len(spv)) ], 'is_new': ['' for i in range(len(spv))],
+        outdata = {'URL': [ceratta.get('URL') for i in range(len(spv))] , 'id': id_list, 'new_id': ['' for i in range(len(id_list))] ,'speaker_variant': spv, 'is_prefered': ['' for i in range(len(spv)) ], 'is_new': ['' for i in range(len(spv))],
                    'is_error': ['' for i in range(len(spv))], 'gender (Male/Female/Unknown/Other)' : ['' for i in range(len(spv))], 'comments' : ['' for i in range(len(spv))]} 
                 #, 'is_error': [], 'gender (Male/Female/Unknown/Other)': [], 'comments':[]}
 
@@ -289,6 +289,7 @@ for item in data:
             alias = escape(alias)
             outdata['URL'].append(ceratta.get('URL'))
             outdata['id'].append(nid)
+            outdata['new_id'].append('')
             outdata['speaker_variant'].append(alias)
             outdata['is_prefered'].append('')
             outdata['is_new'].append('')
@@ -299,7 +300,9 @@ for item in data:
         df = pd.DataFrame(outdata)
 
         fname = OUTDIR + os.sep + currid + '.xlsx'
+
         print("Writing out %s with %i speakers" % (fname, len(outdata.get('comments'))))
+
         df.to_excel(fname, index=False)
 
         for k in item:
