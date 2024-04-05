@@ -348,7 +348,7 @@ def parse_fulltext(data):
                            nexupspeaker = True
                        scenes[-1] += escape(item.text) + '\n'
 
-
+    pprint(read_order)
     return read_order, speakerlist, alias
 
 
