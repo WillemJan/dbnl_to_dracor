@@ -227,6 +227,7 @@ def parse_fulltext(data):
     chapters = []
     acts = []
     plays = []
+    scenes = []
 
     read_order = []
 
@@ -237,6 +238,7 @@ def parse_fulltext(data):
 
 
     for item in data.iter():
+        print(item.attrib, item. tag, item.text)
 
         if item.attrib.get('rend', '') == 'speaker' and item.text:
             target = item.text.strip()
@@ -300,6 +302,13 @@ def parse_fulltext(data):
                     read_order.append({'play': plays})
                 ctype = 'play'
                 plays = ['']
+            if item.attrib.get('type') == 'scene':
+                rec = True
+                if scenes:
+                    read_order.append({'scene': scenes})
+                ctype = 'scene'
+                scenes = ['']
+
 
         if rec:
             if item.text and item.attrib.get('rend', '') == 'speaker' and item.text.strip():
@@ -308,6 +317,8 @@ def parse_fulltext(data):
                    chapters[-1] += speak_xml
                 if ctype == 'act':
                    acts[-1] += speak_xml
+                if ctype == 'scene':
+                   scenes[-1] += speak_xml
                 if ctype == 'play':
                    plays[-1] += speak_xml
             elif item.attrib.get('rend', '') == 'speaker':
@@ -324,6 +335,9 @@ def parse_fulltext(data):
                        acts[-1] += escape(item.text)
                     if ctype == 'play':
                        plays[-1] += escape(item.text)
+                    if ctype == 'scene':
+                       scenes[-1] += escape(item.text)
+
 
     return read_order, speakerlist, alias
 
