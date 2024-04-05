@@ -187,10 +187,10 @@ def parse_student_aanlever():
                           parse['new_id'][i],
                           all_speakers.get(parse['new_id'][i])])
 
-        all_data[f.replace('_geannoteerd.xlsx', '')].append({'new': new_list,
+        all_data[f.replace('_geannoteerd.xlsx', '')]={'new': new_list,
                                                              'speak': speaker_list,
                                                              'rename': rename_list,
-                                                             'all' : all_speakers})
+                                                             'all' : all_speakers}
     return all_data 
 
 
@@ -325,7 +325,6 @@ def parse_fulltext(data):
                     if ctype == 'play':
                        plays[-1] += escape(item.text)
 
-
     return read_order, speakerlist, alias
 
 
@@ -337,6 +336,9 @@ i = 0
 for item in data:
     if item.get('ti_id') in eratta:
         currid = item.get('ti_id')
+        if not currid in speakers:
+            continue
+
         merge = {}
         ceratta = eratta.get(currid)
 
@@ -350,10 +352,8 @@ for item in data:
         merge['readingorder'], merge['speakerlist'], merge['alias'] = parse_fulltext(
             fulltext)
 
-
-        # Dumping out playlist here, in .xlsx format.
-        id_list = ['#' + unescape(i.lower()).replace(' ', '-') for i in merge.get('speakerlist')]
         '''
+        id_list = ['#' + unescape(i.lower()).replace(' ', '-') for i in merge.get('speakerlist')]
         spv = [unescape(i) for i in merge.get('speakerlist')]
         outdata = {'URL': [ceratta.get('URL') for i in range(len(spv))] , 'id': id_list, 'new_id': ['' for i in range(len(id_list))] ,'speaker_variant': spv, 'is_prefered': ['' for i in range(len(spv)) ], 'is_new': ['' for i in range(len(spv))],
                    'is_error': ['' for i in range(len(spv))], 'gender (Male/Female/Unknown/Other)' : ['' for i in range(len(spv))], 'comments' : ['' for i in range(len(spv))]} 
@@ -392,6 +392,6 @@ for item in data:
         if 'titel' in merge and 'hoofdtitel' in merge:
             merge['main_title'] = merge['titel']
             merge['subtitle'] = merge.get('subtitel', '')
-        for wid in speakers:
-            if wid in merge['ti_id']:
-                print_dracor_xml(merge)
+            merge['annotated'] = speakers[currid]
+            merge['speakerlist'] = speakers[currid].get('all')
+        print_dracor_xml(merge)
