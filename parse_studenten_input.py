@@ -310,6 +310,7 @@ def parse_fulltext(data):
 
 
         if rec:
+
             if item.text and item.attrib.get('rend', '') == 'speaker' and item.text.strip():
                 speak_xml = '\n<speaker>' + escape(item.text) + '</speaker>\n'
                 if ctype == 'chapter':
@@ -335,7 +336,8 @@ def parse_fulltext(data):
                     if ctype == 'play':
                        plays[-1] += escape(item.text)
                     if ctype == 'scene':
-                       #print(item.attrib, item. tag, item.text)
+                       print(item.attrib, item.tag, item.text)
+                       #print(item.attrib)
                        scenes[-1] += escape(item.text)+ "\n"
 
 
