@@ -218,7 +218,7 @@ def speaker_filter(speakerlist: set, newspeaker: str) -> set | tuple:
     return speakerlist
 
 
-def parse_fulltext(data):
+def parse_fulltext(data, cur_id):
     rec = False
     srec = False
 
@@ -312,7 +312,8 @@ def parse_fulltext(data):
         if rec:
 
             if item.text and item.attrib.get('rend', '') == 'speaker' and item.text.strip():
-                speak_xml = '\n<speaker>' + escape(item.text) + '</speaker>\n'
+                speak_xml = '\n\t<sp who="' +  escape(item.text) + '">\n'
+                speak_xml += '\n\t\t<speaker>' +  escape(item.text) + '</speaker>\n'
                 if ctype == 'chapter':
                    chapters[-1] += speak_xml
                 if ctype == 'act':
@@ -321,10 +322,12 @@ def parse_fulltext(data):
                    scenes[-1] += speak_xml
                 if ctype == 'play':
                    plays[-1] += speak_xml
+                nexupspeaker = False
             elif item.attrib.get('rend', '') == 'speaker':
                 nexupspeaker = True
             elif nexupspeaker and item.text:
-                speak_xml = '\n<speaker>' + escape(item.text) + '</speaker>\n'
+                speak_xml = '\n\t<sp who="' +  escape(item.text) + '">\n'
+                speak_xml += '\n\t\t<speaker>' +  escape(item.text) + '</speaker>\n'
                 nexupspeaker = False
                 if ctype == 'chapter':
                    chapters[-1] += speak_xml
@@ -348,7 +351,10 @@ def parse_fulltext(data):
                            nexupspeaker = True
                        scenes[-1] += escape(item.text) + '\n'
 
-    pprint(read_order)
+    #print(cur_id)
+    #pprint(alias)
+    #pprint(read_order)
+    #pprint(speakerlist)
     return read_order, speakerlist, alias
 
 
@@ -370,11 +376,10 @@ for item in data:
         if not os.path.isfile(fname):
             print("Missing file:", fname)
             continue
-
         with open(fname, 'r') as fh:
             fulltext = lxml.etree.fromstring(fh.read().encode('utf-8'))
         merge['readingorder'], merge['speakerlist'], merge['alias'] = parse_fulltext(
-            fulltext)
+            fulltext, currid)
 
         '''
         id_list = ['#' + unescape(i.lower()).replace(' ', '-') for i in merge.get('speakerlist')]

@@ -127,7 +127,7 @@
     <body>
     
     
-            <div type="chapter">
+            <div type="chapter" n= 1 >
                 
                     
 DE CID,TREURSPELUit het Fransch van den Heer Corneille.Vertoond of de Amsteldamsche Schouwburg.Den laatsten Druk.
@@ -137,7 +137,7 @@ Te Amsteldam,By de Erfg: van J: Lescailje, op de Middeldam, op de hoek van de Vi
     
     
     
-            <div type="chapter">
+            <div type="chapter" n= 1 >
                 
                     
 
@@ -147,7 +147,7 @@ Voorreden.H Veniam pro laudeDenApril
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -156,31 +156,41 @@ Elvire, Chimene
 
 
 
-<speaker>Elv.</speaker>
+	<sp who="Elv.">
+
+		<speaker>Elv.</speaker>
 WAt blyde boodschap breng ik aan deez&apos; jonge Lieven!
 Hoe voegd zich alles na haar wensch, en herts believen!
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Elvire, wel wat is &apos;t? zeg hoe de zaak toch leid;
 Wat hoop! wat hulp! wat heeft myn Vader u gezeid?
 
 
 
-<speaker>Elv.</speaker>
+	<sp who="Elv.">
+
+		<speaker>Elv.</speaker>
 Twee woordjes daar uw heil geheel is aangelegen,
 Hy acht zo zeer Rodrig&apos; als gy hem zyt genegen.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 De grootheid van &apos;t geluk doet dat ik het mistrouw,
 Maar mag geloofd zyn, &apos;t geen gy zegt, en ik wel wouw?
 
 
 
-<speaker>Elvir</speaker>
+	<sp who="Elvir">
+
+		<speaker>Elvir</speaker>
 Uw Vader verder gaat, en tot uw vergenoegen
 Zal hy u lasten u na dit verzoek te voegen:
 Hy staat zyn vryen toe; nu oordeeld, nademaal
@@ -192,7 +202,9 @@ Zal weezen haast voldaan, en gy daar door gerust?
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 &apos;t Schynt echter dat myn ziel, met onlust ingenomen,
 Deez&apos; vreugde niet en vat met daar als voor te schroomen;
 Een enkel oogenblik luks rad te draaijen plag,
@@ -200,12 +212,16 @@ En in een groote spoet vrees ik te grooter slag.
 
 
 
-<speaker>Elv.</speaker>
+	<sp who="Elv.">
+
+		<speaker>Elv.</speaker>
 Gy zult uw vreeze zien op &apos;t wenschelykst bedroogen.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Kom, gaan wy dan, en zien wat wy verwachten mogen.
 
                 
@@ -213,7 +229,7 @@ Kom, gaan wy dan, en zien wat wy verwachten mogen.
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -222,21 +238,27 @@ De Infante, Leonora, Staatjongen
 
 
 
-<speaker>Inf.</speaker>
+	<sp who="Inf.">
+
+		<speaker>Inf.</speaker>
 LOop na Chimene toe, en zeg haar uit myn naam,
 Dat zy in haar bezoek den tyd wat beter raam,
 &apos;t Valt vry wat laat van daag, ik heb &apos;s my te beklaagen.
 
 
 
-<speaker>Leon</speaker>
+	<sp who="Leon">
+
+		<speaker>Leon</speaker>
 Mevrouw, een zelfde zorg u altyd weêr komt knaagen,
 Ik zie u vol gepeins, en droevig elken dag,
 Bevraagen hoe het al met haare Min gaan mag.
 
 
 
-<speaker>Inf.</speaker>
+	<sp who="Inf.">
+
+		<speaker>Inf.</speaker>
 &apos;t Is recht ik daar na vraag, ik heb ze zelfs bewoogen
 De pylen doel te staan die haar in &apos;t herte vloogen.
 Zy mind haar Don Rodrig&apos;, en heeft hem van myn hand,
@@ -246,7 +268,9 @@ Heb tot de ontboeijing (zo my dunkt) gelyke reden.
 
 
 
-<speaker>Leon</speaker>
+	<sp who="Leon">
+
+		<speaker>Leon</speaker>
 Mevrouwe, niet te min in &apos;t midden van haar vreugd
 Zo ziet men u vergaan van enkel ongeneugd.
 Die liefde, die haar bei kan zo blymoedig maaken,
@@ -257,7 +281,9 @@ Maar ik ga al te verre, en werd wat onbescheiden.
 
 
 
-<speaker>Inf.</speaker>
+	<sp who="Inf.">
+
+		<speaker>Inf.</speaker>
 Myn droefheid die neemt toe door &apos;t heimelyk belyden;
 Hoor, hoor doch eind&apos;lyk eens, hoe dat ik heb gestreên,
 En laakende myn lot, zo loofd myn deugd met een.
@@ -267,19 +293,25 @@ Dien min ik.
 
 
 
-<speaker>Leon.</speaker>
+	<sp who="Leon.">
+
+		<speaker>Leon.</speaker>
 Mind gy hem?
 
 
 
-<speaker>Inf.</speaker>
+	<sp who="Inf.">
+
+		<speaker>Inf.</speaker>
 Leg op myn hart uw hand,
 En voel hoe &apos;t zich ontsteld in &apos;t melden van zyn brand,
 Hoe &apos;t zyn verwinnaar ken.
 
 
 
-<speaker>Leon.</speaker>
+	<sp who="Leon.">
+
+		<speaker>Leon.</speaker>
 Vergeef het my, Mevrouwe,
 Indien ik breek myn plicht met u dit voor te houwen;
 Te kiezen voor uw lief een enkel Edelman!
@@ -289,7 +321,9 @@ Bedenk wie dat gy zyt; gy schynt het niet te weeten.
 
 
 
-<speaker>nf.</speaker>
+	<sp who="nf.">
+
+		<speaker>nf.</speaker>
 Neen, neen, ik weet het wel, en zal myn bloed veel eer
 Uitstorten, dan myn zelfs zo laag te smyten neêr.
 Ik kon wel zeggen, dat in de edelste gemoeden
@@ -334,7 +368,9 @@ En ik &apos;t besterven moet, &apos;t zy dat dit voortgang heeft,
 
 
 
-<speaker>Leon.</speaker>
+	<sp who="Leon.">
+
+		<speaker>Leon.</speaker>
 Mevrouw, ik weet u hier niet anders op te zeggen,
 Dan dat ik met u treur om &apos;t geen niet is te ontleggen:
 Ik laakten u terstond, maar ik u nu beklaag;
@@ -348,28 +384,38 @@ Dat Deugd onschuldig ly het harde Noodlots slaagen
 
 
 
-<speaker>Inf.</speaker>
+	<sp who="Inf.">
+
+		<speaker>Inf.</speaker>
 Myn alderbeste hoop is hoopeloos te zyn.
 Staatjongen uit.
 
 
 
-<speaker>Staatj.</speaker>
+	<sp who="Staatj.">
+
+		<speaker>Staatj.</speaker>
 Mevrouw, op uw bevel zo volgd Chimene myn.
 
 
 
-<speaker>Inf.</speaker>
+	<sp who="Inf.">
+
+		<speaker>Inf.</speaker>
 Ga, onderhoud haar wat in geene galderye.
 
 
 
-<speaker>Leon.</speaker>
+	<sp who="Leon.">
+
+		<speaker>Leon.</speaker>
 Wilt gy noch blyven dan in deze raazernye?
 
 
 
-<speaker>Inf.</speaker>
+	<sp who="Inf.">
+
+		<speaker>Inf.</speaker>
 Neen, ik wil maar alleen, in spyt van myn verdriet,
 My wat bezadigen eer my Chimene ziet.
 Ik volg u datelyk. O Hemel! hoor myn klagten,
@@ -390,7 +436,7 @@ Haar onderhoud zal licht my stellen watte vreên.
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -399,21 +445,27 @@ De Graaf, Don Diego
 
 
 
-<speaker>Graaf</speaker>
+	<sp who="Graaf">
+
+		<speaker>Graaf</speaker>
 GY hebt het eind&apos;lyk weg, en word door gunst verheven
 Tot vord&apos;ring van een staat die my moest zyn gegeeven.
 De Koning u &apos;t bestier gund van de Prins zyn Zoon.
 
 
 
-<speaker>Diego</speaker>
+	<sp who="Diego">
+
+		<speaker>Diego</speaker>
 Dit blykt van eer, dat hy steld in myn huis ten toon,
 Wyst uit dat hy bemind het recht, en weet te achten
 De diensten die, wel eer gedaan, hem nut toebragten.
 
 
 
-<speaker>Graaf</speaker>
+	<sp who="Graaf">
+
+		<speaker>Graaf</speaker>
 Hoe groot een Koning is, hy is een mensch als wy,
 En valt met zyne keur wel aan de onrechte zy;
 Ja deez&apos; verkiezing toond aan die te Hoof verkeeren,
@@ -421,7 +473,9 @@ Dat diensten, nu ter tyd gedaan, haar loon ontbeeren.
 
 
 
-<speaker>Dieg.</speaker>
+	<sp who="Dieg.">
+
+		<speaker>Dieg.</speaker>
 Laat ons niet spreeken meêr van &apos;t geen niet diend tot vreê,
 De gunst heeft hier gehad by loon van dienst haar steê:
 &apos;t Kan zyn dat in uw keur waar meêr waardy gevonden,
@@ -434,7 +488,9 @@ Verwilgd daar in, myn Heer, neemt hem tot Swager aan.
 
 
 
-<speaker>Graaf</speaker>
+	<sp who="Graaf">
+
+		<speaker>Graaf</speaker>
 Rodrigo! neen; die moet nu na wat grooters staan;
 En door deze aanwas van uw nieuwverkregen staaten,
 Hy ongetwyffeld hem vry meêr zal dunken laaten.
@@ -459,7 +515,9 @@ En &apos;t oog moet meêr dan &apos;t oor begrypen zulk vermaan.
 
 
 
-<speaker>Dieg.</speaker>
+	<sp who="Dieg.">
+
+		<speaker>Dieg.</speaker>
 Tot voorbeeld hoefd men hem maar voor zyn les te geeven,
 Te leezen het bedryf van myn beroemde leeven,
 Daar zal hy in een lang aan een geknoopt verhaal
@@ -469,7 +527,9 @@ En van verkregen roem doet vliegen de geruchten.
 
 
 
-<speaker>Gra.</speaker>
+	<sp who="Gra.">
+
+		<speaker>Gra.</speaker>
 Het levend voorbeeld, wis, dat heeft vry ander kracht,
 Een Prins leerd in een boek zyn plichten al te zacht.
 En wat heeft doch verricht uw groot getal van jaaren,
@@ -489,7 +549,9 @@ Zo zou hy leeren doen met na myn doen te kyken.
 
 
 
-<speaker>Die.</speaker>
+	<sp who="Die.">
+
+		<speaker>Die.</speaker>
 Gy spreekt my te vergeefs van &apos;t geen ik weet zo wel,
 Ik heb u zien te veld gaan onder myn bevel:
 &apos;t Is waar doen my de kracht bezweek door hooge jaaren,
@@ -501,89 +563,123 @@ De Koning tusschen tweên weet onderscheid te vinden.
 
 
 
-<speaker>Gra.</speaker>
+	<sp who="Gra.">
+
+		<speaker>Gra.</speaker>
 Het geen ik waardig was aan u gegeeven is.
 
 
 
-<speaker>Die.</speaker>
+	<sp who="Die.">
+
+		<speaker>Die.</speaker>
 Die voor u wierd gesteld was &apos;t beter waart gewis.
 
 
 
-<speaker>Gra.</speaker>
+	<sp who="Gra.">
+
+		<speaker>Gra.</speaker>
 Die &apos;t best kan voeren uit het beter had geleeken.
 
 
 
-<speaker>Die.</speaker>
+	<sp who="Die.">
+
+		<speaker>Die.</speaker>
 Voorby gegaan te zyn is niet het beste teeken.
 
 
 
-<speaker>Gra.</speaker>
+	<sp who="Gra.">
+
+		<speaker>Gra.</speaker>
 Met kuipen kreeg gy &apos;t als een loozen hoveling.
 
 
 
-<speaker>Die.</speaker>
+	<sp who="Die.">
+
+		<speaker>Die.</speaker>
 De luister van myn deugd was maar alleen &apos;t verding.
 
 
 
-<speaker>Gra.</speaker>
+	<sp who="Gra.">
+
+		<speaker>Gra.</speaker>
 Om wel te zeggen, &apos;t was ten opzicht van uw jaaren.
 
 
 
-<speaker>Die.</speaker>
+	<sp who="Die.">
+
+		<speaker>Die.</speaker>
 De Koning toonde gunst aan kloekheids lang ervaren.
 
 
 
-<speaker>Gra.</speaker>
+	<sp who="Gra.">
+
+		<speaker>Gra.</speaker>
 Was &apos;t kloekheid toegeleid &apos;t kwam dezen degen toe.
 
 
 
-<speaker>Die.</speaker>
+	<sp who="Die.">
+
+		<speaker>Die.</speaker>
 Hy moest &apos;t niet waard zyn die vergeefs hem zelfs liep moê.
 
 
 
-<speaker>Gra.</speaker>
+	<sp who="Gra.">
+
+		<speaker>Gra.</speaker>
 Niet waard zyn! wie?
 
 
 
-<speaker>Die.</speaker>
+	<sp who="Die.">
+
+		<speaker>Die.</speaker>
 Gy.
 
 
 
-<speaker>Gra.</speaker>
+	<sp who="Gra.">
+
+		<speaker>Gra.</speaker>
 Ik! hou daar; uw kwaalyk spreeken,
 Verwaande Grysaart, men op deze wys moet wreeken.
 
 
 
-<speaker>Die.</speaker>
+	<sp who="Die.">
+
+		<speaker>Die.</speaker>
 Voleind, en neem al voort myn leeven na deez&apos; hoon,
 Het eerste dat myn stam te lyden was gewoon.
 
 
 
-<speaker>Gra.</speaker>
+	<sp who="Gra.">
+
+		<speaker>Gra.</speaker>
 En wat meend gy te doen, dus slap, en afgesleeten?
 
 
 
-<speaker>Die.</speaker>
+	<sp who="Die.">
+
+		<speaker>Die.</speaker>
 Helaas! myn zwakken arm heeft zyne kracht vergeeten.
 
 
 
-<speaker>Gra.</speaker>
+	<sp who="Gra.">
+
+		<speaker>Gra.</speaker>
 Uw zwaard is in myn magt, maar &apos;k oordeel &apos;t my geen eer,
 Dat ik myn hand zou slaan aan dit veracht geweer.
 Ga heen, en wil de Prins ook dit te leezen geeven,
@@ -593,23 +689,31 @@ Zal tot goed onderwys verstrekken de eerste trap.
 
 
 
-<speaker>Die.</speaker>
+	<sp who="Die.">
+
+		<speaker>Die.</speaker>
 Stort gy myn bloed dan niet?
 
 
 
-<speaker>Gra.</speaker>
+	<sp who="Gra.">
+
+		<speaker>Gra.</speaker>
 Myn ziel heeft zyn genoegen,
 En myne hand die zou van zulk een doodslag wroegen.
 
 
 
-<speaker>Die.</speaker>
+	<sp who="Die.">
+
+		<speaker>Die.</speaker>
 Versmaad gy dan myn lyf?
 
 
 
-<speaker>Gra.</speaker>
+	<sp who="Gra.">
+
+		<speaker>Gra.</speaker>
 Dien draad te snyden af,
 Was maar een dag vyf zes u brengen eer in &apos;t graf.
 
@@ -618,7 +722,7 @@ Was maar een dag vyf zes u brengen eer in &apos;t graf.
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -626,7 +730,9 @@ Vyfde tooneel.
 
 
 
-<speaker>Don Diego</speaker>
+	<sp who="Don Diego">
+
+		<speaker>Don Diego</speaker>
 alleen
 O Spyt! ô ramp! ô hoon, ô ongewilde jaaren!
 Heb ik dus lang geleefd om deze smaad te ervaren?
@@ -662,7 +768,7 @@ Die my treft aan de wang, die springt hem voor de scheen.
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -671,18 +777,24 @@ Don Diego, Don Rodrigo
 
 
 
-<speaker>Die.</speaker>
+	<sp who="Die.">
+
+		<speaker>Die.</speaker>
 ROdrigo, heb je hert?
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Wie &apos;t waar, zo niet myn Vader,
 Zou &apos;t daat&apos;lyk werden wys.
 
 
 
-<speaker>Die.</speaker>
+	<sp who="Die.">
+
+		<speaker>Die.</speaker>
 Hoor hier eens, koom wat nader,
 &apos;k Erken de sprenkels van myn welgebooren bloed
 In deze wakkerheid, in dit uw groot gemoed:
@@ -693,12 +805,16 @@ Kom, wreek my toch.
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Van wie?
 
 
 
-<speaker>Die.</speaker>
+	<sp who="Die.">
+
+		<speaker>Die.</speaker>
 Van zulk een snooden hand,
 Dat zy aan beider eer een doodsteek heeft gegeeven,
 Door eene vuistslag, doch de schelm had straks het leeven
@@ -715,34 +831,46 @@ Ophoopen om hem heen een wal van doode liên.
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Zyn naam; want meêr gezeid dat is maar tyd verlooren.
 
 
 
-<speaker>Die.</speaker>
+	<sp who="Die.">
+
+		<speaker>Die.</speaker>
 Om u dan in een woord wat meêr noch te doen hooren,
 Het is een Oorlogsheld die vaak heeft zeeg bestreên,
 &apos;t Is....
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 &apos;k Bid u maakt een eind.
 
 
 
-<speaker>Die.</speaker>
+	<sp who="Die.">
+
+		<speaker>Die.</speaker>
 De Vader van Chimeen.
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 De....
 
 
 
-<speaker>Die.</speaker>
+	<sp who="Die.">
+
+		<speaker>Die.</speaker>
 Antwoord daar niet op, ik weet uw minnetochten;
 Maar &apos;t leeven zyn ze onwaard die eerloos leven mogten,
 Hoe waarder die ons schend hoe &apos;t schennis zwaarder is,
@@ -757,7 +885,7 @@ Ga ik &apos;t beschreijen; gy, gaa, loop, vlieg, en ons wreekt.
     
     
     
-            <div type="act">
+            <div type="act" n= 1 >
                 
                     
 De Cid,
@@ -769,7 +897,7 @@ Gra.Zy doet zo als ze hoord; en beide zyn z&apos; haar waard,Beide Adelyk van St
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -777,7 +905,9 @@ Zevende tooneel.
 
 
 
-<speaker>Don Rodrigo</speaker>
+	<sp who="Don Rodrigo">
+
+		<speaker>Don Rodrigo</speaker>
 alleen
 GEraakt aan &apos;t binnenst van myn hert,
 Door onvoorzien zo wel als doodelyke schichten,
@@ -850,7 +980,7 @@ En d&apos;Hooner is de Vader van Chimene.
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -859,85 +989,115 @@ Don Rodrigo, De graaf.
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 HEer Graaf, een woord of twee.
 
 
 
-<speaker>Gra.</speaker>
+	<sp who="Gra.">
+
+		<speaker>Gra.</speaker>
 Spreek.
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Help my uit &apos;t vermoeden,
 Kend gy Don Diego wel?
 
 
 
-<speaker>Gra.</speaker>
+	<sp who="Gra.">
+
+		<speaker>Gra.</speaker>
 Ja &apos;k.
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Zacht man, wilt u hoeden.
 Weet gy dat dien goên Heer was in zyn tyd een schat
 Van deugd, van dapperheid, van eere? weet gy dat?
 
 
 
-<speaker>Gra.</speaker>
+	<sp who="Gra.">
+
+		<speaker>Gra.</speaker>
 &apos;t Kan zyn.
 
 
 
-<speaker>Rod</speaker>
+	<sp who="Rod">
+
+		<speaker>Rod</speaker>
 Dit vuur dat gy my ziet inde oogen blaaken,
 Weet gy &apos;t zyn bloed te zyn? weet gy &apos;t?
 
 
 
-<speaker>Gra.</speaker>
+	<sp who="Gra.">
+
+		<speaker>Gra.</speaker>
 Wat kan &apos;t my raaken.
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Ik zal &apos;t u doen verstaan, vier treedjes maar van hier.
 
 
 
-<speaker>Gra.</speaker>
+	<sp who="Gra.">
+
+		<speaker>Gra.</speaker>
 Wel stoute Jongen; hoe!
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Spreek zonder veel getier.
 Ik ben jong, &apos;t is zo, maar by edel bloed in de aâren
 En wacht de dapperheid niet na &apos;t getal der jaaren.
 
 
 
-<speaker>Gra.</speaker>
+	<sp who="Gra.">
+
+		<speaker>Gra.</speaker>
 My dus te randen aan! wat losheid speeld hier meê?
 Men u noch noit en zag den degen uit de scheê.
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Men hoefd geen tweede proef van myns gelyk te wachten,
 Haar eerste handwerk is een meesterstuk te achten.
 
 
 
-<speaker>Gra.</speaker>
+	<sp who="Gra.">
+
+		<speaker>Gra.</speaker>
 Weet gy wel wie ik ben?
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Ja; ieder, zo ik raam,
 Zou beeven, buiten my, van schrik voor uwen naam;
 In duizend Lauwreblaân, die u het hoofd omgeeven,
@@ -949,7 +1109,9 @@ Uw arm noit neêrlaag had, maar zoud ze krygen mogen.
 
 
 
-<speaker>Gr.</speaker>
+	<sp who="Gr.">
+
+		<speaker>Gr.</speaker>
 Dat groot gemoed dat in deez&apos; taal drukt uit zyn schyn,
 Zich daag&apos;lyks uit uw oog ontdekken quam aan &apos;t myn:
 En werdende gewaar de deugd die in u blikte,
@@ -973,33 +1135,45 @@ En ik zou maar &apos;t verdriet van uwe dood weg draagen.
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Verkeerd meêdoogen volgd uw schendig stuk; die de eer
 My neemen derft, die schroomd myn leeven (schynt het) meêr.
 
 
 
-<speaker>Gra.</speaker>
+	<sp who="Gra.">
+
+		<speaker>Gra.</speaker>
 Gaa heenen uwes weegs.
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Gaan wy al stil ter werven?
 
 
 
-<speaker>Gra.</speaker>
+	<sp who="Gra.">
+
+		<speaker>Gra.</speaker>
 Zyt gy uw leeven moê?
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Zyt gy bevreesd voor sterven?
 
 
 
-<speaker>Gra.</speaker>
+	<sp who="Gra.">
+
+		<speaker>Gra.</speaker>
 Kom gy, voldoed uw plicht. Een Zoon toond zich ontaard,
 Wien meêr zyn leeven dan zyns Vaders eer is waard.
 
@@ -1008,7 +1182,7 @@ Wien meêr zyn leeven dan zyns Vaders eer is waard.
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -1017,7 +1191,9 @@ De Infante, Chimene, Leonora
 
 
 
-<speaker>Inf.</speaker>
+	<sp who="Inf.">
+
+		<speaker>Inf.</speaker>
 STil, myn Chimene, stil uw innerlyk bedroeven,
 Deze opgekomen ramp wil uw geduld beproeven,
 Gy zult na korten storm weêr kalmte zien verwekt,
@@ -1026,7 +1202,9 @@ En door wat uitstels kan &apos;er niet veel zyn verlooren.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Myn hert, vervuld met vrees, mag na geen hoope hooren;
 Een onweêr dat zo snel na zulk een stilte komt,
 Een wisse schipbreuk dreigd, van enkel onheil bromd,
@@ -1043,7 +1221,9 @@ Wat kost gy my al leets? hoe gaat gy my ontrusten?
 
 
 
-<speaker>Inf.</speaker>
+	<sp who="Inf.">
+
+		<speaker>Inf.</speaker>
 Gy hebt geen oorzaak dus te vreezen dit verschil,
 Een oogeblik blies &apos;t op, en &apos;t weder blussen wil:
 &apos;t Is al te ruchtbaar om in onheil uit te breeken,
@@ -1053,7 +1233,9 @@ Zal ik doen wat ik kan dat alles wel vergâ.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Verdraagen geld&apos;er niet in diergelyke zaaken,
 Want hoon aan de eer gedaan en is niet goed te maaken:
 Vergeefs men daar toe magt en wysheid brengt by een,
@@ -1063,7 +1245,9 @@ Ontsteekt een vinnig vuur met meerder kracht van binnen.
 
 
 
-<speaker>Inf.</speaker>
+	<sp who="Inf.">
+
+		<speaker>Inf.</speaker>
 Den zoeten echten band, daar uw Rodrigoos hert
 Aan zyn Chimene door zo vast verbonden werd,
 De Vaders te gelyk zal op een nieuw vereenen,
@@ -1071,7 +1255,9 @@ En door dit huuw&apos;lyks heil van alle tweedracht speenen.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Ik wensch het zo veel eer dan ik &apos;s in hoope ben,
 Don Diego is te trots, en ik myn Vader ken;
 Ik voel een traanenvloed die ik niet kan weêrhouwen,
@@ -1079,34 +1265,46 @@ Ik voel een traanenvloed die ik niet kan weêrhouwen,
 
 
 
-<speaker>Inf.</speaker>
+	<sp who="Inf.">
+
+		<speaker>Inf.</speaker>
 Wat maakt u dus benaauwd? een afgeleefd oud man?
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Hy heeft een Zoon vol moeds.
 
 
 
-<speaker>Inf.</speaker>
+	<sp who="Inf.">
+
+		<speaker>Inf.</speaker>
 &apos;t Volwassen schort &apos;er an.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Wie dapper weezen zal die wil al vroeg beginnen.
 
 
 
-<speaker>Inf.</speaker>
+	<sp who="Inf.">
+
+		<speaker>Inf.</speaker>
 Hy is te zeer verliefd, en die te recht beminnen
 Mishaagen al te noô de geen die haar behaagd:
 Een woord, wanneer gy wilt, zyn toorn uit hem verjaagd.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Maar hoord hy na my niet, hoe zal ik &apos;t dan aanleggen?
 En geeft hy my gehoor, wat zal men van hem zeggen?
 Hy, zynde een Edelman, te lyden zulken smaad!
@@ -1118,7 +1316,9 @@ Indien hy meêr zyn eer als myne min toeleid.
 
 
 
-<speaker>Inf.</speaker>
+	<sp who="Inf.">
+
+		<speaker>Inf.</speaker>
 Chimenes hert draafd hoog, en neemt in geen bedenken,
 Hoe na het haar ook ga iet dat haar eer mag krenken,
 Maar of ik tot &apos;er tyd dat dit zy bygeleid,
@@ -1128,7 +1328,9 @@ Zou &apos;t geenen nadocht voên in uw verliefde zinnen?
 
 
 
-<speaker>Chim</speaker>
+	<sp who="Chim">
+
+		<speaker>Chim</speaker>
 Ach! doet gy dat, Mevrouw, zo ben ik buiten schroom.
 
                 
@@ -1136,7 +1338,7 @@ Ach! doet gy dat, Mevrouw, zo ben ik buiten schroom.
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -1145,42 +1347,58 @@ De Infante, Staatjongen, Chimene, Leonora
 
 
 
-<speaker>Inf.</speaker>
+	<sp who="Inf.">
+
+		<speaker>Inf.</speaker>
 STaatjongen, zoekt Rodrig&apos;, zeg dat hy by my koom.
 
 
 
-<speaker>Staatj.</speaker>
+	<sp who="Staatj.">
+
+		<speaker>Staatj.</speaker>
 De Graave van Gormas, en hy....
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Ach! ach! ik beeve.
 
 
 
-<speaker>Inf.</speaker>
+	<sp who="Inf.">
+
+		<speaker>Inf.</speaker>
 Spreek.
 
 
 
-<speaker>Staatj.</speaker>
+	<sp who="Staatj.">
+
+		<speaker>Staatj.</speaker>
 Hebben uit het Hof haar te gelyk begeeven.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Alleen?
 
 
 
-<speaker>Staatj.</speaker>
+	<sp who="Staatj.">
+
+		<speaker>Staatj.</speaker>
 Alleen, en, zo &apos;t geleek, met onderlinge twist.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Zy zyn wis handgemeen, &apos;t is al te wel gegist.
 Mevrouw, ik bid hou my deez&apos; haastigheid ten goede.
 
@@ -1189,7 +1407,7 @@ Mevrouw, ik bid hou my deez&apos; haastigheid ten goede.
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -1198,7 +1416,9 @@ De Infante, Leonora
 
 
 
-<speaker>Inf.</speaker>
+	<sp who="Inf.">
+
+		<speaker>Inf.</speaker>
 HElaas! wat voel ik voor een wroegen in my woeden!
 &apos;k Beklaag haar ongeval, en zal ik haar verraân?
 Myn rust verlaat my, en myn brand gaat weder aan.
@@ -1209,13 +1429,17 @@ In myn bekoorde ziel een stil verheugen giet.
 
 
 
-<speaker>Leon.</speaker>
+	<sp who="Leon.">
+
+		<speaker>Leon.</speaker>
 De Deugd in uw gemoed zo hoog ten top gezeeten,
 Is die door snoode min zo haast ter neêr gesmeeten?
 
 
 
-<speaker>Inf.</speaker>
+	<sp who="Inf.">
+
+		<speaker>Inf.</speaker>
 Ei! noemd ze niet meêr snood, nadien ze nu by my
 In volle praal geplaatst het recht heeft aan haar zy.
 Draagd haar eerbieding toe nu zy my mag behaagen;
@@ -1225,13 +1449,17 @@ En na een Minnaar haakt die nu Chimene is kwyt.
 
 
 
-<speaker>Leon.</speaker>
+	<sp who="Leon.">
+
+		<speaker>Leon.</speaker>
 Laat gy dit hooge hert zo laag dus licht&apos;lyk vallen,
 En gaat gy redenloos u geeven tot zulk mallen?
 
 
 
-<speaker>Inf</speaker>
+	<sp who="Inf">
+
+		<speaker>Inf</speaker>
 Ach! met hoe weinig nut leend iemand reden &apos;t oor,
 Wanneer de ziel geraakt te hollen buiten &apos;t spoor!
 Want als de zieke zelfs bemind zyn eigen quaalen,
@@ -1239,13 +1467,17 @@ En kan hy niet verstaan daar raad voor te doen haalen.
 
 
 
-<speaker>Leon.</speaker>
+	<sp who="Leon.">
+
+		<speaker>Leon.</speaker>
 De hoop verlokt u, en uw ziekte schynt uw zoet;
 Doch blyf Rodrigo uws onwaardig wat gy doet.
 
 
 
-<speaker>Inf.</speaker>
+	<sp who="Inf.">
+
+		<speaker>Inf.</speaker>
 &apos;k Weet het niet dan te wel, maar zo myn deugd moet zwichten,
 Zo hoord wat vreemder hoop de Min kan in my stichten,
 Indien Rodrigo komt verwinnaar uit het Veld,
@@ -1267,25 +1499,33 @@ En vind dus in hem stof wel waardig om te minnen.
 
 
 
-<speaker>Leon.</speaker>
+	<sp who="Leon.">
+
+		<speaker>Leon.</speaker>
 Maar zie, Mevrouw, hoe ver gy zynen arm dringt aan.
 In een gevechts gevolg dat licht nooit aan zal gaan
 
 
 
-<speaker>Inf.</speaker>
+	<sp who="Inf.">
+
+		<speaker>Inf.</speaker>
 Rodrigo is gehoond, de Graaf heeft &apos;t hoon bedreeven,
 Zy zyn na buiten toe; wat kan men blyks meêr geeven?
 
 
 
-<speaker>Leon.</speaker>
+	<sp who="Leon.">
+
+		<speaker>Leon.</speaker>
 Maar neemt dat dit gevecht al zeker zy gesteld,
 Is &apos;t niet vry volle vroeg dat gy zulk oordeel veld?
 
 
 
-<speaker>Inf.</speaker>
+	<sp who="Inf.">
+
+		<speaker>Inf.</speaker>
 Wat wilt gy? ik ben mal, en myne zinnen maalen,
 En dit noch &apos;t minste kwaad van myne minnekwaalen.
 Kom met my in &apos;t vertrek, en troost my in myn leed,
@@ -1296,7 +1536,7 @@ Noch laat my niet alleen nu gy myn euvel weet.
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -1305,19 +1545,25 @@ De Koning, Don Arias, Don Sanche, Don Alonso
 
 
 
-<speaker>Kon.</speaker>
+	<sp who="Kon.">
+
+		<speaker>Kon.</speaker>
 DE Graaf is dan zo los, zo waanwys, zo vermeeten,
 Dat hy zyn misdaad meend vergeeven en vergeeten?
 
 
 
-<speaker>Ari.</speaker>
+	<sp who="Ari.">
+
+		<speaker>Ari.</speaker>
 Ik heb hem uit uw naam daar lang op ondergaan.
 Maar niet verricht, al heb ik, Heer, myn best gedaan.
 
 
 
-<speaker>Kon.</speaker>
+	<sp who="Kon.">
+
+		<speaker>Kon.</speaker>
 O Hemel! zal dan dus een Onderzaat versmaaden
 Zyn plicht van hulde en trouw door roekelooze daaden!
 Don Diego hoond hy, en op &apos;s Konings wil niet let,
@@ -1333,7 +1579,9 @@ Verzeker u van hem, daar koom van wat het mag.
 
 
 
-<speaker>Sanc.</speaker>
+	<sp who="Sanc.">
+
+		<speaker>Sanc.</speaker>
 &apos;t Kan zyn een weinig tyds zou hem meêr buigzaam maaken,
 Men heeft hem voor gehad noch heel verhit; &apos;t zyn zaaken,
 Heer Koning, die &apos;t gemoed doen zieden in &apos;t begin,
@@ -1343,24 +1591,32 @@ Tot ongelyks beken zo haast niet zyn gewonnen.
 
 
 
-<speaker>Kon.</speaker>
+	<sp who="Kon.">
+
+		<speaker>Kon.</speaker>
 Don Sanche, zwyg, en zwicht, want gy dit weeten zult,
 Men zich schuldplichtig maakt in &apos;t spreeken voor deez&apos;
 
 
 
-<speaker>San.</speaker>
+	<sp who="San.">
+
+		<speaker>San.</speaker>
 Ik zwicht, Heer, en ik zwyg; maar laat een woord toch leggen
 De grond tot zyn verschoon.
 
 
 
-<speaker>Kon.</speaker>
+	<sp who="Kon.">
+
+		<speaker>Kon.</speaker>
 Wel wat weet gy te zeggen?
 
 
 
-<speaker>San.</speaker>
+	<sp who="San.">
+
+		<speaker>San.</speaker>
 Dat een gemoed gewend niet dan iets groots te doen,
 Zich zwaarlyk buigen kan tot de ootmoed van een zoen:
 Het ziet daar toe geen raad als ingewikt met schanden,
@@ -1374,7 +1630,9 @@ En tot het hem zy kond, ziet hier &apos;t geen blyft zyn borg.
 
 
 
-<speaker>Kon</speaker>
+	<sp who="Kon">
+
+		<speaker>Kon</speaker>
 Gy breekt door het ontzag; maar ik vergeef &apos;t uw jaaren,
 En min deez&apos; vierigheid in jonkheids wedervaaren;
 Een Koning, die zyn doen met ryper raad omgeeft,
@@ -1395,26 +1653,34 @@ Dat ons de vyand dreigd; ik vrees voor een verrassen.
 
 
 
-<speaker>Arias</speaker>
+	<sp who="Arias">
+
+		<speaker>Arias</speaker>
 De Mooren zouden die weêr wat te raaken passen?
 En wel een aanslag op ons hebben in den zin?
 
 
 
-<speaker>Kon.</speaker>
+	<sp who="Kon.">
+
+		<speaker>Kon.</speaker>
 Men heeft haar Vloot gezien te Zeewaart steeken in,
 En u is wel bekend dat in zeer weinig uuren
 Men die met eene vloed kan hier ter reede stuuren.
 
 
 
-<speaker>Arias</speaker>
+	<sp who="Arias">
+
+		<speaker>Arias</speaker>
 Zo menig zwaar verlies heeft haar benomen &apos;t hert,
 Dat uw ontziene magt noch meêr zou zyn getert.
 
 
 
-<speaker>Kon.</speaker>
+	<sp who="Kon.">
+
+		<speaker>Kon.</speaker>
 Dat baat niet, wantzy noit en zullen mogen lyen,
 Dat ik myn voet dus vast zet in Andalousyen,
 En zulken schoonen streek van afgenomen grond,
@@ -1426,14 +1692,18 @@ Te dempen in den dop al wat zy neemen voor.
 
 
 
-<speaker>Arias</speaker>
+	<sp who="Arias">
+
+		<speaker>Arias</speaker>
 Zy hebben wel geleerd ten koste van haar hoofden,
 Hoe zwaarlyk men u weêr, van &apos;t geen gy wind, beroofden;
 Te groote vrees is kwaad.
 
 
 
-<speaker>Kon.</speaker>
+	<sp who="Kon.">
+
+		<speaker>Kon.</speaker>
 &apos;t Verzuim dat is noch qua&apos;er,
 En die te veel vertrouwd die noodigd het gevaar;
 Ja zelfs de vyand, die gy hebt voorheen geslaagen,
@@ -1447,25 +1717,33 @@ Is &apos;t voor als u genoeg.
 
 
 
-<speaker>Alon</speaker>
+	<sp who="Alon">
+
+		<speaker>Alon</speaker>
 Myn Heer, de Graaf is dood;
 Don Diego, door zyn Zoon zyn onlust heeft gewrooken.
 
 
 
-<speaker>Kon.</speaker>
+	<sp who="Kon.">
+
+		<speaker>Kon.</speaker>
 Van dat ik wist de wrok heb ik de wraak voorsprooken,
 En wou dit ongeval verhoeden van toen af.
 
 
 
-<speaker>Alon.</speaker>
+	<sp who="Alon.">
+
+		<speaker>Alon.</speaker>
 Chimene, vol van rouw, komt vorderen de straf,
 En met een traanenvloed eischt recht van uwe handen.
 
 
 
-<speaker>Kon.</speaker>
+	<sp who="Kon.">
+
+		<speaker>Kon.</speaker>
 Hoewel ik voel myn ziel tot haar ontferming branden,
 Nochtans het geen de Graaf begaan heeft, hier gezeid,
 Heeft wel verdiend dit loon van zyn vermetelheid.
@@ -1481,7 +1759,7 @@ Noch smert my zyn verlies, en moet zyn dood beklaagen.
     
     
     
-            <div type="act">
+            <div type="act" n= 1 >
                 
                     
 Tweede bedryf.Eerste tooneel.De Graaf, Don Arias
@@ -1511,7 +1789,7 @@ Gra.Wy zullen dan voldaan Don Diego zien hier na.Ik stoor my weinig aan zulk onv
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -1520,77 +1798,107 @@ De Koning, Don Diego, Chimene, Don Sanche, Don Arias, Don Alonso
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 REcht! recht, Heer Koning, recht!
 
 
 
-<speaker>Die.</speaker>
+	<sp who="Die.">
+
+		<speaker>Die.</speaker>
 Heer Koning, weest my goed.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Ik werp my voor u neêr.
 
 
 
-<speaker>Die.</speaker>
+	<sp who="Die.">
+
+		<speaker>Die.</speaker>
 Ik val voor u te voet.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Ik vorder recht van u.
 
 
 
-<speaker>Die.</speaker>
+	<sp who="Die.">
+
+		<speaker>Die.</speaker>
 Wilt myn verdeeding hooren.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 &apos;k Eisch wraake van een moord.
 
 
 
-<speaker>Die.</speaker>
+	<sp who="Die.">
+
+		<speaker>Die.</speaker>
 &apos;t Was straf van hoon, in tooren.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Rodrigo, Heer....
 
 
 
-<speaker>Die.</speaker>
+	<sp who="Die.">
+
+		<speaker>Die.</speaker>
 Die deê gelyk een eerlyk man.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Die stak myn Vader dood.
 
 
 
-<speaker>Die.</speaker>
+	<sp who="Die.">
+
+		<speaker>Die.</speaker>
 Zyn Vader pord&apos; hem an.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Een Prins is schuldig recht aan &apos;t bloed der Onderzaaten.
 
 
 
-<speaker>Die.</speaker>
+	<sp who="Die.">
+
+		<speaker>Die.</speaker>
 Voor een gerechte wraak het recht wat moet ontlaaten.
 
 
 
-<speaker>Kon</speaker>
+	<sp who="Kon">
+
+		<speaker>Kon</speaker>
 Ryst bei te gader op, en redend een voor een.
 Chimene, ik heb myn rouw met uwen ramp gemeen,
 En ik voorwaar uw leet met hertenleet aanhoorden.
@@ -1598,7 +1906,9 @@ Gy krygt uw beurt daar na, valt haar niet in haar woorden.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Heer Koning, wat verdriet! myn Vader die is dood,
 En ik zag &apos;t drabbig bloed dat uit zyn wonde vlood;
 Dat bloed, dat zich zo vaak voor uwen Staat ging wagen,
@@ -1618,13 +1928,17 @@ Myn traanen en gezucht de rest u schuldig blyven.
 
 
 
-<speaker>Kon.</speaker>
+	<sp who="Kon.">
+
+		<speaker>Kon.</speaker>
 Hou moed, myn waarde kind, en weet dat van voortaan
 Uw Koning u in steê wil van een Vader staan.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Myn Heere, te veel eers geschiede aan myn ellende;
 Ik kwam dan machteloos, en vond zyn leeven te ende.
 Hy sprak my wel niet aan, maar dat vry dieper dreef,
@@ -1652,12 +1966,16 @@ Dat zulk een dierbaar bloed is in betaaling waard.
 
 
 
-<speaker>Kon.</speaker>
+	<sp who="Kon.">
+
+		<speaker>Kon.</speaker>
 Don Diego, antwoord nu.
 
 
 
-<speaker>Die.</speaker>
+	<sp who="Die.">
+
+		<speaker>Die.</speaker>
 Wat is men vol gelukken,
 Wanneer men met zyn kracht zich &apos;t leeven voeld ontrukken,
 En wat brengt ouderdom aan menig groot gemoed,
@@ -1697,7 +2015,9 @@ Zo &apos;k buiten oneer sterf, zo sterf ik zonder leed.
 
 
 
-<speaker>Kon.</speaker>
+	<sp who="Kon.">
+
+		<speaker>Kon.</speaker>
 De zaak is van gewicht, en ryp&apos;lyk overwoogen,
 Verdiend voor het gerecht des vollen Raads betoogen.
 Don Sanche, breng Chimeen in zekerheid weêr t&apos;huis,
@@ -1706,17 +2026,23 @@ Zyn Zoon zy nagezocht, ik zal u rechtsdwang geeven.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 &apos;t Is recht, Heer Koning, dat een Moorder misse &apos;t leeven.
 
 
 
-<speaker>Kon.</speaker>
+	<sp who="Kon.">
+
+		<speaker>Kon.</speaker>
 Stil uw verdriet, myn kind, en stel uw hert gerust.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Bevel van rust is my maar aanwas van onlust.
 
                 
@@ -1724,7 +2050,7 @@ Bevel van rust is my maar aanwas van onlust.
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -1733,7 +2059,9 @@ Don Sanche, Chimene, Elvire
 
 
 
-<speaker>San.</speaker>
+	<sp who="San.">
+
+		<speaker>San.</speaker>
 JA, Mevrouw, men des wel een bloedig hemd mag draagen,
 Uw traanen, en uw toorn, de wraak te recht opdaagen.
 Doch ik neem &apos;s my niet aan met een fluweele taal
@@ -1745,22 +2073,30 @@ Op uw bevel zo zal myn arm doen &apos;t geen ze hoord.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Rampzalige!
 
 
 
-<speaker>San.</speaker>
+	<sp who="San.">
+
+		<speaker>San.</speaker>
 Mevrouw, diend u toch van myn leeven.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Gy weet de Koning heeft een Rechtdag uitgeschreeven.
 
 
 
-<speaker>San.</speaker>
+	<sp who="San.">
+
+		<speaker>San.</speaker>
 Het recht dat is zo loom, en zo verdrietzaam lang,
 Dat menigmaal de schuld raakt buiten straffens dwang.
 Den traagen loop daar van, onwis hoe uit te vallen,
@@ -1770,13 +2106,17 @@ De weg veel korter is, en zekerder de zaak.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Dit is den lesten raad, en moet het daar toe komen,
 Uw dienst zal (is &apos;t u ernst) dan werden aangenomen.
 
 
 
-<speaker>San.</speaker>
+	<sp who="San.">
+
+		<speaker>San.</speaker>
 Dat is het eenig heil daar myn gemoed na haakt,
 En, op die hoop, vaar wel; dit my te vreden maakt.
 
@@ -1785,7 +2125,7 @@ En, op die hoop, vaar wel; dit my te vreden maakt.
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -1794,7 +2134,9 @@ Chimene, Elvire
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 IK zie my eind&apos;lyk vry, en mag hier onbedwongen
 U openen de smert in myne borst verdrongen:
 &apos;k Mag geeven vollen loop aan myn bedroefd gezucht,
@@ -1808,12 +2150,16 @@ Om &apos;t geen my over is &apos;t geen ik my vind te ontbreeken.
 
 
 
-<speaker>Elv.</speaker>
+	<sp who="Elv.">
+
+		<speaker>Elv.</speaker>
 Stel u gerust, Mevrouw.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Wat zyt gy onbewust
 Van myn ellendig lot, dat gy my spreekt van rust!
 Helaas! waar zou myn ziel deez&apos; rust van daan toch komen,
@@ -1823,12 +2169,16 @@ Daar ik vervolg een moord, en heb de moorder lief?
 
 
 
-<speaker>Elv.</speaker>
+	<sp who="Elv.">
+
+		<speaker>Elv.</speaker>
 Liefd gy hem noch die u beroofd heeft van een Vader?
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Ach! lieven dat is niet, Elvire, &apos;t gaat my nader,
 Ik ben verzot op hem, myn eigen hert hem diend,
 En in myn vyand zelfs vinde ik myn waardsten vriend.
@@ -1847,12 +2197,16 @@ Ik weet wat kinderplicht, en Vadermoord heeft in.
 
 
 
-<speaker>Elv.</speaker>
+	<sp who="Elv.">
+
+		<speaker>Elv.</speaker>
 Is u &apos;t vervolgen ernst?
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Ach! bloedige gedachten
 Van wreed vervolg, dat ik genootdrukt moet betrachten!
 Ik ding hem na zyn lyf, en voor &apos;t voldingen schrik.
@@ -1860,13 +2214,17 @@ Myn dood hangt aan de zyne, en ik zyn dood beschik.
 
 
 
-<speaker>Elvir.</speaker>
+	<sp who="Elvir.">
+
+		<speaker>Elvir.</speaker>
 Verlaat, Mevrouw, verlaat een voorstel zo verwoedig,
 Noch haal niet op uw hals een noodgeval zo bloedig.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Zal ik dan zien de dood myns Vaders zonder straf?
 Zyn bloed vast roepen wraak, daar ik geen wraak verschaf?
 Myn hert zal dat, verzot in schandig minnemallen,
@@ -1876,7 +2234,9 @@ Verstikt in stom gezwyg, door liefde treeden neêr!
 
 
 
-<speaker>Elvir.</speaker>
+	<sp who="Elvir.">
+
+		<speaker>Elvir.</speaker>
 Mevrouw, geloof my, gy zult wel zyn te verschoonen,
 Van u niet al te wreed op zulk een held te toonen:
 Een held en minnaar bei, gy hebt genoeg gedaan
@@ -1885,29 +2245,39 @@ Dringt op het uiteind niet, laat uw vervolg voort steeken.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Myn achting hangt &apos;er aan, ik moet, ik wil my wreeken;
 En of my schoon al vleid een dwaaze minnelust,
 Dat onschuld steld myn geest in &apos;t minste niet gerust.
 
 
 
-<speaker>Elvir.</speaker>
+	<sp who="Elvir.">
+
+		<speaker>Elvir.</speaker>
 Maar g&apos;hebt Rodrigo lief, hy kan u niet mishaagen.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 &apos;k Beken &apos;t.
 
 
 
-<speaker>Elvir.</speaker>
+	<sp who="Elvir.">
+
+		<speaker>Elvir.</speaker>
 Hoe zult gy dan u hier in eind&apos;lyk draagen?
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Tot voorstand van myn eer, en bet&apos;ring van myn schâ,
 Hem daagen, zien gedoemd, en sterven zelfs daar na.
 
@@ -1916,7 +2286,7 @@ Hem daagen, zien gedoemd, en sterven zelfs daar na.
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -1925,89 +2295,121 @@ Don Rodrigo, Chimene, Elvire
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 WEl, zonder dat gy hoefd my voor &apos;t gerecht te daagen,
 Zie hier, neem in myn dood uw zo gewenscht behaagen.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Elvire, wat is dit? waar zyn w&apos;? hoe komt dit by?
 Rodrigo in myn huis? Rodrigo hier by my?
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Verschoon myn leeven niet, smaak, zonder tegenstreeven,
 Het zoet dat u myn ramp, en uwe wraak kan geeven.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Helaas!
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Geef my gehoor.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Ik sterf.
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Een oogenblik.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Weg, laat my sterven toch.
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Ik &apos;t in een woord beschik,
 Daar na zo antwoord my niet dan met dezen degen.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Hoe! daar myns Vaders bloed noch niet is afgezegen?
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Chimene.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Weg; doet weg dit haatelyk vertoog,
 Dat my verwyt uw schuld dus schendig voor myn oog.
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Ach! zie het liever aan om uwen haat te wetten,
 Uw toorn te hitsen op, myn straf niet uit te zetten.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 &apos;t Is in myn bloed geverfd.
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Kom, doop het in het myn,
 En wascht zo daar van af de verf die &apos;t heeft van &apos;t dyn.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Ach! wat een wreedheid, dus op eenen dag te moorden
 De Vader door uw zwaard, de Dochter door uw woorden!
 Doe my dit tuig uit &apos;t oog, ik mag &apos;t niet zien zo blood;
@@ -2015,7 +2417,9 @@ Gy wilt dat ik u hoor, en jaagt my aan de dood.
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Ik doe &apos;t geen gy begeerd, maar zonder my te ontgeeven
 De wil van door uw hand te missen dit myn leeven.
 Want als &apos;t al is gezeid, verwacht noch van uw haat,
@@ -2055,7 +2459,9 @@ Gesteld heeft in de roem uws huis te vellen neêr.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Rodrigo, ach! &apos;t is waar, dat, zelfs met tegenstryden,
 Ik u niet laaken kan van geene smaad te lyden:
 En hoe dat ook berst uit de grootheid van myn druk,
@@ -2087,7 +2493,9 @@ Ik moet door uwe dood my toonen waard van dy.
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Stel dan niet langer uit &apos;t geen de eer u gaat gebieden,
 Die eischt myn hoofd, en ik kom &apos;t u van zelf aanbieden:
 Maak daar een offer af tot zulk een ed&apos;len zoen,
@@ -2098,7 +2506,9 @@ Komt voor uw achtbaarheid noch myne ramp geleegen;
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Ga, ik de aanklaagster wel, maar Beul niet weezen mag,
 Of gy my bied uw hoofd, kan ik het zo begeeren?
 Ik wil &apos;er dingen na, maar gy zult het verweeren:
@@ -2107,7 +2517,9 @@ Want die de straf vervolgd, de straf niet aan en doet.
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Ofschoon al uwen haat ons liefde wenscht te wyken,
 Uw hoogverheeven aard de myne moet gelyken,
 En eenen and&apos;ren arm te ontlenen tot uw wraak,
@@ -2117,7 +2529,9 @@ Uw hand zich in de wraak van de uwe alleen moet steeken.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Ach! wreed gemoed, waarom zo styf hier op gestaan!
 Uw wraak was zonder hulp, gy bied &apos;er hulp toe aan!
 Ik wil u volgen na, en ben te kittelachtig
@@ -2127,7 +2541,9 @@ Noch aan uw wanhoop, noch aan uwe minnepyn.
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 O streng besluit van eer! helaas! wat kan ik zeggen?
 Zal ik zo veel genâ my dan niet toe zien leggen!
 Ach! om uws Vaders wil, of wel om onze min
@@ -2137,22 +2553,30 @@ Te sterven door uw hand, als in uw haat te leeven.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Ga, ik en haat u niet.
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Gy moet.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Neen, ik en kan....
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Vreest gy het snoô gesnap van &apos;t volk zo weinig dan?
 Wanneer men myn misdoen en uwe min zal weeten,
 Wat meend gy dat de Nyd te zeggen zal vergeeten?
@@ -2161,7 +2585,9 @@ Behou uw achtbaarheid ten koste van myn hoofd.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Myn achtbaarheid die munt meêr uit als gy blyft leeven;
 En boven afgunsts reik myn roem zal zyn verheeven,
 Wanneer men weeten zal dat ik u zo bezin,
@@ -2176,22 +2602,30 @@ Geef haar geen oorzaak toch myn deugd te luchten uit.
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Ach! dat ik sterf.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Ga, ga.
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Wat &apos;s &apos;t slot van uw besluit?
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 In spyt van myne min, die mynen toorn wil breeken,
 Zal ik myn best doen om myn Vader wel te wreeken;
 Maar weder ook in spyt van zulk een wreeden plicht,
@@ -2199,76 +2633,104 @@ Zal zyn myn grootste wensch te hebben niet verricht.
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 O wonder van de min!
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Maar wonder vol misnoegen.
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Wat gaan ons Vaders ons al ramp en smert toevoegen?
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Helaas! wie had gedacht?...
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Helaas! wie ooit gezeid?....
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Dat heil, als &apos;t komt zo na, zo haastig weder scheid.
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 En dat zo onverwacht, gelyk als voor de haaven,
 Een snellen storm ons hoop zou in de Zee begraaven!
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Ach, doodelyk verdriet!
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Ach, droefheid zonder end!
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Ga heen, zeg ik noch eens, ik ben dit niet gewend.
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Vaar wel, ik ga voortaan een stervend leeven sleepen,
 Tot dat door uw vervolg het my werde uitgeneepen.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Indien ik daar toe kom dat ik u breng ten val,
 Ik zweer u dat ik u niet overleeven zal,
 Vaar wel, treê uit, en wacht dat gy niet werd bekeeken.
 
 
 
-<speaker>Elv.</speaker>
+	<sp who="Elv.">
+
+		<speaker>Elv.</speaker>
 Mevrouwe, wat voor ramp dat hier in schynt te steeken....
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Ei! kwel my langer niet, en laat my wat met vreên,
 Ik zoek de stilheid, en verlang te zyn alleen.
 
@@ -2277,7 +2739,7 @@ Ik zoek de stilheid, en verlang te zyn alleen.
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -2285,7 +2747,9 @@ Vyfde tooneel.
 
 
 
-<speaker>Don Diego</speaker>
+	<sp who="Don Diego">
+
+		<speaker>Don Diego</speaker>
 alleen
 WY vinden nimmermeer ten vollen ons vermaaken,
 Ons hoogste heil dat is vermengd met &apos;t geen wy laaken:
@@ -2317,7 +2781,7 @@ Myn vreeze die heeft uit, en myn verdriet is voort.
     
     
     
-            <div type="act">
+            <div type="act" n= 1 >
                 
                     
 Darde bedryf.Eerste tooneel.Elvire, Don Rodrigo
@@ -2335,7 +2799,7 @@ ElvChimene is na het Hof, ontsteld en heel begreezen,En zal met veel gevolgs ter
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -2344,17 +2808,23 @@ Don Diego, Don Rodrigo
 
 
 
-<speaker>Die.</speaker>
+	<sp who="Die.">
+
+		<speaker>Die.</speaker>
 ROdrigo, mag ik u ten lesten eens aanschouwen?
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Ach! &apos;t is verwinnaar, maar met enkel herts benouwen.
 
 
 
-<speaker>Die.</speaker>
+	<sp who="Die.">
+
+		<speaker>Die.</speaker>
 Laat my bedaaren wat, dat ik u geef uw lof,
 Myn deugd en vind geen reên om u te wyzen of,
 Gy hebt ze wel gevolgd, en uw doorluchtig sterven
@@ -2370,7 +2840,9 @@ Die gy hebt door uw moed gevryd van &apos;t schandig schennen.
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 De eer komt u daar van toe, elk weet, dat, zynde uw Zoon,
 Ik niet min doen en kon dan &apos;t wreeken van uw hoon,
 Ja hou &apos;t voor groot geluk, dat ik vernoegen geeven
@@ -2392,7 +2864,9 @@ Waar toe dus veel gezeid, en dus veel opgehaald?
 
 
 
-<speaker>Die.</speaker>
+	<sp who="Die.">
+
+		<speaker>Die.</speaker>
 Voer vry noch hooger aan de vrucht van uw verwinnen,
 Ik gaf u &apos;t leeven, gy geeft my myne eer; als &apos;t minnen
 Van de eer dan meerder is als &apos;t lieven van het lyf,
@@ -2403,17 +2877,23 @@ Min is niet dan een lust, en de eer een schuld en plicht.
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Ach! wat is &apos;t dat gy zegt?
 
 
 
-<speaker>Dieg.</speaker>
+	<sp who="Dieg.">
+
+		<speaker>Dieg.</speaker>
 &apos;t Geen diend tot uw bericht.
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Myne eer, verongelykt, zich op myn zelfs komt wreeken,
 En gy my van de schand van lichtigheid derfd spreeken!
 Het schennis is gelyk, en ik voor even hou
@@ -2427,7 +2907,9 @@ Zo is de dood, die &apos;k zoek, myn rechte hulp alleene.
 
 
 
-<speaker>Dieg.</speaker>
+	<sp who="Dieg.">
+
+		<speaker>Dieg.</speaker>
 &apos;t En is geen tyd noch om te zoeken uwe dood,
 Uw Koning en uw Land uw arm noch heeft van nood.
 De vloot die wierd gevreesd, nu op de reê gekomen,
@@ -2464,7 +2946,7 @@ Dat, &apos;t geen hy in den Graaf verliesd, hy aan u wind.
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -2473,13 +2955,17 @@ De Infante, Chimene, Leonora, Elvire
 
 
 
-<speaker>Inf.</speaker>
+	<sp who="Inf.">
+
+		<speaker>Inf.</speaker>
 IK kom hier niet om u te troosten in uw rouw,
 Maar eer dat ik myn leed met &apos;t uwe mengen zou.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Neen, zyt deelachtig eer aan &apos;t algemeen verblyden,
 Geniet het heil dat zich vervoegd aan uwer zyden;
 Mevrouwe, buiten my heeft niemand treurens recht,
@@ -2491,19 +2977,25 @@ En zyn manhaften arm doet my maar ondienst aan.
 
 
 
-<speaker>Inf.</speaker>
+	<sp who="Inf.">
+
+		<speaker>Inf.</speaker>
 Het is zo, myn Chimeen, hy deede wonderdaaden.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Zo haast kwam dit gerucht myne ooren niet belaaden,
 Of ik vernam met een dat ieder hem verhief,
 En voor een dapper held en ongevallig lief.
 
 
 
-<speaker>Inf.</speaker>
+	<sp who="Inf.">
+
+		<speaker>Inf.</speaker>
 Wat is &apos;er lastig toch voor u in &apos;s volks gewaagen?
 Deez&apos; jonge Mars die &apos;t loofd, die plag u te behaagen,
 Hy uwe ziel bezat, uw wil was hem een wet,
@@ -2511,7 +3003,9 @@ Zyn roem dat is een paerl aan uwe Kroon gezet.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 &apos;k Beken dat ieder een hem loofd met groote reden,
 Doch voor my is zyn lof als op een adder treeden:
 Myn smert word maar getergd als hy werd zo vermaard,
@@ -2523,7 +3017,9 @@ Dus werd in spyt van min zyn dood by my betracht
 
 
 
-<speaker>Inf.</speaker>
+	<sp who="Inf.">
+
+		<speaker>Inf.</speaker>
 Deez&apos; plicht u deed zeer hoog op gisteren waardeeren,
 &apos;t Geweld, u aangedaan, u bragt tot zulker eeren,
 Dat ieder in het Hof verhief uw groot gemoed,
@@ -2532,12 +3028,16 @@ Maar wilt gy wel den raad van een vriendin gelooven?
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 U niet gehoorzaam zyn ging alle schuld te boven.
 
 
 
-<speaker>Inf.</speaker>
+	<sp who="Inf.">
+
+		<speaker>Inf.</speaker>
 &apos;t Geen toen was wel, zich nu heel anders aanzien laat,
 Rodrigo is een stut geworden van den Staat,
 De hoop en wensch van &apos;t volk, dat zich voor hem laat hooren,
@@ -2557,7 +3057,9 @@ Ontrekt hem vry uw min, maar laat hem voor ons leven.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Mevrouw, ach! laat my toe, dat ik in vryigheid
 Volvoer ten einden uit myn groot gemoedsbeleid,
 Ofschoon myn hert zich veel laat aan hem zyn geleegen,
@@ -2567,7 +3069,9 @@ Noch zal zyn zegepronk door my zyn neêr geveld.
 
 
 
-<speaker>Inf.</speaker>
+	<sp who="Inf.">
+
+		<speaker>Inf.</speaker>
 &apos;t Is moedigheid, wanneer, om &apos;s Vaders dood te wreeken,
 Ons plicht zo waarden hoofd ons doet van straf aanspreeken:
 Maar &apos;t is een heerlyk blyk van vry een hooger moed,
@@ -2579,18 +3083,24 @@ In &apos;t verder gy te veel zou vinden tot belet.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Men mag my doen belet, maar ik en kan niet zwygen.
 
 
 
-<speaker>Inf.</speaker>
+	<sp who="Inf.">
+
+		<speaker>Inf.</speaker>
 Bedenk wel, myn Chimeen, wat gy tracht te verkrygen.
 Ik ga, gy zult alleen des beter u beraân.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Na &apos;s Vaders moord en is daar geen beraaden aan.
 
                 
@@ -2598,7 +3108,7 @@ Na &apos;s Vaders moord en is daar geen beraaden aan.
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -2607,7 +3117,9 @@ De Koning, Don Diego, Don Arias, Don Rodrigo, Don Sanche
 
 
 
-<speaker>Kon.</speaker>
+	<sp who="Kon.">
+
+		<speaker>Kon.</speaker>
 MAnhaften erfgenaam van &apos;t huis, wiens dapperheden
 Geweest zyn als een stut des Staats, een Burg der Steden:
 Een zulker helden spruit, in koenheid zo vermaard,
@@ -2631,7 +3143,9 @@ Wat gy my waardig zyt, en ik u schuldig ben.
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Heer Koning, laat uw gunst my niet te zeer beschaamen,
 Zo slechten dienst verdiend niet zulke hooge naamen,
 En &apos;t jaagd my, groote Vorst, vry een rood aanzigt aan,
@@ -2643,7 +3157,9 @@ Ik maar alleen de plicht doe van een onderzaat.
 
 
 
-<speaker>Kon.</speaker>
+	<sp who="Kon.">
+
+		<speaker>Kon.</speaker>
 Al die door plichts verband haar tot myn dienst begeeven,
 En voeren die niet uit met daaden zo verheeven:
 Want als de dapperheid niet dribbeld buiten spoor,
@@ -2653,7 +3169,9 @@ Lyd dat men u dan loove, en my in &apos;t lang doet hooren
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Weet dan, ô Vorst, hoe, in &apos;t gevaarelyk bestaan,
 Dat zulken snellen schrik de gantsche Stad joeg aan,
 Ik in myn Vaders huis by een vond een hoop vrienden,
@@ -2667,7 +3185,9 @@ Dan te verliezen op Chimenes wreede klagt.
 
 
 
-<speaker>Kon.</speaker>
+	<sp who="Kon.">
+
+		<speaker>Kon.</speaker>
 &apos;k Onschuldig uwen ernst in dit uw hoon te wreeken,
 En myn behouden Ryk dat komt my voor u spreeken,
 Geloof vry van nu aan, dat, wat Chimene zeid,
@@ -2676,7 +3196,9 @@ Maar ga gy voort.
 
 
 
-<speaker>Rod.</speaker>
+	<sp who="Rod.">
+
+		<speaker>Rod.</speaker>
 Dit volk valt onder my aan&apos;t trekken,
 Om met een mannen moed des vyands magt te ontdekken:
 Vyfhonderd was&apos;er eerst, maar snellen toeloop deê
@@ -2758,7 +3280,7 @@ Op deze wyze was &apos;t, Heer Koning, dat uw knecht....
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -2767,12 +3289,16 @@ De Koning, Don Diego, Don Rodrigo, Don Arias, Don Alonso, Don Sanche
 
 
 
-<speaker>Alon</speaker>
+	<sp who="Alon">
+
+		<speaker>Alon</speaker>
 CHimene, Heer, die komt aan u verzoeken recht.
 
 
 
-<speaker>Kon.</speaker>
+	<sp who="Kon.">
+
+		<speaker>Kon.</speaker>
 Wat moeijelyker maar, wat buitenstydsche plichten!
 Ga, ik en wil haar niet met u te zien ontstichten,
 Voor allen dank ik u van my verzenden moet:
@@ -2780,12 +3306,16 @@ Maar denk het is om best &apos;t geen uwen Koning doet.
 
 
 
-<speaker>Die</speaker>
+	<sp who="Die">
+
+		<speaker>Die</speaker>
 Chimene hem vervolgd, en wenscht niet te behoeven.
 
 
 
-<speaker>Kon.</speaker>
+	<sp who="Kon.">
+
+		<speaker>Kon.</speaker>
 Men zeid zy heeft hem lief, ik wil haar eens beproeven.
 Hou u bedroefd.
 
@@ -2794,7 +3324,7 @@ Hou u bedroefd.
     
     
     
-            <div type="act">
+            <div type="act" n= 1 >
                 
                     
 Vierde bedryf.Eerste tooneel.Chimene, Elvire
@@ -2815,7 +3345,7 @@ Elv.Mevrouw, bedaar u wat, zie daar de Infante komen.
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -2824,7 +3354,9 @@ De Koning, Don Diego, Don Arias, Don Sanche, Don Alonso, Chimene, Elvire
 
 
 
-<speaker>Kon.</speaker>
+	<sp who="Kon.">
+
+		<speaker>Kon.</speaker>
 WEl nu, zyt eindelyk te vreên,
 Chimene, de uitkomst geeft u daar toe volle reên;
 Ofschoon Rodrigo heeft de zege aan ons verworven,
@@ -2834,7 +3366,9 @@ Zie hoe het bloosjen in haar aanzigt daar verbleekt.
 
 
 
-<speaker>Die</speaker>
+	<sp who="Die">
+
+		<speaker>Die</speaker>
 Maar zie hoe zy bezwymd; en wil toch eens bezinnen
 In dit haar zwymen, Heer, de werking van het minnen.
 Haar hertenleed heeft haar geheimenis ontdekt,
@@ -2842,32 +3376,42 @@ En laat nu niet meêr toe gy dit in twyffel trekt.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Rodrigo is dan dood?
 
 
 
-<speaker>Kon.</speaker>
+	<sp who="Kon.">
+
+		<speaker>Kon.</speaker>
 Neen, neen, hy is in &apos;t leeven.
 En gy staat hem in &apos;t hert op &apos;t minnelykst geschreeven,
 Gy zult hem hebben ook, schep weder nieuwe moed.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Heer Koning, vreugd zo wel als droefheid zwymen doet,
 Vernoegens overmaat ontzenuwd onze krachten,
 En &apos;t hert daar door verflaauwd, zyn plicht niet kan betrachten.
 
 
 
-<speaker>Kon.</speaker>
+	<sp who="Kon.">
+
+		<speaker>Kon.</speaker>
 Gy wil, Chimene, dat men u noch geef gelyk;
 Maar gy gaf van uw smert en al te kenbaar blyk.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Wel, Heer, ga vry myn ramp hier mede noch bezwaaren,
 En zeg my, &apos;t zwymen is door droefheid wedervaaren;
 Dat druk my daar toe bragt, mag ook wel zyn geloofd,
@@ -2901,7 +3445,9 @@ Verstout hem op myn nek zyn trotze voet te zetten.
 
 
 
-<speaker>Kon.</speaker>
+	<sp who="Kon.">
+
+		<speaker>Kon.</speaker>
 Myn Dochter, dit beklag gaat vry wat hevig aan,
 De schaal moet zyn gelyk daar recht zal zyn gedaan:
 Men stak uw Vader dood, maar hy was eerst aanrander,
@@ -2913,7 +3459,9 @@ Dat ik voor u behoude uw minnaar by het leeven.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Voor my myn vyand! en het oogmerk van myn haat!
 Myns Vaders moordenaar! en de oorzaak van myn kwaad!
 Werd dan zo weinig werks gemaakt van myne klagten,
@@ -2930,7 +3478,9 @@ Veroorlofd dat dit zy verkondigd overal.
 
 
 
-<speaker>Kon.</speaker>
+	<sp who="Kon.">
+
+		<speaker>Kon.</speaker>
 Dit kamprecht, dat gy wil, men u vergunnen zal,
 Is wel een oud gebruik, hier in gevoerd voor dezen,
 Tot straf, by proefs gebrek, van misdaad onbeweezen:
@@ -2945,7 +3495,9 @@ De Mooren zyne schuld met haare vlugt meêsleepen.
 
 
 
-<speaker>Die</speaker>
+	<sp who="Die">
+
+		<speaker>Die</speaker>
 Hoe, Heer! doet gy om hem alleen een recht te niet,
 Dat al uw hof hier weet zo vaak te zyn geschied?
 Wat zal het volk daar van, wat zal de nyd niet zeggen,
@@ -2959,7 +3511,9 @@ Hy deed het als een man, hy moet het houden staan.
 
 
 
-<speaker>Kon.</speaker>
+	<sp who="Kon.">
+
+		<speaker>Kon.</speaker>
 Nadien gy &apos;t zo begeerd, zo zal het zo geschieden,
 Maar duizend zouden zich tot dezen stryd aanbieden,
 In des verwonnens plaats, en &apos;t loon daar toe gesteld,
@@ -2971,7 +3525,9 @@ Maar na dit kampgevecht en vergd my verder niet.
 
 
 
-<speaker>Die</speaker>
+	<sp who="Die">
+
+		<speaker>Die</speaker>
 Verschoon daar door niet, Heer, die zynen degen vreezen,
 Het veld voor ieder een zy open, als voor dezen:
 Na &apos;t geen Rodrigo heeft van dezen dag doen zien,
@@ -2981,7 +3537,9 @@ Wat zou deez&apos; krygsheld zyn, wie zou zyn de onversaagde?
 
 
 
-<speaker>Sanc.</speaker>
+	<sp who="Sanc.">
+
+		<speaker>Sanc.</speaker>
 Ha! Ridder, zyt gy hier, laat openen het veld,
 Ik ben dus onversaagd, ik ben dien Oorlogsheld.
 Mevrouw, vergun my toch myne yver uit te drukken;
@@ -2989,38 +3547,52 @@ Gy weet wat gy beloofd, indien &apos;t my mogt gelukken.
 
 
 
-<speaker>Kon.</speaker>
+	<sp who="Kon.">
+
+		<speaker>Kon.</speaker>
 Chimene, steld gy uw geschil in zyne hand?
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Heer Koning, &apos;k heb &apos;t beloofd.
 
 
 
-<speaker>Kon.</speaker>
+	<sp who="Kon.">
+
+		<speaker>Kon.</speaker>
 Op morgen doet &apos;t gestand.
 
 
 
-<speaker>Die</speaker>
+	<sp who="Die">
+
+		<speaker>Die</speaker>
 Neen, Heer, &apos;t is van geen nood dit verder te verzetten;
 Den arm geen uitstel zoekt daar moed den ernst kan wetten.
 
 
 
-<speaker>Kon.</speaker>
+	<sp who="Kon.">
+
+		<speaker>Kon.</speaker>
 Te komen uit een slag, en tot een kamp te gaan!
 
 
 
-<speaker>Dieg</speaker>
+	<sp who="Dieg">
+
+		<speaker>Dieg</speaker>
 Rodrig&apos; heeft aâm gehaald toen hy &apos;t u diende aan.
 
 
 
-<speaker>Kon</speaker>
+	<sp who="Kon">
+
+		<speaker>Kon</speaker>
 Ik wil, hy hem een uur of twee voor&apos;t minst zal rusten;
 Maar om te toomen in deez&apos; vechtgezinde lusten,
 En te betuigen dat ik tot myn leet laat toe
@@ -3035,12 +3607,16 @@ En wil dat hem tot loon Chimene geeft haar trouw.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Heer, dat &apos;s te strengen wet gesteld aan mynen rouw.
 
 
 
-<speaker>Kon</speaker>
+	<sp who="Kon">
+
+		<speaker>Kon</speaker>
 Gy klaagd, maar uwe min, onëenig met uw klaagen,
 Indien &apos;t Rodrigo wind, ontfangt hem met behaagen:
 Laat af, noch wederspreek niet meêr een recht zo zoet,
@@ -3051,7 +3627,7 @@ Wie dat het is van tweên, uw Bruigom weezen moet.
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -3059,7 +3635,9 @@ Tweede tooneel.
 
 
 
-<speaker>Don Rodrigo</speaker>
+	<sp who="Don Rodrigo">
+
+		<speaker>Don Rodrigo</speaker>
 alleen
 WAt Vyand is &apos;er nu die ik niet &apos;t veld doe loozen,
 Voort Moor, voort Navarrois, voort koene Castiljaan,
@@ -3074,7 +3652,7 @@ Om dat te niet te zien is niet genoeg uw magt.
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -3082,7 +3660,9 @@ Darde tooneel.
 
 
 
-<speaker>De Infante</speaker>
+	<sp who="De Infante">
+
+		<speaker>De Infante</speaker>
 alleen
 ZAl ik u noch ontzien, ontzag van myn geboorte,
 Die maakte een misdaad van myn min?
@@ -3122,7 +3702,7 @@ Dat min noch duuren blyft by die in onmin staan.
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -3131,23 +3711,31 @@ De Infante, Leonora
 
 
 
-<speaker>Inf.</speaker>
+	<sp who="Inf.">
+
+		<speaker>Inf.</speaker>
 WAt komt gy doen, Lenoor?
 
 
 
-<speaker>Leo</speaker>
+	<sp who="Leo">
+
+		<speaker>Leo</speaker>
 Mevrouw, ik kom u toonen
 De vreugde die ik voel nu rust uw deugd gaat loonen.
 
 
 
-<speaker>Inf.</speaker>
+	<sp who="Inf.">
+
+		<speaker>Inf.</speaker>
 Waar zou deez&apos; rust doch zyn te vinden in myn kwaad.
 
 
 
-<speaker>Leon</speaker>
+	<sp who="Leon">
+
+		<speaker>Leon</speaker>
 Zo liefde leefd by hoop, en zonder hoop vergaat,
 En kan Rodrigoos min uw ziel niet langer kwellen;
 Gy weet in wat gevecht Chimene hem gaat stellen,
@@ -3156,17 +3744,23 @@ Zo is uw hert geheeld, mids hoop niet duuren kan.
 
 
 
-<speaker>Inf.</speaker>
+	<sp who="Inf.">
+
+		<speaker>Inf.</speaker>
 Hoe veel schort daar noch aan?
 
 
 
-<speaker>Leon</speaker>
+	<sp who="Leon">
+
+		<speaker>Leon</speaker>
 Wat weet je &apos;er op te zeggen?
 
 
 
-<speaker>Inf.</speaker>
+	<sp who="Inf.">
+
+		<speaker>Inf.</speaker>
 Maar zeg veel eer wat hoop dat gy my weet te ontleggen?
 Ofschoon Rodrigo wel op zulken voorwaard stryd,
 Noch weet ik raad om dit gevolg te zien vermyd:
@@ -3175,7 +3769,9 @@ Een duizend kunstenaar, heeft duizend looze vonden.
 
 
 
-<speaker>Leo</speaker>
+	<sp who="Leo">
+
+		<speaker>Leo</speaker>
 Wat kond gy hoopen noch, nadien een Vaders moord
 Haar vastverknochte min door onmin niet en stoord?
 Want by des zaaks beleid Chimene wel laat blyken,
@@ -3195,20 +3791,26 @@ En onder schyn van dwang te toonen weêr te vreden.
 
 
 
-<speaker>Inf.</speaker>
+	<sp who="Inf.">
+
+		<speaker>Inf.</speaker>
 Ik merk het wel genoeg; en niettemin myn hert
 Tot deez&apos; verwinnaars gunst te meêr gedreeven werd.
 Wat raad, wat raad voor my, die in myn brand moet smooren?
 
 
 
-<speaker>Leon</speaker>
+	<sp who="Leon">
+
+		<speaker>Leon</speaker>
 Dat gy gedenkt, Mevrouw, wie dat gy zyt gebooren,
 &apos;t Lot leverd u een Prins, gy liefd een Onderdaan.
 
 
 
-<speaker>Inf.</speaker>
+	<sp who="Inf.">
+
+		<speaker>Inf.</speaker>
 Myn liefde gaat heel op een ander streek nu aan,
 Ik min Rodrigo, niet zo als hy was voor dezen,
 Een vry veel hooger vlam is nu in my gereezen.
@@ -3230,7 +3832,7 @@ Zie my ook eindigen gelyk ik heb begonnen.
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -3239,7 +3841,9 @@ Chimene, Elvire
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 ELvire, wat al leeds is &apos;t dat ik troost&apos;loos ly?
 Hoe rold het ongeval baldadig over my?
 Ik weet niet wat ik meêr of kan of zal verhoopen,
@@ -3253,7 +3857,9 @@ En ik blyf zonder wraak, of die ik min blyft dood.
 
 
 
-<speaker>Elv.</speaker>
+	<sp who="Elv.">
+
+		<speaker>Elv.</speaker>
 Van de een en de ander kant zie ik u &apos;t leet ontdooken,
 Of gy krygt die gy mind, of gy zult zyn gewrooken.
 En wat ook &apos;t noodgeval hier in beschikken kan,
@@ -3261,7 +3867,9 @@ Of &apos;t voerd uw roem ten top, of &apos;t helpt u aan een man.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Hoe! aan een die ik haat veel meêr als een verraader;
 Myn vryers moordenaar, of moorder van myn Vader!
 Wie dat men van deez&apos; twee my geeft tot Echtgenoot,
@@ -3276,7 +3884,9 @@ En zonder dat men weet wie &apos;t wind, of wie &apos;t verliesd.
 
 
 
-<speaker>Elv.</speaker>
+	<sp who="Elv.">
+
+		<speaker>Elv.</speaker>
 Gy voor u zelfs hier in te strengen straf verkiest,
 En dit gevecht u maar een nieuwe smert zal weezen,
 Zo &apos;t u vervolgen doet uw recht gelyk voor deezen:
@@ -3289,7 +3899,9 @@ En u de Koning dwingt tot &apos;t geen gy zelfs begeerd.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Als hy verwinnaar waar, denkt gy ik &apos;t op zou geeven?
 Myn plicht is veel te sterk, en myn verlies te oneven.
 Noch recht van kampgevecht, noch dat van &apos;s Konings wil,
@@ -3301,7 +3913,9 @@ Ik zal &apos;er duizend meêr doen vechten om zyn hoofd.
 
 
 
-<speaker>Elv.</speaker>
+	<sp who="Elv.">
+
+		<speaker>Elv.</speaker>
 Zie toe, vry dat tot straf van dit hoogmoedig spreeken,
 Den Hemel niet en duld&apos; dat eind&apos;lyk men u wreeke.
 Hoe nu! wilt gy noch al verstooren het geluk
@@ -3317,7 +3931,9 @@ Zal doen gy door zyn dood Don Sanche hebben moet.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Elvire, ik heb genoeg aan &apos;t geen ik moet verdraagen,
 Verzwaar het toch niet meêr met zulken droef gewagen;
 Ik wil ze, zo ik kan, vermyden alle bei,
@@ -3332,7 +3948,7 @@ Wee my! wat zie ik daar? Elvire, &apos;t is gedaan.
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -3341,12 +3957,16 @@ Don Sanche, Chimene, Elvire
 
 
 
-<speaker>Sanc.</speaker>
+	<sp who="Sanc.">
+
+		<speaker>Sanc.</speaker>
 MEvrouw, ik breng hier voor uw voeten dezen degen.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Hoe! om Rodrigoos bloed my daar doen af te veegen?
 Verraader, derfd gy noch verschynen voor myn oog,
 Nu gy my hebt beroofd van &apos;t geen my &apos;t herte toog?
@@ -3357,12 +3977,16 @@ Myn ziele buiten hoop, myn minnevlammen vry.
 
 
 
-<speaker>San.</speaker>
+	<sp who="San.">
+
+		<speaker>San.</speaker>
 Met meêr bezadigheid.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Wat! houd gy u niet binne,
 Vervloekte moorder van een held die ik beminne:
 Weg, &apos;t moest zyn met verraad, een krygsman zo vermaard
@@ -3370,12 +3994,16 @@ Waar nimmer te onderbragt door uw slaphandig zwaard.
 
 
 
-<speaker>Elv.</speaker>
+	<sp who="Elv.">
+
+		<speaker>Elv.</speaker>
 Maar hoor hem toch, Mevrouw.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Wat valt &apos;er meêr te hooren?
 Kan ik noch twyffel slaan aan &apos;t geen my komt te vooren?
 &apos;k Vin tot myn ongeval het geen ik heb gezocht,
@@ -3393,12 +4021,16 @@ En hebt voor dienst te doen het leeven my ontdraagen.
 
 
 
-<speaker>San.</speaker>
+	<sp who="San.">
+
+		<speaker>San.</speaker>
 Een vreemden inval, die vervreemd van all&apos; gehoor.
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Hoe! wilt gy noch dat ik leen aan uw roemen &apos;t oor?
 En met gemak versta, met wat vermetelheden
 Gy uiten zult zyn moord, myn ramp, uw dapperheden,
@@ -3412,7 +4044,7 @@ Tot wraake van myn lief wil ik geen helper haalen.
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -3421,7 +4053,9 @@ De Koning, Don Diego, Don Arias, Don Sanche, Don Alonso, Chimene, Elvire
 
 
 
-<speaker>Chim.</speaker>
+	<sp who="Chim.">
+
+		<speaker>Chim.</speaker>
 Voor u, &apos;t geen ik toch niet verberg in myn gepeins:
 Ik minde,&apos;t was u kond, maar om myn bloed te wreeken
 Heb ik zo waarden vriend wel derven doen doorsteeken.
@@ -3442,19 +4076,25 @@ In kloosterlyk gewaad, myn Vriend en Vader bei.
 
 
 
-<speaker>Diego</speaker>
+	<sp who="Diego">
+
+		<speaker>Diego</speaker>
 Zy mind hem, Heer, en acht haar eer nu niet te schennen,
 In dus met eigen mond haar liefde te bekennen.
 
 
 
-<speaker>Kon.</speaker>
+	<sp who="Kon.">
+
+		<speaker>Kon.</speaker>
 Chimene, dat gy &apos;t weet, uw Minnaar is niet dood.
 Don Sanch&apos; heeft maar zyn schand met valsch bericht vergroot.
 
 
 
-<speaker>San.</speaker>
+	<sp who="San.">
+
+		<speaker>San.</speaker>
 Heer Koning, haaren haast die heeft haar zelf bedroogen;
 lk kwam om van &apos;t gevecht haar de uitkomst te vertogen.
 Dien braaven Oorlogsheld, die in haar ziele leefd,
@@ -3476,7 +4116,9 @@ Dat eind&apos;lyk uitkomst geeft aan haar volmaakt verkiezen.
 
 
 
-<speaker>Kon.</speaker>
+	<sp who="Kon.">
+
+		<speaker>Kon.</speaker>
 Myn Dochter, rekend u zo schoonen vlam geen schand,
 Noch zoekt geen middel meêr tot verder tegenstand:
 Een buitenstydsche schaamt vergeefs u dat kom heeten,

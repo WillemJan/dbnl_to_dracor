@@ -88,7 +88,7 @@ xml_template = """<?xml version="1.0" encoding="utf-8"?>
     <body>
     {% for block in data.get('readingorder') %}
     {% for key, value in block.items() %}
-            <div type="{{ key }}">
+            <div type="{{ key }}" n= {{ loop.index }} >
                 {% for f in value %}
                     {{ f }}
                 {% endfor %}

@@ -123,7 +123,7 @@
     <body>
     
     
-            <div type="chapter">
+            <div type="chapter" n= 1 >
                 
                     
 
@@ -135,7 +135,7 @@ TE AMSTERDAM,By de Erfgenamen van Jacob Lescailje
     
     
     
-            <div type="act">
+            <div type="act" n= 1 >
                 
                     
 Vertooners.
@@ -145,7 +145,7 @@ FULVIA FAUSTINAKeizerinVALERIUSSteedevoogd van Romeverliefd op VituriaBALBINUSHo
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -154,22 +154,30 @@ Balbinus, Marcellus, Valerius
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 DUs onverhoeds dacht ik mijn vrinden niet te ontmoeten.
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 &apos;k Verheug my dat ik u gezond weêr mag begroeten.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Hoe staat het met ons Heir, hoe met de Prins?
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 Ik gis
 Dat daar van al ten Hoof bericht en tijding is.
 Een zeege, als onze Prins in Duitsland heeft bevochten,
@@ -177,7 +185,9 @@ Is die hier onbekend?
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 De lauw&apos;ren zaamgevlochten,
 En de eereboogen, die zijn Vader bouwen doet,
 Getuygen dat men van zijn krijgsdeugd weeten moet:
@@ -185,26 +195,34 @@ Maar straat en Hofgerucht wil nad&apos;rend onheil melden.
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 Een vuile geeszel van veele onvermoeide helden.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Men mompelt van verraad, indien men &apos;t weeten mag,
 Ey! zegt, wat is&apos;er gaande, onze oude vrindschap plag
 In vryheid altemets het hert eens te openbaaren.
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 De haat, en laster zoekt de Veldheer in te vaaren.
 Voor my, ik hoorde noit van aanslag, of verraad;
 Veel minder, dat de Prins na &apos;s vaders schepter staat.
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 Balbinus, spreekt men zoo, om &apos;t Hof in slaap te wiegen,
 Of als men listelijk zijn vrinden wil bedriegen?
 Gy ziet wel, welk een lucht thans in het leger broeit;
@@ -220,7 +238,9 @@ De Veldheer Fabius naa &apos;s vaders Schepter vat.
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 De Prins kend al te wel &apos;t betaamen, zijn geweeten,
 Zal zich zoo schand&apos;lijk aan zijn vader niet vergeeten;
 Hy nu, die twijfelt aan zijn deugd; zy zelf zoo vroom,
@@ -232,17 +252,23 @@ En met genegenheid voor &apos;t Recht der Rijksstaf strijd.
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 Bedien u van dien raad.
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 Ik heb geen quaad vertrouwen.
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 Dat gy u van de Vorst, en Prins zoekt vrind te houwen,
 Begrijp ik al te wel, maar niet, hoe uw gemoed,
 Uw deftige ouderdom, uw Aad&apos;lijk hartebloed,
@@ -261,12 +287,16 @@ Dat hier een hert, getrouw voor zijnen Keizer, woond.
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 Wie twijfelt aan mijn trouw?
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Die is het Rijk gebleeken,
 Toen uw doorluchtige arm de zeege heeft gestreeken,
 Panonïen, verheert, voor u den Standaard boog,
@@ -281,12 +311,16 @@ Carinus ondergang, noch Fabius bederf!
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 De zoon treê, na de dood des Vaders, in zijn erf.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Leed onze Heerschappy weleer twee gordianen,
 Twee Maximinen? en zoud gy, Marcellus, waanen,
 Dat nu de staat ook niet, ei zeg toch met wat schijn?
@@ -294,24 +328,32 @@ Als by Valeriaan, zou konnen veilig zijn
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 &apos;k Heb, by den Adelaer, den Keizer trouw gezwooren;
 Hy leeve lang, &apos;k wil van geen tweede Keizer hooren.
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 Gy spreekt of &apos;t zeeker was dat Fabius...
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 Mijn Heer,
 Gy weet wat ons de Vorst belaste.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Ter zijden tegen Balbinus
 Laat ik, eer
 Hy heen gaat, hem alleen, als vrind, zijn pligt eens zeggen?
@@ -320,12 +362,16 @@ Marcellus, met verlof, ik sprak u graag een woord.
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 Ik wacht u op de plaats.
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 Mijn Heer, ik volg u voort.
 Balbinus binnen
 
@@ -334,7 +380,7 @@ Balbinus binnen
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -343,18 +389,24 @@ Marcellus, Valerius
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 NU zal ik eind&apos;lijk my ten vollen konnen wreeken.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Ik van mijn herts geheim eens met Marcellus spreeken.
 Hoe heeft de Keizer uw bericht toch opgevat?
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 Recht na mijn zin. de wraak, die zijn gemoed bezat,
 Verkropte hy met kunst, &apos;k deed hem geen zaaken hooren,
 Als die hem toonden, dat de staat reeds was verlooren.
@@ -368,12 +420,16 @@ In dus zijn waarde zoon te zien van elk beliegen.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Een streek waar door gy zelf Balbinus zult bedriegen.
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 &apos;k Zal hem nu raaden dat hy zich ten Hoof begeeft,
 Balbinus zelf vind goed dat hy niet wederstreefd
 &apos;t Geen &apos;s Keizers wil gebied; komt hy mijn raad te volgen
@@ -386,7 +442,9 @@ Maar wat is toch &apos;t geheim daar gy van spreeken moet?
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Ik heb de Keizerin, na middernacht, begroet
 Op haar ontbod, zy bad dat ik haar toe zou zeggen,
 Meê aan haar stiefzoons val de hand te helpen leggen,
@@ -407,12 +465,16 @@ Ik sterf van liefde, daar zy in het haaten leeft.
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 Zoo weet zy van uw liefde?
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Ik heb haar aangebeeden,
 En heimelijk gevleid, met alle aanloklijkheeden;
 Maar ach! ik storm vergeefs, op de onverwrikbre rots,
@@ -420,24 +482,32 @@ Mijn weekheid, maakt haar hart, mijn need righeid, haar trots.
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 Haar echt dwingt haar de Prins voor al getrouw te blijven.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 &apos;k Zal haar dat voorwerp nu uit oog en hert verdrijven,
 Zelf gaan verplichten door een valsche vrinderaad,
 Zo wek ik haar tot liefde, en &apos;s Keisers hert tot haat.
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 En hoe?
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Ik zal, als tot zijn lijfsbehoud gedreeven,
 Hem raaden, dat hy zich ten Hoof niet moet begeeven
 Als wel gewaapent, en met vrinden, dat hy waak,
@@ -457,12 +527,16 @@ Verschuilen wy ons hier.
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 Is &apos;t Julia?
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Zy is &apos;t,
 En met Attilius.
 Valer. Marc. verschnilen zich
@@ -472,7 +546,7 @@ Valer. Marc. verschnilen zich
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -481,7 +555,9 @@ Attilius, Julia
 
 
 
-<speaker>Attilius</speaker>
+	<sp who="Attilius">
+
+		<speaker>Attilius</speaker>
 ZO als ik af wou treeden,
 Om u, op Vaders beê, te wachten hier beneeden,
 Genoot mijn oog &apos;t geluk, van u van ver te zien,
@@ -497,12 +573,16 @@ Dit vond hy goed, en wacht na my, en uw bescheid.
 
 
 
-<speaker>Julia</speaker>
+	<sp who="Julia">
+
+		<speaker>Julia</speaker>
 Zo groot een vrindedienst, zal broeder hoog waardeeren.
 
 
 
-<speaker>Attilius</speaker>
+	<sp who="Attilius">
+
+		<speaker>Attilius</speaker>
 Met zulk een vrindendienst wou my de Prins vereeren:
 Een dienst, die na veel last, veel kommer, veel gevaar,
 My u laat vinden, na een rond verloopen jaar.
@@ -515,12 +595,16 @@ De Vorst, uw Vader, kon mijn dienst niet meêr betaalen.
 
 
 
-<speaker>Julia</speaker>
+	<sp who="Julia">
+
+		<speaker>Julia</speaker>
 Uw heusheid schat de liefde en haar genot te hoog.
 
 
 
-<speaker>Attilius</speaker>
+	<sp who="Attilius">
+
+		<speaker>Attilius</speaker>
 Geen eerenwapenzuyl, noch Marm&apos;re zeegeboog,
 Geen vyandlijke roof, of steede, of steevekroonen,
 Geen Schild, waar in een Vorst uw daaden doet vertoonen,
@@ -529,22 +613,30 @@ Als &apos;t wederkeerend vuur van kuysche minnegloed.
 
 
 
-<speaker>Julia</speaker>
+	<sp who="Julia">
+
+		<speaker>Julia</speaker>
 Spreekt dus een Oorlogsman?
 
 
 
-<speaker>Attilius</speaker>
+	<sp who="Attilius">
+
+		<speaker>Attilius</speaker>
 Dus spreekt een eedel minnaar.
 
 
 
-<speaker>Julia</speaker>
+	<sp who="Julia">
+
+		<speaker>Julia</speaker>
 Een Held die Steeden won?
 
 
 
-<speaker>Attilius</speaker>
+	<sp who="Attilius">
+
+		<speaker>Attilius</speaker>
 Ach! was hy ook verwinnaar
 Van uwe fierheid! want al leg ik &apos;t lemmer neêr,
 In &apos;s Keizers dienst gevoerd, met groot geluk en eer,
@@ -554,28 +646,38 @@ Zoo u mijn liefde dan....
 
 
 
-<speaker>Julia</speaker>
+	<sp who="Julia">
+
+		<speaker>Julia</speaker>
 Spreek van Heer Broeders zaak.
 
 
 
-<speaker>Attilius</speaker>
+	<sp who="Attilius">
+
+		<speaker>Attilius</speaker>
 Ik hoop op uwe min.
 
 
 
-<speaker>Julia</speaker>
+	<sp who="Julia">
+
+		<speaker>Julia</speaker>
 Die vreesd voor felle wraak.
 En dat de logentaal zijn groote naam zal deeren.
 
 
 
-<speaker>Attilius</speaker>
+	<sp who="Attilius">
+
+		<speaker>Attilius</speaker>
 Met wat bericht beliefd u dat ik weêr zal keeren?
 
 
 
-<speaker>Julia</speaker>
+	<sp who="Julia">
+
+		<speaker>Julia</speaker>
 Dat hy al heimelijk by Vader, en den Raad,
 Beticht is, dat hy van een aanslag zwanger gaat,
 Die &apos;t Roomsche Rijksgezag den boodem in zal drukken,
@@ -583,14 +685,18 @@ En hechten aan die val een sleep van ongelukken.
 
 
 
-<speaker>Attilius</speaker>
+	<sp who="Attilius">
+
+		<speaker>Attilius</speaker>
 Jupijn bewaar den Staat, den Keizer en zijn Zoon!
 Wat helsche logengeest heeft hem zijn dienst geboôn?
 Die dit verzieren dorst.
 
 
 
-<speaker>Julia</speaker>
+	<sp who="Julia">
+
+		<speaker>Julia</speaker>
 Men zegt.... maar, om te toonen
 Dat mannedeugden ook in Vrouwe herten woonen;
 &apos;k Zal zelf den staat van &apos;t Hof mijn Broeder doen verstaan,
@@ -598,14 +704,18 @@ Laat ons in stilte voort den Held begroeten gaan,
 
 
 
-<speaker>Attilius</speaker>
+	<sp who="Attilius">
+
+		<speaker>Attilius</speaker>
 Manmoedige Princes, het eedele beweegen
 Van deeze uwe yver maakt mijn breyn en tong verleegen,
 Hoe zy eerbiediglijk uw deugd verheffen moet.
 
 
 
-<speaker>Julia</speaker>
+	<sp who="Julia">
+
+		<speaker>Julia</speaker>
 Ik eere uwe achting, dat my derwaards haasten doet.
 Julia, Attilins binnen
 
@@ -614,7 +724,7 @@ Julia, Attilins binnen
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -623,7 +733,9 @@ Marcellus Valerius
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 ONlijdelijke smaad! onleydelijke driften
 Van liefde, die my zelf mijn nut verbied te schiften,
 Zy hoont my, en mijn hert vernoegd zich noch in &apos;t zien,
@@ -632,63 +744,85 @@ Maar neen, &apos;k zal door mijn wraak, mijn zinnen eerst vernoegen.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Dan zal de min van zelf, zich naa uw zinnen voegen.
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 Valerius mijn vrind! met welk een minlijkheid,
 Zach zy mijn vyand aan!
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Haar broêr....
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 Door zijn beleid,
 Is my haar gunst ontzet.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Die misdaad zal hy boeten.
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 Ach! wou zy, na zijn dood mijn minnesmert verzoeten!
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Zie wat de tijd u geeft.
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 Zoo ik haar haat weêr roer,
 Ik ken haar fierheid wel, door &apos;t dooden van haar broêr,
 Is alle hoop ten eynde.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 En, die haar broêr doet sterven,
 Zal, &apos;k zweer &apos;t u, &apos;s Vorsten, en &apos;s Vorstinnen gunst verwerven.
 Wat zal Attilius dan baaten zijn gevry.
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 Maar dat mijn min de Vorst....
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Ik neem de zorg op my,
 Van by de Keizer zelf uw zaaken voort te zetten,
 Wy moeten haar &apos;t gesprek met Fabius beletten.
@@ -698,7 +832,9 @@ Voorts aan de Keizerin ons overleg ontdekken.
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 Ik u, gy my, wy haar, zy ons, een steun verstrekken.
 
                 
@@ -706,7 +842,7 @@ Ik u, gy my, wy haar, zy ons, een steun verstrekken.
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -715,7 +851,9 @@ Calisthenes, AEmilius, Valerius
 
 
 
-<speaker>Calisthenes</speaker>
+	<sp who="Calisthenes">
+
+		<speaker>Calisthenes</speaker>
 MYn Heer, ey spoed u voort toch na de Keizerin!
 Het schijnt, zy heeft met u iets wichtigs in den zin:
 Want als van dringende angst, en ongeduld geslaagen,
@@ -729,22 +867,30 @@ En spraken Julia hier in de gallery.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 ‘Die zal misschien de Vorst de zaaken gaan ontwinden.
 
 
 
-<speaker>Calisthenes</speaker>
+	<sp who="Calisthenes">
+
+		<speaker>Calisthenes</speaker>
 Mijn Heer, &apos;t zal noodig zijn, dat gy Mevrouw gaat vinden.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 ‘Nu is&apos;t mijn tijd. Gaat gy ook meede derwaards heen?
 
 
 
-<speaker>Calisthenes</speaker>
+	<sp who="Calisthenes">
+
+		<speaker>Calisthenes</speaker>
 De Prins wil in den Hof een weinig zich vertreên.
 Valerius binnen
 
@@ -753,7 +899,7 @@ Valerius binnen
     
     
     
-            <div type="act">
+            <div type="act" n= 1 >
                 
                     
 Fabius Severus.Eerste bedryf.Eerste tooneel.Faustina, Valerius
@@ -770,7 +916,7 @@ ValeriusGeweld is schaadlijk, daar men list gebruiken moet.Gy weet Marcellus wro
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -779,13 +925,17 @@ AEmilius, Calisthenes
 
 
 
-<speaker>AEmilius</speaker>
+	<sp who="AEmilius">
+
+		<speaker>AEmilius</speaker>
 CAlisthenes, hoe is mijn Moeder zoo verlegen?
 Gy zwijgd? zoo heeft zy ook flus op mijn vraag gezwegen.
 
 
 
-<speaker>Calisthenes</speaker>
+	<sp who="Calisthenes">
+
+		<speaker>Calisthenes</speaker>
 Ik weet niet wat haar deerd; maar wat haar deeren mach,
 Volg gy mijn les, ding nooyt door bloed, na Kroongezach,
 Tracht u, door deugd, bemind, geëerd en groot te maaken.
@@ -793,12 +943,16 @@ Dan hoefd geen leeger, noch staffier voor u te waaken.
 
 
 
-<speaker>AEmilius</speaker>
+	<sp who="AEmilius">
+
+		<speaker>AEmilius</speaker>
 Wie is&apos;er toch ten Hoof, die my niet diend en mind?
 
 
 
-<speaker>Calisthenes</speaker>
+	<sp who="Calisthenes">
+
+		<speaker>Calisthenes</speaker>
 Door hoffelijke dienst werd zomtijds &apos;t oog verblind.
 Gebaaren, mond en oog, in plaats van &apos;t hert ontdekken,
 Voor hinderlaag, en mom en schilden hier verstrekken,
@@ -806,7 +960,9 @@ Aan die na ampten staat, of liefde, of wraak beoogd.
 
 
 
-<speaker>AEmilius</speaker>
+	<sp who="AEmilius">
+
+		<speaker>AEmilius</speaker>
 Ik merk mijn Broeder, op wiens deugd gy altijd boogd,
 Staat niet in Moeders gunst, &apos;k heb hem, als gy, gepreezen;
 Maar &apos;k zach een afkeer en verandering in haar weezen.
@@ -814,7 +970,9 @@ Zeg my de reeden, zoo gy kond en moogt.
 
 
 
-<speaker>Calisthenes</speaker>
+	<sp who="Calisthenes">
+
+		<speaker>Calisthenes</speaker>
 In &apos;t gaan,
 Zal ik, met onderscheid, u de oorzaak doen verstaan,
 AEmilius en Calisthenes binnen
@@ -824,7 +982,7 @@ AEmilius en Calisthenes binnen
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -833,7 +991,9 @@ Valerius, Fabius, Vituria
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 DE Prinszy welkom; maar belang van hooger zaaken,
 Doet my &apos;t gesprek van uw beroemde zeege staaken.
 Mijn hert, gedreven tot uw welstand, dwingt de mond
@@ -846,12 +1006,16 @@ Besteed het na den eisch, en zal noyt lof ontbeeren.
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 Wat aanslag is&apos;er gaans? wat onraad kan my deeren?
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Ik was, by toeval, straks voor &apos;s Keizers slaap vertrek,
 Alwaar Marcellus, na een wederzijds gesprek,
 Niet duisterlijk deed zien, dat hy, van spijt bezeeten,
@@ -887,7 +1051,9 @@ En hou mijn groote dienst verburgen en ten goede.
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 Is &apos;t mooglijk, groote goôn! ik dank u voor &apos;t berigt,
 En blijf voor eeuwig aan uw vrindschap hoog verpligt:
 Maar welk een schennis wil mijn arm en deugd verrasschen?
@@ -909,7 +1075,9 @@ En met een schijn van haat, mijn stiefmoêrs haat gepaaid.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 &apos;t Zy dat zy dit verdicht om u beangst te maaken,
 En &apos;t spreken met de Vorst, op hoop van twist, te staaken,
 Of dat&apos;er waarlijk by de Vorst deeze aanslag is,
@@ -917,22 +1085,30 @@ Ik bid de Prins, hy waak voor zijn behoudenis.
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 Op welk een wijz?
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Gy zult hier licht&apos;lijk raad in krijgen.
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 Van u de beste.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Ik wil mijn meening niet verzwijgen.
 Ontmoet uw Vader niet als rijkelijk verzien
 Van Vrinden, waapen u bedektelijk, misschien
@@ -947,7 +1123,7 @@ Valer, binnen
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -956,7 +1132,9 @@ Fabius, Vituria
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 IK zie u naaulijk ofik moet u weêr verliezen,
 Ach! mijn beminde Heer, nu zult gy moeten kiezen
 U bloot te geeven, op uw Vaders gunst en woord,
@@ -972,7 +1150,9 @@ Om onze liefde, geef de stadvoogd geen gehoor.
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 Met welk een nadruk, van onmeetelijke krachten,
 Ontroerd zijn afscheid mijn sneldrijvende gedachten!
 Vaarwel, gehaate Prins, druk ernstig in uw hert,
@@ -980,18 +1160,24 @@ Dat deeze raad u door een Vrind geschonken werd.
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Besluit niet, voor gy eerst Balbinus hebt gesprooken;
 Vertrouw geen schender, die een trouwbed dorst bestooken.
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 Wat trouwbed?
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Swijg, mijn Prins, tot meêr gelegenheid.
 Balbinus werd daar, met Marcellus, in geleid.
 
@@ -1000,7 +1186,7 @@ Balbinus werd daar, met Marcellus, in geleid.
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -1009,12 +1195,16 @@ Balbinus, Marcellus, Fabius, Vituria
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 EEn blijde boodschap doet de Booden altijd spoeden.
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 Toen wy vertrokken scheen de Prins vol quaad vermoeden,
 Nu brengen wy bericht, dat hem de Vorst wil zien.
 &apos;t Gerucht, gewoon zoo dra te rugge als heen te vliên,
@@ -1025,12 +1215,16 @@ Niets werd met zoo veel vreugd, als uwe komst, verwacht.
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 &apos;t Verheugd my, dat uw dienst zoo wel is afgeloopen.
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 Ik, van een doodlijke angst en argewaan bekroopen,
 Trad vol bekommering uw Vader in &apos;t gezicht:
 Niet dat het wroegend hert my van vergeete pligt,
@@ -1049,7 +1243,9 @@ Stelle u gerust en vry van alle omzichtigheid.
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 Indien uw heusheid, die gewoon is dienst te loonen,
 Aan een, die u op nieuw tracht dienst en trouw te toonen,
 Wil gunst bewijzen, zoo verzoek ik dat ik mag
@@ -1061,12 +1257,16 @@ Ik weêr geniet het heil &apos;t geen ik weleer bezat.
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 Geen weldaad wierd by my ooit onbeloond vergeeten.
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 &apos;k Heb my, voor u, ten Hoof gedienstelijk gequeeten.
 Indien&apos;er tusschen ons ooit ongenoegen rees,
 Door onbedachte taal, of liefde, die &apos;k bewees
@@ -1077,7 +1277,9 @@ Gelukkig die zijn hert met klein geluk vernoegd
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 Betoon my uwe trouw, &apos;k zal u mijn gunst betoonen,
 En hooger als gy hoopt uw minste dienst beloonen.
 &apos;k Heb achting voor uw moed en de openhertigheid,
@@ -1085,7 +1287,9 @@ Die zich in de omtrek van uw weezen heeft verspreid.
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 Ter zijden tegen Marcellus
 &apos;t Is zoo voor eerst genoeg, ik zal de Prins ontdekken,
 Hoe ons verdrag hem zal een vaste borg verstrekken,
@@ -1093,17 +1297,23 @@ En &apos;t geen Valerius u verder heeft bericht.
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 Ik bid u hou my &apos;t woord....
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 Denk gy maar om uw pligt
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 Tegen Fabius
 &apos;k Gebiê my in uw gunst.
 Marcellus binnen
@@ -1113,7 +1323,7 @@ Marcellus binnen
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -1122,32 +1332,42 @@ Fabius, Vituria, Balbinus
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 MEld nu uw wedervaren;
 Gy dorst uw hert straks om Marcellus niet verklaaren.
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 Al &apos;t geen gy hoorde is waar, en, boven dien, heeft my
 De Stadvoogd vast belooft van hem op onze zy
 Te krijgen.
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 &apos;k Ben beducht voor heimelijke laagen.
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 &apos;t Hof valt u in de hand, wie zal iets durven waagen?
 Gy gaat wel by de Vorst als Veldheer, maar als kind
 Ook by uw Vader, die uw lof en deugd bemind.
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 Balbinus, &apos;k heb aanstonds met iemand hier gesprooken,
 Die al de blijdschap van uw boodschap heeft verbrooken,
 En my zoo zeer ontrust, dat mijn verwarde geest
@@ -1156,29 +1376,39 @@ Te vreezen heb.
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 Mijn Prins, is ooit mijn trouw bezweeken?
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 &apos;k Zal in vertrouwen dan van mijn geheimen spreeken,
 &apos;k Heb uyt de Steedevoogd Valerius verstaan....
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 Uw zuster, met mijn zoon, Heer Prins, komt herwaards aan,
 Hy heeft, door mijn beleid, haar stil te spraak gekreegen.
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Mijn waarde held!
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 Mijn lief, wat maakt u dus verleegen!
 
                 
@@ -1186,7 +1416,7 @@ Mijn lief, wat maakt u dus verleegen!
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -1195,7 +1425,9 @@ Julia, Attilius, Fabius, Vituria, Balbinus
 
 
 
-<speaker>Julia</speaker>
+	<sp who="Julia">
+
+		<speaker>Julia</speaker>
 MYn zusterlijke liefde, en dier verbonden pligt,
 Verlangden na &apos;t genot van &apos;s Veldheers aangezicht;
 En, om u zelf &apos;t bericht, &apos;t geen gy vereyscht, te geeven,
@@ -1206,17 +1438,23 @@ Maar hoe, Vituria vol droefheid en bekreeten?
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 Wat &apos;s de oorzaak?
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 Nu, mijn lief, doe ons de reeden weeten.
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Ik zal nu gy &apos;t begeerd; de Stadvoogd, die zoo schoon
 Zijn trouw u veylen komt, stak de uwe na de Kroon.
 Dat eervergeete mensch... ach! gun my niet te spreeken,
@@ -1224,18 +1462,24 @@ Versta my!
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 Gun my toch, dat ik uw leet mag wreeken!
 Is uwe kuisheid, of gezach geweld gedaan?
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 Mevrouw, doe uw gemaal uw herteleet verstaan.
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Toen gy te Veld voor Rome, en niet voor my mogt waaken,
 Zocht hy mijne eerbaarheid zijn drift ten buit te maaken.
 &apos;k Heb hondert stormen van zijn geilheid uitgestaan,
@@ -1249,17 +1493,23 @@ Maar uw voorzichtig oog moet voor zijn veinzen waaken.
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 Schrei niet, gy zult uw hert vernoegen in zijn straf.
 
 
 
-<speaker>Julia</speaker>
+	<sp who="Julia">
+
+		<speaker>Julia</speaker>
 Hoe quam &apos;t, dat zuster my dit nooit te kennen gaf?
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Om dat ik u mijn last niet vruchtloos wou doen draagen;
 En niet eer klaagen, voor daar voordeel was in &apos;t klaagen;
 Meêlyen eischte ik niet, dat&apos;s vrouwelijk vermaak.
@@ -1267,18 +1517,24 @@ Meêlyen eischte ik niet, dat&apos;s vrouwelijk vermaak.
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 Bedekte vijand, zoekt gy dus my te achterhaalen?
 &apos;k Zal u deeze ontrouw, schoon mislukt, doen duur betaalen.
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 Zoo was de Stadvoogd hier?
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 Hy ried my ernstig aan,
 Niet by de Keizer als omzigtelijk te gaan.
 Of immers wel verzien van waapens, vrinden, borgen,
@@ -1288,7 +1544,9 @@ Dat Vader heimlijk na mijn val en leev en stond.
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 Wat Godheid zou zoo boos een hinderlaag gehengen,
 En uw doorluchtig bloed zo schandelijk zien plengen.
 Uw vroomheid blinkt te klaar in haar gerechtig oog,
@@ -1300,12 +1558,16 @@ En dus te winnen zijn vergiffenis en zoen.
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 Nu zuster zeg my eens hoe &apos;t staat ten Hoof geschooren?
 
 
 
-<speaker>Julia</speaker>
+	<sp who="Julia">
+
+		<speaker>Julia</speaker>
 Daar liet zich dag op dag verscheide tijding hooren;
 Nu had men narigt, dat gy &apos;t leeger had besteed,
 In noodeloos gevaar, dan, dat gy niets bestreed,
@@ -1336,7 +1598,9 @@ Noch eens in u te zien het sweemzel van zijn Jeugd.
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 Daar&apos;s reden, schijn altijd van reden, om te vreezen,
 En Vader veinst geen vrees? &apos;k moet op mijn hoede weezen:
 Of zou mijn deugd hem wel zoo vast voor oogen staan,
@@ -1348,12 +1612,16 @@ Ik naakte Rome niet voor alles was beslecht.
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 Wat is uw oogwit dan?
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 Voorwaar ik durf verkiezen,
 Noch ook verwerpen, wijl ik voordeel zal verliezen.
 Faustinaas heerschzucht jankt na mijn verderf, en val,
@@ -1373,12 +1641,16 @@ Toen ik van Roomschen ben op Duitschen grond getreên.
 
 
 
-<speaker>Attilius</speaker>
+	<sp who="Attilius">
+
+		<speaker>Attilius</speaker>
 Elk eert uwe Oorlogsdeugd, vrees voor geweld noch laagen.
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 Zou ik hier sterven als Verrader? ik verdraagen
 Dat mijne weederkomst werd schandelijk misduyd!
 Zoo trok ik, goede goôn! ter quaader uuren uit.
@@ -1389,7 +1661,9 @@ En waarde Zuster.
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 Hier hangt de uitslag aan &apos;t begin.
 Vertoef een oogenblik. &apos;k werd meêr, en meêr verleegen,
 En zie geen overwigt in al het overweegen,
@@ -1408,34 +1682,46 @@ De gooden, die voor &apos;t recht van ieders onschuld waaken.
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 Ik vind uw raadslot goed, en ga my voorts verkleên,
 Breng al mijn vrinden, in de voorzaal, vast by een.
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Laat ik u dienen, of &apos;t misschen voor &apos;t laatst mogt weezen,
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 Gy vreesde nooit.
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 &apos;k Had ook nooit zoo veel recht tot vreezen.
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 tegen Attilius
 Maar gy, verzuym geen tijd.
 
 
 
-<speaker>Attilius</speaker>
+	<sp who="Attilius">
+
+		<speaker>Attilius</speaker>
 Ik breng uw Zuster maar
 In veiligheid weêrom.
 Fab. Vitur. Balb. binnen
@@ -1445,7 +1731,7 @@ Fab. Vitur. Balb. binnen
     
     
     
-            <div type="act">
+            <div type="act" n= 1 >
                 
                     
 Tweede bedryf.Eerste tooneel.Fabius, Vituria
@@ -1460,7 +1746,7 @@ VituriaHy komt, zijt op uw hoede, ik vind my onbequaam.
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -1469,7 +1755,9 @@ Julia, Attilius
 
 
 
-<speaker>Attilius</speaker>
+	<sp who="Attilius">
+
+		<speaker>Attilius</speaker>
 NOch naauwelijks &apos;t gevaar
 Der woedende oorlog en zijn moordgeweld ontvlooden,
 Bied ik de Prins mijn dienst, daar &apos;t Hof hem heeft ontbooden;
@@ -1479,13 +1767,17 @@ Laat dit de toegang zijn om op uw gunst te hoopen.
 
 
 
-<speaker>Julia</speaker>
+	<sp who="Julia">
+
+		<speaker>Julia</speaker>
 Die toegang staat u vry, en is voor ieder open.
 Uw hoop hangt van uw keur en wil en inzicht af.
 
 
 
-<speaker>Attilius</speaker>
+	<sp who="Attilius">
+
+		<speaker>Attilius</speaker>
 Wat baat het, of ik my dat zoet verbeelden gaf?
 En geen beloften had? of &apos;t dan misschien gebeurde,
 Dat met uw broeder my uw stiefmoêrs haat verscheurde,
@@ -1497,34 +1789,46 @@ Alleenig mijn geluk en hoogste zeegen hangt.
 
 
 
-<speaker>Julia</speaker>
+	<sp who="Julia">
+
+		<speaker>Julia</speaker>
 Denk dat heer broeder na uw byzijn al verlangd.
 
 
 
-<speaker>Attilius</speaker>
+	<sp who="Attilius">
+
+		<speaker>Attilius</speaker>
 Denk dat ik &apos;t uw geniet.
 
 
 
-<speaker>Julia</speaker>
+	<sp who="Julia">
+
+		<speaker>Julia</speaker>
 De tijd wil dat wy scheiden.
 
 
 
-<speaker>Attilius</speaker>
+	<sp who="Attilius">
+
+		<speaker>Attilius</speaker>
 En gy, dat ik u zal mistroostig heen geleiden?
 
 
 
-<speaker>Julia</speaker>
+	<sp who="Julia">
+
+		<speaker>Julia</speaker>
 Maakt dat ik door de dienst, die ik van u zal zien,
 Aan broeder reeden heb, van u mijn gunst te biên;
 Zijn welstand is de mijne.
 
 
 
-<speaker>Attilius</speaker>
+	<sp who="Attilius">
+
+		<speaker>Attilius</speaker>
 En mijne, in u geleegen,
 Heeft nu een grondslag, van bestendigheid gekreegen,
 Ik spoei my na de Prins, ô langgewenschte dag!
@@ -1536,7 +1840,7 @@ Jul. Attil. binnen
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -1545,7 +1849,9 @@ Valerius, Marcellus, Keizer, Faustina, AEmilius, Calisthenes
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Ter zijen tegen den Keizer
 WY hebben iets vernomen,
 &apos;t Geene, aan uw Majesteit, alleenig diend ontdekt,
@@ -1553,7 +1859,9 @@ Des bid ik dat ook zelf de Keizerin vertrekt.
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Het zal geschieden. Mijn Vorstin, wild nu vertrekken;
 Hoe ver mijn liefde gaat zal ik u haast ontdekken
 Met meêr gelegenheid. Vaarwel, mijn Keizerin,
@@ -1561,7 +1869,9 @@ Verlaat u op mijn zorg.
 
 
 
-<speaker>Faustina</speaker>
+	<sp who="Faustina">
+
+		<speaker>Faustina</speaker>
 &apos;k Verlaat my op uw min.
 Faust. AEmil. Calisthenes binnen
 
@@ -1570,7 +1880,7 @@ Faust. AEmil. Calisthenes binnen
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -1579,12 +1889,16 @@ Keizer, Valerius, Marcellus
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 WAt hebt gy beide ontdekt? spreek op, daar &apos;s niet te vreezen.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Dat Fabius aanstonds hier by de Vorst zal weezen,
 Verzelt met Hopluy, die hem zeer genegen zijn.
 Hy heeft bedektelijk veel krijgsvolk in de schijn
@@ -1594,7 +1908,9 @@ De gallery is reeds met zijn gevolg gevuld.
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Hy stel zijn kracht in &apos;t werk. Gy, mijn getrouwe, zult
 Hem, door mijn listigheid, zien in mijn handen raaken:
 En nu gy dus my, van uw trouw komt zeeker maaken,
@@ -1610,13 +1926,17 @@ Hy sterven, en de kroon weêr vast staan op dit hoofd.
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 &apos;t Schijnt zich de Keizer reeds deeze uitslag al beloofd.
 Ik vrees zijn arm zal u dit oogenblik verrasschen.
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 &apos;k Heb &apos;t volk al by de hand, dat op zijn arm zal passen,
 Zijt maar gerust. Wat waant mijn opgeblaaze zoon,
 Dat ik niet waak voor de eer, en &apos;t recht van deeze kroon?
@@ -1624,12 +1944,16 @@ Neen, hy zal &apos;t anders in zijn ondergang bevinden.
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 Hy steunt op &apos;t aanzien van zijn krijgsdeugd, roem en vrinden.
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Die zeegekrijtery, dat juychen ben ik moê,
 Eer hy my dood, is &apos;t best dat ik hem dooden doe.
 Maar om geen achterdocht aan &apos;t waakende oog te geeven,
@@ -1643,7 +1967,7 @@ Marcel. binnen
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -1652,13 +1976,17 @@ Keizer, Valerius
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 HY zoekt, met in de schijn van hier te zeegepraalen,
 Uw val, en zal die list, zelf met zijn val, betaalen.
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Een ander oogwit, als &apos;t bewaaren van mijn kroon,
 Dwingd my, spijt pligt en bloed, Prins Fabius te doôn.
 &apos;k Vrees voor geen rijksgeweld, &apos;k ben niet beducht voor laagen,
@@ -1669,7 +1997,9 @@ Voor u, wiens trouw alleen dit stuk was te openbaaren.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Mijn trouwheid zal uw gunst gedienstig evenaaren.
 Maar vley u niet te veel met de inborst van de Prins,
 Hy dingd u na den hals, of slaat gy eenigsints
@@ -1677,7 +2007,9 @@ Noch twijfel aan &apos;t bescheid u uit het heir geschreeven?
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Een and&apos;re reeden heeft my tot zijn dood gedreeven.
 Ik min Vituria, wiens schoonheid mijn gemoed
 Zoo heeft geraakt, dat zy my alles waagen doet
@@ -1689,7 +2021,9 @@ Zoo moet hy sterven.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 ‘Ach! wat hoor ik! zoo mijn reeden,
 Mijn raad, en trouw aan u ooit eenig voordeel deeden,
 Zoo mijn genegenheid by u in achting is;
@@ -1700,29 +2034,39 @@ Die &apos;s Keizers naam zoo hoog alom heeft opgevoerd.
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 &apos;t Verhaal ontsteld u, denk hoe my de zaak ontroerd.
 Maar toch, wat is uw raad?
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Laat die gedachten vaaren,
 Zoo gy uw Heerschappy en leeven wilt bewaaren.
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 En hoe?
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 ‘Wat zeg ik best?
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Kan &apos;t zeekerder geschiên,
 Als door zijn dood, die &apos;k maar alleenig heb te ontzien?
 Zijn sterven zal aan my een dubbeld leeven schenken,
@@ -1733,7 +2077,9 @@ Zoo doe mijn ziel&apos;t genot van haar verlangen smaaken.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Zoo &apos;kueerbiediglijk iets mag indachtig maaken,
 Denk dat gy Keizer zijt, dat een lafhertigheid
 Als deeze is, tot uw val een vaste grondslag leit,
@@ -1748,7 +2094,9 @@ In Hofkrakeelen zeer lichtvaardig overslaat.
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 &apos;k Heb al die zwarigheid en meerder overwoogen,
 &apos;k Weet alles wat gy my noch meêr zoud zeggen moogen:
 Maar weet ook, dat mijn liefde alreeds zo ver my bragt,
@@ -1756,62 +2104,84 @@ Dat alle tegenraad werd voor quaâ raad geacht.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Indien Faustina u?...
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Noch eens, ik leen geen ooren
 Aan inzicht, of belang, betaamen, of behooren.
 Ik min, dat&apos;s reeden dat ik ook genieten wil.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Een reedenlooze min...
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Valerius, zwijgstil.
 Wat naam mijn liefde krijgt, ik zal haar toch beminnen.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 &apos;k Zal nochmaal tragten, door de reeden, u te winnen,
 &apos;t Is schand&apos;lijk dat gy na uw dochters liefde staat.
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Een, die zijn eige zoon, zelf tot de dood toe, haat,
 Zou die nu schand zien, in zijn echtgenood te minnen?
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Hy maakt zich haat&apos;lijk, nu hy u tracht te overwinnen.
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Zy haar behaaglijk, schoon zy my verwonnen heeft.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 ‘Wat raad ik nu, dat hem geen achterdenken geeft?
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Ik zie mijn lijfstaffiers, daar zal de Prins al wezen.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Nu hebt gy meêr uw liefde, als hy uw haat te vreezen,
 Die kan hem maar voor eens ontlijven tot zijn straf;
 Maar deeze liefde zal u straffen tot aan &apos;t graf.
@@ -1821,7 +2191,7 @@ Maar deeze liefde zal u straffen tot aan &apos;t graf.
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -1834,7 +2204,9 @@ des Keizers lijfwacht
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 IK kom, Heer Vader, om u &apos;t recht verhaal te geeven,
 Van &apos;t geene ik met uw magt in Duitsland heb bedreeven;
 Dat, door mijn Oorlogsroê, dit roemen sta my vry,
@@ -1844,7 +2216,9 @@ Van uwe winterbende en Slot, en Steedehoud&apos;ren.
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Gy zijt my welkom: toch ik hoorde al hoe &apos;t geluk
 Ons zeegende, en uwe arm de Vyand sloeg in &apos;t juk.
 De dienst, die &apos;t Vaderland heeft door uw deugd ontfangen,
@@ -1856,7 +2230,9 @@ Door zeegeboogen, na de Kerk van eer, zalleyen.
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 &apos;k Zal by die stacy ook mijne oorlogsgiften doen,
 En met de buit van Goud en Zilver ruim vergoên
 De kosten van de tocht; &apos;k zal daar ook by vereeren
@@ -1866,7 +2242,9 @@ Daar ik met zeege, tot uw heil, heb om gestreên.
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Gy queet u als een held; maar zomtijds moest ik hooren,
 Dat gy &apos;t ontzach al voor uw Vader had verlooren.
 &apos;k Vertrouwde u alles goeds, hoe zeer elk was beducht,
@@ -1885,12 +2263,16 @@ Wat is van dit gerucht?
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 &apos;k Weet van dat juichen niet.
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 &apos;k Vergeef &apos;t u, of &apos;t aldus, of anders is geschied:
 En om te toonen hoe ik meen met u te leeven,
 Zeg wat gy eischen komt, uw Vader zal &apos;t u geeven.
@@ -1900,7 +2282,9 @@ Een teeken geeven, hoe ik ooit uw deugd bekroonde.
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 Indien ik toestond dat Heer Vader my dus loonde,
 De schaamte zou &apos;t vergrijp, van die hovaardigheid,
 My drukken op de kaak: indien mijn krijgsbeleid,
@@ -1909,7 +2293,9 @@ In het buigen ontvalt hem een Ponjaard, die hy onder zijn Panzer verburgen had
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Op, ik ben verraaden!
 Op mijn Staffiers! men zoekt in &apos;s Keizers bloed te baden,
 Op zorg&apos;loos Hofgezin! bezie nu wat my naakt,
@@ -1917,13 +2303,17 @@ En hoe mijn Zoon na mijne, en uwe, neêrlaag haakt.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Marcellus neemt de Ponjaard op
 Ontstel u niet, mijn Vorst.
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Wie kan mijn dood weêrhouwen!
 Maar gy, door wiens bestier deeze aanslag is gebrouwen,
 Verraader, stoot uw kling, noch rookende van &apos;t bloed
@@ -1932,25 +2322,33 @@ Voor &apos;t eenige aan wiens liefde uw leeven is verbonden.
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 Heeft ooit verschooning, by de Keizer plaats gevonden?
 Nu zal &apos;t de mijne doen.
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 Gy kend uw dappre Zoon.
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Heb ik hem daat&apos;lijk noch de Staf niet aangeboôn?
 Wat wil hy meêr? of moet mijn hartebloed de vlekken,
 Van &apos;t godloos Rijksverraad, met hooger verf bedekken?
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 &apos;t Geweer, dat uit mijn borst, in &apos;t buigen, daat&apos;lijk schoot,
 Verburg ik, om mijn lijf, in halsgevaar en nood,
 Te weeren, en mijn dood elk duur betaald te zetten,
@@ -1961,12 +2359,16 @@ My ongewapend, op uw woord, niet hier begeeven.
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Gaf ik hier reeden toe?
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 &apos;k Wist dat u was geschreeven,
 Dat eenige aanslag stil by my wierd onderleit;
 Nu vreesde ik dat, en dit, en ander valsch bescheid
@@ -1978,17 +2380,23 @@ Alleenig, tot mijn lijfsverzeek&apos;ring, is geschied.
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 &apos;k Verzeeker dit de Vorst by mijn geluk, en Deegen.
 
 
 
-<speaker>Attilius</speaker>
+	<sp who="Attilius">
+
+		<speaker>Attilius</speaker>
 &apos;k Verpand my voor dat woord, en ook van &apos;s Veldheers weegen.
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Het smert my in de Ziel, dat mijn genegenheid,
 Mijn gunst, mijn liefde en woord zoo dwars werd uitgeleit,
 En geen meêr wortel, en vertrouwen heeft geschooten,
@@ -1996,12 +2404,16 @@ In u, mijn Zoon, die &apos;t al hebt van mijn hand genooten.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Nu hy het oogwit weet, stel zich de Vorst gerust.
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Welaan, mijn Kind, &apos;k heb u wel duizendmaal gekust,
 Toen uwe onnozelheid, mijne, en uw Moeders oogen,
 In uw bevalligheid vernoegd, en opgetoogen,
@@ -2010,37 +2422,49 @@ Hoe zich dit hert verheugd in u, en uw geluk.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 ter zijden tegens Martellus
 Marcellus, ach! ik vrees dat hy my aan zal klaagen.
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 Hy houd u voor zijn vriend.
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 &apos;k Weet u niets op te draagen
 Als mijne eerbiedigheid, en onbevlekte trouw.
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Ga groet de Keizerin, terwijl ik raadslag hou,
 Met deeze Heeren, om op &apos;t prachtigste u te onthaalen,
 Met al uw Helden, in &apos;t aanstaande zeegepraalen.
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 &apos;k Gehoorzaam uw bevel, uw heuiheid maakt my stom.
 Fab. Balb. Attil, Leegerhoofden, &amp;c binnen
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 ‘Ga Heen, ontrouwe, &apos;k wacht u leevend niet weêrom.
 
                 
@@ -2048,7 +2472,7 @@ Fab. Balb. Attil, Leegerhoofden, &amp;c binnen
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -2058,7 +2482,9 @@ Des Keizers Lijfwacht
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 MYn Lijfstaffiers, gy zult te zamen wacht gaan houwen,
 Hier in de voorzaal. Nu staat al mijn hertsvertrouwen,
 Lijswachten binnen
@@ -2094,7 +2520,7 @@ De Keizer binnen
     
     
     
-            <div type="act">
+            <div type="act" n= 1 >
                 
                     
 Derde bedryf.Eerste tooneel.De Keizer, Faustina, AEmilius, Calisthenes
@@ -2119,7 +2545,7 @@ CalisthenesGy tergdDus zijne oplopentheid. Ik zie de Stadvoogd komen.Ey, neem uw
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -2128,7 +2554,9 @@ Valerius, Marcellus
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 HOort gy die last wel? die my meerder kan bedroeven,
 Als al de Hoop, die &apos;t hert voor deeze heeft gestreeld,
 My ooit vermaaken kon, Marcellus, ach! verbeeld
@@ -2141,12 +2569,16 @@ Van lang gehoopte min, moet in zijn driften sterven.
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 Hy mind Vituria?
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Hy mind Vituria!
 En dreigt elk die hem stoord, met de uitterste ongenaâ,
 Ach! kon de wreedheid, die hem Fabius doet dooden,
@@ -2155,13 +2587,17 @@ In uwe wraak, ey! bied my de uwe in mijne min.
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 &apos;k Beken ik sta versteld, my valt geen middel in,
 Om haar uit &apos;s Keizers hand, in uw geweld te krijgen.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Zou al mijne arbeid, al dit hoopen, haaken, hygen,
 Zoo vruchteloos vergaan? ô neen! ik zal, in spijt,
 Van &apos;t Keizerlijke ontzach en zijne minnenijd.
@@ -2172,31 +2608,41 @@ Mijn Vyand.
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 Zacht, mijn Heer, geef reeden wat gehoor.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Gy krijgt uw wraak, en hoop van Julia te winnen.
 Ik vloek de Keizer, hoe, zal hy zijn Dochter minnen?
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 Wees niet te hevig; maar treê zelf in uw gemoed;
 Wat pllgten zijn&apos;er, dien de min niet swichten doet?
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Wat raad dan? want ik heb, met al mijn tegenspreeken,
 Hem maar tot achterdocht, en feller liefde ontsteeken.
 Indien ik om zijn....
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 Zacht, ik vind gelegenheid,
 Laat ons de Keizerin ontdekken hoe &apos;t hier leit.
 Zy zal, verneemende des Keizers liefde, woelen,
@@ -2210,7 +2656,7 @@ Valer, Marc. binnen
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -2219,25 +2665,33 @@ Fabius, Vituria, Julia, Balbinus. Attilius, Faustina, Valerius
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 DE vreugd, die ik gevoel, vrouw Moeder, van weêrom
 In Vaders gunst te staan, is de oorzaak dat ik kom,
 Om volgens mijne pligt, mijn dienst u aan te bieden.
 
 
 
-<speaker>Faustina</speaker>
+	<sp who="Faustina">
+
+		<speaker>Faustina</speaker>
 &apos;t Behaagd my; maar die u tot zulk een voorzorg rieden.
 Zijn schelmen, of ten minste al te onbedacht geweest.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 &apos;t Is voort geen schelm, Vorstin, die iets op reden vreesd.
 
 
 
-<speaker>Baleinus</speaker>
+	<sp who="Baleinus">
+
+		<speaker>Baleinus</speaker>
 Men staake nu &apos;t verhaal van haatclijke zaaken;
 &apos;t Bericht der Veldtocht, zal Mevrouw veel meêr vermaaken.
 Hoe &apos;t steege Duitsland, door uw krijgsdeugd week gemaakt,
@@ -2245,7 +2699,9 @@ Is, als een wingewest, aan &apos;t Roomsche Rijk geraakt.
 
 
 
-<speaker>Faustina</speaker>
+	<sp who="Faustina">
+
+		<speaker>Faustina</speaker>
 &apos;k Verlang die tocht van eere uit &apos;s Veldheers mond te hooren.
 
                 
@@ -2253,7 +2709,7 @@ Is, als een wingewest, aan &apos;t Roomsche Rijk geraakt.
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -2262,74 +2718,100 @@ Marcellus, Faustina, Fabius, Vituria, Julia, Balbinus, Attilius, Valerius
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 HEt moeit my in die vreugd, Mevrouw, te moeten stooren.
 De Keizer gaf my last de Prins te zeggen, dat
 Hy met hem van iets grootsch aanstonds te spreeken had.
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 Waar van?
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 ‘Ach! hemel wilt alle onheil van ons keeren.
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 Daar &apos;s tijding dat een deel der oudste Baanderheeren,
 Oproerig, nu het Heir weêr is van haaren boom,
 Haar magt verzaam&apos;len aan den Rijn en Donaustroom.
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 Is &apos;t moog&apos;lijk?
 
 
 
-<speaker>Faustina</speaker>
+	<sp who="Faustina">
+
+		<speaker>Faustina</speaker>
 Laat my eerst toch dit vermaak genieten,
 Zoo weinig wachtens zal de Keizer niet verdrieten.
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 Ik keer zoo daatelijk, Mevrouw, ik bid verschoon
 De haast, waar door ik my mijn Vorst gedienstig toon.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Ai! wild in &apos;t kort...
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 Nevrouw, &apos;k zal u eerlang vernoegen.
 Gy Heeren moet met my, u meede der waards voegen.
 
 
 
-<speaker>Baleinus</speaker>
+	<sp who="Baleinus">
+
+		<speaker>Baleinus</speaker>
 Indien &apos;t de Prins gevald.
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 Vaarwel, mijn bedgenood.
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Ik vrees voor ongeval.
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 Uw vrees is al te groot.
 Met uw verlof, Mevrouw.
 Fab. Balb Attil Marcel. binnen
@@ -2339,7 +2821,7 @@ Fab. Balb Attil Marcel. binnen
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -2348,7 +2830,9 @@ Faustina, Vituria, Julia, Valerius
 
 
 
-<speaker>Faustina</speaker>
+	<sp who="Faustina">
+
+		<speaker>Faustina</speaker>
 &apos;t Is best dat wy ook scheiden.
 Valerius, gy kund de Rijkprinces geleiden,
 De Prins zal moogelijk zoo draa van daar niet gaan:
@@ -2357,18 +2841,24 @@ En wacht uw alle, als ook de Prins zal weederkeeren.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 My zal de Keizerin, met dat vermaak, vereeren.
 
 
 
-<speaker>Faustina</speaker>
+	<sp who="Faustina">
+
+		<speaker>Faustina</speaker>
 tegen Julia
 Gy gaat met my?
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Indien &apos;t haar Majesteit geviel,
 Wenschte ik dat Julia my nu gezelschap hiel.
 Hoe zou de Stadvoogd my, en niet Mevrouw verzellen?
@@ -2376,35 +2866,47 @@ Dat was mijn pligt te naa.
 
 
 
-<speaker>Faustina</speaker>
+	<sp who="Faustina">
+
+		<speaker>Faustina</speaker>
 Wild u daar meê niet quellen.
 
 
 
-<speaker>Julia</speaker>
+	<sp who="Julia">
+
+		<speaker>Julia</speaker>
 Laat ons te zaamen eerst Mevrouw geleien.
 
 
 
-<speaker>Faustina</speaker>
+	<sp who="Faustina">
+
+		<speaker>Faustina</speaker>
 Wel,
 Mijn Dochter, &apos;t is wat veel daar ik u nu om quel.
 Ga met my, Julia.
 
 
 
-<speaker>Julia</speaker>
+	<sp who="Julia">
+
+		<speaker>Julia</speaker>
 Zeer wel Vorstin.
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Ach Zuster!
 Dat zy u meê neemt maakt mijn hert noch ongeruster.
 
 
 
-<speaker>Faustina</speaker>
+	<sp who="Faustina">
+
+		<speaker>Faustina</speaker>
 Tegen Val.
 Geniet uw hertewensch, &apos;k geef u gelegenheid.
 Faust. Jul. binnen.
@@ -2414,7 +2916,7 @@ Faust. Jul. binnen.
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -2423,18 +2925,24 @@ Valerius, Vituria
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 PRinces, ik heb u vaak mijn liefde voorgeleit;
 Nu...
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Barst die vlam weêr op?
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Die vlam, te naauw verburgen,
 Slaat, nu zy lucht krijgt, uit. Wild gy my dan verwurgen,
 En dooden in de band, daar uw bevalligheid
@@ -2451,7 +2959,9 @@ Verkracht u een maal om mijn vrindschap t&apos;waardeeren.....
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Verkracht u een maal om uw vuyle drift te weeren.
 Denk niet dat ik uw dienst, altijd by my verdacht,
 Zoo hoog als kuisheid en mijn Huw&apos;lijkspligten acht;
@@ -2463,57 +2973,77 @@ Geef ik u zelf te raân.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Verstoot gy mijn gebeeden?
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Ga heen, maar wacht u van my elders na te treeden.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 &apos;k Veracht uw dreigen, uw Gemaal, noch haat, noch wraak,
 Zal my versteeken, van de lust daar ik naar haak.
 
 
 
-<speaker>Attilius</speaker>
+	<sp who="Attilius">
+
+		<speaker>Attilius</speaker>
 Van binnen
 Moord! moord! Verrraad! verraad!
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 ô Schrikkelijke woorden!
 Wat hoor ik?
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Uw Gemaal, uit &apos;s Keizers last vermoorden
 Kom volg, op mijn gelei, gy zijt in mijn geweld.
 &apos;t Is vrugtloos dat gy u met kracht hier tegen steld.
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Ontzet my!
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Weiger niet te volgen, en te zwijgen.
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Ach! doet my bystand, kom!
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Die zult gy niet verkrijgen.
 Uw dood, en leeven staat....
 
@@ -2522,7 +3052,7 @@ Uw dood, en leeven staat....
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -2533,7 +3063,9 @@ Vituria, Valerius
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 BAlbinus, ach! weêrhou
 Dien eereloozen, dien bestooker van mijn trouw!
 Bescherm mijn leeven, en het uwe, die Verrader,
@@ -2541,12 +3073,16 @@ Zocht my....
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Uit &apos;s Keizers last, moet ik...
 
 
 
-<speaker>Attilius</speaker>
+	<sp who="Attilius">
+
+		<speaker>Attilius</speaker>
 Kom haar niet nader,
 Of &apos;t kost uw leeven. Ach! Princes, wy zijn verraan!
 En gy blijft, my ten spijt, hier voor mijne oogen staan?
@@ -2556,7 +3092,9 @@ Met welgevallen, ziet uw schelmery gelukken.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Ik ga, maar deeze hoon heeft my de ziel geraakt,
 Uw grootste Vyand van uw grootste Vrind gemaakt
 Valerius binnen
@@ -2566,7 +3104,7 @@ Valerius binnen
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -2575,50 +3113,68 @@ Balbinus, Vituria, Attilius
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 MEvrouw, kom vlugt met ons, de Veldheer is doorstooken,
 
 
 
-<speaker>Attilius</speaker>
+	<sp who="Attilius">
+
+		<speaker>Attilius</speaker>
 Ik ben gewond, ter nood, haar wreede hand ontdooken.
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Is Fabius vermoord! mijn Prins, mijn waarde held!
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 Kom, laat ons vluchten, en hun raazende geweld
 Niet wachten.
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Waar is &apos;t Lijk?
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 Mevrouw, wy zijn verlooren,
 Indien wy toeven.
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 k Wil van mijn behoud niet hooren.
 Maar met hem sterven, ach! vervloekte Hofverraad!
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 Ik bid u, dat gy zwijgt, en daat&apos;lijk met ons gaat.
 
 
 
-<speaker>Attilius</speaker>
+	<sp who="Attilius">
+
+		<speaker>Attilius</speaker>
 De Gooden zullen ons gelegenheid vergunnen,
 Waar in wy &apos;t ongelijk volkomen wreeken kunnen.
 Het bloed, dat ziedende uit mijn versche Wonden stroomd,
@@ -2628,46 +3184,62 @@ Maar, waar is Julia, mijn ziels vermaak, gebleeven?
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Faustina nam haar meê.
 
 
 
-<speaker>Attilius</speaker>
+	<sp who="Attilius">
+
+		<speaker>Attilius</speaker>
 Zoo ben ik haar dan quyt?
 O onverwachte slag!
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 &apos;t Is hier noch plaats noch tijd,
 Om &apos;t noodige in dit stuk bedachtzaam te overweegen.
 Uw toeven, mijn Princes, mijn Zoon maakt my verleegen.
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Faustinaas heerschzucht, bouwt dit bloedige Tooneel!
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 Marcellus wreekt zich, in dit opgeraapt kraakeel!
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Gaat heen, mijn vrinden, bergt uw leeven, &apos;k wil niet scheiden.
 Of mijn gemaal, of dood, of leevend met my leiden.
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 Ay, zoek niet na zijn Lijk!
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Mijn Prins vermoord! ô schand!
 Vervloekte Vader, en vervloekter Vaderland!
 Schoon gy mijn held zoo ver had uit het Rijk gezonden,
@@ -2689,42 +3261,56 @@ Het leeven liet, ô moord! ô schelmsche minnebrand!
 
 
 
-<speaker>Attilius</speaker>
+	<sp who="Attilius">
+
+		<speaker>Attilius</speaker>
 Die wreede zal mijn deel, voor moordbezolding, krijgen!
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Mijn Prins vermoord? verraad!
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 Zwijg stil.
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Hoe kan ik zwijgen?
 Ik mis mijn Fabius.
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 Mevrouw, ik bid u, om
 U zelf, mijn Zoon, en &apos;t Hert dat ik u off&apos;ren kom,
 Begeef u toch met ons in veiligheid.
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 O Vader!
 Maar deeze naam onwaard, mijneedige verrader
 Van uw manhafte Zoon.
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 Helpt goôn! ik hoor gerucht.
 Wy zijn verrascht, komt voort.
 
@@ -2733,7 +3319,7 @@ Wy zijn verrascht, komt voort.
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -2742,7 +3328,9 @@ Julia, Vituria, Balbinus, Attilius
 
 
 
-<speaker>Julia</speaker>
+	<sp who="Julia">
+
+		<speaker>Julia</speaker>
 ZYt gy noch hier? ey vlucht!
 Vlucht trouwe vrinden! daar&apos;s geen uitkomst meêr te hoopen,
 Ik ben mijn Stiefmoêrs oog bedektelijk ontsloopen,
@@ -2752,7 +3340,9 @@ Dat last heeft, ook u beyde, in zijn geweld te brengen.
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Wat quelling is&apos;er meêr in mijne ramp te mengen?
 Mijn machtelooze geest verswind in al &apos;t verdriet,
 Vlucht vrinden, laat my hier, vaar wel, ik kan toch niet.
@@ -2760,17 +3350,23 @@ De droefheid moet mijn ziel verlossen door mijn sterven.
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 Gy zult mijn byzijn, wat u overkomt, niet derven.
 
 
 
-<speaker>Attilius</speaker>
+	<sp who="Attilius">
+
+		<speaker>Attilius</speaker>
 Mijn lief, zie ik u weêr?
 
 
 
-<speaker>Julia</speaker>
+	<sp who="Julia">
+
+		<speaker>Julia</speaker>
 &apos;k Zie u van bloed bespat.
 Heer Broeder, die aan u een arm gevonden had,
 Waar op hy zich in nood, gerust&apos;lijk mocht betrouwen,
@@ -2785,41 +3381,55 @@ Laat in mijn ongeluk geen Stiefmoêr zich vermaaken!
 
 
 
-<speaker>Attilius</speaker>
+	<sp who="Attilius">
+
+		<speaker>Attilius</speaker>
 Mijn liefde zal voor u, en tegen ieder waaken,
 Die uit uw ongeval vermaak of voordeel schept.
 
 
 
-<speaker>Julia</speaker>
+	<sp who="Julia">
+
+		<speaker>Julia</speaker>
 Marcellus zal misschien....
 
 
 
-<speaker>Attilius</speaker>
+	<sp who="Attilius">
+
+		<speaker>Attilius</speaker>
 Eer die zich roert of rept,
 Zal hy gevoelen hoe een minnaar, een verrader,
 En medevrijer streelt.
 
 
 
-<speaker>Julia</speaker>
+	<sp who="Julia">
+
+		<speaker>Julia</speaker>
 Maar zoo hy, door mijn Vader...
 
 
 
-<speaker>Attilius</speaker>
+	<sp who="Attilius">
+
+		<speaker>Attilius</speaker>
 Uw Vader zelf zal u niet rukken uit mijn magt,
 Die, om uw weedermin, alle ongeval veracht.
 
 
 
-<speaker>Julia</speaker>
+	<sp who="Julia">
+
+		<speaker>Julia</speaker>
 Daar hoor ik volk, ach my! daar zal Marcellus weezen.
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 Komt staat niet, dit vertoef deed my voor onheil vreezen.
 Vitur. Jul. Balb. Attil. binnen.
 
@@ -2828,7 +3438,7 @@ Vitur. Jul. Balb. Attil. binnen.
     
     
     
-            <div type="act">
+            <div type="act" n= 1 >
                 
                     
 Vierde bedryf.Eerste tooneel.Faustina, Valerius, Marcellus
@@ -2856,7 +3466,7 @@ FaustinaBetoond uw moed in &apos;t geen uw hert heeft voorgenoomen.Marcellus bin
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -2865,18 +3475,24 @@ Marcellus, Faustina
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 &apos;t WAs Julia, Vorstin.
 
 
 
-<speaker>Faustina</speaker>
+	<sp who="Faustina">
+
+		<speaker>Faustina</speaker>
 Die blijft op mijn bevel,
 My wachten in mijn zaal.
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 Ik zag haar evenwel,
 Maar wie zy waaren, die zoo spoedig met haar vlooden,
 Was niet te zien, wijl zy de rug ons daat&apos;lijk booden,
@@ -2885,7 +3501,9 @@ Het heeft vervoerd.
 
 
 
-<speaker>Faustina</speaker>
+	<sp who="Faustina">
+
+		<speaker>Faustina</speaker>
 &apos;k Beken, &apos;k had graag mijn lust geboet
 Met op zijn doode romp verachtelijk te treeden;
 Maar wijl uw bloedig staal, en woord my weeten deeden,
@@ -2904,13 +3522,17 @@ Zoo zou my geen gevaar of vrees meer overig schijnen.
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 Valerius heeft u zijn dienst en trouw beloofd.
 Vituria is dood, geschonden, of geroofd.
 
 
 
-<speaker>Faustina</speaker>
+	<sp who="Faustina">
+
+		<speaker>Faustina</speaker>
 Neen, neen, Marcellus, neen, had hy uw hert en handen,
 Ik lachte om &apos;t minnevuur, dat &apos;s Keizers hert doet branden.
 Hy is te laauw, te bloode, om zijn geluk by &apos;t hair
@@ -2922,12 +3544,16 @@ Die gaaren weeren zou, haar Keizers dolle min.
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 Welke is die wensch?
 
 
 
-<speaker>Faustina</speaker>
+	<sp who="Faustina">
+
+		<speaker>Faustina</speaker>
 Dat gy, Vituria het leeven
 Beneemende, my wilt op nieuw het leeven geeven.
 Gy hebt in &apos;s Keizers wraak, ook de uwe, straks voldaan,
@@ -2939,32 +3565,44 @@ Op u alleenig drijft mijn staat, mijn rust, mijn min.
 
 
 
-<speaker>Marcelles</speaker>
+	<sp who="Marcelles">
+
+		<speaker>Marcelles</speaker>
 Des Keizers gramschap zal al te ongenaadig woeden.
 
 
 
-<speaker>Faustina</speaker>
+	<sp who="Faustina">
+
+		<speaker>Faustina</speaker>
 Geen nood, ik zal u voor alle ongeval behoeden.
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 Het is een Vrouw.
 
 
 
-<speaker>Faustina</speaker>
+	<sp who="Faustina">
+
+		<speaker>Faustina</speaker>
 Een Vrouw van die u heeft gehoond,
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 Maar voor die misdaad met een doodsteek is geloont.
 
 
 
-<speaker>Faustina</speaker>
+	<sp who="Faustina">
+
+		<speaker>Faustina</speaker>
 Des zal zijn Egemaal, indien zy blijft in &apos;t leeven,
 En aan des Keizers min, zich slechts wil overgeeven,
 Geen kans ontbreeken, om haar weederwraak aan u
@@ -2981,25 +3619,33 @@ U zelve, uw Keizerin, en Hem die &apos;t Rijk zal erven.
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 ‘Ik veins, ik vind het goed, Vituria moet sterven.
 ‘Door zulk een neêrlaag wierd des Keizers haat gewekt.
 
 
 
-<speaker>Faustina</speaker>
+	<sp who="Faustina">
+
+		<speaker>Faustina</speaker>
 Mijn voorzorg, die u tot een vaste borg verstrekt,
 Zal met een listig oog, op &apos;s Keizers handel waaken,
 Wy moeten ons belang als van een lichaam maaken.
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 ‘Neen, &apos;k volg des Keizers last.
 
 
 
-<speaker>Faustina</speaker>
+	<sp who="Faustina">
+
+		<speaker>Faustina</speaker>
 Het moet&apos;er nu meê door,
 ‘Ay volg mijn raad! en uw getergde wraak op &apos;t spoor.
 
@@ -3008,7 +3654,7 @@ Het moet&apos;er nu meê door,
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -3019,25 +3665,33 @@ Faustina, Valerius
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 VOlvoer mijn last.
 De Hofwacht beneemt Valer. zijn geweer
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Mijn Vorst!
 
 
 
-<speaker>Faustina</speaker>
+	<sp who="Faustina">
+
+		<speaker>Faustina</speaker>
 ter zijden
 ‘Nu is&apos;er niets te hoopen;
 ‘Hoe duur zal hy zijn Liefde, en ik mijn Haat bekoopen!
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Getrouwe zorger voor mijn roem, en rijks beleid,
 Beschuldigd gy my niet van groote ondankbaarheid?
 Wijl ik uw vrindendienst, en &apos;t rustige openbaaren
@@ -3050,28 +3704,38 @@ Gy swijgt.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Mijn Vorst en Heer!
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Neen, spreek uw hert recht uyt;
 Zeg wat gy over mijne ondankbaarheid besluyt.
 
 
 
-<speaker>Faustina</speaker>
+	<sp who="Faustina">
+
+		<speaker>Faustina</speaker>
 &apos;t Gelief de Vorst...
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 &apos;t Geliefd my nu dat gy zult zwijgen.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Schoon ook voorgaande dienst by my geen plaats kan krijgen
 Van hoop, dat gy om haar deeze eerste en laatste schuld
 My, uw geboogen slaaf, althans vergeeven zult,
@@ -3080,7 +3744,9 @@ Wiens goedertierenheid vaak stond voor schuldige open.
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Spreekt dus een man, die vol van wijsheid, kracht en moed,
 Als Meedevryer van een Vorst zich kennen doet?
 Die, &apos;t zy daar dwang, of bloed, om tot zijn min te komen,
@@ -3088,12 +3754,16 @@ Van nooden was, geen moeite of halsgevaar zou schroomen.
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 Indien mijn Minnedrift...
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Zwijg, onbedachte mensch.
 Wie maakt mijn onderdaan zoo stout, dat hy mijn wensch
 Durft weederspreeken? wie mijn slaaf toch zoo hovaardig,
@@ -3104,14 +3774,18 @@ Mijn goedheid, troon en straf, zijt boven &apos;t hoofd geklommen?
 
 
 
-<speaker>Valerius</speaker>
+	<sp who="Valerius">
+
+		<speaker>Valerius</speaker>
 &apos;k Voel my door vrees en schuld, en &apos;s Keizers mond verstommen;
 Des bid ik, dat gy nu wat min rechtvaardig, en
 Wat meêr genadig zijt.
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Verrader! zwijg, ik ken
 Uw aart, en zal eerlang, door uwe straf, elk leeren,
 Hoe hoog men &apos;s Keizers wil en achting moet waardeeren,
@@ -3123,7 +3797,7 @@ Valerius, Hofwachters binnen
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -3132,7 +3806,9 @@ Faustina, Keizer
 
 
 
-<speaker>Faustina</speaker>
+	<sp who="Faustina">
+
+		<speaker>Faustina</speaker>
 IK vind u eind&apos;lijk, en met een gelegenheid,
 Om voor uw aangezicht mijn hertszeer en verdrieten,
 Nu openhertig, en voor &apos;t laatste, eens uit te gieten.
@@ -3151,13 +3827,17 @@ Zoo dra de Dochter heeft des Vaders bed genooten!
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Hou op, &apos;t is lang genoech; schoon ik haar al bemin,
 Ik haat uw Zoon niet, en gy blijft mijn Keizerin.
 
 
 
-<speaker>Faustina</speaker>
+	<sp who="Faustina">
+
+		<speaker>Faustina</speaker>
 Maar zonder&apos;s Keizers liefde, ach! kan een Vrouw gedoogen,
 Een Vrouw als ik ben? dat een ander voor haar oogen,
 Haar bedde onteeren komt? heb ik uw haat verdiend?
@@ -3166,12 +3846,16 @@ De naam van Vader, zal u licht van hem verveelen.
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 &apos;k Zal doen dat my gevald.
 
 
 
-<speaker>Faustina</speaker>
+	<sp who="Faustina">
+
+		<speaker>Faustina</speaker>
 Met Eed, en Schepter speelen?
 Niet aanzien, wat uw naam, of Burger daar by lijd?
 Of dit geen haat verwekt, of groote vrinden spijt?
@@ -3188,25 +3872,33 @@ Voor minneyver moet de zucht tot heerschen zwijgen.
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 &apos;k Heb al uw woelery, ten gronde toe, ontdekt;
 Maak dat uw wrev&apos;ligheid my niet tot gramschap wekt.
 Wilt gy zoo klein een zaak uw Vorst met kracht onthouwen?
 
 
 
-<speaker>Faustina</speaker>
+	<sp who="Faustina">
+
+		<speaker>Faustina</speaker>
 Waar diend de trouwplicht toe?
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Dat lust my niet te ontvouwen.
 ‘Daar komt zy, die myn hert zoo hevig blaaken doet.
 
 
 
-<speaker>Faustina</speaker>
+	<sp who="Faustina">
+
+		<speaker>Faustina</speaker>
 ‘Daar is mijn Vyandin, die ik verdelgen moet,
 ‘Waar wend ik my, helaas! Hoe zal ik best my wreeken?
 
@@ -3215,7 +3907,7 @@ Dat lust my niet te ontvouwen.
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -3224,36 +3916,48 @@ Vituria, Julia, Marcellus, Keizer, Faustina
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 PRinces, de droefheid, daar uw Ziel schijnt in te steeken,
 Zal wijken, als gy ziet hoe....
 
 
 
-<speaker>Faustina</speaker>
+	<sp who="Faustina">
+
+		<speaker>Faustina</speaker>
 Zoo gy liefde droegt,
 Tot uw vermoorde held, zoo denk nu wat u voegt.
 Tegen Faustina, Tegen Vituria
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Ga toch na uw vertrek. &apos;k zal al uwe ongenuchten...
 
 
 
-<speaker>Faustina</speaker>
+	<sp who="Faustina">
+
+		<speaker>Faustina</speaker>
 Tegen Mart
 Verrader kunt gy...
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Ga, wilt gy mijn wraak ontvluchten.
 
 
 
-<speaker>Faustina</speaker>
+	<sp who="Faustina">
+
+		<speaker>Faustina</speaker>
 Wel aan, nu mijn gesmeek uw wreede Ziel niet raakt,
 Zoo wensch ik, dat mijn vloek u zoo verbolgen maakt,
 Dat gy my &apos;t leeven neemt, ik wensch dan, dat de gooden
@@ -3263,14 +3967,18 @@ Als gy uw Dochter streeld, stort met uw Rijk te grond.
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Ter zij ten tegen Faustina
 &apos;t Geschied alleen om haar in ons geweld te krijgen.
 Ik zal haar dooden als ik alles weet.
 
 
 
-<speaker>Faustina</speaker>
+	<sp who="Faustina">
+
+		<speaker>Faustina</speaker>
 &apos;k Zal zwijgen,
 En gaan, maar wat gy doet, denk dat een minnesmert,
 Een eeuwige indruk slaat in&apos;t vrouwelijke hert.
@@ -3281,7 +3989,7 @@ Faust. binnen
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -3290,7 +3998,9 @@ Keizer, Vituria, Julia, Marcellus
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 GEtrouwe noodvrind, &apos;k zal uw diensten wel beloonen.
 Kom herwaards Julia, en om &apos;t begin te toonen,
 Zy zal voor u zijn; ga, geley haar in haar zaal.
@@ -3300,12 +4010,16 @@ U al uw wreev&apos;ligheid, en achterraad betaalen.
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 ô Gooden! stel toch uw vervolging eenmaal paalen.
 
 
 
-<speaker>Julia</speaker>
+	<sp who="Julia">
+
+		<speaker>Julia</speaker>
 Heer Vader, ben ik ooit uw liefde waard geweest?
 Bevry my van een Mensch, die &apos;k altijd heb gevreesd,
 Herhaal uw woord! gy kunt, heb ik uw haat ontsteeken,
@@ -3315,13 +4029,17 @@ Als na &apos;t behoud van mijn geliefde Broêr gestaan.
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Vermoorde Fabius! zaagt gy ons dus in lyen,
 Of had uw geest uw kragt, hoe zoud gy voor ons stryen?
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Tegen Marcellus
 Ziet dat gy haar allengs verwind. ga met haar weg;
 Ga, maar verzuym niet na te komen &apos;t geene ik zeg;
@@ -3330,13 +4048,17 @@ Laat u Marcellus, tot mijn weederkomst verzellen.
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 Weggaande
 Uw oude Minnaar, schoon verstooten, komt u quellen.
 
 
 
-<speaker>Julia</speaker>
+	<sp who="Julia">
+
+		<speaker>Julia</speaker>
 Ik haate u eer gy waart met Broeders bloed bespat;
 &apos;k Zal u nu vloeken, eer uw liefde my beklad.
 Jul. Marcel. binnen
@@ -3346,7 +4068,7 @@ Jul. Marcel. binnen
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -3355,25 +4077,33 @@ Keizer, Vituria
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 MYn mond behoeft de vlam van &apos;t hert niet te openbaaren,
 Deeze oogen kunnen u &apos;t geweld daar van verklaaren.
 Gun dan uw weder min een Keizer, die u smeekt!
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Een Vader, die de Wet van eerlijk minnen breekt?
 Vergeet een Keizer zich in vuile minneklagten?
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Kan uw balsturigheid dan al mijn gunst verachten?
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Gy denken, dat my uwe ontaarde minnelust,
 En &apos;t moorden van uw Zoon, niet walgt, niet diep ontrust?
 Laat af zijne Egaas ziel met dat vergif te streelen,
@@ -3386,12 +4116,16 @@ U eeuwig leeven doen in &apos;t marm&apos;re stacybeeld.
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Dat &apos;s tijds genoech als ik uw schoonheid heb gestreeld
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 De Burgery, die u den staf heeft opgedraagen,
 Het Raadhuys, en de Kerk zal zulk een stuk beklaagen,
 Wanneer mijn bloedverwant zich van mijn lyen wreekt.
@@ -3400,12 +4134,16 @@ Blusse uwe minnegloed!
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Ik werd als opgetoogen.
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Ach! zie my aan met...
 
                 
@@ -3413,14 +4151,16 @@ Ach! zie my aan met...
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
 
 
 
-<speaker>Keiser</speaker>
+	<sp who="Keiser">
+
+		<speaker>Keiser</speaker>
 Neen, &apos;k zie reeds te veel uwe oogen.
 En vond ik iemand meêr gelijk Vituria,
 &apos;k Ontsloeg u, maar nu moet ik zelf aan de ongenaâ
@@ -3429,25 +4169,33 @@ Als een geboeide slaaf, gehoorzaamheid besteeden.
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Verwin u zelf, ontslaa en u, en my, van schand.
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Ik ben verwonnen, en gewillig in dien band.
 Al wat men schoon noemt, is in u alleen geschaapen.
 Wat streng gezicht zou zich niet aan uw leest vergaapen?
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Ontslaa my tot ik eerst mijn dooden held beween,
 Hy was uw Zoon!
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Ontslaan? &apos;t Is ver van daar, ô neen!
 Gy, wederstreeft my, &apos;kwil my zelf niet wederstreeven;
 Maar aan mijn liefde nu den lossen teugel geeven.
@@ -3458,7 +4206,7 @@ Ik zal... maar wat is dit?
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -3467,7 +4215,9 @@ Marcellus, Julia, Keizer, Vituria
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 DAt ik dus haastig keer,
 Mijn Keizer, is om u te raan tot tegenweêr.
 Een hinderlaag, al stil ter muuren ingedrongen,
@@ -3476,21 +4226,27 @@ Die van uw Lijfwacht noch met moed verdeedigt werd.
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Met welk een onrust slaat gy mijn vernoegde hert!
 Wat Vyand is&apos;er, die my hier in &apos;t Hof zou deeren?
 Prins Fabius is dood.
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 Denk nu om haar te weeren,
 Zie dan wie dat zy zijn, mijn Vorst, verzuim u niet,
 Het geld uw hals, en Rijk.
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Tegen Julia
 Ach! Zuster, wat verdriet,
 Wat droefheid, wat gevaar, zal ons noch overkomen.
@@ -3500,7 +4256,7 @@ Wat droefheid, wat gevaar, zal ons noch overkomen.
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -3509,7 +4265,9 @@ Faustina, Keizer, Vituria, Julia, Marcellus
 
 
 
-<speaker>Faustina</speaker>
+	<sp who="Faustina">
+
+		<speaker>Faustina</speaker>
 VEins noch voor my vry voort, uw Hof werd ingenomen,
 Verliefde, zie nu om en red ons uit de nood,
 Ontvliê het woeden van Balbinus, en de dood.
@@ -3528,7 +4286,9 @@ Of uyt genade dood, of slaat in slaverny.
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 Swijg stil. ik ben te kloek, om reeds te kunnen vreezen,
 &apos;k Zal haast dat woelen, en mijn Hof weêr meester weezen.
 Mijn lijfst affieren, houd u hier voor dit vertrek,
@@ -3537,7 +4297,9 @@ De Keizerin kan hier mijn wederkomst verwachten.
 
 
 
-<speaker>Faustina</speaker>
+	<sp who="Faustina">
+
+		<speaker>Faustina</speaker>
 Neen, &apos;k wil ook de uytslag zien van &apos;t geen gy zult betrachten.
 Indien gy sneuvelt, zal ik noch ten minste zien,
 Dat deeze ook over u, en my niet zal gebiên.
@@ -3545,32 +4307,42 @@ Zy zal haar wederwraak en wensch geenzins beleeven.
 
 
 
-<speaker>Keizer</speaker>
+	<sp who="Keizer">
+
+		<speaker>Keizer</speaker>
 En ik, weet nu mijn liefde, uw dolheid wederstreven.
 Ik zie uw staatzucht en verwoede minnenijd:
 Maar zal haar spaaren voor mijn wellust, u ten spijt.
 
 
 
-<speaker>Faustina</speaker>
+	<sp who="Faustina">
+
+		<speaker>Faustina</speaker>
 Ik alles waagen, om uw dwaaze min te stooren.
 &apos;k Vrees nergens voor, wy zijn toch zeekerlijk verlooren.
 
 
 
-<speaker>Marcellus</speaker>
+	<sp who="Marcellus">
+
+		<speaker>Marcellus</speaker>
 tegen Julia
 Princes, zoo u mijn min...
 
 
 
-<speaker>Keiser</speaker>
+	<sp who="Keiser">
+
+		<speaker>Keiser</speaker>
 &apos;k Zal zien hoe alles staat.
 Marcellus volg.
 
 
 
-<speaker>Faustina</speaker>
+	<sp who="Faustina">
+
+		<speaker>Faustina</speaker>
 tegen Vituria
 Wee u! mislukt slechts dit verraad.
 Gy zult, eer u de min des Keizers kan bevryen,
@@ -3582,7 +4354,7 @@ Keizer, Faust. Marcell. binnen
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -3591,7 +4363,9 @@ Vituria, Julia
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 WAs &apos;t niet genoech, ô goôn! na &apos;t missen van mijn held,
 Te hebben uytgestaan &apos;t ontuchtige geweld
 Der Steedevoogd? of moest mijn droeve ziel ook lyen,
@@ -3602,7 +4376,9 @@ Tot mijn behoudenis, door uwe gunst, verschijnen!
 
 
 
-<speaker>Julia</speaker>
+	<sp who="Julia">
+
+		<speaker>Julia</speaker>
 Ach! Zuster, &apos;k zie de hoop van redding heel verdwij.
 Het ga met ons zoo &apos;t kan, &apos;t kan niet als qualijk gaan,
 Ik aan Marcellus en zijn liefde niet ontstaan,
@@ -3615,7 +4391,9 @@ Denk Zuster! wie ik ben, de ziel inwendig drukken.
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Noch grooter is &apos;t gevaar waar in ik my bevind,
 &apos;t Zy Vader in de storm verwonnen werd, of wint;
 Ik mis mijn Fabius; om &apos;t minste quaat te kiezen,
@@ -3633,13 +4411,17 @@ Dat mijne onstelde ziel zoo diep getroffen heeft.
 
 
 
-<speaker>Julia</speaker>
+	<sp who="Julia">
+
+		<speaker>Julia</speaker>
 Denk zuster, dat Jupijn, die albestierder leefd.
 Dat zijn rechtvaardigheid...
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Ach! ach! ik stop mijne ooren,
 Ik kan dat klinken van de schilden niet meêr hooren.
 Het nadert ons vertrek, ontfang mijn laatste kus,
@@ -3647,7 +4429,9 @@ Vaar nu voor eeuwig wel.
 
 
 
-<speaker>Julia</speaker>
+	<sp who="Julia">
+
+		<speaker>Julia</speaker>
 Ach! Gooden, laat ons dus.
 Te zamen sneuvelen! mijn hert, tot u genegen,
 Is meêr voor uw behoud, als mijn bederf verlegen.
@@ -3660,7 +4444,7 @@ Wat zou hy dankbaarheid...
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -3671,17 +4455,23 @@ Vituria, Julia
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 HIer zijn zy.
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Ach!
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 Mevrouwen,
 Zoo gy uw eer, gelijk uw leeven, hebt behouwen,
 Is alles wel gelukt; de geyle dwingeland,
@@ -3694,12 +4484,16 @@ Eenige der Leegerhoofden binnen
 
 
 
-<speaker>Julia</speaker>
+	<sp who="Julia">
+
+		<speaker>Julia</speaker>
 Zoo leefd hy?
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 En ik moet mijn Prins voor eeuwig derven?
 Geredde Vaderland, nu wensch ik ook te sterven,
 &apos;k Zie u van &apos;t juk bevrijd, dat u staâg onder hield,
@@ -3718,12 +4512,16 @@ Laat mijn gedachtenis...
 
 
 
-<speaker>Julia</speaker>
+	<sp who="Julia">
+
+		<speaker>Julia</speaker>
 Wat hoor ik voor gerucht?
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 Het is Attilius, ay! wees niet meêr beducht.
 
                 
@@ -3731,7 +4529,7 @@ Het is Attilius, ay! wees niet meêr beducht.
     
     
     
-            <div type="scene">
+            <div type="scene" n= 1 >
                 
                     
 
@@ -3743,17 +4541,23 @@ Vituria, Julia, Balbinus
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 ACh! Hemel! wat is dit?
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 Wie zie ik? goede gooden!
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 Uw Prins, door&apos;s Hemels gunst, een moorders hand ontvlooden.
 Mijn waarde bedgenoot, dat gy in &apos;t leeven zijt,
 Verheugd mijn angstig hert; maar hoe, gy zwijgt, de tijd
@@ -3763,34 +4567,46 @@ Wat sluyt uw lieve mond? wat doet u weenen?
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Ach!
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 Zie wie hier voor u staat; en wat u deeze dag
 Al blijdschap is bereid.
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Ach! ben ik niet bedroogen?
 Verschijnt mijn Fabius hier levend voor mijne oogen?
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 Die leefd, en liefd u noch.
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Ach! Hemel!
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 Haar gemoed,
 Waar in deeze uytslag een beroerlijke omkeer doet,
 Van herstocht en belang, verbied de tong te spreeken,
@@ -3798,14 +4614,18 @@ Van herstocht en belang, verbied de tong te spreeken,
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Mijn waarde ziel! mijn Prins! wat Godheid is zoo goet,
 Dat hy my leevende u, met vreugde omhelzen doet?
 Gy leefd, ik zie u? ach! wat kan ik meêr begeeren.
 
 
 
-<speaker>Attilius</speaker>
+	<sp who="Attilius">
+
+		<speaker>Attilius</speaker>
 Tegen Julia
 Ik wil mijn diensten aan de Veldheer niet waardeeren.
 Niets was&apos;er daar mijn hert na doelde, als uwe min.
@@ -3813,12 +4633,16 @@ Die, werwaards ik my keerde, uw Beeld liet in mijn zin.
 
 
 
-<speaker>Julia</speaker>
+	<sp who="Julia">
+
+		<speaker>Julia</speaker>
 Gy noemt uw daaden niet, of doet haar loflijk achten.
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 Beroemde Prins, wien wy op deeze Troon verwachten,
 Ons raakte, aan hert en eer, al &apos;t ongelijk, dat gy
 Geleeden had, door haat, en &apos;s Keizers razerny,
@@ -3828,12 +4652,16 @@ Die eerst de minnetocht des Stadvoogds was ontgaan.
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 Zoo heeft mijn Vader na uw liefde dan gestaan!
 
 
 
-<speaker>Balbinus</speaker>
+	<sp who="Balbinus">
+
+		<speaker>Balbinus</speaker>
 Wy beezig, voor Mevrouw, een schuilplaats uit te vinden,
 Zien ons bespringen door Marcellus, en zijn vrinden,
 Ontkomen haar geweld; weêr by ons Volk geraakt,
@@ -3851,13 +4679,17 @@ En in geruste stand, uw bloejend Rijk bewaaren!
 
 
 
-<speaker>Attilius</speaker>
+	<sp who="Attilius">
+
+		<speaker>Attilius</speaker>
 Uw onderdaan bied u, by deeze wensch, zijn hert,
 En onvermoeide dienst.
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 Nu ik verheven werd,
 En buiten mijn beleid, voor my dit Rijk zie winnen;
 Zal ik mijn dankbaarheid eerst aan Jupijn beginnen;
@@ -3875,19 +4707,25 @@ Eenige der Leegerhoofden binnen
 
 
 
-<speaker>Julia</speaker>
+	<sp who="Julia">
+
+		<speaker>Julia</speaker>
 Mijn Heer, en Broeder dat ik dan
 Als Keizer u ontmoet. Ik sturf reeds in uw sterven,
 En leef, nu ik u zie Quirinus Kroon verwerven.
 
 
 
-<speaker>Vituria</speaker>
+	<sp who="Vituria">
+
+		<speaker>Vituria</speaker>
 Hoe kon uw dood, mijn lief, aan &apos;t moordgespan ontstaan?
 
 
 
-<speaker>Fabius</speaker>
+	<sp who="Fabius">
+
+		<speaker>Fabius</speaker>
 Zoo haast Marcellus, die my kort liet voor hem gaan,
 Een deel der Lijfstaffiers ontmoete, deed hy &apos;t teeken,
 En heeft van acht&apos;ren my een dagge in &apos;t lijf gesteeken,
@@ -3910,7 +4748,9 @@ Wierd ik gebragt daar gy de Hofpoort nedervelde.
 
 
 
-<speaker>Attilius</speaker>
+	<sp who="Attilius">
+
+		<speaker>Attilius</speaker>
 Uw Vader was van &apos;t Volk verslagen eer &apos;t u zag,
 Faustina vluchte, toen Marcellus by hem lag.
 
