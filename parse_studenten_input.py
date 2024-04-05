@@ -326,7 +326,15 @@ def parse_fulltext(data):
             elif nexupspeaker and item.text:
                 speak_xml = '\n<speaker>' + escape(item.text) + '</speaker>\n'
                 nexupspeaker = False
-
+                if ctype == 'chapter':
+                   chapters[-1] += speak_xml
+                if ctype == 'act':
+                   acts[-1] += speak_xml
+                if ctype == 'scene':
+                   scenes[-1] += speak_xml
+                if ctype == 'play':
+                   plays[-1] += speak_xml
+ 
             else:
                 if item.text:
                     if ctype == 'chapter':
@@ -336,9 +344,9 @@ def parse_fulltext(data):
                     if ctype == 'play':
                        plays[-1] += escape(item.text)
                     if ctype == 'scene':
-                       print(item.attrib, item.tag, item.text)
-                       #print(item.attrib)
-                       scenes[-1] += escape(item.text)+ "\n"
+                       if str(item.tag) == 'sp':
+                           nexupspeaker = True
+                       scenes[-1] += escape(item.text) + '\n'
 
 
     return read_order, speakerlist, alias

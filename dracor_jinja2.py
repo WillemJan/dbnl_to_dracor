@@ -46,7 +46,7 @@ xml_template = """<?xml version="1.0" encoding="utf-8"?>
     <particDesc>
       <listPerson>
         {% for speaker in data.get('speakerlist') %}
-        <person xml:id="{{ speaker }}" sex="{{ data.get('speakerlist').get(speaker).gender[0]|lower }}">
+        <person xml:id="{{ speaker[1:] }}" sex="{{ data.get('speakerlist').get(speaker).gender[0]|lower }}">
           <persName>{{ data.get('speakerlist').get(speaker).speaker_variant }}</persName>
         </person>
         {% endfor %}
