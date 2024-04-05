@@ -238,7 +238,6 @@ def parse_fulltext(data):
 
 
     for item in data.iter():
-        print(item.attrib, item. tag, item.text)
 
         if item.attrib.get('rend', '') == 'speaker' and item.text:
             target = item.text.strip()
@@ -336,7 +335,8 @@ def parse_fulltext(data):
                     if ctype == 'play':
                        plays[-1] += escape(item.text)
                     if ctype == 'scene':
-                       scenes[-1] += escape(item.text)
+                       #print(item.attrib, item. tag, item.text)
+                       scenes[-1] += escape(item.text)+ "\n"
 
 
     return read_order, speakerlist, alias
@@ -408,6 +408,6 @@ for item in data:
             merge['subtitle'] = merge.get('subtitel', '')
             merge['annotated'] = speakers[currid]
             merge['speakerlist'] = speakers[currid].get('all')
-            pprint(merge['speakerlist'])
+            #pprint(merge['speakerlist'])
 
         print_dracor_xml(merge)
