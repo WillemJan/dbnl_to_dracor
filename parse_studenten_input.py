@@ -394,4 +394,6 @@ for item in data:
             merge['subtitle'] = merge.get('subtitel', '')
             merge['annotated'] = speakers[currid]
             merge['speakerlist'] = speakers[currid].get('all')
+            pprint(merge['speakerlist'])
+
         print_dracor_xml(merge)
