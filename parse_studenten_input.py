@@ -218,7 +218,7 @@ def speaker_filter(speakerlist: set, newspeaker: str) -> set | tuple:
     return speakerlist
 
 
-def parse_fulltext(data, cur_id):
+def parse_fulltext(data, cur_id, annodata):
     rec = False
     srec = False
 
@@ -266,8 +266,6 @@ def parse_fulltext(data, cur_id):
                     alias[speakerinfo[0]] = speakerinfo[1]
                 else:
                     speakerlist = speakerinfo
-
-
 
         if srec and item.text:
             srec = False
@@ -349,7 +347,8 @@ def parse_fulltext(data, cur_id):
                     if ctype == 'scene':
                        if str(item.tag) == 'sp':
                            nexupspeaker = True
-                       scenes[-1] += escape(item.text) + '\n'
+                       if item.text.strip():
+	                       scenes[-1] += '\t\t\t<l>' + escape(item.text) + '</l>\n'
 
     #print(cur_id)
     #pprint(alias)
@@ -379,7 +378,7 @@ for item in data:
         with open(fname, 'r') as fh:
             fulltext = lxml.etree.fromstring(fh.read().encode('utf-8'))
         merge['readingorder'], merge['speakerlist'], merge['alias'] = parse_fulltext(
-            fulltext, currid)
+            fulltext, currid, speakers)
 
         '''
         id_list = ['#' + unescape(i.lower()).replace(' ', '-') for i in merge.get('speakerlist')]
