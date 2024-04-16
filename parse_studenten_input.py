@@ -356,12 +356,12 @@ def parse_fulltext(data, cur_id, annodata):
                    if "\n".join(chapters).find('<sp who') > -1:
                         chapters[-1] += '</sp>' + speak_xml
                    else:
-                        chapters[-1] += '</l>' + speak_xml
+                        chapters[-1] += '</l>\n' + speak_xml
                 if ctype == 'act':
                    if "\n".join(acts).find('<sp who') > -1:
                        acts[-1] += '</sp>' + speak_xml
                    else:
-                       acts[-1] += '</l>' + speak_xml
+                       acts[-1] += '</l>\n' + speak_xml
                 if ctype == 'scene':
                    if "\n".join(scenes).find('<sp who') > -1:
                        scenes[-1] += '</sp>' + speak_xml
@@ -371,11 +371,11 @@ def parse_fulltext(data, cur_id, annodata):
                    if "\n".join(plays).find('<sp who') > -1:
                        plays[-1] += '</sp>' + speak_xml
                    else:
-                       plays[-1] += '</l>' + speak_xml
+                       plays[-1] += '</l>\n' + speak_xml
 
             else:
                 if item.text:
-                    txt = '<l>' + escape(item.text) + '</l>'
+                    txt = '\t\t\t<l>' + escape(item.text) + '</l>\n'
                     if item.text.strip():
                         if ctype == 'chapter':
                            chapters[-1] += txt
