@@ -249,6 +249,7 @@ def parse_fulltext(data, cur_id, annodata):
                     alias[speakerinfo[0]] = speakerinfo[1]
                 else:
                     speakerlist = speakerinfo
+                print(speakerlist)
         if item.attrib.get('rend', '') == 'speaker':
             srec = True
 
@@ -315,7 +316,6 @@ def parse_fulltext(data, cur_id, annodata):
 
                 if ctype == 'chapter':
                    if "\n".join(chapters).find('<sp who') > -1:
-                       print('here!!!')
                        chapters[-1] += '</sp>' + speak_xml
                    else:
                        print('aaaaahere!!!')
@@ -351,16 +351,17 @@ def parse_fulltext(data, cur_id, annodata):
                 speak_xml = '\n\t<sp who="' +  escape(item.text) + '">\n'
                 speak_xml += '\n\t\t<speaker>' +  escape(item.text) + '</speaker>\n'
                 nexupspeaker = False
+
                 if ctype == 'chapter':
                    if "\n".join(chapters).find('<sp who') > -1:
                         chapters[-1] += '</sp>' + speak_xml
                    else:
-                        chapters[-1] += speak_xml
+                        chapters[-1] += '</l>' + speak_xml
                 if ctype == 'act':
                    if "\n".join(acts).find('<sp who') > -1:
                        acts[-1] += '</sp>' + speak_xml
                    else:
-                       acts[-1] += speak_xml
+                       acts[-1] += '</l>' + speak_xml
                 if ctype == 'scene':
                    if "\n".join(scenes).find('<sp who') > -1:
                        scenes[-1] += '</sp>' + speak_xml
@@ -370,15 +371,18 @@ def parse_fulltext(data, cur_id, annodata):
                    if "\n".join(plays).find('<sp who') > -1:
                        plays[-1] += '</sp>' + speak_xml
                    else:
-                       plays[-1] += speak_xml
+                       plays[-1] += '</l>' + speak_xml
+
             else:
                 if item.text:
-                    if ctype == 'chapter':
-                       chapters[-1] += escape(item.text)
-                    if ctype == 'act':
-                       acts[-1] += escape(item.text)
-                    if ctype == 'play':
-                       plays[-1] += escape(item.text)
+                    txt = '<l>' + escape(item.text) + '</l>'
+                    if item.text.strip():
+                        if ctype == 'chapter':
+                           chapters[-1] += txt
+                        if ctype == 'act':
+                           acts[-1] += txt
+                        if ctype == 'play':
+                           plays[-1] += txt
                     if ctype == 'scene':
                        if str(item.tag) == 'sp':
                            nexupspeaker = True
