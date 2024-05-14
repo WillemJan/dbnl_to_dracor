@@ -266,6 +266,8 @@ def parse_fulltext(data, cur_id, annodata):
         if item.tag == 'speaker':
             srec1 = True
 
+
+        '''
         if srec1 and item.tag == 'hi':
             srec1 = False
             target = item.text.strip()
@@ -277,6 +279,7 @@ def parse_fulltext(data, cur_id, annodata):
                     alias[speakerinfo[0]] = speakerinfo[1]
                 else:
                     speakerlist = speakerinfo
+        '''
 
         if srec and item.text:
             srec = False
@@ -328,15 +331,12 @@ def parse_fulltext(data, cur_id, annodata):
                    if "\n".join(chapters).find('<sp who') > -1:
                        chapters[-1] += '</sp>' + speak_xml
                    else:
-                       print('aaaaahere!!!')
                        chapters[-1] += speak_xml
 
                 if ctype == 'act':
                    if "\n".join(acts).find('<sp who') > -1:
-                       print('here!!!')
                        acts[-1] += '</sp>' + speak_xml
                    else:
-                       print('aaaaahere!!!')
                        acts[-1] += speak_xml
 
                 if ctype == 'scene':
@@ -409,36 +409,17 @@ def parse_fulltext(data, cur_id, annodata):
 data = parse_dbnl_aanlever()
 eratta = parse_lucas_aanlever(data)
 speakers = parse_student_aanlever()
+i = 0
 for item in data:
     if item.get('ti_id') in eratta:
        currid = item.get('ti_id')
        fname = f"{DBNL_DIR}{os.sep}{currid}.xml"
        fh = pre_remove(fname)
        fulltext = lxml.etree.fromstring(fh.read())
+       merge = {}
+       ceratta = eratta.get(currid)
        merge['readingorder'], merge['speakerlist'], merge['alias'] = parse_fulltext(fulltext, currid, speakers)
-
-'''
-i = 0
-
-for item in data:
-    if item.get('ti_id') in eratta:
-        currid = item.get('ti_id')
-        if not currid in speakers:
-            continue
-
-        merge = {}
-        ceratta = eratta.get(currid)
-
-        fname = f"{DBNL_DIR}{os.sep}{currid}.xml"
-        if not os.path.isfile(fname):
-            print("Missing file:", fname)
-            continue
-        with open(fname, 'r') as fh:
-            fulltext = lxml.etree.fromstring(fh.read().encode('utf-8'))
-        merge['readingorder'], merge['speakerlist'], merge['alias'] = parse_fulltext(
-            fulltext, currid, speakers)
-
-        ''
+       '''
         id_list = ['#' + unescape(i.lower()).replace(' ', '-') for i in merge.get('speakerlist')]
         spv = [unescape(i) for i in merge.get('speakerlist')]
         outdata = {'URL': [ceratta.get('URL') for i in range(len(spv))] , 'id': id_list, 'new_id': ['' for i in range(len(id_list))] ,'speaker_variant': spv, 'is_prefered': ['' for i in range(len(spv)) ], 'is_new': ['' for i in range(len(spv))],
@@ -458,7 +439,7 @@ for item in data:
             outdata['gender (Male/Female/Unknown/Other)'].append('')
             outdata['comments'].append('')
 
-        ''
+        '''
         #print(id_list)
 
         #df = pd.DataFrame(outdata)
@@ -466,22 +447,23 @@ for item in data:
         #print("Writing out %s with %i speakers" % (fname, len(outdata.get('comments'))))
         #df.to_excel(fname, index=False)
 
-        for k in item:
-            merge[k] = item.get(k)
+       for k in item:
+           merge[k] = item.get(k)
 
-        for k in ceratta:
-            if k.lower() in merge and merge[k.lower()] == ceratta.get(k):
-                pass
-            else:
-                merge[k.lower()] = ceratta.get(k)
+       for k in ceratta:
+           if k.lower() in merge and merge[k.lower()] == ceratta.get(k):
+               pass
+           else:
+               merge[k.lower()] = ceratta.get(k)
 
-        if 'titel' in merge and 'hoofdtitel' in merge:
-            merge['main_title'] = merge['titel']
-            merge['subtitle'] = merge.get('subtitel', '')
-            merge['annotated'] = speakers[currid]
-            merge['speakerlist'] = speakers[currid].get('all')
-            #pprint(merge['speakerlist'])
+       if 'titel' in merge and 'hoofdtitel' in merge:
+          try:
+              merge['main_title'] = merge['titel']
+              merge['subtitle'] = merge.get('subtitel', '')
+              merge['annotated'] = speakers[currid]
+              merge['speakerlist'] = speakers[currid].get('all')
+	      #pprint(merge['speakerlist'])
+              print_dracor_xml(merge)
+          except:
+              pass
 
-        print_dracor_xml(merge)
-
-'''
