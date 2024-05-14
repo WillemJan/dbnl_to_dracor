@@ -46,8 +46,8 @@ xml_template = """<?xml version="1.0" encoding="utf-8"?>
     <particDesc>
       <listPerson>
         {% for speaker in data.get('speakerlist') %}
-        <person xml:id="{{ speaker }}" sex="m/f/u">
-          <persName>{{ speaker }}</persName>
+        <person xml:id="{{ speaker[1:] }}" sex="{{ data.get('speakerlist').get(speaker).gender[0]|lower }}">
+          <persName>{{ data.get('speakerlist').get(speaker).speaker_variant }}</persName>
         </person>
         {% endfor %}
         <listRelation type="type of relation">
@@ -88,7 +88,7 @@ xml_template = """<?xml version="1.0" encoding="utf-8"?>
     <body>
     {% for block in data.get('readingorder') %}
     {% for key, value in block.items() %}
-            <div type="{{ key }}">
+            <div type="{{ key }}" n="{{ loop.index }}">
                 {% for f in value %}
                     {{ f }}
                 {% endfor %}
