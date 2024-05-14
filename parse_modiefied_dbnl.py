@@ -46,8 +46,6 @@ def pre_remove(fname, to_remove=['<hi>', '</hi>', '<hi rend="i">']):
         xml_data=xml_buffer.read().decode('utf-8')
         for r in to_remove:
             xml_data.replace(r, '')
-
-
     mem = ''
     for line in xml_data.split('\n'):
         if line.strip() == '</body>':
@@ -58,11 +56,9 @@ def pre_remove(fname, to_remove=['<hi>', '</hi>', '<hi rend="i">']):
            
     xml_buffer = BytesIO(mem.encode())
     xml_buffer.seek(0)
-
     return xml_buffer
 
 def print_dracor_xml(data: dict) -> None:
-    #pprint(data)
     generated_xml = Template(xml_template).render(data=data)
 
     # Output directory.
