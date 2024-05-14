@@ -10,10 +10,11 @@ import lxml.html
 import pandas as pd
 import requests
 from jinja2 import Template
-from Levenshtein import distance
 
 from dracor_jinja2 import xml_template
 from dracor_utils import escape, unescape
+
+from io import BytesIO
 
 BASEURL = f'https://www.dbnl.org/nieuws/xml.php?id=%s'
 
@@ -39,6 +40,17 @@ if not os.path.isdir(DBNL_DIR):
 if not os.path.isdir(DRACOR_DIR):
     os.mkdir(DRACOR_DIR)
 
+
+
+def pre_remove(fname, to_remove=['<li>', '</li>']):
+    with open(fname, 'r') as fh:
+        xml_buffer = BytesIO(fh.read().encode())
+        xml_data=xml_buffer.read().decode('utf-8')
+        for r in to_remove:
+            xml_data.replace(r, '')
+        xml_buffer = BytesIO(xml_data.encode())
+        xml_buffer.seek(0)
+    return xml_buffer
 
 def print_dracor_xml(data: dict) -> None:
     #pprint(data)
@@ -399,6 +411,15 @@ def parse_fulltext(data, cur_id, annodata):
 data = parse_dbnl_aanlever()
 eratta = parse_lucas_aanlever(data)
 speakers = parse_student_aanlever()
+for item in data:
+    if item.get('ti_id') in eratta:
+       currid = item.get('ti_id')
+       fname = f"{DBNL_DIR}{os.sep}{currid}.xml"
+       fh = pre_remove(fname)
+       fulltext = lxml.etree.fromstring(fh.read())
+       merge['readingorder'], merge['speakerlist'], merge['alias'] = parse_fulltext(fulltext, currid, speakers)
+
+'''
 i = 0
 
 for item in data:
@@ -419,7 +440,7 @@ for item in data:
         merge['readingorder'], merge['speakerlist'], merge['alias'] = parse_fulltext(
             fulltext, currid, speakers)
 
-        '''
+        ''
         id_list = ['#' + unescape(i.lower()).replace(' ', '-') for i in merge.get('speakerlist')]
         spv = [unescape(i) for i in merge.get('speakerlist')]
         outdata = {'URL': [ceratta.get('URL') for i in range(len(spv))] , 'id': id_list, 'new_id': ['' for i in range(len(id_list))] ,'speaker_variant': spv, 'is_prefered': ['' for i in range(len(spv)) ], 'is_new': ['' for i in range(len(spv))],
@@ -439,7 +460,7 @@ for item in data:
             outdata['gender (Male/Female/Unknown/Other)'].append('')
             outdata['comments'].append('')
 
-        '''
+        ''
         #print(id_list)
 
         #df = pd.DataFrame(outdata)
@@ -464,3 +485,5 @@ for item in data:
             #pprint(merge['speakerlist'])
 
         print_dracor_xml(merge)
+
+'''
