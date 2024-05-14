@@ -40,9 +40,7 @@ if not os.path.isdir(DBNL_DIR):
 if not os.path.isdir(DRACOR_DIR):
     os.mkdir(DRACOR_DIR)
 
-
-
-def pre_remove(fname, to_remove=['<li>', '</li>']):
+def pre_remove(fname, to_remove=['<hi>', '</hi>', '<hi rend="i">']):
     with open(fname, 'r') as fh:
         xml_buffer = BytesIO(fh.read().encode())
         xml_data=xml_buffer.read().decode('utf-8')
