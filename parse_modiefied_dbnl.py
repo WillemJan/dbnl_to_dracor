@@ -40,18 +40,22 @@ if not os.path.isdir(DBNL_DIR):
 if not os.path.isdir(DRACOR_DIR):
     os.mkdir(DRACOR_DIR)
 
-def pre_remove(fname, to_remove=['<hi>', '</hi>', '<hi rend="i">']):
+def pre_remove(fname, to_remove=['<hi>', '</hi>', '<hi rend="i">'], read_from_till=['<body>', '</body>']):
+    ''' Also just ingore the <front> section for now, we will parse it later,
+        start parsing from <body> till </body>'''
+
     with open(fname, 'r') as fh:
         xml_buffer = BytesIO(fh.read().encode())
         xml_data=xml_buffer.read().decode('utf-8')
         for r in to_remove:
             xml_data.replace(r, '')
+
     mem = ''
     for line in xml_data.split('\n'):
-        if line.strip() == '</body>':
+        if line.strip() == read_from_till[-1]:
            mem += line
            break
-        if line.strip() == '<body>' or mem:
+        if line.strip() == read_from_till[0] or mem:
            mem += line
            
     xml_buffer = BytesIO(mem.encode())
