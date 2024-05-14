@@ -31,11 +31,12 @@ LEVENSTEIN_SPEAKER = 3
 OUTDIR = "playlist_per_work"
 
 import datetime
-
+'''
 print(
     "Running parse_dbnl_input.py on %s"
     % datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
 )
+'''
 
 if not os.path.isdir(DBNL_DIR):
     os.mkdir(DBNL_DIR)
@@ -46,7 +47,7 @@ if not os.path.isdir(DRACOR_DIR):
 
 def pre_remove(
     fname: str,
-    to_remove: list[str] = ["<hi>", "</hi>", '<hi rend="i">', '<hi rend="sc">'],
+    to_remove: list[str] = ["</hi>", '<hi rend="i">', '<hi rend="sc">', '<hi rend="b">', '<hi rend="spat">', ],
     read_from_till: list[str] = ["<body>", "</body>"],
 ) -> BytesIO:
     """Also just ingore the <front> section for now, we will parse it later,
@@ -55,8 +56,8 @@ def pre_remove(
     with open(fname, "r") as fh:
         xml_buffer = BytesIO(fh.read().encode())
         xml_data = xml_buffer.read().decode("utf-8")
-        #for r in to_remove:
-        #    xml_data.replace(r, "")
+        for r in to_remove:
+            xml_data = xml_data.replace(r, "")
 
     mem = ""
     for line in xml_data.split("\n"):
@@ -66,6 +67,8 @@ def pre_remove(
         if line.strip() == read_from_till[0] or mem:
             mem += line
     xml_buffer = BytesIO(mem.encode())
+    xml_buffer.seek(0)
+    print(xml_buffer.read().decode('utf-8'))
     xml_buffer.seek(0)
     return xml_buffer
 
@@ -143,7 +146,8 @@ def parse_lucas_aanlever(data: list[dict]) -> dict | None:
                 if wanted.get(k).get(nr):
                     eratta[cur_id][k] = wanted.get(k).get(nr)
         else:
-            print(f"{cur_id} not found in {DBNL_AANLEVER}")
+            #print(f"{cur_id} not found in {DBNL_AANLEVER}")
+            pass
 
     # for item in data:
     #    if not item.get('ti_id') in eratta:
@@ -369,10 +373,8 @@ def parse_fulltext(data, cur_id, annodata):
 
                 if ctype == "scene":
                     if "\n".join(scenes).find("<sp who") > -1:
-                        print("here!!!")
                         scenes[-1] += "</sp>" + speak_xml
                     else:
-                        print("aaaaahere!!!")
                         scenes[-1] += speak_xml
 
                 if ctype == "play":
@@ -438,7 +440,6 @@ for item in data:
         # for now only parse the modified one..
         if not currid == "asse001kwak01":
             continue
-        print(currid)
         fname = f"{DBNL_DIR}{os.sep}{currid}.xml"
         fh = pre_remove(fname)
         fulltext = lxml.etree.fromstring(fh.read())
@@ -493,7 +494,6 @@ for item in data:
                 merge["speakerlist"] = speakers[currid].get("all")
                 # pprint(merge['speakerlist'])
                 print_dracor_xml(merge)
-                print('==')
             except:
                 pass
          
