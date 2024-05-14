@@ -51,7 +51,7 @@ def pre_remove(fname, to_remove=['<hi>', '</hi>', '<hi rend="i">']):
     return xml_buffer
 
 def print_dracor_xml(data: dict) -> None:
-    #pprint(data)
+    pprint(data)
     generated_xml = Template(xml_template).render(data=data)
 
     # Output directory.

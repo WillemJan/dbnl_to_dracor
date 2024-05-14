@@ -46,7 +46,7 @@ if not os.path.isdir(DRACOR_DIR):
 
 def pre_remove(
     fname: str,
-    to_remove: list[str] = ["<hi>", "</hi>", '<hi rend="i">'],
+    to_remove: list[str] = ["<hi>", "</hi>", '<hi rend="i">', '<hi rend="sc">'],
     read_from_till: list[str] = ["<body>", "</body>"],
 ) -> BytesIO:
     """Also just ingore the <front> section for now, we will parse it later,
@@ -55,8 +55,8 @@ def pre_remove(
     with open(fname, "r") as fh:
         xml_buffer = BytesIO(fh.read().encode())
         xml_data = xml_buffer.read().decode("utf-8")
-        for r in to_remove:
-            xml_data.replace(r, "")
+        #for r in to_remove:
+        #    xml_data.replace(r, "")
 
     mem = ""
     for line in xml_data.split("\n"):
@@ -65,7 +65,6 @@ def pre_remove(
             break
         if line.strip() == read_from_till[0] or mem:
             mem += line
-
     xml_buffer = BytesIO(mem.encode())
     xml_buffer.seek(0)
     return xml_buffer
@@ -494,5 +493,10 @@ for item in data:
                 merge["speakerlist"] = speakers[currid].get("all")
                 # pprint(merge['speakerlist'])
                 print_dracor_xml(merge)
+                print('==')
             except:
                 pass
+         
+        else:
+            print("titel" in merge,  "hoofdtitel" in merge)
+            print_dracor_xml(merge)
