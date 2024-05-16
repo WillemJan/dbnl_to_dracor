@@ -287,7 +287,6 @@ def parse_fulltext(data, cur_id, annodata):
     alias = {}
     ctype = ""
     nexupspeaker = False
-    srec1 = False
 
     for item in data.iter():
         if item.attrib.get("rend", "") == "speaker" and item.text:
@@ -306,7 +305,7 @@ def parse_fulltext(data, cur_id, annodata):
             srec = True
 
         if item.tag == "speaker":
-            srec1 = True
+            speaknow = item.text
 
         if srec and item.text:
             srec = False
@@ -324,28 +323,28 @@ def parse_fulltext(data, cur_id, annodata):
             if item.attrib.get("type") == "act":
                 rec = True
                 if acts:
-                    read_order.append({"act": acts})
+                    read_order.append({"act": acts, "speak": speaknow})
                 acts = [""]
                 ctype = "act"
 
             if item.attrib.get("type") == "chapter":
                 rec = True
                 if chapters:
-                    read_order.append({"chapter": chapters})
+                    read_order.append({"chapter": chapters, "speak": speaknow})
                 chapters = [""]
                 ctype = "chapter"
 
             if item.attrib.get("type") == "play":
                 rec = True
                 if plays:
-                    read_order.append({"play": plays})
+                    read_order.append({"play": plays, "speak": speaknow})
                 ctype = "play"
                 plays = [""]
 
             if item.attrib.get("type") == "scene":
                 rec = True
                 if scenes:
-                    read_order.append({"scene": scenes})
+                    read_order.append({"scene": scenes, "speak": speaknow})
                 ctype = "scene"
                 scenes = [""]
 
@@ -492,7 +491,7 @@ for item in data:
                 merge["subtitle"] = merge.get("subtitel", "")
                 merge["annotated"] = speakers[currid]
                 merge["speakerlist"] = speakers[currid].get("all")
-                # pprint(merge['speakerlist'])
+                pprint(merge)
                 print_dracor_xml(merge)
             except:
                 pass
