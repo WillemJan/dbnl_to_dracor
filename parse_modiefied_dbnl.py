@@ -289,6 +289,10 @@ def parse_fulltext(data, cur_id, annodata):
     nexupspeaker = False
 
     for item in data.iter():
+        #print(item.attrib, item.tag, item.text)
+        pass
+
+    '''
         if item.attrib.get("rend", "") == "speaker" and item.text:
             target = item.text.strip()
             if target.endswith("."):
@@ -299,7 +303,7 @@ def parse_fulltext(data, cur_id, annodata):
                     alias[speakerinfo[0]] = speakerinfo[1]
                 else:
                     speakerlist = speakerinfo
-                print(speakerlist)
+                #print(speakerlist)
 
         if item.attrib.get("rend", "") == "speaker":
             srec = True
@@ -425,7 +429,7 @@ def parse_fulltext(data, cur_id, annodata):
                             nexupspeaker = True
                         if item.text.strip():
                             scenes[-1] += "\t\t\t<l>" + escape(item.text) + "</l>\n"
-
+    '''
     return read_order, speakerlist, alias
 
 
@@ -491,7 +495,7 @@ for item in data:
                 merge["subtitle"] = merge.get("subtitel", "")
                 merge["annotated"] = speakers[currid]
                 merge["speakerlist"] = speakers[currid].get("all")
-                pprint(merge)
+                #pprint(merge)
                 print_dracor_xml(merge)
             except:
                 pass
