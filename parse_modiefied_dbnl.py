@@ -68,8 +68,30 @@ def pre_remove(
             mem += line
     xml_buffer = BytesIO(mem.encode())
     xml_buffer.seek(0)
-    print(xml_buffer.read().decode('utf-8'))
+
+
+
+    import xml.etree.ElementTree as ET
+
+    from copy import copy
+
+    def dictify(r,root=True):
+        if root:
+             return {r.tag : dictify(r, False)}
+        d=copy(r.attrib)
+        if r.text:
+            d["_text"]=r.text
+        for x in r.findall("./*"):
+            if x.tag not in d:
+                d[x.tag]=[]
+            d[x.tag].append(dictify(x,False))
+        return d
+
+    pprint(dictify(ET.fromstring(xml_buffer.read().decode('utf-8'))))
+
     xml_buffer.seek(0)
+
+
     return xml_buffer
 
 
