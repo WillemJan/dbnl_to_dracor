@@ -1,0 +1,2416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">'t Vonnis van Paris en d'onschaeckinghe van Helena</title>
+                <author>Jan Harmensz. Krul</author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een
+                    diplomatische weergave van <hi rend="i">'t Vonnis van Paris en d'onschaeckinghe
+                        van Helena</hi> van Jan Harmensz. Krul uit 1637. </edition>
+                <respStmt>
+                    <resp>
+                        <corr>In het origineel komen verschillende drukletters voor die in deze
+                            digitale editie niet kunnen worden weergegeven. Om dit onderscheid niet
+                            verloren te laten gaan, is in de hoofdstukken waar gotische en romeinse
+                            drukletters door elkaar voorkomen, alle romeinse tekst weergegeven als
+                            cursief. Gotisch is in deze hoofdstukken zonder opmaak
+                            weergegeven.</corr>
+                        <corr>fol. A2v: accolades verspreid over meerdere regels kunnen in deze
+                            digitale versie niet weergegeven worden. Daarom wordt de accolade hier,
+                            met bijbehorende tekst, op iedere regel herhaald.</corr>
+                        <corr>fol. B2v: <hi rend="i">Venns.</hi> → <hi rend="i">Venus.</hi>: ‘<hi
+                                rend="i">Venus.</hi> Vreest niet op Koninghs Soon?’.</corr>
+                        <corr>fol. C4r: bystaudt → bystandt: ‘V Dochter bystandt doet, O
+                            opperste’.</corr>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <publicationStmt>
+                <idno type="titelcode">krul001vonn01_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2022 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"/>
+                    <idno type="usedcopy">exemplaar Koninklijke Bibliotheek Den Haag, signatuur: KW
+                        12 E 24 [2]</idno>
+                </bibl>
+                <p>Jan Harmensz. Krul, <hi rend="i">'t Vonnis van Paris en d'onschaeckinghe van
+                        Helena</hi>. Dirck Cornelisz Houthaeck, Amsterdam 1637</p>
+                <p>&#160;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p/>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">'t Vonnis van Paris en d'onschaeckinghe van Helena</title>
+                <author>Jan Harmensz. Krul</author>
+                <idno type="isbn"/>
+                <idno type="nur"/>
+                <imprint>
+                    <date/>
+                    <publisher/>
+                    <pubPlace/>
+                </imprint>
+            </bibl>
+            <idno type="isbn"/>
+            <idno type="nur"/>
+            <availability>
+                <p/>
+            </availability>
+            <order>
+                <price curr="euro"/>
+                <link/>
+            </order>
+            <blurb>
+                <p/>
+            </blurb>
+            <titlepage>
+                <p/>
+            </titlepage>
+            <colofon>
+                <p/>
+            </colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">'t Vonnis van Paris en d'onschaeckinghe van Helena</title>
+                <author>Jan Harmensz. Krul</author>
+                <idno type="isbn"/>
+                <idno type="nur"/>
+                <imprint>
+                    <date/>
+                    <publisher/>
+                    <pubPlace/>
+                </imprint>
+            </bibl>
+            <idno type="isbn"/>
+            <idno type="nur"/>
+            <availability>
+                <p/>
+            </availability>
+            <order>
+                <price curr="euro"/>
+                <link/>
+            </order>
+            <blurb>
+                <p/>
+            </blurb>
+            <titlepage>
+                <p/>
+            </titlepage>
+            <colofon>
+                <p/>
+            </colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2022-04-01</date>
+                <respStmt>
+                    <name type="person">RK</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <interpGrp>
+            <interp type="primair" value="16371011"/>
+            <interp type="primair" value="amste001egle01"/>
+        </interpGrp>
+        <front>
+            <div type="chapter">
+                <cf><pb ed="fol." n="A1r"/>
+                    <p><hi rend="i">'t Vonnis van PARIS,</hi>
+                        <lb/>En d'onschaeckinghe van <lb/><hi rend="i">HELENA.</hi></p>
+                    <p><hi rend="i">Op den Reghel</hi></p>
+                    <lg type="poem">
+                        <l><hi rend="i">Die sich van 't spoor des Deuchts maer eenmael af laet
+                                raden,</hi></l>
+                        <l><hi rend="i">Vervalt hoe langhs hoe meer tot velerhande quaden.</hi></l>
+                    </lg>
+                    <p><hi rend="i">Gespeelt op d'Amsterdamsche Kamer, den 11. October,
+                        1637.</hi></p>
+                    <figure>
+                        <p><xptr to="krul001vonn01ill0001.png"/></p>
+                    </figure>
+                    <p><hi rend="i">t'</hi><hi rend="sc"><hi rend="i">amsterdam,</hi></hi></p>
+                    <p>Voor <hi rend="i">Dirck Cornelisz Houthaeck, </hi>Boeckverkooper op de
+                        Nieuwe-zijds Kolck. <hi rend="sc"><hi rend="i">Anno</hi></hi> 1637.</p>
+                    <pb ed="fol." rend="blank" n="A1v"/></cf>
+                <div type="section">
+                    <pb ed="fol." n="A2r"/>
+                    <head rend="h3">Sonnet, <lb/><hi rend="i">Af-beeldende de ontschaeckinghe
+                            van</hi>
+                        <lb/>Helena.</head>
+
+                    <lg type="poem">
+                        <l><hi rend="b">E</hi><hi rend="i">Er </hi>Troyen <hi rend="i">raect in
+                                brant, brant </hi>Troye<hi rend="i">n</hi>
+                            <hi rend="i">een </hi>Troyaen;</l>
+                        <l><hi rend="i">Niet uyterlijck in vlam; maer innerlijck met
+                            voncken,</hi></l>
+                        <l><hi rend="i">Die hem door </hi>Cithere<hi rend="i"> in 't herte zijn
+                                ghesoncken,</hi></l>
+                        <l><hi rend="i">En steecken sin, en Ziel in volle vlammen aen;</hi></l>
+                        <l rend="; 1tab"><hi rend="i">Met vloot van Schepen doet s'hem heen naer
+                            </hi>Griecken <hi rend="i">gaen:</hi></l>
+                        <l><hi rend="i">'t Ontfonckte hert (op Zee, int midden van de
+                            Baren,</hi></l>
+                        <l><hi rend="i">Hoe kil, hoe kout, hoe strengh haer bracke vloeden
+                                waren)</hi></l>
+                        <l><hi rend="i">En wierde niet ghedooft; 't ghekielde hol (ghelaen</hi></l>
+                        <l rend="; 1tab"><hi rend="i">Met min, met vlam, met brant) genaeckt de
+                            </hi>Griexe <hi rend="i">stranden;</hi></l>
+                        <l><hi rend="i">Daer d'Opper-Vorst van 't Rijck vertreckt in verre
+                                Landen,</hi></l>
+                        <l><hi rend="i">En laet de schoonste Vrou van </hi>Griecken <hi rend="i"
+                                >Landt alleen; </hi></l>
+                        <l rend="; 1tab">Priami <hi rend="i">Soon, vol vuyr, en innerlijcke
+                                hette,</hi></l>
+                        <l rend="; 1tab"><hi rend="i">Volght </hi>Citherees <hi rend="i">ghebodt, en
+                                soete Minne wette,</hi></l>
+                        <l><hi rend="i">Ontschaeckt de </hi>Griexe <hi rend="i">Vorst sijn schoone
+                                Vrouw </hi>Heleen.</l>
+                    </lg>
+                    <p>I.H. Krul.</p>
+
+                </div>
+            </div>
+            <div type="chapter">
+                <pb ed="fol." n="A2v"/>
+                <head rend="h3"><hi rend="i">Namen der Personagien.</hi></head>
+
+                <table>
+                    <row>
+                        <cell>OEnone.</cell>
+                        <cell>Een Harderin.</cell>
+                    </row>
+                    <row>
+                        <cell>Paris.</cell>
+                        <cell>Een Harder, doch Koninghs Soon.</cell>
+                    </row>
+                    <row>
+                        <cell>Mercurius.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Pallas.</cell>
+                        <cell>} Goddinnen.</cell>
+                    </row>
+                    <row>
+                        <cell>Venus.</cell>
+                        <cell>} Goddinnen.</cell>
+                    </row>
+                    <row>
+                        <cell>Iuno.</cell>
+                        <cell>} Goddinnen.</cell>
+                    </row>
+                    <row>
+                        <cell>Menander.</cell>
+                        <cell>Een Harder.</cell>
+                    </row>
+                    <row>
+                        <cell>Priamus.</cell>
+                        <cell>Koninck van Troyen.</cell>
+                    </row>
+                    <row>
+                        <cell>Senicus.</cell>
+                        <cell>Een Geck.</cell>
+                    </row>
+                    <row>
+                        <cell>Pagie.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Cupido.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Helena.</cell>
+                        <cell>Koningin van Griecken.</cell>
+                    </row>
+                    <row>
+                        <cell>Menelaus.</cell>
+                        <cell>Koninck van Griecken.</cell>
+                    </row>
+                    <row>
+                        <cell>Elicia.</cell>
+                        <cell>Dienst-maeght.</cell>
+                    </row>
+                    <row>
+                        <cell>Aiax.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Ulisses.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Rey van Velt-Nimphjes.</cell>
+                        <cell/>
+                    </row>
+                </table>
+
+            </div>
+        </front>
+        <body>
+            <div type="act">
+                <div type="scene">
+                <pb ed="fol." n="A3r"/>
+                <head rend="h3"><hi rend="i">Eerste Deel. Eerste uytkomste.</hi></head>
+                <stage><hi rend="i">OEnone een Harderin.</hi></stage>
+
+                <lg type="poem">
+                    <l><hi rend="b"><hi rend="i">T</hi></hi>'Vytspruytent lieve groen in't voorjaers
+                        eerst begin</l>
+                    <l>Het hart so niet verheucht als wel de soete min;</l>
+                    <l>De Blompjes die <hi rend="i">Zephier </hi>uyt blaest door Godes wercken</l>
+                    <l>In veel koleurtjes schoon de geest soo niet verstercken</l>
+                    <l>Als wel de liefde doet; die in een reyn gemoedt</l>
+                    <l>De geyle tochten haet en sich op deuchden voed.</l>
+                    <l>Wat baert de wellust doch in het onkuys beminnen?</l>
+                    <l>Niet als een na berou en warringh in de sinnen,</l>
+                    <l>Verwoestingh in 't gemoet, vernieulingh voor de jeucht,</l>
+                    <l>Die al haer glants verquist om schijn van weynigh vreucht:</l>
+                    <l>De Lenten is het eelst van al de jaer ghetijden</l>
+                    <l>En kan daerom oock minst de Noorder winden lijden.</l>
+                    <l>Want dan is alles teer en in sijn soet begin,</l>
+                    <l>Soo doet de jonckheyt oock int fleurtje van de min.</l>
+                    <l>Ghelijck de Lenten wort bestormt van gure vlaghen,</l>
+                    <l>Soo wort een minnend' hart ghequelt door vele plaghen;</l>
+                    <l>Hoe dickwils sietmen (laes) dat een onnosele Maecht</l>
+                    <l>De wulpse min heurs lents haer leven langh beklaecht;</l>
+                    <l>d'Een door een valsche tongh, en d'ander doort gheloven</l>
+                    <l>Van dartele Minnaers klacht, slechts om haer eer te roven:</l>
+                    <l>Men vreest de slanghe niet die onder 't lof verborgen</l>
+                    <l>Bedecken hun fenijn, men is al sonder sorghen:</l>
+                    <l>Hierom o Harders kindt! <hi rend="i">O EOnone </hi>voor u siet,</l>
+                    <l>Ghy niet te vele jonst aen uwe Minaer biet:</l>
+                    <l>De suchjes van de min wilt in u hart verberghen,</l>
+                    <l>Dat sy niet al te seer u trouwe <hi rend="i">Paris </hi>terghen;</l>
+                    <l>Maer sent doch vande strant u klachjes Zee-waert in,</l>
+                    <l>En uytert daer u liefd, en bootst int sant u min:</l>
+                    <l>Gaet doch! ey lieve, gaet! u lieve Minnaer vinden</l>
+                    <l>By <hi rend="i">X'antus </hi>koele stroom ontrent sijn groene linden;</l>
+                    <l>Dan 'k heb hem veel te seer mijn hartje toe vertrout,</l>
+                    <l>Waer of de tuyg'nis staet in d'eycken schorschen hout,</l>
+                    <l>Daer wy de middach Son ontwijcken ende rusten</l>
+                    <l>Terwijl 't onnosel Vee voldeed' hun honghers lusten?</l>
+                    <l>Sint heeft hy wel ghemerckt <hi rend="i">OEnoon </hi>uyt u ghesicht</l>
+                    <l>Hoe dat u hartje was tot hem gheheel verplicht</l>
+                    <l>Ghelijck 'tis in der daet, en waerom soud' ick schromen,</l>
+                    <l>Wie sou het klappen doch, de kruyden of de bomen?</l>
+
+                    <pb ed="fol." n="A3v"/>
+                    <l>Of't weeldrigh pluym ghediert dat op de telghen schuylt?</l>
+                    <l>Of <hi rend="i">Iovis </hi>voghel naer die in de bosschen huylt?</l>
+                    <l>Of heeft het Vee ghesien u dartel kusjes menghen</l>
+                    <l>Met die van <hi rend="i">Paris </hi>t'saem; en soudent die gaen brenghen</l>
+                    <l>Aen uwe Ouders? neen, wat vreest ghy dan voor wee?</l>
+                    <l>Veel stouter <hi rend="i">Thirsus </hi>was laest met sijn <hi rend="i"
+                            >Galatee</hi>:</l>
+                    <l>Want hy al langh na Son quam hare Schaepjes drijven</l>
+                    <l>Te samen na de koy: ick hoord' haer Moeder kijven;</l>
+                    <l>Het Nimphje sweech beleeft, haer kransje wert ghedruckt</l>
+                    <l>Door Moeders haestigheyt, 't geen hy had voorts ghepluckt,</l>
+                    <l>En geestich op ghetoyt, ontrent haer liefs voyagie,</l>
+                    <l>Die doe beregent wert met haestighe kytagie;</l>
+                    <l>Soo soud 't met u oock gaen indien u Ouders beyd'</l>
+                    <l>O Nimphje! waer bewust u groote stoutigheyd';</l>
+                    <l>Dat ghy verborgen hout voor haer u heymelijck minne,</l>
+                    <l>Mits dien al over langh Huysvesten in u sinne</l>
+                    <l>De min van <hi rend="i">Paris: </hi>hier in <hi rend="i">Yda </hi>op
+                        gevoedt,</l>
+                    <l>Ghelijck een vondelingh gantsch arm en sonder goedt:</l>
+                    <l>Hoe wel hy wort gheacht van sulck vernuft en zeden,</l>
+                    <l>Al waer hy op ghevoedt in <hi rend="i">Dardans </hi>rijcke Steden:</l>
+                    <l>De Harders hier ontrent hem toonen sulck ontsach,</l>
+                    <l>Mits van de grage Wolf hy 't Vee te vryen plach</l>
+                    <l>Wanneer het aen de Beeck ghedreven wert te drencken,</l>
+                    <l>En d'hongherighe Gier het selfde docht te krencken:</l>
+                    <l>Hy hoeden 't Vee voor roof, en dese Harderin</l>
+                    <l>Die roofden hy haer hart door heymelijcke min.</l>
+                    <l>O buy na Sonnen schijn! o mist op teere vruchten!</l>
+                    <l>Een anders ongheval doet my het mijne duchten;</l>
+                    <l>Ick vreese dat mijn min sal komen aen den dagh,</l>
+                    <l>Vermits ons <hi rend="i">Demon </hi>laest noch by mijn <hi rend="i">Paris
+                        </hi>sagh,</l>
+                    <l>En 't is den rechten aert van al de jongh ghesellen</l>
+                    <l>Dat sy ons garen met eenighe Minnaer quellen:</l>
+                    <l>Dan sal het wesen licht hoe soet en aenghenaem</l>
+                    <l>Sach ick u laestmael met u Vryer <hi rend="i">Paris </hi>t'saem</l>
+                    <l>Legghen in 't klaver gras ontrent de water beecken,</l>
+                    <l>Een lachjen sal san licht sijn 't rechte waerheyts teecken,</l>
+                    <l>En klappen al 't gheheym: doch <hi rend="i">Paris </hi>is ghetrou,</l>
+                    <l>En sijn beloften ick voor vast en seecker hou.</l>
+                </lg>
+                <stage><hi rend="i">Binnen.</hi></stage>
+            </div>
+            </div>
+            <div type="act">
+                <div type="scene">
+                <head rend="h3"><hi rend="i">Tweede Deel. Eerste uytkomste.</hi></head>
+                <stage><hi rend="i">Paris in een Spelonck, en leunende op een Harders
+                    stock.</hi></stage>
+
+                <lg type="poem">
+                    <l rend="; 2tab"><hi rend="i">O </hi>Lucksalighe Mensch,</l>
+                    <l rend="; 2tab">Die 't eynde van u wensch</l>
+
+                    <pb ed="fol." n="A4r"/>
+                    <l rend="; 2tab">Streckt tot u harts vernoeghen,</l>
+                    <l rend="; 2tab">Die niet onrustigh haeckt</l>
+                    <l rend="; 2tab">Na 't gheen de luck-vrou braeckt,</l>
+                    <l rend="; 2tab">Maer na de Goon toe-voeghen.</l>
+                    <l rend="; 3tab">Die liever u ghemack</l>
+                    <l rend="; 2tab">Hebt in het leeghe dack</l>
+                    <l rend="; 2tab">Als in de groote zalen,</l>
+                    <l rend="; 2tab">Die Nijt of Blixems kracht</l>
+                    <l rend="; 2tab">Of bitsighe tweedracht</l>
+                    <l rend="; 2tab">Licht doet tot puyn neer dalen.</l>
+                    <l rend="; 3tab">Dus is ons kleyne staet,</l>
+                    <l rend="; 2tab">Bevrijdt voor vele quaet,</l>
+                    <l rend="; 2tab">Want gheene storm of winden</l>
+                    <l rend="; 2tab">Beroeren ons ghemoet sy in <hi rend="i">Thetis </hi>vloet</l>
+                    <l rend="; 2tab">Ons goederen verslinden.</l>
+                    <l rend="; 3tab">Noch gheen wraeckgierigh hert</l>
+                    <l rend="; 2tab">Op ons ghenomen werdt</l>
+                    <l rend="; 2tab">Door woeckerighe daden:</l>
+                    <l rend="; 2tab">Wy leven in het groen,</l>
+                    <l rend="; 2tab">Daer wy ons Schaepjens hoe'n,</l>
+                    <l rend="; 2tab">En hunne lust versaden.</l>
+                    <l rend="; 3tab">Gheen Roovers fel ghesicht</l>
+                    <l rend="; 2tab">Verbleeckt ons aenghesicht,</l>
+                    <l rend="; 2tab">Wt vrees van Haefs verliesen:</l>
+                    <l rend="; 2tab">Want wy voor 't hooghste goedt</l>
+                    <l rend="; 2tab">De rust van ons ghemoedt</l>
+                    <l rend="; 2tab">Voor alle Schatten kiesen.</l>
+                    <l rend="; 3tab">En als den morghen-stont</l>
+                    <l rend="; 2tab">Ontrent den Horisont</l>
+                    <l rend="; 2tab">Verdooft <hi rend="i">Dianas </hi>stoeten:</l>
+                    <l rend="; 2tab">Soo sien wy <hi rend="i">Lucifer</hi></l>
+                    <l rend="; 2tab"><hi rend="i">Latonis </hi>Soon van ver</l>
+                    <l rend="; 2tab">Met sijn ghetintel groeten.</l>
+                    <l rend="; 3tab">Gheen lafheydt van het bedt,</l>
+                    <l rend="; 2tab">Of sluymer dan belet</l>
+                    <l rend="; 2tab">Ons noch te koy te blijven,</l>
+                    <l rend="; 2tab">En met ons vlockje weer,</l>
+                    <l rend="; 2tab">'t Sy dichte by of veer,</l>
+                    <l rend="; 2tab">Na 't vochte wout te drijven.</l>
+                    <l rend="; 3tab">Dicht by daer <hi rend="i">X'antus </hi>vliet</l>
+                    <l rend="; 2tab">Sijn stroment water giet</l>
+                    <l rend="; 2tab">In <hi rend="i">Idas </hi>groen valeyen,</l>
+                    <l rend="; 2tab">Daer wy met Nimphjes veel,</l>
+                    <l rend="; 2tab">Door spel en soet ghequeel,</l>
+                    <l rend="; 2tab">Vermaecken d'Harders Reyen.</l>
+
+                    <pb ed="fol." n="A4v"/>
+                    <l rend="; 3tab">Doch ghy <hi rend="i">OEnoon </hi>alleen,</l>
+                    <l rend="; 2tab">Door u uytmuntentheen,</l>
+                    <l rend="; 2tab">Boeyt my als't puyck der schoonen,</l>
+                    <l rend="; 2tab">Die hier aen 't <hi rend="i">Phrigisch </hi>strant,</l>
+                    <l rend="; 2tab">Of gantsch <hi rend="i">Pergami </hi>Lant</l>
+                    <l rend="; 2tab">Onder de Nimphjes woonen:</l>
+                    <l rend="; 3tab">En als <hi rend="i">Apollo </hi>brant,</l>
+                    <l rend="; 2tab">Soo vlie'we aen de kant</l>
+                    <l rend="; 2tab">Van dese koele stroomen,</l>
+                    <l rend="; 2tab">Daer 't voghels melody</l>
+                    <l rend="; 2tab">Begroeten ons ghevry</l>
+                    <l rend="; 2tab">Met schaduw van de Boomen.</l>
+                    <l rend="; 3tab">Wat toone van Musijck</l>
+                    <l rend="; 2tab">Heeft eenichsins ghelijck?</l>
+                    <l rend="; 2tab">By Nachtegaeltjens keelen</l>
+                    <l rend="; 2tab">Die door naturens leer,</l>
+                    <l rend="; 2tab">Tot hunne Scheppers eer</l>
+                    <l rend="; 2tab">In onse Bosschen queelen.</l>
+                    <l rend="; 2tab">Wat Purper van een Throon</l>
+                    <l rend="; 2tab">Dat met sijn hooghsels schoon,</l>
+                    <l rend="; 2tab">Trots Goden Ledekanten,</l>
+                    <l rend="; 2tab">Heeft weerga by 't gheblomt</l>
+                    <l rend="; 2tab">'t Gheen <hi rend="i">Flora </hi>jaerlijcks komt,</l>
+                    <l rend="; 2tab">In onse Beemden planten.</l>
+                    <l rend="; 3tab">Recht ciersel tot de krans</l>
+                    <l rend="; 2tab">Der Nimphjes, die ten dans</l>
+                    <l rend="; 2tab">Ghetoyt als velt-Goddinnen</l>
+                    <l rend="; 2tab">Verschijnen: dies 't ghemoet</l>
+                    <l rend="; 2tab">Al heymelijcke voet</l>
+                    <l rend="; 2tab">De brant van hare minnen.</l>
+                    <l rend="; 3tab">O <hi rend="i">OEnoon </hi>Lief alleen</l>
+                    <l rend="; 2tab">V min ick anders gheen</l>
+                    <l rend="; 2tab">Van onse Bosch <hi rend="i">Najaden,</hi></l>
+                    <l rend="; 2tab">Staech blincken in mijn oogh</l>
+                    <l rend="; 2tab">Als <hi rend="i">Phoebus </hi>toont om hoogh</l>
+                    <l rend="; 2tab">V gheestighe ghewaden.</l>
+                    <l rend="; 3tab">De Eycken schaduw dicht</l>
+                    <l rend="; 2tab">Ken dat betuyghen licht,</l>
+                    <l rend="; 2tab">Onder wiens lieve looten</l>
+                    <l rend="; 2tab">Ick vaeck het schoonste schoon</l>
+                    <l rend="; 2tab">Mijns waerdighe <hi rend="i">OEnoon</hi></l>
+                    <l rend="; 2tab">Omhelsent heb ghenooten.</l>
+                    <l rend="; 3tab">Daer noch het quastigh hout</l>
+                    <l rend="; 2tab">Het blijck mijns minne hout</l>
+                    <l rend="; 2tab">Diep in de schors gheschreven,</l>
+                    <l rend="; 2tab">Dat <hi rend="i">X'antus </hi>teghens aert</l>
+
+                    <pb ed="fol." n="B1r"/>
+                    <l rend="; 2tab">Sal stroomen rugh-waert</l>
+                    <l rend="; 2tab">Eer ick haer sal begheven.</l>
+                    <l rend="; 3tab">Doch sy en is hier niet</l>
+                    <l rend="; 2tab">Die af zijnd' my ghebiet</l>
+                    <l rend="; 2tab">Van minne dus te spreecken:</l>
+                    <l rend="; 2tab">Soo ghy o swoele windt</l>
+                    <l rend="; 2tab">Eens mijn <hi rend="i">OEnone </hi>vindt,</l>
+                    <l rend="; 2tab">Doet haer hier van een teecken.</l>
+                    <l rend="; 3tab">Best legh ick mijn hier neer</l>
+                    <l rend="; 2tab">Tot dat de Sonne weer</l>
+                    <l rend="; 2tab">Ter zijde schiet sijn stralen:</l>
+                    <l rend="; 2tab">En dat sijn Hencxten mat</l>
+                    <l rend="; 2tab">Wt 't woeste blaeuwe nat,</l>
+                    <l rend="; 2tab">Gantsch moede neder dalen:</l>
+                    <l>En rusten my in 't schaeuw van dese Wildernis,</l>
+                    <l>Tot dat door dachs vertreck 't ghevoghelt stilder is:</l>
+                    <l>En dat ick sie gheaest mijn mat gheweyde vlocken,</l>
+                    <l>En drijfse na de koy op haer ghewoone stocken.</l>
+                    <l>Weyt, weyt dan Schaepjes al voldoet u graghe lust,</l>
+                    <l>Terwijl u Harder hier in dese koelte rust.</l>
+                </lg>
+            </div>
+            <div type="scene">
+                <head rend="h3"><hi rend="i">Tweede handelingh. Van't tweede Deel.</hi></head>
+                <stage><hi rend="i">Pallas, Venus, Iuno, Mercurius, met een Rey van Veldt-Nimphjes,
+                        singhende, op de Voys:</hi>
+                    <lb/><hi rend="i">Balette Bronchorst.</hi></stage>
+
+                <lg type="poem">
+                    <l><hi rend="i"><hi rend="b">Z</hi>Uye winden,</hi></l>
+                    <l><hi rend="i">Die ruyschend' speelt met vlaeghjes van een koele koelt</hi></l>
+                    <l><hi rend="i">Door de Linde</hi></l>
+                    <l><hi rend="i">Van Idas Wout en lommer; daer het Beeckje spoelt</hi></l>
+                    <l><hi rend="i">Met een drift, van Kristalijne vliet:</hi></l>
+                    <l><hi rend="i">En koele stroome,, langhs Linde bome,</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Alwaer de drome,</hi></l>
+                    <l><hi rend="i">Of sluymer 't oogh beschiet</hi></l>
+                    <l><hi rend="i">Van hem, van hem, van hem: die hier sijn rust gheniet.</hi></l>
+                    <l>&#160;</l>
+                    <l rend="; 2tab"><hi rend="i">Noch wat verder,</hi></l>
+                    <l><hi rend="i">Omlommert vande Bomen in het dichte groen</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Leydt den Herder,</hi></l>
+                    <l><hi rend="i">In schaeuw van Loof en Linden om sijn lust te voen:</hi></l>
+                    <l><hi rend="i">Door den droom van OEnoons lieve min,</hi></l>
+                    <l><hi rend="i">Door stille rusjes,, Voedt hy sijn lusjes,</hi></l>
+                    <l rend="; 1tab"><hi rend="i">In duysent kusjes</hi></l>
+                    <l><hi rend="i">Met sijne Herderin,</hi></l>
+                    <l><hi rend="i">Verlieft, verlieft, verlieft op haer met Ziel en sin.</hi></l>
+
+                    <pb ed="fol." n="B1v"/>
+                    <l rend="speaker"><hi rend="i">Rey.</hi></l>
+                    <l rend="; 1tab">Goddinnen! wijl 't u lust ons Nimphjes te gebien</l>
+                    <l>De Wetten uwes wil: sal 't willighlijck geschien</l>
+                    <l>Dat wy volbrengen u ghebiet; 't welck ons begeere</l>
+                    <l>Is willigh te voldoen: gelieft met ons te keere</l>
+                    <l>Door dese groene wegh; om-lommert van de blaen,</l>
+                    <l>Die 't vinnigh blaeken van de Son ken tegen-staen,</l>
+                    <l>Daer Bloempjes langhs de kant van klare water-stroome</l>
+                    <l>De velden cieren, en beproncken <hi rend="i">Ydas </hi>boome,</l>
+                    <l>Met purper blos van roos, met uytgekipte keur</l>
+                    <l>Van Bloempjes, die het Wout vervullen met de geur</l>
+                    <l>Van lieffelijcke reuck: en daer de pluymde Diere</l>
+                    <l>Met vrolijck singhen, en met heughlijck tiereliere</l>
+                    <l>Begroeten Bos en dal; onsterffelijck geslacht,</l>
+                    <l>Dit is de waerdste plaets, van 't gantsche Wout geacht,</l>
+                    <l>Daer ginder, soo ghy siet, staen hoogh-getopte Linde,</l>
+                    <l>Daer sult ghy <hi rend="i">Paris </hi>selfs in middagh-slape vinde,</l>
+                    <l>Neemt derwaerts uwe gangh, en ons in u behoed.</l>
+                    <l>Vaert wel Goddinnen.</l>
+                    <stage><hi rend="i">Rey binnen.</hi></stage>
+                    <l rend="speaker"><hi rend="i">Venus.</hi></l>
+                    <l rend="; 1tab">Ghy Veltnimphjes: zijt gegroet.</l>
+                    <l rend="speaker"><hi rend="i">Mercur.</hi></l>
+                    <l>Hier siet ghy <hi rend="i">Idaes </hi>wout, Goddinnen, en wat verder</l>
+                    <l>Sluymerende in 't geboomt den Phrigiaenschen Herder,</l>
+                    <l>Edele Jongelingh die weynigh nu verwacht</l>
+                    <l>Te sijn gesproten uyt het <hi rend="i">Derdani </hi>geslacht:</l>
+                    <l>Dat <hi rend="i">Hector </hi>zy u bloet, en <hi rend="i">Hecuba </hi>u
+                        Moeder,</l>
+                    <l>Luckighe Schaepjes nu bewaert van sulcken Hoeder,</l>
+                    <l>Die van een Koninckx Soon ghedreven nae de Koy,</l>
+                    <l>En daghelickx wert gehoet op dat ghy niet een proy</l>
+                    <l>Soud' werden 't wreet ghediert, dat met gesparde kaecken</l>
+                    <l>En rasende van honger u te verscheuren haecken,</l>
+                    <l>Mogende Coninginnen wilt ghy dat ick ontwaeck</l>
+                    <l>De Herder, dat hy voorts u pleyt ten eynde maeck?</l>
+                    <l rend="speaker"><hi rend="i">Iuno.</hi></l>
+                    <l rend="; 1tab">Ontwaeckt hem 't is mijn wil, en na my dunckt sal dese</l>
+                    <l>De rechte Oordelaer in dese saecke wesen.</l>
+                    <l rend="speaker"><hi rend="i">Mercur.</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Ydische </hi>Rechter die hier in dese schaduw
+                        rust</l>
+                    <l>Van bladerigh geboomt, en vrolijck na u lust</l>
+                    <l>Geniet u harts vernoegingh, <hi rend="i">Iupijn </hi>die de salen</l>
+                    <l>Van 't Goden huys regeerd, ghebood my neer te dalen</l>
+                    <l>Hier in u rijcke Woudt: u Neve <hi rend="i">Ganameed,</hi></l>
+                    <l>Den Goden-Schencker kleyn hem van u kennis deed,</l>
+                    <l>Dat ghy een Rechter waert die niet door gunst of beden</l>
+                    <l>Het Boersche volck recht, maer na gherechtigheden,</l>
+                    <l>Dies ghy de soete twist, die dees Godinnen dry</l>
+                    <l>Doet kanten tegen een, moet wysen aen een sy.</l>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l rend="; 1tab">Wordt ick een Harder slecht ghewaerdight en gheboden,</l>
+                    <l>Te wysen 't vonnis van de twistingen der Goden?</l>
+                    <l>Gheluckige <hi rend="i">OEnoon, </hi>is <hi rend="i">Ganameed </hi>mijn
+                        Neef?</l>
+
+                    <pb ed="fol." n="B2r"/>
+                    <l>Soo sal 't my rouwen noyt dat ick mijn minne schreef</l>
+                    <l>Tot u in 't schorsich hout der diep gheblade Eycken,</l>
+                    <l>Wiens overhangend lof voor ons een rust-plaets reycken:</l>
+                    <l>Seght my dan Goden-knecht de oorsaeck vande twist,</l>
+                    <l>Die ghy wilt dat van mijn sal werden nu gheslist?</l>
+                    <l rend="speaker"><hi rend="i">Mercur.</hi></l>
+                    <l rend="; 1tab">In <hi rend="i">Thetis </hi>Bruyloft-Feest, de Hemel-lieden
+                        t'samen</l>
+                    <l>Op <hi rend="i">Pelii </hi>versoeck onlanghs ter Feeste quamen,</l>
+                    <l>En na dat <hi rend="i">Libes </hi>nat ghestegen was in 't breyn,</l>
+                    <l>Scheen <hi rend="i">Jupijn </hi>selfs verheught, en <hi rend="i">Pallas
+                        </hi>wijsheydt kleyn:</l>
+                    <l>Als <hi rend="i">Iuno </hi>liet haer staet, en <hi rend="i">Venus </hi>raeckt
+                        aen 't mallen,</l>
+                    <l>Liet yemand by gheval dees gulden Appel vallen,</l>
+                    <l>Waer op gheschreven staet: <hi rend="i">De Schoonste van u al</hi></l>
+                    <l><hi rend="i">In Lichaems schoon ghestalt dees Appel wesen sal.</hi></l>
+                    <l>Men koser <hi rend="i">Jupijn </hi>toe om 't vonnisse te wysen.</l>
+                    <l>Maer hoe! sey d'Hemel-voocht, ick sal mijn Vrouwe prysen</l>
+                    <l>Vee boven d'andere, dies u een Rechter vindt,</l>
+                    <l>Die niet door eyghen waen of geltsucht is verblint.</l>
+                    <l>Waer toe men u verkoos, o Rechter van de <hi rend="i">Phrygen!</hi></l>
+                    <l>Maer denckt niet of ghy sult wel goe belooningh krygen:</l>
+                    <l>Dit 's <hi rend="i">Jovis </hi>Huysvrouw selfs, de ander is <hi rend="i"
+                            >Minerve, </hi></l>
+                    <l>Dat <hi rend="i">Venus, </hi>die de Mensch oock sonder doodt doet
+                        sterven.</l>
+                    <l>Ontfanght den Appel dan, en oordeelt met bescheyt,</l>
+                    <l>En geeftse aen de Schoonst' nae u ghenegentheyt.</l>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l rend="; 1tab">Soo veel sie ick helaes! dat soo hoogh <hi rend="i">Titan
+                        </hi>rijst</l>
+                    <l>Boven het hoochst gebercht, mijn Geest ree 't vonnis wijst,</l>
+                    <l>Dat het gheringhste schoon, van een dees Goddinnen,</l>
+                    <l>De schoonheydt van <hi rend="i">OEnoon</hi> sal lichtelijck verwinnen,</l>
+                    <l>Die 'k onlanghs hield voor 't puyck van <hi rend="i">Chaos </hi>hoogh
+                        ghebouw.</l>
+                    <l rend="speaker"><hi rend="i">Iuno.</hi></l>
+                    <l rend="; 1tab">Twist niet o Jongelingh om eenigh aerdtsche Vrouw:</l>
+                    <l>Soo ghy aen <hi rend="i">Jovis </hi>huys het Vonnis wilt toewysen,</l>
+                    <l>Ick sal u slechten staet doen tot de wolcken rysen:</l>
+                    <l>V hand niet meer een staf maer Scepter sweyden sal:</l>
+                    <l>Een Koninghlijck ghebouw verkrijght ghy voor een stal:</l>
+                    <l>De Kroon van <hi rend="i">Asia </hi>sal uwe hayren drucken,</l>
+                    <l>Geen machtigh Oorloghs-heyr sal u om verre rucken:</l>
+                    <l><hi rend="i">Europaes </hi>groot ghebiet stel ick oock in u macht,</l>
+                    <l>Indien ghy my de roem des schoonheyts weerdich acht.</l>
+                    <l rend="speaker"><hi rend="i">Pallas.</hi></l>
+                    <l rend="; 1tab">De wyse <hi rend="i">Pallas </hi>die des <hi rend="i">Helicons
+                        </hi>Goddinnen</l>
+                    <l>Meer uyt gheleertheyts lust als lichaems stal beminnen,</l>
+                    <l>Verschijnt hier mee te recht, o <hi rend="i">Paris </hi>om u oordeel</l>
+                    <l>Te hooren van ons schoon, hoe wel ick meerder voordeel</l>
+                    <l>Schep uyt mijn wetenschap, want het inwendich schoon</l>
+                    <l>Is by een soet ghesicht gantsch van een ander toon.</l>
+                    <l>Mijn Helden die wel eer in wetenschap uytmunten,</l>
+                    <l>Verachten 't weetloos volck als hersenloose klunten:</l>
+                    <l>De Philosophen oudt, achten oyt meer de schat</l>
+
+                    <pb ed="fol." n="B2v"/>
+                    <l>Eens armen in 't gemoedt, als 't geen de Vreck besat.</l>
+                    <l>Hoe wel de Eeuwen haer nu grootelijcks verkeeren,</l>
+                    <l>En meerder 't stomme gout als rechte wijsheyt eeren</l>
+                    <l>Soo is het te vergeefs, alwaer <hi rend="i">Minerva </hi>naeckt,</l>
+                    <l>In't kort door haer verstant, haer vele vrienden maeckt.</l>
+                    <l>Daer als de Vreck verarmt of van sijn goet verdreven</l>
+                    <l>In desperacy raeckt, en hem verdriet te leven.</l>
+                    <l>Dan blijft de Wijse staen ghelijck een vaste rots,</l>
+                    <l>Als onbeweecht van geest, door dese wijsheyt Godts.</l>
+                    <l>Ick kan o Jonghelingh heylsamer u niet gheven</l>
+                    <l>Als daer door ghy op aerd gherustelijck moocht leven,</l>
+                    <l>Versmadend' te ghelijck de menschelijcke weeld,</l>
+                    <l>Door dien mijn wetenschap een ander kennis teeld:</l>
+                    <l>Daer door ghy licht verkrijght een onsterflijcke naem.</l>
+                    <l rend="speaker"><hi rend="i">Venus lachende.</hi></l>
+                    <l rend="; 1tab">Dees giften: <hi rend="i">Paris </hi>zijn u jonckheyt
+                        onbequaem.</l>
+                    <l>Het minnen voeght u best, ghy zijt nu in u jaren</l>
+                    <l>Bequaem om met een vrou my gantsch gelijck te paren.</l>
+                    <l>Dat 's <hi rend="i">Laedaes </hi>Dochter schoon, dees loof ick u tot
+                        Bruyt,</l>
+                    <l>Indien ghy 't Vonnisse op mijne sijdt besluyt.</l>
+                    <l>Ghy hebt nu langh ghenoegh beproeft <hi rend="i">OEnones </hi>minnen,</l>
+                    <l>Wat soud ghy: Edel Heldt met een Boerin beginnen?</l>
+                    <l>Wat soud ghy zijn een slaef hier in dit Boersch ghehucht?</l>
+                    <l>Daer in het Griecxsche Landt <hi rend="i">Helena </hi>om u sucht:</l>
+                    <l>Wiens leven neffens mijn alleen zijn waert te prijsen,</l>
+                    <l>Wat toeft ghy <hi rend="i">Paris </hi>met het Vonnisse te wijsen?</l>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l rend="; 1tab">Na dien mijn ooghe langh heeft op u dry ghedwaelt,</l>
+                    <l>En 't Goddelijcke schoon ten ooghen in ghehaelt:</l>
+                    <l>Soo sweer ick: o <hi rend="i">Cypres! </hi>dat door u geestigheden</l>
+                    <l>Mijn hartje staet bedeest; ja dat mijn gantsche leden</l>
+                    <l>Wt stooten teghens danck de onlanghs vaste min,</l>
+                    <l>Tot mijn <hi rend="i">OEnone </hi>Lief, en schoone Velt-Goddin,</l>
+                    <l>Dies is den Appel u.</l>
+                    <l rend="speaker"><hi rend="i">Iuno.</hi></l>
+                    <l>Wel aen ick sweer de <hi rend="i">Phrigen</hi></l>
+                    <l>Haer wel verdiende straf hier voor te sullen krijghen.</l>
+                    <l>Treckt na de Griecxsche kust, <hi rend="i">d'Atriden </hi>volghen u,</l>
+                    <l>En zijn voor <hi rend="i">Hector </hi>noch voor de <hi rend="i">Troyanen
+                        </hi>schu.</l>
+                    <stage><hi rend="i">Binnen.</hi></stage>
+                    <l rend="speaker"><hi rend="i">Pallas.</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Minerva </hi>troost haer selven, en eyst gheen
+                        wreede wraeck</l>
+                    <l>Op desen Jonghelingh om sijn ghewesen saeck.</l>
+                    <stage><hi rend="i">Binnen met Mercur.</hi></stage>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l rend="; 1tab">Helaes! waer blijf ick nu met dit verschil te wijsen,</l>
+                    <l>En nochtans moest ick d'een of d'anders schoonheyt prijsen.</l>
+                    <l rend="speaker"><hi rend="i">Venus.</hi></l>
+                    <l rend="; 1tab">Vreest niet op Koninghs Soon?</l>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l>Hoe seght ghy?</l>
+                    <l rend="speaker"><hi rend="i">Venus.</hi></l>
+                    <l>In dees velden</l>
+                    <l>Laeght ghy als vondelingh doe men <hi rend="i">Priamo </hi>quelden</l>
+                    <l>Om u te dooden, ach! gantsch teghens hert en sin,</l>
+                    <l>Van die u had ghebaert, dats <hi rend="i">Troyens </hi>Koningin.</l>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l rend="; 1tab">Hoe kan dat moghelijck zijn.</l>
+                    <l rend="speaker"><hi rend="i">Venus.</hi></l>
+                    <l><hi rend="i">Hecube </hi>droomde dat</l>
+                    <l>Sy sieck'lijck op haer Koets noch van u swangher sat:</l>
+
+                    <pb ed="fol." n="B3r"/>
+                    <l>En dat sy baerde een Torts die <hi rend="i">Laomedes </hi>Stamme;</l>
+                    <l>Ja 't gantsche <hi rend="i">Asia </hi>bedeckten met sijn vlamme:</l>
+                    <l>Het welck wert soo beduyt, of ghy <hi rend="i">Priami </hi>Soon</l>
+                    <l>Vernielen soud' door vlam u Vaderlijcke Kroon.</l>
+                    <l>Doch 't is de vlam gheweest die ghy om dees Goddinne</l>
+                    <l>Noch in u herte sult ghevoelen door haer minne.</l>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l rend="; 1tab">'t Schijnt onghelooffelijck, dat ick een slechte slaef</l>
+                    <l>Sou zijn: <hi rend="i">Priami </hi>Soon.</l>
+                    <l rend="speaker"><hi rend="i">Venus.</hi></l>
+                    <l rend="; 1tab">Wel aen ick salt doen blijcken</l>
+                    <l>Dat die de Standert is van <hi rend="i">Laomedes </hi>rijcken:</l>
+                    <l>Dats <hi rend="i">Hector </hi>sy u Broer: en dat <hi rend="i"
+                        >Deyphebus</hi></l>
+                    <l>Om-helsend' u ontfangh met vriendelijcke kus:</l>
+                    <l>En dat <hi rend="i">Polexima </hi>met haer Yvore handen</l>
+                    <l>V sal gantsch minnelijck als broeder lief aenranden:</l>
+                    <l>Ja 't gantsche <hi rend="i">Troya </hi>sal met vreughde zijn vervult,</l>
+                    <l>Wanneer ghy in haer Hof, als Prince treden sult.</l>
+                    <l rend="; 2tab">Dan sult ghy reysen heen</l>
+                    <l rend="; 2tab">Na de beroemde Steen,</l>
+                    <l rend="; 2tab">Beheerst van <hi rend="i">Afri </hi>Soon,</l>
+                    <l rend="; 2tab">Daer woont de schoon Goddin</l>
+                    <l rend="; 2tab">Die door mijn Soon haer min</l>
+                    <l rend="; 2tab">En weerliefd' u sal toon.</l>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l rend="; 1tab">Adieu mijn Vlock! ick gae door <hi rend="i">Veneris
+                        </hi>bevel:</l>
+                    <l>De liefde van <hi rend="i">OEnoon </hi>ick uyt mijn sinnen stel.</l>
+                    <l rend="; 2tab">En wissel nu mijn eerste min<hi rend="i"/></l>
+                    <l rend="; 2tab">Aen Grieckens schoone Koningin:</l>
+                    <l rend="; 2tab">De Herders Staf, en Boere Stock:</l>
+                    <l rend="; 2tab">De Schaepjes, en 't ghewolde Vlock</l>
+                    <l rend="; 2tab">Dat ruyl ick nu voor <hi rend="i">Venus </hi>raet</l>
+                    <l rend="; 2tab">Aen Wapens, Swaert, en Hoofsche staet.</l>
+                </lg>
+                <stage><hi rend="i">Binnen.</hi></stage>
+            </div>
+            </div>
+            <div type="act">
+                <div type="scene">
+                <head rend="h3"><hi rend="i">Derde Deel. Eerste uytkomste.</hi></head>
+
+                <lg type="poem">
+                    <l rend="speaker"><hi rend="i">OEnone.</hi></l>
+                    <l rend="; 2tab"><hi rend="b"><hi rend="i">W</hi></hi>Aer of mijn Herder is</l>
+                    <l rend="; 2tab">Die 'k veel te langhe mis,</l>
+                    <l rend="; 2tab">Van dat <hi rend="i">Auroraes </hi>zalen</l>
+                    <l rend="; 2tab">Vertoochden hunne glants</l>
+                    <l rend="; 2tab">En <hi rend="i">Titan </hi>al bykants</l>
+                    <l rend="; 2tab">Begon op 't Veldt te stralen.</l>
+                    <l rend="; 3tab">Doen heb ick hem sijn Vlock</l>
+                    <l rend="; 2tab">Noch singhend' met sijn stock</l>
+                    <l rend="; 2tab">Ten Boswaert in sijn drijven,</l>
+                    <l rend="; 2tab">En nu den avondt valt</l>
+                    <l rend="; 2tab">En 't Vee moet zijn ghestalt:</l>
+                    <l rend="; 2tab">Waer op hy nu moet blijven?</l>
+
+                    <pb ed="fol." n="B3v"/>
+                    <l rend="; 3tab">Ay my: ick ben soo bangh,</l>
+                    <l rend="; 2tab">Want ick heb over langh</l>
+                    <l rend="; 2tab">Ghesocht aen geene Linden,</l>
+                    <l rend="; 2tab">By <hi rend="i">X'antus </hi>daer ontrent,</l>
+                    <l rend="; 2tab">En waer ick was ghewent,</l>
+                    <l rend="; 2tab">Mijn <hi rend="i">Paris </hi>meest te vinden.</l>
+                    <l rend="; 3tab">Sult ghy dees langhe nacht</l>
+                    <l rend="; 2tab">Mijn laten noch vol klacht?</l>
+                    <l rend="; 2tab">O trouste van de <hi rend="i">Phrigen:</hi></l>
+                    <l rend="; 2tab">Sal ick voor trouheyts loon</l>
+                    <l rend="; 2tab">Een yders smaet en hoon</l>
+                    <l rend="; 2tab">Om u ten deele krijghen?</l>
+                    <l rend="; 3tab">Helaes! soo wenschten ick</l>
+                    <l rend="; 2tab">Dat in dees ooghenblick</l>
+                    <l rend="; 2tab">Mijn Zieltjen van der aerden</l>
+                    <l rend="; 2tab">Gheruckt werdt in de Hel,</l>
+                    <l rend="; 2tab">Om na de Eunjers fel,</l>
+                    <l rend="; 2tab">De reyse te aenvaerden.</l>
+                    <l rend="; 3tab">Dan laes! ten helpt my niet</l>
+                    <l rend="; 2tab">Te klaghen mijn verdriet</l>
+                    <l rend="; 2tab">Aen dese stomme Bomen:</l>
+                    <l rend="; 2tab">Mijn dunckt ick door de blaen</l>
+                    <l rend="; 2tab">Sie gints een Herder staen,</l>
+                    <l rend="; 2tab">En herwaerts tot my komen.</l>
+                    <l rend="speaker"><hi rend="i">Menand.</hi></l>
+                    <l rend="; 1tab">Ick heb van veer in 't Bosch u klachten aenghehoort:</l>
+                    <l>O Nimphe! <hi rend="i">Paris </hi>is verslonden noch vermoort</l>
+                    <l>Van eenich onghediert; maer doen hy lach en rusten</l>
+                    <l>In 't schaduw van sijn hol, te sluymeren hem lusten.</l>
+                    <l>Siet ginder in de blaen verschijnen een Goddin,</l>
+                    <l>Die soo ick na verstont, was s'Hemels Koningin.</l>
+                    <l>Verselt met andere twee: de eene die de stranden</l>
+                    <l>Van <hi rend="i">Cyprus </hi>heyligh zijn, alwaerse quam te landen:</l>
+                    <l>Die <hi rend="i">Venus </hi>wert ghenoemt: de ander was de Maecht,</l>
+                    <l>Wiens wijse Hooft een Helm met langhe pluymen draecht.</l>
+                    <l>Sy voert een Schilt en Lance, als waer het de Princesse,</l>
+                    <l>Die op den <hi rend="i">Helicon </hi>als tiende komt te lesse.</l>
+                    <l rend="speaker"><hi rend="i">OEnone.</hi></l>
+                    <l rend="; 1tab">O Goon! wats dit geweest.</l>
+                    <l rend="speaker"><hi rend="i">Mena.</hi></l>
+                    <l><hi rend="i">Mercuur </hi>die wasser by,</l>
+                    <l>En trock de eene soo een weynigh aen een sy,</l>
+                    <l>Om oft haer wille was u Minnaer op te wecken,</l>
+                    <l>Dat soo sijn Vonnis haer een oordeel mocht verstrecken</l>
+                    <l>Wie dat de schoonste was.</l>
+                    <l rend="speaker"><hi rend="i">OEno.</hi></l>
+                    <l>Ja watten sotten daet</l>
+                    <l>Is dit Goddinnen werck die ons te boven gaet,</l>
+                    <l>In wijsheyt van verstant. Hoe gingh het voort <hi rend="i">Menander</hi></l>
+                    <l>Met mijne <hi rend="i">Paris </hi>doch?</l>
+                    <l rend="speaker"><hi rend="i">Mena.</hi></l>
+                    <l>Sy boerten met malkander.</l>
+                    <l><hi rend="i">Mercuur </hi>hem weckten voort, en gaf hem te verstaen,</l>
+                    <l>Waerom het Goddelijck volck betradt de aertsche paen?</l>
+
+                    <pb ed="fol." n="B4r"/>
+                    <l>Dit sach ick aen van veer: u Herder die verschrickten:</l>
+                    <l>Dies sijn vreesachtigh oogh te met op haer eens flickte.</l>
+                    <l>Des Hemels Koningin, beloofden hem de Schat</l>
+                    <l>Die 't tweede werelts deel in sijn ghewelt om-vat.</l>
+                    <l>De wijse <hi rend="i">Pallas, </hi>dat hem yder een sou loven,</l>
+                    <l>En dat hy in verstandt sou verre gaen te boven</l>
+                    <l>De kloeckste van de aerd. Doch <hi rend="i">Venus </hi>die door min</l>
+                    <l>Betovert ons ghemoedt, belooft hem een Goddin,</l>
+                    <l>In schoonheyt soo volmaeckt, en lieffelijck van wesen,</l>
+                    <l>Dat sy haer beeltenis in als ghelijck sou wesen.</l>
+                    <l rend="speaker"><hi rend="i">OEnone.</hi></l>
+                    <l rend="; 1tab">O Goon! hoe 'k my verschrick. Vervolgh hoe gingh het doe?</l>
+                    <l rend="speaker"><hi rend="i">Menand.</hi></l>
+                    <l>Hy wees de schoon Goddin van <hi rend="i">Cyprus </hi>d'eere toe.</l>
+                    <l rend="speaker"><hi rend="i">OEnone.</hi></l>
+                    <l rend="; 1tab">O groote sotterny! waer is hy voorts ghebleven?</l>
+                    <l rend="speaker"><hi rend="i">Menand.</hi></l>
+                    <l rend="; 1tab">Na dien hy <hi rend="i">Venus </hi>hadt het gulden Fruyt
+                        ghegheven,</l>
+                    <l>Was <hi rend="i">Iuno </hi>heel ghestoort, en swoer der <hi rend="i">Phrigen
+                        </hi>val:</l>
+                    <l>En vloot met <hi rend="i">Pallas </hi>voorts uyt <hi rend="i">Idas
+                        </hi>rijcke dal.</l>
+                    <l rend="speaker"><hi rend="i">OEnone.</hi></l>
+                    <l rend="; 1tab">En bleeffer <hi rend="i">Venus </hi>by?</l>
+                    <l rend="speaker"><hi rend="i">Mena.</hi></l>
+                    <l>Och ja.</l>
+                    <l rend="speaker"><hi rend="i">OEno.</hi></l>
+                    <l>Sal een Goddin</l>
+                    <l>Beroven van haer Lief een arme Herderin:</l>
+                    <l>Sult ghy geyle <hi rend="i">Cypres </hi>ontblooten van haer trouwe</l>
+                    <l>Een kuysche Velt-Goddin? Ha! overspeel'ge Vrouwe.</l>
+                    <l rend="speaker"><hi rend="i">Menand.</hi></l>
+                    <l rend="; 1tab">Doch 't meeste noch van al, o <hi rend="i">OEnoon! </hi>hoor na
+                        mijn:</l>
+                    <l>Was dats hem Koninghs Soon van <hi rend="i">Troyen </hi>sey te zijn.</l>
+                    <l>Voorts heeft s'hem doe belooft: ghy hebt wel hooren noemen</l>
+                    <l>De Dochter van <hi rend="i">Iupijn, </hi>die de <hi rend="i">Spartannen
+                        </hi>roemen</l>
+                    <l>De schoonste Vrouw te zijn van het <hi rend="i">Argenisch </hi>strant:</l>
+                    <l>En oock de Koningin van 't gantsche <hi rend="i">Griecken </hi>Landt</l>
+                    <l>Te gheven tot sijn Bruyt, en gingh hem voorts gheleyen,</l>
+                    <l>Gints door het Eycken bosch. Ick quam sijn Kudde weyen,</l>
+                    <l>Die hy verlaten had.</l>
+                    <l rend="speaker"><hi rend="i">OEno.</hi></l>
+                    <l>Hoe <hi rend="i">Iupijn! </hi>lijdt ghy dit</l>
+                    <l>Die 't schijnt, dat daer om hoogh ghelijck als Rechter sit?</l>
+                    <l>Sal ick om dese twist mijn liefde moeten derven?</l>
+                    <l>Soo wensch ick dat ghy my laet op dees plaetse sterven.</l>
+                    <l>Sal dit het eynde zijn onluckigh Herders Kint,</l>
+                    <l>Dat ghy u <hi rend="i">Paris </hi>staegh soo trouwelijck hebt ghemint?</l>
+                    <l>Soo sal het stomme Lof, 't gheen <hi rend="i">Zephirus </hi>doet ruysen</l>
+                    <l>Hier in dees Wildernis: 't Zee-water 't gheen komt bruysen</l>
+                    <l>Al morrende op 't strandt: uyt bulderen het leet</l>
+                    <l>'t Geen ghy ontrouw Minnaer, aen u <hi rend="i">OEnone </hi>deet:</l>
+                    <l>En maecken u bekendt al u lichtvaerdigheden:</l>
+                    <l>Al u beloften snoot, en al u valsche Eeden</l>
+                    <l>Die ghy ghesworen hebt, dat eerder <hi rend="i">X'antus </hi>vliet</l>
+                    <l>Sou stromen rugghe-waert voor dat ghy my verliet.</l>
+                    <l>Keert! keert! o stromen keert! hy heeft my al begheven,</l>
+                    <l>Dies my ellendighe verdriet voortaen te leven:</l>
+                    <l>En ghy o Eycken boom! wast op met het gheschrift,</l>
+                    <l>'t Geen <hi rend="i">Paris </hi>met sijn hand heeft in u schors ghegrift,</l>
+
+                    <pb ed="fol." n="B4v"/>
+                    <l>Tot teyckens van sijn trou.</l>
+                    <l rend="speaker"><hi rend="i">Mena.</hi></l>
+                    <l>Bedroefde Herderinne</l>
+                    <l>My deert u ongheluck en snoo gheloonde Minne.</l>
+                    <l>Doch wijl de Goden zijn de oorsaeck van u druck,</l>
+                    <l>Soo matight u ghemoedt in dit u ongheluck.</l>
+                    <l>Me Vrou! mijn tijdt ghenaeckt: want <hi rend="i">Phoebus </hi>is
+                        ghescheyden</l>
+                    <l>Van onsen Horisont. Geliefd u, 'k u gheleyde?</l>
+                    <l rend="speaker"><hi rend="i">OEnone.</hi></l>
+                    <l rend="; 1tab">Neen, neen, <hi rend="i">Menander </hi>neen! laet my in
+                        eenigheydt</l>
+                    <l>Verteeren 't leet, het gheen my op het herte leydt.</l>
+                    <l rend="speaker"><hi rend="i">Menand.</hi></l>
+                    <l rend="; 1tab">De Goon vertroosten u.</l>
+                    <l rend="speaker"><hi rend="i">OEno.</hi></l>
+                    <l>Geen troost ick meer behoeve</l>
+                    <l>Maer wensche staech te zijn in 't selschap van de droeve:</l>
+                    <l>By <hi rend="i">Cocotus </hi>Revier, en dat my nimmermeer</l>
+                    <l><hi rend="i">Hecatus </hi>heldere licht op aerd sou lichten weer:</l>
+                    <l>Of dat ick mocht in 't Wout by 't onghedierte schuylen,</l>
+                    <l>En Huysvest vinden in haer eensaem nare kuylen.</l>
+                    <l>Soo sou ick daer niet meer ghedencken aen de smert,</l>
+                    <l>Die de vervloeckte Hoer my lijden doet in 't hert.</l>
+                    <l>Maer gaet! o <hi rend="i">Paris </hi>gaet! indien de aert der Knapen</l>
+                    <l>Van Griecken is bekent, sy sullen met de Wapen</l>
+                    <l>V ontrou wreecken haest, indien <hi rend="i">Ulisses </hi>gheest</l>
+                    <l>Oyt tot <hi rend="i">d'Atriden </hi>heyl voorsichtigh is gheweest:</l>
+                    <l>Soo sal sijn kloeck beleyt: Sijt ghy dan <hi rend="i">Priamus </hi>Sone,</l>
+                    <l>De sielen rucken wegh van sijn vergulde Throone.</l>
+                    <l>Ick sie alree de wraeck van u onkuys bedrijf,</l>
+                    <l>Wijl ick verlaten Nimph van herten eerlijck blijf:</l>
+                    <l>Dies sal ick nu voortaen niet meer ten dans verschijnen;</l>
+                    <l>Maer van een yder schuw in eenigheden quijnen.</l>
+                    <l>Myn stem en sal niet meer soo queelen alsse plach;</l>
+                    <l>Maer doen het naere Bosch na bootschen myn gheklach:</l>
+                    <l>En als ick waer op strand soo sullen d'harde Rotsen,</l>
+                    <l>Tot aen de Griecxsche kust, myn nare stem na bootschen.</l>
+                    <l>Of ghy dan waert op Zee, verschrickt niet o <hi rend="i">Troyaen!</hi></l>
+                    <l>Maer laet u drifte kiel sijn rechte gangen gaen.</l>
+                    <l>Laet niet de stem eens Nimphs, die ghy wel eer beminde,</l>
+                    <l>V hert beweghen nu: (o dwaselijck ontsinde:)</l>
+                    <l>Heb ick u niet ghemint doen ghy een slave waert,</l>
+                    <l>Een arme Vondelingh, dat niemant op de aerd</l>
+                    <l>Verachter scheen als ghy! En nu ghe schijnt tot staten</l>
+                    <l>Te komen door 't gheluck: nu hebt ghy my verlaten.</l>
+                    <l>Mijn klachten zyn vergheefs, van d'eens ghepleeghde min,</l>
+                    <l>Die men alleenlijck weerstaen moet in het begin.</l>
+                    <l>'k Sal hopen op ontset van myn bedroefde quelle,</l>
+                    <l>En dat myn <hi rend="i">Paris </hi>myn noch weder sal verselle.</l>
+                    <l>Ach! <hi rend="i">Paris, Paris, </hi>ach! myn <hi rend="i">Paris </hi>keer
+                        weerom,</l>
+                    <l>Om-helst u <hi rend="i">OEnoon </hi>doch; myn Herder kom! ey kom</l>
+                    <l>Verselt u Herderin, ghelijck ghy pleeght voor dese,</l>
+                    <l>O vrughteloose hoop vermeestert vande vreese:</l>
+
+                    <pb ed="fol." n="C1r"/>
+                    <l>O vrees, benaude vrees! de vreese mijn voorseydt,</l>
+                    <l>Dat hoop op <hi rend="i">Paris </hi>min met my is ydelheydt.</l>
+                    <l rend="; 3tab">Mijn hertje leydt beknelt,</l>
+                    <l rend="; 2tab">In bracke traentjes smelt</l>
+                    <l rend="; 2tab">Mijn Zieltjen; ach myn leve</l>
+                    <l rend="; 2tab">Verflaeut, en swackt in myn:</l>
+                    <l rend="; 2tab">Ach! <hi rend="i">Paris, </hi>hoe kent zyn</l>
+                    <l rend="; 2tab">Dat ghy my mooght begheven?</l>
+                    <l rend="; 3tab">Heeft min gheen meerder kracht</l>
+                    <l rend="; 2tab">Noch Liefde gheen meer macht</l>
+                    <l rend="; 2tab">Dat ghy (om werelts staten)</l>
+                    <l rend="; 2tab">Verwisselt eerste Min,</l>
+                    <l rend="; 2tab">En gaet u Herderin</l>
+                    <l rend="; 2tab">Om werelts eer verlaten?</l>
+                    <l rend="; 3tab">Verlaten? o bedroch</l>
+                    <l rend="; 2tab">O staet-sucht leeft ghy noch?</l>
+                    <l rend="; 2tab">Heerst ghy in <hi rend="i">Paris </hi>herte,</l>
+                    <l rend="; 2tab">Ha <hi rend="i">Paris! </hi>hoe bedroeft</l>
+                    <l rend="; 2tab">Dat <hi rend="i">OEnoon </hi>nu beproeft</l>
+                    <l rend="; 2tab">V valsheyt; tuyght myn smerte.</l>
+                    <l rend="; 3tab">O Maeghden; het verdriet</l>
+                    <l rend="; 2tab">Dat ghy in <hi rend="i">OEnoon </hi>siet</l>
+                    <l rend="; 2tab">Bevintmen alle daghe,</l>
+                    <l rend="; 2tab">De Min past op gheen Eedt</l>
+                    <l rend="; 2tab">Wanneerse rijcker weet,</l>
+                    <l rend="; 2tab">Het gheen ick moet beklaghe.</l>
+                </lg>
+                <stage><hi rend="i">Binnen.</hi></stage>
+            </div>
+            </div>
+            <div type="act">
+                <div type="scene">
+                <head rend="h3"><hi rend="i">Vierde Deel. Eerste uytkomste.</hi></head>
+                <stage><hi rend="i">Paris.</hi></stage>
+
+                <lg type="poem">
+                    <l><hi rend="i">O Phoebe </hi>die op aerd het sienelijck door-siet,</l>
+                    <l>Voor wiens vergoden licht men kan verbergen niet,</l>
+                    <l>Begunstigt heden my dat 'k voor <hi rend="i">Priamus </hi>Throone</l>
+                    <l>Doe blijcken dat ick ben sijn langh ghemiste Sone:</l>
+                    <l>En ghy, o <hi rend="i">Cyterée! </hi>die <hi rend="i">Cyprus </hi>heyligh
+                        is,</l>
+                    <l>Dien ick den Appel gaf in <hi rend="i">Idas </hi>Wildernis,</l>
+                    <l>Voert heden in my uyt, het gheen ghy my beloofde</l>
+                    <l>In <hi rend="i">Ida </hi>doe 'k myn Lief van hare Min beroofde.</l>
+                    <l>Hier is het prachtigh Hof: my dunckt ick hoor gheluyt</l>
+                    <l>Van 't Konincklijck Trompet, daer treckt den Adel uyt.</l>
+                    <stage><hi rend="i">Priamus met eenighe Adel uyt.</hi></stage>
+                    <l rend="speaker"><hi rend="i">Edelen.</hi></l>
+                    <l rend="; 1tab">Wat maeckt ghy Herder hier doch in de Konincks Hoven?</l>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l>Een die misschien in staet u verre gaet te boven:</l>
+
+                    <pb ed="fol." n="C1v"/>
+                    <l>Hoe wel in dese kleen.</l>
+                    <l rend="speaker"><hi rend="i">Pria.</hi></l>
+                    <l>Met wien is dat ghy spreeckt?</l>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l rend="; 1tab">Verschoont Heer aen u slaef, dat hy u reden breeckt.</l>
+                    <l>Van mijne kintsheyt ick in 't Bosch van <hi rend="i">Ida </hi>woonden</l>
+                    <l>Onder u Herders; doch 't schijnt de nature toonden</l>
+                    <l>Mijn nimmer soo veel gunst dat ick oyt wist op aerd</l>
+                    <l>Wie dat mijn Vader was, of wie mijn had ghebaerd:</l>
+                    <l>Ick ben als Vondelingh in <hi rend="i">Idaes </hi>Wout ghevonden:</l>
+                    <l>De Goon behoeden my dat ick niet werd' verslonden</l>
+                    <l>Van 't woedende ghediert; wanneer ick krijtent lach</l>
+                    <l>Onder een Willighen boom. Een Landt-man my eerst sach:</l>
+                    <l>Die heeft my op ghevoedt, om met hem 't Landt te bouwen,</l>
+                    <l>En heeft my naderhandt ghelijck syn Soon ghehouwen:</l>
+                    <l>Hoe wel ick dickmaels hoede syn ghevlockte Vee:</l>
+                    <l>'t Gheviel als <hi rend="i">Phoebus </hi>eens sijn Koetse klimmen dee</l>
+                    <l>Nae 't teecken van de Stier, en ick ontfingh syn branden,</l>
+                    <l>Dat my der Goden Godt al sluymrend' quam aen randen:</l>
+                    <l>Verselt met die Goddin, die door haer soete macht</l>
+                    <l>Voor ondergangh bewaert het sterflijcke geslacht:</l>
+                    <l>En om dat ick haer schoon voor anderen had ghepresen,</l>
+                    <l>Heeft sy my sint die tijdt oock hare gunst bewesen,</l>
+                    <l>En swoer my in het Bosch, o Koninck groot van macht!</l>
+                    <l>Dat <hi rend="i">Hecube </hi>u Vrou my eerst ter werelt bracht,</l>
+                    <l>En ben nu dus veracht.</l>
+                    <l rend="speaker"><hi rend="i">Pria.</hi></l>
+                    <l>Ick voel myn hert ghetuygen</l>
+                    <l>Dat ick mijn Sone sie hier voor my neder buyghen.</l>
+                    <l>Hebt ghy tot dese tijdt in <hi rend="i">Ida </hi>dan ghewoont?</l>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l rend="; 1tab">Ick heb myn trouheyt vaeck aen 't Konincks Vee betoont.</l>
+                    <l>Want als een Stier of Wolf de selve quam aen randen,</l>
+                    <l>Ontworstelden den roof, ick uyt haer felle tanden.</l>
+                    <l rend="speaker"><hi rend="i">Priamus.</hi></l>
+                    <l rend="; 1tab">Rijst vander aerden op ellendigh Koninghs kindt:</l>
+                    <l>Ghedoemt by menschen raet; doch van de Goon bemindt:</l>
+                    <l>Wiens schickingh u behoed heeft voor een droef verscheyden,</l>
+                    <l>'k Sal u in uwe kleen nae het Palleys gheleyden</l>
+                    <l>Van mijne Koningin die u vaeck heeft betreurt:</l>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l rend="; 1tab">Danck <hi rend="i">Venus </hi>voor de gunst die heden my
+                        gebeurt.</l>
+                </lg>
+                <stage><hi rend="i">Alle binnen.</hi></stage>
+            </div>
+            <div type="scene">
+                <head rend="h3"><hi rend="i">Vierde Deel. Tweede uytkomste.</hi></head>
+                <stage><hi rend="i">Senicus.</hi></stage>
+
+                <lg type="poem">
+                    <l rend="; 1tab">'t Hof is vol blyschap en over al in roer.</l>
+                    <l>Knechts, Hof-jonckers, Kocx, Krauwels, ja de droes met syn moer.</l>
+                    <l>'t Gater op een loopen, op een draven, achter en veur:</l>
+                    <l>Die quangt die flus een Schaep-Herder was, is nou een Monseur.</l>
+                    <l>Ja dat meer is: sy segghen dat het mijn Heerschops eygen seun</l>
+                    <l>Wat segjer toe die daer achter staet en gluert, segh Theunis?</l>
+
+                    <pb ed="fol." n="C2r"/>
+                    <l>Men doeter niet als huppelen, danssen en springhen:</l>
+                    <l>Ja men Juffrou is so blijt, se danst schier op haer koud-voetelinge<hi
+                            rend="i">n</hi>,</l>
+                    <l>Daer het wel eer was niet dan steunen en grennen,</l>
+                    <l>In huylen datse nockten als de als de broetsche hennen:</l>
+                    <l>En al om dese Soon diese dus langh had e mist,</l>
+                    <l>Ick wodder oock wel een oortjen om gheven dat ick mijn toekomend aventuur
+                        wist.</l>
+                    <l>Maer wat vraegh icker oock na, offet dus of soo // is?</l>
+                    <l>Elekaarten hoe word ick daer ebeten, of dat een luys of een vlo // is?</l>
+                    <l>Ja veughel dat voetsel is jou al benomen,</l>
+                    <l>Soo as jou dat bekomt, meuchje op een aer tijdt weer komen:</l>
+                    <l>'k Mach nu niet veel porrens veelen, verstaje dat,</l>
+                    <l>Want ick mienter haest in te gieten of myn buyck een trechter was, en myn
+                        keel een halfvat.</l>
+                    <l>Ick hout met stee houwen en met volle kitten,</l>
+                    <l>Daer de laeghnoots een heele dach om op de banck sitten</l>
+                    <l>En lellen en termen ien praetjen dat niet veel om 't lijf // heeft:</l>
+                    <l>Maer asse dan t'huys kome<hi rend="i">n</hi>; hoe wel is hyer an die geen
+                        quaet wijf // heeft.</l>
+                    <l>Want de meysjes bennen spijtich, en ick weer so spijtich as sy,</l>
+                    <l>Daerom ben icker alsoo lief of alsser by:</l>
+                    <l>En als icker niet by kom, soo zyn we goet te scheyen:</l>
+                    <l>Noch soo hoef ick niet te dencken datse me sellen verleyen</l>
+                    <l>Ghelijck het dickwils beurt, die veel met haer verkeert:</l>
+                    <l>Neen, ick slacht de wint Honden, ick ben op die grepen al eleert.</l>
+                    <l>Ick speel smeer schoenen als ickse sie, en ofse me wat schelden,</l>
+                    <l>Soo denck ick ja, ja, praetje wat! wijse luy steuren hen selden.</l>
+                    <l>Maer daer wat te smeeren is daer ben ick garen by,</l>
+                    <l>En ick kander myn lijf nae voeghen nae de slempery.</l>
+                    <l>Daerom heb ick me dus toe emaeckt, wangt men salder smeeren,</l>
+                    <l>En oock om dat ick mee wat lijcken sou onder al de groote Heeren.</l>
+                    <l>O die hem selver niet acht, niemant sal van hem houwen.</l>
+                    <l>Kijckt ben ick niet verweent met dese nieuwe mouwen?</l>
+                    <l>Die sinneme lest e schoncken van de Koningin me Vrou,</l>
+                    <l>Om dat ick laest een reys in 't Hoender-kot kruypen sou</l>
+                    <l>In krayen as een Haen; o dat was haest beschickt,</l>
+                    <l>Ick had noch wel op den hoop in ien moye door epickt.</l>
+                    <l>Se hadme doe gheweldigh ehad naese mienden:</l>
+                    <l>Maer ick wist waerom icket dee, en wat icker me verdienden.</l>
+                    <l>Ick steur me daer niet aen of de luy wat seggen en de honde<hi rend="i"
+                            >n</hi> blaffen,</l>
+                    <l>Ick mach na binnen gaen, de Kock die wil haest schaffen.</l>
+                </lg>
+                <stage><hi rend="i">Binnen.</hi></stage>
+            </div>
+            <div type="scene">
+                <head rend="h3"><hi rend="i">Derde uytkomste. Van het vierde Deel.</hi></head>
+                <stage><hi rend="i">Paris Heerlijck ghekleedt met sijn Dienaer.</hi></stage>
+
+                <lg type="poem">
+                    <l><hi rend="i">N</hi>Oyt was hy recht verheucht die nimmer was bedroeft,</l>
+                    <l>Noch hy verdient het soet, die noyt en heeft beproeft</l>
+
+                    <pb ed="fol." n="C2v"/>
+                    <l>De geessel van 't gheval: voor dat ick als vergeten,</l>
+                    <l>Wel eer by 't vlocke Vee, in <hi rend="i">Ida </hi>heb gheseten,</l>
+                    <l>Werd' ick ghewelkomt van een yder voor de Soon</l>
+                    <l>Van hem diens grijse hayr ghedruckt wert voor de Kroon</l>
+                    <l>Van <hi rend="i">Laomedons </hi>Rijck: ghy zijt het o <hi rend="i"
+                            >Cypresse</hi></l>
+                    <l>Die 't my te kennen gaf: nu sal ick mijn Godesse</l>
+                    <l>Gaen soecken met u hulp. De kielen zijn ghereed',</l>
+                    <l>Die mijn Heer Vader selfs, voor my toe rusten deed':</l>
+                    <l>Ick heb ree aen het strant ghesien de sijde wimp'len</l>
+                    <l>Ter strenghen weyen af. De witte zeylen rimp'len,</l>
+                    <l>'t Ghetaeckelt door malkaer al klaeterende raest.</l>
+                    <l>De strant is vol ghewoel, een yder is verbaest</l>
+                    <l>Om dat sy sien soo veel van <hi rend="i">Priami </hi>Galeyen</l>
+                    <l>Ter Haven trecken uyt, en tot de reys bereyen:</l>
+                    <l>Mijn Broeder <hi rend="i">Hector </hi>selfs uyt de voornaemste Bend</l>
+                    <l>Het beste Krijghs-volck licht, en na de Schepen send.</l>
+                    <l>Op morghen is de tijdt bestemt van mijn vertrecken;</l>
+                    <l>Wilt dan aen 't Firmament voor een ley-Star verstrecken</l>
+                    <l>Gunstighe <hi rend="i">Cypria </hi>verschijn mee aen de Rey</l>
+                    <l>Der lichjes, dien <hi rend="i">Diaen </hi>by nachte doen gheley,</l>
+                    <l>Op dat mijn driffe kiel niet in de holle vloeden</l>
+                    <l>Van 't schubbige ghediert versincke door het woeden.</l>
+                    <l><hi rend="i">AEolus </hi>die de Zee vaeck soo onstuymigh maeckt</l>
+                    <l>Dat 't siedent bracke schuym tot aen de Wolcken raeckt.</l>
+                    <l>V gunste die my heeft tot dese staet ghedreven</l>
+                    <l>Sal my in het ghewelt des waters niet begheven.</l>
+                    <l>Dies ben ick wel gherust. Den Adel my verwacht</l>
+                    <l>Om vrolijck met hun Prins te wesen dese nacht.</l>
+                </lg>
+                <stage><hi rend="i">Binnen.</hi></stage>
+            </div>
+            </div>
+            <div type="act">
+                <div type="scene">
+                <head rend="h3"><hi rend="i">Vijfde Deel. Eerste uytkomste.</hi></head>
+                <stage><hi rend="i">Cupido spreeckende uyt de Wolcken die sacht in 't neder dalen
+                        zyn.</hi></stage>
+
+                <lg type="poem">
+                    <l rend="; 2tab"><hi rend="i">H</hi>Et soet gheselschap van mijn Throon,</l>
+                    <l rend="; 2tab">En 't vrolijck rijcke van de Goon</l>
+                    <l rend="; 2tab">Verlaet ick heden door 't ghebiet</l>
+                    <l rend="; 2tab">Mijns Moeders die my dalen hiet</l>
+                    <l rend="; 2tab">Hier aen de soete <hi rend="i">Griecksche </hi>strant,</l>
+                    <l rend="; 2tab">Om met myn schichjes heeten brandt</l>
+                    <l rend="; 2tab">Te treffen 't herte van <hi rend="i">Heleen,</hi></l>
+                    <l rend="; 2tab">Met <hi rend="i">Paris </hi>minne die de Ze'en</l>
+                    <l rend="; 2tab">Noch met syn swang're Kielen kruyst,</l>
+                    <l rend="; 2tab">En door het holle water bruyst,</l>
+
+                    <pb ed="fol." n="C3r"/>
+                    <l rend="; 2tab">Om <hi rend="i">Ledaes </hi>blancke Pluym gheteelt</l>
+                    <l rend="; 2tab">Die stadich in syn herte speelt.</l>
+                    <l rend="; 2tab">Terwijl <hi rend="i">d'Ideesche </hi>Nimphs gheklagh</l>
+                    <l rend="; 2tab">De hooghe Rotsen dagh aen dagh</l>
+                    <l rend="; 2tab">Doet wedergalmen: haer verdriet</l>
+                    <l rend="; 2tab">Om d'ontrou, van haer Lief gheschiet.</l>
+                    <l rend="; 2tab">O Nimphe! 'k siet op d'aerd soo gaen</l>
+                    <l rend="; 2tab">Als liever komt, moet leyder gaen:</l>
+                    <l rend="; 2tab">Men vind nou trouwe Liefde meer;</l>
+                    <l rend="; 2tab">Maer liefde tot de rijckdom eer.</l>
+                    <l rend="; 2tab">De Minnaer die syn sinnen set</l>
+                    <l rend="; 2tab">Op lagher, wertet haest belet,</l>
+                    <l rend="; 2tab">Indien een Dochter trouw'lijck keurt</l>
+                    <l rend="; 2tab">In staet een minder, 't vaeck betreurt:</l>
+                    <l rend="; 2tab">Want d'Ouders sien meer nae het goedt</l>
+                    <l rend="; 2tab">Als na de gaven van 't ghemoedt.</l>
+                    <l rend="; 2tab">Hier door wort vaeck de Min een Hel,</l>
+                    <l rend="; 2tab">En eyndeloose hertens quel.</l>
+                    <l rend="; 2tab">Daer trouwe Liefd op deughden siet,</l>
+                    <l rend="; 2tab">En Minnens schijn goedt heftigh vliet.</l>
+                    <l rend="; 2tab">De Dochter <hi rend="i">Catoos </hi>wat bedaeght,</l>
+                    <l rend="; 2tab">(Een Weduw zijnde) wert ghevraeght</l>
+                    <l rend="; 2tab">Waerom sy niet hertrouden,</l>
+                    <l rend="; 2tab">Of d'eerste Liefd' haer rouden?</l>
+                    <l rend="; 2tab">Antwoorden wijsselijck, 't is mits ick niemand vind</l>
+                    <l rend="; 2tab">Die meerder myn persoon, als myne schatten mind.</l>
+                    <l rend="; 2tab">'t Is recht gheseyt; doch dese tijdt</l>
+                    <l rend="; 2tab">Gantsch op een ander wyse vrijdt.</l>
+                    <l rend="; 2tab">Men siet nu na gheen kloecke geest:</l>
+                    <l rend="; 2tab">Maer na de ronde kloeckheydt meest.</l>
+                    <l rend="; 2tab">Die liefde men eerst, daer na die gheen</l>
+                    <l rend="; 2tab">Met wien men gaet in d'Echte treen.</l>
+                    <l rend="; 2tab">Hoe wel men noch wel yemant vindt</l>
+                    <l rend="; 2tab">Die uyt oprechte liefde mindt:</l>
+                    <l rend="; 2tab">Doch weynigh: want het tijd'lijck goedt</l>
+                    <l rend="; 2tab">Het meest is dat de Liefde voedt.</l>
+                    <l rend="; 2tab">Heel anders was de gulde Eeuw:</l>
+                    <l rend="; 2tab">Men woonde vredigh by de Leeuw,</l>
+                    <l rend="; 2tab">By Luyperden en Tygh'ren wreed,</l>
+                    <l rend="; 2tab">Wien gheene oyt de Mensch misdeed</l>
+                    <l rend="; 2tab">Door haer onnoselheydt alleen;</l>
+                    <l rend="; 2tab">Mits yder was soo wel te vreen:</l>
+                    <l rend="; 2tab">Oprechtheyt vrijd haer voor ghevaer,</l>
+                    <l rend="; 2tab">En drongh elck tot syn weder paer.</l>
+                    <l rend="; 2tab">'t Sant groef men om het nijdigh Gout:</l>
+                    <l rend="; 2tab">t'Sint heeft men Steden op ghebout.</l>
+
+                    <pb ed="fol." n="C3v"/>
+                    <l rend="; 2tab">'t Besitten was het altemael,</l>
+                    <l rend="; 2tab">Doen wiert de Eeuwe van Metael:</l>
+                    <l rend="; 2tab">d'Eenvoudicheyt die most van kant,</l>
+                    <l rend="; 2tab">De Hovaerdy nam d'overhant:</l>
+                    <l rend="; 2tab">Hier meed' soud ick vergeeten wel</l>
+                    <l rend="; 2tab">Mijn Moeders strenghelijck bevel,</l>
+                    <l rend="; 2tab">Om de Princes van Grieckens kust</l>
+                    <l rend="; 2tab">Te koocken saussen nae haer lust,</l>
+                    <l rend="; 2tab">Ick heb mijn Pyltjes soo ghewet</l>
+                    <l rend="; 2tab">Dat sy myn 't treffen niet belet,</l>
+                    <l rend="; 2tab">Alwaert een tweede <hi rend="i">Adamandt,</hi></l>
+                    <l rend="; 2tab">Of snelder noch als <hi rend="i">Atalant,</hi></l>
+                    <l rend="; 2tab">Ja konse als een <hi rend="i">Argus </hi>sien,</l>
+                    <l rend="; 2tab">Sy sou mijn Peesen niet ontvlien,</l>
+                    <l rend="; 2tab">'k Heb <hi rend="i">Iupijn </hi>die de blixem draecht</l>
+                    <l rend="; 2tab">Wel eer oock met de Min gheplaecht,</l>
+                    <l rend="; 2tab">En dien, die <hi rend="i">Atlas </hi>synd vermoed,</l>
+                    <l rend="; 2tab">Den Hemel op sy schoud'ren loed:</l>
+                    <l rend="; 2tab">Dat hy by <hi rend="i">Lybens </hi>Coningin</l>
+                    <l rend="; 2tab">Quam handelen het draet ghesin,</l>
+                    <l rend="; 2tab"><hi rend="i">Omphales </hi>schoonheyt ley ter neer</l>
+                    <l rend="; 2tab">De force van den grooten Heer,</l>
+                    <l rend="; 2tab">Alleenich door mijn soet ghewelt</l>
+                    <l rend="; 2tab">Die Helsche monsters had ghevelt,</l>
+                    <l rend="; 2tab">En wilde stieren temmen kon</l>
+                    <l rend="; 2tab">Sat by de maechden nu en spon,</l>
+                    <l rend="; 2tab">Hoe sal dan een Goddinne teer</l>
+                    <l rend="; 2tab">Ontvlien <hi rend="i">Cupidos </hi>strengh begheer?</l>
+                    <l rend="; 2tab">Hoe sal de Dochter van <hi rend="i">Iupijn</hi></l>
+                    <l rend="; 2tab">Dan voor mijn schichten veylich syn?</l>
+                    <l rend="; 2tab">Die nimmer weet van teghenspoet</l>
+                    <l rend="; 2tab">Veel eer de wulpsche Minne voet,</l>
+                    <l rend="; 2tab">Als die met armoedt syn gheplaecht,</l>
+                    <l rend="; 2tab">En meer de doodt als 't leven haecht:</l>
+                    <l rend="; 2tab">De Weelde is mijn beste vriendt,</l>
+                    <l rend="; 2tab">En ledicheyt my meeste dient,</l>
+                    <l rend="; 2tab"><hi rend="i">Atride </hi>weynich is u kunt</l>
+                    <l rend="; 2tab">Het op <hi rend="i">Helena </hi>sy ghemunt.</l>
+                    <l rend="; 2tab">My dunckt ick sie het Griex Palleys,</l>
+                    <l rend="; 2tab">Waer toe ick aen nam dese reys,</l>
+                    <l rend="; 2tab">Ick gae vrymoedich 't Hoff besien,</l>
+                    <l rend="; 2tab">Wert ick bespiet soo kan ick vlien,</l>
+                    <l rend="; 2tab">Dees vleugels voeren my seer snel</l>
+                    <l rend="; 2tab">Daer 'k meen my niemant volghen sal.</l>
+                    <stage><hi rend="i">binnen.</hi></stage>
+
+                    <pb ed="fol." n="C4r"/>
+                    <stage><hi rend="i">De Gordijnen half op ghehaelt sit Helena en slaept,</hi>
+                        <lb/><hi rend="i">Cupido komt aen d'ander syde uyt.</hi></stage>
+                    <l rend="; 2tab">Sacht, sacht, <hi rend="i">Helena </hi>rust,</l>
+                    <l rend="; 2tab">Nu sal ick nae mijn lust</l>
+                    <l rend="; 2tab">Haer lieve beelt ghenaecken:</l>
+                    <l rend="; 2tab">Daer isser een ghegaen,</l>
+                    <l rend="; 2tab">Die sou my wel verraen,</l>
+                    <l rend="; 2tab">Of hae haest wacker maecken.</l>
+                    <stage><hi rend="i">binnen.</hi></stage>
+                    <stage><hi rend="i">Helena ontwaeckende staet op en spreeckt.</hi></stage>
+                    <l rend="; 1tab">Wat was ick daer vol vreucht, en nu 'k ontwaeck is 't
+                        schijn:</l>
+                    <l>Een soet herdenck my dreef van dien ick placht te syn,</l>
+                    <l>Doe noyt mijn jeuchdich bloet ontsteecken was met minne,</l>
+                    <l>Van Lacedemons Vorst, wanneer ick als Goddinne</l>
+                    <l>En als een kuysche maecht van yder wert ghe-eert:</l>
+                    <l>Dies my het tijts beloop het licht verand'ren leert,</l>
+                    <l>Waer aen ick speur te recht, hoe snel der weeldens vlieten</l>
+                    <l>Heen vloeyen tot haer endt, hoe wellust door 't ghenieten</l>
+                    <l>In 't harte onlust baert, ick stel my dan gherust,</l>
+                    <l>Vermits ick nu gheniet het gheen mijn hertje lust.</l>
+                    <l>Doch hoe men meer besit, 't is d'aerd van alle menschen,</l>
+                    <l>Hoe meer men wispelturich sal nae hoogher wenschen,</l>
+                    <l>Hoe kan ick wenschen meer te wesen <hi rend="i">Iupijns </hi>kint,</l>
+                    <l>En van een machtich Vorst op aerd te syn bemint?</l>
+                    <l>Wat let my dan helaes! ick voel door dese ad'ren</l>
+                    <l>Trecken een soete vlam: als of my weer quam nad'ren</l>
+                    <l>Het boefje van de min, <hi rend="i">Helena </hi>swyghter van,</l>
+                    <l>Want syn fenijnghe schicht u niet meer treffen kan,</l>
+                    <l>Vermits ghy syt ghetrout, is yemandt wel te vinnen</l>
+                    <l>Die ghy soud kiesen, en voor <hi rend="i">Menelaus </hi>minnen?</l>
+                    <l>Is ymandt soo gheacht, of ymandt soo ghe-eert</l>
+                    <l>Als wel de Koningh is der Griecken hoogh gheleert,</l>
+                    <l>Die ghy ghetrouwicheyt alleene syt oock schuldich?</l>
+                    <l>Wat maeckt mijn geesje dan helaes! soo onverduldich?</l>
+                    <l>Wat pranght dit teere hert, wat quellingh ist die 'k ly</l>
+                    <l>Of komt het my alleen uyt droeve fantasy,</l>
+                    <l>Die 't innerlijck ghemoet ontroeren door haer schijn?</l>
+                    <l>V Dochter bystandt doet, O opperste <hi rend="i">Iupijn!</hi></l>
+                    <l>Siet neder op haer leedt, versacht haer vrede pijne:</l>
+                    <l>Wiens heymelijck ghequel, haer leven doet verdwijne.</l>
+                    <l>Sus gints komt <hi rend="i">Menelaus.</hi></l>
+                    <l rend="speaker"><hi rend="i">Mena.</hi></l>
+                    <l>Hoe ist mijns herten wins?</l>
+                    <l rend="; 1tab">Mijn gheesje stadich speelt op u mijn waerde Prins.</l>
+                    <l>Het scheen ghy klachtich waert.</l>
+                    <l rend="speaker"><hi rend="i">Hele.</hi></l>
+                    <l>K'weet Prince van gheen klachten,</l>
+
+                    <pb ed="fol." n="C4v"/>
+                    <l>Vermits ghy syt alleen, de baeck van mijn ghedachten:</l>
+                    <l>Of schoon de tydens quel het herte vaeck beroert,</l>
+                    <l>De reden dat wel haest weer op syn plaetse voert:</l>
+                    <l>Gheen mensch leeft soo gherust, o Koninck! hier beneden,</l>
+                    <l>Of hy wert vaeck beweecht, door tijts onstuymicheden:</l>
+                    <l>Ist wonder Prince dan, die Griecken-lant regeert</l>
+                    <l>Dat door inbeeldingh wert een teere siel verheert?</l>
+                    <l rend="speaker"><hi rend="i">Menelaus.</hi></l>
+                    <l>Gheen oorsaeck schoon <hi rend="i">Helena</hi> hebt ghy om te suchten,</l>
+                    <l>Veel min voor swaricheyt of ongheval te duchten:</l>
+                    <l>Is niet mijn gantsche rijck in vaste vreed ghestelt,</l>
+                    <l>En Argos te ghelijck; wat ist dan dat u quelt?</l>
+                    <l>Syt ghy niet Coningin vande vermaerde Griecken?</l>
+                    <l>Een dochter van <hi rend="i">Iupijn, </hi>wiens schoonheyt op de wiecken</l>
+                    <l>Van 't vlieghende gherucht rontsom de aerde sweeft?</l>
+                    <l>Wat Vrou in 't laghe rijck by u te roemen heeft?</l>
+                    <l rend="speaker"><hi rend="i">Helena.</hi></l>
+                    <l>Dies danck ick d'hooghe Goon, doch waer syn sulcke wetten,</l>
+                    <l>Die het inwendich hert de fantasy beletten?</l>
+                    <l>Ick leve wel gherust, my schrickt gheen ongeval:</l>
+                    <l>Doch gheen mensch weet helaes! wat hem ghebeuren sal,</l>
+                    <l>Daerom behoortmen wel de spreucke te betrachten,</l>
+                    <l>Dat niemandt voor syn doot gheluckigh is te achten,</l>
+                    <l>Ghelijck yemandt die sweeft in 't natte rijck der Maen,</l>
+                    <l>En 't schuymend bracke drift siet op en neder gaen:</l>
+                    <l>Soo gatet oock met ons, hier in dit brosse leven,</l>
+                    <l>'t Gheen naer der Goden wil wort op en neer ghedreven.</l>
+                    <l rend="speaker"><hi rend="i">Menelaus</hi></l>
+                    <l>'t Is waer wijse Princes, doch eene die seyt wel,</l>
+                    <l>Dat s'menschen eyghen hert vaeck is syn eyghen hel;</l>
+                    <l>Want soo men dwaeslijck treurt uyt sinnelijck verkiesen,</l>
+                    <l>Soo is men oorsaeck selfs syns eygens rust verliesen:</l>
+                    <l>Hoe kan hy syn bevryt voor quellingh in syn gheest,</l>
+                    <l>Die staech voor haefs verliesingh of doots schichten vreest?</l>
+                    <l>Al waert een Prince selfs die al des werelts rijcken</l>
+                    <l>Gheschakelt had aen een, syn harte most beswijcken</l>
+                    <l>Indien het altoos wert met nieuwe sorgh ghequelt</l>
+                    <l>Dies bid ick schoon Goddin, u doch te vreden stelt,</l>
+                    <l>Verheugent in het gheen de hooghe Goden gunnen,</l>
+                    <l>Het gheense even wel doch namaels nemen kunnen.</l>
+                    <stage><hi rend="i">Page uyt.</hi></stage>
+                    <l>Wat of mijn Pagie brenght?</l>
+                    <l rend="speaker"><hi rend="i">Page.</hi></l>
+                    <l>Een Prince als Ghesant</l>
+                    <l>Van 't machtich Troyen, is hier heden aenghelant</l>
+                    <l>Met treffelijcke swyt, en Coninckse galleyen.</l>
+                    <l rend="speaker"><hi rend="i">Menelaus</hi></l>
+                    <l>Gaet dat hem <hi rend="i">Ayax </hi>selfs de wegh ten hooff bereye,</l>
+                    <l>Dat oock mijn Garde sy in wapenen ghestelt.</l>
+                    <stage><hi rend="i">Binnen.</hi></stage>
+                    <l>Misschien het <hi rend="i">Hector </hi>is, den Troyschen oorloghs Helt.</l>
+                    <l rend="speaker"><hi rend="i">Helena.</hi></l>
+                    <l>Ayme! ick ben bevreest voor veelerhande quaden,</l>
+                    <l>Dat ymandt komme hier mijn Prince te verraden.</l>
+                    <l rend="speaker"><hi rend="i">Menelaus</hi></l>
+                    <l rend="; 1tab">Neen suster van <hi rend="i">Minerva </hi>'t beurt dickmaels
+                        dat uyt lusten</l>
+
+                    <pb ed="fol." n="D1r"/>
+                    <l>Een Prince gaet besien eenigh uyt-heemsche kusten,</l>
+                    <l>Het voecht een jonghman wel te reysen eens van kant:</l>
+                    <l>Indien 't hem beuren kan, veer uyt syn Vaderlant,</l>
+                    <l>Hy vindt een ander aerd van volckeren en steden,</l>
+                    <l>Ghebouwen, eygenschap, en vele vreemdicheden.</l>
+                    <l><hi rend="i">Natura </hi>alles heeft verscheydentlijck gheteelt,</l>
+                    <l>Haer schoonheyt over al besonder uyt ghebeelt:</l>
+                    <l>Niets isser oock hoe kleyn gheschapen hier op aerd</l>
+                    <l>Of 't is verwonderingh, en oock aenmerckens waerd:</l>
+                    <l>Alleen niet inde mensch maer inde stomme dieren,</l>
+                    <l>Een Philosooph treckt nu uyt 't leven vande Mieren.</l>
+                    <l>Het sant 't gheen nutteloos: soo 't schijnt den oever deckt,</l>
+                    <l>Stut wel de woeste Zee datse niet in en breckt.</l>
+                    <l>Dit wijst een yder aen, om op sich selfs te letten:</l>
+                    <l>Een Prince dat hy houdt goe politijcke wetten,</l>
+                    <l>Om met voordachten raed te stutten het ghewelt:</l>
+                    <l>Eer alles leyt om veer, en 't klaghen niet en gelt.</l>
+                    <l>Dus leert een yder 't syn, men kan uyt al de wercken</l>
+                    <l>'t Sy Aerdts of Hemels oock veel nutticheden mercken.</l>
+                    <l>De Prince ginder komt, en <hi rend="i">Ayax </hi>aen syn sy.</l>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l rend="; 1tab"/>
+                    <l rend="; 1tab">Wt <hi rend="i">Priams </hi>naem ick groet de Opperst in
+                        vooghdy</l>
+                    <l>Van <hi rend="i">Sparten </hi>hooch beroemt, myn Vader die de vesten</l>
+                    <l>Van <hi rend="i">Dardans </hi>muren sticht, sandt my in dees ghewesten</l>
+                    <l>Om nae het out ghebruyck te hechten aen syn Kroon:</l>
+                    <l>Door trouw vrientschaps verbondt het rijck van <hi rend="i">Atry
+                        </hi>Soon,</l>
+                    <l>En wenst syn Majesteyt tot syne achter jaeren</l>
+                    <l>Gheluckelijck de Croon van <hi rend="i">Sparten </hi>mach bewaeren.</l>
+                    <l rend="speaker"><hi rend="i">Menelaus</hi></l>
+                    <l rend="; 1tab">Syn Majesteyt betoont my over groote eer,</l>
+                    <l>Dies de vergeldingh sal op my berusten weer,</l>
+                    <l>Syt welkom in myn Hoff, van u Heer Vaders weghen.</l>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l rend="; 1tab">Gints staet <hi rend="i">Helena </hi>selfs, 't is <hi rend="i"
+                            >Venus </hi>sie 'k te deghen.</l>
+                    <l rend="speaker"><hi rend="i">Menelaus</hi></l>
+                    <l>'t Gherucht hier vaecken quam van <hi rend="i">Hectors </hi>vromicheyt.</l>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l rend="; 1tab">Mijn Broeder is het van wien mijn de Koningh seyt.</l>
+                    <l rend="speaker"><hi rend="i">Menelaus</hi></l>
+                    <l>'t Moet syn een kloeck soldaet ervaren inde wapen,</l>
+                    <l>Onder een wacker Hooft mach yder veylich slapen.</l>
+                    <l rend="speaker"><hi rend="i">Paris</hi></l>
+                    <l rend="; 1tab">Mijn Heer set niet ter sy syn eyghen kloeck beleyt,</l>
+                    <l>Die als een Sonne pronckt, tot <hi rend="i">Spartens </hi>mogentheyt.</l>
+                    <l><hi rend="i">d'Atriden </hi>syn berucht in wijs bestier huns rijcken,</l>
+                    <l>Gheen Princen in <hi rend="i">Euroop </hi>of <hi rend="i">Asia </hi>te
+                        wijcken.</l>
+                    <l rend="speaker"><hi rend="i">Helena</hi></l>
+                    <l rend="; 1tab">Ick ben verwondert over syn heusheyt seer.</l>
+                    <l rend="speaker"><hi rend="i">Paris</hi></l>
+                    <l>En ick verwonder my over u schoonheyt meer.</l>
+                    <l rend="speaker"><hi rend="i">Menelaus</hi></l>
+                    <l rend="; 1tab">'t Blijckt aen syn geest dat hy is van een Edel bloet,</l>
+                    <l>'k Acht dat <hi rend="i">Priamus </hi>Soon ons dese eere doet,</l>
+                    <l>Dat hy ons Griecken wil een wijle tijts vereeren</l>
+                    <l>Met syn bywesen, eer hy weer naer huys sal keeren.</l>
+                    <l rend="speaker"><hi rend="i">Paris</hi></l>
+                    <l>Soo langhe wijse Vorst, tot dat <hi rend="i">Priams </hi>ghebiet,</l>
+
+                    <pb ed="fol." n="D1v"/>
+                    <l>Dat ick na Troyen keer.</l>
+                    <l rend="speaker"><hi rend="i">Mene.</hi></l>
+                    <l>Hebt ghy soo langh ontsiet,</l>
+                    <l>Soo moocht ghy na u lust besien de Griecksche steden,</l>
+                    <l>Ist avondt-mael ghereet, soo laet ons binnen treden.</l>
+                    <l rend="speaker"><hi rend="i">Dienaer.</hi></l>
+                    <l rend="; 1tab">'t Is alst myn Heer gelieft.</l>
+                    <l rend="speaker"><hi rend="i">Mena.</hi></l>
+                    <l>Komt Prince, want ick acht</l>
+                    <l>V leden zijn vermoeyt, en ghy na ruste tracht.</l>
+                    <stage><hi rend="i">Binnen.</hi></stage>
+                </lg>
+            </div>
+            <div type="scene">
+                <head rend="h3"><hi rend="i">Vijfde Deel. Derde uytkomste.</hi></head>
+                <stage><hi rend="i">Paris.</hi></stage>
+
+                <lg type="poem">
+                    <l><hi rend="i">I</hi>Ck sie nu hoe 'k mijn tydt onkundigh heb versleten:</l>
+                    <l>En van geen schoonheyt oyt met kennisse gheweten:</l>
+                    <l>Nu voel ick eerst te recht de krachten van de Min,</l>
+                    <l>Nu 't oogh eens heeft ghestraelt op <hi rend="i">Findari </hi>Goddin:</l>
+                    <l>Wat wesen, wat gedaent, wat voor-hooft, watte hayren;</l>
+                    <l>Noyt was ick soo ontstelt door 't woede van de baren.</l>
+                    <l>Als <hi rend="i">Thetis </hi>gantsch verstoort het gront-sop boven
+                        bracht:</l>
+                    <l>Wat doet u marren noch? o langhdurighe nacht!</l>
+                    <l>Vertreckt op dat <hi rend="i">Auroor </hi>ontschuyle de Gordijnen</l>
+                    <l>Van haer Bruydegoms Koets; soo sien ick weder schijnen</l>
+                    <l>De Sonne die myn ziel soo vinnigh heeft bestraelt,</l>
+                    <l>Wt wien mijn geesje nu sijn eenigh voetsel haelt.</l>
+                    <l>O suyv're Beeltjen schoon, volmaeckt in alle deelen,</l>
+                    <l>My dunckt ick sie u noch op de Simbale speelen.</l>
+                    <l>Luckighe <hi rend="i">Menelaus, </hi>die met haer sijt verselt;</l>
+                    <l>Ach! wat een gunstigheyt heb ick wel eer in 't velt</l>
+                    <l>Ghenooten by myn Nimph, onder de schaduw lommer,</l>
+                    <l>En nu 'k een Prince ben, nu leef ick vol bekommer,</l>
+                    <l>En trachte door verraed meyneedigh en ontrou</l>
+                    <l>Te roven een Goddin, eens Konincks echte Vrou.</l>
+                    <l>Ha minne! waer toe port ghy niet u arme slaven?</l>
+                    <l>En doet haer als verblint in veel perijckels draven?</l>
+                    <l>Dat sy noch Zee, noch Sant, noch klippen en ontsien,</l>
+                    <l>Noch quetsingh van haer eer by alle wijse lien.</l>
+                    <l>Keer ick dan weer te rugh? neen, neen; die 't soet ghenieten</l>
+                    <l>Wil, 't gheen hy heeft besint, die steur hem gheen verdrieten:</l>
+                    <l>Want soo veel Bloempjes als de soete Lenten gheeft,</l>
+                    <l>Soo vele teghenspoet de trouwe Minnaer heeft.</l>
+                    <l>Een Krijghsman die heem gheeft te velde om te strijden,</l>
+                    <l>Moet oock veel ongemacks en swarigheden lijden.</l>
+                    <l>En hoe veel verscheelt noch <hi rend="i">Bellona </hi>by de Min?</l>
+                    <l>Dat tuycht het wesen selfs mijns Hemelsche Goddin.</l>
+                    <l>Ach! waerse niet ghetrout, dit doet my meest verschricken:</l>
+                    <l>Oock als ick recht begin de saecke t'over-wicken,</l>
+                    <l>Soo vrees ick het ghevolch: Ick sal de gantsche staet</l>
+
+                    <pb ed="fol." n="D2r"/>
+                    <l>Mijns Vaders, en sijn rijck belasten met verraet:</l>
+                    <l>Gants Griecken op de been sie ick door mijn te raecken,</l>
+                    <l>Soo ick haer listelijck by nachte soeck te schaecken.</l>
+                    <l>'t Schijnt wel tot mijn gheluck dat <hi rend="i">Menelaus </hi>vertreckt:</l>
+                    <l>Na <hi rend="i">Creten</hi>, mits daer door mijn minne blijft bedeckt,</l>
+                    <l>Doch naederhandt dien ick de saeck soo aen te vanghen,</l>
+                    <l>Dat ick niet selfs blijff in mijne nette hanghen.</l>
+                    <l><hi rend="i">Acteon </hi>door te sien <hi rend="i">Diana </hi>schoon en
+                        naeckt,</l>
+                    <l>Is selver tot een Proy van syne Jacht ghemaeckt.</l>
+                    <l>Ick sou als <hi rend="i">Icarus </hi>met al te hooch te vlieghen</l>
+                    <l>Licht vallen in de Zee, en soo mijn selfs bedrieghen:</l>
+                    <l>Doch als ick weer ghedenck aen mijne Leyd-steres</l>
+                    <l>De blonde <hi rend="i">Venus </hi>selfs de schoone <hi rend="i"
+                        >Ciperes,</hi></l>
+                    <l>Soo vrees ick gheen ghevaer, schoon dat my soo veel scharen</l>
+                    <l>Na volchden alsser gaen aen <hi rend="i">Stigis </hi>over vaeren.</l>
+                    <l>'k Sal alles uyt staen wel, ter liefd van mijn Goddin:</l>
+                    <l>De hoope seyt my toe de Proye tot ghewin.</l>
+                    <l>Ick moet voorsichtich syn, in <hi rend="i">Veneris </hi>secreten,</l>
+                    <l>De Coningin alleen bedecktelijck doen weten</l>
+                    <l>Soo haest als <hi rend="i">Menelaus </hi>syn ancker heeft ghelicht,</l>
+                    <l>En dat de Sonne is ghedaelt uyt ons ghesicht.</l>
+                </lg>
+                <stage><hi rend="i">Binnen.</hi></stage>
+            </div>
+            <div type="scene">
+                <head rend="h3"><hi rend="i">Vijfde Deel. Vierde uytkomste.</hi></head>
+                <stage><hi rend="i">Menelaus, Helena.</hi></stage>
+
+                <lg type="poem">
+                    <l rend="speaker"><hi rend="i">Menelaus.</hi></l>
+                    <l><hi rend="i">D</hi>E tydingh die 'k Princes uyt Griecken heb ontfanghen,</l>
+                    <l>Is vry al van ghewicht en van seer groot verlanghen:</l>
+                    <l>Dies sal het noodich syn tot onse staet vereysch</l>
+                    <l>Dat ick in alder haest op 't spoedichst derwaerts reys,</l>
+                    <l>Ghy ondertusschen meucht mijn Hoff-ghesin ghebieden,</l>
+                    <l>En doen oock goed onthael aen de uyt-heemsche lieden:</l>
+                    <l>Insonderheyt de Prins van Troyen wel tracteert,</l>
+                    <l>Dat hy niet reyse wech voor dat ick ben ghekeert:</l>
+                    <l>Want aen <hi rend="i">Priamus </hi>gunst is ons seer veel gheleghen.</l>
+                    <l rend="speaker"><hi rend="i">Helena.</hi></l>
+                    <l rend="; 1tab">Dees reyse wijse Vorst, die staet my gantslijck teghen:</l>
+                    <l>Ick ben gantsch ongherust, 't schijnt datter in mijn geest</l>
+                    <l>Schuylt eenich ongheval waer voor mijn harte vreest.</l>
+                    <l rend="speaker"><hi rend="i">Menelaus.</hi></l>
+                    <l rend="; 1tab">'k Verwonder my op 't hooghst, wijse <hi rend="i">Minervas
+                        </hi>suster;</l>
+                    <l>Dat in soo schoonen beeld de Gheest niet is gheruster.</l>
+                    <l>Indien al 't Aerdts begrijp van een wert gheregeert,</l>
+                    <l>En van den Griecken oock als Goddelijck ghe-eert.</l>
+                    <l>Indien door syn ghedacht de saecken hier gheschieden,</l>
+                    <l>Hoe sal de swacke mensch dan eenich onheyl vlieden?</l>
+                    <l>'t Gheen hem is onbewust, soo niet des voocht:</l>
+
+                    <pb ed="fol." n="D2v"/>
+                    <l>Van boven op syn doent, en op syn ganghen oocht.</l>
+                    <l rend="speaker"><hi rend="i">Helena.</hi></l>
+                    <l rend="; 1tab">Nochtans soo kan men sich wel voor een saecke hoeden,</l>
+                    <l>Waer in men speurt ghevaer ghegront op quaet vermoeden.</l>
+                    <l>Was <hi rend="i">Phaëton </hi>wel eer in rust 't huys ghebleven,</l>
+                    <l>Mijn Vader had hem noyt van boven neer ghedreven.</l>
+                    <l>Soo menich Lantschap waer door hitte niet vergaen,</l>
+                    <l>Waer van noch hedensdaechs de bosschen blaedloos staen.</l>
+                    <l rend="speaker"><hi rend="i">Menelaus.</hi></l>
+                    <l rend="; 1tab">Dees dinghen soo het schijnt duydt ghy op mijn vertrecken,</l>
+                    <l>'t Gheen onghetwijffelt sal tot onser oordeel strecken.</l>
+                    <l>Indien ick daer niet kom, mijn erf-goet sal door twist</l>
+                    <l>Der Vorsten lichtlijck syn verdonckert of ghemist.</l>
+                    <l>'t Bywesen van een Prins heeft sulck een groot vermoghen,</l>
+                    <l>Dat dick een trotse siel daer door wert inghetoghen:</l>
+                    <l>Daer men wel andersins syn Ambassaed veracht,</l>
+                    <l>En uyterlijck hem streelt, inwendich hem belacht.</l>
+                    <l rend="speaker"><hi rend="i">Helena.</hi></l>
+                    <l rend="; 1tab">Gaet dan alst wesen moet doch wilt op mijn begeeren</l>
+                    <l>So haestich als ghy kond, weder te rugghe keeren.</l>
+                    <l rend="speaker"><hi rend="i">Menelaus.</hi></l>
+                    <l rend="; 1tab">Ick sal verletten niet soo langh ick buyten ben,</l>
+                    <l>En ondertusschen ick u trooste met mijn pen:</l>
+                    <l>Stelt u doch wel gherust wilt niet onnutlijck vresen,</l>
+                    <l>Hoe wel ick van u ben mijn hart sal by u wesen,</l>
+                    <l>Knaecht 't edele ghemoet niet op een bloote schijn,</l>
+                    <l>Soo ghy u selfs verwint ghy sult gheholpen syn.</l>
+                    <l rend="speaker"><hi rend="i">Helena.</hi></l>
+                    <l rend="; 1tab">Ick stel mijn harte dan volkomelijck gherust.</l>
+                    <l rend="speaker"><hi rend="i">Menelaus.</hi></l>
+                    <l>En ick vertrecke dan met soo veel meerder lust.</l>
+                    <l>Ick neem myn af-scheyt meed' van <hi rend="i">Priami </hi>Ghesanten,</l>
+                    <l>Bestellent te ghelijck mijn noodruft en Trawanten.</l>
+                </lg>
+                <stage><hi rend="i">beyde binnen.</hi></stage>
+            </div>
+            <div type="scene">
+                <head rend="h3"><hi rend="i">Vijfde Deel. Vijfde uytcomst.</hi></head>
+                <stage><hi rend="i">Paris. Pagie.</hi></stage>
+
+                <lg type="poem">
+                    <l><hi rend="i">'T </hi>Luck schijnt my toe-ghedaen, de Koninck is op reys,</l>
+                    <l>En heeft de Coningin ghelaeten in 't Paleys.</l>
+                    <l>Het kostle Ledekant van hem soo vaeck beschreden,</l>
+                    <l>Wort nu alleen beschaemt door hare schoone leden:</l>
+                    <l>Dies ick waer nemen moet, 't gheen my tijts toe-val gheeft,</l>
+                    <l>'t Lucks achter hooft is kael, daer 't voor-hooft hayren heeft.</l>
+                    <l>'k Heb in mijn eensaemheyt dees versjes slecht gheschreven</l>
+                    <l>Om door mijn dienaer die <hi rend="i">Helena </hi>te doen gheven.</l>
+                    <l>Luckighe letteren die in haer vinghers teer</l>
+                    <l>Ontfanghen wert tot vreucht of quellingh van u Heer:</l>
+                    <l>Indiense andersins u waerdich acht te lesen,</l>
+                    <l>Of sy ghy spreecken kond, licht soud ghy uyt haer wesen</l>
+                    <l>Oordeelen haer ghemoet: luckighe letteren gaet,</l>
+
+                    <pb ed="fol." n="D3r"/>
+                    <l>Ick wensch sy u ontfanght met sulck een bly ghelaet</l>
+                    <l>Als ick u derwaerts send. O bode van mijn smerte!</l>
+                    <l>Toont haer ootmoedelijck de quellingh van mijn herte,</l>
+                    <l>Die'k om haer hoogheydt ly: <hi rend="i">Pagie </hi>gaet brenght dees
+                        brief</l>
+                    <l>Aen de Princes <hi rend="i">Heleen </hi>mijn uytverkoren lief:</l>
+                    <l>Let op haer wesen wel, met wat ghelaet en teecken</l>
+                    <l>Sy dit gheschrifte sal aenvaerden en op breecken,</l>
+                    <l>En of se u al schoon vervloeckte om mijn daet,</l>
+                    <l>Soo wil ick ghy aen haer gheen stuerheydt blijcken laet.</l>
+                    <l>Want stuersheyt qualijck voecht het aenghevaen ghevry:</l>
+                    <l>Gaet ick verwacht antwoort onder de Gaeldery.</l>
+                </lg>
+                <stage>
+                    <hi rend="i">Pag. binnen.</hi></stage>
+            </div>
+            </div>
+            <div type="act">
+                <div type="scene">
+                <head rend="h3"><hi rend="i">Het seste Deel. Eerste uytkomste.</hi></head>
+                <stage><hi rend="i">Helena.</hi></stage>
+
+                <lg type="poem">
+                    <l><hi rend="i">W</hi>At batet of de mensch al heeft wat hy begeert,</l>
+                    <l>Als hy doch evenwel door fantasy uyt-teert?</l>
+                    <l>Of wat baet dat men schijnt te swemmen in genuchten</l>
+                    <l>Als't breyn leyt over hoop en 't herte barst van suchten?</l>
+                    <l>Soo ist eylaes! met my uytwendich een Goddin,</l>
+                    <l>Een dochter van <hi rend="i">Iupijn, </hi>inwendich een slavin:</l>
+                    <l>Een vyandin mijns selfs, tweespaltich syn mijn sinnen,</l>
+                    <l>'t Ghemoet soeckt dickwils rust en kanse niewers vinnen:</l>
+                    <l>Ick weet niet wat my deert, sins weynich tijt verleen,</l>
+                    <l>Trock een inwendich vyer door al mijn leden heen.</l>
+                    <l>'t Gheen min op min vermeert, my rovend al mijn lusten,</l>
+                    <l>Soo dat ick dach noch nacht een ure niet kan rusten.</l>
+                    <l>Wel seyt een out Poëet 't swaerst oorloch datmen vint</l>
+                    <l>Is dat de swacke mensch hem selve overwint.</l>
+                    <l>Doch mijne quellingh schijnt verselt met rasernijen,</l>
+                    <l>En luystert nae gheen raet, noch wil gheen weerstand lijen.</l>
+                    <l>Wat baet mijn schoonheyt nu van yder soo gheacht?</l>
+                    <l>Wat helpt het dat ick ben van Goddelijck gheslacht?</l>
+                    <l>En van <hi rend="i">Iupijn </hi>gheteelt? doen onder blancke schachten</l>
+                    <l>Hy in d'omhelsingh van mijn Moeder quam vernachten:</l>
+                    <l>En door een soet bedroch ghenoot syn minnens lust.</l>
+                    <l>Wat roem ick doch hier van, daer het my maeckt belust:</l>
+                    <l>'t Onkuysche overspel waer uyt ick ben ghesprooten,</l>
+                    <l>Waerom heb ick van u, o <hi rend="i">Iupijn! </hi>niet ghenooten</l>
+                    <l>Soo veel onsterflijckheyt als wel <hi rend="i">Alcmenus </hi>Soon?</l>
+                    <l>Mijn Broeder die nu langh is by u metter woon,</l>
+                    <l>Doch als ick weerom denck wat hy heeft moeten lijen</l>
+                    <l>Van Monsters, van de Min, van Helsche rasernije,</l>
+                    <l>Soo treed ick achterwaerts gheen deucht blinckt in't ghemoet,</l>
+
+                    <pb ed="fol." n="D3v"/>
+                    <l>Ten sy die is gheproeft, door quel en teghenspoet.</l>
+                    <l>Dan laes! een Vrouwen hert is lichtlijck te beweghen,</l>
+                    <l>En staet het ongheval soo heftich oock niet teghen:</l>
+                    <l>Noch meerdert mijn ghequel, het af syn van myn lief.</l>
+                    <l>Ick heb sint syn vertreck ontfanghen noyt een brief,</l>
+                    <l>De tijt valt my soo langh, de daghen schijnen jaren:</l>
+                    <l>Die my wel eer soo kort in mijne vreughden waren.</l>
+                    <l>Wat Pagie sie ick gints ter kamer komen in?</l>
+                    <l rend="speaker"><hi rend="i">Pagie.</hi></l>
+                    <l rend="; 1tab">Ick groet (uyt <hi rend="i">Paris </hi>naem) de Griecksche
+                        Koningin:</l>
+                    <l>Ontschuldicht my Princes, dat ick u kom aenranden</l>
+                    <l>Hier in u Cabinet, 't is om u te behanden</l>
+                    <l>Een schrifte van myn Heer.</l>
+                    <l rend="speaker"><hi rend="i">Hele.</hi></l>
+                    <l>Wat isset voor gheschrift?</l>
+                    <l rend="speaker"><hi rend="i">Pagie.</hi></l>
+                    <l rend="; 1tab">De neygingh sijns ghemoed die is daer in ghestift.</l>
+                    <l rend="speaker"><hi rend="i">Helena.</hi></l>
+                    <l>Ick achte dat het is een van sijn rymeryen</l>
+                    <l>Die hy uyt korstwijl send om mijn wat te verblyen.</l>
+                    <stage><hi rend="i">Sy leest.</hi></stage>
+                    <l rend="; 1tab">Van mijn melancoly: Hoe Pagie meent u Heer</l>
+                    <l>Soo lichtlijck en bedeckt te trachten na myn eer?</l>
+                    <l>Gaet seght hem soo 'k niet meer ontsach sijn Vaders staten</l>
+                    <l>Als hem: Ick deed hem licht noch heden 't Hof verlaten,</l>
+                    <stage><hi rend="i">Pagie bin</hi></stage>
+                    <l>Lichtvaerdigh Jonghelingh. Hoe! sult ghy de Koningin,</l>
+                    <l>Van een soo machtigh Vorst versoecken tot u min?</l>
+                    <l>Sou mijn oprechte jonst wel daer toe kennen strecken,</l>
+                    <l>Om u tot geyle lust, en minne te verwecken?</l>
+                    <l>Het blijckt aen u gheschrift, dies sal ick het wet meer</l>
+                    <l>Gaen over weghen tot behoud'nis van mijn eer.</l>
+                    <stage><hi rend="i">Sy leest over luyt.</hi></stage>
+                    <l rend="; 1tab">Ist wonder: o Princes! dat ick die inde Landen</l>
+                    <l>Van <hi rend="i">Ida </hi>wert gheboyt, in uwe schoonheyts banden,</l>
+                    <l>Alleenlijck door 't gherucht, u brande metter daet,</l>
+                    <l>Vermits tijdts gunste my u schoon besichten laet:</l>
+                    <l>Ten was gheen reysens lust die my heeft aenghedreven;</l>
+                    <l>Maer prickelingh van liefd om in u dienst te leven,</l>
+                    <l>Noch om besichten, en verliet ick <hi rend="i">Troyens </hi>Hof,</l>
+                    <l>Mijn nooden was alleen u reyne schoonheyts lof,</l>
+                    <l>Die deed my door het nest van de beschubde dieren,</l>
+                    <l>Op een ghetaeckelt rif gints ende weder swieren;</l>
+                    <l>Op gunste vande wint die was de oorsaeck ach!</l>
+                    <l>Dat ick soo langhe niet als Locht en vloede sach.</l>
+                    <l>Wilt my dan schoon Goddin niet voor lichtvaerdigh schelden:</l>
+                    <l>Dit tedere gheschrift sal licht myn onschult melden.</l>
+                    <l>Die blinckende Goddin die voor de Starren treed:</l>
+                    <l>Als <hi rend="i">Phoebus </hi>is te rust, my herwaerts trecken deed,</l>
+                    <l>Die heeft my aengheport, om inde <hi rend="i">Griecksche </hi>hoecken</l>
+                    <l>De Dochter van <hi rend="i">Iupijn, </hi>en <hi rend="i">Leda </hi>te gaen
+                        soecken:</l>
+                    <l>Doch tot gheen ander endt, als uwe slaef te zijn,</l>
+                    <l>Om minderen mijn quel en aengheboren pijn.</l>
+
+                    <pb ed="fol." n="D4r"/>
+                    <l rend="speaker"><hi rend="i">Helena.</hi></l>
+                    <l rend="; 1tab">Ick schrick en werd beweeght, dit meerdert noch myn vresen,</l>
+                    <l>Dat hy van de Goddin hier sou ghesonden wesen</l>
+                    <l>Die voor de Starren treet, dats <hi rend="i">Venus, </hi>die de nacht</l>
+                    <l>Bootschappend op komst van d'andere Sterren wacht:</l>
+                    <l>Ghelijck als <hi rend="i">Lyderes: </hi>Ha <hi rend="i">Venus! </hi>sou 't
+                        ghewemel</l>
+                    <l>En 't glinst'ren mijns Paruycks wel stralen na den Hemel?</l>
+                    <l>Is mijne schoonheyt daer onder de Goon bekent,</l>
+                    <l>Ghelijckse schijnt te syn tot aen des werelts endt?</l>
+                    <l>Soo roem ick mijn gheluck, 'k onschuldich <hi rend="i">Paris </hi>dan:</l>
+                    <l>Hoe wel ick hem in 't minst gheen liefd betoonen kan.</l>
+                    <l>Doch twyffel icker aen of soo een groote Vrou</l>
+                    <l>Ghelijck als <hi rend="i">Venus </hi>is, op aerd verschijnen sou,</l>
+                    <l>En heeten <hi rend="i">Paris </hi>soo een verre reys beginnen,</l>
+                    <l>Om ymant die hy noyt ghekent heeft te beminnen?</l>
+                    <l>Hoe sou sy hem op aerd vertoonen daer s' om hoogh</l>
+                    <l>In mijn Heer Vaders rijck haer blinckende vertooch</l>
+                    <l>Al tintelende toond, en volcht als avont sterre</l>
+                    <l>De blonde <hi rend="i">Phoebus </hi>steets ghelijck verlieft van verre,</l>
+                    <l>Dies dunckt het my een droom doch 'k sal hem hier ontbien,</l>
+                    <l>En haest de rechte gront van dese saecke sien.</l>
+                    <l><hi rend="i">Elicia.</hi></l>
+                    <l rend="speaker"><hi rend="i">Eli.</hi></l>
+                    <l>Me Vrou.</l>
+                    <l rend="speaker"><hi rend="i">Hele.</hi></l>
+                    <l>Bereyt my 't avontmael</l>
+                    <l>Op 't spoedichst 'k toeve hier soo langh wat in de sael:</l>
+                    <l>Al waer ick sal voldoen het voetsel mijns ghedachten.</l>
+                    <l rend="speaker"><hi rend="i">Elicia.</hi></l>
+                    <l rend="; 1tab">'t Schijnt datse is ghestoort dies moet icker op wachten,</l>
+                    <l>Me Vrou 't is al gereet.</l>
+                    <l rend="speaker"><hi rend="i">Hele.</hi></l>
+                    <l>Gaet nae de Prince die</l>
+                    <l>Hier onlanghs quam te Hooff, segt dat ick hem ghebie</l>
+                    <l>Dat hy hier stracx verschijn.</l>
+                    <l rend="speaker"><hi rend="i">Eli.</hi></l>
+                    <l>Me Vrou 'k vol doe mijn plichte.</l>
+                    <l rend="speaker"><hi rend="i">Helena.</hi></l>
+                    <l rend="; 1tab">Nu sal ick sien wel haest waer uyt hy dit eerst stichte.</l>
+                    <stage><hi rend="i">Sy gaet aen de Taeffel sitten.</hi></stage>
+                    <stage><hi rend="i">Paris.</hi></stage>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l rend="; 1tab">Schuyft van u Ledekant de schaduw van de nacht,</l>
+                    <l>Geestighe <hi rend="i">Citeres: </hi>siet hoe my hier verwacht</l>
+                    <l>De Griecksche Coningin, wiens soete purpre kaecken</l>
+                    <l>By 't heldre fackel licht my noch ontsiender maecken</l>
+                    <l>Als by het licht des daechs? nu is het tijt Goddin</l>
+                    <l>Dat ick versoecken sal mijn langh ghewenste min:</l>
+                    <l>Nu Tonghe flau-moet niet te groeten u gheminde,</l>
+                    <l>Op u gheboon me Vrou laet sich u slaef hier vinde.</l>
+                    <l rend="speaker"><hi rend="i">Helena.</hi></l>
+                    <l rend="; 1tab">Sit Prince neemt u plaets, ick bid u my verselt.</l>
+                    <l><hi rend="i">Elicia </hi>vertreckt: wat fantasy u quelt</l>
+                    <l>O <hi rend="i">Paris </hi>weet ick niet met dit gheschrift te senden</l>
+                    <l>Aen my, het gheen mijn eer op 't hoochste komt te schenden:</l>
+                    <l>Wat swiert ghy met u pen, dat ghy om my alleen</l>
+                    <l>Van prachtich Troyen syt ghetogen door de Zeen?</l>
+
+                    <pb ed="fol." n="D4v"/>
+                    <l>En hier nu aenghelant, het schijnt door spoockereye</l>
+                    <l>V sinnen syn gheroert, waer door ick u meleye.</l>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l rend="; 1tab">Gheen sinnens spoock heeft my in dese saeck ghequelt,</l>
+                    <l>Dees regels syn van mijn voordachtelijck ghestelt.</l>
+                    <l>Wie kan verberghen 't vyer 't gheen boven alle daecken</l>
+                    <l>Syn vlammen opwaerts schiet, en daer me schijnt te raecken</l>
+                    <l>De woonstee van de Goon? hoe kan het teere hert</l>
+                    <l>Bedecken 't leet, indien 't daer door verslonnen wert?</l>
+                    <l>Mijn brant is onghemeen; ick ben niet buyten reden,</l>
+                    <l>Noch kome als Spion besichten uwe Steden,</l>
+                    <l>Of met myn Koopmanschap, om soecken vuyl ghewin:</l>
+                    <l>In mijne Steden groot, ick mijn vernoeghen vin</l>
+                    <l>Van Schatte, kostlijckheen, en Konincklijcke eere</l>
+                    <l>Gheschiet my overvloet. Ghy sijt het die 'k begeere,</l>
+                    <l>Ghy zyt my toe gheseyt aen't and're werelts endt</l>
+                    <l>Van <hi rend="i">Venus </hi>de Goddin, eer ghy my waert bekendt,</l>
+                    <l>Dat sweer ick by <hi rend="i">Iupijn, </hi>en wensch sijn Arents laste</l>
+                    <l>Soo 'k <hi rend="i">Venus</hi> onrecht doe, my nu terstont aentaste,</l>
+                    <l>En voor u ooghen schen.</l>
+                    <l rend="speaker"><hi rend="i">Hele.</hi></l>
+                    <l>Een Maeght die licht ghelooft,</l>
+                    <l>Wort dickwils van haer eer onwetende gherooft.</l>
+                    <l>V klacht schijnt my een droo, ghy speelt heel d'onbeschoften,</l>
+                    <l>Dat ghy my eyschen komt uyt <hi rend="i">Veneris </hi>beloften:</l>
+                    <l>Waer soud ghy vlieden doch, indiens op mijn begeer</l>
+                    <l>Quam met haer Koets ghespan op hare duyfjes neer,</l>
+                    <l>Om u vermeet'le tongh met reden te besnoeren?</l>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l rend="; 1tab">Sy sou mijn selven wel in u ghedachten voeren.</l>
+                    <l rend="speaker"><hi rend="i">Helena.</hi></l>
+                    <l>Indien een ander werd', daer door van 't sijn berooft?</l>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l rend="; 1tab">Gheen ander Lief ick wensch als die my is belooft.</l>
+                    <l rend="speaker"><hi rend="i">Helena.</hi></l>
+                    <l>Soo de beloftenis dan ydel werdt bevonden:</l>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l rend="; 1tab">Soo ben ick te vergheefs van <hi rend="i">Venus
+                        </hi>uytghesonden.</l>
+                    <l rend="speaker"><hi rend="i">Helena.</hi></l>
+                    <l>Door u versoeck helaes! werd ick gheheel verschrickt.</l>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l rend="; 1tab">'t Is <hi rend="i">Cyteres </hi>bedrijf de reden
+                        over-wickt.</l>
+                    <l>Door haer heb ick de wint voorspoedelijck ghenooten,</l>
+                    <l>En oock de Zee, waer uyt sy selve is ghesprooten.</l>
+                    <l>Door haer heb ick de naem van <hi rend="i">Priams </hi>Soon verkreghen.</l>
+                    <l>Door haer kom ick ghereyst door hackelighe weghen.</l>
+                    <l>Verschoven was myn jeucht: 't verdroot de Goden langher</l>
+                    <l>t'Aenschouwen myne staet: want als <hi rend="i">Hecubae </hi>swangher</l>
+                    <l>Van my zijnd'; had ghedroomt dat van haer wiert ghebaert</l>
+                    <l>Een Fackel; door wiens vlam ontstack de gantsche aert.</l>
+                    <l>Dit wierde soo beduyt door 't oordeel van de Wijsen,</l>
+                    <l>Dat uyt mijn sou de vlam van <hi rend="i">Priams </hi>Rijcke rijsen.</l>
+                    <l>O dwase onbewust! van d'aengheboren vlam,</l>
+                    <l>Die uyt <hi rend="i">Ledeas </hi>schoon, eerst sijn beginsel nam.</l>
+                    <l>Soo kanmen Princen hert met schijn van Gods-dienst decken,</l>
+                    <l>Medogingh, vruchtloos wert als't schijnt tot scha te strecken.</l>
+
+                    <pb ed="fol." n="E1r"/>
+                    <l>Mijn doodt was al bestemt, uyt Moederlijck beweegh,</l>
+                    <l>Ick als Vond'lingh d'aerd noch tot een rust-plaets kreegh.</l>
+                    <l>Voorts ben ick op ghevoedt in de <hi rend="i">Idesche </hi>velden,</l>
+                    <l>Daer my der Goden gunst tot een Vee-hoeder stelden:</l>
+                    <l>Mijn Adeldom was schuyl, vermindert was myn staet,</l>
+                    <l>Ghelijck voor nevels dick de Son te schuyle gaet,</l>
+                    <l>In 't midden des gheberchts, bosachtighe valeyen,</l>
+                    <l>Gantsch eensaem, is een plaets daer d'Echo met haer schreyen</l>
+                    <l>'t Ghevoghelt vaeck verschrickt. Hier was het daer ick plach</l>
+                    <l>Te rusten met myn Vlock: de Zee 'k van verre sach,</l>
+                    <l>En <hi rend="i">Dardans </hi>muren hoogh met haer exselsche daecken,</l>
+                    <l>Het schaduwend' gheboomt bedeckte my voor 't blaecken</l>
+                    <l>En steecken van de Son; wanneer ick in de leeght</l>
+                    <l>Gewaer wierd dat de aerd door treden wert beweeght:</l>
+                    <l>'t Gheluyt al nader quam, tot dat ick door een schreve,</l>
+                    <l>En rete van mijn hol sach den <hi rend="i">Atlant </hi>sijn Neve</l>
+                    <l>Met een Goddinnen Rey opkomen uyt de ruycht,</l>
+                    <l>My dunckt ick sie hoe 't Bosch noch voor haer schoonheyt buycht:</l>
+                    <l>'t Was <hi rend="i">Iuno, Venus </hi>en <hi rend="i">Minerva </hi>met haer
+                        speere,</l>
+                    <l>Onkund' en bloodigheydt, belette my de eere</l>
+                    <l>Te doen (die 'k schuldigh was:) De Goden knecht my seyd,</l>
+                    <l>Te oordeelen de schoonst, dat wiert u op gheleydt:</l>
+                    <l>Slaet Herder eens u oogh op dese drie Goddinnen,</l>
+                    <l>En seght ons welcke meest is waerdigh te beminnen,</l>
+                    <l>Als schoonste van ghestalt: <hi rend="i">Iupijn </hi>u sulcks ghebiet.</l>
+                    <l>Dies ick myn oogh ter zy eens heym'lijck dwalen liet:</l>
+                    <l>Een yder waerdigh was in schoonheyt te verwinnen;</l>
+                    <l>Nochtans de een alleen ontroerde my de sinnen.</l>
+                    <l rend="speaker"><hi rend="i">Helena.</hi></l>
+                    <l rend="; 1tab">Hoe listigh weten niet de Minnaers hunne reden,</l>
+                    <l>Recht op sijn Philosoophs, Poëtes te bekleden:</l>
+                    <l>'k Verwonder my op 't hooghst van 't gheen ghy hebt ghemelt;</l>
+                    <l>Dus wild' ick weten wel wat oordeel ghy ghevelt</l>
+                    <l>Over haer schoonheyt hebt.</l>
+                    <l rend="speaker"><hi rend="i">Par.</hi></l>
+                    <l>Elck vleyde my met wencken,</l>
+                    <l>Begeerigh na de prijs: my lovende gheschencken.</l>
+                    <l>De Huys-vrou van <hi rend="i">Iupijn </hi>beloofde my een Rijck,</l>
+                    <l>Dat geen Monarch of Prins sou wesen mijns ghelijck.</l>
+                    <l>De wijse oorloghs Maeght, dat door gheleertheyts krachte</l>
+                    <l>Mijn staet sou zyn verhooght. De soete <hi rend="i">Venus </hi>lachte,</l>
+                    <l>En sey dees giften zyn gantsch onbequaem u jeucht,</l>
+                    <l>Ick sal u gheven een die ghy beminnen meucht:</l>
+                    <l>De Dochter van <hi rend="i">Iupijn, </hi>die suyvere <hi rend="i"
+                        >Ledea:</hi></l>
+                    <l>Doen prees ick boven al de schoonste <hi rend="i">Cyterea.</hi></l>
+                    <l rend="speaker"><hi rend="i">Helena.</hi></l>
+                    <l rend="; 1tab">Ist al om my te doen: Helaes! wat voor besluyt</l>
+                    <l>Soeckt ghy o <hi rend="i">Venus </hi>nu op my te voeren uyt?</l>
+                    <l>Moet ick nu zyn het loon van u ontsind belooven,</l>
+                    <l>Die schoonheyt luckigh is, die arrem en verschooven</l>
+
+                    <pb ed="fol." n="E1v"/>
+                    <l>Schuylt in een laegh begrijp: Als die in vreughde leeft,</l>
+                    <l>En daghelijcks daer door aenstoot van minne heeft?</l>
+                    <l>Waerom en koost ghy niet voor my doch <hi rend="i">Iovis </hi>rijcken?</l>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l rend="; 1tab">Om dat myn trouwe Liefd' tot uwaerts soude blijcken.</l>
+                    <l rend="speaker"><hi rend="i">Helena.</hi></l>
+                    <l>Had ghy door <hi rend="i">Pallas </hi>hulp niet liever wijs gheweest?</l>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l rend="; 1tab">De wijsheyt liev' ick wel; doch uwe schoonheyt meest.</l>
+                    <l rend="speaker"><hi rend="i">Helena.</hi></l>
+                    <l>Hoe wist ghy van mijn schoont, dewijl ghy my niet kende?</l>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l rend="; 1tab">'t Gheruchte die verspreyt tot aen des werelts ende.</l>
+                    <l>De Dochter <hi rend="i">Ledaes </hi>is by yder een vermaert</l>
+                    <l>Te wesen in ghedaent een <hi rend="i">Phoenix </hi>van de aert.</l>
+                    <l rend="speaker"><hi rend="i">Helena.</hi></l>
+                    <l rend="; 1tab">Helaes ick ducht, ick ducht! <hi rend="i">Narcissis </hi>doet
+                        my vresen,</l>
+                    <l>Dat noch mijn schoonheyt sal myn <hi rend="i">Labicintus </hi>wesen.</l>
+                    <l>Ghenomen 'k minden u, meent ghy dat <hi rend="i">Atici </hi>Soon</l>
+                    <l>Sou lijden onghemerckt dees aenghedane hoon?</l>
+                    <l>Syn moedt is veel te groot, ghy sult u selfs verblinden,</l>
+                    <l>Doch had ick u ghekent doen my een yder minden,</l>
+                    <l>Van duysent lievers die my minden om het seerst,</l>
+                    <l>Sout ghy <hi rend="i">Priami </hi>Soon gheweest zyn d'aldereerst:</l>
+                    <l>Dus bid ick u ghenoeght, en laet u sinnen rusten,</l>
+                    <l>Het is een groote deucht 't bedwinghen van sijn lusten.</l>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l rend="; 1tab">So meent ghy dan Goddin, dat ick door lusten geyl</l>
+                    <l>Dees hijssen in de mars myn wit ontfouwen seyl?</l>
+                    <l>Waer d'oorsaeck dit gheweest, ick had noyt onse Landen</l>
+                    <l>Verlaten door bedwanck myns aengheboren banden,</l>
+                    <l>Ghelijck ick u begeer, so zijnder veel gheweest,</l>
+                    <l>Van <hi rend="i">Troysche </hi>Maeghden, en al van een hoogher geest;</l>
+                    <l>Ja Konincks Dochters my tot hare Min begeerden:</l>
+                    <l>De Nimphjes van het Wout my minnelijcken eerden</l>
+                    <l>Doe 'k noch een Herder was: Ja smeeckten met ghebeen</l>
+                    <l>Om 't gheen ick u Goddin op-offere alleen.</l>
+                    <l rend="speaker"><hi rend="i">Helena.</hi></l>
+                    <l rend="; 1tab">Ick schricke voor 't ghevolch: wat sou u gantsch geslachte,</l>
+                    <l>Waer voor sou <hi rend="i">Priamus, </hi>en <hi rend="i">Hecube </hi>my
+                        achte?</l>
+                    <l>Wat sou <hi rend="i">Polexina, Casandra </hi>en u Broers</l>
+                    <l>Staegh mompelen van my? ghy selve soud jaloers</l>
+                    <l>Licht werden van my dat hoe wel uyt u gheresen,</l>
+                    <l>Dat ick u sou ontrou ghelijck <hi rend="i">Atrides </hi>wesen,</l>
+                    <l>Daer ick in 't <hi rend="i">Griecksche </hi>Hof gherustelijck gheniet,</l>
+                    <l>Sou ick myn vinden dan gantsch eenigh vol verdriet.</l>
+                    <l>Aen wien sou 'k soecken hulp in d'eylasche ghesuchten?</l>
+                    <l>Wie sou myn troosten doch in teghenspoet en duchten</l>
+                    <l>Als ick u niet en had? </l>
+                    <l rend="speaker"><hi rend="i">Par.</hi></l>
+                    <l>Het gantsch <hi rend="i">Dardani </hi>Huys</l>
+                    <l>Sou grootlijcks zijn vereert met <hi rend="i">Iovis </hi>Dochter kuys:</l>
+                    <l>Het prachtigh <hi rend="i">Troya </hi>sou sich daer in verhovaerden;</l>
+                    <l>Dat selfs <hi rend="i">Helena </hi>komt soo veer een reys aenvaerden</l>
+                    <l>Ter liefde van hun Prins: een prachtigher ghewaet,</l>
+                    <l>Als <hi rend="i">Griecksche </hi>Taffe sou vermeerderen u staet.</l>
+
+                    <pb ed="fol." n="E2r"/>
+                    <l><hi rend="i">Polexina </hi>mijn Suster heeft haer schoone leden</l>
+                    <l>Gantsch op een ander wijs ghetoyt met kostlijckheden.</l>
+                    <l><hi rend="i">Hectoris, Andromache </hi>heel anders is gheciert</l>
+                    <l>Als ghy: een yder wert als een Goddin gheviert.</l>
+                    <l>Ghy twijffelt aen mijn trou: helaes! onnutte vresen;</l>
+                    <l>Soo langh myn rijcke staet sal 'k u ghetrouwe wesen.</l>
+                    <l>Wie is in <hi rend="i">Griecken </hi>Landt in Wapenen ghelijck</l>
+                    <l>Den <hi rend="i">Hector, </hi>die alleen beschut ons Koninckrijck</l>
+                    <l>Door kracht en kloeck beleyt? wat wilt ghy meerder duchten,</l>
+                    <l>De duysternis ons dient om te Scheep wegh te vluchten.</l>
+                    <l rend="speaker"><hi rend="i">Helena.</hi></l>
+                    <l rend="; 1tab">Verwonnen ben ick, en 't weygheren is ghedaen;</l>
+                    <l>Doch 'k vrees dat onse min door Wapens sal vergaen:</l>
+                    <l>'t Schijnt dat ick hoor al ree de Harrenasschen klincken,</l>
+                    <l>My dunckt ick sie van veer de felle Deghens blincken,</l>
+                    <l>En <hi rend="i">'t Griecksche </hi>Heyr gheterght door dese spijt te
+                        velt,</l>
+                    <l>Dat sich u <hi rend="i">Hector </hi>daer van moedigh teghen stelt:</l>
+                    <l>Ghy sijt doch onbequaem tot Wapens of Rondassen,</l>
+                    <l>Een ander oorlogh sal u <hi rend="i">Paris </hi>beter passen.</l>
+                    <l>Dat ons geen tijdt ontbreeckt terwijle noch de nacht</l>
+                    <l>Al braeckent na de komst des gouden <hi rend="i">Titans </hi>wacht</l>
+                    <l>Om op ons hoed te zijn, dat niets verlet ons reysen;</l>
+                    <l>Nu sie ick noch voor 't lest dees kostele palleysen,</l>
+                    <l>Daer ick tot nu ghenoot als Koningin de eer:</l>
+                    <l>Misschien na dese tijdt en sie ick die niet meer.</l>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l rend="; 1tab">Noyt Minnaer is meer jonst ghetoont van syn vriendinne</l>
+                    <l>Als d'eer die my gheschiet van <hi rend="i">Spartens </hi>Koninginne:</l>
+                    <l>Verlatende om my <hi rend="i">Atrides </hi>kost'lijckheen:</l>
+                    <l>Ick hoop ghy sult eer langh een rijcker vloer betreen.</l>
+                    <l>Om u sal licht op reys <hi rend="i">Neptuen </hi>de vloede temmen,</l>
+                    <l>Dat de <hi rend="i">Cyrenen </hi>glat haer langhe vlechten kemmen,</l>
+                    <l>En queelen op de Zee met lieffelijck gheluyt</l>
+                    <l>Ter eeren van de min van <hi rend="i">Paris </hi>en sijn Bruyt.</l>
+                    <l rend="speaker"><hi rend="i">Helena.</hi></l>
+                    <l rend="; 1tab">Wy toeven veel te langh.</l>
+                    <l rend="speaker"><hi rend="i">Par.</hi></l>
+                    <l>Haer toortsen doet eerst doven</l>
+                    <l>De Wachters van u Hof, so sal men best gheloven</l>
+                    <l>Dat ghy zijt langh te rust.</l>
+                    <l rend="speaker"><hi rend="i">Hele.</hi></l>
+                    <l>Ick doe 't terstont ghebien.</l>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l rend="; 1tab">Op dat geen nijdigh licht belet ons heymlijck vlien.</l>
+                    <stage><hi rend="i">Binnen.</hi></stage>
+                    <stage><hi rend="i">Senicus.</hi></stage>
+                    <l rend="; 1tab">O doot! wat rajeme nou: hoe sel ick het nu klaren?</l>
+                    <l>Men Heer is te nacht stilswijgend' wegh ghevaren</l>
+                    <l>In laet men hier staen kijcken, elck siet men met de neck an:</l>
+                    <l>De ien seyt 't is een Knoet, d'aer een Wael, de derde ien Speck-jan,</l>
+                    <l>De vierde hy is geck, en na ick hoor te deghen,</l>
+                    <l>So is de Koningin selver met hun eteghen:</l>
+                    <l>'t Is seker niet eers genoeg voor een Prins dat hy met een Konincx Vrou,</l>
+
+                    <pb ed="fol." n="E2v"/>
+                    <l>(Die hem so wel onthaelt) in de bocht tyen sou,</l>
+                    <l>In loopen met heur wegh en laten myn staen prijcken,</l>
+                    <l>'t Hettet al, in ick heb aers niet as 't nae-kijcken,</l>
+                    <l>Dat sey de Acxter oock, in hy had de bout in 't gat:</l>
+                    <l>Ick wasser wel an dat ick weer in de keucken sat</l>
+                    <l>Op men ouwe plaets, in hulp de meysjes ketel schuren,</l>
+                    <l>En boenen in wasschen, en ander vreemde kuren:</l>
+                    <l>'k Sou dan niet hoeven mit kack-hielen te loopen as ick nu doe;</l>
+                    <l>Maer men wort gheen dingh lichter as de weelde moe.</l>
+                    <l>Men wil altijdt op ien aer al is men noch soo wel,</l>
+                    <l>Ick wed ick op een aer tijdt soo licht niet me varen sel</l>
+                    <l>Mit een Joncker, die noch so kortelingh een Boer // was.</l>
+                    <l>Ygut broertjes dat ick nu rechte-voort weer by men Moer // was,</l>
+                    <l>Jy soutme niet weer mee krijghen, dat wou ick jou wel sweeren,</l>
+                    <l>Al konjeme het heuningh noch so soet om de mont smeeren:</l>
+                    <l>En wistet men Juffrou oock, datje deur egaen waer songer myn,</l>
+                    <l>Ick mien jy souter niet heel welkom zyn:</l>
+                    <l>Wantse hadme besuckt lief, ick mochtet niet verkerven;</l>
+                    <l>Ja 'k wed sy sel licht van hart-seer omme sterven:</l>
+                    <l>En heur moyste Kamenier hinghme staegh anme gat;</l>
+                    <l>Ja 't scheen datseme dickwils mit ernst badt</l>
+                    <l>Dat icker soenen sou; maer 'k hou niet van dat mallen,</l>
+                    <l>Want lichtelijck souweser een wel after over doen vallen</l>
+                    <l>En krijg'me om ien hoeck; maer wat mach ick oock praten?</l>
+                    <l>Nou ick voor den droes om raep-saet ben salseme wel met vreê laten;</l>
+                    <l>Ick hoef nu niet te vreesen datseme knellen sullen dat gore goedt;</l>
+                    <l>Oock ben ick voor het na loopen ghenoegh behoedt:</l>
+                    <l>Want hier in dit vreemde lant heb ick vriendt noch maghen,</l>
+                    <l>Noch ick weet niet wie duyvel dat ick men avontuur sel klaghen:</l>
+                    <l>Kom ick in 't Hof daer ick mettet Heerschop t'huys // was,</l>
+                    <l>Daer sluyp ic deur as een hoender-dief, en swijg so stil of ick ee<hi
+                            rend="i">n</hi> muys was,</l>
+                    <l>Want elck vraegt men aent Hof, schelm waer is nou jou Heer?</l>
+                    <l>Ick swijgh stil; maer ick denck haesop lelicke meer,</l>
+                    <l>Ick wou dat ick by hem was, jy soutme dan niet veel quellen,</l>
+                    <l>Noch ick hoefden hier niet te gaen steen slijpen in sacke tellen,</l>
+                    <l>Of ick niemant toe hoorde, 'k heb dit wel eer weynigh egist,</l>
+                    <l>Doe 'k seyde, dat 'k wou dat ick men toekomende avontuur wist:</l>
+                    <l>Had ickmer toch goeder geluk laten seggen van de heydens die achter landt
+                        loopen;</l>
+                    <l>Maer doen vreesden ick datseme men gelt of souwe stroopen:</l>
+                    <l>Ick wasser verveert of, want me worden eseydt</l>
+                    <l>Datse toveren konden; maer 'k meen steelen mit ien gauwigheyt.</l>
+                    <l>Hy ontsiet sen welvaert die sen nering ontsiet, had ick oock so edaen,</l>
+                    <l>'k Sou rechte-voort hier niet as ien gauwedief, of ien langht-looper
+                        staen</l>
+                    <l>En kijcken as ien poel-snip met men mongt vol tanden:</l>
+                    <l>'k Sou hem by d'ooren grijpen en schuddense as ien water-hongt,</l>
+
+                    <pb ed="fol." n="E3r"/>
+                    <l>En seggen jy mochtme met vreen laten en houwe jou mongt:</l>
+                    <l>Wat droes weet icker of waer hy is, of waer hy is ebleven,</l>
+                    <l>Bin icker selfs niet qualijk genoeg an dat hy men de schop het egeve<hi
+                            rend="i">n</hi></l>
+                    <l>En laet men de hielen sien, en het hy de Konincks Vrou</l>
+                    <l>Meenomen, dat is om dat hy wat tijdt verdrijf hebben sou</l>
+                    <l>Ongerweegh op 't schip. Wat snacks Karel sie ick ginder komen?</l>
+                    <l>'t Lijckt of hyer al ien of twee het op enomen,</l>
+                    <l>Soo dol siet hyer uyt: O bloet! sie ick te deegh,</l>
+                    <l>Het is de Koninck selfs, ick packme uyt de weegh.</l>
+                </lg>
+                <stage><hi rend="i">Binnen.</hi></stage>
+                <stage><hi rend="i">Menelaus weder-keerende van Creten.</hi></stage>
+
+                <lg type="poem">
+                    <l rend="speaker"><hi rend="i">Menelaus.</hi></l>
+                    <l><hi rend="i">D</hi>E sorghe van myn rijck, en 't vriendelijck begeeren</l>
+                    <l>Van mijne Koningin, deed' my te rugghe keeren</l>
+                    <l>Voor myn ghesette tijdt: 'k had anders noch vertoeft:</l>
+                    <l>Een saecke van ghewicht ghemeen'lijck tijdt behoeft.</l>
+                    <l>Een Prins moet reedlijck zijn, met haestigheyts besluyten</l>
+                    <l>'t Gheen hy hem nae beklaeght dat hy sich gingh te buyten.</l>
+                    <l>De Wijsheyt suser voert Voorsichtigheyt ghenoemt;</l>
+                    <l>Hoe wel die dickwils wert met andere schijn verbloemt,</l>
+                    <l>Ghedurende mijn reys, soo was ick op ghetoghen</l>
+                    <l>Door vrese dat my yets sou over komen moghen:</l>
+                    <l>Want d'eensaemheyt op reys dreef my ter herten in</l>
+                    <l>Dat <hi rend="i">Paris </hi>licht sijn oogh mocht slaen op mijn Goddin,</l>
+                    <l>Vermits hy eenigh is met haer in 't Hof ghebleven;</l>
+                    <l>Dit heeft op 't spoedighst my weer herwaerts aen ghedreven;</l>
+                    <l>Dies ick verlangh om weten hoe 't ten Hove staet:</l>
+                    <stage><hi rend="i">Aiax en Ulyssis uyt</hi></stage>
+                    <l>My dunckt ick <hi rend="i">Ajax </hi>sie die ginder wand'len gaet</l>
+                    <l>Met <hi rend="i">Ditakoysche </hi>Vorst, sy zijn verbaest van wesen:</l>
+                    <l>Dit doet o Goden my voor eenigh onluck vresen.</l>
+                    <l rend="speaker"><hi rend="i">Ajax.</hi></l>
+                    <l rend="; 1tab">Sie daer ons Prins ghelandt. Zijt wellekom myn Heer.</l>
+                    <l rend="speaker"><hi rend="i">Menelaus</hi></l>
+                    <l>Ick sie uyt u ghelaet, u gheest heeft teghen-weer.</l>
+                    <l>Wats d'oorsaeck dat ghy my dus treurigh komt ghemoeten?</l>
+                    <l rend="speaker"><hi rend="i">Ulyssis.</hi></l>
+                    <l rend="; 1tab">Een die 't (belieft de Goon) sijn schellem-stuck sal
+                        boeten.</l>
+                    <l rend="speaker"><hi rend="i">Menelaus</hi></l>
+                    <l>Hoe na heeft <hi rend="i">Paris </hi>my mijn Koningin ontrooft?</l>
+                    <l>Verklaertet my, hoe nu! gheen dingh voor my verdooft.</l>
+                    <l>O Goden hoe ick schrick!</l>
+                    <l rend="speaker"><hi rend="i">Ulys.</hi></l>
+                    <l>Beklaeght vry u vertrecken</l>
+                    <l>'t Gheen lichtelijck u Rijck sal tot groot oproer strecken.</l>
+                    <l rend="speaker"><hi rend="i">Menelaus</hi></l>
+                    <l rend="; 1tab">Wat is het? 'k heb op wegh veel onheyl al gheducht.</l>
+                    <l rend="speaker"><hi rend="i">Ajax.</hi></l>
+                    <l>Verradisch met <hi rend="i">Heleen </hi>is <hi rend="i">Paris </hi>wegh
+                        ghevlucht.</l>
+                    <l rend="speaker"><hi rend="i">Menelaus</hi></l>
+                    <l rend="; 1tab">Vervloeckte snoo <hi rend="i">Troyaen; </hi>o Rif! vol
+                        schelmeryen,</l>
+                    <l>Loont ghy mijn goet onthael nu met verraderyen.</l>
+                    <l>Kost ghy gheen ander dan verwecken tot u Boel</l>
+                    <l>Als mijn <hi rend="i">Tindarides? </hi>de sinnen door 't ghewoel</l>
+
+                    <pb ed="fol." n="E3v"/>
+                    <l>My vloghen heen en weer, de aerd is my te banghe,</l>
+                    <l>Soo Griecken Griecken is, wy volghen u eer langhe.</l>
+                    <l>Hoe langhe ist gheleen dat hy het schelmstuck deed?</l>
+                    <l rend="speaker"><hi rend="i">Ulyssis</hi></l>
+                    <l rend="; 1tab">'t Is Heer de vierde nacht.</l>
+                    <l rend="speaker"><hi rend="i">Mene.</hi></l>
+                    <l><hi rend="i">Ulyssis </hi>maeckt u reed</l>
+                    <l>Om hem te volghen nae, maer ach! het is te spade,</l>
+                    <l>Oock dien ick dese saeck te nemen in berade.</l>
+                    <l>Hoe bracht hy dit te weegh, hoe is het toe ghegaen?</l>
+                    <l rend="speaker"><hi rend="i">Ayax.</hi></l>
+                    <l rend="; 1tab">Hy bracht haer heymlijck scheep by 't schijnen vande Maen.</l>
+                    <l rend="speaker"><hi rend="i">Menelaus</hi></l>
+                    <l>Kost ghy hem volghen niet in 't rijsen van het licht?</l>
+                    <l rend="speaker"><hi rend="i">Ayax.</hi></l>
+                    <l rend="; 1tab">Wie volchde eenich seyl, 't gheen veer is uyt 't ghesicht?</l>
+                    <l rend="speaker"><hi rend="i">Menelaus.</hi></l>
+                    <l>De spraecke my begeeft soo is my 't hert benepen,</l>
+                    <l>En wasser gheen ghewach op strand of by de schepen,</l>
+                    <l>Wanneer men inde nacht de seylen opwaerts hees?</l>
+                    <l rend="speaker"><hi rend="i">Ulyssis</hi></l>
+                    <l rend="; 1tab">Wy wisten nieuwers van voor dat de Sonne rees,</l>
+                    <l>De Schilt-wacht had wel vaeck ghehoort de touwen klateren,</l>
+                    <l>Maer dacht 't is door de wint of 't storten vande wateren,</l>
+                    <l>En sloech daer op gheen acht: maer als de morghenstont</l>
+                    <l>Aen brack; d'ontrouwicheyt men doen wel haest bevont,</l>
+                    <l>Men miste de Princes, het Hoff was vol gheruchten,</l>
+                    <l>De schepen waren wech.</l>
+                    <l rend="speaker"><hi rend="i">Mene.</hi></l>
+                    <l>Dit syn helaes de vruchten,</l>
+                    <l>Dat ick een Princen soon heb in mijn Hoff onthaelt:</l>
+                    <l>In plaets van danckbaerheyt wert ick soo snoo betaelt.</l>
+                    <l>Wel aen dan Princen beyd, ghy kent de macht der Griecken,</l>
+                    <l>Die dickmael in het velt hun vyant is ghebleecken,</l>
+                    <l>Soo ghy my blijft ghetrou ick sweere den Troyaen</l>
+                    <l>Dat hem dees rovery in't end noch duur sal staen:</l>
+                    <l>Ick wil met raet mijns Raets nae Troyen toegaen trecken,</l>
+                    <l>Om voorghenomen wraeck aen <hi rend="i">Priamus </hi>t'ondecken.</l>
+                    <l>'k Wil wraecke van het leet door <hi rend="i">Paris </hi>my gheschiet,</l>
+                    <l>Ick reys na Troyen toe om wreecken mijn verdriet,</l>
+                    <l>Kom laet ons tot de reys gaen alles vaerdich maecken.</l>
+                    <l rend="speaker"><hi rend="i">Ulyssis</hi></l>
+                    <l rend="; 1tab">De Goon vertrou ick, sullen gunstich syn u saecken.</l>
+                    <stage><hi rend="i">Binnen.</hi></stage>
+                    <stage><hi rend="i">Paris. Helena.</hi></stage>
+                    <l rend="; 1tab">Danck sy de Goon mijn Lief door wiens vermoghen macht</l>
+                    <l>Wy binnen Troyen syn gheluckelijck ghebracht:</l>
+                    <l>Laet ons de Goden lief, ons danck ten offer gheven,</l>
+                    <l>Vermits wy door haer gunst, soo gunstich syn ghedreven,</l>
+                    <l>Door 't sporelose padt van d'ongebande Zee,</l>
+                    <l>Daer ons de windt, en stroom, gheluckich waren mee:</l>
+                    <l>Soo dat wy door de hulp van winden, ende stroomen</l>
+                    <l>Lof sy de Goden, hier gheluckich syn ghekomen.</l>
+                    <l><hi rend="i">Helena </hi>lief mijn hert ghenoeght soo aen u min,</l>
+                    <l>Dat u mijn liefde keurt voor mijn Liefs af-godin.</l>
+
+                    <pb ed="fol." n="E4r"/>
+                    <l><hi rend="i">Helena </hi>schoone Vrou, pronck Peerle deser aerde,</l>
+                    <l>Op u schoonheyt 't <hi rend="i">Troyaensche </hi>Hof sich verhovaerde</l>
+                    <l>Tot glory mijnes min: o min wat sijt ghy soet!</l>
+                    <l>Als sy (na wien ghy neyght) u lieve lust voldoet.</l>
+                    <l>O <hi rend="i">Spartens </hi>Koningin! die <hi rend="i">Griecken </hi>hebt
+                        verlaten:</l>
+                    <l>Ghy die om <hi rend="i">Paris </hi>min, kunt <hi rend="i">Menelaus
+                        </hi>haten:</l>
+                    <l>d'Eer die ghy <hi rend="i">Paris </hi>doet, de liefd die ghy hem toont</l>
+                    <l>Sal met ghetrouwigheyt u eeuwigh zyn beloont.</l>
+                    <l rend="speaker"><hi rend="i">Helena.</hi></l>
+                    <l rend="; 1tab">Meer eysch ick <hi rend="i">Paris </hi>niet, als dat ghy my u
+                        Vrouwe,</l>
+                    <l>Ghetrouwe liefd bewijst.</l>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l rend="; 1tab">'k Sal myn beloften houwe</l>
+                    <l>Soo langh dit lichaem voert de Ziel die 't heden draeght.</l>
+                    <l rend="speaker"><hi rend="i">Helena.</hi></l>
+                    <l rend="; 1tab">Ach <hi rend="i">Paris! Paris </hi>ist, wiens minne my
+                        behaeght,</l>
+                    <l>En oock behaghen sal, ghedurende mijn leve:</l>
+                    <l>Diees u mijn minne sal ghetrouheyts oorsaeck gheve.</l>
+                    <stage><hi rend="i">Priamus met eenighe Adel.</hi></stage>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l rend="; 1tab">Daer komt sijn Majesteyt met al den Adel aen.</l>
+                    <l>Laet ons met groetenis sijn Hoogheyt teghen gaen:</l>
+                    <l>Heer Vader na ons plicht, eerbiedelijck wy buyghen</l>
+                    <l>Om aen syn Majesteyt eerwaerdigheyt te tuyhen.</l>
+                    <l rend="speaker"><hi rend="i">Priamus.</hi></l>
+                    <l rend="; 1tab">'k Heb <hi rend="i">Paris </hi>onderricht bekomen soo
+                        terstondt,</l>
+                    <l>Door een expresse Bood die <hi rend="i">Menelaus </hi>sondt,</l>
+                    <l>Dat met syn <hi rend="i">Griecksche </hi>macht, hy is op reys gheteghen.</l>
+                    <l rend="speaker"><hi rend="i">Helena.</hi></l>
+                    <l rend="; 1tab">'t Gheen hy eens heeft ghehadt sal noyt weer zyn
+                        verkreghen.</l>
+                    <l>'k Acht dat het is om myn om <hi rend="i">Paris </hi>te ontslaen,</l>
+                    <l>En sonder <hi rend="i">Paris </hi>my na <hi rend="i">Griecken </hi>te doen
+                        gaen.</l>
+                    <l>Neen <hi rend="i">Menelaus, </hi>neen! dat sult ghy noyt bekomen,</l>
+                    <l>Nam <hi rend="i">Paris </hi>my van u, 'k word niet van hem ghenomen:</l>
+                    <l>Ick blijf myn <hi rend="i">Paris </hi>by, soo <hi rend="i">Paris </hi>my
+                        bemint.</l>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l rend="; 1tab">Hy krijght <hi rend="i">Helena </hi>niet is sy als ick
+                        ghesint.</l>
+                    <l rend="speaker"><hi rend="i">Helena.</hi></l>
+                    <l>Ick ben ghesint gheen Man als <hi rend="i">Paris </hi>liefd te draghen.</l>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l rend="; 1tab">Geen Vrou sal <hi rend="i">Paris </hi>als <hi rend="i">Helena
+                        </hi>oyt behaghen.</l>
+                    <stage><hi rend="i">Menelaus met eenighe Griecksche Adel.</hi></stage>
+                    <l rend="; 1tab"><hi rend="i">Troyaensche </hi>Majesteyt, naest groetenis en
+                        eer</l>
+                    <l>Aen u en 't gantsche Hof ontdeck ick myn begeer;</l>
+                    <l>Dat is, dat men doet verklaringh; door wat rede</l>
+                    <l>Dat <hi rend="i">Paris </hi>heeft ghevoert <hi rend="i">Helena</hi> hier ter
+                        stede?</l>
+                    <l>Myn Echt en eer gheschent, ghebroken Eedt en trou:</l>
+                    <l>Mijn teghens alle recht ontschaeckt mijn echte Vrou.</l>
+                    <l>Is dit de eer ghenoegh? Hoe! zyn dit Prince dade?</l>
+                    <l>Een Prince komt het toe te straffen sulcke quade:</l>
+                    <l>'k Had <hi rend="i">Paris </hi>noyt in 't minst u sulcks toe vertrout,</l>
+
+                    <pb ed="fol." n="E4v"/>
+                    <l>Dat ghy u Prince plicht soo schendich breken soudt.</l>
+                    <l>Hoe <hi rend="i">Paris! </hi>kan in u die valscheyt syn bevonde?</l>
+                    <l>Hoe <hi rend="i">Priamus, </hi>een Vorst behoort te syn ghebonde</l>
+                    <l>Aen reden, en aen recht: 'k segh een rechtvaerdich Heer</l>
+                    <l>En past het gheen ghy doet, o <hi rend="i">Paris </hi>nimmermeer.</l>
+                    <l>'t Is d'eere niet ghenoech mijn Vrouwe te beslapen,</l>
+                    <l>Het gheen ick sweer aen u te wreecken met de wapen.</l>
+                    <l>Gantsch Griecken sal met macht, o ghy vervloeckt Troyaen!</l>
+                    <l>(Ghemoedight door de spijt) u boosheyt teghen staen.</l>
+                    <l>Gantsch Griecken sal met macht sich teghen Troyen stellen,</l>
+                    <l>V onrechtvaerdicheyt ter aerden neder vellen.</l>
+                    <l>Onlijd-lijck is de spijt te bitter is het leedt:</l>
+                    <l>Het welck <hi rend="i">Paris </hi>ghy aen mijn t'onwaerdich deedt:</l>
+                    <l>'k Versoecke <hi rend="i">Priamus, </hi>u Hoogheyt die ghebiede,</l>
+                    <l>Dat my in dese saeck na rechten mach gheschiede:</l>
+                    <l>Of dat u Majesteyt op 't kort een oordeel strijck,</l>
+                    <l>Al eer ick wederom van dese plaetse wijck,</l>
+                    <l>Of ick <hi rend="i">Helena </hi>sal met my naer Griecken nemen,</l>
+                    <l>Dan of haer <hi rend="i">Paris </hi>sal mijn Echte doen vervremen?</l>
+                    <l>En scheyden Man van Vrou, Coningh van Coningin?</l>
+                    <l>Breecken mijn Echte trou, door lusten van syn min?</l>
+                    <l rend="speaker"><hi rend="i">Priamus.</hi></l>
+                    <l rend="; 1tab">Waent niet Grootmoghent Vorst, dat mijn ghenegenthede</l>
+                    <l>In 't minste sullen gaen teghen de Wet van rede:</l>
+                    <l>Denckt Grieckschen Koninck niet dat ick ben van dien aerdt,</l>
+                    <l>Die door gheneghentheyt een lust tot onrecht baert.</l>
+                    <l>Waent <hi rend="i">Menelaus </hi>niet dat ick my soude toonen</l>
+                    <l>Om onrecht door de gunst onrechtigh te verschoonen?</l>
+                    <l>Neen <hi rend="i">Menelaus </hi>neen, <hi rend="i">Priamus </hi>is gheen
+                        man</l>
+                    <l>Die onrecht door de gunst in 't minst verschoonen kan,</l>
+                    <l><hi rend="i">Priamus </hi>wil dat Recht gherechtigheyt sal schiede.</l>
+                    <l>En 't komt de Vorsten toe, oock alle die ghebiede:</l>
+                    <l>En 't heyligh recht bekleen dat inde straffe gaet</l>
+                    <l>Rechtveerdigheyt voor gunst, tot looningh van het quaet,</l>
+                    <l>Om u in dese saeck rechtvaerdicheyt te toonen</l>
+                    <l>En sal ick <hi rend="i">Paris </hi>in het minste niet verschoonen.</l>
+                    <l>Heeft hy u Echte Vrou u teghens danck ontschaeckt,</l>
+                    <l>Haer teghens hare wil (segh ick) syn Boel ghemaeckt</l>
+                    <l>Ick acht hem straffe waert, ghelijck hem sal gheschieden.</l>
+                    <l rend="speaker"><hi rend="i">Helena</hi></l>
+                    <l rend="; 1tab">Syn Hoogheyt die seyt recht, dies ick in syn ghebieden</l>
+                    <l>Door goet vertrouwen dese saeck vrywillich stel,</l>
+                    <l>Op dat syn Majesteyt rechtvaerdich oordeel vel.</l>
+                    <l rend="speaker"><hi rend="i">Priamus.</hi></l>
+                    <l rend="; 1tab">Wat seyt hier <hi rend="i">Paris </hi>toe, en ghy <hi rend="i"
+                            >Helena </hi>mede?</l>
+                    <l rend="speaker"><hi rend="i">Paris</hi></l>
+                    <l>Wat my belanght ick ben Heer Vader wel te vrede,</l>
+                    <l>Dat met goe kennis wert de saeck wel onderstaen:</l>
+                    <l>En dat ick wordt ghestraft ist dat ick heb misdaen.</l>
+
+                    <pb ed="fol." n="F1r"/>
+                    <l rend="speaker"><hi rend="i">Helena.</hi></l>
+                    <l rend="; 1tab">Indien zijn Majesteyt ghelieve te vergunne</l>
+                    <l>Een middel, waer door men dees saeck sal slechten kunnen.</l>
+                    <l>Soo is mijns oordeels gheen bequamer middel dan</l>
+                    <l>Dat syne Majesteyt neemt mijn versoecken an:</l>
+                    <l>Dat is dat ick uyt liefd mach keuren nae behaghen,</l>
+                    <l>Die ick uyt liefdens lust de meest gunst sal draghen.</l>
+                    <l rend="speaker"><hi rend="i">Priamus.</hi></l>
+                    <l rend="; 1tab">Wat heeft zijn Majesteyt hier teghen?</l>
+                    <l rend="speaker"><hi rend="i">Menelaus</hi></l>
+                    <l>Gantschelijck niet.</l>
+                    <l>Mits ick versekert ben dat my haer gunst gheschiet.</l>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l rend="; 1tab">Voor mijn ick ben te vreen, laet vry <hi rend="i">Helena
+                        </hi>kiese,</l>
+                    <l>'k Vertrou dat ick haer gunste niet en sal verliese:</l>
+                    <l>Maer dat sy <hi rend="i">Paris </hi>meer als <hi rend="i">Menelaus
+                        </hi>mint.</l>
+                    <l rend="speaker"><hi rend="i">Menelaus</hi></l>
+                    <l rend="; 1tab">'k Weet dat sy meer tot mijn, als <hi rend="i">Paris </hi>is
+                        ghesint.</l>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l>'k Weet dat sy <hi rend="i">Paris </hi>sal voor <hi rend="i">Menelaus
+                        </hi>keuren.</l>
+                    <l rend="speaker"><hi rend="i">Menelaus</hi></l>
+                    <l rend="; 1tab">'k Weet <hi rend="i">Paris </hi>dat u noyt die gunste sal
+                        ghebeuren.</l>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l>Wil <hi rend="i">Menelaus </hi>dan dat ons <hi rend="i">Helena
+                        </hi>scheyt?</l>
+                    <l rend="speaker"><hi rend="i">Menelaus</hi></l>
+                    <l>Ick ben <hi rend="i">Paris </hi>te vreen, laet hooren wat sy seyt.</l>
+                    <l rend="speaker"><hi rend="i">Priamus.</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Helena</hi> door u keur moet ghy dees tweedracht
+                        slechten,</l>
+                    <l>V keur, <hi rend="i">Helena </hi>moet alleen dit onrecht rechten.</l>
+                    <l>Ist dat ghy meerder lieft u eerst verkooren Man</l>
+                    <l>Als <hi rend="i">Paris: </hi>'t is mijn wil, neemt <hi rend="i">Menelaus
+                        </hi>an.</l>
+                    <l>Op dat ghy u in 't eynt niet hebbe te beklaghen:</l>
+                    <l>Kiest wel, dats die, die ghy de meeste liefd sult draghen.</l>
+                    <l rend="speaker"><hi rend="i">Helena.</hi></l>
+                    <l rend="; 1tab">Ach! wert het my vergunt te kiesen na mijn sin,</l>
+                    <l>Een van dees twee die ick het aldermeest bemin?</l>
+                    <l>Mach ick vrywillich dan liefds keur in 't werck leggen?</l>
+                    <l>Soo sal ick hier voor 't Hoff mijns hertens gront uyt segghen,</l>
+                    <l>Mach ick wel ongheveynst, niet met een dubbeld hert</l>
+                    <l>Wtspreecken tot wiens liefd mijn ziel ghetrocken wert?</l>
+                    <l>Mach ick nae liefdens aert, mijn willekeur verkrijghen?</l>
+                    <l>'k Sal segghen wien ick min: 't schijnt alles stil te swijghen.</l>
+                    <l>Gheeft antwoort op mijn vraegh: is yder wel te vreen,</l>
+                    <l>Dat die ick meest bemin, ick mijne trou verleen?</l>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l rend="; 1tab">Als anders niet en kan, voort mijn ick ben te vreden.</l>
+                    <l rend="speaker"><hi rend="i">Menelaus</hi></l>
+                    <l>Ick van ghelijcken mee, al is het teghen reden:</l>
+                    <l>Kiest die ghy 't liefst bemint, want my u keur niet baet</l>
+                    <l>Of ghy mijn kiest, soo min is minder als u haet.</l>
+                    <l>Is liefd tot <hi rend="i">Paris </hi>meer laet <hi rend="i">Paris </hi>die
+                        ghenieten</l>
+                    <l>Al sou dit Prinslijck hart uyt teeren in verdrieten.</l>
+                    <l>Doch in het minst ick dat mijn lief niet toe vertrou.</l>
+                    <l>O dochter van <hi rend="i">Iupijn: </hi>o Griecksche Koninghs Vrou:</l>
+                    <l>O <hi rend="i">Spertens </hi>roem en pronck, ghedenckt hoe ick voor dese,</l>
+                    <l>V heb gheviert, ghedient, en alle eer bewese;</l>
+                    <l>Ghedenck, mijn lief ghedenck wat vryigheyt dat ghy</l>
+                    <l>Door Echte plicht en lust in min ghenoot met my.</l>
+
+                    <pb ed="fol." n="F1v"/>
+                    <l>'k weet dat u eerbaer hert om vremde lust noyt dochte,</l>
+                    <l>Maer dat ('t gheen Gode spijt) u <hi rend="i">Paris </hi>daer toe
+                        brochte;</l>
+                    <l>'k Ghedenck de valscheyt, die u <hi rend="i">Paris </hi>deed, gheen meer;</l>
+                    <l>Maer ick vergeefse u, mint <hi rend="i">Menelaus </hi>weer,</l>
+                    <l>'k Vertrou my op u deught, 'k vertrou my op u minne</l>
+                    <l>Van mijn gheminde Vrou; o <hi rend="i">Spartens </hi>Koninginne;</l>
+                    <l>Wiens armen my soo vaeck omhelsden met gheneught,</l>
+                    <l>En uytghelaten lust van soete minne vreught,</l>
+                    <l>Nu 't <hi rend="i">Priamus </hi>goet vint, dat die, u min verliese,</l>
+                    <l>Ghy die verlaten sult: soo bid ick u, wilt kiese:</l>
+                    <l>Dies kiest, <hi rend="i">Helena </hi>kiest.</l>
+                    <l rend="speaker"><hi rend="i">Helena.</hi></l>
+                    <l rend="; 1tab">Wert my mijn keur ghegheven</l>
+                    <l>Te kiesen hem, met wie ick eeuwigh wensch te leven?</l>
+                    <l rend="speaker"><hi rend="i">Priamus.</hi></l>
+                    <l rend="; 1tab">'t Wert u vergunt, dies kiest, 't sy <hi rend="i">Paris </hi>of
+                        u Man</l>
+                    <l>Den <hi rend="i">Grieckschen </hi>Koninck.</l>
+                    <l rend="speaker"><hi rend="i">Hele.</hi></l>
+                    <l>Nu <hi rend="i">Helena, </hi>nu wel an</l>
+                    <l>Laet blijcken wie u hert de meeste liefd' sal draghen.</l>
+                    <l>V kus ick <hi rend="i">Paris; </hi>die mijn meerder kunt behaghen</l>
+                    <l>Als dese <hi rend="i">Griecksche </hi>Vorst; wiens liefde ick versaeck,</l>
+                    <l>En een <hi rend="i">Troyaensche </hi>Prins ick tot mijn Vooghd-heer
+                        maeck.</l>
+                    <l rend="speaker"><hi rend="i">Priamus.</hi></l>
+                    <l rend="; 1tab">Hoe <hi rend="i">Menelaus </hi>Vorst, hoe dus ontstelt van
+                        sinnen?</l>
+                    <l>V Majesteyt gheliefd met ons te treden binnen:</l>
+                    <l>'t Schijnt dat de droefheyt u tot aen het herte raeckt.</l>
+                    <l rend="speaker"><hi rend="i">Menelaus</hi></l>
+                    <l rend="; 1tab">Vervloeckte Vrou! die my tot spot en schande maeckt:</l>
+                    <l>'k Sweer u dat ick de spijt onwaerdigh my ghedaen</l>
+                    <l>Sal wreecken na mijn lust aen een vervloeckt <hi rend="i">Troyaen.</hi></l>
+                    <stage><hi rend="i">Binnen.</hi></stage>
+                    <l rend="speaker"><hi rend="i">Paris.</hi></l>
+                    <l rend="; 1tab">Gheliefde lief en wilt sijn dreygingh trots niet achten:</l>
+                    <l>'k Meen hy sal sich de strijt wel tegens <hi rend="i">Troyen
+                        </hi>wachten.</l>
+                    <l>Ick danck de Goden voor u liefd aen my besteet,</l>
+                    <l>En draegh u meerder liefd' als selfs <hi rend="i">Helena </hi>weet:</l>
+                    <l>En hoop dat sy van dagh tot dagh sal meerder groeye,</l>
+                    <l>Soo dat <hi rend="i">Helena </hi>sal met <hi rend="i">Paris In Liefd'
+                            Bloeye.</hi></l>
+                </lg>
+                <p><hi rend="i">Finis Coronat opus.</hi></p>
+            </div>
+                
+            </div>
+        </body>
+    </text>
+</TEI.2>

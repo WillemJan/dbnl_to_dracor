@@ -1,0 +1,1500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Bedrogen lichtmis</title>
+                <author>Jan de Mol</author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een
+                    diplomatische weergave van <hi rend="i">Bedrogen lichtmis</hi> van Jan de Mol
+                    uit 1671. </edition>
+                <respStmt>
+                    <resp>
+                        <corr/>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <scandetails>
+                <scan type="1">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page>2</empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""/>
+                </scan>
+            </scandetails>
+            <publicationStmt>
+                <idno type="titelcode">mol_014bedr01_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2010 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note>DSOLmetadata:yes</note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"/>
+                    <idno type="usedcopy">exemplaar collectie INL, Leiden</idno>
+                </bibl>
+                <p>Jan de Mol, <hi rend="i">Bedrogen lichtmis</hi>. Jacob Lescailje, Amsterdam
+                    1671</p>
+                <p>&#160;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p/>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">Bedrogen lichtmis</title>
+                <author>Jan de Mol</author>
+                <idno/>
+                <imprint>
+                    <publisher/>
+                    <pubPlace/>
+                </imprint>
+            </bibl>
+            <idno type="isbn"/>
+            <order>
+                <price curr="euro"/>
+                <link/>
+            </order>
+            <blurb>
+                <p/>
+            </blurb>
+            <titlepage>
+                <p/>
+            </titlepage>
+            <colofon>
+                <p/>
+            </colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">Bedrogen lichtmis</title>
+                <author>Jan de Mol</author>
+                <idno/>
+                <imprint>
+                    <publisher/>
+                    <pubPlace/>
+                </imprint>
+            </bibl>
+            <idno type="isbn"/>
+            <order>
+                <price curr="euro"/>
+                <link/>
+            </order>
+            <blurb>
+                <p/>
+            </blurb>
+            <titlepage>
+                <p/>
+            </titlepage>
+            <colofon>
+                <p/>
+            </colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2010-10-19</date>
+                <respStmt>
+                    <name type="person">DH</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="chapter">
+                <pb n="1"/>
+                <p>BEDROGEN LICHTMIS,</p>
+                <p>gerijmt door</p>
+                <p>J. DE MOL.</p>
+                <p>Op de reegel:</p>
+                <p><hi rend="i">Een snoepende kat Wort eens gevat</hi>.</p>
+                <p><figure>
+                        <p><xptr to="mol_014bedr01ill01.gif"/></p>
+                    </figure></p>
+                <p>t' AMSTERDAM,</p>
+                <p>By <hi rend="i">Jacob Lescailje</hi>, Boeckverkooper op de Middeldam, naest de
+                    Vismarckt, 1671.</p>
+            </div>
+            <div type="chapter">
+                <pb n="3"/>
+                <head rend="h3">Aen de aenschouwende Jeught.</head>
+                <lg type="poem">
+                    <l>K<hi rend="i">Omt hier</hi>, <hi rend="i">ô wulpse Ieucht! die met uw dartle
+                            sinnen</hi></l>
+                    <l rend="; 2tab"><hi rend="i">Niet anders wickt en weegt</hi>, <hi rend="i">als
+                            eygen schaed' en leet</hi>,</l>
+                    <l rend="; 1tab"><hi rend="i">Tot siel- en lijfs verderf</hi>; <hi rend="i">al
+                            uw vernuft besteet</hi>,</l>
+                    <l><hi rend="i">En uwe herssens scherpt tot 't ongeoorlooft minnen:</hi></l>
+                    <l><hi rend="i">Die voor den goeden raedt van ouders ende magen</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Het oor geslooten hout</hi>; <hi rend="i">en
+                            luystert na die geen</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Die 't selfde padt inslaen dat gy sijt
+                            ingetreên:</hi></l>
+                    <l><hi rend="i">Die uw vernoegen schept in vreught</hi>, <hi rend="i">bevrucht
+                            met plagen:</hi></l>
+                    <l><hi rend="i">Die echte trouw veracht</hi>, <hi rend="i">en 't weesen weet te
+                            maecken</hi>,</l>
+                    <l rend="; 1tab"><hi rend="i">Of ongeveynsde min alleen 't gemoedt
+                        besat</hi>,</l>
+                    <l rend="; 1tab"><hi rend="i">Tot dat men door gesweer krijgt 't geen men gaeren
+                            hadt</hi>,</l>
+                    <l><hi rend="i">En dan meyneedigh weêr sich selven soeckt te slaecken</hi></l>
+                    <l><hi rend="i">Van d'eer stgeswooren eedt</hi>; <hi rend="i">om weêr op nieuw
+                            te hangen</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Een Godtverdrietendt net</hi>, <hi rend="i">voor
+                            die onnoosel sijn</hi>,</l>
+                    <l rend="; 1tab"><hi rend="i">Waer door m' 'er kuysheyt mogt</hi>, <hi rend="i"
+                            >door een vervloeckte schijn</hi></l>
+                    <l><hi rend="i">Van snoô geveynsde min</hi>, <hi rend="i">verradelijcken
+                            vangen:</hi></l>
+                    <l><hi rend="i">Die Hylas sijt gelijck</hi>, <hi rend="i">en 't oogh gestaêgh
+                            laet weyen</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Op elck die u ontmoet</hi>, <hi rend="i">die dan
+                            een geyle schicht</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Al brandendt krijgt na 't hart</hi>, <hi rend="i"
+                            >uyt 't onbesaedt gesicht:</hi></l>
+                    <l><hi rend="i">Die d'alderlaetst gesien het eerste wil verleyen:</hi></l>
+                    <l><hi rend="i">Doorleest dees' blaed'ren maer</hi>, <hi rend="i">gewis ghy sult
+                            bespeuren</hi>,</l>
+                    <l rend="; 1tab"><hi rend="i">Dat hem de straffe volgt die trouwelooslijck
+                            sweert</hi>,</l>
+                    <l rend="; 1tab"><hi rend="i">Tot boeting van sijn lust</hi>, <hi rend="i">'t
+                            geen 't herte niet begeert:</hi></l>
+                    <l><hi rend="i">Beklaeght hy 't niet in tijts</hi>, <hi rend="i">hy sal't daer
+                            na betreuren</hi>.</l>
+                </lg>
+            </div>
+            <div type="chapter">
+                <pb n="4"/>
+                <head rend="h3">Speelende persoonen.</head>
+                <list>
+                    <item><hi rend="i">Grietje</hi>, een dienstmeyt.</item>
+                    <item/>
+                    <item><hi rend="i">Leander</hi>, Bedrogen Lichtmis.</item>
+                    <item/>
+                    <item><hi rend="i">Anne Pieters</hi>, de moeder van Leander.</item>
+                    <item/>
+                    <item><hi rend="i">Pleuntje Jans</hi>, een oude vrouw.</item>
+                    <item/>
+                    <item><hi rend="i">Machtelt</hi>, een onteerde dochter.</item>
+                    <item/>
+                    <item><hi rend="i">Diewer</hi>, een Snol.</item>
+                    <item/>
+                    <item><hi rend="i">Beatrix</hi>, een Waerdin.</item>
+                    <item/>
+                    <item><hi rend="i">Hans</hi>,} twee diefleyers.</item>
+                    <item/>
+                    <item><hi rend="i">Iurien</hi>,} twee diefleyers.</item>
+                    <item/>
+                    <item><hi rend="i">Ioost</hi>, de knecht.</item>
+                    <item/>
+                    <item><hi rend="i">Iochgom</hi>, de kruyer.</item>
+                </list>
+            </div>
+        </front>
+        <body>
+            <div type="act">
+                <div type="scene">
+                    <pb n="5"/>
+                    <head rend="h2">Bedrogen lichtmis.</head>
+                    <head rend="h3">Eerste uytkomst.</head>
+                    <sp>
+                        <speaker><hi rend="i">Grietje. Leander</hi>.</speaker>
+                        <l>LEander, hout je rust, en wilt men niet meer quellen,</l>
+                        <l rend="; 3tab">Ick en sel 't niet doen, swijgh stil. waer toe dit
+                            lellen</l>
+                        <l rend="; 3tab">Gestadigh aen men oor? ick bidt je laet mijn gaen,</l>
+                        <l rend="; 3tab">Ick moet mijn werck doen, 't sal dadelijck negen slaen.</l>
+                        <l rend="; 1tab">De dach is soo na om, ick moet de kas noch vrijven,</l>
+                        <l rend="; 1tab">En logen 't tinnewerck. gaet by de lichte wijven,</l>
+                        <l rend="; 1tab">Steeck 'et gelt in je sack, loop na de Venusbuert,</l>
+                        <l rend="; 1tab">'t Geen ghy hier soeckt, wort daer voor minder gelt
+                            verhuert.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 2tab">Soo een roodermont als ghy, salick daer niet vinden.</l>
+                        <l rend="; 1tab">Neen Grietje moet het sijn, die kan de bandt ontbinden.</l>
+                        <l rend="; 1tab">Komt brave meyt, ey ontbindt men van de minnebandt,</l>
+                        <l rend="; 1tab">Eer dat dees jonge borst om uwent wil verbrandt.</l>
+                        <l rend="; 1tab">Ey blust doch dit krachtigh vier, 't sal u niet
+                            berouwen,</l>
+                        <l rend="; 1tab">Dat sweer ick u, daer is mijn handt, ick sal u trouwen,</l>
+                        <l rend="; 1tab">Indien je wort bevrucht.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Grietje</hi>.</speaker>
+                        <l rend="; 4tab">Of schoppen met de voet.</l>
+                        <l rend="; 1tab">Mijn eer en geef ick niet om al het werelts goet.</l>
+                        <l rend="; 1tab">Om mijn te trouwen, dat behoef je niet te sweeren;</l>
+                        <l rend="; 1tab">Ick acht geen minnaers eedt, die lichter dan de veeren</l>
+                        <l rend="; 1tab">Heen vliegt; gelijck men daagelijcks gebeuren siet</l>
+                        <l rend="; 1tab">Dat een onnoosle meyt daer door raeckt in 't verdriet.</l>
+                        <l rend="; 1tab">Leander swijgh vry stil, 't en kan doch niet
+                            geschieden,</l>
+                        <l rend="; 1tab">Al woud ghy mijn trouwen, jou moeder sou 't verbieden.</l>
+                        <l rend="; 1tab">Want ghy bent rijck van goet, en ick een slechte meyt,</l>
+                        <pb n="6"/>
+                        <l>Oock heb ick mijne trouw een aêr al toe geseyt.</l>
+                        <l>En raeckte ick met kindt, dan sou se 't niet gedogen:</l>
+                        <l>Lieve knecht, wie had ick dan als mijn selver bedrogen?</l>
+                        <l>Leander, segh een reys, wat raedt ging mijn dan aen,</l>
+                        <l>Dan most ick met het kindt langs d'huysen bidden gaen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 1tab">Ick sal u met het kindt dan rijck'lijck onderhouwen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Grietje</hi>.</speaker>
+                        <l rend="; 1tab">Die gront is al te swack, men kan daer niet op bouwen.</l>
+                        <l>Leander, soo doende raeckt mijn werck niet gedaen.</l>
+                        <l>Stracks komt jou moeder t'huys, ick moet aen 't logen gaen,</l>
+                        <l>Leander laet men los.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 2tab">Neen Grietje, 't moet nu wesen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Grietje</hi>.</speaker>
+                        <l rend="; 1tab">Hou handen van de banck.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 4tab">Iy kunt mijn smert genesen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Grietje</hi>.</speaker>
+                        <l rend="; 1tab">Dat gat en boor je niet.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 3tab">Kom Grietje, maer een soen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Grietje</hi>.</speaker>
+                        <l rend="; 1tab">Dat kan nou niet geschiên. ick heb wat aêrs te doen.</l>
+                    </sp>
+                    <stage><hi rend="i">binnen</hi>.</stage>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 1tab">Daer bruyt se heen, al meê een van de hellevegen.</l>
+                        <l>Dat is niemendal, ick hoop se noch te bewegen,</l>
+                        <l>Gelijck als schoone Catrijn in de nieuwe bleeck,</l>
+                        <l>Die was als stael soo hart, maer wiert daer na soo weeck</l>
+                        <l>Door het stomme gelt. Het is qualijck te laeten</l>
+                        <l>Het geen men gaeren doet; 'k sel Griet oock wel bepraeten,</l>
+                        <l>Het kost wat 'et kost: 'k heb soo menich brave meyt,</l>
+                        <l>Die 'k hier niet wil noemen, nae mijn sin geleyt,</l>
+                        <l>Dat door hulp en kracht van de eêle goude regen.</l>
+                        <l>Al bin se wat weyg'righ men kans' 'er door bewegen.</l>
+                        <l>Wat doet niet dat roode gout, 't welck van selfs is stom?</l>
+                        <l>Sijn mogentheyt buygt 't recht als hoepelen soo krom.</l>
+                    </sp>
+                    <stage><hi rend="i">binnen</hi>.</stage>
+                    <pb n="7"/>
+                </div>
+                <div type="scene">
+                    <sp>
+                        <speaker><hi rend="i">Grietje met een hallefvat</hi>, <hi rend="i">en daer
+                                na met eenigh tinne-goet om te loogen</hi>, <hi rend="i"
+                            >uyt</hi>.</speaker>
+                        <l>DE meysjens huyden daeghs meugen haer wel wat mijden;</l>
+                        <l>Want een die moy is heeft al veel aenstoots te lijden.</l>
+                        <l>Neen, Leander fluyt mijn soo licht niet in sijn strick.</l>
+                        <l>Zijn gelt en eeden acht ick niet, ick min Hendrick.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Grietje gaet aen 't loogen</hi>, <hi rend="i">al
+                                singende</hi>.</speaker>
+                        <lg type="poem">
+                            <interpGrp>
+                                <interp type="song" value="mol_014bedr01_0001"/>
+                            </interpGrp>
+                            <head><hi rend="i">Stemme:</hi> Cupido onlangs geleên, &amp;c.</head>
+                            <l>C<hi rend="i">Vpido ghy blinde kint</hi>,</l>
+                            <l><hi rend="i">Ghy maeckt 'er veel ontsint</hi></l>
+                            <l><hi rend="i">Als de min neemt begin in de harten</hi></l>
+                            <l><hi rend="i">Dan soete smart begint:</hi></l>
+                            <l><hi rend="i">'t Geen ons niet is gewoon</hi></l>
+                            <l><hi rend="i">Dat komt van u ten toon</hi>,</l>
+                            <l><hi rend="i">En ghy schiet soet verdriet</hi>, <hi rend="i">soete
+                                    smarten</hi>;</l>
+                            <l><hi rend="i">Ghy machtigh van de Goôn</hi>.</l>
+                            <l>&#160;</l>
+                            <l><hi rend="i">Ghy maeckt het domme vee</hi></l>
+                            <l><hi rend="i">Tot minnen haest gereê</hi>,</l>
+                            <l><hi rend="i">Dat sy heet</hi>, <hi rend="i">gau gereet sijn te
+                                    springen</hi>;</l>
+                            <l><hi rend="i">'t Sy groot of kleyne meê</hi>.</l>
+                            <l><hi rend="i">De vogels in het wout</hi>,</l>
+                            <l><hi rend="i">Die ghy niet stille hout</hi>.</l>
+                            <l><hi rend="i">Op een dack of een tack</hi>, <hi rend="i">daer sy
+                                    singen</hi>,</l>
+                            <l><hi rend="i">Als Liefd' in haer lust brout</hi>, <hi rend="i"
+                                    >&amp;c</hi>.</l>
+                        </lg>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leander uyt</hi>, <hi rend="i">vat Grietje</hi>, <hi
+                                rend="i">van achteren komende</hi>, <hi rend="i">by haer
+                                borsten</hi>.</speaker>
+                        <l>WEl Heer is dat verschricken, je hoor je te schamen</l>
+                        <l rend="; 2tab">Leander, dat sijn stucken die jou niet betamen.</l>
+                        <l rend="; 1tab">Wat beelje jou in, 't is slimmer of 'k een hoer waer.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 3tab">Nou Grietje weest te vreên, de saeck lijdt geen gevaer.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Grietje</hi>.</speaker>
+                        <l rend="; 3tab">Ie sult doch nimmermeer u wil van mijn verkrijgen,</l>
+                        <pb n="8"/>
+                        <l>Verstae je 't wel Sunjeur? dies wilt 'er vry van swijgen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 1tab">Soo bidt ick, Grietje, dan ten minsten om een soen,</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Grietje</hi>.</speaker>
+                        <l rend="; 1tab">De gallich om je hals, dat sel het jouw wel doen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 1tab">Ey laet mijn mont maer eens u roode lipjens drucken.</l>
+                        <l>Kom laet mijn sieltje doch een beetje vreughde plucken.</l>
+                        <l>Sie daer is gout op gout, ey blust mijn minnevier</l>
+                        <l>Dat als een Etna brandt.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Grietje</hi>.</speaker>
+                        <l rend="; 5tab">Wel hey, hoe is het hier</l>
+                        <l>Met dese kapstock? loop by Melis in de boonen.</l>
+                        <l>Hou banden van de banck, of ick selje soo kroonen</l>
+                        <l>Met dese tinne schotel, dat 'et jou smarten sal.</l>
+                        <l>Ick selje niet ontsien, is 'et hier al van 't mal;</l>
+                        <l>Laet ick mijn huyswerck doen, gaet heen, loop na je snollen.</l>
+                        <l>Mijn dunckt dat het jou schort daer se de ossen bollen.</l>
+                        <l>Leander gaet van hier, daer komt je moeder aen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Anne Pieters. Pleuntje Ians</hi>.</speaker>
+                        <l rend="; 1tab">WEl Grietje, hebje dat tinwerck noch niet gedaen?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Grietje</hi>.</speaker>
+                        <l rend="; 2tab">Ia vrouw.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 3tab">Krijg een stoel of twee. nou Pleuntje, ga sitten.</l>
+                        <l>Grietje.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Grietje</hi>.</speaker>
+                        <l rend="; 3tab">Wat gelief je vrouw?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 6tab">Ie selt morgen witten;</l>
+                        <l>De mueren sien der uyt als een taen van de roock,</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Grietje</hi>.</speaker>
+                        <l rend="; 1tab">'t Is goet vrouw.</l>
+                        <stage><hi rend="i">Grietje met haer schuergoet binnen</hi>.</stage>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Pleuntje</hi>.</speaker>
+                        <l rend="; 4tab">Ia soo varen wy tot onsent oock.</l>
+                        <l>Het roockt 'er soo in huys, men kan der niet in dueren.</l>
+                        <l>'k Heb al lang gedreyght om een ander huys te hueren,</l>
+                        <l>Maer 'k ontsie de rusi van 't vervaaren.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 7tab">'t Is soo.</l>
+                        <l>Het verhuysen, segt men, kost een hoopen bedtstroo.</l>
+                        <l>Geef je veel van huer?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Pleuntje</hi>.</speaker>
+                        <l rend="; 4tab">Ia, ontrent hondert kroonen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 1tab">Wel moet je seecker, Pleuntje Ians, soo veel verwoonen?</l>
+                        <pb n="9"/>
+                        <l>'t Is een moye stuyver, hebj' 'er wat gemack in?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Pleuntje</hi>.</speaker>
+                        <l rend="; 2tab">Ia, 't kan wel sloeren, 't is redelijck nae mijn sin:</l>
+                        <l>Een vliering, een kleersolder met een kelderkoocken,</l>
+                        <l>Daer wy 's winters om de kouw gemeen'lijck in stoocken,</l>
+                        <l>Een hangkamer, dan heeft 'er mijn swager een kantoor</l>
+                        <l>Boven het voorhuys, daer hy schrijft.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 5tab">Nae dat ick hoor</l>
+                        <l>Kan 'et heel wel gaen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Pleuntje</hi>.</speaker>
+                        <l rend="; 3tab">'t Best souw ick wel vergeeten.</l>
+                        <l>Achter 't huys is noch een tuyntje, en twee secreeten,</l>
+                        <l>Een pomp, een groote regenback met een bleeckvelt.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 1tab">Wel moêr, je hebt al een groot gerijf voor je gelt.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Pleuntje</hi>.</speaker>
+                        <l rend="; 1tab">'t Is waer Anne Pierers, wou 'et 'er soo niet roocken.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 1tab">Ia kijnt het kan hier oock somtijts wel wacker
+                            smoocken.</l>
+                        <l>Wat sel men doen, daer is wel soo veel moeyten gedaen</l>
+                        <l>Om dat te verdrijven, maer 't heeft noyt willen gaen.</l>
+                        <l>Daer is de roockmaecker, die 't roocken weet te stelpen,</l>
+                        <l>En daer vermaert voor is, heeft 'et niet kennen helpen:</l>
+                        <l>En soo verquist ick vast een heele handt vol gelt.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Pleuntje</hi>.</speaker>
+                        <l rend="; 2tab">'t Is verdrietigh woonen daer de roock een mens soo
+                            quelt.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 1tab">Och Pleuntje Ians, een mens moet soo veel verdriets
+                            verdraegen.</l>
+                        <l>Wy sijn 't alleenigh niet die over 't roocken klaegen.</l>
+                        <l>Een goet huys te treffen, 't is een geluck die 't raeckt.</l>
+                        <l>De huy sen slachten ons, wy sijn oock niet volmaeckt.</l>
+                        <l>Ick kan 't niet vergeeten, daer je me flus van seyden,</l>
+                        <l>Dat Neeltje Wouters heur soo heeft laeten verleyden.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Pleuntje</hi>.</speaker>
+                        <l rend="; 2tab">Dat speck heefts' al wegh.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 4tab">Seecker was hy soo een vent?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Pleuntje</hi>.</speaker>
+                        <l rend="; 2tab">Och Anne Pieters, wie is 't die 't harte kent.</l>
+                        <l>'t Is huyden daeghs een tijt dat men wel uyt zijn oogen</l>
+                        <l>Sien magh: och wat wort 'er meenigh dochter bedroogen.</l>
+                    </sp>
+                    <pb n="10"/>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 1tab">Niet waer Pleuntje lans, wat is het een boose tijt</l>
+                        <l>Wat geschiet 'er in dese stadt al godd'loosheyt.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Pleuntje</hi>.</speaker>
+                        <l rend="; 2tab">Wat moetwil siet men huyden daegs van de kinders
+                            gebeuren,</l>
+                        <l>(De vroome niet te na) daer d'ouders om gaen treuren.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 1tab">Dat is waer moêr, wat lijd ick oock al een hartseer</l>
+                        <l>Van mijn eenighste seun; och och dat hem de Heer</l>
+                        <l>Wou haalen, hoe blijde en danckbaer sou ick wesen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Pleuntje</hi>.</speaker>
+                        <l rend="; 2tab">Hoe praat je dus? hy plecht soo niet te sijn voor
+                            desen.</l>
+                        <l>Hoe is hy soo vervallen?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 5tab">Dat en weet ick niet</l>
+                        <l>Lieve Pleuntje Ians, hy doet my sulcken verdriet.</l>
+                        <l>Ick kan 't niet seggen kijnt, wat dat ick al moet lyen</l>
+                        <l>Van die guyt.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Pleuntje</hi>.</speaker>
+                        <l rend="; 2tab">Nou moêr weest te vreên, waer toe dit schreyen?</l>
+                        <l>Het sel wel beteren, schept maer een goede moedt.</l>
+                        <l>Hy die het al regeert, en wijsselijck behoedt,</l>
+                        <l>Die sel u seun noch wel op rechte wegen helpen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 1tab">Hoe sou 'k my verblijden.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Pleuntje</hi>.</speaker>
+                        <l rend="; 5tab">Wil slechts je droef heyt stelpen.</l>
+                        <l>Hoor moêr, je moet de knecht met soetheyt ondergaen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 1tab">Het helpt niet een beet, dat heb ick al gedaen.</l>
+                        <l>Waerde Pleuntje daer is geen zy aen hem te spinnen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Pleuntje</hi>.</speaker>
+                        <l rend="; 2tab">Waer is hy, roept hem eens, misschien sel ick wat
+                            winnen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 1tab">Daer komt hy juyst aen.</l>
+                        <stage><hi rend="i">Leander uyt</hi>.</stage>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 5tab">Griet, waer ben je meyt?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Grietje</hi>.</speaker>
+                        <l rend="; 6tab">Alhier.</l>
+                        <l>Wat gelief je Sunjeur?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 4tab">Tap eens een glas met bier.</l>
+                    </sp>
+                    <stage><hi rend="i">Griet binnen</hi>, <hi rend="i">weêr uyt met een glas
+                            bier</hi>.</stage>
+                    <sp>
+                        <speaker><hi rend="i">Pleuntje</hi>.</speaker>
+                        <l rend="; 2tab">Hoe siet hy soo stuers?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 3tab">Lang hier, dat sel men verquicken.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Grietje</hi>.</speaker>
+                        <l rend="; 1tab">Dat 's waer vaêr, je mocht oock aêrs in je brandt
+                            versticken.</l>
+                        <stage><hi rend="i">Grietje binnen</hi>.</stage>
+                    </sp>
+                    <pb n="11"/>
+                    <sp>
+                        <speaker><hi rend="i">Pleuntje</hi>.</speaker>
+                        <l rend="; 2tab">Wel Leander, je wort al moy out, wil je noch niet aen de
+                            meyt?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 1tab">Holla besje, dat bruyen most of, wegh met die
+                            vuyligheyt.</l>
+                        <l>Neen bylô geen block aen 't been, die plaegen most ick schouwen.</l>
+                        <l>Ia voor een nachje of twee wou ick wel eens trouwen;</l>
+                        <l>Maar niet voor eeuwighlijck geef ick my tot dat werck.</l>
+                        <l>O neen, 't maeckt te vasten bandt het trouwen in de kerck.</l>
+                        <l>Ick bid je bestemoêr, ey praetmen van geen paeren.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Pleuntje</hi>.</speaker>
+                        <l rend="; 2tab">Wil je jou dan nimmermeer stellen tot bedaeren?</l>
+                        <l>Ie bent rechtevoort een knecht in 't beste van je tijt,</l>
+                        <l>Schaem je Leander, dat je die soo godddeloos verslijt.</l>
+                        <l>Hoor vaêr, dat je trouwde het sou sulcken vreught sijn</l>
+                        <l>Voor je ouwe moeder.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 3tab">Voor mijn een groote pijn.</l>
+                        <l>Daer is geen plaaghelijcker ding als een vrouw te trouwen,</l>
+                        <l>En daer sijn leeven lang meê huys te moeten houwen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Pleuntje</hi>.</speaker>
+                        <l rend="; 2tab">Dat is maer malle praet; je weet niet waer 't je
+                            schort.</l>
+                        <l>Lieve vaêr, je doet jou selver een hoope te kort,</l>
+                        <l>Dat je jou beste tijdt besteet by vuyle hoeren,</l>
+                        <l>Die anders niet soecken als den mensch te vervoeren</l>
+                        <l>Tot alle boosheyt; gelijck men dagelijcks siet.</l>
+                        <l>Hoe meenigh siel brengen die snollen in 't verdriet.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 1tab">'t Sou goet sijn dat je het klappeyjen wat wou
+                            staecken.</l>
+                        <l>Het is geen kunst, een ander mensch sijn doen te laecken.</l>
+                        <l>Wat is 'er leelijcker, als dat men sijn neus steeckt</l>
+                        <l>In een aêr mans keucken, en daer het sijn of spreeckt?</l>
+                        <l>Wat bruytmen jouw ouwe quee. waer mach je jouw meê moeyjen.</l>
+                        <l>Het waer veel beter dat je jou nae huys ging spoeyjen,</l>
+                        <l>En nam het daer waer.</l>
+                    </sp>
+                    <pb n="12"/>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 4tab">Welhoe is 'et hiet met jou,</l>
+                        <l>Vuylick is dat spreecken, tegens een ouwe Vrouw,</l>
+                        <l>Iou echte vagebont, je hoorje wat te schamen,</l>
+                        <l>Fy sulcke reden van jou niet en betamen,</l>
+                        <l>Iou eereloose guyt, wat doeje mijn verdriet aen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Pleuntje</hi>.</speaker>
+                        <l rend="; 2tab">Nou Moêr, ontstelje soo niet, laet je schreye staen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 1tab">Och Pleuntje! wat beleesick droevige dagen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leander</hi>.</speaker>
+                        <l rend="; 2tab">Wel Moeder wat doen ick?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi></speaker>
+                        <l rend="; 3tab">Fielt, durfje dat noch vragen,</l>
+                        <l>Iou guyt, jou deugniet, schelm; die al mijn vlees, en bloet</l>
+                        <l>Soo goddeloos verslempt, en reuckeloos verdoet.</l>
+                        <l>Ick sit hier in de sorgh, ick moet met open ooren,</l>
+                        <l>'t Gemaen van hoer, en waert, met groote droefheyt hooren,</l>
+                        <l>Ghy moorder van mijn siel, hoerjager, hangebast,</l>
+                        <l>Ghy helpt mijn goet op, en doet mijn overlast,</l>
+                        <l>Neen dit moet een mael af, ick kan 't niet meer verdraegen,</l>
+                        <l>Iou temteerder, ick sel, en moet 'er overklagen,</l>
+                        <l>Iou Maeghdeschender, die soo Schelms hebt verleyt,</l>
+                        <l>(En gemaeckt met 't Kint) Machtelt die eerlijcke Meyt,</l>
+                        <l>Met beloften, en eeden, dat je se soudt trouwen,</l>
+                        <l>Soo veer ghy 't niet en doet, ick sweer het sal u rouwen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Pleuntje</hi>.</speaker>
+                        <l rend="; 2tab">Maer Leander, hoe maeckje 't jou Moeder soo moê.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leander</hi>.</speaker>
+                        <l rend="; 2tab">Daer speelt de duycker mee, hou jy jouw backhuys toe.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Pleuntje</hi>.</speaker>
+                        <l rend="; 2tab">Voor jou niet Vaer, wat mienje, ick wil en sel
+                            spreecken.</l>
+                        <l>Datje mijn Seun waert, in 't Rasp-huys liet ick je steecken.</l>
+                        <l>Of geboeyt smijten op 't Schip, dat om Peper vaert,</l>
+                        <l>Alwaerje noch soo hart, en eens soo boos van aert,</l>
+                        <l>Och mijn Vaer, ick souje soo sachjens leere singen,</l>
+                        <pb n="13"/>
+                        <l>Wel wat mienje vriendt, sou men jou niet kennen dwingen?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leander</hi>.</speaker>
+                        <l rend="; 2tab">Ie bint als een luys, op een teerige huyt, soo gauw.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Pleuntje</hi>.</speaker>
+                        <l rend="; 2tab">'k Slaeje stracx met men muyl, jou Backhuys blont, en
+                            blaeuw.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 1tab">Ey Pleuntje Jans, wilje om die guyt niet versteuren.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 1tab">Wel hey, wat selmen noch van 't ouwe wijf gebeuren,</l>
+                        <l>Laetse maer betien.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 3tab">Nou moêr, wil na binnen gaen.</l>
+                        <l>Komt kijnt ontstelje soo niet, laet die fielt maer staen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 1tab">Ga heen kameels rugh, sietse eens heur gat uyt
+                            steecken.</l>
+                        <l>Hoe sochtseme dat eeuwich trouwen aen te preeken,</l>
+                        <l>Houmen die Duyvel uyt 'et huys, neen, soo geck niet,</l>
+                        <l>Dat ick men al willens sou steecken in 't verdriet,</l>
+                        <l>'K sie 't wel aen mijn mackers, hoe dat z' 'er om gaen treuren.</l>
+                        <l>Och seggense! mocht ons weêr de vryheyt gebeuren,</l>
+                        <l>Van die heylig', heylige, Vryerlijcke staet;</l>
+                        <l>Maar als 't Block is aen 't been, dan is berouw te laet.</l>
+                        <l>Het bang sien gelt 'er niet, Och! daer helpt geen klagen,</l>
+                        <l>'k Wil 't Rasphuys' juck eer, als vrouwen woorden verdraagen,</l>
+                        <l>Men het niet te sorgen voor Vrouw, en Kint, voor pappot,</l>
+                        <l>Voor wiegh, en luyer-mant. Leander is niet sot,</l>
+                        <l>(Ongebonden best,) souw hy jong en fris van leden,</l>
+                        <l>Sich laeden met die sorgh, en dagelijcks de reden</l>
+                        <l>Aen horen van een Wijf, en dat uyt groenigheyt,</l>
+                        <l>Neen, 'k blus die met meer lust aen onse Buermans meyt.</l>
+                    </sp>
+                    <stage><hi rend="i">binnen</hi>.</stage>
+                    <pb n="14"/>
+                    <sp>
+                        <speaker><hi rend="i">Pleuntje Ians</hi>, <hi rend="i">Anne Pieters.
+                                <lb/>Pleun</hi>.</speaker>
+                        <l rend="; 3tab">DOet soo moêr.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 6tab">Ick stelt ten eersten in 't werck stellen,</l>
+                        <l rend="; 1tab">En 'k bedanckje voor die goede raat: Want sijn quellen</l>
+                        <l rend="; 1tab">Kan ick nier langer verdragen, hy moet nou wegh</l>
+                        <l rend="; 1tab">Met dese schepen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Pleuntje</hi>.</speaker>
+                        <l rend="; 6tab">De saeck eyst een goedt belegh,</l>
+                        <l rend="; 1tab">Dat kan wel gaen kint, soo een helen dagh te praeten;</l>
+                        <l rend="; 1tab">Komt my oock eens besoecken, je moet 'et niet laeten,</l>
+                        <l rend="; 1tab">Hoorje wel Anne Pieters.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 7tab">Lieve Pleuntje, ach!</l>
+                        <l rend="; 1tab">Ie weet wel hoe qualijck dat ick uyt het huys mach,</l>
+                        <l rend="; 1tab">Als mijn Seun wegh is, sal 'k je eens komen besoecken.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Pleuntje</hi>.</speaker>
+                        <l rend="; 4tab">Doet soo, weest dan met een mijn gast op pannekoecken.</l>
+                        <l rend="; 1tab">'k Heb sulcken schoonen meel, 't is als een neut soo
+                            soet,</l>
+                        <l rend="; 1tab">En soo blanck als een hagel.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 7tab">Wel dat is seer goet,</l>
+                        <l>'k Selje dan by komen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Pleuntje</hi>.</speaker>
+                        <l rend="; 6tab">Ie moet het niet vergeeten.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 3tab">Neen Pleuntje, 'k heb al langh gedrieght om se eens t'
+                            eeten.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Pleuntje</hi>.</speaker>
+                        <l rend="; 4tab">Ick selje dan verwachten.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 8tab">Doet soo.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Pleuntje</hi>.</speaker>
+                        <l rend="; 9tab">Goeden dach</l>
+                        <l rend="; 1tab">Anne Pieters.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 5tab">Iou oock moêr, gaet doch met verdragh.</l>
+                    </sp>
+                    <stage><hi rend="i">binnen</hi>.</stage>
+                </div>
+                <div type="scene">
+                    <sp>
+                        <speaker><hi rend="i">Machtelt met haer kint op d'arm</hi>, <hi rend="i">en
+                                Leander</hi>.</speaker>
+                        <l>LEander denck de trouw, die ghy my hebt geswooren,</l>
+                        <l rend="; 2tab">Daer ghy my alle daagh meê lelden aen mijn ooren.</l>
+                        <l rend="; 1tab">En hebje niet dit Schrift geteyckent met u handt?</l>
+                        <l rend="; 1tab">Ick bidje lieve vrient, ey laet my in geen schandt.</l>
+                        <l rend="; 1tab">Leander wilje woort, en u beloften houwen,</l>
+                        <l rend="; 1tab">En laet ick sijn u Vrouw, en wilme daer voor trouwen.</l>
+                        <pb n="15"/>
+                        <l>Gedenck de soetigheyt van 't smaeckelijck geslaep,</l>
+                        <l>Waer van gekomen is dit kleene lieve Schaap,</l>
+                        <l>U eygen vlees, en bloet, hoe kont ghy dat verlaeten,</l>
+                        <l>Hoe kan het vanje hert, de Moeder dus te haaten,</l>
+                        <l>Ey! siet dit lieve kindt, hoe dat het op je kijckt,</l>
+                        <l>En hoe 't jou trony selfs in alles wel gelijckt,</l>
+                        <l>Kom slaet, dat bid ick u, komt slaat doch eens je oogen,</l>
+                        <l>Op dit u eygen kindt, en my: wilt niet gedoogen,</l>
+                        <l>Dat ick met dese vrucht een spot der werelt sy;</l>
+                        <l>Ick bid, Leander ach! Laet my niet inde ly.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leander</hi>.</speaker>
+                        <l rend="; 2tab">Ick segh Machtelt swijgh stil, ick selje doch niet
+                            trouwen.</l>
+                        <l>Ga heen, geef mijn het kindt, ick sal het onderhouwen.</l>
+                        <l>Treckt weer na Rotterdam, ick sal u eer voldoen,</l>
+                        <l>Dat ghy u selven daer meê rijckelijck kunt voên.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Macht</hi>.</speaker>
+                        <l rend="; 1tab">'t Kindt daer ghy Vaêr van bent, dat sal ick noyt
+                            verlaeten,</l>
+                        <l>Al sou ick 'er me gaen bedelen langs de straeten,</l>
+                        <l>Myn eer Leander, die 'k verlooren heb door jouw,</l>
+                        <l>Kunt ghy my met geen gelt betaalen, maer met Trouw.</l>
+                        <l>Ach die ghy my soo dier, met eeden hebt geswooren,</l>
+                        <l>Waer door myn beste pandt, helaes! nu is verlooren.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leander</hi>.</speaker>
+                        <l rend="; 1tab">Hoe waerje noch soo slecht, myn soete lieve Meyt,</l>
+                        <l>Ghy weet die licht gelooft, dat die wort licht verleyt,</l>
+                        <l>Wilje 't kindt niet missen, 't is wel, je mach het houwen,</l>
+                        <l>Ick sal in eeuwigheydt u voor myn vrouw niet trouwen,</l>
+                        <l>Des Machtelt looft my vry, ick bender een vyant van.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Macht</hi>.</speaker>
+                        <l rend="; 1tab">Fy Leander, waerom beloofje my sulcx dan.</l>
+                        <l>Helaes! Is dit de troost, die 'k van u kom smeecken,</l>
+                        <l>Vervloeckt Leander, sijn u vals en loose streecken,</l>
+                        <l>Fy u, die door u lust, schelmachtich hebt verleyt,</l>
+                        <l>My, en myn beste pant, soo goddeloos ontvryt.</l>
+                        <l>Ghy die my hebt verleyt, sijt my een trouw behoeder,</l>
+                        <l>Ey hebt doch deerenis met een verlaeten Moeder,</l>
+                        <l>En kindt verlaeten van een trouweloose Vader, och!</l>
+                    </sp>
+                    <pb n="16"/>
+                    <sp>
+                        <speaker><hi rend="i">Leander</hi>.</speaker>
+                        <l rend="; 2tab">Het klaegen komt te laet, ten eynde van 't bedroch.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Macht</hi>.</speaker>
+                        <l rend="; 1tab">Ach hadt 'k u noyt gesien!</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leander</hi>.</speaker>
+                        <l rend="; 3tab">Dat komt door 't sott'lijck mallen,</l>
+                        <l>Vrysters die met Vryers stoejen moeten eens vallen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Macht</hi>.</speaker>
+                        <l rend="; 1tab">Och! was ick noyt met jou op 't heyloos bedt gegaen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leander</hi>.</speaker>
+                        <l rend="; 2tab">Dat 's waer Machtelt, had je me sulcx niet toegestaen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Macht</hi>.</speaker>
+                        <l rend="; 1tab">Hoe kunt, meyneedige, ghy dus askeerich wesen?</l>
+                        <l>Aenschout u eygen kroost, en wilt u eedt eens leesen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leander</hi>.</speaker>
+                        <l rend="; 2tab">Wegh, wegh je malle sloor, wel hey, hoe is 'et hier?</l>
+                        <l>Ey steeck 'et in je sack, bewaert dat moy papier,</l>
+                        <l>'t Papier komt wel te pas, (weest 'er niet meê verlegen,)</l>
+                        <l>Als 't kintje heeft gekackt, om 't neersje aen te vegen,</l>
+                        <l>'t Kint sal uw dienstigh sijn, voor levend tydtverdryf,</l>
+                        <l>Men sijt een schreyent kindt, dat maeckt een singent wijf.</l>
+                        <l>Wees jy de quaetste niet, ghy kundt een deuntje quelen,</l>
+                        <l>Als 't kindt schreyt, 't is soo fray met soo een pop te speelen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Macht</hi>.</speaker>
+                        <l rend="; 2tab">Is dit de Trouw, die ick versoecke voor mijn eer,</l>
+                        <l>Ach waer het niet geschiet, 't geschieden nimmermeer.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leander</hi>.</speaker>
+                        <l rend="; 2tab">Tot soen van uwe eer, wort jou 'et kindt geschonken.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Macht</hi>.</speaker>
+                        <l rend="; 1tab">Het staet my dier genoegh.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 4tab">Dan machj'er vry me pronken</l>
+                        <l>En wachten uwe beurt, je raeckt licht aen een man,</l>
+                        <l>Want elk soeckt een lief, die lustich haer ambacht kan.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Macht</hi>.</speaker>
+                        <l rend="; 1tab">Wie sou my nou begeeren?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 5tab">Laet af van sulcke vreesen,</l>
+                        <l>Lieve moêr, je selt noch wel leckre klockspijs wesen,</l>
+                        <l>(Draeghje jou maer eerlijck,) een schoenminck of een schreur,</l>
+                        <l>Die gaet gemeenlijck met sulcke Maegden deur,</l>
+                        <l>Seecker Machtelt, wilje die koop niet eens beklaegen,</l>
+                        <pb n="17"/>
+                        <l rend="; 1tab">Denckt het sijn al geen Vrysters, die Roosekransjens
+                            draegen,</l>
+                        <l rend="; 1tab">Daer 'k je flus van sey, je kent 'er jou op beraên,</l>
+                        <l rend="; 1tab">Hoorje Machtelt; ick en sal doch niet met je gaen</l>
+                        <l rend="; 1tab">Voor de Roo deur, je hoeft daer niet eens na te
+                            wachten,</l>
+                        <l rend="; 1tab">Stelt het vry uyt je sin, laet vaeren die gedachten;</l>
+                        <l rend="; 1tab">Daerom Machtelt, vertreckt vry weêr na Rotterdam.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Macht</hi>.</speaker>
+                        <l rend="; 3tab">Neen Vaêr, ick verlaet jou niet, met dit kleyne lam,</l>
+                        <l rend="; 1tab">Ick selje vervolgen, geen moeyten sel ick vreesen,</l>
+                        <l rend="; 1tab">Al sou 'et tot het eyntje van de Werelt wesen,</l>
+                        <l rend="; 1tab">Of mijn eer sal vergoet sijn, door u Echte trouw.</l>
+                    </sp>
+                    <stage><hi rend="i">Hy loopt van haer wegh</hi>, <hi rend="i">e n sy naer sijn
+                            Moeder</hi>.</stage>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 3tab">Machtelt doet watje wilt, noyt sulje sijn mijn vrouw.</l>
+                    </sp>
+                    <stage><hi rend="i">binnen</hi>.</stage>
+                </div>
+                <div type="scene">
+                    <sp>
+                        <speaker><hi rend="i">Anne Pieters</hi>, <hi rend="i">Machtelt</hi>, <hi
+                                rend="i">met haer kindt op d'arm</hi>.</speaker>
+                        <l>'t IS geen noot Machteltje, al wil hy jou niet Trouwen,</l>
+                        <l rend="; 2tab">Weest niet bedroeft, ick selje voor mijn Dochter
+                            houwen,</l>
+                        <l rend="; 1tab">Hem Bastaert, jou Erfgenaem maecken van al mijn goet.</l>
+                        <l rend="; 1tab">Ie selt in Huys by mijn woonen, weest wel gemoet,</l>
+                        <l rend="; 1tab">Wy sullen saem gelijck als Moêr, en Dochter leven:</l>
+                        <l rend="; 1tab">Schrey niet, blijft maer in huys, om 't kindt de Mam te
+                            geven,</l>
+                        <l rend="; 1tab">En ick sel gaen besien, dat ick hem krijgh aen boort.</l>
+                        <stage><hi rend="i">Machtelt binnen</hi>.</stage>
+                        <l rend="; 1tab">De fielt het my lang genoegh gebrutst, hy moet nou
+                            voort</l>
+                        <l rend="; 1tab">Met dese Schepen, daer is doch geen salf aen hem te
+                            smeeren.</l>
+                        <l rend="; 1tab">Hoe willese hem dat Kindermaecken verleeren,</l>
+                        <l rend="; 1tab">Komt hy maer op 'et Schip, of in Oost-Inje aen,</l>
+                        <l rend="; 1tab">'k Wed dat hem de weeldrigheyt daer wel sel vergaen,</l>
+                        <l rend="; 1tab">Hy sel die peeckel sonden noch moeten uyt sweeten,</l>
+                        <pb n="18"/>
+                        <l rend="; 1tab">Als hy daer stinkent Vleys, en drooge Rijs moet eeten,</l>
+                        <l rend="; 1tab">Dan sel hy 't eerst voelen, wat hy my heeft gedaen,</l>
+                        <l rend="; 1tab">Och sel hy wel seggen, mocht ick nou eensjes gaen</l>
+                        <l rend="; 1tab">Aen mijn Moêrs tresoor, daer een stuck Kaes en Broot
+                            snyen,</l>
+                        <l rend="; 1tab">Hoe sou 'k'er in byten; 'k sou daer geen Honger lyen,</l>
+                        <l rend="; 1tab">Mijn dunckt dat ick 't al hoor: och waer ick hem al
+                            quijt,</l>
+                        <l rend="; 1tab">Daer is niet beter voor hem, als d'Oost-eeuwicheyt.</l>
+                    </sp>
+                    <stage><hi rend="i">binnen</hi>.</stage>
+                    <sp>
+                        <speaker><hi rend="i">Leander weêr uyt</hi>.</speaker>
+                        <l>DAt onweer is verby, en van mijn hals geschooven,</l>
+                        <l rend="; 2tab">Bloet, dat was een travaet, het hoeckje ben ick boven,</l>
+                        <l rend="; 1tab">Dit komt 'er van jonge Meysjes, dat men soo leyt en
+                            speelt</l>
+                        <l rend="; 1tab">Met de Vryers, se slachten de Katten, die men streelt;</l>
+                        <l rend="; 1tab">Want het is een goet, daer men niet meê dient te
+                            mallen.</l>
+                        <l rend="; 1tab">Gelooft geen vryers, hoe minnelijck datse kallen,</l>
+                        <l rend="; 1tab">Haer woorden sijn als niet, se drayen als de weerhaen</l>
+                        <l rend="; 1tab">Met alle winden, ick mach hier eens kloppen aen.</l>
+                    </sp>
+                    <stage><hi rend="i">binnen</hi>.</stage>
+                    <sp>
+                        <speaker><hi rend="i">Diew</hi>.</speaker>
+                        <l rend="; 3tab">Wie klopt daer?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 5tab">Een eerlijck mens.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Diewer</hi>.</speaker>
+                        <l rend="; 7tab">'k Maeck soo laet geen deur open,</l>
+                        <l rend="; 1tab">Komt morgen by daegh.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leander</hi>.</speaker>
+                        <l rend="; 4tab">Het regent en 't is donker, waer sal 'k lopen,</l>
+                        <l rend="; 1tab">(Nou Diewertje laet men in,) en oock ben 'k niet wel te
+                            been;</l>
+                        <stage><hi rend="i">Diewer kijckt met een kaers 't venster uyt</hi>.</stage>
+                        <l rend="; 1tab">Maer wel versien met munt.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Diewer</hi>.</speaker>
+                        <l rend="; 6tab">'k Moet eens sien, wat benje voor een?</l>
+                        <l rend="; 1tab">Sijt ghy dat Lichtmis?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leander</hi>.</speaker>
+                        <l rend="; 7tab">Hoe duycker selt hier wesen.</l>
+                        <l rend="; 1tab">Wilje op doen, of niet?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Diewer</hi>.</speaker>
+                        <l rend="; 8tab">'k Komje by mijn uytgelesen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leander</hi>.</speaker>
+                        <l rend="; 3tab">Goeden avondt Iuffrouw.</l>
+                    </sp>
+                    <stage><hi rend="i">Diewer uyt</hi>.</stage>
+                    <pb n="19"/>
+                    <sp>
+                        <speaker><hi rend="i">Diewer</hi>.</speaker>
+                        <l rend="; 6tab">En ghy van gelijcke Monseur</l>
+                        <l>Met een kus, excuseertmen Leander, dat 'k de deur</l>
+                        <l>By tijts niet voor u opende, wat is je believen?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 2tab">Hoort, wiltme voor eerst met een frisse dronck
+                            gerieven.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Diewer</hi>.</speaker>
+                        <l rend="; 2tab">Leander, wy hebben sulcke schoone Franse Wijn.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 1tab">Dat is goet Diewer, 'k moet eens met jou vrolijk sijn.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Diewer</hi>.</speaker>
+                        <l rend="; 2tab">Ioost tap een kan Franse Wijn, en wil een roemer
+                            spoelen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Ioost</hi>.</speaker>
+                        <l rend="; 1tab">Van de beste Diewer?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Diewer</hi>.</speaker>
+                        <l rend="; 4tab">Ia, maer hoe meughje dus woelen.</l>
+                        <l>Leander houdje rust.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leander</hi>.</speaker>
+                        <l rend="; 4tab">Soetert geeft men een soen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Diewer</hi>.</speaker>
+                        <l rend="; 2tab">Wel goelick backus, dat wil ick seer garen doen.</l>
+                        <l>Daer hebj' 'er twee voor een.</l>
+                        <stage><hi rend="i">Ioost met een kan wijn uyt</hi>.</stage>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Ioost</hi>.</speaker>
+                        <l rend="; 1tab">Hier heb ik de Wijn.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leander</hi>.</speaker>
+                        <l rend="; 5tab">Daer op eens gedronken.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Diewer</hi>.</speaker>
+                        <l rend="; 2tab">Dat 's geen Kaes eeten, nou wilt 'er niet lang meê
+                            proncken,</l>
+                        <l>Hoe sitje dus te leppen, giet 'et in je gadt.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leander</hi>.</speaker>
+                        <l rend="; 2tab">Dat 's uyt.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Diewer</hi>.</speaker>
+                        <l rend="; 3tab">Wel moet 'et je bekomen, wat is dat,</l>
+                        <l>Wel hey 'k mach mijn kroes wel uyt, wiltse maer vol schenken.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leander</hi>.</speaker>
+                        <l rend="; 2tab">Maet hout staet, volle roemers doen de Herssens
+                            krencken.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Diewer</hi>.</speaker>
+                        <l rend="; 2tab">Ie weet het, of 't is je geseyt, de meeste schaa,</l>
+                        <l>Leander, datmen daer van krijght, is de pode-gra.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leander</hi>, <hi rend="i">en Diewer</hi>, <hi
+                                rend="i">singen</hi>, <hi rend="i">en danssen te
+                            samen</hi>.</speaker>
+                        <lg type="poem">
+                            <interpGrp>
+                                <interp type="song" value="mol_014bedr01_0002"/>
+                            </interpGrp>
+                            <head><hi rend="i">Stemme</hi>, Soo ick de meyt bemin, &amp;c.</head>
+                            <l>H<hi rend="i">Ey lustich uyt de Borst</hi>,</l>
+                            <l rend="; 1tab"><hi rend="i">Laet ons nu danssen</hi>, <hi rend="i"
+                                    >springen</hi>,</l>
+                            <l><hi rend="i">Laet mijden ons den dorst</hi>,</l>
+                            <pb n="20"/>
+                            <l><hi rend="i">Laet ons te samen singen</hi>,</l>
+                            <l><hi rend="i">Het biertje met de wijn</hi>,</l>
+                            <l><hi rend="i">Het biertje met de wijn</hi>,</l>
+                            <l><hi rend="i">Dat by een moje Trijn</hi>,</l>
+                            <l><hi rend="i">VVat kander soeter sijn</hi></l>
+                            <l><hi rend="i">VVant sonder dese twee</hi>;</l>
+                            <l><hi rend="i">Is 't vrolijck niet te leeven</hi>,</l>
+                            <l><hi rend="i">Maer wesen altijdt ree</hi>,</l>
+                            <l><hi rend="i">Tot Vreughden ons begeven</hi>,</l>
+                            <l><hi rend="i">Het biertje</hi>, <hi rend="i">met de wijn</hi>,</l>
+                            <l><hi rend="i">Het biertje met de wijn</hi>,</l>
+                            <l><hi rend="i">Dat by een moje Trijn</hi>,</l>
+                            <l><hi rend="i">VVat kander soeter sijn</hi>.</l>
+                        </lg>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Diewer</hi>.</speaker>
+                        <l rend="; 2tab">ICk kan niet meer, ick ben te moe, wel is dat springen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 1tab">Avoes nouw eens gedroncken, mijn keel is droogh van 't
+                            singen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Diewer</hi>.</speaker>
+                        <l rend="; 2tab">Soo de droes, dat mach ick lyen, ten eersten uyt.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 1tab">Daer Diewertje, lap dit oock ten eersten in je huyt,</l>
+                        <l>Dat 's reusel in je buyck, en 't sal je bloet verkoelen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Diewer</hi>.</speaker>
+                        <l rend="; 2tab">Ey hou handen te huys, wel hoe meughje dus woelen,</l>
+                        <l>Sit stil, en houje rust, of anders loop ick heen</l>
+                        <l>Al mijn best na huys, en ick laet jou hier alleen,</l>
+                        <l>Wat mienje wel, je versolt al mijn moje kleeren,</l>
+                        <l>Daer komt niet een bras van, je soud mijn wat vereeren.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 1tab">Ho; ho; het is je al meê om 't hebben te doen,</l>
+                        <l>Wacht als het Sunter Klaes is, brengt dan je schoen,</l>
+                        <l>Hoor je wel Diewer, dan sal ick 'er jou wat in douwen</l>
+                        <l>Uyt de darm, daer een boer sijn neus voor toe sal houwen.</l>
+                        <l>Komje dan.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Diewer</hi>.</speaker>
+                        <l rend="; 3tab">Dat vaerje selver in je back-huys,</l>
+                        <l>Wel wat brutst men die Geck, loop, loop, jou kale luys.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 1tab">Nou niet soo boos, hoor hier Diewer, wil niet wegh
+                            loopen,</l>
+                        <pb n="21"/>
+                        <l>Wees je maer te vree, ick selje wel wat moys koopen,</l>
+                        <l>Kom hier weêr sitten, daer is een halve Ducaet.</l>
+                        <l>Wat seghje nou soetertje, ben je noch al quaet,</l>
+                        <l>Nou geefmen eens een soen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Diewer</hi>.</speaker>
+                        <l rend="; 5tab">Hoe maghje me dus sollen,</l>
+                        <l>Wel Leander hoe vroetje; je slacht de swarte mollen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 2tab">'t Moet 'er nou op staen, ick ben Mortjes lieve kint.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Diewer</hi>.</speaker>
+                        <l rend="; 3tab">Siet toe quant, datje jou niet eens bedrogen vint.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 2tab">Waer maghje van prate, kom hier mijn soete troosje.</l>
+                        <l>Ey seghmen eens, wie was de plucker van je Roosje,</l>
+                        <l>En hoe veel kreeghje wel?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Diewer</hi>.</speaker>
+                        <l rend="; 4tab">Dat komt al seecker raar.</l>
+                        <l>Wat vragen is dat, hoe na wil je mijn biechtvaêr</l>
+                        <l>Wesen, ey malle Geck, 't is best dat wy eens drincken.</l>
+                        <l>Avous, de waerden hooren graegh, dat haer kannen klincken.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Beatrix</hi>, <hi rend="i">waerdin uyt</hi>.</speaker>
+                        <l rend="; 2tab">WEl Ionge luy, hoe maekje 't hier al met malkaêr.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 4tab">Al lustich Beatrix, hoorje wel, ey beschaer</l>
+                        <l>Ons wat om te eeten, eenige confitueren.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Beat</hi>.</speaker>
+                        <l rend="; 1tab">'t Is goet, ick salse gaen haelen, en stracks boven
+                            stueren.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 2tab">Eeleweecken, 'k heb hier met Diewer soo een strijt.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Bea</hi>.</speaker>
+                        <l rend="; 1tab">Verweerje als een Man, en toont wie dat je sijt.</l>
+                    </sp>
+                    <stage><hi rend="i">binnen</hi>.</stage>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 2tab">Diewertje wat benje een Soete lieve susje.</l>
+                        <l>Mijn appel-bloosje, geef my noch een kusje.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Diew</hi>.</speaker>
+                        <l rend="; 1tab">Dat mach ick lyen, dat smaeckt als water uyt de sloot.</l>
+                        <l>Maer hoe benje soo groen, hou handen van men schoor.</l>
+                    </sp>
+                    <stage><hi rend="i">binnen</hi>.</stage>
+                </div>
+                <div type="scene">
+                    <sp>
+                        <speaker><interpGrp>
+                                <interp type="song" value="mol_014bedr01_0003"/>
+                            </interpGrp><hi rend="i">Leander singht twee veersjens</hi>.</speaker>
+                        <lg type="poem">
+                            <l><hi rend="i">VVy willen noch niet scheyden</hi>,</l>
+                            <l rend="; 1tab"><hi rend="i">'t Is wel een paer uurtjens te
+                                vroegh</hi>;</l>
+                            <l rend="; 1tab"><hi rend="i">VVy willen</hi>, <hi rend="i"
+                                >&amp;c</hi>.</l>
+                        </lg>
+                    </sp>
+                    <pb n="22"/>
+                    <sp>
+                        <speaker><hi rend="i">Diewer</hi>.</speaker>
+                        <l rend="; 2tab">DAer wort geklopt, swijght stil, ick selt een reys
+                            vraegen,</l>
+                        <l>Wie klopt daer?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 4tab">Al goet vriendt.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leander</hi>.</speaker>
+                        <l rend="; 7tab">Hier wil het wonder dagen,</l>
+                        <l>De duycker Diewer, 't is mijn moêr, laetse niet in,</l>
+                        <l>Of de drommel selje haelen.</l>
+                    </sp>
+                    <stage>Diewer van sijn moêr omgekocht sijnde, laet haer met de Dienders in
+                        huys.</stage>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 7tab">Dit gaet nae je sin,</l>
+                        <l>Als je soo met vreugden mijn geltje meucht verteeren.</l>
+                        <l>Ick sweer je dat vogel, ick sel 't je wel verleeren.</l>
+                        <l>Wacker mannen, ontsiet hem niet, vat de guyt maer aen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 1tab">Blijf van mijn lijf, ick kan wel alleenigh na huys
+                            gaen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 1tab">Ie selt 'et huys voor dese mael niet meer aenschouwen.</l>
+                        <l>Vat hem.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 3tab">Ick segh, wil je handen van mijn vleys houwen;</l>
+                        <l>En komt men niet nader.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Iurien</hi>.</speaker>
+                        <l rend="; 6tab">Is het hier al van de geck?</l>
+                        <l>Ga voort, of ick bruy je met de houwer in je neck.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Beatrix</hi>, <hi rend="i">uyt geweest zijnde om
+                                confituren</hi>, <hi rend="i">komt in huys</hi>.</speaker>
+                        <l>Wel wat is hier te doen, wat huys wort 'er gehouwen?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Hans</hi>.</speaker>
+                        <l rend="; 1tab">Hou jy jou backus toe.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Beat</hi>.</speaker>
+                        <l rend="; 5tab">Ick moet jou eens aenschouwen.</l>
+                        <l>Voor jou niet schobbejack, wat bruyt men die luyshondt.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Diewer</hi>.</speaker>
+                        <l rend="; 2tab">Dan sou se wel geck sijn, dat se voor jou luy haer mont</l>
+                        <l>Sou houwen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Iurien</hi>.</speaker>
+                        <l rend="; 3tab">Vuylpruym moet 'er oock heur neus in steecken.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Diew</hi>.</speaker>
+                        <l rend="; 1tab">Wel jackhals, wel kasewarus, ick wil meê spreecken.</l>
+                        <l>Wel hey, wat komt ons al over in de naare nacht.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 1tab">Ey lieve moêr, weest stil, en maeckt hier geen gejacht.</l>
+                        <l>Maer, hoe meugh je malkander soo leelijck uytmaelen.</l>
+                        <l>Weest niet verstoort, vrouwtje, wat is me seun te quaet?</l>
+                        <l rend="; 2tab">'k sel 't betaelen</l>
+                        <pb n="23"/>
+                        <l>Wat hy verteert heeft.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Beat</hi>.</speaker>
+                        <l rend="; 4tab">'k Heb 't hier op dit bortje gestelt,</l>
+                        <l>'k Sel 't eens optellen, twee pont groot.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 5tab">Daer is jou gelt.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Beat</hi>.</speaker>
+                        <l rend="; 1tab">'k Bedanck je. Wel moet je nou na Oost-Inje vaeren?</l>
+                        <l>Dat 's onversiens.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 3tab">'k Hoop van neen, se sel heur wel bedaeren.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 2tab">Neen, je hebt my al lang genoch geringeloort,</l>
+                        <l>En getemteert, jou guyt. nou wacker, gae maer voort.</l>
+                    </sp>
+                    <stage><hi rend="i">binnen</hi>.</stage>
+                    <sp>
+                        <speaker><hi rend="i">Diew</hi>.</speaker>
+                        <l rend="; 1tab">Dat komt al te vaets, 'k meende soo wacker te smullen</l>
+                        <l>Met Leander, en mijn buyck met soetigheyt te vullen;</l>
+                        <l>Dat 's nou af: hoe schielijck is die vreugt vergaen.</l>
+                        <l>'t Is mijn eygen schult. Hadt ick doch de deur niet op gedaen.</l>
+                        <l>En Leander sel licht om peper moete vaeren.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Beat</hi>.</speaker>
+                        <l rend="; 1tab">Ia Diewer, met Ian ginge z' 'et niet beter klaeren.</l>
+                        <l>Hy hadt hem verhuert na de Straet, 'k wed het hem noch spijt,</l>
+                        <l>En sou naer boort toe gaen, kom Seun, eer je van ons scheyt,</l>
+                        <l>Riep sijn vaêr, noch eens op je gesontheyt gedroncken.</l>
+                        <l>Hy keerde weêr om, doen maeckte se hem soo beschoncken,</l>
+                        <l>Dat hy nergens van wist, soo wiert de knecht misleyt:</l>
+                        <l>In plaets van na de Straet voer hy na Oost-eeuwigheyt.</l>
+                    </sp>
+                </div>
+                <div type="scene">
+                    <head rend="h3">Laetste uytkomst.</head>
+                    <sp>
+                        <speaker><hi rend="i">Leander. Anne Pieters. Hans. Iurien. Iochgum</hi>, <hi
+                                rend="i">die Leanders kist met sijn bultsack en waetervaetje naer
+                                boort kruyt</hi>.</speaker>
+                        <l>ICk beloof 'et jou moeder, ick sel Machtelt trouwen,</l>
+                        <l rend="; 1tab">En 'k sel se al mijn leven voor mijn huysvrouw houwen.</l>
+                        <l rend="; 1tab">Ick bidt je moeder lief, doet me die schant niet aen,</l>
+                        <l rend="; 1tab">Helaes! en laet me doch niet na Oost-Inje gaen.</l>
+                        <l rend="; 1tab">Heb ick u pijnelijck geweest, 'k val voor uw voeten:</l>
+                        <pb n="24"/>
+                        <l>Ey vergeef 'et mijn, ick sel alles weêr versoeten,</l>
+                        <l>Dat segh ick moeder, ach! met een oprecht gemoet.</l>
+                        <l>Ick bidt je, dat je doch de gramschap van je doet.</l>
+                        <l>En ick beken 't, ick heb nae u niet willen vraegen;</l>
+                        <l>Ick sweer, ick sel me voortaen vroomelijck gaen draege</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 1tab">Doet soo Leander, je selt dan wel raecken voort</l>
+                        <l>In Oost-Inje: nou lustigh gaen wy maer nae boort.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 1tab">Ey neen moeder, ick sel me beeteren.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 5tab">Voor desen</l>
+                        <l>Heb je me dat oock wel belooft, het moet nou wesen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 1tab">'t Is me van herten leet: 't geen ick u heb misdaen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 1tab">Het is je vergeven.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 3tab">Soo sel ick dan niet gaen?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Hans</hi>.</speaker>
+                        <l rend="; 1tab">Had je dat luck.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 2tab">Daer wort niet van gesproocken.</l>
+                        <l>Kom gaenwe die hoeck om, allang genoch staen spoocken.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 1tab">'k Bidt je moeder, ey laet ick noch spreecken een
+                            woort.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Anne</hi>.</speaker>
+                        <l rend="; 1tab">Ick wil je niet meer hooren.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Leand</hi>.</speaker>
+                        <l rend="; 4tab">Stuert me niet nae boort</l>
+                        <l>Want 'k sel me van mismoedigheyt in zee verdrincken.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="i">Iochem</hi>.</speaker>
+                        <l rend="; 1tab">Mijn lieve soete maet, dan sel je hier niet stincken.</l>
+                    </sp>
+                    <p><hi rend="spat">JAN DE MOL.</hi></p>
+                    <p>&#160;</p>
+                    <p><hi rend="i">Al wroetende</hi>.</p>
+                </div>
+            </div>
+        </body>
+    </text>
+
+</TEI.2>

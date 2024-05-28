@@ -1,0 +1,2103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Belachchelyke hoofsche juffers</title>
+                <author>Molière</author>
+                <editor role="translator">Pieter de la Croix</editor>
+            </titleStmt>
+            <editionStmt>
+                <edition> Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een
+                    diplomatische weergave van <hi rend="i">Belachchelyke hoofsche juffers</hi> van
+                    Molière, in een vertaling van Pieter de la Croix uit 1685. </edition>
+                <respStmt>
+                    <resp>
+                        <corr>p. 4: accolades verspreid over meerdere regels kunnen in deze digitale
+                            versie niet weergegeven worden. Daarom wordt de accolade hier, met
+                            bijbehorende tekst, op iedere regel herhaald.</corr>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <scandetails>
+                <scan type="1">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page>2</empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""/>
+                </scan>
+            </scandetails>
+            <publicationStmt>
+                <idno type="titelcode">moli015bela01_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2011 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note>DSOLmetadata:yes</note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"/>
+                    <idno type="usedcopy">exemplaar Theater Instituut Nederland, signatuur: 13 A 22:
+                        1</idno>
+                </bibl>
+                <p>Molière, <hi rend="i">Belachchelyke hoofsche juffers</hi> (vert. Pieter de la
+                    Croix). Jacob Lescailje (erven), Amsterdam 1685</p>
+                <p>&#160;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p/>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">Belachchelyke hoofsche juffers</title>
+                <author>Molière</author>
+                <editor role="translator">Pieter de la Croix</editor>
+                <idno type="isbn"/>
+                <idno type="nur"/>
+                <imprint>
+                    <date/>
+                    <publisher/>
+                    <pubPlace/>
+                </imprint>
+            </bibl>
+            <idno type="isbn"/>
+            <order>
+                <price curr="euro"/>
+                <link/>
+            </order>
+            <blurb>
+                <p/>
+            </blurb>
+            <titlepage>
+                <p/>
+            </titlepage>
+            <colofon>
+                <p/>
+            </colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">Belachchelyke hoofsche juffers</title>
+                <author>Molière</author>
+                <editor role="translator">Pieter de la Croix</editor>
+                <idno type="isbn"/>
+                <idno type="nur"/>
+                <imprint>
+                    <date/>
+                    <publisher/>
+                    <pubPlace/>
+                </imprint>
+            </bibl>
+            <idno type="isbn"/>
+            <order>
+                <price curr="euro"/>
+                <link/>
+            </order>
+            <blurb>
+                <p/>
+            </blurb>
+            <titlepage>
+                <p/>
+            </titlepage>
+            <colofon>
+                <p/>
+            </colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2011-09-20</date>
+                <respStmt>
+                    <name type="person">SG</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front>
+                <div type="chapter">
+
+                    <pb n="1"/>
+                    <p>DE BELACHCHELYKE HOOFSCHE JUFFERS.</p>
+                    <p>
+                        <figure>
+                            <p><xptr to="moli015bela01ill0001.gif"/></p>
+                        </figure></p>
+                    <p>Te AMSTELDAM,</p>
+                    <p>By d'Erfg. van Jacob Lescailje, op den Middeldam, naast de Vischmarkt,
+                        1685.</p>
+                    <p>Met Privilegie.</p>
+
+                </div>
+            <div type="chapter">
+                <pb n="3"/>
+                <head rend="h3">Copye van de Privilegie.</head>
+                <p>DE Staten van Holland ende Westvriesland doen te weten. Alzo Ons vertoond is by
+                    de tegenwoordige Regenten van de Schouwburg tot Amsterdam, Dat zy Supplianten
+                    zedert eenige Jaaren herwaarts met hunne goede vrinden hadden gemaakt en ten
+                    Tooneele evoert verscheiden Werken, zo van Treurspeelen, Blyspeelen als Klugten,
+                    welke zy lieden nu geerne met den druk gemeen wilden maken: doch gemerkt dat
+                    deze Werken door het nadrukken van anderen, veel van hun luister, zo in Taal als
+                    Spelkonst zouden komen te verliezen, en alzo zy Supplianten hen berooft zouden
+                    zien van hun byzondere oogwit om de Nederduitschen Taal en de Digtkonst voort te
+                    zetten, zo vonden zy hen genootzaakt, om daar inne te voorzien, ende hen te
+                    keeren tot Ons, onderdanig verzoekende, dat Wy omme redenen voorsz. de
+                    Supplianten geliefden te verleenen Octroy ofte Privilegie, omme alle hunne
+                    Werken reeds gemaakt, en de noch in 't ligt te brengen, den tyd van vyftien
+                    Jaaren alleen te mogen drukken en verkoopen of doen drukken en verkoopen, met
+                    verbod van alle anderen op zeekeren hooge peene daar toe by Ons te stellen, ende
+                    voorts in communi forma. Zo is 't dat Wy de Zake en 't Verzoek voorsz.
+                    overgemerkt hebbende, ende genegen wezende ter bede van de Supplianten, uit Onze
+                    regte wetenschap, Souveraine magt ende authoriteit dezelve Supplianten
+                    gekonzenteert, geaccordeert ende geoctroijeert hebben, conzenteeren, accordeeren
+                    ende octroijeren mitsdezen, dat zy geduurende den tyd van vyftien eerst
+                    achtereenvolgende Jaaren de voorsz. Werken die reeds gedrukt zyn, ende die van
+                    tyd tot tyd door haar gemaakt ende in 't ligt gebragt zullen werden, binnen den
+                    voorsz. Onzen Lande alleen zullen mogen drukken, doen drukken, uitgeven en
+                    verkoopen. Verbiedende daarom allen ende eenen yegelyken dezelve Werken naar te
+                    drukken, ofte elders naargedrukt binnen den zelve Onzen Lande te brengen, uit te
+                    geven ofte te verkoopen, op de verbeurte van alle de naargedrukte, ingebragte
+                    ofte verkogte Exemplaaren, ende een boete van drie hondert guldens daar en boven
+                    te verbeuren, te appliceren een darde part voor den Officier die de calange doen
+                    zal, een darde part voor den Armen ter plaatze daar het cazus voorvallen zal,
+                    ende het resteerende darde part voor den Supplianten. Alles in dien verstande,
+                    dat Wy de Supplianten met dezen Onzen Octroije alleen willende gratificeren, tot
+                    verhoedinge van haare schaade door het nadrukken van de voorsz Werken, daar door
+                    in geenige deelen verstaan, den inhoude van dien te authorizeeren ofte te
+                    avoueeren, en veel min de zelve onder Onze protektie ende bescherminge eenig
+                    meerder kredit, aanzien oft reputatie te geven, nemaar de Supplianten in kas
+                    daar in yets onbehoorlyk zoude mogen influeeren alle het zelve tot haren laste
+                    zullen gehouden wezen te veranwoorden; tot dien einde wel expresselyk
+                    begeerende, dat by aldien zy dezen Onzen Octroije voor de zelve Werken zullen
+                    willen stellen daar van geene geabbrevieerde ofte gecontraheerde mentie zullen
+                    mogen maaken, nemaar gehouden zullen weezen het zelve Octroy in 't geheel ende
+                    zonder eenige Omissie daar voor te drukken <pb n="4"/>ofte te doen drukken, ende
+                    dat zy gehouden zullen zyn een exemplaat van alle de voorsz. Werken, gebonden
+                    ende wel geconditioneert te brengen in de Bibliotheecq van Onze Univerziteit tot
+                    Leiden, ende daar van behoorlyk te doen blyken. Alles op poene van het effekt
+                    van dien te verliezen. Ende ten einde de Supplianten dezen Onzen Conzent en
+                    Octroije mogen genieten als naar behooren: Lasten wy allen ende eenen ygelyken
+                    die 't aangaan mag, dat zy de Supplianten van den inhoude van dezen doen, laaten
+                    en gedogen, rustelyk en volkomentlyk genieten, en cesserende alle beletten ter
+                    contrarie. Gedaan in den Haage onder Onzen grooten Zegele hier aan doen hangen
+                    den <hi rend="sc">xix</hi> September in 't Jaar onzes Heeren en Zaligmakers
+                    duizent zes hondert vier en tachtig.</p>
+                <p>G. <hi rend="spat">FAGEL</hi>.</p>
+                <p>Ter Ordonnantie van de Staten</p>
+                <p><hi rend="spat">SIMON</hi> van <hi rend="spat">BEAUMONT</hi>.</p>
+                <p>&#160;</p>
+                <p>De tegenwoordige Regenten van de Schouwburg hebben het recht van de bovenstaande
+                    Privilegie, voor deze Klucht, vergunt aan d'Erfgenaamen van Jacob Lescailje.</p>
+                <p>&#160;</p>
+                <p><hi rend="i">In Amsterdam</hi>, <hi rend="i">den</hi> 20 <hi rend="i">Maart</hi>,
+                    1685.</p>
+            </div>
+            <div type="chapter">
+                <head rend="h3">Vertooners.</head>
+                <list>
+                    <item><hi rend="sc">Haripon</hi>.</item>
+                    <item><hi rend="sc">Jodelet</hi>.</item>
+                    <item><hi rend="sc">Alardus</hi>, Vader van Bregt.</item>
+                    <item><hi rend="sc">Bregt</hi>.</item>
+                    <item><hi rend="sc">Dina</hi>, Nicht van Bregt.</item>
+                    <item><hi rend="sc">Marotte</hi>, Dienstmaagd van Bregt.</item>
+                    <item><hi rend="sc">Boon</hi>, Knecht van Bregt.</item>
+                    <item><hi rend="sc">Frederik</hi>, } Twee Vrijers.</item>
+                    <item><hi rend="sc">Ferdinand</hi>, } Twee Vrijers.</item>
+                    <item><hi rend="sc">Roel</hi>, } Twee Draagers.</item>
+                    <item><hi rend="sc">Piet</hi>, } Twee Draagers.</item>
+                    <item><hi rend="sc">Kaat</hi>, } Twee Buur Juffers.</item>
+                    <item><hi rend="sc">Alet</hi>, } Twee Buur Juffers.</item>
+                    <item><hi rend="sc">Sol</hi>, } Twee Speellui.</item>
+                    <item><hi rend="sc">Tiel</hi>, } Twee Speellui.</item>
+                    <item><hi rend="sc">Hans</hi>, Een Kruijer.</item>
+                </list>
+                <p>&#160;</p>
+                <p>Het speeld in 't Huis van Alardus.</p>
+            </div>
+        </front>
+        <body>
+            <div type="act">
+                <pb n="5"/>
+                <div type="scene">
+                <head rend="h3">De belachchelyke hoofsche juffers.</head>
+                <head rend="h4">Eerste tooneel.</head>
+                <stage><hi rend="sc">Frederik, Ferdinand</hi>.</stage>
+                <sp>
+                    <speaker><hi rend="sc">Frederik</hi>.</speaker>
+                    <l><hi rend="b">W</hi>At dunkt u van de hoofsche prijen?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+                    <l rend="; 1tab">Die trotsheid staat ons niet te lijen.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="sc">Frederik</hi>.</speaker>
+                    <l rend="; 1tab">Weet, Ferdinand, dat zulk bezoek,</l>
+                    <l rend="; 1tab">Ik in de hoogste graad vervloek.</l>
+                    <l>Die Haagsche Poppen moet men stellen,</l>
+                    <l>By opgeblaaze waterbellen.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+                    <l>Zie my eens zonder lachchen aan.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="sc">Frederik</hi>.</speaker>
+                    <l>My dunkt gy zyt noch wel voldaan.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+                    <l>Niet al te wel, ik voel myn zinnen,</l>
+                    <l>Beroerd, door smaad van die Zottinnen;</l>
+                    <l>Heur slecht onthaal maakt my zo gram,</l>
+                    <l>Wy, Zuilen van de Beurs en Dam,</l>
+                    <l>Die op het Oosten, Zuide en Westen,</l>
+                    <l>Den handel dryven, als de besten,</l>
+                    <l>Zyn meerder waard, naar ik gevoel:</l>
+                    <l>Zy zetten ons niet eens een stoel.</l>
+                    <l>Wie zou haar hovaardy verdraagen?</l>
+                    <l>'t Was of ze ons met de nek aanzagen.</l>
+                    <l>Zy luisterden elkaêr in 't oor,</l>
+                    <l>En gaaven ons haast geen gehoor.</l>
+                    <l>Men zag haar rekken, geeuwen, gaapen,</l>
+                    <l>Als hielden wy haar van het slaapen,</l>
+                    <l>Zy vreeven de oogen een voor een,</l>
+                    <l>En spraaken niet als ja of neen.</l>
+                    <l>Ik meen haar nooit weêr aan te spreeken.</l>
+                </sp>
+                <pb n="6"/>
+                <sp>
+                    <speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+                    <l>Dat 's niet genoeg, ik wil my wreeken,</l>
+                    <l>Wy zyn hier al te veel versmaad,</l>
+                    <l>Men moet haar straffen, 't gaat zo 't gaat.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="sc">Frederik</hi>.</speaker>
+                    <l>Men moet zo haast geen vonnis stryken.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+                    <l>Men moet haar gekheid haar doen blyken.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="sc">Frederik</hi>.</speaker>
+                    <l>Maar hoe wilt gy dat onderstaan?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+                    <l>Ik heb my al in 't kort beraân,</l>
+                    <l>Wy hebben knechts, dat zyn twee kwanten,</l>
+                    <l>Die zullen deeze hoofsche Danten</l>
+                    <l>Bespotten door een valsche schyn,</l>
+                    <l>En toonen 't geen zy niet en zyn;</l>
+                    <l>Myn Knecht, met grootsheid ingenoomen,</l>
+                    <l>Waand waarlyk dat hy is gekoomen</l>
+                    <l>Van edel bloed en hoog geslacht,</l>
+                    <l>Zo dat hy maalt, by dag en nacht,</l>
+                    <l>Dat elk hem een Marquies moet achten,</l>
+                    <l>Hy is ook geestig van gedachten,</l>
+                    <l>Hy pronuncieerd, hy zingt, hy dicht,</l>
+                    <l>En brengt veel snaakery in 't licht.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="sc">Frederik</hi>.</speaker>
+                    <l>Myn Knecht, nu gy 't zo hebt besteeken</l>
+                    <l>Zal ook deeze aanslag niet verbreeken,</l>
+                    <l>Hy heeft zoldaat geweest wel eer,</l>
+                    <l>Waar door hy meend dat hy een Heer,</l>
+                    <l>Ja Veldheer is, hy derst vaak roemen</l>
+                    <l>Zyn heldendaaden, en hem noemen</l>
+                    <l>Baron, of Admiraal, of Graaf.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+                    <l>Wel, deeze Gekken zullen braaf,</l>
+                    <l>Als zy maar mooije kleêren draagen,</l>
+                    <l>Deez' hoofsche Jufferen behaagen.</l>
+                </sp>
+                <pb n="7"/>
+                <sp>
+                    <speaker><hi rend="sc">Frederik</hi>.</speaker>
+                    <l>Hoe krygt men kleêren by de hand?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+                    <l>Van Jan, dat 's een Komediant.</l>
+                    <l>Maar zacht, wie komt ons daar verstooren?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="sc">Frederik</hi>.</speaker>
+                    <l>Alardus is 't, men moet hem hooren.</l>
+                </sp>
+                </div>
+                <div type="scene">
+                    <head rend="h4">Tweede tooneel.</head>
+                    <stage><hi rend="sc">Alardus, Ferdinand, Frederik</hi>.</stage>
+                    <sp>
+                        <speaker><hi rend="sc">Alardus</hi>.</speaker>
+                        <l>WEl, Heeren, hebt gy nu myn Nicht,</l>
+                        <l rend="; 1tab">En Dochter alzo zeer verpligt,</l>
+                        <l>Dat zy geneegen zyn te paaren?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+                        <l>Dat zullen zy u best verklaaren.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Frederik</hi>.</speaker>
+                        <l>Wy weeten u ons leeven lank,</l>
+                        <l>Voor al uw vriendschap, grooten dank.</l>
+                    </sp>
+                </div>
+                <div type="scene">
+                    <head rend="h4">Derde tooneel</head>
+                    <sp>
+                        <speaker><hi rend="sc">Alardus</hi>.</speaker>
+                        <l>NA dat ik hoor aan al haar reeden,</l>
+                        <l rend="; 1tab">Zyn zy niet al te wel te vreeden.</l>
+                        <l>Marotte, hola!</l>
+                    </sp>
+                </div>
+                <div type="scene">
+                    <head rend="h4">Vierde tooneel</head>
+                    <stage><hi rend="sc">Alardus, Marotte</hi>.</stage>
+                    <sp>
+                        <speaker><hi rend="sc">Marotte</hi>.</speaker>
+                        <l rend="; 1tab">WEl, myn Heer,</l>
+                        <l>Hier ben ik, wat is uw begeer?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Alardus</hi>.</speaker>
+                        <l>Ga, haal de Juffers, breng haar binnen,</l>
+                        <l>Want ik ben ongerust van zinnen,</l>
+                        <l>Zy hebben myn besluit verzet.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Marotte</hi>.</speaker>
+                        <l>Zy zyn Heer, in haar Kabinet.</l>
+                    </sp>
+                    <pb n="8"/>
+                    <sp>
+                        <speaker><hi rend="sc">Alardus</hi>.</speaker>
+                        <l>Wat doen zy daar?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Marotte</hi>.</speaker>
+                        <l rend="; 1tab">Maar, Heer, zy maaken</l>
+                        <l>Pomade, daar haar bleeke kaaken</l>
+                        <l>En lippen werden meê gesmeerd.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Alardus</hi>.</speaker>
+                        <l>Al lang genoeg gepomadeerd.</l>
+                        <l>Ga haalt 'er hier, zy doen my schaade</l>
+                        <l>Veel duizenden met haar pomade.</l>
+                    </sp>
+                </div>
+                <div type="scene">
+                    <head rend="h4">Vyfde tooneel.</head>
+                    <sp>
+                        <speaker><hi rend="sc">Alardus</hi>.</speaker>
+                        <l>DE maagdemelk werd steeds van haar</l>
+                        <l rend="; 1tab">Geplengt als of het water waar;</l>
+                        <l>De Schagermart, met al haar Boeren,</l>
+                        <l>Kan haar op ver na niet toe voeren</l>
+                        <l>Al de eijeren, die zy gemeen</l>
+                        <l>Verbreeken om het wit alleen.</l>
+                        <l>Men brengt hier daag'lyks flessen binnen,</l>
+                        <l>Met water van de Koninginnen</l>
+                        <l>Van Hongarijen, en de Apteek</l>
+                        <l>Krygt ook van my een goeije streek.</l>
+                        <l>Zy wassen borsten, hals en handen</l>
+                        <l>Met kamferwater, het is schanden,</l>
+                        <l>Met oleum Tatrijen, noch</l>
+                        <l>Met Tallikoly, vol bedrog,</l>
+                        <l>Die ik moet om haar prys verachten;</l>
+                        <l>Ik moet haar alle weeken slagten,</l>
+                        <l>Twee Biggen, om het spek dat zy</l>
+                        <l>Vermorssen in haar smeerdery.</l>
+                        <l>Ik kon wel twaalf knechten houwen,</l>
+                        <l>Indien zy maar gebruiken zouwen,</l>
+                        <l>De schaapevoeten, die zy slaâg</l>
+                        <l>Onnut verkwisten alle daag.</l>
+                    </sp>
+                </div>
+                <div type="scene">
+                    <pb n="9"/>
+                    <head rend="h4">Zesde tooneel.</head>
+                    <stage><hi rend="sc">Alardus, Bregt, Dina</hi>.</stage>
+                    <sp>
+                        <speaker><hi rend="sc">Alardus</hi>.</speaker>
+                        <l>WAt schatten doet gy my verteeren,</l>
+                        <l rend="; 1tab">Met al uw pleisteren en smeeren!</l>
+                        <l>Maar, zegt, wat hebt gy toch misdaân</l>
+                        <l>Die Heeren, die 'k daar uit zag gaan?</l>
+                        <l>Hun liefde scheen verflaauwt te weezen,</l>
+                        <l>Dies ben ik niet heel buiten vreezen,</l>
+                        <l>Dat zy hier niet na hun waardy</l>
+                        <l>Ontfangen zyn van u, daar gy</l>
+                        <l>Geweeten hebt om wat voor reeden,</l>
+                        <l>Dat ik u aan hen wou besteeden</l>
+                        <l>Ten echt.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l rend="; 2tab">Papa, het heeft zyn reên,</l>
+                        <l>Wat achting kan daar zyn voor een</l>
+                        <l>Die onordentlyk in het minnen</l>
+                        <l>Te werk gaat als hy 't zal beginnen?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Dina</hi>.</speaker>
+                        <l>Zy hadden geen resonnement.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Alardus</hi>.</speaker>
+                        <l>Ha! ha! u is alleen bekend</l>
+                        <l>De styl van wel te resonneeren:</l>
+                        <l>Laat hooren de aanspraak van die Heeren.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Haar aanspraak was, ai! hoor, Papa;</l>
+                        <l>Ten eersten om het woord van ja,</l>
+                        <l>Zy spraken niet als maar van trouwen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Alardus</hi>.</speaker>
+                        <l>Wel, woud gy liever dat zy zouwen</l>
+                        <l>Maar vraagen om een nacht drie vier,</l>
+                        <l>By u te slapen om plaizier;</l>
+                        <l>En zo gy hen dan niet behaagden,</l>
+                        <l>Zo waard gy twee beproefde maagden.</l>
+                        <pb n="10"/>
+                        <l>Hee! staat u zulk een vrijen aan?</l>
+                        <l>Zy hebben wonder wel gedaan:</l>
+                        <l>Want al die zonder trouw beginnen</l>
+                        <l>Zyn zotten, maar noch meest zottinnen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Helaas! Papa, 't geen gy daar zegt,</l>
+                        <l>Is triviaal, en laf en slecht</l>
+                        <l>Van styl, waar meê gy my maar de ooren</l>
+                        <l>Outsticht, ik kan die taal niet hooren.</l>
+                        <l>Heer redeneeren met bescheid,</l>
+                        <l>En 't air van de welsprekentheid.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Alardus</hi>.</speaker>
+                        <l>'k Weet niet van 't air, noch wil 't niet leeren,</l>
+                        <l>Ik zeg het voegt dat lui met eeren,</l>
+                        <l>Ten eersten met een volle mond</l>
+                        <l>Haar hert ontsluiten tot de grond.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Zou elk van dat gevoelen weezen,</l>
+                        <l>Zo waaren haastig uit geleezen</l>
+                        <l>Veel boeken, die nu aan de jeugd</l>
+                        <l>Lang stof verschaffen tot haar vreugd;</l>
+                        <l>Had Cirus 't jawoord zo verkreegen,</l>
+                        <l>Mandanes naam was lang verzweegen,</l>
+                        <l>En had Aronce op staande voet</l>
+                        <l>Clelle trouw belooft, wat zoet</l>
+                        <l>Zou doch in die history steeken?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Alardus</hi>.</speaker>
+                        <l>Waar komt gy my het hoofd meê breeken</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Papa, myn Nichte, die daar staat,</l>
+                        <l>Weet ook wel hoe 't in 't minnen gaat.</l>
+                        <l>Men moet veel Minnaars min verduuren,</l>
+                        <l>En trouwen, na veel avonturen.</l>
+                        <l>Een minnaar moet ook, vlug van geest,</l>
+                        <l>Betoonen dat hy boeken leest,</l>
+                        <l>En al wat liefde kan verwekken,</l>
+                        <l>Moet hy daar uit tot leering trekken;</l>
+                        <pb n="11"/>
+                        <l>Hy moet door tochten van zyn hert</l>
+                        <l>Betoonen wat al pyn, al smert</l>
+                        <l>Zyn teed're liefde heeft te draagen,</l>
+                        <l>Van welke last hy steeds moet klaagen;</l>
+                        <l>Hy moet door 't oog de felle brand,</l>
+                        <l>Verbeelden van zyn ingewand.</l>
+                        <l>Hy moet liefkoozen, ook aanminnig</l>
+                        <l>Zyn hert ontdekken, zeer zagtzinnig,</l>
+                        <l>En lyden lydzaam 't geen hy lyd,</l>
+                        <l>Maar alles op zyn beurt en tyd.</l>
+                        <l>Wie aanvang maakt van wel te minnen,</l>
+                        <l>Die moet het op een Baal beginnen,</l>
+                        <l>Of op de Schouwburg, daar hy weet</l>
+                        <l>Zyn Schoone vaak haar tyd besteed;</l>
+                        <l>Daar moet hy haar in de oogen houwen</l>
+                        <l>Zoo, dat zy hem ook kan aanschouwen;</l>
+                        <l>Os heeft hy kennis aan een vriend</l>
+                        <l>Van haar, dat hy hem daar van diend;</l>
+                        <l>En laat hem in haar huis geleiden,</l>
+                        <l>Daar hy bedroeft van daan moet scheiden,</l>
+                        <l>Ook zwaar van hoofd, verbaast en stom,</l>
+                        <l>Maar komen echter vaak weêrom;</l>
+                        <l>Daar moet hy noch een tyd verbergen,</l>
+                        <l>'t Geen hy wil van zyn Juffrouw vergen?</l>
+                        <l>Dus doende werd het tyd dat hy</l>
+                        <l>Spreekt van zyn liefde en vrijery;</l>
+                        <l>Dan moet de Juffrouw haar verstooren.</l>
+                        <l>En moei'lyk zyn van dat te hooren,</l>
+                        <l>En krygen op haar kaak een bloos,</l>
+                        <l>En zo vertrekken voor een poos</l>
+                        <l>Vergramt, en met afgunstige oogen:</l>
+                        <l>Dit moet hy voor een tyd gedoogen,</l>
+                        <l>Maar dan moet hy dat gram gemoed</l>
+                        <l>Voorzichtig, stil, en zacht, en zoet,</l>
+                        <l>Door zuchten trachten te bedaaren,</l>
+                        <l>En zo zyn trouwe min verklaaren.</l>
+                        <l>Dan komen de gevallen aan;</l>
+                        <pb n="12"/>
+                        <l>Zo dra als de and're dit verstaan,</l>
+                        <l>Laat hem de medeminnaar hooren,</l>
+                        <l>Om deeze minnaar te verstooren,</l>
+                        <l>Dan gaat hy vaak als disperaat,</l>
+                        <l>Vol wanhoop, zuchten over straat,</l>
+                        <l>Dan stort hy uit by dag en nachten,</l>
+                        <l>Veel treurgezangen, minneklagten,</l>
+                        <l>Dan draaft een dienstboode of een Min,</l>
+                        <l>In ambassaatschap uit en in.</l>
+                        <l>Die regels en galanterijen</l>
+                        <l>Moet elk met order in het vrijen,</l>
+                        <l>Zeer net betrachten, 't zy wie 't zy</l>
+                        <l>Van deeze wet is niemand vry.</l>
+                        <l>Dan werd het tyd dat by de vrinden,</l>
+                        <l>Door trouw contrakt die twee verbinden.</l>
+                        <l>Zo moesten deze slechte Bloeds</l>
+                        <l>Ons vrijen: maar op staande voets,</l>
+                        <l>Ten eersten zeiden zy, Madame,</l>
+                        <l>Indien 't u lust laat ons te zame</l>
+                        <l>Oprechten een contrakt van trouw,</l>
+                        <l>Op datwe als echte man en vrouw,</l>
+                        <l>Naar 't Roomsche recht zo vast beschreeven,</l>
+                        <l>Den heil'gen echtenstaat beleeven.</l>
+                        <l>My dunkt, Papa, dat zulk een taal</l>
+                        <l>Verdiend het allerslechst onthaal.</l>
+                        <l>Ik weet niet hoe ik met myn ooren,</l>
+                        <l>Die lekker zyn, dat aan kan hooren,</l>
+                        <l>Een styl die na den burger ruikt,</l>
+                        <l>En by 't kanaly werd gebruikt.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Alardus</hi>.</speaker>
+                        <l>De liefde heeft hen dus doen spreeken,</l>
+                        <l>Want komt een Koopman eens te breeken,</l>
+                        <l>Zo blyft door dat contract zyn vrouw</l>
+                        <l>Geprefereerd, versta jy 't nouw?</l>
+                        <l>Woud gy hun goedheid kwalyk neemen?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Maar hoor, Papa, dat is maar teemen.</l>
+                    </sp>
+                    <pb n="13"/>
+                    <sp>
+                        <speaker><hi rend="sc">Dina</hi>.</speaker>
+                        <l>Maar waarlyk, Oom, werd niet verstoord,</l>
+                        <l>Nicht weet wat tot het minnen hoord.</l>
+                        <l>En deeze Minnaars geen van beijen,</l>
+                        <l>Verstaan hen op galanterijen;</l>
+                        <l>Hun kleeding, ja hun gansche schyn</l>
+                        <l>Toond dat zy geen Galanten zyn:</l>
+                        <l>Hun dassen zyn met slechte kanten,</l>
+                        <l>Hun schoenen met geen diamanten,</l>
+                        <l>Haar hoofd is zonder pruik, en 't hair</l>
+                        <l>Schynt niet gekamt in een rond jaar.</l>
+                        <l>Zy gaan ook zonder knecht of deegen,</l>
+                        <l>Hoor, Oom, ik was met hen verleegen,</l>
+                        <l>Zy zagen treurig, bang en zuur,</l>
+                        <l>De beste was een styf figuur,</l>
+                        <l>Zo dat zy 't allerbest geleeken,</l>
+                        <l>Twee houte beelden, buiten 't spreeken.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Papa, Nicht leid het klaarlyk uit.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Alardus</hi>.</speaker>
+                        <l>Wel gy zyt met de kop gebruid,</l>
+                        <l>Zottin, dat kostlyk 's Gravenhaagen</l>
+                        <l>Zal met de Mode ons hier niet plaagen,</l>
+                        <l>Want hier tot Amsterdam zyn wy</l>
+                        <l>Van al die hoofsche streeken vry,</l>
+                        <l>Daarom ben ik hier komen woonen,</l>
+                        <l>Wilt u ook op die wys vertoonen,</l>
+                        <l>Niet opgeblaazen, maar oprecht,</l>
+                        <l>Verstaat gy, Dina dat, en Bregt?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Ontsla ons toch van zulke namen;</l>
+                        <l>Wel, heer! Papa, ik zou my schaamen,</l>
+                        <l>Indien het iemand had gehoord.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Alardus</hi>.</speaker>
+                        <l>Zo maakt uw doopnaam u verstoord!</l>
+                        <l>Zwyg stil, of anders moogje vreezen.</l>
+                    </sp>
+                    <pb n="14"/>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>O Goôn! hoe kan het moog'lyk weezen?</l>
+                        <l>Weet dat ik vaak verwonderd sta.</l>
+                        <l>Is zulk een slechthoofd myn Papa?</l>
+                        <l>My was al in de wieg gegeeven</l>
+                        <l>De geest van wel te konnen leeven</l>
+                        <l>Papa, ik zeg u dat uw praat</l>
+                        <l>My walgt, ik ben te delikaat,</l>
+                        <l>Het snyt my ook door 't hert en ooren,</l>
+                        <l>Die slegte naamen aan te hooren.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Alardus</hi>.</speaker>
+                        <l>Gy had gelyk, was 't in den Haag,</l>
+                        <l>Maar hier, hier hoord men alle daag</l>
+                        <l>Katryn is Tryn, Elizabette</l>
+                        <l>Is Lys, wil jy 't gebruik beletten?</l>
+                        <l>Hier zyt gy Dina, en gy Bregt.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Dina</hi>.</speaker>
+                        <l>Maar, Oom, dat klinkt ook al te slecht.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Alardus</hi>.</speaker>
+                        <l>Nou laat dat daar, ik wil u zweeren,</l>
+                        <l>Dat die twee Koopliên, die twee Heeren,</l>
+                        <l>Die gy veracht'lyk houd van stam,</l>
+                        <l>De rykste zyn van Amsterdam.</l>
+                        <l>Ik wil ook dat gy hen zult trouwen,</l>
+                        <l>Want ik ben oud, en u te houwen</l>
+                        <l>Valt lastig, ouwe Dochters hier,</l>
+                        <l>Is als een kelder met zuur bier.</l>
+                        <l>En, om 't u rond uit te verklaaren,</l>
+                        <l>Ik wil u langer niet bewaaren.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Dina</hi>.</speaker>
+                        <l>Tot trouwen zal ik nooit verstaan,</l>
+                        <l>Naakt by een man te bed te gaan,</l>
+                        <l>Dat zoude ik stellen als ligtvaardig,</l>
+                        <l>Geen man is ook dit lichchaam waardig.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Hoor, Dianire, laat ons maar</l>
+                        <l>Voltrekken ons Roman, ze is klaar</l>
+                        <pb n="15"/>
+                        <l>Op twee dry bladen, die zal toonen,</l>
+                        <l>Wat steiloors t'Amsterdam al woonen,</l>
+                        <l>En wat hier aan de vrijers schort.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Alardus</hi>.</speaker>
+                        <l>'k Zeg dat gy trouwen zult in 't kort,</l>
+                        <l>En zo gy my wilt tegenspreken,</l>
+                        <l>Zal ik u in een Klooster steeken.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Dina</hi>.</speaker>
+                        <l>Wat duisterheid is 't dat 'er viel,</l>
+                        <l>Op uw Heer Vaders schraale ziel,</l>
+                        <l>Het deerd my hem dus zien te woelen;</l>
+                        <l>In burger drek, in modder poelen;</l>
+                        <l>Hy kend geen gaven dan het geld.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Ik doe my zelf aan groot geweld,</l>
+                        <l>Als ik het kryg in myn gedachten,</l>
+                        <l>Wie ik moet voor myn vader achten;</l>
+                        <l>Doorluchter vader, houd ik wis,</l>
+                        <l>In 't bloed, myn rechte vader is.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Dina</hi>.</speaker>
+                        <l>Al wie uw gaven mag aanschouwen,</l>
+                        <l>Die moet het daar voor met u houwen.</l>
+                    </sp>
+                </div>
+                <div type="scene">
+                    <head rend="h4">Zevende tooneel.</head>
+                    <stage><hi rend="sc">Bregt, Dina, Marotte</hi>.</stage>
+                    <sp>
+                        <speaker><hi rend="sc">Marotte</hi>.</speaker>
+                        <l>DAar 's een Lakay, die vraagt, Juffrouw,</l>
+                        <l rend="; 1tab">Of ook zyn Heer van daag noch zou,</l>
+                        <l>Voor de eerstemaal, u mogen spreeken?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Moet ik met u myn brein weêr breeken,</l>
+                        <l>O Slechthoofd, met uw klein verstand,</l>
+                        <l>Zegt; Juffers daar is een afgezand,</l>
+                        <l>Die komt hier als in ambassade,</l>
+                        <l>Gedepisieert van zyn Genade,</l>
+                        <l>En vraagt, met uw comoditeit,</l>
+                        <pb n="16"/>
+                        <l>Of gy van daag visibel zyt.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Marotte</hi>.</speaker>
+                        <l>Kon ik latyn zo had ik voordeel.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Inpertinente, zonder oordeel,</l>
+                        <l>Wie is de Jonker van die knecht?</l>
+                        <l>Wie zond hem hier?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Marotte</hi>.</speaker>
+                        <l rend="; 2tab">Maar, Juffrouw Bregt...</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>De booze moet uw brein bezitte:</l>
+                        <l>Noemt gy my Bregt! ik heet Bregitte.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Marotte</hi>.</speaker>
+                        <l>Mejuffrouw, 'k zeg Bregitte dan,</l>
+                        <l>'t Is een Marquis.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l rend="; 1tab">Marquis, waar van?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Marotte</hi>.</speaker>
+                        <l>Van Toorenvliet, zeer ryk van haaven</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Dat zal een geest zyn groot van gaaven.</l>
+                        <l>Ga, zeg den Dienaar dat zyn Heer</l>
+                        <l>Vry aan komt, maar keerd gy voort weêr,</l>
+                        <l>En helpt my dan naar eisch paleeren,</l>
+                        <l>Ik moet ten hoogsten maintineeren</l>
+                        <l>Myn reputatie, 't zal gewis</l>
+                        <l>Een Heer zyn die het waardig is.</l>
+                        <l>Men moet de hooggeboornen achten,</l>
+                        <l>En al die groot zyn van geslachten.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Dina</hi>.</speaker>
+                        <l>Maar hoe of die Marquies ons kend?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Maar, Nicht, tot aan des waarelds end</l>
+                        <l>Weet elk met lof van ons te spreeken,</l>
+                        <l>Want wy en hebben geen gebreeken,</l>
+                        <l>Ik beeld my vast en zeeker in</l>
+                        <l>Te worden noch een Koningin;</l>
+                        <pb n="17"/>
+                        <l>Ik acht niet veel de Marquisinnen,</l>
+                        <l>Maar, Nichte, kom gaan wy, naar binnen,</l>
+                        <l>In ons zalet, eer 't word te laat,</l>
+                        <l>Daar leid ook al myn halssieraad.</l>
+                        <l>Marotte, wil de spiegel draagen,</l>
+                        <l>En, als de Heer na ons komt vraagen,</l>
+                        <l>Zo breng hem hier.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Marotte</hi>.</speaker>
+                        <l rend="; 1tab">Ik zal, zeer wel,</l>
+                        <l>Mejuffers, volgen uw bevel.</l>
+                    </sp>
+                </div>
+                <div type="scene">
+                    <head rend="h4">Agste tooneel.</head>
+                    <stage><hi rend="sc">Haripon</hi>
+                        <hi rend="i">in een draag stoel</hi>. <hi rend="sc">Roel</hi>
+                        <hi rend="i">en</hi>
+                        <hi rend="sc">Piet</hi>
+                        <hi rend="i">twee draagers</hi>.</stage>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>STa, of ik zal my aan u schenden,</l>
+                        <l rend="; 1tab">Gy, Schelmen, breekt my hals en lenden,</l>
+                        <l>Met zo te stooten heen en weêr.</l>
+                        <l>Sa, Rekels, zeg ik, of ik zweer...</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Roel</hi>.</speaker>
+                        <l>Wel, jy woud op de straat niet blyven,</l>
+                        <l>De deur is naau, jy moet niet kyven.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Dat meen ik, Pluggen, zoud ik doen</l>
+                        <l>Myn pluimen tegen 't nat saizoen</l>
+                        <l>En regen vechten, en myn schoenen,</l>
+                        <l>Die ik zo schoon heb laaten boenen,</l>
+                        <l>Ofdrukken in het morzig nat?</l>
+                        <l>Ik zag jou liever op een rat.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Piet</hi>.</speaker>
+                        <l>Gelieft gy ons maar geld te langen?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Wat?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Piet</hi>.</speaker>
+                        <l rend="; 1tab">Wy moeten nu ons loon ontsangen.</l>
+                    </sp>
+                    <pb n="18"/>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Een Heer van zulk een groot geweld,</l>
+                        <l>En magt, vraagt gy die noch om geld?</l>
+                        <l>Ha! schelm, daar is uw loon gaa heenen,</l>
+                        <l>Of ik breek u straks hals en beenen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Piet</hi>.</speaker>
+                        <l>Is dat betaaling? dat komt schoon!</l>
+                        <l>De honden sterven van zulk loon.</l>
+                        <l>Kom, kom, geef geld.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l rend="; 1tab">Derft gy noch spreeken,</l>
+                        <l>Vreest gy niet voor den hals te breeken?</l>
+                        <l>Vertrekt gy, uitgeschudde Plug.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Piet</hi>.</speaker>
+                        <l>Geef geld, of anders zal uw rug</l>
+                        <l>Braaf vliegen vangen, zulke Heeren</l>
+                        <l>Kan ik zo ras de ribben smeeren.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>'t Is resonabel 't geen gy zegt,</l>
+                        <l>En gy verzoekt ook niet als recht.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Piet</hi>.</speaker>
+                        <l>Kom, kom, schiet geld, wy doen 't om voordeel.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Gy spreekt gelyk een man van oordeel,</l>
+                        <l>Maar dat 's een Rekel die daar staat,</l>
+                        <l>Die niet derft spreeken daar men slaat.</l>
+                        <l>Daar loopt hy als de bloode uilen,</l>
+                        <l>Of kinders om een slag te huilen.</l>
+                        <l>Daar is uw loon, zyt gy te vreên?</l>
+                        <l>Zo wilt vertrekken.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Piet</hi>.</speaker>
+                        <l rend="; 1tab">Neen, ô neen!</l>
+                        <l>Myn Maat heeft al te veel ontfangen,</l>
+                        <l>Die slag moet ik u weder langen,</l>
+                        <l>Of gy waard anders niet voldaan.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Hou stil, daar is voor hem een vaan;</l>
+                        <pb n="19"/>
+                        <l>Al wie met my kan redeneren,</l>
+                        <l>Die krygt ten vollen zyn begeeren.</l>
+                        <l>Ga nu, kom haalt my te avond weêr,</l>
+                        <l>Omtrent ten achten.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Piet</hi>.</speaker>
+                        <l rend="; 1tab">Wel, myn Heer.</l>
+                    </sp>
+                </div>
+                <div type="scene">
+                    <head rend="h4">Negende tooneel.</head>
+                    <stage><hi rend="sc">Haripon, Marotte</hi>.</stage>
+                    <sp>
+                        <speaker><hi rend="sc">Marotte</hi>.</speaker>
+                        <l>MYn Heer, de Juffers zyn straks vaardig</l>
+                        <l rend="; 1tab">Om hier te komen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l rend="; 2tab">Zy zyn 't waardig</l>
+                        <l>Dat ik vertoef, ik ben vereerd,</l>
+                        <l>En hier niet kwaalyk geposteert.</l>
+                        <l>Hier steekt geen zon, hier straalt geen hitten.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Marotte</hi>.</speaker>
+                        <l>Myn Heer, gelieft wat neêr te zitten.</l>
+                    </sp>
+                </div>
+                <div type="scene">
+                    <head rend="h4">Tiende tooneel.</head>
+                    <stage><hi rend="sc">Bregt, Dina, Haripon, Boon</hi>.</stage>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>MEjuffers, ei! ontzet u niet,</l>
+                        <l rend="; 1tab">Om datge een onbekende ziet,</l>
+                        <l>'t Zyn uw merites en uw gaaven,</l>
+                        <l>Die u de waereld om doen draaven,</l>
+                        <l>Op vleugels van de vlugge Faam,</l>
+                        <l>Die melden uw doorluchte naam,</l>
+                        <l>En schoonheid, waardig om te aanschouwen</l>
+                        <l>Dies kon ik my niet wederhouwen,</l>
+                        <l>Noch rust bekomen nacht noch dag,</l>
+                        <l>Voor dat ik u, Volmaakte zag.</l>
+                        <l>'k Heb my in veel gevaar gesteken,</l>
+                        <l>Om u te mogen zien en spreeken,</l>
+                        <pb n="20"/>
+                        <l>En nu ik zie uw glans en gloed,</l>
+                        <l>Kruipt een ontroering door myn bloed,</l>
+                        <l>Waar zal ik toch my best bewaaren?</l>
+                        <l>Myn vryheid loopt hier veel gevaaren,</l>
+                        <l>Hoe ben ik in het Moorenland?</l>
+                        <l>Myn witte ziel word zwart verbrand;</l>
+                        <l>Kom, breng my wapens aan van buiten,</l>
+                        <l>Om deeze schichten meê te stuiten;</l>
+                        <l>Gespt my een harnas aan van staal,</l>
+                        <l>Of anders ruim ook voort de zaal,</l>
+                        <l>Of steld my borg, hier moet gy kiezen,</l>
+                        <l>Ik vrees my zelf hier te verliezen.</l>
+                        <l>Uw schoonheid heeft myn hert verheerd,</l>
+                        <l>Roofd niet het geen gy niet begeert.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Maar, Nichte, dat is kragt van reden.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Dina</hi>.</speaker>
+                        <l>Maar zie eens welke fiere leeden.</l>
+                        <l>Dat is wel een volmaakt Marquies.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Myn Heer, ei! vrees voor geen verlies,</l>
+                        <l>Weest gy gerust, weet dat onze oogen,</l>
+                        <l>Tot diefstal hebben geen vermoogen,</l>
+                        <l>Verlaat die zorg nu, want gy zyt</l>
+                        <l>Hier veilig, en voor ramp bevryt.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>, <hi rend="i">na dat hy zyn hair gekamt
+                                heeft</hi>.</speaker>
+                        <l>Mejuffers, ik beklaag, helacy!</l>
+                        <l>Dat gy, twee Eng'len, zo vol gracy,</l>
+                        <l>Gewis uit adelyke stam,</l>
+                        <l>Moet woonen hier tot Amsterdam,</l>
+                        <l>Zo ver van 't Hof als van 't welleeven,</l>
+                        <l>Wie kan u hier na waarde geeven</l>
+                        <l>Visieten? want men vind hier meest</l>
+                        <l>Maar styve steilöors, zonder geest,</l>
+                        <l>Die maar van winst en woeker praaten;</l>
+                        <l>En voort bespotten alle staaten</l>
+                        <l>Van menschen, die door eer en lof</l>
+                        <pb n="21"/>
+                        <l>Haar glory zoeken aan het Hof.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Brect</hi>.</speaker>
+                        <l>'t Is waar, myn Heer, maar de Poëten,</l>
+                        <l>En 't Schouwburg doen ons veel vergceten</l>
+                        <l>Van 't hofsche leeven, ik bekend,</l>
+                        <l>In 't Hof is recht ons element;</l>
+                        <l>Maar nu by ons hier veel verkeeren,</l>
+                        <l>Die 't Schouwburg en de Dichtkonst eeren,</l>
+                        <l>En ons vertoonen alle daag</l>
+                        <l>Wat nieuws, vergeeten wy den Haag.</l>
+                        <l>Hier woonen schaaren van Poëten,</l>
+                        <l>Daarze in den Haag niet af en weeten,</l>
+                        <l>De een schryft hoe dat nu Galathé</l>
+                        <l>Verlaat haar trouwe Melibé.</l>
+                        <l>Een ander toont aan ons de wetten,</l>
+                        <l>Waar me in tooneelspel op moet letten.</l>
+                        <l>Een derde leerd een schoon moraal</l>
+                        <l>Ons uit den zaater Juvenaal.</l>
+                        <l>Dus krygen wy veranderingen,</l>
+                        <l>Zo om te leezen, als te zingen,</l>
+                        <l>Hier daag'lyks tot ons groot vermaak.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Zo is de Dichtkonst hier de zaak,</l>
+                        <l>Die u kan vergenoegen geeven?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Dina</hi>.</speaker>
+                        <l>O ja, die is 't die ons doed leeven.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Zo is 't hoognoodig dat gy weet</l>
+                        <l>Dat ik Marquies ben, en Poëet;</l>
+                        <l>Ik heb aan Pallas borst gezoogen,</l>
+                        <l>En drink my vaak door veele toogen</l>
+                        <l>Van Hipocreen, tot boven vol,</l>
+                        <l>Ik ben de zoon van god Apol,</l>
+                        <l>De meester in het rederyken,</l>
+                        <l>Ik wil geen Hoofd noch Vondel wyken,</l>
+                        <l>Jan Vos, vol spreuken in zyn dicht,</l>
+                        <l>Valt by my duizend pond te licht;</l>
+                        <pb n="22"/>
+                        <l>Ik laat my in Rondeelen hooren,</l>
+                        <l>Sneldichten zyn my aangebooren,</l>
+                        <l>In knippelvaars en Anagram</l>
+                        <l>Draag ik de roem van Amsterdam.</l>
+                        <l>'k Heb in de Dichtkonst groote greepen,</l>
+                        <l>'k Weet waar men é, en ó moet streepen.</l>
+                        <l>De Q, die ruk ik uit zyn stee,</l>
+                        <l>Als Lubber van het A.B.C.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Myn Heer, maakt gy ook Madrigaalen?</l>
+                        <l>Sy klinken, in verscheide taalen,</l>
+                        <l>Heel zoet en aardig.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l rend="; 1tab">Ik bekend,</l>
+                        <l>Dat is byzonder myn talent,</l>
+                        <l>Ik schryf nu al de hoofsche pligten</l>
+                        <l>Geheel in madrigaalse dichten.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Dat zal wat raars zyn.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l rend="; 3tab">Ongemeen!</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>'k Verzoek u dan voor ons elk een,</l>
+                        <l>Als die gedrukt zyn.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l rend="; 2tab">'t Zal geschieden,</l>
+                        <l>Maar 't drukken is voor slechte lieden;</l>
+                        <l>'t Vertreed myn glory, maar ik moet</l>
+                        <l>Het doen, op dat den armen bloed</l>
+                        <l>Den drukker noch mag blyven leeven,</l>
+                        <l>Ik heb hem ook myn woord gegeeven.</l>
+                        <l>Maar, appropo, daar valt my in,</l>
+                        <l>'k Was gist'ren by een Hertogin,</l>
+                        <l>Die ik, op staande voet, vereerden,</l>
+                        <l>Met meêr als zy van my begeerden;</l>
+                        <l>Dit staaltje van myn vlugge geest,</l>
+                        <l>'t Welk haar behaagden op het meest</l>
+                        <l>Maar luister met verstand en ooren.</l>
+                    </sp>
+                    <pb n="23"/>
+                    <sp>
+                        <speaker><hi rend="sc">Dina</hi>.</speaker>
+                        <l>Wy zyn begeerig om te hooren.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Och! och! myn herte my ontvloog,</l>
+                        <l>Door 't zien van uw aanminnig oog,</l>
+                        <l>Ach! gy ontrooft my 't lieve leeven,</l>
+                        <l>Geef weêr of wilt my 't uwe geeven.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Dina</hi>.</speaker>
+                        <l>Dat is galant, dat 's uit de kunst,</l>
+                        <l>Dus steelt gy herten, en krygt gunst.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Ik weet natuur en konst te paaren,</l>
+                        <l>Als ofze twee gezusters waaren,</l>
+                        <l>Dit vind men in geen boeken staan.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Dina</hi>.</speaker>
+                        <l>'t Is daar wel duizend myl van daan.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Zit het begin in uw gedachten?</l>
+                        <l>Ach! ach! als vreesde ik voor 't verkrachten,</l>
+                        <l>Ontsteld, door laagen van bedrog,</l>
+                        <l>Riep ik verbaast, verschrikt, och! och!</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>'k Vind, die och! och! gantsch uitgeleezen,</l>
+                        <l>Meêr als een heldendicht te weezen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Door 't zien, heel zonder erg of list,</l>
+                        <l>Verloor ik my eer ik het wist,</l>
+                        <l>Dies riep ik als vol angst en beeven,</l>
+                        <l>Geef weêr, of wilt my 't uwe geeven,</l>
+                        <l>Als of ik riep, gryp aan die vrouw,</l>
+                        <l>Houw dieven! dieven! dieven! houw!</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Dina</hi>.</speaker>
+                        <l>Die tour is zeer galant en aardig.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Ik vindze daarom ook zo waardig,</l>
+                        <l>Dat ik die woorden, wel bedacht,</l>
+                        <l>Heb tot een air en zang gebragt.</l>
+                    </sp>
+                    <pb n="24"/>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Hebt gy ook maatzang leeren zingen?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Natuur, en konst schenkt alle dingen,</l>
+                        <l>Zelf in de wieg aan edel bloed,</l>
+                        <l>Als ik, en dat in overvloed.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Dat weet ik ook door 't ondervinden.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Nu luister, maar de noorder winden</l>
+                        <l>Verroesten my de keel, zo dat</l>
+                        <l>Myn stem nu stram is, en niet glad,</l>
+                        <l>Hem, hem, hem, hem, fa, la, la, laren.</l>
+                        <l>'k Zal 't op zyn Kavaliers eens klaaren.</l>
+                        <stage><interpGrp>
+                                <interp type="song" value="moli015bela01_0001"/>
+                            </interpGrp><hi rend="i">Hy zingt</hi>.</stage>
+                        <l rend="; 1tab">Uw glans kwam my bekooren,</l>
+                        <l rend="; 1tab">Zo dat ik ga verlooren,</l>
+                        <l rend="; 1tab">Al ben ik hoog gebooren,</l>
+                        <l rend="; 1tab">Ach! help, ach! help my nouw,</l>
+                        <l rend="; 1tab">Helaas! ik ben bedroogen,</l>
+                        <l rend="; 1tab">Myn hert is my ontvloogen,</l>
+                        <l rend="; 1tab">Door uw aanminnige oogen,</l>
+                        <l rend="; 1tab">Hou, dieven! dieven! houw.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Dina</hi>.</speaker>
+                        <l>Dat is vol kruim, vol zin, vol krachten.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Hoe klaar verbeelde ik myn gedachten.</l>
+                        <l>Ik roep als of 't elk hooren zou,</l>
+                        <l>Hou dieven! dieven! dieven! hou!</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Nooit hoorde ik zang en woorden paaren,</l>
+                        <l>Zo net en kragtig evenaaren,</l>
+                        <l>Natuur heeft u getrouw bemind,</l>
+                        <l>Begaafd gelyk haar troetel kind.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Dat 's waar, ik laat ook myne gaaven,</l>
+                        <l>Niet opgeslooten, noch begraaven;</l>
+                        <pb n="25"/>
+                        <l>Ik maak my over al bekend,</l>
+                        <l>'k Heb steets myn divertissement,</l>
+                        <l>Nu zal ik na twee eerste dagen,</l>
+                        <l>Ter Schouwburg gaan, kan 't u behaagen,</l>
+                        <l>Gaa met my, want gy werd genood.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Myn Heer, uw goedheid is te groot,</l>
+                        <l>Om zulk verzoek te refuseeren.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Dus zult gy een Marquies verëeren.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Dina</hi>.</speaker>
+                        <l>Heer, weet gy ook wat voor een Spel</l>
+                        <l>Het zyn zal?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l rend="; 1tab">Ja, ô ja! zeer wel.</l>
+                        <l>Het is uit Spaans, maar wel gevonden,</l>
+                        <l>En heel aan 't Frans Tooneel gebonden.</l>
+                        <l>Den Dichter is myn groote vriend,</l>
+                        <l>Die weet ik is daar meê gediend,</l>
+                        <l>Dat elk het roemt en klapt de handen,</l>
+                        <l>Schoon dat de kaarssen noch niet branden.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Maar handgeklap mag dat wel door?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Ja de Opera die gaat ons voor,</l>
+                        <l>Men acht het daar groote eer, geen schanden,</l>
+                        <l>Van vreugd te klappen in de handen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Dina</hi>.</speaker>
+                        <l>Wy zullen dan, op uw bevel,</l>
+                        <l>Ook zeggen dat is schoon, dat 's wel,</l>
+                        <l>Dat 's ongemeen, dat zyn Juweelen,</l>
+                        <l>Dat zyn vyf uitgevoerde deelen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Maar, hola! zagt, na dat ik hoor,</l>
+                        <l>Heb ik hier zulken Juffer voor,</l>
+                        <l>Die ook tooneelspel heeft gevonden,</l>
+                        <l>En door de dichtkonst vast gebonden.</l>
+                    </sp>
+                    <pb n="26"/>
+                    <sp>
+                        <speaker><hi rend="sc">Dina</hi>.</speaker>
+                        <l>Is 't niet, het kost nog wel geschiên.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Madame, 'k bid laat my het zien?</l>
+                        <l>'k Zal u van my een spel meê deelen,</l>
+                        <l>Dat ik in 't kort zal laaten speelen;</l>
+                        <l>Ik zal u toonen op myn woord,</l>
+                        <l>Wat rol voor yder Speelder hoord.</l>
+                        <l>De speelders komen by my leeren,</l>
+                        <l>'t Air van zeer klaar te pronontieeren,</l>
+                        <l>Want ik ben, als gy hoort en weet,</l>
+                        <l>Een Hoveling en ook Poëet,</l>
+                        <l>Laat my de rollen maar verdeelen,</l>
+                        <l>Ik zal uw spel zo laaten speelen;</l>
+                        <l>Dat het zal weezen uit de kunst.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Dina</hi>.</speaker>
+                        <l>Ik blyf steets dankbaar voor uw gunst.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Wat dunkt u van de garnituuren?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Myn Heer, gy hebt hier geen gebuuren,</l>
+                        <l>Die u gelyk zyn in gewaad,</l>
+                        <l>Uw kleeding u hoogdraavend staat.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Wat dunkt u van dat point, Madame?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Dina</hi>.</speaker>
+                        <l>Dat 's heerlyk, apres mon ame,</l>
+                        <l>Zoo schoon als iemand ooit versleet.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Is deeze pluim niet dik en breed?</l>
+                        <l>Hoe ruikt myn handschoen?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l rend="; 1tab">Als de roozen,</l>
+                        <l>Zy doet myn bleeke kaaken bloozen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Dina</hi>.</speaker>
+                        <l>Myn Heer, daar is, na dat ik zie,</l>
+                        <l>In ons een groote zimpatie.</l>
+                    </sp>
+                    <pb n="27"/>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Wy zyn ook prachtig in gewaaden,</l>
+                        <l>En delicaat in pronk sieraaden.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Dat is niet resonnabel, neen!</l>
+                        <l>Gy met u beide valt op een,</l>
+                        <l>Gy komt, ter rechte en slinker zyde,</l>
+                        <l>My als bestormen en bestryden;</l>
+                        <l>Ik word verkracht, hou moord, en brand!</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Dina</hi>.</speaker>
+                        <l>Maar, Nicht, dat maakt hy zeer galant.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Myn Heer, wat vrees doed u zoo gillen?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Ik voel myn gantsche lichchaam villen.</l>
+                    </sp>
+                </div>
+                <div type="scene">
+                    <head rend="h4">Elfde tooneel.</head>
+                    <stage><hi rend="sc">Marotte, Bregt, Dina, Haripon, Boon</hi>.</stage>
+                    <sp>
+                        <speaker><hi rend="sc">Marotte</hi>.</speaker>
+                        <l>MEjuffers, daar 's een Heer die vraagt,</l>
+                        <l rend="; 1tab">Indien het u maar niet mishaagd,</l>
+                        <l>Zou hy van daag u gaaren spreeken.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Wie komt hier ons vermaak verbreeken?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Marotte</hi>.</speaker>
+                        <l>Mejuffers, het is een Baron.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi></speaker>
+                        <l>Hoe is zyn naam, of ik hem kon?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Marotte</hi>.</speaker>
+                        <l>'t Is Baron Jodelet.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l rend="; 2tab">Wel deezen</l>
+                        <l>Zal wis myn oudste kennis weezen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Marotte, laat hem binnen gaan.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Zyn komst alhier staat my wel aan,</l>
+                        <pb n="28"/>
+                        <l>Daar is van hem zeer veel geschreeven,</l>
+                        <l>Van daaden die hy heeft bedreeven.</l>
+                        <l>Mars heeft hem in zyn plaats gezet,</l>
+                        <l>Hy is den dapp'ren Jodelet.</l>
+                    </sp>
+                </div>
+                <div type="scene">
+                    <head rend="h4">Twaalfde tooneel.</head>
+                    <stage><hi rend="sc">Jodelet, Haripon, Bregt, Dina, Boon</hi>.</stage>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>BAron, getrouwste myner vrienden.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Jodelet</hi>.</speaker>
+                        <l>Marquies, docht ik u hier te vinden!</l>
+                        <l>Door blydschap juigt myn ingewand.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>De vreugd heeft in my de overhand,</l>
+                        <l>Laat ik nu in myn armen vatten</l>
+                        <l>Een die de waereld niet kan schatten</l>
+                        <l>Na zyn verdiensten, neen, ô neen!</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Jodelet</hi>.</speaker>
+                        <l>Dien lof hebt gy met my gemeen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Dina</hi>.</speaker>
+                        <l>Bregitte, dat zyn groote zaaken,</l>
+                        <l>Dus zullen wy in kennis raaken,</l>
+                        <l>Van al den Adel tot ons lof,</l>
+                        <l>Dus strekt ons Amsterdam het hof.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Jodelet</hi>.</speaker>
+                        <l>Mejuffers, laat u niet mishaagen,</l>
+                        <l>Dat ik myn dienst u op kom draagen,</l>
+                        <l>De zoetheid van uw lief gezigt,</l>
+                        <l>Heeft my tot zulks te doen verplicht.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Uw heusheit voert ons zwakke krachten,</l>
+                        <l>Te hoog op vleugels van gedachten.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Dina</hi>.</speaker>
+                        <l>Nicht, dat deez' dag van ons geluk,</l>
+                        <l>Nu raakt in de Almanak in druk,</l>
+                        <l>Met een roo letter, op dat deezen</l>
+                        <l>In ons geslacht geroemd mag weezen.</l>
+                    </sp>
+                    <pb n="29"/>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Gy, dienstbaar kreatuur, kom, gaat,</l>
+                        <l>Haal de Baron een stoel van staat.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Boon</hi>.</speaker>
+                        <l>Een stoel van staat! wie kan 't verzinnen?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Breng noch een armstoel hier van binnen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Jodelet</hi>
+                            <hi rend="i">gaat zitten</hi>.</speaker>
+                        <l>Ik kom hier nu, na groot gevaar,</l>
+                        <l>Eerst uit een krankbed bleek en naar;</l>
+                        <l>Al de onrust van het Hof geeft neepen,</l>
+                        <l>Die zulke vruchten na zich sleepen.</l>
+                        <l>En de oorlog, daar myn ziel door leefd,</l>
+                        <l>Gemeenlyk zulke vruchten geeft.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Mejuffers, deeze Graaf zyn daaden,</l>
+                        <l>Hem sieren meêr als lauw'reblaaden,</l>
+                        <l>Heer, Jodelet, gy zyt een Leeuw,</l>
+                        <l>In kracht, een wonder in onze eeuw.</l>
+                        <l>Gy zyt in de oorlog Alexander,</l>
+                        <l>Vol vier, gelyk een Salamander,</l>
+                        <l>En dat gy zyt een groot Soldaat,</l>
+                        <l>Bleek laast by de Rivier de Eusraat,</l>
+                        <l>Toen gy de Goden en Godinnen</l>
+                        <l>Verbaasden, en kon overwinnen;</l>
+                        <l>Toen gy met Reuzen grof en groot,</l>
+                        <l>De gantsche waereld bragt in nood:</l>
+                        <l>Want Mars, het hoofd der moordenaaren,</l>
+                        <l>Is in een Baviaan gevaaren,</l>
+                        <l>En Bacchus in een stinkend Zwyn,</l>
+                        <l>Vrouw Venus in een Dollefyn;</l>
+                        <l>En Jupiter, die door zyn raazen,</l>
+                        <l>De gantsche waereld kan verbaazen,</l>
+                        <l>Herschiep uit angst zich in een Ram.</l>
+                        <l>En Pallas in een spier wit Lam.</l>
+                        <l>Silenus, vader van de Vraaten,</l>
+                        <l>Heeft al het Godendom verlaaten.</l>
+                        <pb n="30"/>
+                        <l>En wierd een kaale Kaketoe.</l>
+                        <l>Vrouw Juno wierd een witte Koe.</l>
+                        <l>Diaan een Kat, Apol een Kater,</l>
+                        <l>En Herkules een vlugge Sater.</l>
+                        <l>Merkuur, der goden Koppelaar,</l>
+                        <l>Wierd door de schrik een Oijevaar.</l>
+                        <l>Vulkaan een Zechond, zonder ooren,</l>
+                        <l>Cupide een Haan met scherpe spooren,</l>
+                        <l>De Bosgod Pan kroop in een kuil;</l>
+                        <l>En Momus in vrouw Pallas Uil.</l>
+                        <l>Saturnus, vader van de Goden,</l>
+                        <l>Wierd lang gerekend by de dooden.</l>
+                        <l>Neptunus wierd, door dit gerucht,</l>
+                        <l>Een Zeemeeuw, en hy nam de vlugt.</l>
+                        <l>Dit alles heeft uw hand bedreeven;</l>
+                        <l>Wie kan u roem na waarde geeven?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Jodelet</hi>.</speaker>
+                        <l>Marquies, gy zyt met my in magt,</l>
+                        <l>In dapperheid, in moed, in kracht,</l>
+                        <l>Gy hebt met my voor weinig daagen,</l>
+                        <l>Dwars door den vyand heen geslaagen,</l>
+                        <l>Daar 't vry wat heet viel, ja gewis!</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>'t Was nooit zo heet als 't hier nu is.</l>
+                        <l>My dunkt de tafel, stoelen, wanden,</l>
+                        <l>Myn kleederen aan 't lyf verbranden,</l>
+                        <l>Myn schoenen schroeijen door de gloed,</l>
+                        <l>In de aad'ren kookt myn jeugdig gloed,</l>
+                        <l>En dat alleen door het vermoogen,</l>
+                        <l>Der straalen, uit des Juffers oogen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Jodelet</hi>.</speaker>
+                        <l>Wanneer gy my eerst wierd bekend,</l>
+                        <l>Had ik te paard een Regiment,</l>
+                        <l>Op de Galeijen der Malteezen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Dien dag schynt my van daag te weezen,</l>
+                        <l>Zoo vers staat my dien aantogt voor,</l>
+                        <pb n="31"/>
+                        <l>Wy sloegen ons daar dapper door.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Jodelet</hi>.</speaker>
+                        <l>Den Oorlog heeft wel goede zaaken,</l>
+                        <l>Maar wort het Vreê, dan ziet men wraaken</l>
+                        <l>De grootste helden, vol van lof,</l>
+                        <l>Als wy zyn, van 't ondankbaar Hof.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Heugt u hoe wy Arras verrasten,</l>
+                        <l>Toen wy die halve maan aan tasten?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Jodelet</hi>.</speaker>
+                        <l>Zaagt gy dat voor een halve aan</l>
+                        <l>'t Was wel gewis een volle maan;</l>
+                        <l>Myn lichchaam kreeg daar twaalef gaaten,</l>
+                        <l>Door 't bars gebarst van de granaaten,</l>
+                        <l>Myn leeden zyn van top tot teen</l>
+                        <l>Getekend, maar dat zyn trofeen;</l>
+                        <l>Zo gy uw hand eens wilde leggen</l>
+                        <l>Daar, daar, en daar, zo zoud gy zeggen,</l>
+                        <l>En roepen, met een naar gezucht,</l>
+                        <l>Uw lichchaam schynt het huis ter Lugt,</l>
+                        <l>Het is vol vensters en kanaalen,</l>
+                        <l>Maar dat heeft my doen zeegepraalen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>, <hi rend="i">dreigende zyn broek af te
+                                stryken</hi>.</speaker>
+                        <l>Ik zal u ook wat laaten zien;</l>
+                        <l>Een wond vlak boven by myn knien.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Ontbloot u niet, want wy gelooven,</l>
+                        <l>Uw heldendaân gaan 't al te boven.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Mastrigt spreekt daar volmondig af,</l>
+                        <l>En Candia der Fransen graf.</l>
+                        <l>Zyt gy hier met de Koets gekomen?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Jodelet</hi>.</speaker>
+                        <l>Waarom?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l rend="; 1tab">Zo had ik voorgenomen</l>
+                        <l>Om deze Juffers tot onthaal</l>
+                        <pb n="32"/>
+                        <l>Tervden op het groote Baal,</l>
+                        <l>Van jonker Blyhert die my nooden.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Jodelet</hi>.</speaker>
+                        <l>Myn Heer, de Baalen zyn verboden.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Dan is myn heel Proses verbruit.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Myn Heer wy gaan van daag niet uit.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Laat ons dan violons ontbieden.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Jodelet</hi>.</speaker>
+                        <l>Mejufters, mag dat hier geschieden?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Dat werd aan u gekonsenteerd,</l>
+                        <l>Maar ons gezelschap diend vermeerd</l>
+                        <l>Met noch wat Juffers.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Jodelet</hi>.</speaker>
+                        <l rend="; 1tab">Ha! Rapailje,</l>
+                        <l>Lakay, Lakay, ô snood Kanailje</l>
+                        <l>Waar zyt gy? hoe! my dunkt niet een</l>
+                        <l>Van haar verschynd, waar wil dit heen?</l>
+                        <l>Hier komt van my niet eenen rekel,</l>
+                        <l>Dat ruigt laat myn hier in de pekel.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Gy, dienstbre Geest, ga by de Knecht</l>
+                        <l>Van deeze Heer, ga heen, en zegt,</l>
+                        <l>Dat hy hier violons moet stuuren,</l>
+                        <l>En haalt Alet, en Kaat, gebuuren</l>
+                        <l>Hier aldernaast, maar wil u spoên,</l>
+                        <l>En komt haast weêr.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Boon</hi>.</speaker>
+                        <l rend="; 2tab">Ik zal zoo doen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Baron, wat dunkt u van dit wezen?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Jodelet</hi>.</speaker>
+                        <l>Marouies, wat dunkt u dan van deezen</l>
+                    </sp>
+                    <pb n="33"/>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>'t Zal moeiten kosten, zweer ik dier,</l>
+                        <l>Kryg ik myn vryheid vry van hier,</l>
+                        <l>Ik ben in 't worstelperk getreeden,</l>
+                        <l>Met al de dry bevalligheden.</l>
+                        <l>Myn vryheid, ach! ik weet geen raad,</l>
+                        <l>Zy hangt maar aan een zije draad.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Hoe klein verkleind hy zyne krachten.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Dina</hi>.</speaker>
+                        <l>Hoe net verbeeld hy zyn gedachten.</l>
+                        <l>Hy is de Cicero van 't Land.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Wat draagt hy schatten in 't verstand.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Heer Graaf, hoe staat het al in 't minnen</l>
+                        <l>Met u, en 't puik der Markgraavinnen?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Jodelet</hi>.</speaker>
+                        <l>Die liefde is lang al uitgedooft.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Dat had ik nimmermeer geloofd.</l>
+                    </sp>
+                </div>
+                <div type="scene">
+                    <head rend="h4">Dertiende tooneel.</head>
+                    <stage><hi rend="sc">Haripon, Jodelet, Bregt, Dina, Marotte, Alet,
+                        Kaat</hi>.</stage>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>MEjuffers, zyt hier wel gekomen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Alet</hi>.</speaker>
+                        <l>Wy hebben stoutlyk aangenomen</l>
+                        <l>Uw heus verzoek.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l rend="; 1tab">'t Is wel gedaan,</l>
+                        <l>Wy roemen dit uw braaf bestaan.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Kaat</hi>.</speaker>
+                        <l>Wy komen het getal vermeêren.</l>
+                    </sp>
+                    <pb n="34"/>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Gy komt ons op het hoogst verëeren.</l>
+                        <l>Gy doet my dienst, en ook myn Nicht.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Kaat</hi>.</speaker>
+                        <l>Wy zyn ten hoogsten u verpligt.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>'t Verzoek is van die groote Heeren.</l>
+                        <l>Dat wy in 't kort ons transformeeren</l>
+                        <l>In vlugge geesten, maar in schyn.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Jodelet</hi>.</speaker>
+                        <l>Dit Bal zal <hi rend="i">à la baste</hi> zyn.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Dan geeven wy een Bal na deezen,</l>
+                        <l>Dat zal in plena forma weezen.</l>
+                    </sp>
+                </div>
+                <div type="scene">
+                    <head rend="h4">Veertiende tooneel.</head>
+                    <stage><hi rend="sc">Haripon, Jodelet, Bregt, Dina, Kaat, Alet, Boon, Sol,
+                            Tiel</hi>.</stage>
+                    <sp>
+                        <speaker><hi rend="sc">Boon</hi>.</speaker>
+                        <l>DE Speellui zyn daar.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l rend="; 1tab">Breng haar hier.</l>
+                        <l>Myn hert danst tierelier, tierelier,</l>
+                        <l>La la, la la, zaag op, Canaly.</l>
+                    </sp>
+                    <stage><hi rend="i">Hy danst alleen</hi>.</stage>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Maar, Nicht, hy heeft een schoone taly.</l>
+                        <l>Hy is een pronkbeeld by de Mans,</l>
+                        <l>Zyn gang gaat op een goê kadans.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Mejuffers, laat ons met ons beiden,</l>
+                        <l>U alle vier ten dans gaan leiden.</l>
+                        <l>Gy, Speellui, pas wel op de maat,</l>
+                        <l>Dat gy die niet te buiten gaat;</l>
+                        <l>Speel een Courant met rasse streeken.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Jodelet</hi>.</speaker>
+                        <l>Myn Heer, dat moet ik tegenspreeken,</l>
+                        <pb n="35"/>
+                        <l>Het moet met lange streeken gaan,</l>
+                        <l>Ik kan pas op myn beenen staan,</l>
+                        <l>De ziekte zit noch in myn leeden.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Speel langzaam dan, het heeft zyn reeden,</l>
+                        <l>Speel een Zarbande vast en hegt.</l>
+                        <l>Is dat Zarbande, Reekels, zegt?</l>
+                        <l>Ho, ho, ik hoor wel, deeze Plaagen</l>
+                        <l>Gaan aan den Overtoom uit zaagen;</l>
+                        <l>Wy zyn hier met dat Ruigt gebruid,</l>
+                        <l>Zaag op, zaag op, of scheijer uit.</l>
+                        <l>Hoe Duivel zal het hier gelukken?</l>
+                        <l>Speel, of ik breek jou vlak aan stukken;</l>
+                        <l>Schraap op een zesje zo jy 't kend,</l>
+                        <l>Dat gaat voor eerst voor compliment.</l>
+                    </sp>
+                    <stage><hi rend="i">Zy danssen</hi>.</stage>
+                </div>
+                <div type="scene">
+                    <head rend="h4">Vyftiende tooneel.</head>
+                    <stage><hi rend="sc">Haripon, Jodelet, Bregt, Dina, Kaat, Alet, Marotte, Boon,
+                            Sol, Tiel, Frederik, Ferdinand</hi>.</stage>
+                    <sp>
+                        <speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+                        <l>DE Droes moet u de beenen breeken;</l>
+                        <l rend="; 1tab">Gy, Schelmen, derft gy u gaan steeken</l>
+                        <l>In ons gewaat? met Violons,</l>
+                        <l>U hier verheffen boven ons.</l>
+                        <l>Ik zal u braaf de ribben smeeren,</l>
+                        <l>En deeze stoutheid u verleeren.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Jodelet</hi>.</speaker>
+                        <l>Dat was zo niet gezeid, myn Heer.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+                        <l>Het past u als een man van eer,</l>
+                        <l>O Schobbejak, om hier te komen,</l>
+                        <l>Dus werd de danslust u benomen.</l>
+                    </sp>
+                </div>
+                <div type="scene">
+                    <pb n="36"/>
+                    <head rend="h4">Zestiende tooneel.</head>
+                    <stage><hi rend="sc">Haripon, Jodelet, Bregt, Dina, Kaat, Alet, Marotte, Boon,
+                            Sol, Tiel</hi>.</stage>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>WAt wil dat zeggen?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Jodelet</hi>.</speaker>
+                        <l rend="; 1tab">'t Was gewed,</l>
+                        <l>Ik heb het daarom niet belet.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Dina</hi>.</speaker>
+                        <l>Hoe! wedspul, u zo af te smeeren?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Jodelet</hi>.</speaker>
+                        <l>'k Moet steeds myn toorne overheeren,</l>
+                        <l>Of anders ben ik wreed en fel,</l>
+                        <l>Gelyk een Duivel uit de Hel,</l>
+                        <l>Ja door het branden van myn blikken,</l>
+                        <l>Doe ik de booste beesten schrikken.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Verdroegt gy dat dan goedertier?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Dat is gaar nix, dat 's niet een zier,</l>
+                        <l>Die kaerel was beroofd van zinnen.</l>
+                        <l>Kom, laat ons weêr den dans beginnen.</l>
+                    </sp>
+                </div>
+                <div type="scene">
+                    <head rend="h4">Zeventiende tooneel.</head>
+                    <stage><hi rend="sc">Ferdinand, Frederik, Haripon, Jodelet, Bregt, Dina, Kaat,
+                            Alet, Marotte, Boon, Sol, Tiel</hi>.</stage>
+                    <sp>
+                        <speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+                        <l>BAntrekels, Buffels zonder eer,</l>
+                        <l>Derft gy hier blyven? wel, ik zweer.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Dit zyn onlydelyke zaaken,</l>
+                        <pb n="37"/>
+                        <l>Hier in ons huis remoer te maaken.</l>
+                        <l>Daar staat de deur, ik zeg gaat uit.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+                        <l>Hoe, Juffrouw, spreekt gy voor een Guit?</l>
+                        <l>Weet wat ons hier tot gramschap porden;</l>
+                        <l>Wy zien dat onze Knechts hier worden</l>
+                        <l>Veel beter als haar Heers onthaald.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Uw knechts! uw Knechts! weg weg, gy dwaald.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+                        <l>My dunkt gy wilt die naam verwerven,</l>
+                        <l>Dat gy kund Koopliêns knechts verderven;</l>
+                        <l>Maar op dat gy het zeker weet,</l>
+                        <l>Wie datze zyn, schud uit het kleed.</l>
+                        <l>Gy zult straks zien uit onze kleêren,</l>
+                        <l>Twee naakte vogels zonder veêren.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Frederik</hi>.</speaker>
+                        <l>Schud uit, schud uit, gy lompen Beest,</l>
+                        <l>Al lang genoeg een Heer geweest.</l>
+                        <l>Mejuffers, spiegeld u aan deezen,</l>
+                        <l>De waareld wil bedroogen weezen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+                        <l>Hans Kruijer, kom hier by de hand,</l>
+                        <l>Pak al de kleêren in de mand.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Frederik</hi>.</speaker>
+                        <l>Nu zullen zy ons niet verveelen,</l>
+                        <l>U in die kleêren meêr te streelen,</l>
+                        <l>Bemind hen nu op de oude wys,</l>
+                        <l>Dat 's naakt als in het Paradys.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>
+                            <hi rend="i">ontkleed hem</hi>.</speaker>
+                        <l>Vaar wel, Marquies, met uw gewaaden.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Jodelet</hi>
+                            <hi rend="i">ontkleed hem</hi>.</speaker>
+                        <l>Vaar wel, Baron, met uw sieraaden.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Hans</hi>.</speaker>
+                        <l>Dat 's recht, ik pakze by elkaâr,</l>
+                        <l>Marquis, en Graaf gy zyt niet zwaar,</l>
+                        <l>Ik zal van uw gewigt niet klaagen</l>
+                        <pb n="38"/>
+                        <l>'t Schynt eedel bloed is licht te draagen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+                        <l>Gy, Kruijer, trek hen alles uit.</l>
+                        <l>Laat hen niet over als haar huid.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Wy waaren flus twee groote Heeren.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Jodelet</hi></speaker>
+                        <l>Maar Brero zeid, het kan verkeeren.</l>
+                        <l>Hoe wankelbaar is 't wisselot!</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Helaas! hoe staan wy elk ten spot.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Ferdinand</hi>.</speaker>
+                        <l>Mejuffers, nu moogt gy beminnen,</l>
+                        <l>Die Heeren met geruste zinnen.</l>
+                        <l>Wy Koopliên hier tot Amsterdam,</l>
+                        <l>Zyn veel te styf, te loom, te lam,</l>
+                        <l>Maar die twee Vogels, zonder veêren,</l>
+                        <l>Die konnen recht galantizeeren.</l>
+                        <l>Maar weest gewaarschoud, zyt verdacht,</l>
+                        <l>Dat elk hier om u grootsheid lacht.</l>
+                    </sp>
+                </div>
+                <div type="scene">
+                    <head rend="h4">Agtiende tooneel.</head>
+                    <stage><hi rend="sc">Haripon, Jodelet, Bregt, Dina, Kaat, Alet, Marotte, Boon,
+                            Sol, Tiel</hi>.</stage>
+                    <sp>
+                        <speaker><hi rend="sc">Tiel</hi>.</speaker>
+                        <l>VAn wie zal ik myn geld nu haalen?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Ik denk de Graaf zal u betaalen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Jodelet</hi>.</speaker>
+                        <l>Neen, eisch uw geld van de Marquies.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Sol</hi>.</speaker>
+                        <l>Wy mogen tegen geen verlies.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>'k Wil aan de wraak my overgeeven.</l>
+                    </sp>
+                </div>
+                <div type="scene">
+                    <pb n="39"/>
+                    <head rend="h4">Negentiende tooneel.</head>
+                    <stage><hi rend="sc">Haripon, Jodelet, Bregt, Dina, Kaat, Alet, Marotte, Boon,
+                            Sol, Tiel, Alardus</hi>.</stage>
+                    <sp>
+                        <speaker><hi rend="sc">Alardus</hi>.</speaker>
+                        <l>WAt doet gy, Vodden, my beleeven;</l>
+                        <l rend="; 1tab">Wat doen de Heeren my verstaan,</l>
+                        <l>Die daar al lachchend heenen gaan,</l>
+                        <l>Om uwe grootsheid, trotze Prijen,</l>
+                        <l>Die zy niet langer konde lijen.</l>
+                        <l>Nu is haar blaauwtjen afgevaagt;</l>
+                        <l>Haar Knechts die hebben u behaagt,</l>
+                        <l>Die waaren van een groot vermogen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>Ha, Schelmen, gaat straks uit myne oogen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Een kaal Marquis is hier bandiet.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Jodelet</hi>.</speaker>
+                        <l>Meêr is een naakte Graaf hier niet.</l>
+                        <l>Deeze aanslag mogen wy vervloeken,</l>
+                        <l>En elders ons fortuin gaan zoeken.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Haripon</hi>.</speaker>
+                        <l>Dit Kluchtspel toond aan elk gewis,</l>
+                        <l>Wat dat de blinde waereld is;</l>
+                        <l>Men eerd om 't kleed de grootste gekken.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Jodelet</hi>.</speaker>
+                        <l>De naakte waarheid moet vertrekken.</l>
+                    </sp>
+                </div>
+                <div type="scene">
+                    <head rend="h4">Twintigste tooneel.</head>
+                    <stage><hi rend="sc">Alardus, Bregt, Dina, Kaat, Alet, Marotte, Boon, Sol,
+                            Tiel</hi>.</stage>
+                    <sp>
+                        <speaker><hi rend="sc">Sol</hi>.</speaker>
+                        <l>MAar, wie, wie steld ons nu te vreên?</l>
+                    </sp>
+                    <pb n="40"/>
+                    <sp>
+                        <speaker><hi rend="sc">Alardus</hi>.</speaker>
+                        <l>Ga, Beed'laars, met uw Meesters heen,</l>
+                        <l>Of ik zal zo de vreede maaken,</l>
+                        <l>Dat u de lenden zullen kraaken.</l>
+                        <l>Landloopers, gaat hiet voort van daan.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Tiel</hi>.</speaker>
+                        <l>Ei! slaat niet, Heer, wy gaan, wy gaan.</l>
+                    </sp>
+                    <stage><hi rend="i">Binnen</hi>.</stage>
+                    <sp>
+                        <speaker><hi rend="sc">Dina</hi>.</speaker>
+                        <l>Maar, Nicht, ik sta als opgenomen,</l>
+                        <l>Is 't ook al waarheid, of zyn 't droomen?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Bregt</hi>.</speaker>
+                        <l>De vloer ryst my in 't aangezicht.</l>
+                        <l>Wat komt ons over, lieve Nicht?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Kaat</hi>.</speaker>
+                        <l>Bregitte buur, laat u dit leeren,</l>
+                        <l>Eerd Koopliên, maar geen groote Heeren,</l>
+                        <l>Die opgeblaazen, in de schyn</l>
+                        <l>Vertoonen dat zy niet en zyn.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Alardus</hi>.</speaker>
+                        <l>Wat zal ik nu met u beginnen,</l>
+                        <l>Hofpoppen, ja twee Hofzottinnen?</l>
+                        <l>Yltuiten, al uw wind en waan,</l>
+                        <l>Zal u noch doen te gronde gaan.</l>
+                        <l>Zy zullen van uw trots bedryven,</l>
+                        <l>Wel haast een Kluchtspel laaten schryven.</l>
+                        <l>Gy zult in 't Klooster, hoe verbruid</l>
+                        <l>Is dan, als nu, uw kluchtspel</l>
+                    </sp>
+                    <p><hi rend="spat">UIT</hi></p>
+                </div>
+            </div>
+        </body>
+    </text>
+
+</TEI.2>
