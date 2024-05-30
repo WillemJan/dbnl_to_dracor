@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Geveynsde bedelaar of Herstelde liefde</title>
+                <author>Adriaan van Steyn</author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een
+                    diplomatische weergave van <hi rend="i">Geveynsde bedelaar of Herstelde
+                        liefde</hi> van Adriaan van Steyn uit 1661. </edition>
+                <respStmt>
+                    <resp>
+                        <corr/>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <scandetails>
+                <scan type="1">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page><!-- specificeer de lege pagina's hier --></empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""/>
+                </scan>
+            </scandetails>
+            <publicationStmt>
+                <idno type="titelcode">stey002geve01_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2011 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"/>
+                    <idno type="usedcopy">exemplaar Theater Instituut Nederland, signatuur: 1 C
+                        10</idno>
+                </bibl>
+                <p>Adriaan van Steyn, <hi rend="i">Geveynsde bedelaar of Herstelde liefde</hi>.
+                    Heynderick Rooleer, Delft 1661</p>
+                <p>&#160;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p/>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">Geveynsde bedelaar of Herstelde liefde</title>
+                <author>Adriaan van Steyn</author>
+                <idno type="isbn"/>
+                <idno type="nur"/>
+                <imprint>
+                    <date/>
+                    <publisher/>
+                    <pubPlace/>
+                </imprint>
+            </bibl>
+            <idno type="isbn"/>
+            <order>
+                <price curr="euro"/>
+                <link/>
+            </order>
+            <blurb>
+                <p/>
+            </blurb>
+            <titlepage>
+                <p/>
+            </titlepage>
+            <colofon>
+                <p/>
+            </colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">Geveynsde bedelaar of Herstelde liefde</title>
+                <author>Adriaan van Steyn</author>
+                <idno type="isbn"/>
+                <idno type="nur"/>
+                <imprint>
+                    <date/>
+                    <publisher/>
+                    <pubPlace/>
+                </imprint>
+            </bibl>
+            <idno type="isbn"/>
+            <order>
+                <price curr="euro"/>
+                <link/>
+            </order>
+            <blurb>
+                <p/>
+            </blurb>
+            <titlepage>
+                <p/>
+            </titlepage>
+            <colofon>
+                <p/>
+            </colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2011-09-06</date>
+                <respStmt>
+                    <name type="person">SG</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front>
+            
+                <div type="chapter">
+
+                    <pb n="1"/>
+                    <p>GEVEYNSDE BEDELAAR OF HERSTELDE LIEFDE.</p>
+                    <p>Bly - eyndend - Spel.</p>
+                    <p><hi rend="i">Gerymt door</hi> A. van STEYN.</p>
+                    <p><figure>
+                            <p><xptr to="stey002geve01ill0001.gif"/></p>
+                        </figure></p>
+                    <p>TOT DELF,</p>
+                    <p>Gedrucht By Heynderick Rooleer, Boechverkooper inde
+                        Jacob-Gerritsens-straet/in de Gekroonde Druckery/ANNO 1661.</p>
+
+                </div>
+            <div type="chapter">
+                <pb n="2"/>
+                <head rend="h3">Voorreeden.</head>
+                <p>Na my de Historie van <hi rend="i">Urbanus</hi> en <hi rend="i">Isabella</hi>
+                    verhaalt en verseekert was, een waare geschiedenis te zyn, binnen de Stad Delft
+                    in het begin der 15de Eeuw gebeurt te wesen, zoo hebbe eerst een Samenspraak
+                    tusschen <hi rend="i">Urbanus</hi> en <hi rend="i">Isabella</hi> uytgegeeven in
+                    Quarto, en naderhand verandert by wyse van een Spel, waar mede ik denke meerder
+                    genoegen aan de RETHORYKERS geeven zal. Houd dan deeze myne moeite ten besten en
+                    vaart wel.</p>
+                <p>&#160;</p>
+                <p>A. <hi rend="sc">v.</hi> STEYN.</p>
+            </div>
+            <div type="chapter">
+                <head rend="h3">Persoonadien.</head>
+                <list>
+                    <item>URBANUS, <hi rend="i">Man van Isabella.</hi></item>
+                    <item>ISABELLA, <hi rend="i">Vrouw van Urbanus.</hi></item>
+                    <item>KLARA, <hi rend="i">Meyd van Isabella.</hi></item>
+                    <item>MERKUUR.</item>
+                </list>
+                <p>&#160;</p>
+                <p><hi rend="i">Aanschouwende Mannen en Vrouwen Stom.</hi></p>
+                <p>&#160;</p>
+                <p>Het Tooneel verbeeld een Saal aan de straat.</p>
+            </div>
+        </front>
+        <body>
+            <div type="act">
+                <pb n="3"/>
+                <p><figure>
+                        <p><xptr to="stey002geve01ill0002.gif"/></p>
+                    </figure></p>
+                <div type="scene">
+                    <head rend="h3">Geveynsde Bedelaar of herstelde liefde. <lb/>Bly - eyndend -
+                        Spel.</head>
+                    <head rend="h4">Eerste tooneel.</head>
+                    <stage><hi rend="sc">Izabella</hi>, <hi rend="i">zittende in een
+                        Saal.</hi></stage>
+                    <stage><hi rend="sc">Klara</hi>, <hi rend="i">op het Tooneel.</hi></stage>
+                    <sp>
+                        <speaker><hi rend="sc">Klara</hi>.</speaker>
+                        <l><hi rend="b">M</hi>evrouw daar is een Man die u versoekt te spreken.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella</hi>.</speaker>
+                        <l>Wat is het voor een Mensch?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Klara</hi>.</speaker>
+                        <l rend="; 1tab">Hy schynt bedrukt te smeken,</l>
+                        <pb n="4"/>
+                        <l>Soo ik aan zyn gelaat bespeuren kan Mevrouw!</l>
+                        <l>Soo is de Man ontstelt, verleegen, en vol rouw.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella</hi>.</speaker>
+                        <l>Ik sal die Man gaan sien, en hooren syn begeeren.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Klara</hi>.</speaker>
+                        <l>Hy is in slegt gewaat, met vuyl gelapte, kleeren.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella</hi>.</speaker>
+                        <l>Al was 't een Bedelaar, hoe slegt ook in gewaat;</l>
+                        <l>'k Sal hooren wat hem dog na my te vragen staat.</l>
+                    </sp>
+                </div>
+                <div type="scene">
+                    <head rend="h4">Tweede tooneel.</head>
+                    <stage><hi rend="sc">Isabella</hi>, <hi rend="i">treed na 't vooreynde van het
+                            Tooneel en opent een Deur, daar</hi>
+                        <hi rend="sc">Urbanus</hi>
+                        <hi rend="i">voor staat.</hi></stage>
+                    <sp>
+                        <speaker><hi rend="sc">Urbanus</hi>.</speaker>
+                        <l>Mejuffrouw wilt u gunst aan dees bedroefde toonen,</l>
+                        <l>Die om een aalmoes bid, den Hemel sal 't u loonen!</l>
+                        <l>Indien gy my wat geeft, u loon is van waardy,</l>
+                        <l>Gedenkt ik ben een Mensch, die nu veel honger ly.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella,</hi>
+                            <hi rend="i">als verstoort zynde.</hi></speaker>
+                        <l>Wel moet ik daarom hier nog aan de deure komen?</l>
+                        <l>Is u gebrek soo groot?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Urbanus</hi>.</speaker>
+                        <l rend="; 1tab">Ja mogt ik sonder schroomen</l>
+                        <l>Myn ramp, myn ongeval, en overgroote druk</l>
+                        <l>Eens melden, ach Mevrouw! gy gaf my haast een stuk.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella</hi>.</speaker>
+                        <l>Soud ik een Bedelaar, denkt gy, een gifte geven,</l>
+                        <l>Die buyten deeze Stad gewoont heeft al syn leven?</l>
+                        <l>Ik seg nog eens gaat heen, en treet myn huys voorby,</l>
+                        <l>Ik geef geen vremdeling, misschien vol veynsery.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Urbanus</hi>.</speaker>
+                        <l>Geen Bedelaar Mevrouw. Helaas! waar sal ik heenen?</l>
+                        <l>Hoort gy myn bange hart niet in myn boesem steenen,</l>
+                        <pb n="5"/>
+                        <l>En tuygen myn verdriet, myn jammer, en myn nood!</l>
+                        <l>Ay! waarom wygert gy een armen Man u brood?</l>
+                        <l>Kan ik op u gemoet geen mede-jammer vatten?</l>
+                        <l>'k En bid u om geen goud; nog vley u om geen schatten;</l>
+                        <l>'k En smeek u om geen staat; en spreek om geen genot;</l>
+                        <l>'t Geen u verarmen zou; alleen van 't overschot</l>
+                        <l>Versoek ik 't kleynste deel, laat dog u goedheyd blyken;</l>
+                        <l>Het minste van u schâ kan my seer veel verryken;</l>
+                        <l>Gy mist hier niet, en hoopt een loon in 't hoog gestigt;</l>
+                        <l>Aan d'arme voeders houd den Hemel sig verpligt:</l>
+                        <l>Toon uw mildadigheyd.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella</hi>.</speaker>
+                        <l rend="; 2tab">Sal ik myn hart ontsluyten.</l>
+                        <l>Tot stut van imans nood, 'k en doe aan niemant buyten</l>
+                        <l>Myn gift, 't sy vremdeling, of loper in het wild,</l>
+                        <l>Van wien wel reukeloos 't gegeve werd verspilt;</l>
+                        <l>Maat soo de jammersugt my port om gunst te toonen,</l>
+                        <l>Geef ik liefst aan die geen, die hier ter Steede woonen</l>
+                        <l>Met vrouw en kinderen; daar ik dan seeker weet,</l>
+                        <l>Dat d'aalmoes, dien ik doe, ten goeden is besteer.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Urbanus</hi>.</speaker>
+                        <l>Ay! waarom niet aan my, aan die hier al voor deesen,</l>
+                        <l>Met vrouw en kinderen woonagtig pleeg te weesen?</l>
+                        <l>Mejuffrouw, dat gy wist wat honger dat ik hadt?</l>
+                        <l>Wat armoed dat ik leed? gy soud van uwen schat,</l>
+                        <l>Dien gy in weeld besit, dan wel een wynig geven;</l>
+                        <l>‘Maar ag! sy kend my niet, hoe al myn leeden beven.</l>
+                        <l>O Hemel! geef dat sy my hier of daar aan kend,</l>
+                        <l>En in genaad' neemt aan, soo raakt myn Ramp ten end.</l>
+                        <l>Mejuffer, ay! ik bid!</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella</hi>.</speaker>
+                        <l rend="; 1tab">'k Ben niet gesint te geven;</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Urbanus</hi>.</speaker>
+                        <l>Al evenwel God loond, den Hemel spaar u 't leven;</l>
+                        <l>Ik dank u voor myn lot, al laat gy my in nood,</l>
+                        <l>Al wygert gy my nu een kruymtje van u brood:</l>
+                        <l>Mejuffrouw, ik bekend, gy syt het my niet schuldig;</l>
+                        <l>O Hemel! siet myn leed, ik draag de straf geduldig.</l>
+                        <pb n="6"/>
+                        <l>Schoon menschen hulp my vlied; ag lieve God wat raad?</l>
+                        <l>Nu 't alles my begeeft, nu ider my verlaat,</l>
+                        <l>Begeef ik my tot dien, die yder een kan helpen,</l>
+                        <l>Die elks jammer weet, en yders wond kan stelpen.</l>
+                    </sp>
+                    <stage><hi rend="i">hy gaat heen.</hi></stage>
+                </div>
+                <div type="scene">
+                    <head rend="h4">Derde tooneel.</head>
+                    <stage><hi rend="sc">Isabella</hi>. <hi rend="i">trekt aan een Bel.</hi>
+                        <hi rend="sc">Klara</hi>, <hi rend="i">komt in.</hi></stage>
+                    <sp>
+                        <speaker><hi rend="sc">Klara</hi>.</speaker>
+                        <l>Mevrouw wat is uw wil, of zeg my uw bevel?</l>
+                        <l>My dunkt gy syt onstelt, verleegen....</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella</hi>.</speaker>
+                        <l rend="; 1tab">Klara, wel</l>
+                        <l>Roept eens dien Bedelaar, en doet hem by my komen,</l>
+                        <l>Seg dat myn gunst tot hem met kragt word ingenomen,</l>
+                        <l>Ik weet niet om wat reen, ik voel een felle vlam,</l>
+                        <l>Die in myn harte speelt, ik word dan heet dan klam:</l>
+                        <l>Ik ken de oorsaak niet van dit inwendig woelen</l>
+                        <l>Ik ben als buyten staat, ik kan myn drift niet koelen:</l>
+                        <l>Myn hart word als ontroerd, myn tong word sprakeloos</l>
+                        <l>Gaat heen roept hem weerom: soo rust ik voor een poos.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Klara</hi>.</speaker>
+                        <l>Mevrouw op u bevel sal ik dan heenen treden</l>
+                        <l>En speuren synen gang en soeken syne schreden.</l>
+                    </sp>
+                    <stage><hi rend="i">binnen.</hi></stage>
+                </div>
+                <div type="scene">
+                    <head rend="h4">Vierde tooneel.</head>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella</hi>. <hi rend="i">alleen.</hi></speaker>
+                        <l>Wat mag dit zyn; dat ik dien Man soo minsaam sag?</l>
+                        <l>Hy spreekt als binne monds, wat of het weesen mag?</l>
+                        <pb n="7"/>
+                        <l>Hy gaf soo 't schynt geluyt met wit bestorve lippen,</l>
+                        <l>En met een flauwe stem laat hy zyn woorden slippen,</l>
+                        <l>En segt, den Hemel geeft u gunst, ik dank u loon</l>
+                        <l>Ik dank u voor myn lot, de Hemel uw bekroon.</l>
+                        <l>De reden syn met gunst en minsaam heen belaaden,</l>
+                        <l>Hy seegent my, al geeft myn hart hem geen genaden:</l>
+                        <l>Ik voel een soete drift tot hem al sagtkens gaan,</l>
+                        <l>Ik voel een heete gloed, dien ik niet kan weerstaan,</l>
+                        <l>Ik voel de gunst tot hem hoe langs hoe meer genaken,</l>
+                        <l>Ik voel een naberouw in myne boesem blaken.</l>
+                        <l>O Hemel! sta my by in dees verleegen saak,</l>
+                        <l>Op dat ik weten mag, als ik hem sta ten spraak:</l>
+                        <l>'k Voel een ontroerd gemoed door syn elendig klagen,</l>
+                        <l>Hy keert nu weder hier, ik sal hem onder vragen.</l>
+                    </sp>
+                </div>
+                <div type="scene">
+                    <head rend="h4">Vyfde tooneel.</head>
+                    <stage><hi rend="sc">Isabella. Urbanus. Klara</hi>.</stage>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella</hi>.</speaker>
+                        <l>Elendige, hoor hier! wat syt gy? waar van daan?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Urbanus</hi>.</speaker>
+                        <l>Mevrouw, ik ben een mensch.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella</hi>.</speaker>
+                        <l rend="; 1tab">Daar twyfel ik niet aan,</l>
+                        <l>Vermits ik 't zelve sie: maar waar dog van geboorte?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Urbanus</hi>.</speaker>
+                        <l>Uyt deese Stad, Mevrouw! hier binne deese poorte</l>
+                        <l>Ben ik eerst voortgeteelt, hier, waar ik ga en treen:</l>
+                        <l>Dit is de plaats, waar in my 't eerste ligt bescheen,</l>
+                        <l>Hier heb ik d'eerstemaal myn Moeders borst gesogen;</l>
+                        <l>Hier heeft haar sorge my trouw hertig opgetogen;</l>
+                        <l>Hier ben ik eerst geweest een Man van hoogen staat,</l>
+                        <l>Maar nu een arme Man, die 't alles tegen gaat:</l>
+                        <pb n="8"/>
+                        <l>'t Scheen of het noodlot stond gereet om my te treffen</l>
+                        <l>De weeld en wellust die 'k nog tille kon nog heffen,</l>
+                        <l>Heeft my ten val gebragt en brouw de my veel smerd;</l>
+                        <l>Hoe wel het lighaam draagt een na - berouw in 't hert:</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella</hi>.</speaker>
+                        <l>Door welk een toeval dan, segt, syt gy dus gevallen?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Urbanus</hi>.</speaker>
+                        <l>Door myn onwilligheyd, en myn on - eerlyk mallen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella</hi>.</speaker>
+                        <l>Soo syt gy selver dan de oorzaak van uw leet?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Urbanus</hi>.</speaker>
+                        <l>Dat ben ik wel te regt, maar brave Juffer weet,</l>
+                        <l>Dat in dees droeve borst soo veel berouwen steeken</l>
+                        <l>Als hairen op myn hooft, myn sugten syn het teeken</l>
+                        <l>Van myn ontrust gemoet, tot boete van myn sond;</l>
+                        <l>Og! of ik eens genâ by God en menschen vond.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella</hi>.</speaker>
+                        <l>‘Og! of Urbanus meed berouw kreeg van syn daden,</l>
+                        <l>En keerde wederom, ik nam hem ingenaden,</l>
+                        <l>Schoon hy verbannen is: maar gy die hier bekend,</l>
+                        <l>Dat gy de oorsaak syt, van dit uw groot elend,</l>
+                        <l>Soo gy dit meet verteld, sal yder u verstooten.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Urbanus</hi>.</speaker>
+                        <l>Indien barmhartigheyd is uyt het hart geslooten</l>
+                        <l>Van een daar ik op hoop, soo wensch ik dat de Dood</l>
+                        <l>My met haar prikkels brengt in aller Dooden schoot,</l>
+                        <l>Of door een droever kwaal dit leven komt verlinden.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella</hi>.</speaker>
+                        <l>Wie is 't, daar gy op hoopt?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Urbanus</hi>.</speaker>
+                        <l rend="; 1tab">'t Is die, die ik beminde;</l>
+                        <l>'t Is die, die ik nog noem (schoon ik haar gunst ontviel)</l>
+                        <l>'t Genoegen van myn hert, het leven van myn siel;</l>
+                        <l>'t Is die, uyt wiens gesigt ik scheppen kan het leven;</l>
+                        <l>'t Is die, die 'k derven moed, en niet en kan begeven.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella</hi>.</speaker>
+                        <l>Hoe sal ik dit verstaan, u Vryster?</l>
+                    </sp>
+                    <pb n="9"/>
+                    <sp>
+                        <speaker><hi rend="sc">Urbanus</hi>.</speaker>
+                        <l rend="; 1tab">Neen, Mevrouw,</l>
+                        <l>Een voorbeelt van de deugt, een toesteen van de trouw;</l>
+                        <l>Een daar ik door natuur wel vast aan was gebonden;</l>
+                        <l>Een die my eertyts had doorsaayd met soete wonden,</l>
+                        <l>Als ik haar weeten liet myn brandende gemoed;</l>
+                        <l>Een, wiens volmaakte trouw ik schopte met de voet:</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella</hi>.</speaker>
+                        <l>Gaat, Klara, nu van hier, wil 't eeten gaan beryden,</l>
+                        <l>Ik koome in het kort, als wy van hier dan scheyden,</l>
+                        <l>Doet, 't geen ik heb belast, gy hebt het wel verstaan.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Klara</hi>.</speaker>
+                        <l>Mevrouw, uw wil geschiet, laat alles op my staan.</l>
+                    </sp>
+                </div>
+                <div type="scene">
+                    <head rend="h4">Sesde tooneel.</head>
+                    <stage><hi rend="sc">Isabella. Urbanus</hi>.</stage>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella</hi>.</speaker>
+                        <l>‘Wat voel ik in dees borst niet al veranderingen;</l>
+                        <l>Hoe klopt myn hart, helaas! wat naken my voor dingen,</l>
+                        <l>Is 't spook, of dromery, dan of ik slaap of waak?</l>
+                        <l>Ik sie het aan 't gestel, ik hoor het aan syn spraak;</l>
+                        <l>'k En weet niet hoe ik ben, myn bloed begint te klimmen,</l>
+                        <l>Myn ingewand beroerd, myn borst begint te glimmen,</l>
+                        <l>Och! sou 't myn Man wel syn, die hier in dit gewaat,</l>
+                        <l>In onbekenden schyn voor myne oogen staat?</l>
+                        <l>Ik weet naauw, of hy 't is, ik twyfel aan myn oogen</l>
+                        <l>Myn oordeel my verleyd, de sinnen syn vervlogen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Urbanus</hi>.</speaker>
+                        <l>Ag! al te laat berouw nu ik gevallen ben!</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella</hi>.</speaker>
+                        <l>‘Hoe ik hem meer aansie, hoe ik hem nader ken.</l>
+                    </sp>
+                    <pb n="10"/>
+                    <sp>
+                        <speaker><hi rend="sc">Urbanus</hi>.</speaker>
+                        <l>Ag my! rampsalige! waar sal ik my nog wenden?</l>
+                        <l>Waar sal ik nog myn leet en droevig leven enden?</l>
+                        <l>Den Hemel stort een vloed van plagen op my neer.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella</hi>.</speaker>
+                        <l>‘Syn klagen is het blyk, nu twyfel ik niet meer:</l>
+                        <l>Hy is 't, och ja, hy is 't! hoe sal ik my nu dragen;</l>
+                        <l>Sal ik hem kussen? neen, ik sal hem nader vragen,</l>
+                        <l>En veynsen? tot ik weet of een opregt gemoed,</l>
+                        <l>Dat van syn misdaad walgt, hem hier verschynen doed:</l>
+                        <l>Indien gy als u Vrouw tot goed doen waard genegen</l>
+                        <l>Het sou heel anders gaan.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Urbanus</hi>.</speaker>
+                        <l rend="; 2tab">Het liep my soo niet tegen,</l>
+                        <l>Nog 'k was door den armoe soo verre niet verrukt;</l>
+                        <l>De broodlust had my nooyt soo hongerig gedrukt:</l>
+                        <l>Nooyt had de wanhoop my soo bitterlyk bestreden:</l>
+                        <l>Ik naderde geen huys met half ontbloote leeden:</l>
+                        <l>Ik droeg geen beedel - kleed, soo vuyl, soo rouw, en hart,</l>
+                        <l>Waar van myn vlees begroeyd, myn gansche lighaam smart,</l>
+                        <l>Ik had myn bedstee nooyt in d' oope lugt gevonden,</l>
+                        <l>Waar over een gewelf van blonde starre stonden:</l>
+                        <l>Ik droeg geen hollebuyk: 'k liep niet van Stad tot Stad?</l>
+                        <l>'k Was nooyt soo smadelyk bespot, beguygt, nog 'k had</l>
+                        <l>Het dik wils last'ren van de ryken nooyt verdragen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella</hi>.</speaker>
+                        <l>Maar wyl dit is geschiet, soo moet ik nog wat vragen;</l>
+                        <l>Seg eens wat vuyl bedryf was d' oorsaak van u kwaal?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Urbanus</hi>.</speaker>
+                        <l>Verschoon my, Juffer, ay! ik schrik voor dit verhaal;</l>
+                        <l>Om door 't verhalen u myn misdaad te vertoogen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella</hi>.</speaker>
+                        <l>Geveynsde Bedelaar, heeft schaamt soo veel vermogen</l>
+                        <l>Al in u hart geplaats?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Urbanus</hi>.</speaker>
+                        <l rend="; 1tab">Mevrouw, wel hoe, wat 's dat?</l>
+                        <l>Men vond nooyt deugd daar eer nog schaamt het hart besat:</l>
+                        <pb n="11"/>
+                        <l>Een die syn fout mishaagt, en meydse te ontdekken:</l>
+                        <l>Gy waant dat gy my kend 'k kan 't uyt u woorden trekken,</l>
+                        <l>Ook dwaalt gy moogelyk; wie meynt gy dat ik ben?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella</hi>.</speaker>
+                        <l>Of meynt gy deugeniet dat ik u niet en ken?</l>
+                        <l>Hoe derst gy, snode guyt, verschynen voor myn oogen?</l>
+                        <l>Weg na u hoeren toe.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Urbanus</hi>.</speaker>
+                        <l rend="; 1tab">Ik bid hebt dog me - dogen;</l>
+                        <l>'k Beken ik heb misdaan, Ik was u niet getrouw;</l>
+                        <l>'k Onschuldig my geensints, ik weet het wel Mevrouw,</l>
+                        <l>Ik heb u haat verdiend, en ben uw gunst niet waardig;</l>
+                        <l>My fouten die syn swaar, verdoemelyk, boos - aardig.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella</hi>.</speaker>
+                        <l>Gaat heen vervloekte guyt, voor wien ik walg en braak,</l>
+                        <l>Ik seg vertrek van hier,</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Urbanus</hi>.</speaker>
+                        <l rend="; 2tab">Ag! verschoon dog de saak;</l>
+                        <l>Hoe kunt gy Isabel, hoe kunt gy soo versteenen?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella</hi>.</speaker>
+                        <l>Onteerde bed genood, ik seg voor 't laast gaat heenen;</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Urbanus</hi>.</speaker>
+                        <l>Ay! lief bedwing uw stem eer dat ons imant hoord.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella</hi>.</speaker>
+                        <l>'k Wensch dat 'er imant komt die u terstond vermoord;</l>
+                        <l>Of dat een naar gespook, ten afgront uytgevlogen,</l>
+                        <l>Uw' wrede siel verrukt, hier daad'lyk voor myn oogen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Urbanus</hi>.</speaker>
+                        <l>Ag Hemel! Hemel ag! versaagd haar harde sin</l>
+                        <l>Bedaar, myn lief, ay houd dees dolle driften in;</l>
+                        <l>Erbermt u, ag! gena, ik buyg my voor u voeten,</l>
+                        <l>En sal 't geleede kwaad met goed doen weer versoeten.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella</hi>.</speaker>
+                        <l>Doorbrenger van myn goed, bederver van u Vrouw,</l>
+                        <l>Beroover van u huys, O schender van uw trouw,</l>
+                        <l>Die eertyds na myn val en rampspoet pleegt te haken,</l>
+                        <l>O schaamteloose boef, hoe durst gy my genaken,</l>
+                        <pb n="12"/>
+                        <l>Seg eens ondankb're, en gants ontsaalig Man</l>
+                        <l>Geveinsde beedelbrok, mein - eedige Tiran,</l>
+                        <l>ô God vergeete schelm, en schandvlek aller Mannen!</l>
+                        <l>Wat doed gy ondeugd hier! gy syt door 't Regt verbannen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Urbanus</hi>.</speaker>
+                        <l>Ik kom door noot geperst, door dien 't gemoed, my knaagt,</l>
+                        <l>Uw bidden om gena, Ik werd helaas! geplaagt</l>
+                        <l>Door pynen in 't gemoet, om myn bedreve sonden,</l>
+                        <l>Og! of, myn troost by uw myn Engel wierd gevonden!</l>
+                        <l>Myn hart door traanen droog; myn tong is mat gebeen;</l>
+                        <l>Verandert u gelaat, ay! maakt my weer die geen</l>
+                        <l>Die 'k eertyts was by uw, myn hart, myn siel, myn leven,</l>
+                        <l>Myn Lief, myn Isabel, ay! wilt het my vergeeven:</l>
+                        <l>Al wees my 't regt van u, 't en brak nogtans geen trouw;</l>
+                        <l>Wat regt kan tegen ons soo gy myn Engel wouw</l>
+                        <l>Vergeven al myn doen, en in genaad ontvangen;</l>
+                        <l>Verwerpt, verwerpt den haat, verwerp de pruyk van slangen.</l>
+                        <l>Vertrapt u vonnis lief, ik weet myn sondig kwaat;</l>
+                        <l>Ik bid nog eens gena, herroep uw streng gelaat</l>
+                        <l>Laat ik door trouwe blyk u lieve lippe kussen,</l>
+                        <l>De traanen dien ik stort, u heete wraak uytblussen.</l>
+                        <l>En breken soo uw' hart, dat harder is als steen,</l>
+                        <l>En niet beweegen laat door traanen nog gebeen,</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella</hi>.</speaker>
+                        <l>Doen gy als Man en Voogt by my u plaats bekleden,</l>
+                        <l>Wat heb ik doen ter tyd al smaad en hoon geleden;</l>
+                        <l>Wat leed ik doen al spyt, en duldeloos verdriet;</l>
+                        <l>Wat had ik doen al ramp, myn bidden holp doen niet;</l>
+                        <l>Gy waart gelyk een beelt gantsch stom voor al myn klagen,</l>
+                        <l>Gy stiet my met de voet en sloeg my alle dagen,</l>
+                        <l>Is u dat niet bekent, dat een of and're hoer,</l>
+                        <l>Meer eer wiert aangedaan: myn gelt en parelsnoer,</l>
+                        <l>Hebt gy dat niet van my, genomen, doen verkopen?</l>
+                        <l>Myn beste kleederen, brak gy myn kas niet open,</l>
+                        <l>En roofde gy dat geen, dat ik van u op trouw</l>
+                        <l>Soo lief gekregen had. O plager van u Vrouw!</l>
+                        <l>En nu gy nergens weet een schuylplaats vast te vinden,</l>
+                        <l>Nu komt gy weet tot my, en noemt my u beminden.</l>
+                        <pb n="13"/>
+                        <l>En derft u geyle mond my oog re kussen bien,</l>
+                        <l>Nog vuyl van hoeren-quyl; ô neen! 't sal noyt geschien,</l>
+                        <l>Ik was veel liever dood, eer dat ik zou gedogen!</l>
+                        <l>De wraak bied my de hand, genade sluyt haar ogen,</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Urbanus</hi>.</speaker>
+                        <l>Verwerpt gy dan die geen die u helaas! misdeed?</l>
+                        <l>Heeft dan de wraak in u soo strengen wet gesmeed,</l>
+                        <l>Dat al wat menschlyk is, is uyt het hart getogen?</l>
+                        <l>Soo dubbelt myn verdriet, soo is myn hoop vervlogen;</l>
+                        <l>Soo is 't vergeefs gebeen, soo is 't met my gedaan.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella</hi>.</speaker>
+                        <l>U bidden is vergeefs, ik neem u nimmer aan.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Urbanus</hi>.</speaker>
+                        <l>Sal dan een trouw gemoed, om dat het was gevallen,</l>
+                        <l>Op een verkeerden weg, door syn on-eerlyk mallen.</l>
+                        <l>Nu is het al te laat te treden uyt dien kuyl,</l>
+                        <l>Komt beeren rukt my weg, verslint my met u muyl.</l>
+                        <l>Dan sal my Isabel voor eeuwig moeten derven</l>
+                        <l>Want ik kan door geen bee, genade meer verwerven</l>
+                        <l>O Hemel! is de min in bitter roet gekeert</l>
+                        <l>Dat ik haar wreede haat gevoelen al te wreet.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella</hi>.</speaker>
+                        <l>Ik berst byna van spyt. wien ik van trouw hoor spreken,</l>
+                        <l>Ontrouwste die daar leeft, waar is u trouw gebleken?</l>
+                        <l>Of noemt gy dit u trouw, doen gy de trouw verbrak,</l>
+                        <l>Doen u ver-eenigt huys tweespalug gaf een krak,</l>
+                        <l>Dat hier en daar een stuk is in de wind gevlogen!</l>
+                        <l>O Eervergeten mensch! gaat aanstonts uyt myn ogen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Urbanus</hi>.</speaker>
+                        <l>Ach lief! ik noem u lief, ten aansien gy wel eer</l>
+                        <l>My hebt u lief genoemt, verwyt my dog niet meer</l>
+                        <l>Myn misdaan die my rouwt: waar wilt gy dat ik vlugten?</l>
+                        <l>Heb ik niet lang genoeg in smaat, vol smett gaan sugien?</l>
+                        <l>Heb ik geen straf genoeg voor myn misdaan geleen,</l>
+                        <l>Dat ik veel jaaren lang myn huys niet mogt betreen,</l>
+                        <l>En u myn Vrouw gemist, en myn twe lieve kinderen,</l>
+                        <l>En al wat ik besat? ay! wilt myn druk verminderen?</l>
+                        <pb n="14"/>
+                        <l>Omhels my eer ik sterf, en in myn droef heyd smoor;</l>
+                        <l>Blyft gy nog even hard? kryg ik dan geen gehoor?</l>
+                        <l>Is 't moog'lyk dat een Vrouw soo groot een haat kan dragen?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella</hi>.</speaker>
+                        <l>Is 't moog'lyk dat een Man syn Vrouw soo lang kan plagen?</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Urbanus</hi>.</speaker>
+                        <l>Noemt gy my nog u Vrouw? ben ik dan nog u Man?</l>
+                        <l>Soo toont een vrouwen hart, en neemt my weder an.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella</hi>.</speaker>
+                        <l>Al even eens als gy een Mannen hart betoonden,</l>
+                        <l>Doen gy by d' hoeren meer als by u huysvrouw woonden.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Urbanus</hi>.</speaker>
+                        <l>Dat sal niet meer geschien, ik haat dat vuyl bejag,</l>
+                        <l>Ik schrikke voor haar doen, dat gy myn hart eens sag,</l>
+                        <l>Gy soud daar anders geen dan u myn lief in vinden.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella</hi>.</speaker>
+                        <l>Meent gy de hoeren niet die gy voor deese minden?</l>
+                        <l>‘Maar sagt al lang genoeg, hy heeft my klaar getoont,</l>
+                        <l>Dat in syn hard veel leed en na berouwe woont.</l>
+                        <l>Syn mond geeft blyk op blyk, hy mogt tot wanhoop raken</l>
+                        <l>Sou dan myn veynsery geen schuld tot misdaad maken.</l>
+                        <l>Ik seg dat gy my kwelt, en dwaalt in al u praat,</l>
+                        <l>En segt het al verkeert, 't is best dat gy weergaat</l>
+                        <l>Van daar gy heden komt, hier is geen troost te hoopen,</l>
+                        <l>Ik moet na binnen toe, myn tyd die is verloopen.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Urbanus</hi>.</speaker>
+                        <l>Is uw gemoed van staal? syt gy uyt Ys geteelt?</l>
+                        <l>Is dan uw hart soo hart, soo wreed, en soo vereelt?</l>
+                        <l>Is uw meedogen en u menschheyd u ontweeken,</l>
+                        <l>Soo vind ik my geheel van alle hulp versteeken?</l>
+                        <l>O Dood! komt maakt een eynd, en kapt myn levens draan;</l>
+                        <l>Maar laat dit op myn graf tot een verciersel staan:</l>
+                        <l><hi rend="i">Hier leyd 't verlaten deel, 't geen Isabella
+                            hoorden,</hi></l>
+                        <l><hi rend="i">Die wreed door wreedheyd was, waar in Urbanus
+                            smoorden.</hi></l>
+                    </sp>
+                    <stage><hi rend="i">Hy rukt een pook uyt, en set die syn borst.</hi></stage>
+                    <pb n="15"/>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella,</hi>
+                            <hi rend="i">de pook vasthoudende.</hi></speaker>
+                        <l>Laat los, nog eens laat los, helaas vergiftig staal;</l>
+                        <l>'t Is lang genoeg, bedaar...</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Urbanus</hi>.</speaker>
+                        <l rend="; 2tab">Is dan nog eene straal,</l>
+                        <l>Van liefde in u hart? Is dan u haat verdweenen.</l>
+                        <l>Is dan die wreede Vrouw, in gunst tot my verscheenen:</l>
+                        <l>Gy voed myn geest door 't sap van trouwe wedermin,</l>
+                        <l>Myn rampen syn voorby, myn klagen houw ik in?</l>
+                        <l>Ik sal dees goede daad voor eeuwig wel gedenken,</l>
+                        <l>En aan myn Vrouw alleen de soete vreugde schenken.</l>
+                        <l>O Hemel! ik gevoel een eynd van al 't verdriet</l>
+                        <l>Kom Isabella komt.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella</hi>.</speaker>
+                        <l rend="; 1tab">Myn lief ik meen het niet</l>
+                        <l>Myn praat was vynsery, U misdaat is vergeven.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Urbanus</hi>.</speaker>
+                        <l>Sal ik dan, als voorheen, by u, myn Engel leven.</l>
+                    </sp>
+                </div>
+                <div type="scene">
+                    <head rend="h4">Sevende tooneel.</head>
+                    <stage><hi rend="sc">Isabella. Urbanus. Merkuur</hi>, <hi rend="i">uyt de wolke
+                            daalt needer op het Tooneel.</hi></stage>
+                    <stage><hi rend="sc">Mannen en Vrouwen</hi>.</stage>
+                    <sp>
+                        <speaker><hi rend="sc">Merkuur,</hi>
+                            <hi rend="i">spreekt tegen Isabella en Urbanus.</hi></speaker>
+                        <l>Gy neemt dan Isabel, u Man nu weder aan,</l>
+                        <l>Soo sal de vlugge Faam verspreyden uwe daan,</l>
+                        <l>Om dat medogentheyd u hart heeft opgetoogen,</l>
+                        <l>En met Urbanus smart en lyden syt bewoogen:</l>
+                        <l>Schenkt aan hem weer u trouw en oversoete sin</l>
+                        <l>Soo sal geleede smaat veranderen in Min,</l>
+                        <pb n="16"/>
+                        <l>Hy sal syn snood bedryf doen in veel heyl verkeeren</l>
+                        <l>En uw als een Godin op deese weereld eeren.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Isabella</hi>.</speaker>
+                        <l>O Ja! ik neem myn Man opregt in liefde aan,</l>
+                        <l>Myn onheyl is voorby, laat ons ter maaltyd gaan.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Merkuur</hi>.</speaker>
+                        <l>Geseegend is dees daad: ô! braafste aller Vrouwen!</l>
+                        <l>Die na gescheyden egt, op nieuws Urbaan komt trouwen;</l>
+                        <l>Sy eert hem als voorheen, sy mint hem als haar Man,</l>
+                        <l>Sy bant de nyd uyt 't hart, en neemt de deugd weer an.</l>
+                    </sp>
+                    <sp>
+                        <speaker><hi rend="sc">Merkuur</hi>, <hi rend="i">tegen de aanschouwende
+                                Vrouwen.</hi></speaker>
+                        <l>Hoort vrouwen, wie gy syt wilt op dit stuk wel letten:</l>
+                        <l>Schenkt aan u Mans veel gunst in plaats van strengewetten,</l>
+                        <l>Soo krygt u soet geslagt een altoos lieve naam,</l>
+                        <l>Soo roemt men al u doen op vleugels van de Faam.</l>
+                        <stage>Tegen de aanschouwende Mannen.</stage>
+                        <l>En gy nu brave Mans, wilt staag uw Vrouwen eeren,</l>
+                        <l>Verband de geyle lust, om and're te begeeren,</l>
+                        <l>Bemind uw' Vrouw alleen, en mind de Echte trouw,</l>
+                        <l>Soo blyft volmaakte Min in plaats van naberouw;</l>
+                        <l>Dan hoeft gy als Urbaan niet buyten 't land te swerven,</l>
+                        <l>Dan kunt gy veel vermaak by uwe Vrouw be - erven:</l>
+                        <l>Hier siet men dat de deugd de liefde weer hersteld,</l>
+                        <l>Geveynsde Bedelaar bekomt syn Vrouw en 't geld.</l>
+                    </sp>
+                    <stage><hi rend="spat">EYNDE</hi>.</stage>
+                    <p><figure>
+                            <p><xptr to="stey002geve01ill0003.gif"/></p>
+                        </figure></p>
+                </div>
+            </div>
+        </body>
+    </text>
+
+</TEI.2>

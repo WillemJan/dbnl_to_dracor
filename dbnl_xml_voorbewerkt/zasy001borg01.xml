@@ -1,0 +1,1822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Borgerliicke huyshoudingh</title>
+                <author>Lucas Zasy</author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een
+                    diplomatische weergave van <hi rend="i">Borgerliicke huyshoudingh</hi> van Lucas
+                    Zasy in een druk uit 1628. </edition>
+                <respStmt>
+                    <resp>
+                        <corr>fol. A3v.: ‘krachrigh’ → ‘krachtigh’: ‘P.T. Pycolet. T ghebedt is
+                            krachtigh’.</corr>
+                        <corr>fol. B3r.: ‘flooft’ → ‘slooft’: ‘Maer ’tis een trouwe meyt, die als
+                            een Muyle slooft’.</corr>
+                        <corr>fol. D1v.: ‘dnnckt’→ ‘dunckt’: ‘Gaet voort, mijn dunckt ghy oock met
+                            my noch wel sout gecken’.</corr>
+                        <corr>fol. E1v.: hier is het linkerdeel van de pagina onleesbaar, waardoor
+                            onduidelijk is welke zoon aan het woord is: ‘[...] Sone’.</corr>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <scandetails>
+                <scan type="fol2">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page>A1v.</empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""/>
+                </scan>
+            </scandetails>
+            <publicationStmt>
+                <idno type="titelcode">zasy001borg01_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2011 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note>DSOLmetadata:yes</note>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"/>
+                    <idno type="usedcopy">exemplaar Amsterdam UB, signatuur: 691 B 104</idno>
+                </bibl>
+                <p>Lucas Zasy, <hi rend="i">Borgerliicke huyshoudingh</hi>. Cornelis van Damme,
+                    Rotterdam 1628</p>
+                <p>&#160;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p/>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">Borgerliicke huyshoudingh</title>
+                <author>Lucas Zasy</author>
+                <idno/>
+                <imprint>
+                    <publisher/>
+                    <pubPlace/>
+                </imprint>
+            </bibl>
+            <idno type="isbn"/>
+            <order>
+                <price curr="euro"/>
+                <link/>
+            </order>
+            <blurb>
+                <p/>
+            </blurb>
+            <titlepage>
+                <p/>
+            </titlepage>
+            <colofon>
+                <p/>
+            </colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">Borgerliicke huyshoudingh</title>
+                <author>Lucas Zasy</author>
+                <idno/>
+                <imprint>
+                    <publisher/>
+                    <pubPlace/>
+                </imprint>
+            </bibl>
+            <idno type="isbn"/>
+            <order>
+                <price curr="euro"/>
+                <link/>
+            </order>
+            <blurb>
+                <p/>
+            </blurb>
+            <titlepage>
+                <p/>
+            </titlepage>
+            <colofon>
+                <p/>
+            </colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2011-03-09</date>
+                <respStmt>
+                    <name type="person">RG</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div type="chapter">
+                <pb ed="fol." n=" A1r"/>
+                <p>&#160;</p>
+                <p>L. Zasy</p>
+                <p>Borgerliicke Hvys-hovdingh.</p>
+                <p>&#160;</p>
+                <p>Bly-eyndigh-Spel.</p>
+                <p>&#160;</p>
+                <p>Tot Rotterdam, Voor Cornelis van Damme, Boeckverkooper aende groote Kerck. Anno
+                    1628.</p>
+            </div>
+            <div type="chapter">
+                <pb ed="fol." n=" A2r"/>
+                <interpGrp>
+                    <interp type="primair" value="damm024"/>
+                </interpGrp>
+                <head rend="h3">C.V. Damme vvenscht Sr. Iacob Corssen sijnen weerdigen ende
+                    goetgunstigen vrient Gheluck Heyl, ende Salicheyt, in Iesu Christo.</head>
+                <p>Eerwaerdighe Vrient, seer langen tijt hebbe ick mijne genegentheyt bevonden
+                    aengeprickelt omme u E. te bewijsen eenighe weldaet (van weghen de soo
+                    menichfuldighe weldaden ende vrientschappen die ick so langhen tijt van u E.
+                    hebbe ghenooten ende noch ben genietende,) hebbe oversulcx geen bequamer
+                    begintsel connen ghevinden dan de teghenwordighe. Namentlijck: u E. toe te
+                    eygenen ende te dediceeren de Comedie vant <hi rend="i">Burgerlijck
+                        Huyshouden</hi>, (ghecomponeert ende in dichte ghestelt door den
+                    welgheleerden <hi rend="i">Lucam Zasium</hi>, my in handen gecomen van een goet
+                    vrient) verhoope tzelve u E. niet qualijck en sal behaghen, (als mede vanden
+                    hoooghsten ghezeghent zijnde met een tamelijck Huysghesin, ende den lust die soo
+                    als ick ghespeurt heb, (u E. zijt draghende tot de Const van Rijmingh, welcke is
+                    leydende totter Deught, bidde uwe E. wille dees gift accepteren, met soo goeden
+                    ghenegentheyt als de selve u wert toegeschickt van zijnen altijt ghewillich
+                    bereyden vrient.</p>
+                <p>&#160;</p>
+                <p>C.V. Damme. </p>
+            </div>
+            <div type="chapter">
+                <pb ed="fol." n=" A2v"/>
+                <head rend="h3">Voorreden, Den Drucker tot den Onpartidigen Leser.</head>
+                <p>SEer Eerwaerdighe, Deughtbeminnende ende Constliefhebbende Leser. Alsoo onlanghs
+                    geleden (door een goede Vrient) my behandight is. Dit Boecxken g‛intituleert <hi
+                        rend="i">tBorgherlijck Huyshoudingh, L. Zasij</hi> tselfde overlesende,
+                    bevond’ ickt’ seer stichtelijck ende profijtelijck te sijn, voor alle vrome ende
+                        Godtlief-hebbe<hi rend="i">n</hi>de Ouders t’zy van wat staet sy zijn, als
+                    mede voor alle deugtsame en<hi rend="i">de</hi> Godvreesende Kinderen. Waer over
+                    ickt aen eenige vrome ende deught-rijcke Huyshoudende Vaders vertoont hebbe, die
+                    seer gheraden vonden (en oock ernstelijck op my versochten) dat ick’t
+                    voorschreven Boecxken int licht soude doen komen, alsoot noyt te vooren in druck
+                    (en van weynighe bekent) is gheweest. Soo ist dat ick (aenmerckende den goeden
+                    en Christelijcken Stijl, als ooc tgroot verlangen d‛uytnemende begeerte en lust
+                    die sommige na t’selvige hadden) dit voorschreven Boecxken hebb’ doen drucken,
+                    om van een yder (alsoo ’t onbekent is) bekent en aenghenomen te werden. V.E.
+                    seer instantelijck biddende, dat gy (na ’t exempel der Romeynen, die haer niet
+                    veronwaerdichde te aenhooren de redenen eenes armen <hi rend="i">Donauschen</hi>
+                    Lantmans, uyt wiens aensprake sy meerder Contentement ontfingen dan zy wel
+                    gemeent hadden) u E. oock niet en veronwaerdight, noch verdrieten en laet t‛voor
+                    noemde boecxken met een onpartijdigh ghemoet te door lesen niet twijffelende,
+                    oft uE. sult vryelijc al veel meerder smaecs en lieffelijcheyts daer in vinden
+                    als ghy misschien verwacht. Ende vorders tselvige beschermen tegens alle <hi
+                        rend="i">Momus</hi> dienaren die’t souden moghen calumnieren en soecken te
+                    verduysteren. Alsoot niet gheschiet uyt eenighe laetdunckentheyt, ofte eyghen
+                    eergierigheydt, maer alleenelijck uyt oprechte hope, dat het (met de toelatinghe
+                    Godes) vruchten van een Christelijck-Huyshoudingh sal voortbrenghen. T‛welck
+                    wenscht.</p>
+                <p>&#160;</p>
+                <p>V.E. Dienst-bereyden</p>
+                <p>Cornelis van Damme. </p>
+            </div>
+            <div type="chapter">
+                <pb ed="fol." n=" A3r"/>
+                <head rend="h3">Lof-dicht, Ter Eeren den VVaert-geroemden, ende Gonst-rijcken Lucas
+                    Zasij; Rectoor inde vermaerde Schole tot Woerden.</head>
+                <lg type="poem">
+                    <l>O Zasij wel te recht zijt ghy waerdigh gepresen</l>
+                    <l>Door dien ghy uyt het breyn uwes hoofts ons te lesen</l>
+                    <l>(Hier geeft in dit u werck) hoe dat een Vader sal</l>
+                    <l>Zijn kinderen gheschickt, opvoeden in dit dal</l>
+                    <l>Om haer na Gods bevel, te leyden en te stieren</l>
+                    <l>Tot deught en eerbaerheyt, in alle goe manieren</l>
+                    <l>Tot Liefd’ van d‛eere Gods, tot ontsagh vande Wet</l>
+                    <l>En de Iustitieel, daers’onder sijn ghezet</l>
+                    <l>Insghelijcx wat beleyt, dat hebben sal de Moeder</l>
+                    <l>Om hare Knecht, of Meyt (op datse veel te vroeder</l>
+                    <l>Haer dingen souden doen) met reden wel lof-saem</l>
+                    <l>Haer onderwijsen sal, op dat daer door bequaem</l>
+                    <l>Haer huysghesin ghesticht, wel gheregeert mach wesen</l>
+                    <l>Op dat haer kinders tsaem, als planten uytghelesen</l>
+                    <l>Daer door werden gheleert, daer door werden ghesticht</l>
+                    <l>Daer door werden ghebracht, tot haer schuldighe plicht,</l>
+                    <l>Dat is tot danckbaerheyt, voor al de groote deughden</l>
+                    <l>En waer ootmoedigheyt, op dat daer door vol vreughden</l>
+                    <l>Haer Ouders sien met lust, een merckelijcke vrucht</l>
+                    <l>Voor al haer sware last, en Christelijcke tucht.</l>
+                </lg>
+                <p>C.V.R. ‘k Verlangh altijt.</p>
+            </div>
+            <div type="chapter">
+                <pb ed="fol." n=" A3v"/>
+                <head rend="h3">Opt Burgherlijck Huyshouden L.Zazius.</head>
+                <lg type="poem">
+                    <l>LVcas hier hebt ghy uu, speelwijs willen verthoonen </l>
+                    <l><hi rend="i">Thvys-houden Borgerlijck</hi> en hoemen best sal woonen, </l>
+                    <l>Onder het teere volck, ’twelck by ons opgevoet</l>
+                    <l>Ghetucht, ghestiert, ghelieft, (en alles) werden moet</l>
+                    <l>En oock hoe dat een kint, hem selven wel sal draghen</l>
+                    <l>Wanneert ghecomen is, tot mannelijcke daghen</l>
+                    <l>Eerst’lijck in zijn beroup, van Gode opgheleyt</l>
+                    <l>Daer naer oock met sijn Vrouw’, van d’Hooghst hem toegheseyt</l>
+                    <l>Dan weder hoe een kint, hemselven moet ghevoeghen</l>
+                    <l>In sijne kinder plicht om d’Ouders te vernoeghen</l>
+                    <l>Seer wel hebt ghy gedaen, den Hemel het u loont</l>
+                    <l>Die u voor dees weldaet, met dobbel zegen Croont.</l>
+                </lg>
+                <l>&#160;</l>
+                <p>I. Langh-sweert.</p>
+                <p>t’Swaert moet strijden.</p>
+            </div>
+            <div type="chapter">
+                <interpGrp>
+                    <interp type="primair" value="pyko001"/>
+                </interpGrp>
+                <head rend="h3">Eer-dicht. Op de Burgherlijcke Huys-houdinghe van Lucas
+                    Zasius.</head>
+                <lg type="poem">
+                    <l>PLutarchus die wel eer: de Plichten heeft beschreven,</l>
+                    <l>Van kinderlijcke tucht, en Ouderlijcke eer</l>
+                    <l>D’opvoedingh tot de deught: en Vaderlijcke leer.</l>
+                    <l>Heeft d’outheyt onses tijts, schier uyt ghesicht ghedreven,</l>
+                    <l>&#160;</l>
+                    <l>’Kwed hyt bekennen sou,, soo hy noch waer int leven:</l>
+                    <l>Dees snoo verdurven euw‛. dees yser stalen tijdt</l>
+                    <l>Vereyscht wel sulcken Stijl, tot Burgherlijcke vlijdt</l>
+                    <l>Met Christelijck opmerck, ons tot een leste gheven.</l>
+                    <l>&#160;</l>
+                    <l>Als Zasius hier doet, die met vermaeck doet hooren</l>
+                    <l>’tOrdentelijck bestier, ick bid u neycht u ooren,</l>
+                    <l>Want treft ons yeder een, diet Huyselijck beleyt:</l>
+                    <l>Als kleyne staet des Landts, sal stieren met bescheyt.</l>
+                    <l>&#160;</l>
+                    <l>Het Vaderlijck ontsagh: het Moederlijck medooghen</l>
+                    <l>Het kinderlijck beroep, stel het ons naeckt voor ooghen?</l>
+                    <l>Het Redelijck ghebruyck van die een Christen Romt:</l>
+                    <l>Dies Zasius met recht der Eeren Krans toekomt.</l>
+                </lg>
+                <p>P.T. Pycolet. T ghebedt is krachtigh.</p>
+            </div>
+            <div type="chapter">
+                <pb ed="fol." n=" A4r"/>
+                <head rend="h3">Prologvs,</head>
+                <lg type="poem">
+                    <l>WAnneer een trefflijck man,, een schoon Palleys wil bouwen,</l>
+                    <l>Uyt Marmor of Arduyn,, cierlijck en fray ghehouwen</l>
+                    <l>Van binnen oock versien,, met allerley ghesny</l>
+                    <l>Soo datter van schoonheyt,, alles de volheyt zy</l>
+                    <l>Waer in hy dan daer naer,, in staet en oock met eeren</l>
+                    <l>Een Princ’ ontfangen mach,, een Coninck wel tracteren</l>
+                    <l>Dat werck niet en volbrenght,, na ’t voornemen bedacht</l>
+                    <l>Alleen door Meesters hoogh,, by yder veel gheacht</l>
+                    <l>Noch alleen door sulck stof,, dat costlijck is in d’ooghen</l>
+                    <l>Van groote cierlijckheyt,, vermaert en opghetoghen</l>
+                    <l>Maer oock doort tgheen is kleyn,, en is voor yemant slecht</l>
+                    <l>Hy dit begonnen werck,, volcomelijck oprecht</l>
+                    <l>Soo oock ghy Gheesten al,, Poëten van naturen</l>
+                    <l>Geboren, die daer tracht,, en arbeyt t’aller uren</l>
+                    <l>In leven en in doot,, te stichten een Palleys</l>
+                    <l>Vry costelijck en schoon,, verciert fray na den eysch</l>
+                    <l>Door u verstant vermaert,, en Geest hooch opgheresen</l>
+                    <l>In constich Rijmghedicht,, by elck een seer ghepresen</l>
+                    <l>Wanneer ghy soo een werck,, nu daghelijcks betracht</l>
+                    <l>Dit stof gheringh, noch oock,, den Arbeyder veracht</l>
+                    <l>Misschien of by hem yets,, hoe rouw ’tzy is te vinden</l>
+                    <l>Waer med’ ghy uws verstants,, ghesny cunt t’samen binden</l>
+                    <l>Al ist niet tot t’ ghebouw,, uyt Marmor of Arduyn</l>
+                    <l>Ghebruyckt het dan alleen,, tot paden vanden tuyn</l>
+                    <l>Hier toe sal dees Autheur,, uyt Nectars borst gesoogen</l>
+                    <l>Dit Dicht gheringh en slecht,, hier stellen u voor ooghen</l>
+                    <l>T’is een Huyshoudingh siet,, in woorden cort vervaet</l>
+                    <l>Van een vroom treffelijck Man, in Borgherlijcken staet</l>
+                    <l>Die hier in sijn persoon,, hoe een ghetrouw Huys-Vader</l>
+                    <l>En in sijn Kindren leert,, hoe de Kindren te gader</l>
+                    <pb ed="fol." n=" A4v"/>
+                    <l>Elck een sich draghen moet,, en wat het werck is dan</l>
+                    <l>Van een deuchtsaem Huysvrouw,, en een ghetrouwe Man</l>
+                    <l>Sijn Dienstboon alle bey,, sijn Meyt en Knecht te samen</l>
+                    <l>Ten dienste sijnes huys,, als Roel en May met namen</l>
+                    <l>Sullen u wijsen aen,, wat tot haer werck behoort</l>
+                    <l>En oock met eenen als,, aenwijsen met een woort.</l>
+                    <l>De groot’ verscheydenheyt,, van Huys-heer en Huysvrouwen</l>
+                    <l>Die al op haer mannier,, verscheydentlijck Huys-houwen</l>
+                    <l>Ghebruyckeu zy, soo nu,, soo dan een cromme sprongh</l>
+                    <l>In reden denckt het past,, de Knechts en Maeghden jongh.</l>
+                </lg>
+                <p>Finis.</p>
+            </div>
+            <div type="chapter">
+                <head rend="h3">Personagien.</head>
+                <p>&#160;</p>
+                <table>
+                    <row>
+                        <cell>Roel</cell>
+                        <cell/>
+                        <cell>Maeght.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>en</cell>
+                        <cell>dienst-</cell>
+                        <cell>En</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>May.</cell>
+                        <cell/>
+                        <cell>Knecht.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Vader</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>en</cell>
+                        <cell>des Huysgesins.</cell>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Moeder.</cell>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Outste.</cell>
+                        <cell/>
+                        <cell>I</cell>
+                        <cell>Een Theologus.</cell>
+                    </row>
+                    <row>
+                        <cell>Middelste.</cell>
+                        <cell>zonen, verthoont door</cell>
+                        <cell>II Sone.</cell>
+                        <cell>Een Iurist.</cell>
+                    </row>
+                    <row>
+                        <cell>Ionghste.</cell>
+                        <cell/>
+                        <cell>III</cell>
+                        <cell>Een Onervaren Ionghelingh.</cell>
+                    </row>
+                </table>
+            </div>
+        </front>
+        <body>
+            <div type="act">
+                <div type="scene">
+                    <pb ed="fol." n=" B1r"/>
+                    <head rend="h2">L. Zasy. Borgherlycke Huys-houdingh.</head>
+                    <head rend="h3">Eerste Handelingh. Eerste uytkomste.</head>
+                    <stage>Roel.</stage>
+                    <lg type="poem">
+                        <l rend="speaker">Roel.</l>
+                        <l>Waer mach doch onse <hi rend="i">May Almanacks</hi> zijn gheloopen?</l>
+                        <l>Ic waen sy hier of daer haer Ctaphout gaet vercoope<hi rend="i"
+                            >n</hi>.</l>
+                        <l>Nu verkalt sy den tijt; flus sal sy loopen, dat</l>
+                        <l>Haer aengesichte sy als een geslaghen aers-gat.</l>
+                        <l>En sal ons vry veel nieuws int cort cunnen verhalen,</l>
+                        <l>Maer tgheen haer teghen gaet verswijgen alte malen.</l>
+                        <l>Zy weet, al wat gheschiet op Waghen, Schuyt of Straet,</l>
+                        <l>En wie voorby passeert by haer een Vere laet.</l>
+                        <l>Zy hoort, sy siet, sy vraeght, verneemt na alle saken,</l>
+                        <l>Maer dit’s het best ’sen sal niemant lichtlick swart maken.</l>
+                        <l>Zy versuymt wel haer tijdt somtijts, soo hier als daer.</l>
+                        <l>Maer rept haer handen weer lustich, soo voor als naer.</l>
+                        <l>Goet ront, goet zeeuws is sy: vrypostigh hupsch int praten,</l>
+                        <l>Maer sal haer kleeren kout niet eens aenroeren laten.</l>
+                        <l>Al watmenhaer voorwerpt, sy met een praetien boet,</l>
+                        <l>Maer meenge Meyt, die selfs het werck veel liever doet.</l>
+                    </lg>
+                </div>
+                <div type="scene">
+                    <head rend="h3">Eerste Handelingh. Tweede uytkomst.</head>
+                    <stage>Roel. May.</stage>
+                    <lg type="poem">
+                        <l rend="speaker">Roel.</l>
+                        <l>Maer siet, hier komtse aen. Wel May. wat mach u letten,</l>
+                        <l>Dat ghy ’t aensicht inde Paes-daeghsche ploy gaet setten.</l>
+                        <l>Laet sien: Mijn dunckt ghy zijt hier of daer in ontstelt:</l>
+                        <l>Seght Maey, wat is de kneeck? wat schorter dat u quelt?</l>
+                        <pb ed="fol." n=" B1v"/>
+                        <l>Of zijt ghy van de knecht, ghy weet wel wien, bedroghen?</l>
+                        <l>En wert ghy van yemant met waerheyt overloghen?</l>
+                        <l rend="speaker">May.</l>
+                        <l>Och lieve knecht. Ten is dat eyer eten niet,</l>
+                        <l>Men kan soo segghen niet, al watter wel gheschiet.</l>
+                        <l>Ghy weet wel beter Roel: maer wacht u voor de Katten,</l>
+                        <l>Die niet en meeuwen, en still’ swijghende toevatten</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Ghy hebt seker ghelijck. Maer seght my, wat u let:</l>
+                        <l>Want door uw’ ontsteltheyt ick oock mijn selfs ontset.</l>
+                        <l rend="speaker">May.</l>
+                        <l>Roel, luystert, ick sal u de fijne waerheyt segghen:</l>
+                        <l>’K weet langher met mijn Broer te eren noch te egghen.</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Wel lieve Meyt, hoe dit, hy leeft nochtans wel kuys,</l>
+                        <l rend="speaker">May.</l>
+                        <l>Ia, alst al is gheseyt, tusschen galgh en ’t Gasthuys.</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Ey, swijght van hem doch still’: want ick sie hem verkeeren</l>
+                        <l>Met goede vrome lien, diemen met recht moet eeren.</l>
+                        <l>Daer toe verschijnt hy oock niet selden inde Kerck,</l>
+                        <l>En wie soud’ dit, of dat schelden voor een quaet werck.</l>
+                        <l rend="speaker">May.</l>
+                        <l>’Tis maer schijn-heylicheyt, waer door hy goede luyden</l>
+                        <l>Misleyt, die all’ sijn quaet noch steets, ten goeden duyden.</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Ghy zijt de Drommel, May, en achter toeghenaeyt.</l>
+                        <l rend="speaker">May.</l>
+                        <l>Wat meynt ghy datmen my met schijn van deughde payt,</l>
+                        <l>Hy comt somtijts ter Kerck, is voor int oogh gheseten:</l>
+                        <l>Maer twelck hy daer dan hoort, heeft hy wel haest vergheten,</l>
+                        <l>Wanneer hy ’s daeghs daer naer het Weeuken ofte Meyt</l>
+                        <l>Achter de Kerck, ghy weet wel selfs waer toe dagh leyt.</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Ick segh u May, ghy zijt voor geen een gat te vangen:</l>
+                        <l>En zijt soo loos alst hout daer den Dief aen moet hanghen.</l>
+                        <l rend="speaker">May.</l>
+                        <l>Noch weet ick vry wel meer: maer ’tdient niet al gheseyt,</l>
+                        <l>Op dat hy my niet flus lustich ter Koor en leyt.</l>
+                        <l>Want tis een mensch, wanneer hy heeft sijn gelt versoopen:</l>
+                        <l>Of by de Hoeren snoot, al wat hy heeft, verloopen:</l>
+                        <l>Hy kijft, hy bijt, hy smijt, al wat in huys is beeft:</l>
+                        <l>Ia selfs sijn Vrouw’ by hem niet een bly uer en heeft. </l>
+                        <l>Ick soud’ noch wel veel meer van desen deugh niet segghen,</l>
+                        <l>Maer t’onsent, vrees ick, sal d’Roed in de pisse legghen,</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Tis langh genoech gepraet. Mijn Heer is oock wel goet,</l>
+                        <l>Maer toorent alsmen op sijn goetheyt steets quaet doet</l>
+                        <l rend="speaker">May.</l>
+                        <l>En mijn Vrouw’ die kan haest op haer peertjen raken.</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Dats maer een Noorde buy, die kan gheen quaet weer maken. </l>
+                    </lg>
+                </div>
+                <div type="scene">
+                    <pb ed="fol." n=" B2r"/>
+                    <head rend="h3">Eerste Handelingh. Derde Uytkomst.</head>
+                    <stage>May. Roel. Vader des Huysghesins.</stage>
+                    <lg type="poem">
+                        <l rend="speaker">May.</l>
+                        <l>Swijgt Roel: hier komt u Heer.</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Ic hebt voorwaer verknolt</l>
+                        <l rend="speaker">May.</l>
+                        <l>Ia, mijn dunct seecker, dat hy by hem selven prolt</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>’Ken hope ymmers niet, dat het op’t lant sal waijen</l>
+                        <l rend="speaker">May.</l>
+                        <l>Neen, knecht: ghy hebt wel meer tspit ind’ Asch kunnen draijen,</l>
+                        <l>Hy is <hi rend="i">Longolius</hi>, ’k meyn die niet kijven soud’</l>
+                        <l>Schoon datmen hem sijn Vaer of Moer vermoorden woud</l>
+                        <l rend="speaker">Vader.</l>
+                        <l>Maer Roel, vind’ ick u hier? Ick meyn, ghy waert gheloopen,</l>
+                        <l>Daer ik u flus sond’ om, ghy weet wel wat, te koopen.</l>
+                        <l>En, May, gaet ghy naer huys, u Vrouwe is seer verstoort,</l>
+                        <l>Om dat ghy na haer woort, seyt sy, soo weynich hoort</l>
+                        <l rend="speaker">May.</l>
+                        <l>Heer ick ben onderweech een tijdt langh opghehouwen.</l>
+                        <l rend="speaker">Vader.</l>
+                        <l>De knechts sijn voor haer Heer: de Maegden voor haer Vrouwen.</l>
+                    </lg>
+                </div>
+                <div type="scene">
+                    <head rend="h3">Eerste Handelingh. Vierde Uytkomste.</head>
+                    <stage>Vader des Huysghesins. Roel.</stage>
+                    <lg type="poem">
+                        <l rend="speaker">Vader.</l>
+                        <l>Vertoeft een weynich, Roel, Seght hebt ghy niet verstaen,</l>
+                        <l>Wanneer het Schip van hier naer Londen sal ’t seyl gaen?</l>
+                        <l>Ick wild’ dat ick het wist, ick soude derwaerts schrijven</l>
+                        <l>Aen mijnen Soon. ten eynd’ hy langer niet mocht blijven</l>
+                        <l>Van hier: maer komen thuys: want my verlanght te sien</l>
+                        <l>Wat vrucht door hem in Gods gemeynte mocht gheschien.</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Maer Heer, des Boods huys is niet wijt van hier gelegen,</l>
+                        <l>Die sal al wat ghy wilt beschicken wel te deghen.</l>
+                        <l>Tis een fijn, deegh’lijck man: voorsichtigh wel bedacht,</l>
+                        <l>Die niet en doet, dan sijn Bood-ampt te recht betracht.</l>
+                        <l rend="speaker">Vader.</l>
+                        <l>Ick seggh’ dat ghy wat weet, Roel: of zijt ghy gekommen</l>
+                        <l>Wt de <hi rend="i">Bay</hi> en hebt de Vest daer eerst beklommen?</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Maer Heer, ghy scheert my, en gy hout met my den tuyl</l>
+                        <l>Als een Quack op een wal stae ick, bot als een uyl</l>
+                        <l rend="speaker">Vader.</l>
+                        <l>Neen Roel ick scheer u niet, ick most u hooren praten:</l>
+                        <l>Nu dan ghenoegh hier van, laet ons dit varen laten.</l>
+                        <l>Ghy hebt het beste voor: gaet langht hem desen brief:</l>
+                        <l>Dat hy dien gheeft mijn Zoon, twelck my sal wesen lief.</l>
+                        <pb ed="fol." n=" B2v"/>
+                        <l rend="speaker">Roel.</l>
+                        <l>Hebt ghy hem met den mont niet wijders te bevelen:</l>
+                        <l>Het is een trouwe bood’, hy sal u saeck wel helen.</l>
+                        <l>Ten is gheen man, die licht alle secreten vaet,</l>
+                        <l>Ende daer naer weer als een Vat verstaelt deurslaet.</l>
+                        <l rend="speaker">Vader.</l>
+                        <l>Kent ghy den man al recht?</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Ia Heer, hy is bevonden</l>
+                        <l>In ghelt en brieven trouw. Oock tot menigen stonden</l>
+                        <l>Sijn hem secreten veel, ja sacken vol betrouwt,</l>
+                        <l>Waer van hyt minste niet den eygenaer onthouwt</l>
+                        <l rend="speaker">Vader.</l>
+                        <l>Wel dat’s een Bode recht. Gaet wilt hem openbaren,</l>
+                        <l>Het inhouden mijns Briefs: op dat hy mach bewaren</l>
+                        <l>Den selven dies te meer, en watter in ontbreeckt,</l>
+                        <l>Dat hy mijn Zone dat met eyghen monde spreeckt.</l>
+                        <l>En op dat hy te bet mijn wil hier in betrachte:</l>
+                        <l>Seght, dat hy selfs mijn Zoon med’brengh, dien ick verwachte.</l>
+                        <l>En, dat het hem van my rijck’lick sal zijn gheloont</l>
+                        <l>Want ’s Dienaers trouw’ de Heer met g’lijcke trouw becroont.</l>
+                    </lg>
+                </div>
+                <div type="scene">
+                    <head rend="h3">Eerste Handelingh. Vijfde Uytkomst.</head>
+                    <stage>Vader des Huys-ghesins.</stage>
+                    <lg type="poem">
+                        <l>Wat heeft een hert oprecht, een vroom en Trouw-Huys-Vader</l>
+                        <l>Te sorghen al, eer hy te recht brenght alle gader</l>
+                        <l>Twelck te besorghen is, van dat zijn Vrouw eerst baert,</l>
+                        <l>Tot dat sijn laetste Zoon Mannelick is bejaert?</l>
+                        <l>’Tis al maer kinder werck soo langh men slechts moet spreijen</l>
+                        <l>Tot rust en vrolickheyt een bedde voor hun beyen.</l>
+                        <l>Te koopen twee paer Schoen en Hoosen is al niet:</l>
+                        <l>Een kint, of twee, oock wel een weynigh verder siet</l>
+                        <l>Maer tis dan noch maer eerst ghedobbelt om de steenen.</l>
+                        <l>Doch soo wanneermen ’teen om ’tanders wil moet speenen</l>
+                        <l>En dat wat menichmael, dan siet het vry wat suer,</l>
+                        <l>Wantmen dan rusten mach dagh noch nacht eenigh uer.</l>
+                        <l>Ich hebb’ nu menigh Iaer dien seghen wel ghenoten,</l>
+                        <l>Maer s heeft my als een vloeck wel menichmael verdroten.</l>
+                        <l>Ende ten waer ick was ghesterckt door Godes gheest</l>
+                        <l>Langh was ick in cleynmoed, of desperaet gheweest.</l>
+                        <l>Wanneer, ghelijckmen seyt, mijn kindren sijn ghekomen</l>
+                        <pb ed="fol." n=" B3r"/>
+                        <l>Door de cluten, heeft Godt haer weer van my ghenomen,</l>
+                        <l>Men weet wel hoe’t daer gaet. Al droefheyt en verdriet,</l>
+                        <l>Sonder droefheyt en kost sulcks al doch niet gheschiet.</l>
+                        <l>Watmen t’saem schrabben kan, by een grijpen en vanghen,</l>
+                        <l>Moetmen al, ja noch meer dick, aen den kind’ren hanghen.</l>
+                        <l>Van enckel sorghe draegh ick, siet, so grijsen kop</l>
+                        <l>Dewijl de sorgh dick heeft ghesteghen inden top.</l>
+                        <l>Om niet te segghen al: stel ick noch al ter zijden,</l>
+                        <l>Twelckmen van sijn huys-boon menichmael heeft te lijden</l>
+                        <l>Waer van, verweckt wanneer tot toorne was yemant,</l>
+                        <l>Wenst, dat Huysboden veel mocht houden sijn vyant.</l>
+                        <l>In dit deel hebb’ ick noch niet al te seer te claghen,</l>
+                        <l>Want onse Roel en May, haer redelicken draghen.</l>
+                        <l>Roel drinckt somtijts een Kruyck: de Weerdinn’ luyst sijn tas,</l>
+                        <l>En wenst dickwils, datter wat meerder ghelt in was:</l>
+                        <l>Maer hy dient trouw, en is vlytigh in gaen en komen</l>
+                        <l>Hoe kanmen alle deughd’ in eenen dienaer nomen?</l>
+                        <l>May is sowat goet praets, en heeft veel wints int hooft</l>
+                        <l>Maer ’tis een trouwe meyt, die als een Muyle flooft.</l>
+                        <l>Van all’s en kan’t niet zijn, Reyn, suyvel, schoone Vrouwe:</l>
+                        <l>En g’lijckse piepen nu soo songhen oock de ouwe.</l>
+                        <l>Maer ’tis dus verr’ God-danck, dat ick den meesten noot</l>
+                        <l>Nu overkomen schijn: dewijl mijn Sonen groot</l>
+                        <l>Tot mannelick verstant en kennis zijn ghesteghen:</l>
+                        <l>God gheef haer wijders nu sijn’ Heyl’gen Geest en zeghen.</l>
+                        <l>Drie Sonen hebb’ ick noch in’t leven, van wien d’een</l>
+                        <l>Van Ionghs geheylicht is ten dienste Gods alleen.</l>
+                        <l>Om sijn kerck en ghemeynt door’t heyl’ge woort te stichten,</l>
+                        <l>En met Godsaligheyt deselve voor te lichten.</l>
+                        <l>De tweede, hoop ick, sal wesen voor’t Vaderlant,</l>
+                        <l>Waer toe van Ieuget aen in hem sijn ingeplant.</l>
+                        <l>De Previlegien out, en politijcke Wetten</l>
+                        <l>Daer s’Lants Inwoonders haer schreden moeten na setten.</l>
+                        <l>De derde die is jongh, en onervaren doch</l>
+                        <l>Ick hoop hy sal mijn woort en Wet bewaren noch.</l>
+                        <l>De Ionghste, meyn ick, sal by my in huyse blijven,</l>
+                        <l>Om als hy jarigh is den Coophandel te drijven.</l>
+                        <l>Den Tweeden wacht ick thuys sijnde ghepromoveert</l>
+                        <pb ed="fol." n=" B3v"/>
+                        <l>En in de Rechten gantsch volcomen ghestileert.</l>
+                        <l>Den Outsten heb ick nu door brieven thuys ontboden:</l>
+                        <l>Dewijl ick hebb’ verstaen, dat hy in allen noden</l>
+                        <l>Machtigh te stoppen is, aller Godloosen mont</l>
+                        <l>Die niet en snijden recht Gods woort alleen ghesont.</l>
+                        <l>Soo ga ick dan naer huys, en wil haer daer verbeyden,</l>
+                        <l>God bidden, dat hy haer ghesont wil thuys gheleyden.</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="act">
+                <div type="scene">
+                    <head rend="h3">Tweede Handelingh. Eerste wtkomst.</head>
+                    <stage>May. Roel.</stage>
+                    <p>&#160;</p>
+                    <lg type="poem">
+                        <l rend="speaker">May.</l>
+                        <l>Ist niet een wonder werck, dat, die het meeste doet</l>
+                        <l>Het minste loon gheniet? En dan noch hooren moet</l>
+                        <l>Datmen niet neerstigh is: datmen gheen sorgh wil draghen</l>
+                        <l>Voor ’toorbaer van het huys! ick segh het zijn wel plaghen.</l>
+                        <l>Nu is men vroegh te bedd’: dan men te laet opstijght:</l>
+                        <l>Van soo een huer men licht de kouwe pisse krijght.</l>
+                        <l>Een weynigh hadd’ ick maer mijn tijdt flus staen verpraten</l>
+                        <l>Mijn Ioffrouw kijft en knort, kan haren teem niet laten.</l>
+                        <l>Liever dan soo een Vrouw had ick een goeden man.</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Ghy zijt niet al mal. May: maer hoe komjer noch an</l>
+                        <l rend="speaker">May.</l>
+                        <l>Wel Roel, ghy hebt alhier of daer weer vast gheseten</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Dat’s waer May, seght my eens waer aen ghy dat cont weten</l>
+                        <l rend="speaker">May.</l>
+                        <l>Aen uwen lossen tongh, en uw’ ghebloosde mont</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>’K koom van mijn Swagher af, daer ick de tafel vont</l>
+                        <l>Ghedeckt, en wel voorsien van alles om te eten</l>
+                        <l rend="speaker">May.</l>
+                        <l>Hy salt wel crijghen op, en al met cleyne beten,</l>
+                        <l>Al laet hy sijnen sleep soo breet doch hanghen // niet,</l>
+                        <l>Want by hem is doch een platluys te vanghen // niet</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Wat meynt ghy, dat met hem ’t Hammeken op soud wesen,</l>
+                        <l>Neen, May: en denckt dat niet: men b hoeft dat niet te vresen</l>
+                        <l rend="speaker">May.</l>
+                        <l>Ia vaste borgh waer goet: Gheen meerder dief ghewis</l>
+                        <l>Dan is eens Borghers huys een leck’re Tafel is.</l>
+                        <l>Ick sie wel hoeter gaet, men braster alle daghen,</l>
+                        <l>Men isser Gast of weert: hoe kan u dat behaghen?</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Hy heeft te schoonen Lant, wat May. Ist al vant mal </l>
+                        <pb ed="fol." n=" B4r"/>
+                        <l rend="speaker">May.</l>
+                        <l>Hy heeft weer crachtigh veel nacht-eters op zijn stal.</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Daer toe veel huysen schoon met kostelicke Zalen</l>
+                        <l rend="speaker">May.</l>
+                        <l>En die deurnagelt wel met vast en stijve palen</l>
+                        <l>Van sijne Schuldenaers. Ick weet het altemael.</l>
+                        <l>Ey swijght, ick weet hy is, ja als een Luys soo kael</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Ten kan niet wesen May: want die met hem verkeeren</l>
+                        <l>Zijn deghelicke lien, die hem oock steedes eeren.</l>
+                        <l>Daer toe van allen oock noch even seer bemint:</l>
+                        <l>’K meyn dat ghy qualick van hem onderrichtet bint.</l>
+                        <l>En waer hy op het Schip om achter uyt te varen,</l>
+                        <l>Seght, wie soud’ doch met hem langher willen vergaren?</l>
+                        <l rend="speaker">May.</l>
+                        <l>Ick wil niet twisten Roel: Ick segghe dat ick weet.</l>
+                        <l>Indien een ander wist, als ick doe, sijn secreet</l>
+                        <l>Men soud’ een ander klock van hem haest hooren luyen:</l>
+                        <l>Maer nu weet hy zijn gat noch all’sins in te kruyen.</l>
+                        <l>’K seggh’ hy is achter hol, en hout het soo bedeckt</l>
+                        <l>Dat hy met rijcke luyd’ noch menichmael wel gheckt.</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Ick sal van dees uyr aen mijn oogh int seyl eens houwen,</l>
+                        <l>En hoe daer haeck in steel staet, u daer naer ontfouwen.</l>
+                        <l rend="speaker">May.</l>
+                        <l>Ia wel: doet ghy soo Roel. Het is nu tijt dat ick</l>
+                        <l>Wat wacker henen ga, en mijn bootschap beschick.</l>
+                    </lg>
+                </div>
+                <div type="scene">
+                    <head rend="h3">Tweede Handelingh. Tweede wtkomst.</head>
+                    <stage>Roel.</stage>
+                    <lg type="poem">
+                        <l>Wat argher feecks is dat, ja wat een vuyle slingher?</l>
+                        <l>Of sout wel leughen zijn? Sy kant doch uyt haer vingher</l>
+                        <l>Niet suyghen altemael: Men scheldet noyt Koeblaer</l>
+                        <l>Ten waerder een’ghe smet, of swarte vleck aen waer</l>
+                        <l>Het is dan soo het is: het eynd’ sal de last draghen</l>
+                        <l>Die moetwilligh misdoet met recht wert die gheslaghen</l>
+                        <l>Indien hyt nu verslemt, vereet, verdrinckt, verklinckt</l>
+                        <l>Sijn vrouw van tentery en hoovaerdigheyt stinckt:</l>
+                        <l>Wanneer sy saem daer naer hongher en kommer lyden</l>
+                        <l>Moghen sy dencken eens om de voorgaende tijden.</l>
+                        <l>En soo sy met de krieck des Somers songhen // wel</l>
+                        <l>Tis recht, dats in ghebreck des Winters spronghen // wel.</l>
+                    </lg>
+                </div>
+                <div type="scene">
+                    <pb ed="fol." n=" B4v"/>
+                    <head rend="h3">Tweede Handelingh. Derde Uytkomste.</head>
+                    <stage>Vader des Huysghesins. Roel.</stage>
+                    <lg type="poem">
+                        <l>Wel Roel, mijn dunckt ght zijt al vrij al wat bestoven</l>
+                        <l>En van het sap des Druyfs, of Hoppen kracht bedoven</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Neen Heer: Ick quaem aen straet, mijn swagher vondt my daer</l>
+                        <l>Die wilde, dat ick eens tot hem soud’ komen naer</l>
+                        <l>Ick gingh, en dronck eenmael, dochwant daer and’re luyden</l>
+                        <l>Quamen, en ick niet wist wat het al mocht beduyden,</l>
+                        <l>Zeyd’ ick, dat ick niet meer of drincken kont of wouw</l>
+                        <l rend="speaker">Vader.</l>
+                        <l>Wy weten, Roel, ghy zijt engh als een Monicks mouw.</l>
+                        <l>Maer vry, gaet flucks naer huys, mijn Soon is aenghecomen</l>
+                        <l>Met ’t Schip van Calis af: Ick hebbe voorghenomen</l>
+                        <l>Met hem te spreken wat, op dat ick mach verstaen </l>
+                        <l>Hoet met zijn Studio in Vranckrijck is vergaen.</l>
+                        <l>Seght dat hy by my koom‘ want ick hem hier verwachte,</l>
+                        <l>Op dat ick, ‘tghene rest, ten uyteynde betrachte</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Maer is u Soon thuys, Heer ’kverwacht dan boden-broot</l>
+                        <l rend="speaker">Vader.</l>
+                        <l>Tis veer van lacchen, Roel: hier van hebt ghy gheen noot</l>
+                        <l>Tis al te laet: ghy slacht doch Kopjen met de Schollen</l>
+                        <l>Die op Paes-dagh na Noen de Vis-merckt quam vervollen</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Maer Heer, ’kheb uyt gheweest, en uwe saeck beschickt.</l>
+                        <l rend="speaker">Vader.</l>
+                        <l>Ia, soo dat ghy, my dunckt noch aen de brocken stickt</l>
+                        <l>Gaet Roel, gaet. </l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Heer ic ga: ’k meyn hy sal hier haest wesen:</l>
+                        <l>’K wed ick so schoon wel dien, dat ick nietb houf te vreesen,</l>
+                        <l>Of ick sal noch wel een veegh krijghen uyt de Pan</l>
+                        <l>Stil swijghent: En wat leyt dan daer oock yemant an.</l>
+                    </lg>
+                </div>
+                <div type="scene">
+                    <head rend="h3">Tweede Handelingh. Vierde wtkomst.</head>
+                    <stage>Vader des Huysghesins.</stage>
+                    <lg type="poem">
+                        <l>O Godt der Goden all’ eeuwigh Licht, Heer Almachtigh,</l>
+                        <l>Ghy die ja met een wenck beweeght de Berghen crachtich:</l>
+                        <l>De Zee oppruysschen doet: die oock na dijnen wil</l>
+                        <l>Haer pruysschen laet terstont, vlack sijnde ende stil. </l>
+                        <pb ed="fol." n=" C1r"/>
+                        <l>Hoe dickwils hebt ghy my, doch vaderlijck, gheslaghen,</l>
+                        <l>Eer ick ghekomen ben tot dese oude daghen!</l>
+                        <l>Doch weder opghericht mijn hert, siel, en ghemoet</l>
+                        <l>Twelck door de cracht dijns toorns lagh als onder de voet.</l>
+                        <l>Wilt my doch wijders, door dijn Barmherticheyt ionnen,</l>
+                        <l>Dat werck ’twelck ghy in my soo trouw lijck hebt begonnen,</l>
+                        <l>Ende tot noch toe op ghehouden en betracht,</l>
+                        <l>Tot uwer eer ten eynd’ volcoom’lick werdt volbracht.</l>
+                        <l>’Tis waer, ick hebb’ verdient dickwils van u verstooten</l>
+                        <l>Te sijn: wilt my daerom doch nimmermeer ontblooten</l>
+                        <l>Van dijn ghenaed’ en gheest, die my mach zijn een licht</l>
+                        <l>Daer naer ick mijnen voet recht set, en kind’ren sticht.</l>
+                        <l>Wanneer ick was in noot, verdriet, ancxt en beswaren,</l>
+                        <l>En ick met een gemoet verslaghen, gingh verklaren</l>
+                        <l>V al mijn swaricheyt, en mijns herten secreet</l>
+                        <l>(Niet dat ghy die O Heer niet van te vooren weet</l>
+                        <l>Maer als een Dienaer slecht, ende der sonden slave</l>
+                        <l>My voor uw’ Majesteyt totter aerden begave)</l>
+                        <l>Vergaeft ghy niet aleen mijn sonden int gemeen,</l>
+                        <l>Maer recht weder om op selfs mijne trage leen.</l>
+                        <l>Wanneer ick ben gehoort, en verhoort in mijn klaghen</l>
+                        <l>En niet was danckbaer recht, hebt ghy my niet gheslaghen</l>
+                        <l>Naer mijn verdiensten, Heer: maer hebt voorby ghesien</l>
+                        <l>De swackheyt mijnes vleeschs. O Heer laet het gheschien</l>
+                        <l>Alles tot dyner eer, tot Salicheyt en vrede</l>
+                        <l>Van my, die ben u Knecht: en van mijn Kind’ren mede:</l>
+                        <l>Op dat mijns levens eynt ’tbegin der eeuw’gher vreught</l>
+                        <l>Sy: en mijn kind’ren oock voortgaen van deught tot deught.</l>
+                    </lg>
+                </div>
+                <div type="scene">
+                    <head rend="h3">Tweede Handelingh. Vijfde wtkomst.</head>
+                    <stage>Vader des Huysghesins. II. Zone.</stage>
+                    <lg type="poem">
+                        <l rend="speaker">Zone.</l>
+                        <l>Wat ist Heer Vader, dat ghy my tot u liet komen?</l>
+                        <l>Of hebt ghy, my yet wes te vraghen, voorghenomen?</l>
+                        <l>Hier ben ick, dy bereyt: met soo secreet int hert</l>
+                        <l>Twelck u na waerheyt niet gheopenbaert en wert</l>
+                        <pb ed="fol." n=" C1v"/>
+                        <l rend="speaker">Vader.</l>
+                        <l>Ia Soon, ick heb soo veel te vraghen en te segghen:</l>
+                        <l>Maer ick en salt niet all’ naer noot, kunnen uytlegghen.</l>
+                        <l>Doch dit ten princepael. Hebt ghy oock, dat ghy weet</l>
+                        <l>V tijt ten meesten nut en oorbar wel besteedt?</l>
+                        <l>Dewijl ghy hebt van hier verkeert in vreemde landen,</l>
+                        <l>Sijnde gelijck als los uyt mijn uws Vaders banden.</l>
+                        <l rend="speaker">Zone.</l>
+                        <l>Hier op en heb ick doch een woort t’antwoorden niet</l>
+                        <l>Voor dat ghy de waerheyt selfs inder daet en siet</l>
+                        <l>Want eyghen lof die stinckt, heb ick hooren verhalen</l>
+                        <l>Dick in mijns Moeders, en inde Latijnsche talen.</l>
+                        <l>En ’tis de beste waer, die daer haer selven prijst:</l>
+                        <l>Ia, daer het werck oock selfs zijns Meesters kunst aenwijst</l>
+                        <l>Maer, dat mocht langhe sijn. Ick sal u hier verthoonen</l>
+                        <l>Der Professoren hant, dien zy tot mijn verschoonen</l>
+                        <l>Rechtveerdelijck hebben, niet doorgheschenck, vereert, </l>
+                        <l>Zijnde volcomen een Iurist ghepromoveert.</l>
+                        <l>Wat mijn Comportement aengaet, sult ghy in desen</l>
+                        <l>Naer waerheyt, so ick meijn, mede wel kunnen lesen.</l>
+                        <l rend="speaker">Vader.</l>
+                        <l>Ick heb veel sorgen, Soon, en kosten uytghestaen,</l>
+                        <l>Selfs van die uyr dat ghy ter school eerst zijt ghegaen.</l>
+                        <l>Ghedronghen door veel spijts van Clappers en clappeijen</l>
+                        <l>Die door onwetenheyts teughel meynden te leyen</l>
+                        <l>My buyten dit mijn spoor, op dat ick minder kreegh</l>
+                        <l>De Victory vant wit, daer ick krachtigh naer steegh. </l>
+                        <l>D’een seyd’, Ick soud’ u dit: d’ander, dat hantwerck leeren</l>
+                        <l>Op dat ghy winnen mocht in plaets van ghelt verteeren:</l>
+                        <l>En dat ghy na mijn doot veel goederen met rust,</l>
+                        <l>Besitten mocht na wensch’ en uwes herten lust.</l>
+                        <l rend="speaker">Sone.</l>
+                        <l>Tis al van outs geweest: dat, die gheen konsten wisten,</l>
+                        <l>Den wijsen achten als of mens’ aen de want pisten.</l>
+                        <l>Wat isser beter goet, en sekerder dan dit</l>
+                        <l>Twelckmen gantsch buyten sorgh in sekerheyt besit?</l>
+                        <l>Dits Vader soo een goet, dat ghy my niet kont geven</l>
+                        <l>Twelck costelicker is, of grooter in dit leven</l>
+                        <l>Want de geleertheyt doet, als <hi rend="i">Cicero</hi> verclaert,</l>
+                        <l>Dat wy over al zijn teghenwoordigh, al waert</l>
+                        <l>Dat wy oock mijlen veel absent waren woonachtigh.</l>
+                        <l>Doot zijnde, is men ons’ als levendigh ghedachtich.</l>
+                        <pb ed="fol." n=" C2r"/>
+                        <l>Dees´ kan ons werden noyt door ghewelt ofte list</l>
+                        <l>Ontrocken, schoon yemant duysent pracktijcken wist.</l>
+                        <l>Gheen des Zees golven stuer, hoe hoogh en diep sy jaghen</l>
+                        <l>Yemant dit vaste goet wy oyt ontnemen saghen.</l>
+                        <l>Hoe fel den Brant schiet op het al verterent vuyr</l>
+                        <l>Theeft noyt yemant dit goet ontnomen t’ een’gher uyr.</l>
+                        <l>Schoon hoe veranderlick dat selfs zijn alle tijden,</l>
+                        <l>Dit goet allen blijft vast, kan geen verand’ringh lijden.</l>
+                        <l>Dit goet den mensch soo vast in sijnen boesem leyt</l>
+                        <l>Dat het wel door de doot, maer niet eer van hem scheyt.</l>
+                        <l>Dit is een Teer-ghelt vast, twelck u niet kan beswaren,</l>
+                        <l>Schoon dat ghyt mijlen veel met u droeght duysent Iaren:</l>
+                        <l>Tis als <hi rend="i">Erasmus</hi> seyt, den Rijcken een cieraet:</l>
+                        <l>Een peerle in een Ringh die schoon en heerlick staet.</l>
+                        <l>Het is soodanigh goet, ’twelck waerlick goet mach heten:</l>
+                        <l>Want het in teghenspoet de droefheyt doet vergheten.</l>
+                        <l><hi rend="i">Bias</hi> sagh, dat sijn stadt deur ’tvyer werde
+                            verteert,</l>
+                        <l>Vluchtende, riep hy, dat hyt ontquam onverseert:</l>
+                        <l>En schoon dat hy was naeckt als van Moeder ghebooren,</l>
+                        <l>Seyt hy: ’k en hebbe niet, ja niet heb ick verlooren:</l>
+                        <l>Want hy dit vaste goet onverseert by hem droegh:</l>
+                        <l>Soo dat hy op gheen goet anders een mijt acht sloegh.</l>
+                        <l>Als <hi rend="i">Stilpo</hi> was vervolght, verjaeght van sijn
+                            vyanden</l>
+                        <l>Wt al sijn goet en haef veer was in vreemde landen:</l>
+                        <l>Van zijn kindren ontbloot, oock selfs van zijn huysvrouw</l>
+                        <l>Over al dit verlies draeght hy soo weynich rouw,</l>
+                        <l>Dat hy <hi rend="i">Demetrio</hi> blyhertigh gingh verhalen,</l>
+                        <l>Dat hy doch niets was quijt, maer dat hyt al te malen </l>
+                        <l>Behouden hadt: en sagh alleen maer op dit goet,</l>
+                        <l>Waer voor ick God en u mijn Vader dancken moet.</l>
+                        <l rend="speaker">Vader.</l>
+                        <l>Ick ben ghekomen zoon, nu tot dees oude daghen</l>
+                        <l>En noyt mijn Ooghen ick dus verr’ hebbe gheslaghen.</l>
+                        <l>Maer ghy hebt wijsheyt voor. Wel dien die God gheleyt</l>
+                        <l>In een voornemen goet tot zijns naems eerlicheyt</l>
+                        <l rend="speaker">Zone.</l>
+                        <l>Wat is dan Vader, ’twit waer op ghy eerstmael ooghden</l>
+                        <l>Met my: en soo met lust steden met vreughden pooghden?</l>
+                        <l>Hadt ghy yet anders voor? was het wat anders dat </l>
+                        <l>De hoop in mijn persoon u herte steedts besat </l>
+                        <pb ed="fol." n=" C2v"/>
+                        <l rend="speaker">Vader.</l>
+                        <l>Niet anders, dan dat ghy tot eeren mocht gheraken</l>
+                        <l>’sLants voordeel vord’ren, en der Borg’ren goede seacken.</l>
+                        <l>En soo ick van dees’ hoop in u versteken bleef</l>
+                        <l>Voor al u wijsheyt ick niet eene mijt en gheef.</l>
+                        <l rend="speaker">Sone.</l>
+                        <l>Neen Vader: weest gherust. Schoon dat ick moste derven </l>
+                        <l>Oock aller menschen gunst: Ia duysent dooden sterven</l>
+                        <l>Sal ick bevordren dat ’s Lants voordeel wert betracht,</l>
+                        <l>Ende der Armen recht, hoe kleyn men die oock acht.</l>
+                        <l rend="speaker">Vader.</l>
+                        <l>Soo laet u dan mijn Soon, door gaven niet bekooren,</l>
+                        <l>Daer in veel menschen doch trouw’loos’lick in versmooren.</l>
+                        <l>Niemants Tafel geniet, waer door ghy dan verkoopt</l>
+                        <l>V vryheyt: en tot quaet te doen dickwils verknoopt.</l>
+                        <l>Neemt gheen gheschencken aen, waer door ghy de quaed’ saken</l>
+                        <l>Der quaden recht, soeckt, en der goen recht quaet te maken.</l>
+                        <l>Dat des Pluymstrijckers stem u niet int herte sinckt,</l>
+                        <l>Die u verstrickt, wanneer hy op sijn oorbaer dinckt.</l>
+                        <l>En wat dies meerder is, wilt van den ouden leren:</l>
+                        <l>Wat dier de mensche is leertmen uyt converseren.</l>
+                        <l rend="speaker">Sone.</l>
+                        <l>Soo ick voor dees’ altijt, Vader dijn stem ghehoort,</l>
+                        <l>En noyt heb in cleynacht ghenomen eenigh woort,</l>
+                        <l>Soo sal ick oock dees’ leer ghetrouwelicken vaten:</l>
+                        <l>En wat meer wert vereyscht, my onderwijsen laten.</l>
+                        <l rend="speaker">Vader.</l>
+                        <l>Wel gaen wy dan: misschien u broer is g’comen nu</l>
+                        <l>Dien ick verwachten oock immer soo haest als u.</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="act">
+                <div type="scene">
+                    <head rend="h3">Derde Handelingh. Eerste wtkomst.</head>
+                    <stage>Roel. May.</stage>
+                    <lg type="poem">
+                        <l rend="speaker">Roel.</l>
+                        <l>Wat docht u flus al. May? hoe danst en doen de Poppen,</l>
+                        <l>Doen Ioffrouw met een voet u wou ter deur uyt schoppen?</l>
+                        <l>Tgingh der van kanten fray: tgat wou op schijven // gaen.</l>
+                        <l>Mijn docht ghy wijcken most: kont ghy niet blijven // staen?</l>
+                        <l rend="speaker">May.</l>
+                        <l>Twasser niet eens soo druck: ’thad een vijgh te beduyden.</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Mijn docht, sy u nochtans wel crachtelijck uyt luyden.</l>
+                        <l rend="speaker">May.</l>
+                        <l>Twas maer een misverstant. Hoe wel ick had ghelijck</l>
+                        <l>Om datse me Vrouw is daerom alleen ick wijck</l>
+                        <pb ed="fol." n=" C3r"/>
+                        <l rend="speaker">Roel.</l>
+                        <l>Tlieper hol af. Ghy most deur kneuckelen bosch springhen,</l>
+                        <l>En etende vuyst-loock. noch al placebo singhen.</l>
+                        <l rend="speaker">May.</l>
+                        <l>’K segh ’tis onwaerheyt Roel: s’ heeft my niet aengheraeckt.</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Ghy weet nochtans wel May, hoe dat haer stock-visch smaeckt.</l>
+                        <l>Ghy most uw’ Vrouw, als ick mijn Heer doe, sachtkens streelen:</l>
+                        <l>Segghende Aep, wat sijn uw’ Iongen schoon: en spelen</l>
+                        <l>Ondertusschen moy weer: en leeren soo hupsch gaen</l>
+                        <l>Met thoutjen om het Kalf: dan sult ghy altijdt staen</l>
+                        <l>Int witte bladt, en sijn tbeste kindt uytghelesen,</l>
+                        <l>Want sotten, weet ghy sijn altijt gheerne ghepresen.</l>
+                        <l rend="speaker">May.</l>
+                        <l>Twil soo niet woutren Roel. Ick heb het wel besocht,</l>
+                        <l>Want ick hebt wel soo veer met schoon praten ghebrocht. </l>
+                        <l>Dat wy als Ey en Koeck d’een d’ander soet aensaghen:</l>
+                        <l>Maer als de buy quam an, warent weer nieuwe vlaghen</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Ick keuijert anders. May: want ick ende mijn Heer</l>
+                        <l>Zijn altijt wel te vreen, en twisten nimmermeer,</l>
+                        <l rend="speaker">May.</l>
+                        <l>Hoe na sout ghy wel Roel: jou wijsheyt dat toe schrijven?</l>
+                        <l>Maer loopt soo doch niet wegh, wilt noch een weynigh blijven.</l>
+                        <l>Hoe ist u Swagher al? Vet tot den bodem toe?</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Tis maer slecht vleeschken, en noch van een ouwe Koe.</l>
+                        <l rend="speaker">May.</l>
+                        <l>Ia soo! wist ick het niet! Ick seyt wel van te vooren;</l>
+                        <l>Altijdt smeertmer, en de Verckens loopen int kooren.</l>
+                    </lg>
+                </div>
+                <div type="scene">
+                    <head rend="h3">Derde Handelingh. Tweede wtkomst.</head>
+                    <stage>Roel.</stage>
+                    <lg type="poem">
+                        <l>Wat docht u van ons May? Soo haest en sey ’k haer niet</l>
+                        <l>Haer leet, sy daedlick my dit in mijn boesem stiet.</l>
+                        <l>Maer tis gheen swaricheydt: die hem uyt helpen soppen,</l>
+                        <l>Die moghen nu den sack samen weer helpen stoppen.</l>
+                        <l>Mijn Swagher was (tis wat) wat meer dan ick ghesien,</l>
+                        <l>Hy deed’ wat Cramerij, ick diend’ de goede lien.</l>
+                        <l>Mijn Suster meynde, tkond’ sijn leven niet opkomen:</l>
+                        <l>Maer ’kmeyn sy heeft nu al een ander weer vernomen.</l>
+                        <l>Men heefter nu dus langh de eene sack ghelapt</l>
+                        <l>Met d’ander. Teene vat op t ander uytghetapt:</l>
+                        <pb ed="fol." n=" C3v"/>
+                        <l>Om datmen den bierwisch soo seer heeft uyt gesteecken, </l>
+                        <l>Hebben de schuldenaers niet een woort derven spreken.</l>
+                        <l>Maer wat salt wesen haest? Opt ’tvaetjen niet dan gest,</l>
+                        <l>En ’tknorren van het Swijn twelck sijnen buerman mest.</l>
+                    </lg>
+                </div>
+                <div type="scene">
+                    <head rend="h3">Derde Handelingh. Derde wtkomst.</head>
+                    <stage>Moeder des Huysghesins. Roel.</stage>
+                    <lg type="poem">
+                        <l rend="speaker">Moeder</l>
+                        <l>Roel, hebt ghy onse Meyt hier ontrent niet vernomen?</l>
+                        <l>Ick hebb’ haer soo van doen: ’k weet haer niet te bekomen.</l>
+                        <l>Mijn Outste zoon die komt daer thuys uyt Enghelant:</l>
+                        <l>Ick wenschste, dat sy twerck wat dede aen deen kant.</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Begheert gy Vrouw dat ick na haer eens om ga vraghen?</l>
+                        <l>Misschien sy hier of daer wat heen mach sijn gaen draghen.</l>
+                        <l rend="speaker">Moeder</l>
+                        <l>Ia, loopt vry Roel, en looft u voeten een paer schoen:</l>
+                        <l>En als ghy haer dan hebt, seght dat sy haer wilt spoen:</l>
+                        <l>Want ick heb niet ghekoockt: tis alles van sijn stede:</l>
+                        <l>Indien ’t mijn man oock wist hy waer niet wel te vrede.</l>
+                        <l>En soo ghy haer niet en kunt vinden hier of daer</l>
+                        <l>Soo haest u dan vry wat, comt ghy in plaets van haer.</l>
+                    </lg>
+                </div>
+                <div type="scene">
+                    <head rend="h3">Derde Handelingh. Vierde wtkomst.</head>
+                    <stage>Moeder des Huysghesins.</stage>
+                    <lg type="poem">
+                        <l>Ist niet een byster werck, dat mijne Meyt haer praten</l>
+                        <l>Om niemants will’, oock watmen seyt, niet en kan laten.</l>
+                        <l>Wanneermen slapen sal, of aen de Tafel gaen</l>
+                        <l>Soo is sy d’eerste, en blijft nieuwers praten staen.</l>
+                        <l>Maer alst van nood’ is datmen d’hant steeckt uyt de mouwe,</l>
+                        <l>Waert wel van nood’ dat ick het werck alleen doen souwe.</l>
+                        <l>’K en dorst niet segghen, als Roel teghenwoordigh was:</l>
+                        <l>Sy houden ’tbeyd’ met een, en treden eenen pas.</l>
+                        <l>Wat den eenen gheschiet, moet d’ander terstont weten:</l>
+                        <l>Wat d’ander niet en knauwt, den eenen niet sal eten. </l>
+                        <pb ed="fol." n=" C4r"/>
+                        <l>Als ick het segghen sal. Wat isser toe te doen</l>
+                        <l>Zy steken tsamen haer hoofden in een Caproen.</l>
+                        <l>Soo dat ick om en om, waer ick my wend of keere,</l>
+                        <l>Niet anders vinden kan dan verdriet en hert zeere.</l>
+                        <l>Mijn Man heeft noch vermaeck, en schept noch vreuchde soet</l>
+                        <l>Int wel-leven en deught tot sijn Sonens voorspoet</l>
+                        <l>En ’tzijn doch Sonen al: wat kunnen my die wesen</l>
+                        <l>Tot mijnes herten lust, ofte behulp in desen?</l>
+                        <l>Zoo God my had vetleent een Dochter, mijns ghelijck,</l>
+                        <l>Ick meyn niemant en soud’ met my sijn even rijck.</l>
+                        <l>Ick soud’ mijn huys alleen met haer kunnen ophouwen,</l>
+                        <l>’Kwedd’ gheen Meysens mijn Karr’ langer beschijten souwen.</l>
+                        <l>Indien men is te vreen, men wert door haer ontstelt:</l>
+                        <l>En daer voor gheeftmen haer tgansche Iaer kost en ghelt.</l>
+                        <l>En soomen wat secreets heeft in zijn huys verborghen</l>
+                        <l>Dat het niet door de Meyt ontdeckt werdt moetmen sorghen.</l>
+                    </lg>
+                </div>
+                <div type="scene">
+                    <head rend="h3">Derde Handelingh. Vijfde wtkomst.</head>
+                    <stage>Vader ende Moeder des Huysghesins. I Zone.</stage>
+                    <lg type="poem">
+                        <l rend="speaker">Vader.</l>
+                        <l>Vrouwe, de Meyt heeft my terstont naer u ghevraeght</l>
+                        <l rend="speaker">Moeder</l>
+                        <l>Ick werd’ van eene Meyt mijn deel toch wel geplaeght.</l>
+                        <l>Ick heb haer hier en daer, thuys en langhs all’ de straten</l>
+                        <l>Ghesocht en vind’ haer niet.</l>
+                        <l rend="speaker">Vader.</l>
+                        <l>Ick sagh haer schueren vaten.</l>
+                        <l>Veer achter in een hoeck: Daerom weest doch te vreen:</l>
+                        <l>Men kijft somtijts doch wel, en men heeft weynigh reen</l>
+                        <l>Ey, wilt naer huys toe gaen, en haer naer u vermoghen</l>
+                        <l>Beschicken noch een hulp, die haer mach helpen drooghen</l>
+                        <l>De vaten: op dat sy wat anders neem ter hant,</l>
+                        <l>En twerck soo metter haest eens raecke aen d’ een kant.</l>
+                        <l rend="speaker">Moeder</l>
+                        <l>Neen lieve Man: men most hier so niet menagieren,</l>
+                        <l>Kap en Covel soudmen soo in sijn huys verteeren.</l>
+                        <l>Gheen schadelicker tuygh, ick bid ghelooves mijn, </l>
+                        <l>Dan de voetsolen van de Dorpel-maeghden zijn.</l>
+                        <l rend="speaker">Vader.</l>
+                        <l>Wel gaet ghy dan naer huys, en maeckt het selfs te deghen,</l>
+                        <l>Want yemant moet de vloer, ghy, of een ander veghen.</l>
+                    </lg>
+                </div>
+                <div type="scene">
+                    <pb ed="fol." n=" C4v"/>
+                    <head rend="h3">Derde Handelingh. Eerste wtkomst.</head>
+                    <stage>Vader des Huysghensins. Outste Zone.</stage>
+                    <lg type="poem">
+                        <l rend="speaker">Vader.</l>
+                        <l>’Khebb’ menichmael ghehoort, datter geen meerder smert</l>
+                        <l>Of droefheyt rijsen kan in een Vaderlick hert.</l>
+                        <l>Dan dat sijn Sonen of Dochters van hem gebooren</l>
+                        <l>Niet luyst’ren na sijn stem: zijn raet niet willen hooren</l>
+                        <l>Waer door het dan gheschiet, dat sy als scheps’len loos,</l>
+                        <l>Gantsch overgeven sijn haer eyghen sinnen boos.</l>
+                        <l>Datmen in’t teghendeel gheen meer vreught kan bedincken,</l>
+                        <l>Of in eens Vaders hert nimmermeer sach insincken,</l>
+                        <l>Dan dat hy selver vroom en Godtvruchtigh zijn zaet</l>
+                        <l>Wt hem ghebooren, siet navolghen inder daet</l>
+                        <l>Zijne gantsch heyligh en Godvruchtighe voetpaden:</l>
+                        <l>Waer door sy dan Gods Gheest en zeghen op haer laden</l>
+                        <l>Ick hebb‛ so nu so dan wel swaricheyt gehadt</l>
+                        <l>Soo dat ick als mijn Siel in droefheyt groot besat,</l>
+                        <l>Maer tswaerste heb ick dan, twelck alles gaet te boven,</l>
+                        <l>Noch niet ghesmaeckt: waer voor ick Godt dancklick moet loven:</l>
+                        <l>En bidden, dat ick mach vreught in mijn kind’ren sien,</l>
+                        <l>Op dat al wat sy doen, mach ‘tsijner eer gheschien.</l>
+                        <l rend="speaker">I.Zone.</l>
+                        <l>Och Vader: Godt de Heer, wil u en ons dat gheven,</l>
+                        <l>In wien wy alle ooc tsaem leven ende sweven.</l>
+                        <l rend="speaker">Vader.</l>
+                        <l>Ghy weet hoe meen’gen sucht ick haeld’ uyt thert wel diep:</l>
+                        <l>Ick weet, hoe meen’ghen nacht van sorgh ick noyt en sliep.</l>
+                        <l>Ghy weet wat kosten groot ick aen u heb ghehanghen:</l>
+                        <l>’Tis my doch alles niet, wanneer ick mach erlanghen</l>
+                        <l>In mijnen ouden dagh die vreught aen u te sien,</l>
+                        <l>Dat Gods ghemeynt en kerck veel vruchts noch mach geschien</l>
+                        <l>Doort hooren van Gods woort, vloeyend’ uyt uwen monde:</l>
+                        <l>En door u leven reyn, voor d’menschen tallen stonde.</l>
+                        <l rend="speaker">I Zone.</l>
+                        <l>’Khoop Vader ghy sult noyt berooft zijn van uw’ hoop:</l>
+                        <l>Want ick met u naer een Godsaligh eynde loop</l>
+                        <l rend="speaker">Vader.</l>
+                        <l>Meerder en wensch ick niet. V een voorschrift te gheven</l>
+                        <l>Int snijden van Gods woort, ben ick niet in bedreven.</l>
+                        <l>Dat hoop ick, hebt ghy in Gods woort bevonden // wel</l>
+                        <pb ed="fol." n=" D1r"/>
+                        <l>Door hem, die u leerden dat tallen stonden // wel.</l>
+                        <l>Alleen is dit mijn wil, mijn wenschen en begheeren,</l>
+                        <l>Dat hoe ghy hooger zijt, u meerder sult verneeren:</l>
+                        <l>Want wie Gods waerheyt leert, soeckende werelts eer,</l>
+                        <l>Die bouwt met d’eene hant met d’ander smijt ter neer</l>
+                        <l>Schoon dat ghy leeraers veel saeght in gaen quade weghen,</l>
+                        <l>Volcht ghy alleen het padt Christi uws hoofts te degen</l>
+                        <l>Die niet gesocht en heeft hoocheyt of werelts staet:</l>
+                        <l>Maer die veel eer van hem weghen ter neder slaet.</l>
+                        <l>Leert van hem, dat hy is sachtmoedigh en ootmoedich:</l>
+                        <l>Onnoosel als een Lam in all’ zijn doen rechtgoedich.</l>
+                        <l>Weest geen uytnemer dan van yemans hooch persoon:</l>
+                        <l>Stelt u voor die arm is, soo wel als rijck ten toon.</l>
+                        <l>Weest gheen liefhebber van des werelts potentaten,</l>
+                        <l>Soo dat ghy tslechte volck g’lijck als sout varen laten.</l>
+                        <l>En toont, dat ghy perfeckt in leven zijt en leer,</l>
+                        <l>Op dat ghy Sielen soo meught winnen dies te meer.</l>
+                        <l rend="speaker">I. Zone.</l>
+                        <l>Tot t’een en t’ander, hoop ick sal my Godt verleenen</l>
+                        <l>Sijn genade en gheest.</l>
+                        <l rend="speaker">Vader.</l>
+                        <l>Soo wilt u dan vercleenen</l>
+                        <l>Onder de macht’ge handt van Godt, ons Heer ghevreest</l>
+                        <l>Die u in al u doen wil leyden met sijn Gheest.</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="act">
+                <div type="scene">
+                    <head rend="h3">Vierde Handelingh. Eerste wtkomst.</head>
+                    <stage>May. Roel.</stage>
+                    <lg type="poem">
+                        <l rend="speaker">May.</l>
+                        <l>Maer Roel, wat docht u flus, mocht Iuffrouw niet wel beeren,</l>
+                        <l>Doen sy my soecken liep, en meynden af te smeeren?</l>
+                        <l>Maer ick meyn, dat sy stont, en keeck siet op haer neus</l>
+                        <l>Suyverlick als een groen en wel bekroosde geus.</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Nu hebt ghy vijf voor, May wanneer sy wat wil segghen</l>
+                        <l>Kunt ghy haer kijven daer fray mede wederlegghen.</l>
+                        <l rend="speaker">May.</l>
+                        <l>Dat heb ick oock ghedacht. Wat is mijn Heer verheucht</l>
+                        <l>En of doch wel een eynd’ sal hebben sijne vreucht?</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Seght, waerom: Om dat sijn Sonen sijn thuys ghekomen?</l>
+                        <l>Ey lieff toch: grooter vreucht heeft wel een eynd ghenomen?</l>
+                        <l>Ick heb doch wel ghehoort, waer vreught is binnen deur</l>
+                        <pb ed="fol." n=" D1v"/>
+                        <l rend="speaker">May.</l>
+                        <l>Dat daer wel droefheyt is naby, ja dicht daer veur.</l>
+                        <l>Dats waer. De Ionghste mocht noch wel het haentjen wesen</l>
+                        <l>Een Conincxken onder veel Byekens soet ghepresen</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Ia soo; hy gaet vast leegh, en speelt al vry moy weer</l>
+                        <l>En drinct oock wel, al weet het juyst oock niet mijn Heer.</l>
+                        <l rend="speaker">May.</l>
+                        <l>Hy is soo wipsch, soo tipsch; soo los, so flos van sinnen</l>
+                        <l>K’ en weet int eynd’ niet wat men met hem sal beginnen.</l>
+                        <l>Maer ’kbid u Roel, laet ons doch hier voor sorghen niet;</l>
+                        <l>Hebben s’alleen de vreught, laets’ hebben oock ’tverdriet.</l>
+                    </lg>
+                </div>
+                <div type="scene">
+                    <head rend="h3">Vierde Handelingh. Tweede wtkomst.</head>
+                    <stage>Roel. May. Vader des Huysghesins. Outste Sone. Middelste Sone.</stage>
+                    <lg type="poem">
+                        <l rend="speaker">Vader.</l>
+                        <l>Gaet May besorght de Pot, en wilt de Tafel decken:</l>
+                        <l>Gaet voort, mijn dunckt ghy oock met my noch wel sout gecken.</l>
+                        <l>Gaet ghy oock henen Roel, en seght mijn Ionghsten Soon,</l>
+                        <l>Dat hy soo haest hy kan hem by ons hier verthoon.</l>
+                        <l>Tis wonder wat de Knechts en Meysens al te praten </l>
+                        <l>Hebben; oock waer sy sijn in huys ofte op de straten.</l>
+                        <l>Ziet Kinderen dewijl wy tsaem hier sijn by een,</l>
+                        <l>Zoo verclaer ick, dat ick over u, so ick meen</l>
+                        <l>Wel mach afleggen al mijn Vaderlicke sorghen</l>
+                        <l>Die ick over u droegh stedes, heden en morghen.</l>
+                        <l>Naer dien ghy beyde hebt waer van ghy leven meucht;</l>
+                        <l>Wanneer ghy rechts u schickt soo het betaemt tot deught.</l>
+                        <l rend="speaker">I.Sone.</l>
+                        <l>Ick hoop Godt sal ons voorts wijders nu wel beraden</l>
+                        <l>En leyden na zijn woort op zijn heylighe paden.</l>
+                        <l rend="speaker">II.Sone.</l>
+                        <l>Die ons in al het gheen wy nemen by der hant</l>
+                        <l>Zijn zeghen geven wil, zijn raet, hulp en Bystant.</l>
+                        <l rend="speaker">Vader.</l>
+                        <l>Maer dit dient noch gheseyt. Dewijl u last om draghen</l>
+                        <l>Sal wesen wonder swaer, dien ghy sult t’allen dagen</l>
+                        <l>Van ’smorghens dat de Son uyt den Oceaen stijght</l>
+                        <l>Tot datse savonts in den natten Boesem sijght,</l>
+                        <l>Te voeren hebben uyt. D’een om Gods Kerck te bouwen:</l>
+                        <l>Gebouwt, met aller vlijt oock wel by een te houwen.</l>
+                        <pb ed="fol." n=" D2r"/>
+                        <l>D’ander, om wijselick te dienen ’tVaderlant</l>
+                        <l>Met goe voorsichticheyt, rijpen raet, en verstant.</l>
+                        <l>Weduwen en Weesen te vorderen: de saecken </l>
+                        <l>Der Armen rechten goet tot een goet eynt te maecken.</l>
+                        <l>Den quaden straffen, en den goeden spreecken vry.</l>
+                        <l>Dat yder een van u doch stedes blijve by</l>
+                        <l>’Tberoep het welck u is van Gode hier gegheven,</l>
+                        <l>Op dat ghy’t in een goet conscienty meught beleven.</l>
+                        <l rend="speaker">I.Sone.</l>
+                        <l>Hier segh ick Amen toe, en sal u woort en Leer,</l>
+                        <l>Tot mijnes levens eynt vergheten nimmermeer.</l>
+                        <l rend="speaker">II Sone.</l>
+                        <l>Soo langh mijn Siel oock sal in’t Lichaem spelen crachtigh</l>
+                        <l>Sal ick mijns Vaders woort hier in oock zijn ghedachtigh.</l>
+                        <l rend="speaker">Vader.</l>
+                        <l>Nu dan tot een besluyt: Wanneer ghy dan door minn’</l>
+                        <l>Te trouwen een huysvrouw. mocht nemen in den sinn’</l>
+                        <l>Siet wien ghy neemt ter hant; op dat gh’in gheen onlusten</l>
+                        <l>Valt, als ghy meynt te gaen door ’thouwelick tot rusten.</l>
+                        <l>Want soot’ een Vader is moeyt, ja p’rijckel gewis</l>
+                        <l>Zijn Soon te brengen op tot dat hy mann’lick is;</l>
+                        <l>Zoo ist een Manbaer Soon perijckel ja noch meere</l>
+                        <l>Eer dat hy krijght een Vrouw waer over hy is Heere</l>
+                        <l>Wanneer ghy dan nu sijt door’t houwelick ghepaert</l>
+                        <l>En uwen echt na recht kuysch en eerlick bewaert</l>
+                        <l>Zoo laet uw’ Vrouwe ’thaer; wilt ghy het u betrachten</l>
+                        <l>En voorts in al u doen den Zeghen Godts verwachten.</l>
+                        <l>Weest Heer, en heerscht doch niet over uw Vrouwen vleesch,</l>
+                        <l>Op dats’ uyt minne u diene, en niet door vrees.</l>
+                        <l>Ghy die daer zijt gestelt Gods kerck doort woort te stichten</l>
+                        <l>Ende met heylicheyt des levens voor te lichten, </l>
+                        <l>Laet niet u Vrouw dijn Raet sijn in des Kercks secreet</l>
+                        <l>Want een Vrouwe licht heelt tgheen dat sy niet en weet</l>
+                        <l>En ghy die daer ’tsecreet vant Lant sult moeten draghen</l>
+                        <l>Wilt oock over dat stuck dijn Huysvrouw gheen raet vraghen</l>
+                        <l>Want het voeght de Weerdin, te gaen over den heert</l>
+                        <l>Maer wat daer buyten is, dat past alleen den Weert.</l>
+                        <l>En wat mach doch mijn Soon u Broeder soo langh dralen</l>
+                        <l>Dien ick al over langh door den knecht dede halen.</l>
+                        <l rend="speaker">I. Sone.</l>
+                        <l>Misschien hy hier of daer erghens is uytghegaen</l>
+                        <l>Soo dat hy uyt den knecht u wil noyt heeft verstaen</l>
+                    </lg>
+                </div>
+                <div type="scene">
+                    <pb ed="fol." n=" D2v"/>
+                    <head rend="h3">Vierde Handelingh. Derde wtkomst.</head>
+                    <stage>Roel. Vader des huysghesins. Outste Sone. Middelste Sone.</stage>
+                    <lg type="poem">
+                        <l rend="speaker">Roel.</l>
+                        <l>Maer Heer, ick heb gesocht thuys ende aller weghen</l>
+                        <l>Maer heb hem nerghens doch, noch hier noch daer gekregen.</l>
+                        <l rend="speaker">Vader.</l>
+                        <l>En hebt ghy wijders niet yemant naer hem ghevraeght</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Neen: Maer ons’ meyt die seyd‘ hy was ’smorghens verdaeght</l>
+                        <l>Van sijn ghesellen, om met hen ter jacht te rijden.</l>
+                        <l rend="speaker">Vader.</l>
+                        <l>Maer dit past ymmers niet: dit kan ick doch niet lijden.</l>
+                        <l>En wat bescheyt is dat! Soo sonder eenigh woort</l>
+                        <l>Of weten? ’k waen het is sijn daghen noyt ghehoort.</l>
+                        <l rend="speaker">II Sone.</l>
+                        <l>Maer Vader weest te vreen: de meyt misschien kan falen.</l>
+                        <l>Door ’tgheen men van ter zijd’ hoortmen, wel licht kan dwalen.</l>
+                        <l>Wanneer ick niet en ben ghewisch in eenigh saeck</l>
+                        <l>Ick vreuchde of droefheyt nimmermeer in en maeck.</l>
+                        <l rend="speaker">Vader.</l>
+                        <l>Maer theeft nochtans al yet, yet, seggh’ ick te beduyden,</l>
+                        <l>Dat hy noch niet en komt. </l>
+                        <l rend="speaker">II.Zone.</l>
+                        <l>Hy mach by een’ge luyden</l>
+                        <l>Hier of daer praten wat: Tis daerom niet gheseyt,</l>
+                        <l>Dat den dagh om ter jacht te rijden sy gheleyt</l>
+                        <l>Op heden: maer wel eer, noch langhen tijdt na desen</l>
+                        <l>En dat ghy eert gheschiet dies wel sult seker wesen.</l>
+                        <l rend="speaker">Vader.</l>
+                        <l>Maer ondertusschen soo verloopt ons nu de tijt</l>
+                        <l>Die langer wachtens oock int minsten niet en lijt.</l>
+                    </lg>
+                </div>
+                <div type="scene">
+                    <head rend="h3">Vierde Handelingh. Vierde wtkomst.</head>
+                    <stage>Outste Zone. Middelste Zone. Vader des Huysghesins. Ionghste Zone.
+                        Roel.</stage>
+                    <lg type="poem">
+                        <l rend="speaker">I.Sone.</l>
+                        <l>Ia siet, hier komt hy noch. </l>
+                        <l rend="speaker">Vader.</l>
+                        <l>Maer laet ons van hem swijgen</l>
+                        <l>Op dat hy niet misschien mach achterdencken krijghen</l>
+                        <l>Van eenigh quaet besluyt, tot sijn nadeel gheschiet:</l>
+                        <l>Want onder vrienden meest men jalousie siet.</l>
+                        <l rend="speaker">II Sone.</l>
+                        <l>Indien ghy dan nu yets hebt om hem te verclaren,</l>
+                        <pb ed="fol." n=" D3r"/>
+                        <l>Wilt het by u tot op een ander tijt bewaren</l>
+                        <l rend="speaker">Vader.</l>
+                        <l>En swijght ghy Roel, van dat ghy hem nu hebt ghesocht</l>
+                        <l>Op dat daer door in hem geen quaet en wert gewrocht.</l>
+                        <l rend="speaker">III. Sone</l>
+                        <l>Maer Vader zijt ghy hier. ’Kheb gantsch de stadt deurlopen</l>
+                        <l>V soeckende met vlijt: en dat alleen op hopen</l>
+                        <l>Om uyt mijn Broeders eens recht te moghen verstaen,</l>
+                        <l>Hoet haer doch buytens lants al mocht wesen vergaen.</l>
+                        <l rend="speaker">II. Sone.</l>
+                        <l>En wy verlanghden oock met u nu wat te spreecken,</l>
+                        <l>Maer ick vreese de tijt sal ons hier toe ontbreecken.</l>
+                        <l rend="speaker">Vader.</l>
+                        <l>Ia laet ons binnen gaen, sien wat de Kock al koockt</l>
+                        <l>Ick meyn de schoorsteen nu al wat langh heeft gheroockt.</l>
+                    </lg>
+                </div>
+            </div>
+            <div type="act">
+                <div type="scene">
+                    <head rend="h3">Vijfde Handelingh. Eerste wtkomst.</head>
+                    <stage>May. Roel.</stage>
+                    <lg type="poem">
+                        <l rend="speaker">May.</l>
+                        <l>Waer komt ghy Roel vandaen? </l>
+                        <l rend="speaker">Roel.</l>
+                        <l>’Kheb gasten wesen nooden</l>
+                        <l>Gaet vry wat haest naer huys: want ghy sult moeten dooden</l>
+                        <l>Al watter is gemest.</l>
+                        <l rend="speaker">May.</l>
+                        <l>Ick meyn Roel dat ghy spot</l>
+                        <l>Men brast by ons soo niet: Of hout ghy my voor sot.</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Ten sal gheen brassen zijn. Men sal een blymael gheven</l>
+                        <l>Dat Godt ons Meester heeft soo langhe laten leven</l>
+                        <l>Dat hy sijn Zonen mach gesont in vreughden sien</l>
+                        <l>Van wien hy meynt dat hem sal eer en deucht gheschien.</l>
+                        <l rend="speaker">May.</l>
+                        <l>Dats noch het minste Roel, maer dats in allen talen</l>
+                        <l>Sijn onderwesen nu, dat is het alte malen.</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Daer hebben sy wat aen. Den tienden niet verstaet</l>
+                        <l>Of schoon een man al veel in vreemde talen praet.</l>
+                        <l>Ick hou van mijns ghelijck. mijn Moeders tael ick prijse,</l>
+                        <l>Al wat ick seggh’, ick oock lichtlick daer met bewijse.</l>
+                        <l rend="speaker">May.</l>
+                        <l>Men seyt ooc gemeenlijck: tpast oock op u wel eel</l>
+                        <l>Een stront of Pannekoeck is een Boer eff n veel.</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Maer May. Ick noyt van u sulck een antwoort verwachte.</l>
+                        <l rend="speaker">May.</l>
+                        <l>Ia Roel. Ick hebse nu al onder mijn gheslachte,</l>
+                        <l>Die daer wel voelen, en hebben oock inder daet</l>
+                        <l>Bevonden, datter niets eygentlick vast en staet.</l>
+                        <l>Sonder ’tbestieren van wel g’oeffende verstanden:</l>
+                        <pb ed="fol." n=" D3v"/>
+                        <l>Want die zijn’t die alleen wel regieren de Landen;</l>
+                        <l>En sonder wien oock al de Steden t’ondergaen,</l>
+                        <l>Ia hoe heerlick en schoon sy oock verheven staen.</l>
+                        <l>Tvervalt al watter is, goe zeden ende wetten</l>
+                        <l>Waer naer d’inwoonder heeft zijn schreden recht te setten</l>
+                        <l>En sonder wien oock al ’twelck tot de kerck behoort.</l>
+                        <l>Door ghewelt of pracktijck onder onwaerheyt smoort.</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>’Tmach wesen dat het wil ick salt u laten winnen;</l>
+                        <l>Want ick ben, ja blijf bot, end kant soo niet versinnen.</l>
+                        <l rend="speaker">May.</l>
+                        <l>Ia Roel, die niet en weet, hoe soet den honigh smaeckt</l>
+                        <l>Ten is niet vreemt dat die t’geswarm der Byen laeckt.</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Maer May gaet doch naer huys, ’ksegg’ datmen u sal wachten</l>
+                        <l>Ghy zijt soo traegh, als of ghy op uw’ Vrouw’ niets achten.</l>
+                        <l rend="speaker">May.</l>
+                        <l>Ia nu mijn soete knecht, het sal wel wesen vaer</l>
+                        <l>Ghy zijt onder u muts voorseker niet heel claer.</l>
+                    </lg>
+                </div>
+                <div type="scene">
+                    <head rend="h3">Vijfde Handelingh. Tweede wtkomst.</head>
+                    <stage>Vader des Huysghesins. Roel. Outste Sone.</stage>
+                    <lg type="poem">
+                        <l rend="speaker">Vader.</l>
+                        <l>En seght my; hebt ghyt nu alles kunnen beloopen?</l>
+                        <l>Ia stont al waer ghy quaemt de deur oock voor u open.</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Sy seyden al het is een moghelicke beed</l>
+                        <l>’Kmeyn datse tavont oock sien naer een goede steed.</l>
+                        <l rend="speaker">Vader.</l>
+                        <l>Ia Roel, daer sijnder al, soo ick steets wilde soppen</l>
+                        <l>En ’tgoetjen twelck ick heb haer inden kele kroppen;</l>
+                        <l>En dat ghy Roel mijn knecht stedes voor ’tvaetjen zadt</l>
+                        <l>En May mijn meyt daer toe wel op ghedisschet hadt,</l>
+                        <l>Die mijn wel dienden dan oock selfs tot den voetsolen;</l>
+                        <l>En alst dan waer verteert, soudt zijn den Heer bevolen.</l>
+                        <l>Gaet ghy nu voorts naer huys, en siet watter ontbreeckt,</l>
+                        <l>V Vrouw heeft veel te doen, siet dat ghy soetlick spreeckt.</l>
+                    </lg>
+                </div>
+                <div type="scene">
+                    <head rend="h3">Vijfde Handelingh. Derde wtkomst.</head>
+                    <stage>Outste Sone. Vader des Huysghesins.</stage>
+                    <p>&#160;</p>
+                    <pb ed="fol." n=" D4r"/>
+                    <lg type="poem">
+                        <l rend="speaker">I.Sone.</l>
+                        <l>Maer Vader, hoe mocht ghy den Knecht doch sulckes seggen</l>
+                        <l>Hy salt misschien noch by hemselven overlegghen</l>
+                        <l>En b’dincken, wie die sijn die maer haer oogen slaen </l>
+                        <l>Naer uwe tafel, en naer geene vrientschap staen.</l>
+                        <l rend="speaker">Vader.</l>
+                        <l>De waerheyt schaemt sich niet. Hy mach het oock wel weten;</l>
+                        <l>Ick wenschte, dat icks’ oock met eeren mocht vergeten.</l>
+                        <l>Want wat is soo een vrient? Niet anders dan het Fret</l>
+                        <l>Twelck op ’t Conijns bederf alleen sijn tanden wet.</l>
+                        <l>Maer zoon, ick wenschte nu u broeder waer ghekomen,</l>
+                        <l>Op dat ick hem doch seyd twelck ick hebb’ voorgenomen;</l>
+                        <l>Want mijn Siel en ghemoet verlanght van herten seer</l>
+                        <l>Oock hem te brenghen op tot alle deucht en eer</l>
+                        <l>Mijn ouderdom is hoogh, daer toe ick ben ghetreden,</l>
+                        <l>Mijn herte dat verlanght na rust; en hoopt den vreden</l>
+                        <l>Der uytvercoornen Gods wel haest volmaeckt te sien</l>
+                        <l>Door’t heyl twelck ons Gods zoon in zijn doot liet gheschien.</l>
+                        <l>Ghy weet ick heb u twee nu soo veer opghetoghen,</l>
+                        <l>Dat ick op u niet meer, hoop ick behoef te ooghen.</l>
+                        <l>Ick heb u opghevoet, geleert en voorghestelt</l>
+                        <l>Hoe ghy voorts leven sult, als ghy uyt mijn ghewelt</l>
+                        <l>Nu zijt; En sal tot God voor u noch altijt treden</l>
+                        <l>Tot ’teynt mijns levens met mijn vyerighe ghebeden</l>
+                        <l>Ten eynd‘ sijn woort u sy een leyster aen u voet</l>
+                        <l>Sijn Geest u wijst den wegh dien ghy in treden moet</l>
+                        <l>Dit een is dan noch noot dat ick hem oock soo stichte.</l>
+                        <l>Tmiddel tot zijn nootdruft aen wijs’, en onderrichte</l>
+                        <l>Wat wegh hy vorders noch daer toe heeft in te gaen;</l>
+                        <l>En dan soo meyn ick hebb’ ick ’t mijne gantsch voldaen,</l>
+                        <l>Godt hoop ick sal dan voorts sijn werck in u betrachten,</l>
+                        <l>En u Ooghen alleen steets op hem sullen wachten.</l>
+                        <l rend="speaker">I.Sone.</l>
+                        <l>Maer Vader ist u wil dat ick my derwaerts keer</l>
+                        <l>Op dat hy hier by u mach wesen dies te eer?</l>
+                    </lg>
+                </div>
+                <div type="scene">
+                    <head rend="h3">Vijfde Handelingh. Vierde uytkomst.</head>
+                    <stage>Vader des Huysghesins. Outste Sone. Middelste Sone. Ionghste
+                        Sone.</stage>
+                    <p>&#160;</p>
+                    <pb ed="fol." n=" D4v"/>
+                    <lg type="poem">
+                        <l rend="speaker">Vader.</l>
+                        <l>Maer siet: gins’ komt hy met zijn Broeder aengetreden:</l>
+                        <l>Sy zijn soo t schijnt al wel met malcandren te vreden.</l>
+                        <l rend="speaker">I.Sone.</l>
+                        <l>Maer hoe? soud dat niet sijn? Twist tusschen vrient en vrient</l>
+                        <l>En past int minste niet, hoe veel te minder dient</l>
+                        <l>Het dan dat Broeders self oneenich zijn bevonden,</l>
+                        <l>Die als een lijf en Siel sijn moeten tallen stonden.</l>
+                        <l rend="speaker">Vader.</l>
+                        <l>En tis nochtans een saeck, die niet selden ghebeurt:</l>
+                        <l>Soo ver oock dat d’een Broer naer danders doot wel speurt.</l>
+                        <l rend="speaker">III.Sone</l>
+                        <l>Maer Vader, zijt ghy hier? </l>
+                        <l rend="speaker">Vader.</l>
+                        <l>Ia Soon, ick heb nu langhen</l>
+                        <l>Als tusschen hoop en vrees in twijfelmoed gehangen:</l>
+                        <l>Meynende dat ghy sout komen, en quamt doch niet.</l>
+                        <l>Waerom het dan tot noch toe minder is geschiet,</l>
+                        <l>Dat ick u naer mijn wensch mijns herten sin verclaerde:</l>
+                        <l>En ghy twelck ick u seydt, in een goet hert bewaerde.</l>
+                        <l>Dat ick u wijsen mocht waer van ghy leven meucht:</l>
+                        <l>’Tlichaem voorsiet van spijs: de Siel voor al met deucht.</l>
+                        <l rend="speaker">III.Sone</l>
+                        <l>Maer hebt ghy, Vader, noch wel yet om my te geven?</l>
+                        <l>’Kmeyn datter wyders niet by u is overbleven.</l>
+                        <l rend="speaker">Vader.</l>
+                        <l>Maer Soon hoe praet ghy dus? </l>
+                        <l rend="speaker">III. Sone.</l>
+                        <l>Als onervaren die </l>
+                        <l>Daer noch maer met een oogh de werelt inne sie.</l>
+                        <l>Ghy hebt u Outsten Zoon, gheschickt ten dienst der kercken.</l>
+                        <l>Den tweeden het Stadthuys. Wat sal den derden wercken?</l>
+                        <l>Voor hun beyden? en sijn daer toe als haren slaef?</l>
+                        <l>’Kmeyn dat ick soo voor haer niet stedes loop en draef.</l>
+                        <l rend="speaker">Vader.</l>
+                        <l>Maer Zoon, ghy schijnt my hier swaricheyt voor te wenden.</l>
+                        <l>Ick wenschte dat ghy mijn uws Vaders hert recht kenden.</l>
+                        <l>Maer op dat ick u nu soo veel my moogh’lick is</l>
+                        <l>Wel onderrichte, en mijns ooghen-mercks ghewis</l>
+                        <l>Maecke. Sult ghy verstaen: dat d, Eerst een groot begeren</l>
+                        <l>Steedts heeft ghehadt, om inde Grootheyt te studeren.</l>
+                        <l>De tweede heeft niet min van Ioncks aen grooten lust</l>
+                        <l>Gehadt tot Studium? en nimmermeer gherust</l>
+                        <l>Voor dat hy inder daet, met hert, siel, alle crachten</l>
+                        <l>’Tstudium, twelck hy nu voleyndicht heeft betrachten.</l>
+                        <l rend="speaker">III. Sone</l>
+                        <l>Maer want sy nu dus verr’ door dijn hulp sijn gheraeckt</l>
+                        <l>Is beyd de Werelt en Hemel voor haer gemaeckt</l>
+                        <l>Alleen: en niet voor my oock, die ben min in weerden</l>
+                        <l>Ia als vergheten van hun beyden op der eerden </l>
+                        <pb ed="fol." n=" E1r"/>
+                        <l rend="speaker">Vader.</l>
+                        <l>Ghy weet, hoe dat ick u dickmael hebb’ aengheseyt</l>
+                        <l>Dat het my seer lief waer, dat ghy u sinnen leyt</l>
+                        <l>Aen ’tstudium, om tot t’een of t’ander te komen</l>
+                        <l>Maer ghy en hebt dies noyt in’t herte aenghenomen.</l>
+                        <l rend="speaker">III.Sone</l>
+                        <l>Tis waer mijn zinnen zijn daer noch niet toeghestelt:</l>
+                        <l>Maer ben veel liever met de honden in het velt.</l>
+                        <l rend="speaker">I. Sone.</l>
+                        <l>Soo hebt ghy dan hier in u Vader niet te schenden,</l>
+                        <l>En sijn deughdelijck bedrijf tot gheen ondeucht te wenden.</l>
+                        <l>In alles twelck daer van uwen Vader gheschiet</l>
+                        <l>Hy op een Heylsaem en Godtvruchtich eynde siet.</l>
+                        <l>En meynt ghy dat ghy als een slaef voor ons arbeyden</l>
+                        <l>Sult moeten: en wyt groen sullen van uwe weyden</l>
+                        <l>Voor af eten: het is soo verr‘ van daen goet knecht</l>
+                        <l>Dat contrary is waer: want wie sijn dienst te recht</l>
+                        <l>In Kerckelicke als in polytijcke saecken</l>
+                        <l>Bedienen sal, en al wat ist te deghen maecken</l>
+                        <l>Bedienende sijn Dienst in alle trouwicheyt:</l>
+                        <l>Voltreckende sijn ampt in goed’ rechtveerdicheyt,</l>
+                        <l>Die is, soot schijnt een hooft der Kercken, en een Heere</l>
+                        <l>Der Inwoondren des Lants: Maer in der daet veel meere</l>
+                        <l>Der dienaren Dienaer der Slaven Slaef altijt,</l>
+                        <l>En nimmermeer vant Iock der dienstbaerheyt bevrijt</l>
+                        <l>En wat dies meerder is. Hoe kant een Heer verdrieten</l>
+                        <l>Sijn dienaers haer nootdruft doch te laten ghenieten?</l>
+                        <l>Die daer ten Altaer dient van den Altare leeft:</l>
+                        <l>Den Os, die ploeght, oock van de ploegh sijn voetsel heeft.</l>
+                        <l rend="speaker">III.Sone</l>
+                        <l>Maer wat salt zijn daer ick my mede sal erneren</l>
+                        <l>’Ken sal ymmers niet van den hooghen boom afteren.</l>
+                        <l>Tot dat mijn goedren gantsch ten eynde zijn gheraeckt</l>
+                        <l>En van daer naer voortsloop met beyd’ mijn billen naeckt.</l>
+                        <l rend="speaker">Vader.</l>
+                        <l>Ey Soon, dat was het niet. Ghy sult u flucks begheven</l>
+                        <l>Tot den coophandel, en daer van sult ghy wel leven.</l>
+                        <l>Wanneer u God maer slechts zijn zeghen daer toe sendt</l>
+                        <l>Sonder wien, watmen doet, niets komt tot een goet ent.</l>
+                        <l rend="speaker">III.Sone</l>
+                        <l>Dien handel sal my doch voor allen dinghen passchen?</l>
+                        <l>Want als ick ’tspit ghewent mocht hebben inder asschen</l>
+                        <l>Soo sal ick dan van een verdorven Coopman fijn</l>
+                        <l>Daer naer wel fraykens een voortreff’lick Maeck’laer zijn.</l>
+                        <pb ed="fol." n=" E1v"/>
+                        <l rend="speaker">Vader.</l>
+                        <l>Maer daer en most ghyt Soon niet laten op aen komen.</l>
+                        <l rend="speaker">[...] Sone.</l>
+                        <l>Och neen mijn Vader, maer wie kant somwijlen dromen</l>
+                        <l>Hoet eynde doch van den Coophandel vallen sal;</l>
+                        <l>Die niets heeft, heeft wel veel; die veel heeft, niets met al.</l>
+                        <l rend="speaker">Vader.</l>
+                        <l>Zoo moet ghy, oft soo viel, oock met die riemen royen;</l>
+                        <l>Maer men moet steedts met vlijt naer hoogher walle boyen:</l>
+                        <l>En met voorsichticheyt altijt wel sijn voorsien</l>
+                        <l>Op datter gheen dwase Coopmanschap mocht gheschien;</l>
+                        <l>Want reden moet stedes uwen Coophandel drijven,</l>
+                        <l>Indien ghy anders wilt met eeren daer by blijven.</l>
+                        <l rend="speaker">[...] Sone.</l>
+                        <l>Ey, swijght doch daer van stil; want tusschen mal en vroet</l>
+                        <l>(Weet alle man seer wel) wintmen het meeste goet.</l>
+                        <l rend="speaker">Vader.</l>
+                        <l>Maer veler slechticheyt sijn maer subtijle treecken,</l>
+                        <l>Waer door sy dencken teen, en t’ander nochtans spreecken</l>
+                        <l>Daerom oock dickwils staet gheschreven op de vloer</l>
+                        <l>Dat ’tgoet, ghelijck het quam, oock soo weer henen voer</l>
+                        <l>Maer wilt gy u, mijn Zoon, wel en wijs zijn beraden,</l>
+                        <l>Zoo sult ghy desen raet uws Vaders niet versmaden:</l>
+                        <l>Namentlick, ghy sult voor dijn naesten zijn, als ghy</l>
+                        <l>Begheert en wenst dat oock u Naesten voor u sy:</l>
+                        <l>Want met de maet daer med’ ghy sult hebben gemeten,</l>
+                        <l>Sal u Godt voor of naer te meten niet vergheten.</l>
+                    </lg>
+                </div>
+                <div type="scene">
+                    <head rend="h3">Vijfde Handelingh. Vijfde wtkomst.</head>
+                    <stage>Roel. Vader des Huysghesins. Outste Sone. Middelste Sone. Ionghste
+                        Sone.</stage>
+                    <lg type="poem">
+                        <l rend="speaker">Roel.</l>
+                        <l>Maer Heer, ons’ Ioffrouw seyt, dat sy doch niet en weet</l>
+                        <l>Waer ghy vertoeven meught, dewijl de spijs ghereet</l>
+                        <l>De Tafel is ghedeckt, en wyders niet van noden</l>
+                        <l>Dan dat de Gasten nu van u werden ontboden.</l>
+                        <l rend="speaker">Vader.</l>
+                        <l>Tis waer; want nu de dagh ter neder schijnt gedaelt,</l>
+                        <l>En ons de Nacht daer toe diep uyt den afgront haelt,</l>
+                        <l>Sijn langhswert verwich kleet, om over ons te trecken,</l>
+                        <l>En den aertbodem wijt daer mede te bedecken.</l>
+                        <l rend="speaker">[...] Sone.</l>
+                        <l>Alst u mijn Vader behaecht kunnen wy thuyswaert gaen.</l>
+                        <pb ed="fol." n=" E2r"/>
+                        <l rend="speaker">Vader.</l>
+                        <l>Ia comt, en laet ons oock niet langher blijven staen.</l>
+                        <l>Nu gaen wy. En ghy Roel, wilt tsaem de vrienden halen,</l>
+                        <l>Op dats op staende voet met u gaen altemalen.</l>
+                    </lg>
+                </div>
+                <div type="scene">
+                    <head rend="h3">Vijfde Handelingh. Seste wtkomst.</head>
+                    <stage>May. Roel.</stage>
+                    <lg type="poem">
+                        <l rend="speaker">May.</l>
+                        <l>Maer Roel, vind ick u hier? Ick meynde ghy al langh</l>
+                        <l>Waert om de vrienden wt: Ons’ Ioffrouw siet soo bangh</l>
+                        <l>Dat haren man alsnoch niet weer is thuys ghekomen</l>
+                        <l>En datse niemant van haer Sonen heeft vernomen.</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Mijn Heer die gaet daer heen oock met zijn zoonen al,</l>
+                        <l>En seyt dat ick nu tot den vriender loopen sal</l>
+                        <l>Om haer soo haest ick kan, al t’saem by een te krijghen.</l>
+                        <l rend="speaker">May.</l>
+                        <l>En ick loop om ’t Bancket: Zuycker, Koeck ende Vijghen.</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>’Tschaepscheren sal aengaen. Nu Meysjen rept u voet</l>
+                        <l>Want ghy doch nu ter tijt fray deur den Beughel moet.</l>
+                        <l rend="speaker">May.</l>
+                        <l>’Tis gheen swaricheyt Roel? ten beurt niet alle daghen.</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Ia lieve May, daer soud’ de gantsche stadt van waghen.</l>
+                        <l rend="speaker">May.</l>
+                        <l>Soud’ dat so wonder zijn ghedaen van onsen Heer!</l>
+                        <l>Daer sijnder wel diet doen, en kunnen niet een veer</l>
+                        <l>Afblasen van den mont. </l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Maer soudment daerom prijsen.</l>
+                        <l rend="speaker">May.</l>
+                        <l>Ey, dat en segh ick niet; ’kwil daer slechts med’ bewijsen</l>
+                        <l>Dat het veel beter hem, dan velen passen soud’</l>
+                        <l>Wy kennen hem doch wel, wanneer hyt slechts doen woud.</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Mijn Heer die hout hem leegh, so wert hy niet gheschooten.</l>
+                        <l rend="speaker">May.</l>
+                        <l>Ia daer naer oock niet van sijn schuldenaers verstooten,</l>
+                        <l>Tis een welghestelt man. Hy is niet groot van hert,</l>
+                        <l>Als vele doen, en sijn nochtans seer kleyn van stert.</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Ia tis te byster May. Laet hem nu al vry sparen,</l>
+                        <l>Hy heeft een Soontjen die sal het daer naer wel klaren.</l>
+                        <l rend="speaker">May.</l>
+                        <l>Dats Godt alleen bekent; schoon het is onghesien</l>
+                        <l>Indien het Godt belieft, ’tsal wel anders gheschien.</l>
+                        <l>En soo het doch ghebeurt; wat kanmen daer van segghen?</l>
+                        <l>Of salmen’t zijn Vader daer naer te laste legghen?</l>
+                        <l>Ey dat moet verre sijn: dewijl zijn Vader heeft</l>
+                        <pb ed="fol." n=" E2v"/>
+                        <l>Godtvruchtigh voor zijn Soon en huysghesin gheleeft.</l>
+                        <l>En heeft soo veel hy kont altijt sorghe ghedraghen,</l>
+                        <l>Op dat zijn Sone mocht leven naet welbehaghen</l>
+                        <l>Van hem en sijnen God: op dat hy doch hier naer </l>
+                        <l>De Saligheyt volmaeckt eeuwich deelachtigh waer</l>
+                        <l rend="speaker">Roel.</l>
+                        <l>Nu May, laet ons te saem bevorderen ons’ saken</l>
+                        <l>Op dat de Gasten haer t’avont doch vrolick maken.</l>
+                        <l>Ghy toehoorders en wilt wijders verwachten niet:</l>
+                        <l>VVant wat voorts wert, vereyscht terstont binnen gheschiet.</l>
+                    </lg>
+                    <p>FINIS.</p>
+                    <p>&#160;</p>
+                    <p>Kennis baerd Liefde.</p>
+                    <p>&#160;</p>
+                    <p>Lucas Zasius.</p>
+                </div>
+            </div>
+            <div type="appendix">
+                <interpGrp>
+                    <interp type="song" value="zasy001borg01_0001"/>
+                </interpGrp>
+                <interpGrp>
+                    <interp type="primair" value="pyko001"/>
+                </interpGrp>
+                <pb ed="fol." n=" E3r"/>
+                <head rend="h2">Loff-zangh des Houwelicks Baer-moeder vande Burgherlijcke
+                    Huyshoudingh.</head>
+                <head rend="h3"><hi rend="i">Stem: Daer de Prinsen buyten Reden, &amp;c.</hi></head>
+                <lg type="poem">
+                    <l>O Hoe saligh zijn de lieden,</l>
+                    <l>Daer het houw’lijck magh gheschieden</l>
+                    <l>Om Gods eer te sijn verbreyt:</l>
+                    <l>Ende Kercke Godts tot stichtingh,</l>
+                    <l>Tot gheselschap en verlichtingh,</l>
+                    <l>Vande dorre Eensaemheydt.</l>
+                    <l>O Geluck, die Godes zeghen</l>
+                    <l>Soo ten Rechten heeft verkreghen:</l>
+                    <l>Met een tijtelijcken schat.</l>
+                    <l>Huys en goet comt van den Heere,</l>
+                    <l>Maer een fijne Vrouw met Eere,</l>
+                    <l>Gaet noch veer te boven dat.</l>
+                    <l>Maer ’tgheluck komt dan noch nader,</l>
+                    <l>Soo wanneer ons Godt den Vader,</l>
+                    <l>Vruchten gheeft van onsen stam</l>
+                    <l>Als de oorsaeck is Godts werckingh,</l>
+                    <l>Want dat dient dan tot versterckingh,</l>
+                    <l>Daer s’haer oorspronck eerst van nam. </l>
+                    <pb ed="fol." n=" E3v"/>
+                    <l>Seghenrijck wort thuys bevonden,</l>
+                    <l>Daer d’eendracht vast hout ghebonden:</l>
+                    <l>Vrede deur der Liefden bant:</l>
+                    <l>Om de spruyten soo te hand’len,</l>
+                    <l>Met goet leven voor te wand’len,</l>
+                    <l>Dats den alderbesten stant.</l>
+                    <l>Latet Godt dan soo gheschieden,</l>
+                    <l>Dat ghy dienstboon te ghebieden</l>
+                    <l>Hebt, hout altijt sulcken maet:</l>
+                    <l>Dats u lieven en oock vreesen,</l>
+                    <l>Doet soo ghy gheboon wilt weesen,</l>
+                    <l>Soo bevestight ghy u staet.</l>
+                    <l>Als de spruyten dan soo groeyen</l>
+                    <l>Dats in Godes wetten bloeyen:</l>
+                    <l>Als ghy siet uyt uwen zaedt</l>
+                    <l>V Kints kinderen mennighvuldigh</l>
+                    <l>Die daer achten te zijn schuldigh</l>
+                    <l>Steets te volghen Godes Raedt.</l>
+                    <l>O gheluckighe Huys-houdingh</l>
+                    <l>Daer de Iaren met veroudingh</l>
+                    <l>Zijn met Lieffd’ gesleten af</l>
+                    <l>Om dan met sijn grijse haren</l>
+                    <l>Met gherustheyt heen te varen</l>
+                    <l>In sijn ouders duyster graf</l>
+                </lg>
+                <p>&#160;</p>
+                <p><hi rend="i">P.T. Pykolet</hi></p>
+                <p><hi rend="i">Tghebedt is krachtigh</hi>.</p>
+            </div>
+            <div type="epilogue">
+                <interpGrp>
+                    <interp type="primair" value="pyko001"/>
+                </interpGrp>
+                <pb ed="fol." n=" E4r"/>
+                <head rend="h3">Sluyt-reden Opte Borgerliicke Huys-houdingh.</head>
+                <lg type="poem">
+                    <l>T Veelhoofdighe ghediert,, deur tweespalt opgheblasen</l>
+                    <l>Loop door een quaet beleyt,, Alst Meer onstuymigh rasen.</l>
+                    <l>Maer als sy zijn ghetemt,. deur Anthions gheluyt</l>
+                    <l>Orpheisoet ghespel,, soo is haer woelen uyt.</l>
+                    <l>Die d’Harten soo bestiert,, tot Burgherlijcke zeden.</l>
+                    <l>Dat vee en stom ghediert,, bout Burgherlijcke steden</l>
+                    <l>Gelijck hier Zasius,, ons heeft ten thoon gheset</l>
+                    <l>Voor die een huys bestiert,, een Burgherlijcke wet.</l>
+                    <l>Een huys een kleyne Kerck, , een groote lant bestieringh:</l>
+                    <l>Een Coninghlijcke macht,, een Keyserlijcke vieringh.</l>
+                    <l>En kan niet wel bestaen,, oft Vaderlijck opsicht</l>
+                    <l>Met kinderlijcke vrees., moet blyven in sijn plicht.</l>
+                    <l>Gelijck als onsen Godt,, al wat hy heeft gheschapen</l>
+                    <l>In zijnder handen werck,, is soeticheyt te rapen.</l>
+                    <l>Hoe heeft hyt al ghestelt,, de groote gulde zon</l>
+                    <l>Alst ’tIaer geeyndicht is,, komt daerse eerst begon.</l>
+                    <l>De Silverigghe Maen,, met haer veel duysent starren</l>
+                    <l>Die altijt seecker gaen,, en nimmermeer en warren</l>
+                    <l>Als Burghers vande Lucht,, die onsen grooten Al</l>
+                    <l>Behout in hare plicht,, en altijt dueren sal</l>
+                    <l>Tot dat des swerelts gloob,, den heerscher aller dinghen</l>
+                    <l>Den alleen wijsen Godt,, ordentelijck sal bringhen</l>
+                    <l>Dat desen woesten hoop,, versmelten sal in vyer</l>
+                    <l>En ons int s’Hemels Choor,, sal voeren eens van hier.</l>
+                    <l>Byt s’Hemels Burgherij, daert al is sonder morren</l>
+                    <l>Daer man. noch Vrou: noch Kint,, noch Meyt of Knecht sal knorren</l>
+                    <l>Maer vrede sonder ent,, twelck hier niet sijn en kan</l>
+                    <l>VVant tgaet soo effen niet,, of een verduldigh Man</l>
+                    <l>Siet wel wat over thooft,, om geen twist te verwecken</l>
+                    <l>Dus wilt den besten zin uyt d’onderrechtingh trecken.</l>
+                    <l>Van dit bly-endigh Spel,, want ’tu voor ooghen stelt </l>
+                    <pb ed="fol." n=" E4v"/>
+                    <l>Alleenigh niet de plicht,, die knecht en Maegden geldt</l>
+                    <l>Maer vaderlijcke sorgh,, en moederlijck bewegen</l>
+                    <l>En kinderlijcke tucht,, om die met Godes zeghen</l>
+                    <l>Te queecken tot Godts eer,, en stichtingh van Gods Kerck</l>
+                    <l>Om die na tijdes tijt,, met naerstigh handen werck</l>
+                    <l>Tot voorstant van haer huys,, daer sy toe zijn gheneghen</l>
+                    <l>Best na des ouders staet., of middel is gheleghen</l>
+                    <l>Te leeren eenigh Ampt,, maer deughden boven aen</l>
+                    <l>VVant Ieught int groene hout, groeyt soot gebuycht sal staen.</l>
+                    <l>Den VVijngaert onbesnoyt, en sal gheen vruchten draghen</l>
+                    <l>Als diemen tsijnder tijt,, snoeyt inde Maertse daghen</l>
+                    <l>Tvoornaemste grontlegh is,, van al dit grooten ront</l>
+                    <l>Ist datment Ieudigh Sap,, den toom leyt inden mont</l>
+                    <l>Om namaels dan de vrucht,, met vreughden te ghenieten</l>
+                    <l>Siet eens hoet Heydens volck,, haer Ieught betoomen lieten</l>
+                    <l>VVant in Socrates school,, de Ieucht gheboden wart</l>
+                    <l>Te swijghen vyf Iaer langh,, Ia niemant had het hart</l>
+                    <l>Te spreecken eenigh woort,, om dat sy souden leeren</l>
+                    <l>Te vlieden alt ghesnap,, op datse dan met eeren</l>
+                    <l>Het redelijck ghebruyck,, van hare gladde tongh</l>
+                    <l>Niet eer gebruyckten dan,, daer haer de noot toe drongh</l>
+                    <l>Om datse met verstant., in hare rijpe daghen</l>
+                    <l>Antwoorden datmen haer,, ordentelijck mocht vraghen</l>
+                    <l>Maer t’Christelijcke volck,, dat heeft een soeter straff</l>
+                    <l>Die Godt al overlangh,, Aen zijnen Moysem gaff</l>
+                    <l>VVant dese harde wet,, en is ons niet bevolen</l>
+                    <l>Maer stieren wijf en kint,, dat sy en wy niet dolen</l>
+                    <l>En volghen sulcken stijl,, als Zasius ons leert</l>
+                    <l>VVant hy al niet en doolt,, die noch ten halven keert</l>
+                    <l>Geluckigh is het huys,, gheluckigh zijn de steden</l>
+                    <l>Geluckigh is het Landt,, daer sulcke voeten treden</l>
+                    <l>Die vanden eersten af,, de Ieucht set sulcken peyl</l>
+                    <l>En houden int ghesicht,, een waeckend’ oogh int seyl</l>
+                    <l>Om t’alghemeene Schip,, niet roerloos te doen drijven</l>
+                    <l>Ick kort mijn reeden af,, en latet hier by blijven.</l>
+                </lg>
+                <p>P.T Pykolet.</p>
+                <p>‘Tghebedt is krachtigh.</p>
+            </div>
+
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,1558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Klucht van Krijn Onverstant, of vrouwen parlement</title>
+                <author>Jillis Noozeman</author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een
+                    diplomatische weergave van <hi rend="i">Klucht van Krijn Onverstant, of vrouwen
+                        parlement</hi> van Jillis Noozeman uit 1671. </edition>
+                <respStmt>
+                    <resp>
+                        <corr/>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <scandetails>
+                <scan section="1" type="1">
+                    <extent-detail><!-- pagina range van een sectie --></extent-detail>
+                    <empty-page><!-- specificeer de lege pagina's hier --></empty-page>
+                    <!-- <insert after="na deze pagina begint de insert"> aantal insert pagina's </insert> -->
+                    <insert after=""/>
+                </scan>
+            </scandetails>
+            <publicationStmt>
+                <idno type="titelcode">nooz002kluc01_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2011 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"/>
+                    <idno type="usedcopy">exemplaar Theater Instituut Nederland, signatuur: TIN sign
+                        57 B 75: 2</idno>
+                </bibl>
+                <p>Jillis Noozeman, <hi rend="i">Klucht van Krijn Onverstant, of vrouwen
+                        parlement</hi>. Jacob Lescailje, Amsterdam 1671</p>
+                <p>&#160;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p/>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">Klucht van Krijn Onverstant, of vrouwen parlement</title>
+                <author>Jillis Noozeman</author>
+                <idno type="isbn"/>
+                <idno type="nur"/>
+                <imprint>
+                    <date/>
+                    <publisher/>
+                    <pubPlace/>
+                </imprint>
+            </bibl>
+            <idno type="isbn"/>
+            <order>
+                <price curr="euro"/>
+                <link/>
+            </order>
+            <blurb>
+                <p/>
+            </blurb>
+            <titlepage>
+                <p/>
+            </titlepage>
+            <colofon>
+                <p/>
+            </colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">Klucht van Krijn Onverstant, of vrouwen parlement</title>
+                <author>Jillis Noozeman</author>
+                <idno type="isbn"/>
+                <idno type="nur"/>
+                <imprint>
+                    <date/>
+                    <publisher/>
+                    <pubPlace/>
+                </imprint>
+            </bibl>
+            <idno type="isbn"/>
+            <order>
+                <price curr="euro"/>
+                <link/>
+            </order>
+            <blurb>
+                <p/>
+            </blurb>
+            <titlepage>
+                <p/>
+            </titlepage>
+            <colofon>
+                <p/>
+            </colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2011-08-30</date>
+                <respStmt>
+                    <name type="person">DH</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front>
+                <div type="chapter">
+                    <pb n="1"/>
+                    <p>J. NOSEMANS</p>
+                    <p>KLUCHT VAN Krijn Onverstant, of Vrouwen Parlement.</p>
+                    <p><hi rend="i">Op den Regel</hi>,</p>
+                    <p>Daer is geen vrouw quaet,, soo 't de man niet toelaet.</p>
+                    <p><hi rend="i">Gespeelt op d'Amsterdamsche Schouwburg.</hi></p>
+                    <p><figure>
+                            <p><xptr to="nooz002kluc01ill0001.gif"/></p>
+                        </figure></p>
+                    <p>t' AMSTERDAM,</p>
+                    <p>By J<hi rend="i">acob Lescailje</hi>, Boeckverkooper op de Middeldam, naest
+                        de Vismarckt, 1671.</p>
+                </div>
+            <div type="chapter">
+                <pb n="2"/>
+                <head rend="h3">Personaadjen.</head>
+                <list>
+                    <item>Trijn, <hi rend="i">Vrou van Kees de Schoenlapper.</hi></item>
+                    <item>Neeltje, <hi rend="i">Vrou van Krijn Onverstant.</hi></item>
+                    <item>Kees, <hi rend="i">Schoenlapper.</hi></item>
+                    <item>Krijn Onverstant, <hi rend="i">Smit.</hi></item>
+                    <item>Jan Slap, <hi rend="i">Snyer.</hi></item>
+                    <item>Jeremie, <hi rend="i">Man van Maygats.</hi></item>
+                    <item>Maygats, <hi rend="i">Smockeltapster.</hi></item>
+                    <item>Lobbrig, <hi rend="i">Viswijf.</hi></item>
+                    <item>Fokel, <hi rend="i">Turrefvulster.</hi></item>
+                    <item>Prijn, <hi rend="i">Meyt tot Maygats.</hi></item>
+                    <item>Pietje, } <hi rend="i">drie Tuyskeloopers.</hi></item>
+                    <item>Dirck, } <hi rend="i">drie Tuyskeloopers.</hi></item>
+                    <item>Klaes, } <hi rend="i">drie Tuyskeloopers.</hi></item>
+                </list>
+            </div>
+        </front>
+        <body>
+            <div type="act">
+                <div type="scene">
+                <pb n="3"/>
+                <head rend="h2">Kryn onverstant, of Vrouwen Parlement.</head>
+                <head rend="h3">Eerste uytkomst.</head>
+                <stage><hi rend="i">Trijn. Neel.</hi></stage>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>WEl wat geschreeuw is dat? wel lieve</l>
+                    <l>deugt, wel Neeltje,</l>
+                    <l>Hoe sieje soo bebloet?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Neel.</hi></speaker>
+                    <l>Dat doetmen mijn juweeltjen,</l>
+                    <l>Ick meen mijn helschen droes.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Wie segje? wie? jon man?</l>
+                    <l>Dat hem de roest vreet, by gants doot was ik 'er an,</l>
+                    <l>Ik sou dien dikken schelm dat smijten wel verkeren.</l>
+                    <l>Maer is het mogelijk, is dat een vrouw tracteeren!</l>
+                    <l>Wat schort hem? seg?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Neel.</hi></speaker>
+                    <l>Ik denk sen gelt dat is verbruyt,</l>
+                    <l>Verdronken en verspeelt.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Iaegt hy jou daerom uyt?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Neel.</hi></speaker>
+                    <l>Dat 's noch genadig; o besagje eens men leeden,</l>
+                    <l>Ie schrikte.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Hoe?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Neel.</hi></speaker>
+                    <l>Soo ben 'k geneepen en getreeden,</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Hebje geen nagels aen jou vingers, malle meer,</l>
+                    <l>Daer meje hem dat gesicht haelt op sen wangen neêr.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Neel.</hi></speaker>
+                    <l>Maer Trijntje wat en kal. Sou ik hem durven smijten?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Wel jaje lamgat, ja, ik sou hem krabben, bijten,</l>
+                    <l>Waer ik maer varren kon, bloer, daer is onse Kees</l>
+                    <l>Die hout wel anders veur, ik heb een bullepees,</l>
+                    <l>Die proeft hy altemet, sou ik mijn ringelooren</l>
+                    <l>Gaen laeten van een man, 'k was liever ongebooren.</l>
+                    <l>Neen keynt, volg jy mijn raet: dat als hy jou weer driegt</l>
+                    <l>Dat jy hem datelijk dan in het backus vliegt.</l>
+                    <l>Of neemt een hant vol sant, en smijt hem dat in d'oogen.</l>
+                    <pb n="4"/>
+                    <l>En dan een eyntje houts, om 't weder uyt te droogen,</l>
+                    <l>En klou maer wacker toe, en of hy jou weêr smijt;</l>
+                    <l>By get hy vecht soo wel die onder als die boven lijt.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Neel.</hi></speaker>
+                    <l>Men hart dat wortmen kous, van 't geen ik jou hoor seggen,</l>
+                    <l>Denkt niet dat ik men handen aen sijn vleys sel leggen,</l>
+                    <l>Ie weet wel datmen moet sen man gehoorsaem sijn.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Dat was by d'oude stijl, volg jy de raet van mijn;</l>
+                    <l>Men doet juyst niet altijt datmen wel doen sou moeten,</l>
+                    <l>Daer is mijn ellefrib, die nacht en dagh moet wroeten,</l>
+                    <l>En krijgt niet eens dank heb voor al sijn slaverny.</l>
+                    <l>Ik doe al wat ik wil, al staet hy 'er schoon by,</l>
+                    <l>Ia heeft het hart niet om een enkel woon te kicken,</l>
+                    <l>Uyt vreese of ik hem de lenden sloeg aen sticken.</l>
+                    <l>Ik ga ook waer ik ga, ik doe ook wat ik doe,</l>
+                    <l>Ik eet, ik drink, ik slaep, hy seyt noch ba noch boe</l>
+                    <l>Als 't my niet komt te pas. Soo moermen triompheren</l>
+                    <l>Als voogt over sen man. wilt dese les ook leeren.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Neel.</hi></speaker>
+                    <l>Ia wou ik doot sijn. Neen ik trek niet aen die sijn,</l>
+                    <l>Mijn past het heerschen niet, ik wil geduldig sijn.</l>
+                    <l>Ik hoop dat ik daer door sijn gunst noch wel sal winnen.</l>
+                </sp>
+                <stage><hi rend="i">binnen.</hi></stage>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Gaet heen jy slapscheet gaet, loopt alje beft na binnen.</l>
+                    <l>Wel watte wijven, foey die varkens, dat 's 'er soo</l>
+                    <l>Ringlooren laten, het doetmen in 't hart seer, datse soo bloo</l>
+                    <l>Sijn, neen, noch prijs ik my, ik hou veel van 't gebieden:</l>
+                    <l>De vrouwen komt de eer. Wel wat sal dit bedieden?</l>
+                    <stage><hi rend="i">Kees uyt.</hi></stage>
+                    <l>Waer is mijn hungat heen? daer komt Ian Trijntjes aen.</l>
+                    <l>Wel waer het by eweest? waer komt by nou van daen?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Kees.</hi></speaker>
+                    <l>Daer 'k niemant senden kon.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Wel rekel, is dat spreeken?</l>
+                    <l>Weetje wel wie ik ben, 'k sel jou de nek strax breken.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Kees.</hi></speaker>
+                    <l>Nou Trijntje niet soo quaet, ik bid verstenrje niet.</l>
+                    <l>Ik was maer iens onder de brug, de noot my daer toe riet.</l>
+                </sp>
+                <pb n="5"/>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Een lengen kakje?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Kees.</hi></speaker>
+                    <l>Niet, seper.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Flux aen 't werken,</l>
+                    <l>Ik ga na binnen toe.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Kees.</hi></speaker>
+                    <l>Ia, wiltje hart wat sterken.</l>
+                    <l>Maer Trijntje, ey bedenk een schamel mens ook iet.</l>
+                    <l>'t Is seker al soo laet.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Hoor Kees voor jou noch niet.</l>
+                </sp>
+                <stage><hi rend="i">Trijn bin.</hi></stage>
+                <sp>
+                    <speaker><hi rend="i">Kees.</hi></speaker>
+                    <l>'t Is wel dan, denkt eens of een man niet wel ebruyt is</l>
+                    <l>Met sulk een helleveeg; die soo hy 't gat maer uyt is,</l>
+                    <l>Bescheydelijk aen haer moet reden daer van geven.</l>
+                    <l>Doch ik mach hoopen, datse niet sel eeuwigh leeven.</l>
+                </sp>
+                <lg type="poem">
+                    <l rend="speaker"><hi rend="i">Krijn Onverstant uyt, met een flesje en een
+                            pimpeltje, al singende.</hi></l>
+                    <l rend="; 2tab">1. <hi rend="i">Hey coragie nu men hart,</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Dat van droef heyt noch van smart</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Niet en weet, noch weeten wil,</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Of 't men schoon te beurte vil,</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Als dat men wijf</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Om tijtverdrijf</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Met een aêr teeg of den tril.</hi></l>
+                    <l rend="; 2tab">2. <hi rend="i">Als sy my maer splint bestelt,</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Soo ben ik met vreucht verselt,</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Bloet als ik maer dommineer</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Soo en kreun ik 't my niet seer,</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Schoon of men wijf</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Om tijtverdrijf</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Speelden met een aêr moy weer.</hi></l>
+                </lg>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Dat lach 'er boven, en dit sel 'er onder gaen.</l>
+                    <l>Als ik het wel bedenk, wat ben ik ook een haen;</l>
+                    <l>Hoe braef ken ik men henn beheerschen en gebieden.</l>
+                    <l>Dat is de rechte slach dat 's op je wenken vlieden;</l>
+                    <l>Hoe is de man geen heer! dat hy dan heerschappy</l>
+                    <l>Ook voerde als een heer; of 't wat onreed'lijk sy</l>
+                    <pb n="6"/>
+                    <l>Dat schaet niet, maer hoe mach men buurman toch al varen?</l>
+                    <l>Hou holla Keesje Flik, hier hebbewe de klaere,</l>
+                    <l>Schey uyt, schey uyt, kom hier, en laer het bogg'len staen,</l>
+                    <l>Avoes jou malle gek.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Kees.</hi></speaker>
+                    <l>Och! my lust daer niet aen.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Wat? 't is jenever maet, gut kerel, 't smaekt soo lecker,</l>
+                    <l>Nou lustig vat het an, hoe staje soo?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Kees.</hi></speaker>
+                    <l>Ik geck'er</l>
+                    <l>Meê, o mijn! men wijf die mocht'er ruyken, en die dan</l>
+                    <l>My klouwen, neen men borst, ik heb den dray 'er van.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Hoe vreesje voor je wijf? non wou 'k je wel niet kennen;</l>
+                    <l>Een wijf te vreesen, hoe, je moetse anders wennen,</l>
+                    <l>En setten na je hand, en seggen, daer doet dat.</l>
+                    <l>Of geven 'er perdoes perdaf, een voet in 't gat,</l>
+                    <l>Of waert je maer belieft.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Kees.</hi></speaker>
+                    <l>Gut Krijn hoe kenje praeten,</l>
+                    <l>Ik wouje met men wijf dan wel huys-houwen laeten.</l>
+                    <l>Kom, ben je 'er op belust, ik schenkse je goetkoop.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn uyt.</hi></speaker>
+                    <l>Schenkt dat je leev'ren kunt, en ty jy op de loop,</l>
+                    <l>Of 'k sweer, ik selje ook soo akrements of kleunen.</l>
+                    <l>Kom hier jou bedelaer.</l>
+                </sp>
+                <stage><hi rend="i">Slaet hem.</hi></stage>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Hey hey dat sinnen deunen,</l>
+                    <l>Dat sinne geure seyt de schoester in den Haeg,</l>
+                    <l>Bygut op sulk onthael en kom ik niet heel graeg.</l>
+                    <l>Ik houmen aen d'een sy, eer 't hier op 't lant wil wayen,</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Kees.</hi></speaker>
+                    <l>Och vroutje, 'k bid gena.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Ik vraeg niet na je graje.</l>
+                    <l>Kom waer 's de bullepees?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>De drommel, ik loop weg.</l>
+                    <l>Wat booser pry is dat?</l>
+                </sp>
+                <stage><hi rend="i">binnen.</hi></stage>
+                <sp>
+                    <speaker><hi rend="i">Kees.</hi></speaker>
+                    <l>Sier hoe ik nederleg,</l>
+                    <l>Ik bid vergeeft het me, dat ik jou ging versteuren.</l>
+                </sp>
+                <pb n="7"/>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Flucx kust men duym; waer 's Krijn? die sel het nu betreuren.</l>
+                    <l>Heruyt jou vagebont, verweerje tegens mijn.</l>
+                    <l>Hie is geen goeje Neel; hier is een boose Trijn.</l>
+                    <l>Kom uyt jou hontsvot, 'k selje wijve leere smijten.</l>
+                </sp>
+                <stage><hi rend="i">Ian Slap uyt, eenige longens.</hi></stage>
+                <sp>
+                    <speaker><hi rend="i">Krijn uyt het venster.</hi></speaker>
+                    <l>Wil 'k jou wat seggen Trijn, je meugt je gat beschijten,</l>
+                    <l>Verstaje dat, gaet voort van hier, of kom ik je daer by...</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Kom hier jou hoorenbiest, durf jy my dreygen, jy</l>
+                    <l>Iou rechte hangebast; kom, kom maer hier beneden:</l>
+                    <l>Ik sel niet wijken noch niet eenen voet vertreden;</l>
+                    <l>Maer soo een entje staels gaen vegen door je bek.</l>
+                    <l>Hier vlegel, dat 'k je raek.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Ia was ik daer soo gek</l>
+                    <l>Dat ik men aen een swijn 'er knorren ging versteuren.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Iou eerdief, wijve-beul, ik sel je by get verscheuren</l>
+                    <l>Soo ik je maer krijgen kan; jou rechten raven aes.</l>
+                    <l>Hont bont, komt bier beneên.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Hey, maekt hier geen geraes,</l>
+                    <l>Of 'k felje strax men wijf gaen op je backus stuuren,</l>
+                    <l>Die jou die vuyligheyt sal van je backus schuuren.</l>
+                    <l>Flucx Neel na onderen toe.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Hier, turk, stuurje knecht uyt,</l>
+                    <l>Hebje geen Hart jou schelm, dat siet'er seker slecht uyt.</l>
+                    <l>Ik ben gien vrou die aen een wijf sal handen leggen.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Ian.</hi></speaker>
+                    <l>Wel hey, wat wijf is dit!</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Wat hebjer op te segeen!</l>
+                    <l>Ian gat, moey jy men niet, of 't sal voor jou heel slecht sijn.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Ian.</hi></speaker>
+                    <l>Ik sta op 's Heeren straet.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Wel wilt dan een goet knecht sijn,</l>
+                    <l>Of 't wortje beurt.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Ian.</hi></speaker>
+                    <l>'t Is wel, ik wil niet kijven,</l>
+                    <l>Ik moeje ummers niet.</l>
+                </sp>
+                <pb n="8"/>
+                <sp>
+                    <speaker><hi rend="i">Neel uyt.</hi></speaker>
+                    <l>Och Trijntje wilt niet blijven,</l>
+                    <l>Want komt men man beneên soo raekt het al in roer.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Kom, nou sel ik de deur gaen loopen op de vloer.</l>
+                    <l>Hou daer den bruy, dat kraekt.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Neel.</hi></speaker>
+                    <l>Och Keesje, houje wijf vast</l>
+                    <l>Of se raekt op 'er rug.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Kees.</hi></speaker>
+                    <l>Dat sy my dan aen 't lijf tast?</l>
+                    <l>Neen holla, maer ik wil wel wat ten beste spreeken,</l>
+                    <l>Non Trijntje, liefste moêr.....</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Kom jy jou neus hier in steeken?</l>
+                    <l>Wegh schijtert op je stoel, eer ik je voeten maek.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Kees.</hi></speaker>
+                    <l>Dat heb ik al eweg daer veur men tusschen spraek.</l>
+                    <l>Niet meer alsoo, ik ga veel liever sitten werken.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>'t Is wel Krijn durref niet.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Ia ja, bruy heen jou verken,</l>
+                    <l>En schuur de kettens van de galleg, boorje wel,</l>
+                    <l>Soo hebje hantgebaer.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Soo ik 't je niet vergel</l>
+                    <l>'t Eerst dat je me ontmoet, soo wil ik een hoer sijn.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>En soo ik je schuldig blijf soo wil ik een lompen boer sijn.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Iou vleysdief, wijvebeul, kom als een man te velt,</l>
+                    <l>Hier luyshont, duyvelskop.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Neel.</hi></speaker>
+                    <l>Sus Trijntje, soo niet schelt.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Hey houje backus, of ik leerseje toe bouwen.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Neel.</hi></speaker>
+                    <l>Wel Trijn boe baerje soo? wie vraegt wat naje snouwen.</l>
+                    <l>Wat, graeutje suster toe, ik en bestaeje niet.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Soo wijf, soo raek maer wat, wel nou beraeje niet:</l>
+                    <l>Wat geeft 'er eens een klink, 'k selderje twie veur geven.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Neel.</hi></speaker>
+                    <l>Ik niet al bood j'er drie.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Tut, daer is niet aen misdreven.</l>
+                    <l>k Sel 't met goe ogen sien, soo wacker, setje schrap.</l>
+                    <l>'Een vaen ten besten voor die geeft de eerste klap.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Kom hier doe jy 't voor haer, 'k sel 't je bygut uytkornen.</l>
+                    <pb n="9"/>
+                    <l>'k Selje die dicke muyl noch van malkander tornen:</l>
+                    <l>'t Sy waer dat ikje vind.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Dat hou ik veur geseyt,</l>
+                    <l>Gesant van Lusifar hadieu jy vriendelijkheyt.</l>
+                    <stage><hi rend="i">Krijn bin.</hi></stage>
+                    <stage><hi rend="i">Iongens roepen samen.</hi></stage>
+                    <l>Iou jou Krijn durft niet.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Soo jongens tijdt aen 't jouwen.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Iongens.</hi></speaker>
+                    <l>Iou jou Krijn sonder hart, hier is een wijf die jou</l>
+                    <l>uyttart, Hee, he, he, he, he, he.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Neel.</hi></speaker>
+                    <l>Weg wiltje backus houwen.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Iongens.</hi></speaker>
+                    <l>Smitje smitje sme, morgen moetje meê,</l>
+                    <l>Morgen moetje hangen tusschen twee ysere tange. Hering goeden Pekelhering,
+                        &amp;c.</l>
+                </sp>
+                <stage><hi rend="i">binnen.</hi></stage>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Dat kostje na Maygats, en daer eens op gedronken,</l>
+                    <l>Nou Neeltje Proncx, je kunt weer voorje man gaen pronken,</l>
+                    <l>Gaet diertje smokje op, licht komt 'er d'een of d'aêr.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Neel.</hi></speaker>
+                    <l>Ia ja, ga jy maer heen.</l>
+                </sp>
+                <stage><hi rend="i">Trijn binnen.</hi></stage>
+                <sp>
+                    <speaker><hi rend="i">Ian.</hi></speaker>
+                    <l>Gendagh Neeltje buur.</l>
+                </sp>
+                <stage><hi rend="i">Ian binnen.</hi></stage>
+                <sp>
+                    <speaker><hi rend="i">Neel.</hi></speaker>
+                    <l>Gendagh vaêr.</l>
+                    <l>Dat is een heelleveeg! dat vroumens dat kon spreeken!</l>
+                    <l>'t Was ofse 't heele huys in mortelen wou breeken.</l>
+                    <l>Wel Krijn Mattijsen vaêr, wat dochtje van die buy?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn uyt.</hi></speaker>
+                    <l>Die is al over: wat noch prijs is sulcke luy,</l>
+                    <l>Die en sal het spinrag niet tot in de mont toe wassen.</l>
+                    <l>Maer waerom wou jy strax op mijn gebodt niet passen?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Neel.</hi></speaker>
+                    <l>Wat was dat voor gebodt?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Te geven heur een lap</l>
+                    <l>Op twie weerom.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Neel.</hi></speaker>
+                    <l>Wel man, wel man, dat is een klap,</l>
+                    <l>Die nergens na en lijkt. Ik sal men dat wel wachten.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Soo neemje dan voorje mijn beveelen te verachten?</l>
+                    <l>Dat is een droevig werk. Wel non voor desen tijt</l>
+                    <l>Soo binje vry. Maer siet dat gy voorsichtig sijt.</l>
+                    <l>Ik seg niet meer, maer 't gelt kan alle ding versoeten.</l>
+                </sp>
+                <stage><hi rend="i">Krijn en Neel binnen.</hi></stage>
+                <pb n="10"/>
+                <sp>
+                    <speaker><hi rend="i">Kees.</hi></speaker>
+                    <l>Is 't niet een droeve saek, soo alle tijt te vroeten?</l>
+                    <l>Noch kost het gaen indien men leven mocht in rust.</l>
+                    <l>Daer gaet sy nu weêr heen en doet al wat haer lust,</l>
+                    <l>En laet my heel bedroeft in honger en kommer steeken!</l>
+                    <l>Och! mocht ik eens men hart na wil en wens uytbreeken,</l>
+                    <l>Wat laet ik 't doen; men seyt gemeenlijk wereltse saken</l>
+                    <l>Redden sich selven, laet ik ook men self vermaken.</l>
+                </sp>
+                <stage><hi rend="i">Hy singt.</hi></stage>
+                <lg type="poem">
+                    <l><hi rend="i">En wie wil hooren een nieu liet</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Hoort toe ik sal 't u singen,</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Hoe Gerrit van Velsen Graef Floris
+                        verriet</hi></l>
+                    <l rend="; 1tab"><hi rend="i">'t Sijn al soo wonderlijke dingen.</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Gerrit van Velsen had een vroutje sijn</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Van VVoerden tot sijn wijve,</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Daar...........</hi></l>
+                </lg>
+                <sp>
+                    <speaker><hi rend="i">Krijn uyt.</hi></speaker>
+                    <l>Kees Kees, ik sie wel.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Kees.</hi></speaker>
+                    <l>Ia ja ik sie ook wel.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Wat dochtje Keesje maet, wat dochtje van dat spookspel?</l>
+                    <l>Ik hebt een Trojaen van een wijf.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Kees.</hi></speaker>
+                    <l>Wilje niet langer leeven?</l>
+                    <l>Gans lichters Krijn, Trijn komt, men hart begint te beven.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Om sulk een leurery? maer Kees wat meen je wel,</l>
+                    <l>Dat Trijn mijn meester is? 'k won liever dat de hel</l>
+                    <l>Men opvrat, neen men borst, bloet ken ikse maer vinnen.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Kees.</hi></speaker>
+                    <l>Ia nouse 'er niet en is, maer flus toen bleefje binnen</l>
+                    <l>Al vast, en had het hart niet datje buyten quam.</l>
+                    <l>Sy is een wollef Krijn.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>En ik? wat ben ik dan?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Kees.</hi></speaker>
+                    <l>Een lam.</l>
+                    <l>Ik bid gaet hier van daen, mijn alderbeste Krijn maer.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Meen jy dat ik haer vrees? o hoo! of jou jon Trijn slaet,</l>
+                    <l>Dat acht ik niemendal, soey, had jy woort gehouwen,</l>
+                    <pb n="11"/>
+                    <l>Toen jy tot Noortwijk met jou Trijn Smeer sou trouwen,</l>
+                    <l>Wanneer men vraegden Kees Kornelisen, hou jey</l>
+                    <l>Katrijna voor je echte vrou, en datje sey</l>
+                    <l>Wel wijser, maet badje toen ook wat Alsem wijn gaen drinken,</l>
+                    <l>Soo sou je van je wijf niet sien die vremde sinken,</l>
+                    <l>Maer waer 's de duivels moêr, die my flus het uyt ejout.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Kees.</hi></speaker>
+                    <l>Die is tot Laedjegats, of Maygats na mijn onthout.</l>
+                    <l>Gaet daer niet heen!</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>O neen! maer krijgtse meer de buyen?</l>
+                    <l>Ey segtmen dat recht uyt, of is se nu in 't ruyen?</l>
+                    <l>Dat 's op z'en quaetst.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Kees.</hi></speaker>
+                    <l>O vrient! ik ben dat al gewent,</l>
+                    <l>Men dunkt het hoort soo.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Foey, jou akrementsen vent,</l>
+                    <l>Iou schoft, jou schantvlek van de mans, laet jy je overheeren,</l>
+                    <l>Al was se als de droes soo moestje triompheeren.</l>
+                    <l>Gans doot was het mijn wijf; sie daer in d'eerste dagh</l>
+                    <l>Soo boogse voor my neêr met eerbiet, en ontsach.</l>
+                    <l>Kom Kees, wil ik je wijf eens heel gedweeg gaen maecken,</l>
+                    <l>Dat sy jou dient en eert in alle sieve saken?</l>
+                    <l>Sie daer, ter liefd van jou, ik sal het doen; wel nou</l>
+                    <l>Wat segje?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Kees.</hi></speaker>
+                    <l>'k Vrees dat jy se quader maken sou,</l>
+                    <l>En dan was 't arger.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Niet, soo ikse jon niet temmen</l>
+                    <l>Soo hang men vry.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Kees.</hi></speaker>
+                    <l>Sou jy dat wilde Dier durven kemmen?</l>
+                    <l>Maer Krijn, wat raet met my daer na dan?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Hoor, ik sal</l>
+                    <l>Iou plunje aen doen, en men houwen me soo mal,</l>
+                    <l>Of jy het waert, in 't eerst; en sien 'er boos te maken,</l>
+                    <l>Dan sullen wy te saem wel voort aen woorden raken,</l>
+                    <pb n="12"/>
+                    <l>Van woorden tot wat aêrs. Hoe het dan voort sal gaen</l>
+                    <l>Sal de tijt wel leeren, maer kom gaen wy hier van daen.</l>
+                </sp>
+            </div>
+            <div type="scene">
+                <head rend="h3">Twede uytkomst.</head>
+                <stage><hi rend="i">Trijn. May-gats. Lobbrig. Fokel. Prijn, Ieremie.</hi></stage>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>K Om May schept noch een reys, en daer mee wil ik scheyen,</l>
+                    <l>Men hooft is men soo yl.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">May.</hi></speaker>
+                    <l>Dat sal wel over weyen:</l>
+                    <l>Wat denkt 'er niet meer aen.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Ia kynt, men hooft is los</l>
+                    <l>Noch van al dat geraes, maer soo 'k die loose vos</l>
+                    <l>Eens by de kladden krijg, ik sel het hem betalen</l>
+                    <l>Dat sweer ik hoog en duur, of de Duivel moet men halen.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Lobbr.</hi></speaker>
+                    <l>Wat is dat Trijntje buur? wie het et jou edaen?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Hier Krijn, die swarte smit, die staeg sen vrou durft slaen,</l>
+                    <l>En niemant aêrs.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Lobbr.</hi></speaker>
+                    <l>Wie? Neel; dat hem de pokken schennen,</l>
+                    <l>Die eervergeten hont, wie sou 't bedenken kennen?</l>
+                    <l>Nou hy heur moye goetje het verdomineert,</l>
+                    <l>Nou noch te smijten? denkt eens hoe de tijt verkeert.</l>
+                    <l>Eerst was't, wat lustje lief, waer wil ik je nou voeren,</l>
+                    <l>Segt wat je hart maer denkt.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>En nou is 't hoer der hoeren!</l>
+                    <l>Siet, soo veranderen de Vryers in de Mans.</l>
+                    <l>Wel Kyeren wat raet? wat seg jy Fokel Ians?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Fokel.</hi></speaker>
+                    <l>Wat sou ik seggen? kint, je weet dat Man en Vrowen,</l>
+                    <l>Of sy schoon kijven, moeten evenwel huys houwen.</l>
+                    <l>Ey eens gedronken, laet dat loopen soo het wil,</l>
+                    <l>Sy sullen t'samen wel weêr effnen heur verschil;</l>
+                    <l>Want hier recht uyt e kalt, of al heur moje goetje</l>
+                    <l>Is deur de keel elapt, men lieve Moêr, dat moetje</l>
+                    <pb n="13"/>
+                    <l>Hem niet toe rekenen, had sy gelijk een vrou</l>
+                    <l>Behoort, wel op gepast, gelooft men vry, daer sou</l>
+                    <l>Non duske onenicheyt in huys niet sijn, dus laten</l>
+                    <l>Wy 'er ons niet meê bemoeyen, want ten sel der niet in baten.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Lobbr.</hi></speaker>
+                    <l>Neen dat verstae ik niet, wat seg jy Pete May?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">May.</hi></speaker>
+                    <l>Wel dat w'er hier ontboôn, en dat me aen heur say</l>
+                    <l>Waer het op stont he! wat dunkt 'er jou of Trijntje.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Al goet wat Lijsje doet, kaktse in 't warmos, se eet het niet.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">May.</hi></speaker>
+                    <l>Kom hier, kom hier eens Prijntje,</l>
+                    <l>Ey laetje Spin-tuyg staen.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Prijn.</hi></speaker>
+                    <l>Wel wat belevet jou?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Lobbr.</hi></speaker>
+                    <l>Gaet tot Krijn onverstants, en seght eens dat de Vrou</l>
+                    <l>Hier datelijk komen moet, en sonder lang te bayen;</l>
+                    <l>En ofse jou niet kon, soo seght tot Pete Mayen,</l>
+                    <l>Daer is een vrou die heur hooghnoodigh spreeken moet,</l>
+                    <l>Daer heur geluk aen hankt. Daer, dat 's voor jou.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Prijn.</hi></speaker>
+                    <l>Dat is goet,</l>
+                    <l>Ik loop'er heen.</l>
+                </sp>
+                <stage><hi rend="i">binnen.</hi></stage>
+                <sp>
+                    <speaker><hi rend="i">Lobbr.</hi></speaker>
+                    <l>Dat is wel, en wilt terstont weêrkeeren.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Fokel.</hi></speaker>
+                    <l>Wat selje 'er seggen?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">May.</hi></speaker>
+                    <l>Als dat wy het niet begeeren</l>
+                    <l>Van heur, dat sy subjekt sal blijven van 'er man.</l>
+                    <l>Maer tant weer bieden, soo lang als se 't harden kan.</l>
+                    <l>Of dat men anders haer met kracht hier toe sal dwingen,</l>
+                    <l>Met alle man: en dat, dat past jou sonderlingen</l>
+                    <l>Vrouw Lobberig om haer te seggen, want jy siet</l>
+                    <l>Soo wat aensienlijk, en 't voegt wel dat jy gebiet.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Lobbr.</hi></speaker>
+                    <l>Neen daer is Fokel Ians, die kense, die selt passen.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Fokel.</hi></speaker>
+                    <l>Ey ey, tut tut, jy selt dat varreken wel wassen.</l>
+                    <l>Neen moêr, jou past 't gesagh, jou wesen wijst het uyt:</l>
+                    <l>Want al wat datje seght, dat bint, dat klemt, dat sluyt.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Lobbr.</hi></speaker>
+                    <l>Soo, scheermen wat: ik meen daer jy het ook laet leggen,</l>
+                    <l>Dat vat vry niemant aen.</l>
+                </sp>
+                <pb n="14"/>
+                <stage><hi rend="i">Ieremi uyt.</hi></stage>
+                <sp>
+                    <speaker><hi rend="i">May.</hi></speaker>
+                    <l>Wel wat kom jy hier seggen?</l>
+                    <l>Ieremie wat is 'er gaens?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Ierem.</hi></speaker>
+                    <l>Sen man sta voor de deur,</l>
+                    <l>Se vra 'k na hum, se seg, se moet kom tot te schreur,</l>
+                    <l>De kleerma'k, watte weet ik.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Wel hoer de gek iens walen.</l>
+                    <l>Hier kromtong spreek recht uyt.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Ierem.</hi></speaker>
+                    <l>De duyf moetje wel halen</l>
+                    <l>Iou Akremens qua Trijn. Iy scheer altijdt de gek</l>
+                    <l>Mette my. Sierne Caton.....</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">May.</hi></speaker>
+                    <l>Weg weg, en bond den bek.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Fokel.</hi></speaker>
+                    <l>Nou soen menkaêr weêr peys.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Dat dunkt men ongeraden,</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Fokel.</hi></speaker>
+                    <l>Ieremias....</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Ierem.</hi></speaker>
+                    <l>E bese mon ku, ma boesje ette malade.</l>
+                </sp>
+                <stage><hi rend="i">Ieremi binnen.</hi></stage>
+                <sp>
+                    <speaker><hi rend="i">Lobb.</hi></speaker>
+                    <l>May, seght men Iorden, dat 't men niet en komt gelegen:</l>
+                    <l>En laet hem gaen na huys, seg, 'k heb verlet gekregen,</l>
+                    <l>Daer is Prijn, wel komtse?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Prijn.</hi></speaker>
+                    <l>I jo, sie volliget mi op stunt,</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Lobb.</hi></speaker>
+                    <l>Non kyeren, siet dat jy jou respekt wel houwen kunt.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Neeltje uyt.</hi></speaker>
+                    <l>Moet ik hier wesen.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">May.</hi></speaker>
+                    <l>Ia.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Neel.</hi></speaker>
+                    <l>Wel vrienden wat is je begeeren,</l>
+                    <l>Dat jy men hier ontbiet? ik moet strax weder keeren.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Lobb.</hi></speaker>
+                    <l>Soo haest niet, sit wat. Maer wy hooren tot ons leet,</l>
+                    <l>Als dat jon bullebak, jou man sijn plicht vergeet;</l>
+                    <l>En jy 't geduldigh lijt, dat staet ons niet te lyen.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Neel.</hi></speaker>
+                    <l>Wat raet?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Lobb.</hi></speaker>
+                    <l>Wat raet? dat jy selt van hem scheyen,</l>
+                    <l>Of staetje dat niet aen, soo maekt dat jy jou weert,</l>
+                    <l>Soo lang je staen kunt.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Neel.</hi></speaker>
+                    <l>Dat en heb ik noyt geleert,</l>
+                    <l>Noch wilt niet leeren, want ten sou men ook niet voegen,</l>
+                    <pb n="15"/>
+                    <l>Ie weet wel dat men moet sen man steets vergenoegen,</l>
+                    <l>Sulcx past een deughtsaem wijf.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Fokel.</hi></speaker>
+                    <l>En ook een deugtsaem man,</l>
+                    <l>Dat hy sijn Huysvrou acht, in alles waer hy kan.</l>
+                    <l>'t Sijn swacke vaetjes, en se hebben veul te lyen.</l>
+                    <l>Foey Wijvesmijters, jy selt nimmermeer bedyen.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Neel.</hi></speaker>
+                    <l>En van hem scheyen, dat en vind ick niet geraên?</l>
+                    <l>Die dat gedaen heeft, heeft het die na wens gegaen?</l>
+                    <l>Siet daerom dankt my best dat ik geduldigh drage</l>
+                    <l>Al 't geen dat hy my aen doet.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn met een borst.</hi></speaker>
+                    <l>O plaegh van alle plagen!</l>
+                    <l>Sie daer ik barst van spijt. O bloet was het mijn man,</l>
+                    <l>Hoe sou hy 'er onder deur.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Neel.</hi></speaker>
+                    <l>Ia wel wat was het dan!</l>
+                    <l>Ik meen was het jou man, jy soud wel anders singen.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Wel, soo ik hem niet dwing, soo sal by my bedwingen.</l>
+                    <l>Ik wou dat hy hier was, ik sou dien lompen gek</l>
+                    <l>De neus uyt 't aensicht bijten, en spuwense in sijn bek.</l>
+                    <l>Is hy een vuurge Draek, ik sal een Basiliskus wesen,</l>
+                    <l>Hy sel byget voor my, en ik voor hem niet vreesen.</l>
+                    <l>Ik ly niemant boven my, by zy ook wie hy zy.</l>
+                    <l>Ik sel die Melis Malmont dwingen, of hy my.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Neel.</hi></speaker>
+                    <l>Dat is maer sotte praet, dat Vrouwen tegens Vrouwen</l>
+                    <l>Wat doen, dat is wat aêrs. dus wilt men vry vertrouwen,</l>
+                    <l>Dat ik sen vuysten vrees, sen voeten ook niet min</l>
+                    <l>Voor schoppen, en voor slaen.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Lobb.</hi></speaker>
+                    <l>Wat benje dan van 't sin?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Neel.</hi></speaker>
+                    <l>Te lijden met gedult, al wat by kan begeeren.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Lobb.</hi></speaker>
+                    <l>'t Is wel, jou saken sijn gedaen, je kunt weer t'huyswaert keeren.</l>
+                    <stage><hi rend="i">Neel binnen.</hi></stage>
+                    <l>Wat sel men hier in doen? wijl sy het goet bevint,</l>
+                    <l>Ie weet, 't is man en vrouw!</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Wel isse niet verblint?</l>
+                    <l>'k Loofse de vrouwen in Mos kovien moet slachten,</l>
+                    <pb n="16"/>
+                    <l>Die als de mans haer slaen, heur selven lukkigh achten.</l>
+                    <l>Ik ben wel lukkig, dat ik in dat duivels lant</l>
+                    <l>Niet ben gebooren.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Lobb.</hi></speaker>
+                    <l>Ik ben ook van dat verstant.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>En op de Kakkedemie gaet men noch de luy bedriegen,</l>
+                    <l>En speulen dat men de Vrouwen goet maken kan met wiegen:</l>
+                    <l>Maer 'k meen, soo Kees die pots my wou speelen, dat hy sou</l>
+                    <l>Beproeven, hoe het ging in 't wiegen van een vrou.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Fokel.</hi></speaker>
+                    <l>Dat is maer wisje wasje, die luy moetje niet gelooven.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>'t Is daer meê niet genoeg, men gaet ons eer verdooven.</l>
+                    <l>Ik sel dar gekke spul noch eens op schrikken gaen.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">May.</hi></speaker>
+                    <l>Soo jy geraên wilt sijn, soo laet dat vrylijk staen,</l>
+                    <l>Die luy die voeren schut, je sout 'et jou beklagen,</l>
+                    <l>'t Is of se dammen, want sy slaen met dubble slagen.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Dat 's niet een beet, kom May, wat is 'er wel te quaet?</l>
+                    <l>Ey, laet jy luy staen?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">May.</hi></speaker>
+                    <l>Hoe veel dat 'er te quaet is, laet</l>
+                    <l>Sien, aen Bier en Brandewijn, thien stuyvers, en een hallef?</l>
+                    <l>Dat 's voor een pijp Tabak.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Daer, een Vaen te goet, ter eeren van Duk dallef,</l>
+                    <l>Die eerlijke Man. nou moet ik onse Kees</l>
+                    <l>Wat soppen gaen, 't is toch een rechte pimpelmees.</l>
+                </sp>
+                <stage><hi rend="i">Trijn binnen.</hi></stage>
+                <sp>
+                    <speaker><hi rend="i">Lobb.</hi></speaker>
+                    <l>Wy komen flus by een.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Fokel.</hi></speaker>
+                    <l>Sen bier niet te verloopen,</l>
+                    <l>Ik ben geen Slatius.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Lobb.</hi></speaker>
+                    <l>Die most het ook bekoopen.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Mya.</hi></speaker>
+                    <l>Kom gaenwe op de plaets wat sitten in de lucht.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Lobb.</hi></speaker>
+                    <l>Hey laet ons vrolijk sijn, die suchten moet die sucht.</l>
+                </sp>
+            </div>
+            <div type="scene">
+                <pb n="17"/>
+                <head rend="h3">Derde uytkomst.</head>
+                <stage><hi rend="i">Krijn in Kees, en Kees in Krijnen kleeren.</hi></stage>
+                <sp>
+                    <speaker><hi rend="i">Kees.</hi></speaker>
+                    <l>IK weet niet Krijn, sel jou dit harrenas wel passen?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Weest daer niet voor bevreest, ik sel dat Varken wel wassen:</l>
+                    <l>Ik wou dat 's hier al was, men vuysten jeuken al.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Kees.</hi></speaker>
+                    <l>Krijg jy de onder laeg, ik meen dat sy jou beuken sal,</l>
+                    <l>Dies sijt wel op je hoe, want eerj'er eens om denkt,</l>
+                    <l>Hebje klop eweg.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Soo sy my die uyt miltheyt schenkt;</l>
+                    <l>'k Ben ook niet gierig Kees. Ie kuntje wat verschuylen,</l>
+                    <l>Of gaet tot onsent.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Kees.</hi></speaker>
+                    <l>Wel fie daer, daer sijn twee muylen,</l>
+                    <l>Flik daer wat aen soo als je kent, want of je die bederff,</l>
+                    <l>Dat schaet niet.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>'t Is wel, je kuntse setten op mijn kerst-</l>
+                    <l>Stok, hoorje Kees; 'k selt met je Wijf of rekenen.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Kees.</hi></speaker>
+                    <l>Dat is heel goet, want ik verstamen op geen tekenen.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Doe je maet, kom ik sal 't je leeren, hoor je wel.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Kees.</hi></speaker>
+                    <l>Men hart verlankt, hoe dit spul afloopen sel.</l>
+                </sp>
+                <stage><hi rend="i">Kees bin.</hi></stage>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Nou Spanriem, Kurrikbien, Klopschinkel, kom gesellen,</l>
+                    <l>Ie moet mijn dienstig sijn, 'k sal jou in orden stellen.</l>
+                    <l>Verlaetmen niet, nu dat ik een boosaerdig wijf</l>
+                    <l>Wil temmen; en kom hier mijn lust, mijn tijtverdrijf,</l>
+                    <l>Ik sal tot Trijn hier komt, my wat met u vermaeken.</l>
+                    <l>O nobele Toebak, wie kan met recht u laken?</l>
+                    <l>Iy jaegt de fluymen weg; jy reynight het verstant;</l>
+                    <l>Iy ben het beste kruyt, dat men ter werelt vant.</l>
+                    <l>En jy, o suyver nat, o lekker brande netje!</l>
+                    <l>Iy trorst te samen 't alderlekkerste banketje.</l>
+                    <l>O soo een roemertjen, seyt Ian, verfrist het bloer.</l>
+                    <l>Ik mach 't by get als broot, dat sildermentse goet.</l>
+                    <l>Holla daer 's Trijn, daer meê soo sal het spul beginnen.</l>
+                </sp>
+                <pb n="18"/>
+                <sp>
+                    <speaker><hi rend="i">Trijn uyt.</hi></speaker>
+                    <l>Daer sit mijn Ezel, die voor my de kost moet winnen.</l>
+                    <l>Maer het hy niet te doen? wel Kees, boe sitje soo.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>He!</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>He je moêr toe sot, jou luye biest.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Hoo hoo,</l>
+                    <l>'t Begint, 't sel nou wel gaen.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Geeft antwoort op men vragen;</l>
+                    <l>En speelt de stomme niet, of 't sal 'er vreeslijk dagen,</l>
+                    <l>Wel siet dien Babok, wel dat jou sint Velten schen,</l>
+                    <l>Wat schortje, spreekje niet?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Dat ik met werken ken.</l>
+                    <l>'k Ben moe.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Seght luy, kom aen, ik selje wel kloek maken?</l>
+                    <l>Waer 's hier de Bulle-pees.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Hoe Duivel sel die koek smaken?</l>
+                    <l>Sy eerst, en daer na ik.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Dat 's ien.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Dat 's twie.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Wel Kees, wat gaje aen?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Dat 's drie, dat 's vier, dat 's vijf.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Iou Schelm, sel jy my slaen,</l>
+                    <l>Dat 's 't eerst sen leven.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>En het sal het lest niet blijven,</l>
+                    <l>Iou Keuninkrijk is uyt, of in 'er leste bedrijven.</l>
+                    <l>'k Heb lang genoeg geleên jou kijven en jou slaen.</l>
+                    <l>Hou daer, soo elk sijn beurt.</l>
+                </sp>
+                <stage><hi rend="i">Ieremie uyt.</hi></stage>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Wel Kees, wat gaje aen?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Dat is noch niemendal, jy selt noch anders singen.</l>
+                    <l>Iy sint mijn Merry, jy selt door de hoepels springen,</l>
+                    <l>En doen al wat ik wil, kom, 't is noch niet gedaen,</l>
+                    <l>Sa wakker setje schrap.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Wel Kees, wat gaje aen?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Dat is je ouwe sang, hoe, moetje dat niet lyen.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Denk dat ik ben jou vleys en bloet,</l>
+                </sp>
+                <pb n="19"/>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Soo sel ik me dan kastyen.</l>
+                    <l>Ie weet wel dat 'k je Vaêr beloften heb gedaen,</l>
+                    <l>Toen ik je trouwen sou, dat ik je acht sou slaen.</l>
+                    <l>'t Is noch maer seeven, kom je payt men met geen praetje</l>
+                    <l>Hou daer, dat 's acht, en een voet in 't gat.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Och och! mijn alderliefste Maetje</l>
+                    <l>Mijn Kees Kornelisen ik bid, gena gena,</l>
+                    <l>Denkt dat ik beu jou vrouw.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>En ik jou man, Ia, ja,</l>
+                    <l>Waer 's nu de bullepees die ik soo dik moest proeven,</l>
+                    <l>Hier swijn flux geest se my, begint nou eens te snoeven,</l>
+                    <l>Kom door men bienen heen; dit lijkt een vremde saek.</l>
+                    <l>Kijk vrienden, kijk, hier is Sint Ioris op den draek.</l>
+                    <l>Blijft leggen, sonder hand of voeten te bewegen:</l>
+                    <l>En hoort na 't geen ik seg, en letter op te deegen;</l>
+                    <l>En sweert hier by het dolste en quaerste wijf van de stat,</l>
+                    <l>En by de droes, daer eens een vrouwen hoost op sat;</l>
+                    <l>Dat jy na desen tijt u sult ootmoedig toonen,</l>
+                    <l>En voegen na mijn wil, so sal ik je verschoonen.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Soo 'k anders doe als dat men Heer en man gevalt,</l>
+                    <l>Soo jaegt men vrylijk weg, ik ben te vreên.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Ik sal 't</l>
+                    <l>'t Gelooven; nou staet op, het is je al vergeven</l>
+                    <l>Al wat je hebt gedaen; wilt voortaen deugdig leeven.</l>
+                    <l>Gaet heen na binnen toe, ik kom strax weêr, ik moet</l>
+                    <l>Hier by tot Krijn buurs gaen.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>'t Is wel al wat je doet.</l>
+                </sp>
+                <stage><hi rend="i">Ieremie. Maygats. Lobbrig. Fokel.</hi></stage>
+                <sp>
+                    <speaker><hi rend="i">Ierem.</hi></speaker>
+                    <l>Coraes couraes den Bruy, fiktore he fiktoore!</l>
+                    <l>De boos Trijn is getem, dat is de drolg histoore.</l>
+                    <l>Ha! Keesje, ha! braff man, dat jy soo triompheer:</l>
+                    <l>He legrement pas op.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">May.</hi></speaker>
+                    <l>Wat is daer weêr?</l>
+                    <l>Ieremie wat is 'er gaens?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Ieremi.</hi></speaker>
+                    <l>De diabel ise gesturve,</l>
+                    <pb n="20"/>
+                    <l>Viva, de diabel is mort, de diabel is mort.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Lobb.</hi></speaker>
+                    <l>Wat? vat hem by de lurven.</l>
+                    <l>Hier Wael, hoe raes je soo?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Ierem.</hi></speaker>
+                    <l>He Wael! Karonje gemake niete veul de Wael.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Fokel.</hi></speaker>
+                    <l>Nou Ieremias nou, doet ons toch wat verhael</l>
+                    <l>Van al jou blijtschap.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Ierem.</hi></speaker>
+                    <l>Hoore qua Trijn, so heb e krege</l>
+                    <l>De susslet pour le boes, de fark se soo bote swege,</l>
+                    <l>Se sek nok boe nok ba, ass' ha, mon live Man</l>
+                    <l>Gena, gena, gena.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Fokel.</hi></speaker>
+                    <l>Maer! hoe 't verkeeren kan.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Lobb.</hi></speaker>
+                    <l>Ik looft men leven niet, de Wael die moet het liege:</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Ieremi.</hi></speaker>
+                    <l>Like! jy like selff, ike jou niete bedriege Parmafoy!</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Lobb.</hi></speaker>
+                    <l>Kom kyere, laet ons dat eens besien.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">May.</hi></speaker>
+                    <l>Hoor Lobbrig: 't spreekwoort seyt, ongesien kan geschiên.</l>
+                </sp>
+            </div>
+            <div type="scene">
+                <head rend="h3">Vierde uytkomst.</head>
+                <stage><hi rend="i">Krijn. Kees. Neel.</hi></stage>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Kom Kees, jou vodden an, dat werrik is geklonken,</l>
+                    <l>Die Droes die is getemt, die dolle moed gesonken.</l>
+                    <l>Maekt dat jy jou respekt nou hout gelijk een Man,</l>
+                    <l>Of anders ben je 't kint, soo sy vernemen kan</l>
+                    <l>Dat ik haer in jou schijn door slagen wist te temmen.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Kees.</hi></speaker>
+                    <l>Is 't waer het geenje seght? ik schijn in vreugt te swemmen:</l>
+                    <l>Hebt dank dat jy de Droes hebt uyt haer lijff gepraet.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Gepraet? het praten hellept niet mijn lieve maet,</l>
+                    <l>'t Was spanriems oly, en het vet van Bullepeese</l>
+                    <l>Dat Trijn gebrak, eer sy te degen sou geneesen.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Neel.</hi></speaker>
+                    <l>Die konsten kan men Man, onthou jy maer sijn less,</l>
+                    <l>Soo wordje noch geleert.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Kees.</hi></speaker>
+                    <l>Daer sel ik eens een flefs</l>
+                    <l>Van d' alderbeste wijn, Krijn Oom, voor vulle laeten.</l>
+                </sp>
+                <pb n="21"/>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Dit sal wel gaen, maer Wijf past hier niet van te praten</l>
+                    <l>Op lijfstraff.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Neel.</hi></speaker>
+                    <l>Neen ik sel men dat wel wachten Man,</l>
+                    <l>En achten u geboôn, soo ik se achten kan.</l>
+                    <l>Op hoop dat jy u gunst ook sult aen my bewijsen.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Kom ben je klaer, soo laet ons sien hoe dat jou Trijn sel prijsen.</l>
+                </sp>
+            </div>
+            <div type="scene">
+                <head rend="h3">Vyfde uytkomst.</head>
+                <stage><hi rend="i">Lobbrig. Trijn. May. Fokel. Ieremie.</hi></stage>
+                <sp>
+                    <speaker><hi rend="i">Lobb.</hi></speaker>
+                    <l>Maer watje ons vertelt? hoe kan de tijt verandren.</l>
+                    <l>Heugt het jou toen we flus noch saten by malkandren?</l>
+                    <l>Dat jou geen wint te hart kon wayen: en nou sta</l>
+                    <l>Ie als een Poelsnip. Maer! hoe is 't verkeert soo dra?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Ik wist niet wat ik deê.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Fokel.</hi></speaker>
+                    <l>Se is nu wijs geworden.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">May.</hi></speaker>
+                    <l>Ieremie alle maets goe maets.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Lobb.</hi></speaker>
+                    <l>Dat toon ik ook aen Iorden.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Ach my! daer is men man. Genavent liefste lieff.</l>
+                </sp>
+                <stage><hi rend="i">Kees. Krijn. Neel uyt.</hi></stage>
+                <sp>
+                    <speaker><hi rend="i">Kees.</hi></speaker>
+                    <l>Genavent.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Is 'er iet by my tot u gerieff</l>
+                    <l>Dat openbaert my, en ik sal 'er my na voegen.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Kees.</hi></speaker>
+                    <l>'k Wil dat je Krijn buur sult in alles vergenoegen,</l>
+                    <l>En bidden om gena voor al de moeylijkheyt</l>
+                    <l>Die jy hem flus aen deed.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Siet hoe ik ben bereyt</l>
+                    <l>Te volgen u bevel. Buurman wilt my vergeven</l>
+                    <l>Mijn schelden en geraes, en wat ik heb misdreven;</l>
+                    <l>'k Sal voortaen trachten als een goe gebuur befaemt</l>
+                    <l>Bejegening te doen in alles soo 't betaemt.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Dat 's erelijk esegt. Iy luy sult tuygen weesen.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Fokel.</hi></speaker>
+                    <l>Nou leyt de haet ter neêr, de vreê is opgereesen.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Trijn.</hi></speaker>
+                    <l>Ik ben verheugt in 't hart dat ik men man behaeg.</l>
+                    <pb n="22"/>
+                    <l>Gy Vrouwen die tot noch u mannen sijt tot plaeg,</l>
+                    <l>Och! leert gelijk als ik u Man te recht beminnen.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Kees.</hi></speaker>
+                    <l>Ik wens den Hemel u verkenen wil goe sinnen:</l>
+                    <l>Wat segt Iermie 'er toe?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Ieremi.</hi></speaker>
+                    <l>Amen.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">May.</hi></speaker>
+                    <l>Wel dat komt seker soet.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Fokel.</hi></speaker>
+                    <l>Wat seg je Ieremie?</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Lobb.</hi></speaker>
+                    <l>Wel Amen dat is goet,</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Kees.</hi></speaker>
+                    <l>Ia die vol Wijn, soo kan men lustig vrolijk sijn,</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Neel.</hi></speaker>
+                    <l>Die nu geen vreugt bewijst, dat moet een rechte Molijk sijn.</l>
+                </sp>
+                <sp>
+                    <speaker><hi rend="i">Krijn.</hi></speaker>
+                    <l>Hu soo? wie is 'er nu de welk mijn spreuk niet toe staet?</l>
+                </sp>
+                <stage><hi rend="i">Daer is geen Vrou quaet, soo 't den Man niet toe
+                    laet.</hi></stage>
+                <p><hi rend="spat">UYT</hi>.</p>
+                <p><hi rend="spat">JILLIS NOSEMAN</hi>.</p>
+            </div>
+            </div>           
+        </body>
+    </text>
+
+</TEI.2>

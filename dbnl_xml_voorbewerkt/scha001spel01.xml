@@ -1,0 +1,1808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//DBNL//DTD TEI.2 XML//NL" "https://www.dbnl.org/xml/dtd/teixlite.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Spel des gheschils tot Athenen</title>
+                <title type="subordinate">Ghenomen uyt het 17 Cap. van de Handelinghen der
+                    Apostelen</title>
+                <author>Dirk Schabaelje</author>
+            </titleStmt>
+            <editionStmt>
+                <edition> Dit bestand biedt, behoudens een aantal hierna te noemen ingrepen, een
+                    diplomatische weergave van <hi rend="i">Spel des gheschils tot Athenen. Ghenomen
+                        uyt het 17 Cap. van de Handelinghen der Apostelen</hi> van Dirk Schabaelje
+                    uit 1617. </edition>
+                <respStmt>
+                    <resp>
+                        <corr>In het origineel komen verschillende drukletters voor die in deze
+                            digitale editie niet kunnen worden weergegeven. Om dit onderscheid niet
+                            verloren te laten gaan, is in de hoofdstukken waar gotische en romeinse
+                            drukletters door elkaar voorkomen, alle romeinse tekst weergegeven als
+                            cursief. Gotisch is in deze hoofdstukken zonder opmaak
+                            weergegeven.</corr>
+                        <corr>fol. A3v: accolades verspreid over meerdere regels kunnen in deze
+                            digitale versie niet weergegeven worden. Daarom wordt de accolade hier,
+                            met bijbehorende tekst, op iedere regel herhaald.</corr>
+                        <corr>fol. A4r: stnderen → studeren: ‘wonder ist, datmen deur veel
+                            studeren’.</corr>
+                        <corr>fol. D2r: zorgheu → zorghen: ‘niet die Mensch, wat hoef ick dus te
+                            zorghen’.</corr>
+                        <corr>fol. D2r: Natuuerlijck → Natuerlijck: ‘Maer dat Natuerlijck hem de
+                            Mensch na lust’.</corr>
+                        <corr>fol. E1v: een deel van de tekst is moeilijk leesbaar. Dat is hier
+                            tussen vierkante haken aangegeven.</corr>
+                        <corr>fol. E1v: uu → nu: ‘Tis nu de rechte tijdt’.</corr>
+                    </resp>
+                </respStmt>
+            </editionStmt>
+            <extent><!-- aantal pagina's --></extent>
+            <publicationStmt>
+                <idno type="titelcode">scha001spel01_01</idno>
+                <idno type="format">DBNL-TEI 1</idno>
+                <availability>
+                    <p>2022 dbnl</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note/>
+            </notesStmt>
+            <sourceDesc>
+                <bibl>
+                    <idno type="isbn"/>
+                    <idno type="usedcopy">exemplaar Universiteitsbibliotheek Amsterdam, signatuur:
+                        OTM: O 65-122, scan van Google Books</idno>
+                </bibl>
+                <p>Dirk Schabaelje, <hi rend="i">Spel des gheschils tot Athenen. Ghenomen uyt het 17
+                        Cap. van de Handelinghen der Apostelen</hi>. Nicolaes Biestkens, Amsterdam
+                    1617</p>
+                <p>&#160;</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Wijze van coderen: standaard</p>
+                <p/>
+            </projectDesc>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="nl">Nederlands</language>
+            </langUsage>
+        </profileDesc>
+        <ebook>
+            <bibl>
+                <title type="main">Spel des gheschils tot Athenen</title>
+                <title type="subordinate">Ghenomen uyt het 17 Cap. van de Handelinghen der
+                    Apostelen</title>
+                <author>Dirk Schabaelje</author>
+                <idno type="isbn"/>
+                <idno type="nur"/>
+                <imprint>
+                    <date/>
+                    <publisher/>
+                    <pubPlace/>
+                </imprint>
+            </bibl>
+            <idno type="isbn"/>
+            <idno type="nur"/>
+            <availability>
+                <p/>
+            </availability>
+            <order>
+                <price curr="euro"/>
+                <link/>
+            </order>
+            <blurb>
+                <p/>
+            </blurb>
+            <titlepage>
+                <p/>
+            </titlepage>
+            <colofon>
+                <p/>
+            </colofon>
+        </ebook>
+        <pod>
+            <bibl>
+                <title type="main">Spel des gheschils tot Athenen</title>
+                <title type="subordinate">Ghenomen uyt het 17 Cap. van de Handelinghen der
+                    Apostelen</title>
+                <author>Dirk Schabaelje</author>
+                <idno type="isbn"/>
+                <idno type="nur"/>
+                <imprint>
+                    <date/>
+                    <publisher/>
+                    <pubPlace/>
+                </imprint>
+            </bibl>
+            <idno type="isbn"/>
+            <idno type="nur"/>
+            <availability>
+                <p/>
+            </availability>
+            <order>
+                <price curr="euro"/>
+                <link/>
+            </order>
+            <blurb>
+                <p/>
+            </blurb>
+            <titlepage>
+                <p/>
+            </titlepage>
+            <colofon>
+                <p/>
+            </colofon>
+        </pod>
+        <revisionDesc>
+            <change>
+                <date>2022-02-11</date>
+                <respStmt>
+                    <name type="person">RK</name>
+                </respStmt>
+                <item>colofon toegevoegd</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <interpGrp>
+            <interp type="primair" value="griek01"/>
+        </interpGrp>
+        <front>
+            <div type="chapter">
+                    <pb rend="blank" n="voorplat"/>
+                    <pb rend="blank" n="binnenkant voorplat"/>
+                    <pb ed="fol." n="A1r"/>
+                    <p>Spel des gheschils</p>
+                    <p>tot</p>
+                    <p><hi rend="spat">ATHENEN</hi>,</p>
+                    <p>Ghenomen uyt het <hi rend="i">17</hi> Cap. van de Handelinghen der
+                        Apostelen:</p>
+                    <p><hi rend="i">Ende in Rijm ghesteldt</hi></p>
+                    <p>door</p>
+                    <p><hi rend="i">Dierick Scabaelje.</hi></p>
+                    <figure>
+                        <p><xptr to="scha001spel01ill0001.png"/></p>
+                        <figDesc>Ghelijck een lelie onder de doornen. So is mijn vriendinne onder de
+                            dochteren Cant. 2</figDesc>
+                    </figure>
+                    <p><hi rend="i">t'Amsterdam,</hi></p>
+                    <p>&#160;</p>
+                    <p>By Nicolaes Biestkens, op de nieuwe-zijts achterburghwal, in de Lelie onder
+                        de Doornen. <hi rend="i">1617.</hi></p>
+
+                    <pb ed="fol." rend="blank" n="A1v"/>
+
+                </div>
+            <div type="chapter">
+                <pb ed="fol." n="A2r"/>
+                <head rend="h3">Kort inhouden van dit Spel.</head>
+                <p>PAulus gaende door de Konst-leerende, doch Afgodische Stadt van Athenen, also hem
+                    synen Gheest over haer Afgoderye ontsettet, bestraft hare ongheschicktheden, als
+                    oock de quade Leeringhe die daer door eenighe Philosophen vverdt ghedreven,
+                    ghelijck hy mede de Ioden aldaer vvonende niet voorby en gaet. Het ghemeene
+                    Volck (by tvvee Griecken uytghebeeldt) hier over vervvondert zijnde, vveten niet
+                    vvaer zijt hebben, prysen haer oude Leeringhe, doch vvenschen om een eenich
+                    ghevoelen in haer Gheleerden te moghen sien. Na desen komt er een die de
+                    vvaerheyt vvat spottelijcken seyt, vvil dese met vele meer andre dinghen
+                    berispen, by nae elcks gebreken aenvvysende. Hier na der Ioden Scholle gheopent
+                    zijnde, vverter een Iodisch ghesangh ghehoordt, vvaer nae Paulus hen voordraecht
+                    zyne Predicatie van Christo, ende also de selve van den Rabbi der Schole vverdt
+                    vvedersproken, so vverdt door die dispute den Heere Iesus aldaer dies te
+                    klaerder betuycht. Ende vvort voort dit eerste deel met een leerlijck Ghesanck
+                    besloten.</p>
+                <p>In het tvveede deel vverdt ghehoordt een vvandel-discours op de Marckt tusschen
+                    een Iode ende Grieck, die niet alleen de Predicatie Pauli gehoort hadden, maer
+                    oock de lessen der VVet. Ghy hebter oock een aensprake Pauli tot die beyde, by
+                    de vvelcke tvvee verscheyden Volckeren vverden uytghebeeldt: Ende vverdt dit
+                    deel mede met een Ghesangh besloten.</p>
+                <p>In het derde deel vvordt voorghestelt een gheheele redenstrijdt oft geschil
+                    tusschen een Stoyck ende een Epicurisch Phi-<pb ed="fol." n="A2v"/>losooph. Ende
+                    daer op comt vvederom uyt den Laccher Gelasius, die sulcke tvvistighe
+                    Philosophen ende Priesterlijcke gheleerde Personen na haer verdienste bespot.
+                    Daer op dan mede volcht een leerlijck ghesangh.</p>
+                <p>In het vierde ende laetste deel praten al vvandelende over de Marckt drie
+                    Koopluyden die den bedriegelicken ende vvoecker-soeckenden Koop-handel op haer
+                    maniere bestraffen ende verachten.</p>
+                <p>Voorts doet Paulus een Vermaninghe tot Bekeeringhe ende Boete, vvaer in hy van de
+                    voorz. Philosophen vvort tegen-ghesproken, met vervvonderinghe der voorsz.
+                    Coopluyden.</p>
+                <p>Eyndlijck volchter Pauli verschyninghe, beschuldiging en de verantvvoording voor
+                    den Raedt van Athenen, met t'samen zijne ontslaginghe: Ende ten lesten het
+                    sluytelijck gesanck.</p>
+                <figure>
+                    <p><xptr to="scha001spel01ill0003.png"/></p>
+                </figure>
+            </div>
+            <div type="chapter">
+                <interpGrp>
+                    <interp type="primair" value="tell001"/>
+                </interpGrp>
+                <pb ed="fol." n="A3r"/>
+                <head rend="h3">Sonnet.</head>
+
+                <lg type="poem">
+                    <l rend="; 1tab">Seer vvel en met goedt recht vermaent de VVyse-Man,</l>
+                    <l>Dat even 'tselve dat ghechiedt is, sal gheschieden,</l>
+                    <l>En dat het ghene dat ghedaen is by de Lieden</l>
+                    <l rend="; 1tab">Hier voormaels, oock ghedaen sal vvorden nu voortan.</l>
+                    <l>&#160;</l>
+                    <l rend="; 1tab">Iae datter gantsch niet nieuvvs is onder't groot ghespan</l>
+                    <l>Des Hemels, daer de Son soo snel pleecht door te vlieden.</l>
+                    <l>Die't segghen en het doen der menschen vvil bespieden,</l>
+                    <l rend="; 1tab">Zal vinden, datter gheen vvoordt vvaerder vvefen kan.</l>
+                    <l>&#160;</l>
+                    <l>Heeft Zeno de Stoïck den Nootdvvang sterck ghedreven?</l>
+                    <l rend="; 1tab">Heeft Epicuur ghestelt in vvellust 't hoochste goedt?</l>
+                    <l>Men vinter nu oock veel die haer tot vvellust gheven,</l>
+                    <l>&#160;</l>
+                    <l rend="; 1tab">En veel die even soo als Zeno zijn ghemoedt.</l>
+                    <l>VViert Paulus hier ghelooft, daer als een Sot gheplaecht.</l>
+                    <l>VVat vvonder ist, dat ghy <hi rend="i">Scabaelje</hi> me soo slaecht?</l>
+                </lg>
+                <p><hi rend="i">R. Telle</hi>.</p>
+
+            </div>
+            <div type="chapter">
+                <pb ed="fol." n="A3v"/>
+                <head rend="h3">Beelden van dit teghenvvoordich Spel.</head>
+
+                <table>
+                    <row>
+                        <cell>Paulus d'Apostel.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Corydon,</cell>
+                        <cell>} 3 Griecken.</cell>
+                    </row>
+                    <row>
+                        <cell>Iason,</cell>
+                        <cell>} 3 Griecken.</cell>
+                    </row>
+                    <row>
+                        <cell>Epistemon,</cell>
+                        <cell>} 3 Griecken.</cell>
+                    </row>
+                    <row>
+                        <cell>Gelasius, een belacher van allerley vreemde grillen.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Rabbi, d'Overste der Scholen,</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Lechi, een Iode.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Epicurus,</cell>
+                        <cell>} 2 Philosophen.</cell>
+                    </row>
+                    <row>
+                        <cell>Cleanthes,</cell>
+                        <cell>} 2 Philosophen.</cell>
+                    </row>
+                    <row>
+                        <cell>Titus,</cell>
+                        <cell>} 3 Koopluyden.</cell>
+                    </row>
+                    <row>
+                        <cell>Talus,</cell>
+                        <cell>} 3 Koopluyden.</cell>
+                    </row>
+                    <row>
+                        <cell>Eurialus,</cell>
+                        <cell>} 3 Koopluyden.</cell>
+                    </row>
+                    <row>
+                        <cell>President ende Raets-Heeren.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Ioodtsche Zanghers ende hoorders der VVet.</cell>
+                        <cell/>
+                    </row>
+                    <row>
+                        <cell>Choor.</cell>
+                        <cell/>
+                    </row>
+                </table>
+
+            </div>
+        </front>
+        <body>
+            <div type="act">
+                <div type="scene">
+                <pb ed="fol." n="A4r"/>
+                <head rend="h2"><hi rend="i">Eerste Deel.</hi></head>
+
+                <lg type="poem">
+                    <l rend="speaker"><hi rend="i">Paulus.</hi></l>
+                    <l rend="; 1tab"><hi rend="i">T</hi>Is waer dat ick wel eer van dees Atheensche
+                        Stadt</l>
+                    <l>Hebb' deur 'tgherucht ghehoort ende verstaen, hoe dat</l>
+                    <l>Men hier veel konsten leert in all dees hooghe Scholen,</l>
+                    <l>Ick prijs de konsten nut, die niet onkunstich dolen.</l>
+                    <l>De konsten diem' hier leert, zijn goet en zeer oorbaer.</l>
+                    <l>Alzoo de reden wyst te reed'nen wel en klaer.</l>
+                    <l>Te disputeren scherp, oft reeck'nen groote sommen,</l>
+                    <l>Oft dat den Schipper kan deur kond' der Sterren kommen</l>
+                    <l>Ter Haven wenschelyck, uyt kommer vry en last.</l>
+                    <l>O konsten prijsbaer goedt, voor diese ondertast.</l>
+                    <l>Dees Leer die wyst den Pat om comen tot meer weten:</l>
+                    <l>Maer ick sie dat dees stadt van Weters wert beseten;</l>
+                    <l>Doch Weters niet te recht, 'twelck myn ghemoedt beroert,</l>
+                    <l>Dees konstenaers die zyn tot ydelheyt vervoert;</l>
+                    <l>Dees Meesters, die men moemt, Wys-gierich, Wijs-gheleerde,</l>
+                    <l>Och waren zy maer wys, ick hietse gheen verkeerde.</l>
+                    <l>Dit draecht hem hier zo toe, wanneer men 'twel besiet,</l>
+                    <l>Dat menich weter weet, maer wetend' weet hy niet.</l>
+                    <l>Wat wordt hier al gheleert van Son, van Maen en Starren,</l>
+                    <l>Maer daer dit werck op wijst, by dien zyn dese Narren,</l>
+                    <l>Sy hebben hooch verstant, en zyn tot waen verlicht,</l>
+                    <l>Alsoo dat 'tware licht is buyten haer ghesicht.</l>
+                    <l>Ey siet eens aen dit werck, 'tis droeflijck om te merken;</l>
+                    <l>Mijn hert schrickt dat ick zie al dees afgoodtsche wercken:</l>
+                    <l>'tIs al Outaer en Beelt, waer ghy siet op de Straet,</l>
+                    <l>De Philosophen zijn van wijsheydt buyten Raedt.</l>
+                    <l>O Stadt, O schoone Stadt, de fleur van't wyse Griecken,</l>
+                    <l>Welckers roem wert verbreyt met uytghebreyde wiecken,</l>
+                    <l>V prijstmen niet te recht, u doen verdient gheen prijs,</l>
+                    <l>Ghy d'waelt in den Gods-dienst, u Wysen zijn niet wijs.</l>
+                    <l>Ghy bromt nochtans en stoft op u Gheleerde vele,</l>
+                    <l>Nochtans ghy hebt oft u heeft Sotheyt by der kele.</l>
+                    <l>Hoe zyt ghy so verdwaelt, hoe zijt ghy zo verblindt,</l>
+                    <l>Dat ghy u handen werck al meer dan God bemint?</l>
+                    <l>Maer wonder, wonder ist, datmen deur veel studeren,</l>
+                    <l>Den wercker van het werck niet eens zou kennen leeren.</l>
+                    <l>Ia wonder segh ick ist, 'tis wonder heel en al,</l>
+                    <l>Dat so 'tontfanghen goet ghebruyckt wordt tot mis val.</l>
+                    <l>De sin stijcht niet recht op, wie macht de ghever wesen?</l>
+                    <l>Dit Volck oft hen ghedacht is afghedwaelt van desen:</l>
+
+                    <pb ed="fol." n="A4v"/>
+                    <l>Oft 't soecken wordt niet wel met ernst van hen ghedaen,</l>
+                    <l>Off hebben lief ghehadt de ydel loghen waen,</l>
+                    <l>Off hebben gheerigh valsch de eyghen doolhofs wille</l>
+                    <l>Te veel ghegheven toe, want zy zyn nimmer stille.</l>
+                    <l>Haer weet-gierighen Gheest, en 'tvlieghende ghedacht,</l>
+                    <l>Vaert hooch ter Wolcken op, en neemt op alles acht:</l>
+                    <l>Doch d'overleggingh werdt met dwangh deur wil gheweven,</l>
+                    <l>Dies werdt het met den wint van dwalingh neer ghedreven,</l>
+                    <l>En valt tot in den gront, daer alle weten suft,</l>
+                    <l>Dan werdt den Gheest vervult met dwalende vernuft.</l>
+                    <l>So ist gheen wonder dat ghedoolt wordt op der straten,</l>
+                    <l>Wanneer den Vragher vreemt hem niet en stelt ghelaten,</l>
+                    <l>Haer wil een kennis wil, en spreeckt wie heeft onkond?</l>
+                    <l>In desen dool-hof wast den Boom van alle zond:</l>
+                    <l>Dit maackt een hoverdy, een weten groots, daer over</l>
+                    <l>Komt menich Afgodt hier, werdt die dan elck belover</l>
+                    <l>Soo stemmens' op haer dienst van offer en ghesmoock,</l>
+                    <l>De Duyvel die ontfanght dees gaven, en den roock</l>
+                    <l>Verdwynt in d'ydel Lucht, alsoo oock haer ghedachten,</l>
+                    <l>En d'ydelheyt ist loon en eynde van haer trachten.</l>
+                    <l>Sy weten nochtans wel, de werelt wert bestiert,</l>
+                    <l>Maer hebben Goden valsch tot sulcken werck verziert,</l>
+                    <l>Behalven die alleen, die deur besneden sinnen</l>
+                    <l>Haer dwalende vernuft met d'hulpe Gods verwinnen:</l>
+                    <l>Die deur het werck daer God zijn krachten me betuycht,</l>
+                    <l>Hebben met kracht den hals der stijfheyt neer ghebuycht.</l>
+                    <l>Maer d'and'ren hoop, eylaes! die steeckt so vol onrusten,</l>
+                    <l>Dat sy voor zalicheyt achten haer geyle lusten.</l>
+                    <l>Wat werdt doch uyt 'tghevolch van zo een Leer ghebroedt,</l>
+                    <l>Dan een woest leven, vreemt vant deuchdelycke goedt?</l>
+                    <l>En of nu and're sien wat Godlycks en onendich,</l>
+                    <l>Soo segghens' datter niet gheschiet, of 'tis nootwendich.</l>
+                    <l>'tZy dat nu de Natuer oft Godtheydt werdt beoocht,</l>
+                    <l>'tGhevolch van dese Leer styft 'tVolck dat niet en doocht.</l>
+                    <l>Goe Wetten zyn veracht, en ander goede Lieden;</l>
+                    <l>Want 'tsegghen is, dit moet, en 'tmoest also gheschieden.</l>
+                    <l>Dees nootdwinghende Leer doet staen int goede stil,</l>
+                    <l>Onschult aldus men doet, het moet doch gaen soo't wil.</l>
+                    <l>O Stadt, vermaerde Stadt, van wysheyt waert in deuchden,</l>
+                    <l>Hoe vol gheluck waert ghy, en ick te meer vol vreuchden!</l>
+                    <l>Maer nu eylacen! nu, hem mynen Gheest ontsteeckt</l>
+                    <l>Siend' uwen Gods-dienst, die int rechte u ghebreeckt,</l>
+                    <l>V overg'loof in my een hert beroert verweckte;</l>
+                    <l>Elck Philosooph in u, maeckt een besonder Secte.</l>
+
+                    <pb ed="fol." n="B1r"/>
+                    <l>Zy zijn soo vast ghestelt op dit of dat verstandt,</l>
+                    <l>Dat zy hier twisten licht om ydel stof en zandt,</l>
+                    <l>En of zy al neus-wijs van dinghen veel verhalen,</l>
+                    <l>Soo sietmens' inden gront van haer Gods-diensten dwalen.</l>
+                    <l>De Ioden die alhier t'Athenen zijn ter woon,</l>
+                    <l>Die zyn oock ongheleert, die Leere van Gods Soon</l>
+                    <l>Die is haer ergherlijck, zy willent doch niet weten</l>
+                    <l>Dat Iesus is de Christ, verklaert door de Propheten.</l>
+                    <l>De Wet die haer zou zijn een Leydts-man tot den Heer,</l>
+                    <l>Die werdt van haer mis bruyckt, recht teghen Christi Leer,</l>
+                    <l>O Volck! hertneckich Volck, dat lieflijck hoort te schynen,</l>
+                    <l>Daer door dit Heydensch' Volck mocht komen te versynen,</l>
+                    <l>Hoe duyster is dijn glans, ja swart ghelijck de nacht,</l>
+                    <l>Ghy zijt gheen Ioden recht van Abrahams Gheslacht:</l>
+                    <l>Ghy volght doch gheensins naer den voorganck van dien Ouden,</l>
+                    <l>Die met een vast gheloof op Gods beloft vertrouden.</l>
+                    <l>Maer laey ghy zijt al in scheuringh ghekrackeelt,</l>
+                    <l>Ghy zijt in rottery, vol twisten al ghedeelt,</l>
+                    <l>En dooldt door valschen waen, en soeckt verkeert u leven;</l>
+                    <l>My jammert uwes gantsch, O Volck van Godt verheven.</l>
+                    <l>Soo dat, indien my Godt met zynen Gheest versterckt,</l>
+                    <l>Die zeer vruchtbaer door my in alle plaetsen werckt,</l>
+                    <l>Indien my God segh ick hier hulper sy ghebleken,</l>
+                    <l>Soo sal ick t'Iood'sche Volck van Iesu Christo preken.</l>
+                </lg>
+            </div>
+           
+                <div type="scene">
+                <head rend="h3"><hi rend="i">Tvveede Handelinghe.</hi></head>
+
+                <lg type="poem">
+                    <l rend="speaker"><hi rend="i">Corydon.</hi></l>
+                    <l rend="; 1tab">Wat zeyt die Man al goets? Wat draecht hy ons al voren?</l>
+                    <l>My dunckt dat ick ben doof, en dat met open ooren,</l>
+                    <l>So weynich vaet ick van een reden soo ghedaen.</l>
+                    <l rend="speaker"><hi rend="i">Iason</hi></l>
+                    <l rend="; 1tab">Ick kan my vande zaeck haest niet met al verstaen,</l>
+                    <l>Zeer duyster, vreemt, verwart, zijn my alsulcke reden.</l>
+                    <l rend="speaker"><hi rend="i">Corydon</hi>.</l>
+                    <l rend="; 1tab">'tGhelach is ydel, want Atheen ist fleur der Steden.</l>
+                    <l rend="speaker"><hi rend="i">Iason.</hi></l>
+                    <l rend="; 1tab">Ia kost'lijck is Atheen van Tempels en Ghebouw,</l>
+                    <l>Maer 'thert van desen Mensch was met swaermoed'ghen rouw</l>
+                    <l>Daer over scheen beroert, alsoo dat hy ten leften,</l>
+                    <l>Dan Stadts Gods-diensten en Goon sprack niet een woort ten besten.</l>
+                    <l rend="speaker"><hi rend="i">Corydon</hi></l>
+                    <l rend="; 1tab">Een Iode leeckt te zijn aen handel en aen spraeck,</l>
+                    <l>Die hebben soo wat nieuws, oft aers, een vreemde saeck:</l>
+                    <l>Maer Gods-dienst scheelt van d'ons in wercken en in woorden.</l>
+
+                    <pb ed="fol." n="B1v"/>
+                    <l rend="speaker"><hi rend="i">Iason.</hi></l>
+                    <l rend="; 1tab">Dan onse Gods-dienst ick hem laster spreken hoorden,</l>
+                    <l>Ons Philosophen hy gheraeckt heeft aldermeest.</l>
+                    <l rend="speaker"><hi rend="i">Corydon.</hi></l>
+                    <l rend="; 1tab">Maer hoe? hier is in stadt menich vernuftich Gheest,</l>
+                    <l>Die Ioden plomp en slecht ghenoechsaem souden leeren.</l>
+                    <l rend="speaker"><hi rend="i">Iason.</hi></l>
+                    <l rend="; 1tab">Maer ick en hoorden hem de Ioden niet vereeren,</l>
+                    <l>Haer Gods-dienst en haer doen was vol ghebreck en lack.</l>
+                    <l rend="speaker"><hi rend="i">Corydon.</hi></l>
+                    <l rend="; 1tab">Wast dan van dese Goon dat dese Mensche sprack,</l>
+                    <l>En was zyn Leere nieuw? O wonder vreemde dinghen!</l>
+                    <l>Hier zyn Goden ghenoech, meer hoeftmer niet te bringhen!</l>
+                    <l>Wy hebben Tempels veel, en elck heeft zynen Godt:</l>
+                    <l>De Wijsheyt woont hier self, of Pallas die waer sot.</l>
+                    <l rend="speaker"><hi rend="i">Iason.</hi></l>
+                    <l rend="; 1tab">O jae! het is hier al wat datmen mach versinnen,</l>
+                    <l>Ons Philosophen kloeck en zijn niet t'overwinnen,</l>
+                    <l>Soo dat ick niemant ra t'instel van nieuwicheyt,</l>
+                    <l>Want 'twert altijt van d'een of ander wederleyt.</l>
+                    <l rend="speaker"><hi rend="i">Corydon.</hi></l>
+                    <l rend="; 1tab">Iae desen komt te laet, hy macht hier niet afklaren,</l>
+                    <l>Ons Wysen die zijn loos, deurtrapt en wel ervaren;</l>
+                    <l>Ons Platonischen zijn seer vroom in al haer zeen;</l>
+                    <l>Ons levens hoochste lust leeren d'Epicureen:</l>
+                    <l>Een leven streng in deucht de Stoysche ons voor-legghen,</l>
+                    <l>Maer of ons leven niet gheschickt waer nae hen segghen,</l>
+                    <l>Wanneer soodanich werck komt dryven uyt natuur,</l>
+                    <l>Die quaet verdorven is, en hout een wesen stuur,</l>
+                    <l>Sulcks segghense gheschiedt uyt nootdwangh, en versieren,</l>
+                    <l>Dat de voorsien'ghe Goon dit werck also bestieren.</l>
+                    <l>Sy schryven de Natuer veel quade krachten toe,</l>
+                    <l>So machm' oock leven quaet, al leerens' ons int goe.</l>
+                    <l>Doch moeten wy af-staen van boosheyt en die haten,</l>
+                    <l>En leven vroom, soo veel Natuer ons wil toelaten.</l>
+                    <l>Hoe loflijck is die Leer, waer van dees schoone Stadt,</l>
+                    <l>Een hooghe wyse naem heeft over langh ghehadt.</l>
+                    <l rend="speaker"><hi rend="i">Iason.</hi></l>
+                    <l rend="; 1tab">'t Is waer, elck mach hier stil met zijn Ghebroeders leven,</l>
+                    <l>Is yemandts hovaerdy yet wat te hooch verheven,</l>
+                    <l>Is yemants Saal oft Huys te kost'lijck ghestoffeert,</l>
+                    <l>Oft is yemant int kleet niet ghenoechzaem verneert,</l>
+                    <l>So zijnse som ghesint na haer kleedinghs wt wysen,</l>
+                    <l>dat zy de hovaerdy verachten en misprysen.</l>
+
+                    <pb ed="fol." n="B2r"/>
+                    <l rend="speaker"><hi rend="i">Corydon.</hi></l>
+                    <l rend="; 1tab">Maer and're segghen weer, hovaerdich is haer hert,</l>
+                    <l>Athenen is voorwaer een Dool-hof heel verwert.</l>
+                    <l rend="speaker"><hi rend="i">Iason.</hi></l>
+                    <l rend="; 1tab">Dit was de klacht van dien, waer toe dient sulck verhalen?</l>
+                    <l>Wy zijn doch menschen al, en onderworpen 'tdwalen.</l>
+                    <l rend="speaker"><hi rend="i">Corydon.</hi></l>
+                    <l rend="; 1tab">Maer waer toedient 'tghewar van dees ghedeelten al?</l>
+                    <l>'t Waer beter eens ghesint, alsmen Gods-dienst doen sal.</l>
+                    <l rend="speaker"><hi rend="i">Iason.</hi></l>
+                    <l rend="; 1tab">Elck een spreeckt hier alsoo, en gaet zijn eyghen ganghen,</l>
+                    <l>En elck blijft als ghelijmt aen zijn opiny hanghen.</l>
+                    <l rend="speaker"><hi rend="i">Corydon.</hi></l>
+                    <l rend="; 1tab">Maer Iason wat raeckt ons dat elck zijn sin verkiest?</l>
+                    <l rend="speaker">Iason.</l>
+                    <l rend="; 1tab">T'is jammer datmen 'tmeest soo veel om't minst verliest.</l>
+                </lg>
+            </div>
+                <div type="scene">
+                <head rend="h3"><hi rend="i">Derde Handelinghe.</hi></head>
+
+                <lg type="poem">
+                    <l rend="speaker"><hi rend="i">Gelasius.</hi></l>
+                    <l rend="; 1tab">Ick heb met neersticheyt nae dese twee gheluystert,</l>
+                    <l>Tis wonder dat elck siet en niemant is verduystert,</l>
+                    <l>Elck wyser is als aer, in hooch oft laghen staet,</l>
+                    <l>Elck als een Philosoph hem inden schijn ghelaet.</l>
+                    <l>Veel vant alweters Volck haer beter moeyen mochten</l>
+                    <l>Met hun hantering, dats' haer Broodt te winnen sochten,</l>
+                    <l>Dan haer met twist en strijdt te maken ongherust,</l>
+                    <l>En leven Godlijck soo met yver en met lust,</l>
+                    <l>Ick acht sy souden dan gheacht worden voor wyser;</l>
+                    <l>Maer nu steunt elck op't zijn, elck is hem selfs een pryser,</l>
+                    <l>Elck vliecht met zijn verstandt tot God toe Hemel-hooch:</l>
+                    <l>Maer denckt eens Mannen denckt, hoe dat Icarus vlooch,</l>
+                    <l>Die tot zijn ongheluck quam dalen haest'lijck neder,</l>
+                    <l>Icarus nu verrijst, en vliecht noch daechlijcks weder.</l>
+                    <l>Daerom wacht u daer voor, te dalen soo is schant.</l>
+                    <l>Wie daelter meer dan die op vliecht met waen-verstant?</l>
+                    <l>De menich dunckt sich wijs, des doet hy wyse treden.</l>
+                    <l>De menich hout zijn hals, al waer sy sonder leden.</l>
+                    <l>De menich toont hem wijs int setten van zyn hoet.</l>
+                    <l>De menich koord of kraegh, of mantel maeckt hem vroet,</l>
+                    <l>De menich wil 't ghesicht en wesen houden statich,</l>
+                    <l>Men kan dit al wel doen, en zijn noch mal en hatich.</l>
+                    <l>Niet dat ick 't seg uyt schimp, of tot een anders spijt.</l>
+                    <l>Elck houd' hem wel te vreen, d'wijlt hem een Geck verwijt.</l>
+
+                    <pb ed="fol." n="B2v"/>
+                    <l>En soo hem yemandt vint besoetelt met ghebreecken,</l>
+                    <l>Die seggh' tot my, hebt ghy u selven wel bekeecken?</l>
+                    <l>Ia malle Luy (denckt dat) besien haer selven meest,</l>
+                    <l>En dencken by haer zelfs, wat ben ick een fray Gheest,</l>
+                    <l>Hoe voecht my dit om 't lijf, hoe statich staen dees kleeren,</l>
+                    <l>Maer noch zal aldermeest mijn wijsheydt myn vereeren.</l>
+                    <l>Ghy al sult prysen my, want ghy zijt al goedt mijns,</l>
+                    <l>En zegghen, dese Geck zeyt yghelijck het zijns.</l>
+                    <l>Al liepmen maer lancks straet wat snoeperen of lecken,</l>
+                    <l>Oft dronck' men 'tlijf vol bier, oft waermen eenen Vrecken,</l>
+                    <l>Oft een verwaenden Sot, oft eenen vol hovaert,</l>
+                    <l>Oft eenen Hypokrijt, dees Geck is soo van aert,</l>
+                    <l>Hy zoudet hier een Mensch dus opentlijck verwyten:</l>
+                    <l>Dat seghje doch van my, niet waer, tot myner spyten?</l>
+                    <l>Maer ick ben wel te vreen, dat je dit van my zeyt,</l>
+                    <l>Malle Luy segghen is veel tijdt wel de waerheyt.</l>
+                    <l rend="speaker"><hi rend="i">Paulus.</hi></l>
+                    <l rend="; 1tab">Ghemeenlijck dooltmen zeer in onbekende hoecken,</l>
+                    <l>Men doolt oock int verstaen van de subtyle Boecken,</l>
+                    <l>Men doolt altijdt int gheen ons niet en is bekent,</l>
+                    <l>Een vreemt Man in een Stadt weet niet waer hy hem went:</l>
+                    <l>Seght sijn Man, waer ga ick best nae der Ioden Schole.</l>
+                    <l rend="speaker"><hi rend="i">Gelasius.</hi></l>
+                    <l rend="; 1tab">Gaet al de straet recht uyt, so moochdy gheensins dolen,</l>
+                    <l>Goe Mannen my werdt dick zo 'teen of 'taer ghevraecht,</l>
+                    <l>Ick wijs het Volck te recht, soo wel dat haer behaecht.</l>
+                    <l>My dunckt d'aenspraeck tot my wil daachlijcks noch vermeeren,</l>
+                    <l>Ghemeenlijck spreecktmen Luy, en vraechtmen Luy met eeren.</l>
+                    <l>Ick heb wel eer gheweest dat ick gingh heen en weer,</l>
+                    <l>Op Marckt, op Beurs, straet op, en wederom straet neer,</l>
+                    <l>En niemant groete my met Woordt of hoet te lichten,</l>
+                    <l>Ick was verwondert selfs, mijn Neven en mijn Nichten</l>
+                    <l>En achten my gantsch niet, ick dacht wat of dit doet?</l>
+                    <l>Men stuypt voor and're neer en lichter voor den hoet:</l>
+                    <l>Wel zeyd' ick wat is dit? loop ick dan nu om dollen,</l>
+                    <l>Weet ghy wat ick gingh doen? ick kroop in schoonder Wollen,</l>
+                    <l>Ick snapte my wat op, als ick dus moy quam aen,</l>
+                    <l>Terstont werdt my veel eer van yghelijck ghedaen.</l>
+                    <l>En ick bevant dat nu de Luy gheen menschen kennen,</l>
+                    <l>Maer dats' haer ooghen op koleur en Laken wennen;</l>
+                    <l>En als my int ghemoedt een van mijn kennis quam,</l>
+                    <l>Zeyd' ick hoe ist met u? hoe gaat het oude stam?</l>
+                    <l>Dees klaechde my hoe zeer dat hy was uyt ghestreecken</l>
+                    <l>Van eenen die zeer rijck en treff'lijck hadd' ghebleecken.</l>
+
+                    <pb ed="fol." n="B3r"/>
+                    <l>Ick vraechd'hem had hy oock den lof van ware deucht</l>
+                    <l>Oft tuyscht' en dobbeld' hy, en dronck hem vol met vreucht?</l>
+                    <l>Ick lette daer niet op, noch hadd' gheen achterdincken</l>
+                    <l>Zeyd' hy, my docht 'twas Goudt al datter scheen te blincken.</l>
+                    <l>Mits lacht' ick doen om hem, en sprack ghy zyt betaelt,</l>
+                    <l>O Kap-geck dat ghy noch soo aen de Kap verdwaelt,</l>
+                    <l>Loopt heen ghy zijt niet wijs, maer gaet wel half op schroeven,</l>
+                    <l>Schoon Kap of zyden Kleedt zijn dick ghevoert met Boeven,</l>
+                    <l>'t Gaet met een swygert deur, so moyaert nu wat looch,</l>
+                    <l>Oft met den rijcken schijn der goeden veel bedrooch,</l>
+                    <l>'Ken wil gheen eerlijck Kleedt verachten noch misprysen,</l>
+                    <l>Maer seg dat die het draecht hem eerlijck moet bewysen.</l>
+                    <l>Ick liep te voren heen ghelijck een halve Geck,</l>
+                    <l>Maer van dus moy te gaen, vant ick seer goedt dien treck</l>
+                    <l>Ghelijck dees Vrysters al so wel als ick dit weten,</l>
+                    <l>Waer je niet moy ghekleet, Vrysters je bleeft vergheten,</l>
+                    <l>Ghy weet doch al ghelijck wel dat de Vryers mal</l>
+                    <l>Zien op een handt vol goed, oft moye Kleertjens al.</l>
+                    <l>Doch my leydt noch int hooft hoe Vaer ons eens vertelde,</l>
+                    <l>Datter eens eenen was, die so een Wet in stelde,</l>
+                    <l>Dat Dochters van het goet haers Ouders waren bloot,</l>
+                    <l>Zy deelden Landt noch Zandt als d'Ouders waren doodt,</l>
+                    <l>Om dies wil dat men sach doen naer een goede Vrouwe,</l>
+                    <l>Met Eer en Deucht bekleedt, haer Huys en Man ghetrouwe:</l>
+                    <l>En voorts verhaeld' hy noch dat voortijdts was gheschiedt,</l>
+                    <l>Dat haer de Vrouwen so zeer op en pronckten niet:</l>
+                    <l>Dan met een liefde kuys en zedelijcken wandel.</l>
+                    <l>Ick gae, eer ick belet een treffelijcker handel.</l>
+                </lg>
+            </div>
+                <div type="scene">
+                <head rend="h3"><hi rend="i">Vierde Handelinghe.</hi></head>
+                <head rend="h4"><hi rend="i">Een Ioodtsch Ghesangh.</hi></head>
+
+                <lg type="poem">
+                    <l rend="; 1tab"><hi rend="i">Israels Godt ghedenckt aen dijn Verbondt,</hi></l>
+                    <l><hi rend="i">Siet op u Volck, bevvaerders dyner VVetten,</hi></l>
+                    <l><hi rend="i">Vvilt op de daedt van dyne Dienaers letten</hi></l>
+                    <l><hi rend="i">Die doch u VVoort steedts hebben inden Mondt.</hi></l>
+                    <l>&#160;</l>
+                    <l rend="; 1tab"><hi rend="i">Ghebenedijt 'tZaet Abrahams met kracht,</hi></l>
+                    <l><hi rend="i">Draecht sorghe voor de uytverkoren Zielen,</hi></l>
+                    <l><hi rend="i">Maer dempet uyt, en vvilt gheheel vernielen</hi></l>
+                    <l><hi rend="i">'tGodloose Volck, haters van u Gheslacht.</hi></l>
+
+                    <pb ed="fol." n="B3v"/>
+                    <l rend="; 1tab"><hi rend="i">Ghy hebt vvel eer d'Egyptenaers verdaen,</hi></l>
+                    <l><hi rend="i">Die uvve Schaer ter doodt vvilden vervolghen,</hi></l>
+                    <l><hi rend="i">Al 'tboos Gheslacht dat op ons is verbolghen</hi></l>
+                    <l><hi rend="i">Die moetet oock als dese soo vergaen.</hi></l>
+                    <l>&#160;</l>
+                    <l rend="; 1tab"><hi rend="i">Heer dyne VVet, die Moyses heeft ontfaen,</hi></l>
+                    <l><hi rend="i">VVy lesen hier, op dat doch niemandt dole,</hi></l>
+                    <l><hi rend="i">Zeghent dit Volck, bevvaert dees Heylghe Schole,</hi></l>
+                    <l><hi rend="i">Dijn Ooren laet doch over hun op-staen.</hi></l>
+                </lg>
+
+                <lg type="poem">
+                    <l rend="speaker"><hi rend="i">Paulus.</hi></l>
+                    <l rend="; 1tab">Gheslachte Abrahams, met oorlof, gheeft ghehoor,</l>
+                    <l>O luystert! Heylich zaet, ick zal u draghen voor,</l>
+                    <l>Hoe ghy der Zielen heyl, het eynde uwer Wetten,</l>
+                    <l>In plaets van yd'len roem, meucht in u herte setten.</l>
+                    <l>Ghy weet en zyt gheleert hoe uwer Vad'ren Godt</l>
+                    <l>V zeer voordeelich is, en spreeckt tot u, als tot</l>
+                    <l>Zyn Kind'ren die hy lieft, als tot zijn uyt-verkoren;</l>
+                    <l>Want ghy van Abraham afkomstich zijt gheboren.</l>
+                    <l>V is oock wel bekent, na 'toordeel van u mont,</l>
+                    <l>Hoe treflijck u aengaet zijn Heylich goet Verbondt,</l>
+                    <l>En 'thooghst van allen daer ghy u in sult verblyden,</l>
+                    <l>Godt heeft deur Abrams Zaedt belooft 'tghebenedyden,</l>
+                    <l>En d'wijl hy niet en seght, Zaden, maer Zaet, dats een,</l>
+                    <l>Soo zou dien zeghen hem tot d'Heyd'nen oock uyt-breen:</l>
+                    <l>Doch dese heyl komt toe voor d'ander u Gheslachte,</l>
+                    <l>Maer uyt een eenich Zaet men alle trooft verwachte,</l>
+                    <l>'tWelck Moses heeft ghesien, 'twelck Moses heeft verstaen,</l>
+                    <l>Des hy noch voor zijn doodt heeft dit bevel ghedaen.</l>
+                    <l>De Heere uwen Godt zal een Propheet verwecken</l>
+                    <l>Wt u Broed'ren als ick, ghy zult u daer toe strecken,</l>
+                    <l>Te hooren hem als my, want-Godes Heylich Woort,</l>
+                    <l>Sal legghen in zijn mondt, so wie dat niet en hoort,</l>
+                    <l>Werdt uyt zijn Volck gheroyt, de Heer sal hem verdryven.</l>
+                    <l>Mijn Broeders soo wy nu ghelooven Moses schryven,</l>
+                    <l>Mijn Broeders soo wy oock verstaen 'tverbondt doch yet,</l>
+                    <l>Wy weten dat dien heyl belooft kan missen niet:</l>
+                    <l>En Abram, die altijdt na 'teeuwich had verlanghen,</l>
+                    <l>Die heeft al zynen troost in dees beloft ghehanghen.</l>
+                    <l>Dewijl der zielen vreucht en 'teeuwich blyde goedt,</l>
+                    <l>Deur dit beloofde zaet verkreghen wesen moet.</l>
+
+                    <pb ed="fol." n="B4r"/>
+                    <l>Soo heeft hy niet ghesien, als vele op 't vergancklijckt;</l>
+                    <l>Maer op het ghene dat toekomend' was onwanck'lijck,</l>
+                    <l>En d'Heere Zebaoth, daer al dit goet van komt,</l>
+                    <l>Die heeft derhalven dit verbont eeuwich ghenoemt.</l>
+                    <l>Ey siet dan heylich Volck, laet u gheen heyl ontrooven,</l>
+                    <l>Maer wilt, als Abraham, des Heeren Woort ghelooven.</l>
+                    <l>Nu weet ghy door Gods Woort, ghy hebt selfs wel aenschout</l>
+                    <l>Dat God ons niet belooft, of dat hy 't ons oock hout,</l>
+                    <l>Dat wy voor desen hem door yemant hebben kreghen,</l>
+                    <l>Weet ghy wel neen (ghy wacht noch daegh'lijcx op dien seghen)</l>
+                    <l>Noch oock van een Propheet, soo Moyses is gheweest,</l>
+                    <l>Of van een soo als hy, ghy nerghens niet en leest.</l>
+                    <l>Ghy hebt wel Vorsten g'hadt, Voorganghers en Propheten,</l>
+                    <l>Maer gheen van allen heeft hem dien te zijn vermeten.</l>
+                    <l>En of ghylieden, die begeerich zijt nae twist,</l>
+                    <l>Seydet, daer Moys' af spreeckt, dats Iosua, die ist;</l>
+                    <l>Want hy int goede Lant ons voor-Ouders ging vooren.</l>
+                    <l>Dees spreuck ghy qualijck draeyt, dit moochdy dus aenhooren.</l>
+                    <l>Is Iosua ghelijck als Moyses? jae, een Vorst.</l>
+                    <l>Maer was hy een Propheet, die Wetten gheven dorst?</l>
+                    <l>En was Gods heylich Woort soo in zijn mont gheleghen?</l>
+                    <l>Heeft hy ghepropheteert? tot wien? waer van? waer teghen?</l>
+                    <l>Ghebiedt heeft hy ghehadt, maer niet in sulcker voegh.</l>
+                    <l>De gront van dese reen is klaer en vast ghenoegh.</l>
+                    <l>Gods stemme ghy niet mocht aen Horebs Berch verdraghen,</l>
+                    <l>Des in een Middelaer, als Moys', had God behaghen;</l>
+                    <l>Dats een Propheet als hy, doch treflijcker van dienst,</l>
+                    <l>Dit ist dat God belooft, en dit is ons het sienst.</l>
+                    <l>Hoort reden met verstandt, moetwillich niet en zondicht,</l>
+                    <l>Wt Davids Stam en Stadt is ons Heylandt verkondicht;</l>
+                    <l>Oft seghdy Moses weet oft schrijft ons daer niet van!</l>
+                    <l>So maeckt onwetent ghy oft trouweloos die Man.</l>
+                    <l>Daer werdt hy af ghevrijt, God liet hem weten veylich,</l>
+                    <l>Zijn recht en zeden goedt, en zijn verbondt zeer heylich.</l>
+                    <l>Den troostelijcken troost ghy selver ons beschrijft,</l>
+                    <l>Hy leert u'tminst der Wet, ontrou hy niet en blijft,</l>
+                    <l>Het meeste dees Propheet, daer van leest zijn verklaren,</l>
+                    <l>Ontschuldicht Mose dan, wilt liefst u zelfs beswaren,</l>
+                    <l>Ondanckbaer Volck, ziet hoe ghy Mose niet en spaert,</l>
+                    <l>En leefd' hy heden noch hy walchde van dijn aardt.</l>
+                    <l>Mose maeckt ons bekent Iacobs voorseggingh heerlijck,</l>
+                    <l>Van dees Heldt of Propheet, of Salichmaker leerlijck.</l>
+                    <l>Ymmer dan, Mose heeft wel g'weten Gods beloft,</l>
+                    <l>End' zyne wetenschap verborghen noch versloft.</l>
+
+                    <pb ed="fol." n="B4v"/>
+                    <l>V heeft hy die gheleert, op dat ghy ghehoorsaemlijck</l>
+                    <l>Gods Woorden gheeft ghehoor, ghelijck u is betaemlijck.</l>
+                    <l>Doch Mos' ist niet alleen die van Christo voorseydt;</l>
+                    <l>Maer David spreeckt so klaer van al zijn heerlijckheyt:</l>
+                    <l>Zijn lyden en verraet, en volghens zijn verrysen,</l>
+                    <l>Wt Esata ist klaer en goet om bewysen,</l>
+                    <l>Hoe dat hy ons belooft is tot een Vorst en Heldt,</l>
+                    <l>Hoe tot 't Wijn-pars treen hy hem Godd'lijck heeft ghestelt;</l>
+                    <l>Hoe hy ons last en schult heeft als de zijn ghedraghen,</l>
+                    <l>Hoe dat hy is gheplaecht, ghemartert en gheslaghen.</l>
+                    <l>d'Wtbeeldingh van zijn dienst is den ghevangh'nen swaer</l>
+                    <l>Verlossingh te doen kond, en voorts een salich Iaer,</l>
+                    <l>Den drucklighen zondaer te wassen van zijn sonden,</l>
+                    <l>De Slaven worden deur hem vanden dienst ontbonden.</l>
+                    <l>Ghelooft ghy, verstaet ghy, en weet ghy al wel dit?</l>
+                    <l>God wil ghetrouw'lijck zijn ghena houden David.</l>
+                    <l>Dit heeft hy vast belooft, dit is ons troost en leven,</l>
+                    <l>'s Heeren gheboorten Stadt is Bethlehem beschreven.</l>
+                    <l>Al dit ghetuych der Schrift, benevens 't Wet-boeck stranck,</l>
+                    <l>Hebt Israliten ghy, gheeft God den ghever danck.</l>
+                    <l>Want u is Lieft ghejont, veel meer dan alle Volcken;</l>
+                    <l>Ia soo den Hemel is bekleedt met duyster Wolcken,</l>
+                    <l>Of soo de Boomen groen met Schorsen zijn omset,</l>
+                    <l>Soo is ons Conincks dienst omvanghen in de Wet.</l>
+                    <l>God wil dijn zalicheyt, wilt ghy die en zijn Woningh?</l>
+                    <l>So maeckt dat ghy omhelst nu desen nieuwen Coningh.</l>
+                    <l>Op dat ghy met begrijp mijn reden meucht verstaen,</l>
+                    <l>'t Gheen voortijts was belooft dat heeft Godt nu voldaen.</l>
+                    <l>'t Welck in d'Oudtvaders g'loof was werckend' een verlanghen.</l>
+                    <l>De Kind'ren nauw'lijck weert die hebben dat ontvanghen,</l>
+                    <l>O Mannen! luystert toe, ooren en hert ontsluyt,</l>
+                    <l>d'Afbeeldinghe der Wet die is gheloopen uyt.</l>
+                    <l>'t Voorsegghen is vervult, den Heylandt isghecomen</l>
+                    <l>Met kracht en teeck'nen groot, wy hebbent al vernomen.</l>
+                    <l>Dat die stom, blint, oft lam, melaetsch of kreupel was,</l>
+                    <l>Bezeten, doof, ja doodt, hy levendich ghenas.</l>
+                    <l>Ghy hebbet selfs ghesien, oft g'hoort door 'tgoet gheruchte</l>
+                    <l>Hoe Iesus helpsaem was elck een die tot hem suchte,</l>
+                    <l>Oft mach Schrifts voorseggingh die men vervult nu sict,</l>
+                    <l>Oft teecken, oft zijn Woort, of tuyg'nis gelden niet?</l>
+                    <l>Ia wat sal ghelden dan? oft wat suldy ghelooven?</l>
+                    <l>Gheloofdy stommen spraeck, noch 'tsnel ghehoor der dooven,</l>
+                    <l>Noch 'tscherp ghesichte van den blindt gheboren, noch</l>
+                    <l>De reynheyt van melaets? Volck ongheloovich och!</l>
+
+                    <pb ed="fol." n="C1r"/>
+                    <l>Ghelooft dan sulcke die van dootheyt alreets stoncken,</l>
+                    <l>Ghelooft dat Iesus is de Christus ons gheschoncken,</l>
+                    <l>Ghelooft dat hy zijn Bloet om onse schult vergoot,</l>
+                    <l>Ghelooft oock dat hy is verresen vander doot.</l>
+                    <l>Ghy wilt doch David niet als loghenaer bespotten,</l>
+                    <l>Die secht dijn Heyl'ghe Heer en sal gheensins verrotten.</l>
+                    <l>Hy selfs is al verrot, hem raeckt dan niet dees reen,</l>
+                    <l>Maer ons Vorst heeft de doodt verwinnende vertreen.</l>
+                    <l>Oft wilt ghy noch u hert tot dit Gheloof niet buyghen?</l>
+                    <l>Hy heeft hem nae zijn doodt by ses hondert ghetuyghen</l>
+                    <l>Levendich laten sien, van d'uwe doen een gast</l>
+                    <l>Heeft ongheloovich hem zijn lit-teeckens ghetast.</l>
+                    <l>Ghelooft ghy het dan niet? Veracht ghy Schrifts voorsegging?</l>
+                    <l>Ghy veracht Moses Wet, met al 'tghetuychs voorlegging,</l>
+                    <l>Daer in dat d'hoochste saeck aen drie ghetuyghen stont,</l>
+                    <l>Ghelooft het tuyg'nis dan van menich hondert mont,</l>
+                    <l>Ghelooft my, die ick selfs dit onkondich versmade,</l>
+                    <l>Eer Iesus my verscheen met bysonder ghenade:</l>
+                    <l>De Schrift ick ondersocht, en inde Psalmen vant,</l>
+                    <l>De Heer spreeckt tot myn Heer, sit t'mijnder rechter hant,</l>
+                    <l>Tot ick dijn Vyanden maeck tot dijn voetschabelle.</l>
+                    <l>Davids Heer Iesus is, daer onder alle felle</l>
+                    <l>Haer buyghen moeten haest, dit gheeft my noch een schrick,</l>
+                    <l>Want mijn is sulcks gheschiet, mijn selfs ghetuych ben ick,</l>
+                    <l>Gheen sond' wert wech ghedaen door Bocken bloet of Ossen,</l>
+                    <l>Dit tuycht Schrifture, maer Iesus Bloet werckt verlossen.</l>
+                    <l>O Heylich Volck! u is oock gheensins onbekent</l>
+                    <l>De spreucke die daer seght van een nieuw Testament.</l>
+                    <l>Ghedenckt te spreken niet, dit onse Wet verachticht,</l>
+                    <l>De Wet die wert hier deur in hare kracht bekrachticht:</l>
+                    <l>Want sy als Leyts-man goet die brengt ons hier ontrent,</l>
+                    <l>Diese nu niet en volcht, haer lastert, breeckt en schent.</l>
+                    <l>Maer wy en zyn alt saem ind' Wet niet vroom ghebleven,</l>
+                    <l>Soo gheeft ons God een nieuw, om wel daer nae te leven,</l>
+                    <l>Die met soo veel gheboon en dienst ons niet beswaert,</l>
+                    <l>Maer t'pit en 'tmerch der Wet is ons daer in verklaert,</l>
+                    <l>D'eenich hoochst' Offerhand' dit vast maeckt en beseghelt:</l>
+                    <l>Ghy siet de Liefde Gods, soo ghy u daer naer reghelt.</l>
+                    <l>Dees Vrede bootschap goet by u doch plaetse gheeft,</l>
+                    <l>Ick spreeck ghelijck die Heer my uyt te spreken gheeft.</l>
+                    <l rend="speaker"><hi rend="i">Rabbi.</hi></l>
+                    <l rend="; 1tab">Men heeft dy toeghestaen met oorlof wat te spreken,</l>
+                    <l>Dultmoedich dy ghehoort, doch niet gheacht dijn preken.</l>
+                    <l>Oock weet ick dat ghy ons afmaelt als seer vervuylt.</l>
+
+                    <pb ed="fol." n="C1v"/>
+                    <l>Wy weten wat in dy en in dijn Leere schuylt.</l>
+                    <l>Dees Leer men wederspreeckt, en staet in alles teghen.</l>
+                    <l>Wy laten ons van Wint noch ydelheyt beweghen.</l>
+                    <l>Die Schriften die ghy bruyckt, treckt ghy van haren sin,</l>
+                    <l>De duydnis die ghy doet, heeft niet met allen in,</l>
+                    <l>Want als Messias komt, sal hy ons haest verlossen;</l>
+                    <l>Maer desen heeft noch Knaep, noch Waghen, noch gheen Rossen.</l>
+                    <l>Armoedich heeft hy heen deurloopen al het Lant,</l>
+                    <l>En dat ghy hem verheft, dat is dijn kleyn verstant.</l>
+                    <l>Wy die de Schrift verstaen, en daghelycks deurlesen,</l>
+                    <l>Weten dat Messi sal een machtich Coning wesen,</l>
+                    <l>Zijn heerschappy gaet van d'een Zee tot d'ander breet.</l>
+                    <l>Is dese Coning? toont zijn Coninglijck bescheet.</l>
+                    <l>Waer is zyn Rijck? waer streckt de grense zijnder Landen?</l>
+                    <l>Toehoorders let op my, dees Leeraer komt in schanden.</l>
+                    <l>De naam van Iesus my noch inde ooren ruyst,</l>
+                    <l>Die schand'lijck tusschen twee Moordenaers is ghekruyst.</l>
+                    <l>Hy heeft zijn loon ontfaen, men moetse soo tracteren</l>
+                    <l>Die Coning willen zyn, Gods Tempel schandiseren.</l>
+                    <l>Ons Priesters hebben al verstaen wel dit bedrijf,</l>
+                    <l>s' Hebben hem aenghetast, en voorts ghestraft aen't lijf.</l>
+                    <l>Al scheen de saeck wat swaer, sy is nochtans begonnen,</l>
+                    <l>En door ghetuyghen ist ghevonnist recht ghewonnen.</l>
+                    <l>Niemant sy dan soo mal, dat hy hier gheef gheloof,</l>
+                    <l>Verhert dijn hert, en hout dijn ooren stijf en doof.</l>
+                    <l>Wilt op het spreken van den desen niet meer schaffen,</l>
+                    <l>Dan offer eenen hout ghestelt waer om te blaffen.</l>
+                    <l rend="speaker"><hi rend="i">Paulus.</hi></l>
+                    <l rend="; 1tab">Rabbani, heb dy niet uyt David dit verstaen?</l>
+                    <l>Ick ben een worm, gheen mensch, een spot, veracht, vol smaen,</l>
+                    <l>Al die my sien, haer mont tot spotten open splaten,</l>
+                    <l>Myn handen zijn doorgraaft, myn voeten hebben gaten.</l>
+                    <l>Stieren en honden groot die hebben my omringt,</l>
+                    <l>Om mijn ghewaet en kleedt men met het lot omspringt.</l>
+                    <l>Is David dit gheschiet? secht, Rabbi, zijn sijn voeten</l>
+                    <l>Doorsteken en doorgraeft? heeft hy dit lyden moeten?</l>
+                    <l>Bewyset, waer? wanneer? en hoe? of wert beschaemt,</l>
+                    <l>Ick weet dat Messias een Coning wert ghenaemt;</l>
+                    <l>Doch zijn Rijck sal hy niet als Coning aertsch bestueren,</l>
+                    <l>Maer eeuwich sal zijn Rijck in eeuwicheyt ghedueren.</l>
+                    <l>En eer hy in zijn Rijck intrect met groote macht,</l>
+                    <l>Soo moeste zijn verlost zijn Goddelijck gheslacht.</l>
+                    <l>Iae alle die vol hoops opt Rijck Israels hopen,</l>
+                    <l>Daer van is hy de deur, en d'ingang die staet open.</l>
+
+                    <pb ed="fol." n="C2r"/>
+                    <l>Maer segdy, ja verlost? dit heeft hy niet ghedaen.</l>
+                    <l>Van wien? waer in? en waer sydy dus hart ghevaen,</l>
+                    <l>Dat ghy Lijf-lossing wacht om d'Heyd'nen te vernielen?</l>
+                    <l>Ghevanghen heeft hy meest de Duyvel nae der zielen,</l>
+                    <l>Wildy ghelooven, ghy wert flucx deur Iesum los.</l>
+                    <l>Maer ghy zijt gantsch verblint, den arghen schalcken Vos</l>
+                    <l>Maeckt u verkeerd'lijck wijs, dat ghy niet zijt ghevanghen.</l>
+                    <l>Dees yd'le waen die heeft u herte vast omhanghen.</l>
+                    <l>Dus wacht ghy op een heyl, die u in deser tijt</l>
+                    <l>In alle wellust voert, en tydelijck verblijt.</l>
+                    <l>Dus sydy Schrift-gheleert, verkeert in al u wanen.</l>
+                    <l>Dit doet dat Iesu Woort, noch Leere, noch vermanen</l>
+                    <l>By u niet ghelden mocht (maer bleeft verhart versteent.</l>
+                    <l>Ghy hebt den Soon des huys vernedert en verkleent:</l>
+                    <l>Veel meer wacht ick van u versmaetheyt, spot en laster.</l>
+                    <l>Och hoorders die toe hoort, ghelooft my des te vaster.</l>
+                    <l>Want soo op't voor-seg ghy opmercking nemen sult,</l>
+                    <l>Siet toe, wacht u, of aen u wert de Schrift vervult,</l>
+                    <l>Die spreeckt, dat ghy niet sien en sult met open ooghen,</l>
+                    <l>Noch met 'thoorende oor oock gheen ghehoor ghedooghen,</l>
+                    <l>Ey slaet myn reden ga, en ondersoeckt die Schrift,</l>
+                    <l>Bidt God om zynen Gheest, oft des Vyandts vergift</l>
+                    <l>Sal u verseeren gantsch, en dwalen doen u sinnen.</l>
+                    <l>Des mint Godt d'wyl hy u noch selver wil beminnen.</l>
+                    <l rend="speaker"><hi rend="i">Rabbi.</hi></l>
+                    <l rend="; 1tab">My is alhier 'tghebiedt, als Hooft-Leeraer der School,</l>
+                    <l>Wie raedt u hier soo stout te segghen dat ick dool?</l>
+                    <l>Waert op een ander plaets, ghy sout soo veel niet spreken,</l>
+                    <l>Of 'tsoud' my niet aen wil, maer aen de macht ontbreken.</l>
+                    <l>Wat segdy dwael-gheest al? loopt heen, en elders snapt,</l>
+                    <l>My lust te hooren niet een reden soo deurtrapt.</l>
+                    <l>Ick weet u Leer, maer doet hier teeck'nen, spaert veel segghen,</l>
+                    <l>Want ick en achts niet weert om al te wederlegghen.</l>
+                    <l>De Ioden vervoerdy soo niet met reden slecht,</l>
+                    <l>Want sy zijn aen Gods Wet verbonden en ghehecht.</l>
+                    <l>Doedy een teecken valsch door quade konst met lachter,</l>
+                    <l>Soo toondy dynen aert, wy wijcken van u achter.</l>
+                    <l>'t Swyghen wert dy geboon, dijn klap ons niet en lust,</l>
+                    <l>Dijn moeyt' is te vergheefs, swijght stil, en hout dijn rust.</l>
+
+                    <pb ed="fol." n="C2v"/>
+                    <l rend="speaker"><hi rend="i">Choor.</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Men ziet de VVerelt heeft Afgodery
+                        verkoren,</hi></l>
+                    <l><hi rend="i">Elck nae zijn vville leeft vvoest, vvilt en onherboren.</hi></l>
+                    <l><hi rend="i">Niemant heeft hem te storen, als hy't nae zynen vvil</hi></l>
+                    <l><hi rend="i">Al doet, gaet hy verloren, hy svvijcht met reden stil.</hi></l>
+                    <l>&#160;</l>
+                    <l rend="; 1tab"><hi rend="i">VVie soud' in sulcken stadt als 'tvvijs beroemt
+                            Athenen,</hi></l>
+                    <l><hi rend="i">'tVermoen hebben ghehadt dat sy houten en steenen</hi></l>
+                    <l><hi rend="i">Verheffen met goe meenen, en eeren die als Godt;</hi></l>
+                    <l><hi rend="i">Daerom acht God met eenen als s'VVerelts vvijshey sot.</hi></l>
+                    <l>&#160;</l>
+                    <l rend="; 1tab"><hi rend="i">Maer of dees zijn ghesint tot Beelden en
+                            Altaren,</hi></l>
+                    <l><hi rend="i">Veel and're diemen vint d'Afgod Mammon bevvaren.</hi></l>
+                    <l><hi rend="i">En of vvel heele scharen Christi Leer nemen aen,</hi></l>
+                    <l><hi rend="i">Sy om diesvvil van haren Afgod niet af en gaen.</hi></l>
+                    <l>&#160;</l>
+                    <l rend="; 1tab"><hi rend="i">Laet ons dan desen rom van God-gheleertheyt
+                            haten,</hi></l>
+                    <l><hi rend="i">Soo lang tot vvy volkom d'Afgoden al verlaten,</hi></l>
+                    <l><hi rend="i">Al eertmen op der straten gheen Beelt met goude kleen,</hi></l>
+                    <l><hi rend="i">Noch kanmen in veel staten zijn met d'Afgoden een.</hi></l>
+                    <l>&#160;</l>
+                    <l rend="; 1tab"><hi rend="i">Veel segghen, uyt de Kerck moetmen d'Afgoden
+                            dryven,</hi></l>
+                    <l><hi rend="i">Maer dits een ydel vverck, soo sy in ons noch blyven.</hi></l>
+                    <l><hi rend="i">VVant soo ons vveer gheryven d'Afgoden in de kist,</hi></l>
+                    <l><hi rend="i">Soo mach men ons beschryven elck als een Afgodist.</hi></l>
+                    <l>&#160;</l>
+                    <l rend="; 1tab"><hi rend="i">Al seyden wy mitsdien, vvy hebben noyt
+                            gheboghen</hi></l>
+                    <l><hi rend="i">Voor d'Afgoden ons knien, 'tvvaer goet vvast niet
+                            gheloghen:</hi></l>
+                    <l><hi rend="i">Doch vvy zijn veel bedroghen van d'Afgod onbekent,</hi></l>
+                    <l><hi rend="i">Die ons buyten ons ooghen seer jammerlijcken schent.</hi></l>
+                    <l>&#160;</l>
+                    <l rend="; 1tab"><hi rend="i">De Ioden die gheleert vvaren deur Gods
+                            gheboden,</hi></l>
+                    <l><hi rend="i">Hebben als blint gheeert der Heydenen Afgoden;</hi></l>
+                    <l><hi rend="i">Gods dienstknechten sy dooden en dies soo veel te meer</hi></l>
+                    <l><hi rend="i">Hebben sy uyt te roden ghesocht de Christen Leer.</hi></l>
+
+                    <pb ed="fol." n="C3r"/>
+                    <l rend="; 1tab"><hi rend="i">De Griecken inden schijn vol vvijsheyt, doch
+                            verscheyden,</hi></l>
+                    <l><hi rend="i">VVel de voornaemste zijn die van veel Goden seyden;</hi></l>
+                    <l><hi rend="i">Soo dvvaeltmen dan in beyden, teghennatuur en vvet,</hi></l>
+                    <l><hi rend="i">Die ons tot Gode leyden, men sich halstarich set.</hi></l>
+                    <l>&#160;</l>
+                    <l rend="; 1tab"><hi rend="i">Ioden en Griecken t'saem, hoevvel sy veel
+                            krackeelen,</hi></l>
+                    <l><hi rend="i">En elck in zijn lichaem heeft veel verscheyden deelen,</hi></l>
+                    <l><hi rend="i">Noch vviltste Christus heelen, en helpen uyt den
+                        tvvist,</hi></l>
+                    <l><hi rend="i">En haer lieflijck bestreelen, dat sy een zijn in
+                        Christ.</hi></l>
+                </lg>
+
+            </div>
+            </div>
+            <div type="act">
+                <div type="scene">
+                <head rend="h2"><hi rend="i">Het tvveede deel.</hi></head>
+
+                <lg type="poem">
+                    <l rend="speaker">Epistemon.</l>
+                    <l rend="; 1tab">Ghy Ioden uwen Godt heeft u wel eer bemint,</l>
+                    <l>Wantmen by u zijn Wet zeer schoon beschreven vint,</l>
+                    <l>Op veel Sabbathen ick ghehoorich, ja met luyster,</l>
+                    <l>Heb wel daer op ghelet, doch veel dinghs was my duyster,</l>
+                    <l>Insonderheyt nu lest ick in u Schole sat,</l>
+                    <l>Hoorend' een vreemt man aen die zeer veel reed'nen hadt,</l>
+                    <l>Wat, hebt ghy Prophecy, ist in u Wet gheschreven</l>
+                    <l>Dat God u eenen Heyl, oft koninck hier sal gheven?</l>
+                    <l>Is nu dijn hope wech? en u verlanghen groot?</l>
+                    <l>Ick hoor dat ghy Luy zelfs dijn Heylandt hebt ghedoodt.</l>
+                    <l>Ick hoorde veel van u, 'twelck u naem was bevlecklich,</l>
+                    <l>Hoe? zydy int ghehoor of int gheloof hertneckich?</l>
+                    <l>Die Man die tuychd' u vast, zelfs met u Wetlijck schrift,</l>
+                    <l>Met reden vast ghegront, ja tot een overgift,</l>
+                    <l>Hoe qualijck en hoe sot u Volck hebben ghehandelt;</l>
+                    <l>Want daer hy van ghetuycht die heeft zeer vroom ghewandelt:</l>
+                    <l>Ick had veel beter sin int Ioodtschap, maer ick weet</l>
+                    <l>Dat die zy heden doon, is morghen haer Propheet.</l>
+                    <l>Iae soo ick my verstae yet van des Wets ghetuyghen,</l>
+                    <l>Daer Vorsten willen sy al staech ten onder buyghen.</l>
+                    <l>Fy Ioden, dat ghy zijt soo heftich in't ghebijt,</l>
+                    <l>Dat ghy den vromen doodt uyt bitterheyt en nijt.</l>
+                    <l rend="speaker"><hi rend="i">Lechi.</hi></l>
+                    <l rend="; 1tab">Hoe komt het vrient dat ghy soo smadich zijt in't spreken?</l>
+                    <l>De Wet verstady niet, noch oock ons wetlijck preken:</l>
+                    <l>De Wet is ons alleen, end' wy verstaense wel.</l>
+                    <l>Want God heeft zijn verbondt ghemaeckt mit Israel,</l>
+                    <l>En of ghy somtijts komt de Leesen hooren lesen,</l>
+
+                    <pb ed="fol." n="C3v"/>
+                    <l>Ghy en verstaets u niet, ghy moet een Iode wesen.</l>
+                    <l>'t Is waer wy wachten wel op eenen Heer en Hooft,</l>
+                    <l>Maer dat het Iesus sy wert van ons niet ghelooft.</l>
+                    <l>En als ghy niet en waert ons teghen gheen van beyde,</l>
+                    <l>Soo hoordy wel terstont dat Rabbi hem weerleyde.</l>
+                    <l>Maer datstu int ghesicht my smyt soodanich zant,</l>
+                    <l>Dat wy de vrome doon door heftich onverstant,</l>
+                    <l>O Grieck! besiet u selfs, en antwoort my int ende,</l>
+                    <l>Of wyse Griecken niet en lyden meest ellende?</l>
+                    <l>Ick laet u Vorsten staen in wijs heyt seer vermaert,</l>
+                    <l>Socraten hebdy selfs te dooden niet ghespaert.</l>
+                    <l>Grieck gheeft my nu de hant, zijn wy in een dinck salich,</l>
+                    <l>Ghy zijt int selfd' en noch in veel meer dinghen dwalich.</l>
+                    <l rend="speaker"><hi rend="i">Paulus.</hi></l>
+                    <l rend="; 1tab">O Mannen, d'wijl ghy zijt van tweederley gheslacht,</l>
+                    <l>De een wil door de Wet God lief-tal zijn gheacht,</l>
+                    <l>En d'ander door God-dienst en smokend' offerhande</l>
+                    <l>Sich hout als of hy waer seer Godlijck van verstande:</l>
+                    <l>Doch dat u God heeft lief, ist gheen dat ick vertoon,</l>
+                    <l>En zijn Liefd' blijckt hier in, dat God zijn eenich Soon</l>
+                    <l>Voor al ons sond en schult heeft laten schand'lijck sterven,</l>
+                    <l>Op dat wy al hier nae een eeuwich leven erven.</l>
+                    <l>V Israliten u wert eerst ghehouden voor</l>
+                    <l>Dees Leer, om dat de Eet u vreugt tot sulck ghehoor,</l>
+                    <l>En om dat ghy verstaet 'tverbont seer groot van waarden,</l>
+                    <l>Daer God den seghen looft aen alt gheslacht der Aaerden.</l>
+                    <l>Iae, soo ghy't wel begrijt, Iood', Heyden in 't ghemeen,</l>
+                    <l>Werden door Christi Bloet vereenicht, jae gantsch een.</l>
+                    <l>Alleen wert afgheeyscht Gheloof, en dies niet minders</l>
+                    <l>Door Boet ghoorsaem ghedoopt wert ghy te saem Gods Kinders.</l>
+                    <l>God heeft gheen lust in strijd', maer Vreders heeft hy lief.</l>
+                    <l>Of nu den Iood', en dan den Grieck hem weer verhief,</l>
+                    <l>'t Is ydelheyt, want God oordeelt ons nae ons leven,</l>
+                    <l>De Wet sal (niet beleeft) den Iood' gheen voordeel gheven,</l>
+                    <l>En d'Heydens onbesneen, die haer doen schicken gans</l>
+                    <l>Naer d' Wet en Wijsheyt, zijn natuerlijck vroom, nochtans</l>
+                    <l>Om u tot het Gheloof van Christo te beweghen,</l>
+                    <l>Weet dit, u s'levens troost is heel daer in gheleghen:</l>
+                    <l>Dus lieflijck is den Vreed', die Iesus heeft ghewracht,</l>
+                    <l>Den roemder Sectery die wort te niet ghebracht,</l>
+                    <l>Hy neemt den scheyd-muer wech tussch Iood' en Grieck bestaende;</l>
+                    <l>Zijn Bloet maeckt eenicheyt, het Hant-schrift dat ons maende</l>
+                    <l>Van sonden, daer in dat wy Gode schuldich staen,</l>
+                    <l>Dat is door hem ghescheurt, en heel te niet ghedaen.</l>
+
+                    <pb ed="fol." n="C4r"/>
+                    <l>V wert niet afgheeyscht wetenschap menichvuldich,</l>
+                    <l>Dan Liefde, die ghy zijt God en u naesten schuldich.</l>
+                    <l rend="speaker"><hi rend="i">lechi.</hi></l>
+                    <l rend="; 1tab">Laet varen desen Man, want ick gheloof hem niet,</l>
+                    <l>Onsen Rabbi gheleert soud't weten waert gheschiet,</l>
+                    <l>Die hem ons Wet verstaet, end' al des Wets verklaren,</l>
+                    <l>Die ist noch blint noch doof noch oock soo onervaren,</l>
+                    <l>Dat hy sou weten niet, hoe, en wes, en waer an</l>
+                    <l>Ons Heylant wert bekent; zijn Leer is ydel dan.</l>
+                    <l>s'Is nieuw en onbeproeft, end' noch niet aenghenomen.</l>
+                    <l>De Schrift-gheleerde haer vals en yl verdomen.</l>
+                    <l rend="speaker"><hi rend="i">Epistemon.</hi></l>
+                    <l rend="; 1tab">Ick kan my niet verstaen dan vast ghegronde reen,</l>
+                    <l>En my behaecht een Leer die voortbrengt goede seen.</l>
+                    <l>Dees Leer die is haer vrucht Gheloof, Liefd', Vreed' eendrachtich,</l>
+                    <l>Sy wijst op eenen God, die werckend' is almachtich,</l>
+                    <l>End' ons natuurlijck doen, uyt natuur kennis reen,</l>
+                    <l>En maeckt gheen onderscheyt tussch' menschen in't ghemeen,</l>
+                    <l>Want menschen menschen zijn, 'tsy Ioden ofte Heyden,</l>
+                    <l>Natuur die maecktse een, maer dwalinghe verscheyden.</l>
+                    <l>Dees Leere maecktse een, ghelooven sy in Christ,</l>
+                    <l>Dees grond-Leer die is goet, wijs waer hy diese wist.</l>
+                    <l>Socrates leerde me al lyden en verdraghen,</l>
+                    <l>Hy was een voorbeeld' om te leeren Vreed' naejaghen,</l>
+                    <l>Hemselven hy veracht, gaf voor te weten niet,</l>
+                    <l>Alleen dan dat hy wist te weten niet van't yet.</l>
+                    <l>Verheven hoochmoet komt uyt dees verdeelde rotten,</l>
+                    <l>Die selfs haer achten wijs, en d'ander al voor sotten.</l>
+                    <l>Ghy Ioden acht te zijn niemand wijs dan een Iood,'</l>
+                    <l>En onse secten zijn daer teghen weder groot:</l>
+                    <l>Maer hoe? ghy loopt te saem noch om u Wetten kyven,</l>
+                    <l>En elck die wil van u een Schriftgheleerde blyven.</l>
+                    <l>Onder ons Griecken is de Pythagoorsche Leer,</l>
+                    <l>d'Epicurische, met de Stoyische, die seer</l>
+                    <l>d'Een teghen d'ander staen, elck die weet meer als ander,</l>
+                    <l>En eenen Heraclijt beweentse met malkander.</l>
+                    <l>De ydel woeldery van 't menschelijck bejach</l>
+                    <l>Die baert in Democrijt door reden een ghelach:</l>
+                    <l>En soo ich hebb' gheleert die gront van reen nae soecken,</l>
+                    <l>Soo vind' ick dwaes heyt veel in al dees warre-boecken.</l>
+                    <l>Een ware Godsdienst recht, en een goet leven stil</l>
+                    <l>Soeck ick alleen, daer ick my vast aen houden wil,</l>
+                    <l>Dies wert mijn herte vry tot dees Mans Leer ghetrocken:</l>
+                    <l>Ick weet ten zijn gheen Goon dees hout of steenen blocken.</l>
+
+                    <pb ed="fol." n="C4v"/>
+                    <l>Ick weet ten is gheen vreucht, noch Goddelijck behaech,</l>
+                    <l>Noch gheen natuurs wellust, te twisten alle daech.</l>
+                    <l>God die de vrede zoeckt kan gheen tweedracht beminnen.</l>
+                    <l rend="speaker"><hi rend="i">Lechi.</hi><hi rend="i"/></l>
+                    <l rend="; 1tab">O Epistemon Vriendt! hoe komdy toch dus binnen</l>
+                    <l>De valscheyt deser Leer, op vrede soo ghegront?</l>
+                    <l>Den vrede komt uyt God, woont inder menschen mont,</l>
+                    <l>Maer hoe zy vredich zijn dat oordeelt uyt de wercken.</l>
+                    <l>Dees nieuwe leere mach roemgierich haer verstercken;</l>
+                    <l>Maer te Corinthen is ghespleten haer Ghemeent.</l>
+                    <l>Komt dan, hoort Moses Wet, die God ons heeft verleent,</l>
+                    <l>En leeft naer dees manier, laet Ioodtsch' licht U besnyden,</l>
+                    <l>Soo meuchdy seecker gaen, 'tVerbont zal u bevryden,</l>
+                    <l>Als Messy ons belooft vreuchd'lijck als Koninck komt,</l>
+                    <l>Soo wordy met ons Ioon en Heyligh zaet ghenomt.</l>
+                    <l rend="speaker"><hi rend="i">Epistemon.</hi></l>
+                    <l rend="; 1tab">Het Iood'sche levens rom verwaend'lijck opghesteghen,</l>
+                    <l>(Doch onveracht de Wet) en kan my niet beweghen.</l>
+                    <l>Wie prijsdy anders om haer deucht als u Gheslacht?</l>
+                    <l>Selfs los en ist gheen deucht, d'wijl deuchde is een kracht.</l>
+                    <l>Is dan alleen Gods Wet oorsaeck van u verheffen,</l>
+                    <l>V ongheregheltheyt de straffe Wet sal treffen.</l>
+                    <l>Is dan u leven goet, of is u Leere wijs,</l>
+                    <l>'t Gheslacht en voordeelt niet, noch Wet en gheest gheen prijs,</l>
+                    <l>Dan diese wel beleeft, de Griecken dit wel weten,</l>
+                    <l>'tIs ydelheyt dat ghy zijt boven haer vermeten.</l>
+                    <l>V Leeringhe die is met d'hare zeer ghemeen.</l>
+                    <l>d'Epicuristen dat zijn rechte Saduceen,</l>
+                    <l>De Stoysche die deucht als 'thooghste goet doen blijcken,</l>
+                    <l>Seght waerom zouden zy u Pharizeen doch wijcken?</l>
+                    <l>d'Hoochdraghentheyt die is in beyde even groot.</l>
+                    <l>Wat helpt doch uwe Wet als wy steeds blyven doodt,</l>
+                    <l>En eerst hier namaels voor den hooghen Godt verrysen?</l>
+                    <l>Wat kanmen beter hier als ware deucht bewysen?</l>
+                    <l>Is uwe Wet van Godt, leest Godelijck en oprecht,</l>
+                    <l>De Griecken die en zyn natuurlijck niet so slecht,</l>
+                    <l>Of s'hebben Wetten goedt, by d'uwe te ghelijcken;</l>
+                    <l>Want Godt is eenen Godt over al 's Werelts Rijcken.</l>
+                    <l>Ghewislijck hy is oock ons allen goedertier,</l>
+                    <l>Maer gheen Landt noch gheen Volck en leeft op een manier.</l>
+                    <l>Ick achtet heel onnut hem selven dus te romen,</l>
+                    <l>Dewijl van Godt soo veel verscheyden goed'ren komen,</l>
+                    <l>Doch een dinck wondert my, wanneer ick hier op let,</l>
+                    <l>Daer ghy van eenen Godt hebt eenich eens een Wet,</l>
+
+                    <pb ed="fol." n="D1r"/>
+                    <l>Hoe komdy dan in twist, in tweedracht en verkeertheyt?</l>
+                    <l>'tKomt deur gheen onverstant, d'wijl ghy romt van gheleertheyt,</l>
+                    <l>Is u gheleertheyt wijs, soo kentse wel de reen,</l>
+                    <l>Kent ghyse, waerom wert sy dan van u bestreen?</l>
+                    <l>En vliedy strijdt, hoe komt dan onder u sulck stryden?</l>
+                    <l>Eens anders lafter die en kan u niet bevryden.</l>
+                    <l>Des moet ick neerstich zijn om weten dese Leer,</l>
+                    <l>Ick moet vernemen, en verhooren daer van meer.</l>
+                    <l rend="speaker"><hi rend="i">Lechi.</hi></l>
+                    <l rend="; 1tab">Ick soude lachen, maer my stoonis schier komt quellen,</l>
+                    <l>Dat defe Grieck hem wil nevens de Ioden stellen.</l>
+                    <l>Bewyst eens dat wy zijn verblint, als ghy versot,</l>
+                    <l>Dat wy Son, Maen, Vuyr, Beeldt hier eeren als een Godt.</l>
+                    <l>Dat ghy de Stoysche als Phariseen gaet loven,</l>
+                    <l>De Saduceen gaen selfs u secten al te boven.</l>
+                    <l>Bewijst eens dat ghy hebt Gods Wet en zijn verbont,</l>
+                    <l>Die hebben wy van Godt, en u ist niet ghejont,</l>
+                    <l>Tweedracht en dwaling' rijst wel uyt een kleyn oorsake.</l>
+                    <l rend="speaker"><hi rend="i">Epistemon.</hi></l>
+                    <l rend="; 1tab">Gheeft lust en heb ick om de Ioden vuyl te maken,</l>
+                    <l>Maer dat sy leven oock als wy in onverstandt,</l>
+                    <l>Dats waer, want vol Afgoon is wel gheweest hen Landt,</l>
+                    <l>En des te meer, dewijl wy 'tsaem in dwalich swermen,</l>
+                    <l>Soo hoop ick dat hem Godt, sal over ons ontfermen,</l>
+                    <l>Nae dien de Leer van Christ dit inhout en brengt me,</l>
+                    <l>Soo wil ick hooren haer, en luysteren nae vre.</l>
+                    <l>&#160;</l>
+                    <l rend="speaker"><hi rend="i">Choor.</hi></l>
+                    <l>&#160;</l>
+                    <l rend="; 1tab"><hi rend="i">De Goude Son begon den morghen root</hi></l>
+                    <l><hi rend="i">t'Verdryven: ron en vvon, deur VVolcken groot</hi></l>
+                    <l><hi rend="i">Sy lustich schoot, en maeckte klaer</hi></l>
+                    <l><hi rend="i">Des Hemels Cloot en lieflijck, maer</hi></l>
+                    <l><hi rend="i">Soo gantsch lofbaer van haar de Christen Leer</hi></l>
+                    <l><hi rend="i">Verjaghet seer noch meer</hi></l>
+                    <l><hi rend="i">Dolinghe svvaer, gheeft daer voor vvaerheyt eer.</hi></l>
+                    <l>&#160;</l>
+                    <l rend="; 1tab"><hi rend="i">Ghelijckmen siet, dit schiet door
+                            vvonder-kracht,</hi></l>
+                    <l><hi rend="i">De Iode yet vvil niet sulcks sy ghevvracht.</hi></l>
+                    <l><hi rend="i">Devvijl hy acht, het vvetlijck licht</hi></l>
+                    <l><hi rend="i">Is vol van kracht, des zijn ghesicht</hi></l>
+
+                    <pb ed="fol." n="D1v"/>
+                    <l><hi rend="i">Blijft onghericht, en dicht den klaren glans,</hi></l>
+                    <l><hi rend="i">Veracht hy gans, nochtans</hi></l>
+                    <l><hi rend="i">Die niet en svvicht, maer sticht der eeren krans.</hi></l>
+                    <l>&#160;</l>
+                    <l rend="; 1tab"><hi rend="i">Den Grieck die hoort Gods VVoort, en oock de
+                            VVet,</hi></l>
+                    <l><hi rend="i">Des komt hy voort, en door 'topmercks ghelet</hi></l>
+                    <l><hi rend="i">Vint hy besmet hem zelfs, en sach</hi></l>
+                    <l><hi rend="i">Het Ioods opset vol ijl bejach,</hi></l>
+                    <l><hi rend="i">Soo dat den dach vermach te vvysen vroet</hi></l>
+                    <l><hi rend="i">Al 'tvuyl, en doet 'tghemoet</hi></l>
+                    <l><hi rend="i">Een vrolijck vvach, ghelachen ruste zoet.</hi></l>
+                    <l>&#160;</l>
+                    <l rend="; 1tab"><hi rend="i">Tvvee dinghen staen ons aen te sien
+                        altijt,</hi></l>
+                    <l><hi rend="i">Dats het vermaen ghedaen met grooter vlijt.</hi></l>
+                    <l><hi rend="i">Verstaende zijt, deur redens gront</hi></l>
+                    <l><hi rend="i">Men vverdt bevrijt van valschen vont.</hi></l>
+                    <l><hi rend="i">Roemenden mondt terstondt niet schielick looft,</hi></l>
+                    <l><hi rend="i">Maer reden klooft, berooft</hi></l>
+                    <l><hi rend="i">Van 'tonghesondt, 'tverbondt ons vast aen 'thooft.</hi></l>
+                    <l>&#160;</l>
+                    <l rend="; 1tab"><hi rend="i">Menich die zijn in schijn van heylicheyt,</hi></l>
+                    <l><hi rend="i">Ten is gheen pijn dat sijn haer mont vvat seyt.</hi></l>
+                    <l><hi rend="i">Sy dencken 'tleyt hier of daer in,</hi></l>
+                    <l><hi rend="i">Men moet bereyt staen nae haer sin,</hi></l>
+                    <l><hi rend="i">Of ons ghevvin vvaer din, vvie dan niet schrickt,</hi></l>
+                    <l><hi rend="i">Blijft ongheschickt verstickt,</hi></l>
+                    <l><hi rend="i">Naer Iootsch onmin, 'tghespin vliedt, eer't u strickt.</hi></l>
+                    <l>&#160;</l>
+                    <l rend="; 1tab"><hi rend="i">Dats hebt gheen vaer, al vvaer yemant soo
+                            stout,</hi></l>
+                    <l><hi rend="i">Dat hy ons naer veel quaet als Heydens hout,</hi></l>
+                    <l><hi rend="i">Schrickt niet noch stout om liefd'loos sot,</hi></l>
+                    <l><hi rend="i">d'VVijl ghy betrouyt en kleeft aen Godt,</hi></l>
+                    <l><hi rend="i">d'Heer self dit rot bespot, 'tvvelck dunckt het staet</hi></l>
+                    <l><hi rend="i">In hoogher graet vervaet,</hi></l>
+                    <l><hi rend="i">Daer't selver tot, 'tghebodt niet voort en gaet.</hi></l>
+                </lg>
+            </div>
+            </div>
+            <div type="act">
+                <div type="scene">
+                <pb ed="fol." n="D2r"/>
+                <head rend="h2"><hi rend="i">Het derde deel.</hi></head>
+                <stage><hi rend="i">Epicurus ende Cleanthes twee Philosophen.</hi></stage>
+
+                <lg type="poem">
+                    <l rend="; 1tab">Als den natuurschen loop indachtich my vermaende,</l>
+                    <l>Hoe alle dingh hier komt en weder is vergaende,</l>
+                    <l>Niet blijft hier van al dat ter werelt oyt verscheen.</l>
+                    <l>Mensch, Dieren, Bloemen, Kruyt, 'tvergaet en treckt al heen.</l>
+                    <l>Ons leven kort en ijl dat moet zeer licht verdryven,</l>
+                    <l>De Goden en Natuur alleen int leven blyven.</l>
+                    <l>Wat Mensch van hier vertreckt, niemant en keert weerom,</l>
+                    <l>Die doot is die blijft doot, wat segghen dan nu som,</l>
+                    <l>Datter noch hope is, ja vast, om noch te leven?</l>
+                    <l>Ick zie gheen reen waerom ick dit gheloof zoud gheven.</l>
+                    <l>Noyt Mensch en quam hier weer, doot zynde, uyt zyn graf.</l>
+                    <l>Wat praet ick? de Natuur noyt sulcke krachten gaf.</l>
+                    <l>Maer'tis natuurlijck hier te leven en te sterven.</l>
+                    <l>Natuur en heeft gheen strijdt, waer door zy mocht bederven.</l>
+                    <l>Dit is Natuur en loop, ghelijck de Zee beschuymt</l>
+                    <l>d'Een golf na d'ander gheeft, zy oock soo niet versuymt</l>
+                    <l>d'Een Mensch te nemen wech, en d'ander te doen komen.</l>
+                    <l>Ghelijck 't Hof jaerlijcks werdt vernieuwt met jonghe Blomen,</l>
+                    <l>Soo werdt het Aerdtrijck meest van Menschen nieu bewoont.</l>
+                    <l>Natuur Vorst, Koninck, Prins, noch niemant en verschoont.</l>
+                    <l>Na 'toverlegh van dit, ick hielt voor droom ghedachten,</l>
+                    <l>Dat Menschen die vergaen, een leven noch verwachten,</l>
+                    <l>De wyl zeer haest verloopt ons leven broos en kort,</l>
+                    <l>'t Lichaem ghevoedt uyt d'aerd, tot aerd' en asschen wort.</l>
+                    <l>Sotlyck leest dan de Mensch, die hier leeft vol onrusten,</l>
+                    <l>Die van hem selven keert Natuurs weeldighe lusten.</l>
+                    <l>Natuur voordeelt die Mensch die niet is traech noch slack,</l>
+                    <l>Want sy hem presenteert een leven vol ghemack.</l>
+                    <l>Waerom denckt niet die Mensch, wat hoef ick dus te zorghen?</l>
+                    <l>Want leef ick nu, ick kan doodt wesen noch voor morghen.</l>
+                    <l>'t Natuurlijck overlegh gheen hoogher goet my gheeft,</l>
+                    <l>Dan datmen nae den lust van zijn Natuur leeft.</l>
+                    <l>Niet datmen zy ghelijck den Wolf wreet int verscheuren,</l>
+                    <l>Noch Leeuw om moordt te doen, noch Tortelduyf om treuren,</l>
+                    <l>Noch Varcken om den zack onmatich t'overlaen:</l>
+                    <l>Maer laet de goe Natuur alleen haer weghen gaen.</l>
+                    <l>Onmaet is on-Natuur, het Lichaem t'overladen</l>
+                    <l>Werckt zieckt, en zieckt de doodt, die af-snijdt 'sLevens draden,</l>
+                    <l>Maer dat Natuerlijck hem de Mensch na lust wel doet,</l>
+                    <l>Dat vind ick hier te zijn, zijn alderhoochste goet,</l>
+
+                    <pb ed="fol." n="D2v"/>
+                    <l>Wie doet de Mensch doch wel, wil hy't hem selfs niet jonnen?</l>
+                    <l>Natuur en zou hem nau meer voordeel gheven konnen.</l>
+                    <l>Gheen meerder Sot oft Nar en mach dan wesen niet,</l>
+                    <l>Dan diem' hem selfs aendoet om dit of dat verdriet.</l>
+                    <l>Neen vrolijck leef ick, ick neem aen de Wijn om drincken,</l>
+                    <l>En bidde die Natuur my jaerlijcks meer te schincken.</l>
+                    <l>Ick klee my teghen 'tkoud', en warme my by 'tvier,</l>
+                    <l>En dencke dit ist al, wy hebbent doch al hier.</l>
+                    <l>Wat schroomt hem doch die Vreck te eten goede spyse?</l>
+                    <l>Ick grypet voor hem aen, en segh 'tis soo mijn wyse.</l>
+                    <l>De malle Giergaert houdt zijn ghelt in zijn Kantoor,</l>
+                    <l>Schroomt d'uytgheef, ick ghebruyckt, en heb mijn lust daer voor.</l>
+                    <l>Ick slape na mijn lust, Natuur noyt Vrouw en misten,</l>
+                    <l>Want dit is de manier van mijn Epicuristen.</l>
+                    <l rend="speaker"><hi rend="i">Cleanthes.</hi></l>
+                    <l rend="; 1tab">Al 's Werelts oumloop staegh wijst datter Goden zijn,</l>
+                    <l>'t Werckt al in zijn Natuur, de Sonne met haer schijn,</l>
+                    <l>De Wint, Vuyr, Locht en Aerd', Vee, Menschen woelen stedich,</l>
+                    <l>Soo konnen oock de Goon int wercken niet zijn ledich.</l>
+                    <l>'tIs wonder dat ghezeydt dit wert van Secten boos,</l>
+                    <l>Dat de Goon met ons doen haer moeyen niet altoos.</l>
+                    <l>Wy segghen doch goet rond dat Menschen gheen dinck uyten,</l>
+                    <l>Dat zy in haren Raet voor heen soo niet en sluyten.</l>
+                    <l>Men siet der Menschen loop, haer opkomst en haer val,</l>
+                    <l>De Goon doen quaet en goet, de Goon die doen het al.</l>
+                    <l>'t Is waer dat zy nochtans ons deuchde oock beloonen,</l>
+                    <l>En d'wijl men uyt Natuur de Deucht behoort te kroonen,</l>
+                    <l>Soo prysen wy de Deucht, want Deucht is zalicheyt.</l>
+                    <l>De Aerde, Wint en Vuyr ons al tot Deuchde leyt.</l>
+                    <l>Deucht is goet in haer selfs, wy prysen 'tleven deuchd'lijck,</l>
+                    <l>De Reghen doet ons Deucht, oock Maen en Sonne vreuchd'lijck:</l>
+                    <l>Het Aerdtrijck doet ons deucht, en gheeft ons vreucht al 'tjaer,</l>
+                    <l>De Dieren doen ons Deucht met Wolle, Vel en Hayr,</l>
+                    <l>Goe. Menschen doen ons Deucht, met hulpzaem goede dinghen,</l>
+                    <l>Natuure doet ons Deucht, begaeft ons zonderlinghen.</l>
+                    <l>De Goden doen ons Deucht, daer al het goet uyt rijst.</l>
+                    <l>d'Wijl dan 't gheschapen al, Deucht in zijn wercken prijst,</l>
+                    <l>Soo segghen wy de Deucht ist hoochste goet door desen,</l>
+                    <l>Soo smaden wy de Sect die aers ghesint mach wesen.</l>
+                    <l>Wy haten niet so zeer als voor te gheven dat</l>
+                    <l>De Goden niet en doen tot klene dinghen wat.</l>
+                    <l>De oude Schryvers al, en Leeraers deser Landen</l>
+                    <l>Hebben tot Goden-dienst ghepresen d'Offerhanden.</l>
+                    <l>t'Athenen is Minerf soo langh Gods-dienst ghedaen,</l>
+
+                    <pb ed="fol." n="D3r"/>
+                    <l>Op dat dees wijs Goddin zoud' dese Stadt voor-staen.</l>
+                    <l>Te Delphos werdt Apoll' gheeert, Diaen t' Ephesen,</l>
+                    <l>En elck Landt heeft zijn God om zijn weldaedt ghepresen.</l>
+                    <l>'t Is al om Goden gunst, voorstaen en schickingh sijn,</l>
+                    <l>Dat hier in dese Stadt soo veel Altaren zijn.</l>
+                    <l>Siet dan O Epicuur hoe groot dat is dijn dwale,</l>
+                    <l>Sy strijdt teghen 'tgheloof der Ouders altemale.</l>
+                    <l>Bekent dat niet Wellust, maer Deucht ist hoochste goet.</l>
+                    <l>Want dees wellusten Leer tot alle boosheydt voet.</l>
+                    <l>Wellust baert holvaerdy, oock hoerdery en stelen,</l>
+                    <l>Gulsicheydt, overdaedt, en brassery by velen.</l>
+                    <l>Dit volcht uyt uwe Leer, dit wortelt in veel quaet.</l>
+                    <l>Want die zijn wellust volcht is maer een vuylen Vraet.</l>
+                    <l>Niemant werdt zat van lust, ist goet die te volbringhen?</l>
+                    <l>Soo noemt ghy 'thoochste quaet te zyn de beste dinghen.</l>
+                    <l>Noyt Leer soo schad'lijck was voor Landt, Ghemeent en Heer,</l>
+                    <l>Want zy leyt Wet en Zeen, Loon ende Straf ter neer.</l>
+                    <l>Gheen Boghers konnen meer als wilde Dieren woelen,</l>
+                    <l>Dan die haer lusten sot in alle boosheyt koelen.</l>
+                    <l>Daer zietmen meest ghekijf, doodtslach en toren dol,</l>
+                    <l>By sulcke die van Wijn staegh zijn ghesopen vol.</l>
+                    <l>Wie zijn meer suypers dan die hare lust vol-voeren?</l>
+                    <l>Wie vecht? slaet doot? wie loopt? en wie verkeert met Hoeren,</l>
+                    <l>Dan die zijn lust voldoet, is droncken vanden Wijn.</l>
+                    <l>Straetschenders, Dieven veel, zijns' alsse droncken zijn.</l>
+                    <l>Men ziet dus dat de Leer tot volgh-lust der Nature.</l>
+                    <l>Is oospronck van veel quaet, en aller boos heydts schuere.</l>
+                    <l rend="speaker"><hi rend="i">Epicurus.</hi></l>
+                    <l rend="; 1tab">Cleanthes ghy zijt selfs die uwe Leer verschoont,</l>
+                    <l>Selfs pryser achtmen niet die aar Luy feyl vertoont.</l>
+                    <l>En als dit yet wat ghelt, soo ghelt dit segghen vastich,</l>
+                    <l>Natuurlijck is de Mensch hem gheensins overlastich,</l>
+                    <l>Natuere haet onmaet, onmaet Natuere krenckt,</l>
+                    <l>Niemant en zoeckt 't gheen hy hem quaet te wesen denckt.</l>
+                    <l>Natuurlijck vlietmen 'tVuyr, om niet daer in te branden,</l>
+                    <l>Fenijn, Slangh, Wolf en Leeu, oock Beer en Draecke Tanden,</l>
+                    <l>Natuere vliet al 'tgheen dat zy voor schade acht//</l>
+                    <l>Waen-geert bedriecht Natuur, en onmaet haer verkracht.</l>
+                    <l>Natuur lust niet tot quaet en schade van haer selven,</l>
+                    <l>Sy lust na spijs noch dranck, tot Natuurs overwelven.</l>
+                    <l>Natuur en lust gheen zieckt, ensieckt komt door onmaet:</l>
+                    <l>In somma zy en soeckt gheensins haer eyghen quaet.</l>
+                    <l>Natuurs lust is dan niet, ghekijf, dootsslach of tooren,</l>
+                    <l>Want Wetten goet die doen voor 'tquaet haer straffe hooren,</l>
+
+                    <pb ed="fol." n="D3v"/>
+                    <l>Natuur vliet straf en doodt, en tooren die onttstelt,</l>
+                    <l>Gheschieter quaet, Natuur lijdt door onlust ghewelt.</l>
+                    <l>Nochtans dijn yd'le mont komt myne Leer verdommen,</l>
+                    <l>Als ofter alle quaet door Natuurs lust soud' kommen.</l>
+                    <l>Dit wederspreeck ick hier, en zegh aldus daer by,</l>
+                    <l>Datter gheen Leer soo quaet als der Stoycken zy:</l>
+                    <l>Gheen Lere die meer streckt tot laster vande Goden,</l>
+                    <l>Gheen Volck dat soo onnut het quaet soeckt uyt te roden.</l>
+                    <l>Het eerst is blijcklijck waer uyt dynen eyghen mont;</l>
+                    <l>Want so mijn Leere streckt tot grouwel en tot zond,</l>
+                    <l>Soo zijn de Goon niet wijs, oft anders quadertieren,</l>
+                    <l>d'Wijl zy mijn Leer met haer ghevolch alsoo bestieren,</l>
+                    <l>Seghdy de Goon zijn goet, maer 'tis Naturen schult,</l>
+                    <l>Natuere vliedt het quaet, s'is oock met goet vervult,</l>
+                    <l>Hoe dat ghyt hebt, ghy drijft in desen quade saecken,</l>
+                    <l>d'Wijl ghy seght dat de Goon doch alle dinghen maecken.</l>
+                    <l>Die 'tquaet de Goon toeschrift, en lastert die haer niet?</l>
+                    <l>Onnut is teghen Leer, ast al door haer gheschiedt.</l>
+                    <l>Wie kan haer wil oft macht, en daden spreecken teghen,</l>
+                    <l>Als niemant goet of quaet mach sonder haer beweghen?</l>
+                    <l>Wat lastert ghy dan 'tquaet, en prijst soo zeer de Deught,</l>
+                    <l>d' Wijl ghy haer wil of macht niet wederstaen en meucht?</l>
+                    <l>Zijt dan vry onberoert, en wilt dijn Leer aenmercken,</l>
+                    <l>Ick segh laet God int zijn, en wy int onse wercken,</l>
+                    <l>Dat is, leeft na Natuur, ghy doet gheen quaet voor al.</l>
+                    <l>Natuere wijst ons wat men doen oft laten sal.</l>
+                    <l rend="speaker"><hi rend="i">Cleanthes.</hi></l>
+                    <l rend="; 1tab">Wat meent doch Epicuur hy heeft hem wel ghequeten?</l>
+                    <l>Zijn Leere opgherecht, en d'onse neerghesmeten.</l>
+                    <l>O neen! want deucht blyft deucht, en 'thoochste goedt altijdt,</l>
+                    <l>Wellust tot ondeucht leyt, 'twelck teghen 'tgoede strijdt.</l>
+                    <l>Maer dat Natuur is quaet, en lust die zy wil baren,</l>
+                    <l>Dat heeftmen soo ghelooft wel over vele Iaren.</l>
+                    <l>De Goden hebben zelfs so veel aen desen wroegh</l>
+                    <l>Te temmen dat zy haer dickwils misgaen ghenoegh.</l>
+                    <l>Den Tael-Godt dieftich is, den Strijdt-Godt heeft beslapen</l>
+                    <l>'t Smits Wijfs, Pallas en hy zijn veeltijdts in die Wapen,</l>
+                    <l>Van Menschen-moorden lust staen zy dan vol ghekropt.</l>
+                    <l>Men seght oock dat Iupijn Vulcanus heeft gheschopt</l>
+                    <l>Ten Hemel uyt, deur dien hem torens boosheyt neychde,</l>
+                    <l>En dat door torens ruymt hy Iuno daer me dreychde.</l>
+                    <l>Terwijl dan toren dol beheerst de Goden groot,</l>
+                    <l>Terwijl oock 'toverspel gheschiet deur lusten snoot,</l>
+                    <l>Terwijl den Nectar hun van nuchterheyt beroofde,</l>
+
+                    <pb ed="fol." n="D4r"/>
+                    <l>Soo is ons Natuurs lust oock voos soo ick gheloofde.</l>
+                    <l>En dat de Goon wel zijn vol gramschap onghetemt,</l>
+                    <l>Dit sietmen als yet quaets van ons werdt toeghestemt.</l>
+                    <l>Maer dat ons tijdt om gaen van hier niet waer verloopen,</l>
+                    <l>Exempels en bewijs brocht ick nu voort by hoopen.</l>
+                    <l rend="speaker"><hi rend="i">Gelasius.</hi></l>
+                    <l rend="; 1tab">Ick ben verwondert dat wyse Luy soo dwars legghen,</l>
+                    <l>En dats' altijdt malkaer so strydich wedersegghen.</l>
+                    <l>'t Schijnt dat de Werelt heel vol tweedracht en vol twist// is.</l>
+                    <l>My dunckt dat 't Priesterschap vol kyvens en vol list// is.</l>
+                    <l>Laest verhaeld' ich soo wat van het ghemeene peupel:</l>
+                    <l>Maer wat isser van? daer is meer dan eene kreupel.</l>
+                    <l>d' Gheestlijckheyt die ons leert, oft te leeren behoort,</l>
+                    <l>Die gaet selfs behoorlijck in veel dinghen niet voort.</l>
+                    <l>Wat beduydt doch al dit warren en disputeren?</l>
+                    <l>Soumen ons 'tgoede niet zonder twist konnen leeren?</l>
+                    <l>Doch ick sie wel hoe't is, de Priesters dencken, dat</l>
+                    <l>Haer t'hoochte woort toekomst in yder Dorp en Stadt:</l>
+                    <l>d'Wijl zy dienen die Goon, die alle dingh bestueren,</l>
+                    <l>Des mach niemant by haer van ampts weghen ghedueren.</l>
+                    <l>Want hun hand'lingh is Godlijck ende zeer ontsien,</l>
+                    <l>Sy willen Godsdienst doen, maer de Menschen ghebien.</l>
+                    <l>'t Kerck-voochden is haer kleen, want sy moghen met eeren</l>
+                    <l>'t Volck wel na haren sin onderwysen end' leeren:</l>
+                    <l>Maer dit ist dat haer schort, dat in sulcken ghebouw</l>
+                    <l>De Kerck-muer haer ghebiedt te nauw bepalen souw.</l>
+                    <l>Daerom prijs ick haer dit, naemlijck dat zy begheeren</l>
+                    <l>Te voeren heerschappy over Vorsten en Heeren.</l>
+                    <l>End' om dat die soo zeer roemen van Mars hen Vaer</l>
+                    <l>Door zijn kracht van leven en wapenen strijdtbaer,</l>
+                    <l>Soo weten zy die haest al weder te verbloden</l>
+                    <l>Met haren schoonen schijn, en praten vande Goden,</l>
+                    <l>In welcker ghemeenschap dat zy ghestadich zijn,</l>
+                    <l>End' hoe zy beweghen den opper-Godt Iupijn,</l>
+                    <l>End' hoe hy haer verleent sulcken macht en vermoghen,</l>
+                    <l>Dat sy comen terstont nae zijn blixem ghevloghen,</l>
+                    <l>Den welcken sy seer fel met Priesterlijck bedrijf</l>
+                    <l>Aenvaten, en het grau stracx werpen op het lijf.</l>
+                    <l>En isser yemant die daer voor niet wil verschricken,</l>
+                    <l>Op dien en doen sy niet dan donderen en blicken,</l>
+                    <l>En dreyghen met gramschap haer pylen vol van vier</l>
+                    <l>Op die te schieten af, nae de oude manier,</l>
+                    <l>Ghelijck ick oude luy wel heb hooren vertellen,</l>
+                    <l>Hoe sy verdoemen 'tVolck, en wysen 't nae der Hellen.</l>
+
+                    <pb ed="fol." n="D4v"/>
+                    <l>Maer ick ben aers van sin, en daer toe al te loos;</l>
+                    <l>Want ick acht haren Blick ofte Ban niet altoos,</l>
+                    <l>Ghelijcker nu veel zijn die al de Priesters krachten</l>
+                    <l>Soo kleen als een boom-stroo, ja noch veel minder achten.</l>
+                    <l>Doch al te kleen is quaet, dewijl men op dien voet</l>
+                    <l>De quade luy vervaert, en leertse werden goedt,</l>
+                    <l>Anders doense veel dat soo veel heeft te beduyen,</l>
+                    <l>Als een Ey op een Kord'waghen te loopen kruyen.</l>
+                    <l>Alsoo ick korts heb veel spitsinnicheyt ghehoort,</l>
+                    <l>Daer van men int ghemeen qualyck verstont een woort.</l>
+                    <l>Tis meer dan tijt dat ick op hou, eer zy met toren</l>
+                    <l>My schelden voor een geck, oft sotte mallen dooren.</l>
+                    <l>&#160;</l>
+                    <l rend="speaker"><hi rend="i">Choor.</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Daer is veel schil deur onverstant
+                        verkeert,</hi></l>
+                    <l><hi rend="i">VVant elck die vvil dat hy het beste leert,</hi></l>
+                    <l><hi rend="i">Die niet begheert een beter toe te staen,</hi></l>
+                    <l><hi rend="i">Die vverdt verheert van zynen sotten vvaen,</hi></l>
+                    <l>&#160;</l>
+                    <l rend="; 1tab"><hi rend="i">Of menich dan hem stelt als Meester
+                        vvijs,</hi></l>
+                    <l><hi rend="i">Den schijn en kan hem gheensins gheven prijs,</hi></l>
+                    <l><hi rend="i">Hy glijt op't Ys, die denckt ick ben vry yet,</hi></l>
+                    <l><hi rend="i">Sulck teder Rijs men licht af-rucken siet.</hi></l>
+                    <l>&#160;</l>
+                    <l rend="; 1tab"><hi rend="i">Noch dvvaeltmen vvel zijnde gheleert zeer
+                            vroet</hi></l>
+                    <l><hi rend="i">In lusts ghequel, alsmen die quaet voldoet,</hi></l>
+                    <l><hi rend="i">Doch lust is goedt, om te behaghen Godt,</hi></l>
+                    <l><hi rend="i">Die opghevoet vverdt recht in zijn ghebodt.</hi></l>
+                    <l>&#160;</l>
+                    <l rend="; 1tab"><hi rend="i">Maer lust voldaen, deur qua Natuur
+                        ghebaert;</hi></l>
+                    <l><hi rend="i">Is vanden quaen, en niet ons eyghen aert,</hi></l>
+                    <l><hi rend="i">VVellust ghepaert met een Natuur vol zondt,</hi></l>
+                    <l><hi rend="i">Vliet die bedaert, en bouvvt op goede grondt.</hi></l>
+                    <l>&#160;</l>
+                    <l rend="; 1tab"><hi rend="i">Ghelijckmen mist int volghen der
+                        vvellust,</hi></l>
+                    <l><hi rend="i">d'Epicurist is nauvv hem zelfs bevvust,</hi></l>
+                    <l><hi rend="i">Zijn gheeringh' blust hy even als een Svvijn,</hi></l>
+                    <l><hi rend="i">Zoo ongherust, kan oock een Stoyck zijn.</hi></l>
+
+                    <pb ed="fol." n="E1r"/>
+                    <l rend="; 1tab"><hi rend="i">VVant als ons doen gheschiedt door Goden
+                            dvvanck,</hi></l>
+                    <l><hi rend="i">So zy bevroen, elck houdt zijn leven lanck</hi></l>
+                    <l><hi rend="i">Den ouden ganck der zond' en dolinghs pat,</hi></l>
+                    <l><hi rend="i">Loopt yemant manck, Godt heeft zijn vvil ghehadt.</hi></l>
+                    <l>&#160;</l>
+                    <l rend="; 1tab"><hi rend="i">VVie kan tot deucht ons gheven goeden
+                        raet,</hi></l>
+                    <l><hi rend="i">Als vander jeucht natuur is boos en quaet?</hi></l>
+                    <l><hi rend="i">Alsmen onmaet niet soude konnen vlien,</hi></l>
+                    <l><hi rend="i">Zoot qualijck gaet, Gods vville moet gheschien.</hi></l>
+                    <l>&#160;</l>
+                    <l rend="; 1tab"><hi rend="i">Dvvalingh is hier, als men seght, elck die
+                            leeft</hi></l>
+                    <l><hi rend="i">Na Gods bestier, so hy't int herte gheeft.</hi></l>
+                    <l><hi rend="i">Niemant en sneeft teghen Gods vvil dan niet,</hi></l>
+                    <l><hi rend="i">VVantmen aenkleeft, Gods vvil in als ghechiet.</hi></l>
+                    <l>&#160;</l>
+                    <l rend="; 1tab"><hi rend="i">Zo elcke Seckt heeft quade Leeringh in,</hi></l>
+                    <l><hi rend="i">Die rou vervveckt in menichs hert en sin,</hi></l>
+                    <l><hi rend="i">Des niet te min een goe Leer gaet gheen mis,</hi></l>
+                    <l><hi rend="i">Die haer ghevvin goet deur Gods goetheyt is.</hi></l>
+                </lg>
+            </div>
+            </div>
+            <div type="act">
+                <div type="scene">
+                <head rend="h2"><hi rend="i">Het vierde deel.</hi></head>
+
+                <lg type="poem">
+                    <l rend="speaker"><hi rend="i">Titus.</hi></l>
+                    <l rend="; 1tab">Dat yemant van ons drien een praet zou brenghen by,</l>
+                    <l>Soo zy u Luy vertelt hoe 'tkortelingh ginck met my.</l>
+                    <l>Een Iode hier in Stadt, een handelaer in Zyde,</l>
+                    <l>En zyde Waren veel, die hy verkrijcht by tyde</l>
+                    <l>Van Damasco, die heeft my een goedt deel verkocht.</l>
+                    <l>Graech was ick na dit goedt, ick haddet langh ghesocht.</l>
+                    <l>De somma die liep hooch, ick quam tekort int tellen,</l>
+                    <l>Dies vraechd' ick of hy't my wou voor een tijdt by stellen?</l>
+                    <l>Ick vant hem daer toe reed', hy zeyde my by dien,</l>
+                    <l>Dit ghelt doe ick niet min dan 'thondert op vierthien.</l>
+                    <l>Wel zeyd ick Iode, hoe? wat? wildy dryven woecker?</l>
+                    <l>Ick winne waer ick kan, elck is om winnen kloecker,</l>
+                    <l>Seyd' hy, en mits hy sach, dat ick zeer was ghepost,</l>
+                    <l>Hy hielt hem stijf, so dat ickt hem beloven most.</l>
+
+                    <pb ed="fol." n="E1v"/>
+                    <l>Ick was verwondert, want ick dacht dat by dees Lieden,</l>
+                    <l>Gheen winninghs over-tol so vrylijck mocht gheschieden.</l>
+                    <l>Ick meende haren God, daer zy op roemen zeer,</l>
+                    <l>Die gaf hun door zijn Wet een beter trouwe Leer.</l>
+                    <l>Maer siet ick vant my dus, en anders noch bedroghen,</l>
+                    <l>Soo dat ich docht die winst doet lieghen en menich loghen.</l>
+                    <l rend="speaker"><hi rend="i">Talus.</hi></l>
+                    <l rend="; 1tab">Nu Titus dit vertelt, ick hebbe memich Iaer</l>
+                    <l>Veel koopmanschap ghedaen, in veelderhande waer.</l>
+                    <l>Ick sach noyt slimmer tydt, of menschen soo gheslepen:</l>
+                    <l>Want hoe men 'tkeert of went, men ist altydt begrepen.</l>
+                    <l>De Luyden hedens-daechs achtent voor eere best,</l>
+                    <l>Als sy haer roemen zoo, ick nam die Man uyt 't Nest.</l>
+                    <l>Gheen Waer blijft onvervalscht, soo speeltmen menghel, manghel,</l>
+                    <l>De koopmanschap is nu eendoodelijcke Aughel.</l>
+                    <l>'T bedroch is eer en deucht, uyt strijck en vroomheyt hiet,</l>
+                    <l>Ick dacht laest by my selfs, ick krygher in verdriet,</l>
+                    <l>En zoo ick anders my wel wiste te gheneren,</l>
+                    <l>Den Handel sou ick nu wel willen gantsch ontberen.</l>
+                    <l>Meer Luyden zijn ontrou, als Ioden in dees Stadt,</l>
+                    <l>Hoe wel die gheen goe naem in langh hebben ghehadt.</l>
+                    <l rend="speaker"><hi rend="i">Eurialus.</hi></l>
+                    <l rend="; 1tab">Talus, ick segh oock soo, wy weten wel wat treecken,</l>
+                    <l>De Koopluy om haer winst nu voor gheen zonde reecken.</l>
+                    <l>Mijn Ouders hebben my vertelt end' wel ghesecht,</l>
+                    <l>Dat 'tVolck hier voortijts was in handel zeer oprecht,</l>
+                    <l>Maer nu, hoe datse som schynen te zijn devoter,</l>
+                    <l>Wtstrijckers zijn sy maer, en loghenaers te grooter.</l>
+                    <l>Ick hebbe gantsch gheen zin in luymer, oft die liecht,</l>
+                    <l>Niemant zie op den schijn, dewijl hy veel bedriecht.</l>
+                    <l rend="speaker"><hi rend="i">Paulus.</hi></l>
+                    <l rend="; 1tab">De goede Godt die laet de tyden vast gaen henen,</l>
+                    <l>Hem zy lof, eer en danck, de [t]ijdt is nu verschenen,</l>
+                    <l>Tis nu de rechte tijdt, 'tis nu de tijdt van boet,</l>
+                    <l>Tis nu de tijdt daer in God ons wil wesen goet.</l>
+                    <l>Tis nu de tijdt daer in hy vrede latet preecken,</l>
+                    <l>En dat aen alle Volck, die niet en blyven steecken</l>
+                    <l>Int oude leven boos, vol zond' en overdaet,</l>
+                    <l>Maer die na bet'ringh staen, en keeren af van 'tquaet.</l>
+                    <l>Godt wil ghenadich zijn, end' haer zond vergheben.</l>
+                    <l>Dit raed ick yeg'lick aen, wil hy hier naemaels leven.</l>
+                    <l>O Mannen stelt u niet ghelijck den boosen aert,</l>
+                    <l>Godt heeft zijn eenich Soon uyt liefde niet ghespaert.</l>
+                    <l>De Wereldt heeft God zoo zijn liefde laten erven,</l>
+
+                    <pb ed="fol." n="E2r"/>
+                    <l>Dat zijn eenighen Soon voor haer heeft willen sterven,</l>
+                    <l>Op dat al die in hem gheloven vast en wis</l>
+                    <l>Verrysen, zoo als hy oock selfs verresen is.</l>
+                    <l>Op dat hy naemaels haer mach zalichlijck vereeren,</l>
+                    <l>Doet boete dan, waer na toefdy u te bekeeren?</l>
+                    <l rend="speaker"><hi rend="i">Cleanthes.</hi></l>
+                    <l rend="; 1tab">Hebdy oock oorlof Man dat ghy hier preecken meucht?</l>
+                    <l>Wat wildy leeren ons die zelfs leeren de deucht?</l>
+                    <l>Weet ghy wel dat wy zijn gheleert in alles kloecklijck?</l>
+                    <l>Ick acht ghy zijt een Leeck niet onderwesen Boecklijck.</l>
+                    <l rend="speaker"><hi rend="i">Paulus.</hi></l>
+                    <l rend="; 1tab">Ick leer u ware deucht die Godt behaghen zal,</l>
+                    <l>En een Gheloof aen Christ, daer ghy doch niet met al</l>
+                    <l>Af weet, noch hebt ghehoort, 'tgheen ick u hier verkonde,</l>
+                    <l>Dat is deur dit Gheloof verghevinghe van zonde,</l>
+                    <l>Het welck u nutbaer goet tot salicheyt ghedijt,</l>
+                    <l>Als ghy uyt 'taertsche slijck weder verresen zijt.</l>
+                    <l rend="speaker"><hi rend="i">Epicurus.</hi></l>
+                    <l rend="; 1tab">Hy predickt nieuwe Goon, en voorts een dingh onmooghlijck</l>
+                    <l>Het welck Natuur noch Reen gheensins en is ghedooghlijck.</l>
+                    <l>Soo veel de Goden nieuw belanght, het is zeer stout,</l>
+                    <l>Want wy ghelooven vast aen al de Goden oudt,</l>
+                    <l>En vant verrysen, om hier na noch eens te leven,</l>
+                    <l>Als sulcks bewesen werdt sal ickt geloove gheven.</l>
+                    <l rend="speaker"><hi rend="i">Talus.</hi></l>
+                    <l rend="; 1tab">Wat seght die klappert al, hoe gaet hem soode mont?</l>
+                    <l rend="speaker"><hi rend="i">Titus.</hi></l>
+                    <l rend="; 1tab">Hy leert van Goden nieu, hy maecket vry wat bont.</l>
+                    <l rend="speaker"><hi rend="i">Paulus.</hi></l>
+                    <l rend="; 1tab">Hoort Mannen en verstaet, en let op mijn verhalen,</l>
+                    <l>Ick leer gheen nieuwe Goon, als and're die wel dwalen.</l>
+                    <l>Maer siet ick kom en brengh een blyde boodtschap hier,</l>
+                    <l>Van d'eenich, eeuwich Godt, almachtich, goedertier.</l>
+                    <l>Ick spreeck van aers gheen Godt, dan die voor alle tyden</l>
+                    <l>Gheweest heeft, is, en blijft, die wil ons nu verblyden.</l>
+                    <l>Dat ick van Iesu spreeck, ghelooft hy is Gods Soon,</l>
+                    <l>Dat hy verresen is, en dat oock soo de doon</l>
+                    <l>Verrysen sullen noch, strijdt niet teghen Gods machte,</l>
+                    <l>Noch teghen de Natuur, wilt ghyse nemen achte.</l>
+                    <l>Op al de Zaden siet, hoe oock het Tarwen graen</l>
+                    <l>Int Aerdtrijck te eerst vergaet, en na weer op komt staen.</l>
+                    <l>De Winters koud' verdrijft het Gras, Groent ende Bladen,</l>
+                    <l>Dat Somers weer verryst, en komt met Vrucht gheladen.</l>
+                    <l>Wt Gods macht, ick zegh, dier uyt niet al maeckt, die heeft</l>
+
+                    <pb ed="fol." n="E2v"/>
+                    <l>Macht te verwecken naer 'tgheen voortijts heeft gheleeft.</l>
+                    <l rend="speaker"><hi rend="i">Eurialus.</hi></l>
+                    <l rend="; 1tab">Wel wat is dit voor nieuws? ick hoordet noyt mijn daghen.</l>
+                    <l rend="speaker"><hi rend="i">Cleanthes.</hi></l>
+                    <l rend="; 1tab">Komt Vrient wy moeten u daer meer af onder-vraghen.</l>
+                    <l rend="speaker"><hi rend="i">Titus.</hi></l>
+                    <l rend="; 1tab">Wat nieus Mannen, wat nieuws, komt luystert voor den Raet.</l>
+                    <l rend="speaker"><hi rend="i">Talus.</hi></l>
+                    <l rend="; 1tab">Och Pallas ziet eens af, siet wat hier al omgaet.</l>
+                    <l rend="speaker"><hi rend="i">Cleanthes.</hi></l>
+                    <l rend="; 1tab">Mijn Heeren dese Man die hebben wy bevonden</l>
+                    <l>Te leeren in de Stadt, 'tgheen noyt voor dese stonden</l>
+                    <l>By Iode noch by Grieck te voren was gheleert,</l>
+                    <l>Wy hebben reeckenschap van syne Leer begheert,</l>
+                    <l>Doen wist hy daer terstont een reden op te maken.</l>
+                    <l>Maer op dat kennis ghy mocht nemen vander saken;</l>
+                    <l>Dewijl een nieuwe Leer altijt tot oproer streckt,</l>
+                    <l>'tWelck inde Borghery gheen vruntschap en verweckt;</l>
+                    <l>En d'wijl den standt der Stadt daer veel aen is gheleghen,</l>
+                    <l>Soo brenghen wy hen hier, mijn Heeren let te deghen</l>
+                    <l>Op dese Leeringh nieu, te voren niet ghehoort,</l>
+                    <l>Wat onrust en wat moeyt hier uyt kan komen voort.</l>
+                    <l>Want wy Gheleerden oudt, by 't oude willen blyven.</l>
+                    <l>Siet dan mijn Heeren toe, wat hier uyt voort wil dryven.</l>
+                    <l rend="speaker"><hi rend="i">De President.</hi></l>
+                    <l rend="; 1tab">V werdt hier op-gheleydt van d'Heeren deser Stadt</l>
+                    <l>Reeckeningh uwer Leer, op dat wy weten wat</l>
+                    <l>Ons dan te doene staet, tot rust van ons Ghemeente.</l>
+                    <l>Seght op wat nieus, wat vreemts, leert ghy hier tot verkleente?</l>
+                    <l rend="speaker"><hi rend="i">Paulus.</hi></l>
+                    <l>Ghy Mannen, Heeren van Athenen 'kheb ghesien</l>
+                    <l>V overg'loovicheyt in alle dinck, mits dien</l>
+                    <l>Ick voorby gaende was, en u Gods-dienst aenschoude,</l>
+                    <l>Vont ick een Outaer staen, 'tgheschrift daer op van Goude</l>
+                    <l>Was d'onbekenden Godt, nu doe ick gheen dingh meer,</l>
+                    <l>Dan ick verkondich dien, den welcken ghy me teer</l>
+                    <l>Onwetend' Gods-dienst doet, dien God die d'Werelt maeckte,</l>
+                    <l>Met al datter in is, en d'Werelt oyt ghenaeckte.</l>
+                    <l>Want hy een Heere is van Hemel en van aerdt,</l>
+                    <l>Soo is de Woningh hem in Tempelen niet waert,</l>
+                    <l>Die ghy oft and're maeckt met menschelijcke handen,</l>
+                    <l>Hier van werdt hy oock niet gheeert door offerhanden,</l>
+                    <l>Als een die yet behoeft, want hy 't al selver gheeft,</l>
+                    <l>Oock 't leven selfs aen elck, alle Ghedachten heeft</l>
+
+                    <pb ed="fol." n="E3r"/>
+                    <l>Van Menschen hy ghemaeckt, en haer oock daer beneven</l>
+                    <l>Des Aerdtrijcks ronde kloot om woonen inghegheven.</l>
+                    <l>Van eeuwicheyt voorsien heeft hys' een perck gheset,</l>
+                    <l>Hoe langh' en verre zy hier woonen sullen net,</l>
+                    <l>Op dat van herten zy den Heer te dienen sochten,</l>
+                    <l>Of sy hem voelden doch, vinden en lieven mochten.</l>
+                    <l>Tis waer hy noyt niet veer van ons te zijn en pleeght,</l>
+                    <l>Want in hem leven wy, en worden wy beweeght;</l>
+                    <l>In hem zyn wy, alsoo sommigh' uwer Poeten</l>
+                    <l>Hebben ghezeydt, wy ons zijns aerts te zijn vermeten,</l>
+                    <l>Ist dat wy Godlijck zijn, van synen aert gheteelt.</l>
+                    <l>Meent niet de Godtheyt zy ghelijck van eenich beelt,</l>
+                    <l>Van Silver oft van Goudt, naer Menschen kunst en dichtingh</l>
+                    <l>Tis waer Godt heeft den tijdt der onwetenheyts stichtingh</l>
+                    <l>Ghenadich oversien, maer nu ghebiedt hy, doet</l>
+                    <l>Aen allen eynden, O ghy Menschen! ware boet.</l>
+                    <l>Om dat hy eenen dach gheset heeft op den welcken</l>
+                    <l>Hy rechten wil den rinck des Aerdtbodems, en elcken</l>
+                    <l>Recht en Gherechtheyt doen, door eenen Man, door wien</l>
+                    <l>Hy vast besloten heeft dat alles sal gheschien.</l>
+                    <l>Voorhoudend' yeder een 'tgheloof dat hier toe strecket,</l>
+                    <l>d'Wijl hy hem vander doodt heeft troostbaer opgheweeket.</l>
+                    <l rend="speaker"><hi rend="i">President.</hi></l>
+                    <l rend="; 1tab">Vertreckt op dees tijdt, tot het ons eens beter past,</l>
+                    <l>De Goden laten wy begaen, want 'tis hen last</l>
+                    <l>Te heerschen int ghemoet, maer wy zijn swacke Menschen</l>
+                    <l>Die geerne 'tgoede zien, en 'tbeste willen wenschen.</l>
+                    <l>&#160;</l>
+                    <l rend="speaker"><hi rend="i">Choor.</hi></l>
+                    <l>&#160;</l>
+                    <l rend="; 1tab"><hi rend="i">Onkond' der dinghen doet veel scha,</hi></l>
+                    <l><hi rend="i">Int vvel verkiesen voor oft na:</hi></l>
+                    <l><hi rend="i">Achtmen voor quaat het geen is goet,</hi></l>
+                    <l><hi rend="i">Zo vverdt de dvvalingh opghevoet.</hi></l>
+                    <l><hi rend="i">&#160;</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Door onkunde neemt menich Man</hi></l>
+                    <l><hi rend="i">Zijn eyghen schade vvillich an.</hi></l>
+                    <l><hi rend="i">VVant 'tgheen hy doet acht hy voor 'tbest,</hi></l>
+                    <l><hi rend="i">Kennis door scha krijcht hy op't lest.</hi></l>
+
+                    <pb ed="fol." n="E3v"/>
+                    <l rend="; 1tab"><hi rend="i">Daer vwort ghedvwaelt in kennis kracht,</hi></l>
+                    <l><hi rend="i">Als men 'tverganck'lijck goet meer acht,</hi></l>
+                    <l><hi rend="i">Als 'teeuvvich Hemels zielen Heyl,</hi></l>
+                    <l><hi rend="i">Onkunde brenght ons in veel feyl.</hi></l>
+                    <l><hi rend="i">&#160;</hi></l>
+                    <l rend="; 1tab"><hi rend="i">'tBedroch en lieghen door onkond'</hi></l>
+                    <l><hi rend="i">Rapen en schrapen is gheen zond',</hi></l>
+                    <l><hi rend="i">Soo men van't tijdtlijck heyl vervvacht,</hi></l>
+                    <l><hi rend="i">Die meest heeft, luckichst vvert gheacht.</hi></l>
+                    <l><hi rend="i">&#160;</hi></l>
+                    <l rend="; 1tab"><hi rend="i">d'Onkennis maeckt ons vvel soo blent,</hi></l>
+                    <l><hi rend="i">Dat niemant nauvv hemsel verkent.</hi></l>
+                    <l><hi rend="i">Die hem niet kent, vvat sou den dien</hi></l>
+                    <l><hi rend="i">Noch dinghen buyten hem besien?</hi></l>
+                    <l><hi rend="i">&#160;</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Men seyt ghemeenlijck, dooltmen vvat,</hi></l>
+                    <l><hi rend="i">Ons' natuur hevet langh ghehadt,</hi></l>
+                    <l><hi rend="i">Iae al ghe-erft van Adam af,</hi></l>
+                    <l><hi rend="i">En draecht de quaetheyt tot in't graf.</hi></l>
+                    <l><hi rend="i">&#160;</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Is ons' natueren eyghen aert</hi></l>
+                    <l><hi rend="i">Dat sy in ons selfs boosheyt baert,</hi></l>
+                    <l><hi rend="i">Die dees onkund' van ons voorstaet,</hi></l>
+                    <l><hi rend="i">Die maeckt Natuur en Schepper quaet.</hi></l>
+                    <l><hi rend="i">&#160;</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Ist door Natuur, oft vvanen vals,</hi></l>
+                    <l><hi rend="i">Oft door onkund' ghevveest in als,</hi></l>
+                    <l><hi rend="i">Dat Ioodsch' en Grieckse Secten voort</hi></l>
+                    <l><hi rend="i">Dus vveder stonden 'sHeeren VVoort?</hi></l>
+                    <l><hi rend="i">&#160;</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Door onkund' vvaen en hooghen moet,</hi></l>
+                    <l><hi rend="i">De qua natuur vvert uyt ghebroedt,</hi></l>
+                    <l><hi rend="i">Die haer door dese krachten roert</hi></l>
+                    <l><hi rend="i">So vverdt de goe natuur vervoert.</hi></l>
+                    <pb ed="fol." n="E4r"/>
+                    <l rend="; 1tab"><hi rend="i">Als reen tot kennis vverdt besocht,</hi></l>
+                    <l><hi rend="i">VVt dvvalingh vverdt den mensch ghebrocht;</hi></l>
+                    <l><hi rend="i">VVant als d'Atheensche Raedt vvist hoe,</hi></l>
+                    <l><hi rend="i">So stonden zy som Paulus toe.</hi></l>
+                    <l><hi rend="i">&#160;</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Gheluckich dan ist Landt ghesteldt</hi></l>
+                    <l><hi rend="i">Daermen gheen Vonnis doet om ghelt,</hi></l>
+                    <l><hi rend="i">En daer den Raet reen vvijs bevroen,</hi></l>
+                    <l><hi rend="i">En beyd' haer Ooren open doen.</hi></l>
+                    <l><hi rend="i">&#160;</hi></l>
+                    <l rend="; 1tab"><hi rend="i">Godt zeghent overvloedich 'tLant</hi></l>
+                    <l><hi rend="i">Daer Rechters zijn met goedt verstant,</hi></l>
+                    <l><hi rend="i">Die niet 'tghemoedt dvvinghen door pijn,</hi></l>
+                    <l><hi rend="i">Maer laten Godt zelfs Rechter zijn.</hi></l>
+                </lg>
+                <figure>
+                    <p><xptr to="scha001spel01ill0002.gif"/></p>
+                </figure>
+                <pb ed="fol." rend="blank" n="E4v"/>
+                <pb rend="blank" n="binnenkant achterplat"/>
+                <pb rend="blank" n="achterplat"/>
+            </div>
+            </div>
+        </body>
+    </text>
+</TEI.2>
