@@ -1,0 +1,527 @@
+#!/usr/bin/env python3
+
+import json
+import os, sys
+import datetime
+
+from pprint import pprint
+
+import lxml.html
+import pandas as pd
+import requests
+from jinja2 import Template
+
+from dracor_jinja2 import xml_template
+from dracor_utils import escape, unescape
+
+from io import BytesIO
+
+import xml.etree.ElementTree as ET
+
+BASEURL = f"https://www.dbnl.org/nieuws/xml.php?id=%s"
+
+DBNL_AANLEVER = "Bibliografische metadata RiR gepubliceerd in 1500-1700.xlsx"
+LUCAS_AANLEVER = "Inventarisatie_toneelstukken_DBNL.xlsx"
+
+DBNL_DIR = "dbnl_xml_voorbewerkt"
+DRACOR_DIR = "dracor_xml"
+
+STUDENTEN_DIR = "perlijsten"
+
+LEVENSTEIN_SPEAKER = 3
+
+OUTDIR = "playlist_per_work"
+
+import datetime
+'''
+print(
+    "Running parse_dbnl_input.py on %s"
+    % datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
+)
+'''
+
+if not os.path.isdir(DBNL_DIR):
+    os.mkdir(DBNL_DIR)
+
+if not os.path.isdir(DRACOR_DIR):
+    os.mkdir(DRACOR_DIR)
+
+
+def pre_remove(
+    fname: str,
+    to_remove: list[str] = [
+        '<hi rend="i">',
+        '<hi rend="sc">',
+        '<hi rend="b">',
+        '<hi rend="spat">',
+        "</hi>",],
+
+    to_remove_s: list[str] = [
+        '<hi rend="i"',
+        '<hi rend="sc"',
+        '<hi rend="b"',
+        '<hi rend="spat"',
+        '<hi',
+        'rend="i">',
+        'rend="sc">',
+        'rend="b">',
+        'rend="spat">',
+        ],
+
+    read_from_till: list[str] = ["<body>", "</body>"],
+) -> BytesIO:
+
+
+    """Also just ingore the <front> section for now, we will parse it later,
+    start parsing from <body> till </body>"""
+
+    with open(fname, 'r') as fh:
+        ET.fromstring(fh.read().encode('utf-8'))
+
+    with open(fname, "r") as fh:
+        xml_buffer = BytesIO(fh.read().encode())
+        xml_data = xml_buffer.read().decode("utf-8")
+
+
+        mem = ''
+        for line in xml_data.split("\n"):
+            if line.strip() == read_from_till[-1]:
+                mem += line 
+                break
+            if line.strip().startswith(read_from_till[0]) or mem:
+                mem += line
+
+
+
+        for r in to_remove:
+            mem = mem.replace(r,'')
+        for r in to_remove_s:
+            mem = mem.replace(r,'')
+
+        mem1 = ''
+        for line in mem.split('\n'):
+            if line.strip().startswith('>'):
+                mem1 += line.strip()[1:]
+            else:
+                mem1 += line
+        d = ET.fromstring(mem1)
+
+
+    xml_buffer = BytesIO(mem1.encode())
+    xml_buffer.seek(0)
+
+
+    from copy import copy
+
+    def dictify(r,root=True):
+        if root:
+             return {r.tag : dictify(r, False)}
+        d=copy(r.attrib)
+        if r.text:
+            d["_text"]=r.text
+        for x in r.findall("./*"):
+            if x.tag not in d:
+                d[x.tag]=[]
+            d[x.tag].append(dictify(x,False))
+        return d
+    pprint(dictify(ET.fromstring(xml_buffer.read().decode('utf-8'))))
+    xml_buffer.seek(0)
+    out_ok = False
+    try:
+        d = ET.fromstring(xml_buffer.read().decode('utf-8'))
+        out_ok = True
+    except Exception as e:
+        xml_buffer.seek(0)
+        out_ok = False
+        with open(f'{fname}.error', 'w') as fh:
+            fh.write(xml_buffer.read().decode('utf-8'))
+        xml_buffer.seek(0)
+        return xml_buffer, out_ok
+    with open(f'{fname}.ok', 'w') as fh:
+        fh.write(xml_buffer.read().decode('utf-8'))
+
+    xml_buffer.seek(0)
+    return xml_buffer, out_ok
+
+
+def print_dracor_xml(data: dict) -> None:
+    generated_xml = Template(xml_template).render(data=data)
+
+    # Output directory.
+    fname = os.path.join(DRACOR_DIR, data.get("ti_id") + "_dracor.xml")
+
+    with open(fname, "w") as fh:
+        fh.write(generated_xml)
+
+
+def parse_dbnl_aanlever() -> list[dict] | None:
+    if not os.path.isfile(DBNL_AANLEVER):
+        print(f"Could not read '%s', missing file?" % DBNL_AANLEVER)
+        return None
+    try:
+        df = pd.read_excel(DBNL_AANLEVER)
+        wanted = json.loads(df.to_json())
+    except:
+        print(f"Error parsing %s, file corrupt?" % DBNL_AANLEVER)
+        return None
+
+    all_data = []
+    for nr in wanted.get("ti_id").keys():
+        data = {}
+        fn = "dbnl_xml" + os.sep + str(wanted.get("ti_id").get(nr)) + ".xml"
+        if not os.path.isfile(fn):
+            # Fetch input xml from DBNL
+            res = requests.get(BASEURL % wanted.get("ti_id").get(nr))
+            if not res.status_code == 200:
+                print(f"Error getting %s" % fn)
+            with open(fn, "w") as fh:
+                fh.write(res.content.decode("utf-8"))
+
+        for key in wanted.keys():
+            value = wanted.get(key).get(nr)
+            if value is None:
+                continue
+
+            if not key in data:
+                data[key] = value
+
+        all_data.append(data)
+    return all_data
+
+
+def parse_lucas_aanlever(data: list[dict]) -> dict | None:
+    if not os.path.isfile(LUCAS_AANLEVER):
+        print(f"Could not read '%s', missing file?" % LUCAS_AANLEVER)
+        return None
+
+    try:
+        df = pd.read_excel(LUCAS_AANLEVER)
+        wanted = json.loads(df.to_json())
+    except:
+        print(f"Error parsing %s, file corrupt?" % LUCAS_AANLEVER)
+        return None
+
+    all_rows = list(wanted.keys())
+
+    eratta = {}
+
+    for nr in wanted.get("dbnl-ID").keys():
+
+        if not wanted.get("dbnl-ID").get(nr):
+            continue
+
+        cur_id = wanted.get("dbnl-ID").get(nr)
+        if cur_id in [i.get("ti_id") for i in data]:
+            eratta[cur_id] = {}
+            for k in all_rows:
+                if wanted.get(k).get(nr):
+                    eratta[cur_id][k] = wanted.get(k).get(nr)
+        else:
+            #print(f"{cur_id} not found in {DBNL_AANLEVER}")
+            pass
+
+    # for item in data:
+    #    if not item.get('ti_id') in eratta:
+    #        print(f"{item.get('ti_id')} not in {LUCAS_AANLEVER}")
+
+    return eratta
+
+
+def parse_student_aanlever():
+    all_data = {}
+
+    for f in os.listdir(STUDENTEN_DIR):
+        if f.find("lock") > -1:
+            continue
+        all_data[f.replace("_geannoteerd.xlsx", "")] = []
+        fn = STUDENTEN_DIR + "/" + f
+        df = pd.read_excel(fn)
+        data = json.loads(df.to_json())
+        parse = {}
+
+        for k in data.keys():
+            parse[str(k)] = list(data.get(k).values())
+
+        all_ids = set([i for i in range(0, len(parse["id"]))])
+
+        is_pref = []
+        for v, c in enumerate(parse["is_prefered"]):
+            if c:
+                is_pref.append(v)
+                if v in all_ids:
+                    all_ids.remove(v)
+
+        is_new = []
+        for v, c in enumerate(parse["is_new"]):
+            if c:
+                is_new.append(v)
+                if v in all_ids:
+                    all_ids.remove(v)
+
+        is_error = []
+        for v, c in enumerate(parse["is_error"]):
+            if c:
+                is_error.append(v)
+                if v in all_ids:
+                    all_ids.remove(v)
+
+        all_speakers = {}
+
+        new_list = []
+        speaker_list = []
+        for i in is_pref:
+            if not i in is_new:
+                all_speakers[parse["id"][i]] = {
+                    "gender": parse["gender (Male/Female/Unknown/Other)"][i],
+                    "speaker_variant": parse["speaker_variant"][i],
+                }
+                speaker_list.append(
+                    {
+                        parse["id"][i]: {
+                            "gender": parse["gender (Male/Female/Unknown/Other)"][i],
+                            "speaker_variant": parse["speaker_variant"][i],
+                        }
+                    }
+                )
+            else:
+                all_speakers[parse["new_id"][i]] = {
+                    "gender": parse["gender (Male/Female/Unknown/Other)"][i],
+                    "speaker_variant": parse["speaker_variant"][i],
+                }
+                new_list.append(
+                    {
+                        parse["new_id"][i]: {
+                            "gender": parse["gender (Male/Female/Unknown/Other)"][i],
+                            "speaker_variant": parse["speaker_variant"][i],
+                        }
+                    }
+                )
+
+        rename_list = []
+        for i in all_ids:
+            if not parse["id"][i] == parse["new_id"][i]:
+                if parse["new_id"][i]:
+                    rename_list.append(
+                        [
+                            parse["id"][i],
+                            parse["new_id"][i],
+                            all_speakers.get(parse["new_id"][i]),
+                        ]
+                    )
+
+        all_data[f.replace("_geannoteerd.xlsx", "")] = {
+            "new": new_list,
+            "speak": speaker_list,
+            "rename": rename_list,
+            "all": all_speakers,
+        }
+    return all_data
+
+
+def speaker_filter(speakerlist: set, newspeaker: str) -> set | tuple:
+    newspeaker = escape(newspeaker)
+
+    """
+    #Realy small speakernames are allowed.
+    if len(newspeaker) < 2:
+        return speakerlist
+    """
+
+    if newspeaker in speakerlist:
+        for speaker in speakerlist:
+            if newspeaker == speaker:
+                return speakerlist
+
+    """
+    #Disable Levenshtein for now.
+    for speaker in speakerlist:
+        if distance(speaker, newspeaker) < LEVENSTEIN_SPEAKER:
+            return newspeaker, speaker
+    """
+    speakerlist.add(newspeaker)
+    return speakerlist
+
+
+def parse_fulltext(data, cur_id, annodata):
+    rec = False
+    srec = False
+
+    speakerlist = set()
+
+    chapters = []
+    acts = []
+    plays = []
+    scenes = []
+
+    read_order = []
+
+    alias = {}
+    ctype = ""
+    nexupspeaker = False
+
+    for item in data.iter():
+        #print(item.attrib, item.tag, item.text)
+        pass
+
+    '''
+        if item.attrib.get("rend", "") == "speaker" and item.text:
+            target = item.text.strip()
+            if target.endswith("."):
+                target = target[:-1]
+            if not escape(target) in speakerlist:
+                speakerinfo = speaker_filter(speakerlist, target)
+                if type(speakerinfo) == tuple:
+                    alias[speakerinfo[0]] = speakerinfo[1]
+                else:
+                    speakerlist = speakerinfo
+                #print(speakerlist)
+
+        if item.attrib.get("rend", "") == "speaker":
+            srec = True
+
+        if item.tag == "speaker":
+            speaknow = item.text
+
+        if srec and item.text:
+            srec = False
+            if not escape(item.text.strip()) in speakerlist:
+                target = item.text.strip()
+                if target.endswith("."):
+                    target = target[:-1]
+                speakerinfo = speaker_filter(speakerlist, target)
+                if type(speakerinfo) == tuple:
+                    alias[speakerinfo[0]] = speakerinfo[1]
+                else:
+                    speakerlist = speakerinfo
+
+        if item.tag == "div":
+            if item.attrib.get("type") == "act":
+                rec = True
+                if acts:
+                    read_order.append({"act": acts, "speak": speaknow})
+                acts = [""]
+                ctype = "act"
+
+            if item.attrib.get("type") == "chapter":
+                rec = True
+                if chapters:
+                    read_order.append({"chapter": chapters, "speak": speaknow})
+                chapters = [""]
+                ctype = "chapter"
+
+            if item.attrib.get("type") == "play":
+                rec = True
+                if plays:
+                    read_order.append({"play": plays, "speak": speaknow})
+                ctype = "play"
+                plays = [""]
+
+            if item.attrib.get("type") == "scene":
+                rec = True
+                if scenes:
+                    read_order.append({"scene": scenes, "speak": speaknow})
+                ctype = "scene"
+                scenes = [""]
+
+        if rec:
+            if (
+                item.text
+                and item.attrib.get("rend", "") == "speaker"
+                and item.text.strip()
+            ):
+
+                speak_xml = '\n\t<sp who="' + escape(item.text) + '">\n'
+                speak_xml += "\n\t\t<speaker>" + escape(item.text) + "</speaker>\n"
+
+                if ctype == "chapter":
+                    if "\n".join(chapters).find("<sp who") > -1:
+                        chapters[-1] += "</sp>" + speak_xml
+                    else:
+                        chapters[-1] += speak_xml
+
+                if ctype == "act":
+                    if "\n".join(acts).find("<sp who") > -1:
+                        acts[-1] += "</sp>" + speak_xml
+                    else:
+                        acts[-1] += speak_xml
+
+                if ctype == "scene":
+                    if "\n".join(scenes).find("<sp who") > -1:
+                        scenes[-1] += "</sp>" + speak_xml
+                    else:
+                        scenes[-1] += speak_xml
+
+                if ctype == "play":
+                    if "\n".join(plays).find("<sp who") > -1:
+                        plays[-1] += "</sp>" + speak_xml
+                    else:
+                        plays[-1] += speak_xml
+                nexupspeaker = False
+            elif item.attrib.get("rend", "") == "speaker":
+                nexupspeaker = True
+            elif nexupspeaker and item.text:
+                speak_xml = '\n\t<sp who="' + escape(item.text) + '">\n'
+                speak_xml += "\n\t\t<speaker>" + escape(item.text) + "</speaker>\n"
+                nexupspeaker = False
+
+                if ctype == "chapter":
+                    if "\n".join(chapters).find("<sp who") > -1:
+                        chapters[-1] += "</sp>" + speak_xml
+                    else:
+                        chapters[-1] += "</l>\n" + speak_xml
+                if ctype == "act":
+                    if "\n".join(acts).find("<sp who") > -1:
+                        acts[-1] += "</sp>" + speak_xml
+                    else:
+                        acts[-1] += "</l>\n" + speak_xml
+                if ctype == "scene":
+                    if "\n".join(scenes).find("<sp who") > -1:
+                        scenes[-1] += "</sp>" + speak_xml
+                    else:
+                        scenes[-1] += speak_xml
+                if ctype == "play":
+                    if "\n".join(plays).find("<sp who") > -1:
+                        plays[-1] += "</sp>" + speak_xml
+                    else:
+                        plays[-1] += "</l>\n" + speak_xml
+
+            else:
+                if item.text:
+                    txt = "\t\t\t<l>" + escape(item.text) + "</l>\n"
+                    if item.text.strip():
+                        if ctype == "chapter":
+                            chapters[-1] += txt
+                        if ctype == "act":
+                            acts[-1] += txt
+                        if ctype == "play":
+                            plays[-1] += txt
+                    if ctype == "scene":
+                        if str(item.tag) == "sp":
+                            nexupspeaker = True
+                        if item.text.strip():
+                            scenes[-1] += "\t\t\t<l>" + escape(item.text) + "</l>\n"
+    '''
+    return read_order, speakerlist, alias
+
+
+data = parse_dbnl_aanlever()
+eratta = parse_lucas_aanlever(data)
+speakers = parse_student_aanlever()
+i = 0
+for item in data:
+    if item.get("ti_id") in eratta:
+        currid = item.get("ti_id")
+        fname = f"{DBNL_DIR}{os.sep}{currid}.xml"
+        if not os.path.isfile(fname):
+            #print(f"{fname} not found, skiping")
+            continue
+        fh, err = pre_remove(fname)
+        print(err, currid)
+        '''
+        fulltext = lxml.etree.fromstring(fh.read())
+        merge = {}
+        ceratta = eratta.get(currid)
+        merge["readingorder"], merge["speakerlist"], merge["alias"] = parse_fulltext(
+            fulltext, currid, speakers
+        )
+        '''
